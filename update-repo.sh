@@ -26,9 +26,12 @@ case "${1}" in
 ;;
 "make")
 
-    for FILE in translations/*.ts; do
-        lrelease ${FILE}
-    done
+    rm translations.pro
+
+    echo "TRANSLATIONS = \\" >> translations.pro
+    echo translations/*.ts >> translations.pro
+
+    lrelease ./translations.pro
 
     mkdir -p out
     mv translations/*.qm out/ || exit 1
@@ -95,8 +98,7 @@ case "${1}" in
     echo "  ." >> translations.pro
 
     echo "TRANSLATIONS = \\" >> translations.pro
-    echo "  translations/psi_en.ts\\" >> translations.pro
-    echo "  translations/psi_ru.ts" >> translations.pro
+    echo translations/*.ts >> translations.pro
 
     lupdate ./translations.pro
 
