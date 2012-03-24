@@ -1127,7 +1127,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alt+A</translation>
     </message>
     <message>
         <source>psi/addContact</source>
@@ -1798,7 +1798,7 @@ Reason: %1</source>
     <name>ChatDlg</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Форма</translation>
     </message>
     <message>
         <source>Message length</source>
@@ -2101,7 +2101,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0</translation>
     </message>
     <message>
         <source> files selected</source>
@@ -2294,7 +2294,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClearingTab</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Форма</translation>
     </message>
 </context>
 <context>
@@ -3412,11 +3412,11 @@ Proceed?</source>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Да</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Нет</translation>
     </message>
 </context>
 <context>
@@ -5138,7 +5138,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">История</translation>
     </message>
     <message>
         <source>Looking up the host</source>
@@ -5215,7 +5215,7 @@ You will lose it</source>
     </message>
     <message>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ошибка!</translation>
     </message>
     <message>
         <source>Lookup Error</source>
@@ -7047,7 +7047,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alt+A</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -7512,7 +7512,7 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Выход</translation>
     </message>
     <message>
         <source>About the game</source>
@@ -7520,11 +7520,11 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Игра</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Справка</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -7959,7 +7959,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>100</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">100</translation>
     </message>
     <message>
         <source>Roster opacity:</source>
@@ -8052,7 +8052,7 @@ Tags: %1</source>
     <name>OptAvCall</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Форма</translation>
     </message>
     <message>
         <source>Audio output:</source>
@@ -8592,7 +8592,7 @@ Tags: %1</source>
     <name>OptStatusAuto</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Форма</translation>
     </message>
     <message>
         <source>Auto status</source>
@@ -8655,7 +8655,7 @@ Tags: %1</source>
     <name>OptStatusGeneral</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Форма</translation>
     </message>
     <message>
         <source>Prompt for status message when choosing</source>
@@ -8770,7 +8770,7 @@ p, li { white-space: pre-wrap; }
     <name>OptStatusPep</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Форма</translation>
     </message>
     <message>
         <source>Tunes</source>
@@ -8831,7 +8831,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>Options</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Форма</translation>
     </message>
     <message>
         <source>Allow receiving one Attention from the same contact every</source>
@@ -10039,7 +10039,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Форма</translation>
     </message>
     <message>
         <source>General</source>
@@ -10571,7 +10571,7 @@ Please enter your passphrase below:</source>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Форма</translation>
     </message>
     <message>
         <source>@username</source>
@@ -11421,7 +11421,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Headline</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Объявление</translation>
     </message>
     <message>
         <source>There was an error trying to sign your status.
@@ -12189,7 +12189,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <name>PsiContactListViewDelegate</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -13328,7 +13328,7 @@ Description: </source>
     </message>
     <message>
         <source>%1 is now %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 теперь %2</translation>
     </message>
     <message>
         <source>Afraid</source>
@@ -13925,7 +13925,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Headline</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Объявление</translation>
     </message>
     <message>
         <source>Chat Message</source>
@@ -14013,7 +14013,7 @@ Password: %5</source>
     </message>
     <message>
         <source> is typing...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> печатает</translation>
     </message>
     <message>
         <source>%1 says:</source>
@@ -14057,15 +14057,15 @@ Password: %5</source>
     </message>
     <message>
         <source>Typing notify</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Печатает</translation>
     </message>
     <message>
         <source>Groupchat highlight</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Конференция</translation>
     </message>
     <message>
         <source>Incoming Call</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Входящий звонок</translation>
     </message>
     <message>
         <source>[Typing notify]</source>
@@ -14400,7 +14400,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RosterAvatarFrame</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Форма</translation>
     </message>
     <message>
         <source>Nick</source>
@@ -14562,7 +14562,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вы уверены?</translation>
     </message>
 </context>
 <context>
@@ -14773,7 +14773,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Отмена</translation>
     </message>
 </context>
 <context>
@@ -14953,7 +14953,7 @@ Reason: %1</source>
     <name>SkinsPlugin</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Форма</translation>
     </message>
     <message>
         <source>Preview skin</source>
@@ -16794,7 +16794,7 @@ Do you still want to close the window?</source>
     <name>options</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Форма</translation>
     </message>
     <message>
         <source>Select Sounds:</source>
@@ -17368,7 +17368,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>yandexnarodManageClass</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Форма</translation>
     </message>
     <message>
         <source>Get Filelist</source>
