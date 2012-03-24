@@ -1,6 +1,9 @@
 This is the special repository with translations for the Psi+ project:
   http://code.google.com/p/psi-dev/
 
+Translations are developing via web service Transifex:
+  https://www.transifex.net/projects/p/psi-plus/
+
 Full list of currently available translations and their status you can found on
 the Transifex web service:
   https://www.transifex.net/projects/p/psi-plus/r/all-resources/
