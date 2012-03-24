@@ -101,6 +101,11 @@ case "${1}" in
     lupdate ./translations.pro
 
 ;;
+"tr_cl")
+
+    lupdate -no-obsolete ./translations.pro
+
+;;
 "tr_push")
 
     LANG_DIR="${MAIN_DIR}/psi-plus-i18n_transifex/translations/psi-plus.full/"
@@ -137,7 +142,7 @@ case "${1}" in
 
     echo "Usage:"
     echo "  up push make install"
-    echo "  tr tr_up tr_push tr_co"
+    echo "  tr tr_up tr_cl tr_push tr_co"
 
 ;;
 esac
