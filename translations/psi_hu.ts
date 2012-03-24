@@ -4,8 +4,8 @@
 <context>
     <name>@default</name>
     <message>
-        <location filename="../src/aboutdlg.cpp" line="+40"/>
-        <location filename="../src/translationmanager.cpp" line="+161"/>
+        <location filename="../../psi-plus/src/aboutdlg.cpp" line="+42"/>
+        <location filename="../../psi-plus/src/translationmanager.cpp" line="+161"/>
         <source>language_name</source>
         <translation>Magyar</translation>
     </message>
@@ -13,7 +13,7 @@
 <context>
     <name>AHCFormDlg</name>
     <message>
-        <location filename="../src/ahcformdlg.cpp" line="+65"/>
+        <location filename="../../psi-plus/src/ahcformdlg.cpp" line="+65"/>
         <location line="+38"/>
         <source>Finish</source>
         <translation>Befejezés</translation>
@@ -29,15 +29,7 @@
         <translation>Következő</translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation type="obsolete">Mégse</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">Ok</translation>
-    </message>
-    <message>
-        <location filename="../src/ahcformdlg.ui" line="+14"/>
+        <location filename="../../psi-plus/src/ahcformdlg.ui" line="+14"/>
         <source>Form</source>
         <translation>Űrlap</translation>
     </message>
@@ -45,7 +37,7 @@
 <context>
     <name>AHCommandDlg</name>
     <message>
-        <location filename="../src/ahcommanddlg.ui" line="+14"/>
+        <location filename="../../psi-plus/src/ahcommanddlg.ui" line="+14"/>
         <source>Form</source>
         <translation>Űrlap</translation>
     </message>
@@ -55,87 +47,31 @@
         <translation>Parancs:</translation>
     </message>
     <message>
-        <location filename="../src/ahcommanddlg.cpp" line="+128"/>
+        <location filename="../../psi-plus/src/ahcommanddlg.cpp" line="+128"/>
         <source>Execute</source>
         <translation>Végrehajtás</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="obsolete">Bezár</translation>
     </message>
 </context>
 <context>
     <name>AboutDlg</name>
     <message>
-        <location filename="../src/about.ui" line="+253"/>
+        <location filename="../../psi-plus/src/about.ui" line="+269"/>
         <source>&amp;Close</source>
         <translation>&amp;Bezár</translation>
     </message>
     <message>
-        <source>&lt;div align=&quot;center&quot;&gt;http://psi-im.org&lt;/div&gt;</source>
-        <translation type="obsolete">&lt;div align=&quot;center&quot;&gt;http://psi-im.org&lt;/div&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;*** Warning! ***&lt;/h3&gt;
-This is unfinished software. It has been released so that interested users can try it out and perhaps follow its development. It is not guaranteed to be bugfree, although many people consider it quite stable.
-&lt;br&gt;&lt;br&gt;
-One day it will be finished. Until then, don&apos;t count on every Jabber feature to work. If you want to help make Psi better, offer your services on our forum or mailing list.
-&lt;br&gt;&lt;br&gt;
-Note: quite a few options/features appear &quot;grayed out&quot;. They indicate planned features that are not in the program yet.
-&lt;br&gt;&lt;br&gt;
-Now that this is out of the way, enjoy Psi!</source>
-        <translation type="obsolete">&lt;h3&gt;*** Figyelmeztetés! ***&lt;/h3&gt;
-Ez egy félkész program. Azért lett közzétéve, hogy az érdeklődők ki tudják próbálni, és követhessék a fejlesztését. Nincs garancia, hogy hibamentes, habár sokan elég stabilnak tartják.
-&lt;br&gt;&lt;br&gt;
-Egy nap be lesz fejezve. Addig ne számíts rá, hogy minden Jabber funkció működni fog. Ha segíteni akarsz a Psi fejlesztésében, jelentkezz a fórumunkon vagy a levelező listánkon.
-&lt;br&gt;&lt;br&gt;
-Megjegyzés: néhány opció ki van &quot;szürkítve&quot;. Ezek azt jelzik, hogy tervbe lettek véve, de még nincsenek a programban.
-&lt;br&gt;&lt;br&gt;
-</translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;&lt;b&gt;%1 v%2&lt;/b&gt;&lt;/h3&gt;</source>
-        <translation type="obsolete">&lt;h3&gt;&lt;b&gt;%1 v%2&lt;/b&gt;&lt;/h3&gt;</translation>
-    </message>
-    <message>
-        <source>A cross-platform Jabber client designed for the Jabber power user.&lt;br&gt;
-&lt;br&gt;
-Copyright (C) 2001 - 2004 by Justin Karneges&lt;br&gt;
-</source>
-        <translation type="obsolete">Egy többplatformú kliens program Jabber-hez.&lt;br&gt;
-&lt;br&gt;
-Copyright (C) 2001 - 2004 Justin Karneges&lt;br&gt;</translation>
-    </message>
-    <message>
-        <source>A cross-platform Jabber client designed for the Jabber power user.&lt;br&gt;
-&lt;br&gt;
-Copyright (C) 2001 - 2005 by Justin Karneges&lt;br&gt;
-</source>
-        <translation type="obsolete">Egy többplatformú kliens program Jabber-hez.&lt;br&gt;
-&lt;br&gt;
-Copyright (C) 2001 - 2005 Justin Karneges&lt;br&gt;</translation>
-    </message>
-    <message>
-        <location line="-183"/>
+        <location line="-253"/>
+        <location line="+54"/>
         <source>About</source>
         <translation>Névjegy</translation>
     </message>
     <message>
-        <location line="-54"/>
-        <source>About Psi</source>
-        <translation>Psi névjegye</translation>
-    </message>
-    <message>
-        <source>Author, Lead Developer</source>
-        <translation type="obsolete">Szerző, vezető fejlesző</translation>
-    </message>
-    <message>
-        <location line="+133"/>
+        <location line="+79"/>
         <source>Authors</source>
         <translation>Alkotók</translation>
     </message>
     <message>
-        <location filename="../src/aboutdlg.cpp" line="+60"/>
+        <location filename="../../psi-plus/src/aboutdlg.cpp" line="+112"/>
         <source>Bug Tracker Management</source>
         <translation>Bug Tracker menedzselése</translation>
     </message>
@@ -145,13 +81,9 @@ Copyright (C) 2001 - 2005 Justin Karneges&lt;br&gt;</translation>
         <translation>Szerkezet összeállítás, mindenféle segítség</translation>
     </message>
     <message>
-        <location line="-28"/>
+        <location line="-80"/>
         <source>Current Maintainer and Original Author</source>
         <translation>Jelenlegi karbantartó és eredeti szerző</translation>
-    </message>
-    <message>
-        <source>Lead Developer and Past Maintainer</source>
-        <translation type="obsolete">Vezető fejlesztő és régebbi karbantartó</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -160,70 +92,25 @@ Copyright (C) 2001 - 2005 Justin Karneges&lt;br&gt;</translation>
         <translation>Fejlesztő</translation>
     </message>
     <message>
-        <source>End User Documentation</source>
-        <translation type="obsolete">Dokumentáció végfelhasználóknak</translation>
-    </message>
-    <message>
-        <source>Founder and Original Author</source>
-        <translation type="obsolete">Kitaláló és eredeti szerző</translation>
-    </message>
-    <message>
-        <location line="+19"/>
+        <location line="+71"/>
         <location line="+3"/>
         <source>Graphics</source>
         <translation>Grafika</translation>
     </message>
     <message>
-        <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:noone@nowhere.com&quot;&gt;nowhere@nowhere.com&lt;/a&gt; &lt;note text=&quot;replace with your email&quot;&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://blah.com&quot;&gt;http://blah.com&lt;/a&gt; &lt;note text=&quot;write your site URL here&quot;&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Jabber: &lt;a href=&quot;jabber:blah@jabber.org&quot;&gt;blah@jabber.org &lt;note text=&quot;write your JID here&quot;&gt;&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Translator &lt;note text=&quot;write description for the work, you&apos;ve done&quot;&gt;&lt;br&gt;
-&lt;br&gt;
-&lt;note text=&quot;you can add as many people here as you want&quot;&gt;
-
-&lt;note text=&quot;and translate following text&quot;&gt;
-Join the translation team today! Go to &lt;a href=&quot;http://psi.affinix.com/forums/index.php?act=SF&amp;f=3&quot;&gt;http://psi.affinix.com/forums/index.php?act=SF&amp;f=3&lt;/a&gt; for further details!
-</source>
-        <translation type="obsolete">Fordította: Balázs Gábor&lt;br&gt;
-Verzió: 0.1&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Email: &lt;a href=&quot;mailto:bado@uw.hu&quot;&gt;bado@uw.hu&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;JID: &lt;a href=&quot;jabber:bado@jabber.hu&quot;&gt;bado@jabber.hu&lt;/a&gt;&lt;br&gt;
-
-Ha bármi észrevételed van (helyesírási hiba, valamit rosszul fordítottam, vagy nem magyaros), írj kérlek a fenti címek valamelyikére!&lt;br&gt;
-Csatlakozz a fordító csapathoz! Látogasd meg a &lt;a href=&quot;http://psi.affinix.com/forums/index.php?act=SF&amp;f=3&quot;&gt;http://psi.affinix.com/forums/index.php?act=SF&amp;f=3&lt;/a&gt; lapot tovább információkért!
-</translation>
-    </message>
-    <message>
-        <source>Lead Developer</source>
-        <translation type="obsolete">Vezető fejlesztő</translation>
-    </message>
-    <message>
-        <location filename="../src/about.ui" line="+57"/>
+        <location filename="../../psi-plus/src/about.ui" line="+57"/>
         <source>License</source>
         <translation>Licensz</translation>
     </message>
     <message>
-        <location filename="../src/aboutdlg.cpp" line="+6"/>
+        <location filename="../../psi-plus/src/aboutdlg.cpp" line="+6"/>
         <source>Mac OS X Port</source>
         <translation>Mac OS X felület</translation>
-    </message>
-    <message>
-        <source>MacOS X Port</source>
-        <translation type="obsolete">MacOS X felület</translation>
     </message>
     <message>
         <location line="-12"/>
         <source>Many icons are from his Crystal icon theme</source>
         <translation>Sok ikon az ő Crystal ikon témájából származik</translation>
-    </message>
-    <message>
-        <source>Miscellaneous Developer</source>
-        <translation type="obsolete">Mindenfélét fejlesztő</translation>
-    </message>
-    <message>
-        <source>Miscellaneous developer</source>
-        <translation type="obsolete">Mindenfélét fejlesztő</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -236,7 +123,7 @@ Csatlakozz a fordító csapathoz! Látogasd meg a &lt;a href=&quot;http://psi.af
         <translation>Eredeti Mac felület</translation>
     </message>
     <message>
-        <location line="-37"/>
+        <location line="-89"/>
         <source>Past Lead Developer and Maintainer</source>
         <translation type="unfinished"></translation>
     </message>
@@ -246,33 +133,22 @@ Csatlakozz a fordító csapathoz! Látogasd meg a &lt;a href=&quot;http://psi.af
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+49"/>
+        <location line="+101"/>
         <source>Patches</source>
         <translation>Program-foltozások</translation>
     </message>
     <message>
-        <source>Project Lead/Maintainer</source>
-        <translation type="obsolete">Project vezető/karbantartó</translation>
-    </message>
-    <message>
-        <source>Stellar2 Iconsets, Graphics Design</source>
-        <translation type="obsolete">Stellar2 ikoncsomag, grafikai tervezés</translation>
+        <location filename="../../psi-plus/src/about.ui" line="-164"/>
+        <source>psi/psiplus_logo</source>
+        <translation type="unfinished"></translation>
     </message>
     <message utf8="true">
+        <location line="+64"/>
         <source>A cross-platform Jabber client designed for the Jabber power user.&lt;br&gt;
 &lt;br&gt;
-Copyright © 2001-2009 The Psi Team.&lt;br&gt;
+Copyright © 2001-2012 The Psi Team.&lt;br&gt;
 </source>
-        <translatorcomment>How to translate power user?!</translatorcomment>
-        <translation type="obsolete">Egy krossz-platform Jabber kliens, kemény Jabber felhasználóknak tervezve.&lt;br&gt;</translation>
-    </message>
-    <message utf8="true">
-        <location filename="../src/about.ui" line="-100"/>
-        <source>A cross-platform Jabber client designed for the Jabber power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2010 The Psi Team.&lt;br&gt;
-</source>
-        <translation>Egy több-platformon futó Jabber kliens.&lt;br&gt; {2001-2010 ?}</translation>
+        <translation type="unfinished">Egy több-platformon futó Jabber kliens.&lt;br&gt; {2001-2010 ?} {2001-2012 ?}</translation>
     </message>
     <message>
         <location line="+59"/>
@@ -285,36 +161,104 @@ Copyright © 2001-2010 The Psi Team.&lt;br&gt;
         <translation>Fordítás</translation>
     </message>
     <message>
-        <source>Warning</source>
-        <translation type="obsolete">Figyelmeztetés</translation>
+        <location line="+45"/>
+        <source>About Psi+</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/aboutdlg.cpp" line="-6"/>
+        <location filename="../../psi-plus/src/aboutdlg.cpp" line="-6"/>
         <source>Webmaster, Marketing</source>
         <translation>Webmester, Marketing</translation>
     </message>
     <message>
-        <source>Widget developer, GUI design and some core things</source>
-        <translation type="obsolete">Bütykölő, GUI tervező és programmag dolgok</translation>
-    </message>
-    <message>
-        <location filename="../src/about.ui" line="-59"/>
+        <location filename="../../psi-plus/src/about.ui" line="-104"/>
         <location line="+3"/>
         <source>http://psi-im.org</source>
         <translation>http://psi-im.org</translation>
     </message>
     <message>
-        <location line="-83"/>
-        <source>psi/logo_48</source>
-        <translation>psi/logo_48</translation>
-    </message>
-    <message>
-        <location filename="../src/aboutdlg.cpp" line="-40"/>
+        <location filename="../../psi-plus/src/aboutdlg.cpp" line="-92"/>
         <source>Lead Widget Developer</source>
         <translation>Vezető Widget Fejlesztő</translation>
     </message>
     <message>
         <location line="+13"/>
+        <source>Active project members are presents below:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Founder, Patcher and MS Windows x86 Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Founder and Lead Patcher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Founder, Designer and Patcher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <location line="+30"/>
+        <source>Patcher and Plugins Writer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-27"/>
+        <source>Designer and Patcher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Patcher, Plugins Writer and Fedora Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Patcher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Ubuntu Packager and Patcher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Mandriva Linux Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Patcher and Russian localization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Psimedia Patcher and English localization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Mac OS X Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>OpenSUSE Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
         <source>Language coordinator, miscellaneous assistance</source>
         <translation>Nyelvi koordinátor, vegyes támogatás</translation>
     </message>
@@ -358,7 +302,7 @@ Csatlakozz a fordítókhoz! További információért látogasd meg a &lt;a href
 <context>
     <name>AccountAdd</name>
     <message>
-        <location filename="../src/accountadd.ui" line="+16"/>
+        <location filename="../../psi-plus/src/accountadd.ui" line="+16"/>
         <source>Add Account</source>
         <translation>Fiók hozzáadása</translation>
     </message>
@@ -405,7 +349,7 @@ Jelöld be az &lt;b&gt;Új fiók regisztrálása&lt;/b&gt; dobozt, ha szeretnél
 <context>
     <name>AccountAddDlg</name>
     <message>
-        <location filename="../src/accountadddlg.cpp" line="+43"/>
+        <location filename="../../psi-plus/src/accountadddlg.cpp" line="+46"/>
         <source>Check this option if you don&apos;t yet have a Jabber account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
         <translation>Ezt az opciót akkor jelöld be, ha még nincs Jabber fiókod, de szeretnél regisztrálni egyet. Csak olyan szervereken működik amelyek támogatják a névtelen regisztrációt.</translation>
     </message>
@@ -416,43 +360,9 @@ Jelöld be az &lt;b&gt;Új fiók regisztrálása&lt;/b&gt; dobozt, ha szeretnél
     </message>
 </context>
 <context>
-    <name>AccountAddUI</name>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="obsolete">&amp;Hozzáad</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
-&lt;br&gt;
-Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing Jabber account then leave this box unchecked.</source>
-        <translation type="obsolete">&lt;qt&gt;Válassz egy &lt;b&gt;nevet&lt;/b&gt;, amivel a Psi azonosíthatja ezt a fiókot.&lt;br&gt;&lt;br&gt;
-Jelöld be az &lt;b&gt;Új felhasználó létrehozását&lt;/b&gt;, ha létre akarsz hozni egy újat. Ha már van Jabber felhasználód, hagyd jelöletlenül.</translation>
-    </message>
-    <message>
-        <source>Add Account</source>
-        <translation type="obsolete">Fiók hozzáadása</translation>
-    </message>
-    <message>
-        <source>Alt+A</source>
-        <translation type="obsolete">Alt+A</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation type="obsolete">Név:</translation>
-    </message>
-    <message>
-        <source>Register new account</source>
-        <translation type="obsolete">Új felhasználó létrehozása</translation>
-    </message>
-</context>
-<context>
     <name>AccountLoginPassword</name>
     <message>
-        <location filename="../src/accountloginpassword.cpp" line="+44"/>
+        <location filename="../../psi-plus/src/accountloginpassword.cpp" line="+44"/>
         <source>Please enter the password for %1:</source>
         <translation>Add meg a jelszót %1 számára:</translation>
     </message>
@@ -470,7 +380,7 @@ Jelöld be az &lt;b&gt;Új felhasználó létrehozását&lt;/b&gt;, ha létre ak
 <context>
     <name>AccountManage</name>
     <message>
-        <location filename="../src/accountmanage.ui" line="+14"/>
+        <location filename="../../psi-plus/src/accountmanage.ui" line="+14"/>
         <source>Jabber Accounts</source>
         <translation>Jabber fiókok</translation>
     </message>
@@ -514,51 +424,27 @@ Jelöld be az &lt;b&gt;Új felhasználó létrehozását&lt;/b&gt;, ha létre ak
         <source>psi/remove</source>
         <translation>psi/remove</translation>
     </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
-    </message>
-    <message>
-        <source>Alt+C</source>
-        <translation type="obsolete">Alt+C</translation>
-    </message>
 </context>
 <context>
     <name>AccountManageDlg</name>
     <message>
-        <location filename="../src/accountmanagedlg.cpp" line="+284"/>
+        <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="+289"/>
         <source>Active</source>
         <translation>Aktív</translation>
     </message>
     <message>
-        <source>Disable Account</source>
-        <translation type="obsolete">Felhasználó letiltása</translation>
-    </message>
-    <message>
-        <location line="+82"/>
+        <location line="+121"/>
+        <location line="+5"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location line="-82"/>
+        <location line="-126"/>
         <source>Not active</source>
         <translation>Inaktív</translation>
     </message>
     <message>
-        <source>The account is currently active.
-Do you want to log out ?</source>
-        <translation type="obsolete">A fiók aktív. Ki akarsz jelentkezni?</translation>
-    </message>
-    <message>
-        <source>Unable to disable the account, as it has pending events.</source>
-        <translation type="obsolete">Nem lehet letiltani a fiókot, mert még van várakozó eseménye.</translation>
-    </message>
-    <message>
-        <source>Unable to remove the account, as it is currently active.</source>
-        <translation type="obsolete">Nem lehet törölni a fiókot, mert aktív.</translation>
-    </message>
-    <message>
-        <location line="+82"/>
+        <location line="+126"/>
         <source>Please disconnect before removing the account.</source>
         <translation>Kapcsolódj le mielőtt törlöd a fiókot.</translation>
     </message>
@@ -569,44 +455,9 @@ Do you want to log out ?</source>
     </message>
 </context>
 <context>
-    <name>AccountManageUI</name>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="obsolete">&amp;Hozzáad</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
-    </message>
-    <message>
-        <source>&amp;Modify</source>
-        <translation type="obsolete">&amp;Módosít</translation>
-    </message>
-    <message>
-        <source>Jabber Accounts</source>
-        <translation type="obsolete">Jabber fiókok</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="obsolete">Név</translation>
-    </message>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="obsolete">&amp;Töröl</translation>
-    </message>
-    <message>
-        <source>Server</source>
-        <translation type="obsolete">Szerver</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="obsolete">Állapot</translation>
-    </message>
-</context>
-<context>
     <name>AccountModify</name>
     <message>
-        <location filename="../src/accountmodify.ui" line="+14"/>
+        <location filename="../../psi-plus/src/accountmodify.ui" line="+14"/>
         <source>Account Properties</source>
         <translation>Fiók beállitások</translation>
     </message>
@@ -633,12 +484,12 @@ Do you want to log out ?</source>
     </message>
     <message>
         <location line="+20"/>
-        <location line="+858"/>
+        <location line="+868"/>
         <source>Password:</source>
         <translation>Jelszó:</translation>
     </message>
     <message>
-        <location line="-844"/>
+        <location line="-854"/>
         <source>Change...</source>
         <translation>Változtatás...</translation>
     </message>
@@ -656,6 +507,11 @@ Do you want to log out ?</source>
         <location line="+7"/>
         <source>Automatically connect after sleep</source>
         <translation>Automatikus csatlakozás újraindulás után</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Restore last status</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
@@ -769,18 +625,18 @@ Do you want to log out ?</source>
     </message>
     <message>
         <location line="+15"/>
-        <location line="+317"/>
+        <location line="+320"/>
         <source>Host:</source>
         <translation>Cím:</translation>
     </message>
     <message>
-        <location line="-307"/>
-        <location line="+317"/>
+        <location line="-310"/>
+        <location line="+320"/>
         <source>Port:</source>
         <translation>Port:</translation>
     </message>
     <message>
-        <location line="-284"/>
+        <location line="-287"/>
         <source>Encrypt connection:</source>
         <translation>Kapcsolat titkosítása:</translation>
     </message>
@@ -810,22 +666,17 @@ Do you want to log out ?</source>
         <translation>Egyéb</translation>
     </message>
     <message>
-        <location line="+6"/>
-        <source>Use hostname as resource</source>
-        <translation>A címnév forrásként használata</translation>
+        <location line="+38"/>
+        <source>Default priority:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+15"/>
+        <location line="-30"/>
         <source>Resource:</source>
         <translation>Erőforrás:</translation>
     </message>
     <message>
-        <location line="+17"/>
-        <source>Priority:</source>
-        <translation>Prioritás:</translation>
-    </message>
-    <message>
-        <location line="+31"/>
+        <location line="+64"/>
         <source>Data Transfer</source>
         <translation type="unfinished"></translation>
     </message>
@@ -840,10 +691,6 @@ Do you want to log out ?</source>
         <translation type="unfinished">Proxy:</translation>
     </message>
     <message>
-        <source>Data Transfer Proxy:</source>
-        <translation type="obsolete">Proxy a fájlátvitelhez:</translation>
-    </message>
-    <message>
         <location line="+15"/>
         <source>STUN/TURN</source>
         <translation>STUN/TURN</translation>
@@ -855,45 +702,25 @@ Do you want to log out ?</source>
         <translation>Felhasználónév:</translation>
     </message>
     <message>
-        <source>STUN Host:</source>
-        <translation type="obsolete">STUN gazda:</translation>
-    </message>
-    <message>
         <location line="-18"/>
         <source>Authenticate as:</source>
         <translation>Hitelesítés, mint:</translation>
-    </message>
-    <message>
-        <source>User:</source>
-        <translation type="obsolete">Felhasználó:</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Realm:</source>
         <translation>Tartomány:</translation>
     </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
-    </message>
-    <message>
-        <source>&amp;Save</source>
-        <translation type="obsolete">&amp;Ment</translation>
-    </message>
-    <message>
-        <source>Alt+S</source>
-        <translation type="obsolete">Alt+S</translation>
-    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
     <message>
-        <location filename="../src/accountmodifydlg.cpp" line="+481"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="+494"/>
         <source>&lt;i&gt;Jabber ID&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
         <translation>&lt;i&gt;Jabber ID&lt;/i&gt;nek meghatározott formája van: &lt;i&gt;felhasználó@host&lt;/i&gt;.</translation>
     </message>
     <message>
-        <location line="-230"/>
+        <location line="-231"/>
         <source>&lt;p&gt;You can have multiple clients connected to the Jabber server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your Jabber client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Egyszerre több kapcsolatod lehet a Jabber szerverhez egy felhasználóval. Ebben az esetben, a magasabb prioritású kliens (amit itt tudsz beállítani) fogadja az összes bejövő üzenetet.&lt;/p&gt;&lt;p&gt;Például, ha van egy állandó kapcsolatod az internethez a munkahelyeden, és van egy dial-up-os neted otthon, futhat állandóan egy Jabber kliens a munkahelyedről alacsony prioritással, és ugyanezzel a felhasználóval bejelentkezhetsz otthonról egy magasabb prioritással, így az üzeneteket otthon fogadod, és átmenetileg &quot;letiltja&quot; az alacsonyabb prioritásút a munkahelyeden.&lt;/p&gt;</translation>
     </message>
@@ -903,17 +730,9 @@ Do you want to log out ?</source>
         <translation>A fiók automatikus bejelentezése a Psi indításakor. Célszerű a Psi-t automatikusan futtatni, ha csatlakozol az internetre.</translation>
     </message>
     <message>
-        <location line="+200"/>
+        <location line="+201"/>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
         <translation>Nem lehet az SSL/TLS-t engedélyezni. Nem találom a plugint.</translation>
-    </message>
-    <message>
-        <source>Check this option if you want Psi to remember your Jabber account password. Don&apos;t use this feature if you want maximum security and don&apos;t want to be compromised even if someone would break in your system and steal your configuration files.</source>
-        <translation type="obsolete">Kapcsold be, ha azt akarod, hogy a Psi elmentse a Jabber felhasználód jelszavát. Ne haszáld, ha maximális biztonságot szeretnél elérni, és nem szeretnéd hogyha valaki betörve a rendszeredbe, ellophassa a konfigurációs fájlokat.</translation>
-    </message>
-    <message>
-        <source>Check this option to use an encrypted SSL connection to the Jabber server.  You may use this option if your server supports it and if you have the necessary QSSL plugin installed.  For more information, check the Psi homepage.</source>
-        <translation type="obsolete">Kapcsold be ezt, ha SSL-el titkosított kapcsolattal akarsz a Jabber szerverhez kapcsolódni. Ezt akkor tudod megtenni, ha a szerver támogatja, és nálad telepítve van a QSSL kiegészítő. További információért látogasd meg a Psi honlapját.</translation>
     </message>
     <message>
         <location line="-8"/>
@@ -923,11 +742,7 @@ Do you want to log out ?</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <source>Ignores all the SSL warnings, for example, about incorrect certificates.  Useful if your server doesn&apos;t use a validated SSL certificate and you are annoyed with warnings.</source>
-        <translation type="obsolete">Figyelmen kívül hagyja az SSL figyelmeztetéseket érvénytelen bizonyítványokról. Ez akkor lehet hasznos, ha a szervered nem egy érvényesített bizonyítványt használ, és idegesítenek a figyelmeztetések.</translation>
-    </message>
-    <message>
-        <location line="-263"/>
+        <location line="-264"/>
         <source>Keep a log of message history.  Disable this option if you want to conserve disk space or if you need maximum security.</source>
         <translation>Naplót vezet az üzenetekről. Tiltsd le, ha lemezterületet akarsz spórolni, vagy maximális biztonságot szeretnél.</translation>
     </message>
@@ -937,17 +752,17 @@ Do you want to log out ?</source>
         <translation>A Psi újra próbál csatlakozni, ha a kapcsolat megszakadt. Hasznos, ha nincs stabil kapcsolatod, és gyakran kell újracsatlakoznod.</translation>
     </message>
     <message>
-        <location line="+155"/>
+        <location line="+156"/>
         <source>No Key Selected</source>
         <translation>Nincs kulcs kiválasztva</translation>
     </message>
     <message>
-        <location line="-169"/>
+        <location line="-170"/>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the Jabber server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
         <translation>Alapesetben a Psi a &lt;i&gt;digest&lt;/i&gt; hitelesitési eljárást alkalmazza. Jelöld ezt be, hogy egyszerű (plain) eljárással kapcsolódjon a Jabber szerverhez. Ezt az opciót csak akkor használd, ha problémák adódnak a normális bejelentkezéssel, mert ez potenciálisan sebezhetővé teszi a kapcsolatodat a támadásokkal szemben.</translation>
     </message>
     <message>
-        <location line="+207"/>
+        <location line="+208"/>
         <source>SSL error</source>
         <translation>SSL hiba</translation>
     </message>
@@ -957,40 +772,32 @@ Do you want to log out ?</source>
         <translation>Titkos kulcs</translation>
     </message>
     <message>
-        <location line="-214"/>
+        <location line="-215"/>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
         <translation>Egy ún. &quot;Keep-alive&quot; periódikus elküldésével fenntartja a kapcsolatot. Ez akkor lehet szükséges, ha automatikusan bontja a például a szolgáltatód a kapcsolatot üresjáratban.</translation>
     </message>
     <message>
-        <location line="+327"/>
+        <location line="+330"/>
         <source>This account is currently active, so certain changes may not take effect until the next login.</source>
         <translation>Ez a fiók pillanatnyilag aktív, ezért bizonyos változtatások csak a következő belejentkezésnél lépnek érvénybe.</translation>
     </message>
     <message>
-        <source>Unknown Key: %1</source>
-        <translation type="obsolete">Ismeretlen kulcs: %1</translation>
-    </message>
-    <message>
-        <location line="-312"/>
+        <location line="-315"/>
         <source>Use this option for manual configuration of your Jabber host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
         <translation>Ezzel beállíthatod kézzel a Jabber hostodat, ha az nem eggyezik meg azzal, amihez kapcsolódtál. Leginkább akkor hasznos, ha valamilyen proxy mögül csatlakozol, (például localhosthoz csatlakozol), de egy külső szerveren regisztráltál.</translation>
     </message>
     <message>
-        <location line="+311"/>
+        <location line="+314"/>
         <source>Warning</source>
         <translation>Figyelmeztetés</translation>
     </message>
     <message>
-        <location line="-305"/>
+        <location line="-308"/>
         <source>You can have multiple clients connected to the Jabber server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
         <translation>Több kapcsolatod lehet a Jabber szerverhez egy felhasználóval. Mindegyik bejelentkezést az azonosítója különbözteti meg, amit itt tudsz beállítani.</translation>
     </message>
     <message>
-        <source>You must specify a name for the account before you may save it.</source>
-        <translation type="obsolete">Meg kell adnod egy nevet a fióknak, mielőtt mentenéd.</translation>
-    </message>
-    <message>
-        <location line="-139"/>
+        <location line="-150"/>
         <location line="+7"/>
         <source>Always</source>
         <translation>Mindíg</translation>
@@ -1017,7 +824,27 @@ Do you want to log out ?</source>
         <translation>Titkosított kapcsolaton keresztül</translation>
     </message>
     <message>
-        <location line="+52"/>
+        <location line="+17"/>
+        <source>Manual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Use host name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Fixed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Depends on status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+41"/>
         <source>None</source>
         <translation>Nincs</translation>
     </message>
@@ -1067,7 +894,7 @@ Do you want to log out ?</source>
         <translation>Felhasználónév:</translation>
     </message>
     <message>
-        <location line="+128"/>
+        <location line="+129"/>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
         <translation>Legacy SSL csak manuálisan beállított cím/port beállításokkal érhető el.</translation>
     </message>
@@ -1077,7 +904,7 @@ Do you want to log out ?</source>
         <translation>A&lt;i&gt;Felhasználónév&lt;/i&gt; nem érvényes.</translation>
     </message>
     <message>
-        <location line="+73"/>
+        <location line="+75"/>
         <source>Reconnect &amp;Later</source>
         <translation>Újrakapcsolódás &amp;később</translation>
     </message>
@@ -1113,172 +940,9 @@ Do you want to log out ?</source>
     </message>
 </context>
 <context>
-    <name>AccountModifyUI</name>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
-    </message>
-    <message>
-        <source>&amp;Save</source>
-        <translation type="obsolete">&amp;Ment</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;Click the button below to change your password on the server.&lt;/qt&gt;</source>
-        <translation type="obsolete">&lt;qt&gt;Kattints a lenti gombra, a jelszó megváltoztatásához a szerveren.&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;Information about you is stored as a VCard on the server, which other people can retrieve at any time.&lt;/qt&gt;</source>
-        <translation type="obsolete">&lt;qt&gt;Az információk rólad VCard-ként vannak eltárolva, amit mások bármikor lekérdezhetnek.&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>Account</source>
-        <translation type="obsolete">Fiók</translation>
-    </message>
-    <message>
-        <source>Account Properties</source>
-        <translation type="obsolete">Fiók beállitásai</translation>
-    </message>
-    <message>
-        <source>Advanced</source>
-        <translation type="obsolete">Haladó</translation>
-    </message>
-    <message>
-        <source>Allow Plaintext Login</source>
-        <translation type="obsolete">Plaintext belejentkezés engedélyezése</translation>
-    </message>
-    <message>
-        <source>Automatically connect on startup</source>
-        <translation type="obsolete">Automatikus kapcsolódás indításkor</translation>
-    </message>
-    <message>
-        <source>Automatically reconnect if disconnected</source>
-        <translation type="obsolete">Automatikus újrakapcsolódás, ha megszakadt a kapcsolat</translation>
-    </message>
-    <message>
-        <source>Change &amp;Password...</source>
-        <translation type="obsolete">&amp;Jelszó megváltoztatása</translation>
-    </message>
-    <message>
-        <source>Change...</source>
-        <translation type="obsolete">Változtat...</translation>
-    </message>
-    <message>
-        <source>Connection</source>
-        <translation type="obsolete">Kapcsolat</translation>
-    </message>
-    <message>
-        <source>Data Transfer Proxy:</source>
-        <translation type="obsolete">Proxy a fájlátvitelhez:</translation>
-    </message>
-    <message>
-        <source>Details</source>
-        <translation type="obsolete">Részletek</translation>
-    </message>
-    <message>
-        <source>Edit Personal &amp;Details...</source>
-        <translation type="obsolete">Személyes &amp;beállítások</translation>
-    </message>
-    <message>
-        <source>Example: juliet@capulet.com</source>
-        <translation type="obsolete">Például: júlia@capulet.com</translation>
-    </message>
-    <message>
-        <source>Host:</source>
-        <translation type="obsolete">Cím:</translation>
-    </message>
-    <message>
-        <source>Ignore SSL warnings</source>
-        <translation type="obsolete">SSL figyelmeztetések rejtése</translation>
-    </message>
-    <message>
-        <source>Jabber ID:</source>
-        <translation type="obsolete">Jabber ID:</translation>
-    </message>
-    <message>
-        <source>Log message history</source>
-        <translation type="obsolete">Üzenetek naplózása</translation>
-    </message>
-    <message>
-        <source>Manually Specify Server Host/Port:</source>
-        <translation type="obsolete">Szerver kézi beállitása:</translation>
-    </message>
-    <message>
-        <source>Misc.</source>
-        <translation type="obsolete">Egyéb</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation type="obsolete">Név:</translation>
-    </message>
-    <message>
-        <source>OpenPGP</source>
-        <translation type="obsolete">OpenPGP</translation>
-    </message>
-    <message>
-        <source>Password</source>
-        <translation type="obsolete">Jelszó</translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="obsolete">Jelszó:</translation>
-    </message>
-    <message>
-        <source>Personal Information</source>
-        <translation type="obsolete">Személyes információk</translation>
-    </message>
-    <message>
-        <source>Port:</source>
-        <translation type="obsolete">Port:</translation>
-    </message>
-    <message>
-        <source>Preferences</source>
-        <translation type="obsolete">Egyéb</translation>
-    </message>
-    <message>
-        <source>Priority:</source>
-        <translation type="obsolete">Prioritás:</translation>
-    </message>
-    <message>
-        <source>Proxy</source>
-        <translation type="obsolete">Proxy</translation>
-    </message>
-    <message>
-        <source>Resource:</source>
-        <translation type="obsolete">Azonosító:</translation>
-    </message>
-    <message>
-        <source>Save Passphrase:</source>
-        <translation type="obsolete">Passphrase mentése:</translation>
-    </message>
-    <message>
-        <source>Save Password:</source>
-        <translation type="obsolete">Jelszó mentése:</translation>
-    </message>
-    <message>
-        <source>Select &amp;Key...</source>
-        <translation type="obsolete">&amp;Kulcs választása</translation>
-    </message>
-    <message>
-        <source>Send &quot;Keep-alive&quot; packets (for NAT timeouts)</source>
-        <translation type="obsolete">&quot;Életben tartó&quot; csomagok küldése (időtúllépés miatt)</translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation type="obsolete">Beállítások</translation>
-    </message>
-    <message>
-        <source>Use None</source>
-        <translation type="obsolete">Egyiket se</translation>
-    </message>
-    <message>
-        <source>Use SSL encryption (to server)</source>
-        <translation type="obsolete">SSL titkosítás használata (a szerverrel)</translation>
-    </message>
-</context>
-<context>
     <name>AccountReg</name>
     <message>
-        <location filename="../src/accountreg.ui" line="+13"/>
+        <location filename="../../psi-plus/src/accountreg.ui" line="+13"/>
         <source>Register Account</source>
         <translation>Új fiók regisztrálása</translation>
     </message>
@@ -1351,7 +1015,7 @@ Do you want to log out ?</source>
 <context>
     <name>AccountRegDlg</name>
     <message>
-        <location filename="../src/accountregdlg.cpp" line="+109"/>
+        <location filename="../../psi-plus/src/accountregdlg.cpp" line="+109"/>
         <source>&amp;No</source>
         <translation>&amp;Nem</translation>
     </message>
@@ -1361,17 +1025,9 @@ Do you want to log out ?</source>
         <translation>&amp;Igen</translation>
     </message>
     <message>
-        <source>&lt;i&gt;Jabber ID&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
-        <translation type="obsolete">&lt;i&gt;Jabber ID&lt;/i&gt;nek meghatározott formája van: &lt;i&gt;felhasználó@host&lt;/i&gt;.</translation>
-    </message>
-    <message>
         <location line="+0"/>
         <source>Are you sure you want to cancel the registration?</source>
         <translation>Biztosan megszakítod a regisztrációt?</translation>
-    </message>
-    <message>
-        <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation type="obsolete">Nem lehet az SSL/TLS-t engedélyezni. Nem találom a plugint.</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -1380,10 +1036,6 @@ Do you want to log out ?</source>
         <location line="+18"/>
         <source>Error</source>
         <translation>Hiba</translation>
-    </message>
-    <message>
-        <source>Password and confirmation do not match.  Please enter them again.</source>
-        <translation type="obsolete">A jelszó és a megerősítés nem eggyezik. Írd be úrja őket.</translation>
     </message>
     <message>
         <location line="-168"/>
@@ -1396,10 +1048,6 @@ Do you want to log out ?</source>
         <translation>Siker</translation>
     </message>
     <message>
-        <source>The account was registered successfully.</source>
-        <translation type="obsolete">A felhasználó sikeresen regisztrálva.</translation>
-    </message>
-    <message>
         <location line="+8"/>
         <source>There was an error registering the account.
 Reason: %1</source>
@@ -1410,10 +1058,6 @@ Reason: %1</source>
         <location line="-191"/>
         <source>Warning</source>
         <translation>Figyelmeztetés</translation>
-    </message>
-    <message>
-        <source>You must fill out the fields properly before you can register.</source>
-        <translation type="obsolete">Meg kell adnod egy nevet a fióknak, mielőtt mentenéd.</translation>
     </message>
     <message>
         <location line="-45"/>
@@ -1470,74 +1114,11 @@ Reason: %1</source>
         <source>You have successfully registered your account with Jabber ID &apos;%1&apos;</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>You have succesfully registered your account with Jabber ID &apos;%1&apos;</source>
-        <translation type="obsolete">Sikeresen létrehoztad a &apos;%1&apos; nevű Jabber ID-t</translation>
-    </message>
-</context>
-<context>
-    <name>AccountRegUI</name>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
-    </message>
-    <message>
-        <source>&amp;Register</source>
-        <translation type="obsolete">&amp;Regisztrál</translation>
-    </message>
-    <message>
-        <source>Account</source>
-        <translation type="obsolete">Felhasználó</translation>
-    </message>
-    <message>
-        <source>Advanced</source>
-        <translation type="obsolete">Haladó</translation>
-    </message>
-    <message>
-        <source>Confirm Password:</source>
-        <translation type="obsolete">Jelszó megerősítése:</translation>
-    </message>
-    <message>
-        <source>Example: juliet@capulet.com</source>
-        <translation type="obsolete">Például: júlia@capulet.com</translation>
-    </message>
-    <message>
-        <source>Host:</source>
-        <translation type="obsolete">Cím:</translation>
-    </message>
-    <message>
-        <source>Jabber ID:</source>
-        <translation type="obsolete">Jabber ID:</translation>
-    </message>
-    <message>
-        <source>Manually Specify Server Host/Port:</source>
-        <translation type="obsolete">Szerver kézi beállitása:</translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="obsolete">Jelszó:</translation>
-    </message>
-    <message>
-        <source>Port:</source>
-        <translation type="obsolete">Port:</translation>
-    </message>
-    <message>
-        <source>Proxy</source>
-        <translation type="obsolete">Proxy</translation>
-    </message>
-    <message>
-        <source>Register Account</source>
-        <translation type="obsolete">Felhasználó regisztrálása</translation>
-    </message>
-    <message>
-        <source>Use SSL encryption (to server)</source>
-        <translation type="obsolete">SSL titkosítás használata (a szerverrel)</translation>
-    </message>
 </context>
 <context>
     <name>AccountRemove</name>
     <message>
-        <location filename="../src/accountremove.ui" line="+14"/>
+        <location filename="../../psi-plus/src/accountremove.ui" line="+14"/>
         <location line="+6"/>
         <source>Remove Account</source>
         <translation>Fiók törlése</translation>
@@ -1557,23 +1138,11 @@ Reason: %1</source>
         <source>Password:</source>
         <translation>Jelszó:</translation>
     </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
-    </message>
-    <message>
-        <source>&amp;Remove</source>
-        <translation type="obsolete">&amp;Töröl</translation>
-    </message>
-    <message>
-        <source>psi/remove</source>
-        <translation type="obsolete">psi/eltávolít</translation>
-    </message>
 </context>
 <context>
     <name>AccountRemoveDlg</name>
     <message>
-        <location filename="../src/accountmanagedlg.cpp" line="-226"/>
+        <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="-271"/>
         <source>&amp;No</source>
         <translation>&amp;Nem</translation>
     </message>
@@ -1636,45 +1205,106 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>AccountRemoveUI</name>
+    <name>AccountStatusMenu</name>
     <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
+        <location filename="../../psi-plus/src/accountstatusmenu.cpp" line="+12"/>
+        <source>Choose status...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Remove</source>
-        <translation type="obsolete">&amp;Töröl</translation>
+        <location line="+0"/>
+        <source>Choose...</source>
+        <translation type="unfinished">Válassz...</translation>
     </message>
     <message>
-        <source>Password:</source>
-        <translation type="obsolete">Jelszó:</translation>
+        <location line="+13"/>
+        <source>Reconnect</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Remove Account</source>
-        <translation type="obsolete">Fiók törlése</translation>
+        <location line="+13"/>
+        <source>Ignore global actions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Remove account and try to unregister it from the server.</source>
-        <translation type="obsolete">Fiók törlése a Psi-ből, és a szerverről is.</translation>
+        <location line="+3"/>
+        <source>Ignore all global actions for this account. For example, autostatus, mood, activity etc.</source>
+        <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>ActionsList</name>
     <message>
-        <source>Remove account from Psi only.</source>
-        <translation type="obsolete">Fiók törlése csak a Psi-ből.</translation>
+        <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/actionslist.cpp" line="+35"/>
+        <source> Enable Off the Record Chat.
+When checked, the server will not
+save the history for this contact.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ActiveProfiles</name>
     <message>
-        <location filename="../src/activeprofiles_dbus.cpp" line="+230"/>
-        <location filename="../src/activeprofiles_win.cpp" line="+310"/>
+        <location filename="../../psi-plus/src/activeprofiles_dbus.cpp" line="+230"/>
+        <location filename="../../psi-plus/src/activeprofiles_win.cpp" line="+310"/>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
         <translation>Ez a psi profil már használatban van...&lt;br/&gt;kérlek várj...</translation>
     </message>
 </context>
 <context>
+    <name>Activity</name>
+    <message>
+        <location filename="../../psi-plus/src/activity.ui" line="+13"/>
+        <source>User Activity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>General:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Specific:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Description:</source>
+        <translation type="unfinished">Leírás:</translation>
+    </message>
+    <message>
+        <location line="+55"/>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Mégse</translation>
+    </message>
+</context>
+<context>
+    <name>ActivityDlg</name>
+    <message>
+        <location filename="../../psi-plus/src/activitydlg.cpp" line="+43"/>
+        <location line="+22"/>
+        <location line="+4"/>
+        <location line="+29"/>
+        <location line="+8"/>
+        <source>&lt;unset&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-17"/>
+        <source>Other</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AddUrl</name>
     <message>
-        <location filename="../src/addurl.ui" line="+16"/>
+        <location filename="../../psi-plus/src/addurl.ui" line="+16"/>
         <source>Add URL</source>
         <translation>Cím hozzáadása</translation>
     </message>
@@ -1705,48 +1335,11 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>AddUrlUI</name>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="obsolete">&amp;Ok</translation>
-    </message>
-    <message>
-        <source>Add URL</source>
-        <translation type="obsolete">URL-t hozzáad</translation>
-    </message>
-    <message>
-        <source>Alt+O</source>
-        <translation type="obsolete">Alt+O</translation>
-    </message>
-    <message>
-        <source>Description:</source>
-        <translation type="obsolete">Leírás:</translation>
-    </message>
-    <message>
-        <source>URL:</source>
-        <translation type="obsolete">URL:</translation>
-    </message>
-</context>
-<context>
     <name>AddUser</name>
     <message>
-        <location filename="../src/adduser.ui" line="+14"/>
+        <location filename="../../psi-plus/src/adduser.ui" line="+14"/>
         <source>Add Contact</source>
         <translation>Ismerős hozzáadása</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;To add a &lt;b&gt;Jabber&lt;/b&gt; user, simply fill out the Jabber ID (and optional nickname and group) at the bottom and press &lt;i&gt;Add&lt;/i&gt;.&lt;br&gt;
-&lt;br&gt;
-To add a contact from a &lt;b&gt;non-Jabber&lt;/b&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top.  Follow the instructions in the &lt;i&gt;Service ID Translation&lt;/i&gt; box and press the &lt;i&gt;Get Jabber ID&lt;/i&gt; button to generate a Jabber ID for the contact.&lt;br&gt;
-&lt;/qt&gt;</source>
-        <translation type="obsolete">&lt;qt&gt;Hogy hozzáadj egy &lt;b&gt;Jabber&lt;/b&gt; felhasználót, csak töltsd ki a Jabber Id mezőt (és opcionálisan a becenév és csoport mezőket) majd nyomd meg a &lt;i&gt;Hozzáadás&lt;/i&gt; gombot.&lt;br&gt;
-&lt;br&gt;
-Hogy felvegyél egy &lt;b&gt;nem Jabber&lt;/b&gt; felhasználót, bizonyosodj meg róla, hogy te is regisztrálva vagy az adott szolgáltatásnál (Szolgáltatások feltérképezése menüpont), és aztán válaszd ki a szolgáltatást a felső dobozból. Kövesd az utasításokat a &lt;i&gt;Szolgáltatás ID fordítása&lt;/i&gt; dobozban és nyomd meg a &lt;i&gt;Jabber ID kérése&lt;/i&gt; gombot hogy generálj egy jabber fiókot az adott felhasználónak.&lt;br&gt;
-&lt;/qt&gt;</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -1841,7 +1434,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>AddUserDlg</name>
     <message>
-        <location filename="../src/adduserdlg.cpp" line="+115"/>
+        <location filename="../../psi-plus/src/adduserdlg.cpp" line="+118"/>
         <location line="+64"/>
         <source>&lt;None&gt;</source>
         <translation>&lt;Nincs&gt;</translation>
@@ -1893,86 +1486,9 @@ Ellenőrizd hogy érvényes Jabber ID-t írtál-e be.</translation>
     </message>
 </context>
 <context>
-    <name>AddUserUI</name>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="obsolete">&amp;Hozzáad</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;To add a &lt;b&gt;Jabber&lt;/b&gt; user, simply fill out the Jabber ID (and optional nickname and group) at the bottom and press &lt;i&gt;Add&lt;/i&gt;.&lt;br&gt;
-&lt;br&gt;
-To add a contact from a &lt;b&gt;non-Jabber&lt;/b&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top.  Follow the instructions in the &lt;i&gt;Service ID Translation&lt;/i&gt; box and press the &lt;i&gt;Get Jabber ID&lt;/i&gt; button to generate a Jabber ID for the contact.&lt;br&gt;
-&lt;/qt&gt;</source>
-        <translation type="obsolete">&lt;qt&gt;Egy Jabber felhasználó hozzáadásához, csak töltsd ki a Jabber ID-t (és ha akarod a becenevet és a csoportot), majd nyomd meg a &lt;i&gt;Hozzáad&lt;/i&gt; gombot.&lt;br&gt;
-&lt;br&gt;
-Egy nem Jabber felhasználó hozzáadásához, bizonyosodj meg arról, hogy a szolgáltatás támogatott-e (lásd a Szolgáltatások listáját a főmenüből), majd válaszd ki a szolgáltatást a fennt listából. Kövesd az utasításokat a &lt;i&gt;Szolgáltatás azonosító átalakítása&lt;/i&gt; résznél, és nyomd meg a &lt;i&gt;Átír Jabber ID-be&lt;/i&gt; gombot, hogy megkapd a felhasználó Jabber ID-jét.&lt;br&gt;
-&lt;qt&gt;</translation>
-    </message>
-    <message>
-        <source>Add User</source>
-        <translation type="obsolete">Partner hozzáadása</translation>
-    </message>
-    <message>
-        <source>Alt+A</source>
-        <translation type="obsolete">Alt+A</translation>
-    </message>
-    <message>
-        <source>Close window after adding</source>
-        <translation type="obsolete">Ablak bezárása hozzáadás után</translation>
-    </message>
-    <message>
-        <source>Get Jabber ID</source>
-        <translation type="obsolete">Jabber ID lekérdezése</translation>
-    </message>
-    <message>
-        <source>Group</source>
-        <translation type="obsolete">Csoport</translation>
-    </message>
-    <message>
-        <source>Jabber</source>
-        <translation type="obsolete">Jabber</translation>
-    </message>
-    <message>
-        <source>Jabber ID</source>
-        <translation type="obsolete">Jabber ID</translation>
-    </message>
-    <message>
-        <source>Nickname (optional)</source>
-        <translation type="obsolete">Becenév (szabadon választható)</translation>
-    </message>
-    <message>
-        <source>No description</source>
-        <translation type="obsolete">Nincs leírás</translation>
-    </message>
-    <message>
-        <source>Request authorization when adding</source>
-        <translation type="obsolete">Jóváhagyás kérése hozzáadásnál</translation>
-    </message>
-    <message>
-        <source>Resolve</source>
-        <translation type="obsolete">Lekérdez</translation>
-    </message>
-    <message>
-        <source>Service ID Translation</source>
-        <translation type="obsolete">Szolgáltatás azonosító átalakítása</translation>
-    </message>
-    <message>
-        <source>Service:</source>
-        <translation type="obsolete">Szolgáltatás:</translation>
-    </message>
-</context>
-<context>
     <name>AttachView</name>
     <message>
-        <source>Attachments</source>
-        <translation type="obsolete">Mellékletek</translation>
-    </message>
-    <message>
-        <location filename="../src/eventdlg.cpp" line="+375"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="+375"/>
         <source>Copy location</source>
         <translation>Cím másolása</translation>
     </message>
@@ -1993,21 +1509,60 @@ Egy nem Jabber felhasználó hozzáadásához, bizonyosodj meg arról, hogy a sz
     </message>
 </context>
 <context>
+    <name>AttentionPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="+271"/>
+        <source> sends Attention message to you!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+139"/>
+        <location line="+82"/>
+        <source>Send Attention</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-69"/>
+        <source>Choose a sound file</source>
+        <translation type="unfinished">Válassz egy hangfájlt</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Sound (*.wav)</source>
+        <translation type="unfinished">Hangfájl (*.wav)</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <location line="+3"/>
+        <source>Attention Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>You sent Attention message to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+80"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to send and receive special messages such as Attentions.
+To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AuthEvent</name>
     <message>
-        <source>This user wants to subscribe to your presence.</source>
-        <translation type="obsolete">Ez a felhasználó látni szeretné az állapotod.</translation>
-    </message>
-    <message>
-        <source>You are now authorized.</source>
-        <translation type="obsolete">Most már fel vagy hatalmazva.</translation>
-    </message>
-    <message>
-        <source>Your authorization has been removed!</source>
-        <translation type="obsolete">A felhatalmazásodat visszavonták!</translation>
-    </message>
-    <message>
-        <location filename="../src/psievent.cpp" line="+432"/>
+        <location filename="../../psi-plus/src/psievent.cpp" line="+475"/>
         <source>%1 wants to subscribe to your presence.</source>
         <translation>%1 feliratkozna az állapotaidra.</translation>
     </message>
@@ -2023,9 +1578,138 @@ Egy nem Jabber felhasználó hozzáadásához, bizonyosodj meg arról, hogy a sz
     </message>
 </context>
 <context>
+    <name>AutoReply</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="+462"/>
+        <source>Enable</source>
+        <translation type="unfinished">Engedélyez</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Disable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Disable if chat window is active</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Disable if contact isn&apos;t from your roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Online</source>
+        <translation type="unfinished">Elérhető</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Away</source>
+        <translation type="unfinished">Nincs a gépnél</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Dnd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>XA</source>
+        <translation type="unfinished">Tétlen</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Invisible</source>
+        <translation type="unfinished">Láthatatlan</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Enable if status is:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Auto Reply Message:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>for JIDs and conferences:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>You can also specify a part of JID
+(without any additional symbols)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Disable for your accounts (specify your JIDs):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Timeout to reset counter:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>min.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Send maximum</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>times (-1=infinite)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+195"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
+* set a text message for auto-answer
+* exclude specified jids, including conferences, from the objects for auto-answer (if a jid conference is set, the exception will include all private messages)
+* disable the auto-responder for some of your accounts
+* set the number of sent auto messages
+* set the time interval after which the number of auto messages counter will be reset
+* disable the auto-responder for the active tab
+* disable the auto-responder for contacts that are not in your roster
+The list of exceptions for jids has two operating modes:
+* auto-responder is switched off for the list of exceptions, for the others is switched on (Disable mode)
+* auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AvCallEvent</name>
     <message>
-        <location line="+290"/>
+        <location filename="../../psi-plus/src/psievent.cpp" line="+290"/>
         <source>The user is calling you.</source>
         <translation>Ez a felhasználó hív téged.</translation>
     </message>
@@ -2033,7 +1717,7 @@ Egy nem Jabber felhasználó hozzáadásához, bizonyosodj meg arról, hogy a sz
 <context>
     <name>AvCallPrivate</name>
     <message>
-        <location filename="../src/avcall/avcall.cpp" line="+492"/>
+        <location filename="../../psi-plus/src/avcall/avcall.cpp" line="+497"/>
         <source>System error</source>
         <translation>Rendszer hiba</translation>
     </message>
@@ -2053,7 +1737,7 @@ Egy nem Jabber felhasználó hozzáadásához, bizonyosodj meg arról, hogy a sz
         <translation>Nem lehetséges eszköz nélkül hívást indítani. Van mikrofonod? Kukkantsd meg a beállításokat.</translation>
     </message>
     <message>
-        <location line="+178"/>
+        <location line="+163"/>
         <source>An error occurred while trying to send:
 %1.</source>
         <translation>Hibába ütköztem fájlküldés közben:
@@ -2081,9 +1765,40 @@ Egy nem Jabber felhasználó hozzáadásához, bizonyosodj meg arról, hogy a sz
     </message>
 </context>
 <context>
+    <name>AvatarDelegate</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/viewers.cpp" line="+136"/>
+        <source>Empty file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>AvatarView</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/common.cpp" line="+133"/>
+        <source>Avatar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Save Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Save Avatar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BookmarkManage</name>
     <message>
-        <location filename="../src/bookmarkmanage.ui" line="+13"/>
+        <location filename="../../psi-plus/src/bookmarkmanage.ui" line="+13"/>
         <source>Manage Bookmarks</source>
         <translation>Könyvjelzők szerkesztése</translation>
     </message>
@@ -2112,11 +1827,31 @@ Egy nem Jabber felhasználó hozzáadásához, bizonyosodj meg arról, hogy a sz
         <source>Auto-join</source>
         <translation>Automatikus csatlakozás</translation>
     </message>
+    <message>
+        <location line="+38"/>
+        <source>Import bookmarks from file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>&amp;Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Export bookmarks to file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>&amp;Export</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>BookmarkManageDlg</name>
     <message>
-        <location filename="../src/bookmarkmanagedlg.cpp" line="+44"/>
+        <location filename="../../psi-plus/src/bookmarkmanagedlg.cpp" line="+58"/>
         <source>&amp;Add</source>
         <translation>&amp;Hozzáad</translation>
     </message>
@@ -2135,11 +1870,26 @@ Egy nem Jabber felhasználó hozzáadásához, bizonyosodj meg arról, hogy a sz
         <source>Unnamed</source>
         <translation>Névtelen</translation>
     </message>
+    <message>
+        <location line="+95"/>
+        <source>Import bookmarks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Error!</source>
+        <translation type="unfinished">Hiba!</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Export bookmarks</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Call</name>
     <message>
-        <location filename="../src/avcall/call.ui" line="+13"/>
+        <location filename="../../psi-plus/src/avcall/call.ui" line="+13"/>
         <source>Dialog</source>
         <translation>Párbeszéd</translation>
     </message>
@@ -2177,12 +1927,12 @@ Egy nem Jabber felhasználó hozzáadásához, bizonyosodj meg arról, hogy a sz
 <context>
     <name>CallDlg::Private</name>
     <message>
-        <location filename="../src/avcall/calldlg.cpp" line="+65"/>
+        <location filename="../../psi-plus/src/avcall/calldlg.cpp" line="+66"/>
         <source>Voice Call</source>
         <translation>Hanghívás</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+8"/>
         <source>High (1Mbps)</source>
         <translation>Magas (1Mbps)</translation>
     </message>
@@ -2254,9 +2004,55 @@ Egy nem Jabber felhasználó hozzáadásához, bizonyosodj meg arról, hogy a sz
     </message>
 </context>
 <context>
+    <name>CaptchaDialog</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/captchaformsplugin/captchadialog.ui" line="+14"/>
+        <source>CAPTCHA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Loading data...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+49"/>
+        <source>Original message</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CaptchaFormsPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/captchaformsplugin/captchaformsplugin.cpp" line="+216"/>
+        <source>Captcha Plugin: CAPTCHA from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+70"/>
+        <source>Error! Image can not be loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+161"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>CertificateDisplay</name>
     <message>
-        <location filename="../src/Certificates/CertificateDisplay.ui" line="+14"/>
+        <location filename="../../psi-plus/src/Certificates/CertificateDisplay.ui" line="+14"/>
         <source>Certificate Information</source>
         <translation>Tanúsítvány Információk</translation>
     </message>
@@ -2289,7 +2085,7 @@ Egy nem Jabber felhasználó hozzáadásához, bizonyosodj meg arról, hogy a sz
 <context>
     <name>CertificateDisplayDialog</name>
     <message>
-        <location filename="../src/Certificates/CertificateDisplayDialog.cpp" line="+43"/>
+        <location filename="../../psi-plus/src/Certificates/CertificateDisplayDialog.cpp" line="+43"/>
         <source>The certificate is valid.</source>
         <translation>A bizonyítvány érvényes.</translation>
     </message>
@@ -2362,7 +2158,7 @@ Egy nem Jabber felhasználó hozzáadásához, bizonyosodj meg arról, hogy a sz
 <context>
     <name>ChangePassword</name>
     <message>
-        <location filename="../src/changepw.ui" line="+14"/>
+        <location filename="../../psi-plus/src/changepw.ui" line="+14"/>
         <source>Change Password</source>
         <translation>Jelszóváltoztatás</translation>
     </message>
@@ -2381,19 +2177,11 @@ Egy nem Jabber felhasználó hozzáadásához, bizonyosodj meg arról, hogy a sz
         <source>New password:</source>
         <translation>Új jelszó:</translation>
     </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
-    </message>
-    <message>
-        <source>&amp;Apply</source>
-        <translation type="obsolete">&amp;Alkalmaz</translation>
-    </message>
 </context>
 <context>
     <name>ChangePasswordDlg</name>
     <message>
-        <location filename="../src/changepwdlg.cpp" line="+79"/>
+        <location filename="../../psi-plus/src/changepwdlg.cpp" line="+82"/>
         <location line="+5"/>
         <location line="+7"/>
         <location line="+41"/>
@@ -2433,50 +2221,14 @@ Reason: %1</source>
     </message>
 </context>
 <context>
-    <name>ChangePasswordUI</name>
-    <message>
-        <source>&amp;Apply</source>
-        <translation type="obsolete">&amp;Alkalmaz</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
-    </message>
-    <message>
-        <source>Change Password</source>
-        <translation type="obsolete">Jelszó megváltoztatása</translation>
-    </message>
-    <message>
-        <source>Confirm new password:</source>
-        <translation type="obsolete">Új jelszó megerősítése:</translation>
-    </message>
-    <message>
-        <source>Current password:</source>
-        <translation type="obsolete">Jelenlegi jelszó:</translation>
-    </message>
-    <message>
-        <source>New password:</source>
-        <translation type="obsolete">Új jelszó:</translation>
-    </message>
-</context>
-<context>
     <name>ChatDlg</name>
     <message>
-        <location filename="../src/chatdlg.cpp" line="+612"/>
+        <location filename="../../psi-plus/src/chatdlg.cpp" line="+665"/>
         <source>%1 (Composing ...)</source>
         <translation>%1 (éppen ír...)</translation>
     </message>
     <message>
-        <location line="-159"/>
-        <source>%1 is %2</source>
-        <translation>%1 %2</translation>
-    </message>
-    <message>
-        <source>%1 says:</source>
-        <translation type="obsolete">%1 üzeni:</translation>
-    </message>
-    <message>
-        <location line="+207"/>
+        <location line="+58"/>
         <source>&amp;No</source>
         <translation>&amp;Nem</translation>
     </message>
@@ -2486,64 +2238,34 @@ Reason: %1</source>
         <translation>&amp;Igen</translation>
     </message>
     <message>
-        <source>-- Attached URL(s) --</source>
-        <translation type="obsolete">-- Csatolt URL(ek) --</translation>
-    </message>
-    <message>
         <location line="-3"/>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
         <translation>&lt;p&gt;A titkosítás le van tiltva a másik félnél. El akarod küldeni az üzeneted titkosítás nélkül is?&lt;/p&gt;</translation>
     </message>
     <message>
-        <location line="-421"/>
+        <location line="-458"/>
         <source>A new chat message was just received.
 Do you still want to close the window?</source>
         <translation>Új beszélgetési üzenet érkezett.
 Biztos be akarod zárni az ablakot?</translation>
     </message>
     <message>
-        <source>Are you sure you want to clear the chat window?
-(note: does not affect saved history)</source>
-        <translation type="obsolete">Biztosan törölni akarod az ablak tartalmát?
-(megj: a naplót nem törli)</translation>
-    </message>
-    <message>
-        <source>Chat toolbar</source>
-        <translation type="obsolete">Chat eszköztár</translation>
-    </message>
-    <message>
-        <source>Clear chat window</source>
-        <translation type="obsolete">Ablak törlése</translation>
-    </message>
-    <message>
-        <source>Desc:</source>
-        <translation type="obsolete">Leírás:</translation>
-    </message>
-    <message>
-        <location line="+566"/>
+        <location line="+626"/>
         <source>Encryption Disabled</source>
         <translation>Titkosítás kikapcsolva</translation>
     </message>
     <message>
-        <location line="-6"/>
+        <location line="-1"/>
         <source>Encryption Enabled</source>
         <translation>Titkosítás bekapcsolva</translation>
     </message>
     <message>
-        <source>Error</source>
-        <translation type="obsolete">Hiba</translation>
-    </message>
-    <message>
-        <source>Message history</source>
-        <translation type="obsolete">Előzmények</translation>
-    </message>
-    <message>
-        <location filename="../src/chatdlg.ui" line="+13"/>
+        <location filename="../../psi-plus/src/chatdlg.ui" line="+13"/>
         <source>Form</source>
         <translation>Űrlap</translation>
     </message>
     <message>
-        <location line="+90"/>
+        <location line="+121"/>
         <source>Message length</source>
         <translation>Üzenethossz</translation>
     </message>
@@ -2553,31 +2275,14 @@ Biztos be akarod zárni az ablakot?</translation>
         <translation>AccountLabel</translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+7"/>
+        <source>Voice Call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+32"/>
         <source>Select icon</source>
         <translation>Hangulatjel hozzáadása</translation>
-    </message>
-    <message>
-        <source>Send file</source>
-        <translation type="obsolete">Fájl küldése</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="obsolete">Tárgy:</translation>
-    </message>
-    <message>
-        <source>There was an error trying to send the message encrypted.
-Check your OpenPGP application/settings.</source>
-        <translation type="obsolete">Hiba lépett fel a titkosított üzenet küldésekor.
-Ellenőrizd az OpenPGP programot/beállításokat.</translation>
-    </message>
-    <message>
-        <source>Toggle Compact/Full Size</source>
-        <translation type="obsolete">Kis/teljes nézet váltása</translation>
-    </message>
-    <message>
-        <source>Toggle Compact/Full size</source>
-        <translation type="obsolete">Tömör/teljes nézet váltása</translation>
     </message>
     <message>
         <location line="-16"/>
@@ -2585,46 +2290,43 @@ Ellenőrizd az OpenPGP programot/beállításokat.</translation>
         <translation>Titkosítás bekapcsolása</translation>
     </message>
     <message>
-        <source>URL:</source>
-        <translation type="obsolete">URL:</translation>
-    </message>
-    <message>
-        <source>User info</source>
-        <translation type="obsolete">Partner információi</translation>
-    </message>
-    <message>
-        <location filename="../src/chatdlg.cpp" line="-561"/>
-        <location line="+422"/>
+        <location filename="../../psi-plus/src/chatdlg.cpp" line="-626"/>
+        <location line="+459"/>
         <source>Warning</source>
         <translation>Figyelmeztetés</translation>
     </message>
     <message>
-        <location line="-418"/>
+        <location line="-455"/>
         <source>Close</source>
         <translation>Bezár</translation>
     </message>
     <message>
-        <location line="+376"/>
+        <location line="+403"/>
         <source>%1 (Inactive)</source>
         <translation>%1 (tétlen)</translation>
     </message>
     <message>
-        <location line="+336"/>
+        <location line="+374"/>
         <source>%1 ended the conversation</source>
         <translation>%1 befejezte a beszélgetést</translation>
     </message>
     <message>
-        <location filename="../src/chatdlg.ui" line="-25"/>
+        <location filename="../../psi-plus/src/chatdlg.ui" line="-41"/>
         <source>0</source>
         <translation>0</translation>
     </message>
     <message>
-        <location line="+60"/>
+        <location line="+76"/>
         <source>Actions</source>
         <translation>Cselekvések</translation>
     </message>
     <message>
-        <location line="+129"/>
+        <location line="+136"/>
+        <source>Send</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+18"/>
         <source>Avatar</source>
         <translation>Igazolványkép</translation>
     </message>
@@ -2632,29 +2334,630 @@ Ellenőrizd az OpenPGP programot/beállításokat.</translation>
 <context>
     <name>ChatEdit</name>
     <message>
-        <location filename="../src/msgmle.cpp" line="+303"/>
+        <location filename="../../psi-plus/src/msgmle.cpp" line="+226"/>
+        <source>Paste As Quotation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+137"/>
         <source>Add to dictionary</source>
         <translation>Szótárhoz adás</translation>
     </message>
 </context>
 <context>
-    <name>ClientStream</name>
+    <name>ChatView</name>
     <message>
-        <source>Offered mechanisms: </source>
-        <translation type="obsolete">Felkínált mechanizmus:</translation>
+        <location filename="../../psi-plus/src/chatview_te.cpp" line="+64"/>
+        <source>Quote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Ctrl+S</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+320"/>
+        <source>%1 says:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>Subject:</source>
+        <translation type="unfinished">Tárgy:</translation>
+    </message>
+    <message>
+        <location line="+19"/>
+        <source>URL:</source>
+        <translation type="unfinished">URL:</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Desc:</source>
+        <translation type="unfinished">Leírás:</translation>
+    </message>
+</context>
+<context>
+    <name>ChatViewThemeProvider</name>
+    <message>
+        <location filename="../../psi-plus/src/chatviewthemeprovider.h" line="+44"/>
+        <source>Chat Message Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Configure your chat theme here</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ChessPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/chessplugin/chessplugin.cpp" line="+255"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+92"/>
+        <location line="+151"/>
+        <location line="+85"/>
+        <location line="+10"/>
+        <location line="+14"/>
+        <location line="+8"/>
+        <location line="+139"/>
+        <source>Chess Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-401"/>
+        <location line="+15"/>
+        <source>Chess!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <location line="+29"/>
+        <source>You are already playing!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+88"/>
+        <source>Your opponent has closed the board!
+ You can still save the game.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+38"/>
+        <source>The game was rejected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+47"/>
+        <source>You Lose.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>You Win!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Draw!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Unknown error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+37"/>
+        <source>Chess Plugin: Invitation from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+101"/>
+        <source>You are allready playing!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+55"/>
+        <source>Choose a sound file</source>
+        <translation type="unfinished">Válassz egy hangfájlt</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Sound (*.wav)</source>
+        <translation type="unfinished">Hangfájl (*.wav)</translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin allows you to play chess with your friends.
+The plugin is compatible with a similar plugin for Tkabber.
+For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ChessWindow</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/chessplugin/mainwindow.ui" line="+26"/>
+        <source>Chess Board</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Moves:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/chessplugin/mainwindow.cpp" line="+110"/>
+        <source>    White    Black
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+78"/>
+        <location line="+27"/>
+        <source>Load game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-26"/>
+        <location line="+58"/>
+        <source>Save game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-57"/>
+        <source>Quit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Resign</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Enable sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>File</source>
+        <translation type="unfinished">Fájl</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Game</source>
+        <translation type="unfinished">Játék</translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <location line="+32"/>
+        <source>*.chs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-17"/>
+        <location line="+12"/>
+        <source>  White     Black
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CleanerMainWindow</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/cleaner.ui" line="+20"/>
+        <source>Psi+ Cleaner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>History</source>
+        <translation type="unfinished">Előzmények</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>vCards</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Avatars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Options</source>
+        <translation type="unfinished">Beállítások</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Filter:</source>
+        <translation type="unfinished">Szűrő:</translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Select All Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Unselect All Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+35"/>
+        <source>0</source>
+        <translation type="unfinished">0</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source> files selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Delete selected files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Delete selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Close Psi Cleaner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/cleaner.cpp" line="+64"/>
+        <source>Choose &amp;Profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>&amp;Quit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Clear &amp;Juick Cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Clear &amp;Birthdays Cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>&amp;File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>&amp;Actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>History files: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>vCards: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Avatars: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+169"/>
+        <source>Clear History</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+10"/>
+        <location line="+10"/>
+        <location line="+73"/>
+        <location line="+25"/>
+        <source>Are You Sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-109"/>
+        <source>Clear vCards</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Clear Avatars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Clear Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Not supported yet!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+36"/>
+        <source>Choose profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Profile:</source>
+        <translation type="unfinished">Profil:</translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <location line="+8"/>
+        <location line="+4"/>
+        <location line="+5"/>
+        <source>Clear Juick Cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-8"/>
+        <source>Juick Cache Successfully Cleared</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <location line="+25"/>
+        <source>Something wrong!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-20"/>
+        <location line="+25"/>
+        <source>Cache Not Found!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-18"/>
+        <source>Clear Birthdays Cach</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <location line="+4"/>
+        <location line="+5"/>
+        <source>Clear Birthdays Cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-8"/>
+        <source>Birthdays Cache Successfully Cleared</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CleanerPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/cleanerplugin.cpp" line="+85"/>
+        <source>Launch Cleaner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+51"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
+You can preview items before deleting them from your hard drive.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ClearingAvatarModel</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/models.cpp" line="+344"/>
+        <source>Avatar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Size</source>
+        <translation type="unfinished">Méret</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Creation Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ClearingModel</name>
+    <message>
+        <location line="-124"/>
+        <source>Nick</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Domain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Size</source>
+        <translation type="unfinished">Méret</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Creation Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ClearingOptionsModel</name>
+    <message>
+        <location line="+172"/>
+        <source>Options</source>
+        <translation type="unfinished">Beállítások</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Values</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ClearingTab</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/clearingtab.ui" line="+14"/>
+        <source>Form</source>
+        <translation type="unfinished">Űrlap</translation>
+    </message>
+</context>
+<context>
+    <name>ClearingViewer</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/viewers.cpp" line="-71"/>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Uncheck</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Invert</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ClientSwitcherPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/clientswitcherplugin.cpp" line="+649"/>
+        <source>%1 has requested your version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>The plugin is intended for substitution of the client version, his name and operating system type.
+You can specify the version of the client and OS or to select them from the preset list.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ConferenceLogger</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="+163"/>
+        <source>You can find your logs here:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Logs:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>View Log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+140"/>
+        <source>Conference History</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to save conference logs in which the Psi+ user sits.
+Conferences logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with conference.
+
+Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ContactListAccountMenu::Private</name>
     <message>
-        <location filename="../src/contactlistaccountmenu.cpp" line="+69"/>
+        <location filename="../../psi-plus/src/contactlistaccountmenu.cpp" line="+83"/>
         <source>&amp;Status</source>
         <translation>&amp;Állapot</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+7"/>
         <source>Mood</source>
         <translation>Hangulat</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Activity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>GeoLocation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2668,8 +2971,18 @@ Ellenőrizd az OpenPGP programot/beállításokat.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Manage...</source>
-        <translation>Beállítás...</translation>
+        <source>&amp;Contacts Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Manage Bookmarks</source>
+        <translation type="unfinished">Könyvjelzők szerkesztése</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Join Groupchat</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2685,6 +2998,11 @@ Ellenőrizd az OpenPGP programot/beállításokat.</translation>
         <location line="+3"/>
         <source>New &amp;Blank Message</source>
         <translation>&amp;Új üres üzenet</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Privacy Lists</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2722,22 +3040,27 @@ Ellenőrizd az OpenPGP programot/beállításokat.</translation>
         <translation>Napi üzenet törlése</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+7"/>
         <source>Avatar</source>
         <translation>Igazolványkép</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Bookmarks</source>
-        <translation>Könyvjelzők</translation>
+        <source>Groupchat</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+16"/>
+        <source>Plugins</source>
+        <translation type="unfinished">Kiegészítők</translation>
+    </message>
+    <message>
+        <location line="+4"/>
         <source>&amp;Admin</source>
         <translation type="unfinished">&amp;Adminisztráció</translation>
     </message>
     <message>
-        <location line="+37"/>
+        <location line="+43"/>
         <source>Join %1</source>
         <translation>Csatlakozás ehhez: %1</translation>
     </message>
@@ -2745,9 +3068,29 @@ Ellenőrizd az OpenPGP programot/beállításokat.</translation>
 <context>
     <name>ContactListGroupMenu::Private</name>
     <message>
-        <location filename="../src/contactlistgroupmenu.cpp" line="+57"/>
+        <location filename="../../psi-plus/src/contactlistgroupmenu.cpp" line="+70"/>
         <source>Re&amp;name</source>
         <translation>Át&amp;nevez</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Resend Authorization to Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Request Authorization from Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Remove Authorization from Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Send Status to Group</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2774,11 +3117,36 @@ Ellenőrizd az OpenPGP programot/beállításokat.</translation>
         <source>&amp;Add group...</source>
         <translation>&amp;Csoport hozzáadása...</translation>
     </message>
+    <message>
+        <location line="+4"/>
+        <source>Hide All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Show All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Leave All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Hidden</source>
+        <translation type="unfinished">Rejtett</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Authorization</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ContactListModel</name>
     <message>
-        <location filename="../src/contactlistmodel.cpp" line="+582"/>
+        <location filename="../../psi-plus/src/contactlistmodel.cpp" line="+642"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
@@ -2791,7 +3159,7 @@ Ellenőrizd az OpenPGP programot/beállításokat.</translation>
 <context>
     <name>ContactListSpecialGroup</name>
     <message>
-        <location filename="../src/contactlistspecialgroup.cpp" line="+34"/>
+        <location filename="../../psi-plus/src/contactlistspecialgroup.cpp" line="+34"/>
         <source>General</source>
         <translation>Általános</translation>
     </message>
@@ -2810,11 +3178,16 @@ Ellenőrizd az OpenPGP programot/beállításokat.</translation>
         <source>Private messages</source>
         <translation>Privát üzenetek</translation>
     </message>
+    <message>
+        <location line="+4"/>
+        <source>Conferences</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ContactListUtil</name>
     <message>
-        <location filename="../src/contactlistutil.cpp" line="+55"/>
+        <location filename="../../psi-plus/src/contactlistutil.cpp" line="+55"/>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
         <translation>Ez maradandóan törli &lt;br&gt;%1&lt;br&gt; felhasználót a címlistádról.</translation>
     </message>
@@ -2896,36 +3269,227 @@ Ellenőrizd az OpenPGP programot/beállításokat.</translation>
     </message>
 </context>
 <context>
-    <name>ContactProfile</name>
+    <name>ContactManagerDlg</name>
     <message>
-        <source>&amp;Add a contact</source>
-        <translation type="obsolete">Partner &amp;hozzáadása</translation>
+        <location filename="../../psi-plus/src/contactmanager/contactmanagerdlg.ui" line="+20"/>
+        <location filename="../../psi-plus/src/contactmanager/contactmanagerdlg.cpp" line="+46"/>
+        <source>Contacts Manager</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/contactview.cpp" line="+992"/>
+        <location line="+21"/>
+        <source>Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+46"/>
+        <source>Action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Execute</source>
+        <translation type="unfinished">Végrehajtás</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/contactmanager/contactmanagerdlg.cpp" line="+8"/>
+        <source>Message</source>
+        <translation type="unfinished">Üzenet</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Auth request</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Auth grant</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Change domain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Resolve nicks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Move to group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Simple</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>RegExp</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+51"/>
+        <source>Removal confirmation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Are you sure want to delete selected contacts?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+47"/>
+        <location line="+37"/>
+        <source>Invalid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-37"/>
+        <source>This action is not supported atm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+37"/>
+        <source>Please fill parameter field with new domain name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <location line="+29"/>
+        <source>Roster file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-10"/>
+        <source>Save error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Can&apos;t open file %1 for writing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <location line="+5"/>
+        <source>Open error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-5"/>
+        <source>Can&apos;t open file %1 for reading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>File %1 is not xml file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Nothing to do..</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>No contacts found in file %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Confirm contacts importing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Do you really want to import these contacts?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ContactManagerModel</name>
+    <message>
+        <location filename="../../psi-plus/src/contactmanager/contactmanagermodel.cpp" line="+34"/>
+        <source>Nick</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Node</source>
+        <translation type="unfinished">Node</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Domain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Subscription</source>
+        <translation type="unfinished">Feliratkozás</translation>
+    </message>
+</context>
+<context>
+    <name>ContactManagerView</name>
+    <message>
+        <location filename="../../psi-plus/src/contactmanager/contactmanagerview.cpp" line="+49"/>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Uncheck</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Invert</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ContactProfile</name>
+    <message>
+        <location filename="../../psi-plus/src/contactview.cpp" line="+995"/>
         <source>&amp;Admin</source>
         <translation>&amp;Adminisztráció</translation>
     </message>
     <message>
-        <source>&amp;Avatar</source>
-        <translation type="obsolete">&amp;Kép</translation>
-    </message>
-    <message>
-        <source>&amp;Create new...</source>
-        <translation type="obsolete">&amp;Új létrehozása...</translation>
-    </message>
-    <message>
-        <location line="+358"/>
+        <location line="+361"/>
         <source>&amp;Group</source>
         <translation>&amp;Csoport</translation>
     </message>
     <message>
-        <location line="-362"/>
+        <location line="-365"/>
         <source>&amp;Modify Account...</source>
         <translation>Fiók &amp;módosítása...</translation>
     </message>
     <message>
-        <location line="+119"/>
+        <location line="+122"/>
         <location line="+12"/>
         <location line="+394"/>
         <location line="+225"/>
@@ -2938,17 +3502,17 @@ Ellenőrizd az OpenPGP programot/beállításokat.</translation>
         <translation>&amp;Nincs</translation>
     </message>
     <message>
-        <location line="-368"/>
+        <location line="-374"/>
         <source>&amp;Status</source>
         <translation>&amp;Állapot</translation>
     </message>
     <message>
-        <location line="+34"/>
+        <location line="+37"/>
         <source>&amp;XML Console</source>
         <translation>&amp;XML konzol</translation>
     </message>
     <message>
-        <location line="+121"/>
+        <location line="+124"/>
         <location line="+12"/>
         <location line="+394"/>
         <location line="+225"/>
@@ -2956,21 +3520,9 @@ Ellenőrizd az OpenPGP programot/beállításokat.</translation>
         <translation>&amp;Igen</translation>
     </message>
     <message>
-        <source>A&amp;ctions</source>
-        <translation type="obsolete">&amp;Akciók</translation>
-    </message>
-    <message>
-        <source>Active chats</source>
-        <translation type="obsolete">Aktív chat-ek</translation>
-    </message>
-    <message>
         <location line="-240"/>
         <source>Add</source>
         <translation>Hozzáad</translation>
-    </message>
-    <message>
-        <source>Add/Authorize to contact list</source>
-        <translation type="obsolete">Hozzáad a listához és jóváhagy</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2978,13 +3530,13 @@ Ellenőrizd az OpenPGP programot/beállításokat.</translation>
         <translation>&lt;b&gt;%1&lt;/b&gt; hozzáadva a listához, és jóváhagyva.</translation>
     </message>
     <message>
-        <location line="-1233"/>
-        <location filename="../src/psi_profiles.cpp" line="+399"/>
+        <location line="-1239"/>
+        <location filename="../../psi-plus/src/psi_profiles.cpp" line="+431"/>
         <source>Agents/Transports</source>
         <translation>Átjárók/Szolgáltatások</translation>
     </message>
     <message>
-        <location line="+1471"/>
+        <location line="+1477"/>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
         <translation>Biztosan törölni akarod &lt;b&gt;%1&lt;/b&gt;-t a listádról?</translation>
     </message>
@@ -2992,10 +3544,6 @@ Ellenőrizd az OpenPGP programot/beállításokat.</translation>
         <location line="-225"/>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
         <translation>Biztosan el akarod távolítani &lt;b&gt;%1&lt;/b&gt; felkérését?</translation>
-    </message>
-    <message>
-        <source>Assign Open&amp;PGP key</source>
-        <translation type="obsolete">Open&amp;PGP kulcs hozzárendelése</translation>
     </message>
     <message>
         <location line="-134"/>
@@ -3009,38 +3557,30 @@ Ellenőrizd az OpenPGP programot/beállításokat.</translation>
         <translation>Jóváhagy</translation>
     </message>
     <message>
-        <source>Check &amp;Status</source>
-        <translation type="obsolete">Állapot &amp;ellenőrzése</translation>
-    </message>
-    <message>
         <location line="-36"/>
         <source>Create New Group</source>
         <translation>Új csoport létrehozása</translation>
     </message>
     <message>
-        <location line="-535"/>
+        <location line="-541"/>
         <source>Delete MOTD</source>
         <translation>MOTD törlése</translation>
     </message>
     <message>
-        <source>Enter the new Group name:</source>
-        <translation type="obsolete">Írd be az új csoport nevét:</translation>
-    </message>
-    <message>
-        <location line="+829"/>
+        <location line="+835"/>
         <location line="+17"/>
         <location line="+15"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location line="-1533"/>
-        <location filename="../src/psi_profiles.cpp" line="-1"/>
+        <location line="-1539"/>
+        <location filename="../../psi-plus/src/psi_profiles.cpp" line="-1"/>
         <source>General</source>
         <translation>Általános</translation>
     </message>
     <message>
-        <location line="+821"/>
+        <location line="+827"/>
         <source>Hide</source>
         <translation>Elrejt</translation>
     </message>
@@ -3050,23 +3590,7 @@ Ellenőrizd az OpenPGP programot/beállításokat.</translation>
         <translation>Meghívás</translation>
     </message>
     <message>
-        <source>Invite to</source>
-        <translation type="obsolete">Meghív...</translation>
-    </message>
-    <message>
-        <source>Link Test</source>
-        <translation type="obsolete">Összeköttetés tesztelése</translation>
-    </message>
-    <message>
-        <source>Log off</source>
-        <translation type="obsolete">Kijelentkezés</translation>
-    </message>
-    <message>
-        <source>New &amp;blank message</source>
-        <translation type="obsolete">Ú&amp;j üzenet</translation>
-    </message>
-    <message>
-        <location line="-1341"/>
+        <location line="-1347"/>
         <source>Not in list</source>
         <translation>Nincs a listán</translation>
     </message>
@@ -3076,16 +3600,12 @@ Ellenőrizd az OpenPGP programot/beállításokat.</translation>
         <translation>Elérhető partnerek</translation>
     </message>
     <message>
-        <source>Open chat to</source>
-        <translation type="obsolete">Chat ablak nyitása...</translation>
-    </message>
-    <message>
         <location line="-661"/>
         <source>Private Messages</source>
         <translation>Privát üzenetek</translation>
     </message>
     <message>
-        <location line="+1243"/>
+        <location line="+1249"/>
         <location line="+225"/>
         <source>Remove</source>
         <translation>Töröl</translation>
@@ -3103,45 +3623,9 @@ Ellenőrizd az OpenPGP programot/beállításokat.</translation>
         <translation>Csoport és partnerek törlése</translation>
     </message>
     <message>
-        <source>Remove authorization from</source>
-        <translation type="obsolete">Jóváhagyás megvonása tőle</translation>
-    </message>
-    <message>
-        <source>Remove group</source>
-        <translation type="obsolete">Csoport törlése</translation>
-    </message>
-    <message>
-        <source>Remove group and contacts</source>
-        <translation type="obsolete">Csoport és partnerek törlése</translation>
-    </message>
-    <message>
-        <source>Rerequest authorization from</source>
-        <translation type="obsolete">Jóváhagyás újrakérése tőle</translation>
-    </message>
-    <message>
         <location line="+390"/>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
         <translation>Jóváhagyás újrakérése &lt;b&gt;%1&lt;/b&gt; felhasználótó.</translation>
-    </message>
-    <message>
-        <source>Resend authorization to</source>
-        <translation type="obsolete">Jóváhagyás újraküldése neki</translation>
-    </message>
-    <message>
-        <source>Send &amp;file</source>
-        <translation type="obsolete">Fájl &amp;küldése</translation>
-    </message>
-    <message>
-        <source>Send message to</source>
-        <translation type="obsolete">Üzenet küldése...</translation>
-    </message>
-    <message>
-        <source>Send message to group</source>
-        <translation type="obsolete">Üzenet küldése a csoportnak</translation>
-    </message>
-    <message>
-        <source>Send server message</source>
-        <translation type="obsolete">Üzenet küldése a szervernek</translation>
     </message>
     <message>
         <location line="-53"/>
@@ -3154,17 +3638,17 @@ Ellenőrizd az OpenPGP programot/beállításokat.</translation>
         <translation>&lt;b&gt;%1&lt;/b&gt; meghívva konferenciába.</translation>
     </message>
     <message>
-        <location line="-624"/>
+        <location line="-627"/>
         <source>Service &amp;Discovery</source>
         <translation>&amp;Szolgáltatások listája</translation>
     </message>
     <message>
-        <location line="-50"/>
+        <location line="-53"/>
         <source>Set MOTD</source>
         <translation>MOTD beállítása</translation>
     </message>
     <message>
-        <location line="+172"/>
+        <location line="+178"/>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
@@ -3173,20 +3657,12 @@ Proceed?</source>
 Folytatod?</translation>
     </message>
     <message>
-        <source>Unassign Open&amp;PGP key</source>
-        <translation type="obsolete">Open&amp;PGP kulcs hozzárendelés megszüntetése</translation>
-    </message>
-    <message>
-        <location line="-171"/>
+        <location line="-177"/>
         <source>Update MOTD</source>
         <translation>MOTD frissítése</translation>
     </message>
     <message>
-        <source>User &amp;Info</source>
-        <translation type="obsolete">Partner &amp;információi</translation>
-    </message>
-    <message>
-        <location line="+183"/>
+        <location line="+189"/>
         <source>WARNING!  This will remove all contacts associated with this group!
 
 Proceed?</source>
@@ -3200,19 +3676,7 @@ Folytatod?</translation>
         <translation>Már van egy csoportod ezzel a névvel.</translation>
     </message>
     <message>
-        <source>You can&apos;t set a blank group name.</source>
-        <translation type="obsolete">Nem lehet üres a csoport neve.</translation>
-    </message>
-    <message>
-        <source>You can&apos;t set a blank name.</source>
-        <translation type="obsolete">Nem lehet üres a beceneved.</translation>
-    </message>
-    <message>
-        <source>[blank]</source>
-        <translation type="obsolete">[üres]</translation>
-    </message>
-    <message>
-        <location line="-865"/>
+        <location line="-871"/>
         <source>Send Server Message</source>
         <translation>Szerver üzenet küldése</translation>
     </message>
@@ -3220,6 +3684,11 @@ Folytatod?</translation>
         <location line="+24"/>
         <source>Mood</source>
         <translation>Hangulat</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Activity</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+4"/>
@@ -3262,7 +3731,7 @@ Folytatod?</translation>
         <translation>Ú&amp;j üres üzenet</translation>
     </message>
     <message>
-        <location line="+80"/>
+        <location line="+83"/>
         <source>Send Message to Group</source>
         <translation>Üzenet küldése a csoportnak</translation>
     </message>
@@ -3370,14 +3839,6 @@ Folytatod?</translation>
 <context>
     <name>ContactView</name>
     <message>
-        <source>&amp;Assign Custom Avatar</source>
-        <translation type="obsolete">&amp;Saját kép kiválasztása</translation>
-    </message>
-    <message>
-        <source>&amp;Clear Custom Avatar</source>
-        <translation type="obsolete">&amp;Saját kép eltávolítása</translation>
-    </message>
-    <message>
         <location line="+269"/>
         <source>&amp;History</source>
         <translation>&amp;Előzmények</translation>
@@ -3388,17 +3849,9 @@ Folytatod?</translation>
         <translation>&amp;Bejelentkezés</translation>
     </message>
     <message>
-        <source>&amp;Receive incoming event</source>
-        <translation type="obsolete">Bejövö esemény &amp;olvasása</translation>
-    </message>
-    <message>
         <location line="+487"/>
         <source>All files (*.png *.jpg *.gif)</source>
         <translation>Minden fájl (*.png *.jpg *.gif)</translation>
-    </message>
-    <message>
-        <source>Choose an image</source>
-        <translation type="obsolete">Válassz egy képet</translation>
     </message>
     <message>
         <location line="-1471"/>
@@ -3411,10 +3864,6 @@ Folytatod?</translation>
         <translation>Rejtett</translation>
     </message>
     <message>
-        <source>Open &amp;chat window</source>
-        <translation type="obsolete">Chat ablak &amp;megnyitása</translation>
-    </message>
-    <message>
         <location line="+372"/>
         <source>Re&amp;name</source>
         <translation>Át&amp;nevez</translation>
@@ -3423,10 +3872,6 @@ Folytatod?</translation>
         <location line="+18"/>
         <source>Rem&amp;ove</source>
         <translation>&amp;Töröl</translation>
-    </message>
-    <message>
-        <source>Send &amp;message</source>
-        <translation type="obsolete">Üzenet &amp;küldése</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -3470,9 +3915,27 @@ Folytatod?</translation>
     </message>
 </context>
 <context>
+    <name>ContentDownloader</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/contentdownloaderplugin/contentdownloader.cpp" line="+126"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>e-mail: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi+.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Disco</name>
     <message>
-        <location filename="../src/disco.ui" line="+16"/>
+        <location filename="../../psi-plus/src/disco.ui" line="+16"/>
         <source>Service Discovery</source>
         <translation>Szolgáltatás feltérképezése</translation>
     </message>
@@ -3498,6 +3961,11 @@ Folytatod?</translation>
         <translation>&amp;Böngészés</translation>
     </message>
     <message>
+        <location line="+14"/>
+        <source>Filter by JID:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location line="+12"/>
         <source>Auto-browse into objects</source>
         <translation>Automatikus böngészés</translation>
@@ -3516,12 +3984,12 @@ Folytatod?</translation>
 <context>
     <name>DiscoDlg::Private</name>
     <message>
-        <location filename="../src/discodlg.cpp" line="+1009"/>
+        <location filename="../../psi-plus/src/discodlg.cpp" line="+1048"/>
         <source>&amp;Add to roster</source>
         <translation>Listához &amp;hozzáad</translation>
     </message>
     <message>
-        <location line="-23"/>
+        <location line="-26"/>
         <source>&amp;Back</source>
         <translation>&amp;Vissza</translation>
     </message>
@@ -3536,12 +4004,12 @@ Folytatod?</translation>
         <translation>&amp;Előre</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+15"/>
         <source>&amp;Join</source>
         <translation>&amp;Belép</translation>
     </message>
     <message>
-        <location line="-18"/>
+        <location line="-21"/>
         <source>&amp;Refresh Item</source>
         <translation>Elem &amp;frissítése</translation>
     </message>
@@ -3549,6 +4017,16 @@ Folytatod?</translation>
         <location line="+12"/>
         <source>&amp;Register</source>
         <translation>&amp;Regisztrál</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Unregister</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>&amp;Unregister</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3566,7 +4044,7 @@ Folytatod?</translation>
         <translation>Listához hozzáad</translation>
     </message>
     <message>
-        <location line="-37"/>
+        <location line="-40"/>
         <source>Auto</source>
         <translation>Auto</translation>
     </message>
@@ -3601,12 +4079,12 @@ Folytatod?</translation>
         <translation>Előre</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+15"/>
         <source>Join</source>
         <translation>Belép</translation>
     </message>
     <message>
-        <location line="-18"/>
+        <location line="-21"/>
         <source>Refresh Item</source>
         <translation>Elem frissítése</translation>
     </message>
@@ -3616,12 +4094,12 @@ Folytatod?</translation>
         <translation>Regisztrál</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+6"/>
         <source>Search</source>
         <translation>Keres</translation>
     </message>
     <message>
-        <location line="-24"/>
+        <location line="-27"/>
         <source>Service Discovery</source>
         <translation>Szolgáltatások listája</translation>
     </message>
@@ -3636,7 +4114,7 @@ Folytatod?</translation>
         <translation>Leállít</translation>
     </message>
     <message>
-        <location line="+22"/>
+        <location line="+25"/>
         <source>vCard</source>
         <translation>vCard</translation>
     </message>
@@ -3651,7 +4129,17 @@ Folytatod?</translation>
         <translation>&amp;Parancs végrehajtása</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+9"/>
+        <source>Query version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>&amp;Query version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
         <source>Service Discovery toolbar</source>
         <translation>Szolgáltatás felderítés eszköztár</translation>
     </message>
@@ -3659,7 +4147,7 @@ Folytatod?</translation>
 <context>
     <name>DiscoListItem</name>
     <message>
-        <location line="-584"/>
+        <location line="-626"/>
         <location line="+62"/>
         <location line="+64"/>
         <location line="+134"/>
@@ -3670,30 +4158,6 @@ Folytatod?</translation>
         <location line="-159"/>
         <source>Jabber Service</source>
         <translation>Jabber szolgáltatás</translation>
-    </message>
-    <message>
-        <source>There was an error browsing items for &lt;b&gt;%1&lt;/b&gt;.
-Reason: %2</source>
-        <translation type="obsolete">Hiba lépett fel a(z) &lt;b&gt;%1&lt;/b&gt; elemeinek tallózásánál.
-Oka: %2</translation>
-    </message>
-    <message>
-        <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.
-Reason: %2</source>
-        <translation type="obsolete">Hiba lépett fel a(z) &lt;b&gt;%1&lt;/b&gt; átjáróinak a lekérdezésénél.
-Oka: %2</translation>
-    </message>
-    <message>
-        <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.
-Reason: %2</source>
-        <translation type="obsolete">Hiba lépett fel a(z) &lt;b&gt;%1&lt;/b&gt; elem információinak a lekérdezésénél.
-Oka: %2</translation>
-    </message>
-    <message>
-        <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.
-Reason: %2</source>
-        <translation type="obsolete">Hiba lépett fel a(z) &lt;b&gt;%1&lt;/b&gt; elemei lekérdezésénél.
-Oka: %2</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3719,7 +4183,7 @@ Oka: %2</translation>
 <context>
     <name>DiscoListView</name>
     <message>
-        <location line="+109"/>
+        <location line="+112"/>
         <source>Category</source>
         <translation>Kategória</translation>
     </message>
@@ -3761,52 +4225,9 @@ Oka: %2</translation>
     </message>
 </context>
 <context>
-    <name>DiscoUI</name>
-    <message>
-        <source>&amp;Address:</source>
-        <translation type="obsolete">&amp;Cím:</translation>
-    </message>
-    <message>
-        <source>&amp;Browse</source>
-        <translation type="obsolete">&amp;Lekérdez</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
-    </message>
-    <message>
-        <source>&amp;Node:</source>
-        <translation type="obsolete">&amp;Node:</translation>
-    </message>
-    <message>
-        <source>Auto-browse into objects</source>
-        <translation type="obsolete">Elemek automatikus kibontása</translation>
-    </message>
-    <message>
-        <source>Automatically get item information</source>
-        <translation type="obsolete">Elemek részleteinek automatikus lekérdezése</translation>
-    </message>
-    <message>
-        <source>JID</source>
-        <translation type="obsolete">JID</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="obsolete">Név</translation>
-    </message>
-    <message>
-        <source>Node</source>
-        <translation type="obsolete">Node</translation>
-    </message>
-    <message>
-        <source>Service Discovery</source>
-        <translation type="obsolete">Szolgáltatások listája</translation>
-    </message>
-</context>
-<context>
     <name>Drawer</name>
     <message>
-        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="+1651"/>
+        <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="+1651"/>
         <source>Error moving</source>
         <translation>Hiba a lépés közben</translation>
     </message>
@@ -3839,7 +4260,7 @@ Oka: %2</translation>
 <context>
     <name>EDBFlatFile::File</name>
     <message>
-        <location filename="../src/eventdb.cpp" line="+878"/>
+        <location filename="../../psi-plus/src/eventdb.cpp" line="+887"/>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
         <translation>&lt;big&gt;[Rendszerüzenet]&lt;/big&gt;&lt;br&gt;A beléptetés sikerült.</translation>
     </message>
@@ -3850,16 +4271,149 @@ Oka: %2</translation>
     </message>
 </context>
 <context>
-    <name>ELineEdit</name>
+    <name>EditItemDlg</name>
     <message>
-        <source>Recipient Default</source>
-        <translation type="obsolete">Alapértelmezett fogadó</translation>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/edititemdlg.ui" line="+14"/>
+        <source>Watch For...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>JID*</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Text**</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>*Regular expressions can be used</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>**List of words can be used.
+  Each word can use regular expression</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Use for</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Chats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Groupchats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Always play sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Sound:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/edititemdlg.cpp" line="+66"/>
+        <source>Choose a sound file</source>
+        <translation type="unfinished">Válassz egy hangfájlt</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Sound (*.wav)</source>
+        <translation type="unfinished">Hangfájl (*.wav)</translation>
+    </message>
+</context>
+<context>
+    <name>EditNote</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/storagenotesplugin/editnote.ui" line="+14"/>
+        <source>Edit Note</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Title:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Tags:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>EditServerDlg</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/editserverdlg.ui" line="+20"/>
+        <source>Server Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Name:</source>
+        <translation type="unfinished">Név:</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Url:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>User Name*:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Password*:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>PostData**:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>File Input**:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>RegExp**:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>*for FTP servers only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>**for HTTP servers only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Use proxy server</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EventDlg</name>
     <message>
-        <location filename="../src/eventdlg.cpp" line="+554"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="+554"/>
         <source>&amp;Add/Auth</source>
         <translation>&amp;Hozzáad/jóváhagy</translation>
     </message>
@@ -3881,13 +4435,13 @@ Oka: %2</translation>
     </message>
     <message>
         <location line="-51"/>
-        <location line="+1124"/>
+        <location line="+1126"/>
         <location line="+13"/>
         <source>&amp;Next</source>
         <translation>&amp;Következő</translation>
     </message>
     <message>
-        <location line="-1131"/>
+        <location line="-1133"/>
         <source>&amp;Quote</source>
         <translation>&amp;Idéz</translation>
     </message>
@@ -3902,7 +4456,7 @@ Oka: %2</translation>
         <translation>&amp;Küld</translation>
     </message>
     <message>
-        <location line="+981"/>
+        <location line="+983"/>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to subscribe to your presence.  Click the button labelled &quot;Add/Auth&quot; to authorize the subscription.  This will also add the person to your contact list if it is not already there.</source>
         <translation>&lt;big&gt;[Rendszer üzenet]&lt;/big&gt;&lt;br&gt;Ez a felhasználó hozzá akar adni a listájához. Kattints a &quot;Hozzáad/jóváhagy&quot; gombra hogy elfogadd. Ezzel hozzáadod a listádhoz is, ha még nincs rajta.</translation>
     </message>
@@ -3917,7 +4471,7 @@ Oka: %2</translation>
         <translation>&lt;big&gt;[Rendszer üzenet]&lt;/big&gt;&lt;br&gt;Kérésed jóváhagyását törölték!</translation>
     </message>
     <message>
-        <location line="-1153"/>
+        <location line="-1155"/>
         <source>Add URL</source>
         <translation>URL-t hozzáad</translation>
     </message>
@@ -3925,10 +4479,6 @@ Oka: %2</translation>
         <location line="-47"/>
         <source>Chat</source>
         <translation>Chat</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="obsolete">Hiba</translation>
     </message>
     <message>
         <location line="-13"/>
@@ -3951,22 +4501,22 @@ Oka: %2</translation>
         <translation>Üzenet hossz</translation>
     </message>
     <message>
-        <location line="+668"/>
+        <location line="+670"/>
         <source>No recipients have been specified!</source>
         <translation>Nincs címzett megadva!</translation>
     </message>
     <message>
-        <location line="-696"/>
+        <location line="-698"/>
         <source>Normal</source>
         <translation>Üzenet</translation>
     </message>
     <message>
-        <location line="+690"/>
+        <location line="+692"/>
         <source>Please type in a message first.</source>
         <translation>Írj be először valami üzenetet.</translation>
     </message>
     <message>
-        <location line="-669"/>
+        <location line="-671"/>
         <source>Select icon</source>
         <translation>Hangulatjel hozzáadása</translation>
     </message>
@@ -3977,18 +4527,12 @@ Oka: %2</translation>
     </message>
     <message>
         <location line="-499"/>
-        <location line="+1039"/>
+        <location line="+1041"/>
         <source>Subject:</source>
         <translation>Tárgy:</translation>
     </message>
     <message>
-        <source>There was an error trying to send the message encrypted.
-Check your OpenPGP application/settings.</source>
-        <translation type="obsolete">Hiba lépett fel a titkosított üzenet küldésekor.
-Ellenőrizd az OpenPGP programot/beállításokat.</translation>
-    </message>
-    <message>
-        <location line="-1106"/>
+        <location line="-1108"/>
         <source>Time:</source>
         <translation>Idő:</translation>
     </message>
@@ -4013,7 +4557,7 @@ Ellenőrizd az OpenPGP programot/beállításokat.</translation>
         <translation>Partner információi</translation>
     </message>
     <message>
-        <location line="+639"/>
+        <location line="+641"/>
         <location line="+6"/>
         <location line="+135"/>
         <location line="+55"/>
@@ -4021,7 +4565,7 @@ Ellenőrizd az OpenPGP programot/beállításokat.</translation>
         <translation>Figyelmeztetés</translation>
     </message>
     <message>
-        <location line="-748"/>
+        <location line="-750"/>
         <source>Transaction &amp;identifier:</source>
         <translation>Tranzakció &amp;azonosító:</translation>
     </message>
@@ -4041,7 +4585,7 @@ Ellenőrizd az OpenPGP programot/beállításokat.</translation>
         <translation>&amp;Mégse</translation>
     </message>
     <message>
-        <location line="+597"/>
+        <location line="+599"/>
         <source>Please type in a transaction identifier first.</source>
         <translation>Kérlek adj meg először egy tranzakciós azonosítót.</translation>
     </message>
@@ -4115,73 +4659,674 @@ Ha engedélyezni szeretnéd, add meg a tranzakciós azonosítót és nyomd meg a
 <context>
     <name>EventNotifierAction</name>
     <message>
-        <location filename="../src/mainwin_p.cpp" line="+566"/>
+        <location filename="../../psi-plus/src/mainwin_p.cpp" line="+565"/>
         <source>&lt;Event notifier&gt;</source>
         <translation>&lt;Esemény értesítő&gt;</translation>
     </message>
 </context>
 <context>
-    <name>FancyPopup</name>
+    <name>ExtendedMenuPlugin</name>
     <message>
-        <source>Close</source>
-        <translation type="obsolete">Bezár</translation>
+        <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="+342"/>
+        <source>Ping %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Pong from %1 after %2 secs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <location line="+43"/>
+        <location line="+24"/>
+        <source>Feature not implemented</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-60"/>
+        <source>%1 Last Activity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>%1 Last Activity was %2 ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>%1 went offline %2 ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>%1 uptime is %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>%1 is online!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Unknown error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Service unavailable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>You are not authorized to retrieve Last Activity information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>%1 Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>%1 time is %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+46"/>
+        <location line="+24"/>
+        <source>Extended Actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Copy JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Copy Nick</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Copy Status Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Ping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Last Activity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Entity Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+92"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin adds several additional commands into contacts context menu.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ExtendedOptions</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="+256"/>
+        <location line="+360"/>
+        <source>Chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-359"/>
+        <source>Conference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+75"/>
+        <location line="+283"/>
+        <source>Roster</source>
+        <translation type="unfinished">Lista</translation>
+    </message>
+    <message>
+        <location line="-357"/>
+        <source>Menu</source>
+        <translation type="unfinished">Menü</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Look</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>CSS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Misc</source>
+        <translation type="unfinished">Egyéb</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Enable central toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Ask for confirmation before clearing chat window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Enable icons in chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Scaled message icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Show Avatar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Disable &quot;Paste and Send&quot; button</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Enable &quot;Says style&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hide &quot;Send&quot; button</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Avatar size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Default JID mode:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Automatically scroll down the log when a message was sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+46"/>
+        <source>Show status changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-45"/>
+        <source>Show status priority</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Chat window caption:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Default JID mode ignore list:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Show joins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show initial joins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show status with priority</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show roles and affiliations changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Enable autojoin for bookmarked conferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hide auto-join conferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Enable HTML rendering in MUC chat window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Automatically accept the default room configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Automatically accept the default room configuration when a new room is created</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Automatically open the configuration dialog when a new room is created</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Automatically open the configuration dialog when a new room is created.
+This option only has effect if accept-defaults is false.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Disable autojoin to folowing conferences:
+(specify JIDs)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>MUC leave status message:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Place MUC roster at left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Use slim group heading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+47"/>
+        <source>Show status icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-46"/>
+        <source>Show affiliation icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show client icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Show avatars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+40"/>
+        <source>Place avatars at left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-34"/>
+        <location line="+62"/>
+        <source>Sort style for contacts:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-58"/>
+        <source>Avatars size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Avatars radius:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Resolve nicks on contact add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Lockdown roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Contact name and status message in a row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>If contact does not have avatar, use default avatar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Place status icon over avatar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Automatically remove temporary contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Tooltips:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Show avatar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show last status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show PGP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show client version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show geolocation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+32"/>
+        <source>Show &quot;Admin&quot; option in account menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show &quot;Active Chats&quot; option in contact menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show &quot;Picture&quot; option in contact menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show &quot;Change Profile&quot; option in main menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show &quot;Chat&quot; option in status menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show &quot;Invisible&quot; option in status menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show &quot;XA&quot; option in status menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Enable single messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Popup border color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Link color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Mailto color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Moderators color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Participants color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Visitors color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>No Role color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>MUC roster coloring:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>ToolTip text color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>ToolTip background color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>ToolTip coloring:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Text color for &quot;composing&quot; events on tabs:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Text color for &quot;unread&quot; events on tabs:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Colors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>Popup</source>
+        <translation type="unfinished">Popup</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Tooltip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Disable wheel scroll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Put tabs at bottom of chat window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show Close Button on tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show status icons on tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hide tab when close chat window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Allow closing inactive tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Action for mouse middle click on tabs:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Enable windows flashing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Enable &quot;Single Account&quot; mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Enable XML-console on login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+351"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to allow easy configuration of some advanced options in Psi+.
+This plugin gives you access to advanced application options, which do not have a graphical user interface.
+
+Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>
     <message>
-        <location filename="../src/widgets/fancypopup.cpp" line="+258"/>
+        <location filename="../../psi-plus/src/widgets/fancypopup.cpp" line="+216"/>
         <source>Close</source>
         <translation>Bezár</translation>
     </message>
 </context>
 <context>
-    <name>Features::FeatureName</name>
-    <message>
-        <source>ERROR: Incorrect usage of Features class</source>
-        <translation type="obsolete">HIBA: Features osztály hibás használata</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation type="obsolete">Nincs</translation>
-    </message>
-    <message>
-        <source>Register</source>
-        <translation type="obsolete">Regisztrál</translation>
-    </message>
-    <message>
-        <source>Search</source>
-        <translation type="obsolete">Keres</translation>
-    </message>
-    <message>
-        <source>Groupchat</source>
-        <translation type="obsolete">Csoportbeszélgetés</translation>
-    </message>
-    <message>
-        <source>Gateway</source>
-        <translation type="obsolete">Átjáró</translation>
-    </message>
-    <message>
-        <source>Service Discovery</source>
-        <translation type="obsolete">Szolgáltatás felderítés</translation>
-    </message>
-    <message>
-        <source>VCard</source>
-        <translation type="obsolete">VCard</translation>
-    </message>
-    <message>
-        <source>Execute command</source>
-        <translation type="obsolete">Parancs végrehajtása</translation>
-    </message>
-    <message>
-        <source>Add to roster</source>
-        <translation type="obsolete">Névsorhoz hozzáad</translation>
-    </message>
-</context>
-<context>
     <name>FigureDialog</name>
     <message>
-        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="+17"/>
+        <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="+17"/>
         <source>What figure should I set?</source>
         <translation>Milyen figurát állítsak be?</translation>
     </message>
@@ -4189,7 +5334,7 @@ Ha engedélyezni szeretnéd, add meg a tranzakciós azonosítót és nyomd meg a
 <context>
     <name>FileEvent</name>
     <message>
-        <location filename="../src/psievent.cpp" line="-232"/>
+        <location filename="../../psi-plus/src/psievent.cpp" line="-232"/>
         <source>This user wants to send you a file.</source>
         <translation>Ez a felhasználó fájlt szeretne küleni neked.</translation>
     </message>
@@ -4197,7 +5342,7 @@ Ha engedélyezni szeretnéd, add meg a tranzakciós azonosítót és nyomd meg a
 <context>
     <name>FileRequestDlg</name>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="+621"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="+621"/>
         <location line="+58"/>
         <location line="+118"/>
         <source>%1 byte(s)</source>
@@ -4296,10 +5441,6 @@ engedélyezve vannak-e.</translation>
         <translation>I/O hiba</translation>
     </message>
     <message>
-        <source>File already exists.  Overwrite?</source>
-        <translation type="obsolete">A fájl már létezik. Felülírod?</translation>
-    </message>
-    <message>
         <location line="-24"/>
         <source>File was rejected by remote user.</source>
         <translation>A fájlt a másik fél elutasította.</translation>
@@ -4351,10 +5492,6 @@ engedélyezve vannak-e.</translation>
         <location line="+195"/>
         <source>The Jabber ID specified is not valid.  Correct this and try again.</source>
         <translation>A megadott Jabber ID nem érvényes. Javítsd ki, és próbáld úrja.</translation>
-    </message>
-    <message>
-        <source>The file specified does not exist.</source>
-        <translation type="obsolete">A megadott fájl nem létezik.</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -4409,7 +5546,7 @@ vagy a partner nem elérhető.</translation>
 <context>
     <name>FileTrans</name>
     <message>
-        <location filename="../src/filetrans.ui" line="+16"/>
+        <location filename="../../psi-plus/src/filetrans.ui" line="+16"/>
         <source>Form1</source>
         <translation>Form1</translation>
     </message>
@@ -4457,7 +5594,7 @@ vagy a partner nem elérhető.</translation>
 <context>
     <name>FileTransDlg</name>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="+387"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="+387"/>
         <source>%1%2/s</source>
         <translation>%1%2/mp</translation>
     </message>
@@ -4490,10 +5627,6 @@ vagy a partner nem elérhető.</translation>
         <location line="-36"/>
         <source>File</source>
         <translation>Fájl</translation>
-    </message>
-    <message>
-        <source>File I/O error</source>
-        <translation type="obsolete">I/O hiba</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -4590,37 +5723,6 @@ Oka: %3</translation>
     </message>
 </context>
 <context>
-    <name>FileTransUI</name>
-    <message>
-        <source>Description:</source>
-        <translation type="obsolete">Leírás:</translation>
-    </message>
-    <message>
-        <source>File:</source>
-        <translation type="obsolete">Fájl:</translation>
-    </message>
-    <message>
-        <source>Form1</source>
-        <translation type="obsolete">Form1</translation>
-    </message>
-    <message>
-        <source>Size:</source>
-        <translation type="obsolete">Méret:</translation>
-    </message>
-    <message>
-        <source>To:</source>
-        <translation type="obsolete">Címzett:</translation>
-    </message>
-    <message>
-        <source>start</source>
-        <translation type="obsolete">indít</translation>
-    </message>
-    <message>
-        <source>stop</source>
-        <translation type="obsolete">leállít</translation>
-    </message>
-</context>
-<context>
     <name>FileTransView</name>
     <message>
         <location line="-416"/>
@@ -4676,10 +5778,6 @@ Oka: %3</translation>
         <translation>Proxy sikeresen lekérdezve.</translation>
     </message>
     <message>
-        <source>Quering proxy...</source>
-        <translation type="obsolete">Proxy lekérdezése...</translation>
-    </message>
-    <message>
         <location line="+7"/>
         <source>Requesting data transfer channel...</source>
         <translation>Kapcsolat létrehozása...</translation>
@@ -4708,7 +5806,7 @@ Oka: %3</translation>
 <context>
     <name>FileUtil</name>
     <message>
-        <location filename="../src/fileutil.cpp" line="+69"/>
+        <location filename="../../psi-plus/src/fileutil.cpp" line="+69"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
@@ -4727,33 +5825,60 @@ Oka: %3</translation>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Images (*.png *.xpm *.jpg *.PNG *.XPM *.JPG)</source>
-        <translation type="obsolete">Képek (*.png *.xpm *.jpg *.PNG *.XPM *.JPG)</translation>
-    </message>
 </context>
 <context>
     <name>FontLabel</name>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="+60"/>
+        <location filename="../../psi-plus/src/options/opt_appearance.cpp" line="+62"/>
         <source>%1 %2</source>
         <translation>%1 %2</translation>
     </message>
 </context>
 <context>
+    <name>Form</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/contentdownloaderplugin/form.ui" line="+20"/>
+        <source>Proxy Authentication Required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Load Content List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+80"/>
+        <source>Download and Install</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+54"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Frame</name>
+    <message>
+        <location filename="../../psi-plus/src/widgets/fancypopup.ui" line="+26"/>
+        <source>Frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GCFindDlg</name>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="+1881"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="+2302"/>
         <source>&amp;Close</source>
         <translation>&amp;Bezár</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+2"/>
         <source>&amp;Find</source>
         <translation>&amp;Keres</translation>
     </message>
     <message>
-        <location line="-23"/>
+        <location line="-22"/>
         <location line="+46"/>
         <source>Find</source>
         <translation>Keres</translation>
@@ -4770,197 +5895,62 @@ Oka: %3</translation>
     </message>
 </context>
 <context>
-    <name>GCJoinDlg</name>
-    <message>
-        <source>%1 on %2</source>
-        <translation type="obsolete">%1 (%2)</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="obsolete">&amp;Nem</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="obsolete">&amp;Igen</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to cancel joining groupchat?</source>
-        <translation type="obsolete">Biztosan megszakítod a csatlakozást a csoportbeszélgetéshez?</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="obsolete">Hiba</translation>
-    </message>
-    <message>
-        <source>Unable to join groupchat.
-Reason: %1</source>
-        <translation type="obsolete">Nem sikerült belépni a csoportbeszélgetésbe.
-Oka: %1</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="obsolete">Figyelmeztetés</translation>
-    </message>
-    <message>
-        <source>You are in or joining this room already!</source>
-        <translation type="obsolete">Már benntvagy a szobában, vagy éppen folyamatban van!</translation>
-    </message>
-    <message>
-        <source>You entered an invalid room name.</source>
-        <translation type="obsolete">Rossz szobanevet adtál meg.</translation>
-    </message>
-    <message>
-        <source>You must fill out the fields in order to join.</source>
-        <translation type="obsolete">Rendesen ki kell töltened a mezőket hogy beléphess.</translation>
-    </message>
-</context>
-<context>
-    <name>GCJoinUI</name>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
-    </message>
-    <message>
-        <source>&amp;Join</source>
-        <translation type="obsolete">&amp;Belép</translation>
-    </message>
-    <message>
-        <source>Host:</source>
-        <translation type="obsolete">Cím:</translation>
-    </message>
-    <message>
-        <source>Identity:</source>
-        <translation type="obsolete">Fiók:</translation>
-    </message>
-    <message>
-        <source>Join Groupchat</source>
-        <translation type="obsolete">Belépés csoportbeszélgetésbe</translation>
-    </message>
-    <message>
-        <source>Nickname:</source>
-        <translation type="obsolete">Becenév:</translation>
-    </message>
-    <message>
-        <source>Recent:</source>
-        <translation type="obsolete">Előzők:</translation>
-    </message>
-    <message>
-        <source>Room information:</source>
-        <translation type="obsolete">Szoba információk:</translation>
-    </message>
-    <message>
-        <source>Room:</source>
-        <translation type="obsolete">Szoba:</translation>
-    </message>
-    <message>
-        <source>ident</source>
-        <translation type="obsolete">ident</translation>
-    </message>
-</context>
-<context>
     <name>GCMainDlg</name>
     <message>
-        <location line="-1237"/>
+        <location line="-1596"/>
         <source>&amp;Find</source>
         <translation>&amp;Keres</translation>
     </message>
     <message>
-        <source>&amp;No</source>
-        <translation type="obsolete">&amp;Nem</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="obsolete">&amp;Igen</translation>
-    </message>
-    <message>
-        <location line="+354"/>
+        <location line="+515"/>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
         <translation>Biztosan törölni akarod az ablak tartalmát?
 (megj: a naplót nem törli)</translation>
     </message>
     <message>
-        <source>Clear chat window</source>
-        <translation type="obsolete">Ablak törlése</translation>
-    </message>
-    <message>
-        <location line="+452"/>
+        <location line="+518"/>
         <source>Connected.</source>
         <translation>Csatlakozva.</translation>
     </message>
     <message>
-        <location line="-396"/>
+        <location line="-461"/>
         <source>Disconnected.</source>
         <translation>Szétkapcsolva.</translation>
     </message>
     <message>
-        <location line="-80"/>
-        <source>Enter a topic:</source>
-        <translation>Írd be a témát:</translation>
-    </message>
-    <message>
-        <location line="+115"/>
+        <location line="+35"/>
         <source>Error: You are in or joining this room already!</source>
         <translation>Hiba: Már benntvagy a szobában, vagy éppen folyamatban van!</translation>
     </message>
     <message>
-        <location line="-445"/>
+        <location line="-607"/>
         <source>Find</source>
         <translation>Keres</translation>
     </message>
     <message>
-        <source>Groupchat toolbar</source>
-        <translation type="obsolete">Csoportbeszélgetés-eszköztár</translation>
-    </message>
-    <message>
-        <location line="+438"/>
+        <location line="+600"/>
         <source>Reconnecting...</source>
         <translation>Újracsatlakozás...</translation>
     </message>
     <message>
-        <source>Select icon</source>
-        <translation type="obsolete">Válassz ikont</translation>
-    </message>
-    <message>
-        <location line="-109"/>
-        <source>Set Groupchat Topic</source>
-        <translation>Téma beállítása</translation>
-    </message>
-    <message>
-        <source>Toggle Compact/Full Size</source>
-        <translation type="obsolete">Tömör/teljes nézet váltása</translation>
-    </message>
-    <message>
-        <source>Topic:</source>
-        <translation type="obsolete">Téma:</translation>
-    </message>
-    <message>
-        <source>Unable to join groupchat.  Reason: %1</source>
-        <translation type="obsolete">Nem sikerült belépni a csoportbeszélgetésbe. Oka: %1</translation>
-    </message>
-    <message>
-        <location line="+172"/>
+        <location line="+64"/>
         <source>Unexpected groupchat error: %1</source>
         <translation>Váratlan csoportbeszélgetés hiba: %1</translation>
     </message>
     <message>
-        <location line="-148"/>
+        <location line="-150"/>
         <source>Warning</source>
         <translation>Figyelmeztetés</translation>
     </message>
     <message>
-        <location line="+403"/>
-        <source>has set the topic to: %1</source>
-        <translation>átállította a témát: %1</translation>
-    </message>
-    <message>
-        <location line="-742"/>
+        <location line="-517"/>
         <source>Clear Chat Window</source>
         <translatorcomment>Is it good like this?</translatorcomment>
         <translation>Ablak ürítése</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+6"/>
         <source>Configure Room</source>
         <translation>Szoba beállítása</translation>
     </message>
@@ -4970,17 +5960,7 @@ Oka: %1</translation>
         <translation>&amp;Szoba Beállítása</translation>
     </message>
     <message>
-        <location line="+4"/>
-        <source>Open a Whiteboard</source>
-        <translation>Rajztábla megnyitása</translation>
-    </message>
-    <message>
-        <location line="+0"/>
-        <source>Open a &amp;Whiteboard</source>
-        <translation>&amp;Rajztábla megnyitása</translation>
-    </message>
-    <message>
-        <location line="+5"/>
+        <location line="+12"/>
         <source>Select Icon</source>
         <translation>Ikon kiválasztása</translation>
     </message>
@@ -4995,7 +5975,7 @@ Oka: %1</translation>
         <translation>Parancs beírása...</translation>
     </message>
     <message>
-        <location line="+147"/>
+        <location line="+289"/>
         <source> by %1</source>
         <translation> %1 által </translation>
     </message>
@@ -5007,12 +5987,12 @@ Reason: %1</source>
 Ok: %1</translation>
     </message>
     <message>
-        <location line="+67"/>
+        <location line="+87"/>
         <source>Error: Cannot parse command: </source>
         <translation>Hiba: Nem tudom értelmezni a parancsot:</translation>
     </message>
     <message>
-        <location line="+246"/>
+        <location line="+258"/>
         <source>Unable to join groupchat.	Reason: %1</source>
         <translation>Nem lehet csatlakozni a csoportbeszélgetéshez	Oka: %1</translation>
     </message>
@@ -5027,7 +6007,7 @@ Ok: %1</translation>
         <translation>Hibába ütköztem (hibakód: %1)</translation>
     </message>
     <message>
-        <location line="+22"/>
+        <location line="+33"/>
         <source>New room created</source>
         <translation>Új szoba létrejött</translation>
     </message>
@@ -5037,7 +6017,7 @@ Ok: %1</translation>
         <translation>%1 csatlakozott a szobához</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+4"/>
         <source>%3 has joined the room as %1 and %2</source>
         <translatorcomment>I dont know what this should be..</translatorcomment>
         <translation>%3 belépett a szobába, mint %1 és %2</translation>
@@ -5049,24 +6029,63 @@ Ok: %1</translation>
         <translation>%2 belépett a szobába, mint %1</translation>
     </message>
     <message>
-        <location line="+17"/>
+        <location line="+27"/>
         <source>%1 is now %2 and %3</source>
         <translation>%1 mosmát úgy ismert mint %2 és %3</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location line="+4"/>
-        <location line="+16"/>
+        <location line="+5"/>
         <source>%1 is now %2</source>
         <translation>%1 mosmát úgy ismert mint %2</translation>
     </message>
     <message>
-        <location line="-4"/>
-        <source>online</source>
-        <translation>elérhető</translation>
+        <location line="-800"/>
+        <source>Find toolbar</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+18"/>
+        <location line="+13"/>
+        <source>Set Text Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Paste and Send</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Copy MUC JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+314"/>
+        <source>Edit bookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Add to bookmarks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+408"/>
+        <source> and now is %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source> (Reason: %1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
         <source>This room has been destroyed.</source>
         <translation>Ez a szoba megszűnt.</translation>
     </message>
@@ -5193,21 +6212,66 @@ Ok: %1</translation>
         <translation>%1 elhagyta a szobát</translation>
     </message>
     <message>
-        <location line="+46"/>
-        <source>The topic has been set to: %1</source>
-        <translation>A topic megváltozott: %1</translation>
+        <location line="+70"/>
+        <source>The topic has been set to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source> has unset the topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source> has set the topic to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+460"/>
+        <source>Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Mégse</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>&amp;Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>N&amp;ick:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>&amp;Auto join:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Bookmark conference</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
     <message>
-        <location line="-1110"/>
-        <location line="+56"/>
+        <location line="-1846"/>
+        <location line="+55"/>
         <source>new nick</source>
         <translation>Új becenév</translation>
     </message>
     <message>
-        <location line="-36"/>
+        <location line="-32"/>
         <source>Command</source>
         <translation>Parancs</translation>
     </message>
@@ -5215,24 +6279,12 @@ Ok: %1</translation>
 <context>
     <name>GCUserView</name>
     <message>
-        <source>Check &amp;Status</source>
-        <translation type="obsolete">Állapot &amp;ellenőrzése</translation>
-    </message>
-    <message>
-        <source>Open &amp;chat window</source>
-        <translation type="obsolete">Chat ablak &amp;megnyitása</translation>
-    </message>
-    <message>
-        <source>Send &amp;message</source>
-        <translation type="obsolete">Üzenet &amp;küldése</translation>
-    </message>
-    <message>
-        <location filename="../src/gcuserview.cpp" line="+519"/>
+        <location filename="../../psi-plus/src/gcuserview.cpp" line="+719"/>
         <source>User &amp;Info</source>
         <translation>Ismerős &amp;információi</translation>
     </message>
     <message>
-        <location line="-341"/>
+        <location line="-345"/>
         <source>Visitors</source>
         <translation>Látogatók</translation>
     </message>
@@ -5247,7 +6299,7 @@ Ok: %1</translation>
         <translation>Moderátorok</translation>
     </message>
     <message>
-        <location line="+238"/>
+        <location line="+234"/>
         <source>Send &amp;Message</source>
         <translation>Ü&amp;zenet küldése</translation>
     </message>
@@ -5257,7 +6309,17 @@ Ok: %1</translation>
         <translation>&amp;Beszélgetési ablak nyitása</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+4"/>
+        <source>Voice Call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>E&amp;xecute Command</source>
+        <translation type="unfinished">&amp;Parancs végrehajtása</translation>
+    </message>
+    <message>
+        <location line="+13"/>
         <location line="+16"/>
         <source>No reason</source>
         <translation>Nincs indok</translation>
@@ -5269,7 +6331,32 @@ Ok: %1</translation>
         <translation>Egyedi indok</translation>
     </message>
     <message>
-        <location line="-20"/>
+        <location line="+40"/>
+        <source>Change Affiliation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Unaffiliated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Member</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Administrator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Owner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-79"/>
         <source>&amp;Kick</source>
         <translation>&amp;Kirúgás</translation>
     </message>
@@ -5302,7 +6389,7 @@ Ok: %1</translation>
 <context>
     <name>GameBoard</name>
     <message>
-        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="-1171"/>
+        <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="-1171"/>
         <location line="+349"/>
         <source>White</source>
         <translation>Fehér</translation>
@@ -5485,9 +6572,46 @@ You lost the game.</source>
     </message>
 </context>
 <context>
+    <name>GameModel</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/gamemodel.cpp" line="+256"/>
+        <source>The first turn can be only H8.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GameSessions</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/gamesessions.cpp" line="+95"/>
+        <source>%1: Invitation from %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+110"/>
+        <source>Incorrect parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+61"/>
+        <location line="+469"/>
+        <source>You are allready playing!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-354"/>
+        <source>From: %1&lt;br /&gt;The game was rejected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>From: %1&lt;br /&gt;Game error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GeneralGroupchat</name>
     <message>
-        <location filename="../src/options/opt_general_groupchat.ui" line="+13"/>
+        <location filename="../../psi-plus/src/options/opt_general_groupchat.ui" line="+13"/>
         <source>GeneralGroupchatUI</source>
         <translation>GeneralGroupchatUI</translation>
     </message>
@@ -5530,26 +6654,31 @@ You lost the game.</source>
     </message>
     <message>
         <location line="+3"/>
-        <location line="+145"/>
+        <location line="+152"/>
         <source>Add</source>
         <translation>Szó hozzáadása</translation>
     </message>
     <message>
-        <location line="-138"/>
+        <location line="-145"/>
         <location line="+3"/>
         <source>Removes the selected word from the highlight list</source>
         <translation>Eltávolítja a kiválasztott szót a kiemeltek listájáról</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location line="+145"/>
+        <location line="+152"/>
         <source>Remove</source>
         <translation>Eltávolítás</translation>
     </message>
     <message>
-        <location line="-107"/>
+        <location line="-114"/>
         <source>Enable nick coloring</source>
         <translation>Becenév színezés bekapcsolása</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Enable hash nick coloring</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
@@ -5573,10 +6702,6 @@ You lost the game.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Type a colourcode here, or press the pallette to the right</source>
-        <translation type="obsolete">Írj be egy színkódot vagy használd a palettát jobbra</translation>
-    </message>
-    <message>
         <location line="+48"/>
         <source>Adds the color to the list</source>
         <translation>Szín hozzáadása a listához</translation>
@@ -5594,127 +6719,419 @@ You lost the game.</source>
     </message>
 </context>
 <context>
-    <name>GeneralGroupchatUI</name>
+    <name>GeoLocation</name>
     <message>
-        <source>Add</source>
-        <translation type="obsolete">Hozzáad</translation>
+        <location filename="../../psi-plus/src/geolocation.ui" line="+20"/>
+        <source>Set GeoLocation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Adds the color to the list</source>
-        <translation type="obsolete">Hozzáadja a színt a listához</translation>
+        <location line="+8"/>
+        <source>Altitude:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Adds the new color to the list</source>
-        <translation type="obsolete">Hozzáadja az új színt a listához</translation>
+        <location line="+7"/>
+        <source>Altitude in meters above or below sea level</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Adds the new word to the list</source>
-        <translation type="obsolete">Hozzáadja az új szavakat a listához</translation>
+        <location line="+7"/>
+        <source>Area:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Colors used for nicks in groupchat</source>
-        <translation type="obsolete">Csoportbeszélgetésnél használandó becenév színek</translation>
+        <location line="+7"/>
+        <source>A named area such as a campus or neighborhood</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable Nick Coloring</source>
-        <translation type="obsolete">Becenév színezés endegélyezése</translation>
+        <location line="+7"/>
+        <source>Bearing:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable word highlighting</source>
-        <translation type="obsolete">Szókiemelés engedélyezése</translation>
+        <location line="+7"/>
+        <source>GPS bearing (direction in which the entity is heading to reach its next waypoint), measured in decimal degrees relative to true north</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Highlight lines and alert the user if this text is included in chat</source>
-        <translation type="obsolete">Sort kiemeli és figyelmeztet, ha ez a szöveg előfordul a chaten</translation>
+        <location line="+7"/>
+        <source>Building:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Nick Coloring</source>
-        <translation type="obsolete">Becenév színezés</translation>
+        <location line="+7"/>
+        <source>A specific building on a street or in an area</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Remove</source>
-        <translation type="obsolete">Eltávolít</translation>
+        <location line="+7"/>
+        <source>Country:</source>
+        <translation type="unfinished">Ország:</translation>
     </message>
     <message>
-        <source>Removes the selected color from the list</source>
-        <translation type="obsolete">Kiválaszott szín eltávolítása a listáról</translation>
+        <location line="+7"/>
+        <source>The nation where the user is located</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Removes the selected word from the highlight list</source>
-        <translation type="obsolete">Eltávolítja a kijelölt szót a listáról</translation>
+        <location line="+7"/>
+        <source>Datum:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This is the list of colours with which nicks will be drawn in group chat.</source>
-        <translation type="obsolete">A színek listája, amikkel a becenevek színezve lesznek a csoportbeszélgetésnél.</translation>
+        <location line="+7"/>
+        <source>GPS datum</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
-        <translation type="obsolete">Ez azoknak a szavaknak a listája, amiknek az előfordulásánál értesítsen.</translation>
+        <location line="+7"/>
+        <source>Description:</source>
+        <translation type="unfinished">Leírás:</translation>
     </message>
     <message>
-        <source>Type a colourcode here, or press the pallette to the right</source>
-        <translation type="obsolete">Írd be a színkódot, vagy kattints a palettára</translation>
+        <location line="+7"/>
+        <source>A natural-language name for or description of the location</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Type a new word here and press &quot;Add Word&quot; for it to be added to the highlight list</source>
-        <translation type="obsolete">Írd be a szót, és kattints a &quot;Szó hozzáadás&quot;-ára hogy hozzá legyen adva a listához</translation>
+        <location line="+7"/>
+        <source>Error:</source>
+        <translation type="unfinished">Hiba:</translation>
     </message>
     <message>
-        <source>Word Highlighting</source>
-        <translation type="obsolete">Szó kiemelés</translation>
+        <location line="+7"/>
+        <source>Horizontal GPS error in arc minutes; this element is deprecated in favor of &lt;accuracy/&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Words which will cause a notification in group chat.</source>
-        <translation type="obsolete">Szavak, aminél értesít a csoportbeszélgetésnél.</translation>
+        <location line="+7"/>
+        <source>Floor:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>A particular floor in a building</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Latitude:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Latitude in decimal degrees North</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Locality:</source>
+        <translation type="unfinished">Helység:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>A locality within the administrative region, such as a town or city</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Longitude:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Longitude in decimal degrees East</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Postalcode:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>A code used for postal delivery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Region:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>An administrative region of the nation, such as a state or province</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Room:</source>
+        <translation type="unfinished">Szoba:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>A particular room in a building</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Street:</source>
+        <translation type="unfinished">Utca:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>A thoroughfare within the locality, or a crossing of two thoroughfares</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Text:</source>
+        <translation type="unfinished">Szöveg:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>A catch-all element that captures any other information about the location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Reset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Mégse</translation>
     </message>
 </context>
 <context>
-    <name>GnuPG</name>
+    <name>GetPassDlg</name>
     <message>
-        <source>Unable to retrieve public key list.</source>
-        <translation type="obsolete">Nem sikerült lekérdezni a publikus kulcs listát.</translation>
+        <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodnetman.cpp" line="+53"/>
+        <source>Set Password</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unable to retrieve secret key list.</source>
-        <translation type="obsolete">Nem sikerült lekérdezni a titkos kulcs listát.</translation>
+        <location line="+6"/>
+        <source>Password:</source>
+        <translation type="unfinished">Jelszó:</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Confirm password:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Password does not match</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GetSkinName</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/skinsplugin/getskinname.ui" line="+23"/>
+        <source>Get Skin Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Name: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Version: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Mégse</translation>
+    </message>
+</context>
+<context>
+    <name>GetTextDlg</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/pixmapwidget.cpp" line="+39"/>
+        <source>Enter text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Select Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GmailNotifyPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/gmailserviceplugin.cpp" line="+311"/>
+        <location line="+315"/>
+        <source>No-save state for contact %1 is changed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-115"/>
+        <source>Settings for an account %1 are changed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+66"/>
+        <source>Shared Status for an account %1 is updated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+101"/>
+        <source>Attributes for contact %1 are changed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+205"/>
+        <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+64"/>
+        <source>Choose a sound file</source>
+        <translation type="unfinished">Válassz egy hangfájlt</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Sound (*.wav)</source>
+        <translation type="unfinished">Hangfájl (*.wav)</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Choose a program</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Block gmail contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Shows notifications of new messages in your Gmailbox.
+Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Gnome3StatusWatcher</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/unix/gnome3supportplugin/gnome3supportplugin.cpp" line="+138"/>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GomokuGamePlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/gomokugameplugin.cpp" line="+260"/>
+        <source>Choose a sound file</source>
+        <translation type="unfinished">Válassz egy hangfájlt</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Sound (*.wav)</source>
+        <translation type="unfinished">Hangfájl (*.wav)</translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin allows you to play gomoku with your friends.
+For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Gomoku game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+87"/>
+        <source>Gomoku game!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>GoogleFileTransferProgressDialog</name>
     <message>
-        <location filename="../src/googleftmanager.h" line="+135"/>
+        <location filename="../../psi-plus/src/googleftmanager.h" line="+135"/>
         <source>Transferring %1</source>
         <translation>Átvitel alatt: %1</translation>
     </message>
 </context>
 <context>
+    <name>GrabAreaWidget</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.cpp" line="+134"/>
+        <source>Select area</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GrepShortcutKeyDialog</name>
     <message>
-        <location filename="../src/libpsi/dialogs/grepshortcutkeydialog.cpp" line="+54"/>
+        <location filename="../../psi-plus/src/libpsi/dialogs/grepshortcutkeydialog.cpp" line="+56"/>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/optionswidget.cpp" line="+95"/>
         <source>Set Keys</source>
         <translation>Billentyűk beállítása</translation>
     </message>
     <message>
-        <location filename="../src/libpsi/dialogs/grepshortcutkeydialog.ui" line="+52"/>
+        <location filename="../../psi-plus/src/libpsi/dialogs/grepshortcutkeydialog.ui" line="+52"/>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/optionswidget.cpp" line="-48"/>
         <source>Cancel</source>
         <translation>Mégse</translation>
     </message>
-</context>
-<context>
-    <name>GrepShortcutKeyDlg</name>
     <message>
-        <source>Set Keys</source>
-        <translation type="obsolete">Billentyűk beállítása</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="obsolete">Mégse</translation>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/optionswidget.cpp" line="-4"/>
+        <source>New Shortcut</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>GroupChatBrowseWindowUI</name>
     <message>
-        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.ui" line="+13"/>
+        <location filename="../../psi-plus/src/libpsi/widgets/groupchatbrowsewindow.ui" line="+13"/>
         <source>Groupchat</source>
         <translation>Konferencia</translation>
     </message>
@@ -5742,18 +7159,17 @@ You lost the game.</source>
 <context>
     <name>GroupChatDlg</name>
     <message>
-        <location filename="../src/groupchatdlg.ui" line="+69"/>
+        <location filename="../../psi-plus/src/groupchatdlg.ui" line="+69"/>
         <source>Topic:</source>
         <translation>Téma:</translation>
     </message>
     <message>
-        <location line="+22"/>
+        <location line="+25"/>
         <source>AccountLabel</source>
         <translation>AccountLabel</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location line="+19"/>
         <source>Select icon</source>
         <translation>Ikonválasztás</translation>
     </message>
@@ -5762,17 +7178,31 @@ You lost the game.</source>
         <source>Actions</source>
         <translation>Cselekvések</translation>
     </message>
+    <message>
+        <location line="+151"/>
+        <source>Send</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GroupChatViewThemeProvider</name>
+    <message>
+        <location filename="../../psi-plus/src/chatviewthemeprovider.h" line="+21"/>
+        <source>Groupchat Message Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Configure your groupchat theme here</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>GroupMenu</name>
     <message>
-        <location filename="../src/psicontactmenu.cpp" line="+68"/>
+        <location filename="../../psi-plus/src/psicontactmenu.cpp" line="+76"/>
         <source>&amp;None</source>
         <translation>&amp;Nincs</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation type="obsolete">Általános</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -5796,21 +7226,65 @@ You lost the game.</source>
     </message>
 </context>
 <context>
+    <name>GroupchatTopicDlg</name>
+    <message>
+        <location filename="../../psi-plus/src/groupchattopicdlg.ui" line="+14"/>
+        <source>Set Groupchat Topic</source>
+        <translation type="unfinished">Téma beállítása</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Text of topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>HTMLTextMenu</name>
+    <message>
+        <location filename="../../psi-plus/src/htmltextcontroller.cpp" line="+31"/>
+        <source>Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Italic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Underline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Strike Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Text Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Background Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Reset</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>HistoryDlg</name>
     <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
-    </message>
-    <message>
-        <source>&amp;Export...</source>
-        <translation type="obsolete">&amp;Exportál...</translation>
-    </message>
-    <message>
-        <source>&amp;Latest</source>
-        <translation type="obsolete">&amp;Utolsó</translation>
-    </message>
-    <message>
-        <location filename="../src/history.ui" line="+29"/>
+        <location filename="../../psi-plus/src/history.ui" line="+29"/>
         <source>HistoryDlg</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5840,36 +7314,12 @@ You lost the game.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;No</source>
-        <translation type="obsolete">&amp;Nem</translation>
-    </message>
-    <message>
         <location line="-42"/>
         <source>&amp;Previous</source>
         <translation>&amp;Előző</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="obsolete">&amp;Igen</translation>
-    </message>
-    <message>
-        <source>Already at beginning of message history.</source>
-        <translation type="obsolete">Már az előzmények elején vagy.</translation>
-    </message>
-    <message>
-        <source>Confirm erase all</source>
-        <translation type="obsolete">Összes törlésének megerősítése</translation>
-    </message>
-    <message>
-        <source>Confirm overwrite</source>
-        <translation type="obsolete">Felülírás megerősítése</translation>
-    </message>
-    <message>
-        <source>Er&amp;ase All</source>
-        <translation type="obsolete">Mindet &amp;töröl</translation>
-    </message>
-    <message>
-        <location filename="../src/historydlg.cpp" line="+291"/>
+        <location filename="../../psi-plus/src/historydlg.cpp" line="+292"/>
         <source>Remove history</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5889,7 +7339,7 @@ You lost the game.</source>
         <translation>Hiba a fájl írása közben.</translation>
     </message>
     <message>
-        <location line="+75"/>
+        <location line="+74"/>
         <source>&amp;Open chat</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5904,21 +7354,9 @@ You lost the game.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-85"/>
+        <location line="-84"/>
         <source>Export message history</source>
         <translation>Előzmények exportálása</translation>
-    </message>
-    <message>
-        <source>File already exists, overwrite?</source>
-        <translation type="obsolete">Fájl már létezik, felülírod?</translation>
-    </message>
-    <message>
-        <source>Find</source>
-        <translation type="obsolete">Keres</translation>
-    </message>
-    <message>
-        <source>Search string &apos;%1&apos; not found.</source>
-        <translation type="obsolete">Nincs találat: &apos;%1&apos;.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -5926,65 +7364,146 @@ You lost the game.</source>
         <translation>TXT fájlok (*.txt);;Minden fájl (*.*)</translation>
     </message>
     <message>
-        <source>This will erase all message history for this contact!
-Are you sure you want to do this?</source>
-        <translation type="obsolete">Biztosan törölni akarod a partner összes előzményét?</translation>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.cpp" line="-68"/>
+        <source>History</source>
+        <translation type="unfinished">Előzmények</translation>
     </message>
     <message>
-        <source>Unable to delete history file.</source>
-        <translation type="obsolete">Nem tudom törölni a napló fájlt.</translation>
+        <location line="+7"/>
+        <source>Copy</source>
+        <translation type="unfinished">Másol</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Copy link to the clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Open</source>
+        <translation type="unfinished">Megnyit</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Open link in browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Close history</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>HistoryKeeperPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/historykeeperplugin/historykeeperplugin.cpp" line="+188"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Remove history for contacts:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+83"/>
+        <source>Clear history on exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to remove the history of selected contacts when the Psi+ is closed.
+You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>HistoryView</name>
     <message>
-        <source>Copy</source>
-        <translation type="obsolete">Másol</translation>
-    </message>
-    <message>
-        <source>Date</source>
-        <translation type="obsolete">Dátum</translation>
-    </message>
-    <message>
-        <source>From</source>
-        <translation type="obsolete">Feladó</translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation type="obsolete">Megnyit</translation>
-    </message>
-    <message>
-        <source>Origin</source>
-        <translation type="obsolete">Eredet</translation>
-    </message>
-    <message>
-        <source>Text</source>
-        <translation type="obsolete">Szöveg</translation>
-    </message>
-    <message>
-        <source>To</source>
-        <translation type="obsolete">Küldő</translation>
-    </message>
-    <message>
-        <source>Type</source>
-        <translation type="obsolete">Típus</translation>
+        <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/common.cpp" line="-105"/>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>HostPortEdit</name>
+    <name>HomeDirMigration</name>
     <message>
-        <source>Host:</source>
-        <translation type="obsolete">Cím:</translation>
+        <location filename="../../psi-plus/src/homedirmigration.ui" line="+14"/>
+        <source>Psi+ Import Wizard</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Port:</source>
-        <translation type="obsolete">Port:</translation>
+        <location line="+10"/>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Import Psi profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Import Psi profile and remove it</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Create new profile</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>HttpAuthEvent</name>
     <message>
-        <location filename="../src/psievent.cpp" line="+37"/>
+        <location filename="../../psi-plus/src/psievent.cpp" line="+37"/>
         <source>HTTP Authentication Request</source>
         <translation>HTTP Azonosítási Kérelem</translation>
     </message>
@@ -5992,7 +7511,7 @@ Are you sure you want to do this?</source>
 <context>
     <name>HttpConnect</name>
     <message>
-        <location filename="../iris/src/irisnet/noncore/cutestuff/httpconnect.cpp" line="+328"/>
+        <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httpconnect.cpp" line="+328"/>
         <source>Access denied</source>
         <translation>Hozzáférés megtagadva</translation>
     </message>
@@ -6020,7 +7539,7 @@ Are you sure you want to do this?</source>
 <context>
     <name>HttpProxyGetStream</name>
     <message>
-        <location filename="../iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="+909"/>
+        <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="+909"/>
         <source>Authentication failed</source>
         <translation>Hitelesítés meghiúsult</translation>
     </message>
@@ -6076,19 +7595,69 @@ Are you sure you want to do this?</source>
 <context>
     <name>IconSelect</name>
     <message>
-        <location filename="../src/widgets/iconselect.cpp" line="+272"/>
+        <location filename="../../psi-plus/src/widgets/iconselect.cpp" line="+268"/>
         <source>No icons available</source>
         <translation>Nincs elérhető hangulatjel</translation>
     </message>
 </context>
 <context>
-    <name>IconsetDetailsDlg</name>
+    <name>IconsetActivity</name>
     <message>
-        <source>&amp;Done</source>
-        <translation type="obsolete">&amp;Bezár</translation>
+        <location filename="../../psi-plus/src/options/opt_iconset_activity.ui" line="+14"/>
+        <source>IconsetActivityUI</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/options/ui_isdetails.ui" line="+78"/>
+        <location line="+12"/>
+        <source>Activity iconsets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <source>&amp;Show Details</source>
+        <translation type="unfinished">&amp;Részletek mutatása</translation>
+    </message>
+</context>
+<context>
+    <name>IconsetAffiliation</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_iconset_affiliation.ui" line="+14"/>
+        <source>IconsetClientUI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Affiliation iconsets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <source>&amp;Show Details</source>
+        <translation type="unfinished">&amp;Részletek mutatása</translation>
+    </message>
+</context>
+<context>
+    <name>IconsetClient</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_iconset_client.ui" line="+14"/>
+        <source>IconsetClientUI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Client iconsets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <source>&amp;Show Details</source>
+        <translation type="unfinished">&amp;Részletek mutatása</translation>
+    </message>
+</context>
+<context>
+    <name>IconsetDetailsDlg</name>
+    <message>
+        <location filename="../../psi-plus/src/options/ui_isdetails.ui" line="+78"/>
         <source>Authors:</source>
         <translation>Alkotók:</translation>
     </message>
@@ -6139,7 +7708,7 @@ Are you sure you want to do this?</source>
 <context>
     <name>IconsetDisplayItem</name>
     <message>
-        <location filename="../src/widgets/iconwidget.cpp" line="+448"/>
+        <location filename="../../psi-plus/src/widgets/iconwidget.cpp" line="+448"/>
         <source>Name: &apos;%1&apos;</source>
         <translation>Név: &apos;%1&apos;</translation>
     </message>
@@ -6147,7 +7716,7 @@ Are you sure you want to do this?</source>
 <context>
     <name>IconsetEmo</name>
     <message>
-        <location filename="../src/options/opt_iconset_emo.ui" line="+16"/>
+        <location filename="../../psi-plus/src/options/opt_iconset_emo.ui" line="+16"/>
         <source>IconsetEmoUI</source>
         <translation>IconsetEmoUI</translation>
     </message>
@@ -6178,24 +7747,27 @@ Are you sure you want to do this?</source>
     </message>
 </context>
 <context>
-    <name>IconsetEmoUI</name>
+    <name>IconsetMood</name>
     <message>
+        <location filename="../../psi-plus/src/options/opt_iconset_mood.ui" line="+14"/>
+        <source>IconsetMoodUI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Mood iconsets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
         <source>&amp;Show Details</source>
-        <translation type="obsolete">&amp;Részletek mutatása</translation>
-    </message>
-    <message>
-        <source>Emoticon iconsets</source>
-        <translation type="obsolete">Hangulatjelek</translation>
-    </message>
-    <message>
-        <source>Enable Emoticons</source>
-        <translation type="obsolete">Hangulatjelek engedélyezése</translation>
+        <translation type="unfinished">&amp;Részletek mutatása</translation>
     </message>
 </context>
 <context>
     <name>IconsetRoster</name>
     <message>
-        <location filename="../src/options/opt_iconset_roster.ui" line="+13"/>
+        <location filename="../../psi-plus/src/options/opt_iconset_roster.ui" line="+13"/>
         <source>IconsetRosterUI</source>
         <translation>IconsetRosterUI</translation>
     </message>
@@ -6279,128 +7851,9 @@ Are you sure you want to do this?</source>
     </message>
 </context>
 <context>
-    <name>IconsetRosterUI</name>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="obsolete">&amp;Hozzáad</translation>
-    </message>
-    <message>
-        <source>&amp;Delete</source>
-        <translation type="obsolete">&amp;Töröl</translation>
-    </message>
-    <message>
-        <source>&amp;Show Details</source>
-        <translation type="obsolete">&amp;Részletek mutatása</translation>
-    </message>
-    <message>
-        <source>AIM</source>
-        <translation type="obsolete">AIM</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation type="obsolete">Egyéni</translation>
-    </message>
-    <message>
-        <source>Custom iconsets:</source>
-        <translation type="obsolete">Egyéni ikoncsomag:</translation>
-    </message>
-    <message>
-        <source>Default</source>
-        <translation type="obsolete">Alapértelmezett</translation>
-    </message>
-    <message>
-        <source>Default roster iconset:</source>
-        <translation type="obsolete">Alapértelmezett lista ikoncsomag:</translation>
-    </message>
-    <message>
-        <source>Gadu-Gadu</source>
-        <translation type="obsolete">Gadu-Gadu</translation>
-    </message>
-    <message>
-        <source>ICQ</source>
-        <translation type="obsolete">ICQ</translation>
-    </message>
-    <message>
-        <source>Iconset</source>
-        <translation type="obsolete">Ikoncsomag</translation>
-    </message>
-    <message>
-        <source>Iconset:</source>
-        <translation type="obsolete">Ikoncsomag:</translation>
-    </message>
-    <message>
-        <source>MSN</source>
-        <translation type="obsolete">MSN</translation>
-    </message>
-    <message>
-        <source>RegExp</source>
-        <translation type="obsolete">RegKif</translation>
-    </message>
-    <message>
-        <source>Regular Expression:</source>
-        <translation type="obsolete">Reguláris kifejezés:</translation>
-    </message>
-    <message>
-        <source>SMS</source>
-        <translation type="obsolete">SMS</translation>
-    </message>
-    <message>
-        <source>Service</source>
-        <translation type="obsolete">Szolgáltatás</translation>
-    </message>
-    <message>
-        <source>Service iconsets:</source>
-        <translation type="obsolete">Szolágtatás ikonjai:</translation>
-    </message>
-    <message>
-        <source>Services</source>
-        <translation type="obsolete">Szolgáltatások</translation>
-    </message>
-    <message>
-        <source>Use transport specific icons for contacts</source>
-        <translation type="obsolete">Szolgáltatások ikonjainak használata</translation>
-    </message>
-    <message>
-        <source>Yahoo!</source>
-        <translation type="obsolete">Yahoo!</translation>
-    </message>
-    <message>
-        <source>aim</source>
-        <translation type="obsolete">aim</translation>
-    </message>
-    <message>
-        <source>gadugadu</source>
-        <translation type="obsolete">gadugadu</translation>
-    </message>
-    <message>
-        <source>icq</source>
-        <translation type="obsolete">icq</translation>
-    </message>
-    <message>
-        <source>msn</source>
-        <translation type="obsolete">msn</translation>
-    </message>
-    <message>
-        <source>name</source>
-        <translation type="obsolete">név</translation>
-    </message>
-    <message>
-        <source>sms</source>
-        <translation type="obsolete">sms</translation>
-    </message>
-    <message>
-        <source>transport</source>
-        <translation type="obsolete">szolgáltatás</translation>
-    </message>
-    <message>
-        <source>yahoo</source>
-        <translation type="obsolete">yahoo</translation>
-    </message>
-</context>
-<context>
     <name>IconsetSystem</name>
     <message>
-        <location filename="../src/options/opt_iconset_system.ui" line="+13"/>
+        <location filename="../../psi-plus/src/options/opt_iconset_system.ui" line="+13"/>
         <source>IconsetSystemUI</source>
         <translation>IconsetSystemUI</translation>
     </message>
@@ -6421,24 +7874,94 @@ Are you sure you want to do this?</source>
     </message>
 </context>
 <context>
-    <name>IconsetSystemUI</name>
-    <message>
-        <source>&amp;Show Details</source>
-        <translation type="obsolete">&amp;Részletek mutatása</translation>
+    <name>IcqDie</name>
+    <message utf8="true">
+        <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="+115"/>
+        <source>Я Вам как Linux скажу, только Вы не обижайтесь. Этот человек, конечно, получит Ваше сообщение, но лучше бы Вам общаться с ним через Jabber. А то не ровен час - аська сдохнет, старушка своё отжила. Его JID: %1.
+
+Искренне Ваш, Debian Sid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+4"/>
+        <source>Я Вам как Linux скажу, только Вы не обижайтесь. Этот человек имел в виду всех пользователей аськи, поэтому если Вы до сих пор сидите в этой сети, то он не получит Ваше сообщение, поэтому Вам придётся общаться с ним через Jabber. Его JID: %1.
+
+Если Вы не знаете что такое Jabber, то есть Google - он всё знает и поможет любому, кто к нему обратится.
+Искренне Ваш, Debian Sid.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Alt+S</source>
-        <translation type="obsolete">Alt+S</translation>
+        <location line="+145"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>System Iconset:</source>
-        <translation type="obsolete">Rendszer ikoncsomagja:</translation>
+        <location line="+142"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
+The plugin has a number of simple settings that can help you:
+* set a special message text
+* exclude specific ICQ numbers
+* set the time interval after which the message will be repeated
+* set the max count of messages by contact
+* disable the message for the active window/tab
+* disable messages for contacts that are not in your roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ImagePlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/imageplugin/imageplugin.cpp" line="+117"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Send Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+41"/>
+        <source>Open Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>The image size is too large.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Image :)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to send images to roster contacts.
+Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Info</name>
     <message>
-        <location filename="../src/info.ui" line="+16"/>
+        <location filename="../../psi-plus/src/info.ui" line="+16"/>
         <source>User Info</source>
         <translation>Felhasználó adatai</translation>
     </message>
@@ -6611,11 +8134,7 @@ Are you sure you want to do this?</source>
 <context>
     <name>InfoDlg</name>
     <message>
-        <source>Choose a file</source>
-        <translation type="obsolete">Válassz egy fájlt</translation>
-    </message>
-    <message>
-        <location filename="../src/infodlg.cpp" line="+273"/>
+        <location filename="../../psi-plus/src/infodlg.cpp" line="+278"/>
         <source>Close and discard</source>
         <translation>Bezár és elvet</translation>
     </message>
@@ -6630,10 +8149,6 @@ Are you sure you want to do this?</source>
         <location line="+3"/>
         <source>Error</source>
         <translation>Hiba</translation>
-    </message>
-    <message>
-        <source>Images (*.png *.xpm *.jpg *.PNG *.XPM *.JPG)</source>
-        <translation type="obsolete">Képek (*.png *.xpm *.jpg *.PNG *.XPM *.JPG)</translation>
     </message>
     <message>
         <location line="+410"/>
@@ -6651,10 +8166,6 @@ elérhető</translation>
         <location line="-450"/>
         <source>Success</source>
         <translation>Siker</translation>
-    </message>
-    <message>
-        <source>The file specified does not exist.</source>
-        <translation type="obsolete">A megadott fájl nem létezik.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -6681,25 +8192,35 @@ Oka: %1</translation>
         <translation>Figyelmeztetés</translation>
     </message>
     <message>
-        <location line="-121"/>
-        <location line="+207"/>
+        <location line="-122"/>
+        <location line="+208"/>
         <source>First Name:</source>
         <translation>Keresztnév:</translation>
     </message>
     <message>
-        <location line="-206"/>
-        <location line="+207"/>
+        <location line="-207"/>
+        <location line="+208"/>
         <source>Middle Name:</source>
         <translation>Középső név:</translation>
     </message>
     <message>
-        <location line="-206"/>
-        <location line="+207"/>
+        <location line="-207"/>
+        <location line="+208"/>
         <source>Last Name:</source>
         <translation>Családnév:</translation>
     </message>
     <message>
-        <location line="-200"/>
+        <location line="-203"/>
+        <source>Edit names</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>View names</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
         <location line="+1"/>
         <source>Open web browser</source>
         <translation type="unfinished">Böngésző megnyitása</translation>
@@ -6729,161 +8250,471 @@ Biztos el akarod vetni őket?</translation>
     </message>
 </context>
 <context>
-    <name>InfoUI</name>
+    <name>InvateDialog</name>
     <message>
-        <source>&amp;Clear</source>
-        <translation type="obsolete">&amp;Töröl</translation>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/invatedialog.ui" line="+14"/>
+        <source>Gomoku Game Plugin - Invite</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
+        <location line="+8"/>
+        <source>Opponent:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Open...</source>
-        <translation type="obsolete">&amp;Megnyit...</translation>
+        <location line="+20"/>
+        <source>Select resource:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Publish</source>
-        <translation type="obsolete">&amp;Elküld</translation>
+        <location line="+47"/>
+        <source>Play Black</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Retrieve</source>
-        <translation type="obsolete">&amp;Lekérdez</translation>
+        <location line="+7"/>
+        <source>Play White</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>About</source>
-        <translation type="obsolete">Egyéb</translation>
-    </message>
-    <message>
-        <source>Alt+C</source>
-        <translation type="obsolete">Alt+C</translation>
-    </message>
-    <message>
-        <source>Alt+O</source>
-        <translation type="obsolete">Alt+O</translation>
-    </message>
-    <message>
-        <source>Birthday</source>
-        <translation type="obsolete">Születésnap</translation>
-    </message>
-    <message>
-        <source>City</source>
-        <translation type="obsolete">Város</translation>
-    </message>
-    <message>
-        <source>Company</source>
-        <translation type="obsolete">Cég</translation>
-    </message>
-    <message>
-        <source>Country</source>
-        <translation type="obsolete">Ország</translation>
-    </message>
-    <message>
-        <source>Department</source>
-        <translation type="obsolete">Osztály</translation>
-    </message>
-    <message>
-        <source>E-Mail</source>
-        <translation type="obsolete">E-Mail</translation>
-    </message>
-    <message>
-        <source>Full Name</source>
-        <translation type="obsolete">Teljes név</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation type="obsolete">Általános</translation>
-    </message>
-    <message>
-        <source>Homepage</source>
-        <translation type="obsolete">Honlap</translation>
-    </message>
-    <message>
-        <source>Location</source>
-        <translation type="obsolete">Otthon</translation>
-    </message>
-    <message>
-        <source>Nickname</source>
-        <translation type="obsolete">Becenév</translation>
-    </message>
-    <message>
-        <source>Phone #</source>
-        <translation type="obsolete">Telefon szám</translation>
-    </message>
-    <message>
-        <source>Position</source>
-        <translation type="obsolete">Pozíció</translation>
-    </message>
-    <message>
-        <source>Postal Code</source>
-        <translation type="obsolete">Irányító szám</translation>
-    </message>
-    <message>
-        <source>Role</source>
-        <translation type="obsolete">Beosztás</translation>
-    </message>
-    <message>
-        <source>State</source>
-        <translation type="obsolete">Megye</translation>
-    </message>
-    <message>
-        <source>Street</source>
-        <translation type="obsolete">Utca</translation>
-    </message>
-    <message>
-        <source>User Info</source>
-        <translation type="obsolete">Partner információi</translation>
-    </message>
-    <message>
-        <source>Work</source>
-        <translation type="obsolete">Munkahely</translation>
+        <location line="+7"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Mégse</translation>
     </message>
 </context>
 <context>
-    <name>JLTestDlg</name>
+    <name>InvitationDialog</name>
     <message>
+        <location filename="../../psi-plus/src/plugins/generic/chessplugin/invitationdialog.ui" line="+20"/>
+        <source>Chess Plugin - Invitation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/invitationdialog.ui" line="+48"/>
         <source>Accept</source>
-        <translation type="obsolete">Elfogad</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation type="obsolete">Bezár</translation>
+        <location line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/invitationdialog.ui" line="+7"/>
+        <source>Reject</source>
+        <translation type="unfinished">Elutasítás</translation>
     </message>
     <message>
-        <source>Connect</source>
-        <translation type="obsolete">Csatlakozás</translation>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/invitationdialog.ui" line="-35"/>
+        <source>Gomoku Game Plugin - Invitation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Connection closed.</source>
-        <translation type="obsolete">Kapcsolat bontva.</translation>
+        <location filename="../../psi-plus/src/plugins/generic/chessplugin/invitedialog.cpp" line="+79"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/invatedialog.cpp" line="+81"/>
+        <source>white</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Error</source>
-        <translation type="obsolete">Hiba</translation>
+        <location line="+2"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/invatedialog.cpp" line="+2"/>
+        <source>black</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Stream or connection error.</source>
-        <translation type="obsolete">Stream vagy kapcsolat hiba.</translation>
+        <location line="+2"/>
+        <source>Player %1 invites you 
+to play chess. He wants to play %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/invatedialog.cpp" line="+2"/>
+        <source>Player %1 invites you 
+to play gomoku. He wants to play %2.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>JT_VCard</name>
+    <name>InviteDialog</name>
     <message>
-        <source>No VCard available</source>
-        <translation type="obsolete">Nincs elérhető VCard</translation>
+        <location filename="../../psi-plus/src/plugins/generic/chessplugin/invitedialog.ui" line="+20"/>
+        <source>Invitation</source>
+        <translation type="unfinished">Meghívás</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Select resource:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+47"/>
+        <source>Play White</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Play Black</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>KTabBar</name>
+    <name>JDMainWin</name>
     <message>
-        <source>Close this tab</source>
-        <translation type="obsolete">Lap bezárása</translation>
+        <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jd_mainwin.ui" line="+78"/>
+        <source>Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Clear log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+50"/>
+        <source>Send</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="+42"/>
+        <source>Jabber Disk - %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+105"/>
+        <source>&lt;b&gt;You:&lt;/b&gt; </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>&lt;b&gt;Disk:&lt;/b&gt; </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+58"/>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Make dir</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Get File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Send File</source>
+        <translation type="unfinished">Fájl küldése</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Help</source>
+        <translation type="unfinished">Súgó</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Intro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Statistics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Rename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Move to...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Remove Item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Input Dir Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Input Full JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Input New Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>JabberDiskPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jabberdiskplugin.cpp" line="+199"/>
+        <source>Jabber Disk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>JuickJidDialog</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickjidlist.ui" line="+17"/>
+        <source>Set JIDs of Juick Bot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>JuickJidList</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickjidlist.cpp" line="+48"/>
+        <source>Input JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>JuickPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="+270"/>
+        <source>Show all messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Reply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show %1&apos;s info and last 10 messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Subscribe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show last 10 messages with tag %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Unsubscribe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+32"/>
+        <source>Edit JIDs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>@username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>*tag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>#message id</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>&gt;quote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>http://link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>italic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>underline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+74"/>
+        <source>Use message Id as resource</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Show Photo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Show Avatars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Replaces message id with a link
+to this message in juick@conference.jabber.ru</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Clear avatar cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+246"/>
+        <location line="+889"/>
+        <location line="+13"/>
+        <location line="+23"/>
+        <location line="+12"/>
+        <source>Warning</source>
+        <translation type="unfinished">Figyelmeztetés</translation>
+    </message>
+    <message>
+        <location line="-937"/>
+        <source>can&apos;t create folder %1 
+caching avatars will be not available</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+432"/>
+        <source>Recommended by </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+176"/>
+        <source> replied:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+50"/>
+        <source>Reply posted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <source>New message posted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+75"/>
+        <location line="+8"/>
+        <source>Subscribe to %1&apos;s blog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-4"/>
+        <source>Send personal message to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+124"/>
+        <location line="+13"/>
+        <location line="+23"/>
+        <location line="+12"/>
+        <source>Cannot write to file %1:
+%2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+158"/>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Add to favorites</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
+Currently, the plugin is able to: 
+* Coloring @nick, *tag and #message_id in messages from the juick@juick.com bot
+* Detect &gt;quotes in messages
+* Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
+
+Note: To work correctly, the option options.html.chat.render	must be set to true. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>LookFeelToolbars</name>
     <message>
-        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="+13"/>
+        <location filename="../../psi-plus/src/options/opt_lookfeel_toolbars.ui" line="+13"/>
         <source>LookFeelToolbarsUI</source>
         <translation>LookFeelToolbarsUI</translation>
     </message>
@@ -6972,82 +8803,19 @@ Biztos el akarod vetni őket?</translation>
     </message>
 </context>
 <context>
-    <name>LookFeelToolbarsUI</name>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="obsolete">&amp;Hozzáad</translation>
-    </message>
-    <message>
-        <source>&amp;Delete</source>
-        <translation type="obsolete">&amp;Töröl</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
-    </message>
-    <message>
-        <source>A&amp;vailable Actions:</source>
-        <translation type="obsolete">&amp;Elérhető lehetőségek:</translation>
-    </message>
-    <message>
-        <source>Alt+A</source>
-        <translation type="obsolete">Alt+A</translation>
-    </message>
-    <message>
-        <source>Alt+D</source>
-        <translation type="obsolete">Alt+D</translation>
-    </message>
-    <message>
-        <source>Change Position (Advanced)</source>
-        <translation type="obsolete">Helyzet megváltoztatása</translation>
-    </message>
-    <message>
-        <source>Curr&amp;ent Actions:</source>
-        <translation type="obsolete">&amp;Eszköztáron:</translation>
-    </message>
-    <message>
-        <source>Enabled</source>
-        <translation type="obsolete">Engedélyezve</translation>
-    </message>
-    <message>
-        <source>Locked</source>
-        <translation type="obsolete">Lezárva</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="obsolete">Név</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation type="obsolete">Név:</translation>
-    </message>
-    <message>
-        <source>Specifies, whether it is possible to move toolbar.</source>
-        <translation type="obsolete">Beállítja, hogy az eszköztár mozgatható-e.</translation>
-    </message>
-    <message>
-        <source>Specifies, whether toolbar is enabled and visible.</source>
-        <translation type="obsolete">Beállítja, hogy az eszköztár engedélyezve van vagy nincs.</translation>
-    </message>
-    <message>
-        <source>Specifies, whether toolbar is stretchable.
-Note: it is impossible to dock stretchable toolbar. Uncheck that check box, click apply, dock the toolbar, and then check stretchable again.</source>
-        <translation type="obsolete">Beállítja, hogy az eszköztárat át lehet-e méretezni.
-Megj: lehetséges az átméretezhető eszköztárak dokkolása. Kapcsold ezt ki, kattints alkalmazra, majd kapcsold ki.</translation>
-    </message>
-    <message>
-        <source>Stretchable</source>
-        <translation type="obsolete">Átméretezhető</translation>
-    </message>
-    <message>
-        <source>Toolbar:</source>
-        <translation type="obsolete">Eszköztár:</translation>
-    </message>
-</context>
-<context>
     <name>MUCAffiliationsModel</name>
     <message>
-        <location filename="../src/mucaffiliationsmodel.cpp" line="+173"/>
+        <location filename="../../psi-plus/src/mucaffiliationsmodel.cpp" line="+43"/>
+        <source>JID</source>
+        <translation type="unfinished">JID</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Reason</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+136"/>
         <source>Members</source>
         <translation>Tagok</translation>
     </message>
@@ -7070,7 +8838,7 @@ Megj: lehetséges az átméretezhető eszköztárak dokkolása. Kapcsold ezt ki,
 <context>
     <name>MUCConfig</name>
     <message>
-        <location filename="../src/mucconfig.ui" line="+16"/>
+        <location filename="../../psi-plus/src/mucconfig.ui" line="+16"/>
         <source>Room Configuration</source>
         <translation>Szoba konfiguráció</translation>
     </message>
@@ -7123,7 +8891,7 @@ Megj: lehetséges az átméretezhető eszköztárak dokkolása. Kapcsold ezt ki,
 <context>
     <name>MUCConfigDlg</name>
     <message>
-        <location filename="../src/mucconfigdlg.cpp" line="+126"/>
+        <location filename="../../psi-plus/src/mucconfigdlg.cpp" line="+126"/>
         <source>Requesting room configuration ...</source>
         <translation>Szoba beállításainak lekérése...</translation>
     </message>
@@ -7198,7 +8966,7 @@ Megj: lehetséges az átméretezhető eszköztárak dokkolása. Kapcsold ezt ki,
 <context>
     <name>MUCJoin</name>
     <message>
-        <location filename="../src/mucjoin.ui" line="+14"/>
+        <location filename="../../psi-plus/src/mucjoin.ui" line="+14"/>
         <source>Join Groupchat</source>
         <translation>Csatlakozás konferenciához</translation>
     </message>
@@ -7242,29 +9010,34 @@ Megj: lehetséges az átméretezhető eszköztárak dokkolása. Kapcsold ezt ki,
         <source>Request chat history</source>
         <translation>Beszélgetési előzmény kérése</translation>
     </message>
+    <message>
+        <location line="+49"/>
+        <source>Bookmarks:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MUCJoinDlg</name>
     <message>
-        <location filename="../src/mucjoindlg.cpp" line="+44"/>
+        <location filename="../../psi-plus/src/mucjoindlg.cpp" line="+54"/>
         <source>&amp;Join</source>
         <translation>&amp;Belép</translation>
     </message>
     <message>
-        <location line="+15"/>
+        <location line="+17"/>
         <source>%1 on %2</source>
         <translation>%1 (%2)</translation>
     </message>
     <message>
-        <location line="+90"/>
+        <location line="+129"/>
         <location line="+6"/>
-        <location line="+16"/>
-        <location line="+37"/>
+        <location line="+18"/>
+        <location line="+52"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location line="-59"/>
+        <location line="-76"/>
         <source>You must fill out the fields in order to join.</source>
         <translation>Ki kell töltened a mezőket hogy beléphess.</translation>
     </message>
@@ -7274,12 +9047,12 @@ Megj: lehetséges az átméretezhető eszköztárak dokkolása. Kapcsold ezt ki,
         <translation>Rossz szobanevet adtál meg.</translation>
     </message>
     <message>
-        <location line="+16"/>
+        <location line="+18"/>
         <source>You are in or joining this room already!</source>
         <translation>Már benntvagy a szobában, vagy éppen folyamatban van!</translation>
     </message>
     <message>
-        <location line="+37"/>
+        <location line="+52"/>
         <source>Unable to join groupchat.
 Reason: %1</source>
         <translation>Nem sikerült belépni a csoportbeszélgetésbe.
@@ -7289,7 +9062,7 @@ Oka: %1</translation>
 <context>
     <name>MUCManager</name>
     <message>
-        <location filename="../src/mucmanager.cpp" line="+547"/>
+        <location filename="../../psi-plus/src/mucmanager.cpp" line="+552"/>
         <source>You are not allowed to kick this user.</source>
         <translation>Nem vagy felhatalmazva hogy kirúgd ezt a felhasználót.</translation>
     </message>
@@ -7362,7 +9135,7 @@ Oka: %1</translation>
 <context>
     <name>MUCReasonsEditor</name>
     <message>
-        <location filename="../src/mucreasonseditor.ui" line="+13"/>
+        <location filename="../../psi-plus/src/mucreasonseditor.ui" line="+13"/>
         <source>Reason editor</source>
         <translation>Indokok szerkesztése</translation>
     </message>
@@ -7382,7 +9155,12 @@ Oka: %1</translation>
         <translation>Eltávolít</translation>
     </message>
     <message>
-        <location line="+33"/>
+        <location line="+20"/>
+        <source>Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
         <source>Ok</source>
         <translation>Rendben</translation>
     </message>
@@ -7395,92 +9173,111 @@ Oka: %1</translation>
 <context>
     <name>MainWin</name>
     <message>
-        <location filename="../src/mainwin.cpp" line="+1303"/>
+        <location filename="../../psi-plus/src/mainwin.cpp" line="+1726"/>
         <source>%1 events received</source>
         <translation>%1 esemény várakozik</translation>
     </message>
     <message>
-        <location line="-547"/>
+        <location line="-766"/>
         <source>&amp;Help</source>
         <translation>&amp;Súgó</translation>
     </message>
     <message>
-        <location line="+245"/>
+        <location line="+331"/>
         <source>&amp;Hide</source>
         <translation>&amp;Elrejt</translation>
     </message>
     <message>
-        <location line="+299"/>
+        <location line="+45"/>
+        <source>Status Message</source>
+        <translation type="unfinished">Állapot üzenet</translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Active accounts:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>
+Active accounts:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Incoming event(s) from:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>
+Incoming event(s) from:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+352"/>
         <source>1 event received</source>
         <translation>1 esemény várakozik</translation>
     </message>
     <message>
-        <location line="-266"/>
+        <location line="-326"/>
         <source>Connecting</source>
         <translation>Csatlakozás</translation>
     </message>
     <message>
-        <location line="-691"/>
+        <location line="-937"/>
         <location line="+42"/>
         <source>General</source>
         <translation>Menü</translation>
     </message>
     <message>
-        <location line="+28"/>
+        <location line="+27"/>
         <source>Help</source>
         <translation>Súgó</translation>
     </message>
     <message>
-        <location line="-36"/>
+        <location line="-35"/>
         <source>Menu</source>
         <translation>Menü</translation>
     </message>
     <message>
-        <source>Preferences</source>
-        <translation type="obsolete">Beállítások</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation type="obsolete">Kilép</translation>
-    </message>
-    <message>
-        <location line="+464"/>
+        <location line="+551"/>
         <source>ReadMe</source>
         <translation>OlvassEl</translation>
     </message>
     <message>
-        <location line="+152"/>
+        <location line="+238"/>
         <source>Receive next event</source>
         <translation>Következő esemény</translation>
     </message>
     <message>
-        <location line="-652"/>
+        <location line="-828"/>
         <source>Status</source>
         <translation>Állapot</translation>
     </message>
     <message>
-        <location line="+68"/>
+        <location line="+70"/>
         <source>Tools</source>
         <translation>Eszközök</translation>
     </message>
     <message>
-        <location line="+589"/>
+        <location line="+763"/>
         <source>Un&amp;hide</source>
         <translation>&amp;Mutat</translation>
     </message>
     <message>
-        <location line="-603"/>
+        <location line="-896"/>
         <source>View</source>
         <translation>Nézet</translation>
     </message>
     <message>
-        <location line="-163"/>
-        <location line="+192"/>
+        <location line="-111"/>
+        <location line="+259"/>
         <source>Diagnostics</source>
         <translation>Hibaelhárítás</translation>
     </message>
     <message>
-        <location line="+481"/>
+        <location line="+569"/>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
         <translation>Ez a program GStreamer %1-t használ, egy széleskörű nyílt forráskódú és platformfüggetlen multimédia keretrendszer. Több információért látogatsd meg a következő címet: &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
     </message>
@@ -7499,38 +9296,11 @@ Oka: %1</translation>
         <source>Key Storage Diagnostic Text</source>
         <translation>A tárolt kulcsok adatai</translation>
     </message>
-    <message>
-        <source>Remove Group</source>
-        <translation type="obsolete">Csoport törlése</translation>
-    </message>
-    <message>
-        <source>This will cause all contacts in this group to be disassociated with it.
-
-Proceed?</source>
-        <translation type="obsolete">Ha törlöd a csoportot, akkor a csoport tagjai nem lesznek többé a csoporthoz rendelve.
-
-Folytatod?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="obsolete">&amp;Igen</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="obsolete">&amp;Nem</translation>
-    </message>
-</context>
-<context>
-    <name>MainWin::Private</name>
-    <message>
-        <source>Diagnostics</source>
-        <translation type="obsolete">Hibaelhárítás</translation>
-    </message>
 </context>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="+46"/>
+        <location filename="../../psi-plus/src/plugins/generic/chess/mainwindow.cpp" line="+46"/>
         <source>New</source>
         <translation>Új</translation>
     </message>
@@ -7588,35 +9358,15 @@ Oroszország, Tambov, 2005 (denis@silversoft.net)</translation>
 <context>
     <name>MiniClient</name>
     <message>
-        <source>&amp;Cancel</source>
-        <translation type="obsolete">&amp;Mégse</translation>
-    </message>
-    <message>
-        <source>&amp;Details...</source>
-        <translation type="obsolete">&amp;Részletek...</translation>
-    </message>
-    <message>
-        <source>Co&amp;ntinue</source>
-        <translation type="obsolete">&amp;Folytatás</translation>
-    </message>
-    <message>
-        <source>Reason: %1</source>
-        <translation type="obsolete">Oka: %1</translation>
-    </message>
-    <message>
-        <location filename="../src/miniclient.cpp" line="+165"/>
+        <location filename="../../psi-plus/src/miniclient.cpp" line="+165"/>
         <source>Server Authentication</source>
         <translation>Szerver hitelesítés</translation>
     </message>
     <message>
         <location line="+69"/>
-        <location line="+18"/>
+        <location line="+19"/>
         <source>Server Error</source>
         <translation>Szerver hiba</translation>
-    </message>
-    <message>
-        <source>The %1 certificate failed the authenticity test.</source>
-        <translation type="obsolete">A(z) %1 hitelesítése nem sikerült.</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -7626,15 +9376,38 @@ Details: %1</source>
 Részletek: %1</translation>
     </message>
     <message>
-        <location line="-18"/>
+        <location line="-19"/>
         <source>The server does not support TLS encryption.</source>
         <translation>A szerver nem támogatja a TLS kódolást.</translation>
     </message>
 </context>
 <context>
+    <name>Model</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/model.cpp" line="+27"/>
+        <source>Enable/Disable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>JID (or part of JID)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/model.cpp" line="+29"/>
+        <source>Watch for JIDs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sounds (if empty default sound will be used)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Mood</name>
     <message>
-        <location filename="../src/mood.ui" line="+16"/>
+        <location filename="../../psi-plus/src/mood.ui" line="+16"/>
         <source>Set Mood</source>
         <translation>Hangulat beállítása</translation>
     </message>
@@ -7662,8 +9435,8 @@ Részletek: %1</translation>
 <context>
     <name>MoodDlg</name>
     <message>
-        <location filename="../src/mooddlg.cpp" line="+38"/>
-        <location line="+10"/>
+        <location filename="../../psi-plus/src/mooddlg.cpp" line="+43"/>
+        <location line="+19"/>
         <source>&lt;unset&gt;</source>
         <translation></translation>
     </message>
@@ -7671,15 +9444,111 @@ Részletek: %1</translation>
 <context>
     <name>MyHeaderViewWidget</name>
     <message>
-        <location filename="../src/tools/optionstree/optionstreeviewtest/optionstreeviewtest.cpp" line="+27"/>
+        <location filename="../../psi-plus/src/tools/optionstree/optionstreeviewtest/optionstreeviewtest.cpp" line="+27"/>
         <source>Flat</source>
         <translation>Lapos</translation>
     </message>
 </context>
 <context>
+    <name>NoteModel</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/storagenotesplugin/tagsmodel.cpp" line="+170"/>
+        <source>Title: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>
+Tags: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Notes</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/storagenotesplugin/notes.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/storagenotesplugin/notes.cpp" line="+44"/>
+        <location line="+39"/>
+        <location line="+131"/>
+        <source>Notebook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+56"/>
+        <source>Add note</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Edit note</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Delete note</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+40"/>
+        <source>Load notes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Reload</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Save notes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Close window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/storagenotesplugin/notes.cpp" line="-130"/>
+        <source>Some changes are not saved. Are you sure you want to quit?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+131"/>
+        <source>Some changes are not saved. Are you sure you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+39"/>
+        <source>Error! Perhaps the function is not implemented on the server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+10"/>
+        <source>Storage Notes Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-1"/>
+        <source>Notes has been saved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptAdvanced</name>
     <message>
-        <location filename="../src/options/opt_advanced.ui" line="+13"/>
+        <location filename="../../psi-plus/src/options/opt_advanced.ui" line="+13"/>
         <source>OptAdvancedUI</source>
         <translation>OptAdvancedUI</translation>
     </message>
@@ -7692,6 +9561,26 @@ Részletek: %1</translation>
         <location line="+7"/>
         <source>Enable &quot;Inactivity&quot; events (end/suspend conversation)</source>
         <translation>Tétlenségi események engedélyezése</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Disables the sending of message events such as &quot;Contact is Typing...&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Do not send composing events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Request receipts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Send receipts</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
@@ -7785,84 +9674,9 @@ Részletek: %1</translation>
     </message>
 </context>
 <context>
-    <name>OptAdvancedUI</name>
-    <message>
-        <source>Animate the roster when a contact comes online</source>
-        <translation type="obsolete">Lista animálása ha a partner kapcsolódott</translation>
-    </message>
-    <message>
-        <source>Automatically copy selected text to clipboad</source>
-        <translation type="obsolete">Szöveg automatikus másolása a vágólapra kijelöléskor</translation>
-    </message>
-    <message>
-        <source>Automatically get vCard when becoming online</source>
-        <translation type="obsolete">Automatikusan legyen a vCard lekérve ha csatlakozott</translation>
-    </message>
-    <message>
-        <source>Chats</source>
-        <translation type="obsolete">Chatként</translation>
-    </message>
-    <message>
-        <source>Check client version when a contact comes online</source>
-        <translation type="obsolete">Kliens verziójának lekérdezése ha a partner kapcsolódott</translation>
-    </message>
-    <message>
-        <source>Determined by sender</source>
-        <translation type="obsolete">Küldő által meghatározott</translation>
-    </message>
-    <message>
-        <source>Enable &apos;Contact is typing ...&apos; events</source>
-        <translation type="obsolete">&apos;Éppen ír...&apos; mutatása</translation>
-    </message>
-    <message>
-        <source>Enable message events</source>
-        <translation type="obsolete">Üzenet események engedélyezése (pl. &quot;Éppen ír...&quot;)</translation>
-    </message>
-    <message>
-        <source>Grab URLs from clipboard</source>
-        <translation type="obsolete">URLek &quot;elkapása&quot; a vágólapról</translation>
-    </message>
-    <message>
-        <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation type="obsolete">&quot;Headline&quot; események rejtése (pl. MSN figyelmezetések)</translation>
-    </message>
-    <message>
-        <source>Jabber ID completion</source>
-        <translation type="obsolete">Jabber ID kiegészítés</translation>
-    </message>
-    <message>
-        <source>Messages</source>
-        <translation type="obsolete">Üzenetként</translation>
-    </message>
-    <message>
-        <source>Messages (Chats if Chatting)</source>
-        <translation type="obsolete">Üzenetként (chatként ha chat-elsz)</translation>
-    </message>
-    <message>
-        <source>Scroll roster to contact on event</source>
-        <translation type="obsolete">Lista görgetése a partnerhez eseménykor</translation>
-    </message>
-    <message>
-        <source>Show character counter</source>
-        <translation type="obsolete">Karakerszámláló mutatása</translation>
-    </message>
-    <message>
-        <source>Show subject line in events</source>
-        <translation type="obsolete">Téma külön sorban mutatása</translation>
-    </message>
-    <message>
-        <source>Single-click triggers default action</source>
-        <translation type="obsolete">Egy kattintás kiváltja az alapértelmezett eseményt</translation>
-    </message>
-    <message>
-        <source>Treat incoming messages and chats as:</source>
-        <translation type="obsolete">Bejövő üzenetek kezelése:</translation>
-    </message>
-</context>
-<context>
     <name>OptAppearance</name>
     <message>
-        <location filename="../src/options/opt_appearance.ui" line="+14"/>
+        <location filename="../../psi-plus/src/options/opt_appearance.ui" line="+14"/>
         <source>OptAppearanceUI</source>
         <translation>OptAppearanceUI</translation>
     </message>
@@ -7987,7 +9801,17 @@ Részletek: %1</translation>
         <translation>Csoport címsor betűszíne:</translation>
     </message>
     <message>
-        <location line="+366"/>
+        <location line="+359"/>
+        <source>Specifies the color for additional text of system messages. MUC topic for example.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Additional message text:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+27"/>
         <source>Fonts</source>
         <translation>Betűtípusok</translation>
     </message>
@@ -8023,7 +9847,7 @@ Részletek: %1</translation>
 <context>
     <name>OptAppearanceMisc</name>
     <message>
-        <location filename="../src/options/opt_appearance_misc.ui" line="+16"/>
+        <location filename="../../psi-plus/src/options/opt_appearance_misc.ui" line="+16"/>
         <source>OptAppearanceMiscUI</source>
         <translation>OptAppearanceMiscUI</translation>
     </message>
@@ -8065,182 +9889,39 @@ Részletek: %1</translation>
     </message>
 </context>
 <context>
-    <name>OptAppearanceMiscUI</name>
+    <name>OptAppearanceTheme</name>
     <message>
-        <source>100</source>
-        <translation type="obsolete">100</translation>
+        <location filename="../../psi-plus/src/options/opt_theme.ui" line="+14"/>
+        <source>OptAppearanceThemeUI</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Chat Dialog Opacity:</source>
-        <translation type="obsolete">Chat albak átlátszósága:</translation>
-    </message>
-    <message>
-        <source>Headings</source>
-        <translation type="obsolete">Címsorok</translation>
-    </message>
-    <message>
-        <source>Opacity</source>
-        <translation type="obsolete">Átlátszóság</translation>
-    </message>
-    <message>
-        <source>Outline headings</source>
-        <translation type="obsolete">Címsor körvonalazása</translation>
-    </message>
-    <message>
-        <source>Roster Opacity:</source>
-        <translation type="obsolete">Lista átlátszósága:</translation>
-    </message>
-    <message>
-        <source>Slim group headings</source>
-        <translation type="obsolete">Csoportok vékony körvonalazása</translation>
-    </message>
-</context>
-<context>
-    <name>OptAppearanceUI</name>
-    <message>
-        <source>Account Heading Background</source>
-        <translation type="obsolete">Fiók címsorának háttérszíne</translation>
-    </message>
-    <message>
-        <source>Account Heading Foreground</source>
-        <translation type="obsolete">Fiók címsorának előtere</translation>
-    </message>
-    <message>
-        <source>Away</source>
-        <translation type="obsolete">Nincs a gépnél</translation>
-    </message>
-    <message>
-        <source>Away Contacts</source>
-        <translation type="obsolete">Távollévő partnerek</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="obsolete">Chat</translation>
-    </message>
-    <message>
-        <source>Choose</source>
-        <translation type="obsolete">Választ</translation>
-    </message>
-    <message>
-        <source>Colors</source>
-        <translation type="obsolete">Színek</translation>
-    </message>
-    <message>
-        <source>Contact List Background</source>
-        <translation type="obsolete">Partner lista háttérszíne</translation>
-    </message>
-    <message>
-        <source>DND</source>
-        <translation type="obsolete">Ne zavarj!</translation>
-    </message>
-    <message>
-        <source>DND Contacts</source>
-        <translation type="obsolete">Partnerek &apos;Ne zavarj&apos;-ban</translation>
-    </message>
-    <message>
-        <source>Fonts</source>
-        <translation type="obsolete">Betűtípusok</translation>
-    </message>
-    <message>
-        <source>Group Background</source>
-        <translation type="obsolete">Csoport háttér</translation>
-    </message>
-    <message>
-        <source>Group Foreground</source>
-        <translation type="obsolete">Csoport színe</translation>
-    </message>
-    <message>
-        <source>Group Heading Background</source>
-        <translation type="obsolete">Csoport címsorának háttérszíne</translation>
-    </message>
-    <message>
-        <source>Group Heading Foreground</source>
-        <translation type="obsolete">Csoport címsorának színe</translation>
-    </message>
-    <message>
-        <source>List Background</source>
-        <translation type="obsolete">Lista háttere</translation>
-    </message>
-    <message>
-        <source>Message</source>
-        <translation type="obsolete">Üzenet</translation>
-    </message>
-    <message>
-        <source>Nick Anim Background</source>
-        <translation type="obsolete">Becenév animálás kijelölve</translation>
-    </message>
-    <message>
-        <source>Nick Anim Foreground</source>
-        <translation type="obsolete">Becenév animálásának színe</translation>
-    </message>
-    <message>
-        <source>Nick Animation Background</source>
-        <translation type="obsolete">Becenév animálás kijelölve</translation>
-    </message>
-    <message>
-        <source>Nick Animation Foreground</source>
-        <translation type="obsolete">Becenév animálásának színe</translation>
-    </message>
-    <message>
-        <source>Offline</source>
-        <translation type="obsolete">Nem elérhető</translation>
-    </message>
-    <message>
-        <source>Offline Contacts</source>
-        <translation type="obsolete">Nem elérhető partnerek</translation>
-    </message>
-    <message>
-        <source>Online</source>
-        <translation type="obsolete">Elérhető</translation>
-    </message>
-    <message>
-        <source>Online Contacts</source>
-        <translation type="obsolete">Elérhető partnerek</translation>
-    </message>
-    <message>
-        <source>Popup</source>
-        <translation type="obsolete">Popup</translation>
-    </message>
-    <message>
-        <source>Roster</source>
-        <translation type="obsolete">Lista</translation>
+        <location line="+47"/>
+        <source>&lt;a href=&quot;thememanager://showmore/&quot;&gt;More themes&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptApplication</name>
     <message>
-        <location filename="../src/options/opt_application.ui" line="+13"/>
+        <location filename="../../psi-plus/src/options/opt_application.ui" line="+13"/>
         <source>OptApplicationUI</source>
         <translation>OptApplicationUI</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Roster window always on top</source>
-        <translation>Címlista ablak mindig felül</translation>
-    </message>
-    <message>
-        <location line="+7"/>
-        <source>Auto-resize contact list</source>
-        <translation>Címlista automatikus átméretezése</translation>
-    </message>
-    <message>
-        <source>Remember window sizes</source>
-        <translation type="obsolete">Ablakméretek megjegyzése</translation>
-    </message>
-    <message>
-        <location line="+10"/>
-        <source>Use left-click for menu</source>
-        <translation>Bal egérgomb használata menühöz</translation>
-    </message>
-    <message>
-        <location line="+7"/>
-        <source>Show menubar</source>
-        <translation>Menüsáv mutatása</translation>
+        <source>Automatically launch application when OS starts</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Enable docklet</source>
         <translation>Tálcaikon engedélyezése</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Decorate windows</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+10"/>
@@ -8268,7 +9949,12 @@ Részletek: %1</translation>
         <translation>Frissítések keresése indításkor</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+10"/>
+        <source>Quit when closing the roster window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
         <source>Data transfer base port:</source>
         <translation>Fájl átvitel portja:</translation>
     </message>
@@ -8292,86 +9978,16 @@ Részletek: %1</translation>
         <source>Proxy Settings</source>
         <translation type="unfinished">Proxy beállítások</translation>
     </message>
-</context>
-<context>
-    <name>OptApplicationUI</name>
     <message>
-        <source>Auto-resize contact list</source>
-        <translation type="obsolete">Partner lista automatikus átméretezése</translation>
-    </message>
-    <message>
-        <source>Browser</source>
-        <translation type="obsolete">Böngésző</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation type="obsolete">Egyéni</translation>
-    </message>
-    <message>
-        <source>Data Transfer External Address:</source>
-        <translation type="obsolete">Fájlátvitelhez külső cím:</translation>
-    </message>
-    <message>
-        <source>Data Transfer Port:</source>
-        <translation type="obsolete">Fájlátvitelhez port:</translation>
-    </message>
-    <message>
-        <source>Docklet</source>
-        <translation type="obsolete">Dokkolás</translation>
-    </message>
-    <message>
-        <source>Enable Docklet</source>
-        <translation type="obsolete">Dokkolás engedélyzése</translation>
-    </message>
-    <message>
-        <source>Hide menubar</source>
-        <translation type="obsolete">Menü rejtése</translation>
-    </message>
-    <message>
-        <source>Hide roster window on startup</source>
-        <translation type="obsolete">Lista rejtése indításkor</translation>
-    </message>
-    <message>
-        <source>Links</source>
-        <translation type="obsolete">Linkek</translation>
-    </message>
-    <message>
-        <source>Mailer</source>
-        <translation type="obsolete">Levelező</translation>
-    </message>
-    <message>
-        <source>Make roster window a &quot;Tool-Window&quot;</source>
-        <translation type="obsolete">Lista eszköztárként</translation>
-    </message>
-    <message>
-        <source>Open With:</source>
-        <translation type="obsolete">Megnyitás ezzel:</translation>
-    </message>
-    <message>
-        <source>Remember Window Sizes</source>
-        <translation type="obsolete">Ablakméretek megjegyzése</translation>
-    </message>
-    <message>
-        <source>Roster window always on top</source>
-        <translation type="obsolete">Lista mindig maradjon legfelül</translation>
-    </message>
-    <message>
-        <source>Use &quot;Double-click&quot; style (like Mirabilis ICQ)</source>
-        <translation type="obsolete">&quot;Dupla-kattintás&quot; stílus használata (mint ICQban)</translation>
-    </message>
-    <message>
-        <source>Use WindowMaker docklet</source>
-        <translation type="obsolete">WindowMaker dokkolás használata</translation>
-    </message>
-    <message>
-        <source>Use left-click for menu</source>
-        <translation type="obsolete">Bal-kattintással menü</translation>
+        <location line="+10"/>
+        <source>Language</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptAvCall</name>
     <message>
-        <location filename="../src/options/opt_avcall.ui" line="+13"/>
+        <location filename="../../psi-plus/src/options/opt_avcall.ui" line="+14"/>
         <source>Form</source>
         <translation>Űrlap</translation>
     </message>
@@ -8390,11 +10006,16 @@ Részletek: %1</translation>
         <source>Video input:</source>
         <translation>Videó bemenet:</translation>
     </message>
+    <message>
+        <location line="+17"/>
+        <source>Video support:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptChat</name>
     <message>
-        <location filename="../src/options/opt_chat.ui" line="+13"/>
+        <location filename="../../psi-plus/src/options/opt_chat.ui" line="+13"/>
         <source>OptChatUI</source>
         <translation>OptChatUI</translation>
     </message>
@@ -8445,11 +10066,21 @@ Részletek: %1</translation>
     </message>
     <message>
         <location line="+5"/>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
         <source>[customized]</source>
         <translation>[egyéni]</translation>
     </message>
     <message>
         <location line="+23"/>
+        <source>Show tab buttons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
         <source>Auto-resize text input field</source>
         <translation>Beviteli mező automatikus méretezése</translation>
     </message>
@@ -8495,72 +10126,9 @@ Részletek: %1</translation>
     </message>
 </context>
 <context>
-    <name>OptChatUI</name>
-    <message>
-        <source>Alert chat messages even if chat window is open</source>
-        <translation type="obsolete">Figyelmeztetés chat üzenetnél, akkor is ha már nyitva van a chatablak</translation>
-    </message>
-    <message>
-        <source>Auto-resize text input field</source>
-        <translation type="obsolete">Beviteli mező automatikus átméretezése</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="obsolete">Chat</translation>
-    </message>
-    <message>
-        <source>Contact &quot;says&quot; instead of IRC style</source>
-        <translation type="obsolete">IRC stílus helyett &quot;Partner üzeni&quot; használata</translation>
-    </message>
-    <message>
-        <source>Default Action</source>
-        <translation type="obsolete">Alapértelmezett akció</translation>
-    </message>
-    <message>
-        <source>Delete chat window contents (end conversation)</source>
-        <translation type="obsolete">Chat ablak tartalmának törlése</translation>
-    </message>
-    <message>
-        <source>Enter key sends chat messages</source>
-        <translation type="obsolete">Üzenet elküldése Enter-rel</translation>
-    </message>
-    <message>
-        <source>Message</source>
-        <translation type="obsolete">Üzenet</translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation type="obsolete">Soha</translation>
-    </message>
-    <message>
-        <source>One day after chat window was closed</source>
-        <translation type="obsolete">Egy nappal azután hogy az ablak be lett zárva</translation>
-    </message>
-    <message>
-        <source>One hour after chat window was closed</source>
-        <translation type="obsolete">Egy órával azután hogy az ablak be lett zárva</translation>
-    </message>
-    <message>
-        <source>Open chats in compact mode</source>
-        <translation type="obsolete">Tömör chat ablak nyitása</translation>
-    </message>
-    <message>
-        <source>Open chats in tabbed mode</source>
-        <translation type="obsolete">Chat ablakok megnyitása egy ablakban</translation>
-    </message>
-    <message>
-        <source>Raise chat window on receiving new messages</source>
-        <translation type="obsolete">Chat ablak ugrorjon elő új üzenetnél</translation>
-    </message>
-    <message>
-        <source>When chat window is closed</source>
-        <translation type="obsolete">Chat ablak bezárásakor</translation>
-    </message>
-</context>
-<context>
     <name>OptEvents</name>
     <message>
-        <location filename="../src/options/opt_events.ui" line="+13"/>
+        <location filename="../../psi-plus/src/options/opt_events.ui" line="+13"/>
         <source>OptEventsUI</source>
         <translation>OptEventsUI</translation>
     </message>
@@ -8649,164 +10217,26 @@ Részletek: %1</translation>
         <source>Animate</source>
         <translation>Animálás</translation>
     </message>
-    <message>
-        <location line="+23"/>
-        <source>Enable popup notifications</source>
-        <translation>Felugró értesítések engedélyezése</translation>
-    </message>
-    <message>
-        <location line="+10"/>
-        <source>Popup notifications</source>
-        <translation>Felugró értesítések</translation>
-    </message>
-    <message>
-        <location line="+12"/>
-        <source>On incoming message event</source>
-        <translation>Beérkező üzeneteknél</translation>
-    </message>
-    <message>
-        <location line="+7"/>
-        <source>On incoming headline event</source>
-        <translation>Beérkező fejléceknél</translation>
-    </message>
-    <message>
-        <location line="+7"/>
-        <source>On incoming file event</source>
-        <translation>Beérkező fájloknál</translation>
-    </message>
-    <message>
-        <location line="+7"/>
-        <source>When a contact becomes available</source>
-        <translation>Ha egy ismerős bejelentkezik</translation>
-    </message>
-    <message>
-        <location line="+7"/>
-        <source>When a contact becomes unavailable</source>
-        <translation>Ha egy ismerős kijelentkezik</translation>
-    </message>
-    <message>
-        <location line="+7"/>
-        <source>When a contact changes status</source>
-        <translation>Ha egy ismerős állapotot vált</translation>
-    </message>
-</context>
-<context>
-    <name>OptEventsUI</name>
-    <message>
-        <source>Alerts</source>
-        <translation type="obsolete">Figyelmeztetések</translation>
-    </message>
-    <message>
-        <source>Allow auto-open even from unlisted users</source>
-        <translation type="obsolete">Automatikus ablaknyitás a listán nem szereplő embereknél</translation>
-    </message>
-    <message>
-        <source>Allow auto-open even when Away/XA</source>
-        <translation type="obsolete">Automatikus ablaknyitás még &quot;Nincs a gépnél&quot; módban is</translation>
-    </message>
-    <message>
-        <source>Animate</source>
-        <translation type="obsolete">Animált</translation>
-    </message>
-    <message>
-        <source>Auto-authorize contacts</source>
-        <translation type="obsolete">Automatikusan jóváhagyja a felhasználókat</translation>
-    </message>
-    <message>
-        <source>Auto-open New Files</source>
-        <translation type="obsolete">Új fájlok fogadásánál automatikus ablaknyitás</translation>
-    </message>
-    <message>
-        <source>Auto-open New Headlines</source>
-        <translation type="obsolete">Új &quot;headline&quot; üzenetek automatikus megnyitása</translation>
-    </message>
-    <message>
-        <source>Auto-open New Messages</source>
-        <translation type="obsolete">Automatikusan megnyit egy ablakot új üzenetnél</translation>
-    </message>
-    <message>
-        <source>Blink</source>
-        <translation type="obsolete">Villogó</translation>
-    </message>
-    <message>
-        <source>Bounce Dock:</source>
-        <translation type="obsolete">Bounce dokkolás:</translation>
-    </message>
-    <message>
-        <source>Enable popup notifications</source>
-        <translation type="obsolete">Értesítés előurgó ablakokban</translation>
-    </message>
-    <message>
-        <source>Forever</source>
-        <translation type="obsolete">Mindig</translation>
-    </message>
-    <message>
-        <source>Ignore events from contacts not already in your roster</source>
-        <translation type="obsolete">Események rejtése olyan embereknél, akik nincsenek a listán</translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation type="obsolete">Soha</translation>
-    </message>
-    <message>
-        <source>Notify when authorization was received</source>
-        <translation type="obsolete">Értesítsen ha jóváhagyást kapok</translation>
-    </message>
-    <message>
-        <source>On incoming File event</source>
-        <translation type="obsolete">Fájl fogadásnál</translation>
-    </message>
-    <message>
-        <source>On incoming Headline event</source>
-        <translation type="obsolete">Új főcímnél</translation>
-    </message>
-    <message>
-        <source>On incoming Message event</source>
-        <translation type="obsolete">Új üzenetnél</translation>
-    </message>
-    <message>
-        <source>Once</source>
-        <translation type="obsolete">Egyszer</translation>
-    </message>
-    <message>
-        <source>Popup Notifications</source>
-        <translation type="obsolete">Előugró értesítések</translation>
-    </message>
-    <message>
-        <source>Raise Roster Window On New Event</source>
-        <translation type="obsolete">Új eseménynél listaablak ugorjon elő</translation>
-    </message>
-    <message>
-        <source>Solid</source>
-        <translation type="obsolete">Szolid</translation>
-    </message>
-    <message>
-        <source>When a contact becomes available</source>
-        <translation type="obsolete">Ha egy partner a listáról csatlakozott</translation>
-    </message>
-    <message>
-        <source>When a contact becomes unavailable</source>
-        <translation type="obsolete">Ha egy partner a listáról &quot;nem elérhető&quot; lett</translation>
-    </message>
-    <message>
-        <source>When a contact changes status</source>
-        <translation type="obsolete">Ha egy partner a listáról megváltoztatja az állapotát</translation>
-    </message>
 </context>
 <context>
     <name>OptPlugins</name>
     <message>
-        <location filename="../src/options/opt_plugins.ui" line="+16"/>
+        <location filename="../../psi-plus/src/options/opt_plugins.ui" line="+14"/>
         <source>OptPluginsUI</source>
         <translation>OptPuginsUI</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+23"/>
         <source>Plugin Name:</source>
         <translation>Kiegészítő neve:</translation>
     </message>
     <message>
-        <location line="+14"/>
+        <location line="+42"/>
+        <source>Version: 0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+34"/>
         <source>Plugin Location:</source>
         <translation>Kiegészítő helye:</translation>
     </message>
@@ -8816,15 +10246,292 @@ Részletek: %1</translation>
         <translation>Nincs kiegészítő kiválasztva</translation>
     </message>
     <message>
-        <location line="+18"/>
+        <location line="-34"/>
         <source>Load this plugin</source>
         <translation>Kiegészítő betöltése</translation>
     </message>
 </context>
 <context>
+    <name>OptPopups</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_popups.ui" line="+14"/>
+        <source>OptPopupsUI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Enable popup notifications</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Notifications type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Popup notifications</source>
+        <translation type="unfinished">Felugró értesítések</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>On incoming message event</source>
+        <translation type="unfinished">Beérkező üzeneteknél</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Show incoming message on popup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>On incoming headline event</source>
+        <translation type="unfinished">Beérkező fejléceknél</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>On incoming file event</source>
+        <translation type="unfinished">Beérkező fájloknál</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>When a contact begins typing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>When a contact becomes available</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>When a contact becomes unavailable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>When a contact changes status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Enable popup notifications for every muc message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Limitations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Maximum JID length:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Maximum text length:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Maximum status length:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Popup location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Show popups from top to bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Place popups at left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+39"/>
+        <source>Misc</source>
+        <translation type="unfinished">Egyéb</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Avatar size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Durations, sec.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptRoster</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_roster.ui" line="+14"/>
+        <source>OptApplicationUI</source>
+        <translation type="unfinished">OptApplicationUI</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Roster window always on top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Auto-resize contact list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Use left-click for menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Show menubar</source>
+        <translation type="unfinished">Menüsáv mutatása</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Disables scrollbar in the application window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Disable scrollbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Enables avatar frame at the top of roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Enable roster avatar frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Autohide roster after</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Show avatars in roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Avatars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Show moods in roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Moods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Show activities in roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Activities</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Show geolocation in roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>GeoLocation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Show icon when contact is listening to music</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Now playing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Show icon of user client</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Clients</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>all client icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>only highest priority client icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Avatar settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Size</source>
+        <translation type="unfinished">Méret</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <location line="+36"/>
+        <source>px</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-13"/>
+        <source>Radius of corners</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptShortcuts</name>
     <message>
-        <location filename="../src/options/opt_shortcuts.ui" line="+19"/>
+        <location filename="../../psi-plus/src/options/opt_shortcuts.ui" line="+19"/>
         <source>OptShortcutsUI</source>
         <translation>OptShortcutsUI</translation>
     </message>
@@ -8862,7 +10569,7 @@ Részletek: %1</translation>
 <context>
     <name>OptSound</name>
     <message>
-        <location filename="../src/options/opt_sound.ui" line="+16"/>
+        <location filename="../../psi-plus/src/options/opt_sound.ui" line="+16"/>
         <source>OptSoundUI</source>
         <translation>OptSoundUI</translation>
     </message>
@@ -8892,11 +10599,12 @@ Részletek: %1</translation>
         <location line="+21"/>
         <location line="+7"/>
         <location line="+14"/>
+        <location line="+49"/>
         <source>Enter a filename or !beep for a system beep</source>
         <translation>Írj be egy fájlnevet vagy !beep szöveget az alap sípolásért</translation>
     </message>
     <message>
-        <location line="-224"/>
+        <location line="-273"/>
         <source>Headline:</source>
         <translation>Főcím üzenetek:</translation>
     </message>
@@ -8946,220 +10654,276 @@ Részletek: %1</translation>
         <translation>Nem elérhető állapot érkezése:</translation>
     </message>
     <message>
-        <location line="+33"/>
+        <location line="+7"/>
+        <source>Receive MUC message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+54"/>
         <source>Reset to defaults</source>
         <translation>Alapbeállítások</translation>
     </message>
 </context>
 <context>
-    <name>OptSoundUI</name>
+    <name>OptStatusAuto</name>
     <message>
-        <source>Enter a filename or !beep for a system beep</source>
-        <translation type="obsolete">Írd be a fájlnevet, vagy !beep -et a rendszer csipogáshoz</translation>
+        <location filename="../../psi-plus/src/options/opt_statusauto.ui" line="+14"/>
+        <source>Form</source>
+        <translation type="unfinished">Űrlap</translation>
     </message>
     <message>
-        <source>File Transfer Complete:</source>
-        <translation type="obsolete">Ha a fájlátvitel kész:</translation>
-    </message>
-    <message>
-        <source>Headline:</source>
-        <translation type="obsolete">&quot;Headline&quot; üzenetek:</translation>
-    </message>
-    <message>
-        <source>Incoming File Transfer:</source>
-        <translation type="obsolete">Fájlfogadásnál:</translation>
-    </message>
-    <message>
-        <source>Play sounds for all messages in groupchat</source>
-        <translation type="obsolete">Minden üzenetnél hang játszása csoportbeszélgetésnél</translation>
-    </message>
-    <message>
-        <source>Play sounds when Away/XA</source>
-        <translation type="obsolete">Hang játszása &quot;Nincs a gépnél&quot; módban</translation>
-    </message>
-    <message>
-        <source>Player:</source>
-        <translation type="obsolete">Lejátszó:</translation>
-    </message>
-    <message>
-        <source>Receive First Chat:</source>
-        <translation type="obsolete">Első chat üzenet:</translation>
-    </message>
-    <message>
-        <source>Receive Message:</source>
-        <translation type="obsolete">Új üzenetnél:</translation>
-    </message>
-    <message>
-        <source>Receive Next Chat:</source>
-        <translation type="obsolete">Következő chat üzenet:</translation>
-    </message>
-    <message>
-        <source>Receive Offline Status:</source>
-        <translation type="obsolete">Ha valaki &quot;nem elérhető&quot; lesz:</translation>
-    </message>
-    <message>
-        <source>Receive Online Status:</source>
-        <translation type="obsolete">Ha valaki feljön:</translation>
-    </message>
-    <message>
-        <source>Reset to defaults</source>
-        <translation type="obsolete">Alapértelmezés</translation>
-    </message>
-    <message>
-        <source>Send Message:</source>
-        <translation type="obsolete">Üzenet küldésénél:</translation>
-    </message>
-    <message>
-        <source>System Message:</source>
-        <translation type="obsolete">Rendszerüzenetnél:</translation>
-    </message>
-</context>
-<context>
-    <name>OptStatus</name>
-    <message>
-        <location filename="../src/options/opt_status.ui" line="+14"/>
-        <source>OptStatusUI</source>
-        <translation>OptStatusUI</translation>
-    </message>
-    <message>
-        <location line="+12"/>
-        <source>Prompt for status message when choosing</source>
-        <translation>Állapotüzenet kérése választásnál</translation>
-    </message>
-    <message>
-        <location line="+12"/>
-        <source>Online</source>
-        <translation>Elérhető</translation>
-    </message>
-    <message>
-        <location line="+7"/>
-        <source>Offline</source>
-        <translation>Nem érhető el</translation>
-    </message>
-    <message>
-        <location line="+10"/>
+        <location line="+6"/>
         <source>Auto status</source>
-        <translation>Automatikus állapot</translation>
+        <translation type="unfinished">Automatikus állapot</translation>
     </message>
     <message>
-        <location line="+27"/>
-        <location line="+10"/>
         <location line="+17"/>
-        <source>Minutes</source>
-        <translation>perc múlva</translation>
+        <location line="+10"/>
+        <location line="+31"/>
+        <source> minutes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="-24"/>
         <source>Auto offline after:</source>
-        <translation>Automatikus nem elérhetőség:</translation>
+        <translation type="unfinished">Automatikus nem elérhetőség:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Auto XA after:</source>
-        <translation>Automatikus nincs gépnél:</translation>
+        <translation type="unfinished">Automatikus nincs gépnél:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Auto away after:</source>
-        <translation>Automatikus távollét:</translation>
+        <translation type="unfinished">Automatikus távollét:</translation>
     </message>
     <message>
-        <location line="+53"/>
-        <source>Presets</source>
-        <translation>Sablonok</translation>
+        <location line="+59"/>
+        <location line="+10"/>
+        <source>Priority:</source>
+        <translation type="unfinished">Prioritás:</translation>
     </message>
     <message>
-        <location line="+20"/>
-        <source>Preset:</source>
-        <translation>Sablon:</translation>
+        <location line="+9"/>
+        <source>Status message:</source>
+        <translation type="unfinished">Állapot üzenet:</translation>
     </message>
     <message>
         <location line="+23"/>
-        <source>New</source>
-        <translation>Új</translation>
+        <source>Default priority</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+7"/>
-        <source>Delete</source>
-        <translation>Törlés</translation>
+        <location line="+10"/>
+        <source>Online:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+17"/>
-        <source>Status:</source>
-        <translation>Állapot:</translation>
+        <location line="+36"/>
+        <source>Away:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-82"/>
-        <location line="+105"/>
-        <source>Priority:</source>
-        <translation>Prioritás:</translation>
+        <location line="+36"/>
+        <source>Free For Chat:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-127"/>
-        <source>Status message:</source>
-        <translation>Állapot üzenet:</translation>
+        <location line="+36"/>
+        <source>XA:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+146"/>
-        <source>Content:</source>
-        <translation>Tartalom:</translation>
+        <location line="+36"/>
+        <source>Do Not Disturb:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+36"/>
+        <source>Invisible:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>OptStatusUI</name>
+    <name>OptStatusGeneral</name>
     <message>
-        <source>Auto Away After:</source>
-        <translation type="obsolete">Auto &quot;Nincs gépnél&quot; mód:</translation>
+        <location filename="../../psi-plus/src/options/opt_statusgeneral.ui" line="+14"/>
+        <source>Form</source>
+        <translation type="unfinished">Űrlap</translation>
     </message>
     <message>
-        <source>Auto Offline After:</source>
-        <translation type="obsolete">Auto &quot;Nem elérhető&quot; mód:</translation>
-    </message>
-    <message>
-        <source>Auto Status Message:</source>
-        <translation type="obsolete">Auto állapot üzenet:</translation>
-    </message>
-    <message>
-        <source>Auto XA After:</source>
-        <translation type="obsolete">Auto &quot;Tétlen&quot; mód:</translation>
-    </message>
-    <message>
-        <source>Content:</source>
-        <translation type="obsolete">Bővebben:</translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="obsolete">Töröl</translation>
-    </message>
-    <message>
-        <source>Minutes</source>
-        <translation type="obsolete">perc után</translation>
-    </message>
-    <message>
-        <source>New</source>
-        <translation type="obsolete">Új</translation>
-    </message>
-    <message>
-        <source>Offline</source>
-        <translation type="obsolete">Nem elérhető</translation>
-    </message>
-    <message>
-        <source>Online</source>
-        <translation type="obsolete">Elérhető</translation>
-    </message>
-    <message>
-        <source>Presets</source>
-        <translation type="obsolete">Előrebeállított</translation>
-    </message>
-    <message>
+        <location line="+18"/>
         <source>Prompt for status message when choosing</source>
-        <translation type="obsolete">Állapot üzenet kérése ha</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Online</source>
+        <translation type="unfinished">Elérhető</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Free for Chat</source>
+        <translation type="unfinished">Írj rám</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Away</source>
+        <translation type="unfinished">Nincs a gépnél</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Not Available</source>
+        <translation type="unfinished">Tétlen</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Do not Disturb</source>
+        <translation type="unfinished">Ne zavarj</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>Status menus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Show presets in menus:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>As submenu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>With standard statuses</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>No</source>
+        <translation type="unfinished">Nem</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Hide Free for Chat, Away, Not Available and Do not Disturb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Hide standard statuses (Chat, Away, XA, DND)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Show &quot;Edit presets...&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Show &quot;Choose...&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Show &quot;Reconnect&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>Add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Selected preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Name:</source>
+        <translation type="unfinished">Név:</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Status:</source>
+        <translation type="unfinished">Állapot:</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Priority:</source>
+        <translation type="unfinished">Prioritás:</translation>
+    </message>
+    <message>
+        <location line="+40"/>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptStatusPep</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_statuspep.ui" line="+20"/>
+        <source>Form</source>
+        <translation type="unfinished">Űrlap</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Tunes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Enter media file extensions to ignore them on tune sending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Add extensions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Ignored media file extensions on psi tunes sending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Tune Controllers</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptionEditor</name>
     <message>
-        <location filename="../src/optioneditor.ui" line="+30"/>
+        <location filename="../../psi-plus/src/optioneditor.ui" line="+30"/>
         <source>Option:</source>
         <translation>Beállítások:</translation>
     </message>
@@ -9169,16 +10933,12 @@ Részletek: %1</translation>
         <translation type="unfinished">Típus:</translation>
     </message>
     <message>
-        <source>Typ:</source>
-        <translation type="obsolete">Típus:</translation>
-    </message>
-    <message>
         <location line="+13"/>
         <source>Value: </source>
         <translation>Érték:</translation>
     </message>
     <message>
-        <location filename="../src/psioptionseditor.cpp" line="+52"/>
+        <location filename="../../psi-plus/src/psioptionseditor.cpp" line="+52"/>
         <location line="+24"/>
         <location line="+13"/>
         <source>Psi: Option Editor</source>
@@ -9205,24 +10965,578 @@ A nevek nem lehetnek üresek, vagy végződhetnek pontra, nem tartalmazhatnak &a
     </message>
 </context>
 <context>
-    <name>OptionsTabAdvanced</name>
+    <name>Options</name>
     <message>
-        <location filename="../src/options/opt_advanced.cpp" line="+71"/>
-        <source>&lt;P&gt;Specifies how to treat incoming events:&lt;/P&gt;&lt;P&gt;&lt;B&gt;Normal&lt;/B&gt; - messages come as messages, chats come as chats.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Messages&lt;/B&gt; - All messages/chats come as messages, no matter what their original form was.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Chats&lt;/B&gt; - All messages/chats come as chats, no matter what their original form was.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Meghatározza, hogy miként legyenek a bejövő üzenetek kezelve:&lt;/P&gt;&lt;P&gt;&lt;B&gt;Alapért.&lt;/B&gt; - üzenet üzenetként, chat chatként.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Üzenetek&lt;/B&gt; - Minden üzenetet/chatet üzenetként kezelni, függetlenül attól, hogy mikért érkezett.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Chatek&lt;/B&gt; - Minden üzenetet/chatet chatként kezelni, függetlenül attól, hogy miként érkezett.&lt;/P&gt;</translation>
+        <location filename="../../psi-plus/src/plugins/generic/attentionplugin/options.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/options.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/options.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/options.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/options.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/pepchangenotifyplugin/options.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="+14"/>
+        <source>Form</source>
+        <translation type="unfinished">Űrlap</translation>
     </message>
     <message>
-        <source>Advanced</source>
-        <translation type="obsolete">Haladó</translation>
+        <location line="+8"/>
+        <source>Allow receiving one Attention from the same contact every</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>sec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Don&apos;t hide popup if status is Away or XA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Disable notifications if status is DND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/options.ui" line="+147"/>
+        <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/options.ui" line="+164"/>
+        <source>Play sound:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+39"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/options.ui" line="-141"/>
+        <source>If you use this plugin at first time, make sure that all your accounts
+is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Update Birthdays</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Clear Birthdays Cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Check Birthdays</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Start notifying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>days in advance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Check birthdays every</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Update birthdays every</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>days (0 - automatic update disabled)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Remind for contacts from active accounts only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Check birthdays on startup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+61"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/captchaformsplugin/options.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="+14"/>
+        <source>Options</source>
+        <translation type="unfinished">Beállítások</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Auto-popup Captcha dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Use proxy settings from account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+37"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/options.ui" line="+6"/>
+        <source>Contact menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Toolbar action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/options.ui" line="-156"/>
+        <source>Supported accounts:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+32"/>
+        <source>There is no supported accounts!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Account Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source> If set to &quot;true&quot;, the server will send
+ notifications of unread email.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Mail notifications</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source> If set to &quot;true&quot;, the server will save
+ Google Talk chats on the server;
+ if set to &quot;false&quot;, no conversations
+ will be logged.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Message archiving</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source> If set to &quot;true&quot;, the server will
+ automatically add people emailed
+ often to the user&apos;s roster.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Auto-accept suggestions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source> Enable multiple applications signed in
+ as the same user to report the same
+ status message. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Enable Shared Statuses</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source> Google Talk server disables server-side
+ logging of individual conversations and
+ sends notifications.
+ Enable &quot;Message archiving&quot; option for use!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Enable Off the Record Chats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source> Enable &quot;Mail notifications&quot; option!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Mail Notifications Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Show all unread messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Show new messages only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Start program:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+65"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/options.ui" line="+18"/>
+        <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="+379"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="+109"/>
+        <source>Add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="+7"/>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+46"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/pepchangenotifyplugin/options.ui" line="+8"/>
+        <source>Per contact delay between the popup notifications of the same events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Delay between popups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="-66"/>
+        <source>Disable popups if status is DND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Enable notifications for:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Tune</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Mood</source>
+        <translation type="unfinished">Hangulat</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Activity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Geolocation</source>
+        <translation type="unfinished">Térképészeti helyzet</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Sound:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+39"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="-363"/>
+        <source>Main</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Question:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Answer:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Congratulation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>MUC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Enable Stop Spam for private messages in MUC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Enable Stop Spam for affiliations:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Owner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Admin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Member</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Enable Stop Spam for roles:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Moderator</source>
+        <translation type="unfinished">Moderátor</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Participant</source>
+        <translation type="unfinished">Résztvevő</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Visitor</source>
+        <translation type="unfinished">Látogató</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Block all private messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Send message:</source>
+        <translation type="unfinished">Üzenet küldése:</translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Misc</source>
+        <translation type="unfinished">Egyéb</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Number of blocked stanzas:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>View Log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Reset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Send maximum</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>times</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Timeout to reset counter:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>min.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Log blocked messages to contact&apos;s history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+39"/>
+        <source>Del</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Disable stopspam, if don&apos;t match any rule above
+(does not work for muc private messages)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="-40"/>
+        <source>Status</source>
+        <translation type="unfinished">Állapot</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Delete selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Add row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Default sound: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+37"/>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Disable sound if chat window is active</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/options.cpp" line="+141"/>
+        <source>Authorizing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Authorizing OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Authorization failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Canceled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Choose file</source>
+        <translation type="unfinished">Válassz fájlt</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Uploading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Error! %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Cookies are removed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsDlg</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/optionsdlg.ui" line="+14"/>
+        <source>Settings</source>
+        <translation type="unfinished">Beállítások</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabAdvanced</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_advanced.cpp" line="+75"/>
+        <source>&lt;P&gt;Specifies how to treat incoming events:&lt;/P&gt;&lt;P&gt;&lt;B&gt;Normal&lt;/B&gt; - messages come as messages, chats come as chats.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Messages&lt;/B&gt; - All messages/chats come as messages, no matter what their original form was.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Chats&lt;/B&gt; - All messages/chats come as chats, no matter what their original form was.&lt;/P&gt;</source>
+        <translation>&lt;P&gt;Meghatározza, hogy miként legyenek a bejövő üzenetek kezelve:&lt;/P&gt;&lt;P&gt;&lt;B&gt;Alapért.&lt;/B&gt; - üzenet üzenetként, chat chatként.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Üzenetek&lt;/B&gt; - Minden üzenetet/chatet üzenetként kezelni, függetlenül attól, hogy mikért érkezett.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Chatek&lt;/B&gt; - Minden üzenetet/chatet chatként kezelni, függetlenül attól, hogy miként érkezett.&lt;/P&gt;</translation>
     </message>
     <message>
         <location line="-2"/>
         <source>Automatically attaches URLs from clipboard to the messages when enabled</source>
         <translation>Automatikusan csatolja a vágólapról a linkeket ha engedélyezve van</translation>
-    </message>
-    <message>
-        <source>Automatically sends iq:version query to contact when he becomes online. This allows you to determine what client he is using to get online. Note: results in increased traffic.</source>
-        <translation type="obsolete">Automatikusan elküldi a &quot;iq:version&quot; kérést a partnernek, ha feljön. Ezzel megtudhatod, milyen klienst használ. Megj: ezzel növekedik a hálózati forgalom.</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -9240,12 +11554,12 @@ A nevek nem lehetnek üresek, vagy végződhetnek pontra, nem tartalmazhatnak &a
         <translation>A gépelés közbeni Jabber ID kiegészítést engedélyezi.</translation>
     </message>
     <message>
-        <location line="-17"/>
+        <location line="-21"/>
         <source>Enables the sending and requesting of message events such as &apos;Contact is Typing&apos;, ...</source>
         <translation>Az események küldések és fogadását engedélyezni, mint pl. &apos;Az ismerős éppen gépel&apos;...</translation>
     </message>
     <message>
-        <location line="+37"/>
+        <location line="+41"/>
         <source>Makes Psi animate contact names in the main window when they come online.</source>
         <translation>Ha bekapcsolod, a Psi animálni fogja a partner nevét, ha feljön.</translation>
     </message>
@@ -9275,11 +11589,7 @@ A nevek nem lehetnek üresek, vagy végződhetnek pontra, nem tartalmazhatnak &a
         <translation>Alapértelmezés szerint dupla-kattintással váltod ki az alapértelmezett eseményt. Használd ezt az opciót, ha egy kattintással szeretnéd.</translation>
     </message>
     <message>
-        <source>Options for advanced users</source>
-        <translation type="obsolete">Beállítások haladóknak</translation>
-    </message>
-    <message>
-        <location line="-38"/>
+        <location line="-42"/>
         <source>Misc.</source>
         <translation>Egyéb</translation>
     </message>
@@ -9295,6 +11605,16 @@ A nevek nem lehetnek üresek, vagy végződhetnek pontra, nem tartalmazhatnak &a
     </message>
     <message>
         <location line="+3"/>
+        <source>Request receipts from contacts on each message.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Send receipts to contacts by request.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
         <source>Enables remote controlling your client from other locations</source>
         <translation>Engedélyezi más helyekről való irányítását a kliensnek</translation>
     </message>
@@ -9312,77 +11632,9 @@ A nevek nem lehetnek üresek, vagy végződhetnek pontra, nem tartalmazhatnak &a
 <context>
     <name>OptionsTabAppearance</name>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="+18"/>
+        <location filename="../../psi-plus/src/options/opt_appearance.cpp" line="+18"/>
         <source>Appearance</source>
         <translation>Megjelenés</translation>
-    </message>
-    <message>
-        <source>Psi&apos;s Appearance</source>
-        <translation type="obsolete">Psi megjelenése</translation>
-    </message>
-    <message>
-        <source>Selects a font for chat windows using the font selection dialog.</source>
-        <translation type="obsolete">Kiválaszt egy betűtípust az chat ablaknak.</translation>
-    </message>
-    <message>
-        <source>Selects a font for message windows using the font selection dialog.</source>
-        <translation type="obsolete">Kiválaszt egy betűtípust az üzenet ablaknak.</translation>
-    </message>
-    <message>
-        <source>Selects a font for the a roster window using the font selection dialog.</source>
-        <translation type="obsolete">Kiválaszt egy betűtípust a főablaknak.</translation>
-    </message>
-    <message>
-        <source>Specifies the background animation color for nicks.</source>
-        <translation type="obsolete">Beállítja az animálás színét ha ki van jelőlve.</translation>
-    </message>
-    <message>
-        <source>Specifies the background color for a group name in the main window.</source>
-        <translation type="obsolete">Beállítja a csoport nevének háttérszinét a főablakban.</translation>
-    </message>
-    <message>
-        <source>Specifies the background color for the main window.</source>
-        <translation type="obsolete">Beállítja a főablak háttérszinét.</translation>
-    </message>
-    <message>
-        <source>Specifies the font style for chat windows.</source>
-        <translation type="obsolete">Beállítja az chat ablak betűtípusát.</translation>
-    </message>
-    <message>
-        <source>Specifies the font style for message windows.</source>
-        <translation type="obsolete">Beállítja az üzenet ablak betűtípusát.</translation>
-    </message>
-    <message>
-        <source>Specifies the font style for popup windows.</source>
-        <translation type="obsolete">Beállítja az előugró ablakok betűtípusát.</translation>
-    </message>
-    <message>
-        <source>Specifies the font style for the main window.</source>
-        <translation type="obsolete">Beállítja a főablak betűtípusát.</translation>
-    </message>
-    <message>
-        <source>Specifies the foreground animation color for nicks.</source>
-        <translation type="obsolete">Beállítja az animálás színét.</translation>
-    </message>
-    <message>
-        <source>Specifies the text color for a contact name in the main window when that user is &quot;%1&quot;.</source>
-        <translation type="obsolete">Beállíthatod a szöveg színét egy partnernek a főablakban aki éppen &quot;%1&quot;.</translation>
-    </message>
-    <message>
-        <source>away</source>
-        <translation type="obsolete">nincs a gépnél</translation>
-    </message>
-    <message>
-        <source>do not disturb</source>
-        <translation type="obsolete">ne zavarj</translation>
-    </message>
-    <message>
-        <source>offline</source>
-        <translation type="obsolete">nem elérhető</translation>
-    </message>
-    <message>
-        <source>online</source>
-        <translation type="obsolete">elérhető</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -9393,7 +11645,7 @@ A nevek nem lehetnek üresek, vagy végződhetnek pontra, nem tartalmazhatnak &a
 <context>
     <name>OptionsTabAppearanceGeneral</name>
     <message>
-        <location line="+70"/>
+        <location line="+87"/>
         <source>Fonts &amp;&amp; Color Settings</source>
         <translation>Betűtípusok és színek beállítása</translation>
     </message>
@@ -9408,41 +11660,9 @@ A nevek nem lehetnek üresek, vagy végződhetnek pontra, nem tartalmazhatnak &a
         <translation>Betűtípus megadása a beszélgetési ablakhoz a betűtípus választó ablakkal.</translation>
     </message>
     <message>
-        <source>Specifies the color for sent messages in chat and history windows.</source>
-        <translation type="obsolete">Megadja a használt színt az elküldött üzenetekhez, az előzményekben is.</translation>
-    </message>
-    <message>
-        <source>Specifies the color for received messages in chat and history windows.</source>
-        <translation type="obsolete">Megadja a használt színt a beérkezett üzenetekhez, az előzményekben is.</translation>
-    </message>
-    <message>
-        <source>Specifies the color for informational messages in chat windows, like status changes and offline messages.</source>
-        <translation type="obsolete">Megadja a használt színt az információkhoz, mint például állapotváltás.</translation>
-    </message>
-    <message>
         <location line="-2"/>
         <source>Selects a font for message windows using the font selection dialog.</source>
         <translation>Kiválaszthatsz egy betűtípust az üzenet ablakok számára.</translation>
-    </message>
-    <message>
-        <source>Selects a font for the a roster window using the font selection dialog.</source>
-        <translation type="obsolete">Kiválaszthatsz egy betűtípust a lista ablak számára.</translation>
-    </message>
-    <message>
-        <source>Specifies the background animation color for nicks.</source>
-        <translation type="obsolete">Beállítja a nevek háttérszínét animálásnál.</translation>
-    </message>
-    <message>
-        <source>Specifies the background color for a group name in the main window.</source>
-        <translation type="obsolete">Beállítja a csoportok nevének háttérszínét a főablakban.</translation>
-    </message>
-    <message>
-        <source>Specifies the background color for an account name in the main window.</source>
-        <translation type="obsolete">Beállítja a fiók nevének háttérszínét a főablakban.</translation>
-    </message>
-    <message>
-        <source>Specifies the background color for the main window.</source>
-        <translation type="obsolete">Beállítja a főablak háttérszínét.</translation>
     </message>
     <message>
         <location line="-6"/>
@@ -9463,10 +11683,6 @@ A nevek nem lehetnek üresek, vagy végződhetnek pontra, nem tartalmazhatnak &a
         <location line="-6"/>
         <source>Specifies the font style for the main window.</source>
         <translation>Beállítja a főablak betűtípusát.</translation>
-    </message>
-    <message>
-        <source>Specifies the foreground animation color for nicks.</source>
-        <translation type="obsolete">Betűszín megadása a becenevek animálásához.</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -9518,23 +11734,24 @@ A nevek nem lehetnek üresek, vagy végződhetnek pontra, nem tartalmazhatnak &a
     </message>
 </context>
 <context>
+    <name>OptionsTabAppearanceThemes</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_theme.cpp" line="+18"/>
+        <source>Themes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Configure themes</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabApplication</name>
     <message>
-        <location filename="../src/options/opt_application.cpp" line="+25"/>
+        <location filename="../../psi-plus/src/options/opt_application.cpp" line="+38"/>
         <source>Application</source>
         <translation>Általános</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation type="obsolete">Egyedi</translation>
-    </message>
-    <message>
-        <source>Enter the path to the application&apos;s executable and choose &quot;Custom&quot; in the list above.</source>
-        <translation type="obsolete">Add meg a program elérési útját és válaszd az &quot;Egyedi&quot;-t a fenti listából.</translation>
-    </message>
-    <message>
-        <source>GNOME2 Default Browser/Mail</source>
-        <translation type="obsolete">Alapértelmezett GNOME2 böngésző/levelező</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -9542,59 +11759,17 @@ A nevek nem lehetnek üresek, vagy végződhetnek pontra, nem tartalmazhatnak &a
         <translation>Alkalmazás általános beállításai</translation>
     </message>
     <message>
-        <source>Hides the menubar in the application window.</source>
-        <translation type="obsolete">Elrejti a menüt a főablakban.</translation>
-    </message>
-    <message>
-        <source>I understand</source>
-        <translation type="obsolete">Megértettem</translation>
-    </message>
-    <message>
-        <source>If checked, Psi will use the Window Maker docket instead of FreeDesktop one.</source>
-        <translation type="obsolete">Ha bekapcsolod, a Psi Window Maker dokkolást fog használni FreeDesktop helyett.</translation>
-    </message>
-    <message>
-        <source>If checked, Psi will use the Window Maker docklet instead of FreeDesktop one.</source>
-        <translation type="obsolete">Ha bekapcsolod, a Psi a Window Maker dokkolását fogja használni a FreeDesktop-é helyett.</translation>
-    </message>
-    <message>
-        <source>KDE Default Browser/Mail</source>
-        <translation type="obsolete">Alapértelmezett KDE böngésző/levelező</translation>
-    </message>
-    <message>
-        <source>Mac OS Default Browser/Mail</source>
-        <translation type="obsolete">Alapértelmezett Mac OS böngésző/levelező</translation>
-    </message>
-    <message>
-        <source>MacOS Default Browser/Mail</source>
-        <translation type="obsolete">Alapértelmezett MacOS böngésző/levelező</translation>
-    </message>
-    <message>
-        <source>Makes Psi remember window size and positions for chats and messages.  If disabled, the windows will always appear in their default positions and sizes.</source>
-        <translation type="obsolete">Jegyezze meg az chat és üzenet ablakok méretét és helyzetét. Ha kikapcsolod, mindig az alapértelmezett méretű és helyzetű ablakok jelennek meg.</translation>
-    </message>
-    <message>
-        <location line="+29"/>
+        <location line="+21"/>
         <source>Makes Psi use a docklet icon, also known as system tray icon.</source>
         <translation>Kiteszi a Psi ikonját a tálcára.</translation>
     </message>
     <message>
-        <location line="-11"/>
-        <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation>Psi főablaka legyen mindig legfelül.</translation>
+        <location line="-4"/>
+        <source>Set or remove window decorations for roster and chats. For chats there are special header with close, hide and maximize buttons</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+2"/>
-        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation>Atuomatikusan átméretezi a Psi főablakát, hogy minden partner neve beleférjen.</translation>
-    </message>
-    <message>
-        <location line="+2"/>
-        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation>Alapértelmezés szerint jobb kattintással a partnerre előjön egy menü. Kapcsold ezt be, ha te inkább ballal kattintanál.</translation>
-    </message>
-    <message>
-        <location line="+9"/>
+        <location line="+6"/>
         <source>Normally, single-clicking on the Psi docklet icon brings the main window to the foreground.  Check this option if you would rather use a double-click.</source>
         <translation>Alapértelmezés szerint egy kattintás Psi tálcaikonon hozza elő a főablakot. Kapcsold be, ha te inkább kettővel szeretnéd.</translation>
     </message>
@@ -9604,7 +11779,22 @@ A nevek nem lehetnek üresek, vagy végződhetnek pontra, nem tartalmazhatnak &a
         <translation>Meggátolja hogy a Psi elfoglaljon egy helyet a tálcán és kisebb fejlécet használ a főablak.</translation>
     </message>
     <message>
-        <location line="+102"/>
+        <location line="+68"/>
+        <source>Information</source>
+        <translation type="unfinished">Információ</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Some of the options you changed will only have full effect upon restart.</source>
+        <translation type="unfinished">Néhány beállítás csak újraindítás után lép érvénybe.</translation>
+    </message>
+    <message>
+        <location line="+54"/>
+        <source>Default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+53"/>
         <source>(TCP: Disabled, UDP: Auto)</source>
         <translation>(TCP: kikapcsolva, UDP: automatikus)</translation>
     </message>
@@ -9614,49 +11804,15 @@ A nevek nem lehetnek üresek, vagy végződhetnek pontra, nem tartalmazhatnak &a
         <translation>(TCP: %1, UDP: %1-%2)</translation>
     </message>
     <message>
-        <source>Selects what applications to use for handling URLs and e-mail addresses.  You can choose between the system default and custom applications.</source>
-        <translation type="obsolete">Kiválaszthatod, hogy milyen alkalmazások kezeljék az URLeket és e-mail címeket. Választhatsz a rendszer alapértelezése és egyedi alkalmazások között.</translation>
-    </message>
-    <message>
-        <source>Specify what custom browser application to use for handling URLs here.</source>
-        <translation type="obsolete">Add meg, milyen böngészővel legyenek az URLek megnyitva.</translation>
-    </message>
-    <message>
-        <source>Specify what custom mailer application to use for handling e-mail addresses here.</source>
-        <translation type="obsolete">Add meg, milyen levelező kezelje az e-mail címeket.</translation>
-    </message>
-    <message>
-        <location line="-107"/>
+        <location line="-180"/>
         <source>Starts Psi with only the docklet icon visible.</source>
         <translation>Psi indításánál csak tálcaikon legyen látható.</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="obsolete">Figyelmeztetés</translation>
-    </message>
-    <message>
-        <source>Windows Default Browser/Mail</source>
-        <translation type="obsolete">Alapértelmezett Windows böngésző/levelező</translation>
-    </message>
-    <message>
-        <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars &lt;i&gt;and&lt;/i&gt; the menubar. If you do so, you will be unable to enable them back, when you&apos;ll change your mind.
-&lt;br&gt;&lt;br&gt;
-If you really-really want to disable all toolbars and the menubar, you need to edit the config.xml file by hand.</source>
-        <translation type="obsolete">Nem tilthatod le az &lt;i&gt;összes&lt;/i&gt; eszköztárat &lt;i&gt;és&lt;/i&gt; a menüt. Ha így tennél, nem tudnád újra engedélyezni őket, ha meggondoltad magad.
-
-&lt;br&gt;&lt;br&gt;
-Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a config.xml-t.</translation>
-    </message>
-    <message>
-        <location line="-9"/>
-        <source>Shows the menubar in the application window.</source>
-        <translation>Menüsáv mutatása az alkalmazás ablakában.</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabAvCall</name>
     <message>
-        <location filename="../src/options/opt_avcall.cpp" line="+169"/>
+        <location filename="../../psi-plus/src/options/opt_avcall.cpp" line="+169"/>
         <source>Voice Calling</source>
         <translation>Hívás</translation>
     </message>
@@ -9674,11 +11830,7 @@ Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a co
 <context>
     <name>OptionsTabChat</name>
     <message>
-        <source>&lt;P&gt;Changes the normal chat style from:&lt;/P&gt;&lt;P&gt;[01:23:45] &amp;lt;MyName&amp;gt; Hi&lt;/P&gt;&lt;P&gt;[01:23:56] &amp;lt;YourName&amp;gt; How are you?&lt;/P&gt;&lt;P&gt;to:&lt;/P&gt;&lt;P&gt;[01:23:45] MyName says:&lt;/P&gt;&lt;P&gt;Hi&lt;/P&gt;&lt;P&gt;[01:23:56] YourName says:&lt;/P&gt;&lt;P&gt;How are you?&lt;/P&gt;</source>
-        <translation type="obsolete">&lt;P&gt;Átállítja a chat stílusát erről:&lt;/P&gt;&lt;P&gt;[01:23:45] &amp;lt;Sajátnév&amp;gt; Hi&lt;/P&gt;&lt;P&gt;[01:23:56] &amp;lt;Teneved&amp;gt; Hogy vagy?&lt;/P&gt;&lt;P&gt;erre:&lt;/P&gt;&lt;P&gt;[01:23:45] Sajátnév üzeni:&lt;/P&gt;&lt;P&gt;Hi&lt;/P&gt;&lt;P&gt;[01:23:56] Teneved mondja:&lt;/P&gt;&lt;P&gt;Hogy vagy?&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_chat.cpp" line="+81"/>
+        <location filename="../../psi-plus/src/options/opt_chat.cpp" line="+81"/>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
         <translation>&lt;P&gt;Beállítja, meddig legyen a chat naplója megtartva az ablak bezárása után.&lt;/P&gt;</translation>
     </message>
@@ -9751,15 +11903,7 @@ Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a co
 <context>
     <name>OptionsTabEvents</name>
     <message>
-        <source>Animates incoming event icons on the main window as events are recieved.</source>
-        <translation type="obsolete">Minden bejövő eseménynél az ikonok legyenek animálva a főablakban.</translation>
-    </message>
-    <message>
-        <source>Does not animate or blink incoming event icons on the main window as they are received.</source>
-        <translation type="obsolete">Ne villogjanak bejövő eseménynél az ikonokok a főablakban.</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_events.cpp" line="+26"/>
+        <location filename="../../psi-plus/src/options/opt_events.cpp" line="+26"/>
         <source>Events</source>
         <translation>Események</translation>
     </message>
@@ -9777,10 +11921,6 @@ Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a co
         <location line="+17"/>
         <source>Makes Psi notify you when your authorization request was approved.</source>
         <translation>Értesítsen, ha a jóváhagyási kérelmedet elfogadták.</translation>
-    </message>
-    <message>
-        <source>Makes all incoming event icons blink on the main window as events are received.</source>
-        <translation type="obsolete">Minden bejövő eseménynél az ikonok villogjanak a főablakban.</translation>
     </message>
     <message>
         <location line="-19"/>
@@ -9826,7 +11966,7 @@ Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a co
 <context>
     <name>OptionsTabGroupchat</name>
     <message>
-        <location filename="../src/options/opt_groupchat.cpp" line="+30"/>
+        <location filename="../../psi-plus/src/options/opt_groupchat.cpp" line="+30"/>
         <source>Configure the groupchat</source>
         <translation>Csoportbeszélgetés beállítása</translation>
     </message>
@@ -9837,13 +11977,56 @@ Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a co
     </message>
 </context>
 <context>
-    <name>OptionsTabIconsetEmoticons</name>
+    <name>OptionsTabIconset</name>
     <message>
-        <source>&lt;P&gt;Emoticons are short sequences of characters that are used to convey an emotion or idea.&lt;/P&gt;&lt;P&gt;Enable this option if you want Psi to replace common emoticons with a graphical image.&lt;/P&gt;&lt;P&gt;For example, &lt;B&gt;:-)&lt;/B&gt; would be relaced by &lt;icon name=&quot;psi/smile&quot;&gt;&lt;/P&gt;</source>
-        <translation type="obsolete">&lt;P&gt;A hangulatjelek pár karakter, amikkel érzéseket lehet kifejezni.&lt;/P&gt;&lt;P&gt;Egnedélyezd ezt az opciót, ha az akarod hogy a hagyományos hangulatjelek grafikusra legyenek lecserélve.&lt;/P&gt;&lt;P&gt;Például, &lt;B&gt;:-)&lt;/B&gt; ki lesz cserélve erre: &lt;icon name=&quot;psi/smile&quot;&gt;&lt;/P&gt;</translation>
+        <location filename="../../psi-plus/src/options/opt_appearance.cpp" line="-17"/>
+        <source>Icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabIconsetActivity</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_iconset.cpp" line="+831"/>
+        <source>Activity</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/options/opt_iconset.cpp" line="+543"/>
+        <location line="+0"/>
+        <source>Select your activity iconset</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabIconsetAffiliations</name>
+    <message>
+        <location line="+147"/>
+        <source>Affiliations</source>
+        <translation type="unfinished">Kapcsolatok</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Select your affiliations iconset</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabIconsetClients</name>
+    <message>
+        <location line="+148"/>
+        <source>Clients</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Select your clients iconset</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabIconsetEmoticons</name>
+    <message>
+        <location line="-595"/>
         <source>&lt;P&gt;Emoticons are short sequences of characters that are used to convey an emotion or idea.&lt;/P&gt;&lt;P&gt;Enable this option if you want Psi to replace common emoticons with a graphical image.&lt;/P&gt;&lt;P&gt;For example, &lt;B&gt;:-)&lt;/B&gt; would be replaced by &lt;icon name=&quot;psi/smile&quot;&gt;&lt;/P&gt;</source>
         <translation>&lt;P&gt;A hangulatjelek pár karakter, amikkel érzéseket lehet kifejezni.&lt;/P&gt;&lt;P&gt;Egnedélyezd ezt az opciót, ha az akarod hogy a hagyományos hangulatjelek grafikusra legyenek lecserélve.&lt;/P&gt;&lt;P&gt;Például, &lt;B&gt;:-)&lt;/B&gt; ki lesz cserélve erre: &lt;icon name=&quot;psi/smile&quot;&gt;&lt;/P&gt;</translation>
     </message>
@@ -9859,15 +12042,24 @@ Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a co
     </message>
 </context>
 <context>
-    <name>OptionsTabIconsetRoster</name>
+    <name>OptionsTabIconsetMoods</name>
     <message>
         <location line="+179"/>
-        <source>Roster Icons</source>
-        <translation>Lista ikonjai</translation>
+        <source>Moods</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Roster Iconsets</source>
-        <translation type="obsolete">Lista ikoncsomagja</translation>
+        <location line="+0"/>
+        <source>Select your mood iconset</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabIconsetRoster</name>
+    <message>
+        <location line="+590"/>
+        <source>Roster Icons</source>
+        <translation>Lista ikonjai</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -9875,12 +12067,22 @@ Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a co
         <translation>Válaszd ki az ikoncsomagot a listádhoz</translation>
     </message>
     <message>
-        <location line="+55"/>
+        <location line="+40"/>
+        <source>vk.com</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Weather</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
         <source>Toggles use of transport icons to the contacts, that use that transports.</source>
         <translation>Bekapcsolja az átjárók/szolgáltatások ikonjainak használatát.</translation>
     </message>
     <message>
-        <location line="-21"/>
+        <location line="-26"/>
         <source>Transport</source>
         <translation>Átjáró</translation>
     </message>
@@ -9888,7 +12090,7 @@ Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a co
 <context>
     <name>OptionsTabIconsetSystem</name>
     <message>
-        <location line="-353"/>
+        <location line="-948"/>
         <source>Select the system iconset</source>
         <translation>Válaszd ki a rendszer ikoncsomagját</translation>
     </message>
@@ -9897,15 +12099,11 @@ Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a co
         <source>System Icons</source>
         <translation>Rendszer ikonjai</translation>
     </message>
-    <message>
-        <source>System Iconset</source>
-        <translation type="obsolete">Rendszer ikoncsomagja</translation>
-    </message>
 </context>
 <context>
     <name>OptionsTabPlugins</name>
     <message>
-        <location filename="../src/options/opt_plugins.cpp" line="+26"/>
+        <location filename="../../psi-plus/src/options/opt_plugins.cpp" line="+27"/>
         <source>Plugins</source>
         <translation>Kiegészítők</translation>
     </message>
@@ -9915,21 +12113,66 @@ Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a co
         <translation>Psi kiegészítők beállítása</translation>
     </message>
     <message>
-        <location line="+90"/>
+        <location line="+111"/>
         <source>No plugin selected.</source>
         <translation>Nincs kiválasztva kiegészítő.</translation>
     </message>
     <message>
+        <location line="+12"/>
+        <source>Version: </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabPopups</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_popups.cpp" line="+37"/>
+        <source>Popups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>The popups behaviour</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRoster</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_roster.cpp" line="+20"/>
+        <source>Roster</source>
+        <translation type="unfinished">Lista</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Roster window options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Makes the main Psi window always be in front of other windows.</source>
+        <translation type="unfinished">Psi főablaka legyen mindig legfelül.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
+        <translation type="unfinished">Atuomatikusan átméretezi a Psi főablakát, hogy minden partner neve beleférjen.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
+        <translation type="unfinished">Alapértelmezés szerint jobb kattintással a partnerre előjön egy menü. Kapcsold ezt be, ha te inkább ballal kattintanál.</translation>
+    </message>
+    <message>
         <location line="+3"/>
-        <location line="+30"/>
-        <source>This plugin has no user configurable options</source>
-        <translation>Ennek a kiegészítőnek nincsenek beállítható opciói</translation>
+        <source>Shows the menubar in the application window.</source>
+        <translation type="unfinished">Menüsáv mutatása az alkalmazás ablakában.</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabShortcuts</name>
     <message>
-        <location filename="../src/options/opt_shortcuts.cpp" line="+52"/>
+        <location filename="../../psi-plus/src/options/opt_shortcuts.cpp" line="+52"/>
         <source>Shortcuts</source>
         <translation>Billentyűzetkombinációk</translation>
     </message>
@@ -9965,17 +12208,17 @@ Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a co
 <context>
     <name>OptionsTabSound</name>
     <message>
-        <location filename="../src/options/opt_sound.cpp" line="+195"/>
+        <location filename="../../psi-plus/src/options/opt_sound.cpp" line="+201"/>
         <source>Choose a sound file</source>
         <translation>Válassz egy hangfájlt</translation>
     </message>
     <message>
-        <location line="-163"/>
+        <location line="-169"/>
         <source>Configure how Psi sounds</source>
         <translation>Állítsd be a hangokat a Psi-hez</translation>
     </message>
     <message>
-        <location line="+87"/>
+        <location line="+91"/>
         <source>Enable this option if you wish to hear sound alerts when your status is &quot;away&quot; or &quot;extended away&quot;.</source>
         <translation>Kapcsold be ha akkor is akarod a hangok lejátszását, ha &quot;nem elérhető&quot; vagy &quot;tétlen&quot; vagy.</translation>
     </message>
@@ -9985,31 +12228,27 @@ Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a co
         <translation>Ha a rendszered támogatja több lejátszót, válaszd ki azt amelyiket használni akarod.</translation>
     </message>
     <message>
-        <location line="+51"/>
+        <location line="+52"/>
         <source>Mac OS Sound</source>
         <translation>Mac OS hang</translation>
     </message>
     <message>
-        <source>MacOS Sound</source>
-        <translation type="obsolete">MacOS hang</translation>
-    </message>
-    <message>
-        <location line="-46"/>
+        <location line="-47"/>
         <source>Play sounds for all events in groupchat, not only for mentioning of your nick.</source>
         <translation>Minden eseménynél hang játszása, nem csak a neved említésénél.</translation>
     </message>
     <message>
-        <location line="-89"/>
+        <location line="-93"/>
         <source>Sound</source>
         <translation>Hang</translation>
     </message>
     <message>
-        <location line="+164"/>
+        <location line="+170"/>
         <source>Sound (*.wav)</source>
         <translation>Hangfájl (*.wav)</translation>
     </message>
     <message>
-        <location line="-31"/>
+        <location line="-32"/>
         <source>Windows Sound</source>
         <translation>Windows hang</translation>
     </message>
@@ -10017,68 +12256,7 @@ Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a co
 <context>
     <name>OptionsTabStatus</name>
     <message>
-        <location filename="../src/options/opt_status.cpp" line="+275"/>
-        <source>Can&apos;t create a blank preset!</source>
-        <translation>Nem hozhatsz létre üreset!</translation>
-    </message>
-    <message>
-        <location line="+0"/>
-        <location line="+2"/>
-        <source>Error</source>
-        <translation>Hiba</translation>
-    </message>
-    <message>
-        <location line="-178"/>
-        <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation>A Jabber lehetővé teszi, hogy külön üzeneteket adj meg minden állapotnál. Alapértelmezés szerint a Psi nem kér ilyen üzenet, ha &quot;elérhető&quot; módra váltassz. Kapcsold ezt be ha szeretnél mégis üzenetet írni hozzá.</translation>
-    </message>
-    <message>
-        <location line="-51"/>
-        <source>Makes Psi automatically set your status to &quot;away&quot; if your computer is idle for the specified amount of time.</source>
-        <translation>Automatikusan &quot;nem elérhető&quot; módra váltás, ha egy ideje nem csinálsz semmit a géppel.</translation>
-    </message>
-    <message>
-        <location line="+4"/>
-        <source>Makes Psi automatically set your status to &quot;extended away&quot; if your computer is idle for the specified amount of time.</source>
-        <translation>Automatikusan &quot;tétlen&quot; módra váltás, ha egy ideje nem csinálsz semmit a géppel.</translation>
-    </message>
-    <message>
-        <location line="+4"/>
-        <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation>Automatikusan &quot;nem elérhető&quot; módra váltás, ha egy ideje nem csinálsz semmit a géppel. Ezzel bontod a kapcsolatot a Jabber szerverrel.</translation>
-    </message>
-    <message>
-        <location line="+15"/>
-        <source>Specifies priority of auto-away status. If empty, Psi will use account&apos;s default priority.</source>
-        <translation>Prioritás beállítása az automatikus távollét állapothoz. Ha üres, a fiók alapértelemzettjét használja.</translation>
-    </message>
-    <message>
-        <location line="+196"/>
-        <source>New Status Preset</source>
-        <translation>Új előre mentett állapot</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Please enter a name for the new status preset:</source>
-        <translation>Írd be az előre mentett állapot nevét:</translation>
-    </message>
-    <message>
-        <location line="-185"/>
-        <source>Press this button to create a new status message preset.</source>
-        <translation>Nyomd meg ezt a gombot, hogy új állapot üzenetet hozz létre.</translation>
-    </message>
-    <message>
-        <location line="+2"/>
-        <source>Press this button to delete a status message preset.</source>
-        <translation>Nyomd meg ezt a gombot, hogy törölj egy mentett állapot üzenetet.</translation>
-    </message>
-    <message>
-        <location line="-17"/>
-        <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
-        <translation>Ezzel beállíthatsz egy üzenetet automatikus állapot váltásnál. Lásd a beállításokat fent.</translation>
-    </message>
-    <message>
-        <location line="-37"/>
+        <location filename="../../psi-plus/src/options/opt_status.cpp" line="+7"/>
         <source>Status</source>
         <translation>Állapot</translation>
     </message>
@@ -10087,36 +12265,131 @@ Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a co
         <source>Status preferences</source>
         <translation>Állapot beállításai</translation>
     </message>
+</context>
+<context>
+    <name>OptionsTabStatusAuto</name>
     <message>
-        <location line="+56"/>
-        <source>Use this list to select a status message preset to view or edit in the box to the bottom.</source>
-        <translation>Ezzel a listával kiválaszthatod, megnézheted, szerkesztheted az előre beállított üzeneteket.</translation>
+        <location filename="../../psi-plus/src/options/opt_statusauto.cpp" line="+21"/>
+        <source>Auto status and priority</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+190"/>
-        <source>You already have a preset with that name!</source>
-        <translation>Már van ilyen névvel egy mentett állapotod!</translation>
+        <location line="+0"/>
+        <source>Auto status and priority preferences</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-187"/>
+        <location line="+22"/>
+        <source>Makes Psi automatically set your status to &quot;away&quot; if your computer is idle for the specified amount of time.</source>
+        <translation type="unfinished">Automatikusan &quot;nem elérhető&quot; módra váltás, ha egy ideje nem csinálsz semmit a géppel.</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Makes Psi automatically set your status to &quot;extended away&quot; if your computer is idle for the specified amount of time.</source>
+        <translation type="unfinished">Automatikusan &quot;tétlen&quot; módra váltás, ha egy ideje nem csinálsz semmit a géppel.</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
+        <translation type="unfinished">Automatikusan &quot;nem elérhető&quot; módra váltás, ha egy ideje nem csinálsz semmit a géppel. Ezzel bontod a kapcsolatot a Jabber szerverrel.</translation>
+    </message>
+    <message>
+        <location line="+34"/>
+        <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
+        <translation type="unfinished">Ezzel beállíthatsz egy üzenetet automatikus állapot váltásnál. Lásd a beállításokat fent.</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Specifies priority of auto-away status. If empty, Psi will use account&apos;s default priority.</source>
+        <translation type="unfinished">Prioritás beállítása az automatikus távollét állapothoz. Ha üres, a fiók alapértelemzettjét használja.</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabStatusGeneral</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_statusgeneral.cpp" line="+24"/>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>General status preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+19"/>
+        <source>Press this button to create a new status message preset.</source>
+        <translation type="unfinished">Nyomd meg ezt a gombot, hogy új állapot üzenetet hozz létre.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Press this button to delete a status message preset.</source>
+        <translation type="unfinished">Nyomd meg ezt a gombot, hogy törölj egy mentett állapot üzenetet.</translation>
+    </message>
+    <message>
+        <location line="+6"/>
         <source>You may edit the message here for the currently selected status message preset in the list to the above.</source>
-        <translation>Itt szerkesztheted a kiválasztott előre mentett üzenetet, amit a listából választottál.</translation>
+        <translation type="unfinished">Itt szerkesztheted a kiválasztott előre mentett üzenetet, amit a listából választottál.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Use this to choose the status that will be assigned to this preset</source>
-        <translation>Használd ezt, hogy kiválaszt az állapotot amit majd ehhez a sablonhoz csatolsz</translation>
+        <translation type="unfinished">Használd ezt, hogy kiválaszt az állapotot amit majd ehhez a sablonhoz csatolsz</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Fill in the priority that will be assigned to this preset. If no priority is given, the default account priority will be used.</source>
-        <translation>Töltsd ki a prioritást ami erre a sablonra lesz jellemző. Ha nem adsz meg, a profil alapértelmezett értékét veszi fel.</translation>
+        <translation type="unfinished">Töltsd ki a prioritást ami erre a sablonra lesz jellemző. Ha nem adsz meg, a profil alapértelmezett értékét veszi fel.</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
+        <translation type="unfinished">A Jabber lehetővé teszi, hogy külön üzeneteket adj meg minden állapotnál. Alapértelmezés szerint a Psi nem kér ilyen üzenet, ha &quot;elérhető&quot; módra váltassz. Kapcsold ezt be ha szeretnél mégis üzenetet írni hozzá.</translation>
+    </message>
+    <message>
+        <location line="+255"/>
+        <location line="+4"/>
+        <source>Error</source>
+        <translation type="unfinished">Hiba</translation>
+    </message>
+    <message>
+        <location line="-4"/>
+        <source>Can&apos;t create a blank preset!</source>
+        <translation type="unfinished">Nem hozhatsz létre üreset!</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>You already have a preset with that name!</source>
+        <translation type="unfinished">Már van ilyen névvel egy mentett állapotod!</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabStatusPep</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_statuspep.cpp" line="+19"/>
+        <source>PEP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Tunes no-video filter and controllers switcher</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptionsTabToolbars</name>
     <message>
-        <location filename="../src/options/opt_toolbars.cpp" line="+51"/>
+        <location filename="../../psi-plus/src/options/opt_toolbars.cpp" line="+51"/>
         <source>Toolbars</source>
         <translation>Eszköztárak</translation>
     </message>
@@ -10129,7 +12402,7 @@ Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a co
 <context>
     <name>OptionsTabTree</name>
     <message>
-        <location filename="../src/options/opt_tree.cpp" line="+8"/>
+        <location filename="../../psi-plus/src/options/opt_tree.cpp" line="+8"/>
         <source>Advanced</source>
         <translation>Haladó</translation>
     </message>
@@ -10147,7 +12420,7 @@ Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a co
 <context>
     <name>OptionsTreeModel</name>
     <message>
-        <location filename="../src/tools/optionstree/optionstreemodel.cpp" line="+180"/>
+        <location filename="../../psi-plus/src/tools/optionstree/optionstreemodel.cpp" line="+185"/>
         <source>Name</source>
         <translation>Név</translation>
     </message>
@@ -10170,67 +12443,279 @@ Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a co
 <context>
     <name>OptionsUI</name>
     <message>
-        <source>&amp;Apply</source>
-        <translation type="obsolete">&amp;Alkalmaz</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="obsolete">&amp;Mégse</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="obsolete">&amp;Ok</translation>
-    </message>
-    <message>
-        <source>Alt+A</source>
-        <translation type="obsolete">Alt+A</translation>
-    </message>
-    <message>
-        <source>Alt+C</source>
-        <translation type="obsolete">Alt+C</translation>
-    </message>
-    <message>
-        <source>Alt+O</source>
-        <translation type="obsolete">Alt+O</translation>
-    </message>
-    <message>
-        <location filename="../src/options/ui_options.ui" line="+14"/>
+        <location filename="../../psi-plus/src/options/ui_options.ui" line="+14"/>
         <source>Options</source>
         <translation>Beállítások</translation>
     </message>
+</context>
+<context>
+    <name>OptionsWidget</name>
     <message>
-        <source>1</source>
-        <translation type="obsolete">1</translation>
+        <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/optionswidget.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/videostatusplugin/options.ui" line="+14"/>
+        <source>Form</source>
+        <translation type="unfinished">Űrlap</translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Account:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>For all accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+39"/>
+        <source>Deny iq version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Deny iq time request</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <source>OS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <location line="+33"/>
+        <source>Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-23"/>
+        <source>OS name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Client</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Client name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Client version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Caps node</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Caps version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+21"/>
+        <source>Enable for:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Conferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>Show popup at version iq</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <location line="+26"/>
+        <source>never</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-21"/>
+        <location line="+26"/>
+        <source>if iq replaced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-21"/>
+        <location line="+26"/>
+        <source>always</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-18"/>
+        <source>Save queryes to log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>Logs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>View log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/optionswidget.ui" line="+8"/>
+        <source>Shortcut:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Format:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>File Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Modify hotkey</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Modify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Default action</source>
+        <translation type="unfinished">Alap cselekvés</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Capture the desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Capture active window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Select capture area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Servers:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+55"/>
+        <source>*to specify the order of servers, use the drag-n-drop </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Add new server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Delete current server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Edit current server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+37"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/videostatusplugin/options.ui" line="+6"/>
+        <source>Enable for players:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Detect full screen applications</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Set status:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Status message:</source>
+        <translation type="unfinished">Állapot üzenet:</translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>Restore old status if player stops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Delay before setting status, sec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+34"/>
+        <source>Delay before restoring status, sec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+32"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>PGPKey</name>
     <message>
-        <source>Form1</source>
-        <translation type="obsolete">Form1</translation>
-    </message>
-    <message>
-        <source>Please select the key to use for security:</source>
-        <translation type="obsolete">Válaszd ki a használandó kulcsot:</translation>
-    </message>
-    <message>
-        <source>Key ID</source>
-        <translation type="obsolete">Kulcs ID</translation>
-    </message>
-    <message>
-        <source>User ID</source>
-        <translation type="obsolete">Felhasználó ID</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="obsolete">&amp;Mégse</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="obsolete">&amp;Ok</translation>
-    </message>
-    <message>
-        <location filename="../src/pgpkey.ui" line="+30"/>
+        <location filename="../../psi-plus/src/pgpkey.ui" line="+30"/>
         <source>Filter:</source>
         <translation>Szűrő:</translation>
     </message>
@@ -10238,7 +12723,7 @@ Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a co
 <context>
     <name>PGPKeyDlg</name>
     <message>
-        <location filename="../src/pgpkeydlg.cpp" line="+86"/>
+        <location filename="../../psi-plus/src/pgpkeydlg.cpp" line="+86"/>
         <source>&amp;Diagnostics</source>
         <translation>&amp;Diagnosztikák</translation>
     </message>
@@ -10269,36 +12754,9 @@ Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a co
     </message>
 </context>
 <context>
-    <name>PGPKeyUI</name>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="obsolete">&amp;Mégse</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="obsolete">&amp;Ok</translation>
-    </message>
-    <message>
-        <source>Form1</source>
-        <translation type="obsolete">Form1</translation>
-    </message>
-    <message>
-        <source>Key ID</source>
-        <translation type="obsolete">Kulcs ID</translation>
-    </message>
-    <message>
-        <source>Please select the key to use for security:</source>
-        <translation type="obsolete">Válaszd ki a használandó kulcsot:</translation>
-    </message>
-    <message>
-        <source>User ID</source>
-        <translation type="obsolete">Felhasználó ID</translation>
-    </message>
-</context>
-<context>
     <name>PGPUtil</name>
     <message>
-        <location filename="../src/pgputil.cpp" line="+297"/>
+        <location filename="../../psi-plus/src/pgputil.cpp" line="+305"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
@@ -10321,9 +12779,37 @@ A hiba oka: %1.</translation>
     </message>
 </context>
 <context>
+    <name>PassDialog</name>
+    <message>
+        <location filename="../../psi-plus/src/passdialog.cpp" line="+35"/>
+        <source>Wrong Account Password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Save Password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Mégse</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Please enter your password for %1:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Passphrase</name>
     <message>
-        <location filename="../src/passphrase.ui" line="+16"/>
+        <location filename="../../psi-plus/src/passphrase.ui" line="+16"/>
         <source>OpenPGP Passphrase</source>
         <translation>OpenPGP jelszó</translation>
     </message>
@@ -10335,7 +12821,12 @@ Please enter your passphrase below:</source>
 Kérlek írd be a jelszavadat:</translation>
     </message>
     <message>
-        <location line="+40"/>
+        <location line="+15"/>
+        <source>Remember passphrase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+32"/>
         <source>&amp;Cancel</source>
         <translation>&amp;Mégse</translation>
     </message>
@@ -10348,123 +12839,367 @@ Kérlek írd be a jelszavadat:</translation>
 <context>
     <name>PassphraseDlg</name>
     <message>
-        <location filename="../src/passphrasedlg.cpp" line="+36"/>
+        <location filename="../../psi-plus/src/passphrasedlg.cpp" line="+36"/>
         <source>%1: OpenPGP Passphrase</source>
         <translation>%1: OpenPGP jelszó</translation>
     </message>
 </context>
 <context>
-    <name>PassphraseUI</name>
+    <name>PepPlugin</name>
     <message>
-        <source>&amp;Cancel</source>
-        <translation type="obsolete">&amp;Mégse</translation>
+        <location filename="../../psi-plus/src/plugins/generic/pepchangenotifyplugin/pepchangenotifyplugin.cpp" line="+280"/>
+        <source>Now listening: </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;OK</source>
-        <translation type="obsolete">&amp;Ok</translation>
+        <location line="+29"/>
+        <source>Mood changed to &quot;%1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OpenPGP Passphrase</source>
-        <translation type="obsolete">OpenPGP Passphrase</translation>
+        <location line="+32"/>
+        <source>Activity changed to &quot;%1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Your passphrase is needed to use OpenPGP security.
-Please enter your passphrase below:</source>
-        <translation type="obsolete">Szükség van a passphrase-edre hogy használd az OpenPGP-t.
-Írd be a passphrase-ed:</translation>
+        <location line="+122"/>
+        <source>Choose a sound file</source>
+        <translation type="unfinished">Válassz egy hangfájlt</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Sound (*.wav)</source>
+        <translation type="unfinished">Hangfájl (*.wav)</translation>
+    </message>
+    <message>
+        <location line="+99"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>PositionToolbarUI</name>
+    <name>PixmapWidget</name>
     <message>
-        <source>&amp;Apply</source>
-        <translation type="obsolete">&amp;Alkalmaz</translation>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/pixmapwidget.cpp" line="+272"/>
+        <source>Input radius</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Cancel</source>
-        <translation type="obsolete">&amp;Mégse</translation>
+        <location line="+0"/>
+        <source>Radius</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;OK</source>
-        <translation type="obsolete">&amp;Ok</translation>
+        <location line="+94"/>
+        <source>Cut</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Alt+A</source>
-        <translation type="obsolete">Alt+A</translation>
+        <location line="+1"/>
+        <source>Copy</source>
+        <translation type="unfinished">Másol</translation>
     </message>
     <message>
-        <source>Alt+C</source>
-        <translation type="obsolete">Alt+C</translation>
+        <location line="+1"/>
+        <source>Blur</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PluginInfoDialog</name>
+    <message>
+        <location filename="../../psi-plus/src/options/plugininfodialog.ui" line="+32"/>
+        <source>Information</source>
+        <translation type="unfinished">Információ</translation>
     </message>
     <message>
-        <source>Alt+O</source>
-        <translation type="obsolete">Alt+O</translation>
+        <location line="+37"/>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PluginManager</name>
+    <message>
+        <location filename="../../psi-plus/src/pluginmanager.cpp" line="+314"/>
+        <source>This plugin has no user configurable options</source>
+        <translation type="unfinished">Ennek a kiegészítőnek nincsenek beállítható opciói</translation>
+    </message>
+</context>
+<context>
+    <name>PluginWindow</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="+14"/>
+        <source>Gomoku Game</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Bottom</source>
-        <translation type="obsolete">Lent</translation>
+        <location line="+9"/>
+        <source>Opponent:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Change Toolbar Position</source>
-        <translation type="obsolete">Eszköztár helyzetének megváltoztatása</translation>
+        <location line="+43"/>
+        <source>Status:</source>
+        <translation type="unfinished">Állapot:</translation>
     </message>
     <message>
-        <source>Dock position:</source>
-        <translation type="obsolete">Dokkolás:</translation>
+        <location line="+178"/>
+        <source>Game</source>
+        <translation type="unfinished">Játék</translation>
     </message>
     <message>
-        <source>Extra offset:</source>
-        <translation type="obsolete">Eltolás:</translation>
+        <location line="+4"/>
+        <source>Skin</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Here you can fine-tune the exact position of your toolbar</source>
-        <translation type="obsolete">Itt pontosan meg tudod határozni az eszköztárad elhelyezkedését</translation>
+        <location line="+11"/>
+        <source>File</source>
+        <translation type="unfinished">Fájl</translation>
     </message>
     <message>
-        <source>Index:</source>
-        <translation type="obsolete">Index:</translation>
+        <location line="+14"/>
+        <source>New game</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Left</source>
-        <translation type="obsolete">Bal oldalt</translation>
+        <location line="+5"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="+431"/>
+        <source>Load game</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Minimized</source>
-        <translation type="obsolete">Minimalizált</translation>
+        <location line="+5"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="-19"/>
+        <source>Save game</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Name:</source>
-        <translation type="obsolete">Név:</translation>
+        <location line="+5"/>
+        <source>Quit</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Position Toolbar</source>
-        <translation type="obsolete">Eszköztár elhelyezése</translation>
+        <location line="+5"/>
+        <source>Resign</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Right</source>
-        <translation type="obsolete">Jobb oldalt</translation>
+        <location line="+5"/>
+        <source>Switch color</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Starts from new line</source>
-        <translation type="obsolete">Kezdés új sorból</translation>
+        <location line="+11"/>
+        <source>Standard</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Top</source>
-        <translation type="obsolete">Fent</translation>
+        <location line="+8"/>
+        <source>Yellow wood</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Torn off (advanced)</source>
-        <translation type="obsolete">Leszakítva (haladó)</translation>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="-272"/>
+        <source>Waiting for opponent</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unmanaged (advanced)</source>
-        <translation type="obsolete">Nem meghatározott (haladó)</translation>
+        <location line="+4"/>
+        <source>Waiting for accept</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Your turn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>End of game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Error</source>
+        <translation type="unfinished">Hiba</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Win!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Lose.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <location line="+366"/>
+        <source>Draw.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-324"/>
+        <source>You</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Opp</source>
+        <comment>Opponent</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>%1: %2 - swch</source>
+        <comment>Switch color</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+72"/>
+        <location line="+16"/>
+        <location line="+25"/>
+        <location line="+23"/>
+        <location line="+33"/>
+        <location line="+15"/>
+        <location line="+74"/>
+        <location line="+59"/>
+        <source>Gomoku Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-244"/>
+        <source>Game Error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Your opponent has closed the board!
+ You can still save the game.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>You want to switch color?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>You Lose.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>You Win!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>You really want to begin new game?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+74"/>
+        <source>You really want to begin loaded game?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PreferencesWidget</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/dev/pstoplugin/preferences.ui" line="+14"/>
+        <source>Form</source>
+        <translation type="unfinished">Űrlap</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>@username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>#post_id</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>* tag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>&gt; quote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>message</source>
+        <translation type="unfinished">üzenet</translation>
+    </message>
+</context>
+<context>
+    <name>Previewer</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/skinsplugin/previewer.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/skinsplugin/skin.cpp" line="+91"/>
+        <location line="+5"/>
+        <source>Preview Skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Preview unavailable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Name: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Version: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>Apply</source>
+        <translation type="unfinished">Alkalmaz</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/skinsplugin/skin.cpp" line="-5"/>
+        <location line="+5"/>
+        <source>Skin is not valid!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Privacy</name>
     <message>
-        <location filename="../src/privacy/privacy.ui" line="+17"/>
+        <location filename="../../psi-plus/src/privacy/privacy.ui" line="+17"/>
         <source>Settings</source>
         <translation>Beállítások</translation>
     </message>
@@ -10492,6 +13227,11 @@ Please enter your passphrase below:</source>
         <location line="+27"/>
         <source>New List</source>
         <translation>Új lista</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Rename List</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
@@ -10538,26 +13278,22 @@ Please enter your passphrase below:</source>
         <source>Apply</source>
         <translation>Alkalmaz</translation>
     </message>
-    <message>
-        <source>Close</source>
-        <translation type="obsolete">Bezár</translation>
-    </message>
 </context>
 <context>
     <name>PrivacyDlg</name>
     <message>
-        <location filename="../src/privacy/privacydlg.cpp" line="+36"/>
+        <location filename="../../psi-plus/src/privacy/privacydlg.cpp" line="+37"/>
         <source>%1: Privacy Lists</source>
         <translation>%1: Privacy lista</translation>
     </message>
     <message>
-        <location line="+112"/>
+        <location line="+117"/>
         <location line="+12"/>
         <source>&lt;None&gt;</source>
         <translation>&lt;Nincs&gt;</translation>
     </message>
     <message>
-        <location line="+144"/>
+        <location line="+165"/>
         <source>New List</source>
         <translation>Új lista</translation>
     </message>
@@ -10576,11 +13312,21 @@ Please enter your passphrase below:</source>
         <source>A list with this name already exists.</source>
         <translation>Már van egy lista ezzel a névvel.</translation>
     </message>
+    <message>
+        <location line="+28"/>
+        <source>Rename List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Input new name</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PrivacyRule</name>
     <message>
-        <location filename="../src/privacy/privacyrule.ui" line="+16"/>
+        <location filename="../../psi-plus/src/privacy/privacyrule.ui" line="+16"/>
         <source>Edit Privacy Rule</source>
         <translation>Biztonsági házirend szerkesztése</translation>
     </message>
@@ -10628,7 +13374,7 @@ Please enter your passphrase below:</source>
 <context>
     <name>PrivacyRuleDlg</name>
     <message>
-        <location filename="../src/privacy/privacyruledlg.cpp" line="+28"/>
+        <location filename="../../psi-plus/src/privacy/privacyruledlg.cpp" line="+28"/>
         <source>Deny</source>
         <translation>Tiltás</translation>
     </message>
@@ -10682,13 +13428,9 @@ Please enter your passphrase below:</source>
 <context>
     <name>ProfileManage</name>
     <message>
-        <location filename="../src/profilemanage.ui" line="+14"/>
+        <location filename="../../psi-plus/src/profilemanage.ui" line="+14"/>
         <source>Manage Profiles</source>
         <translation>Profilok szerkesztése</translation>
-    </message>
-    <message>
-        <source>&amp;New</source>
-        <translation type="obsolete">&amp;Új</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -10715,19 +13457,11 @@ Please enter your passphrase below:</source>
         <source>psi/remove</source>
         <translation>psi/remove</translation>
     </message>
-    <message>
-        <source>&amp;Delete</source>
-        <translation type="obsolete">&amp;Töröl</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
-    </message>
 </context>
 <context>
     <name>ProfileManageDlg</name>
     <message>
-        <location filename="../src/profiledlg.cpp" line="+285"/>
+        <location filename="../../psi-plus/src/profiledlg.cpp" line="+294"/>
         <source>&amp;No</source>
         <translation>&amp;Nem</translation>
     </message>
@@ -10742,16 +13476,7 @@ Please enter your passphrase below:</source>
         <translation>&lt;qt&gt;Biztosan törlöd a(z) &quot;%1&quot; profilt? A profilhoz tartozó előzmények és beállítások is törlődnek!&lt;/qt&gt;</translation>
     </message>
     <message>
-        <location line="+12"/>
-        <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Proceed?</source>
-        <translation>&lt;qt&gt;Figyelmeztetésként, utoljára leszel megkérdezve, hogy tényleg törölni akarod ezt a mappát?&lt;br&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Biztos vagy benne?</translation>
-    </message>
-    <message>
-        <location line="-13"/>
+        <location line="-1"/>
         <location line="+12"/>
         <source>Delete Profile</source>
         <translation>Profil törlése</translation>
@@ -10767,7 +13492,7 @@ Biztos vagy benne?</translation>
         <translation>Nem, meggondoltam magam</translation>
     </message>
     <message>
-        <location line="-33"/>
+        <location line="-41"/>
         <source>Please enter a new name for the profile.  Keep it simple.
 Only use letters or numbers.  No punctuation or spaces.</source>
         <translation>Írd be a profil új nevét. Legyen egyszerű. Csak betűk és 
@@ -10786,43 +13511,27 @@ számok, pontok vagy szóközök nélkül.</translation>
         <translation>Már van egy ilyen nevű profilod. Válassz másikat.</translation>
     </message>
     <message>
-        <location line="+47"/>
+        <location line="+44"/>
+        <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
+&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+Proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
         <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
         <translation>Nem sikerült törölni az egész mappát.Ellenőrizd, hogy biztos megfelelő jogosultságokkal rendelkezel.</translation>
     </message>
     <message>
-        <location line="-43"/>
+        <location line="-51"/>
         <source>Unable to rename the profile.  Please do not use any special characters.</source>
         <translation>Nem lehet a profilt létrehozni. Ne haszálj speciális karaktereket.</translation>
     </message>
 </context>
 <context>
-    <name>ProfileManageUI</name>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
-    </message>
-    <message>
-        <source>&amp;Delete</source>
-        <translation type="obsolete">&amp;Töröl</translation>
-    </message>
-    <message>
-        <source>&amp;New</source>
-        <translation type="obsolete">&amp;Új</translation>
-    </message>
-    <message>
-        <source>&amp;Rename</source>
-        <translation type="obsolete">&amp;Átnevez</translation>
-    </message>
-    <message>
-        <source>Manage Profiles</source>
-        <translation type="obsolete">Profilok kezelése</translation>
-    </message>
-</context>
-<context>
     <name>ProfileNew</name>
     <message>
-        <location filename="../src/profilenew.ui" line="+16"/>
+        <location filename="../../psi-plus/src/profilenew.ui" line="+16"/>
         <source>New Profile</source>
         <translation>Új profil</translation>
     </message>
@@ -10888,7 +13597,7 @@ Jelöld be a &lt;i&gt;Hangulatjelek engedélyezése&lt;/i&gt; opciót, ha szeret
 <context>
     <name>ProfileNewDlg</name>
     <message>
-        <location filename="../src/profiledlg.cpp" line="+96"/>
+        <location filename="../../psi-plus/src/profiledlg.cpp" line="+104"/>
         <location line="+5"/>
         <source>New Profile</source>
         <translation>Új profil</translation>
@@ -10905,60 +13614,9 @@ Jelöld be a &lt;i&gt;Hangulatjelek engedélyezése&lt;/i&gt; opciót, ha szeret
     </message>
 </context>
 <context>
-    <name>ProfileNewUI</name>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
-    </message>
-    <message>
-        <source>&amp;Create</source>
-        <translation type="obsolete">&amp;Létrehoz</translation>
-    </message>
-    <message>
-        <source>Alt+C</source>
-        <translation type="obsolete">Alt+C</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="obsolete">Chat</translation>
-    </message>
-    <message>
-        <source>Default Action</source>
-        <translation type="obsolete">Alapértelmezett akció</translation>
-    </message>
-    <message>
-        <source>Enable Emoticons</source>
-        <translation type="obsolete">Hangulatjelek engedélyezése</translation>
-    </message>
-    <message>
-        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
-&lt;br&gt;
-The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
-&lt;br&gt;
-Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation type="obsolete">Legyen a &lt;i&gt;Profil neve&lt;/i&gt; egyszerű. Csak betűket és számokat tartalmazhat.&lt;br&gt;
-&lt;br&gt;
-Az &lt;i&gt;alapértelmezett akció&lt;/i&gt; az ami dupla-kattintáskor örténik. A lehetőségek: &lt;b&gt;Üzenet&lt;/b&gt; (ICQ stílus) és Chat (AIM stílus). Ezt később megváltoztathatod a Beállítások menüben.&lt;br&gt;
-&lt;br&gt;
-Kapcsold be a &lt;i&gt;Hangulatjelek engedélyezését&lt;/i&gt; ha azt szertnéd hogy a &lt;b&gt;:-)&lt;/b&gt; át legyen alakítva ilyenre: &lt;icon name=&quot;psi/smile&quot;&gt;.</translation>
-    </message>
-    <message>
-        <source>Message</source>
-        <translation type="obsolete">Üzenet</translation>
-    </message>
-    <message>
-        <source>New Profile</source>
-        <translation type="obsolete">Új profil</translation>
-    </message>
-    <message>
-        <source>Profile Name:</source>
-        <translation type="obsolete">Profil neve:</translation>
-    </message>
-</context>
-<context>
     <name>ProfileOpen</name>
     <message>
-        <location filename="../src/profileopen.ui" line="+16"/>
+        <location filename="../../psi-plus/src/profileopen.ui" line="+16"/>
         <location line="+48"/>
         <source>Open Profile</source>
         <translation>Profil megnyitása</translation>
@@ -11027,7 +13685,7 @@ Kapcsold be a &lt;i&gt;Hangulatjelek engedélyezését&lt;/i&gt; ha azt szertné
 <context>
     <name>ProfileOpenDlg</name>
     <message>
-        <location filename="../src/profiledlg.cpp" line="-228"/>
+        <location filename="../../psi-plus/src/profiledlg.cpp" line="-236"/>
         <source>Automatically open this profile when Psi is started.  Useful if you only have one profile.</source>
         <translation>Automatikusan ezt a profilt töltse be, ha a Psi elindul. Hasznos ha csak egy profilod van.</translation>
     </message>
@@ -11043,52 +13701,9 @@ Kapcsold be a &lt;i&gt;Hangulatjelek engedélyezését&lt;/i&gt; ha azt szertné
     </message>
 </context>
 <context>
-    <name>ProfileOpenUI</name>
-    <message>
-        <source>&amp;Automatically open on startup</source>
-        <translation type="obsolete">&amp;Automatikus betöltés indításkor</translation>
-    </message>
-    <message>
-        <source>&amp;Open</source>
-        <translation type="obsolete">&amp;Megnyit</translation>
-    </message>
-    <message>
-        <source>&amp;Profiles...</source>
-        <translation type="obsolete">&amp;Profilok...</translation>
-    </message>
-    <message>
-        <source>&amp;Quit</source>
-        <translation type="obsolete">&amp;Kilép</translation>
-    </message>
-    <message>
-        <source>Image goes here</source>
-        <translation type="obsolete">Kép helye</translation>
-    </message>
-    <message>
-        <source>Language:</source>
-        <translation type="obsolete">Nyelv:</translation>
-    </message>
-    <message>
-        <source>Open Profile</source>
-        <translation type="obsolete">Profil megnyitása</translation>
-    </message>
-    <message>
-        <source>Profile:</source>
-        <translation type="obsolete">Profil:</translation>
-    </message>
-    <message>
-        <source>left</source>
-        <translation type="obsolete">bal</translation>
-    </message>
-    <message>
-        <source>right</source>
-        <translation type="obsolete">jobb</translation>
-    </message>
-</context>
-<context>
     <name>Proxy</name>
     <message>
-        <location filename="../src/proxy.ui" line="+14"/>
+        <location filename="../../psi-plus/src/proxy.ui" line="+14"/>
         <source>Proxy Profiles</source>
         <translation>Proxy profilok</translation>
     </message>
@@ -11143,31 +13758,15 @@ Kapcsold be a &lt;i&gt;Hangulatjelek engedélyezését&lt;/i&gt; ha azt szertné
         <translation>Jelszó:</translation>
     </message>
     <message>
-        <source>Properties</source>
-        <translation type="obsolete">Beállítások</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation type="obsolete">Név:</translation>
-    </message>
-    <message>
         <location line="-93"/>
         <source>Type:</source>
         <translation>Típus:</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
-    </message>
-    <message>
-        <source>&amp;Save</source>
-        <translation type="obsolete">&amp;Ment</translation>
     </message>
 </context>
 <context>
     <name>ProxyChooser</name>
     <message>
-        <location filename="../src/proxy.cpp" line="+364"/>
+        <location filename="../../psi-plus/src/proxy.cpp" line="+364"/>
         <source>Edit...</source>
         <translation>Szerkeszt...</translation>
     </message>
@@ -11217,109 +13816,49 @@ Kapcsold be a &lt;i&gt;Hangulatjelek engedélyezését&lt;/i&gt; ha azt szertné
     </message>
 </context>
 <context>
-    <name>ProxyEdit</name>
+    <name>ProxySettingsDlg</name>
     <message>
-        <source>Consult your network administrator if necessary.</source>
-        <translation type="obsolete">Kérdezd a hálózat adminisztrátorát ha szükséges.</translation>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/proxysettingsdlg.ui" line="+32"/>
+        <source>Proxy Server Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enter the hostname and port of your proxy server.</source>
-        <translation type="obsolete">Írd be a proxy címét és portját.</translation>
-    </message>
-    <message>
-        <source>Enter your proxy server login (username) or leave this field blank if the proxy server does not require it.</source>
-        <translation type="obsolete">Írd be a proxy szerver felhasználónevedet vagy hagyd üresen, ha a proxy szerver nem kéri.</translation>
-    </message>
-    <message>
-        <source>Enter your proxy server password or leave this field blank if the proxy server does not require it.</source>
-        <translation type="obsolete">Írd be a proxy szerver jelszavadat vagy hagyd üresen, ha a proxy szerver nem kéri.</translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="obsolete">Jelszó:</translation>
-    </message>
-    <message>
-        <source>Polling URL:</source>
-        <translation type="obsolete">Polling URL:</translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation type="obsolete">Beállítások</translation>
-    </message>
-    <message>
-        <source>Use authentication</source>
-        <translation type="obsolete">Hitelesítés használata</translation>
-    </message>
-    <message>
-        <source>Username:</source>
-        <translation type="obsolete">Felhasználónév:</translation>
-    </message>
-</context>
-<context>
-    <name>ProxyUI</name>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
-    </message>
-    <message>
-        <source>&amp;New</source>
-        <translation type="obsolete">&amp;Új</translation>
-    </message>
-    <message>
-        <source>&amp;Save</source>
-        <translation type="obsolete">&amp;Ment</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation type="obsolete">Név:</translation>
-    </message>
-    <message>
-        <source>Properties</source>
-        <translation type="obsolete">Beállítások</translation>
-    </message>
-    <message>
-        <source>Proxy Profiles</source>
-        <translation type="obsolete">Proxy profilok</translation>
-    </message>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="obsolete">&amp;Töröl</translation>
-    </message>
-    <message>
+        <location line="+8"/>
         <source>Type:</source>
-        <translation type="obsolete">Típus:</translation>
+        <translation type="unfinished">Típus:</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Host:</source>
+        <translation type="unfinished">Cím:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Port:</source>
+        <translation type="unfinished">Port:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>99999; </source>
+        <translation type="unfinished">99999; </translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>User:</source>
+        <translation type="unfinished">Felhasználó:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Password:</source>
+        <translation type="unfinished">Jelszó:</translation>
     </message>
 </context>
 <context>
     <name>PsiAccount</name>
     <message>
-        <source>%1: OpenPGP Passphrase</source>
-        <translation type="obsolete">%1: OpenPGP Passphrase</translation>
-    </message>
-    <message>
-        <source>%1: SSL Error</source>
-        <translation type="obsolete">%1 SSL hiba</translation>
-    </message>
-    <message>
-        <source>%1: Server Authentication</source>
-        <translation type="obsolete">%1: Szerver hitelesítés</translation>
-    </message>
-    <message>
-        <source>%1: Server Error</source>
-        <translation type="obsolete">%1: Szerver hiba</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="obsolete">&amp;Mégse</translation>
-    </message>
-    <message>
-        <location filename="../src/psiaccount.cpp" line="+5903"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="+6482"/>
         <source>&amp;Choose key manually</source>
         <translation>Kulcs &amp;kiválaszása</translation>
-    </message>
-    <message>
-        <source>&amp;Details...</source>
-        <translation type="obsolete">&amp;Részletek...</translation>
     </message>
     <message>
         <location line="-5"/>
@@ -11327,57 +13866,29 @@ Kapcsold be a &lt;i&gt;Hangulatjelek engedélyezését&lt;/i&gt; ha azt szertné
         <translation>&lt;p&gt;A Psi nem talál OpenPGP kulcsot &lt;b&gt;%1&lt;/b&gt; felhasználóhoz.&lt;br&gt;&lt;br&gt;Ez akkor történhet, ha a felhasználó még nem küldött kulcsot, vagy nem rendelkezik vele.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location line="-3945"/>
+        <location line="-4355"/>
         <source>A required remote connection failed</source>
         <translation>A szükséges távoli kapcsolat nem sikerült</translation>
     </message>
     <message>
-        <location line="+55"/>
+        <location line="+56"/>
         <source>Authentication error: %1</source>
         <translation>Hitelesítési hiba: %1</translation>
     </message>
     <message>
-        <location line="-22"/>
+        <location line="-23"/>
         <source>Bad server response</source>
         <translation>Rossz szerver válasz</translation>
     </message>
     <message>
-        <location line="+25"/>
+        <location line="+26"/>
         <source>Broken security layer (SASL)</source>
         <translation>Bizonytalan biztonsági réteg (SASL)</translation>
     </message>
     <message>
-        <location line="-39"/>
+        <location line="-40"/>
         <source>Broken security layer (TLS)</source>
         <translation>Bizonytalan biztonsági réteg (TLS)</translation>
-    </message>
-    <message>
-        <source>Cannot login: SSL is enabled but no SSL/TLS (plugin) support is available.</source>
-        <translation type="obsolete">Nem sikerült bejeletkezni: SSL engedélyezve van, de nincs elérhető SSL/TLS támogatás (kiegészitő).</translation>
-    </message>
-    <message>
-        <source>Certificate has been revoked.</source>
-        <translation type="obsolete">A tanusítvány visszavonva.</translation>
-    </message>
-    <message>
-        <source>Certificate has expired.</source>
-        <translation type="obsolete">A tanusítvány lejárt.</translation>
-    </message>
-    <message>
-        <source>Certificate is self-signed.</source>
-        <translation type="obsolete">Tanusítvány saját aláírású.</translation>
-    </message>
-    <message>
-        <source>Certificate is valid.</source>
-        <translation type="obsolete">A tanusítvány érvényes.</translation>
-    </message>
-    <message>
-        <source>Certificate not trusted for the required purpose.</source>
-        <translation type="obsolete">A tanusítvány nem megbízható bizonyos okokból.</translation>
-    </message>
-    <message>
-        <source>Co&amp;ntinue</source>
-        <translation type="obsolete">&amp;Folytatás</translation>
     </message>
     <message>
         <location line="-72"/>
@@ -11390,34 +13901,73 @@ Kapcsold be a &lt;i&gt;Hangulatjelek engedélyezését&lt;/i&gt; ha azt szertné
         <translation>Kapcsolat hiba: %1</translation>
     </message>
     <message>
-        <location line="-631"/>
+        <location line="-665"/>
         <source>Disable Account</source>
         <translation>Fiók letiltása</translation>
     </message>
     <message>
-        <location line="+561"/>
+        <location line="+595"/>
         <source>Disconnected</source>
         <translation>Szétkapcsolva</translation>
     </message>
     <message>
-        <location line="+4031"/>
+        <location line="+881"/>
+        <source>Logged out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+541"/>
+        <source>Unregister from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+578"/>
+        <source>Name:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Version:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Os:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Version Query Information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1214"/>
+        <source>Headline</source>
+        <translation type="unfinished">Főcím</translation>
+    </message>
+    <message>
+        <location line="+1222"/>
         <source>Do &amp;nothing</source>
         <translation>Ne csinájl &amp;semmit</translation>
     </message>
     <message>
-        <location line="-3913"/>
+        <location line="-4323"/>
         <source>Encryption required for chosen SASL mechanism</source>
         <translation>A választott SASL eljáráshoz titkosítás szükséges</translation>
     </message>
     <message>
-        <location line="-683"/>
-        <location line="+1455"/>
-        <location line="+325"/>
+        <location line="-717"/>
+        <location line="+1915"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location line="-1155"/>
+        <location line="-1256"/>
         <source>Error connecting to proxy</source>
         <translation>Nem sikerült csatlakozni a proxyhoz</translation>
     </message>
@@ -11425,10 +13975,6 @@ Kapcsold be a &lt;i&gt;Hangulatjelek engedélyezését&lt;/i&gt; ha azt szertné
         <location line="+2"/>
         <source>Error during proxy negotiation</source>
         <translation>Hiba a proxyval való kommunikálás közben</translation>
-    </message>
-    <message>
-        <source>General certificate validation error.</source>
-        <translation type="obsolete">Általános tanusítvány érvényesitési hiba.</translation>
     </message>
     <message>
         <location line="-36"/>
@@ -11456,10 +14002,6 @@ Kapcsold be a &lt;i&gt;Hangulatjelek engedélyezését&lt;/i&gt; ha azt szertné
         <translation>Belső szerver hiba</translation>
     </message>
     <message>
-        <source>Invalid CA certificate.</source>
-        <translation type="obsolete">Érvénytelen CA tanusítvány.</translation>
-    </message>
-    <message>
         <location line="+88"/>
         <source>Invalid SASL mechanism</source>
         <translation>Érvénytelen SASL eljárás</translation>
@@ -11475,51 +14017,22 @@ Kapcsold be a &lt;i&gt;Hangulatjelek engedélyezését&lt;/i&gt; ha azt szertné
         <translation>Hibás felhasználó információ</translation>
     </message>
     <message>
-        <source>Invalid certificate purpose.</source>
-        <translation type="obsolete">Érvénytelen tanusítvány cél.</translation>
-    </message>
-    <message>
         <location line="+5"/>
         <source>Invalid realm</source>
         <translation>Érvénytelen realm (tartomány)</translation>
     </message>
     <message>
-        <source>Invalid signature.</source>
-        <translation type="obsolete">Érvénytelen aláírás.</translation>
-    </message>
-    <message>
-        <source>Maximum certificate chain length exceeded.</source>
-        <translation type="obsolete">Maximális tanusítvány-lánc hossz túllépve.</translation>
-    </message>
-    <message>
-        <source>Need Password</source>
-        <translation type="obsolete">Jelszó szükséges</translation>
-    </message>
-    <message>
-        <source>No appropriate mechanism available for given security settings</source>
-        <translation type="obsolete">Nincs megfelelő eljárás a megadott biztonsági beállításokhoz</translation>
-    </message>
-    <message>
-        <location line="+3901"/>
+        <location line="+4311"/>
         <source>No key</source>
         <translation>Nincs kulcs</translation>
     </message>
     <message>
-        <location line="-3884"/>
+        <location line="-4293"/>
         <source>None</source>
         <translation>Nincs</translation>
     </message>
     <message>
-        <location line="-13"/>
-        <source>Not authorized</source>
-        <translation>Nincs hitelesítve</translation>
-    </message>
-    <message>
-        <source>Please enter the password for %1:</source>
-        <translation type="obsolete">Írd be a jelszót %1hez:</translation>
-    </message>
-    <message>
-        <location line="-90"/>
+        <location line="-104"/>
         <source>Policy violation</source>
         <translation>Házirend megszegése</translation>
     </message>
@@ -11529,20 +14042,12 @@ Kapcsold be a &lt;i&gt;Hangulatjelek engedélyezését&lt;/i&gt; ha azt szertné
         <translation>Proxy hitelesítés nem sikerült</translation>
     </message>
     <message>
-        <location line="+3974"/>
+        <location line="+4384"/>
         <source>Public Key: %1</source>
         <translation>Nyilvános kulcs: %1</translation>
     </message>
     <message>
-        <source>Reason: %1</source>
-        <translation type="obsolete">Oka: %1</translation>
-    </message>
-    <message>
-        <source>Root CA is marked to reject the specified purpose.</source>
-        <translation type="obsolete">Root CA visszautasította a megadott célt.</translation>
-    </message>
-    <message>
-        <location line="-3911"/>
+        <location line="-4321"/>
         <source>SASL mechanism too weak for this account</source>
         <translation>SASL eljárás túl gyenge ehhez a fiókhoz</translation>
     </message>
@@ -11592,41 +14097,19 @@ Kapcsold be a &lt;i&gt;Hangulatjelek engedélyezését&lt;/i&gt; ha azt szertné
         <translation>TLS handshake-hiba</translation>
     </message>
     <message>
-        <location line="+34"/>
+        <location line="+35"/>
         <source>Temporary auth failure</source>
         <translation>Átmeneti hitelesítési hiba</translation>
     </message>
     <message>
-        <source>The %1 certificate failed the authenticity test.</source>
-        <translation type="obsolete">A(z) %1 hitelesítése nem sikerült.</translation>
-    </message>
-    <message>
-        <location line="-693"/>
+        <location line="-728"/>
         <source>The account is currently active.
 Do you want to log out ?</source>
         <translation>A fiók pillanatnyilag aktív.
 Ki akarsz jelentkezni?</translation>
     </message>
     <message>
-        <source>The hostname does not match the one the certificate was issued to.</source>
-        <translation type="obsolete">A cím nem eggyezik azzal amire a tanusítvány mutat.</translation>
-    </message>
-    <message>
-        <source>The server did not present a certificate.</source>
-        <translation type="obsolete">A szerver nem mutat semmilyen tanusítványt.</translation>
-    </message>
-    <message>
-        <source>There was an error communicating with the Jabber server.
-Details: %1</source>
-        <translation type="obsolete">Hiba lépett fel a Jabber szerverrel való kommunikálás közben.
-Részletek: %1</translation>
-    </message>
-    <message>
-        <source>There was an error during OpenPGP processing.  Check your settings and try again.</source>
-        <translation type="obsolete">Hiba lépett fel az OpenPGP használata során. Ellenőrizd a beállításaidat és próbáld újra.</translation>
-    </message>
-    <message>
-        <location line="+594"/>
+        <location line="+628"/>
         <source>Timed out from inactivity</source>
         <translation>Tétlenségi időtúllépés</translation>
     </message>
@@ -11636,22 +14119,18 @@ Részletek: %1</translation>
         <translation>Nem sikerült csatlakozni a szerverhez</translation>
     </message>
     <message>
-        <location line="-621"/>
+        <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="+229"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="-655"/>
         <source>Unable to disable the account, as it has pending events.</source>
         <translation>Nem lehet letiltani a fiókot, mert van várakozó eseménye.</translation>
     </message>
     <message>
-        <location line="+673"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="+707"/>
         <source>Unable to login</source>
         <translation>Nem sikerült bejelentkezni</translation>
     </message>
     <message>
-        <location line="+782"/>
-        <source>Unable to login.  Ensure your account information is filled out.</source>
-        <translation>Nem sikerült bejeletkezni. Ellenőrizd a felhasználód adatait.</translation>
-    </message>
-    <message>
-        <location line="-886"/>
+        <location line="-104"/>
         <source>XML Parsing Error</source>
         <translation>XML Elemzési hiba</translation>
     </message>
@@ -11666,29 +14145,17 @@ Részletek: %1</translation>
         <translation>XMPP Stream hiba: %1</translation>
     </message>
     <message>
-        <source>You entered a bad passphrase.  Please try again.</source>
-        <translation type="obsolete">Hibás passphrase-t adtál meg. Próbáld újra.</translation>
-    </message>
-    <message>
-        <source>You have been invited to %1</source>
-        <translation type="obsolete">Meghívtak ide: %1</translation>
-    </message>
-    <message>
-        <location line="+1167"/>
+        <location line="+1268"/>
         <source>You must be connected to the server in order to do this.</source>
         <translation>Csatlakoznod kell a szerverhez hogy ezt tedd.</translation>
     </message>
     <message>
-        <location line="+2509"/>
+        <location line="+2787"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[HIBA: Ez az üzenet titkosított és nem tudod visszakódolni.]</translation>
     </message>
     <message>
-        <source>[This message is encrypted.]</source>
-        <translation type="obsolete">[Ez az üzenet titkosított.]</translation>
-    </message>
-    <message>
-        <location line="-4051"/>
+        <location line="-4435"/>
         <source>Encryption Error</source>
         <translation>Titkosítási hiba</translation>
     </message>
@@ -11698,35 +14165,45 @@ Részletek: %1</translation>
         <translation>Kapcsolódás sikertelen: A titkosítás bekapcsolva, de nincs hozzávaló QCA2 SSL/TLS kiegészítő.</translation>
     </message>
     <message>
-        <location line="+144"/>
+        <location line="+148"/>
         <source>Server Authentication</source>
         <translation>Szerver hitelesítés</translation>
     </message>
     <message>
         <location line="+161"/>
-        <location line="+239"/>
+        <location line="+249"/>
         <source>Server Error</source>
         <translation>Szerver hiba</translation>
     </message>
     <message>
-        <location line="-244"/>
+        <location line="-254"/>
         <source>The server does not support TLS encryption.</source>
         <translation>A szerver nem támogatja a TLS titkosítást.</translation>
     </message>
     <message>
-        <location line="+136"/>
+        <location line="-329"/>
+        <source>Reconnecting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+466"/>
         <source>No appropriate mechanism available for given security settings (e.g. SASL library too weak, or plaintext authentication not enabled)</source>
         <translation>Nincs megfelelő metódus az adott biztonsági beállításokhoz (pl. SASL könyvtár túl gyenge, vagy a titkosítatlan bejelentkezés tiltva van)</translation>
     </message>
     <message>
-        <location line="+109"/>
+        <location line="+18"/>
+        <source>Wrong Password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+100"/>
         <source>There was an error communicating with the server.
 Details: %1</source>
         <translation>Hiba történt a szerverrel való kommunikáció közben.
 Részletek: %1</translation>
     </message>
     <message>
-        <location line="+588"/>
+        <location line="+603"/>
         <source>Incoming file</source>
         <translation>Bejövő fájl</translation>
     </message>
@@ -11736,11 +14213,7 @@ Részletek: %1</translation>
         <translation>Elfogadod %1 fájlt (%2 kb) %3 felhasználótól?</translation>
     </message>
     <message>
-        <source>Please enter your password:</source>
-        <translation type="obsolete">Kérlek add meg a jelszavad:</translation>
-    </message>
-    <message>
-        <location line="+2807"/>
+        <location line="+3162"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
         <translation>Hiba történt a bejelentkezés közben.
@@ -11750,17 +14223,9 @@ A hiba oka: %1.</translation>
 <context>
     <name>PsiActionList::Private</name>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="+347"/>
+        <location filename="../../psi-plus/src/psiactionlist.cpp" line="+393"/>
         <source>&amp;About</source>
         <translation>&amp;Névjegy</translation>
-    </message>
-    <message>
-        <source>&amp;Add a contact</source>
-        <translation type="obsolete">Partner &amp;hozzáadása</translation>
-    </message>
-    <message>
-        <source>&amp;Change profile</source>
-        <translation type="obsolete">&amp;Profil váltása</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -11768,33 +14233,33 @@ A hiba oka: %1.</translation>
         <translation>&amp;Honlap (Online)</translation>
     </message>
     <message>
-        <location line="-119"/>
+        <location line="-143"/>
         <source>&amp;Options</source>
         <translation>&amp;Beállítások</translation>
     </message>
     <message>
-        <location line="-53"/>
+        <location line="-57"/>
         <source>&amp;Psi</source>
         <translation>&amp;Psi</translation>
     </message>
     <message>
-        <location line="+62"/>
+        <location line="+66"/>
         <source>&amp;Quit</source>
         <translation>&amp;Kilépés</translation>
     </message>
     <message>
-        <location line="+98"/>
+        <location line="+122"/>
         <source>&amp;ReadMe</source>
         <translation>&amp;OlvassEl</translation>
     </message>
     <message>
-        <location line="-155"/>
+        <location line="-183"/>
         <source>&amp;Status</source>
         <translation>&amp;Állapot</translation>
     </message>
     <message>
-        <location line="+61"/>
-        <location line="+97"/>
+        <location line="+65"/>
+        <location line="+121"/>
         <source>&amp;Tip of the Day</source>
         <translation>A nap &amp;tippje</translation>
     </message>
@@ -11809,12 +14274,34 @@ A hiba oka: %1.</translation>
         <translation>&amp;Wiki (Online)</translation>
     </message>
     <message>
-        <location line="-141"/>
+        <location line="-165"/>
         <source>&amp;XML Console</source>
         <translation>&amp;XML konzol</translation>
     </message>
     <message>
-        <location line="+156"/>
+        <location line="+171"/>
+        <location line="+1"/>
+        <source>Psi+ Forum (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-1"/>
+        <source>Psi+ &amp;Forum (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <location line="+1"/>
+        <source>Join Psi+ Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-1"/>
+        <source>&amp;Join Psi+ Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
         <source>About</source>
         <translation>Névjegy</translation>
     </message>
@@ -11829,7 +14316,7 @@ A hiba oka: %1.</translation>
         <translation>Qt névjegye</translation>
     </message>
     <message>
-        <location line="-136"/>
+        <location line="-160"/>
         <source>Acc&amp;ount Setup</source>
         <translation>&amp;Fiók beállítása</translation>
     </message>
@@ -11839,12 +14326,12 @@ A hiba oka: %1.</translation>
         <translation>Fiók beállítása</translation>
     </message>
     <message>
-        <location line="+75"/>
+        <location line="+88"/>
         <source>Away</source>
         <translation>Nincs a gépnél</translation>
     </message>
     <message>
-        <location line="-107"/>
+        <location line="-120"/>
         <source>Buttons</source>
         <translation>Gombok</translation>
     </message>
@@ -11854,17 +14341,17 @@ A hiba oka: %1.</translation>
         <translation>Profil váltása</translation>
     </message>
     <message>
-        <location line="+57"/>
+        <location line="+70"/>
         <source>Changes your global status to &apos;%1&apos;</source>
         <translation>Megváltoztatja az állapotod &apos;%1&apos;-re</translation>
     </message>
     <message>
-        <location line="-160"/>
+        <location line="-181"/>
         <source>Common Actions</source>
         <translation>Általános</translation>
     </message>
     <message>
-        <location line="+102"/>
+        <location line="+110"/>
         <source>Configure Tool&amp;bars</source>
         <translation>&amp;Eszköztár testreszabása</translation>
     </message>
@@ -11874,7 +14361,7 @@ A hiba oka: %1.</translation>
         <translation>Eszköztár testreszabása</translation>
     </message>
     <message>
-        <location line="+76"/>
+        <location line="+89"/>
         <source>DND</source>
         <translation>Ne zavarj</translation>
     </message>
@@ -11884,7 +14371,7 @@ A hiba oka: %1.</translation>
         <translation>Írj rám</translation>
     </message>
     <message>
-        <location line="+94"/>
+        <location line="+105"/>
         <source>Help</source>
         <translation>Súgó</translation>
     </message>
@@ -11895,12 +14382,12 @@ A hiba oka: %1.</translation>
         <translation>Honlap (Online)</translation>
     </message>
     <message>
-        <location line="-36"/>
+        <location line="-39"/>
         <source>Invisible</source>
         <translation>Láthatatlan</translation>
     </message>
     <message>
-        <location line="-87"/>
+        <location line="-108"/>
         <source>Join &amp;Groupchat</source>
         <translation>Csatlakozás &amp;konferenciához</translation>
     </message>
@@ -11915,55 +14402,27 @@ A hiba oka: %1.</translation>
         <translation>Menü elemei</translation>
     </message>
     <message>
-        <source>New &amp;blank message</source>
-        <translation type="obsolete">Új &amp;üres üzenet</translation>
-    </message>
-    <message>
-        <source>New blank message</source>
-        <translation type="obsolete">Új üres üzenet</translation>
-    </message>
-    <message>
-        <location line="+53"/>
+        <location line="+74"/>
         <source>Offline</source>
         <translation>Nem elérhető</translation>
     </message>
     <message>
-        <location line="-24"/>
+        <location line="-32"/>
         <source>Online</source>
         <translation>Elérhető</translation>
     </message>
     <message>
-        <source>Opens the Transfer Manager dialog</source>
-        <translation type="obsolete">Megmutatja a fájlátviteleket</translation>
-    </message>
-    <message>
-        <location line="-65"/>
+        <location line="-78"/>
         <source>Options</source>
         <translation>Beállítások</translation>
     </message>
     <message>
-        <source>Play &amp;sounds</source>
-        <translation type="obsolete">&amp;Hangok játszása</translation>
-    </message>
-    <message>
-        <source>Play sounds</source>
-        <translation type="obsolete">Hangok játszása</translation>
-    </message>
-    <message>
-        <location line="-47"/>
+        <location line="-51"/>
         <source>Provides a convenient way to change and to get information about current status</source>
         <translation>Kényelmes gomb az állapotok változtatásához</translation>
     </message>
     <message>
-        <source>Psi &amp;Handbook (Online)</source>
-        <translation type="obsolete">Psi &amp;kézikönyv (online)</translation>
-    </message>
-    <message>
-        <source>Psi Handbook (Online)</source>
-        <translation type="obsolete">Psi kézikönyv (online)</translation>
-    </message>
-    <message>
-        <location line="+56"/>
+        <location line="+60"/>
         <source>Quit</source>
         <translation>Kilépés</translation>
     </message>
@@ -11973,22 +14432,14 @@ A hiba oka: %1.</translation>
         <translation>Kilép a Psi-ből</translation>
     </message>
     <message>
-        <location line="+96"/>
+        <location line="+120"/>
         <source>ReadMe</source>
         <translation>OlvassEl</translation>
-    </message>
-    <message>
-        <source>Report a &amp;Bug</source>
-        <translation type="obsolete">&amp;Programhiba jelentése</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Report a &amp;Bug (Online)</source>
         <translation>&amp;Bug jelentése (Online)</translation>
-    </message>
-    <message>
-        <source>Report a Bug</source>
-        <translation type="obsolete">Programhiba jelentése</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -11997,46 +14448,30 @@ A hiba oka: %1.</translation>
         <translation>Hiba jelentése (Online)</translation>
     </message>
     <message>
-        <location line="-115"/>
-        <location line="+97"/>
+        <location line="-139"/>
+        <location line="+121"/>
         <source>See many useful tips</source>
         <translation>Sok hasznos tippet olvashatsz</translation>
     </message>
     <message>
-        <location line="-132"/>
+        <location line="-156"/>
         <source>Service &amp;Discovery</source>
         <translation>&amp;Szolgáltatások feltérképezése</translation>
     </message>
     <message>
-        <source>Set status</source>
-        <translation type="obsolete">Állapot beállítása</translation>
-    </message>
-    <message>
-        <location line="-56"/>
+        <location line="-61"/>
         <source>Show Agents/Transports</source>
         <translation>Átjárók/Szolgáltatások mutatása</translation>
     </message>
     <message>
-        <source>Show Away/XA/DnD</source>
-        <translation type="obsolete">&quot;Nem elérhető&quot;/&quot;Tétlen&quot;/&quot;Ne Zavarj&quot; mutatása</translation>
-    </message>
-    <message>
-        <location line="+20"/>
+        <location line="+21"/>
         <source>Show Contacts</source>
         <translation>Partnerek mutatása</translation>
     </message>
     <message>
-        <source>Show Hidden</source>
-        <translation type="obsolete">Rejtettek mutatása</translation>
-    </message>
-    <message>
-        <location line="-30"/>
+        <location line="-31"/>
         <source>Show Offline Contacts</source>
         <translation>&quot;Nem elérhető&quot;-k mutatása</translation>
-    </message>
-    <message>
-        <source>Show Read Me file</source>
-        <translation type="obsolete">OlvassEl fájl mutatása</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -12044,47 +14479,38 @@ A hiba oka: %1.</translation>
         <translation>Saját cím mutatása</translation>
     </message>
     <message>
-        <source>Smaller alternative to the Status Button</source>
-        <translation type="obsolete">Kisebb alternatíva az állapot gombokhoz</translation>
-    </message>
-    <message>
-        <location line="+31"/>
+        <location line="+32"/>
         <source>Special item that displays number of pending events</source>
         <translation>Speciális elem, ami a várakozó események számát mutatja</translation>
     </message>
     <message>
-        <location line="+146"/>
+        <location line="+174"/>
         <source>Status</source>
         <translation>Állapot</translation>
     </message>
     <message>
-        <location line="-155"/>
+        <location line="-183"/>
         <source>The main Psi button, that provides access to many actions</source>
         <translation>Főmenü, ahonnan számos dolgot elérhetsz</translation>
     </message>
     <message>
-        <location line="+65"/>
-        <location line="+97"/>
+        <location line="+69"/>
+        <location line="+121"/>
         <source>Tip of the Day</source>
         <translation>A nap tippje</translation>
     </message>
     <message>
-        <location line="-201"/>
+        <location line="-233"/>
         <source>Toggle visibility of special roster groups</source>
         <translation>Speciális lista csoportok mutatása/rejtése</translation>
     </message>
     <message>
-        <location line="+15"/>
+        <location line="+18"/>
         <source>Toggles visibility of agents/transports in roster</source>
         <translation>Szolgáltatások/Átjárók mutatása/rejtése</translation>
     </message>
     <message>
-        <location line="-6"/>
-        <source>Toggles visibility of away/xa/dnd contacts in roster</source>
-        <translation>&quot;Nem elérhető&quot;/&quot;Tétlen&quot;/&quot;Ne Zavarj&quot; rejtése/mutatása</translation>
-    </message>
-    <message>
-        <location line="+3"/>
+        <location line="-3"/>
         <source>Toggles visibility of hidden contacts in roster</source>
         <translation>Rejtett partnerek rejtése/mutatása</translation>
     </message>
@@ -12094,12 +14520,22 @@ A hiba oka: %1.</translation>
         <translation>&quot;Nem elérhető&quot;-k mutatása/rejtése</translation>
     </message>
     <message>
-        <location line="+13"/>
+        <location line="-4"/>
+        <source>Show Roster Groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Enable/disable groups in roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+16"/>
         <source>Toggles visibility of self contact in roster</source>
         <translation>Önmagad mutatása/rejtése</translation>
     </message>
     <message>
-        <location line="+80"/>
+        <location line="+85"/>
         <source>Toggles whether sound should be played or not</source>
         <translation>Be/kikapcsolja a hangokat</translation>
     </message>
@@ -12114,34 +14550,29 @@ A hiba oka: %1.</translation>
         <translation>Fájlátvitelek</translation>
     </message>
     <message>
-        <location line="+96"/>
+        <location line="+120"/>
         <location line="+1"/>
         <source>User Guide (Online)</source>
         <translation>Súgó (Online)</translation>
     </message>
     <message>
-        <location line="-206"/>
+        <location line="-238"/>
         <source>View Groups</source>
         <translation>Csoportok mutatása</translation>
     </message>
     <message>
-        <location line="+208"/>
+        <location line="+240"/>
         <location line="+1"/>
         <source>Wiki (Online)</source>
         <translation>Wiki (Online)</translation>
     </message>
     <message>
-        <location line="-41"/>
+        <location line="-52"/>
         <source>XA</source>
         <translation>Tétlen</translation>
     </message>
     <message>
-        <location line="-160"/>
-        <source>Show Away/XA/DnD Contacts</source>
-        <translation>Nincs a gépnél/Tétlen/stb ismerősök mutatása</translation>
-    </message>
-    <message>
-        <location line="+4"/>
+        <location line="-174"/>
         <source>Show Hidden Contacts</source>
         <translation>Rejtett ismerősök mutatása</translation>
     </message>
@@ -12156,7 +14587,17 @@ A hiba oka: %1.</translation>
         <translation>Az ismerősök állapot üzeneteinek mutatása a címlistában</translation>
     </message>
     <message>
-        <location line="+43"/>
+        <location line="+30"/>
+        <source>Active contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Simple way to find contacts with opened chats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
         <source>&amp;Add a Contact</source>
         <translation>&amp;Kapcsolat hozzáadása</translation>
     </message>
@@ -12206,12 +14647,42 @@ A hiba oka: %1.</translation>
         <translation>Az éppen játszott zeneszám mutatását változtathatod</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+2"/>
+        <source>Set Mood</source>
+        <translation type="unfinished">Hangulat beállítása</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Set Mood for all active accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Set Activity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Set Activity for all active accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Set Geolocation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Set Geolocation for all active accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
         <source>Publish</source>
         <translation>Publikálás</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+10"/>
         <source>Set Status</source>
         <translation>Állapot beállítása</translation>
     </message>
@@ -12221,34 +14692,37 @@ A hiba oka: %1.</translation>
         <translation>Az állapot gomb kisebb alternatívája</translation>
     </message>
     <message>
-        <location line="+51"/>
+        <location line="+24"/>
+        <source>Choose status...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Choose...</source>
+        <translation type="unfinished">Válassz...</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show dialog to set your status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Reconnect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Reconnect all active accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+32"/>
         <source>Show ReadMe file</source>
         <translation>OlvassEl fájl mutatása</translation>
     </message>
     <message>
-        <location line="+14"/>
-        <location line="+1"/>
-        <source>Psi Forum (Online)</source>
-        <translation>Psi Fórum (Online)</translation>
-    </message>
-    <message>
-        <location line="-1"/>
-        <source>Psi &amp;Forum (Online)</source>
-        <translation>&amp;Psi Fórum (Online)</translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <location line="+1"/>
-        <source>Join Psi Discussion Room (Online)</source>
-        <translation>A Psi szobához csatlakozás (Online)</translation>
-    </message>
-    <message>
-        <location line="-1"/>
-        <source>&amp;Join Psi Discussion Room (Online)</source>
-        <translation>&amp;A Psi szobához csatlakozás (Online)</translation>
-    </message>
-    <message>
-        <location line="+12"/>
+        <location line="+29"/>
         <source>About GStreamer</source>
         <translation>A GStreamerről</translation>
     </message>
@@ -12281,14 +14755,44 @@ A hiba oka: %1.</translation>
 <context>
     <name>PsiChatDlg</name>
     <message>
-        <location filename="../src/psichatdlg.cpp" line="+220"/>
+        <location filename="../../psi-plus/src/psichatdlg.cpp" line="+275"/>
         <source>Input command...</source>
         <translation>Parancs beírása...</translation>
     </message>
     <message>
-        <location line="+84"/>
+        <location line="+164"/>
+        <source>Find toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
         <source>Clear Chat Window</source>
         <translation>Ablak tartalmának törlése</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Find</source>
+        <translation type="unfinished">Keres</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>&amp;Find</source>
+        <translation type="unfinished">&amp;Keres</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Set Text Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Add Contact To Roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Add Contact</source>
+        <translation type="unfinished">Ismerős hozzáadása</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -12301,7 +14805,7 @@ A hiba oka: %1.</translation>
         <translation>Hívás</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+5"/>
         <source>Send File</source>
         <translation>Fájl küldése</translation>
     </message>
@@ -12326,12 +14830,32 @@ A hiba oka: %1.</translation>
         <translation>Tömörített/Normál mód</translation>
     </message>
     <message>
+        <location line="+3"/>
+        <source>Paste and Send</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Active contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location line="+6"/>
         <source>Chat Toolbar</source>
         <translation>Beszélgetési eszköztár</translation>
     </message>
     <message>
-        <location line="+142"/>
+        <location line="+149"/>
+        <source>Contact has been switched: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+160"/>
         <source>Warning</source>
         <translation>Figyelmeztetés</translation>
     </message>
@@ -12343,46 +14867,22 @@ A hiba oka: %1.</translation>
 (ez nem befolyásolja az elmentett előzményeket)</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="obsolete">&amp;Igen</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="obsolete">&amp;Nem</translation>
-    </message>
-    <message>
-        <location line="+78"/>
-        <source>%1 says:</source>
-        <translation>%1 üzenete:</translation>
-    </message>
-    <message>
-        <location line="-17"/>
-        <location line="+13"/>
-        <source>Subject:</source>
-        <translation>Tárgy:</translation>
-    </message>
-    <message>
-        <location line="+30"/>
-        <source>-- Attached URL(s) --</source>
-        <translation>-- Csatolt honlapcímek --</translation>
+        <location line="+233"/>
+        <source>turn off autojid</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>URL:</source>
-        <translation>URL:</translation>
+        <source>turn on autojid</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+1"/>
-        <source>Desc:</source>
-        <translation>Leírás:</translation>
-    </message>
-    <message>
-        <location line="+61"/>
+        <location line="-135"/>
         <source>Error: Can not parse command: </source>
         <translation>Hiba, nem sikerült feldolgozni a parancsot:</translation>
     </message>
     <message>
-        <location line="+19"/>
+        <location line="+9"/>
         <source>Command&gt;</source>
         <translation>Parancs&gt;</translation>
     </message>
@@ -12390,7 +14890,7 @@ A hiba oka: %1.</translation>
 <context>
     <name>PsiCli</name>
     <message>
-        <location filename="../src/psicli.h" line="+57"/>
+        <location filename="../../psi-plus/src/psicli.h" line="+57"/>
         <source>PROFILE</source>
         <translation>PROFILE</translation>
     </message>
@@ -12508,63 +15008,61 @@ A hiba oka: %1.</translation>
 <context>
     <name>PsiCon</name>
     <message>
-        <location filename="../src/psicon.cpp" line="+1656"/>
+        <location filename="../../psi-plus/src/psicon.cpp" line="+1833"/>
         <source>Computer went to sleep</source>
         <translation>A számítógép kikapcsolt</translation>
     </message>
     <message>
-        <location line="-1185"/>
-        <location line="+306"/>
-        <location line="+395"/>
+        <location line="-1339"/>
+        <location line="+14"/>
+        <location line="+343"/>
+        <location line="+450"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location line="+73"/>
+        <location line="+90"/>
         <source>Information</source>
         <translation>Információ</translation>
     </message>
     <message>
-        <location line="-468"/>
+        <location line="-540"/>
         <source>Please disconnect before changing the profile.</source>
         <translation>Bontsd a kapcsolatot mielőtt profilt váltanál.</translation>
     </message>
     <message>
-        <location line="+468"/>
+        <location line="+540"/>
         <source>Some of the options you changed will only have full effect upon restart.</source>
         <translation>Néhány beállítás csak újraindítás után lép érvénybe.</translation>
     </message>
     <message>
-        <source>The complete iconset update will happen on next Psi start.</source>
-        <translation type="obsolete">A teljes ikoncsomag frissítése a Psi következő indításánál fog megtörténni.</translation>
-    </message>
-    <message>
-        <source>Unable to bind to port %1 for Data Transfer</source>
-        <translation type="obsolete">Nem sikerült a %1 portot lefoglalni!</translation>
-    </message>
-    <message>
-        <location line="-774"/>
+        <location line="-897"/>
         <source>Unable to load iconset!  Please make sure Psi is properly installed.</source>
         <translation>Nem sikerült megnyitni az ikoncsomagot. Ellenőrizd hogy a Psi helyesen lett telepítve.</translation>
     </message>
     <message>
-        <location line="+308"/>
+        <location line="+14"/>
+        <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+345"/>
         <source>&amp;Disconnect</source>
         <translation>&amp;Szétkapcsolódás</translation>
     </message>
     <message>
-        <location line="+384"/>
+        <location line="+432"/>
         <source>Unsupported URI type</source>
         <translation>Nem támogatott URI típus</translation>
     </message>
     <message>
-        <location line="+124"/>
-        <location line="+362"/>
+        <location line="+163"/>
+        <location line="+378"/>
         <source>Warning</source>
         <translation>Figyelmeztetés</translation>
     </message>
     <message>
-        <location line="-361"/>
+        <location line="-377"/>
         <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars &lt;i&gt;and&lt;/i&gt; the menubar. If you do so, you will be unable to enable them back, when you&apos;ll change your mind.</source>
         <translation>Nem kapcsolhatod ki az &lt;i&gt;összes&lt;/i&gt; eszköztárat &lt;i&gt;és&lt;/i&gt; a menüt is. Ha így tennél, nem lehetne újra engedélyezni őket ha meggondolod magad.</translation>
     </message>
@@ -12574,7 +15072,7 @@ A hiba oka: %1.</translation>
         <translation>Jóvanakkor</translation>
     </message>
     <message>
-        <location line="+233"/>
+        <location line="+235"/>
         <source>Call ended</source>
         <translation>Hívás befejeződött</translation>
     </message>
@@ -12584,14 +15082,14 @@ A hiba oka: %1.</translation>
         <translation>A másik fél megszakította a hívást.</translation>
     </message>
     <message>
-        <location line="+127"/>
+        <location line="+141"/>
         <source>Unable to bind to port %1 for Data Transfer.
 This may mean you are already running another instance of Psi. You may experience problems sending and/or receiving files.</source>
         <translation>Nem sikerült csatlakozni az átvitelhez használt %1 számú porthoz.
 Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valószínüleg nem fogsz tudni fájlt küldeni/fogadni.</translation>
     </message>
     <message>
-        <location line="+33"/>
+        <location line="+40"/>
         <source>Account setup</source>
         <translation>Fiók beállítás</translation>
     </message>
@@ -12614,7 +15112,7 @@ Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valós
 <context>
     <name>PsiContact</name>
     <message>
-        <location filename="../src/psicontact.cpp" line="+380"/>
+        <location filename="../../psi-plus/src/psicontact.cpp" line="+393"/>
         <source>General</source>
         <translation>Általános</translation>
     </message>
@@ -12625,12 +15123,12 @@ Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valós
     </message>
     <message>
         <location line="+5"/>
-        <location filename="../src/userlist.cpp" line="+343"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="+667"/>
         <source>Hidden</source>
         <translation type="unfinished">Rejtett</translation>
     </message>
     <message>
-        <location line="+322"/>
+        <location line="+368"/>
         <source>Choose an image</source>
         <translation>Válassz egy képet</translation>
     </message>
@@ -12643,7 +15141,7 @@ Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valós
 <context>
     <name>PsiContactListViewDelegate</name>
     <message>
-        <location filename="../src/psicontactlistviewdelegate.cpp" line="+140"/>
+        <location filename="../../psi-plus/src/psicontactlistviewdelegate.cpp" line="+274"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
@@ -12651,7 +15149,7 @@ Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valós
 <context>
     <name>PsiContactMenu::Private</name>
     <message>
-        <location filename="../src/psicontactmenu.cpp" line="+132"/>
+        <location filename="../../psi-plus/src/psicontactmenu.cpp" line="+139"/>
         <source>Re&amp;name</source>
         <translation>Át&amp;nevez</translation>
     </message>
@@ -12667,12 +15165,12 @@ Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valós
     </message>
     <message>
         <location line="+3"/>
-        <location line="+97"/>
+        <location line="+101"/>
         <source>&amp;History</source>
         <translation>&amp;Előzmények</translation>
     </message>
     <message>
-        <location line="-94"/>
+        <location line="-98"/>
         <source>Pro&amp;file</source>
         <translation>&amp;Profil</translation>
     </message>
@@ -12698,17 +15196,17 @@ Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valós
     </message>
     <message>
         <location line="+3"/>
-        <location line="+178"/>
+        <location line="+221"/>
         <source>&amp;Block</source>
         <translation>&amp;Letiltás</translation>
     </message>
     <message>
-        <location line="-175"/>
+        <location line="-218"/>
         <source>Disable mood notifications</source>
         <translation>Hangulat jelzésének kikapcsolása</translation>
     </message>
     <message>
-        <location line="+18"/>
+        <location line="+19"/>
         <source>Add/Authorize to Contact List</source>
         <translation>Kapcsolati listához való hozzáadás/felkérés</translation>
     </message>
@@ -12766,6 +15264,11 @@ Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valós
         <location line="+3"/>
         <source>Remove Authorization From</source>
         <translation>Felkérés visszavonása </translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Sen&amp;d Status</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
@@ -12828,22 +15331,48 @@ Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valós
         <translation>Aktív csevegések</translation>
     </message>
     <message>
-        <location line="+25"/>
+        <location line="+4"/>
+        <source>Hide</source>
+        <translation type="unfinished">Elrejt</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Leave</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <location line="+461"/>
+        <source>Block</source>
+        <translation type="unfinished">Letiltás</translation>
+    </message>
+    <message>
+        <location line="-458"/>
+        <source>Always Visible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+34"/>
         <source>Authorization</source>
         <translation>Jóváagyás</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+7"/>
         <source>&amp;Picture</source>
         <translation>&amp;Kép</translation>
     </message>
     <message>
-        <location line="+44"/>
+        <location line="+54"/>
         <source>&amp;Unblock</source>
         <translation>&amp;Feloldás</translation>
     </message>
     <message>
-        <location line="+90"/>
+        <location line="+122"/>
         <source>Invitation</source>
         <translation>Meghívás</translation>
     </message>
@@ -12853,7 +15382,7 @@ Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valós
         <translation>&lt;b&gt;%1&lt;/b&gt; meghívva a konferenciába.</translation>
     </message>
     <message>
-        <location line="+16"/>
+        <location line="+32"/>
         <source>Add</source>
         <translation>Hozzáad</translation>
     </message>
@@ -12899,7 +15428,7 @@ Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valós
         <translation>&amp;Nem</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+28"/>
         <source>Choose an Image</source>
         <translation>Kép kiválasztása</translation>
     </message>
@@ -12908,11 +15437,16 @@ Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valós
         <source>All files (*.png *.jpg *.gif)</source>
         <translation>Minden fájl (*.png *.jpg *.gif)</translation>
     </message>
+    <message>
+        <location line="+93"/>
+        <source>Unblock</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiGroupChatBrowseWindow</name>
     <message>
-        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="+401"/>
+        <location filename="../../psi-plus/src/libpsi/widgets/groupchatbrowsewindow.cpp" line="+401"/>
         <location line="+18"/>
         <location line="+14"/>
         <source>Error</source>
@@ -12961,13 +15495,13 @@ Hiba oka: %1</translation>
 <context>
     <name>PsiMain</name>
     <message>
-        <location filename="../src/main.cpp" line="+202"/>
-        <location line="+80"/>
+        <location filename="../../psi-plus/src/main.cpp" line="+203"/>
+        <location line="+83"/>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location line="-79"/>
+        <location line="-82"/>
         <source>There was an error creating the default profile.</source>
         <translation>Hiba lépett fel az alapértelmezett profil létrehozásánál.</translation>
     </message>
@@ -12989,7 +15523,7 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
         <translation>Aktiválás</translation>
     </message>
     <message>
-        <location line="+34"/>
+        <location line="+37"/>
         <source>Cannot open this profile - it is already running, but not responding</source>
         <translation>Nem sikerült a profil megnyitása - már fut, de nem válaszol</translation>
     </message>
@@ -12997,7 +15531,7 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
 <context>
     <name>PsiOptions</name>
     <message>
-        <location filename="../src/psioptions.cpp" line="+144"/>
+        <location filename="../../psi-plus/src/psioptions.cpp" line="+144"/>
         <source>Away from desk</source>
         <translation>Nincs gépnél</translation>
     </message>
@@ -13102,12 +15636,12 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
         <translation>Gombok</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+9"/>
         <source>Show contacts</source>
         <translation>Ismerősök mutatása</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+5"/>
         <source>Event notifier</source>
         <translation>Események jelzése</translation>
     </message>
@@ -13120,7 +15654,7 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
 <context>
     <name>PsiOptionsEditor</name>
     <message>
-        <location filename="../src/psioptionseditor.cpp" line="+39"/>
+        <location filename="../../psi-plus/src/psioptionseditor.cpp" line="+39"/>
         <source>Full name of the currently selected option.</source>
         <translation>A kiválasztott opció teljes neve.</translation>
     </message>
@@ -13140,12 +15674,17 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
         <translation>Minden opció kibontottként mutatása.</translation>
     </message>
     <message>
-        <location line="+8"/>
-        <source>Delete</source>
-        <translation>Töröl</translation>
+        <location line="+7"/>
+        <source>Delete...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+4"/>
+        <source>Reset...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
         <source>Edit...</source>
         <translation>Szerkeszt...</translation>
     </message>
@@ -13160,7 +15699,12 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
         <translation>Leválasztott szerkesztőablak nyitása.</translation>
     </message>
     <message>
-        <location line="+54"/>
+        <location line="+5"/>
+        <source>Advanced</source>
+        <translation type="unfinished">Haladó</translation>
+    </message>
+    <message>
+        <location line="+52"/>
         <source>(internal node)</source>
         <translation>(belső csomópont)</translation>
     </message>
@@ -13181,24 +15725,35 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Psi: Option Editor</source>
-        <translation>Psi: Beállítás szerkesztő</translation>
+        <location line="+16"/>
+        <source>Psi+: Option Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-5"/>
+        <source>Really reset options %1 to default value?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Really reset all options starting with %1. to default value?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>PsiPopup</name>
     <message>
-        <location filename="../src/psipopup.cpp" line="+251"/>
+        <location filename="../../psi-plus/src/psipopup.cpp" line="+257"/>
         <source>Contact offline</source>
         <translation>Partner nem elérhető</translation>
     </message>
     <message>
-        <location line="-4"/>
+        <location line="-5"/>
         <source>Contact online</source>
         <translation>Partner elérhető</translation>
     </message>
     <message>
-        <location line="+22"/>
+        <location line="+30"/>
         <source>Headline</source>
         <translation>Főcím</translation>
     </message>
@@ -13213,22 +15768,38 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
         <translation>Bejövő fájl</translation>
     </message>
     <message>
-        <location line="-15"/>
+        <location line="-20"/>
         <source>Incoming message</source>
         <translation>Bejövő üzenet</translation>
     </message>
     <message>
-        <location line="-4"/>
+        <location line="-5"/>
         <source>Status change</source>
         <translation>Állapot váltása</translation>
     </message>
     <message>
-        <location line="+134"/>
+        <location line="+10"/>
+        <source>Typing notify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>Groupchat highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+120"/>
+        <location line="+22"/>
         <source>Subject:</source>
         <translation>Tárgy:</translation>
     </message>
     <message>
-        <location line="-110"/>
+        <location line="-12"/>
+        <source> is typing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-135"/>
         <source>Incoming call</source>
         <translation>Bejövő hívás</translation>
     </message>
@@ -13236,7 +15807,7 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
 <context>
     <name>PsiRosterWidget</name>
     <message>
-        <location filename="../src/psirosterwidget.cpp" line="+243"/>
+        <location filename="../../psi-plus/src/psirosterwidget.cpp" line="+265"/>
         <source>Remove Group</source>
         <translation>Csoport törlése</translation>
     </message>
@@ -13261,210 +15832,639 @@ Folytatod?</translation>
     </message>
 </context>
 <context>
+    <name>PsiThemeViewDelegate</name>
+    <message>
+        <location filename="../../psi-plus/src/psithemeviewdelegate.cpp" line="+44"/>
+        <source>No Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PsiToolBar</name>
     <message>
-        <source>Configure &amp;Toolbar...</source>
-        <translation type="obsolete">&amp;Eszköztár testreszabása...</translation>
-    </message>
-    <message>
-        <location filename="../src/psitoolbar.cpp" line="+67"/>
+        <location filename="../../psi-plus/src/psitoolbar.cpp" line="+70"/>
         <source>Configure&amp; Toolbar...</source>
         <translation>&amp;Eszköztár testreszabása...</translation>
     </message>
 </context>
 <context>
+    <name>PsiWindowHeader</name>
+    <message>
+        <location filename="../../psi-plus/src/widgets/psiwindowheader.ui" line="+23"/>
+        <source>PsiWindowHeader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+53"/>
+        <location line="+10"/>
+        <location line="+16"/>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+</context>
+<context>
     <name>QObject</name>
     <message>
-        <location filename="../src/psi_profiles.cpp" line="+287"/>
+        <location filename="../../psi-plus/src/psi_profiles.cpp" line="+323"/>
         <source>%1 Proxy</source>
         <translation>%1 Proxy</translation>
     </message>
     <message>
-        <location filename="../src/psigrowlnotifier.cpp" line="+153"/>
+        <location filename="../../psi-plus/src/psidbusnotifier.cpp" line="+225"/>
+        <location filename="../../psi-plus/src/psigrowlnotifier.cpp" line="+177"/>
+        <source> is typing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <location filename="../../psi-plus/src/psigrowlnotifier.cpp" line="+6"/>
         <source>%1 says:</source>
         <translation>%1 üzeni:</translation>
     </message>
     <message>
-        <source>&lt;unnamed&gt;</source>
-        <translation type="obsolete">&lt;ismeretlen&gt;</translation>
+        <location line="+8"/>
+        <source>Headline from %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="+2844"/>
+        <location line="+10"/>
+        <source>Incoming file from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Incoming call from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="+2856"/>
         <source>Address</source>
         <translation>Cím</translation>
     </message>
     <message>
-        <source>Air</source>
-        <translation type="obsolete">Levegőzés</translation>
-    </message>
-    <message>
-        <source>Auto Status (idle)</source>
-        <translation type="obsolete">Automatikus állapot (nem vagyok a gépnél)</translation>
-    </message>
-    <message>
-        <location filename="../src/common.cpp" line="+173"/>
-        <location filename="../src/rc.cpp" line="+77"/>
+        <location filename="../../psi-plus/src/common.cpp" line="+174"/>
+        <location filename="../../psi-plus/src/rc.cpp" line="+78"/>
         <source>Away</source>
         <translation>Nincs a gépnél</translation>
     </message>
     <message>
-        <source>Away from desk</source>
-        <translation type="obsolete">Nem vagyok az gépnél</translation>
-    </message>
-    <message>
-        <location filename="../src/userlist.cpp" line="+180"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="+224"/>
         <source>Bad signature</source>
         <translation>Rossz aláírás</translation>
     </message>
     <message>
-        <source>Buttons</source>
-        <translation type="obsolete">Gombok</translation>
-    </message>
-    <message>
-        <source>Can&apos;t chat.  Gotta work.</source>
-        <translation type="obsolete">Nem érek rá. Dolgozom.</translation>
-    </message>
-    <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="+1"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="+1"/>
         <source>City</source>
         <translation>Város</translation>
     </message>
     <message>
-        <location filename="../src/psigrowlnotifier.cpp" line="-88"/>
-        <location line="+9"/>
-        <location line="+60"/>
+        <location filename="../../psi-plus/src/psigrowlnotifier.cpp" line="-116"/>
+        <location line="+91"/>
         <source>Contact becomes Available</source>
         <translation>Az ismerős elérhetővé vált</translation>
     </message>
     <message>
-        <location line="-68"/>
-        <location line="+74"/>
+        <location line="-90"/>
+        <location line="+96"/>
         <source>Contact becomes Unavailable</source>
         <translation>Partner &quot;nem elérhető&quot; lett</translation>
     </message>
     <message>
-        <location line="-73"/>
-        <location line="+79"/>
+        <location line="-95"/>
+        <location line="+101"/>
         <source>Contact changes Status</source>
         <translation>Partner a listáról megváltoztatja az állapotát</translation>
     </message>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="+5"/>
+        <location line="-97"/>
+        <location line="+103"/>
+        <source>Typing notify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-102"/>
+        <location line="+146"/>
+        <source>Groupchat highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-145"/>
+        <location line="+154"/>
+        <source>Incoming Call</source>
+        <translation type="unfinished">Bejövő Hívás</translation>
+    </message>
+    <message>
+        <location line="-51"/>
+        <source>[Typing notify]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <location line="+10"/>
+        <source>[Incoming Message]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>[Incoming Headline]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>[Groupchat highlight]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>[Incoming Call]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="+5"/>
         <source>Date</source>
         <translation>Dátum</translation>
     </message>
     <message>
-        <location filename="../src/common.cpp" line="+2"/>
+        <location filename="../../psi-plus/src/common.cpp" line="+2"/>
         <source>Do not Disturb</source>
         <translation>Ne zavarj</translation>
     </message>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="-7"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="-7"/>
         <source>E-mail</source>
         <translation>E-mail</translation>
     </message>
     <message>
-        <source>Eating</source>
-        <translation type="obsolete">Kaja</translation>
+        <location filename="../../psi-plus/src/activitycatalog.cpp" line="+77"/>
+        <source>Doing Chores</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/psi_profiles.cpp" line="+424"/>
+        <location line="+1"/>
+        <source>Buying Groceries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Cleaning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Cooking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Doing Maintenance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Doing The Dishes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Doing The Laundry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Gardening</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Running An Errand</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Walking The Dog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Drinking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Having A Beer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Having Coffee</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Having Tea</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Eating</source>
+        <translation type="unfinished">Kaja</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Having A Snack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Having Breakfast</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Having Lunch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Having Dinner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Exercising</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+51"/>
+        <source>Cycling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-50"/>
+        <source>Dancing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hiking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Jogging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Playing Sports</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Running</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Skiing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Swimming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Working Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Grooming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>At The Spa</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Brushing Teeth</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Getting A Haircut</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Shaving</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Taking A Bath</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Taking A Shower</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Having Appointment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Inactive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Day Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hanging Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hiding</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>On Vacation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Praying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Scheduled Holiday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sleeping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Thinking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Relaxing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Fishing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Gaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Going Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Partying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Reading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Rehearsing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Shopping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Smoking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Socializing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sunbathing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Watching TV</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Watching A Movie</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Talking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>In Real Life</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>On The Phone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>On Video Phone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Traveling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Commuting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Driving</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>In A Car</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>On A Bus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>On A Plane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>On A Train</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>On A Trip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Walking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Working</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Coding</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>In A Meeting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Studying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Writing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Other</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/psi_profiles.cpp" line="+424"/>
         <source>Event notifier</source>
         <translation>Esemény értesítő</translation>
     </message>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="-2"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="-2"/>
         <source>First Name</source>
         <translation>Keresztnév</translation>
     </message>
     <message>
-        <location filename="../src/common.cpp" line="+1"/>
+        <location filename="../../psi-plus/src/common.cpp" line="+1"/>
         <source>Free for Chat</source>
         <translation>Írj rám</translation>
     </message>
     <message>
-        <source>Greece</source>
-        <translation type="obsolete">Görögország</translation>
-    </message>
-    <message>
-        <source>I am away from my desk.  Leave a message.</source>
-        <translation type="obsolete">Nem vagyok az gépnél. Hagyj üzenetet.</translation>
-    </message>
-    <message>
-        <source>I have gone to a far away place.  I will be back someday!</source>
-        <translation type="obsolete">Elmentem jó messzire. Egyszer majdcsak visszajövök!</translation>
-    </message>
-    <message>
-        <source>I&apos;m in the shower.  You&apos;ll have to wait for me to get out.</source>
-        <translation type="obsolete">Éppen fürdök. Várnod kell amíg végzek.</translation>
-    </message>
-    <message>
-        <source>I&apos;m not available right now and that&apos;s all you need to know.</source>
-        <translation type="obsolete">Nem vagyok elérhető, és ez minden amit tudnod kell.</translation>
-    </message>
-    <message>
-        <location filename="../src/psigrowlnotifier.cpp" line="-76"/>
-        <location line="+7"/>
-        <location line="+99"/>
+        <location filename="../../psi-plus/src/psigrowlnotifier.cpp" line="-158"/>
+        <location line="+143"/>
         <source>Incoming File</source>
         <translation>Bejövő fájl</translation>
     </message>
     <message>
-        <location line="-107"/>
-        <location line="+7"/>
-        <location line="+91"/>
+        <location line="-144"/>
+        <location line="+132"/>
+        <location line="+46"/>
         <source>Incoming Headline</source>
         <translation>Bejövő főcím</translation>
     </message>
     <message>
-        <location line="-99"/>
-        <location line="+7"/>
-        <location line="+77"/>
-        <location line="+8"/>
+        <location line="-179"/>
+        <location line="+112"/>
+        <location line="+11"/>
         <source>Incoming Message</source>
         <translation>Bejövő üzenet</translation>
     </message>
     <message>
-        <location filename="../src/common.cpp" line="+1"/>
-        <location filename="../src/rc.cpp" line="+15"/>
+        <location filename="../../psi-plus/src/common.cpp" line="+1"/>
+        <location filename="../../psi-plus/src/rc.cpp" line="+15"/>
         <source>Invisible</source>
         <translation>Láthatatlan</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="+76"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="+76"/>
         <source>Last Available</source>
         <translation>Utoljára elérhető</translation>
     </message>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="+1"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="+1"/>
         <source>Last Name</source>
         <translation>Vezetéknév</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="-64"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="-152"/>
+        <source>Activity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+97"/>
+        <source>Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
         <source>Last Status</source>
         <translation>Utolsó állapot</translation>
     </message>
     <message>
-        <location line="+79"/>
+        <location line="+42"/>
         <source>Last Status Message</source>
         <translation>Utolsó állapot leírás</translation>
     </message>
     <message>
-        <location line="-147"/>
-        <location line="+86"/>
-        <location line="+5"/>
+        <location line="-156"/>
         <source>Listening to</source>
         <translation>Játszott szám </translation>
     </message>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="+9"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="+9"/>
         <source>Misc</source>
         <translation>Egyéb</translation>
-    </message>
-    <message>
-        <source>Movie</source>
-        <translation type="obsolete">Video</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -13477,45 +16477,29 @@ Folytatod?</translation>
         <translation>Becenév</translation>
     </message>
     <message>
-        <location filename="../src/common.cpp" line="-3"/>
+        <location filename="../../psi-plus/src/common.cpp" line="-3"/>
         <source>Not Available</source>
         <translation>Tétlen</translation>
     </message>
     <message>
         <location line="-2"/>
-        <location filename="../src/rc.cpp" line="+5"/>
+        <location filename="../../psi-plus/src/rc.cpp" line="+5"/>
         <source>Offline</source>
         <translation>Nem elérhető</translation>
     </message>
     <message>
         <location line="+8"/>
-        <location filename="../src/rc.cpp" line="-24"/>
+        <location filename="../../psi-plus/src/rc.cpp" line="-24"/>
         <source>Online</source>
         <translation>Elérhető</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="-103"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="-27"/>
         <source>OpenPGP</source>
         <translation>OpenPGP</translation>
     </message>
     <message>
-        <source>Out eating.  Mmmm.. food.</source>
-        <translation type="obsolete">Kimentem enni. Mmmm.. kaja.</translation>
-    </message>
-    <message>
-        <source>Out for the night</source>
-        <translation type="obsolete">Buli</translation>
-    </message>
-    <message>
-        <source>Out for the night.</source>
-        <translation type="obsolete">Bulizni mentem.</translation>
-    </message>
-    <message>
-        <source>Out to a movie.  Is that OK with you?</source>
-        <translation type="obsolete">Videózok. Rendben?</translation>
-    </message>
-    <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="+1"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="+1"/>
         <source>Password</source>
         <translation>Jelszó</translation>
     </message>
@@ -13525,21 +16509,9 @@ Folytatod?</translation>
         <translation>Telefon szám</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="+150"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="+174"/>
         <source>Presence Error</source>
         <translation>Jelenléti hiba</translation>
-    </message>
-    <message>
-        <source>Secret</source>
-        <translation type="obsolete">Titok</translation>
-    </message>
-    <message>
-        <source>Show contacts</source>
-        <translation type="obsolete">Partnerek mutatása</translation>
-    </message>
-    <message>
-        <source>Showering</source>
-        <translation type="obsolete">Fürdés</translation>
     </message>
     <message>
         <location line="-89"/>
@@ -13548,64 +16520,24 @@ Folytatod?</translation>
         <translation>Áláírva</translation>
     </message>
     <message>
-        <source>Sleep</source>
-        <translation type="obsolete">Alvás</translation>
-    </message>
-    <message>
-        <source>Sleep is good.  Zzzzz</source>
-        <translation type="obsolete">Aludni jó. Zzzzz</translation>
-    </message>
-    <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="-2"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="-2"/>
         <source>State</source>
         <translation>Megye</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="+60"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="+58"/>
         <source>Status Message</source>
         <translation>Állapot üzenet</translation>
     </message>
     <message>
-        <source>Stepping out to get some fresh air.</source>
-        <translation type="obsolete">Kimentem egy kicsit levegőzni.</translation>
-    </message>
-    <message>
-        <location line="-128"/>
+        <location line="-150"/>
         <source>Subscription</source>
         <translation>Feliratkozás</translation>
     </message>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="+3"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="+3"/>
         <source>URL</source>
         <translation>URL</translation>
-    </message>
-    <message>
-        <source>URL error</source>
-        <translation type="obsolete">URL hiba</translation>
-    </message>
-    <message>
-        <source>Unable to open the URL. Ensure that you have GNOME 2 installed.</source>
-        <translation type="obsolete">Nem tudom megnyitni az URL-t. Biztos van GNOME 2 telepítve?</translation>
-    </message>
-    <message>
-        <source>Unable to open the URL. Ensure that you have KDE installed.</source>
-        <translation type="obsolete">Nem tudom megnyitni az URL-t. Biztos van KDE telepítve?</translation>
-    </message>
-    <message>
-        <source>Unable to open the URL. Ensure that you have a web browser installed.</source>
-        <translation type="obsolete">Nem tudom megnyitni az URL-t. Biztos van böngésződ telepítve?</translation>
-    </message>
-    <message>
-        <source>Unable to open the URL. Ensure that your custom browser/mailer exists (see Options).</source>
-        <translation type="obsolete">Nem tudom megnyitni az URL-t. Jól állítottad be a böngészőt/levelezőt? (lásd a beállításoknál).</translation>
-    </message>
-    <message>
-        <source>Unable to open the URL. You have not selected a browser (see Options).</source>
-        <translation type="obsolete">Nem tudom megnyitni az URL-t. Nincs böngésző kiválasztva (lásd a beállításoknál).</translation>
-    </message>
-    <message>
-        <source>Unable to open the URL. You have not selected a mailer (see Options).</source>
-        <translation type="obsolete">Nem tudom megnyitni az URL-t. Nincs levelező kiválasztva (lásd a beállításoknál).</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -13613,31 +16545,27 @@ Folytatod?</translation>
         <translation>Felhasználónév</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="+122"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="+110"/>
         <source>Using</source>
         <translation>Programja</translation>
     </message>
     <message>
-        <source>Work</source>
-        <translation type="obsolete">Munka</translation>
-    </message>
-    <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="+10"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="+10"/>
         <source>Zipcode</source>
         <translation>Irányító szám</translation>
     </message>
     <message>
-        <location filename="../src/psigrowlnotifier.cpp" line="+17"/>
+        <location filename="../../psi-plus/src/psigrowlnotifier.cpp" line="+23"/>
         <source>[Incoming File]</source>
         <translation>[Bejövő fájl]</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="-86"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="-57"/>
         <source>[blank]</source>
         <translation>[üres]</translation>
     </message>
     <message>
-        <location filename="../src/Certificates/CertificateErrorDialog.cpp" line="+17"/>
+        <location filename="../../psi-plus/src/Certificates/CertificateErrorDialog.cpp" line="+17"/>
         <source>The %1 certificate failed the authenticity test.</source>
         <translation>%1 tanúsítvány hitelesítése nem sikerült.</translation>
     </message>
@@ -13662,7 +16590,7 @@ Folytatod?</translation>
         <translation>&amp;Tartomány elfogadása</translation>
     </message>
     <message>
-        <location filename="../src/Certificates/CertificateHelpers.cpp" line="+141"/>
+        <location filename="../../psi-plus/src/Certificates/CertificateHelpers.cpp" line="+141"/>
         <source>The server did not present a certificate.</source>
         <translation>A szerver nem szolgáltat magáról tanúsítványt.</translation>
     </message>
@@ -13682,7 +16610,7 @@ Folytatod?</translation>
         <translation>Általános tanúsítvány ellenőrzési hiba.</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="-1694"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="-1696"/>
         <source>Invitation to %1 from %2</source>
         <translation>Meghívás %1 részére %2 címről</translation>
     </message>
@@ -13692,7 +16620,7 @@ Folytatod?</translation>
         <translation>Meghívás %1 részére</translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="+567"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="+757"/>
         <source>Warning: %1 is deprecated and will be removed in the future</source>
         <translation>Figyelmeztetés: %1 elavult és a jövőben cserélve lesz</translation>
     </message>
@@ -13707,7 +16635,7 @@ Folytatod?</translation>
         <translation>Kérlek e helyett nyomd le a &apos;%1&apos; gombot, majd írd be hogy &apos;%2&apos;.</translation>
     </message>
     <message>
-        <location filename="../src/moodcatalog.cpp" line="+58"/>
+        <location filename="../../psi-plus/src/moodcatalog.cpp" line="+69"/>
         <source>Afraid</source>
         <translation>Ijedt</translation>
     </message>
@@ -13720,6 +16648,11 @@ Folytatod?</translation>
         <location line="+1"/>
         <source>Angry</source>
         <translation>Dühös</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Amorous</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
@@ -13758,13 +16691,28 @@ Folytatod?</translation>
     </message>
     <message>
         <location line="+1"/>
+        <source>Cautious</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Cold</source>
         <translation>Rideg</translation>
     </message>
     <message>
         <location line="+1"/>
+        <source>Confident</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Confused</source>
         <translation>Összezavarodott</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Contemplative</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
@@ -13778,8 +16726,23 @@ Folytatod?</translation>
     </message>
     <message>
         <location line="+1"/>
+        <source>Crazy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Creative</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Curious</source>
         <translation>Kíváncsi</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Dejected</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
@@ -13798,6 +16761,11 @@ Folytatod?</translation>
     </message>
     <message>
         <location line="+1"/>
+        <source>Dismayed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Distracted</source>
         <translation>Zavart</translation>
     </message>
@@ -13805,6 +16773,11 @@ Folytatod?</translation>
         <location line="+1"/>
         <source>Embarrassed</source>
         <translation>Zavarba hozott</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Envious</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
@@ -13835,6 +16808,11 @@ Folytatod?</translation>
         <location line="+1"/>
         <source>Happy</source>
         <translation>Boldog</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hopeful</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
@@ -13908,6 +16886,11 @@ Folytatod?</translation>
     </message>
     <message>
         <location line="+1"/>
+        <source>Lucky</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Mean</source>
         <translation>Gonosz</translation>
     </message>
@@ -13933,6 +16916,11 @@ Folytatod?</translation>
     </message>
     <message>
         <location line="+1"/>
+        <source>Outraged</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Playful</source>
         <translation>Játékos</translation>
     </message>
@@ -13940,6 +16928,11 @@ Folytatod?</translation>
         <location line="+1"/>
         <source>Proud</source>
         <translation>Büszke</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Relaxed</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
@@ -13993,8 +16986,18 @@ Folytatod?</translation>
     </message>
     <message>
         <location line="+1"/>
+        <source>Spontaneous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Stressed</source>
         <translation>Stresszes</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Strong</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
@@ -14003,8 +17006,28 @@ Folytatod?</translation>
     </message>
     <message>
         <location line="+1"/>
+        <source>Thankful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Thirsty</source>
         <translation>Szomjas</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Tired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Else</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Weak</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
@@ -14012,7 +17035,7 @@ Folytatod?</translation>
         <translation>Aggódó</translation>
     </message>
     <message>
-        <location filename="../src/mucmanager.cpp" line="-203"/>
+        <location filename="../../psi-plus/src/mucmanager.cpp" line="-203"/>
         <source>a moderator</source>
         <translation>egy moderátor</translation>
     </message>
@@ -14087,12 +17110,12 @@ Folytatod?</translation>
         <translation>elzárkózott</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_toolbars.cpp" line="+176"/>
+        <location filename="../../psi-plus/src/options/opt_toolbars.cpp" line="+176"/>
         <source>&lt;unnamed%1&gt;</source>
         <translation>&lt;névtelen%1&gt;</translation>
     </message>
     <message>
-        <location filename="../src/pgputil.cpp" line="-79"/>
+        <location filename="../../psi-plus/src/pgputil.cpp" line="-84"/>
         <source>Invalid passphrase</source>
         <translation>Nem megfelelő jelszó</translation>
     </message>
@@ -14137,7 +17160,7 @@ Folytatod?</translation>
         <translation>Ismeretlen hiba</translation>
     </message>
     <message>
-        <location filename="../src/privacy/privacydlg.cpp" line="-43"/>
+        <location filename="../../psi-plus/src/privacy/privacydlg.cpp" line="-71"/>
         <location line="+13"/>
         <source>Error</source>
         <translation>Hiba</translation>
@@ -14153,7 +17176,7 @@ Folytatod?</translation>
         <translation>Valami hiba akadt a kérés végrehajtása közben.</translation>
     </message>
     <message>
-        <location filename="../src/privacy/privacylistitem.cpp" line="+47"/>
+        <location filename="../../psi-plus/src/privacy/privacylistitem.cpp" line="+47"/>
         <source>Deny</source>
         <translation>Megtagadva</translation>
     </message>
@@ -14208,7 +17231,7 @@ Folytatod?</translation>
         <translation>Ha a feliratkozás &apos;%1&apos; akkor %2 %3</translation>
     </message>
     <message>
-        <location filename="../src/rc.cpp" line="-26"/>
+        <location filename="../../psi-plus/src/rc.cpp" line="-26"/>
         <source>Set Status</source>
         <translation>Állapot beállítása</translation>
     </message>
@@ -14218,12 +17241,43 @@ Folytatod?</translation>
         <translation>Válaszd ki az állapotod és hozzá az üzenetet</translation>
     </message>
     <message>
-        <location line="+14"/>
+        <location filename="../../psi-plus/src/popupmanager.cpp" line="+83"/>
+        <location filename="../../psi-plus/src/rc.cpp" line="+14"/>
         <source>Status</source>
         <translation>Állapot</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+2"/>
+        <source>Headline</source>
+        <translation type="unfinished">Főcím</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Chat Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Groupchat Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+175"/>
+        <source>Classic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Growl</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>DBus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/rc.cpp" line="+6"/>
         <source>Chat</source>
         <translation>Beszélgetés</translation>
     </message>
@@ -14288,29 +17342,17 @@ Folytatod?</translation>
         <translation>Új üzenetek automatikus megnyitása</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="-29"/>
+        <location line="+56"/>
+        <source>Leave All Conferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/userlist.cpp" line="-46"/>
         <source>Mood</source>
         <translation>Hangulat</translation>
     </message>
     <message>
-        <location line="+12"/>
-        <location line="+91"/>
-        <source>Location</source>
-        <translation>Lokáció</translation>
-    </message>
-    <message>
-        <location line="-87"/>
-        <location line="+91"/>
-        <source>Geolocation</source>
-        <translation>Térképészeti helyzet</translation>
-    </message>
-    <message>
-        <location line="-25"/>
-        <source>JID: %1</source>
-        <translation>JID: %1</translation>
-    </message>
-    <message>
-        <location line="+2"/>
+        <location line="+130"/>
         <source>Role: %1</source>
         <translation>Szerepkör: %1</translation>
     </message>
@@ -14320,7 +17362,7 @@ Folytatod?</translation>
         <translation>Kapcsolat: %1</translation>
     </message>
     <message>
-        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="+86"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="+86"/>
         <source>No certificate presented.</source>
         <translation>Nincs közzétéve tanúsítvány.</translation>
     </message>
@@ -14340,7 +17382,7 @@ Folytatod?</translation>
         <translation>Általános hitelesítési hiba.</translation>
     </message>
     <message>
-        <location filename="../src/adhoc_fileserver.cpp" line="+55"/>
+        <location filename="../../psi-plus/src/adhoc_fileserver.cpp" line="+55"/>
         <source>Choose file</source>
         <translation>Válassz fájlt</translation>
     </message>
@@ -14351,11 +17393,12 @@ Folytatod?</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../psi-plus/src/popupmanager.cpp" line="-185"/>
         <source>File</source>
         <translation>Fájl</translation>
     </message>
     <message>
-        <location filename="../src/plugins/generic/chess/main.cpp" line="+48"/>
+        <location filename="../../psi-plus/src/plugins/generic/chess/main.cpp" line="+48"/>
         <source>Socket Error</source>
         <translation>Socket hiba</translation>
     </message>
@@ -14364,106 +17407,309 @@ Folytatod?</translation>
         <source>Cannot create a server socket!</source>
         <translation>Nem sikerült a szerver socket létrehozása!</translation>
     </message>
+    <message>
+        <location filename="../../psi-plus/src/geolocation.cpp" line="+379"/>
+        <source>Latitude/Longitude/Altitude: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>
+Bearing: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>
+Error: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>
+Datum: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>
+Country: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>
+Postalcode: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>
+Region: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>
+Locality: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>
+Area: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>
+Street: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>
+Floor: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>
+Room: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>
+Description: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/messageview.cpp" line="+77"/>
+        <source>%1 is now %2</source>
+        <translation type="unfinished">%1 mosmát úgy ismert mint %2</translation>
+    </message>
+    <message numerus="yes">
+        <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="-328"/>
+        <source>%n day(s) </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <location line="+3"/>
+        <source>%n hour(s) </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <location line="+3"/>
+        <source>%n minute(s) </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <location line="+3"/>
+        <source>%n second(s) </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/OtrInternal.cpp" line="+45"/>
+        <source>No OTR Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>OTR TaggedPlaintextMessage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>OTR QueryMessage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>OTR DH-Commit Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>OTR DH-Key Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>OTR Reveal Signature Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>OTR Signature Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>OTR Version 1 Key Exchange Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>OTR Data Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>OTR Error Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>OTR Unknown Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Unknown OTR Message Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+95"/>
+        <source>Encrypting message to %1 failed.
+The message was not sent.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+148"/>
+        <source>Received %1 [%2]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Session ID: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+296"/>
+        <source>plaintext</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>finished</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+164"/>
+        <location line="+24"/>
+        <source>Psi OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-23"/>
+        <source>Generating keys for account &quot;%1&quot;.
+This may take a while.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Ok</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Failed to generate keys for account &quot;%1&quot;.
+The OTR Plugin will not work.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Fingerprint for account &quot;%1&quot;:
+%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+117"/>
+        <source>You have received a new fingerprint from %1:
+%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/storagenotesplugin/tagsmodel.cpp" line="-149"/>
+        <source>All Tags</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.cpp" line="+45"/>
+        <source>Name: %1
+Size: %2
+Date prolongate: %3
+URL: %4
+Password: %5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Yes</source>
+        <translation type="unfinished">Igen</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>No</source>
+        <translation type="unfinished">Nem</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/theme.cpp" line="+48"/>
+        <source>Unnamed</source>
+        <translation type="unfinished">Névtelen</translation>
+    </message>
 </context>
 <context>
-    <name>QXml</name>
+    <name>QipXStatuses</name>
     <message>
-        <source>encoding declaration or standalone declaration expected while reading the XML declaration</source>
-        <translation type="obsolete">kódoló deklaráció vagy egyedülálló (standalone) deklaráció az XML olvasásánál elvárt</translation>
+        <location filename="../../psi-plus/src/plugins/generic/qipxstatusesplugin/qipxstatusesplugin.cpp" line="+99"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>error in the text declaration of an external entity</source>
-        <translation type="obsolete">hiba egy külső entitás szöveges deklarációjában</translation>
+        <location line="+242"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>error occurred while parsing comment</source>
-        <translation type="obsolete">hiba történt a megjegyzés elemzése közben</translation>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>error occurred while parsing content</source>
-        <translation type="obsolete">hiba történt a tartalom elemzése közben</translation>
-    </message>
-    <message>
-        <source>error occurred while parsing document type definition</source>
-        <translation type="obsolete">hiba történt a dokumentum típus meghatározás értelmezésénél</translation>
-    </message>
-    <message>
-        <source>error occurred while parsing element</source>
-        <translation type="obsolete">hiba történt elem elemzése közben</translation>
-    </message>
-    <message>
-        <source>error occurred while parsing reference</source>
-        <translation type="obsolete">hiba történt a referencia elemzése közben</translation>
-    </message>
-    <message>
-        <source>error triggered by consumer</source>
-        <translation type="obsolete">hibát a felhasználó váltotta ki</translation>
-    </message>
-    <message>
-        <source>external parsed general entity reference not allowed in DTD</source>
-        <translation type="obsolete">Külsőleg elemzett általános hivatalos referencia nem megengedett DTD-ben</translation>
-    </message>
-    <message>
-        <source>external parsed general entity reference not allowed in attribute value</source>
-        <translation type="obsolete">Külsőleg elemzett általános hivatalos referencia nem megengedett attribútum értékben</translation>
-    </message>
-    <message>
-        <source>internal general entity reference not allowed in DTD</source>
-        <translation type="obsolete">Általános belső hivatalos referencia nem megengedett a DTD-ben</translation>
-    </message>
-    <message>
-        <source>invalid name for processing instruction</source>
-        <translation type="obsolete">hibás név az utasítás feldolgozásának</translation>
-    </message>
-    <message>
-        <source>letter is expected</source>
-        <translation type="obsolete">betű elvárt</translation>
-    </message>
-    <message>
-        <source>more than one document type definition</source>
-        <translation type="obsolete">több mint egy dokumentum típusmeghatározás</translation>
-    </message>
-    <message>
-        <source>no error occurred</source>
-        <translation type="obsolete">nincs hiba</translation>
-    </message>
-    <message>
-        <source>recursive entities</source>
-        <translation type="obsolete">rekurzív entitások</translation>
-    </message>
-    <message>
-        <source>standalone declaration expected while reading the XML declaration</source>
-        <translation type="obsolete">egyedülálló (standalone) deklaráció az XML deklaráció olvasásánál elvárt</translation>
-    </message>
-    <message>
-        <source>tag mismatch</source>
-        <translation type="obsolete">Tag nem eggyezik</translation>
-    </message>
-    <message>
-        <source>unexpected character</source>
-        <translation type="obsolete">váratlan karakter</translation>
-    </message>
-    <message>
-        <source>unexpected end of file</source>
-        <translation type="obsolete">fájl váratlan vége</translation>
-    </message>
-    <message>
-        <source>unparsed entity reference in wrong context</source>
-        <translation type="obsolete">nem értelmezett hivatalos referencia rossz összefüggésben</translation>
-    </message>
-    <message>
-        <source>version expected while reading the XML declaration</source>
-        <translation type="obsolete">Váratlan verzió az XML deklaráció olvasása közben</translation>
-    </message>
-    <message>
-        <source>wrong value for standalone declaration</source>
-        <translation type="obsolete">hibás értéke az egyedülálló (standalone) deklarációnak</translation>
+        <location line="+1"/>
+        <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>RegistrationDlg</name>
     <message>
-        <location filename="../src/registrationdlg.cpp" line="+186"/>
+        <location filename="../../psi-plus/src/registrationdlg.cpp" line="+187"/>
         <source>&amp;Close</source>
         <translation>&amp;Bezár</translation>
     </message>
@@ -14521,12 +17767,12 @@ Ok: %1</translation>
         <translation>Regisztráció sikeres.</translation>
     </message>
     <message>
-        <location line="-205"/>
+        <location line="-206"/>
         <source>Registration: %1</source>
         <translation>Regisztráció: %1</translation>
     </message>
     <message>
-        <location line="+205"/>
+        <location line="+206"/>
         <source>Success</source>
         <translation>Siker</translation>
     </message>
@@ -14539,9 +17785,63 @@ Ok: %1</translation>
     </message>
 </context>
 <context>
+    <name>Reminder</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="+446"/>
+        <source>celebrates birthday today!
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <location line="+3"/>
+        <source>celebrates birthday in %n day(s)
+</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>celebrates birthday yesterday.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+34"/>
+        <source>Birthday Reminder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Choose a sound file</source>
+        <translation type="unfinished">Válassz egy hangfájlt</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Sound (*.wav)</source>
+        <translation type="unfinished">Hangfájl (*.wav)</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to show reminders of upcoming birthdays.
+The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>RemoveConfirmationMessageBox</name>
     <message>
-        <location filename="../src/removeconfirmationmessagebox.cpp" line="+71"/>
+        <location filename="../../psi-plus/src/removeconfirmationmessagebox.cpp" line="+71"/>
         <source>OK</source>
         <translation>Rendben</translation>
     </message>
@@ -14561,7 +17861,7 @@ Ok: %1</translation>
 <context>
     <name>ResourceMenu</name>
     <message>
-        <location filename="../src/resourcemenu.cpp" line="+67"/>
+        <location filename="../../psi-plus/src/resourcemenu.cpp" line="+67"/>
         <location line="+34"/>
         <source>[blank]</source>
         <translation>[üres]</translation>
@@ -14570,7 +17870,7 @@ Ok: %1</translation>
 <context>
     <name>RoomModel</name>
     <message>
-        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="-196"/>
+        <location filename="../../psi-plus/src/libpsi/widgets/groupchatbrowsewindow.cpp" line="-196"/>
         <source>Auto-join</source>
         <translation>Automatikus bekapcsolódás</translation>
     </message>
@@ -14581,111 +17881,298 @@ Ok: %1</translation>
     </message>
 </context>
 <context>
+    <name>RosterAvatarFrame</name>
+    <message>
+        <location filename="../../psi-plus/src/rosteravatarframe.ui" line="+20"/>
+        <source>Form</source>
+        <translation type="unfinished">Űrlap</translation>
+    </message>
+    <message>
+        <location line="+38"/>
+        <source>Nick</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>Set Mood for all active accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Set Activity for all active accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Set Status for all active accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Status Message</source>
+        <translation type="unfinished">Állapot üzenet</translation>
+    </message>
+</context>
+<context>
     <name>RosterExchangeEvent</name>
     <message>
-        <location filename="../src/psievent.cpp" line="+51"/>
+        <location filename="../../psi-plus/src/psievent.cpp" line="+51"/>
         <source>This user wants to modify your roster.</source>
         <translation>A felhasználó módosítani kívánja a névjegyzékedet.</translation>
     </message>
 </context>
 <context>
-    <name>SSLCertDlg</name>
+    <name>Screenshot</name>
     <message>
-        <source>Common name:</source>
-        <translation type="obsolete">Közös név:</translation>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.ui" line="+20"/>
+        <source>Screenshot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Country:</source>
-        <translation type="obsolete">Ország:</translation>
+        <location line="+88"/>
+        <source>Copy to clipboard</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Email:</source>
-        <translation type="obsolete">Email:</translation>
+        <location line="+28"/>
+        <source>Cancel uploading</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Issuer Details:</source>
-        <translation type="obsolete">Kibocsátó részletei:</translation>
+        <location line="+21"/>
+        <source>Upload to server:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Locality:</source>
-        <translation type="obsolete">Helység:</translation>
+        <location line="+13"/>
+        <source>Upload Screenshot to selected server</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Organization:</source>
-        <translation type="obsolete">Szervezet:</translation>
+        <location line="+13"/>
+        <source>Save Screenshot to Local Drive</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Organizational unit:</source>
-        <translation type="obsolete">Szervezeti egység:</translation>
+        <location line="+13"/>
+        <source>Print Screenshot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>State:</source>
-        <translation type="obsolete">Megye:</translation>
+        <location line="+26"/>
+        <source>Open image from Local Drive</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Subject Details:</source>
-        <translation type="obsolete">Tárgy részletei:</translation>
+        <location line="+13"/>
+        <location line="+85"/>
+        <source>New Screenshot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The certificate is NOT valid!</source>
-        <translation type="obsolete">A bizonyítvány NEM érvényes!</translation>
+        <location line="-72"/>
+        <source>toolBar</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The certificate is valid.</source>
-        <translation type="obsolete">A bizonyítvány érvényes.</translation>
+        <location line="+23"/>
+        <source>File</source>
+        <translation type="unfinished">Fájl</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Settings</source>
+        <translation type="unfinished">Beállítások</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Help</source>
+        <translation type="unfinished">Súgó</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Open</source>
+        <translation type="unfinished">Megnyit</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Print</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Proxy Settings</source>
+        <translation type="unfinished">Proxy beállítások</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Options</source>
+        <translation type="unfinished">Beállítások</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>History</source>
+        <translation type="unfinished">Előzmények</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>About Qt</source>
+        <translation type="unfinished">Qt névjegye</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Home page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Upload</source>
+        <translation type="unfinished">Küldés</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.cpp" line="+242"/>
+        <source>Size: %1x%2px; %3 bytes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+51"/>
+        <source>Open Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+191"/>
+        <source>/%1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Save As</source>
+        <translation type="unfinished">Mentés másként</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>%1 Files (*.%2);;All Files (*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+68"/>
+        <location line="+50"/>
+        <source>%1.</source>
+        <translation type="unfinished">%1.</translation>
+    </message>
+    <message>
+        <location line="+134"/>
+        <source>Can&apos;t parse URL (Reply URL: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Close Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Are you sure?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>SSLCertUI</name>
+    <name>ScreenshotOptions</name>
     <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshotoptions.ui" line="+23"/>
+        <source>New Screenshot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Certificate Validation:</source>
-        <translation type="obsolete">Tanusítvány érvényesítés:</translation>
+        <location line="+6"/>
+        <source>Capture the desktop</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>SSL Cert</source>
-        <translation type="obsolete">SSL Tanusítvány</translation>
+        <location line="+10"/>
+        <source>Capture current window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Serial Number:</source>
-        <translation type="obsolete">Sorozatszám:</translation>
+        <location line="+7"/>
+        <source>Select capture area</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Valid From:</source>
-        <translation type="obsolete">Érvényesítette:</translation>
+        <location line="+9"/>
+        <source>Capture after</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Valid Until:</source>
-        <translation type="obsolete">Érvényességi határidő:</translation>
+        <location line="+10"/>
+        <source>seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ScreenshotPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshotplugin.cpp" line="+194"/>
+        <source>Upload Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+36"/>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin allows you to make screenshots and save them to your hard drive or upload them to an FTP or HTTP server.
+The plugin has the following settings:
+* Shortcut -- hotkey to make the screenshot (by default, Ctrl+Alt+P)
+* Format -- the file format in which the screenshot will be stored (default: .jpg)
+* File Name -- format of the filename (default: pic-yyyyMMdd-hhmmss, where yyyyMMdd=YYYYMMDD, and hhmmss are current date in the format yearmonthday-hourminutesecond)
+The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>
+
+Settings for authorization on some hostings can be found here: http://code.google.com/p/qscreenshot/wiki/Authorization</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Search</name>
     <message>
-        <location filename="../src/search.ui" line="+16"/>
+        <location filename="../../psi-plus/src/search.ui" line="+20"/>
         <source>Search: %1</source>
         <translation>Keresés: %1</translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+26"/>
         <source>Search Fields</source>
         <translation>Keresési mezők</translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+20"/>
         <source>Instructions go here.</source>
         <translation>Ide jönnek az utasítások.</translation>
     </message>
     <message>
-        <location line="+10"/>
-        <source>form</source>
-        <translation>űrlap</translation>
-    </message>
-    <message>
-        <location line="+12"/>
+        <location line="+41"/>
         <source>&amp;Search</source>
         <translation>&amp;Keresés</translation>
     </message>
@@ -14710,27 +18197,27 @@ Ok: %1</translation>
         <translation>Becenév</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+5"/>
         <source>First Name</source>
         <translation>Keresztnév</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+5"/>
         <source>Last Name</source>
         <translation>Családnév</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+5"/>
         <source>E-Mail Address</source>
         <translation>E-Mail cím</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+5"/>
         <source>Jabber ID</source>
         <translation>Jabber ID</translation>
     </message>
     <message>
-        <location line="+35"/>
+        <location line="+29"/>
         <source>&amp;Add Contact</source>
         <translation>Ismerős &amp;hozzáadása</translation>
     </message>
@@ -14758,7 +18245,7 @@ Ok: %1</translation>
 <context>
     <name>SearchDlg</name>
     <message>
-        <location filename="../src/searchdlg.cpp" line="+248"/>
+        <location filename="../../psi-plus/src/searchdlg.cpp" line="+255"/>
         <source>&lt;qt&gt;Fetching search form for %1 ...&lt;/qt&gt;</source>
         <translation>&lt;qt&gt;Keresés lekérdezése %1ről...&lt;/qt&gt;</translation>
     </message>
@@ -14772,10 +18259,6 @@ Ok: %1</translation>
         <location line="+1"/>
         <source>Added %1 to your roster.</source>
         <translation>%1 hozzáadva a listádhoz.</translation>
-    </message>
-    <message>
-        <source>Added %1 users to your roster.</source>
-        <translation type="obsolete">%1 partner hozzáadva a listádhoz.</translation>
     </message>
     <message>
         <location line="-61"/>
@@ -14816,68 +18299,9 @@ Oka: %1</translation>
     </message>
 </context>
 <context>
-    <name>SearchUI</name>
-    <message>
-        <source>&amp;Add Contact</source>
-        <translation type="obsolete">Partner &amp;hozzáadása</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
-    </message>
-    <message>
-        <source>&amp;Search</source>
-        <translation type="obsolete">&amp;Keres</translation>
-    </message>
-    <message>
-        <source>&amp;Stop</source>
-        <translation type="obsolete">&amp;Leállít</translation>
-    </message>
-    <message>
-        <source>E-Mail Address</source>
-        <translation type="obsolete">E-Mail cím</translation>
-    </message>
-    <message>
-        <source>First Name</source>
-        <translation type="obsolete">Keresztnév</translation>
-    </message>
-    <message>
-        <source>Instructions go here.</source>
-        <translation type="obsolete">Utasítások ide.</translation>
-    </message>
-    <message>
-        <source>Jabber ID</source>
-        <translation type="obsolete">Jabber ID</translation>
-    </message>
-    <message>
-        <source>Last Name</source>
-        <translation type="obsolete">Vezetéknév</translation>
-    </message>
-    <message>
-        <source>Nickname</source>
-        <translation type="obsolete">Becenév</translation>
-    </message>
-    <message>
-        <source>Search Fields</source>
-        <translation type="obsolete">Keresési mezők</translation>
-    </message>
-    <message>
-        <source>Search: %1</source>
-        <translation type="obsolete">Keresés: %1</translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation type="obsolete">Partner &amp;információi</translation>
-    </message>
-    <message>
-        <source>form</source>
-        <translation type="obsolete">form</translation>
-    </message>
-</context>
-<context>
     <name>SelectGame</name>
     <message>
-        <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="+38"/>
+        <location filename="../../psi-plus/src/plugins/generic/chess/mainwindow.cpp" line="+38"/>
         <source>New game with...</source>
         <translation>Új játék indítása...</translation>
     </message>
@@ -14913,9 +18337,129 @@ Oka: %1</translation>
     </message>
 </context>
 <context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <location filename="../../psi-plus/src/sendbuttontemplateseditor.ui" line="+14"/>
+        <source>Template editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+120"/>
+        <source>Add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <location filename="../../psi-plus/src/sendbuttonmenu.cpp" line="+23"/>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <location filename="../../psi-plus/src/sendbuttonmenu.cpp" line="+1"/>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>Ok</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Mégse</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/sendbuttonmenu.cpp" line="-9"/>
+        <source>Add template string</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Add template string as submenu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Add separator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Add separator as submenu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Up</source>
+        <translation type="unfinished">Fel</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Down</source>
+        <translation type="unfinished">Le</translation>
+    </message>
+    <message>
+        <location line="+42"/>
+        <location line="+45"/>
+        <location line="+9"/>
+        <source>&lt;separator&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Edit template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Input new template text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+139"/>
+        <source>Save templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesMenu</name>
+    <message>
+        <location line="+109"/>
+        <source>Paste and &amp;Send</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>&amp;Edit Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Only &amp;Paste</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>SeparatorAction</name>
     <message>
-        <location filename="../src/mainwin_p.cpp" line="-41"/>
+        <location filename="../../psi-plus/src/mainwin_p.cpp" line="-41"/>
         <source>&lt;Separator&gt;</source>
         <translation>&lt;Elválasztó&gt;</translation>
     </message>
@@ -14928,7 +18472,7 @@ Oka: %1</translation>
 <context>
     <name>ServerListQuerier</name>
     <message>
-        <location filename="../src/serverlistquerier.cpp" line="+58"/>
+        <location filename="../../psi-plus/src/serverlistquerier.cpp" line="+58"/>
         <source>Unable to parse server list</source>
         <translation>Nem sikerült feldolgozni a szerverlistát</translation>
     </message>
@@ -14954,173 +18498,22 @@ Oka: %1</translation>
     </message>
 </context>
 <context>
-    <name>Shortcuts</name>
+    <name>ShowChangeLogForm</name>
     <message>
-        <location filename="../src/option_translations.cpp" line="+2"/>
-        <source>Shortcuts in the chat dialog</source>
-        <translation>Billentyűkombinációk a beszélgetési ablakhoz</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Switch to the next tab</source>
-        <translation>Következő fülre váltás</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Switch to the previous tab</source>
-        <translation>Előző fülre váltás</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Find text</source>
-        <translation>Szöveg keresése</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Sends the message</source>
-        <translation>Üzenetküldés</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Clear the text</source>
-        <translation>Szöveg törlése</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Change to quick command mode</source>
-        <translation>Gyors parancs módba kapcsolás</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Shortcuts in the contactlist</source>
-        <translation>Billentyűkombinációk a címlistához</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Assign a custom avatar to the selected contact</source>
-        <translation>Egyéni igazolványkép hozzárendelése ismerőshöz</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Remove custom avatar from the selected contact</source>
-        <translation>Igazolványkép eltávolítása az ismerősről</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Delete the selected contact</source>
-        <translation>Ismerős eltávolítása</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Open a chat to the selected contact</source>
-        <translation>Beszélgetés nyitása a kiválasztott ismerőssel</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Send a message to the selected contact</source>
-        <translation>Üzenet küldése a kiválasztott ismerősnek</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <location line="+10"/>
-        <source>Receive incoming event</source>
-        <translation>Bejövő esemény fogadása</translation>
-    </message>
-    <message>
-        <location line="-9"/>
-        <source>Rename the selected contact</source>
-        <translation>Ismerős átnevezése</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Log on to the selected transport</source>
-        <translation>Adott helyre való bejelentkezés</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Common actions</source>
-        <translation>Általános cselekvések</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Scroll up</source>
-        <translation>Felgörgetés</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Scroll down</source>
-        <translation>Legörgetés</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Close the current window/tab</source>
-        <translation>Az aktív ablak/fül bezárása</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Open the message history</source>
-        <translation>Az előzmények megnyitása</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Show the user info of the contact</source>
-        <translation>Felhasználói információk mutatása</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Shortcuts available from outside of the application</source>
-        <translation>Billentyűkombinációk elérhetőek a programon kívülről</translation>
-    </message>
-    <message>
-        <location line="+2"/>
-        <source>Show/hide the application</source>
-        <translation>Program mutatása/elrejtése</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Bring the application to front</source>
-        <translation>A program előtérbe hozása</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Send new message</source>
-        <translation>Új üzenet küldése</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Hide all active windows</source>
+        <location filename="../../psi-plus/src/AutoUpdater/QDChangeLog.ui" line="+14"/>
+        <source>New version is available!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+1"/>
-        <source>Shortcuts in the message dialog</source>
-        <translation>Billentyűkombinációk az üzenet ablakban</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Send the message</source>
-        <translation>Üzenet elküldése</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Shortcuts in the status dialog</source>
-        <translation>Billentyűkombinációk az állapot ablakban</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Set the status message</source>
-        <translation>Állapot beállítása</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Shortcuts in the service discovery dialog</source>
-        <translation>Billentyűkombinációk a szolgáltatás feltérképezése ablakban</translation>
+        <location line="+37"/>
+        <source>Open download page?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ShowPhotoDlg</name>
     <message>
-        <location filename="../src/vcardphotodlg.cpp" line="+17"/>
+        <location filename="../../psi-plus/src/vcardphotodlg.cpp" line="+20"/>
         <source>Photo Preview: %1</source>
         <translation>Fénykép előnézete: %1</translation>
     </message>
@@ -15153,16 +18546,206 @@ Oka: %1</translation>
 <context>
     <name>ShowTextDlg</name>
     <message>
-        <location filename="../src/showtextdlg.cpp" line="+58"/>
+        <location filename="../../psi-plus/src/showtextdlg.cpp" line="+58"/>
         <location line="+27"/>
         <source>&amp;OK</source>
         <translation>&amp;Ok</translation>
     </message>
 </context>
 <context>
+    <name>SkinsPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/skinsplugin/skinsplugin.ui" line="+14"/>
+        <source>Form</source>
+        <translation type="unfinished">Űrlap</translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Preview skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Update skins list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Apply selected skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Apply</source>
+        <translation type="unfinished">Alkalmaz</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Open skin file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Open</source>
+        <translation type="unfinished">Megnyit</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Remove selected skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>Overwrite selected skin with the current settings </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Create new skin from current settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Create</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Backup skin before applying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/skinsplugin/skinsplugin.cpp" line="+137"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+87"/>
+        <source>Choose a skin file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <location line="+57"/>
+        <source>*.skn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-9"/>
+        <location line="+5"/>
+        <location line="+25"/>
+        <source>Create Skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-30"/>
+        <location line="+5"/>
+        <location line="+37"/>
+        <location line="+5"/>
+        <location line="+109"/>
+        <location line="+5"/>
+        <source>Unknown error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-152"/>
+        <source>Save a skin file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+21"/>
+        <source>Can&apos;t save skin!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <location line="+5"/>
+        <location line="+23"/>
+        <location line="+28"/>
+        <source>Apply Skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-28"/>
+        <source>Can&apos;t save the backup skin!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+74"/>
+        <source>Overwrite selected skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+40"/>
+        <source>Are You Sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-29"/>
+        <location line="+5"/>
+        <location line="+13"/>
+        <source>Overwrite Skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Can&apos;t save the skin!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Delete skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to create, store and apply skins to Psi+.
+Skin - a set of custom settings.
+To download a new skin, create a folder named skins in the PsiData directory and put the new skin in it. You can also just open a skin file.
+Each skin must be in a separate directory. You can also add a screenshot to the skin file.
+In most cases, to be sure that the skin is applied correctly, you must perform a sequence of actions:
+1. Apply the skin
+2. Restart the application
+3. Apply the same skin again
+This allows all settings (icons, toolbar layout) to be picked up correctly. </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>SpacerAction</name>
     <message>
-        <location filename="../src/mainwin_p.cpp" line="-34"/>
+        <location filename="../../psi-plus/src/mainwin_p.cpp" line="-34"/>
         <location line="+1"/>
         <source>&lt;Spacer&gt;</source>
         <translation>&lt;Helyköz&gt;</translation>
@@ -15174,20 +18757,22 @@ Oka: %1</translation>
     </message>
 </context>
 <context>
-    <name>Stanza::Error::Private</name>
+    <name>StatusMenu</name>
     <message>
-        <source>Internal server error</source>
-        <translation type="obsolete">Belső szerver hiba</translation>
+        <location filename="../../psi-plus/src/statusmenu.cpp" line="+70"/>
+        <source>Presets</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Not authorized</source>
-        <translation type="obsolete">Nincs hitelesítve</translation>
+        <location line="+60"/>
+        <source>Edit presets...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>StatusSetDlg</name>
     <message>
-        <location filename="../src/statusdlg.cpp" line="+173"/>
+        <location filename="../../psi-plus/src/statusdlg.cpp" line="+206"/>
         <source>&amp;Cancel</source>
         <translation>&amp;Mégse</translation>
     </message>
@@ -15197,12 +18782,12 @@ Oka: %1</translation>
         <translation>&amp;Beállít</translation>
     </message>
     <message>
-        <location line="-18"/>
+        <location line="-23"/>
         <source>&lt;None&gt;</source>
         <translation>&lt;Nincs&gt;</translation>
     </message>
     <message>
-        <location line="+73"/>
+        <location line="+81"/>
         <source>Can&apos;t create a blank preset!</source>
         <translation>Nem hozhatsz létre üreset!</translation>
     </message>
@@ -15223,37 +18808,47 @@ Oka: %1</translation>
         <translation>Írd be az előre mentett állapot nevét:</translation>
     </message>
     <message>
-        <location line="-68"/>
+        <location line="-76"/>
         <source>Preset:</source>
         <translation>Előrebeállított:</translation>
     </message>
     <message>
-        <location line="+24"/>
+        <location line="+29"/>
         <source>Sa&amp;ve as Preset</source>
         <translation>&amp;Előre mentettként mentés</translation>
     </message>
     <message>
-        <location line="-53"/>
+        <location line="-76"/>
         <source>Set Status: %1</source>
         <translation>Állapot beállítása: %1</translation>
     </message>
     <message>
-        <location line="-14"/>
+        <location line="-17"/>
         <source>Set Status: All accounts</source>
         <translation>Állapot beállítása: Minden fióknál</translation>
     </message>
     <message>
-        <location line="+30"/>
+        <location line="+26"/>
+        <source>Set Status for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Set Status for group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+16"/>
         <source>Status:</source>
         <translation>Állapot:</translation>
     </message>
     <message>
-        <location line="+93"/>
+        <location line="+103"/>
         <source>You already have a preset with that name!</source>
         <translation>Már van ilyen névvel egy mentett állapotod!</translation>
     </message>
     <message>
-        <location line="-87"/>
+        <location line="-97"/>
         <source>Priority:</source>
         <translation>Prioritás:</translation>
     </message>
@@ -15261,7 +18856,7 @@ Oka: %1</translation>
 <context>
     <name>StatusShowDlg</name>
     <message>
-        <location line="-83"/>
+        <location line="-108"/>
         <source>&amp;Close</source>
         <translation>&amp;Bezár</translation>
     </message>
@@ -15272,9 +18867,91 @@ Oka: %1</translation>
     </message>
 </context>
 <context>
+    <name>StopSpam</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/stopspamplugin.cpp" line="+726"/>
+        <source>Block stanza from </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+4"/>
+        <source>Stop Spam Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-1"/>
+        <source> pass the test</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+274"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to block spam messages and other unwanted information from Psi+ users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
+With the plugin settings you can:
+* Define a security question and the answer
+* Define the set of rules that define whether to the trigger plugin for a contact
+* Define the text messages sent in the case of the correct answer
+* Enable notification through popups
+* Enable the saving of blocked messages in the history of the contact
+* Define the number of subject parcels
+* Set the time interval after which to reset the number of how many questions will be sent
+* Enable blocking of private messages in conferences
+* Choose for which ranks and roles of conference participants blocking messages will be disabled
+* Enable deadlocks in private messages to participants who do not fall into the exceptions list for the roles and ranks which include blocking.
+
+The rules are checked from top to bottom. If the rule is Enabled - stopspam is triggered, otherwise - stopspam is not triggered. In the case where none of the rules triggered stopspam for roster messages, you can specify whether the plugin will activate or not. For private messages from the same conference, it will always work.
+Question and answer as well as a list of rules is common for ordinary messages and for private messages in conferences.
+When a user has passed, the test will send a re-authorization request. It should be noted in the messages that are sent back the security question was correctly answered.
+The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
+
+WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>StorageNotesPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/storagenotesplugin/storagenotesplugin.cpp" line="+84"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+74"/>
+        <source>Storage Notes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is an implementation of XEP-0049: Private XML Storage.
+The plugin is fully compatible with notes saved using Miranda IM.
+The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi+ or Miranda IM.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>TabDlg</name>
     <message>
-        <location filename="../src/tabs/tabdlg.cpp" line="+287"/>
+        <location filename="../../psi-plus/src/tabs/tabdlg.cpp" line="+305"/>
         <source>Close Current Tab</source>
         <translation>Bezárja ezt a lapot</translation>
     </message>
@@ -15284,11 +18961,12 @@ Oka: %1</translation>
         <translation>Leválasztja a lapot</translation>
     </message>
     <message>
-        <source>Sent Current Tab to</source>
-        <translation type="obsolete">Küldje a lapot ide:</translation>
+        <location line="-45"/>
+        <source>Hide Tab</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-38"/>
+        <location line="+2"/>
         <source>Detach Tab</source>
         <translation>Fül leválasztása</translation>
     </message>
@@ -15303,7 +18981,17 @@ Oka: %1</translation>
         <translation>Fül küldése </translation>
     </message>
     <message>
-        <location line="+34"/>
+        <location line="+33"/>
+        <source>Hide Current Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hide All Tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
         <source>Send Current Tab To</source>
         <translation>Aktuális fül küldése </translation>
     </message>
@@ -15318,7 +19006,7 @@ Oka: %1</translation>
         <translation>Használat új beszélgetésekhez</translation>
     </message>
     <message>
-        <location line="+198"/>
+        <location line="+237"/>
         <source>%1 Conversations</source>
         <translation>%1 beszélgetések</translation>
     </message>
@@ -15329,16 +19017,9 @@ Oka: %1</translation>
     </message>
 </context>
 <context>
-    <name>Task</name>
-    <message>
-        <source>Disconnected</source>
-        <translation type="obsolete">Szétkapcsolva</translation>
-    </message>
-</context>
-<context>
     <name>TestDlg</name>
     <message>
-        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="+80"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="+80"/>
         <source>XMPP Test</source>
         <translation>XMPP teszt</translation>
     </message>
@@ -15459,7 +19140,7 @@ Javítsd és próbáld újra.</translation>
 <context>
     <name>TestUI</name>
     <message>
-        <location filename="../iris/tools/xmpptest/test.ui" line="+13"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="+13"/>
         <source>Form1</source>
         <translation>Form1</translation>
     </message>
@@ -15629,7 +19310,7 @@ Javítsd és próbáld újra.</translation>
 <context>
     <name>Tip</name>
     <message>
-        <location filename="../src/tip.ui" line="+16"/>
+        <location filename="../../psi-plus/src/tip.ui" line="+16"/>
         <source>Useful Tips</source>
         <translation>Hasznos tippek</translation>
     </message>
@@ -15687,7 +19368,7 @@ Javítsd és próbáld újra.</translation>
 <context>
     <name>TipDlg</name>
     <message>
-        <location filename="../src/tipdlg.cpp" line="+63"/>
+        <location filename="../../psi-plus/src/tipdlg.cpp" line="+65"/>
         <source>Hello! Thank you for downloading Psi!
 We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
@@ -15819,211 +19500,192 @@ Megj: Néhány szerver nem engedélyezi más szerverek felhasználóinak a haszn
     </message>
 </context>
 <context>
-    <name>TipUI</name>
+    <name>ToolBar</name>
     <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/toolbar.cpp" line="+71"/>
+        <source>Line Width:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Next</source>
-        <translation type="obsolete">&amp;Következő</translation>
+        <location line="+4"/>
+        <source>Line width</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Previous</source>
-        <translation type="obsolete">&amp;Előző</translation>
+        <location line="+7"/>
+        <source>Select Color</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Alt+C</source>
-        <translation type="obsolete">Alt+C</translation>
+        <location line="+1"/>
+        <source>Pen</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Alt+N</source>
-        <translation type="obsolete">Alt+N</translation>
+        <location line="+1"/>
+        <source>Select</source>
+        <translation type="unfinished">Kijelölés</translation>
     </message>
     <message>
-        <source>Alt+P</source>
-        <translation type="obsolete">Alt+P</translation>
+        <location line="+1"/>
+        <source>Cut</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Contributed by</source>
-        <translation type="obsolete">Beküldte:</translation>
+        <location line="+3"/>
+        <source>Copy</source>
+        <translation type="unfinished">Másol</translation>
     </message>
     <message>
-        <source>Did you know that Psi is one of the only Jabber clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="obsolete">Tudtad, hogy a Psi egyik azon Jabber kliensek közül, amikkel egyszerre több szerverre is csatlakozhatsz? Fennt lehetsz &quot;mrcool@jabber.org&quot;-vel a barátaidnak, és &quot;Kovacs.Janos@encegem.hu&quot;-val az üzleti partnereknek.</translation>
+        <location line="+3"/>
+        <source>Paste</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation type="obsolete">Tudtad hogy a középső gombbal is ki tudod váltani az alapértelmezett eseményt számos elemen a Psi-ben? Próbáld ki egy partneren vagy egy előugó ablakon.</translation>
+        <location line="+3"/>
+        <source>Rotate</source>
+        <translation type="unfinished">Forgatás</translation>
     </message>
     <message>
-        <source>Did you know that you can register multiple Jabber accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest Jabber features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="obsolete">Tudtad, hogy több Jabber fiókod lehet a Psi-vel egyszerre? Ha el szeretnéd különíteni a munkait és a személyest, megteheted. Ha megszállott vagy, aki a legújabb lehetőségeket akarja tesztelni egy instabil szerveren, hát rajta -- másik kliens futtatása nélkül csatlakozhatsz a stabil szerverre is. Csak add hozzá a Fiókok beállításánál.</translation>
+        <location line="+1"/>
+        <source>Insert Text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation type="obsolete">Tudtad, hogy a Fiókok beállításánál a jelölőnégyzettel engedélyezni/letiltani tudod a fiókot? Ez hasznos lehet olyan fióknál, amit csak ritkán használsz, így nem fog zavarni a listádon.</translation>
-    </message>
-    <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to Jabber. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="obsolete">Más IM hálózatokon is chatelhetsz, mint pélául AIM vagy ICQ? Próbáld ki, hogy engedélyezed a &quot;Szolgáltatások ikonjainak használata&quot; opciót. Ezzel azonnal láthatod hogy a partnered melyik hálózatot használja. Aztán meggyőzheted a Jabberre váltásról is. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
-    </message>
-    <message>
-        <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation type="obsolete">Nem tetszenek a gombok, ahol vannak? Szeretnél egy külön gombot az állapotod &quot;nincs a gépnél&quot;-re váltásához? Próbáld ki az Eszköztár testreszabása ablakot, ezt az eszköztárra jobb kattintással éred el. Még akár különálló eszköztárat is csinálhatsz!</translation>
-    </message>
-    <message>
-        <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation type="obsolete">Most tértél át Gadu-Gadu-ról vagy Trillianról, és hiányolod a menő hangulatjeleket? Ne féjl, van nekünk is! Nézd meg a &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; honlapot, ahol tonnaszám vannak &quot;ikoncsomagok&quot; amiket hozzáadhatsz a Psihez, hogy úgy nézzen ki, ahogy akarod!</translation>
-    </message>
-    <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi.affinix.com&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://psi.affinix.com/forums/&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="obsolete">Üdv! Köszönjük, hogy letöltötted a Psi-t!
-Reméljük, hogy annyira fogod szeretni, mint amennyire mi szívesen csináljuk!
-&lt;br&gt;&lt;br&gt;Ha egy másik fordítást, ikoncsomagot vagy a Psi újabb verzióját szeretnéd letölteni, akkor látogasd meg a &lt;a href=&quot;http://psi.affinix.com&quot;&gt;Psi honlapját&lt;/a&gt;
-&lt;br&gt;&lt;br&gt;Ha egy programhibát találtál, vagy csak chatelni akarsz más Psi felhasználókkal, akkor látogasd meg a &lt;a href=&quot;http://psi.affinix.com/forums/&quot;&gt;Psi fórumát&lt;/a&gt;
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;A Psi Csapat&lt;/i&gt;&lt;/div&gt;</translation>
-    </message>
-    <message>
-        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your Jabber server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="obsolete">Más IM hálózatok felhasználóinak a hozzáadásához, szükséged lesz a megfelelő átjáróra a Jabber szervereden. Vess egy pillantást a Psi menüjében a Szolgáltatások listájára.</translation>
-    </message>
-    <message>
-        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; Jabber Server for nice services by typing its domain in the address field.
-&lt;br&gt;&lt;br&gt;
-Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation type="obsolete">Keresel egy átjárót vagy egy chat szobát, de a szervered nem kínál semmit? Haználd a Psi menüjéből a Szolgáltatások listája menüpontot &lt;i&gt;bármely&lt;/i&gt; Jabber szerverhez, úgy hogy beírod a szervert a címhez.
-&lt;br&gt;&lt;br&gt;
-Megj: Néhány szerver nem engedélyezi más szerverek felhasználóinak a használatot, bár ez nem szokás.</translation>
-    </message>
-    <message>
-        <source>Show tips at startup</source>
-        <translation type="obsolete">Tippek mutatása induláskor</translation>
-    </message>
-    <message>
-        <source>This is the last tip.
-&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;http://psi.affinix.com/forums&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation type="obsolete">Ez az utolsó tipp.
-&lt;br&gt;&lt;br&gt;Ha szeretnéd a saját tippedet közzétenni, a &lt;a href=&quot;http://psi.affinix.com/forums&quot;&gt;Psi fórumán&lt;/a&gt; megteheted (vagy küld el levélben a készítőknek), és mi szívesen berakjuk a következő kiadásba.</translation>
-    </message>
-    <message>
-        <source>Useful Tips</source>
-        <translation type="obsolete">Hasznos tippek</translation>
-    </message>
-    <message>
-        <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation type="obsolete">Kattinthatsz jobb gombbal a szerver nevén a listában, hogy számos lehetőséget elérj. Válthatsz állapotot, módosíthatod a fiókod beállításait, adminisztratív opciókat is elérhetsz (ha van jogosultságod), stb.</translation>
-    </message>
-    <message>
-        <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation type="obsolete">Több hangulatjel csomagot kiválaszthatsz, és meghatározhatod a prioritásukat a beállításoknál.</translation>
-    </message>
-    <message>
-        <source>You can type these special commands in chat and groupchat dialogs:
-&lt;ul&gt;
-&lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
-&lt;/ul&gt;
-And these work only in groupchat dialog:
-&lt;ul&gt;
-&lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
-&lt;/ul&gt;</source>
-        <translation type="obsolete">Ezeket a speciális parancsokat használhatod a chat és csoportbeszélgetés ablakokban:
-&lt;ul&gt;
-&lt;li&gt;&quot;/clear&quot; az ablak törléséhez&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;üzenet&amp;gt;&quot; &apos;/me&apos; a neveddel lesz kicserélve&lt;/li&gt;
-&lt;/ul&gt;
-És ez csak a csoportbeszélgetéseknél használható:
-&lt;ul&gt;
-&lt;li&gt;&quot;/nick &amp;lt;új_név&amp;gt;&quot; a neved megváltoztatásához&lt;/li&gt;
-&lt;/ul&gt;</translation>
-    </message>
-    <message>
-        <source>You can use multiple useful shortcuts while typing chat messages:&lt;br&gt;
-&lt;ul&gt;
-&lt;li&gt;Ctrl+Enter to send message&lt;/li&gt;
-&lt;li&gt;Ctrl+M to add newline character&lt;/li&gt;
-&lt;li&gt;Ctrl+H to display message history dialog&lt;/li&gt;
-&lt;li&gt;Alt+S to send message&lt;/li&gt;
-&lt;li&gt;Ctrl+U to clear edit buffer&lt;/li&gt;
-&lt;li&gt;Ctrl+PgUp/PgDn to scroll chat view&lt;/li&gt;
-&lt;/ul&gt;</source>
-        <translation type="obsolete">Több hasznos billentyűkombinációt is használhatsz chatelés közben:&lt;br&gt;
-&lt;ul&gt;
-&lt;li&gt;Ctrl+Enter üzenet küldése&lt;/li&gt;
-&lt;li&gt;Ctrl+M újsor karakter írása&lt;/li&gt;
-&lt;li&gt;Ctrl+H előzmények mutatása&lt;/li&gt;
-&lt;li&gt;Alt+S üzenet elküldése&lt;/li&gt;
-&lt;li&gt;Ctrl+U ablak tartalmának törlése&lt;/li&gt;
-&lt;li&gt;Ctrl+PgUp/PgDn ablak görgetése&lt;/li&gt;
-&lt;/ul&gt;</translation>
+        <location line="+1"/>
+        <source>Undo</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>ToolbarDlg</name>
+    <name>TranslatePlugin</name>
     <message>
-        <source>&amp;Apply</source>
-        <translation type="obsolete">&amp;Alkalmaz</translation>
+        <location filename="../../psi-plus/src/plugins/generic/translateplugin/translateplugin.cpp" line="+224"/>
+        <source>from</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Cancel</source>
-        <translation type="obsolete">&amp;Mégse</translation>
+        <location line="+0"/>
+        <source>to</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;OK</source>
-        <translation type="obsolete">&amp;Ok</translation>
+        <location line="+18"/>
+        <source>Add</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Configure Toolbars</source>
-        <translation type="obsolete">Eszköztár testreszabása</translation>
+        <location line="+1"/>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>I understand</source>
-        <translation type="obsolete">Megértettem</translation>
+        <location line="+6"/>
+        <source>ShortCut:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>OK</source>
-        <translation type="obsolete">Ok</translation>
+        <location line="+6"/>
+        <source>Modify</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Warning</source>
-        <translation type="obsolete">Figyelmeztetés</translation>
+        <location line="+4"/>
+        <source>Not translating &quot;Nickname:&quot;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars &lt;i&gt;and&lt;/i&gt; the menubar. If you do so, you will be unable to enable them back, when you&apos;ll change your mind.
-&lt;br&gt;&lt;br&gt;
-If you really-really want to disable all toolbars and the menubar, you need to edit the config.xml file by hand.</source>
-        <translation type="obsolete">Nem tilthatod le az &lt;i&gt;összes&lt;/i&gt; eszköztárat &lt;i&gt;és&lt;/i&gt; a menüt. Ha így tennél, nem tudnád újra engedélyezni őket, ha meggondoltad magad.
-
-&lt;br&gt;&lt;br&gt;
-Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a config.xml-t.</translation>
+        <location line="+4"/>
+        <source>Restore Defaults Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars. If you do so, you will be unable to enable them back, when you&apos;ll change your mind.
-&lt;br&gt;&lt;br&gt;
-If you really-really want to disable all toolbars, you need to edit the config.xml file by hand.</source>
-        <translation type="obsolete">Nem tilthatod le az &lt;i&gt;összes&lt;/i&gt; eszköztárat. Ha így tennél, nem tudnád újra engedélyezni őket, ha meggondoltad magad.
-
-&lt;br&gt;&lt;br&gt;
-Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a config.xml-t.</translation>
+        <location line="+315"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin allows you to convert selected text into another language.
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>TranslationManager</name>
     <message>
-        <location filename="../src/translationmanager.cpp" line="-126"/>
+        <location filename="../../psi-plus/src/translationmanager.cpp" line="-126"/>
         <source>language_name</source>
         <translation>nyelv_neve</translation>
     </message>
 </context>
 <context>
+    <name>TypeAheadFindBar</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/typeaheadfind.cpp" line="+88"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/typeaheadfind.cpp" line="+88"/>
+        <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="+88"/>
+        <source>Search: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+21"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/typeaheadfind.cpp" line="+21"/>
+        <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="+21"/>
+        <location filename="../../psi-plus/src/widgets/typeaheadfind.cpp" line="+167"/>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/typeaheadfind.cpp" line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="+7"/>
+        <source>First page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/typeaheadfind.cpp" line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="+7"/>
+        <source>Previous page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/typeaheadfind.cpp" line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="+7"/>
+        <source>Next page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/typeaheadfind.cpp" line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="+7"/>
+        <source>Last page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/widgets/typeaheadfind.cpp" line="-16"/>
+        <source>Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <location line="+2"/>
+        <source>Find next</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <location line="+2"/>
+        <source>Find previous</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>URLLabel</name>
     <message>
-        <location filename="../src/widgets/urlobject.cpp" line="+65"/>
+        <location filename="../../psi-plus/src/widgets/urlobject.cpp" line="+66"/>
         <source>Add to Roster</source>
         <translation>Listához hozzáad</translation>
     </message>
@@ -16038,7 +19700,12 @@ Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a co
         <translation>Cím másolása</translation>
     </message>
     <message>
-        <location line="-24"/>
+        <location line="+4"/>
+        <source>User Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-28"/>
         <source>Open mail composer</source>
         <translation>Levelező megnyitása</translation>
     </message>
@@ -16053,10 +19720,6 @@ Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a co
         <translation>Megnyit</translation>
     </message>
     <message>
-        <source>Send massage to</source>
-        <translation type="obsolete">Üzenet küldése neki: </translation>
-    </message>
-    <message>
         <location line="+20"/>
         <source>Chat with</source>
         <translation>Beszélgetés</translation>
@@ -16068,9 +19731,272 @@ Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a co
     </message>
 </context>
 <context>
+    <name>UploadManager</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploadmanager.cpp" line="+227"/>
+        <source>Getting storage...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Can&apos;t get storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Starting upload...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Error opening file!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+19"/>
+        <source>Verifying...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Uploaded successfully</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Verifying failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>VideoStatusChanger</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/videostatusplugin/videostatusplugin.cpp" line="+398"/>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
+Note: This plugin is designed to work in Linux family operating systems and in Windows OS. 
+
+In Linux plugin uses DBUS to work with video players and X11 functions to detect fullscreen applications. 
+In Windows plugin uses WinAPI functions to detect fullscreen applications. 
+
+To work with Totem player you need to enable appropriate plugin in this player (Edit\Plugins\D-Bus);
+
+To work with VLC player you need to enable the option &quot;Control Interface D-Bus&quot; in the Advanced Settings tab on &quot;Interface\Control Interface&quot; section of the player settings; 
+
+To work with Kaffeine player you must have player version (&gt;= 1.0), additional configuration is not needed; 
+
+To work with GNOME MPlayer additional configuration is not needed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ViewLog</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/viewer.cpp" line="+41"/>
+        <source>Find</source>
+        <translation type="unfinished">Keres</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Save Changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Delete Log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Update Log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <source>Delete log file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+26"/>
+        <source>Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-11"/>
+        <location line="+10"/>
+        <source>Save log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-9"/>
+        <source>New messages has been added to log. If you save your changes, you will lose them</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Do you want to save your changes?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ViewMailDlg</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/viewmaildlg.ui" line="+20"/>
+        <source>E-Mail</source>
+        <translation type="unfinished">E-Mail</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>From:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Subject:</source>
+        <translation type="unfinished">Tárgy:</translation>
+    </message>
+    <message>
+        <location line="+21"/>
+        <source>Account:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Open mail in browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Open MailBox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Previous</source>
+        <translation type="unfinished">Előző</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Next</source>
+        <translation type="unfinished">Következő</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>&amp;Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/viewmaildlg.cpp" line="+59"/>
+        <source>[%1/%2] E-Mail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+65"/>
+        <source>Open in browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Viewer</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/viewer.cpp" line="+45"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="+45"/>
+        <source>Find</source>
+        <translation type="unfinished">Keres</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="+1"/>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="+1"/>
+        <source>Save Changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="+1"/>
+        <source>Delete Log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="+1"/>
+        <source>Update Log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="+28"/>
+        <source>Delete log file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+26"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="+1"/>
+        <location line="+26"/>
+        <source>Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-11"/>
+        <location line="+10"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="-11"/>
+        <location line="+10"/>
+        <source>Save log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-9"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="-9"/>
+        <source>New messages has been added to log. If you save your changes, you will lose them</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="+1"/>
+        <source>Do you want to save your changes?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/view.cpp" line="+66"/>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Uncheck</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Invert</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>VoiceCall</name>
     <message>
-        <location filename="../src/voicecall.ui" line="+16"/>
+        <location filename="../../psi-plus/src/voicecall.ui" line="+16"/>
         <source>Voice Call</source>
         <translation>Hívás</translation>
     </message>
@@ -16093,7 +20019,7 @@ Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a co
 <context>
     <name>VoiceCallDlg</name>
     <message>
-        <location filename="../src/voicecalldlg.cpp" line="+34"/>
+        <location filename="../../psi-plus/src/voicecalldlg.cpp" line="+34"/>
         <source>Voice Call (%1)</source>
         <translation>Hang hívás (%1)</translation>
     </message>
@@ -16144,9 +20070,67 @@ Ha nagyon-nagyon le akarod tiltani mindet, akkor kézzel kell szerkesztened a co
     </message>
 </context>
 <context>
+    <name>Watcher</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="+205"/>
+        <location line="+369"/>
+        <location line="+36"/>
+        <source>Empty item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-253"/>
+        <source> change status to </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+117"/>
+        <location line="+8"/>
+        <source>Choose a sound file</source>
+        <translation type="unfinished">Válassz egy hangfájlt</translation>
+    </message>
+    <message>
+        <location line="-6"/>
+        <location line="+8"/>
+        <source>Sound (*.wav)</source>
+        <translation type="unfinished">Hangfájl (*.wav)</translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>&lt;br&gt;Status Message: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Watcher Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>Watch for JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+80"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
+On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>WbDlg</name>
     <message>
-        <location filename="../src/whiteboarding/wbdlg.cpp" line="+74"/>
+        <location filename="../../psi-plus/src/whiteboarding/wbdlg.cpp" line="+74"/>
         <source>Save session</source>
         <translation>Munkamenet elmentése</translation>
     </message>
@@ -16329,7 +20313,7 @@ Biztos bezárod az ablakot?</translation>
 <context>
     <name>WbItem</name>
     <message>
-        <location filename="../src/whiteboarding/wbitem.cpp" line="+336"/>
+        <location filename="../../psi-plus/src/whiteboarding/wbitem.cpp" line="+336"/>
         <source>Bring forward</source>
         <translation>Előrehozás</translation>
     </message>
@@ -16362,7 +20346,7 @@ Biztos bezárod az ablakot?</translation>
 <context>
     <name>WbManager</name>
     <message>
-        <location filename="../src/whiteboarding/wbmanager.cpp" line="+58"/>
+        <location filename="../../psi-plus/src/whiteboarding/wbmanager.cpp" line="+58"/>
         <source>Unsupported</source>
         <translation>Nem támogatott</translation>
     </message>
@@ -16403,14 +20387,27 @@ Biztos bezárod az ablakot?</translation>
     </message>
 </context>
 <context>
+    <name>WebView</name>
+    <message>
+        <location filename="../../psi-plus/src/webview.cpp" line="+47"/>
+        <source>Quote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Ctrl+S</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>XMLConsole</name>
     <message>
-        <location filename="../src/xmlconsole.ui" line="+13"/>
+        <location filename="../../psi-plus/src/xmlconsole.ui" line="+13"/>
         <source>XML Console</source>
         <translation>XML konzol</translation>
     </message>
     <message>
-        <location line="+18"/>
+        <location line="+15"/>
         <source>Filter</source>
         <translation>Szűrő</translation>
     </message>
@@ -16463,7 +20460,7 @@ Biztos bezárod az ablakot?</translation>
 <context>
     <name>XMPP::ClientStream</name>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-core/stream.cpp" line="+782"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/stream.cpp" line="+782"/>
         <source>Offered mechanisms: </source>
         <translation>Felkínált működések:</translation>
     </message>
@@ -16471,12 +20468,12 @@ Biztos bezárod az ablakot?</translation>
 <context>
     <name>XMPP::Features::FeatureName</name>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="+192"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="+202"/>
         <source>Add to roster</source>
         <translation>Címlistához adás</translation>
     </message>
     <message>
-        <location line="-11"/>
+        <location line="-12"/>
         <source>ERROR: Incorrect usage of Features class</source>
         <translation>HIBA: A feature osztály hibás használata</translation>
     </message>
@@ -16520,11 +20517,16 @@ Biztos bezárod az ablakot?</translation>
         <source>Execute command</source>
         <translation>Parancs végrehajtása</translation>
     </message>
+    <message>
+        <location line="+1"/>
+        <source>Query version</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="+1083"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="+1083"/>
         <source>No VCard available</source>
         <translation>Nincs elérhető vCard</translation>
     </message>
@@ -16532,7 +20534,7 @@ Biztos bezárod az ablakot?</translation>
 <context>
     <name>XMPP::Stanza::Error::Private</name>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="+249"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="+249"/>
         <source>Bad request</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16755,7 +20757,7 @@ Biztos bezárod az ablakot?</translation>
 <context>
     <name>XMPP::Task</name>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/xmpp_task.cpp" line="+165"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/xmpp_task.cpp" line="+165"/>
         <source>Disconnected</source>
         <translation>Szétkapcsolva</translation>
     </message>
@@ -16763,23 +20765,7 @@ Biztos bezárod az ablakot?</translation>
 <context>
     <name>XmlConsole</name>
     <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Bezár</translation>
-    </message>
-    <message>
-        <source>&amp;XML Input...</source>
-        <translation type="obsolete">&amp;XML bemenet...</translation>
-    </message>
-    <message>
-        <source>Clear</source>
-        <translation type="obsolete">Töröl</translation>
-    </message>
-    <message>
-        <source>Enable</source>
-        <translation type="obsolete">Engedélyez</translation>
-    </message>
-    <message>
-        <location filename="../src/xmlconsole.cpp" line="+87"/>
+        <location filename="../../psi-plus/src/xmlconsole.cpp" line="+87"/>
         <location line="+2"/>
         <source>XML Console</source>
         <translation>XML konzol</translation>
@@ -16821,6 +20807,942 @@ Biztos bezárod az ablakot?</translation>
         <location line="+0"/>
         <source>No</source>
         <translation>Nem</translation>
+    </message>
+</context>
+<context>
+    <name>options</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/chessplugin/options.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="+14"/>
+        <source>Form</source>
+        <translation type="unfinished">Űrlap</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="+6"/>
+        <source>Select Sounds:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="+11"/>
+        <source>Game started:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="+7"/>
+        <source>Game finished:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="+7"/>
+        <source>Your turn:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="+7"/>
+        <source>Error message:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+159"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="+159"/>
+        <source>If checked, the sound will always enabled (or disabled)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="+3"/>
+        <source>Override default sound settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="+7"/>
+        <source>Disable invitations if status is DND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="+7"/>
+        <source>Disable invitations from conference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Save window height and width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Save window position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="+8"/>
+        <source>Auto Reply Message If Recv:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Auto Reply Message If No Recv:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Custom options:
+-uin - do nothing
++uin - send replay
+!uin - block message
+[-+!]other - default
+[-+!]nil - not in list
+# - comment to end line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Pause for next Recv message:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>min.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Max messages to contact:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+32"/>
+        <source>Disable if chat window is active</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Transports:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiotr::AuthenticationDialog</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="+53"/>
+        <source>Authenticate %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>To authenticate via question and answer, ask a question whose answer is only known to you and %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>To authenticate manually, exchange your fingerprints over an authenticated channel and compare each other&apos;s fingerprint with the one listed beneath.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Authenticate to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>%1 wants to authenticate you. To authenticate, answer the question asked below.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Question and answer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Fingerprint verification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>&amp;Question:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>A&amp;nswer:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">&amp;Mégse</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>&amp;Authenticate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>This contact is already authenticated.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>No private key for account &quot;%1&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Your fingerprint:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Fingerprint for %1:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+134"/>
+        <source>Account: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Fingerprint: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Have you verified that this is in fact the correct fingerprint?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <location line="+78"/>
+        <source>Psi OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-59"/>
+        <source>%1 has canceled the authentication process.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>An error occured during the authentication process.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Authentication successful.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>You have been successfully authenticated.
+
+You should authenticate %1 as well by asking your own question.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Authentication failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiotr::ConfigDialog</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/PsiOtrConfig.cpp" line="+56"/>
+        <source>Known fingerprints</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>My private keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiotr::ConfigOtrWidget</name>
+    <message>
+        <location line="+17"/>
+        <source>OTR Policy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Disable private messaging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Manually start private messaging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Automatically start private messaging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Require private messaging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>End session when contact goes offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiotr::FingerprintWidget</name>
+    <message>
+        <location line="+77"/>
+        <source>Delete fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+148"/>
+        <source>Verify fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-125"/>
+        <source>Account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Verified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Status</source>
+        <translation type="unfinished">Állapot</translation>
+    </message>
+    <message>
+        <location line="+43"/>
+        <source>Are you sure you want to delete the following fingerprint?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+29"/>
+        <source>Account: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-28"/>
+        <location line="+29"/>
+        <source>User: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-28"/>
+        <location line="+29"/>
+        <source>Fingerprint: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-27"/>
+        <location line="+29"/>
+        <source>Psi OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-5"/>
+        <source>Have you verified that this is in fact the correct fingerprint?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+50"/>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Copy fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiotr::PrivKeyWidget</name>
+    <message>
+        <location line="+28"/>
+        <source>Generate new key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Delete key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>Account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+36"/>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+32"/>
+        <source>Account: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-31"/>
+        <location line="+32"/>
+        <source>Fingerprint: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-30"/>
+        <location line="+32"/>
+        <source>Psi OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-4"/>
+        <source>Are you sure you want to overwrite the following key?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+52"/>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Copy fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiotr::PsiOtrClosure</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="+132"/>
+        <source>No active encrypted session</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Session ID between account &quot;%1&quot; and %2:&lt;br/&gt;%3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <location line="+27"/>
+        <source>Psi OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-5"/>
+        <source>No private key for account &quot;%1&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Fingerprint for account &quot;%1&quot;:
+%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>unverified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>OTR Messaging [%1]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Refre&amp;sh private conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>&amp;Start private conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+36"/>
+        <source>&amp;End private conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>&amp;Authenticate contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Show secure session &amp;ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Show own &amp;fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiotr::PsiOtrPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/PsiOtrPlugin.cpp" line="+544"/>
+        <source>Psi OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>requestAuthDialogClass</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/requestauthdialog.ui" line="+26"/>
+        <source>Authorization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Login:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Password:</source>
+        <translation type="unfinished">Jelszó:</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Remember</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+34"/>
+        <source>Captcha:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>uploadDialog</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploaddialog.cpp" line="+48"/>
+        <source>File: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Progress: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Elapsed time: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Speed: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source> kb/sec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Upload completed. Waiting for verification.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Done</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>uploadDialogClass</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploaddialog.ui" line="+32"/>
+        <source>Uploading...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Upload started.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>File: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Progress:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Elapsed time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Speed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Link: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+57"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Mégse</translation>
+    </message>
+</context>
+<context>
+    <name>vCardView</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/common.cpp" line="+33"/>
+        <source>Full Name:</source>
+        <translation type="unfinished">Teljes név:</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Nick:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Birthday:</source>
+        <translation type="unfinished">Születésnap:</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>E-Mail:</source>
+        <translation type="unfinished">Email:</translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>yandexnarodManage</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.cpp" line="+109"/>
+        <source>Yandex.Narod file manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+99"/>
+        <source>Delete file(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+98"/>
+        <source>Set password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Remove password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Copy URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Prolongate</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>yandexnarodManageClass</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.ui" line="+20"/>
+        <source>Form</source>
+        <translation type="unfinished">Űrlap</translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Get Filelist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Upload File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+47"/>
+        <source>Actions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+19"/>
+        <source>Copy URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Prolongate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Delete File(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+70"/>
+        <source>line1
+line2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Files list:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>New Item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Clear Cookies</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Open Browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>yandexnarodNetMan</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodnetman.cpp" line="+111"/>
+        <source>Downloading filelist...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Deleting files...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Prolongate files...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+63"/>
+        <source>Cookies are obsolete!
+Reathorization...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Can&apos;t get files!
+Try remove cookies.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+42"/>
+        <source>Filelist downloaded
+(%1 files)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>File(s) deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>File(s) prolongated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Password is set</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Password is deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>yandexnarodPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarod.cpp" line="+149"/>
+        <source>Open Yandex Narod Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Send file via Yandex Narod</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+64"/>
+        <source>File sent to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Yandex Narod Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Ported from QutIM Yandex.Narod plugin
+http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
+
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>yandexnarodSettingsClass</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodsettings.ui" line="+14"/>
+        <source>Settings</source>
+        <translation type="unfinished">Beállítások</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Password</source>
+        <translation type="unfinished">Jelszó</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Test Authorization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Start Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Send file template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>%N - file name; %U - file URL; %S - file size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Clear Cookies</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

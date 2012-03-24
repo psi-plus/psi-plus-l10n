@@ -4,8 +4,8 @@
 <context>
     <name>@default</name>
     <message>
-        <location filename="../src/aboutdlg.cpp" line="+40"/>
-        <location filename="../src/translationmanager.cpp" line="+161"/>
+        <location filename="../../psi-plus/src/aboutdlg.cpp" line="+42"/>
+        <location filename="../../psi-plus/src/translationmanager.cpp" line="+161"/>
         <source>language_name</source>
         <translation>Esperanto</translation>
     </message>
@@ -13,7 +13,7 @@
 <context>
     <name>AHCFormDlg</name>
     <message>
-        <location filename="../src/ahcformdlg.cpp" line="+65"/>
+        <location filename="../../psi-plus/src/ahcformdlg.cpp" line="+65"/>
         <location line="+38"/>
         <source>Finish</source>
         <translation>Fini</translation>
@@ -29,15 +29,7 @@
         <translation>Sekva</translation>
     </message>
     <message>
-        <source>Cancel</source>
-        <translation type="obsolete">Nuligi</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">Bone</translation>
-    </message>
-    <message>
-        <location filename="../src/ahcformdlg.ui" line="+14"/>
+        <location filename="../../psi-plus/src/ahcformdlg.ui" line="+14"/>
         <source>Form</source>
         <translation type="unfinished">Formularo</translation>
     </message>
@@ -45,7 +37,7 @@
 <context>
     <name>AHCommandDlg</name>
     <message>
-        <location filename="../src/ahcommanddlg.ui" line="+14"/>
+        <location filename="../../psi-plus/src/ahcommanddlg.ui" line="+14"/>
         <source>Form</source>
         <translation type="unfinished">Formularo</translation>
     </message>
@@ -55,47 +47,34 @@
         <translation type="unfinished">Komando:</translation>
     </message>
     <message>
-        <location filename="../src/ahcommanddlg.cpp" line="+128"/>
+        <location filename="../../psi-plus/src/ahcommanddlg.cpp" line="+128"/>
         <source>Execute</source>
         <translation>Ruli</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="obsolete">Fermi</translation>
     </message>
 </context>
 <context>
     <name>AboutDlg</name>
     <message>
-        <location filename="../src/about.ui" line="+16"/>
-        <source>About Psi</source>
-        <translation type="unfinished">Pri Psi</translation>
-    </message>
-    <message>
+        <location filename="../../psi-plus/src/about.ui" line="+16"/>
         <location line="+54"/>
         <source>About</source>
         <translation type="unfinished">Pri</translation>
     </message>
     <message>
-        <source>A cross-platform Jabber client designed for the Jabber power user.&lt;br&gt;
-&lt;br&gt;
-Copyright (C) 2001 - 2003 by Justin Karneges&lt;br&gt;
-</source>
-        <translation type="obsolete">Plur-platforma kliento de Jabber projektita por la sperta uzanto.&lt;br&gt;
-&lt;br&gt;
-Kopirajto (C) 2001 - 2003 de Justin Karneges&lt;br&gt;
-</translation>
+        <location line="-28"/>
+        <source>psi/psiplus_logo</source>
+        <translation type="unfinished"></translation>
     </message>
     <message utf8="true">
-        <location line="+36"/>
+        <location line="+64"/>
         <source>A cross-platform Jabber client designed for the Jabber power user.&lt;br&gt;
 &lt;br&gt;
-Copyright © 2001-2010 The Psi Team.&lt;br&gt;
+Copyright © 2001-2012 The Psi Team.&lt;br&gt;
 </source>
         <translation type="unfinished">Plur-platforma kliento de Jabber projektita por la sperta uzanto.&lt;br&gt;
 &lt;br&gt;
 Kopirajto © 2001 - 2008 La Psi-a teamo.&lt;br&gt;
- {2001-2010 ?}</translation>
+ {2001-2012 ?}</translation>
     </message>
     <message>
         <location line="+43"/>
@@ -113,74 +92,22 @@ Kopirajto © 2001 - 2008 La Psi-a teamo.&lt;br&gt;
         <translation type="unfinished">Traduko</translation>
     </message>
     <message>
-        <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:noone@nowhere.com&quot;&gt;nowhere@nowhere.com&lt;/a&gt; &lt;note text=&quot;replace with your email&quot;&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://blah.com&quot;&gt;http://blah.com&lt;/a&gt; &lt;note text=&quot;write your site URL here&quot;&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Jabber: &lt;a href=&quot;jabber:blah@jabber.org&quot;&gt;blah@jabber.org &lt;note text=&quot;write your JID here&quot;&gt;&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Translator &lt;note text=&quot;write description for the work, you&apos;ve done&quot;&gt;&lt;br&gt;
-&lt;br&gt;
-&lt;note text=&quot;you can add as many people here as you want&quot;&gt;
-
-&lt;note text=&quot;and translate following text&quot;&gt;
-Join the translation team today! Go to &lt;a href=&quot;http://psi.affinix.com/forums/index.php?act=SF&amp;f=3&quot;&gt;http://psi.affinix.com/forums/index.php?act=SF&amp;f=3&lt;/a&gt; for further details!
-</source>
-        <comment>This page is a special place for translators, to write some info about them. Write information about your translation team, some hints are in &lt;note&gt; tags to help you. Keep up the good work :-).</comment>
-        <translation type="obsolete">Mike Mintz&lt;br&gt;
-&lt;a href=&quot;http://www.mikemintz.com/&quot;&gt;http://www.mikemintz.com/&lt;/a&gt;&lt;br&gt;
-&lt;a href=&quot;jabber:mikem@jabber.org&quot;&gt;mikem@jabber.org&lt;/a&gt;&lt;br&gt;
-&lt;br&gt;
-Lluís Batlle i Rossell&lt;br&gt;
-&lt;a href=&quot;http://vicerveza.homeunix.net/~viric/&quot;&gt;http://vicerveza.homeunix.net/~viric/&lt;/a&gt;&lt;br&gt;
-&lt;a href=&quot;jabber:viric@jabber.org&quot;&gt;viric@jabber.org&lt;/a&gt;&lt;br&gt;
-Helpu la traduko-teamon hodiaŭ! Iru al &lt;a href=&quot;http://psi.affinix.com/forums/index.php?act=SF&amp;f=3&quot;&gt;http://psi.affinix.com/forums/index.php?act=SF&amp;f=3&lt;/a&gt; por pliaj detaloj!
-</translation>
+        <location line="+45"/>
+        <source>About Psi+</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+25"/>
+        <location line="-20"/>
         <source>License</source>
         <translation type="unfinished">Permesilo</translation>
     </message>
     <message>
-        <source>Warning</source>
-        <translation type="obsolete">Averto</translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;*** Warning! ***&lt;/h3&gt;
-This is unfinished software.  It has been released so that interested users can try it out and perhaps follow its development.  It is not guaranteed to be bugfree, although it is quite stable in my experience.&lt;br&gt;&lt;br&gt;
-One day it will be finished.  Until then, don&apos;t count on every Jabber feature to work.  If you want to assist me in making this program better, feel free to email me bugreports/patches/wishes.&lt;br&gt;&lt;br&gt;
-Note: quite a few options/features appear &quot;grayed out&quot;.  They indicate planned features that are not in the program yet.&lt;br&gt;&lt;br&gt;Now that this is out of the way, enjoy Psi!</source>
-        <translation type="obsolete">&lt;h3&gt;*** Averto! ***&lt;/h3&gt;
-Tiu ĉi estas nefinita programo.  Ĝi estas eldonita por ke interesataj uzuloj povas provi ĝin kaj eble sekvi ĝian evoluon.  Ĝi ne garantias esti senerara, kvankam ĝi estas sufiĉe stabila laŭ mia sperto.&lt;br&gt;&lt;br&gt;
-Io tago ĝi estos finita.  Ĝis tiam, ne fidu ke ĉiu Jabber-funkcio funkciu.  Se vi volas helpi min fari tiun ĉi programon pli bona, ne hezitu retsendi al mi eraroraportojn/flikaĵojn/dezirojn.&lt;br&gt;&lt;br&gt;
-Noto: multaj elektoj/funkcioj aspektas &quot;grizita&quot;.  Ili indikas projektitajn funkciojn kiuj ne ankoraŭ estas en la programo.&lt;br&gt;&lt;br&gt;Nun ke tiu ne plu ĝenas, ĝuu Psi!</translation>
-    </message>
-    <message>
-        <location line="+47"/>
+        <location line="+63"/>
         <source>&amp;Close</source>
         <translation type="unfinished">&amp;Fermi</translation>
     </message>
     <message>
-        <source>Author, Lead Developer</source>
-        <translation type="obsolete">Aŭtoro, Ĉefa Verkisto</translation>
-    </message>
-    <message>
-        <source>Widget developer, GUI design and some core things</source>
-        <translation type="obsolete">Verkisto de fenestraĵoj, GUI-projektado kaj iuj kernaj aferoj</translation>
-    </message>
-    <message>
-        <source>MacOS X Port</source>
-        <translation type="obsolete">MacOS X Alporto</translation>
-    </message>
-    <message>
-        <source>Miscellaneous developer</source>
-        <translation type="obsolete">Verkisto de diversaĵoj</translation>
-    </message>
-    <message>
-        <source>End User Documentation</source>
-        <translation type="obsolete">Dokumentaro por Uzantoj</translation>
-    </message>
-    <message>
-        <location filename="../src/aboutdlg.cpp" line="+36"/>
+        <location filename="../../psi-plus/src/aboutdlg.cpp" line="+88"/>
         <source>Build setup, miscellaneous assistance</source>
         <translation>Muntaĵo-agordado, diversaĵa asistado</translation>
     </message>
@@ -201,50 +128,6 @@ Noto: multaj elektoj/funkcioj aspektas &quot;grizita&quot;.  Ili indikas projekt
         <translation>Originala MacOS X Alporto</translation>
     </message>
     <message>
-        <source>A cross-platform Jabber client designed for the Jabber power user.&lt;br&gt;
-&lt;br&gt;
-Copyright (C) 2001 - 2004 by Justin Karneges&lt;br&gt;
-</source>
-        <translation type="obsolete">Plur-platforma kliento de Jabber projektita por la sperta uzanto.&lt;br&gt;
-&lt;br&gt;
-Kopirajto (C) 2001 - 2004 de Justin Karneges&lt;br&gt;
-</translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;*** Warning! ***&lt;/h3&gt;
-This is unfinished software. It has been released so that interested users can try it out and perhaps follow its development. It is not guaranteed to be bugfree, although many people consider it quite stable.
-&lt;br&gt;&lt;br&gt;
-One day it will be finished. Until then, don&apos;t count on every Jabber feature to work. If you want to help make Psi better, offer your services on our forum or mailing list.
-&lt;br&gt;&lt;br&gt;
-Note: quite a few options/features appear &quot;grayed out&quot;. They indicate planned features that are not in the program yet.
-&lt;br&gt;&lt;br&gt;
-Now that this is out of the way, enjoy Psi!</source>
-        <translation type="obsolete">&lt;h3&gt;*** Atentu! ***&lt;h3&gt;
-Tiu ĉi estas nefinita programo. Oni liberigis ĝin tiel, ke la interesiĝantaj uzantoj povu ĝin provi kaj eble eĉ sekvi ties programadon. Oni ne garantias ke ĝi estas sen eraroj, kvankam multaj homoj konsideras ĝin sufiĉe stabilan.
-&lt;br&gt;&lt;br&gt;
-Iu tago ĝi estos finita. Ĝis tiam, vi ne atendu ke ĉiu kapablo de Jabber funkciu. Se vi volas plibonigi Psion, vi ofertu vian servon en nian forumon aŭ retpoŝtan dissendoliston.
-&lt;br&gt;&lt;br&gt;
-Rimarku: kelkaj elektaĵoj/kapabloj aperas griziigitaj. Tio signifas ke la kapabloj estas planitaj, sed ili ankoraŭ ne inkluzivas en la programo.
-&lt;br&gt;&lt;br&gt;
-Nun, leginte tion, ĝuu Psion!</translation>
-    </message>
-    <message>
-        <source>Founder and Original Author</source>
-        <translation type="obsolete">Fondinto kaj Originalan Aŭtoron</translation>
-    </message>
-    <message>
-        <source>Project Lead/Maintainer</source>
-        <translation type="obsolete">Estro/Subtenanto de la Projekto</translation>
-    </message>
-    <message>
-        <source>Lead Developer</source>
-        <translation type="obsolete">Ĉefa Programisto</translation>
-    </message>
-    <message>
-        <source>Miscellaneous Developer</source>
-        <translation type="obsolete">Programisto de Diversaĵoj</translation>
-    </message>
-    <message>
         <location line="+6"/>
         <source>Original End User Documentation</source>
         <translation>Originala Dokumentacio de Fina Uzanto</translation>
@@ -260,37 +143,18 @@ Nun, leginte tion, ĝuu Psion!</translation>
         <translation>Administrado de Cimkontrolilo</translation>
     </message>
     <message>
-        <source>Patches, current Mac OS X builds</source>
-        <translation type="obsolete">Flikaĵoj, nuntempaj konstruoj por Mac OS X</translation>
-    </message>
-    <message>
         <location line="+3"/>
         <source>Patches</source>
         <translation>Flikaĵoj</translation>
     </message>
     <message>
-        <location filename="../src/about.ui" line="-211"/>
-        <source>psi/logo_48</source>
-        <translation type="unfinished">psi/logo_48</translation>
-    </message>
-    <message utf8="true">
-        <source>A cross-platform Jabber client designed for the Jabber power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2008 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="obsolete">Plur-platforma kliento de Jabber projektita por la sperta uzanto.&lt;br&gt;
-&lt;br&gt;
-Kopirajto © 2001 - 2008 La Psi-a teamo.&lt;br&gt;
-</translation>
-    </message>
-    <message>
-        <location line="+80"/>
+        <location filename="../../psi-plus/src/about.ui" line="-147"/>
         <location line="+3"/>
         <source>http://psi-im.org</source>
         <translation type="unfinished">http://psi-im.org</translation>
     </message>
     <message>
-        <location filename="../src/aboutdlg.cpp" line="-55"/>
+        <location filename="../../psi-plus/src/aboutdlg.cpp" line="-107"/>
         <source>Current Maintainer and Original Author</source>
         <translation type="unfinished"></translation>
     </message>
@@ -314,6 +178,82 @@ Kopirajto © 2001 - 2008 La Psi-a teamo.&lt;br&gt;
         <location line="+3"/>
         <source>Developer</source>
         <translation>Programisto</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Active project members are presents below:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Founder, Patcher and MS Windows x86 Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Founder and Lead Patcher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Founder, Designer and Patcher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <location line="+30"/>
+        <source>Patcher and Plugins Writer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-27"/>
+        <source>Designer and Patcher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Patcher, Plugins Writer and Fedora Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Patcher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Ubuntu Packager and Patcher</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Mandriva Linux Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Patcher and Russian localization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Psimedia Patcher and English localization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Mac OS X Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>OpenSUSE Packager</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
@@ -358,7 +298,7 @@ Aliĝu la tradukantan teamon hodiaŭ! Iru al
 <context>
     <name>AccountAdd</name>
     <message>
-        <location filename="../src/accountadd.ui" line="+16"/>
+        <location filename="../../psi-plus/src/accountadd.ui" line="+16"/>
         <source>Add Account</source>
         <translation type="unfinished">Aldoni Konton</translation>
     </message>
@@ -405,11 +345,7 @@ Klaku la &lt;b&gt;Registri Novan Konton&lt;/b&gt; elektujon se vi volas ke Psi p
 <context>
     <name>AccountAddDlg</name>
     <message>
-        <source>Add Account</source>
-        <translation type="obsolete">Aldonu Konton</translation>
-    </message>
-    <message>
-        <location filename="../src/accountadddlg.cpp" line="+43"/>
+        <location filename="../../psi-plus/src/accountadddlg.cpp" line="+46"/>
         <source>Check this option if you don&apos;t yet have a Jabber account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
         <translation>Ŝaltu tion ĉi se vi ankoraŭ ne havas Jabber-konton kaj vi volas registri unu. Notu ke tiu ĉi funkcios je nur serviloj kiuj permesas anoniman registradon.</translation>
     </message>
@@ -420,44 +356,9 @@ Klaku la &lt;b&gt;Registri Novan Konton&lt;/b&gt; elektujon se vi volas ke Psi p
     </message>
 </context>
 <context>
-    <name>AccountAddUI</name>
-    <message>
-        <source>Form3</source>
-        <translation type="obsolete">Formularo3</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
-&lt;br&gt;
-Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing Jabber account then leave this box unchecked.</source>
-        <translation type="obsolete">&lt;qt&gt;Bonvolu elekti amikan &lt;b&gt;Nomon&lt;/b&gt; kiun Psi povas uzi por aludi tiun ĉi konton.&lt;br&gt;
-&lt;br&gt;
-Klaku la &lt;b&gt;Registru Novan Konton&lt;/b&gt; elektujon se vi volas ke Psi penu krei konton por vi en fora servilo.  Se vi estas aldonanta ekzistantan Jabber-konton, restigu tiun ĉi ujon neelektitan.</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation type="obsolete">Nomo:</translation>
-    </message>
-    <message>
-        <source>Register new account</source>
-        <translation type="obsolete">Registri novan konton</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="obsolete">&amp;Aldoni</translation>
-    </message>
-    <message>
-        <source>Add Account</source>
-        <translation type="obsolete">Aldoni Konton</translation>
-    </message>
-</context>
-<context>
     <name>AccountLoginPassword</name>
     <message>
-        <location filename="../src/accountloginpassword.cpp" line="+44"/>
+        <location filename="../../psi-plus/src/accountloginpassword.cpp" line="+44"/>
         <source>Please enter the password for %1:</source>
         <translation type="unfinished">Bonvolu enskribi la pasvorton por %1:</translation>
     </message>
@@ -475,7 +376,7 @@ Klaku la &lt;b&gt;Registru Novan Konton&lt;/b&gt; elektujon se vi volas ke Psi p
 <context>
     <name>AccountManage</name>
     <message>
-        <location filename="../src/accountmanage.ui" line="+14"/>
+        <location filename="../../psi-plus/src/accountmanage.ui" line="+14"/>
         <source>Jabber Accounts</source>
         <translation type="unfinished">Jabber Kontoj</translation>
     </message>
@@ -519,19 +420,11 @@ Klaku la &lt;b&gt;Registru Novan Konton&lt;/b&gt; elektujon se vi volas ke Psi p
         <source>psi/remove</source>
         <translation type="unfinished">psi/remove</translation>
     </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>Alt+C</source>
-        <translation type="obsolete">Alt+C</translation>
-    </message>
 </context>
 <context>
     <name>AccountManageDlg</name>
     <message>
-        <location filename="../src/accountmanagedlg.cpp" line="+284"/>
+        <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="+289"/>
         <source>Active</source>
         <translation>Aktiva</translation>
     </message>
@@ -541,35 +434,10 @@ Klaku la &lt;b&gt;Registru Novan Konton&lt;/b&gt; elektujon se vi volas ke Psi p
         <translation>Neaktiva</translation>
     </message>
     <message>
-        <source>Jabber Accounts</source>
-        <translation type="obsolete">Jabber-Kontoj</translation>
-    </message>
-    <message>
-        <location line="+82"/>
+        <location line="+121"/>
+        <location line="+5"/>
         <source>Error</source>
         <translation>Eraro</translation>
-    </message>
-    <message>
-        <source>Unable to remove the account, as it is currently active.</source>
-        <translation type="obsolete">Nekapable forigi la konton, ĉar ĝi dume estas aktiva.</translation>
-    </message>
-    <message>
-        <source>Unable to disable the account, as it is currently active.</source>
-        <translation type="obsolete">Nekapable forigi la konton, ĉar ĝi dume estas aktiva.</translation>
-    </message>
-    <message>
-        <source>Unable to disable the account, as it has pending events.</source>
-        <translation type="obsolete">Nekapable forigi la konton, ĉar ĝi havas respondendajn eventojn.</translation>
-    </message>
-    <message>
-        <source>Disable Account</source>
-        <translation type="obsolete">Malŝalti Konton</translation>
-    </message>
-    <message>
-        <source>The account is currently active.
-Do you want to log out ?</source>
-        <translation type="obsolete">La konto nuntempe aktivas.
-Ĉu vi volas adiaŭi?</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -583,48 +451,9 @@ Do you want to log out ?</source>
     </message>
 </context>
 <context>
-    <name>AccountManageUI</name>
-    <message>
-        <source>Form1</source>
-        <translation type="obsolete">Formularo1</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="obsolete">Nomo</translation>
-    </message>
-    <message>
-        <source>Server</source>
-        <translation type="obsolete">Servilo</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="obsolete">Stato</translation>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="obsolete">&amp;Aldoni</translation>
-    </message>
-    <message>
-        <source>&amp;Modify</source>
-        <translation type="obsolete">&amp;Modifi</translation>
-    </message>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="obsolete">For&amp;igi</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>Jabber Accounts</source>
-        <translation type="obsolete">Jabber-Kontoj</translation>
-    </message>
-</context>
-<context>
     <name>AccountModify</name>
     <message>
-        <location filename="../src/accountmodify.ui" line="+14"/>
+        <location filename="../../psi-plus/src/accountmodify.ui" line="+14"/>
         <source>Account Properties</source>
         <translation type="unfinished">Kontaj Ecoj</translation>
     </message>
@@ -651,12 +480,12 @@ Do you want to log out ?</source>
     </message>
     <message>
         <location line="+20"/>
-        <location line="+858"/>
+        <location line="+868"/>
         <source>Password:</source>
         <translation type="unfinished">Pasvorto:</translation>
     </message>
     <message>
-        <location line="-844"/>
+        <location line="-854"/>
         <source>Change...</source>
         <translation type="unfinished">Ŝanĝi...</translation>
     </message>
@@ -674,6 +503,11 @@ Do you want to log out ?</source>
         <location line="+7"/>
         <source>Automatically connect after sleep</source>
         <translation type="unfinished">Aŭtomate konektiĝi post la dormado</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Restore last status</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
@@ -736,7 +570,12 @@ Do you want to log out ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+438"/>
+        <location line="+407"/>
+        <source>Default priority:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+34"/>
         <source>Data Transfer</source>
         <translation type="unfinished"></translation>
     </message>
@@ -762,11 +601,7 @@ Do you want to log out ?</source>
         <translation type="unfinished">Uzantonomo:</translation>
     </message>
     <message>
-        <source>Blocked Contacts:</source>
-        <translation type="obsolete">Blokitaj Kontaktoj:</translation>
-    </message>
-    <message>
-        <location line="-560"/>
+        <location line="-563"/>
         <source>Add</source>
         <translation type="unfinished">Aldoni</translation>
     </message>
@@ -817,24 +652,20 @@ Do you want to log out ?</source>
     </message>
     <message>
         <location line="+15"/>
-        <location line="+317"/>
+        <location line="+320"/>
         <source>Host:</source>
         <translation type="unfinished">Gastiganto:</translation>
     </message>
     <message>
-        <location line="-307"/>
-        <location line="+317"/>
+        <location line="-310"/>
+        <location line="+320"/>
         <source>Port:</source>
         <translation type="unfinished">Pordo:</translation>
     </message>
     <message>
-        <location line="-284"/>
+        <location line="-287"/>
         <source>Encrypt connection:</source>
         <translation type="unfinished">Ĉifri la konekton:</translation>
-    </message>
-    <message>
-        <source>Ignore SSL warnings</source>
-        <translation type="obsolete">Ignori la SSL-avertojn</translation>
     </message>
     <message>
         <location line="+38"/>
@@ -862,59 +693,25 @@ Do you want to log out ?</source>
         <translation type="unfinished">Div.</translation>
     </message>
     <message>
-        <location line="+6"/>
-        <source>Use hostname as resource</source>
-        <translation type="unfinished">Uzi la gastigantan nomon kiel risurcon</translation>
-    </message>
-    <message>
-        <location line="+15"/>
+        <location line="+8"/>
         <source>Resource:</source>
         <translation type="unfinished">Risurco:</translation>
     </message>
     <message>
-        <location line="+17"/>
-        <source>Priority:</source>
-        <translation type="unfinished">Prioritato:</translation>
-    </message>
-    <message>
-        <source>Data Transfer Proxy:</source>
-        <translation type="obsolete">Datumŝuta Prokurilo:</translation>
-    </message>
-    <message>
-        <location line="+158"/>
+        <location line="+191"/>
         <source>Authenticate as:</source>
         <translation type="unfinished">Aŭtentiĝi kiel:</translation>
-    </message>
-    <message>
-        <source>User:</source>
-        <translation type="obsolete">Uzanto:</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Realm:</source>
         <translation type="unfinished">Regiono:</translation>
     </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>&amp;Save</source>
-        <translation type="obsolete">&amp;Konservi</translation>
-    </message>
-    <message>
-        <source>Alt+S</source>
-        <translation type="obsolete">Alt+S</translation>
-    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
     <message>
-        <source>Account Properties</source>
-        <translation type="obsolete">Atributoj de Konto</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmodifydlg.cpp" line="+200"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="+212"/>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the Jabber server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
         <translation>Normale, Psi salutas uzante la &lt;i&gt;digest&lt;/i&gt; aŭtentikigan metodon.  Elektu tion ĉi por devigi klarateksto-salutadon al la Jabber-servilo.  Ŝaltu tion ĉi nur se vi havas problemojn konekti per la normala salutado-metodo, ĉar ĝi faras vian konekton eble vundeblan al atakoj.</translation>
     </message>
@@ -939,18 +736,6 @@ Do you want to log out ?</source>
         <translation>Sendi la tiel nomatajn &quot;Restu-vivajn&quot; pakaĵojn periode.  Ĝi estas utila se via konekto estas agordita aŭtomate malkonektiĝi post ia periodo de malaktiveco (ekzemple, far via provizanto de retservoj) kaj vi volas daŭrigi ĝin porĉiame.</translation>
     </message>
     <message>
-        <source>Ignores all the SSL warnings, for example, about incorrect certificates.  Useful if your server doesn&apos;t use a validated SSL certificate and you are annoyed with warnings.</source>
-        <translation type="obsolete">Ignori ĉiujn SSL-avertojn, ekzemple, pro malĝustaj atestoj.  Ĝi utilas se onia servilo ne uzas validigitan SSL-ateston kaj oni ĉagreniĝas pro tiaj avertoj.</translation>
-    </message>
-    <message>
-        <source>Check this option to use an encrypted SSL connection to the Jabber server.  You may use this option if your server supports it and if you have the necessary QSSL plugin installed.  For more information, check the Psi homepage.</source>
-        <translation type="obsolete">Elektu tion ĉi por uzi ĉifratan SSL-konekton al la Jabber-servilo.  Oni rajtas uzi tiun ĉi elekton se onia servilo subtenas ĝin kaj se oni havas instalitan la necesan QSSL-kromprogramon.  Por plia informo, rigardu la Psi-hejmpaĝon.</translation>
-    </message>
-    <message>
-        <source>Check this option if you want Psi to remember your Jabber account password. Don&apos;t use this feature if you want maximum security and don&apos;t want to be compromised even if someone would break in your system and steal your configuration files.</source>
-        <translation type="obsolete">Elektu tion ĉi se vi volas ke Psi memoru la pasvorton de via Jabber-konton.  Ne uzu tiun ĉi funkcion se vi volas maksimuman sekurecon kaj ne volas esti kompromititta eĉ se iu deprenas vian sistemon kaj ŝtelas viajn agordo-dosierojn.</translation>
-    </message>
-    <message>
         <location line="+15"/>
         <source>Use this option for manual configuration of your Jabber host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
         <translation>Uzu tion ĉi por mana agordado de via Jabber-retservilo, se ĝi ne estas la sama kiel la retnodo al kiu vi estas konektanta.  Tiu ĉi elekto estas plejparte utila se vi havas ian prokuran kluzon en via loka komputilo (t.e. vi konektas al localhost-o), sed via konto estas registrita je ekstera servilo.</translation>
@@ -966,11 +751,7 @@ Do you want to log out ?</source>
         <translation>&lt;p&gt;Vi povas konekti multoblajn klientojn al la Jabber-servilo per via unuobla konto.  En tia situacio, la kliento de la plej granda prioritato (tiu estas specifita en tiu ĉi kampo) estos tiu kiu ricevos ĉiujn envenantajn eventojn.&lt;/p&gt;&lt;p&gt;Ekzemple, se vi havas konstantan konektadon al la interreto ĉe via labororejo, kaj havas telefonkonekton ĉe hejmo, vi povas havi vian Jabber-klienton de laborejo je malgranda prioriato, kaj vi ankoraŭ povos uzi la saman konton de hejmo, uzanta klienton je pli granda prioritato por provizore &quot;malŝalti&quot; la klienton de pli malgranda prioritato ĉe laborejo.&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Unknown Key: %1</source>
-        <translation type="obsolete">Nekonatas Klavo: %1</translation>
-    </message>
-    <message>
-        <location line="+118"/>
+        <location line="+119"/>
         <source>No Key Selected</source>
         <translation>Neniu Klavo Elektitas</translation>
     </message>
@@ -978,14 +759,6 @@ Do you want to log out ?</source>
         <location line="+38"/>
         <source>SSL error</source>
         <translation>SSL eraro</translation>
-    </message>
-    <message>
-        <source>SSL not supported.
-Reason:
-%1</source>
-        <translation type="obsolete">SSL ne estas subtenata
-Kialo:
-%1</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1000,11 +773,7 @@ Kialo:
         <translation>Eraro</translation>
     </message>
     <message>
-        <source>You must specify a name for the account before you may save it.</source>
-        <translation type="obsolete">Vi devas specifi nomon por la konto antaŭ ol rajti konservi ĝin.</translation>
-    </message>
-    <message>
-        <location line="+67"/>
+        <location line="+69"/>
         <source>Warning</source>
         <translation>Atentu</translation>
     </message>
@@ -1014,7 +783,7 @@ Kialo:
         <translation>Tiu ĉi konto estas daŭre aktiva, do apartaj ŝanĝoj eble ne efikos ĝis la venonta ensaluto.</translation>
     </message>
     <message>
-        <location line="-142"/>
+        <location line="-144"/>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
         <translation>Ne eblis aktivigi SSL/TLS.  Kromaĵo ne trovitas.</translation>
     </message>
@@ -1024,7 +793,7 @@ Kialo:
         <translation>&lt;i&gt;Jabber ID&lt;/i&gt; devas esti skribita per la formo &lt;i&gt;uzanto@servilo&lt;/i&gt;.</translation>
     </message>
     <message>
-        <location line="-377"/>
+        <location line="-389"/>
         <location line="+7"/>
         <source>Always</source>
         <translation>Ĉiam</translation>
@@ -1051,7 +820,27 @@ Kialo:
         <translation>Super ĉifrita konekto</translation>
     </message>
     <message>
-        <location line="+52"/>
+        <location line="+17"/>
+        <source>Manual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Use host name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Fixed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Depends on status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+41"/>
         <source>None</source>
         <translation>Neniu</translation>
     </message>
@@ -1101,7 +890,7 @@ Kialo:
         <translation>Uzantonomo:</translation>
     </message>
     <message>
-        <location line="+128"/>
+        <location line="+129"/>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
         <translation>Hereda SSL estas havebla nur kun manuma gastiganto/pordo.</translation>
     </message>
@@ -1111,7 +900,7 @@ Kialo:
         <translation>&lt;i&gt;Uzantonomo&lt;/i&gt; estas nevalida.</translation>
     </message>
     <message>
-        <location line="+73"/>
+        <location line="+75"/>
         <source>Reconnect &amp;Later</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1147,172 +936,9 @@ Kialo:
     </message>
 </context>
 <context>
-    <name>AccountModifyUI</name>
-    <message>
-        <source>Form1</source>
-        <translation type="obsolete">Formularo1</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation type="obsolete">Nomo:</translation>
-    </message>
-    <message>
-        <source>Account</source>
-        <translation type="obsolete">Konto</translation>
-    </message>
-    <message>
-        <source>Jabber ID:</source>
-        <translation type="obsolete">Jabber-ID-o:</translation>
-    </message>
-    <message>
-        <source>Save Password:</source>
-        <translation type="obsolete">Konservi Pasvorton:</translation>
-    </message>
-    <message>
-        <source>Resource:</source>
-        <translation type="obsolete">Seanco:</translation>
-    </message>
-    <message>
-        <source>Priority:</source>
-        <translation type="obsolete">Prioritato:</translation>
-    </message>
-    <message>
-        <source>OpenPGP</source>
-        <translation type="obsolete">OpenPGP</translation>
-    </message>
-    <message>
-        <source>placeholder1</source>
-        <translation type="obsolete">ejotenilo1</translation>
-    </message>
-    <message>
-        <source>placeholder2</source>
-        <translation type="obsolete">ejotenilo2</translation>
-    </message>
-    <message>
-        <source>Select &amp;Key...</source>
-        <translation type="obsolete">&amp;Elekti Klavon...</translation>
-    </message>
-    <message>
-        <source>Use None</source>
-        <translation type="obsolete">Uzi Neniun</translation>
-    </message>
-    <message>
-        <source>Save Passphrase:</source>
-        <translation type="obsolete">Konservi Pasfrazon:</translation>
-    </message>
-    <message>
-        <source>Connection</source>
-        <translation type="obsolete">Konekto</translation>
-    </message>
-    <message>
-        <source>Proxy</source>
-        <translation type="obsolete">Prokura Kluzo</translation>
-    </message>
-    <message>
-        <source>proxychooser</source>
-        <translation type="obsolete">prokuraelektilo</translation>
-    </message>
-    <message>
-        <source>Advanced</source>
-        <translation type="obsolete">Sperta</translation>
-    </message>
-    <message>
-        <source>Use SSL encryption (to server)</source>
-        <translation type="obsolete">Uzu SSL-ĉifradon (al servilo)</translation>
-    </message>
-    <message>
-        <source>Use Plaintext Login</source>
-        <translation type="obsolete">Uzu Klartekstan Saluton</translation>
-    </message>
-    <message>
-        <source>Send &quot;Keep-alive&quot; packets (for NAT timeouts)</source>
-        <translation type="obsolete">Sendu &quot;Resti-vivajn&quot; pakaĵojn (por NAT tempfinaĵoj)</translation>
-    </message>
-    <message>
-        <source>Manually Specify Server Host/Port:</source>
-        <translation type="obsolete">Mane Specifi Retnodon/Pordon de Servilo:</translation>
-    </message>
-    <message>
-        <source>Host:</source>
-        <translation type="obsolete">Retnodo:</translation>
-    </message>
-    <message>
-        <source>Port:</source>
-        <translation type="obsolete">Pordo:</translation>
-    </message>
-    <message>
-        <source>Details</source>
-        <translation type="obsolete">Detaloj</translation>
-    </message>
-    <message>
-        <source>Personal Information</source>
-        <translation type="obsolete">Persona Informo</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;Information about you is stored as a VCard on the server, which other people can retrieve at any time.&lt;/qt&gt;</source>
-        <translation type="obsolete">&lt;qt&gt;Informo pri vi estas konservita per VCard en la servilo, kiun aliaj homoj povas ekstrakti je ajna fojo.&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>Edit Personal &amp;Details...</source>
-        <translation type="obsolete">Redakti Personajn &amp;Detalojn...</translation>
-    </message>
-    <message>
-        <source>Password</source>
-        <translation type="obsolete">Pasvorto</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;Click the button below to change your password on the server.&lt;/qt&gt;</source>
-        <translation type="obsolete">&lt;qt&gt;Klaku la butonon suban por ŝanĝi vian pasvorton je la servilo.&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>Change &amp;Password...</source>
-        <translation type="obsolete">Ŝanĝu &amp;Pasvorton...</translation>
-    </message>
-    <message>
-        <source>Preferences</source>
-        <translation type="obsolete">Preferaĵoj</translation>
-    </message>
-    <message>
-        <source>Automatically connect on startup</source>
-        <translation type="obsolete">Aŭtomate konektu je starto</translation>
-    </message>
-    <message>
-        <source>Automatically reconnect if disconnected</source>
-        <translation type="obsolete">Aŭtomate rekonektiĝi se malkonektitiĝas</translation>
-    </message>
-    <message>
-        <source>Log message history</source>
-        <translation type="obsolete">Konservi la historion de mesaĝoj</translation>
-    </message>
-    <message>
-        <source>Ignore SSL warnings</source>
-        <translation type="obsolete">Ignori la SSL-avertojn</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>&amp;Save</source>
-        <translation type="obsolete">&amp;Konservi</translation>
-    </message>
-    <message>
-        <source>Account Properties</source>
-        <translation type="obsolete">Atributoj de Konto</translation>
-    </message>
-    <message>
-        <source>Allow Plaintext Login</source>
-        <translation type="obsolete">Premesu Klartekstan Ensaluton</translation>
-    </message>
-    <message>
-        <source>Data Transfer Proxy:</source>
-        <translation type="obsolete">Substitutanto de datumŝutoj:</translation>
-    </message>
-</context>
-<context>
     <name>AccountReg</name>
     <message>
-        <location filename="../src/accountreg.ui" line="+13"/>
+        <location filename="../../psi-plus/src/accountreg.ui" line="+13"/>
         <source>Register Account</source>
         <translation type="unfinished">Registri Konton</translation>
     </message>
@@ -1385,11 +1011,7 @@ Kialo:
 <context>
     <name>AccountRegDlg</name>
     <message>
-        <source>Register Account</source>
-        <translation type="obsolete">Registru Konton</translation>
-    </message>
-    <message>
-        <location filename="../src/accountregdlg.cpp" line="+109"/>
+        <location filename="../../psi-plus/src/accountregdlg.cpp" line="+109"/>
         <source>Warning</source>
         <translation>Averto</translation>
     </message>
@@ -1414,14 +1036,6 @@ Kialo:
         <translation>SSL eraro</translation>
     </message>
     <message>
-        <source>SSL not supported.
-Reason:
-%1</source>
-        <translation type="obsolete">SSL ne estas subtenata.
-Kialo:
-%1</translation>
-    </message>
-    <message>
         <location line="-9"/>
         <location line="+72"/>
         <location line="+87"/>
@@ -1430,59 +1044,9 @@ Kialo:
         <translation>Eraro</translation>
     </message>
     <message>
-        <source>You must fill out the fields properly before you can register.</source>
-        <translation type="obsolete">Vi devas ĝuste plenigi la kampojn antaŭ ol vi povas registri.</translation>
-    </message>
-    <message>
-        <source>Password and confirmation do not match.  Please enter them again.</source>
-        <translation type="obsolete">La pasvorto kaj la komfirmo ne kongruas.  Bonvolu reenskribi ilin.</translation>
-    </message>
-    <message>
-        <source>Ignore</source>
-        <translation type="obsolete">Ignoru</translation>
-    </message>
-    <message>
-        <source>Disconnect</source>
-        <translation type="obsolete">Malkonektu</translation>
-    </message>
-    <message>
-        <source>There was an error communicating with the Jabber server:
-%1</source>
-        <translation type="obsolete">Estis eraro komuniki la Jabber-servilon:
-%1</translation>
-    </message>
-    <message>
-        <source>%1: Server Authentication</source>
-        <translation type="obsolete">%1: Servilo-Aŭtentikigo</translation>
-    </message>
-    <message>
-        <source>The %1 certificate failed the authenticity test.</source>
-        <translation type="obsolete">La %1 atesto malsukcesas en la testo de aŭtentikeco.</translation>
-    </message>
-    <message>
-        <source>Reason: %1</source>
-        <translation type="obsolete">Kialo: %1</translation>
-    </message>
-    <message>
-        <source>&amp;Details...</source>
-        <translation type="obsolete">&amp;Detaloj...</translation>
-    </message>
-    <message>
-        <source>Co&amp;ntinue</source>
-        <translation type="obsolete">&amp;Kontinuu</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="obsolete">Nul&amp;igu</translation>
-    </message>
-    <message>
         <location line="-8"/>
         <source>Success</source>
         <translation>Sukceso</translation>
-    </message>
-    <message>
-        <source>The account was registered successfully.</source>
-        <translation type="obsolete">La konto estis sukcese registrita.</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -1490,14 +1054,6 @@ Kialo:
 Reason: %1</source>
         <translation>Okazis eraro registrante la konton.
 Kialo: %1</translation>
-    </message>
-    <message>
-        <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation type="obsolete">Ne eblis aktivigi SSL/TLS.  Kromaĵo ne trovitas.</translation>
-    </message>
-    <message>
-        <source>&lt;i&gt;Jabber ID&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
-        <translation type="obsolete">La &lt;i&gt;Jabber ID&lt;/i&gt; devas esti skribita per la formo &lt;i&gt;uzanto@servilo&lt;/i&gt;.</translation>
     </message>
     <message>
         <location line="-236"/>
@@ -1550,86 +1106,15 @@ Kialo: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You have succesfully registered your account with Jabber ID &apos;%1&apos;</source>
-        <translation type="obsolete">Vi sukcese registris vian konton kun la Jabber-ID &apos;%1&apos;</translation>
-    </message>
-    <message>
         <location line="-160"/>
         <source>Cannot enable SSL/TLS. QCA2 Plugin not found.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>AccountRegUI</name>
-    <message>
-        <source>Form1</source>
-        <translation type="obsolete">Formularo1</translation>
-    </message>
-    <message>
-        <source>Account</source>
-        <translation type="obsolete">Konto</translation>
-    </message>
-    <message>
-        <source>Jabber ID:</source>
-        <translation type="obsolete">Jabber-ID-o:</translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="obsolete">Pasvorto:</translation>
-    </message>
-    <message>
-        <source>Confirm Password:</source>
-        <translation type="obsolete">Konfirmu Pasvorton:</translation>
-    </message>
-    <message>
-        <source>Proxy</source>
-        <translation type="obsolete">Prokura Kluzo</translation>
-    </message>
-    <message>
-        <source>proxychooser</source>
-        <translation type="obsolete">prokuraelektilo</translation>
-    </message>
-    <message>
-        <source>Advanced</source>
-        <translation type="obsolete">Sperta</translation>
-    </message>
-    <message>
-        <source>Use SSL encryption (to server)</source>
-        <translation type="obsolete">Uzu SSL-ĉifradon (al servilo)</translation>
-    </message>
-    <message>
-        <source>Manually Specify Server Host/Port:</source>
-        <translation type="obsolete">Mane Specifu Retnodon/Pordon de Servilo:</translation>
-    </message>
-    <message>
-        <source>Host:</source>
-        <translation type="obsolete">Retnodo:</translation>
-    </message>
-    <message>
-        <source>Port:</source>
-        <translation type="obsolete">Pordo:</translation>
-    </message>
-    <message>
-        <source>busywidget</source>
-        <translation type="obsolete">okupatafenestraĵo</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>&amp;Register</source>
-        <translation type="obsolete">&amp;Registri</translation>
-    </message>
-    <message>
-        <source>Register Account</source>
-        <translation type="obsolete">Registri Konton</translation>
-    </message>
-</context>
-<context>
     <name>AccountRemove</name>
     <message>
-        <location filename="../src/accountremove.ui" line="+14"/>
+        <location filename="../../psi-plus/src/accountremove.ui" line="+14"/>
         <location line="+6"/>
         <source>Remove Account</source>
         <translation type="unfinished">Forigi Konton</translation>
@@ -1649,27 +1134,11 @@ Kialo: %1</translation>
         <source>Password:</source>
         <translation type="unfinished">Pasvorto:</translation>
     </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>&amp;Remove</source>
-        <translation type="obsolete">For&amp;igi</translation>
-    </message>
-    <message>
-        <source>psi/remove</source>
-        <translation type="obsolete">psi/remove</translation>
-    </message>
 </context>
 <context>
     <name>AccountRemoveDlg</name>
     <message>
-        <source>Remove Account</source>
-        <translation type="obsolete">Forigu Konton</translation>
-    </message>
-    <message>
-        <location filename="../src/accountmanagedlg.cpp" line="-263"/>
+        <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="-308"/>
         <location line="+74"/>
         <source>&amp;Remove</source>
         <translation type="unfinished">For&amp;igi</translation>
@@ -1712,50 +1181,6 @@ Kialo: %1</translation>
         <translation>Ĉu vi certas, ke vi volas forigi &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
-        <source>Ignore</source>
-        <translation type="obsolete">Ignoru</translation>
-    </message>
-    <message>
-        <source>Disconnect</source>
-        <translation type="obsolete">Malkonektu</translation>
-    </message>
-    <message>
-        <source>There was an error communicating with the Jabber server:
-%1</source>
-        <translation type="obsolete">Estis eraro komuniki la Jabber-servilon
-%1</translation>
-    </message>
-    <message>
-        <source>%1: Server Authentication</source>
-        <translation type="obsolete">%1: Servilo-Aŭtentikigo</translation>
-    </message>
-    <message>
-        <source>The %1 certificate failed the authenticity test.</source>
-        <translation type="obsolete">La %1 atesto malsukcesas en la testo de aŭtentikeco.</translation>
-    </message>
-    <message>
-        <source>Reason: %1</source>
-        <translation type="obsolete">Kialo: %1</translation>
-    </message>
-    <message>
-        <source>&amp;Details...</source>
-        <translation type="obsolete">&amp;Detaloj...</translation>
-    </message>
-    <message>
-        <source>Co&amp;ntinue</source>
-        <translation type="obsolete">&amp;Kontinuu</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="obsolete">Nul&amp;igu</translation>
-    </message>
-    <message>
-        <source>There was an error authenticating with the Jabber server.
-Details: %1</source>
-        <translation type="obsolete">Estis eraro aŭtentikigi kun la Jabber-servilo.
-Detaloj: %1</translation>
-    </message>
-    <message>
         <location line="+49"/>
         <location line="+15"/>
         <source>Success</source>
@@ -1776,53 +1201,106 @@ Kialo: %1</translation>
     </message>
 </context>
 <context>
-    <name>AccountRemoveUI</name>
+    <name>AccountStatusMenu</name>
     <message>
-        <source>Form1</source>
-        <translation type="obsolete">Formularo1</translation>
+        <location filename="../../psi-plus/src/accountstatusmenu.cpp" line="+12"/>
+        <source>Choose status...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Remove Account</source>
-        <translation type="obsolete">Forigi Konton</translation>
+        <location line="+0"/>
+        <source>Choose...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Remove account from Psi only.</source>
-        <translation type="obsolete">Forigi konton nur de Psi.</translation>
+        <location line="+13"/>
+        <source>Reconnect</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Remove account and try to unregister it from the server.</source>
-        <translation type="obsolete">Forigi konton kaj provi malregistri ĝin de la servilo.</translation>
+        <location line="+13"/>
+        <source>Ignore global actions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Password:</source>
-        <translation type="obsolete">Pasvorto:</translation>
+        <location line="+3"/>
+        <source>Ignore all global actions for this account. For example, autostatus, mood, activity etc.</source>
+        <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>ActionsList</name>
     <message>
-        <source>busywidget</source>
-        <translation type="obsolete">okupatafenestraĵo</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>&amp;Remove</source>
-        <translation type="obsolete">For&amp;igi</translation>
+        <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/actionslist.cpp" line="+35"/>
+        <source> Enable Off the Record Chat.
+When checked, the server will not
+save the history for this contact.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ActiveProfiles</name>
     <message>
-        <location filename="../src/activeprofiles_dbus.cpp" line="+230"/>
-        <location filename="../src/activeprofiles_win.cpp" line="+310"/>
+        <location filename="../../psi-plus/src/activeprofiles_dbus.cpp" line="+230"/>
+        <location filename="../../psi-plus/src/activeprofiles_win.cpp" line="+310"/>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
         <translation>Tiu psi profilo jam estas rulanta...&lt;br&gt;bonvolu atendi...</translation>
     </message>
 </context>
 <context>
+    <name>Activity</name>
+    <message>
+        <location filename="../../psi-plus/src/activity.ui" line="+13"/>
+        <source>User Activity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>General:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Specific:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Description:</source>
+        <translation type="unfinished">Priskribo:</translation>
+    </message>
+    <message>
+        <location line="+55"/>
+        <source>OK</source>
+        <translation type="unfinished">Bone</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ActivityDlg</name>
+    <message>
+        <location filename="../../psi-plus/src/activitydlg.cpp" line="+43"/>
+        <location line="+22"/>
+        <location line="+4"/>
+        <location line="+29"/>
+        <location line="+8"/>
+        <source>&lt;unset&gt;</source>
+        <translation type="unfinished">&lt;sendifina&gt;</translation>
+    </message>
+    <message>
+        <location line="-17"/>
+        <source>Other</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AddUrl</name>
     <message>
-        <location filename="../src/addurl.ui" line="+16"/>
+        <location filename="../../psi-plus/src/addurl.ui" line="+16"/>
         <source>Add URL</source>
         <translation type="unfinished">Aldoni URLon</translation>
     </message>
@@ -1853,48 +1331,11 @@ Kialo: %1</translation>
     </message>
 </context>
 <context>
-    <name>AddUrlUI</name>
-    <message>
-        <source>Add URL</source>
-        <translation type="obsolete">Aldonu URL-on</translation>
-    </message>
-    <message>
-        <source>URL:</source>
-        <translation type="obsolete">URL:</translation>
-    </message>
-    <message>
-        <source>Description:</source>
-        <translation type="obsolete">Priskribo:</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="obsolete">&amp;Bone</translation>
-    </message>
-</context>
-<context>
     <name>AddUser</name>
     <message>
-        <source>Add User</source>
-        <translation type="obsolete">Aldoni Uzanton</translation>
-    </message>
-    <message>
-        <location filename="../src/adduser.ui" line="+14"/>
+        <location filename="../../psi-plus/src/adduser.ui" line="+14"/>
         <source>Add Contact</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;To add a &lt;b&gt;Jabber&lt;/b&gt; user, simply fill out the Jabber ID (and optional nickname and group) at the bottom and press &lt;i&gt;Add&lt;/i&gt;.&lt;br&gt;
-&lt;br&gt;
-To add a contact from a &lt;b&gt;non-Jabber&lt;/b&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top.  Follow the instructions in the &lt;i&gt;Service ID Translation&lt;/i&gt; box and press the &lt;i&gt;Get Jabber ID&lt;/i&gt; button to generate a Jabber ID for the contact.&lt;br&gt;
-&lt;/qt&gt;</source>
-        <translation type="obsolete">&lt;qt&gt;Por aldoni &lt;b&gt;Jabber-an&lt;/b&gt; uzanton, nur plenigu la Jabber-ID-on (kaj laŭdezire la kromnomon kaj grupon) sube kaj alklaku &lt;i&gt;Aldoni&lt;/i&gt;.&lt;br&gt;
-&lt;br&gt;
-Por aldoni kontaktulon de &lt;b&gt;ne-Jabber-a&lt;/b&gt; servo, certiĝu unue ke vi estas registrita ĉe tiu servo (vidu Malkovri servojn en la ĉefa menuo), kaj poste elektu la servon de la supra ujo.  Sekvu la instrukciojn en la ujo de &lt;i&gt;Traduko de ID&lt;/i&gt; kaj premu la butonon de &lt;i&gt;Atingi Jabber-ID-on&lt;/i&gt; por konstrui Jabber-ID-on por la kontaktulo.&lt;br&gt;
-&lt;/qt&gt;</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -1946,21 +1387,9 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Group</source>
-        <translation type="obsolete">Grupo</translation>
-    </message>
-    <message>
         <location line="-9"/>
         <source>Resolve</source>
         <translation type="unfinished">Trovi</translation>
-    </message>
-    <message>
-        <source>Nickname (optional)</source>
-        <translation type="obsolete">Kromnomo (nedeviga)</translation>
-    </message>
-    <message>
-        <source>Jabber ID</source>
-        <translation type="obsolete">Jabber-ID-o</translation>
     </message>
     <message>
         <location line="+32"/>
@@ -2001,11 +1430,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>AddUserDlg</name>
     <message>
-        <source>Add User</source>
-        <translation type="obsolete">Aldonu Uzanton</translation>
-    </message>
-    <message>
-        <location filename="../src/adduserdlg.cpp" line="+115"/>
+        <location filename="../../psi-plus/src/adduserdlg.cpp" line="+118"/>
         <location line="+64"/>
         <source>&lt;None&gt;</source>
         <translation>&lt;Neniu&gt;</translation>
@@ -2049,12 +1474,6 @@ Certiĝu ke vi enskribas tute ĝustan Jabber-ID-on.</translation>
         <translation>Eraro</translation>
     </message>
     <message>
-        <source>&lt;qt&gt;
-There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the Jabber ID manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aoluser@[Jabber ID of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[Jabber ID of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[Jabber ID of MSN Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation type="obsolete">&lt;qt&gt;
-Estis eraron akiri la Servo-ID-traduko-informon de &quot;%1&quot;.&lt;br&gt;Kialo: %2&lt;br&gt;&lt;br&gt;La servo eblas ne subteni tiun ĉi funkcion.  En tiu ĉi kazo vi bezonos mane enskribi la Jabber-ID-on de la kontaktulo kiu vi deziras aldoni.  Ekzemploj:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aoluser@[JabberID-o de AIM-Kluzo]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[JabberID-o de ICQ-Kluzo]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[JabberID-o de MSN-Kluzo]&lt;br&gt;&lt;/qt&gt;</translation>
-    </message>
-    <message>
         <location line="+0"/>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the Jabber ID manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aoluser@[Jabber ID of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[Jabber ID of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[Jabber ID of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[Jabber ID of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
@@ -2063,96 +1482,9 @@ Okazis eraro akirante la Servo-ID-traduk-informon de &quot;%1&quot;.&lt;br&gt;Ki
     </message>
 </context>
 <context>
-    <name>AddUserUI</name>
-    <message>
-        <source>Form1</source>
-        <translation type="obsolete">Formularo1</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;To add a &lt;b&gt;Jabber&lt;/b&gt; user, simply fill out the Jabber ID (and optional nickname and group) at the bottom and press &lt;i&gt;Add&lt;/i&gt;.&lt;br&gt;
-&lt;br&gt;
-To add a contact from a &lt;b&gt;non-Jabber&lt;/b&gt; service, make sure you are registered with the service first (see Manage Services from the main menu), and then select the service from the box at the top.  Follow the instructions in the &lt;i&gt;Service ID Translation&lt;/i&gt; box and press the &lt;i&gt;Get Jabber ID&lt;/i&gt; button to generate a Jabber ID for the contact.&lt;br&gt;
-&lt;/qt&gt;</source>
-        <translation type="obsolete">&lt;qt&gt;Por aldoni &lt;b&gt;Jabber&lt;/b&gt; uzanton, simple plenigu la Jabber-ID-on (kaj nedevigan kromnomon kaj grupon) je la fundo kaj klaku &lt;i&gt;Aldonu&lt;/i&gt;.&lt;br&gt;
-&lt;br&gt;
-Por aldoni kontaktulon de &lt;b&gt;ne-Jabber&lt;/b&gt; servo, certigu ke vi estas registrita kun la servo unue (rigardu Administri Servojn de la ĉefa menuo), kaj elektu la servon de la ujo je la supro.  Sekvu la instrukciojn en la &lt;i&gt;Servo-ID-Traduko&lt;/i&gt; ujo kaj klaku la &lt;i&gt;Akiru Jabber-ID-on&lt;/i&gt; butonon por fari Jabber-ID-on por la kontaktulo.&lt;br&gt;
-&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>Service:</source>
-        <translation type="obsolete">Servo:</translation>
-    </message>
-    <message>
-        <source>Jabber</source>
-        <translation type="obsolete">Jabber</translation>
-    </message>
-    <message>
-        <source>Service ID Translation</source>
-        <translation type="obsolete">Traduko de ID</translation>
-    </message>
-    <message>
-        <source>No description</source>
-        <translation type="obsolete">Sen priskribo</translation>
-    </message>
-    <message>
-        <source>Get Jabber ID</source>
-        <translation type="obsolete">Akiri Jabber-ID-on</translation>
-    </message>
-    <message>
-        <source>Group</source>
-        <translation type="obsolete">Grupo</translation>
-    </message>
-    <message>
-        <source>Nickname (optional)</source>
-        <translation type="obsolete">Kromnomo (nedeviga)</translation>
-    </message>
-    <message>
-        <source>Jabber ID</source>
-        <translation type="obsolete">Jabber-ID-o</translation>
-    </message>
-    <message>
-        <source>Request authorization when adding</source>
-        <translation type="obsolete">Peti rajtigon ĉe la aldono</translation>
-    </message>
-    <message>
-        <source>Close window after adding</source>
-        <translation type="obsolete">Fermi fenestron post la aldono</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="obsolete">&amp;Aldoni</translation>
-    </message>
-    <message>
-        <source>Add User</source>
-        <translation type="obsolete">Aldoni Uzanton</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;To add a &lt;b&gt;Jabber&lt;/b&gt; user, simply fill out the Jabber ID (and optional nickname and group) at the bottom and press &lt;i&gt;Add&lt;/i&gt;.&lt;br&gt;
-&lt;br&gt;
-To add a contact from a &lt;b&gt;non-Jabber&lt;/b&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top.  Follow the instructions in the &lt;i&gt;Service ID Translation&lt;/i&gt; box and press the &lt;i&gt;Get Jabber ID&lt;/i&gt; button to generate a Jabber ID for the contact.&lt;br&gt;
-&lt;/qt&gt;</source>
-        <translation type="obsolete">&lt;qt&gt;Por aldoni &lt;b&gt;Jabber-an&lt;/b&gt; uzanton, nur plenigu la Jabber-ID-on (kaj laŭdezire la kromnomon kaj grupon) sube kaj alklaku &lt;i&gt;Aldoni&lt;/i&gt;.&lt;br&gt;
-&lt;br&gt;
-Por aldoni kontaktulon de &lt;b&gt;ne-Jabber-a&lt;/b&gt; servo, certiĝu unue ke vi estas registrita ĉe tiu servo (vidu Malkovri servojn en la ĉefa menuo), kaj poste elektu la servon de la supra ujo.  Sekvu la instrukciojn en la ujo de &lt;i&gt;Traduko de ID&lt;/i&gt; kaj premu la butonon de &lt;i&gt;Atingi Jabber-ID-on&lt;/i&gt; por konstrui Jabber-ID-on por la kontaktulo.&lt;br&gt;
-&lt;/qt&gt;</translation>
-    </message>
-    <message>
-        <source>Resolve</source>
-        <translation type="obsolete">De ĵabbero</translation>
-    </message>
-</context>
-<context>
     <name>AttachView</name>
     <message>
-        <source>Attachments</source>
-        <translation type="obsolete">Kunsendaĵoj</translation>
-    </message>
-    <message>
-        <location filename="../src/eventdlg.cpp" line="+374"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="+374"/>
         <source>Go to &amp;URL...</source>
         <translation>Iri al &amp;URL...</translation>
     </message>
@@ -2173,21 +1505,60 @@ Por aldoni kontaktulon de &lt;b&gt;ne-Jabber-a&lt;/b&gt; servo, certiĝu unue ke
     </message>
 </context>
 <context>
+    <name>AttentionPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="+271"/>
+        <source> sends Attention message to you!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+139"/>
+        <location line="+82"/>
+        <source>Send Attention</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-69"/>
+        <source>Choose a sound file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Sound (*.wav)</source>
+        <translation type="unfinished">Sono (*.wav)</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <location line="+3"/>
+        <source>Attention Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>You sent Attention message to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+80"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to send and receive special messages such as Attentions.
+To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AuthEvent</name>
     <message>
-        <source>This user wants to subscribe to your presence.</source>
-        <translation type="obsolete">Tiu uzanto volas subskribi al via estanteco.</translation>
-    </message>
-    <message>
-        <source>You are now authorized.</source>
-        <translation type="obsolete">Vi nun estas rajtigita.</translation>
-    </message>
-    <message>
-        <source>Your authorization has been removed!</source>
-        <translation type="obsolete">Via permeso estis forigita!</translation>
-    </message>
-    <message>
-        <location filename="../src/psievent.cpp" line="+432"/>
+        <location filename="../../psi-plus/src/psievent.cpp" line="+475"/>
         <source>%1 wants to subscribe to your presence.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2203,9 +1574,138 @@ Por aldoni kontaktulon de &lt;b&gt;ne-Jabber-a&lt;/b&gt; servo, certiĝu unue ke
     </message>
 </context>
 <context>
+    <name>AutoReply</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="+462"/>
+        <source>Enable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Disable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Disable if chat window is active</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Disable if contact isn&apos;t from your roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Online</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Away</source>
+        <translation type="unfinished">For</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Dnd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>XA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Chat</source>
+        <translation type="unfinished">Babilo</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Invisible</source>
+        <translation type="unfinished">Nevidebla</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Enable if status is:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Auto Reply Message:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>for JIDs and conferences:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>You can also specify a part of JID
+(without any additional symbols)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Disable for your accounts (specify your JIDs):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Timeout to reset counter:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>min.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Send maximum</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>times (-1=infinite)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+195"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
+* set a text message for auto-answer
+* exclude specified jids, including conferences, from the objects for auto-answer (if a jid conference is set, the exception will include all private messages)
+* disable the auto-responder for some of your accounts
+* set the number of sent auto messages
+* set the time interval after which the number of auto messages counter will be reset
+* disable the auto-responder for the active tab
+* disable the auto-responder for contacts that are not in your roster
+The list of exceptions for jids has two operating modes:
+* auto-responder is switched off for the list of exceptions, for the others is switched on (Disable mode)
+* auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AvCallEvent</name>
     <message>
-        <location line="+290"/>
+        <location filename="../../psi-plus/src/psievent.cpp" line="+290"/>
         <source>The user is calling you.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2213,7 +1713,7 @@ Por aldoni kontaktulon de &lt;b&gt;ne-Jabber-a&lt;/b&gt; servo, certiĝu unue ke
 <context>
     <name>AvCallPrivate</name>
     <message>
-        <location filename="../src/avcall/avcall.cpp" line="+492"/>
+        <location filename="../../psi-plus/src/avcall/avcall.cpp" line="+497"/>
         <source>System error</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2233,7 +1733,7 @@ Por aldoni kontaktulon de &lt;b&gt;ne-Jabber-a&lt;/b&gt; servo, certiĝu unue ke
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+178"/>
+        <location line="+163"/>
         <source>An error occurred while trying to send:
 %1.</source>
         <translation type="unfinished"></translation>
@@ -2260,9 +1760,40 @@ Por aldoni kontaktulon de &lt;b&gt;ne-Jabber-a&lt;/b&gt; servo, certiĝu unue ke
     </message>
 </context>
 <context>
+    <name>AvatarDelegate</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/viewers.cpp" line="+136"/>
+        <source>Empty file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>AvatarView</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/common.cpp" line="+133"/>
+        <source>Avatar</source>
+        <translation type="unfinished">Avataro</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Save Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Save Avatar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BookmarkManage</name>
     <message>
-        <location filename="../src/bookmarkmanage.ui" line="+13"/>
+        <location filename="../../psi-plus/src/bookmarkmanage.ui" line="+13"/>
         <source>Manage Bookmarks</source>
         <translation type="unfinished">Administri la Legosignojn</translation>
     </message>
@@ -2291,11 +1822,31 @@ Por aldoni kontaktulon de &lt;b&gt;ne-Jabber-a&lt;/b&gt; servo, certiĝu unue ke
         <source>Auto-join</source>
         <translation type="unfinished">Aŭtomate aliĝi</translation>
     </message>
+    <message>
+        <location line="+38"/>
+        <source>Import bookmarks from file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>&amp;Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Export bookmarks to file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>&amp;Export</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>BookmarkManageDlg</name>
     <message>
-        <location filename="../src/bookmarkmanagedlg.cpp" line="+44"/>
+        <location filename="../../psi-plus/src/bookmarkmanagedlg.cpp" line="+58"/>
         <source>&amp;Add</source>
         <translation>&amp;Aldoni</translation>
     </message>
@@ -2314,134 +1865,26 @@ Por aldoni kontaktulon de &lt;b&gt;ne-Jabber-a&lt;/b&gt; servo, certiĝu unue ke
         <source>Unnamed</source>
         <translation>Sennoma</translation>
     </message>
-</context>
-<context>
-    <name>BrowserDlg::Private</name>
     <message>
-        <source>Browse</source>
-        <translation type="obsolete">Folumu</translation>
+        <location line="+95"/>
+        <source>Import bookmarks</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Browse</source>
-        <translation type="obsolete">&amp;Folumu</translation>
+        <location line="+27"/>
+        <source>Error!</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Refresh</source>
-        <translation type="obsolete">Reŝaltu</translation>
-    </message>
-    <message>
-        <source>&amp;Refresh</source>
-        <translation type="obsolete">&amp;Reŝaltu</translation>
-    </message>
-    <message>
-        <source>Stop</source>
-        <translation type="obsolete">Haltu</translation>
-    </message>
-    <message>
-        <source>Sto&amp;p</source>
-        <translation type="obsolete">&amp;Haltu</translation>
-    </message>
-    <message>
-        <source>Register</source>
-        <translation type="obsolete">Registru</translation>
-    </message>
-    <message>
-        <source>&amp;Register</source>
-        <translation type="obsolete">&amp;Registru</translation>
-    </message>
-    <message>
-        <source>Search</source>
-        <translation type="obsolete">Serĉu</translation>
-    </message>
-    <message>
-        <source>&amp;Search</source>
-        <translation type="obsolete">&amp;Serĉu</translation>
-    </message>
-    <message>
-        <source>Join</source>
-        <translation type="obsolete">Eniru</translation>
-    </message>
-    <message>
-        <source>&amp;Join</source>
-        <translation type="obsolete">&amp;Eniru</translation>
-    </message>
-    <message>
-        <source>Info</source>
-        <translation type="obsolete">Informo</translation>
-    </message>
-    <message>
-        <source>&amp;Info</source>
-        <translation type="obsolete">&amp;Informo</translation>
-    </message>
-    <message>
-        <source>Back</source>
-        <translation type="obsolete">Regresu</translation>
-    </message>
-    <message>
-        <source>&amp;Back</source>
-        <translation type="obsolete">&amp;Regresu</translation>
-    </message>
-    <message>
-        <source>Forward</source>
-        <translation type="obsolete">Antaŭen</translation>
-    </message>
-    <message>
-        <source>&amp;Forward</source>
-        <translation type="obsolete">&amp;Antaŭen</translation>
-    </message>
-</context>
-<context>
-    <name>BrowserItem</name>
-    <message>
-        <source>Error</source>
-        <translation type="obsolete">Eraro</translation>
-    </message>
-    <message>
-        <source>There was an error browsing the item.
-Reason: %1</source>
-        <translation type="obsolete">Eraro folumi la aferon.
-Kialo: %1</translation>
-    </message>
-</context>
-<context>
-    <name>BrowserUI</name>
-    <message>
-        <source>Browse Services</source>
-        <translation type="obsolete">Folumu Servojn</translation>
-    </message>
-    <message>
-        <source>&amp;Address:</source>
-        <translation type="obsolete">&amp;Adreso:</translation>
-    </message>
-    <message>
-        <source>&amp;Browse</source>
-        <translation type="obsolete">&amp;Folumu</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="obsolete">Nomo</translation>
-    </message>
-    <message>
-        <source>JID</source>
-        <translation type="obsolete">JID</translation>
-    </message>
-    <message>
-        <source>Auto-browse into objects</source>
-        <translation type="obsolete">Aŭtomate folumu en objekton</translation>
-    </message>
-    <message>
-        <source>busywidget</source>
-        <translation type="obsolete">okupatafenestraĵo</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermu</translation>
+        <location line="+7"/>
+        <source>Export bookmarks</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Call</name>
     <message>
-        <location filename="../src/avcall/call.ui" line="+13"/>
+        <location filename="../../psi-plus/src/avcall/call.ui" line="+13"/>
         <source>Dialog</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2479,12 +1922,12 @@ Kialo: %1</translation>
 <context>
     <name>CallDlg::Private</name>
     <message>
-        <location filename="../src/avcall/calldlg.cpp" line="+65"/>
+        <location filename="../../psi-plus/src/avcall/calldlg.cpp" line="+66"/>
         <source>Voice Call</source>
         <translation type="unfinished">Alvoko</translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="+8"/>
         <source>High (1Mbps)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2556,9 +1999,55 @@ Kialo: %1</translation>
     </message>
 </context>
 <context>
+    <name>CaptchaDialog</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/captchaformsplugin/captchadialog.ui" line="+14"/>
+        <source>CAPTCHA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Loading data...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+49"/>
+        <source>Original message</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CaptchaFormsPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/captchaformsplugin/captchaformsplugin.cpp" line="+216"/>
+        <source>Captcha Plugin: CAPTCHA from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+70"/>
+        <source>Error! Image can not be loaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+161"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>CertificateDisplay</name>
     <message>
-        <location filename="../src/Certificates/CertificateDisplay.ui" line="+14"/>
+        <location filename="../../psi-plus/src/Certificates/CertificateDisplay.ui" line="+14"/>
         <source>Certificate Information</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2591,7 +2080,7 @@ Kialo: %1</translation>
 <context>
     <name>CertificateDisplayDialog</name>
     <message>
-        <location filename="../src/Certificates/CertificateDisplayDialog.cpp" line="+43"/>
+        <location filename="../../psi-plus/src/Certificates/CertificateDisplayDialog.cpp" line="+43"/>
         <source>The certificate is valid.</source>
         <translation type="unfinished">La atesto estas valida.</translation>
     </message>
@@ -2664,7 +2153,7 @@ Kialo: %1</translation>
 <context>
     <name>ChangePassword</name>
     <message>
-        <location filename="../src/changepw.ui" line="+14"/>
+        <location filename="../../psi-plus/src/changepw.ui" line="+14"/>
         <source>Change Password</source>
         <translation type="unfinished">Ŝanĝi la Pasvorton</translation>
     </message>
@@ -2683,27 +2172,11 @@ Kialo: %1</translation>
         <source>New password:</source>
         <translation type="unfinished">Nova pasvorto:</translation>
     </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>&amp;Apply</source>
-        <translation type="obsolete">&amp;Apliki</translation>
-    </message>
-    <message>
-        <source>psi/register</source>
-        <translation type="obsolete">psi/register</translation>
-    </message>
 </context>
 <context>
     <name>ChangePasswordDlg</name>
     <message>
-        <source>Change Password</source>
-        <translation type="obsolete">Ŝanĝu Pasvorton</translation>
-    </message>
-    <message>
-        <location filename="../src/changepwdlg.cpp" line="+79"/>
+        <location filename="../../psi-plus/src/changepwdlg.cpp" line="+82"/>
         <location line="+5"/>
         <location line="+7"/>
         <location line="+41"/>
@@ -2744,74 +2217,27 @@ Kialo: %1</translation>
     </message>
 </context>
 <context>
-    <name>ChangePasswordUI</name>
-    <message>
-        <source>Form1</source>
-        <translation type="obsolete">Formularo1</translation>
-    </message>
-    <message>
-        <source>Confirm new password:</source>
-        <translation type="obsolete">Konfirmu la novan pasvorton:</translation>
-    </message>
-    <message>
-        <source>Current password:</source>
-        <translation type="obsolete">Nuntempa pasvorto:</translation>
-    </message>
-    <message>
-        <source>New password:</source>
-        <translation type="obsolete">Nova pasvorto:</translation>
-    </message>
-    <message>
-        <source>BusyWidget</source>
-        <translation type="obsolete">OkupataFenestraĵo</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>&amp;Apply</source>
-        <translation type="obsolete">&amp;Apliki</translation>
-    </message>
-    <message>
-        <source>Change Password</source>
-        <translation type="obsolete">Ŝanĝi Pasvorton</translation>
-    </message>
-</context>
-<context>
     <name>ChatDlg</name>
     <message>
-        <source>Clear chat window</source>
-        <translation type="obsolete">Viŝi babilofenestron</translation>
-    </message>
-    <message>
-        <location filename="../src/chatdlg.ui" line="+137"/>
+        <location filename="../../psi-plus/src/chatdlg.ui" line="+184"/>
         <source>Toggle encryption</source>
         <translation type="unfinished">Inversigi aktivecon de ĉifrado</translation>
     </message>
     <message>
-        <source>User info</source>
-        <translation type="obsolete">Informo de uzanto</translation>
-    </message>
-    <message>
-        <source>Message history</source>
-        <translation type="obsolete">Mesaĝo-historio</translation>
-    </message>
-    <message>
-        <location filename="../src/chatdlg.cpp" line="+235"/>
-        <location line="+422"/>
+        <location filename="../../psi-plus/src/chatdlg.cpp" line="+261"/>
+        <location line="+459"/>
         <source>Warning</source>
         <translation>Atentu</translation>
     </message>
     <message>
-        <location line="-421"/>
+        <location line="-458"/>
         <source>A new chat message was just received.
 Do you still want to close the window?</source>
         <translation>Nova babilo-mesaĝo ĵus riceviĝis.
 Ĉu vi ankoraŭ volas fermi la fenestron?</translation>
     </message>
     <message>
-        <location line="+424"/>
+        <location line="+461"/>
         <source>&amp;Yes</source>
         <translation>&amp;Jes</translation>
     </message>
@@ -2821,110 +2247,57 @@ Do you still want to close the window?</source>
         <translation>&amp;Ne</translation>
     </message>
     <message>
-        <location line="-207"/>
-        <source>%1 is %2</source>
-        <translation>%1 estas %2</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to clear the chat window?
-(note: does not affect saved history)</source>
-        <translation type="obsolete">Ĉu vi certas ke vi volas viŝi la babilo-fenestron?
-(noto: tio ĉi ne influas la konservitan historion)</translation>
-    </message>
-    <message>
-        <location line="+204"/>
+        <location line="-3"/>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
         <translation>&lt;p&gt;Ĉifrado estis lastatempe malŝaltita fare de la fora kontaktulo.  Ĉu vi estas certa ke vi volas sendi tiun ĉi mesaĝon sen ĉifrado?&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Error</source>
-        <translation type="obsolete">Eraro</translation>
-    </message>
-    <message>
-        <source>There was an error trying to send the message encrypted.
-Check your OpenPGP application/settings.</source>
-        <translation type="obsolete">Okazis eraro provante sendi la mesaĝon ĉifre.
-Kontrolu viajn OpenPGP-elektojn.</translation>
-    </message>
-    <message>
-        <location line="+139"/>
+        <location line="+167"/>
         <source>Encryption Enabled</source>
         <translation>Ĉifrado Aktiviĝis</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+1"/>
         <source>Encryption Disabled</source>
         <translation>Ĉifrado Malaktiviĝis</translation>
     </message>
     <message>
-        <source>%1 says:</source>
-        <translation type="obsolete">%1 diras:</translation>
-    </message>
-    <message>
-        <source>Subject:</source>
-        <translation type="obsolete">Temo:</translation>
-    </message>
-    <message>
-        <source>-- Attached URL(s) --</source>
-        <translation type="obsolete">-- enmetita(j) URL(oj) --</translation>
-    </message>
-    <message>
-        <source>URL:</source>
-        <translation type="obsolete">URL:</translation>
-    </message>
-    <message>
-        <source>Desc:</source>
-        <translation type="obsolete">Priskribo:</translation>
-    </message>
-    <message>
-        <location filename="../src/chatdlg.ui" line="-34"/>
+        <location filename="../../psi-plus/src/chatdlg.ui" line="-50"/>
         <source>Message length</source>
         <translation type="unfinished">Longeco de la mesaĝo</translation>
     </message>
     <message>
-        <location line="+50"/>
+        <location line="+66"/>
         <source>Select icon</source>
         <translation type="unfinished">Elekti piktogramon</translation>
     </message>
     <message>
-        <source>Send file</source>
-        <translation type="obsolete">Sendi dosieron</translation>
-    </message>
-    <message>
-        <source>Chat toolbar</source>
-        <translation type="obsolete">Ilobreto de babilo</translation>
-    </message>
-    <message>
-        <location filename="../src/chatdlg.cpp" line="-190"/>
+        <location filename="../../psi-plus/src/chatdlg.cpp" line="-223"/>
         <source>%1 (Composing ...)</source>
         <translation>%1 (Verkante ...)</translation>
     </message>
     <message>
-        <source>Toggle Compact/Full Size</source>
-        <translation type="obsolete">Inversigi Kompaktan/Plenan Grandecon</translation>
-    </message>
-    <message>
-        <location line="-373"/>
+        <location line="-400"/>
         <source>Close</source>
         <translation>Fermi</translation>
     </message>
     <message>
-        <location line="+376"/>
+        <location line="+403"/>
         <source>%1 (Inactive)</source>
         <translation>%1 (Neaktiva)</translation>
     </message>
     <message>
-        <location line="+336"/>
+        <location line="+374"/>
         <source>%1 ended the conversation</source>
         <translation>%1 finis la babiladon</translation>
     </message>
     <message>
-        <location filename="../src/chatdlg.ui" line="-140"/>
+        <location filename="../../psi-plus/src/chatdlg.ui" line="-187"/>
         <source>Form</source>
         <translation type="unfinished">Formularo</translation>
     </message>
     <message>
-        <location line="+99"/>
+        <location line="+130"/>
         <source>0</source>
         <translation type="unfinished">0</translation>
     </message>
@@ -2934,12 +2307,22 @@ Kontrolu viajn OpenPGP-elektojn.</translation>
         <translation type="unfinished">AccountLabel</translation>
     </message>
     <message>
-        <location line="+42"/>
+        <location line="+7"/>
+        <source>Voice Call</source>
+        <translation type="unfinished">Alvoko</translation>
+    </message>
+    <message>
+        <location line="+51"/>
         <source>Actions</source>
         <translation type="unfinished">Agoj</translation>
     </message>
     <message>
-        <location line="+129"/>
+        <location line="+136"/>
+        <source>Send</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+18"/>
         <source>Avatar</source>
         <translation type="unfinished">Avataro</translation>
     </message>
@@ -2947,22 +2330,630 @@ Kontrolu viajn OpenPGP-elektojn.</translation>
 <context>
     <name>ChatEdit</name>
     <message>
-        <location filename="../src/msgmle.cpp" line="+303"/>
+        <location filename="../../psi-plus/src/msgmle.cpp" line="+226"/>
+        <source>Paste As Quotation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+137"/>
         <source>Add to dictionary</source>
         <translation>Aldoni al vortaro</translation>
     </message>
 </context>
 <context>
+    <name>ChatView</name>
+    <message>
+        <location filename="../../psi-plus/src/chatview_te.cpp" line="+64"/>
+        <source>Quote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Ctrl+S</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+320"/>
+        <source>%1 says:</source>
+        <translation type="unfinished">%1 diras:</translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>Subject:</source>
+        <translation type="unfinished">Temo:</translation>
+    </message>
+    <message>
+        <location line="+19"/>
+        <source>URL:</source>
+        <translation type="unfinished">URL:</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Desc:</source>
+        <translation type="unfinished">Priskribo:</translation>
+    </message>
+</context>
+<context>
+    <name>ChatViewThemeProvider</name>
+    <message>
+        <location filename="../../psi-plus/src/chatviewthemeprovider.h" line="+44"/>
+        <source>Chat Message Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Configure your chat theme here</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ChessPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/chessplugin/chessplugin.cpp" line="+255"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+92"/>
+        <location line="+151"/>
+        <location line="+85"/>
+        <location line="+10"/>
+        <location line="+14"/>
+        <location line="+8"/>
+        <location line="+139"/>
+        <source>Chess Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-401"/>
+        <location line="+15"/>
+        <source>Chess!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <location line="+29"/>
+        <source>You are already playing!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+88"/>
+        <source>Your opponent has closed the board!
+ You can still save the game.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+38"/>
+        <source>The game was rejected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+47"/>
+        <source>You Lose.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>You Win!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Draw!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Unknown error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+37"/>
+        <source>Chess Plugin: Invitation from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+101"/>
+        <source>You are allready playing!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+55"/>
+        <source>Choose a sound file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Sound (*.wav)</source>
+        <translation type="unfinished">Sono (*.wav)</translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin allows you to play chess with your friends.
+The plugin is compatible with a similar plugin for Tkabber.
+For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ChessWindow</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/chessplugin/mainwindow.ui" line="+26"/>
+        <source>Chess Board</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Moves:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/chessplugin/mainwindow.cpp" line="+110"/>
+        <source>    White    Black
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+78"/>
+        <location line="+27"/>
+        <source>Load game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-26"/>
+        <location line="+58"/>
+        <source>Save game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-57"/>
+        <source>Quit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Resign</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Enable sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>File</source>
+        <translation type="unfinished">Dosiero</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <location line="+32"/>
+        <source>*.chs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-17"/>
+        <location line="+12"/>
+        <source>  White     Black
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CleanerMainWindow</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/cleaner.ui" line="+20"/>
+        <source>Psi+ Cleaner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>History</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>vCards</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Avatars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Filter:</source>
+        <translation type="unfinished">Filtrilo:</translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Select All Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Unselect All Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+35"/>
+        <source>0</source>
+        <translation type="unfinished">0</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source> files selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Delete selected files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Delete selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Close Psi Cleaner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Close</source>
+        <translation type="unfinished">Fermi</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/cleaner.cpp" line="+64"/>
+        <source>Choose &amp;Profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>&amp;Quit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Clear &amp;Juick Cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Clear &amp;Birthdays Cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>&amp;File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>&amp;Actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>History files: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>vCards: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Avatars: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+169"/>
+        <source>Clear History</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+10"/>
+        <location line="+10"/>
+        <location line="+73"/>
+        <location line="+25"/>
+        <source>Are You Sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-109"/>
+        <source>Clear vCards</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Clear Avatars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Clear Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Not supported yet!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+36"/>
+        <source>Choose profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Profile:</source>
+        <translation type="unfinished">Profilo:</translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <location line="+8"/>
+        <location line="+4"/>
+        <location line="+5"/>
+        <source>Clear Juick Cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-8"/>
+        <source>Juick Cache Successfully Cleared</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <location line="+25"/>
+        <source>Something wrong!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-20"/>
+        <location line="+25"/>
+        <source>Cache Not Found!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-18"/>
+        <source>Clear Birthdays Cach</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <location line="+4"/>
+        <location line="+5"/>
+        <source>Clear Birthdays Cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-8"/>
+        <source>Birthdays Cache Successfully Cleared</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CleanerPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/cleanerplugin.cpp" line="+85"/>
+        <source>Launch Cleaner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+51"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
+You can preview items before deleting them from your hard drive.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ClearingAvatarModel</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/models.cpp" line="+344"/>
+        <source>Avatar</source>
+        <translation type="unfinished">Avataro</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Size</source>
+        <translation type="unfinished">Grandeco</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Creation Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ClearingModel</name>
+    <message>
+        <location line="-124"/>
+        <source>Nick</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Domain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Size</source>
+        <translation type="unfinished">Grandeco</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Creation Date</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ClearingOptionsModel</name>
+    <message>
+        <location line="+172"/>
+        <source>Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Values</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ClearingTab</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/clearingtab.ui" line="+14"/>
+        <source>Form</source>
+        <translation type="unfinished">Formularo</translation>
+    </message>
+</context>
+<context>
+    <name>ClearingViewer</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/viewers.cpp" line="-71"/>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Uncheck</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Invert</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ClientSwitcherPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/clientswitcherplugin.cpp" line="+649"/>
+        <source>%1 has requested your version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>The plugin is intended for substitution of the client version, his name and operating system type.
+You can specify the version of the client and OS or to select them from the preset list.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ConferenceLogger</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="+163"/>
+        <source>You can find your logs here:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Logs:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>View Log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+140"/>
+        <source>Conference History</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to save conference logs in which the Psi+ user sits.
+Conferences logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with conference.
+
+Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ContactListAccountMenu::Private</name>
     <message>
-        <location filename="../src/contactlistaccountmenu.cpp" line="+69"/>
+        <location filename="../../psi-plus/src/contactlistaccountmenu.cpp" line="+83"/>
         <source>&amp;Status</source>
         <translation type="unfinished">&amp;Stato</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+7"/>
         <source>Mood</source>
         <translation type="unfinished">Humoro</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Activity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>GeoLocation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2976,8 +2967,18 @@ Kontrolu viajn OpenPGP-elektojn.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Manage...</source>
-        <translation type="unfinished">Administri...</translation>
+        <source>&amp;Contacts Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Manage Bookmarks</source>
+        <translation type="unfinished">Administri la Legosignojn</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Join Groupchat</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2992,6 +2993,11 @@ Kontrolu viajn OpenPGP-elektojn.</translation>
     <message>
         <location line="+3"/>
         <source>New &amp;Blank Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Privacy Lists</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3030,22 +3036,27 @@ Kontrolu viajn OpenPGP-elektojn.</translation>
         <translation type="unfinished">Forviŝi MDLT-on</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+7"/>
         <source>Avatar</source>
         <translation type="unfinished">Avataro</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Bookmarks</source>
-        <translation type="unfinished">Legosignoj</translation>
+        <source>Groupchat</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+16"/>
+        <source>Plugins</source>
+        <translation type="unfinished">Kromaĵoj</translation>
+    </message>
+    <message>
+        <location line="+4"/>
         <source>&amp;Admin</source>
         <translation type="unfinished">&amp;Administri</translation>
     </message>
     <message>
-        <location line="+37"/>
+        <location line="+43"/>
         <source>Join %1</source>
         <translation type="unfinished">Aliĝi al %1</translation>
     </message>
@@ -3053,9 +3064,29 @@ Kontrolu viajn OpenPGP-elektojn.</translation>
 <context>
     <name>ContactListGroupMenu::Private</name>
     <message>
-        <location filename="../src/contactlistgroupmenu.cpp" line="+57"/>
+        <location filename="../../psi-plus/src/contactlistgroupmenu.cpp" line="+70"/>
         <source>Re&amp;name</source>
         <translation type="unfinished">Re&amp;nomi</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Resend Authorization to Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Request Authorization from Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Remove Authorization from Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Send Status to Group</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3082,11 +3113,36 @@ Kontrolu viajn OpenPGP-elektojn.</translation>
         <source>&amp;Add group...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location line="+4"/>
+        <source>Hide All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Show All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Leave All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Hidden</source>
+        <translation type="unfinished">Kaŝita</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Authorization</source>
+        <translation type="unfinished">Rajtigo</translation>
+    </message>
 </context>
 <context>
     <name>ContactListModel</name>
     <message>
-        <location filename="../src/contactlistmodel.cpp" line="+582"/>
+        <location filename="../../psi-plus/src/contactlistmodel.cpp" line="+642"/>
         <source>Error</source>
         <translation type="unfinished">Eraro</translation>
     </message>
@@ -3099,7 +3155,7 @@ Kontrolu viajn OpenPGP-elektojn.</translation>
 <context>
     <name>ContactListSpecialGroup</name>
     <message>
-        <location filename="../src/contactlistspecialgroup.cpp" line="+34"/>
+        <location filename="../../psi-plus/src/contactlistspecialgroup.cpp" line="+34"/>
         <source>General</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3118,11 +3174,16 @@ Kontrolu viajn OpenPGP-elektojn.</translation>
         <source>Private messages</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location line="+4"/>
+        <source>Conferences</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ContactListUtil</name>
     <message>
-        <location filename="../src/contactlistutil.cpp" line="+55"/>
+        <location filename="../../psi-plus/src/contactlistutil.cpp" line="+55"/>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3204,10 +3265,213 @@ Kontrolu viajn OpenPGP-elektojn.</translation>
     </message>
 </context>
 <context>
+    <name>ContactManagerDlg</name>
+    <message>
+        <location filename="../../psi-plus/src/contactmanager/contactmanagerdlg.ui" line="+20"/>
+        <location filename="../../psi-plus/src/contactmanager/contactmanagerdlg.cpp" line="+46"/>
+        <source>Contacts Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+21"/>
+        <source>Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+46"/>
+        <source>Action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Execute</source>
+        <translation type="unfinished">Ruli</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/contactmanager/contactmanagerdlg.cpp" line="+8"/>
+        <source>Message</source>
+        <translation type="unfinished">Mesaĝo</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Remove</source>
+        <translation type="unfinished">Forigi</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Auth request</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Auth grant</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Change domain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Resolve nicks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Move to group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Simple</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>RegExp</source>
+        <translation type="unfinished">RegEsp</translation>
+    </message>
+    <message>
+        <location line="+51"/>
+        <source>Removal confirmation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Are you sure want to delete selected contacts?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+47"/>
+        <location line="+37"/>
+        <source>Invalid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-37"/>
+        <source>This action is not supported atm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+37"/>
+        <source>Please fill parameter field with new domain name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <location line="+29"/>
+        <source>Roster file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-10"/>
+        <source>Save error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Can&apos;t open file %1 for writing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <location line="+5"/>
+        <source>Open error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-5"/>
+        <source>Can&apos;t open file %1 for reading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>File %1 is not xml file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Nothing to do..</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>No contacts found in file %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Confirm contacts importing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Do you really want to import these contacts?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ContactManagerModel</name>
+    <message>
+        <location filename="../../psi-plus/src/contactmanager/contactmanagermodel.cpp" line="+34"/>
+        <source>Nick</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Node</source>
+        <translation type="unfinished">Nodo</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Domain</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Subscription</source>
+        <translation type="unfinished">Abono</translation>
+    </message>
+</context>
+<context>
+    <name>ContactManagerView</name>
+    <message>
+        <location filename="../../psi-plus/src/contactmanager/contactmanagerview.cpp" line="+49"/>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Uncheck</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Invert</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ContactProfile</name>
     <message>
-        <location filename="../src/contactview.cpp" line="+262"/>
-        <location filename="../src/psi_profiles.cpp" line="+398"/>
+        <location filename="../../psi-plus/src/contactview.cpp" line="+262"/>
+        <location filename="../../psi-plus/src/psi_profiles.cpp" line="+430"/>
         <source>General</source>
         <translation>Ĝenerala</translation>
     </message>
@@ -3218,7 +3482,7 @@ Kontrolu viajn OpenPGP-elektojn.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <location filename="../src/psi_profiles.cpp" line="+1"/>
+        <location filename="../../psi-plus/src/psi_profiles.cpp" line="+1"/>
         <source>Agents/Transports</source>
         <translation>Agentoj/Kluzoj</translation>
     </message>
@@ -3231,10 +3495,6 @@ Kontrolu viajn OpenPGP-elektojn.</translation>
         <location line="+661"/>
         <source>Online Users</source>
         <translation>Enretaj Uzantoj</translation>
-    </message>
-    <message>
-        <source>Send server message</source>
-        <translation type="obsolete">Sendi servilan mesaĝon</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3252,28 +3512,12 @@ Kontrolu viajn OpenPGP-elektojn.</translation>
         <translation>Forviŝi MDLT-on</translation>
     </message>
     <message>
-        <source>Modify Account...</source>
-        <translation type="obsolete">Modifu Konton...</translation>
-    </message>
-    <message>
-        <location line="+58"/>
+        <location line="+61"/>
         <source>&amp;Admin</source>
         <translation>&amp;Administri</translation>
     </message>
     <message>
-        <source>Send message to group</source>
-        <translation type="obsolete">Sendi mesaĝon al grupo</translation>
-    </message>
-    <message>
-        <source>Remove group</source>
-        <translation type="obsolete">Forigi grupon</translation>
-    </message>
-    <message>
-        <source>Remove group and contacts</source>
-        <translation type="obsolete">Forigi grupon kaj kontaktulojn</translation>
-    </message>
-    <message>
-        <location line="+91"/>
+        <location line="+94"/>
         <source>Hide</source>
         <translation>Kaŝi</translation>
     </message>
@@ -3324,37 +3568,9 @@ Proceed?</source>
 Ĉu efektivigi?</translation>
     </message>
     <message>
-        <source>Add/Authorize to contact list</source>
-        <translation type="obsolete">Aldoni/Rajtigi al kontaktolisto</translation>
-    </message>
-    <message>
-        <source>[blank]</source>
-        <translation type="obsolete">[nenio]</translation>
-    </message>
-    <message>
-        <source>Send message to</source>
-        <translation type="obsolete">Sendi mesaĝon al</translation>
-    </message>
-    <message>
-        <source>Open chat to</source>
-        <translation type="obsolete">Lanĉi babilon al</translation>
-    </message>
-    <message>
-        <source>Active chats</source>
-        <translation type="obsolete">Aktivaj babiladoj</translation>
-    </message>
-    <message>
-        <source>Invite to</source>
-        <translation type="obsolete">Inviti al</translation>
-    </message>
-    <message>
         <location line="+204"/>
         <source>&amp;None</source>
         <translation>&amp;Neniu</translation>
-    </message>
-    <message>
-        <source>&amp;Create new...</source>
-        <translation type="obsolete">&amp;Krei novan...</translation>
     </message>
     <message>
         <location line="+30"/>
@@ -3362,45 +3578,9 @@ Proceed?</source>
         <translation>&amp;Grupo</translation>
     </message>
     <message>
-        <source>Log off</source>
-        <translation type="obsolete">Malsalutiĝi</translation>
-    </message>
-    <message>
-        <source>Resend authorization to</source>
-        <translation type="obsolete">Resendi rajtigilon al</translation>
-    </message>
-    <message>
-        <source>Rerequest authorization from</source>
-        <translation type="obsolete">Repeti rajtigilon de</translation>
-    </message>
-    <message>
-        <source>Remove authorization from</source>
-        <translation type="obsolete">Forigi rajtigilon de</translation>
-    </message>
-    <message>
         <location line="+28"/>
         <source>Authorization</source>
         <translation>Rajtigo</translation>
-    </message>
-    <message>
-        <source>Assign Open&amp;PGP key</source>
-        <translation type="obsolete">Asigni Open&amp;PGP-ŝlosilon</translation>
-    </message>
-    <message>
-        <source>Unassign Open&amp;PGP key</source>
-        <translation type="obsolete">Malasigni Open&amp;PGP-ŝlosilon</translation>
-    </message>
-    <message>
-        <source>Check &amp;Status</source>
-        <translation type="obsolete">Kontroli &amp;Staton</translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation type="obsolete">&amp;Informo de la uzanto</translation>
-    </message>
-    <message>
-        <source>Link Test</source>
-        <translation type="obsolete">Liga Testo</translation>
     </message>
     <message>
         <location line="+74"/>
@@ -3417,10 +3597,6 @@ Proceed?</source>
         <location line="+16"/>
         <source>Create New Group</source>
         <translation>Krei Novan Grupon</translation>
-    </message>
-    <message>
-        <source>Enter the new Group name:</source>
-        <translation type="obsolete">Enskribu la novan Grupo-nomon:</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -3471,30 +3647,14 @@ Proceed?</source>
         <translation>Eraro</translation>
     </message>
     <message>
-        <source>You can&apos;t set a blank name.</source>
-        <translation type="obsolete">Vi ne povas doni malplenan nomon.</translation>
-    </message>
-    <message>
-        <source>You can&apos;t set a blank group name.</source>
-        <translation type="obsolete">Vi ne povas doni malplenan grupan nomon.</translation>
-    </message>
-    <message>
         <location line="+0"/>
         <source>You already have a group with that name.</source>
         <translation>Vi jam havas grupon kun tiu nomo.</translation>
     </message>
     <message>
-        <location line="-813"/>
+        <location line="-816"/>
         <source>Service &amp;Discovery</source>
         <translation>Malkovri &amp;Servojn</translation>
-    </message>
-    <message>
-        <source>New &amp;blank message</source>
-        <translation type="obsolete">Nova &amp;maplena mesaĝo</translation>
-    </message>
-    <message>
-        <source>&amp;Add a contact</source>
-        <translation type="obsolete">&amp;Aldoni kontaktulon</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -3502,30 +3662,22 @@ Proceed?</source>
         <translation>&amp;XML Konzolo</translation>
     </message>
     <message>
-        <location line="-34"/>
+        <location line="-37"/>
         <source>&amp;Status</source>
         <translation>&amp;Stato</translation>
     </message>
     <message>
-        <source>A&amp;ctions</source>
-        <translation type="obsolete">A&amp;goj</translation>
-    </message>
-    <message>
-        <location line="+36"/>
+        <location line="+39"/>
         <source>&amp;Modify Account...</source>
         <translation>&amp;Modifi Konton...</translation>
     </message>
     <message>
-        <source>Send &amp;file</source>
-        <translation type="obsolete">Sendi &amp;dosieron</translation>
-    </message>
-    <message>
-        <location line="-34"/>
+        <location line="-37"/>
         <source>Mood</source>
         <translation>Humoro</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+7"/>
         <source>Set Avatar</source>
         <translation>Difini Avataron</translation>
     </message>
@@ -3555,15 +3707,7 @@ Proceed?</source>
         <translation>Legosignoj</translation>
     </message>
     <message>
-        <source>Open a whiteboard to</source>
-        <translation type="obsolete">Malfermi blankan tabulon al</translation>
-    </message>
-    <message>
-        <source>E&amp;xecute command</source>
-        <translation type="obsolete">R&amp;uli komandon</translation>
-    </message>
-    <message>
-        <location line="+285"/>
+        <location line="+288"/>
         <source>Voice Call</source>
         <translation>Alvoko</translation>
     </message>
@@ -3573,12 +3717,17 @@ Proceed?</source>
         <translation>&amp;Bildo</translation>
     </message>
     <message>
-        <location line="-471"/>
+        <location line="-477"/>
         <source>Send Server Message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+51"/>
+        <location line="+27"/>
+        <source>Activity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+27"/>
         <source>&amp;Add a Contact</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3588,7 +3737,7 @@ Proceed?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+80"/>
+        <location line="+83"/>
         <source>Send Message to Group</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3686,17 +3835,9 @@ Proceed?</source>
 <context>
     <name>ContactView</name>
     <message>
-        <source>Send &amp;message</source>
-        <translation type="obsolete">Sendi &amp;mesaĝon</translation>
-    </message>
-    <message>
         <location line="+257"/>
         <source>Re&amp;name</source>
         <translation>Re&amp;nomi</translation>
-    </message>
-    <message>
-        <source>Open &amp;chat window</source>
-        <translation type="obsolete">Malfermi &amp;babiladan fenestron</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -3707,10 +3848,6 @@ Proceed?</source>
         <location line="+2"/>
         <source>&amp;Log on</source>
         <translation>&amp;Ensaluti</translation>
-    </message>
-    <message>
-        <source>&amp;Receive incoming event</source>
-        <translation type="obsolete">&amp;Ricevi envenantan eventon</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -3738,17 +3875,9 @@ Proceed?</source>
         <translation>&amp;Forigi Propran Bildon</translation>
     </message>
     <message>
-        <source>Open a &amp;whiteboard</source>
-        <translation type="obsolete">Malfermi &amp;blankan tabulon</translation>
-    </message>
-    <message>
         <location line="+16"/>
         <source>User &amp;Info</source>
         <translation>Uzanta &amp;Informo</translation>
-    </message>
-    <message>
-        <source>Choose an image</source>
-        <translation type="obsolete">Elektu bildon</translation>
     </message>
     <message>
         <location line="+481"/>
@@ -3782,9 +3911,27 @@ Proceed?</source>
     </message>
 </context>
 <context>
+    <name>ContentDownloader</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/contentdownloaderplugin/contentdownloader.cpp" line="+126"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>e-mail: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi+.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Disco</name>
     <message>
-        <location filename="../src/disco.ui" line="+16"/>
+        <location filename="../../psi-plus/src/disco.ui" line="+16"/>
         <source>Service Discovery</source>
         <translation type="unfinished">Serva Malkovrilo</translation>
     </message>
@@ -3810,6 +3957,11 @@ Proceed?</source>
         <translation type="unfinished">&amp;Foliumi</translation>
     </message>
     <message>
+        <location line="+14"/>
+        <source>Filter by JID:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location line="+12"/>
         <source>Auto-browse into objects</source>
         <translation type="unfinished">Aŭtomate foliumi en la objektoj</translation>
@@ -3828,7 +3980,7 @@ Proceed?</source>
 <context>
     <name>DiscoDlg::Private</name>
     <message>
-        <location filename="../src/discodlg.cpp" line="+972"/>
+        <location filename="../../psi-plus/src/discodlg.cpp" line="+1008"/>
         <source>Auto</source>
         <translation>Aŭtomatike</translation>
     </message>
@@ -3914,6 +4066,16 @@ Proceed?</source>
     </message>
     <message>
         <location line="+3"/>
+        <source>Unregister</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>&amp;Unregister</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
         <source>Search</source>
         <translation>Serĉi</translation>
     </message>
@@ -3963,7 +4125,17 @@ Proceed?</source>
         <translation>&amp;Ruli komandon</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+9"/>
+        <source>Query version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>&amp;Query version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
         <source>Service Discovery toolbar</source>
         <translation>Serva Malkrovrilobreto</translation>
     </message>
@@ -3971,7 +4143,7 @@ Proceed?</source>
 <context>
     <name>DiscoListItem</name>
     <message>
-        <location line="-584"/>
+        <location line="-626"/>
         <location line="+62"/>
         <location line="+64"/>
         <location line="+134"/>
@@ -3979,33 +4151,9 @@ Proceed?</source>
         <translation>Eraro</translation>
     </message>
     <message>
-        <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.
-Reason: %2</source>
-        <translation type="obsolete">Okazis eraro akirante elementojn por &lt;b&gt;%1&lt;/b&gt;.
-Kialo: %2</translation>
-    </message>
-    <message>
-        <source>There was an error browsing items for &lt;b&gt;%1&lt;/b&gt;.
-Reason: %2</source>
-        <translation type="obsolete">Okazis eraro trarigardante la elementon por &lt;b&gt;%1&lt;/b&gt;
-Kialo: %2</translation>
-    </message>
-    <message>
         <location line="-159"/>
         <source>Jabber Service</source>
         <translation>Jabber-a Servo</translation>
-    </message>
-    <message>
-        <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.
-Reason: %2</source>
-        <translation type="obsolete">Okazis eraro akirante agentojn por &lt;b&gt;%1&lt;/b&gt;
-Kialo: %2</translation>
-    </message>
-    <message>
-        <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.
-Reason: %2</source>
-        <translation type="obsolete">Okazis eraro akirante informon de elemento por &lt;b&gt;%1&lt;/b&gt;.
-Kialo: %2</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -4031,7 +4179,7 @@ Kialo: %2</translation>
 <context>
     <name>DiscoListView</name>
     <message>
-        <location line="+38"/>
+        <location line="+41"/>
         <source>Name</source>
         <translation>Nomo</translation>
     </message>
@@ -4073,52 +4221,9 @@ Kialo: %2</translation>
     </message>
 </context>
 <context>
-    <name>DiscoUI</name>
-    <message>
-        <source>Service Discovery</source>
-        <translation type="obsolete">Malkovri servojn</translation>
-    </message>
-    <message>
-        <source>&amp;Address:</source>
-        <translation type="obsolete">&amp;Adreso:</translation>
-    </message>
-    <message>
-        <source>&amp;Node:</source>
-        <translation type="obsolete">&amp;Nodo:</translation>
-    </message>
-    <message>
-        <source>&amp;Browse</source>
-        <translation type="obsolete">&amp;Trarigardi</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="obsolete">Nomo</translation>
-    </message>
-    <message>
-        <source>JID</source>
-        <translation type="obsolete">JID</translation>
-    </message>
-    <message>
-        <source>Node</source>
-        <translation type="obsolete">Nodo</translation>
-    </message>
-    <message>
-        <source>Auto-browse into objects</source>
-        <translation type="obsolete">Aŭtomate trarigardi en la objektojn</translation>
-    </message>
-    <message>
-        <source>Automatically get item information</source>
-        <translation type="obsolete">Aŭtomate akiri informon de elementoj</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
-    </message>
-</context>
-<context>
     <name>Drawer</name>
     <message>
-        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="+1651"/>
+        <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="+1651"/>
         <source>Error moving</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4151,7 +4256,7 @@ Kialo: %2</translation>
 <context>
     <name>EDBFlatFile::File</name>
     <message>
-        <location filename="../src/eventdb.cpp" line="+878"/>
+        <location filename="../../psi-plus/src/eventdb.cpp" line="+887"/>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
         <translation>&lt;big&gt;[Sistema Mesaĝo]&lt;/big&gt;&lt;br&gt;Vi nun estas rajtigita.</translation>
     </message>
@@ -4162,16 +4267,149 @@ Kialo: %2</translation>
     </message>
 </context>
 <context>
-    <name>ELineEdit</name>
+    <name>EditItemDlg</name>
     <message>
-        <source>Recipient Default</source>
-        <translation type="obsolete">Antaŭsupozita Ricevanto</translation>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/edititemdlg.ui" line="+14"/>
+        <source>Watch For...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>JID*</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Text**</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>*Regular expressions can be used</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>**List of words can be used.
+  Each word can use regular expression</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Use for</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Chats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Groupchats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Always play sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Sound:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/edititemdlg.cpp" line="+66"/>
+        <source>Choose a sound file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Sound (*.wav)</source>
+        <translation type="unfinished">Sono (*.wav)</translation>
+    </message>
+</context>
+<context>
+    <name>EditNote</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/storagenotesplugin/editnote.ui" line="+14"/>
+        <source>Edit Note</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Title:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Tags:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>EditServerDlg</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/editserverdlg.ui" line="+20"/>
+        <source>Server Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Name:</source>
+        <translation type="unfinished">Nomo:</translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Url:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>User Name*:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Password*:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>PostData**:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>File Input**:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>RegExp**:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>*for FTP servers only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>**for HTTP servers only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Use proxy server</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EventDlg</name>
     <message>
-        <location filename="../src/eventdlg.cpp" line="+320"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="+320"/>
         <source>Identity:</source>
         <translation>Identeco:</translation>
     </message>
@@ -4207,12 +4445,12 @@ Kialo: %2</translation>
     </message>
     <message>
         <location line="+84"/>
-        <location line="+1039"/>
+        <location line="+1041"/>
         <source>Subject:</source>
         <translation>Temo:</translation>
     </message>
     <message>
-        <location line="-1074"/>
+        <location line="-1076"/>
         <source>Toggle encryption</source>
         <translation>Inversigi aktivecon de ĉifrado</translation>
     </message>
@@ -4223,13 +4461,13 @@ Kialo: %2</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location line="+1124"/>
+        <location line="+1126"/>
         <location line="+13"/>
         <source>&amp;Next</source>
         <translation>&amp;Venonta</translation>
     </message>
     <message>
-        <location line="-1131"/>
+        <location line="-1133"/>
         <source>&amp;Quote</source>
         <translation>&amp;Citi</translation>
     </message>
@@ -4260,7 +4498,7 @@ Kialo: %2</translation>
         <translation>Sendi mesaĝon</translation>
     </message>
     <message>
-        <location line="+119"/>
+        <location line="+121"/>
         <location line="+6"/>
         <location line="+135"/>
         <location line="+55"/>
@@ -4293,17 +4531,7 @@ Kialo: %2</translation>
         <translation>&lt;big&gt;[Sistema Mesaĝo]&lt;/big&gt;&lt;br&gt;Via rajtigo estas elprenita!</translation>
     </message>
     <message>
-        <source>Error</source>
-        <translation type="obsolete">Eraro</translation>
-    </message>
-    <message>
-        <source>There was an error trying to send the message encrypted.
-Check your OpenPGP application/settings.</source>
-        <translation type="obsolete">Okazis eraro provante sendi la mesaĝon ĉifritan.
-Kontrolu viajn OpenPGP-elektojn.</translation>
-    </message>
-    <message>
-        <location line="-1180"/>
+        <location line="-1182"/>
         <source>Select icon</source>
         <translation>Elekti piktogramon</translation>
     </message>
@@ -4353,7 +4581,7 @@ Kontrolu viajn OpenPGP-elektojn.</translation>
         <translation>&amp;Nuligi</translation>
     </message>
     <message>
-        <location line="+597"/>
+        <location line="+599"/>
         <source>Please type in a transaction identifier first.</source>
         <translation>Bonvolu enmeti unue transakcian identigilon.</translation>
     </message>
@@ -4428,73 +4656,674 @@ Se vi volas konfirmi tiun demandon, bonvolu doni transakcian identigilon kaj pre
 <context>
     <name>EventNotifierAction</name>
     <message>
-        <location filename="../src/mainwin_p.cpp" line="+566"/>
+        <location filename="../../psi-plus/src/mainwin_p.cpp" line="+565"/>
         <source>&lt;Event notifier&gt;</source>
         <translation></translation>
     </message>
 </context>
 <context>
-    <name>FancyPopup</name>
+    <name>ExtendedMenuPlugin</name>
     <message>
-        <source>Close</source>
-        <translation type="obsolete">Fermi</translation>
+        <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="+342"/>
+        <source>Ping %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Pong from %1 after %2 secs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <location line="+43"/>
+        <location line="+24"/>
+        <source>Feature not implemented</source>
+        <translation type="unfinished">Funkcio ne programita</translation>
+    </message>
+    <message>
+        <location line="-60"/>
+        <source>%1 Last Activity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>%1 Last Activity was %2 ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>%1 went offline %2 ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>%1 uptime is %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>%1 is online!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Unknown error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Service unavailable</source>
+        <translation type="unfinished">Servo ne disponebla</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>You are not authorized to retrieve Last Activity information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>%1 Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>%1 time is %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+46"/>
+        <location line="+24"/>
+        <source>Extended Actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Copy JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Copy Nick</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Copy Status Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Ping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Last Activity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Entity Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+92"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin adds several additional commands into contacts context menu.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ExtendedOptions</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="+256"/>
+        <location line="+360"/>
+        <source>Chat</source>
+        <translation type="unfinished">Babilo</translation>
+    </message>
+    <message>
+        <location line="-359"/>
+        <source>Conference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+75"/>
+        <location line="+283"/>
+        <source>Roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-357"/>
+        <source>Menu</source>
+        <translation type="unfinished">Menuo</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Look</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>CSS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Misc</source>
+        <translation type="unfinished">Diversaĵo</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Enable central toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Ask for confirmation before clearing chat window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Enable icons in chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Scaled message icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Show Avatar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Disable &quot;Paste and Send&quot; button</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Enable &quot;Says style&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hide &quot;Send&quot; button</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Avatar size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Default JID mode:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Automatically capitalize the first letter in a sentence</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Automatically scroll down the log when a message was sent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+46"/>
+        <source>Show status changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-45"/>
+        <source>Show status priority</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Chat window caption:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Default JID mode ignore list:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Show joins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show initial joins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show status with priority</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show roles and affiliations changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Enable autojoin for bookmarked conferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hide auto-join conferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Enable HTML rendering in MUC chat window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Automatically accept the default room configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Automatically accept the default room configuration when a new room is created</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Automatically open the configuration dialog when a new room is created</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Automatically open the configuration dialog when a new room is created.
+This option only has effect if accept-defaults is false.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Disable autojoin to folowing conferences:
+(specify JIDs)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>MUC leave status message:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Place MUC roster at left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Use slim group heading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+47"/>
+        <source>Show status icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-46"/>
+        <source>Show affiliation icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show client icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Show avatars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+40"/>
+        <source>Place avatars at left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-34"/>
+        <location line="+62"/>
+        <source>Sort style for contacts:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-58"/>
+        <source>Avatars size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Avatars radius:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Resolve nicks on contact add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Lockdown roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Contact name and status message in a row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>If contact does not have avatar, use default avatar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Place status icon over avatar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Automatically remove temporary contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Tooltips:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Show avatar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show last status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show PGP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show client version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show geolocation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+32"/>
+        <source>Show &quot;Admin&quot; option in account menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show &quot;Active Chats&quot; option in contact menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show &quot;Picture&quot; option in contact menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show &quot;Change Profile&quot; option in main menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show &quot;Chat&quot; option in status menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show &quot;Invisible&quot; option in status menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show &quot;XA&quot; option in status menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Enable single messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Popup border color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Link color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Mailto color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Moderators color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Participants color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Visitors color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>No Role color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>MUC roster coloring:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>ToolTip text color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>ToolTip background color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>ToolTip coloring:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Text color for &quot;composing&quot; events on tabs:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Text color for &quot;unread&quot; events on tabs:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Colors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>Popup</source>
+        <translation type="unfinished">Ŝprucaĵo</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Tooltip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Disable wheel scroll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Put tabs at bottom of chat window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show Close Button on tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show status icons on tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hide tab when close chat window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Allow closing inactive tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Action for mouse middle click on tabs:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Action for mouse double click on tabs:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Enable windows flashing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Enable &quot;Single Account&quot; mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Enable XML-console on login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+351"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to allow easy configuration of some advanced options in Psi+.
+This plugin gives you access to advanced application options, which do not have a graphical user interface.
+
+Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>
     <message>
-        <location filename="../src/widgets/fancypopup.cpp" line="+258"/>
+        <location filename="../../psi-plus/src/widgets/fancypopup.cpp" line="+216"/>
         <source>Close</source>
         <translation>Fermi</translation>
     </message>
 </context>
 <context>
-    <name>Features::FeatureName</name>
-    <message>
-        <source>ERROR: Incorrect usage of Features class</source>
-        <translation type="obsolete">ERARO: Nekorekta uzado de klaso Features</translation>
-    </message>
-    <message>
-        <source>None</source>
-        <translation type="obsolete">Neniu</translation>
-    </message>
-    <message>
-        <source>Register</source>
-        <translation type="obsolete">Registri</translation>
-    </message>
-    <message>
-        <source>Search</source>
-        <translation type="obsolete">Serĉi</translation>
-    </message>
-    <message>
-        <source>Groupchat</source>
-        <translation type="obsolete">Babilejo</translation>
-    </message>
-    <message>
-        <source>Gateway</source>
-        <translation type="obsolete">Kluzo</translation>
-    </message>
-    <message>
-        <source>Service Discovery</source>
-        <translation type="obsolete">Serva Malkovrilo</translation>
-    </message>
-    <message>
-        <source>VCard</source>
-        <translation type="obsolete">VCard</translation>
-    </message>
-    <message>
-        <source>Execute command</source>
-        <translation type="obsolete">Ruli komandon</translation>
-    </message>
-    <message>
-        <source>Add to roster</source>
-        <translation type="obsolete">Aldoni al kontaktolisto</translation>
-    </message>
-</context>
-<context>
     <name>FigureDialog</name>
     <message>
-        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="+17"/>
+        <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="+17"/>
         <source>What figure should I set?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4502,7 +5331,7 @@ Se vi volas konfirmi tiun demandon, bonvolu doni transakcian identigilon kaj pre
 <context>
     <name>FileEvent</name>
     <message>
-        <location filename="../src/psievent.cpp" line="-232"/>
+        <location filename="../../psi-plus/src/psievent.cpp" line="-232"/>
         <source>This user wants to send you a file.</source>
         <translation>Tiu uzanto volas sendi al vi dosieron.</translation>
     </message>
@@ -4510,7 +5339,7 @@ Se vi volas konfirmi tiun demandon, bonvolu doni transakcian identigilon kaj pre
 <context>
     <name>FileRequestDlg</name>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="+563"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="+563"/>
         <location line="+87"/>
         <source>Identity: </source>
         <translation>Identeco:</translation>
@@ -4613,10 +5442,6 @@ Se vi volas konfirmi tiun demandon, bonvolu doni transakcian identigilon kaj pre
         <translation>Eraro</translation>
     </message>
     <message>
-        <source>The file specified does not exist.</source>
-        <translation type="obsolete">La specifita dosiero ne ekzistas.</translation>
-    </message>
-    <message>
         <location line="-161"/>
         <source>The Jabber ID specified is not valid.  Correct this and try again.</source>
         <translation>La Jabber-ID-o specifita ne validas.  Korektu, kaj reprovu.</translation>
@@ -4641,10 +5466,6 @@ Se vi volas konfirmi tiun demandon, bonvolu doni transakcian identigilon kaj pre
         <location line="+15"/>
         <source>Save As</source>
         <translation>Konservi Kiel</translation>
-    </message>
-    <message>
-        <source>File already exists.  Overwrite?</source>
-        <translation type="obsolete">La dosiero jam ekzistas.  Ĉu superskribi?</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -4722,7 +5543,7 @@ atingeblas.  Se vi estas malantaŭ fajromuro, vi devos certiĝi
 <context>
     <name>FileTrans</name>
     <message>
-        <location filename="../src/filetrans.ui" line="+16"/>
+        <location filename="../../psi-plus/src/filetrans.ui" line="+16"/>
         <source>Form1</source>
         <translation type="unfinished">Formularo1</translation>
     </message>
@@ -4770,7 +5591,7 @@ atingeblas.  Se vi estas malantaŭ fajromuro, vi devos certiĝi
 <context>
     <name>FileTransDlg</name>
     <message>
-        <location filename="../src/filetransdlg.cpp" line="+392"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="+392"/>
         <source>N/A</source>
         <translation>N/D</translation>
     </message>
@@ -4893,48 +5714,9 @@ Reason: %3</source>
 Kialo: %3</translation>
     </message>
     <message>
-        <source>File I/O error</source>
-        <translation type="obsolete">Eraro de enigo/eligo en dosiero</translation>
-    </message>
-    <message>
         <location line="+72"/>
         <source>File I/O error (%1)</source>
         <translation>Eraro de enigo/eligo (%1)</translation>
-    </message>
-</context>
-<context>
-    <name>FileTransUI</name>
-    <message>
-        <source>Form1</source>
-        <translation type="obsolete">Formularo1</translation>
-    </message>
-    <message>
-        <source>accountlabel</source>
-        <translation type="obsolete">kontoetikedo</translation>
-    </message>
-    <message>
-        <source>To:</source>
-        <translation type="obsolete">Al:</translation>
-    </message>
-    <message>
-        <source>File:</source>
-        <translation type="obsolete">Dosiero:</translation>
-    </message>
-    <message>
-        <source>Size:</source>
-        <translation type="obsolete">Grandeco:</translation>
-    </message>
-    <message>
-        <source>Description:</source>
-        <translation type="obsolete">Priskribo:</translation>
-    </message>
-    <message>
-        <source>stop</source>
-        <translation type="obsolete">fino</translation>
-    </message>
-    <message>
-        <source>start</source>
-        <translation type="obsolete">komenco</translation>
     </message>
 </context>
 <context>
@@ -4957,10 +5739,6 @@ Kialo: %3</translation>
 </context>
 <context>
     <name>FileTransferHandler</name>
-    <message>
-        <source>Quering proxy...</source>
-        <translation type="obsolete">Demandante kluzon...</translation>
-    </message>
     <message>
         <location line="-1125"/>
         <source>Querying proxy...</source>
@@ -5025,7 +5803,7 @@ Kialo: %3</translation>
 <context>
     <name>FileUtil</name>
     <message>
-        <location filename="../src/fileutil.cpp" line="+69"/>
+        <location filename="../../psi-plus/src/fileutil.cpp" line="+69"/>
         <source>Error</source>
         <translation>Eraro</translation>
     </message>
@@ -5044,23 +5822,50 @@ Kialo: %3</translation>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Images (*.png *.xpm *.jpg *.PNG *.XPM *.JPG)</source>
-        <translation type="obsolete">Bildoj (*.png *.xpm *.jpg *.PNG *.XPM *.JPG)</translation>
-    </message>
 </context>
 <context>
     <name>FontLabel</name>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="+60"/>
+        <location filename="../../psi-plus/src/options/opt_appearance.cpp" line="+62"/>
         <source>%1 %2</source>
         <translation>%1 %2</translation>
     </message>
 </context>
 <context>
+    <name>Form</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/contentdownloaderplugin/form.ui" line="+20"/>
+        <source>Proxy Authentication Required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Load Content List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+80"/>
+        <source>Download and Install</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+54"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Frame</name>
+    <message>
+        <location filename="../../psi-plus/src/widgets/fancypopup.ui" line="+26"/>
+        <source>Frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GCFindDlg</name>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="+1861"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="+2282"/>
         <location line="+46"/>
         <source>Find</source>
         <translation>Trovi</translation>
@@ -5076,124 +5881,20 @@ Kialo: %3</translation>
         <translation>&amp;Fermi</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+2"/>
         <source>&amp;Find</source>
         <translation>&amp;Trovi</translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+24"/>
         <source>Search string &apos;%1&apos; not found.</source>
         <translation>Serĉoĉeno &apos;%1&apos; ne troviĝis.</translation>
     </message>
 </context>
 <context>
-    <name>GCJoinDlg</name>
-    <message>
-        <source>%1 on %2</source>
-        <translation type="obsolete">%1 ĉe %2</translation>
-    </message>
-    <message>
-        <source>Join Groupchat</source>
-        <translation type="obsolete">Eniru Babeiljon</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="obsolete">Atentu</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to cancel joining groupchat?</source>
-        <translation type="obsolete">Ĉu vi certas ke vi volas nuligi eniradon al babilejo?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="obsolete">&amp;Jes</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="obsolete">&amp;Ne</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="obsolete">Eraro</translation>
-    </message>
-    <message>
-        <source>You must fill out the fields in order to join.</source>
-        <translation type="obsolete">Vi devas plenigi la kampojn por eniri.</translation>
-    </message>
-    <message>
-        <source>You entered an invalid room.</source>
-        <translation type="obsolete">Vi eniris malvalidan babilejon.</translation>
-    </message>
-    <message>
-        <source>You are in or joining this room already!</source>
-        <translation type="obsolete">Vi jam estas ena aŭ eniranta ĉi tiun babilejon!</translation>
-    </message>
-    <message>
-        <source>Unable to join groupchat.
-Reason: %1</source>
-        <translation type="obsolete">Ne eblis eniri babilejon.
-Kialo: %1</translation>
-    </message>
-    <message>
-        <source>You entered an invalid room name.</source>
-        <translation type="obsolete">Vi skribis nevalidan nomon de babilejo.</translation>
-    </message>
-</context>
-<context>
-    <name>GCJoinUI</name>
-    <message>
-        <source>Form1</source>
-        <translation type="obsolete">Formularo1</translation>
-    </message>
-    <message>
-        <source>Identity:</source>
-        <translation type="obsolete">Identeco:</translation>
-    </message>
-    <message>
-        <source>ident</source>
-        <translation type="obsolete">ident</translation>
-    </message>
-    <message>
-        <source>Recent:</source>
-        <translation type="obsolete">Lastaj:</translation>
-    </message>
-    <message>
-        <source>Room information:</source>
-        <translation type="obsolete">Babileja informo:</translation>
-    </message>
-    <message>
-        <source>Host:</source>
-        <translation type="obsolete">Retnodo:</translation>
-    </message>
-    <message>
-        <source>Room:</source>
-        <translation type="obsolete">Babilejo:</translation>
-    </message>
-    <message>
-        <source>Nickname:</source>
-        <translation type="obsolete">Kromnomo:</translation>
-    </message>
-    <message>
-        <source>busywidget</source>
-        <translation type="obsolete">okupatafenestraĵo</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>&amp;Join</source>
-        <translation type="obsolete">&amp;Aliĝi</translation>
-    </message>
-    <message>
-        <source>Join Groupchat</source>
-        <translation type="obsolete">Aliĝi al Grupa Babilado</translation>
-    </message>
-</context>
-<context>
     <name>GCMainDlg</name>
     <message>
-        <location line="-1237"/>
+        <location line="-1596"/>
         <source>Find</source>
         <translation>Trovi</translation>
     </message>
@@ -5203,26 +5904,7 @@ Kialo: %1</translation>
         <translation>&amp;Trovi</translation>
     </message>
     <message>
-        <source>Topic:</source>
-        <translation type="obsolete">Temo:</translation>
-    </message>
-    <message>
-        <location line="+329"/>
-        <source>Set Groupchat Topic</source>
-        <translation>Ŝanĝi temon de la babilejo</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Enter a topic:</source>
-        <translation>Enskribu temon:</translation>
-    </message>
-    <message>
-        <location line="+426"/>
-        <source>has set the topic to: %1</source>
-        <translation>skribis la temon: %1</translation>
-    </message>
-    <message>
-        <location line="-346"/>
+        <location line="+572"/>
         <source>Disconnected.</source>
         <translation>Senkonektas.</translation>
     </message>
@@ -5237,21 +5919,32 @@ Kialo: %1</translation>
         <translation>Eraro: Vi jam estas ena aŭ enirantas ĉi tiun babilejon!</translation>
     </message>
     <message>
-        <source>Unable to join groupchat.  Reason: %1</source>
-        <translation type="obsolete">Ne eblis eniri babilejon.  Kialo: %1</translation>
-    </message>
-    <message>
-        <location line="+56"/>
+        <location line="+57"/>
         <source>Unexpected groupchat error: %1</source>
         <translation>Neantaŭvidita babileja eraro: %1</translation>
     </message>
     <message>
-        <location line="+305"/>
+        <location line="+302"/>
+        <source>The topic has been set to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source> has unset the topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source> has set the topic to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+64"/>
         <source>Connected.</source>
         <translation>Konektitas.</translation>
     </message>
     <message>
-        <location line="-453"/>
+        <location line="-519"/>
         <source>Warning</source>
         <translation>Atentu</translation>
     </message>
@@ -5263,19 +5956,7 @@ Kialo: %1</translation>
 (noto: ne influas konservitan historion)</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="obsolete">&amp;Jes</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="obsolete">&amp;Ne</translation>
-    </message>
-    <message>
-        <source>Clear chat window</source>
-        <translation type="obsolete">Viŝi babilofenestron</translation>
-    </message>
-    <message>
-        <location line="-337"/>
+        <location line="-512"/>
         <source>Configure Room</source>
         <translation>Agordi la Babilejon</translation>
     </message>
@@ -5285,19 +5966,7 @@ Kialo: %1</translation>
         <translation>A&amp;gordi la Babilejon</translation>
     </message>
     <message>
-        <source>Open a whiteboard</source>
-        <translation type="obsolete">Malfermi blankan tabulon</translation>
-    </message>
-    <message>
-        <source>Open a &amp;whiteboard</source>
-        <translation type="obsolete">Malfermi &amp;blankan tabulon</translation>
-    </message>
-    <message>
-        <source>Select icon</source>
-        <translation type="obsolete">Elekti piktogramon</translation>
-    </message>
-    <message>
-        <location line="+165"/>
+        <location line="+310"/>
         <source> by %1</source>
         <translation> de %1</translation>
     </message>
@@ -5309,16 +5978,12 @@ Reason: %1</source>
 Kialo: %1</translation>
     </message>
     <message>
-        <location line="+349"/>
+        <location line="+381"/>
         <source>Please choose a different nickname</source>
         <translation>Bonvolu elekti malsaman kromnomon</translation>
     </message>
     <message>
-        <source>An error occurred</source>
-        <translation type="obsolete">Eraro okazis</translation>
-    </message>
-    <message>
-        <location line="+26"/>
+        <location line="+37"/>
         <source>New room created</source>
         <translation>Nova babilejo kreiĝis</translation>
     </message>
@@ -5328,7 +5993,7 @@ Kialo: %1</translation>
         <translation>%1 aliĝis al la babilejo</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+4"/>
         <source>%3 has joined the room as %1 and %2</source>
         <translation>%3 aliĝis al la babilejo kiel %1kaj %2</translation>
     </message>
@@ -5339,24 +6004,18 @@ Kialo: %1</translation>
         <translation>%2 aliĝis al la babilejo kiel %1</translation>
     </message>
     <message>
-        <location line="+17"/>
+        <location line="+27"/>
         <source>%1 is now %2 and %3</source>
         <translation>%1 estas nun %2 kaj %3</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location line="+4"/>
-        <location line="+16"/>
+        <location line="+5"/>
         <source>%1 is now %2</source>
         <translation>%1 estas nun %2</translation>
     </message>
     <message>
-        <location line="-4"/>
-        <source>online</source>
-        <translation>enreta</translation>
-    </message>
-    <message>
-        <location line="+18"/>
+        <location line="+29"/>
         <source>This room has been destroyed.</source>
         <translation>Tiu babilejo estis malkonstruita.</translation>
     </message>
@@ -5364,10 +6023,6 @@ Kialo: %1</translation>
         <location line="+4"/>
         <source>Reason: %1</source>
         <translation>Kialo: %1</translation>
-    </message>
-    <message>
-        <source>Do you want to join the alternate venue &apos;%1&apos; ?</source>
-        <translation type="obsolete">Ĉu vi volas aliĝi al la alterna venado &apos;%1&apos;?</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -5421,7 +6076,17 @@ Kialo: %1</translation>
         <translation>%1 estis forĵetita</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="-875"/>
+        <source>Find toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Set Text Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+868"/>
         <location line="+8"/>
         <source>Removed</source>
         <translation>Forigita</translation>
@@ -5462,32 +6127,17 @@ Kialo: %1</translation>
         <translation>%1 foriris de la babilejo</translation>
     </message>
     <message>
-        <location line="+46"/>
-        <source>The topic has been set to: %1</source>
-        <translation>La temo fariĝis: %1</translation>
-    </message>
-    <message>
-        <location line="-260"/>
+        <location line="-234"/>
         <source>Unable to join groupchat.	Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-485"/>
+        <location line="-665"/>
         <source>Clear Chat Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+7"/>
-        <source>Open a Whiteboard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+0"/>
-        <source>Open a &amp;Whiteboard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+5"/>
+        <location line="+18"/>
         <source>Select Icon</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5502,17 +6152,52 @@ Kialo: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+218"/>
+        <location line="+8"/>
+        <source>Paste and Send</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Copy MUC JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+314"/>
+        <source>Edit bookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Add to bookmarks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+45"/>
         <source>Error: Cannot parse command: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+286"/>
+        <location line="+298"/>
         <source>An error occurred (errorcode: %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+110"/>
+        <location line="+65"/>
+        <source> and now is %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source> (Reason: %1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+34"/>
         <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5536,17 +6221,52 @@ Kialo: %1</translation>
         <source>You have been removed from the room by %1 because the room was made members only</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location line="+545"/>
+        <source>Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>&amp;Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>N&amp;ick:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>&amp;Auto join:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Bookmark conference</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
     <message>
-        <location line="-1052"/>
-        <location line="+56"/>
+        <location line="-1846"/>
+        <location line="+55"/>
         <source>new nick</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-36"/>
+        <location line="-32"/>
         <source>Command</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5554,24 +6274,12 @@ Kialo: %1</translation>
 <context>
     <name>GCUserView</name>
     <message>
-        <source>Send &amp;message</source>
-        <translation type="obsolete">Sendi &amp;mesaĝon</translation>
-    </message>
-    <message>
-        <source>Open &amp;chat window</source>
-        <translation type="obsolete">Malfermi &amp;babiladan fenestron</translation>
-    </message>
-    <message>
-        <source>Check &amp;Status</source>
-        <translation type="obsolete">Verifi &amp;Staton</translation>
-    </message>
-    <message>
-        <location filename="../src/gcuserview.cpp" line="+519"/>
+        <location filename="../../psi-plus/src/gcuserview.cpp" line="+719"/>
         <source>User &amp;Info</source>
         <translation>Malfermi &amp;babilan fenestron</translation>
     </message>
     <message>
-        <location line="-341"/>
+        <location line="-345"/>
         <source>Visitors</source>
         <translation>Vizitantoj</translation>
     </message>
@@ -5586,7 +6294,7 @@ Kialo: %1</translation>
         <translation>Kontrolantoj</translation>
     </message>
     <message>
-        <location line="+253"/>
+        <location line="+259"/>
         <location line="+16"/>
         <source>No reason</source>
         <translation type="unfinished"></translation>
@@ -5603,7 +6311,17 @@ Kialo: %1</translation>
         <translation>&amp;Forĵeti</translation>
     </message>
     <message>
-        <location line="+16"/>
+        <location line="-17"/>
+        <source>Voice Call</source>
+        <translation type="unfinished">Alvoko</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>E&amp;xecute Command</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
         <source>&amp;Ban</source>
         <translation>&amp;Forbari</translation>
     </message>
@@ -5623,11 +6341,32 @@ Kialo: %1</translation>
         <translation>Kontrolanto</translation>
     </message>
     <message>
-        <source>Change role</source>
-        <translation type="obsolete">Ŝanĝi rolon</translation>
+        <location line="+8"/>
+        <source>Change Affiliation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-66"/>
+        <location line="+1"/>
+        <source>Unaffiliated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Member</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Administrator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Owner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-103"/>
         <source>Send &amp;Message</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5637,7 +6376,7 @@ Kialo: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+48"/>
+        <location line="+58"/>
         <source>Change Role</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5645,7 +6384,7 @@ Kialo: %1</translation>
 <context>
     <name>GameBoard</name>
     <message>
-        <location filename="../src/plugins/generic/chess/gameboard.cpp" line="-1171"/>
+        <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="-1171"/>
         <location line="+349"/>
         <source>White</source>
         <translation type="unfinished"></translation>
@@ -5827,9 +6566,46 @@ You lost the game.</source>
     </message>
 </context>
 <context>
+    <name>GameModel</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/gamemodel.cpp" line="+256"/>
+        <source>The first turn can be only H8.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GameSessions</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/gamesessions.cpp" line="+95"/>
+        <source>%1: Invitation from %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+110"/>
+        <source>Incorrect parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+61"/>
+        <location line="+469"/>
+        <source>You are allready playing!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-354"/>
+        <source>From: %1&lt;br /&gt;The game was rejected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>From: %1&lt;br /&gt;Game error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GeneralGroupchat</name>
     <message>
-        <location filename="../src/options/opt_general_groupchat.ui" line="+33"/>
+        <location filename="../../psi-plus/src/options/opt_general_groupchat.ui" line="+33"/>
         <source>Enable word highlighting</source>
         <translation type="unfinished">Ŝalti emfazadon de vortoj</translation>
     </message>
@@ -5837,10 +6613,6 @@ You lost the game.</source>
         <location line="+7"/>
         <source>Highlight lines and alert the user if this text is included in chat</source>
         <translation type="unfinished">Emfazi liniojn kaj alarmi la uzanton se tiu ĉi teksto estas enhavata en babilo</translation>
-    </message>
-    <message>
-        <source>Word Highlighting</source>
-        <translation type="obsolete">Vorta Emfazado</translation>
     </message>
     <message>
         <location line="-27"/>
@@ -5876,25 +6648,30 @@ You lost the game.</source>
     </message>
     <message>
         <location line="+3"/>
-        <location line="+145"/>
+        <location line="+152"/>
         <source>Add</source>
         <translation type="unfinished">Aldoni</translation>
     </message>
     <message>
-        <location line="-138"/>
+        <location line="-145"/>
         <location line="+3"/>
         <source>Removes the selected word from the highlight list</source>
         <translation type="unfinished">Ĝi forigas la elektitan vorton el la emfazo-listo</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location line="+145"/>
+        <location line="+152"/>
         <source>Remove</source>
         <translation type="unfinished">Forigi</translation>
     </message>
     <message>
-        <location line="-107"/>
+        <location line="-114"/>
         <source>Enable nick coloring</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Enable hash nick coloring</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5909,14 +6686,6 @@ You lost the game.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable Nick Coloring</source>
-        <translation type="obsolete">Ŝalti Koloradon de Kromnomoj</translation>
-    </message>
-    <message>
-        <source>Nick Coloring</source>
-        <translation type="obsolete">Kolorado de Kromnomoj</translation>
-    </message>
-    <message>
         <location line="-21"/>
         <source>Colors used for nicks in groupchat</source>
         <translation type="unfinished">Koloroj uzataj por kromnomoj en babilejo</translation>
@@ -5925,10 +6694,6 @@ You lost the game.</source>
         <location line="+3"/>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
         <translation type="unfinished">Tiu ĉi estas la listo de koloroj per kiuj kromnomoj estos montritaj en babilejo.</translation>
-    </message>
-    <message>
-        <source>Type a colourcode here, or press the pallette to the right</source>
-        <translation type="obsolete">Tajpu kolorokodon tie ĉi, aŭ klaku sur la paletron dekstre</translation>
     </message>
     <message>
         <location line="+66"/>
@@ -5948,127 +6713,419 @@ You lost the game.</source>
     </message>
 </context>
 <context>
-    <name>GeneralGroupchatUI</name>
+    <name>GeoLocation</name>
     <message>
-        <source>Enable word highlighting</source>
-        <translation type="obsolete">Ŝalti emfazadon de vortoj</translation>
+        <location filename="../../psi-plus/src/geolocation.ui" line="+20"/>
+        <source>Set GeoLocation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Word Highlighting</source>
-        <translation type="obsolete">Vorta Emfazado</translation>
+        <location line="+8"/>
+        <source>Altitude:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Highlight lines and alert the user if this text is included in chat</source>
-        <translation type="obsolete">Emfazi liniojn kaj alarmi la uzanton se tiu ĉi teksto estas enhavata en babilo</translation>
+        <location line="+7"/>
+        <source>Altitude in meters above or below sea level</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Words which will cause a notification in group chat.</source>
-        <translation type="obsolete">Vortoj kiuj okazigos avizon en babilejo.</translation>
+        <location line="+7"/>
+        <source>Area:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
-        <translation type="obsolete">Tiu ĉi estas la listo de vortoj kiuj, kiam dirataj en babilejo, kaŭzos ke la uzanto estos avizata.</translation>
+        <location line="+7"/>
+        <source>A named area such as a campus or neighborhood</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Type a new word here and press &quot;Add Word&quot; for it to be added to the highlight list</source>
-        <translation type="obsolete">Tajpu novan vorton tie ĉi kaj premu &quot;Aldonu vorton&quot; por ke ĝi estu aldonita al la emfazo-listo</translation>
+        <location line="+7"/>
+        <source>Bearing:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Add</source>
-        <translation type="obsolete">Aldoni</translation>
+        <location line="+7"/>
+        <source>GPS bearing (direction in which the entity is heading to reach its next waypoint), measured in decimal degrees relative to true north</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Adds the new word to the list</source>
-        <translation type="obsolete">Ĝi aldonas la novan vorton al la listo</translation>
+        <location line="+7"/>
+        <source>Building:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Remove</source>
-        <translation type="obsolete">Forigi</translation>
+        <location line="+7"/>
+        <source>A specific building on a street or in an area</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Removes the selected word from the highlight list</source>
-        <translation type="obsolete">Ĝi forigas la elektitan vorton el la emfazo-listo</translation>
+        <location line="+7"/>
+        <source>Country:</source>
+        <translation type="unfinished">Lando:</translation>
     </message>
     <message>
-        <source>Enable Nick Coloring</source>
-        <translation type="obsolete">Ŝalti koloradon de kromnomoj</translation>
+        <location line="+7"/>
+        <source>The nation where the user is located</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Nick Coloring</source>
-        <translation type="obsolete">Kolorado de kromnomoj</translation>
+        <location line="+7"/>
+        <source>Datum:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Colors used for nicks in groupchat</source>
-        <translation type="obsolete">Koloroj uzataj por kromnomoj en babilejo</translation>
+        <location line="+7"/>
+        <source>GPS datum</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This is the list of colours with which nicks will be drawn in group chat.</source>
-        <translation type="obsolete">Tiu ĉi estas la listo de koloroj per kiuj kaŝnomoj estos montritaj en babilejo.</translation>
+        <location line="+7"/>
+        <source>Description:</source>
+        <translation type="unfinished">Priskribo:</translation>
     </message>
     <message>
-        <source>Type a colourcode here, or press the pallette to the right</source>
-        <translation type="obsolete">Tajpu kolorokodon tie ĉi, aŭ klaku sur la paletron dekstre</translation>
+        <location line="+7"/>
+        <source>A natural-language name for or description of the location</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Adds the color to the list</source>
-        <translation type="obsolete">Ĝi aldonas la koloron al la listo</translation>
+        <location line="+7"/>
+        <source>Error:</source>
+        <translation type="unfinished">Eraro:</translation>
     </message>
     <message>
-        <source>Adds the new color to the list</source>
-        <translation type="obsolete">Ĝi aldonas la novan koloron al la listo</translation>
+        <location line="+7"/>
+        <source>Horizontal GPS error in arc minutes; this element is deprecated in favor of &lt;accuracy/&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Removes the selected color from the list</source>
-        <translation type="obsolete">Ĝi forigas la elektitan koloron el la listo</translation>
-    </message>
-</context>
-<context>
-    <name>GnuPG</name>
-    <message>
-        <source>Unable to retrieve secret key list.</source>
-        <translation type="obsolete">Ne eblis ekstrakti la liston de sekretaj ŝlosiloj.</translation>
+        <location line="+7"/>
+        <source>Floor:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unable to retrieve public key list.</source>
-        <translation type="obsolete">Ne eblis ekstrakti la liston de publikaj ŝlosiloj.</translation>
-    </message>
-</context>
-<context>
-    <name>GoogleFileTransferProgressDialog</name>
-    <message>
-        <location filename="../src/googleftmanager.h" line="+135"/>
-        <source>Transferring %1</source>
-        <translation>Trasendante %1</translation>
-    </message>
-</context>
-<context>
-    <name>GrepShortcutKeyDialog</name>
-    <message>
-        <location filename="../src/libpsi/dialogs/grepshortcutkeydialog.cpp" line="+54"/>
-        <source>Set Keys</source>
-        <translation type="unfinished">Difini Klavojn</translation>
+        <location line="+7"/>
+        <source>A particular floor in a building</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/libpsi/dialogs/grepshortcutkeydialog.ui" line="+52"/>
+        <location line="+7"/>
+        <source>Latitude:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Latitude in decimal degrees North</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Locality:</source>
+        <translation type="unfinished">Urbo:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>A locality within the administrative region, such as a town or city</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Longitude:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Longitude in decimal degrees East</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Postalcode:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>A code used for postal delivery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Region:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>An administrative region of the nation, such as a state or province</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Room:</source>
+        <translation type="unfinished">Babilejo:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>A particular room in a building</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Street:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>A thoroughfare within the locality, or a crossing of two thoroughfares</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Text:</source>
+        <translation type="unfinished">Teksto:</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>A catch-all element that captures any other information about the location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Reset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>OK</source>
+        <translation type="unfinished">Bone</translation>
+    </message>
+    <message>
+        <location line="+7"/>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>GrepShortcutKeyDlg</name>
+    <name>GetPassDlg</name>
     <message>
-        <source>Set Keys</source>
-        <translation type="obsolete">Difini Klavojn</translation>
+        <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodnetman.cpp" line="+53"/>
+        <source>Set Password</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
+        <location line="+6"/>
+        <source>Password:</source>
+        <translation type="unfinished">Pasvorto:</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Confirm password:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Password does not match</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GetSkinName</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/skinsplugin/getskinname.ui" line="+23"/>
+        <source>Get Skin Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Name: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Version: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>OK</source>
+        <translation type="unfinished">Bone</translation>
+    </message>
+    <message>
+        <location line="+7"/>
         <source>Cancel</source>
-        <translation type="obsolete">Nuligi</translation>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GetTextDlg</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/pixmapwidget.cpp" line="+39"/>
+        <source>Enter text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Select Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GmailNotifyPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/gmailserviceplugin.cpp" line="+311"/>
+        <location line="+315"/>
+        <source>No-save state for contact %1 is changed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-115"/>
+        <source>Settings for an account %1 are changed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+66"/>
+        <source>Shared Status for an account %1 is updated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+101"/>
+        <source>Attributes for contact %1 are changed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+205"/>
+        <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+64"/>
+        <source>Choose a sound file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Sound (*.wav)</source>
+        <translation type="unfinished">Sono (*.wav)</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Choose a program</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Block gmail contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Shows notifications of new messages in your Gmailbox.
+Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Gnome3StatusWatcher</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/unix/gnome3supportplugin/gnome3supportplugin.cpp" line="+138"/>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GomokuGamePlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/gomokugameplugin.cpp" line="+260"/>
+        <source>Choose a sound file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Sound (*.wav)</source>
+        <translation type="unfinished">Sono (*.wav)</translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin allows you to play gomoku with your friends.
+For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Gomoku game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+87"/>
+        <source>Gomoku game!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GoogleFileTransferProgressDialog</name>
+    <message>
+        <location filename="../../psi-plus/src/googleftmanager.h" line="+135"/>
+        <source>Transferring %1</source>
+        <translation>Trasendante %1</translation>
+    </message>
+</context>
+<context>
+    <name>GrabAreaWidget</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.cpp" line="+134"/>
+        <source>Select area</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GrepShortcutKeyDialog</name>
+    <message>
+        <location filename="../../psi-plus/src/libpsi/dialogs/grepshortcutkeydialog.cpp" line="+56"/>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/optionswidget.cpp" line="+95"/>
+        <source>Set Keys</source>
+        <translation type="unfinished">Difini Klavojn</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/libpsi/dialogs/grepshortcutkeydialog.ui" line="+52"/>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/optionswidget.cpp" line="-48"/>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/optionswidget.cpp" line="-4"/>
+        <source>New Shortcut</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>GroupChatBrowseWindowUI</name>
     <message>
-        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.ui" line="+13"/>
+        <location filename="../../psi-plus/src/libpsi/widgets/groupchatbrowsewindow.ui" line="+13"/>
         <source>Groupchat</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6096,18 +7153,17 @@ You lost the game.</source>
 <context>
     <name>GroupChatDlg</name>
     <message>
-        <location filename="../src/groupchatdlg.ui" line="+69"/>
+        <location filename="../../psi-plus/src/groupchatdlg.ui" line="+69"/>
         <source>Topic:</source>
         <translation type="unfinished">Temo:</translation>
     </message>
     <message>
-        <location line="+22"/>
+        <location line="+25"/>
         <source>AccountLabel</source>
         <translation type="unfinished">AccountLabel</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location line="+19"/>
         <source>Select icon</source>
         <translation type="unfinished">Elekti piktogramon</translation>
     </message>
@@ -6116,11 +7172,29 @@ You lost the game.</source>
         <source>Actions</source>
         <translation type="unfinished">Agoj</translation>
     </message>
+    <message>
+        <location line="+151"/>
+        <source>Send</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GroupChatViewThemeProvider</name>
+    <message>
+        <location filename="../../psi-plus/src/chatviewthemeprovider.h" line="+21"/>
+        <source>Groupchat Message Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Configure your groupchat theme here</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>GroupMenu</name>
     <message>
-        <location filename="../src/psicontactmenu.cpp" line="+68"/>
+        <location filename="../../psi-plus/src/psicontactmenu.cpp" line="+76"/>
         <source>&amp;None</source>
         <translation type="unfinished">&amp;Neniu</translation>
     </message>
@@ -6146,13 +7220,65 @@ You lost the game.</source>
     </message>
 </context>
 <context>
-    <name>HistoryDlg</name>
+    <name>GroupchatTopicDlg</name>
     <message>
-        <source>&amp;Latest</source>
-        <translation type="obsolete">Plej &amp;Lasta</translation>
+        <location filename="../../psi-plus/src/groupchattopicdlg.ui" line="+14"/>
+        <source>Set Groupchat Topic</source>
+        <translation type="unfinished">Ŝanĝi temon de la babilejo</translation>
     </message>
     <message>
-        <location filename="../src/history.ui" line="+29"/>
+        <location line="+6"/>
+        <source>Text of topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>HTMLTextMenu</name>
+    <message>
+        <location filename="../../psi-plus/src/htmltextcontroller.cpp" line="+31"/>
+        <source>Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Italic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Underline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Strike Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Text Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Background Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Reset</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>HistoryDlg</name>
+    <message>
+        <location filename="../../psi-plus/src/history.ui" line="+29"/>
         <source>HistoryDlg</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6187,31 +7313,7 @@ You lost the game.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Find</source>
-        <translation type="obsolete">Trovi</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>Search string &apos;%1&apos; not found.</source>
-        <translation type="obsolete">Serĉa ĉeno &apos;%1&apos; ne trovitas.</translation>
-    </message>
-    <message>
-        <source>Already at beginning of message history.</source>
-        <translation type="obsolete">Jam je komenco de historio de mesaĝoj.</translation>
-    </message>
-    <message>
-        <source>&amp;Export...</source>
-        <translation type="obsolete">&amp;Eksporti...</translation>
-    </message>
-    <message>
-        <source>Er&amp;ase All</source>
-        <translation type="obsolete">&amp;Forviŝi ĉion</translation>
-    </message>
-    <message>
-        <location filename="../src/historydlg.cpp" line="+318"/>
+        <location filename="../../psi-plus/src/historydlg.cpp" line="+319"/>
         <source>Text files (*.txt);;All files (*.*)</source>
         <translation>Tekstaj dosieroj (*.txt);;Ĉiaj dosieroj (*.*)</translation>
     </message>
@@ -6219,32 +7321,6 @@ You lost the game.</source>
         <location line="-2"/>
         <source>Export message history</source>
         <translation>Eksporti la mesaĝan historion</translation>
-    </message>
-    <message>
-        <source>Confirm overwrite</source>
-        <translation type="obsolete">Konfirmu la superskribadon</translation>
-    </message>
-    <message>
-        <source>File already exists, overwrite?</source>
-        <translation type="obsolete">La dosiero jam ekzistas. Ĉu superskribi?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="obsolete">&amp;Jes</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="obsolete">&amp;Ne</translation>
-    </message>
-    <message>
-        <source>Confirm erase all</source>
-        <translation type="obsolete">Konfirmu forviŝi ĉion</translation>
-    </message>
-    <message>
-        <source>This will erase all message history for this contact!
-Are you sure you want to do this?</source>
-        <translation type="obsolete">Tio ĉi forviŝos la plenan historion de mesaĝoj por tiu ĉi kontaktulo!
-Ĉu vi certas ke vi volas tion ĉi fari?</translation>
     </message>
     <message>
         <location line="-25"/>
@@ -6267,7 +7343,7 @@ Are you sure you want to do this?</source>
         <translation>Eraro skribante en dosieron.</translation>
     </message>
     <message>
-        <location line="+75"/>
+        <location line="+74"/>
         <source>&amp;Open chat</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6282,60 +7358,146 @@ Are you sure you want to do this?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unable to delete history file.</source>
-        <translation type="obsolete">Ne eblis forigi la historiodosieron.</translation>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.cpp" line="-68"/>
+        <source>History</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Copy</source>
+        <translation type="unfinished">Kopii</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Copy link to the clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Open</source>
+        <translation type="unfinished">Malfermi</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Open link in browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Close</source>
+        <translation type="unfinished">Fermi</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Close history</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>HistoryKeeperPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/historykeeperplugin/historykeeperplugin.cpp" line="+188"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Remove history for contacts:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+83"/>
+        <source>Clear history on exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to remove the history of selected contacts when the Psi+ is closed.
+You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>HistoryView</name>
     <message>
-        <source>Type</source>
-        <translation type="obsolete">Speco</translation>
-    </message>
-    <message>
-        <source>Origin</source>
-        <translation type="obsolete">Origino</translation>
-    </message>
-    <message>
-        <source>Date</source>
-        <translation type="obsolete">Dato</translation>
-    </message>
-    <message>
-        <source>Text</source>
-        <translation type="obsolete">Teksto</translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation type="obsolete">Malfermi</translation>
-    </message>
-    <message>
-        <source>Copy</source>
-        <translation type="obsolete">Kopii</translation>
-    </message>
-    <message>
-        <source>To</source>
-        <translation type="obsolete">Al</translation>
-    </message>
-    <message>
-        <source>From</source>
-        <translation type="obsolete">De</translation>
+        <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/common.cpp" line="-105"/>
+        <source>Close</source>
+        <translation type="unfinished">Fermi</translation>
     </message>
 </context>
 <context>
-    <name>HostPortEdit</name>
+    <name>HomeDirMigration</name>
     <message>
-        <source>Host:</source>
-        <translation type="obsolete">Retnodo:</translation>
+        <location filename="../../psi-plus/src/homedirmigration.ui" line="+14"/>
+        <source>Psi+ Import Wizard</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Port:</source>
-        <translation type="obsolete">Pordo:</translation>
+        <location line="+10"/>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Import Psi profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Import Psi profile and remove it</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Create new profile</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>HttpAuthEvent</name>
     <message>
-        <location filename="../src/psievent.cpp" line="+37"/>
+        <location filename="../../psi-plus/src/psievent.cpp" line="+37"/>
         <source>HTTP Authentication Request</source>
         <translation>HTTP Aŭtentiga Peto</translation>
     </message>
@@ -6343,7 +7505,7 @@ Are you sure you want to do this?</source>
 <context>
     <name>HttpConnect</name>
     <message>
-        <location filename="../iris/src/irisnet/noncore/cutestuff/httpconnect.cpp" line="+320"/>
+        <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httpconnect.cpp" line="+320"/>
         <source>Authentication failed</source>
         <translation>Aŭtentikado ne sukcesis</translation>
     </message>
@@ -6371,7 +7533,7 @@ Are you sure you want to do this?</source>
 <context>
     <name>HttpProxyGetStream</name>
     <message>
-        <location filename="../iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="+909"/>
+        <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="+909"/>
         <source>Authentication failed</source>
         <translation type="unfinished">Aŭtentikado ne sukcesis</translation>
     </message>
@@ -6427,15 +7589,69 @@ Are you sure you want to do this?</source>
 <context>
     <name>IconSelect</name>
     <message>
-        <location filename="../src/widgets/iconselect.cpp" line="+272"/>
+        <location filename="../../psi-plus/src/widgets/iconselect.cpp" line="+268"/>
         <source>No icons available</source>
         <translation>Neniu piktogramo disponeblas</translation>
     </message>
 </context>
 <context>
+    <name>IconsetActivity</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_iconset_activity.ui" line="+14"/>
+        <source>IconsetActivityUI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Activity iconsets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <source>&amp;Show Details</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>IconsetAffiliation</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_iconset_affiliation.ui" line="+14"/>
+        <source>IconsetClientUI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Affiliation iconsets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <source>&amp;Show Details</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>IconsetClient</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_iconset_client.ui" line="+14"/>
+        <source>IconsetClientUI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Client iconsets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <source>&amp;Show Details</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>IconsetDetailsDlg</name>
     <message>
-        <location filename="../src/options/ui_isdetails.ui" line="+26"/>
+        <location filename="../../psi-plus/src/options/ui_isdetails.ui" line="+26"/>
         <source>Iconset Details: %1</source>
         <translation type="unfinished">Detaloj de piktogramaro: %1</translation>
     </message>
@@ -6482,15 +7698,11 @@ Are you sure you want to do this?</source>
         <source>Authors:</source>
         <translation type="unfinished">Aŭtoroj:</translation>
     </message>
-    <message>
-        <source>&amp;Done</source>
-        <translation type="obsolete">&amp;Faritas</translation>
-    </message>
 </context>
 <context>
     <name>IconsetDisplayItem</name>
     <message>
-        <location filename="../src/widgets/iconwidget.cpp" line="+448"/>
+        <location filename="../../psi-plus/src/widgets/iconwidget.cpp" line="+448"/>
         <source>Name: &apos;%1&apos;</source>
         <translation>Nomo: &apos;%1&apos;</translation>
     </message>
@@ -6498,7 +7710,7 @@ Are you sure you want to do this?</source>
 <context>
     <name>IconsetEmo</name>
     <message>
-        <location filename="../src/options/opt_iconset_emo.ui" line="+16"/>
+        <location filename="../../psi-plus/src/options/opt_iconset_emo.ui" line="+16"/>
         <source>IconsetEmoUI</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6527,30 +7739,29 @@ Are you sure you want to do this?</source>
         <source>&amp;Show details</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>&amp;Show Details</source>
-        <translation type="obsolete">&amp;Montri Detalojn</translation>
-    </message>
 </context>
 <context>
-    <name>IconsetEmoUI</name>
+    <name>IconsetMood</name>
     <message>
-        <source>Enable Emoticons</source>
-        <translation type="obsolete">Ŝalti mienpiktogramojn</translation>
+        <location filename="../../psi-plus/src/options/opt_iconset_mood.ui" line="+14"/>
+        <source>IconsetMoodUI</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Emoticon iconsets</source>
-        <translation type="obsolete">Mienpiktogramaro</translation>
+        <location line="+12"/>
+        <source>Mood iconsets</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
+        <location line="+28"/>
         <source>&amp;Show Details</source>
-        <translation type="obsolete">&amp;Montri detalojn</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>IconsetRoster</name>
     <message>
-        <location filename="../src/options/opt_iconset_roster.ui" line="+29"/>
+        <location filename="../../psi-plus/src/options/opt_iconset_roster.ui" line="+29"/>
         <source>Default</source>
         <translation type="unfinished">Defaŭlta</translation>
     </message>
@@ -6558,10 +7769,6 @@ Are you sure you want to do this?</source>
         <location line="+12"/>
         <source>Default roster iconset:</source>
         <translation type="unfinished">Defaŭlta piktogramaro por kontaktlisto:</translation>
-    </message>
-    <message>
-        <source>&amp;Show Details</source>
-        <translation type="obsolete">&amp;Montri Detalojn</translation>
     </message>
     <message>
         <location line="-28"/>
@@ -6638,88 +7845,9 @@ Are you sure you want to do this?</source>
     </message>
 </context>
 <context>
-    <name>IconsetRosterUI</name>
-    <message>
-        <source>Default</source>
-        <translation type="obsolete">Antaŭsupozita</translation>
-    </message>
-    <message>
-        <source>&amp;Show Details</source>
-        <translation type="obsolete">&amp;Montri detalojn</translation>
-    </message>
-    <message>
-        <source>Default roster iconset:</source>
-        <translation type="obsolete">Antaŭsupozita piktogramaro por kontaktlisto:</translation>
-    </message>
-    <message>
-        <source>Services</source>
-        <translation type="obsolete">Servoj</translation>
-    </message>
-    <message>
-        <source>Use transport specific icons for contacts</source>
-        <translation type="obsolete">Uzi transportajn specifajn piktogramojn por la kontaktoj</translation>
-    </message>
-    <message>
-        <source>Service iconsets:</source>
-        <translation type="obsolete">Serva piktogramaro:</translation>
-    </message>
-    <message>
-        <source>Service</source>
-        <translation type="obsolete">Servo</translation>
-    </message>
-    <message>
-        <source>Iconset</source>
-        <translation type="obsolete">Piktogramaro</translation>
-    </message>
-    <message>
-        <source>name</source>
-        <translation type="obsolete">nomo</translation>
-    </message>
-    <message>
-        <source>transport</source>
-        <translation type="obsolete">transporto</translation>
-    </message>
-    <message>
-        <source>Gadu-Gadu</source>
-        <translation type="obsolete">Gadu-Gadu</translation>
-    </message>
-    <message>
-        <source>Yahoo!</source>
-        <translation type="obsolete">Yahoo!</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation type="obsolete">Propra</translation>
-    </message>
-    <message>
-        <source>Custom iconsets:</source>
-        <translation type="obsolete">Propra piktogramaro:</translation>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="obsolete">&amp;Aldoni</translation>
-    </message>
-    <message>
-        <source>&amp;Delete</source>
-        <translation type="obsolete">For&amp;viŝi</translation>
-    </message>
-    <message>
-        <source>RegExp</source>
-        <translation type="obsolete">RegEsp</translation>
-    </message>
-    <message>
-        <source>Regular Expression:</source>
-        <translation type="obsolete">Regula esprimo:</translation>
-    </message>
-    <message>
-        <source>Iconset:</source>
-        <translation type="obsolete">Piktogramaro:</translation>
-    </message>
-</context>
-<context>
     <name>IconsetSystem</name>
     <message>
-        <location filename="../src/options/opt_iconset_system.ui" line="+13"/>
+        <location filename="../../psi-plus/src/options/opt_iconset_system.ui" line="+13"/>
         <source>IconsetSystemUI</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6738,26 +7866,96 @@ Are you sure you want to do this?</source>
         <source>Alt+S</source>
         <translation type="unfinished">Alt+S</translation>
     </message>
+</context>
+<context>
+    <name>IcqDie</name>
+    <message utf8="true">
+        <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="+115"/>
+        <source>Я Вам как Linux скажу, только Вы не обижайтесь. Этот человек, конечно, получит Ваше сообщение, но лучше бы Вам общаться с ним через Jabber. А то не ровен час - аська сдохнет, старушка своё отжила. Его JID: %1.
+
+Искренне Ваш, Debian Sid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message utf8="true">
+        <location line="+4"/>
+        <source>Я Вам как Linux скажу, только Вы не обижайтесь. Этот человек имел в виду всех пользователей аськи, поэтому если Вы до сих пор сидите в этой сети, то он не получит Ваше сообщение, поэтому Вам придётся общаться с ним через Jabber. Его JID: %1.
+
+Если Вы не знаете что такое Jabber, то есть Google - он всё знает и поможет любому, кто к нему обратится.
+Искренне Ваш, Debian Sid.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
-        <source>&amp;Show Details</source>
-        <translation type="obsolete">&amp;Montri Detalojn</translation>
+        <location line="+145"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+142"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
+The plugin has a number of simple settings that can help you:
+* set a special message text
+* exclude specific ICQ numbers
+* set the time interval after which the message will be repeated
+* set the max count of messages by contact
+* disable the message for the active window/tab
+* disable messages for contacts that are not in your roster</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>IconsetSystemUI</name>
+    <name>ImagePlugin</name>
     <message>
-        <source>System Iconset:</source>
-        <translation type="obsolete">Sistema piktogramaro:</translation>
+        <location filename="../../psi-plus/src/plugins/generic/imageplugin/imageplugin.cpp" line="+117"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Show Details</source>
-        <translation type="obsolete">&amp;Montri detalojn</translation>
+        <location line="+9"/>
+        <source>Send Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+41"/>
+        <source>Open Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>The image size is too large.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Image :)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to send images to roster contacts.
+Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Info</name>
     <message>
-        <location filename="../src/info.ui" line="+16"/>
+        <location filename="../../psi-plus/src/info.ui" line="+16"/>
         <source>User Info</source>
         <translation type="unfinished">Informo de la uzanto</translation>
     </message>
@@ -6765,14 +7963,6 @@ Are you sure you want to do this?</source>
         <location line="+16"/>
         <source>General</source>
         <translation type="unfinished">Ĝenerale</translation>
-    </message>
-    <message>
-        <source>E-Mail</source>
-        <translation type="obsolete">Retadreso</translation>
-    </message>
-    <message>
-        <source>Birthday</source>
-        <translation type="obsolete">Naskiĝtago</translation>
     </message>
     <message>
         <location line="+104"/>
@@ -6785,66 +7975,14 @@ Are you sure you want to do this?</source>
         <translation type="unfinished">&amp;Viŝi</translation>
     </message>
     <message>
-        <source>Full Name</source>
-        <translation type="obsolete">Plena Nomo</translation>
-    </message>
-    <message>
-        <source>Phone #</source>
-        <translation type="obsolete">Telefonnumero</translation>
-    </message>
-    <message>
-        <source>Homepage</source>
-        <translation type="obsolete">Hejmpaĝo</translation>
-    </message>
-    <message>
-        <source>Nickname</source>
-        <translation type="obsolete">Kromnomo</translation>
-    </message>
-    <message>
         <location line="+65"/>
         <source>Work</source>
         <translation type="unfinished">Laboro</translation>
     </message>
     <message>
-        <source>Company</source>
-        <translation type="obsolete">Firmao</translation>
-    </message>
-    <message>
-        <source>Position</source>
-        <translation type="obsolete">Ofico</translation>
-    </message>
-    <message>
-        <source>Department</source>
-        <translation type="obsolete">Fako</translation>
-    </message>
-    <message>
-        <source>Role</source>
-        <translation type="obsolete">Rolo</translation>
-    </message>
-    <message>
         <location line="+79"/>
         <source>Location</source>
         <translation type="unfinished">Loko</translation>
-    </message>
-    <message>
-        <source>Country</source>
-        <translation type="obsolete">Lando</translation>
-    </message>
-    <message>
-        <source>Postal Code</source>
-        <translation type="obsolete">Poŝtkodo</translation>
-    </message>
-    <message>
-        <source>State</source>
-        <translation type="obsolete">Subŝtato</translation>
-    </message>
-    <message>
-        <source>City</source>
-        <translation type="obsolete">Urbo</translation>
-    </message>
-    <message>
-        <source>Street</source>
-        <translation type="obsolete">Strato</translation>
     </message>
     <message>
         <location line="+92"/>
@@ -6990,25 +8128,35 @@ Are you sure you want to do this?</source>
 <context>
     <name>InfoDlg</name>
     <message>
-        <location filename="../src/infodlg.cpp" line="+152"/>
-        <location line="+207"/>
+        <location filename="../../psi-plus/src/infodlg.cpp" line="+156"/>
+        <location line="+208"/>
         <source>First Name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-206"/>
-        <location line="+207"/>
+        <location line="-207"/>
+        <location line="+208"/>
         <source>Middle Name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-206"/>
-        <location line="+207"/>
+        <location line="-207"/>
+        <location line="+208"/>
         <source>Last Name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-200"/>
+        <location line="-203"/>
+        <source>Edit names</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>View names</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
         <location line="+1"/>
         <source>Open web browser</source>
         <translation type="unfinished"></translation>
@@ -7096,146 +8244,471 @@ disponebla</translation>
     </message>
 </context>
 <context>
-    <name>InfoUI</name>
+    <name>InvateDialog</name>
     <message>
-        <source>InfoDialog1</source>
-        <translation type="obsolete">InformoDialogo1</translation>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/invatedialog.ui" line="+14"/>
+        <source>Gomoku Game Plugin - Invite</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>General</source>
-        <translation type="obsolete">Ĝenerale</translation>
+        <location line="+8"/>
+        <source>Opponent:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Birthday</source>
-        <translation type="obsolete">Naskiĝtago</translation>
+        <location line="+20"/>
+        <source>Select resource:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Homepage</source>
-        <translation type="obsolete">Hejmpaĝo</translation>
+        <location line="+47"/>
+        <source>Play Black</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Full Name</source>
-        <translation type="obsolete">Plena Nomo</translation>
+        <location line="+7"/>
+        <source>Play White</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Phone #</source>
-        <translation type="obsolete">Telefonnumero</translation>
-    </message>
-    <message>
-        <source>E-Mail</source>
-        <translation type="obsolete">Retadreso</translation>
-    </message>
-    <message>
-        <source>Nickname</source>
-        <translation type="obsolete">Kromnomo</translation>
-    </message>
-    <message>
-        <source>Location</source>
-        <translation type="obsolete">Loko</translation>
-    </message>
-    <message>
-        <source>Country</source>
-        <translation type="obsolete">Lando</translation>
-    </message>
-    <message>
-        <source>Postal Code</source>
-        <translation type="obsolete">Poŝtkodo</translation>
-    </message>
-    <message>
-        <source>State</source>
-        <translation type="obsolete">Subŝtato</translation>
-    </message>
-    <message>
-        <source>City</source>
-        <translation type="obsolete">Urbo</translation>
-    </message>
-    <message>
-        <source>Street</source>
-        <translation type="obsolete">Strato</translation>
-    </message>
-    <message>
-        <source>Work</source>
-        <translation type="obsolete">Laboro</translation>
-    </message>
-    <message>
-        <source>Company</source>
-        <translation type="obsolete">Firmao</translation>
-    </message>
-    <message>
-        <source>Position</source>
-        <translation type="obsolete">Ofico</translation>
-    </message>
-    <message>
-        <source>Department</source>
-        <translation type="obsolete">Fako</translation>
-    </message>
-    <message>
-        <source>Role</source>
-        <translation type="obsolete">Rolo</translation>
-    </message>
-    <message>
-        <source>About</source>
-        <translation type="obsolete">Pri</translation>
-    </message>
-    <message>
-        <source>busywidget</source>
-        <translation type="obsolete">okupatafenestraĵo</translation>
-    </message>
-    <message>
-        <source>&amp;Publish</source>
-        <translation type="obsolete">&amp;Publikigi</translation>
-    </message>
-    <message>
-        <source>&amp;Retrieve</source>
-        <translation type="obsolete">E&amp;kstrakti</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>User Info</source>
-        <translation type="obsolete">Informo de la uzanto</translation>
+        <location line="+7"/>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>JLTestDlg</name>
+    <name>InvitationDialog</name>
     <message>
-        <source>Connect</source>
-        <translation type="obsolete">Konektiĝi</translation>
+        <location filename="../../psi-plus/src/plugins/generic/chessplugin/invitationdialog.ui" line="+20"/>
+        <source>Chess Plugin - Invitation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
+        <location line="+28"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/invitationdialog.ui" line="+48"/>
         <source>Accept</source>
-        <translation type="obsolete">Akcepti</translation>
+        <translation type="unfinished">Akcepti</translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation type="obsolete">Fermi</translation>
+        <location line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/invitationdialog.ui" line="+7"/>
+        <source>Reject</source>
+        <translation type="unfinished">Malakcepti</translation>
     </message>
     <message>
-        <source>Error</source>
-        <translation type="obsolete">Eraro</translation>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/invitationdialog.ui" line="-35"/>
+        <source>Gomoku Game Plugin - Invitation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Connection closed.</source>
-        <translation type="obsolete">Konekto fermiĝis.</translation>
+        <location filename="../../psi-plus/src/plugins/generic/chessplugin/invitedialog.cpp" line="+79"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/invatedialog.cpp" line="+81"/>
+        <source>white</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Stream or connection error.</source>
-        <translation type="obsolete">Flua aŭ konekta eraro.</translation>
+        <location line="+2"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/invatedialog.cpp" line="+2"/>
+        <source>black</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Player %1 invites you 
+to play chess. He wants to play %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/invatedialog.cpp" line="+2"/>
+        <source>Player %1 invites you 
+to play gomoku. He wants to play %2.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>JT_VCard</name>
+    <name>InviteDialog</name>
     <message>
-        <source>No VCard available</source>
-        <translation type="obsolete">Ne disponeblas VCard</translation>
+        <location filename="../../psi-plus/src/plugins/generic/chessplugin/invitedialog.ui" line="+20"/>
+        <source>Invitation</source>
+        <translation type="unfinished">Invito</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Select resource:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+47"/>
+        <source>Play White</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Play Black</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>JDMainWin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jd_mainwin.ui" line="+78"/>
+        <source>Refresh</source>
+        <translation type="unfinished">Reŝaltu</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Clear log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+50"/>
+        <source>Send</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="+42"/>
+        <source>Jabber Disk - %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+105"/>
+        <source>&lt;b&gt;You:&lt;/b&gt; </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>&lt;b&gt;Disk:&lt;/b&gt; </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+58"/>
+        <source>Remove</source>
+        <translation type="unfinished">Forigi</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Make dir</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Get File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Send File</source>
+        <translation type="unfinished">Sendi Dosieron</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Help</source>
+        <translation type="unfinished">Helpo</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Intro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Statistics</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Rename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Move to...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Remove Item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Input Dir Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Input Full JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Input New Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>JabberDiskPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jabberdiskplugin.cpp" line="+199"/>
+        <source>Jabber Disk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>JuickJidDialog</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickjidlist.ui" line="+17"/>
+        <source>Set JIDs of Juick Bot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Add</source>
+        <translation type="unfinished">Aldoni</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>OK</source>
+        <translation type="unfinished">Bone</translation>
+    </message>
+</context>
+<context>
+    <name>JuickJidList</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickjidlist.cpp" line="+48"/>
+        <source>Input JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>JuickPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="+270"/>
+        <source>Show all messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Reply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show %1&apos;s info and last 10 messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Subscribe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show last 10 messages with tag %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Unsubscribe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+32"/>
+        <source>Edit JIDs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>@username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>*tag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>#message id</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>&gt;quote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>http://link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>italic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>underline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+74"/>
+        <source>Use message Id as resource</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Show Photo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Show Avatars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Replaces message id with a link
+to this message in juick@conference.jabber.ru</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Clear avatar cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+246"/>
+        <location line="+889"/>
+        <location line="+13"/>
+        <location line="+23"/>
+        <location line="+12"/>
+        <source>Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-937"/>
+        <source>can&apos;t create folder %1 
+caching avatars will be not available</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+432"/>
+        <source>Recommended by </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+176"/>
+        <source> replied:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+50"/>
+        <source>Reply posted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <source>New message posted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+75"/>
+        <location line="+8"/>
+        <source>Subscribe to %1&apos;s blog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-4"/>
+        <source>Send personal message to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+124"/>
+        <location line="+13"/>
+        <location line="+23"/>
+        <location line="+12"/>
+        <source>Cannot write to file %1:
+%2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+158"/>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Add to favorites</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
+Currently, the plugin is able to: 
+* Coloring @nick, *tag and #message_id in messages from the juick@juick.com bot
+* Detect &gt;quotes in messages
+* Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
+
+Note: To work correctly, the option options.html.chat.render	must be set to true. </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>LookFeelToolbars</name>
     <message>
-        <location filename="../src/options/opt_lookfeel_toolbars.ui" line="+13"/>
+        <location filename="../../psi-plus/src/options/opt_lookfeel_toolbars.ui" line="+13"/>
         <source>LookFeelToolbarsUI</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7322,84 +8795,21 @@ disponebla</translation>
         <source>Curr&amp;ent actions:</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>A&amp;vailable Actions:</source>
-        <translation type="obsolete">&amp;Disponeblaj Agoj:</translation>
-    </message>
-    <message>
-        <source>Curr&amp;ent Actions:</source>
-        <translation type="obsolete">&amp;Nunaj Agoj:</translation>
-    </message>
-</context>
-<context>
-    <name>LookFeelToolbarsUI</name>
-    <message>
-        <source>Toolbar:</source>
-        <translation type="obsolete">Ilobreto:</translation>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="obsolete">&amp;Aldoni</translation>
-    </message>
-    <message>
-        <source>&amp;Delete</source>
-        <translation type="obsolete">For&amp;viŝi</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation type="obsolete">Nomo:</translation>
-    </message>
-    <message>
-        <source>Enabled</source>
-        <translation type="obsolete">Aktiva</translation>
-    </message>
-    <message>
-        <source>Specifies, whether toolbar is enabled and visible.</source>
-        <translation type="obsolete">Specifas ĉu ilobreto aktivas kaj videblas.</translation>
-    </message>
-    <message>
-        <source>Locked</source>
-        <translation type="obsolete">Ŝlosita</translation>
-    </message>
-    <message>
-        <source>Specifies, whether it is possible to move toolbar.</source>
-        <translation type="obsolete">Specifas ĉu eblas movi ilobaron.</translation>
-    </message>
-    <message>
-        <source>Stretchable</source>
-        <translation type="obsolete">Streĉebla</translation>
-    </message>
-    <message>
-        <source>Specifies, whether toolbar is stretchable.
-Note: it is impossible to dock stretchable toolbar. Uncheck that check box, click apply, dock the toolbar, and then check stretchable again.</source>
-        <translation type="obsolete">Specifas ĉu ilobaro estas ŝtreĉeblan.
-Rimarku: Ne eblas endokigi streĉeblan ilobreton. Malelektu per la elektujo, premu &quot;apliki&quot;, endokiig la ilobreton, kaj poste elektu &quot;streĉeblan&quot; denove.</translation>
-    </message>
-    <message>
-        <source>Change Position (Advanced)</source>
-        <translation type="obsolete">Ŝanĝu pozicion (Spertuloj)</translation>
-    </message>
-    <message>
-        <source>A&amp;vailable Actions:</source>
-        <translation type="obsolete">&amp;Disponeblaj agoj:</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="obsolete">Nomo</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="obsolete">...</translation>
-    </message>
-    <message>
-        <source>Curr&amp;ent Actions:</source>
-        <translation type="obsolete">&amp;Nunaj Agoj:</translation>
-    </message>
 </context>
 <context>
     <name>MUCAffiliationsModel</name>
     <message>
-        <location filename="../src/mucaffiliationsmodel.cpp" line="+173"/>
+        <location filename="../../psi-plus/src/mucaffiliationsmodel.cpp" line="+43"/>
+        <source>JID</source>
+        <translation type="unfinished">JID</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Reason</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+136"/>
         <source>Members</source>
         <translation>Membroj</translation>
     </message>
@@ -7422,7 +8832,7 @@ Rimarku: Ne eblas endokigi streĉeblan ilobreton. Malelektu per la elektujo, pre
 <context>
     <name>MUCConfig</name>
     <message>
-        <location filename="../src/mucconfig.ui" line="+16"/>
+        <location filename="../../psi-plus/src/mucconfig.ui" line="+16"/>
         <source>Room Configuration</source>
         <translation type="unfinished">Babileja Agordo</translation>
     </message>
@@ -7475,7 +8885,7 @@ Rimarku: Ne eblas endokigi streĉeblan ilobreton. Malelektu per la elektujo, pre
 <context>
     <name>MUCConfigDlg</name>
     <message>
-        <location filename="../src/mucconfigdlg.cpp" line="+126"/>
+        <location filename="../../psi-plus/src/mucconfigdlg.cpp" line="+126"/>
         <source>Requesting room configuration ...</source>
         <translation>Petante babilejan agordon...</translation>
     </message>
@@ -7550,7 +8960,7 @@ Rimarku: Ne eblas endokigi streĉeblan ilobreton. Malelektu per la elektujo, pre
 <context>
     <name>MUCJoin</name>
     <message>
-        <location filename="../src/mucjoin.ui" line="+14"/>
+        <location filename="../../psi-plus/src/mucjoin.ui" line="+14"/>
         <source>Join Groupchat</source>
         <translation type="unfinished">Aliĝu al Babilejo</translation>
     </message>
@@ -7563,10 +8973,6 @@ Rimarku: Ne eblas endokigi streĉeblan ilobreton. Malelektu per la elektujo, pre
         <location line="+13"/>
         <source>Recent:</source>
         <translation type="unfinished">Lastaj:</translation>
-    </message>
-    <message>
-        <source>Room information:</source>
-        <translation type="obsolete">Babileja informo:</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -7598,29 +9004,34 @@ Rimarku: Ne eblas endokigi streĉeblan ilobreton. Malelektu per la elektujo, pre
         <source>Request chat history</source>
         <translation type="unfinished">Peti la babiladan historion</translation>
     </message>
+    <message>
+        <location line="+49"/>
+        <source>Bookmarks:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MUCJoinDlg</name>
     <message>
-        <location filename="../src/mucjoindlg.cpp" line="+44"/>
+        <location filename="../../psi-plus/src/mucjoindlg.cpp" line="+54"/>
         <source>&amp;Join</source>
         <translation>A&amp;liĝi</translation>
     </message>
     <message>
-        <location line="+15"/>
+        <location line="+17"/>
         <source>%1 on %2</source>
         <translation>%1 ĉe %2</translation>
     </message>
     <message>
-        <location line="+90"/>
+        <location line="+129"/>
         <location line="+6"/>
-        <location line="+16"/>
-        <location line="+37"/>
+        <location line="+18"/>
+        <location line="+52"/>
         <source>Error</source>
         <translation>Eraro</translation>
     </message>
     <message>
-        <location line="-59"/>
+        <location line="-76"/>
         <source>You must fill out the fields in order to join.</source>
         <translation>Vi devas plenigi la kampojn por eniri.</translation>
     </message>
@@ -7630,12 +9041,12 @@ Rimarku: Ne eblas endokigi streĉeblan ilobreton. Malelektu per la elektujo, pre
         <translation>Vi enmetis nevalidan nomon de babilejo.</translation>
     </message>
     <message>
-        <location line="+16"/>
+        <location line="+18"/>
         <source>You are in or joining this room already!</source>
         <translation>Vi jam estas ena aŭ eniranta ĉi tiun babilejon!</translation>
     </message>
     <message>
-        <location line="+37"/>
+        <location line="+52"/>
         <source>Unable to join groupchat.
 Reason: %1</source>
         <translation>Ne eblis eniri babilejon.
@@ -7645,7 +9056,7 @@ Kialo: %1</translation>
 <context>
     <name>MUCManager</name>
     <message>
-        <location filename="../src/mucmanager.cpp" line="+547"/>
+        <location filename="../../psi-plus/src/mucmanager.cpp" line="+552"/>
         <source>You are not allowed to kick this user.</source>
         <translation>Vi ne rajtas forĵeti tiun uzanton.</translation>
     </message>
@@ -7718,7 +9129,7 @@ Kialo: %1</translation>
 <context>
     <name>MUCReasonsEditor</name>
     <message>
-        <location filename="../src/mucreasonseditor.ui" line="+13"/>
+        <location filename="../../psi-plus/src/mucreasonseditor.ui" line="+13"/>
         <source>Reason editor</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7738,7 +9149,12 @@ Kialo: %1</translation>
         <translation type="unfinished">Forigi</translation>
     </message>
     <message>
-        <location line="+33"/>
+        <location line="+20"/>
+        <source>Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
         <source>Ok</source>
         <translation type="unfinished">Bone</translation>
     </message>
@@ -7751,137 +9167,9 @@ Kialo: %1</translation>
 <context>
     <name>MainWin</name>
     <message>
-        <source>View Groups</source>
-        <translation type="obsolete">Vidigu Grupojn</translation>
-    </message>
-    <message>
-        <source>Show Offline Contacts</source>
-        <translation type="obsolete">Montru Malenretajn Kontaktulojn</translation>
-    </message>
-    <message>
-        <source>Show Away/XA/DnD</source>
-        <translation type="obsolete">Montru Fora/ND/DnD</translation>
-    </message>
-    <message>
-        <source>Show Agents/Transports</source>
-        <translation type="obsolete">Montru Agentojn/Kluzojn</translation>
-    </message>
-    <message>
-        <source>&amp;Add a contact</source>
-        <translation type="obsolete">&amp;Aldonu kontaktulon</translation>
-    </message>
-    <message>
-        <source>&amp;Manage services</source>
-        <translation type="obsolete">&amp;Administri servojn</translation>
-    </message>
-    <message>
-        <source>&amp;XML Console</source>
-        <translation type="obsolete">&amp;XML Konzolo</translation>
-    </message>
-    <message>
-        <source>&amp;Browse Services</source>
-        <translation type="obsolete">&amp;Folumu Servojn</translation>
-    </message>
-    <message>
-        <location filename="../src/mainwin.cpp" line="+841"/>
+        <location filename="../../psi-plus/src/mainwin.cpp" line="+1045"/>
         <source>ReadMe</source>
         <translation>LeguMin</translation>
-    </message>
-    <message>
-        <source>&amp;ReadMe</source>
-        <translation type="obsolete">&amp;LeguMin</translation>
-    </message>
-    <message>
-        <source>About</source>
-        <translation type="obsolete">Pri</translation>
-    </message>
-    <message>
-        <source>&amp;About</source>
-        <translation type="obsolete">&amp;Pri</translation>
-    </message>
-    <message>
-        <source>About Qt</source>
-        <translation type="obsolete">Pri Qt</translation>
-    </message>
-    <message>
-        <source>About &amp;Qt</source>
-        <translation type="obsolete">Pri &amp;Qt</translation>
-    </message>
-    <message>
-        <source>New blank message</source>
-        <translation type="obsolete">Nova malplena mesaĝo</translation>
-    </message>
-    <message>
-        <source>New &amp;blank message</source>
-        <translation type="obsolete">Nova &amp;malplena mesaĝo</translation>
-    </message>
-    <message>
-        <source>Join Groupchat</source>
-        <translation type="obsolete">Aliĝu al Babilejo</translation>
-    </message>
-    <message>
-        <source>Join &amp;Groupchat</source>
-        <translation type="obsolete">Aliĝu al &amp;Babilejo</translation>
-    </message>
-    <message>
-        <source>Account Setup</source>
-        <translation type="obsolete">Konto-Agordo</translation>
-    </message>
-    <message>
-        <source>Acc&amp;ount Setup</source>
-        <translation type="obsolete">&amp;Konto-Agordo</translation>
-    </message>
-    <message>
-        <source>Options</source>
-        <translation type="obsolete">Elektoj</translation>
-    </message>
-    <message>
-        <source>&amp;Options</source>
-        <translation type="obsolete">&amp;Elektoj</translation>
-    </message>
-    <message>
-        <source>Change Profile</source>
-        <translation type="obsolete">Ŝanĝu Profilon</translation>
-    </message>
-    <message>
-        <source>&amp;Change profile</source>
-        <translation type="obsolete">Ŝanĝu &amp;profilon</translation>
-    </message>
-    <message>
-        <source>Play sounds</source>
-        <translation type="obsolete">Legu sonojn</translation>
-    </message>
-    <message>
-        <source>Play &amp;sounds</source>
-        <translation type="obsolete">Legu &amp;sonojn</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation type="obsolete">Ĉesu</translation>
-    </message>
-    <message>
-        <source>&amp;Quit</source>
-        <translation type="obsolete">Ĉ&amp;esu</translation>
-    </message>
-    <message>
-        <source>&amp;Psi</source>
-        <translation type="obsolete">&amp;Psi</translation>
-    </message>
-    <message>
-        <source>&amp;Status</source>
-        <translation type="obsolete">&amp;Stato</translation>
-    </message>
-    <message>
-        <source>&lt;Separator&gt;</source>
-        <translation type="obsolete">&lt;Disigilo&gt;</translation>
-    </message>
-    <message>
-        <source>Connection is encrypted</source>
-        <translation type="obsolete">Konetko estas ĉifrita</translation>
-    </message>
-    <message>
-        <source>Connection is not encrypted</source>
-        <translation type="obsolete">Konekto ne estas ĉifrita</translation>
     </message>
     <message>
         <location line="-85"/>
@@ -7889,7 +9177,7 @@ Kialo: %1</translation>
         <translation>&amp;Helpo</translation>
     </message>
     <message>
-        <location line="+237"/>
+        <location line="+323"/>
         <source>Receive next event</source>
         <translation>Ricevi la venontan eventon</translation>
     </message>
@@ -7904,12 +9192,39 @@ Kialo: %1</translation>
         <translation>&amp;Kaŝi</translation>
     </message>
     <message>
-        <location line="+33"/>
+        <location line="+45"/>
+        <source>Status Message</source>
+        <translation type="unfinished">Stata mesaĝo</translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Active accounts:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>
+Active accounts:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Incoming event(s) from:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>
+Incoming event(s) from:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+26"/>
         <source>Connecting</source>
         <translation>Konektantas</translation>
     </message>
     <message>
-        <location line="+266"/>
+        <location line="+326"/>
         <source>1 event received</source>
         <translation>1 evento riceviĝis</translation>
     </message>
@@ -7919,173 +9234,9 @@ Kialo: %1</translation>
         <translation>%1 evento riceviĝis</translation>
     </message>
     <message>
-        <source>Remove Group</source>
-        <translation type="obsolete">Forigi Grupon</translation>
-    </message>
-    <message>
-        <source>This will cause all contacts in this group to be disassociated with it.
-
-Proceed?</source>
-        <translation type="obsolete">Tio kaŭzos ke ĉiuj kontaktuloj en tiu ĉi grupo estu malligitaj kun ĝi.
-
-Ĉu efektivigi?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="obsolete">&amp;Jes</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="obsolete">&amp;Ne</translation>
-    </message>
-    <message>
-        <source>Toggle visibility of special roster groups</source>
-        <translation type="obsolete">Ŝanĝi videblecon de specialaj grupoj de kontaktlisto</translation>
-    </message>
-    <message>
-        <source>Toggles visibility of offline contacts in roster</source>
-        <translation type="obsolete">Ŝanĝas videblecon de neenretaj kontaktoj</translation>
-    </message>
-    <message>
-        <source>Toggles visibility of away/xa/dnd contacts in roster</source>
-        <translation type="obsolete">Ŝanĝas videbleco de foraj/xa/dnd kontaktoj en la kontaktlisto</translation>
-    </message>
-    <message>
-        <source>Show Hidden</source>
-        <translation type="obsolete">Montru la Kaŝitajn</translation>
-    </message>
-    <message>
-        <source>Toggles visibility of hidden contacts in roster</source>
-        <translation type="obsolete">Ŝanĝas videblecon de kaŝitaj kontaktoj en la kontaktlisto</translation>
-    </message>
-    <message>
-        <source>Toggles visibility of agents/transports in roster</source>
-        <translation type="obsolete">Ŝanĝas videblecon de agentoj/transportoj en la kontaktlisto</translation>
-    </message>
-    <message>
-        <source>Special item that displays number of pending events</source>
-        <translation type="obsolete">Speciala individuo kiu montras nombron de respondendaj okazaĵoj</translation>
-    </message>
-    <message>
-        <source>Service &amp;Discovery</source>
-        <translation type="obsolete">Serva &amp;Malkovrado</translation>
-    </message>
-    <message>
-        <source>Show Read Me file</source>
-        <translation type="obsolete">Montru LeguMin-an dosieron</translation>
-    </message>
-    <message>
-        <source>Psi Handbook (Online)</source>
-        <translation type="obsolete">Psian Manlibron (Enrete)</translation>
-    </message>
-    <message>
-        <source>Psi &amp;Handbook (Online)</source>
-        <translation type="obsolete">Psian &amp;Manlibron (Enrete)</translation>
-    </message>
-    <message>
-        <source>Report a Bug</source>
-        <translation type="obsolete">Raporti Cimon</translation>
-    </message>
-    <message>
-        <source>Report a &amp;Bug</source>
-        <translation type="obsolete">Raporti &amp;Cimon</translation>
-    </message>
-    <message>
-        <source>Configure Toolbars</source>
-        <translation type="obsolete">Agordu Ilobarojn</translation>
-    </message>
-    <message>
-        <source>Configure Tool&amp;bars</source>
-        <translation type="obsolete">Agordu &amp;Ilobarojn</translation>
-    </message>
-    <message>
-        <source>Toggles whether sound should be played or not</source>
-        <translation type="obsolete">Ŝanĝas ĉu sonoj devas aŭdiĝi aŭ ne</translation>
-    </message>
-    <message>
-        <source>Quits Psi</source>
-        <translation type="obsolete">Ĉesas Psion</translation>
-    </message>
-    <message>
-        <source>Tip of the Day</source>
-        <translation type="obsolete">Taga Konsilo</translation>
-    </message>
-    <message>
-        <source>&amp;Tip of the Day</source>
-        <translation type="obsolete">&amp;Taga Konsilo</translation>
-    </message>
-    <message>
-        <source>See many useful tips</source>
-        <translation type="obsolete">Vidi multajn utilajn konsilojn</translation>
-    </message>
-    <message>
-        <source>Transfer Manager</source>
-        <translation type="obsolete">Ŝuta Administrilo</translation>
-    </message>
-    <message>
-        <source>Trans&amp;fer Manager</source>
-        <translation type="obsolete">Ŝuta &amp;Administrilo</translation>
-    </message>
-    <message>
-        <source>Opens the Transfer Manager dialog</source>
-        <translation type="obsolete">Malfermas la ŝutadministracian dialogujon</translation>
-    </message>
-    <message>
-        <source>Changes your global status to &apos;%1&apos;</source>
-        <translation type="obsolete">Tio ĉi ŝanĝas via ĝenerala stato al &apos;%1&apos;</translation>
-    </message>
-    <message>
-        <source>Online</source>
-        <translation type="obsolete">Enreta</translation>
-    </message>
-    <message>
-        <source>Free for Chat</source>
-        <translation type="obsolete">Libera por Babilado</translation>
-    </message>
-    <message>
-        <source>Away</source>
-        <translation type="obsolete">For</translation>
-    </message>
-    <message>
-        <source>XA</source>
-        <translation type="obsolete">Ne Disponebla</translation>
-    </message>
-    <message>
-        <source>DND</source>
-        <translation type="obsolete">Ne Ĝenu</translation>
-    </message>
-    <message>
-        <source>Invisible</source>
-        <translation type="obsolete">Nevidebla</translation>
-    </message>
-    <message>
-        <source>Offline</source>
-        <translation type="obsolete">Malenreta</translation>
-    </message>
-    <message>
-        <source>The main Psi button, that provides access to many actions</source>
-        <translation type="obsolete">La ĉefa Psia butono, kiu provizas aliron al multaj agoj</translation>
-    </message>
-    <message>
-        <source>Provides a convenient way to change and to get information about current status</source>
-        <translation type="obsolete">Provizas oportunan manieron ŝanĝi kaj akiri informon pri la nuntempa stato</translation>
-    </message>
-    <message>
-        <source>Separator</source>
-        <translation type="obsolete">Disigilo</translation>
-    </message>
-    <message>
-        <source>Spacer provides spacing to separate actions</source>
-        <translation type="obsolete">Spacigilo provizas spacigon por malsimilaj agoj</translation>
-    </message>
-    <message>
-        <location line="-926"/>
+        <location line="-1232"/>
         <source>Menu</source>
         <translation>Menuo</translation>
-    </message>
-    <message>
-        <source>Preferences</source>
-        <translation type="obsolete">Preferaĵoj</translation>
     </message>
     <message>
         <location line="-34"/>
@@ -8094,17 +9245,17 @@ Proceed?</source>
         <translation>Ĝenerale</translation>
     </message>
     <message>
-        <location line="-44"/>
+        <location line="-47"/>
         <source>Status</source>
         <translation>Stato</translation>
     </message>
     <message>
-        <location line="+54"/>
+        <location line="-63"/>
         <source>View</source>
         <translation>Vidi</translation>
     </message>
     <message>
-        <location line="+14"/>
+        <location line="+133"/>
         <source>Tools</source>
         <translation>Iloj</translation>
     </message>
@@ -8114,13 +9265,13 @@ Proceed?</source>
         <translation>Helpo</translation>
     </message>
     <message>
-        <location line="-181"/>
-        <location line="+192"/>
+        <location line="-248"/>
+        <location line="+259"/>
         <source>Diagnostics</source>
         <translation>Diagnozoj</translation>
     </message>
     <message>
-        <location line="+526"/>
+        <location line="+614"/>
         <source>Security Plugins Diagnostic Text</source>
         <translation>Sekureca Kromaĵa Diagnoza Tekso</translation>
     </message>
@@ -8141,16 +9292,9 @@ Proceed?</source>
     </message>
 </context>
 <context>
-    <name>MainWin::Private</name>
-    <message>
-        <source>Diagnostics</source>
-        <translation type="obsolete">Diagnozoj</translation>
-    </message>
-</context>
-<context>
     <name>MainWindow</name>
     <message>
-        <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="+46"/>
+        <location filename="../../psi-plus/src/plugins/generic/chess/mainwindow.cpp" line="+46"/>
         <source>New</source>
         <translation type="unfinished">Nova</translation>
     </message>
@@ -8203,33 +9347,13 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
 <context>
     <name>MiniClient</name>
     <message>
-        <location filename="../src/miniclient.cpp" line="+165"/>
+        <location filename="../../psi-plus/src/miniclient.cpp" line="+165"/>
         <source>Server Authentication</source>
         <translation>Servila aŭtentikado</translation>
     </message>
     <message>
-        <source>The %1 certificate failed the authenticity test.</source>
-        <translation type="obsolete">La %1 atesto malsukcesis je la testo de aŭtentikeco.</translation>
-    </message>
-    <message>
-        <source>Reason: %1</source>
-        <translation type="obsolete">Kialo: %1</translation>
-    </message>
-    <message>
-        <source>&amp;Details...</source>
-        <translation type="obsolete">&amp;Detaloj...</translation>
-    </message>
-    <message>
-        <source>Co&amp;ntinue</source>
-        <translation type="obsolete">&amp;Daŭrigi</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="obsolete">&amp;Nuligi</translation>
-    </message>
-    <message>
         <location line="+69"/>
-        <location line="+18"/>
+        <location line="+19"/>
         <source>Server Error</source>
         <translation>Servila eraro</translation>
     </message>
@@ -8241,19 +9365,38 @@ Details: %1</source>
 Detaloj: %1</translation>
     </message>
     <message>
-        <source>Reason: %1.</source>
-        <translation type="obsolete">Kialo: %1.</translation>
-    </message>
-    <message>
-        <location line="-18"/>
+        <location line="-19"/>
         <source>The server does not support TLS encryption.</source>
         <translation>Tiu servilo ne permesas TLS ĉifradon.</translation>
     </message>
 </context>
 <context>
+    <name>Model</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/model.cpp" line="+27"/>
+        <source>Enable/Disable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>JID (or part of JID)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/model.cpp" line="+29"/>
+        <source>Watch for JIDs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sounds (if empty default sound will be used)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Mood</name>
     <message>
-        <location filename="../src/mood.ui" line="+16"/>
+        <location filename="../../psi-plus/src/mood.ui" line="+16"/>
         <source>Set Mood</source>
         <translation type="unfinished">Difini Humoron</translation>
     </message>
@@ -8281,47 +9424,120 @@ Detaloj: %1</translation>
 <context>
     <name>MoodDlg</name>
     <message>
-        <location filename="../src/mooddlg.cpp" line="+38"/>
-        <location line="+10"/>
+        <location filename="../../psi-plus/src/mooddlg.cpp" line="+43"/>
+        <location line="+19"/>
         <source>&lt;unset&gt;</source>
         <translation>&lt;sendifina&gt;</translation>
     </message>
 </context>
 <context>
-    <name>MsgMle</name>
-    <message>
-        <source>Open mail composer</source>
-        <translation type="obsolete">Malfermu poŝto-verkilon</translation>
-    </message>
-    <message>
-        <source>Open web browser</source>
-        <translation type="obsolete">Malfermu retfolumilon</translation>
-    </message>
-    <message>
-        <source>Copy location</source>
-        <translation type="obsolete">Kopiu lokon</translation>
-    </message>
-</context>
-<context>
     <name>MyHeaderViewWidget</name>
     <message>
-        <location filename="../src/tools/optionstree/optionstreeviewtest/optionstreeviewtest.cpp" line="+27"/>
+        <location filename="../../psi-plus/src/tools/optionstree/optionstreeviewtest/optionstreeviewtest.cpp" line="+27"/>
         <source>Flat</source>
         <translation type="unfinished">Plata</translation>
     </message>
 </context>
 <context>
+    <name>NoteModel</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/storagenotesplugin/tagsmodel.cpp" line="+170"/>
+        <source>Title: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>
+Tags: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Notes</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/storagenotesplugin/notes.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/storagenotesplugin/notes.cpp" line="+44"/>
+        <location line="+39"/>
+        <location line="+131"/>
+        <source>Notebook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+56"/>
+        <source>Add note</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Edit note</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Delete note</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+40"/>
+        <source>Load notes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Reload</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Save notes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Close window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Close</source>
+        <translation type="unfinished">Fermi</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/storagenotesplugin/notes.cpp" line="-130"/>
+        <source>Some changes are not saved. Are you sure you want to quit?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+131"/>
+        <source>Some changes are not saved. Are you sure you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+39"/>
+        <source>Error! Perhaps the function is not implemented on the server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+10"/>
+        <source>Storage Notes Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-1"/>
+        <source>Notes has been saved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptAdvanced</name>
     <message>
-        <source>Enable &apos;Contact is typing ...&apos; events</source>
-        <translation type="obsolete">Ŝalti la &apos;Kontakto estas tajpanta ...&apos; eventojn</translation>
-    </message>
-    <message>
-        <source>Enable &apos;inactivity&apos; events (end/suspend conversation)</source>
-        <translation type="obsolete">Ŝalti la senaktivecajn eventojn (ĉesi/suspendi babiladon)</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_advanced.ui" line="+13"/>
+        <location filename="../../psi-plus/src/options/opt_advanced.ui" line="+13"/>
         <source>OptAdvancedUI</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8333,6 +9549,26 @@ Detaloj: %1</translation>
     <message>
         <location line="+7"/>
         <source>Enable &quot;Inactivity&quot; events (end/suspend conversation)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Disables the sending of message events such as &quot;Contact is Typing...&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Do not send composing events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Request receipts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Send receipts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8427,80 +9663,9 @@ Detaloj: %1</translation>
     </message>
 </context>
 <context>
-    <name>OptAdvancedUI</name>
-    <message>
-        <source>Single-click triggers default action</source>
-        <translation type="obsolete">Unuobla-klako kaŭzos antaŭsupozitan agon</translation>
-    </message>
-    <message>
-        <source>Always show self-contact</source>
-        <translation type="obsolete">Ĉiam montru mem-kontaktulon</translation>
-    </message>
-    <message>
-        <source>Grab URLs from clipboard</source>
-        <translation type="obsolete">Ekkapti URL-ojn de tondejo</translation>
-    </message>
-    <message>
-        <source>Jabber ID completion</source>
-        <translation type="obsolete">Jabber-ID plenigado</translation>
-    </message>
-    <message>
-        <source>Show subject line in events</source>
-        <translation type="obsolete">Montri teman linion en eventoj</translation>
-    </message>
-    <message>
-        <source>Show character counter</source>
-        <translation type="obsolete">Montri kalkulilon de signoj</translation>
-    </message>
-    <message>
-        <source>Automatically get vCard when becoming online</source>
-        <translation type="obsolete">Aŭtomatike akiri vCard-on enirante la reton</translation>
-    </message>
-    <message>
-        <source>Check client version when a contact comes online</source>
-        <translation type="obsolete">Kontroli kliento-version kiam kontaktulo eniras reton</translation>
-    </message>
-    <message>
-        <source>Animate the roster when a contact comes online</source>
-        <translation type="obsolete">Animacii la kontaktoliston kiam kontaktulo ekenretas</translation>
-    </message>
-    <message>
-        <source>Scroll roster to contact on event</source>
-        <translation type="obsolete">Rulumi kontaktoliston al kontaktulo je evento</translation>
-    </message>
-    <message>
-        <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation type="obsolete">Ignori &quot;Ĉefliniajn&quot; okazajojn (ekz. MSN alarmoj)</translation>
-    </message>
-    <message>
-        <source>Treat incoming messages and chats as:</source>
-        <translation type="obsolete">Trakti envenantajn mesaĝojn kaj babilojn kiel:</translation>
-    </message>
-    <message>
-        <source>Determined by sender</source>
-        <translation type="obsolete">Determinita fare de sendanto</translation>
-    </message>
-    <message>
-        <source>Messages</source>
-        <translation type="obsolete">Mesaĝoj</translation>
-    </message>
-    <message>
-        <source>Chats</source>
-        <translation type="obsolete">Babiladoj</translation>
-    </message>
-    <message>
-        <source>Messages (Chats if Chatting)</source>
-        <translation type="obsolete">Mesaĝoj (Babiloj se estas Babilado)</translation>
-    </message>
-    <message>
-        <source>Enable message events</source>
-        <translation type="obsolete">Aktivigi la mesaĝajn eventojn</translation>
-    </message>
-</context>
-<context>
     <name>OptAppearance</name>
     <message>
-        <location filename="../src/options/opt_appearance.ui" line="+14"/>
+        <location filename="../../psi-plus/src/options/opt_appearance.ui" line="+14"/>
         <source>OptAppearanceUI</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8625,7 +9790,17 @@ Detaloj: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+384"/>
+        <location line="+359"/>
+        <source>Specifies the color for additional text of system messages. MUC topic for example.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Additional message text:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+45"/>
         <source>Chat:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8653,83 +9828,15 @@ Detaloj: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Online contacts</source>
-        <translation type="obsolete">Enretaj kontakoj</translation>
-    </message>
-    <message>
-        <source>Away contacts</source>
-        <translation type="obsolete">Foraj kontaktoj</translation>
-    </message>
-    <message>
-        <source>DND contacts</source>
-        <translation type="obsolete">Neĝenendaj kontaktoj</translation>
-    </message>
-    <message>
-        <source>Offline contacts</source>
-        <translation type="obsolete">Malenretaj kontakoj</translation>
-    </message>
-    <message>
-        <source>Contact list background</source>
-        <translation type="obsolete">Kontaktolista fono</translation>
-    </message>
-    <message>
-        <source>Status messages</source>
-        <translation type="obsolete">Statmesaĝoj</translation>
-    </message>
-    <message>
-        <source>Account heading background</source>
-        <translation type="obsolete">Kontaktoĉefaĵa fono</translation>
-    </message>
-    <message>
-        <source>Group heading background</source>
-        <translation type="obsolete">Grupoĉefaĵa fono</translation>
-    </message>
-    <message>
-        <source>Nick animation foreground</source>
-        <translation type="obsolete">Kromnoma animacia malfono</translation>
-    </message>
-    <message>
-        <source>Nick animation background</source>
-        <translation type="obsolete">Kromnoma animacia fono</translation>
-    </message>
-    <message>
-        <source>Account heading foreground</source>
-        <translation type="obsolete">Kontaktoĉefaĵa malfono</translation>
-    </message>
-    <message>
-        <source>Group heading foreground</source>
-        <translation type="obsolete">Grupoĉefaĵa malfono</translation>
-    </message>
-    <message>
         <location line="-67"/>
         <source>Fonts</source>
         <translation type="unfinished">Tiparoj</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="obsolete">Babilo</translation>
-    </message>
-    <message>
-        <source>Message</source>
-        <translation type="obsolete">Mesaĝo</translation>
-    </message>
-    <message>
-        <source>Choose</source>
-        <translation type="obsolete">Elekti</translation>
-    </message>
-    <message>
-        <source>Roster</source>
-        <translation type="obsolete">Kontaktolisto</translation>
-    </message>
-    <message>
-        <source>Popup</source>
-        <translation type="obsolete">Ŝprucaĵo</translation>
     </message>
 </context>
 <context>
     <name>OptAppearanceMisc</name>
     <message>
-        <location filename="../src/options/opt_appearance_misc.ui" line="+16"/>
+        <location filename="../../psi-plus/src/options/opt_appearance_misc.ui" line="+16"/>
         <source>OptAppearanceMiscUI</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8771,111 +9878,39 @@ Detaloj: %1</translation>
     </message>
 </context>
 <context>
-    <name>OptAppearanceUI</name>
+    <name>OptAppearanceTheme</name>
     <message>
-        <source>Small group headings in roster</source>
-        <translation type="obsolete">Malgrandaj gruptitoloj en la kontaktolisto</translation>
+        <location filename="../../psi-plus/src/options/opt_theme.ui" line="+14"/>
+        <source>OptAppearanceThemeUI</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Colors</source>
-        <translation type="obsolete">Koloroj</translation>
-    </message>
-    <message>
-        <source>Group Background</source>
-        <translation type="obsolete">Fono de grupo</translation>
-    </message>
-    <message>
-        <source>Offline</source>
-        <translation type="obsolete">Senkonekte</translation>
-    </message>
-    <message>
-        <source>Away</source>
-        <translation type="obsolete">For</translation>
-    </message>
-    <message>
-        <source>Online</source>
-        <translation type="obsolete">Konektite</translation>
-    </message>
-    <message>
-        <source>Nick Anim Foreground</source>
-        <translation type="obsolete">Malfono de kromnoma animacio</translation>
-    </message>
-    <message>
-        <source>DND</source>
-        <translation type="obsolete">Ne ĝeni</translation>
-    </message>
-    <message>
-        <source>List Background</source>
-        <translation type="obsolete">Fono de listo</translation>
-    </message>
-    <message>
-        <source>Nick Anim Background</source>
-        <translation type="obsolete">Fono de kromnoma animacio</translation>
-    </message>
-    <message>
-        <source>Group Foreground</source>
-        <translation type="obsolete">Malfono de grupo</translation>
-    </message>
-    <message>
-        <source>Fonts</source>
-        <translation type="obsolete">Tiparoj</translation>
-    </message>
-    <message>
-        <source>Choose</source>
-        <translation type="obsolete">Elekti</translation>
-    </message>
-    <message>
-        <source>Popup</source>
-        <translation type="obsolete">Ŝprucaĵo</translation>
-    </message>
-    <message>
-        <source>Roster</source>
-        <translation type="obsolete">Kontaktolisto</translation>
-    </message>
-    <message>
-        <source>Message</source>
-        <translation type="obsolete">Mesaĝo</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="obsolete">Babilo</translation>
+        <location line="+47"/>
+        <source>&lt;a href=&quot;thememanager://showmore/&quot;&gt;More themes&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptApplication</name>
     <message>
-        <location filename="../src/options/opt_application.ui" line="+13"/>
+        <location filename="../../psi-plus/src/options/opt_application.ui" line="+13"/>
         <source>OptApplicationUI</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Roster window always on top</source>
-        <translation type="unfinished">Kontaktolista fenestro ĉiam supre</translation>
-    </message>
-    <message>
-        <location line="+7"/>
-        <source>Auto-resize contact list</source>
-        <translation type="unfinished">Aŭtomate regrandigi kontaktliston</translation>
-    </message>
-    <message>
-        <source>Remember window sizes</source>
-        <translation type="obsolete">Memori grandecojn de fenestroj</translation>
-    </message>
-    <message>
-        <location line="+10"/>
-        <source>Use left-click for menu</source>
-        <translation type="unfinished">Uzi maldekstran musklakon por menuo</translation>
-    </message>
-    <message>
-        <location line="+7"/>
-        <source>Show menubar</source>
-        <translation type="unfinished">Montri menubreton</translation>
+        <source>Automatically launch application when OS starts</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Enable docklet</source>
         <translation type="unfinished">Ŝalti doketaĵon</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Decorate windows</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+10"/>
@@ -8903,7 +9938,12 @@ Detaloj: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+10"/>
+        <source>Quit when closing the roster window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
         <source>Data transfer base port:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8923,98 +9963,20 @@ Detaloj: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use &quot;double-click&quot; style (like Mirabilis ICQ)</source>
-        <translation type="obsolete">Uzi &quot;duoble-klakan&quot; stilon (kiel Mirabilis ICQ)</translation>
+        <location line="+10"/>
+        <source>Language</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hide roster window on startup</source>
-        <translation type="obsolete">Kaŝi kontaktolistan fenestron je startiĝo</translation>
-    </message>
-    <message>
-        <source>Make roster window a &quot;tool-window&quot;</source>
-        <translation type="obsolete">Estu fenestro de kontaktolisto &quot;ilofenestro&quot;</translation>
-    </message>
-    <message>
-        <source>Data transfer port:</source>
-        <translation type="obsolete">Datumŝuta pordo:</translation>
-    </message>
-    <message>
-        <location line="-12"/>
+        <location line="-22"/>
         <source>Data transfer external address:</source>
         <translation type="unfinished">Datumŝuta ekstera adreso:</translation>
     </message>
 </context>
 <context>
-    <name>OptApplicationUI</name>
-    <message>
-        <source>Roster window always on top</source>
-        <translation type="obsolete">Kontaktolista fenestro ĉiam supre</translation>
-    </message>
-    <message>
-        <source>Remember Window Sizes</source>
-        <translation type="obsolete">Memori grandecojn de fenestroj</translation>
-    </message>
-    <message>
-        <source>Use left-click for menu</source>
-        <translation type="obsolete">Uzi maldekstran musklakon por menuo</translation>
-    </message>
-    <message>
-        <source>Links</source>
-        <translation type="obsolete">Ligoj</translation>
-    </message>
-    <message>
-        <source>Open With:</source>
-        <translation type="obsolete">Malfermi Per:</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation type="obsolete">Propra</translation>
-    </message>
-    <message>
-        <source>Mailer</source>
-        <translation type="obsolete">Poŝtilo</translation>
-    </message>
-    <message>
-        <source>Browser</source>
-        <translation type="obsolete">TTT-legilo</translation>
-    </message>
-    <message>
-        <source>Enable Docklet</source>
-        <translation type="obsolete">Ŝalti doketaĵon</translation>
-    </message>
-    <message>
-        <source>Docklet</source>
-        <translation type="obsolete">Doketaĵo</translation>
-    </message>
-    <message>
-        <source>Use &quot;Double-click&quot; style (like Mirabilis ICQ)</source>
-        <translation type="obsolete">Uzu &quot;duoble-klakan&quot; stilon (kiel Mirabilis ICQ)</translation>
-    </message>
-    <message>
-        <source>Hide roster window on startup</source>
-        <translation type="obsolete">Kaŝi kontaktolistan fenestron je startiĝo</translation>
-    </message>
-    <message>
-        <source>Make roster window a &quot;Tool-Window&quot;</source>
-        <translation type="obsolete">Fenestro de kontaktolisto estu &quot;ilofenestro&quot;</translation>
-    </message>
-    <message>
-        <source>Use WindowMaker docklet</source>
-        <translation type="obsolete">Uzi doketaĵon de WindowMaker</translation>
-    </message>
-    <message>
-        <source>Data Transfer Port:</source>
-        <translation type="obsolete">Datumŝuta pordo:</translation>
-    </message>
-    <message>
-        <source>Data Transfer External Address:</source>
-        <translation type="obsolete">Datumŝuta ekstera adreso:</translation>
-    </message>
-</context>
-<context>
     <name>OptAvCall</name>
     <message>
-        <location filename="../src/options/opt_avcall.ui" line="+13"/>
+        <location filename="../../psi-plus/src/options/opt_avcall.ui" line="+14"/>
         <source>Form</source>
         <translation type="unfinished">Formularo</translation>
     </message>
@@ -9033,11 +9995,16 @@ Detaloj: %1</translation>
         <source>Video input:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location line="+17"/>
+        <source>Video support:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptChat</name>
     <message>
-        <location filename="../src/options/opt_chat.ui" line="+25"/>
+        <location filename="../../psi-plus/src/options/opt_chat.ui" line="+25"/>
         <source>Enter key sends chat messages</source>
         <translation type="unfinished">Klavo &quot;Enen&quot; sendas la babilaj mesaĝoj</translation>
     </message>
@@ -9057,10 +10024,6 @@ Detaloj: %1</translation>
         <translation type="unfinished">Malfermi babilojn je kompakta maniero</translation>
     </message>
     <message>
-        <source>Use tabbed mode</source>
-        <translation type="obsolete">Uzi langetan modon</translation>
-    </message>
-    <message>
         <location line="+31"/>
         <source>for chats only</source>
         <translation type="unfinished">nur por babiloj</translation>
@@ -9076,25 +10039,17 @@ Detaloj: %1</translation>
         <translation type="unfinished">por babiloj kaj MUC-oj malkune</translation>
     </message>
     <message>
-        <source>for mucs and chats in one window.</source>
-        <translation type="obsolete">por babiloj kaj MUC-oj en sama fenestro.</translation>
-    </message>
-    <message>
-        <location line="+10"/>
+        <location line="+15"/>
         <source>[customized]</source>
         <translation type="unfinished">[propra]</translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+30"/>
         <source>Auto-resize text input field</source>
         <translation type="unfinished">Aŭtomate regrandigi tekstan tajpkampon</translation>
     </message>
     <message>
-        <source>Default Action</source>
-        <translation type="obsolete">Defaŭlta Ago</translation>
-    </message>
-    <message>
-        <location line="-107"/>
+        <location line="-119"/>
         <source>OptChatUI</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9109,7 +10064,17 @@ Detaloj: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+35"/>
+        <location line="+5"/>
+        <source>for mucs, chats and roster in one window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <source>Show tab buttons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
         <source>Default action</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9150,64 +10115,9 @@ Detaloj: %1</translation>
     </message>
 </context>
 <context>
-    <name>OptChatUI</name>
-    <message>
-        <source>Contact &quot;says&quot; instead of IRC style</source>
-        <translation type="obsolete">Kontaktulo &quot;diras&quot; anstataŭ IRCa stilo</translation>
-    </message>
-    <message>
-        <source>Enter key sends chat messages</source>
-        <translation type="obsolete">Klavo &quot;Enen&quot; sendas la babilaj mesaĝoj</translation>
-    </message>
-    <message>
-        <source>Alert chat messages even if chat window is open</source>
-        <translation type="obsolete">Alarmi pri babilaj mesaĝoj eĉ se babila fenestro estas malfermita</translation>
-    </message>
-    <message>
-        <source>Raise chat window on receiving new messages</source>
-        <translation type="obsolete">Levigi la babiladan fenestron kiam riceviĝas novaj mesaĝoj</translation>
-    </message>
-    <message>
-        <source>Default Action</source>
-        <translation type="obsolete">Antaŭsupozita ago</translation>
-    </message>
-    <message>
-        <source>Message</source>
-        <translation type="obsolete">Mesaĝo</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="obsolete">Babilo</translation>
-    </message>
-    <message>
-        <source>Delete chat window contents (end conversation)</source>
-        <translation type="obsolete">Forigi enhavojn de la babila fenestro (fini konversacion)</translation>
-    </message>
-    <message>
-        <source>When chat window is closed</source>
-        <translation type="obsolete">Kiam babilada fenestro estas fermita</translation>
-    </message>
-    <message>
-        <source>One hour after chat window was closed</source>
-        <translation type="obsolete">Unu horo post tio ke la babila fenestro estas fermita</translation>
-    </message>
-    <message>
-        <source>One day after chat window was closed</source>
-        <translation type="obsolete">Unu tago post tio ke la babila fenestro estas fermita</translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation type="obsolete">Neniam</translation>
-    </message>
-    <message>
-        <source>Open chats in compact mode</source>
-        <translation type="obsolete">Malfermi babilojn je kompakta maniero</translation>
-    </message>
-</context>
-<context>
     <name>OptEvents</name>
     <message>
-        <location filename="../src/options/opt_events.ui" line="+13"/>
+        <location filename="../../psi-plus/src/options/opt_events.ui" line="+13"/>
         <source>OptEventsUI</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9296,20 +10206,76 @@ Detaloj: %1</translation>
         <source>Animate</source>
         <translation type="unfinished">Animacii</translation>
     </message>
+</context>
+<context>
+    <name>OptPlugins</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_plugins.ui" line="+14"/>
+        <source>OptPluginsUI</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location line="+23"/>
+        <source>Plugin Name:</source>
+        <translation type="unfinished">Kromaĵa Nomo:</translation>
+    </message>
+    <message>
+        <location line="+42"/>
+        <source>Version: 0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+34"/>
+        <source>Plugin Location:</source>
+        <translation type="unfinished">Kromaĵa Loko:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>No plugin selected</source>
+        <translation type="unfinished">Neniu kromaĵo elektita</translation>
+    </message>
+    <message>
+        <location line="-34"/>
+        <source>Load this plugin</source>
+        <translation type="unfinished">Ŝargi tiun kromaĵon</translation>
+    </message>
+</context>
+<context>
+    <name>OptPopups</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_popups.ui" line="+14"/>
+        <source>OptPopupsUI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
         <source>Enable popup notifications</source>
         <translation type="unfinished">Aktivigi ŝprucajn sciigojn</translation>
     </message>
     <message>
         <location line="+10"/>
+        <source>Notifications type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
         <source>Popup notifications</source>
         <translation type="unfinished">Ŝprucaj sciigoj</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+6"/>
         <source>On incoming message event</source>
         <translation type="unfinished">Kiam envenas mesaĝa evento</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Show incoming message on popup</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
@@ -9320,6 +10286,11 @@ Detaloj: %1</translation>
         <location line="+7"/>
         <source>On incoming file event</source>
         <translation type="unfinished">Kiam envenas dosiera evento</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>When a contact begins typing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
@@ -9336,126 +10307,220 @@ Detaloj: %1</translation>
         <source>When a contact changes status</source>
         <translation type="unfinished">Kiam kontaktulo ŝanĝas sian staton</translation>
     </message>
-</context>
-<context>
-    <name>OptEventsUI</name>
     <message>
-        <source>Auto-open New Messages</source>
-        <translation type="obsolete">Aŭtomate malfermi la novajn mesaĝojn</translation>
-    </message>
-    <message>
-        <source>Autopopup New Headlines</source>
-        <translation type="obsolete">Aŭtomate ŝprucaj Novaj Ĉefliniloj</translation>
-    </message>
-    <message>
-        <source>Allow auto-open even when Away/XA</source>
-        <translation type="obsolete">Permesi la aŭtomatan malfermon eĉ dum For/ND</translation>
-    </message>
-    <message>
-        <source>Allow auto-open even from unlisted users</source>
-        <translation type="obsolete">Permesi la aŭtomatan malfermon eĉ de neenlistaj uzantoj</translation>
-    </message>
-    <message>
-        <source>Raise Roster Window On New Event</source>
-        <translation type="obsolete">Levigi la kontaktolistan fenestron kiam venas nova evento</translation>
-    </message>
-    <message>
-        <source>Ignore events from contacts not already in your roster</source>
-        <translation type="obsolete">Ignori eventojn de kontaktuloj, kiuj ankoraŭ ne estas en la kontaktlisto</translation>
-    </message>
-    <message>
-        <source>Auto-authorize contacts</source>
-        <translation type="obsolete">Aŭtomate rajtigi novajn kontaktulojn</translation>
-    </message>
-    <message>
-        <source>Alerts</source>
-        <translation type="obsolete">Alarmoj</translation>
-    </message>
-    <message>
-        <source>Solid</source>
-        <translation type="obsolete">Solida</translation>
-    </message>
-    <message>
-        <source>Blink</source>
-        <translation type="obsolete">Palpebruma</translation>
-    </message>
-    <message>
-        <source>Animate</source>
-        <translation type="obsolete">Animacia</translation>
-    </message>
-    <message>
-        <source>Enable popup notifications</source>
-        <translation type="obsolete">Aktivigi ŝprucajn sciigojn</translation>
-    </message>
-    <message>
-        <source>Popup Notifications</source>
-        <translation type="obsolete">Ŝprucaj Sciigoj</translation>
-    </message>
-    <message>
-        <source>On incoming Message event</source>
-        <translation type="obsolete">Kiam envenas mesaĝa evento</translation>
-    </message>
-    <message>
-        <source>On incoming Headline event</source>
-        <translation type="obsolete">Kiam envenas ĉeflinia evento</translation>
-    </message>
-    <message>
-        <source>When a contact becomes available</source>
-        <translation type="obsolete">Kiam kontaktulo iĝas disponebla</translation>
-    </message>
-    <message>
-        <source>When a contact becomes unavailable</source>
-        <translation type="obsolete">Kiam kontaktulo iĝas nedisponebla</translation>
-    </message>
-    <message>
-        <source>When a contact changes status</source>
-        <translation type="obsolete">Kiam kontaktulo ŝanĝas sian staton</translation>
-    </message>
-    <message>
-        <source>Auto-open New Headlines</source>
-        <translation type="obsolete">Aŭtomate malfermi novajn ĉefliniojn</translation>
-    </message>
-    <message>
-        <source>Auto-open New Files</source>
-        <translation type="obsolete">Aŭtomate malfermi novajn dosierojn</translation>
-    </message>
-    <message>
-        <source>On incoming File event</source>
-        <translation type="obsolete">Kiam envenas dosiera evento</translation>
-    </message>
-</context>
-<context>
-    <name>OptPlugins</name>
-    <message>
-        <location filename="../src/options/opt_plugins.ui" line="+16"/>
-        <source>OptPluginsUI</source>
+        <location line="+7"/>
+        <source>Enable popup notifications for every muc message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+12"/>
-        <source>Plugin Name:</source>
-        <translation type="unfinished">Kromaĵa Nomo:</translation>
+        <source>Limitations</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+14"/>
-        <source>Plugin Location:</source>
-        <translation type="unfinished">Kromaĵa Loko:</translation>
+        <location line="+6"/>
+        <source>Maximum JID length:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Maximum text length:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Maximum status length:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Popup location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Show popups from top to bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Place popups at left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+39"/>
+        <source>Misc</source>
+        <translation type="unfinished">Diversaĵo</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Avatar size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Durations, sec.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptRoster</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_roster.ui" line="+14"/>
+        <source>OptApplicationUI</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Roster window always on top</source>
+        <translation type="unfinished">Kontaktolista fenestro ĉiam supre</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Auto-resize contact list</source>
+        <translation type="unfinished">Aŭtomate regrandigi kontaktliston</translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>No plugin selected</source>
-        <translation type="unfinished">Neniu kromaĵo elektita</translation>
+        <source>Use left-click for menu</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+18"/>
-        <source>Load this plugin</source>
-        <translation type="unfinished">Ŝargi tiun kromaĵon</translation>
+        <location line="+7"/>
+        <source>Show menubar</source>
+        <translation type="unfinished">Montri menubreton</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Disables scrollbar in the application window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Disable scrollbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Enables avatar frame at the top of roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Enable roster avatar frame</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Autohide roster after</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Show avatars in roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Avatars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Show moods in roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Moods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Show activities in roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Activities</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Show geolocation in roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>GeoLocation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Show icon when contact is listening to music</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Now playing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Show icon of user client</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Clients</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>all client icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>only highest priority client icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Avatar settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Size</source>
+        <translation type="unfinished">Grandeco</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <location line="+36"/>
+        <source>px</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-13"/>
+        <source>Radius of corners</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptShortcuts</name>
     <message>
-        <location filename="../src/options/opt_shortcuts.ui" line="+19"/>
+        <location filename="../../psi-plus/src/options/opt_shortcuts.ui" line="+19"/>
         <source>OptShortcutsUI</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9475,17 +10540,9 @@ Detaloj: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Add</source>
-        <translation type="obsolete">Aldoni</translation>
-    </message>
-    <message>
         <location line="+7"/>
         <source>Remove</source>
         <translation type="unfinished">Forigi</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation type="obsolete">Redakti</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -9501,11 +10558,7 @@ Detaloj: %1</translation>
 <context>
     <name>OptSound</name>
     <message>
-        <source>Player</source>
-        <translation type="obsolete">Aŭdigilo</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_sound.ui" line="+16"/>
+        <location filename="../../psi-plus/src/options/opt_sound.ui" line="+16"/>
         <source>OptSoundUI</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9535,11 +10588,12 @@ Detaloj: %1</translation>
         <location line="+21"/>
         <location line="+7"/>
         <location line="+14"/>
+        <location line="+49"/>
         <source>Enter a filename or !beep for a system beep</source>
         <translation type="unfinished">Enskribu dosiernomon aŭ !beep por sistema pepo</translation>
     </message>
     <message>
-        <location line="-210"/>
+        <location line="-259"/>
         <source>Receive online status:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9584,159 +10638,42 @@ Detaloj: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+33"/>
+        <location line="+7"/>
+        <source>Receive MUC message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+54"/>
         <source>Reset to defaults</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Headline</source>
-        <translation type="obsolete">Ĉeflinio</translation>
-    </message>
-    <message>
-        <source>Receive online status</source>
-        <translation type="obsolete">Ricevi konektitan staton</translation>
-    </message>
-    <message>
-        <source>Receive message</source>
-        <translation type="obsolete">Ricevi mesaĝon</translation>
-    </message>
-    <message>
-        <source>Send message</source>
-        <translation type="obsolete">Sendi mesaĝon</translation>
-    </message>
-    <message>
-        <source>System message</source>
-        <translation type="obsolete">Sistema mesaĝo</translation>
-    </message>
-    <message>
-        <source>Incoming file transfer</source>
-        <translation type="obsolete">Envenanta dosiera ŝuto</translation>
-    </message>
-    <message>
-        <source>File transfer complete</source>
-        <translation type="obsolete">Dosiera ŝuto kompleta</translation>
-    </message>
-    <message>
-        <source>Receive next chat</source>
-        <translation type="obsolete">Ricevi la sekvan babilon</translation>
-    </message>
-    <message>
-        <source>Receive first chat</source>
-        <translation type="obsolete">Ricevi la unuan babilon</translation>
-    </message>
-    <message>
-        <source>Receive offline status</source>
-        <translation type="obsolete">Ricevi la senkonektan staton</translation>
-    </message>
-    <message>
-        <source>Reset to Defaults</source>
-        <translation type="obsolete">Restarigi la defaŭltojn</translation>
-    </message>
-    <message>
-        <location line="-292"/>
+        <location line="-320"/>
         <source>Headline:</source>
         <translation type="unfinished">Ĉeflinio:</translation>
     </message>
 </context>
 <context>
-    <name>OptSoundUI</name>
+    <name>OptStatusAuto</name>
     <message>
-        <source>Player:</source>
-        <translation type="obsolete">Aŭdigilo:</translation>
+        <location filename="../../psi-plus/src/options/opt_statusauto.ui" line="+14"/>
+        <source>Form</source>
+        <translation type="unfinished">Formularo</translation>
     </message>
     <message>
-        <source>Play sounds when Away/XA</source>
-        <translation type="obsolete">Aŭdigi sonojn dum stato For/ND</translation>
-    </message>
-    <message>
-        <source>Play sounds for all messages in groupchat</source>
-        <translation type="obsolete">Aŭdigi sonojn por ĉiuj mesaĝoj en babilejo</translation>
-    </message>
-    <message>
-        <source>Enter a filename or !beep for a system beep</source>
-        <translation type="obsolete">Enskribu dosiernomon aŭ !beep por sistema pepo</translation>
-    </message>
-    <message>
-        <source>Headline:</source>
-        <translation type="obsolete">Ĉeflinio:</translation>
-    </message>
-    <message>
-        <source>Receive Online Status:</source>
-        <translation type="obsolete">Ricevi konektitan staton:</translation>
-    </message>
-    <message>
-        <source>Receive Message:</source>
-        <translation type="obsolete">Ricevi mesaĝon:</translation>
-    </message>
-    <message>
-        <source>Send Message:</source>
-        <translation type="obsolete">Sendi mesaĝon:</translation>
-    </message>
-    <message>
-        <source>System Message:</source>
-        <translation type="obsolete">Sistema mesaĝo:</translation>
-    </message>
-    <message>
-        <source>Incoming File Transfer:</source>
-        <translation type="obsolete">Envenantas dosiera ŝuto:</translation>
-    </message>
-    <message>
-        <source>File Transfer Complete:</source>
-        <translation type="obsolete">Dosiera ŝuto kompletiĝis:</translation>
-    </message>
-    <message>
-        <source>Receive Next Chat:</source>
-        <translation type="obsolete">Ricevi la venontan babilon:</translation>
-    </message>
-    <message>
-        <source>Receive First Chat:</source>
-        <translation type="obsolete">Ricevi la unuan babilon:</translation>
-    </message>
-    <message>
-        <source>Receive Offline Status:</source>
-        <translation type="obsolete">Ricevi la senkonektan staton:</translation>
-    </message>
-    <message>
-        <source>Reset to defaults</source>
-        <translation type="obsolete">Reagordi al antaŭsupozaĵoj</translation>
-    </message>
-</context>
-<context>
-    <name>OptStatus</name>
-    <message>
-        <location filename="../src/options/opt_status.ui" line="+14"/>
-        <source>OptStatusUI</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+12"/>
-        <source>Prompt for status message when choosing</source>
-        <translation type="unfinished">Peti statan mesaĝon kiam oni elektas</translation>
-    </message>
-    <message>
-        <location line="+12"/>
-        <source>Online</source>
-        <translation type="unfinished">Enreta</translation>
-    </message>
-    <message>
-        <location line="+7"/>
-        <source>Offline</source>
-        <translation type="unfinished">Malenreta</translation>
-    </message>
-    <message>
-        <location line="+10"/>
+        <location line="+6"/>
         <source>Auto status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+27"/>
-        <location line="+10"/>
         <location line="+17"/>
-        <source>Minutes</source>
-        <translation type="unfinished">Minutoj</translation>
+        <location line="+10"/>
+        <location line="+31"/>
+        <source> minutes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+7"/>
+        <location line="-24"/>
         <source>Auto offline after:</source>
         <translation type="unfinished">Aŭtomate malkonektiĝi post:</translation>
     </message>
@@ -9751,110 +10688,231 @@ Detaloj: %1</translation>
         <translation type="unfinished">Aŭtomate iĝi fora post:</translation>
     </message>
     <message>
-        <source>Auto status message:</source>
-        <translation type="obsolete">Aŭtomata statmesaĝo:</translation>
-    </message>
-    <message>
-        <location line="+53"/>
-        <source>Presets</source>
-        <translation type="unfinished">Antaŭagordoj</translation>
-    </message>
-    <message>
-        <location line="+20"/>
-        <source>Preset:</source>
-        <translation type="unfinished">Antaŭagordo:</translation>
-    </message>
-    <message>
-        <location line="+23"/>
-        <source>New</source>
-        <translation type="unfinished">Nova</translation>
-    </message>
-    <message>
-        <location line="+7"/>
-        <source>Delete</source>
-        <translation type="unfinished">Forigi</translation>
-    </message>
-    <message>
-        <location line="+17"/>
-        <source>Status:</source>
-        <translation type="unfinished">Stato:</translation>
-    </message>
-    <message>
-        <location line="-82"/>
-        <location line="+105"/>
+        <location line="+59"/>
+        <location line="+10"/>
         <source>Priority:</source>
         <translation type="unfinished">Prioritato:</translation>
     </message>
     <message>
-        <location line="-127"/>
+        <location line="+9"/>
         <source>Status message:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+146"/>
-        <source>Content:</source>
-        <translation type="unfinished">Enhavo:</translation>
+        <location line="+23"/>
+        <source>Default priority</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Online:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+36"/>
+        <source>Away:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+36"/>
+        <source>Free For Chat:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+36"/>
+        <source>XA:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+36"/>
+        <source>Do Not Disturb:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+36"/>
+        <source>Invisible:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>OptStatusUI</name>
+    <name>OptStatusGeneral</name>
     <message>
-        <source>Prompt for status message when choosing &quot;Online&quot;</source>
-        <translation type="obsolete">Peti statan mesaĝon elektante &quot;Konektita&quot;</translation>
+        <location filename="../../psi-plus/src/options/opt_statusgeneral.ui" line="+14"/>
+        <source>Form</source>
+        <translation type="unfinished">Formularo</translation>
     </message>
     <message>
-        <source>Minutes</source>
-        <translation type="obsolete">Minutoj</translation>
-    </message>
-    <message>
-        <source>Auto Offline After:</source>
-        <translation type="obsolete">Aŭtomata stata senkonektiĝo post:</translation>
-    </message>
-    <message>
-        <source>Auto XA After:</source>
-        <translation type="obsolete">Aŭtomata stata ND-iĝo post:</translation>
-    </message>
-    <message>
-        <source>Auto Away After:</source>
-        <translation type="obsolete">Aŭtomata stata for-iĝo post:</translation>
-    </message>
-    <message>
-        <source>Auto Status Message:</source>
-        <translation type="obsolete">Mesaĝo de aŭtomata stato:</translation>
-    </message>
-    <message>
-        <source>Presets</source>
-        <translation type="obsolete">Antaŭskribitaj</translation>
-    </message>
-    <message>
-        <source>New</source>
-        <translation type="obsolete">Nova</translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="obsolete">Forviŝi</translation>
-    </message>
-    <message>
-        <source>Content:</source>
-        <translation type="obsolete">Enhavo:</translation>
-    </message>
-    <message>
+        <location line="+18"/>
         <source>Prompt for status message when choosing</source>
-        <translation type="obsolete">Petu statan mesaĝon kiam oni elektas</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
+        <location line="+11"/>
         <source>Online</source>
-        <translation type="obsolete">Konektite</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
+        <location line="+7"/>
+        <source>Free for Chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Away</source>
+        <translation type="unfinished">For</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Not Available</source>
+        <translation type="unfinished">Ne disponebla</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Do not Disturb</source>
+        <translation type="unfinished">Ne ĝeni</translation>
+    </message>
+    <message>
+        <location line="+7"/>
         <source>Offline</source>
-        <translation type="obsolete">Senkonekte</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>Status menus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Show presets in menus:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>As submenu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>With standard statuses</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>No</source>
+        <translation type="unfinished">Ne</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Hide Free for Chat, Away, Not Available and Do not Disturb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Hide standard statuses (Chat, Away, XA, DND)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Show &quot;Edit presets...&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Show &quot;Choose...&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Show &quot;Reconnect&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>Add</source>
+        <translation type="unfinished">Aldoni</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Edit</source>
+        <translation type="unfinished">Redakti</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Selected preset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Name:</source>
+        <translation type="unfinished">Nomo:</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Status:</source>
+        <translation type="unfinished">Stato:</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Priority:</source>
+        <translation type="unfinished">Prioritato:</translation>
+    </message>
+    <message>
+        <location line="+40"/>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptStatusPep</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_statuspep.ui" line="+20"/>
+        <source>Form</source>
+        <translation type="unfinished">Formularo</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Tunes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Enter media file extensions to ignore them on tune sending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Add extensions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Ignored media file extensions on psi tunes sending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Tune Controllers</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptionEditor</name>
     <message>
-        <location filename="../src/optioneditor.ui" line="+30"/>
+        <location filename="../../psi-plus/src/optioneditor.ui" line="+30"/>
         <source>Option:</source>
         <translation type="unfinished">Opcio:</translation>
     </message>
@@ -9864,16 +10922,12 @@ Detaloj: %1</translation>
         <translation type="unfinished">Speco:</translation>
     </message>
     <message>
-        <source>Typ:</source>
-        <translation type="obsolete">Tipo:</translation>
-    </message>
-    <message>
         <location line="+13"/>
         <source>Value: </source>
         <translation type="unfinished">Valoro: </translation>
     </message>
     <message>
-        <location filename="../src/psioptionseditor.cpp" line="+52"/>
+        <location filename="../../psi-plus/src/psioptionseditor.cpp" line="+52"/>
         <location line="+24"/>
         <location line="+13"/>
         <source>Psi: Option Editor</source>
@@ -9900,322 +10954,573 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
     </message>
 </context>
 <context>
+    <name>Options</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/attentionplugin/options.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/options.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/options.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/options.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/options.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/pepchangenotifyplugin/options.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="+14"/>
+        <source>Form</source>
+        <translation type="unfinished">Formularo</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Allow receiving one Attention from the same contact every</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>sec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Don&apos;t hide popup if status is Away or XA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Disable notifications if status is DND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/options.ui" line="+147"/>
+        <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/options.ui" line="+164"/>
+        <source>Play sound:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+39"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/options.ui" line="-141"/>
+        <source>If you use this plugin at first time, make sure that all your accounts
+is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Update Birthdays</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Clear Birthdays Cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Check Birthdays</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Start notifying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>days in advance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Check birthdays every</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Update birthdays every</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>days (0 - automatic update disabled)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Remind for contacts from active accounts only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Check birthdays on startup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+61"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/captchaformsplugin/options.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="+14"/>
+        <source>Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Auto-popup Captcha dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Use proxy settings from account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+37"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/options.ui" line="+6"/>
+        <source>Contact menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Toolbar action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/options.ui" line="-156"/>
+        <source>Supported accounts:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+32"/>
+        <source>There is no supported accounts!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Account Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source> If set to &quot;true&quot;, the server will send
+ notifications of unread email.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Mail notifications</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source> If set to &quot;true&quot;, the server will save
+ Google Talk chats on the server;
+ if set to &quot;false&quot;, no conversations
+ will be logged.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Message archiving</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source> If set to &quot;true&quot;, the server will
+ automatically add people emailed
+ often to the user&apos;s roster.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Auto-accept suggestions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source> Enable multiple applications signed in
+ as the same user to report the same
+ status message. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Enable Shared Statuses</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source> Google Talk server disables server-side
+ logging of individual conversations and
+ sends notifications.
+ Enable &quot;Message archiving&quot; option for use!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Enable Off the Record Chats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source> Enable &quot;Mail notifications&quot; option!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Mail Notifications Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Show all unread messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Show new messages only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Start program:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+65"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/options.ui" line="+18"/>
+        <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="+379"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="+109"/>
+        <source>Add</source>
+        <translation type="unfinished">Aldoni</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="+7"/>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+46"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/pepchangenotifyplugin/options.ui" line="+8"/>
+        <source>Per contact delay between the popup notifications of the same events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Delay between popups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="-66"/>
+        <source>Disable popups if status is DND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Enable notifications for:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Tune</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Mood</source>
+        <translation type="unfinished">Humoro</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Activity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Geolocation</source>
+        <translation type="unfinished">Globloko</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Sound:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+39"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="-363"/>
+        <source>Main</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Question:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Answer:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Congratulation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>MUC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Enable Stop Spam for private messages in MUC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Enable Stop Spam for affiliations:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Owner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Admin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Member</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>None</source>
+        <translation type="unfinished">Neniu</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Enable Stop Spam for roles:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Moderator</source>
+        <translation type="unfinished">Kontrolanto</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Participant</source>
+        <translation type="unfinished">Partoprenanto</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Visitor</source>
+        <translation type="unfinished">Vizitanto</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Block all private messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Send message:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Misc</source>
+        <translation type="unfinished">Diversaĵo</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Number of blocked stanzas:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>View Log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Reset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Send maximum</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>times</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Timeout to reset counter:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>min.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Log blocked messages to contact&apos;s history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+39"/>
+        <source>Del</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Disable stopspam, if don&apos;t match any rule above
+(does not work for muc private messages)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="-40"/>
+        <source>Status</source>
+        <translation type="unfinished">Stato</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Delete selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Add row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Default sound: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Messages</source>
+        <translation type="unfinished">Mesaĝoj</translation>
+    </message>
+    <message>
+        <location line="+37"/>
+        <source>Edit</source>
+        <translation type="unfinished">Redakti</translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Disable sound if chat window is active</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/options.cpp" line="+141"/>
+        <source>Authorizing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Authorizing OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Authorization failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Canceled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Choose file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Uploading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Error! %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Cookies are removed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptionsDlg</name>
     <message>
-        <source>Options</source>
-        <translation type="obsolete">Elektoj</translation>
-    </message>
-    <message>
-        <source>Windows Default Browser/Mail</source>
-        <translation type="obsolete">Vindozo Defaŭlta Folumilo/Poŝtilo</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation type="obsolete">Agordita</translation>
-    </message>
-    <message>
-        <source>KDE Default Browser/Mail</source>
-        <translation type="obsolete">KDE Defaŭlta Folumilo/Poŝtilo</translation>
-    </message>
-    <message>
-        <source>GNOME2 Default Browser/Mail</source>
-        <translation type="obsolete">GNOME2 Defaŭlta Folumilo/Poŝtilo</translation>
-    </message>
-    <message>
-        <source>MacOS Default Browser/Mail</source>
-        <translation type="obsolete">MacOS Defaŭlta Folumilo/Poŝtilo</translation>
-    </message>
-    <message>
-        <source>Windows Sound</source>
-        <translation type="obsolete">Vindozo Sono</translation>
-    </message>
-    <message>
-        <source>MacOS Sound</source>
-        <translation type="obsolete">MacOS Sono</translation>
-    </message>
-    <message>
-        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="obsolete">Normale, dekstre-klaki per la muso sur kontaktulo aktivigos la kunteksto-menuo.  Elektu tiun ĉi elekton se vi prefere uzus maldekstra-klakon.</translation>
-    </message>
-    <message>
-        <source>Normally, a double-click on a contact will invoke the default action.  Check this option if you&apos;d rather invoke with a single-click.</source>
-        <translation type="obsolete">Normale, duoble-klaki sur kontaktulo alvokos la defaŭltan agon.  Elektu tiun ĉi elekton se vi prefere alvokus per unuobla-klako.</translation>
-    </message>
-    <message>
-        <source>Make the default action open a chat window.</source>
-        <translation type="obsolete">Igu la defaŭltan agon malfermi babilo-fenestron.</translation>
-    </message>
-    <message>
-        <source>Make the default action open a normal message window.</source>
-        <translation type="obsolete">Igu la defaŭltan agon malfermi normalan mesaĝo-fenestron.</translation>
-    </message>
-    <message>
-        <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="obsolete">Igas ke la ĉefa Psi-fenestro ĉiam estu antaŭ aliaj fenestroj.</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation type="obsolete">&lt;P&gt;Regas por kiom da tempo la babilo-historio estos konservita en memoro post la babilo-fenestro estas fermita.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation type="obsolete">&lt;P&gt;Tiu ĉi elekto ne restigas la babilo-historion en memoro.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation type="obsolete">&lt;P&gt;Tiu ĉi elekto ne restigas la babilo-historion por unu horo antaŭ foriganta ĝin.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation type="obsolete">&lt;P&gt;Tiu ĉi elekto ne restigas la babilo-historion por unu tago antaŭ foriganta ĝin.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation type="obsolete">&lt;P&gt;Tiu ĉi elekto ne restigas la babilo-historion eterne.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>Makes Psi remember window size and positions for chats and messages.  If disabled, the windows will always appear in their default positions and sizes.</source>
-        <translation type="obsolete">Igas ke Psi memoru grandojn kaj poziciojn de fenestroj de babiloj kaj mesaĝoj.  Se malŝaltita, la fenestroj ĉiam aperos en siaj defaŭltaj pozicioj kaj grandoj.</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;Emoticons are short sequences of characters that are used to convey an emotion or idea.&lt;/P&gt;&lt;P&gt;Enable this option if you want Psi to replace common emoticons with a graphical image.&lt;/P&gt;&lt;P&gt;For example, &lt;B&gt;:-)&lt;/B&gt; would be relaced by &lt;img src=&quot;smile&quot;&gt;&lt;/P&gt;</source>
-        <translation type="obsolete">&lt;P&gt;Mienvinjetoj estas mallongaj ĉenoj de signoj kiuj estas uzitaj por elmontri emocion aŭ ideon.&lt;/P&gt;&lt;P&gt;Ŝaltu tiun ĉi elekton se vi volas ke Psi anstataŭigu ordinarajn mienvinjetojn kun grafika bildo.&lt;/P&gt;&lt;P&gt;Ekzemple, &lt;B&gt;:-)&lt;/B&gt; estus anstataŭigita kun &lt;img src=&quot;smile&quot;&gt;&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;Changes the normal chat style from:&lt;/P&gt;&lt;P&gt;[01:23:45] &lt;MyName&gt; Hi&lt;/P&gt;&lt;P&gt;[01:23:56] &lt;YourName&gt; How are you?&lt;/P&gt;&lt;P&gt;to:&lt;/P&gt;&lt;P&gt;[01:23:45] MyName says:&lt;/P&gt;&lt;P&gt;Hi&lt;/P&gt;&lt;P&gt;[01:23:56] YourName says:&lt;/P&gt;&lt;P&gt;How are you?&lt;/P&gt;</source>
-        <translation type="obsolete">&lt;P&gt;Ŝanĝas la normalan babilo-stion de:&lt;/P&gt;&lt;P&gt;[01:23:45] &lt;MiaNomo&gt; Saluton&lt;/P&gt;&lt;P&gt;[01:23:56] &lt;ViaNomo&gt; Kiel vi fartas?&lt;/P&gt;&lt;P&gt;al:&lt;/P&gt;&lt;P&gt;[01:23:45] MiaNomo diras:&lt;/P&gt;&lt;P&gt;Saluton&lt;/P&gt;&lt;P&gt;[01:23:56] ViaNomo diras:&lt;/P&gt;&lt;P&gt;Kiel vi fartas?&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>Selects what applications to use for handling URLs and e-mail addresses.  You can choose between the system default and custom applications.</source>
-        <translation type="obsolete">Elektas kiujn programojn uzi por trakti URL-ojn kaj retadresojn.  Vi povas elekti inter la sistem-defaŭlto kaj agorditaj programoj.</translation>
-    </message>
-    <message>
-        <source>Enter the path to the application&apos;s executable and choose &quot;Custom&quot; in the list above.</source>
-        <translation type="obsolete">Enskribu la dosierindikon de la plenumeblo de la programo kaj elektu &quot;Agordita&quot; el la listo supre.</translation>
-    </message>
-    <message>
-        <source>Specify what custom browser application to use for handling URLs here.</source>
-        <translation type="obsolete">Specifu kiun agorditan folumilo-programon uzi por trakti URL-ojn tie ĉi.</translation>
-    </message>
-    <message>
-        <source>Specify what custom mailer application to use for handling e-mail addresses here.</source>
-        <translation type="obsolete">Specifu kiun agorditan poŝtilo-programon uzi por trakti retadresojn tie ĉi.</translation>
-    </message>
-    <message>
-        <source>Makes Psi use a docklet icon, also known as system tray icon.</source>
-        <translation type="obsolete">Igas ke Psi uzu doketo-piktogramon, ankaŭ nomata sistemo-pleto-piktogramo.</translation>
-    </message>
-    <message>
-        <source>Normally, single-clicking on the Psi docklet icon brings the main window to the foreground.  Check this option if you would rather use a double-click.</source>
-        <translation type="obsolete">Normale, unuoble-klaki sur la Psi doketo alportas la ĉefan fenestron al la malfono.  Elektu tiun ĉi elekton se vi prefere uzus duobla-klakon.</translation>
-    </message>
-    <message>
-        <source>Starts Psi with only the docklet icon visible.</source>
-        <translation type="obsolete">Ŝaltas Psi-on kun nur la doketo-piktogramo kiel videbla.</translation>
-    </message>
-    <message>
-        <source>Prevents Psi from taking up a slot on the taskbar and makes the main window use a small titlebar.</source>
-        <translation type="obsolete">Preventas, ke Psi okupu foldon en la taskujo kaj igas, ka la ĉefa fenestro uzu malgrandan titolujon.</translation>
-    </message>
-    <message>
-        <source>Specifies the text color for a contact name in the main window when that user is &quot;%1&quot;.</source>
-        <translation type="obsolete">Specifas la teksto-koloron por kontaktulo-nomo en la ĉefa fenestro kiam tiu uzanta estas &quot;%1&quot;.</translation>
-    </message>
-    <message>
-        <source>online</source>
-        <translation type="obsolete">enreta</translation>
-    </message>
-    <message>
-        <source>offline</source>
-        <translation type="obsolete">malenreta</translation>
-    </message>
-    <message>
-        <source>away</source>
-        <translation type="obsolete">for</translation>
-    </message>
-    <message>
-        <source>do not disturb</source>
-        <translation type="obsolete">ne ĝenu</translation>
-    </message>
-    <message>
-        <source>Specifies the background color for a group name in the main window.</source>
-        <translation type="obsolete">Specifas la fono-koloron por gruponomo en la ĉefa fenestro.</translation>
-    </message>
-    <message>
-        <source>Specifies the background color for the main window.</source>
-        <translation type="obsolete">Specifas la fono-koloron por la ĉefa fenestro.</translation>
-    </message>
-    <message>
-        <source>Specifies the font style for the main window.</source>
-        <translation type="obsolete">Specifas la tiparo-fasonon por la ĉefa fenestro.</translation>
-    </message>
-    <message>
-        <source>Specifies the font style for message windows.</source>
-        <translation type="obsolete">Specifas la tiparo-fasonon por mesaĝo-fenestroj.</translation>
-    </message>
-    <message>
-        <source>Specifies the font style for chat windows.</source>
-        <translation type="obsolete">Specifas la tiparo-fasonon por babilo-fenestroj.</translation>
-    </message>
-    <message>
-        <source>Selects a font for the a roster window using the font selection dialog.</source>
-        <translation type="obsolete">Elektas tiparon por kontaktulolisto-fenestro per uzi la tiparo-elektado-dialogon.</translation>
-    </message>
-    <message>
-        <source>Selects a font for message windows using the font selection dialog.</source>
-        <translation type="obsolete">Elektas tiparon por mesaĝo-fenestroj per uzi la tiparo-elektado-dialogon.</translation>
-    </message>
-    <message>
-        <source>Selects a font for chat windows using the font selection dialog.</source>
-        <translation type="obsolete">Elektas tiparon por babilo-fenestroj per uzi la tiparo-elektado-dialogon.</translation>
-    </message>
-    <message>
-        <source>Selects a set of icons to use in the main window.  Icons are usually used for visual identification of users&apos; status, such as &quot;online&quot;, &quot;offline&quot;, &quot;away&quot;, etc.</source>
-        <translation type="obsolete">Elektas aron de piktogramoj uzi en la ĉefa fenestro.  Piktogramoj estas kutime uzata por vida identigado de statoj de uzantoj, kiel &quot;enreta&quot;, &quot;malrenta&quot;, &quot;for&quot;, ktp.</translation>
-    </message>
-    <message>
-        <source>Makes new incoming message windows pop up automatically when received.</source>
-        <translation type="obsolete">Igas ke novaj envenantaj mesaĝo-fenestroj aperigu aŭomate kiam ricevitaj.</translation>
-    </message>
-    <message>
-        <source>Makes new incoming chat windows pop up automatically when received.</source>
-        <translation type="obsolete">Igas ke novaj envenantaj babilo-fenestroj aperigu aŭomate kiam ricevitaj.</translation>
-    </message>
-    <message>
-        <source>Normally, Psi will not autopopup events when you are away.  Set this option if you want them to popup anyway.</source>
-        <translation type="obsolete">Normale, Psi ne aŭtomate aperigas okazojn kiam vi estas for.  Elektu tiun ĉi elekton se vi ankoraŭ volas ke ili aperigu.</translation>
-    </message>
-    <message>
-        <source>Normally, Psi will not autopopup events from users not in your roster.  Set this option if you want them to popup anyway.</source>
-        <translation type="obsolete">Normale, Psi ne aŭtomate aperigas okazojn de uzantoj kiuj ne estas en via kontaktulolist.  Elektu tiun ĉi elekton se vi ankoraŭ volas ke ili aperigu.</translation>
-    </message>
-    <message>
-        <source>Makes new incoming events bring the main window to the foreground.</source>
-        <translation type="obsolete">Igas ke novaj envenantaj okazoj alportu la ĉefan fenestron al la malfono.</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;Specifies how to treat incoming events:&lt;/P&gt;&lt;P&gt;&lt;B&gt;Normal&lt;/B&gt; - messages come as messages, chats come as chats.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Messages&lt;/B&gt; - All messages/chats come as messages, no matter what their original form was.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Chats&lt;/B&gt; - All messages/chats come as chats, no matter what their original form was.&lt;/P&gt;</source>
-        <translation type="obsolete">&lt;P&gt;Specifas kiel trakti envenantajn okazojn:&lt;/P&gt;&lt;P&gt;&lt;B&gt;Normale&lt;/B&gt; - mesaĝoj venas kial mesaĝoj, babiloj venas kiel babiloj.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Mesaĝoj&lt;/B&gt; - Ĉiuj mesaĝoj/babiloj venas kiel mesaĝoj, senkonsidere de tio kio estis ilia originala formo.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Chats&lt;/B&gt; - Ĉiuj mesaĝoj/babiloj venas kiel babiloj, senkonsidere de tio kio estis ilia originala formo.&lt;/P&gt;</translation>
-    </message>
-    <message>
-        <source>Does not animate or blink incoming event icons on the main window as they are received.</source>
-        <translation type="obsolete">Ne animas aŭ palpebrumigas envenanta-okazo-piktogramojn je la ĉefa fenestro kiam ili estas ricevita.</translation>
-    </message>
-    <message>
-        <source>Makes all incoming event icons blink on the main window as events are received.</source>
-        <translation type="obsolete">Igas ke ĉiuj envenantaj okazo-piktogramoj palpebrumu je la ĉefa fenestro dum okazoj estas ricevataj.</translation>
-    </message>
-    <message>
-        <source>Animates incoming event icons on the main window as events are recieved.</source>
-        <translation type="obsolete">Animas envenantajn okazo-piktogramojn je la ĉefa fenestro dum okazoj estas ricevataj.</translation>
-    </message>
-    <message>
-        <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation type="obsolete">Igas ke Psi ignoru ĉiujn envenantajn &quot;kapolinio&quot; okazojn, kiel sistemvastan novaĵon pri MSN, anoncadojn, ktp.</translation>
-    </message>
-    <message>
-        <source>Makes Psi scroll the main window automatically so you can see new incoming events.</source>
-        <translation type="obsolete">Igas ke Psi rulumu la ĉefan fenstron aŭtomate por ke vi povas vidi novajn envenantajn okajojn.</translation>
-    </message>
-    <message>
-        <source>Normally, Psi will not alert you when a new chat message is received in a chat window that is already open.  Check this option if you want to receive these alerts anyway.</source>
-        <translation type="obsolete">Normale, Psi ne alarmos vin kiam nova babilo-mesaĝo estas ricevita en jam-malfermita babilo-fenestro.  Elektu tiun ĉi elekton se vi ankoraŭ volas ricevi tiujn alermojn.</translation>
-    </message>
-    <message>
-        <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation type="obsolete">Jabber permesas al oni meti pliajn stato-mesaĝojn en ĉiuj stato-specoj.  Normale, Psi ne petas al vi plian mesaĝon kiam vi faras vian staton esti &quot;enreta&quot;.  Elektu tiun ĉi elekton se vi volas havi tiun ĉi peton.</translation>
-    </message>
-    <message>
-        <source>Makes Psi animate contact names in the main window when they come online.</source>
-        <translation type="obsolete">Igas ke Psi animu kontaktulonomoj en la ĉefa fenestro kiam ili ekenretas.</translation>
-    </message>
-    <message>
-        <source>Makes Psi automatically set your status to &quot;away&quot; if your computer is idle for the specified amount of time.</source>
-        <translation type="obsolete">Igas ke Psi aŭtomate fari vian staton esti &quot;for&quot; se via komputilo estas senfara por la specifita sumo da tempo.</translation>
-    </message>
-    <message>
-        <source>Makes Psi automatically set your status to &quot;extended away&quot; if your computer is idle for the specified amount of time.</source>
-        <translation type="obsolete">Igas ke Psi aŭtomate fari vian staton esti &quot;XA&quot; se via komputilo estas senfara por la specifita sumo da tempo.</translation>
-    </message>
-    <message>
-        <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation type="obsolete">Igas ke Psi aŭtomate fari vian staton esti &quot;malenreta&quot; se via komputilo estas senfara por la specifita sumo da tempo.  Tiu ĉi malkonektos vin de la Jabber-servilo.</translation>
-    </message>
-    <message>
-        <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
-        <translation type="obsolete">Specifas plian mesaĝon uzi se vi permesas al Psi agordi vian staton aŭtomate.  Vidu elektojn supre.</translation>
-    </message>
-    <message>
-        <source>Press this button to create a new status message preset.</source>
-        <translation type="obsolete">Klaku sur tiu ĉi butono por krei novan stato-mesaĝo-aprioron.</translation>
-    </message>
-    <message>
-        <source>Press this button to delete a status message preset.</source>
-        <translation type="obsolete">Klaku sur tiu ĉi butono por forigi stato-mesaĝo-aprioron.</translation>
-    </message>
-    <message>
-        <source>Use this list to select a status message preset to view or edit in the box to the right.</source>
-        <translation type="obsolete">Uzu tiun ĉi liston por elekti stato-mesaĝo-aprioron rigardi aŭ redaktu en la ujo dekstre.</translation>
-    </message>
-    <message>
-        <source>You may edit the message here for the currently selected status message preset in the list to the left.</source>
-        <translation type="obsolete">Vi rajtas redakti la mesaĝon tie ĉi por la nune elektita stato-mesaĝo-aprioro en la listo maldekstre.</translation>
-    </message>
-    <message>
-        <source>If your system supports multiple sound players, you may choose your preferred sound player application here.</source>
-        <translation type="obsolete">Se via sistemo subtenas multoblajn sonolegilojn, vi rajtas elekti vian preferitan sonolegilo-programon tie ĉi.</translation>
-    </message>
-    <message>
-        <source>Enable this option if you wish to hear sound alerts when your status is &quot;away&quot; or &quot;extended away&quot;.</source>
-        <translation type="obsolete">Ŝaltu tiun ĉi elekton se vi deziras aŭdi sonalarmojn kiam via stato estas &quot;for&quot; aŭ &quot;XA&quot;.</translation>
-    </message>
-    <message>
-        <source>New Status Preset</source>
-        <translation type="obsolete">Nova Stato-Aprioro</translation>
-    </message>
-    <message>
-        <source>Please enter a name for the new status preset:</source>
-        <translation type="obsolete">Bonvolu enskribi nomon por la nova stato-aprioro:</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="obsolete">Eraro</translation>
-    </message>
-    <message>
-        <source>Can&apos;t create a blank preset!</source>
-        <translation type="obsolete">Ne povas krei blankan aprioron!</translation>
-    </message>
-    <message>
-        <source>You already have a preset with that name!</source>
-        <translation type="obsolete">Vi jam havas aprioron de tiu nomo!</translation>
-    </message>
-    <message>
-        <source>Sound (*.wav)</source>
-        <translation type="obsolete">Sono (*.wav)</translation>
-    </message>
-    <message>
-        <source>Choose a sound file</source>
-        <translation type="obsolete">Elektu sono-dosieron</translation>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/optionsdlg.ui" line="+14"/>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptionsTabAdvanced</name>
     <message>
-        <source>Advanced</source>
-        <translation type="obsolete">Spertaj</translation>
-    </message>
-    <message>
-        <source>Options for advanced users</source>
-        <translation type="obsolete">Opcioj por spertaj uzantoj</translation>
-    </message>
-    <message>
-        <location filename="../src/options/opt_advanced.cpp" line="+64"/>
+        <location filename="../../psi-plus/src/options/opt_advanced.cpp" line="+68"/>
         <source>Normally, a double-click on a contact will invoke the default action.  Check this option if you&apos;d rather invoke with a single-click.</source>
         <translation>Normale, duobla klako sur kontaktulo alvokos la antaŭsupozitan agon.  Elektu tiun ĉi elekton se vi prefere volas alvoki per unuobla-klako.</translation>
-    </message>
-    <message>
-        <source>If checked, always show the self-contact in roster, otherwise it is shown only when multiple resources are connected to your account.</source>
-        <translation type="obsolete">Se aktive, ĉiam montru la mem-kontaktulo en la kontaktlisto. Alie, montru nur tiam, kiam pluraj &quot;rimedoj&quot; konektiĝis al via konto.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -10243,10 +11548,6 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
         <translation>Psio montru kalkulilon de longeco de mesaĝo. Elektu tion ĉi se vivolas scii kiom longas vian mesaĝon. Tio ĉi eble utilas, se vi uzas SMSan transporton.</translation>
     </message>
     <message>
-        <source>Automatically sends iq:version query to contact when he becomes online. This allows you to determine what client he is using to get online. Note: results in increased traffic.</source>
-        <translation type="obsolete">Aŭtomate sendas &quot;iq:version&quot; demando al la kontakto, kiam li iĝas kontektita. Tio permesas al vi determini kian klienton la aliflankulo uzas por konektiĝi. Rimarku: rezultas pli granda datumtrafiko. </translation>
-    </message>
-    <message>
         <location line="+2"/>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
         <translation>Laŭ antaŭsupozaĵo, Psi ĉiam kontrolas vian vCard-on tuj post ensaluto. Se vi volas ŝpari iom da trafiko, vi povas malaktivigi tiun ĉi konduton.</translation>
@@ -10267,7 +11568,7 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
         <translation>Psi ignoru ĉiujn envenantajn &quot;ĉefliniajn&quot;eventojn, kiel sistemvastajn novaĵojn pri MSN, anoncadojn, ktp.</translation>
     </message>
     <message>
-        <location line="-41"/>
+        <location line="-45"/>
         <source>Enables the sending and requesting of message events such as &apos;Contact is Typing&apos;, ...</source>
         <translation>Aktivigas la sendadon kaj petadon de mesaĝaj eventoj kiel &apos;Kontaktulo skribantas&apos;, ...</translation>
     </message>
@@ -10288,6 +11589,16 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
     </message>
     <message>
         <location line="+3"/>
+        <source>Request receipts from contacts on each message.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Send receipts to contacts by request.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
         <source>Enables remote controlling your client from other locations</source>
         <translation>Ŝaltas la foran kontrolon de via kliento el aliaj lokoj</translation>
     </message>
@@ -10310,81 +11621,9 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
 <context>
     <name>OptionsTabAppearance</name>
     <message>
-        <location filename="../src/options/opt_appearance.cpp" line="+18"/>
+        <location filename="../../psi-plus/src/options/opt_appearance.cpp" line="+18"/>
         <source>Appearance</source>
         <translation>Aspekto</translation>
-    </message>
-    <message>
-        <source>Psi&apos;s Appearance</source>
-        <translation type="obsolete">Aspekto de Psi</translation>
-    </message>
-    <message>
-        <source>Specifies the font style for the main window.</source>
-        <translation type="obsolete">Specifas la tiparon por la ĉefa fenestro.</translation>
-    </message>
-    <message>
-        <source>Specifies the font style for message windows.</source>
-        <translation type="obsolete">Specifas la tiparon por la mesaĝo-fenestroj.</translation>
-    </message>
-    <message>
-        <source>Specifies the font style for chat windows.</source>
-        <translation type="obsolete">Specifas la tiparon por la babilaj fenestroj.</translation>
-    </message>
-    <message>
-        <source>Specifies the font style for popup windows.</source>
-        <translation type="obsolete">Specifas la tiparon por la ŝprucfenestroj.</translation>
-    </message>
-    <message>
-        <source>Selects a font for the a roster window using the font selection dialog.</source>
-        <translation type="obsolete">Elektas tiparon por kontaktolista fenestro per uzo dialogujo de tipara elektado.</translation>
-    </message>
-    <message>
-        <source>Selects a font for message windows using the font selection dialog.</source>
-        <translation type="obsolete">Elektas tiparon por lamesaĝo-fenestroj per la dialogujo de tipara elektado.</translation>
-    </message>
-    <message>
-        <source>Selects a font for chat windows using the font selection dialog.</source>
-        <translation type="obsolete">Elektas tiparon por la babilaj fenestroj per la dialogo de tipara elektado.</translation>
-    </message>
-    <message>
-        <source>Specifies the text color for a contact name in the main window when that user is &quot;%1&quot;.</source>
-        <translation type="obsolete">Specifas la koloron de teksto por nomo de kontaktulo en la ĉefa fenestro, kiam tiu uzanto estas &quot;%1&quot;.</translation>
-    </message>
-    <message>
-        <source>online</source>
-        <translation type="obsolete">Konektite</translation>
-    </message>
-    <message>
-        <source>offline</source>
-        <translation type="obsolete">Senkonekte</translation>
-    </message>
-    <message>
-        <source>away</source>
-        <translation type="obsolete">for</translation>
-    </message>
-    <message>
-        <source>do not disturb</source>
-        <translation type="obsolete">ne ĝeni</translation>
-    </message>
-    <message>
-        <source>Specifies the background color for a group name in the main window.</source>
-        <translation type="obsolete">Specifas la koloron de la fono por gruponomoj en la ĉefa fenestro.</translation>
-    </message>
-    <message>
-        <source>Specifies the background color for the main window.</source>
-        <translation type="obsolete">Specifas la koloron de la fono por la ĉefa fenestro.</translation>
-    </message>
-    <message>
-        <source>Specifies the foreground animation color for nicks.</source>
-        <translation type="obsolete">Specifas la malfonan animacian koloron por la kromonoj.</translation>
-    </message>
-    <message>
-        <source>Specifies the background animation color for nicks.</source>
-        <translation type="obsolete">Specifas la fonan animacian koloron por la kromonoj.</translation>
-    </message>
-    <message>
-        <source>Toggles on new, smaller group headings.</source>
-        <translation type="obsolete">Aktivigas novajn, malgrandajn grupajn ĉefliniojn.</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -10395,7 +11634,7 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
 <context>
     <name>OptionsTabAppearanceGeneral</name>
     <message>
-        <location line="+70"/>
+        <location line="+87"/>
         <source>Fonts &amp;&amp; Colors</source>
         <translation>Tiparoj &amp;&amp; Koloroj</translation>
     </message>
@@ -10469,26 +11708,6 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
         <source>Status message</source>
         <translation>Stata mesaĝo</translation>
     </message>
-    <message>
-        <source>Specifies the background color for an account name in the main window.</source>
-        <translation type="obsolete">Specifas la fono-koloron por kontonomo en la ĉefa fenestro.</translation>
-    </message>
-    <message>
-        <source>Specifies the background color for a group name in the main window.</source>
-        <translation type="obsolete">Specifas la fono-koloron por gruponomo en la ĉefa fenestro.</translation>
-    </message>
-    <message>
-        <source>Specifies the background color for the main window.</source>
-        <translation type="obsolete">Specifas la fono-koloron por la ĉefa fenestro.</translation>
-    </message>
-    <message>
-        <source>Specifies the foreground animation color for nicks.</source>
-        <translation type="obsolete">Specifas la malfonan animacian koloron por la kromnomoj.</translation>
-    </message>
-    <message>
-        <source>Specifies the background animation color for nicks.</source>
-        <translation type="obsolete">Specifas la fonan animacian koloron por la kromnomoj.</translation>
-    </message>
 </context>
 <context>
     <name>OptionsTabAppearanceMisc</name>
@@ -10504,9 +11723,22 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
     </message>
 </context>
 <context>
+    <name>OptionsTabAppearanceThemes</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_theme.cpp" line="+18"/>
+        <source>Themes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Configure themes</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabApplication</name>
     <message>
-        <location filename="../src/options/opt_application.cpp" line="+25"/>
+        <location filename="../../psi-plus/src/options/opt_application.cpp" line="+38"/>
         <source>Application</source>
         <translation>Programo</translation>
     </message>
@@ -10516,21 +11748,7 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
         <translation>Ĝeneralaj opcioj de la programo</translation>
     </message>
     <message>
-        <location line="+18"/>
-        <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation>La ĉefa Psi-fenestro ĉiam estu antaŭ la aliaj fenestroj.</translation>
-    </message>
-    <message>
-        <source>Makes Psi remember window size and positions for chats and messages.  If disabled, the windows will always appear in their default positions and sizes.</source>
-        <translation type="obsolete">Psi memoru grandecojn kaj poziciojn de fenestroj de babiloj kaj mesaĝoj.  Se ĝi malŝaltitas, la fenestroj ĉiam aperos laŭ siaj antaŭsupozitaj pozicioj kaj grandoj.</translation>
-    </message>
-    <message>
-        <location line="+4"/>
-        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation>Normale, dekstre musklaki sur kontaktulo aperigos la kuntekstan menuon.  Elektu tiun ĉi elekton se vi prefere uzus maldekstran klakon.</translation>
-    </message>
-    <message>
-        <location line="+116"/>
+        <location line="+203"/>
         <source>(TCP: Disabled, UDP: Auto)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10540,23 +11758,12 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Selects what applications to use for handling URLs and e-mail addresses.  You can choose between the system default and custom applications.</source>
-        <translation type="obsolete">Elektas kiujn programojn uzi por trakti URL-ojn kaj retadresojn.  Vi povas elekti inter la sistema antaŭsupozitaĵo kaj propraj programoj.</translation>
+        <location line="-189"/>
+        <source>Set or remove window decorations for roster and chats. For chats there are special header with close, hide and maximize buttons</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enter the path to the application&apos;s executable and choose &quot;Custom&quot; in the list above.</source>
-        <translation type="obsolete">Enskribu la dosiervojon de la plenumebla dosiero kaj elektu &quot;Propra&quot; el la listo supre.</translation>
-    </message>
-    <message>
-        <source>Specify what custom browser application to use for handling URLs here.</source>
-        <translation type="obsolete">Specifu kiun agorditan krozilon uzi por trakti URL-ojn tie ĉi.</translation>
-    </message>
-    <message>
-        <source>Specify what custom mailer application to use for handling e-mail addresses here.</source>
-        <translation type="obsolete">Specifu kiun agorditan poŝtilon uzi por trakti retadresojn tie ĉi.</translation>
-    </message>
-    <message>
-        <location line="-112"/>
+        <location line="+4"/>
         <source>Makes Psi use a docklet icon, also known as system tray icon.</source>
         <translation>Psio uzu doketo-piktogramon, ankaŭ nomate piktogramo de sistema pleto.</translation>
     </message>
@@ -10576,44 +11783,25 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
         <translation>Preventas, ke Psi okupu foldon en la taskujo kaj igas, ke la ĉefa fenestro uzu malgrandan titolbreton.</translation>
     </message>
     <message>
-        <source>Windows Default Browser/Mail</source>
-        <translation type="obsolete">Vindoza antaŭsupozitaj krozilo/retpoŝtilo</translation>
+        <location line="+68"/>
+        <source>Information</source>
+        <translation type="unfinished">Informo</translation>
     </message>
     <message>
-        <source>Custom</source>
-        <translation type="obsolete">Propra</translation>
+        <location line="+0"/>
+        <source>Some of the options you changed will only have full effect upon restart.</source>
+        <translation type="unfinished">Kelkaj opcioj kiujn vi ŝanĝis plene efikos nur post restarto. </translation>
     </message>
     <message>
-        <source>KDE Default Browser/Mail</source>
-        <translation type="obsolete">KDE antaŭsupozita krozilo/retpoŝtilo</translation>
-    </message>
-    <message>
-        <source>GNOME2 Default Browser/Mail</source>
-        <translation type="obsolete">GNOME2 antaŭsupozita krozilo/retpoŝtilo</translation>
-    </message>
-    <message>
-        <source>MacOS Default Browser/Mail</source>
-        <translation type="obsolete">MacOS antaŭsupozita krozilo/retpoŝtilo</translation>
-    </message>
-    <message>
-        <source>If checked, Psi will use the Window Maker docklet instead of FreeDesktop one.</source>
-        <translation type="obsolete">Psi uzu la doketon WindowMaker-an anstataŭ la FreeDesktop-an.</translation>
-    </message>
-    <message>
-        <location line="-16"/>
-        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation>Igas la ĉefan Psi fenestron regrandigi aŭtomate por taŭgiĝi laŭ ĉiuj kontaktoj.</translation>
-    </message>
-    <message>
-        <location line="+5"/>
-        <source>Shows the menubar in the application window.</source>
-        <translation>Montras la menubreton en la aplikaĵa fenestro.</translation>
+        <location line="+54"/>
+        <source>Default</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptionsTabAvCall</name>
     <message>
-        <location filename="../src/options/opt_avcall.cpp" line="+169"/>
+        <location filename="../../psi-plus/src/options/opt_avcall.cpp" line="+169"/>
         <source>Voice Calling</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10631,7 +11819,7 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
 <context>
     <name>OptionsTabChat</name>
     <message>
-        <location filename="../src/options/opt_chat.cpp" line="+26"/>
+        <location filename="../../psi-plus/src/options/opt_chat.cpp" line="+26"/>
         <source>Chat</source>
         <translation>Babilo</translation>
     </message>
@@ -10649,10 +11837,6 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
         <location line="+2"/>
         <source>Make the default action open a chat window.</source>
         <translation>Estu la antaŭsupozita ago malfermi babilo-fenestron.</translation>
-    </message>
-    <message>
-        <source>&lt;P&gt;Changes the normal chat style from:&lt;/P&gt;&lt;P&gt;[01:23:45] &amp;lt;MyName&amp;gt; Hi&lt;/P&gt;&lt;P&gt;[01:23:56] &amp;lt;YourName&amp;gt; How are you?&lt;/P&gt;&lt;P&gt;to:&lt;/P&gt;&lt;P&gt;[01:23:45] MyName says:&lt;/P&gt;&lt;P&gt;Hi&lt;/P&gt;&lt;P&gt;[01:23:56] YourName says:&lt;/P&gt;&lt;P&gt;How are you?&lt;/P&gt;</source>
-        <translation type="obsolete">&lt;P&gt;Ŝanĝas la normalan babilan stilon de:&lt;/p&gt;&lt;/p&gt;[01:23:45] &amp;lt;MiaNomo&amp;gt; Saluton&lt;/P&gt;&lt;P&gt;[01:23:56] &amp;lt;ViaNomo&amp;gt; Kiel vi?&lt;/P&gt;&lt;P&gt;to:&lt;/P&gt;&lt;P&gt;[01:23:45] MiaNomo diras:&lt;/P&gt;&lt;P&gt;Hi&lt;/P&gt;&lt;P&gt;[01:23:56] ViaNomo says:&lt;/P&gt;&lt;P&gt;Kiel vi?&lt;/P&gt;</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -10708,7 +11892,7 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
 <context>
     <name>OptionsTabEvents</name>
     <message>
-        <location filename="../src/options/opt_events.cpp" line="+26"/>
+        <location filename="../../psi-plus/src/options/opt_events.cpp" line="+26"/>
         <source>Events</source>
         <translation>Eventoj</translation>
     </message>
@@ -10748,18 +11932,6 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
         <translation>Tio ĉi faras ke Psi ignoru ĉiajn envenantajn eventojn de kontaktuloj, kiuj ankoraŭ ne estas en via kontaktolisto.</translation>
     </message>
     <message>
-        <source>Does not animate or blink incoming event icons on the main window as they are received.</source>
-        <translation type="obsolete">Ne animacias aŭ palpebrumigas piktogramojn de envenantaj eventoj en la ĉefa fenestro, kiam ili ricevatas.</translation>
-    </message>
-    <message>
-        <source>Makes all incoming event icons blink on the main window as events are received.</source>
-        <translation type="obsolete">Tio ĉi faras ke ĉiuj piktogramoj de envenantaj eventoj palpebrumu en la ĉefa fenestro dum la eventoj estas ricevataj.</translation>
-    </message>
-    <message>
-        <source>Animates incoming event icons on the main window as events are recieved.</source>
-        <translation type="obsolete">Animacias piktogramojn de envenantaj eventoj en la ĉefa fenestro dum la eventoj estas ricevataj.</translation>
-    </message>
-    <message>
         <location line="+15"/>
         <source>Makes Psi automatically accept all authorization requests from &lt;b&gt;anyone&lt;/b&gt;.</source>
         <translation>Tio ĉi faras ke Psi aŭtomate akceptu ĉiujn petojn pri rajtigo fare de &lt;b&gt;iu ajn&lt;/b&gt;.</translation>
@@ -10783,7 +11955,7 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
 <context>
     <name>OptionsTabGroupchat</name>
     <message>
-        <location filename="../src/options/opt_groupchat.cpp" line="+30"/>
+        <location filename="../../psi-plus/src/options/opt_groupchat.cpp" line="+30"/>
         <source>Groupchat</source>
         <translation>Babilejoj</translation>
     </message>
@@ -10794,9 +11966,56 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
     </message>
 </context>
 <context>
+    <name>OptionsTabIconset</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_appearance.cpp" line="-17"/>
+        <source>Icons</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabIconsetActivity</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_iconset.cpp" line="+831"/>
+        <source>Activity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Select your activity iconset</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabIconsetAffiliations</name>
+    <message>
+        <location line="+147"/>
+        <source>Affiliations</source>
+        <translation type="unfinished">Partneroj</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Select your affiliations iconset</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabIconsetClients</name>
+    <message>
+        <location line="+148"/>
+        <source>Clients</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Select your clients iconset</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabIconsetEmoticons</name>
     <message>
-        <location filename="../src/options/opt_iconset.cpp" line="+517"/>
+        <location line="-621"/>
         <source>Emoticons</source>
         <translation>Mienpiktogramoj</translation>
     </message>
@@ -10812,28 +12031,47 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
     </message>
 </context>
 <context>
-    <name>OptionsTabIconsetRoster</name>
-    <message>
-        <source>Roster Iconsets</source>
-        <translation type="obsolete">Kontaktlistaj piktogramaroj</translation>
-    </message>
+    <name>OptionsTabIconsetMoods</name>
     <message>
         <location line="+153"/>
+        <source>Moods</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Select your mood iconset</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabIconsetRoster</name>
+    <message>
+        <location line="+590"/>
         <source>Select iconsets for your roster</source>
         <translation>Elektas piktogramarojn por </translation>
     </message>
     <message>
-        <location line="+55"/>
+        <location line="+40"/>
+        <source>vk.com</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Weather</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
         <source>Toggles use of transport icons to the contacts, that use that transports.</source>
         <translation>Inversigas uzadon de portransportaj piktogramoj al la kontaktoj kiuj uzas tiajn transportojn.</translation>
     </message>
     <message>
-        <location line="-55"/>
+        <location line="-65"/>
         <source>Roster Icons</source>
         <translation>Kontaktlistaj Piktogramoj</translation>
     </message>
     <message>
-        <location line="+34"/>
+        <location line="+39"/>
         <source>Transport</source>
         <translation>Transporto</translation>
     </message>
@@ -10841,11 +12079,7 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
 <context>
     <name>OptionsTabIconsetSystem</name>
     <message>
-        <source>System Iconset</source>
-        <translation type="obsolete">Sistema piktogramaro</translation>
-    </message>
-    <message>
-        <location line="-353"/>
+        <location line="-948"/>
         <source>Select the system iconset</source>
         <translation>Elektu la sisteman piktogramaron</translation>
     </message>
@@ -10858,7 +12092,7 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
 <context>
     <name>OptionsTabPlugins</name>
     <message>
-        <location filename="../src/options/opt_plugins.cpp" line="+26"/>
+        <location filename="../../psi-plus/src/options/opt_plugins.cpp" line="+27"/>
         <source>Plugins</source>
         <translation>Kromaĵoj</translation>
     </message>
@@ -10868,21 +12102,66 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
         <translation>Psi kromaĵa agordo</translation>
     </message>
     <message>
-        <location line="+90"/>
+        <location line="+111"/>
         <source>No plugin selected.</source>
         <translation>Neniu kromaĵo elektita.</translation>
     </message>
     <message>
+        <location line="+12"/>
+        <source>Version: </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabPopups</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_popups.cpp" line="+37"/>
+        <source>Popups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>The popups behaviour</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabRoster</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_roster.cpp" line="+20"/>
+        <source>Roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Roster window options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Makes the main Psi window always be in front of other windows.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Makes the main Psi window resize automatically to fit all contacts.</source>
+        <translation type="unfinished">Igas la ĉefan Psi fenestron regrandigi aŭtomate por taŭgiĝi laŭ ĉiuj kontaktoj.</translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location line="+3"/>
-        <location line="+30"/>
-        <source>This plugin has no user configurable options</source>
-        <translation>Tiu kromaĵo ne havas opciojn agordeblajn de la uzanto</translation>
+        <source>Shows the menubar in the application window.</source>
+        <translation type="unfinished">Montras la menubreton en la aplikaĵa fenestro.</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabShortcuts</name>
     <message>
-        <location filename="../src/options/opt_shortcuts.cpp" line="+52"/>
+        <location filename="../../psi-plus/src/options/opt_shortcuts.cpp" line="+52"/>
         <source>Shortcuts</source>
         <translation>Mallongigoj</translation>
     </message>
@@ -10918,7 +12197,7 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
 <context>
     <name>OptionsTabSound</name>
     <message>
-        <location filename="../src/options/opt_sound.cpp" line="+32"/>
+        <location filename="../../psi-plus/src/options/opt_sound.cpp" line="+32"/>
         <source>Sound</source>
         <translation>Sono</translation>
     </message>
@@ -10928,7 +12207,7 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
         <translation>Agordi kiel Psio sonas</translation>
     </message>
     <message>
-        <location line="+84"/>
+        <location line="+88"/>
         <source>If your system supports multiple sound players, you may choose your preferred sound player application here.</source>
         <translation>Se via sistemo subtenas multoblajn sonaŭdigilojn, vi rajtas elekti vian preferatan aŭdigilon tie ĉi.</translation>
     </message>
@@ -10943,16 +12222,12 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
         <translation>Aŭdigi sonojn por ĉiaj eventoj en babilejo, ne nur por tiuj, kiuj rilatas al via kromnomo.</translation>
     </message>
     <message>
-        <location line="+44"/>
+        <location line="+45"/>
         <source>Windows Sound</source>
         <translation>Vindoza sono</translation>
     </message>
     <message>
-        <source>MacOS Sound</source>
-        <translation type="obsolete">MacOSa sono</translation>
-    </message>
-    <message>
-        <location line="+31"/>
+        <location line="+32"/>
         <source>Sound (*.wav)</source>
         <translation>Sono (*.wav)</translation>
     </message>
@@ -10962,7 +12237,7 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
         <translation>Elektu sondosieron</translation>
     </message>
     <message>
-        <location line="-28"/>
+        <location line="-29"/>
         <source>Mac OS Sound</source>
         <translation>MacOS Sono</translation>
     </message>
@@ -10970,7 +12245,7 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
 <context>
     <name>OptionsTabStatus</name>
     <message>
-        <location filename="../src/options/opt_status.cpp" line="+31"/>
+        <location filename="../../psi-plus/src/options/opt_status.cpp" line="+7"/>
         <source>Status</source>
         <translation>Stato</translation>
     </message>
@@ -10979,97 +12254,131 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
         <source>Status preferences</source>
         <translation>Stataj preferaĵoj</translation>
     </message>
+</context>
+<context>
+    <name>OptionsTabStatusAuto</name>
     <message>
-        <location line="+17"/>
+        <location filename="../../psi-plus/src/options/opt_statusauto.cpp" line="+21"/>
+        <source>Auto status and priority</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Auto status and priority preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
         <source>Makes Psi automatically set your status to &quot;away&quot; if your computer is idle for the specified amount of time.</source>
-        <translation>Tio ĉi faras ke Psi aŭtomate fiksi vian staton al &quot;for&quot; se via komputilo estas neuzata dum la specifita kvanto da tempo.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Makes Psi automatically set your status to &quot;extended away&quot; if your computer is idle for the specified amount of time.</source>
-        <translation>Tio ĉi faras ke Psi aŭtomate fiksi vian staton al &quot;ND&quot; se via komputilo estas neuzata por la specifita kvanto da tempo.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation>Tio ĉi faras ke Psi aŭtomate fiksi vian staton al &quot;senkonekte&quot; se via komputilo estas neuzata dum la specifita kvanto da tempo.  Tio ĉi malkonektos vin de la Jabbera servilo.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+34"/>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
-        <translation>Per tio ĉi specifeblas plia mesaĝo uzota, se vi permesas al Psi fiksi vian staton aŭtomate.  Vidu elektojn supre.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Specifies priority of auto-away status. If empty, Psi will use account&apos;s default priority.</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>OptionsTabStatusGeneral</name>
     <message>
-        <location line="+12"/>
+        <location filename="../../psi-plus/src/options/opt_statusgeneral.cpp" line="+24"/>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>General status preferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>Edit</source>
+        <translation type="unfinished">Redakti</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+19"/>
         <source>Press this button to create a new status message preset.</source>
-        <translation>Premu tiun ĉi butonon por krei novan antaŭskribaĵon de statmesaĝo.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Press this button to delete a status message preset.</source>
-        <translation>Premu tiun ĉi butonon por forigi antaŭskribaĵon de statmesaĝo.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+2"/>
-        <source>Use this list to select a status message preset to view or edit in the box to the bottom.</source>
-        <translation>Uzu tiun ĉi liston por elekti statmesaĝon antaŭskribitan, por ĝin vidi aŭ redakti per la suba tekstujo.</translation>
+        <location line="+6"/>
+        <source>You may edit the message here for the currently selected status message preset in the list to the above.</source>
+        <translation type="unfinished">Vi redaktu la mesaĝon ĉi tie por la nune elektita statmesaĝon antaŭskribitan en la supra listo.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>You may edit the message here for the currently selected status message preset in the list to the above.</source>
-        <translation>Vi redaktu la mesaĝon ĉi tie por la nune elektita statmesaĝon antaŭskribitan en la supra listo.</translation>
-    </message>
-    <message>
-        <location line="+9"/>
-        <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation>Jabber permesas al oni meti pliajn statmesaĝojn en ĉiajn statojn.  Normale, Psio ne petas al vi plian mesaĝon, kiam vi faras vian staton esti &quot;konektite&quot;.  Elektu tion ĉi se vi volas ke Psio tion petu al vi.</translation>
-    </message>
-    <message>
-        <location line="+168"/>
-        <source>New Status Preset</source>
-        <translation>Nova stata antaŭskribaĵo</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Please enter a name for the new status preset:</source>
-        <translation>Bonvolu enskribi nomon por la nova stata antaŭskribaĵo:</translation>
-    </message>
-    <message>
-        <location line="+7"/>
-        <location line="+2"/>
-        <source>Error</source>
-        <translation>Eraro</translation>
-    </message>
-    <message>
-        <location line="-2"/>
-        <source>Can&apos;t create a blank preset!</source>
-        <translation>Ne eblas krei malplenan antaŭskribaĵon!</translation>
-    </message>
-    <message>
-        <location line="+2"/>
-        <source>You already have a preset with that name!</source>
-        <translation>Vi jam havas antaŭskribaĵon per tiu nomo!</translation>
-    </message>
-    <message>
-        <location line="-184"/>
         <source>Use this to choose the status that will be assigned to this preset</source>
-        <translation>Uzu tiun por elekti la staton kunigotan al tiu agordo</translation>
+        <translation type="unfinished">Uzu tiun por elekti la staton kunigotan al tiu agordo</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Fill in the priority that will be assigned to this preset. If no priority is given, the default account priority will be used.</source>
-        <translation>Meti la prioritaton kiu estas asignota al tiu agordo. Se neniu prioritato estas donita, la defaŭlta konta prioritato estas uzota.</translation>
+        <translation type="unfinished">Meti la prioritaton kiu estas asignota al tiu agordo. Se neniu prioritato estas donita, la defaŭlta konta prioritato estas uzota.</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+255"/>
+        <location line="+4"/>
+        <source>Error</source>
+        <translation type="unfinished">Eraro</translation>
+    </message>
+    <message>
+        <location line="-4"/>
+        <source>Can&apos;t create a blank preset!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>You already have a preset with that name!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptionsTabStatusPep</name>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_statuspep.cpp" line="+19"/>
+        <source>PEP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Tunes no-video filter and controllers switcher</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OptionsTabToolbars</name>
     <message>
-        <location filename="../src/options/opt_toolbars.cpp" line="+51"/>
+        <location filename="../../psi-plus/src/options/opt_toolbars.cpp" line="+51"/>
         <source>Toolbars</source>
         <translation>Ilobretoj</translation>
     </message>
@@ -11082,7 +12391,7 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
 <context>
     <name>OptionsTabTree</name>
     <message>
-        <location filename="../src/options/opt_tree.cpp" line="+8"/>
+        <location filename="../../psi-plus/src/options/opt_tree.cpp" line="+8"/>
         <source>Advanced</source>
         <translation>Sperta</translation>
     </message>
@@ -11090,10 +12399,6 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
         <location line="+0"/>
         <source>Options for advanced users</source>
         <translation>Opcioj por spertaj uzantoj</translation>
-    </message>
-    <message>
-        <source>Please note: This editor will change the options directly. Pressing cancel will not revert these changes.</source>
-        <translation type="obsolete">Bonvolu zorgi: Tiu redaktilo ŝanĝos la opciojn senpere. Premi nuligi ne nuligos ĉi tiujn ŝanĝojn.</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -11104,7 +12409,7 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
 <context>
     <name>OptionsTreeModel</name>
     <message>
-        <location filename="../src/tools/optionstree/optionstreemodel.cpp" line="+180"/>
+        <location filename="../../psi-plus/src/tools/optionstree/optionstreemodel.cpp" line="+185"/>
         <source>Name</source>
         <translation>Nomo</translation>
     </message>
@@ -11127,531 +12432,279 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
 <context>
     <name>OptionsUI</name>
     <message>
-        <source>OptionsUI</source>
-        <translation type="obsolete">ElektojUI</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation type="obsolete">Ĝenerala</translation>
-    </message>
-    <message>
-        <source>Roster</source>
-        <translation type="obsolete">Kontaktulolisto</translation>
-    </message>
-    <message>
-        <source>Use left-click for menu</source>
-        <translation type="obsolete">Uzu maldekstra-klakon por menuo</translation>
-    </message>
-    <message>
-        <source>Single-click triggers default action</source>
-        <translation type="obsolete">Unuobla-klako kaŭzas defaŭltan agon</translation>
-    </message>
-    <message>
-        <source>Default Action:</source>
-        <translation type="obsolete">Defaŭlta Ago:</translation>
-    </message>
-    <message>
-        <source>Message</source>
-        <translation type="obsolete">Mesaĝo</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="obsolete">Babilo</translation>
-    </message>
-    <message>
-        <source>Always show self-contact</source>
-        <translation type="obsolete">Ĉiam montru mem-kontaktulon</translation>
-    </message>
-    <message>
-        <source>Links</source>
-        <translation type="obsolete">Ligoj</translation>
-    </message>
-    <message>
-        <source>Open With:</source>
-        <translation type="obsolete">Malfermu Per:</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation type="obsolete">Agordita</translation>
-    </message>
-    <message>
-        <source>Mailer</source>
-        <translation type="obsolete">Poŝtilo</translation>
-    </message>
-    <message>
-        <source>Browser</source>
-        <translation type="obsolete">Folumilo</translation>
-    </message>
-    <message>
-        <source>Enable Emoticons</source>
-        <translation type="obsolete">Ŝaltu Mienvinjetojn</translation>
-    </message>
-    <message>
-        <source>Contact &quot;says&quot; instead of IRC style</source>
-        <translation type="obsolete">Kontaktulo &quot;diras&quot; anstataŭ IRC-stilo</translation>
-    </message>
-    <message>
-        <source>Misc</source>
-        <translation type="obsolete">Diversaĵo</translation>
-    </message>
-    <message>
-        <source>Always on top</source>
-        <translation type="obsolete">Ĉiam antaŭa</translation>
-    </message>
-    <message>
-        <source>Remember Window Sizes</source>
-        <translation type="obsolete">Memoru Fenestro-Grandojn</translation>
-    </message>
-    <message>
-        <source>Jabber ID completion</source>
-        <translation type="obsolete">Jabber-ID plenigado</translation>
-    </message>
-    <message>
-        <source>Grab URLs from clipboard</source>
-        <translation type="obsolete">Ekkapti URL-ojn de poŝo</translation>
-    </message>
-    <message>
-        <source>Delete chat window contents (end conversation)</source>
-        <translation type="obsolete">Forigu enhavojn de babilo-fenestro (finu konversacion)</translation>
-    </message>
-    <message>
-        <source>When chat window is closed</source>
-        <translation type="obsolete">Kiam babilo-fenstro estas fermita</translation>
-    </message>
-    <message>
-        <source>One hour after chat window was closed</source>
-        <translation type="obsolete">Unu horo post babilo-fenstro estas fermita</translation>
-    </message>
-    <message>
-        <source>One day after chat window was closed</source>
-        <translation type="obsolete">Unu tago post babilo-fenstro estas fermita</translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation type="obsolete">Neniam</translation>
-    </message>
-    <message>
-        <source>Docking</source>
-        <translation type="obsolete">Dokado</translation>
-    </message>
-    <message>
-        <source>Enable Docklet</source>
-        <translation type="obsolete">Ŝaltu Doketon</translation>
-    </message>
-    <message>
-        <source>Use &quot;Double-click&quot; style (like Mirabilis ICQ)</source>
-        <translation type="obsolete">Uzu &quot;Duobla-klako&quot; stilon (kiel Mirabilis ICQ)</translation>
-    </message>
-    <message>
-        <source>Hide roster window on startup</source>
-        <translation type="obsolete">Kaŝu kontaktulolisto-fenestron je startigo</translation>
-    </message>
-    <message>
-        <source>Make roster window a &quot;Tool-Window&quot;</source>
-        <translation type="obsolete">Faru kontaktulolisto-fenestron esti &quot;Ilo-Fenestro&quot;</translation>
-    </message>
-    <message>
-        <source>Events</source>
-        <translation type="obsolete">Okazoj</translation>
-    </message>
-    <message>
-        <source>Receive</source>
-        <translation type="obsolete">Ricevu</translation>
-    </message>
-    <message>
-        <source>Autopopup New Messages</source>
-        <translation type="obsolete">Aŭtomate Aperigu Novajn Mesaĝojn</translation>
-    </message>
-    <message>
-        <source>Autopopup New Chats</source>
-        <translation type="obsolete">Aŭtomate Aperigu Novajn Babilojn</translation>
-    </message>
-    <message>
-        <source>Allow Autopopups even when Away/XA</source>
-        <translation type="obsolete">Permesu Aŭtomatajn Aperfenestrojn eĉ kiam For/XA</translation>
-    </message>
-    <message>
-        <source>Allow Autopopups even from unlisted users</source>
-        <translation type="obsolete">Permesu Aŭtomatajn Aperfenestrojn ĉe de nekonataj uzantoj</translation>
-    </message>
-    <message>
-        <source>Raise Window On New Event</source>
-        <translation type="obsolete">Altigu Fenestron Je Nova Okazo</translation>
-    </message>
-    <message>
-        <source>Treat incoming messages and chats as:</source>
-        <translation type="obsolete">Traktu envenantajn mesaĝojn kaj babilojn kiel:</translation>
-    </message>
-    <message>
-        <source>Determined by sender</source>
-        <translation type="obsolete">Determinita far sendinto</translation>
-    </message>
-    <message>
-        <source>Messages</source>
-        <translation type="obsolete">Mesaĝoj</translation>
-    </message>
-    <message>
-        <source>Chats</source>
-        <translation type="obsolete">Babiloj</translation>
-    </message>
-    <message>
-        <source>Alerts</source>
-        <translation type="obsolete">Alarmoj</translation>
-    </message>
-    <message>
-        <source>Solid</source>
-        <translation type="obsolete">Solida</translation>
-    </message>
-    <message>
-        <source>Blink</source>
-        <translation type="obsolete">Palpebrumi</translation>
-    </message>
-    <message>
-        <source>Animate</source>
-        <translation type="obsolete">Animu</translation>
-    </message>
-    <message>
-        <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation type="obsolete">Ignoru &quot;Kaplinio&quot; okazojn (ekz. MSN alarmoj)</translation>
-    </message>
-    <message>
-        <source>Scroll roster to contact on event</source>
-        <translation type="obsolete">Rulumu kontaktuloliston al kontaktulo je okazo</translation>
-    </message>
-    <message>
-        <source>Alert chat messages even if chat window is open</source>
-        <translation type="obsolete">Alarmu pri babilo-mesaĝoj eĉ se babilo-fenestro estas malferma</translation>
-    </message>
-    <message>
-        <source>Presence</source>
-        <translation type="obsolete">Ĉeesto</translation>
-    </message>
-    <message>
-        <source>Auto Status</source>
-        <translation type="obsolete">Aŭtomata Stato</translation>
-    </message>
-    <message>
-        <source>Minutes</source>
-        <translation type="obsolete">Minutoj</translation>
-    </message>
-    <message>
-        <source>Auto Offline After:</source>
-        <translation type="obsolete">Aŭtomate Malenreta Post:</translation>
-    </message>
-    <message>
-        <source>Auto XA After:</source>
-        <translation type="obsolete">Aŭtomate XA Post:</translation>
-    </message>
-    <message>
-        <source>Auto Away After:</source>
-        <translation type="obsolete">Aŭtomate For Post:</translation>
-    </message>
-    <message>
-        <source>Auto Status Message:</source>
-        <translation type="obsolete">Aŭtomata Stato-Mesaĝo:</translation>
-    </message>
-    <message>
-        <source>Prompt for status message when choosing &quot;Online&quot;</source>
-        <translation type="obsolete">Petas stato-mesaĝon kiam elekti &quot;Enreta&quot;</translation>
-    </message>
-    <message>
-        <source>Animate the roster when a contact comes online</source>
-        <translation type="obsolete">Animu la kontaktuloliston kiam kontaktulo venas enreta</translation>
-    </message>
-    <message>
-        <source>Check client version when a contact comes online</source>
-        <translation type="obsolete">Kontrolu kliento-version kiam kontaktulo venas enreta</translation>
-    </message>
-    <message>
-        <source>Status Presets</source>
-        <translation type="obsolete">Stato-Aprioroj</translation>
-    </message>
-    <message>
-        <source>New</source>
-        <translation type="obsolete">Nova</translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="obsolete">Forviŝu</translation>
-    </message>
-    <message>
-        <source>Content:</source>
-        <translation type="obsolete">Enhavo:</translation>
-    </message>
-    <message>
-        <source>Look and Feel</source>
-        <translation type="obsolete">Aspekto kaj Sento</translation>
-    </message>
-    <message>
-        <source>Scheme</source>
-        <translation type="obsolete">Skemo</translation>
-    </message>
-    <message>
-        <source>Psi (Default)</source>
-        <translation type="obsolete">Psi (Defaŭtla)</translation>
-    </message>
-    <message>
-        <source>Save As</source>
-        <translation type="obsolete">Konservu Kiel</translation>
-    </message>
-    <message>
-        <source>Colors</source>
-        <translation type="obsolete">Koloroj</translation>
-    </message>
-    <message>
-        <source>Online</source>
-        <translation type="obsolete">Enreta</translation>
-    </message>
-    <message>
-        <source>Offline</source>
-        <translation type="obsolete">Malenreta</translation>
-    </message>
-    <message>
-        <source>Away</source>
-        <translation type="obsolete">For</translation>
-    </message>
-    <message>
-        <source>DND</source>
-        <translation type="obsolete">Ne Ĝenu</translation>
-    </message>
-    <message>
-        <source>Group Foreground</source>
-        <translation type="obsolete">Grupo-Malfono</translation>
-    </message>
-    <message>
-        <source>Group Background</source>
-        <translation type="obsolete">Grupo-Fono</translation>
-    </message>
-    <message>
-        <source>List Background</source>
-        <translation type="obsolete">Listo-Fono</translation>
-    </message>
-    <message>
-        <source>Skins</source>
-        <translation type="obsolete">Estosoj</translation>
-    </message>
-    <message>
-        <source>Window Backgrounds</source>
-        <translation type="obsolete">Fenestro-Fonoj</translation>
-    </message>
-    <message>
-        <source>Choose</source>
-        <translation type="obsolete">Elektu</translation>
-    </message>
-    <message>
-        <source>Icon Set</source>
-        <translation type="obsolete">Piktogramaro</translation>
-    </message>
-    <message>
-        <source>Fonts</source>
-        <translation type="obsolete">Tiparoj</translation>
-    </message>
-    <message>
-        <source>Sound</source>
-        <translation type="obsolete">Sono</translation>
-    </message>
-    <message>
-        <source>Sound Preferences</source>
-        <translation type="obsolete">Sono-Elektoj</translation>
-    </message>
-    <message>
-        <source>Player:</source>
-        <translation type="obsolete">Legilo:</translation>
-    </message>
-    <message>
-        <source>Play sounds when Away/XA</source>
-        <translation type="obsolete">Legu sonojn kiam For/XA</translation>
-    </message>
-    <message>
-        <source>Play sounds for all messages in groupchat</source>
-        <translation type="obsolete">Legu sonojn por ĉiuj mesaĝoj en babilejo</translation>
-    </message>
-    <message>
-        <source>Sound Events</source>
-        <translation type="obsolete">Sono-Okazoj</translation>
-    </message>
-    <message>
-        <source>Receive Online Status:</source>
-        <translation type="obsolete">Ricevu Enretan Staton:</translation>
-    </message>
-    <message>
-        <source>Receive Offline Status:</source>
-        <translation type="obsolete">Ricevi Malenretan Staton:</translation>
-    </message>
-    <message>
-        <source>Send Message:</source>
-        <translation type="obsolete">Sendi Mesaĝon:</translation>
-    </message>
-    <message>
-        <source>Receive Message:</source>
-        <translation type="obsolete">Ricevi Mesaĝon:</translation>
-    </message>
-    <message>
-        <source>Receive First Chat:</source>
-        <translation type="obsolete">Ricevu Unuan Babilon:</translation>
-    </message>
-    <message>
-        <source>Receive Next Chat:</source>
-        <translation type="obsolete">Ricevi Unuan Babilon:</translation>
-    </message>
-    <message>
-        <source>System Message:</source>
-        <translation type="obsolete">Sistema Mesaĝo:</translation>
-    </message>
-    <message>
-        <source>Reset to defaults</source>
-        <translation type="obsolete">Reŝargu al defaŭltoj</translation>
-    </message>
-    <message>
-        <source>Group Chat</source>
-        <translation type="obsolete">Grupa Babilo</translation>
-    </message>
-    <message>
-        <source>Enable Nick Coloring</source>
-        <translation type="obsolete">Ŝaltu Koloradon de Kaŝnomoj</translation>
-    </message>
-    <message>
-        <source>Enable word highlighting</source>
-        <translation type="obsolete">Ŝaltu emfazadon de vortoj</translation>
-    </message>
-    <message>
-        <source>Word Highlighting</source>
-        <translation type="obsolete">Vorto-Emfazado</translation>
-    </message>
-    <message>
-        <source>Highlight lines and alert the user if this text is included in chat</source>
-        <translation type="obsolete">Emfazu liniojn kaj alarmu la uzanton se tiu ĉi teksto estas enhavita en babilo</translation>
-    </message>
-    <message>
-        <source>Words which will cause a notification in group chat.</source>
-        <translation type="obsolete">Vortoj kiuj kaŭzo avizon en babilejo.</translation>
-    </message>
-    <message>
-        <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
-        <translation type="obsolete">Tiu ĉi estas la listo de vortoj kiuj, kiam dirita en babilejo, kaŭzos ke la uzanto estos avizita.</translation>
-    </message>
-    <message>
-        <source>New word:</source>
-        <translation type="obsolete">Nova vorto:</translation>
-    </message>
-    <message>
-        <source>Type a new word here and press &quot;Add Word&quot; for it to be added to the highlight list</source>
-        <translation type="obsolete">Tajpu novan vorton tie ĉi kaj klaku &quot;Aldonu Vorton&quot; por ke ĝi estos aldonita al la emfazo-listo</translation>
-    </message>
-    <message>
-        <source>Remove Word</source>
-        <translation type="obsolete">Forigu Vorton</translation>
-    </message>
-    <message>
-        <source>Removes the selected word from the highlight list</source>
-        <translation type="obsolete">Forigas la elektitan vorton el la emfazo-listo</translation>
-    </message>
-    <message>
-        <source>Add Word</source>
-        <translation type="obsolete">Aldonu Vorton</translation>
-    </message>
-    <message>
-        <source>Adds the new word to the list</source>
-        <translation type="obsolete">Aldonas la novan vorton al la listo</translation>
-    </message>
-    <message>
-        <source>Nick Coloring</source>
-        <translation type="obsolete">Koloradon de Kaŝnomoj</translation>
-    </message>
-    <message>
-        <source>Type a colourcode here, or press the pallette to the right</source>
-        <translation type="obsolete">Tajpu kolorokodo tie ĉi, aŭ klaku sur la paletron je la dekstro</translation>
-    </message>
-    <message>
-        <source>Add Color</source>
-        <translation type="obsolete">Aldonu Koloron</translation>
-    </message>
-    <message>
-        <source>Adds the color to the list</source>
-        <translation type="obsolete">Aldonas la koloron al la listo</translation>
-    </message>
-    <message>
-        <source>Adds the new color to the list</source>
-        <translation type="obsolete">Aldonas la novan koloron al la listo</translation>
-    </message>
-    <message>
-        <source>New color:</source>
-        <translation type="obsolete">Nova Koloro:</translation>
-    </message>
-    <message>
-        <source>Colors used for nicks in groupchat</source>
-        <translation type="obsolete">Koloroj uzata por kaŝnomoj en babilejo</translation>
-    </message>
-    <message>
-        <source>This is the list of colours with which nicks will be drawn in group chat.</source>
-        <translation type="obsolete">Tiu ĉi estas la listo de koloroj kun kiuj kaŝnomoj estos montrita en babilejo.</translation>
-    </message>
-    <message>
-        <source>Remove Color</source>
-        <translation type="obsolete">Forigu Koloron</translation>
-    </message>
-    <message>
-        <source>OK</source>
-        <translation type="obsolete">Bone</translation>
-    </message>
-    <message>
-        <source>Apply</source>
-        <translation type="obsolete">Apliku</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="obsolete">Nuligu</translation>
-    </message>
-    <message>
-        <location filename="../src/options/ui_options.ui" line="+14"/>
+        <location filename="../../psi-plus/src/options/ui_options.ui" line="+14"/>
         <source>Options</source>
         <translation type="unfinished">Opcioj</translation>
     </message>
+</context>
+<context>
+    <name>OptionsWidget</name>
     <message>
-        <source>&amp;OK</source>
-        <translation type="obsolete">&amp;Bone</translation>
+        <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/optionswidget.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/videostatusplugin/options.ui" line="+14"/>
+        <source>Form</source>
+        <translation type="unfinished">Formularo</translation>
     </message>
     <message>
-        <source>&amp;Apply</source>
-        <translation type="obsolete">&amp;Apliki</translation>
+        <location line="+16"/>
+        <source>General</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Cancel</source>
-        <translation type="obsolete">&amp;Nuligi</translation>
+        <location line="+8"/>
+        <source>Account:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1</source>
-        <translation type="obsolete">1</translation>
+        <location line="+17"/>
+        <source>For all accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+39"/>
+        <source>Deny iq version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Deny iq time request</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <source>OS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <location line="+33"/>
+        <source>Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-23"/>
+        <source>OS name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Client</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Client name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Client version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Caps node</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Caps version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+21"/>
+        <source>Enable for:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Conferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>Show popup at version iq</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <location line="+26"/>
+        <source>never</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-21"/>
+        <location line="+26"/>
+        <source>if iq replaced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-21"/>
+        <location line="+26"/>
+        <source>always</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-18"/>
+        <source>Save queryes to log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>Logs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>View log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/optionswidget.ui" line="+8"/>
+        <source>Shortcut:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Format:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>File Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Modify hotkey</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Modify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Default action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Capture the desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Capture active window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Select capture area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Servers:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+55"/>
+        <source>*to specify the order of servers, use the drag-n-drop </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Add new server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Add</source>
+        <translation type="unfinished">Aldoni</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Delete current server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Edit current server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Edit</source>
+        <translation type="unfinished">Redakti</translation>
+    </message>
+    <message>
+        <location line="+37"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/videostatusplugin/options.ui" line="+6"/>
+        <source>Enable for players:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Detect full screen applications</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Set status:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Status message:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>Restore old status if player stops</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Delay before setting status, sec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+34"/>
+        <source>Delay before restoring status, sec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+32"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>PGPKey</name>
     <message>
-        <source>Please select the key to use for security:</source>
-        <translation type="obsolete">Bonvolu elekti la ŝlosilon uzindan por sekureco:</translation>
-    </message>
-    <message>
-        <source>Key ID</source>
-        <translation type="obsolete">Ŝlosila ID</translation>
-    </message>
-    <message>
-        <source>User ID</source>
-        <translation type="obsolete">Uzanta ID</translation>
-    </message>
-    <message>
-        <source>&amp;Diagnostics</source>
-        <translation type="obsolete">&amp;Diagnozoj</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="obsolete">&amp;Nuligi</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="obsolete">&amp;Bone</translation>
-    </message>
-    <message>
-        <location filename="../src/pgpkey.ui" line="+30"/>
+        <location filename="../../psi-plus/src/pgpkey.ui" line="+30"/>
         <source>Filter:</source>
         <translation type="unfinished">Filtrilo:</translation>
     </message>
@@ -11659,7 +12712,7 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
 <context>
     <name>PGPKeyDlg</name>
     <message>
-        <location filename="../src/pgpkeydlg.cpp" line="+86"/>
+        <location filename="../../psi-plus/src/pgpkeydlg.cpp" line="+86"/>
         <source>&amp;Diagnostics</source>
         <translation type="unfinished">&amp;Diagnozoj</translation>
     </message>
@@ -11690,36 +12743,9 @@ Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&
     </message>
 </context>
 <context>
-    <name>PGPKeyUI</name>
-    <message>
-        <source>Form1</source>
-        <translation type="obsolete">Formularo1</translation>
-    </message>
-    <message>
-        <source>Please select the key to use for security:</source>
-        <translation type="obsolete">Bonvolu elekti la ŝlosilon kiun uzi por sekureco:</translation>
-    </message>
-    <message>
-        <source>Key ID</source>
-        <translation type="obsolete">Ŝlosila ID</translation>
-    </message>
-    <message>
-        <source>User ID</source>
-        <translation type="obsolete">Uzula ID</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="obsolete">Nul&amp;igi</translation>
-    </message>
-    <message>
-        <source>&amp;OK</source>
-        <translation type="obsolete">&amp;Bone</translation>
-    </message>
-</context>
-<context>
     <name>PGPUtil</name>
     <message>
-        <location filename="../src/pgputil.cpp" line="+297"/>
+        <location filename="../../psi-plus/src/pgputil.cpp" line="+305"/>
         <source>Error</source>
         <translation>Eraro</translation>
     </message>
@@ -11742,9 +12768,37 @@ Kialo: %1.</translation>
     </message>
 </context>
 <context>
+    <name>PassDialog</name>
+    <message>
+        <location filename="../../psi-plus/src/passdialog.cpp" line="+35"/>
+        <source>Wrong Account Password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Save Password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>OK</source>
+        <translation type="unfinished">Bone</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Please enter your password for %1:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Passphrase</name>
     <message>
-        <location filename="../src/passphrase.ui" line="+16"/>
+        <location filename="../../psi-plus/src/passphrase.ui" line="+16"/>
         <source>OpenPGP Passphrase</source>
         <translation type="unfinished">OpenPGP Pasfrazo</translation>
     </message>
@@ -11756,7 +12810,12 @@ Please enter your passphrase below:</source>
 Bonvolu enskribi vian pasfrazon sube:</translation>
     </message>
     <message>
-        <location line="+40"/>
+        <location line="+15"/>
+        <source>Remember passphrase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+32"/>
         <source>&amp;Cancel</source>
         <translation type="unfinished">&amp;Nuligi</translation>
     </message>
@@ -11769,111 +12828,367 @@ Bonvolu enskribi vian pasfrazon sube:</translation>
 <context>
     <name>PassphraseDlg</name>
     <message>
-        <location filename="../src/passphrasedlg.cpp" line="+36"/>
+        <location filename="../../psi-plus/src/passphrasedlg.cpp" line="+36"/>
         <source>%1: OpenPGP Passphrase</source>
         <translation>%1: OpenPGP Pasfrazo</translation>
     </message>
 </context>
 <context>
-    <name>PassphraseUI</name>
+    <name>PepPlugin</name>
     <message>
-        <source>OpenPGP Passphrase</source>
-        <translation type="obsolete">OpenPGP pasfrazon</translation>
+        <location filename="../../psi-plus/src/plugins/generic/pepchangenotifyplugin/pepchangenotifyplugin.cpp" line="+280"/>
+        <source>Now listening: </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Your passphrase is needed to use OpenPGP security.
-Please enter your passphrase below:</source>
-        <translation type="obsolete">Via pasfrazo bezonatas por uzi OpenPGP-sekurecon.
-Bonvolu enskribi vian pasfrazon sube:</translation>
+        <location line="+29"/>
+        <source>Mood changed to &quot;%1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Cancel</source>
-        <translation type="obsolete">Nul&amp;igi</translation>
+        <location line="+32"/>
+        <source>Activity changed to &quot;%1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;OK</source>
-        <translation type="obsolete">&amp;Bone</translation>
+        <location line="+122"/>
+        <source>Choose a sound file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Sound (*.wav)</source>
+        <translation type="unfinished">Sono (*.wav)</translation>
+    </message>
+    <message>
+        <location line="+99"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>PositionToolbarUI</name>
+    <name>PixmapWidget</name>
     <message>
-        <source>Position Toolbar</source>
-        <translation type="obsolete">Pozicio de la ilobreto</translation>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/pixmapwidget.cpp" line="+272"/>
+        <source>Input radius</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Change Toolbar Position</source>
-        <translation type="obsolete">Ŝanĝi la posicion de la ilobreto</translation>
+        <location line="+0"/>
+        <source>Radius</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Here you can fine-tune the exact position of your toolbar</source>
-        <translation type="obsolete">Ĉi tie vi povas agordi la ekzaktan pozicion de via ilobreto</translation>
+        <location line="+94"/>
+        <source>Cut</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Name:</source>
-        <translation type="obsolete">Nomo:</translation>
+        <location line="+1"/>
+        <source>Copy</source>
+        <translation type="unfinished">Kopii</translation>
     </message>
     <message>
-        <source>Extra offset:</source>
-        <translation type="obsolete">Ekstra deŝovo:</translation>
+        <location line="+1"/>
+        <source>Blur</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PluginInfoDialog</name>
+    <message>
+        <location filename="../../psi-plus/src/options/plugininfodialog.ui" line="+32"/>
+        <source>Information</source>
+        <translation type="unfinished">Informo</translation>
     </message>
     <message>
-        <source>Dock position:</source>
-        <translation type="obsolete">Pozicio de doketo:</translation>
+        <location line="+37"/>
+        <source>Close</source>
+        <translation type="unfinished">Fermi</translation>
+    </message>
+</context>
+<context>
+    <name>PluginManager</name>
+    <message>
+        <location filename="../../psi-plus/src/pluginmanager.cpp" line="+314"/>
+        <source>This plugin has no user configurable options</source>
+        <translation type="unfinished">Tiu kromaĵo ne havas opciojn agordeblajn de la uzanto</translation>
+    </message>
+</context>
+<context>
+    <name>PluginWindow</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="+14"/>
+        <source>Gomoku Game</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Index:</source>
-        <translation type="obsolete">Indekso:</translation>
+        <location line="+9"/>
+        <source>Opponent:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Top</source>
-        <translation type="obsolete">Supro</translation>
+        <location line="+43"/>
+        <source>Status:</source>
+        <translation type="unfinished">Stato:</translation>
     </message>
     <message>
-        <source>Bottom</source>
-        <translation type="obsolete">Malsupro</translation>
+        <location line="+178"/>
+        <source>Game</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Right</source>
-        <translation type="obsolete">Dekstro</translation>
+        <location line="+4"/>
+        <source>Skin</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Left</source>
-        <translation type="obsolete">Maldekstro</translation>
+        <location line="+11"/>
+        <source>File</source>
+        <translation type="unfinished">Dosiero</translation>
     </message>
     <message>
-        <source>Minimized</source>
-        <translation type="obsolete">Malgrandigita</translation>
+        <location line="+14"/>
+        <source>New game</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unmanaged (advanced)</source>
-        <translation type="obsolete">Nekontrolita (sperta)</translation>
+        <location line="+5"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="+431"/>
+        <source>Load game</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Torn off (advanced)</source>
-        <translation type="obsolete">Ŝirita (spertuloj)</translation>
+        <location line="+5"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="-19"/>
+        <source>Save game</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Starts from new line</source>
-        <translation type="obsolete">Komenci de nova linio</translation>
+        <location line="+5"/>
+        <source>Quit</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;OK</source>
-        <translation type="obsolete">&amp;Bone</translation>
+        <location line="+5"/>
+        <source>Resign</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Apply</source>
-        <translation type="obsolete">&amp;Apliki</translation>
+        <location line="+5"/>
+        <source>Switch color</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Cancel</source>
-        <translation type="obsolete">&amp;Nuligi</translation>
+        <location line="+11"/>
+        <source>Standard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Yellow wood</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="-272"/>
+        <source>Waiting for opponent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Waiting for accept</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Your turn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>End of game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Error</source>
+        <translation type="unfinished">Eraro</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Win!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Lose.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <location line="+366"/>
+        <source>Draw.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-324"/>
+        <source>You</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Opp</source>
+        <comment>Opponent</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>%1: %2 - swch</source>
+        <comment>Switch color</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+72"/>
+        <location line="+16"/>
+        <location line="+25"/>
+        <location line="+23"/>
+        <location line="+33"/>
+        <location line="+15"/>
+        <location line="+74"/>
+        <location line="+59"/>
+        <source>Gomoku Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-244"/>
+        <source>Game Error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Your opponent has closed the board!
+ You can still save the game.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>You want to switch color?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>You Lose.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>You Win!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>You really want to begin new game?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+74"/>
+        <source>You really want to begin loaded game?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PreferencesWidget</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/dev/pstoplugin/preferences.ui" line="+14"/>
+        <source>Form</source>
+        <translation type="unfinished">Formularo</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>@username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>#post_id</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>* tag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>&gt; quote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>message</source>
+        <translation type="unfinished">mesaĝo</translation>
+    </message>
+</context>
+<context>
+    <name>Previewer</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/skinsplugin/previewer.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/skinsplugin/skin.cpp" line="+91"/>
+        <location line="+5"/>
+        <source>Preview Skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Preview unavailable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Name: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Version: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
+        <source>Apply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Close</source>
+        <translation type="unfinished">Fermi</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/skinsplugin/skin.cpp" line="-5"/>
+        <location line="+5"/>
+        <source>Skin is not valid!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Privacy</name>
     <message>
-        <location filename="../src/privacy/privacy.ui" line="+17"/>
+        <location filename="../../psi-plus/src/privacy/privacy.ui" line="+17"/>
         <source>Settings</source>
         <translation type="unfinished">Agordoj</translation>
     </message>
@@ -11901,6 +13216,11 @@ Bonvolu enskribi vian pasfrazon sube:</translation>
         <location line="+27"/>
         <source>New List</source>
         <translation type="unfinished">Nova Listo</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Rename List</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
@@ -11947,26 +13267,22 @@ Bonvolu enskribi vian pasfrazon sube:</translation>
         <source>Apply</source>
         <translation type="unfinished">Apliki</translation>
     </message>
-    <message>
-        <source>Close</source>
-        <translation type="obsolete">Fermi</translation>
-    </message>
 </context>
 <context>
     <name>PrivacyDlg</name>
     <message>
-        <location filename="../src/privacy/privacydlg.cpp" line="+36"/>
+        <location filename="../../psi-plus/src/privacy/privacydlg.cpp" line="+37"/>
         <source>%1: Privacy Lists</source>
         <translation>%1: Privataj Listoj</translation>
     </message>
     <message>
-        <location line="+112"/>
+        <location line="+117"/>
         <location line="+12"/>
         <source>&lt;None&gt;</source>
         <translation>&lt;Neniu&gt;</translation>
     </message>
     <message>
-        <location line="+144"/>
+        <location line="+165"/>
         <source>New List</source>
         <translation>Nova Listo</translation>
     </message>
@@ -11985,11 +13301,21 @@ Bonvolu enskribi vian pasfrazon sube:</translation>
         <source>A list with this name already exists.</source>
         <translation>Listo tiel nomita jam ekzistas.</translation>
     </message>
+    <message>
+        <location line="+28"/>
+        <source>Rename List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Input new name</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PrivacyRule</name>
     <message>
-        <location filename="../src/privacy/privacyrule.ui" line="+16"/>
+        <location filename="../../psi-plus/src/privacy/privacyrule.ui" line="+16"/>
         <source>Edit Privacy Rule</source>
         <translation type="unfinished">Redakti Privatajn Regulojn</translation>
     </message>
@@ -12019,30 +13345,6 @@ Bonvolu enskribi vian pasfrazon sube:</translation>
         <translation type="unfinished">Eniranta Estanteco</translation>
     </message>
     <message>
-        <source>Deny</source>
-        <translation type="obsolete">Malpermesi</translation>
-    </message>
-    <message>
-        <source>Allow</source>
-        <translation type="obsolete">Permesi</translation>
-    </message>
-    <message>
-        <source>JID</source>
-        <translation type="obsolete">JID</translation>
-    </message>
-    <message>
-        <source>Group</source>
-        <translation type="obsolete">Grupo</translation>
-    </message>
-    <message>
-        <source>Subscription</source>
-        <translation type="obsolete">Abono</translation>
-    </message>
-    <message>
-        <source>*</source>
-        <translation type="obsolete">*</translation>
-    </message>
-    <message>
         <location line="+15"/>
         <source>If:</source>
         <translation type="unfinished">Se:</translation>
@@ -12061,7 +13363,7 @@ Bonvolu enskribi vian pasfrazon sube:</translation>
 <context>
     <name>PrivacyRuleDlg</name>
     <message>
-        <location filename="../src/privacy/privacyruledlg.cpp" line="+33"/>
+        <location filename="../../psi-plus/src/privacy/privacyruledlg.cpp" line="+33"/>
         <source>Subscription</source>
         <translation>Abono</translation>
     </message>
@@ -12115,13 +13417,9 @@ Bonvolu enskribi vian pasfrazon sube:</translation>
 <context>
     <name>ProfileManage</name>
     <message>
-        <location filename="../src/profilemanage.ui" line="+14"/>
+        <location filename="../../psi-plus/src/profilemanage.ui" line="+14"/>
         <source>Manage Profiles</source>
         <translation type="unfinished">Administri Profilojn</translation>
-    </message>
-    <message>
-        <source>&amp;New</source>
-        <translation type="obsolete">&amp;Nova</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -12148,23 +13446,11 @@ Bonvolu enskribi vian pasfrazon sube:</translation>
         <source>psi/remove</source>
         <translation type="unfinished">psi/remove</translation>
     </message>
-    <message>
-        <source>&amp;Delete</source>
-        <translation type="obsolete">For&amp;igi</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
-    </message>
 </context>
 <context>
     <name>ProfileManageDlg</name>
     <message>
-        <source>Manage Profiles</source>
-        <translation type="obsolete">Administru Profilojn</translation>
-    </message>
-    <message>
-        <location filename="../src/profiledlg.cpp" line="+238"/>
+        <location filename="../../psi-plus/src/profiledlg.cpp" line="+239"/>
         <location line="+5"/>
         <location line="+4"/>
         <source>Rename Profile</source>
@@ -12188,7 +13474,7 @@ Uzu nur literojn aŭ numerojn.  Neniun interpunkcion aŭ spacetojn.</translation
         <translation>Ne eblas renomi la profilon.  Bonvolu ne uzi iun ajn specialajn signojn.</translation>
     </message>
     <message>
-        <location line="+19"/>
+        <location line="+27"/>
         <location line="+12"/>
         <source>Delete Profile</source>
         <translation>Forviŝu Profilon</translation>
@@ -12211,11 +13497,9 @@ Uzu nur literojn aŭ numerojn.  Neniun interpunkcion aŭ spacetojn.</translation
     <message>
         <location line="+7"/>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
-        <translation>&lt;qt&gt;Pro antaŭzorgo, vi estas demandita finfoje ĉu tiu ĉi estas tio, kion vi vere volas.  La sekvanta dosierujo estos forviŝita!&lt;br&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Ĉu procedi?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+6"/>
@@ -12234,36 +13518,9 @@ Proceed?</source>
     </message>
 </context>
 <context>
-    <name>ProfileManageUI</name>
-    <message>
-        <source>Form1</source>
-        <translation type="obsolete">Formularo1</translation>
-    </message>
-    <message>
-        <source>&amp;New</source>
-        <translation type="obsolete">&amp;Nova</translation>
-    </message>
-    <message>
-        <source>&amp;Rename</source>
-        <translation type="obsolete">&amp;Renomi</translation>
-    </message>
-    <message>
-        <source>&amp;Delete</source>
-        <translation type="obsolete">For&amp;viŝi</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>Manage Profiles</source>
-        <translation type="obsolete">Administri profilojn</translation>
-    </message>
-</context>
-<context>
     <name>ProfileNew</name>
     <message>
-        <location filename="../src/profilenew.ui" line="+16"/>
+        <location filename="../../psi-plus/src/profilenew.ui" line="+16"/>
         <source>New Profile</source>
         <translation type="unfinished">Nova Profilo</translation>
     </message>
@@ -12329,7 +13586,7 @@ Kontrolu la elektujon de &lt;i&gt;Aktivigi mienpiktogramojn&lt;/i&gt; se vi vola
 <context>
     <name>ProfileNewDlg</name>
     <message>
-        <location filename="../src/profiledlg.cpp" line="+53"/>
+        <location filename="../../psi-plus/src/profiledlg.cpp" line="+53"/>
         <location line="+5"/>
         <source>New Profile</source>
         <translation>Nova Profilon</translation>
@@ -12346,76 +13603,9 @@ Kontrolu la elektujon de &lt;i&gt;Aktivigi mienpiktogramojn&lt;/i&gt; se vi vola
     </message>
 </context>
 <context>
-    <name>ProfileNewUI</name>
-    <message>
-        <source>Form1</source>
-        <translation type="obsolete">Formularo1</translation>
-    </message>
-    <message>
-        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
-&lt;br&gt;
-The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
-&lt;br&gt;
-Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;img src=&quot;smile&quot;&gt;.</source>
-        <translation type="obsolete">Restigu via&lt;i&gt; Profilo-Nomo&lt;/i&gt; simpla.  Ĝi devus esti unuobla vorto enhavanta nur literojn aŭ numerojn.&lt;br&gt;
-&lt;br&gt;
-La&lt;i&gt;Defaŭta Ago&lt;/i&gt; estas tio, kio okazas kiam vi duobleklakas sur kontaktulo en via listo.  La elektoj estas&lt;b&gt;Mesaĝo&lt;/b&gt; (ICQ-stilo) kaj&lt;b&gt; Babilo&lt;/b&gt; (AIM-stilo).  Vi povas pli malfrue ŝanĝi tiun ĉi per la Elektoj-menuo.&lt;br&gt;
-&lt;br&gt;
-Elektu &lt;i&gt;Ŝaltu Mienvinjetojn&lt;/i&gt; se vi amus, ke teksto tia, kia &lt;b&gt;:-)&lt;/b&gt; aspektas kiel grafiko kiel &lt;img src=&quot;smile&quot;&gt;.</translation>
-    </message>
-    <message>
-        <source>Profile Name:</source>
-        <translation type="obsolete">Nomo de profilo:</translation>
-    </message>
-    <message>
-        <source>Default Action</source>
-        <translation type="obsolete">Antaŭsupozita ago</translation>
-    </message>
-    <message>
-        <source>Message</source>
-        <translation type="obsolete">Mesaĝo</translation>
-    </message>
-    <message>
-        <source>Chat</source>
-        <translation type="obsolete">Babilo</translation>
-    </message>
-    <message>
-        <source>Enable Emoticons</source>
-        <translation type="obsolete">Ŝaltu Mienpiktogramojn</translation>
-    </message>
-    <message>
-        <source>Cl&amp;ose</source>
-        <translation type="obsolete">&amp;Fermu</translation>
-    </message>
-    <message>
-        <source>&amp;Create</source>
-        <translation type="obsolete">&amp;Krei</translation>
-    </message>
-    <message>
-        <source>New Profile</source>
-        <translation type="obsolete">Nova profilo</translation>
-    </message>
-    <message>
-        <source>Keep your&lt;i&gt; Profile Name&lt;/i&gt; simple. It should be a single word comprised of only letters or numbers.&lt;br&gt;
-&lt;br&gt;
-The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
-&lt;br&gt;
-Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation type="obsolete">Via profila nomo estu simpla. Ĝi devus esti sola vorto, enhavanta nur literojn aŭ numerojn.&lt;/br&gt;
-&lt;br&gt;
-La &lt;i&gt;Antaŭsupozita ago&lt;/i&gt; okazos kiam vi duoble klakos kontaktulon en via listo. La elekteblecoj estas &lt;b&gt;Mesaĝo&lt;/b&gt; (ICQa stilo) kaj &lt;b&gt;Babilo&lt;/b&gt; (AIMa stilo). Vi povas ŝanĝi tion ĉi per la menuo de Elektoj.&lt;br&gt;
-&lt;br&gt;
-Kontrolu la elektujon de &lt;i&gt;Aktivigi mienpiktogramojn&lt;/i&gt; se vi volas ke tekstaĵo kiel &lt;b&gt;:-)&lt;/b&gt; estu ŝanĝita al grafikaĵo kiel &lt;icon name=&quot;psi/smile&quot;&gt;.</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
-    </message>
-</context>
-<context>
     <name>ProfileOpen</name>
     <message>
-        <location filename="../src/profileopen.ui" line="+16"/>
+        <location filename="../../psi-plus/src/profileopen.ui" line="+16"/>
         <location line="+48"/>
         <source>Open Profile</source>
         <translation type="unfinished">Malfermi Profilon</translation>
@@ -12478,17 +13668,13 @@ Kontrolu la elektujon de &lt;i&gt;Aktivigi mienpiktogramojn&lt;/i&gt; se vi vola
     <message>
         <location line="+3"/>
         <source>psi/logo_16</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">psi/logo_16</translation>
     </message>
 </context>
 <context>
     <name>ProfileOpenDlg</name>
     <message>
-        <source>Open Profile</source>
-        <translation type="obsolete">Malfermu Profilon</translation>
-    </message>
-    <message>
-        <location filename="../src/profiledlg.cpp" line="-233"/>
+        <location filename="../../psi-plus/src/profiledlg.cpp" line="-241"/>
         <source>Select a profile to open from this list.</source>
         <translation>Elektu profilon malfermotan de tiu ĉi listo.</translation>
     </message>
@@ -12504,56 +13690,9 @@ Kontrolu la elektujon de &lt;i&gt;Aktivigi mienpiktogramojn&lt;/i&gt; se vi vola
     </message>
 </context>
 <context>
-    <name>ProfileOpenUI</name>
-    <message>
-        <source>Form1</source>
-        <translation type="obsolete">Formularo1</translation>
-    </message>
-    <message>
-        <source>left</source>
-        <translation type="obsolete">maldekstra</translation>
-    </message>
-    <message>
-        <source>Image goes here</source>
-        <translation type="obsolete">Bildo iras tien ĉi</translation>
-    </message>
-    <message>
-        <source>right</source>
-        <translation type="obsolete">dekstra</translation>
-    </message>
-    <message>
-        <source>Open Profile</source>
-        <translation type="obsolete">Malfermi profilon</translation>
-    </message>
-    <message>
-        <source>Profile:</source>
-        <translation type="obsolete">Profilo:</translation>
-    </message>
-    <message>
-        <source>&amp;Automatically open on startup</source>
-        <translation type="obsolete">&amp;Ĝi estu aŭtomate malfermita je starto</translation>
-    </message>
-    <message>
-        <source>Language:</source>
-        <translation type="obsolete">Lingvo:</translation>
-    </message>
-    <message>
-        <source>&amp;Quit</source>
-        <translation type="obsolete">Ĉ&amp;esi</translation>
-    </message>
-    <message>
-        <source>&amp;Profiles...</source>
-        <translation type="obsolete">&amp;Profiloj...</translation>
-    </message>
-    <message>
-        <source>&amp;Open</source>
-        <translation type="obsolete">&amp;Malfermi</translation>
-    </message>
-</context>
-<context>
     <name>Proxy</name>
     <message>
-        <location filename="../src/proxy.ui" line="+14"/>
+        <location filename="../../psi-plus/src/proxy.ui" line="+14"/>
         <source>Proxy Profiles</source>
         <translation type="unfinished">Prokurilaj Profiloj</translation>
     </message>
@@ -12608,35 +13747,15 @@ Kontrolu la elektujon de &lt;i&gt;Aktivigi mienpiktogramojn&lt;/i&gt; se vi vola
         <translation type="unfinished">Pasvorto:</translation>
     </message>
     <message>
-        <source>Properties</source>
-        <translation type="obsolete">Ecoj</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation type="obsolete">Nomo:</translation>
-    </message>
-    <message>
         <location line="-93"/>
         <source>Type:</source>
         <translation type="unfinished">Speco:</translation>
-    </message>
-    <message>
-        <source>proxyedit</source>
-        <translation type="obsolete">proxyedit</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>&amp;Save</source>
-        <translation type="obsolete">&amp;Konservi</translation>
     </message>
 </context>
 <context>
     <name>ProxyChooser</name>
     <message>
-        <location filename="../src/proxy.cpp" line="+364"/>
+        <location filename="../../psi-plus/src/proxy.cpp" line="+364"/>
         <source>Edit...</source>
         <translation>Redakti...</translation>
     </message>
@@ -12664,10 +13783,6 @@ Kontrolu la elektujon de &lt;i&gt;Aktivigi mienpiktogramojn&lt;/i&gt; se vi vola
         <translation type="unfinished">Enskribu la pasvorton de via prokura servilo aŭ restigu tiun ĉi kampon malplenan se la prokura servilo ne bezonas ĝin.</translation>
     </message>
     <message>
-        <source>Proxy Profiles</source>
-        <translation type="obsolete">Profiloj de Prokuraj Serviloj</translation>
-    </message>
-    <message>
         <location line="+4"/>
         <source>If you require a proxy server to connect, select the type of proxy here.</source>
         <translation>Se vi bezonas prokuran servilon por konektiĝi, elektu la specon tie ĉi.</translation>
@@ -12690,253 +13805,63 @@ Kontrolu la elektujon de &lt;i&gt;Aktivigi mienpiktogramojn&lt;/i&gt; se vi vola
     </message>
 </context>
 <context>
-    <name>ProxyEdit</name>
+    <name>ProxySettingsDlg</name>
     <message>
-        <source>Settings</source>
-        <translation type="obsolete">Elektoj</translation>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/proxysettingsdlg.ui" line="+32"/>
+        <source>Proxy Server Settings</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Use authentication</source>
-        <translation type="obsolete">Uzu aŭtentikadon</translation>
-    </message>
-    <message>
-        <source>Username:</source>
-        <translation type="obsolete">Uzantonomo:</translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="obsolete">Pasvorto:</translation>
-    </message>
-    <message>
-        <source>Enter the hostname and port of your proxy server.</source>
-        <translation type="obsolete">Enskribu la retnodon kaj pordon de via prokura servilo.</translation>
-    </message>
-    <message>
-        <source>Consult your network administrator if necessary.</source>
-        <translation type="obsolete">Konsultu la administriston de via reto se necesas.</translation>
-    </message>
-    <message>
-        <source>Enter your proxy server login (username) or leave this field blank if the proxy server does not require it.</source>
-        <translation type="obsolete">Enskribu la ensalutnomon (uzantonomon) de via prokura servilo aŭ restigu tiun ĉi kampon malplenan se la prokura servilo ne bezonas ĝin.</translation>
-    </message>
-    <message>
-        <source>Enter your proxy server password or leave this field blank if the proxy server does not require it.</source>
-        <translation type="obsolete">Enskribu la pasvorton de via prokura servilo aŭ restigu tiun ĉi kampon malplenan se la prokura servilo ne bezonas ĝin.</translation>
-    </message>
-    <message>
-        <source>Polling URL:</source>
-        <translation type="obsolete">Skrutinia URL:</translation>
-    </message>
-</context>
-<context>
-    <name>ProxyUI</name>
-    <message>
-        <source>Form1</source>
-        <translation type="obsolete">Formularo1</translation>
-    </message>
-    <message>
-        <source>&amp;New</source>
-        <translation type="obsolete">&amp;Nova</translation>
-    </message>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="obsolete">&amp;Forigi</translation>
-    </message>
-    <message>
-        <source>Properties</source>
-        <translation type="obsolete">Ecoj</translation>
-    </message>
-    <message>
-        <source>Name:</source>
-        <translation type="obsolete">Nomo:</translation>
-    </message>
-    <message>
+        <location line="+8"/>
         <source>Type:</source>
-        <translation type="obsolete">Speco:</translation>
+        <translation type="unfinished">Speco:</translation>
     </message>
     <message>
-        <source>proxyedit</source>
-        <translation type="obsolete">prokuraredakto</translation>
+        <location line="+23"/>
+        <source>Host:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
+        <location line="+10"/>
+        <source>Port:</source>
+        <translation type="unfinished">Pordo:</translation>
     </message>
     <message>
-        <source>&amp;Save</source>
-        <translation type="obsolete">&amp;Konservi</translation>
+        <location line="+7"/>
+        <source>99999; </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Proxy Profiles</source>
-        <translation type="obsolete">Profiloj de prokuraj perviloj</translation>
+        <location line="+7"/>
+        <source>User:</source>
+        <translation type="unfinished">Uzanto:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Password:</source>
+        <translation type="unfinished">Pasvorto:</translation>
     </message>
 </context>
 <context>
     <name>PsiAccount</name>
     <message>
-        <source>Unable to resolve hostname.</source>
-        <translation type="obsolete">Malkapable solvi retnodon.</translation>
-    </message>
-    <message>
-        <source>Connection refused.</source>
-        <translation type="obsolete">Konekto refuziĝis.</translation>
-    </message>
-    <message>
-        <source>Connection timeout.</source>
-        <translation type="obsolete">Konekto-tempfino.</translation>
-    </message>
-    <message>
-        <source>Socket communication error.</source>
-        <translation type="obsolete">Komuniko-eraro de konektoskatolo.</translation>
-    </message>
-    <message>
-        <source>Disconnected.</source>
-        <translation type="obsolete">Malkonektita.</translation>
-    </message>
-    <message>
-        <source>Error during server handshake.</source>
-        <translation type="obsolete">Eraro dum servilo-manpremo.</translation>
-    </message>
-    <message>
-        <source>SSL error: %1</source>
-        <translation type="obsolete">SSL-eraro: %1</translation>
-    </message>
-    <message>
-        <location filename="../src/psiaccount.cpp" line="+2014"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="+2184"/>
         <source>None</source>
         <translation>Neniu</translation>
     </message>
     <message>
-        <location line="-707"/>
-        <location line="+1455"/>
-        <location line="+325"/>
+        <location line="-742"/>
+        <location line="+1915"/>
         <source>Error</source>
         <translation>Eraro</translation>
     </message>
     <message>
-        <source>There was an error communicating with the Jabber server.
-Details: %1</source>
-        <translation type="obsolete">Okazis eraro komunikante kun la Jabber-servilo:
-Detaloj: %1</translation>
-    </message>
-    <message>
-        <source>%1: Server Authentication</source>
-        <translation type="obsolete">%1: Servila aŭtentikado</translation>
-    </message>
-    <message>
-        <source>The %1 certificate failed the authenticity test.</source>
-        <translation type="obsolete">La %1 atesto malsukcesis en la testo de aŭtentikeco.</translation>
-    </message>
-    <message>
-        <source>Reason: %1</source>
-        <translation type="obsolete">Kialo: %1</translation>
-    </message>
-    <message>
-        <source>&amp;Details...</source>
-        <translation type="obsolete">&amp;Detaloj...</translation>
-    </message>
-    <message>
-        <source>Co&amp;ntinue</source>
-        <translation type="obsolete">&amp;Kontinui</translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="obsolete">&amp;Nuligi</translation>
-    </message>
-    <message>
-        <source>There was an error authenticating with the Jabber server.
-Details: %1</source>
-        <translation type="obsolete">Estis eraro aŭtentikigi kun la Jabber-servilo.
-Detaloj: %1</translation>
-    </message>
-    <message>
-        <location line="-325"/>
-        <source>Unable to login.  Ensure your account information is filled out.</source>
-        <translation>Malkapable ensalutiĝi.  Certiĝu ke la informo de via konto estas plenigita.</translation>
-    </message>
-    <message>
-        <source>Need Password</source>
-        <translation type="obsolete">Bezonatas pasvorto</translation>
-    </message>
-    <message>
-        <source>Please enter the password for %1:</source>
-        <translation type="obsolete">Bonvolu enskribi la pasvorton por %1:</translation>
-    </message>
-    <message>
-        <location line="+326"/>
+        <location line="+1"/>
         <source>You must be connected to the server in order to do this.</source>
         <translation>Vi devas esti konektita al la servilo por fari tion ĉi.</translation>
     </message>
     <message>
-        <source>You have been invited to %1</source>
-        <translation type="obsolete">Vi estas invitita al %1</translation>
-    </message>
-    <message>
-        <source>%1: OpenPGP Passphrase</source>
-        <translation type="obsolete">%1: OpenPGP pasfrazo</translation>
-    </message>
-    <message>
-        <source>You entered a bad passphrase.  Please try again.</source>
-        <translation type="obsolete">Vi enskribis malĝustan pasfrazon.  Bonvolu reprovi.</translation>
-    </message>
-    <message>
-        <source>There was an error during OpenPGP processing.  Check your settings and try again.</source>
-        <translation type="obsolete">Okazis eraro dum OpenPGP traktado.  Kontrolu viajn elektojn kaj reprovu.</translation>
-    </message>
-    <message>
-        <source>[This message is encrypted.]</source>
-        <translation type="obsolete">[Tiu ĉi mesaĝo estas ĉifrita.]</translation>
-    </message>
-    <message>
-        <source>The server did not present a certificate.</source>
-        <translation type="obsolete">La servilo ne prezentis ateston.</translation>
-    </message>
-    <message>
-        <source>The hostname does not match the one the certificate was issued to.</source>
-        <translation type="obsolete">La retnodo ne kongruas kun tiu al kiu la ateston oni eldonis.</translation>
-    </message>
-    <message>
-        <source>Root CA is marked to reject the specified purpose.</source>
-        <translation type="obsolete">Radika CA estas markita rifuzi la specifitan celon(?).</translation>
-    </message>
-    <message>
-        <source>Certificate not trusted for the required purpose.</source>
-        <translation type="obsolete">Atesto ne estas fidita por la bezonata celo.</translation>
-    </message>
-    <message>
-        <source>Invalid signature.</source>
-        <translation type="obsolete">Nevalida subskribo.</translation>
-    </message>
-    <message>
-        <source>Invalid CA certificate.</source>
-        <translation type="obsolete">Nevalida CAa atesto.</translation>
-    </message>
-    <message>
-        <source>Invalid certificate purpose.</source>
-        <translation type="obsolete">Nevalida atesta celo.</translation>
-    </message>
-    <message>
-        <source>Certificate is self-signed.</source>
-        <translation type="obsolete">Atesto estas mem-subskribita.</translation>
-    </message>
-    <message>
-        <source>Certificate has been revoked.</source>
-        <translation type="obsolete">Atesto estis rifuzita.</translation>
-    </message>
-    <message>
-        <source>Maximum certificate chain length exceeded.</source>
-        <translation type="obsolete">Estis superita la maksimuma ĉena longeco de atesto.</translation>
-    </message>
-    <message>
-        <source>Certificate has expired.</source>
-        <translation type="obsolete">Atesto eksiĝis.</translation>
-    </message>
-    <message>
-        <source>General certificate validation error.</source>
-        <translation type="obsolete">Ĝenerala eraro de atesta validado.</translation>
-    </message>
-    <message>
-        <location line="+2810"/>
+        <location line="+3119"/>
         <source>No key</source>
         <translation>Neniu ŝlosilo</translation>
     </message>
@@ -12961,15 +13886,7 @@ Detaloj: %1</translation>
         <translation>Publika ŝlosilo: %1</translation>
     </message>
     <message>
-        <source>%1: SSL Error</source>
-        <translation type="obsolete">%1: eraro de SSL</translation>
-    </message>
-    <message>
-        <source>Cannot login: SSL is enabled but no SSL/TLS (plugin) support is available.</source>
-        <translation type="obsolete">Ne eblas ensalutiĝi: SSL estas elektita, sed neniu SSL/TLS (kromaĵo) subteno disponeblas.</translation>
-    </message>
-    <message>
-        <location line="-4038"/>
+        <location line="-4448"/>
         <source>Disconnected</source>
         <translation>Senkonekte</translation>
     </message>
@@ -13114,11 +14031,47 @@ Detaloj: %1</translation>
         <translation>Ne eblas ensalutiĝi</translation>
     </message>
     <message>
-        <source>No appropriate mechanism available for given security settings</source>
-        <translation type="obsolete">Ne disponeblas oportuna meĥanismo laŭ la donitaj sekurecaj agordoj</translation>
+        <location line="+773"/>
+        <source>Logged out</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+541"/>
+        <source>Unregister from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+578"/>
+        <source>Name:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Version:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Os:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Version Query Information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1214"/>
+        <source>Headline</source>
+        <translation type="unfinished">Ĉeflinio</translation>
+    </message>
+    <message>
+        <location line="-3105"/>
         <source>Bad server response</source>
         <translation>Malbona respondo de servilo</translation>
     </message>
@@ -13153,12 +14106,7 @@ Detaloj: %1</translation>
         <translation>La SASLa meĥanismo tro malfortas por tiu ĉi konto</translation>
     </message>
     <message>
-        <location line="+2"/>
-        <source>Not authorized</source>
-        <translation>Ne rajtigita</translation>
-    </message>
-    <message>
-        <location line="+3"/>
+        <location line="+6"/>
         <source>Temporary auth failure</source>
         <translation>Momenta nesukceso de aŭtentikado</translation>
     </message>
@@ -13173,20 +14121,13 @@ Detaloj: %1</translation>
         <translation>Rompitas la sekuriga tavolo (SASL)</translation>
     </message>
     <message>
-        <source>%1: Server Error</source>
-        <translation type="obsolete">%1: Servila eraro</translation>
-    </message>
-    <message>
-        <source>Certificate is valid.</source>
-        <translation type="obsolete">La atesto validas.</translation>
-    </message>
-    <message>
-        <location line="-704"/>
+        <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="+173"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="-739"/>
         <source>Unable to disable the account, as it has pending events.</source>
         <translation>Neeblas forigi la konton, ĉar ĝi havas respondendajn eventojn.</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="+4"/>
         <source>Disable Account</source>
         <translation>Malŝalti Konton</translation>
     </message>
@@ -13198,42 +14139,44 @@ Do you want to log out ?</source>
 Ĉu vi volas adiaŭi?</translation>
     </message>
     <message>
-        <source>SSL Error</source>
-        <translation type="obsolete">SSL Eraro</translation>
-    </message>
-    <message>
-        <location line="+380"/>
+        <location line="+413"/>
         <source>Server Authentication</source>
         <translation>Servila aŭtentikado</translation>
     </message>
     <message>
-        <source>Reason: %1.</source>
-        <translation type="obsolete">Kialo: %1.</translation>
-    </message>
-    <message>
         <location line="+161"/>
-        <location line="+239"/>
+        <location line="+249"/>
         <source>Server Error</source>
         <translation>Servila eraro</translation>
     </message>
     <message>
-        <location line="-244"/>
+        <location line="-254"/>
         <source>The server does not support TLS encryption.</source>
         <translation>Tiu servilo ne permesas TLS ĉifradon.</translation>
     </message>
     <message>
-        <location line="+136"/>
+        <location line="-329"/>
+        <source>Reconnecting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+466"/>
         <source>No appropriate mechanism available for given security settings (e.g. SASL library too weak, or plaintext authentication not enabled)</source>
         <translation>Neniu taŭga meĥanismo haveblas por la difinita sekureca agordo (ekz. SASL biblioteko tro malforta aŭ platteksta aŭtentigo malŝaltita)</translation>
     </message>
     <message>
-        <location line="+109"/>
+        <location line="+18"/>
+        <source>Wrong Password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+100"/>
         <source>There was an error communicating with the server.
 Details: %1</source>
         <translation>Okazis eraro komunikante la servilon.Detaloj: %1</translation>
     </message>
     <message>
-        <location line="+588"/>
+        <location line="+603"/>
         <source>Incoming file</source>
         <translation>Envenanta dosiero</translation>
     </message>
@@ -13243,11 +14186,7 @@ Details: %1</source>
         <translation>Ĉu vi volas akcepti %1 (%2 ko) el %3?</translation>
     </message>
     <message>
-        <source>Please enter your password:</source>
-        <translation type="obsolete">Bonvolu tajpi vian pasvorton:</translation>
-    </message>
-    <message>
-        <location line="+2807"/>
+        <location line="+3162"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
         <translation>Okazis eraro provante signi vian staton.
@@ -13259,7 +14198,7 @@ Kialo: %1.</translation>
         <translation>[ERARO: Tiu mesaĝo estas ĉifrita, kaj vi ne kapablas malĉifri ĝin.]</translation>
     </message>
     <message>
-        <location line="-4051"/>
+        <location line="-4435"/>
         <source>Encryption Error</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13272,7 +14211,7 @@ Kialo: %1.</translation>
 <context>
     <name>PsiActionList::Private</name>
     <message>
-        <location filename="../src/psiactionlist.cpp" line="+117"/>
+        <location filename="../../psi-plus/src/psiactionlist.cpp" line="+131"/>
         <source>Common Actions</source>
         <translation>Kutimaj agoj</translation>
     </message>
@@ -13288,6 +14227,16 @@ Kialo: %1.</translation>
     </message>
     <message>
         <location line="+4"/>
+        <source>Show Roster Groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Enable/disable groups in roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
         <source>Show Offline Contacts</source>
         <translation>Montri la nekonektitajn kontaktulojn</translation>
     </message>
@@ -13297,20 +14246,7 @@ Kialo: %1.</translation>
         <translation>Ŝanĝas la videblecon de nekonektitaj kontaktuloj</translation>
     </message>
     <message>
-        <source>Show Away/XA/DnD</source>
-        <translation type="obsolete">Montru For/ND/DnD</translation>
-    </message>
-    <message>
-        <location line="+4"/>
-        <source>Toggles visibility of away/xa/dnd contacts in roster</source>
-        <translation>Ŝanĝas la videblecon de foj/nd/dnd-aj kontaktoj en la kontaktolisto</translation>
-    </message>
-    <message>
-        <source>Show Hidden</source>
-        <translation type="obsolete">Montru la kaŝitajn</translation>
-    </message>
-    <message>
-        <location line="+3"/>
+        <location line="+7"/>
         <source>Toggles visibility of hidden contacts in roster</source>
         <translation>Ŝanĝas la videblecon de kaŝitaj kontaktuloj en la kontaktlisto</translation>
     </message>
@@ -13335,7 +14271,7 @@ Kialo: %1.</translation>
         <translation>Ŝanĝas la videblecon de la memkontakto en la kontaktlisto</translation>
     </message>
     <message>
-        <location line="+16"/>
+        <location line="+17"/>
         <source>Show Contacts</source>
         <translation>Montri kontaktulojn</translation>
     </message>
@@ -13365,13 +14301,19 @@ Kialo: %1.</translation>
         <translation>Speciala elemento kiu montras nombron de atendantaj eventoj</translation>
     </message>
     <message>
-        <location line="+9"/>
-        <source>Buttons</source>
-        <translation>Butonoj</translation>
+        <location line="+2"/>
+        <source>Active contacts</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Add a contact</source>
-        <translation type="obsolete">&amp;Aldoni kontaktulon</translation>
+        <location line="+1"/>
+        <source>Simple way to find contacts with opened chats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Buttons</source>
+        <translation>Butonoj</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -13384,7 +14326,7 @@ Kialo: %1.</translation>
         <translation>Malkovri &amp;Servojn</translation>
     </message>
     <message>
-        <location line="+128"/>
+        <location line="+152"/>
         <source>ReadMe</source>
         <translation>LeguMin</translation>
     </message>
@@ -13394,35 +14336,7 @@ Kialo: %1.</translation>
         <translation>&amp;LeguMin</translation>
     </message>
     <message>
-        <source>Show Read Me file</source>
-        <translation type="obsolete">Montru la LeguMin-an dosieron</translation>
-    </message>
-    <message>
-        <source>Psi Handbook (Online)</source>
-        <translation type="obsolete">Psia Manlibro (Enrete)</translation>
-    </message>
-    <message>
-        <source>Psi &amp;Handbook (Online)</source>
-        <translation type="obsolete">Psia &amp;Manlibro (Enrete)</translation>
-    </message>
-    <message>
-        <source>Report a Bug</source>
-        <translation type="obsolete">Raporti cimon</translation>
-    </message>
-    <message>
-        <source>Report a &amp;Bug</source>
-        <translation type="obsolete">Raporti &amp;cimon</translation>
-    </message>
-    <message>
-        <source>New blank message</source>
-        <translation type="obsolete">Nova malplena mesaĝo</translation>
-    </message>
-    <message>
-        <source>New &amp;blank message</source>
-        <translation type="obsolete">Nova &amp;malplena mesaĝo</translation>
-    </message>
-    <message>
-        <location line="-110"/>
+        <location line="-134"/>
         <source>Join Groupchat</source>
         <translation>Aliĝi al babilejo</translation>
     </message>
@@ -13467,18 +14381,6 @@ Kialo: %1.</translation>
         <translation>Ŝanĝi profilon</translation>
     </message>
     <message>
-        <source>&amp;Change profile</source>
-        <translation type="obsolete">Ŝanĝi &amp;profilon</translation>
-    </message>
-    <message>
-        <source>Play sounds</source>
-        <translation type="obsolete">Aŭdigi sonojn</translation>
-    </message>
-    <message>
-        <source>Play &amp;sounds</source>
-        <translation type="obsolete">Aŭdigi &amp;sonojn</translation>
-    </message>
-    <message>
         <location line="+3"/>
         <source>Toggles whether sound should be played or not</source>
         <translation>Ŝanĝas ĉu sonoj devas aŭdiĝi</translation>
@@ -13500,24 +14402,24 @@ Kialo: %1.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <location line="+97"/>
+        <location line="+121"/>
         <source>Tip of the Day</source>
         <translation>Taga konsilo</translation>
     </message>
     <message>
-        <location line="-97"/>
-        <location line="+97"/>
+        <location line="-121"/>
+        <location line="+121"/>
         <source>&amp;Tip of the Day</source>
         <translation>&amp;Taga konsilo</translation>
     </message>
     <message>
-        <location line="-96"/>
-        <location line="+97"/>
+        <location line="-120"/>
+        <location line="+121"/>
         <source>See many useful tips</source>
         <translation>Vidi multajn utilajn konsilojn</translation>
     </message>
     <message>
-        <location line="-94"/>
+        <location line="-118"/>
         <source>Transfer Manager</source>
         <translation>Administri ŝutojn</translation>
     </message>
@@ -13527,24 +14429,12 @@ Kialo: %1.</translation>
         <translation>&amp;Administri ŝutojn</translation>
     </message>
     <message>
-        <source>Opens the Transfer Manager dialog</source>
-        <translation type="obsolete">Malfermas la dialogujon por administri ŝutojn</translation>
-    </message>
-    <message>
         <location line="+19"/>
         <source>Menu Items</source>
         <translation>Elementoj de la menuo</translation>
     </message>
     <message>
-        <source>Set status</source>
-        <translation type="obsolete">Elekti staton</translation>
-    </message>
-    <message>
-        <source>Smaller alternative to the Status Button</source>
-        <translation type="obsolete">Pli malgranda alternativo al la stata butono</translation>
-    </message>
-    <message>
-        <location line="+25"/>
+        <location line="+38"/>
         <source>Changes your global status to &apos;%1&apos;</source>
         <translation>Tio ĉi ŝanĝas vian ĝeneralan staton al &apos;%1&apos;</translation>
     </message>
@@ -13574,7 +14464,7 @@ Kialo: %1.</translation>
         <translation>Ne ĝeni</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="+13"/>
         <source>Invisible</source>
         <translation>Nevidebla</translation>
     </message>
@@ -13584,7 +14474,7 @@ Kialo: %1.</translation>
         <translation>Senkonekte</translation>
     </message>
     <message>
-        <location line="+14"/>
+        <location line="+17"/>
         <source>Status</source>
         <translation>Stato</translation>
     </message>
@@ -13614,12 +14504,7 @@ Kialo: %1.</translation>
         <translation>Helpo</translation>
     </message>
     <message>
-        <location line="-246"/>
-        <source>Show Away/XA/DnD Contacts</source>
-        <translation>Montri Forajn/Ne Disponeblajn/Ne Ĝenendajn Kontaktulojn</translation>
-    </message>
-    <message>
-        <location line="+4"/>
+        <location line="-271"/>
         <source>Show Hidden Contacts</source>
         <translation>Montri Kaŝatajn Kontaktulojn</translation>
     </message>
@@ -13634,24 +14519,12 @@ Kialo: %1.</translation>
         <translation>Komuti videblecon de la statmesaĝoj de kontaktoj</translation>
     </message>
     <message>
-        <source>Publish tune</source>
-        <translation type="obsolete">Publikigi muzikon</translation>
-    </message>
-    <message>
-        <source>Publish &amp;tune</source>
-        <translation type="obsolete">Publikigi m&amp;uzikon</translation>
-    </message>
-    <message>
-        <source>Toggles whether the currently playing tune should be published or not.</source>
-        <translation type="obsolete">Komutas ĉu la nun ludata muziko devus publikigati aŭ ne.</translation>
-    </message>
-    <message>
-        <location line="+119"/>
+        <location line="+136"/>
         <source>Publish</source>
         <translation>Publikigi</translation>
     </message>
     <message>
-        <location line="+64"/>
+        <location line="+76"/>
         <location line="+1"/>
         <source>User Guide (Online)</source>
         <translation>Gvido de Uzanto (enrete)</translation>
@@ -13684,18 +14557,7 @@ Kialo: %1.</translation>
         <translation>&amp;Hejmpaĝo (enrete)</translation>
     </message>
     <message>
-        <location line="+6"/>
-        <location line="+1"/>
-        <source>Join Psi Discussion Room (Online)</source>
-        <translation>Aliĝi al Psi Babilejo (enrete)</translation>
-    </message>
-    <message>
-        <location line="-1"/>
-        <source>&amp;Join Psi Discussion Room (Online)</source>
-        <translation>Aliĝi al Psi Babile&amp;jo (enrete)</translation>
-    </message>
-    <message>
-        <location line="+3"/>
+        <location line="+9"/>
         <location line="+1"/>
         <source>Report a Bug (Online)</source>
         <translation>Raporti Cimon (enrete)</translation>
@@ -13726,18 +14588,7 @@ Kialo: %1.</translation>
         <translation>Ŝlosila &amp;Konservado</translation>
     </message>
     <message>
-        <location line="-21"/>
-        <location line="+1"/>
-        <source>Psi Forum (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="-1"/>
-        <source>Psi &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="-149"/>
+        <location line="-194"/>
         <source>&amp;Add a Contact</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13787,7 +14638,37 @@ Kialo: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+14"/>
+        <location line="+2"/>
+        <source>Set Mood</source>
+        <translation type="unfinished">Difini Humoron</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Set Mood for all active accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Set Activity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Set Activity for all active accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Set Geolocation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Set Geolocation for all active accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
         <source>Set Status</source>
         <translation type="unfinished">Elekti Staton</translation>
     </message>
@@ -13797,12 +14678,59 @@ Kialo: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+51"/>
+        <location line="+24"/>
+        <source>Choose status...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Choose...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Show dialog to set your status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Reconnect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Reconnect all active accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+32"/>
         <source>Show ReadMe file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+29"/>
+        <location line="+14"/>
+        <location line="+1"/>
+        <source>Psi+ Forum (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-1"/>
+        <source>Psi+ &amp;Forum (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <location line="+1"/>
+        <source>Join Psi+ Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-1"/>
+        <source>&amp;Join Psi+ Discussion Room (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
         <source>About GStreamer</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13815,44 +14743,12 @@ Kialo: %1.</translation>
 <context>
     <name>PsiChatDlg</name>
     <message>
-        <source>Clear chat window</source>
-        <translation type="obsolete">Viŝi babilofenestron</translation>
-    </message>
-    <message>
-        <source>Select icon</source>
-        <translation type="obsolete">Elekti piktogramon</translation>
-    </message>
-    <message>
-        <location filename="../src/psichatdlg.cpp" line="+312"/>
+        <location filename="../../psi-plus/src/psichatdlg.cpp" line="+463"/>
         <source>Voice Call</source>
         <translation>Alvoko</translation>
     </message>
     <message>
-        <source>Send file</source>
-        <translation type="obsolete">Sendi dosieron</translation>
-    </message>
-    <message>
-        <source>Toggle encryption</source>
-        <translation type="obsolete">Komuti ĉifradon</translation>
-    </message>
-    <message>
-        <source>User info</source>
-        <translation type="obsolete">Informo de uzanto</translation>
-    </message>
-    <message>
-        <source>Message history</source>
-        <translation type="obsolete">Historio de mesaĝoj</translation>
-    </message>
-    <message>
-        <source>Toggle Compact/Full size</source>
-        <translation type="obsolete">Inversigi Kompaktan/Plenan Grandecon</translation>
-    </message>
-    <message>
-        <source>Chat toolbar</source>
-        <translation type="obsolete">Ilobreto de babilo</translation>
-    </message>
-    <message>
-        <location line="+164"/>
+        <location line="+341"/>
         <source>Warning</source>
         <translation>Averto</translation>
     </message>
@@ -13863,47 +14759,43 @@ Kialo: %1.</translation>
         <translation>Ĉu vi certas ke vi volas viŝi la babilo-fenestron?(noto: tio ĉi ne influas la konservitan historion)</translation>
     </message>
     <message>
-        <source>&amp;Yes</source>
-        <translation type="obsolete">&amp;Jes</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="obsolete">&amp;Ne</translation>
-    </message>
-    <message>
-        <location line="+78"/>
-        <source>%1 says:</source>
-        <translation>%1 diras:</translation>
-    </message>
-    <message>
-        <location line="-17"/>
-        <location line="+13"/>
-        <source>Subject:</source>
-        <translation>Temo:</translation>
-    </message>
-    <message>
-        <location line="+30"/>
-        <source>-- Attached URL(s) --</source>
-        <translation>-- Enmetita(j) URL(oj) --</translation>
-    </message>
-    <message>
-        <location line="+3"/>
-        <source>URL:</source>
-        <translation>URL:</translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Desc:</source>
-        <translation>Priskribo:</translation>
-    </message>
-    <message>
-        <location line="-365"/>
+        <location line="-530"/>
         <source>Input command...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+84"/>
+        <location line="+164"/>
+        <source>Find toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
         <source>Clear Chat Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Find</source>
+        <translation type="unfinished">Trovi</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>&amp;Find</source>
+        <translation type="unfinished">&amp;Trovi</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Set Text Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Add Contact To Roster</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Add Contact</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13912,7 +14804,7 @@ Kialo: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+9"/>
         <source>Send File</source>
         <translation type="unfinished">Sendi Dosieron</translation>
     </message>
@@ -13937,25 +14829,55 @@ Kialo: %1.</translation>
         <translation type="unfinished">Inversigi Kompaktan/Plenan Grandecon</translation>
     </message>
     <message>
+        <location line="+3"/>
+        <source>Paste and Send</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Active contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location line="+6"/>
         <source>Chat Toolbar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+312"/>
+        <location line="+149"/>
+        <source>Contact has been switched: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+262"/>
         <source>Error: Can not parse command: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+19"/>
+        <location line="+9"/>
         <source>Command&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+123"/>
+        <source>turn off autojid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>turn on autojid</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>PsiCli</name>
     <message>
-        <location filename="../src/psicli.h" line="+57"/>
+        <location filename="../../psi-plus/src/psicli.h" line="+57"/>
         <source>PROFILE</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14073,46 +14995,27 @@ Kialo: %1.</translation>
 <context>
     <name>PsiCon</name>
     <message>
-        <location filename="../src/psicon.cpp" line="+471"/>
-        <location line="+306"/>
-        <location line="+395"/>
+        <location filename="../../psi-plus/src/psicon.cpp" line="+494"/>
+        <location line="+14"/>
+        <location line="+343"/>
+        <location line="+450"/>
         <source>Error</source>
         <translation>Eraro</translation>
     </message>
     <message>
-        <location line="-701"/>
+        <location line="-807"/>
         <source>Unable to load iconset!  Please make sure Psi is properly installed.</source>
         <translation>Malkapable enŝargi piktogramon.  Bonvolu certiĝi ke Psio estas ĝuste instalita.</translation>
     </message>
     <message>
-        <source>Unable to bind to port %1 for DTCP</source>
-        <translation type="obsolete">Malkapable ligi al pordo %1 por DTCP</translation>
-    </message>
-    <message>
-        <location line="+306"/>
+        <location line="+357"/>
         <source>Please disconnect before changing the profile.</source>
         <translation>Bonvolu malkonektiĝi antaŭ ŝanĝi la profilon.</translation>
     </message>
     <message>
-        <source>I am away from my computer.  Please leave a message.</source>
-        <translation type="obsolete">Mi estas for de mia komputilo.  Bonvolu lasi mesaĝon.</translation>
-    </message>
-    <message>
-        <source>Unable to load the &quot;%1&quot; iconset.</source>
-        <translation type="obsolete">Malkapable ŝargi la &quot;%1&quot; piktogramaron.</translation>
-    </message>
-    <message>
-        <location line="+468"/>
+        <location line="+540"/>
         <source>Information</source>
         <translation>Informo</translation>
-    </message>
-    <message>
-        <source>The complete iconset update will happen on next Psi start.</source>
-        <translation type="obsolete">La plena piktogramara ĝisdatigo okazos je la venonta starto de Psio.</translation>
-    </message>
-    <message>
-        <source>Unable to bind to port %1 for Data Transfer</source>
-        <translation type="obsolete">Ne eblas bindi al pordo %1 por datuma ŝuto</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -14120,13 +15023,13 @@ Kialo: %1.</translation>
         <translation>Kelkaj opcioj kiujn vi ŝanĝis plene efikos nur post restarto. </translation>
     </message>
     <message>
-        <location line="+42"/>
-        <location line="+362"/>
+        <location line="+57"/>
+        <location line="+378"/>
         <source>Warning</source>
         <translation>Averto</translation>
     </message>
     <message>
-        <location line="-361"/>
+        <location line="-377"/>
         <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars &lt;i&gt;and&lt;/i&gt; the menubar. If you do so, you will be unable to enable them back, when you&apos;ll change your mind.</source>
         <translation>Vi ne povas malŝalti &lt;i&gt;ĉiujn&lt;/i&gt; ilobretojn &lt;i&gt;kaj&lt;/i&gt; la menubreton. Tiukaze, vi ne povus reŝalti ilin, kiam vi ŝanĝus opinion.</translation>
     </message>
@@ -14136,7 +15039,7 @@ Kialo: %1.</translation>
         <translation>Mi komprenas</translation>
     </message>
     <message>
-        <location line="+360"/>
+        <location line="+376"/>
         <source>Unable to bind to port %1 for Data Transfer.
 This may mean you are already running another instance of Psi. You may experience problems sending and/or receiving files.</source>
         <translation>Ne eblis kroĉi la pordon %1 por datumŝuto.
@@ -14148,7 +15051,7 @@ Tio signifas, ke vi jam estas rulanta alian seancon de Psi. Al vi eble okazus pr
         <translation>La komputilo ekdormiĝis</translation>
     </message>
     <message>
-        <location line="+26"/>
+        <location line="+33"/>
         <source>Account setup</source>
         <translation>Konta agordo</translation>
     </message>
@@ -14168,17 +15071,22 @@ Tio signifas, ke vi jam estas rulanta alian seancon de Psi. Al vi eble okazus pr
         <translation>Uzi estantan konton</translation>
     </message>
     <message>
-        <location line="-521"/>
+        <location line="-583"/>
         <source>Unsupported URI type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-384"/>
+        <location line="-777"/>
+        <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+345"/>
         <source>&amp;Disconnect</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+743"/>
+        <location line="+832"/>
         <source>Call ended</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14191,7 +15099,7 @@ Tio signifas, ke vi jam estas rulanta alian seancon de Psi. Al vi eble okazus pr
 <context>
     <name>PsiContact</name>
     <message>
-        <location filename="../src/psicontact.cpp" line="+380"/>
+        <location filename="../../psi-plus/src/psicontact.cpp" line="+393"/>
         <source>General</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14202,12 +15110,12 @@ Tio signifas, ke vi jam estas rulanta alian seancon de Psi. Al vi eble okazus pr
     </message>
     <message>
         <location line="+5"/>
-        <location filename="../src/userlist.cpp" line="+343"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="+667"/>
         <source>Hidden</source>
         <translation type="unfinished">Kaŝita</translation>
     </message>
     <message>
-        <location line="+322"/>
+        <location line="+368"/>
         <source>Choose an image</source>
         <translation type="unfinished">Elektu bildon</translation>
     </message>
@@ -14220,7 +15128,7 @@ Tio signifas, ke vi jam estas rulanta alian seancon de Psi. Al vi eble okazus pr
 <context>
     <name>PsiContactListViewDelegate</name>
     <message>
-        <location filename="../src/psicontactlistviewdelegate.cpp" line="+140"/>
+        <location filename="../../psi-plus/src/psicontactlistviewdelegate.cpp" line="+274"/>
         <source>%1 (%2)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14228,7 +15136,7 @@ Tio signifas, ke vi jam estas rulanta alian seancon de Psi. Al vi eble okazus pr
 <context>
     <name>PsiContactMenu::Private</name>
     <message>
-        <location filename="../src/psicontactmenu.cpp" line="+132"/>
+        <location filename="../../psi-plus/src/psicontactmenu.cpp" line="+139"/>
         <source>Re&amp;name</source>
         <translation type="unfinished">Re&amp;nomi</translation>
     </message>
@@ -14244,12 +15152,12 @@ Tio signifas, ke vi jam estas rulanta alian seancon de Psi. Al vi eble okazus pr
     </message>
     <message>
         <location line="+3"/>
-        <location line="+97"/>
+        <location line="+101"/>
         <source>&amp;History</source>
         <translation type="unfinished">&amp;Historio</translation>
     </message>
     <message>
-        <location line="-94"/>
+        <location line="-98"/>
         <source>Pro&amp;file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14275,17 +15183,17 @@ Tio signifas, ke vi jam estas rulanta alian seancon de Psi. Al vi eble okazus pr
     </message>
     <message>
         <location line="+3"/>
-        <location line="+178"/>
+        <location line="+221"/>
         <source>&amp;Block</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-175"/>
+        <location line="-218"/>
         <source>Disable mood notifications</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+18"/>
+        <location line="+19"/>
         <source>Add/Authorize to Contact List</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14342,6 +15250,11 @@ Tio signifas, ke vi jam estas rulanta alian seancon de Psi. Al vi eble okazus pr
     <message>
         <location line="+3"/>
         <source>Remove Authorization From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Sen&amp;d Status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14405,22 +15318,48 @@ Tio signifas, ke vi jam estas rulanta alian seancon de Psi. Al vi eble okazus pr
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+25"/>
+        <location line="+4"/>
+        <source>Hide</source>
+        <translation type="unfinished">Kaŝi</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Leave</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <location line="+461"/>
+        <source>Block</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-458"/>
+        <source>Always Visible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+34"/>
         <source>Authorization</source>
         <translation type="unfinished">Rajtigo</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+7"/>
         <source>&amp;Picture</source>
         <translation type="unfinished">&amp;Bildo</translation>
     </message>
     <message>
-        <location line="+44"/>
+        <location line="+54"/>
         <source>&amp;Unblock</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+90"/>
+        <location line="+122"/>
         <source>Invitation</source>
         <translation type="unfinished">Invito</translation>
     </message>
@@ -14430,7 +15369,7 @@ Tio signifas, ke vi jam estas rulanta alian seancon de Psi. Al vi eble okazus pr
         <translation type="unfinished">Sendintas babilejan invitilon al &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
-        <location line="+16"/>
+        <location line="+32"/>
         <source>Add</source>
         <translation type="unfinished">Aldoni</translation>
     </message>
@@ -14476,7 +15415,7 @@ Tio signifas, ke vi jam estas rulanta alian seancon de Psi. Al vi eble okazus pr
         <translation type="unfinished">&amp;Ne</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+28"/>
         <source>Choose an Image</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14485,11 +15424,16 @@ Tio signifas, ke vi jam estas rulanta alian seancon de Psi. Al vi eble okazus pr
         <source>All files (*.png *.jpg *.gif)</source>
         <translation type="unfinished">Ĉiuj dosieroj (*.png *.jpg *.gif)</translation>
     </message>
+    <message>
+        <location line="+93"/>
+        <source>Unblock</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiGroupChatBrowseWindow</name>
     <message>
-        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="+401"/>
+        <location filename="../../psi-plus/src/libpsi/widgets/groupchatbrowsewindow.cpp" line="+401"/>
         <location line="+18"/>
         <location line="+14"/>
         <source>Error</source>
@@ -14536,13 +15480,13 @@ Reason: %1</source>
 <context>
     <name>PsiMain</name>
     <message>
-        <location filename="../src/main.cpp" line="+202"/>
-        <location line="+80"/>
+        <location filename="../../psi-plus/src/main.cpp" line="+203"/>
+        <location line="+83"/>
         <source>Error</source>
         <translation>Eraro</translation>
     </message>
     <message>
-        <location line="-79"/>
+        <location line="-82"/>
         <source>There was an error creating the default profile.</source>
         <translation>Okazis eraro kreante la antaŭsupozitan profilon.</translation>
     </message>
@@ -14564,7 +15508,7 @@ Would you like to activate that session now?</source>
         <translation>Aktivigi</translation>
     </message>
     <message>
-        <location line="+34"/>
+        <location line="+37"/>
         <source>Cannot open this profile - it is already running, but not responding</source>
         <translation>Ne eblas malfermi tiun profilon - jam estas rulanta, sed senrespondema</translation>
     </message>
@@ -14572,7 +15516,7 @@ Would you like to activate that session now?</source>
 <context>
     <name>PsiOptions</name>
     <message>
-        <location filename="../src/psioptions.cpp" line="+144"/>
+        <location filename="../../psi-plus/src/psioptions.cpp" line="+144"/>
         <source>Away from desk</source>
         <translation>For de la skribotablo</translation>
     </message>
@@ -14677,12 +15621,12 @@ Would you like to activate that session now?</source>
         <translation>Butonoj</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+9"/>
         <source>Show contacts</source>
         <translation>Montri kontaktulojn</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+5"/>
         <source>Event notifier</source>
         <translation>Notifilo de eventoj</translation>
     </message>
@@ -14695,7 +15639,7 @@ Would you like to activate that session now?</source>
 <context>
     <name>PsiOptionsEditor</name>
     <message>
-        <location filename="../src/psioptionseditor.cpp" line="+39"/>
+        <location filename="../../psi-plus/src/psioptionseditor.cpp" line="+39"/>
         <source>Full name of the currently selected option.</source>
         <translation>Plena nomo de la nuna elektita opcio.</translation>
     </message>
@@ -14715,23 +15659,38 @@ Would you like to activate that session now?</source>
         <translation>Montri ĉiujn opciojn kiel plata listo.</translation>
     </message>
     <message>
-        <source>delete</source>
-        <translation type="obsolete">forigi</translation>
+        <location line="+7"/>
+        <source>Delete...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>edit...</source>
-        <translation type="obsolete">redakti...</translation>
+        <location line="+4"/>
+        <source>Reset...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>add...</source>
-        <translation type="obsolete">aldoni...</translation>
+        <location line="+22"/>
+        <source>Advanced</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>open a detached option editor window.</source>
-        <translation type="obsolete">malfermi malkroĉitan opcioredaktilan fenestron.</translation>
+        <location line="+93"/>
+        <location line="+16"/>
+        <source>Psi+: Option Editor</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+80"/>
+        <location line="-5"/>
+        <source>Really reset options %1 to default value?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Really reset all options starting with %1. to default value?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-55"/>
         <source>(internal node)</source>
         <translation>(interna nodo)</translation>
     </message>
@@ -14751,17 +15710,7 @@ Would you like to activate that session now?</source>
         <translation>Vere forigi ĉiujn opciojn, kiu komencas pes %1.?</translation>
     </message>
     <message>
-        <location line="+2"/>
-        <source>Psi: Option Editor</source>
-        <translation>Psi: Opcia Redaktilo</translation>
-    </message>
-    <message>
-        <location line="-113"/>
-        <source>Delete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+5"/>
+        <location line="-109"/>
         <source>Edit...</source>
         <translation type="unfinished">Redakti...</translation>
     </message>
@@ -14779,24 +15728,29 @@ Would you like to activate that session now?</source>
 <context>
     <name>PsiPopup</name>
     <message>
-        <location filename="../src/psipopup.cpp" line="+247"/>
+        <location filename="../../psi-plus/src/psipopup.cpp" line="+252"/>
         <source>Contact online</source>
         <translation>Kontaktulo konektitas</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+5"/>
         <source>Contact offline</source>
         <translation>Kontaktulo senkonektiĝis</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+5"/>
         <source>Status change</source>
         <translation>Ŝanĝo de stato</translation>
     </message>
     <message>
-        <location line="+4"/>
+        <location line="+5"/>
         <source>Incoming message</source>
         <translation>Envenanta mesaĝo</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Typing notify</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+5"/>
@@ -14809,12 +15763,23 @@ Would you like to activate that session now?</source>
         <translation>Ĉeflinio</translation>
     </message>
     <message>
+        <location line="+15"/>
+        <source>Groupchat highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location line="+120"/>
+        <location line="+22"/>
         <source>Subject:</source>
         <translation>Temo:</translation>
     </message>
     <message>
-        <location line="-115"/>
+        <location line="-12"/>
+        <source> is typing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-140"/>
         <source>Incoming file</source>
         <translation>Envenanta dosiero</translation>
     </message>
@@ -14827,7 +15792,7 @@ Would you like to activate that session now?</source>
 <context>
     <name>PsiRosterWidget</name>
     <message>
-        <location filename="../src/psirosterwidget.cpp" line="+243"/>
+        <location filename="../../psi-plus/src/psirosterwidget.cpp" line="+265"/>
         <source>Remove Group</source>
         <translation type="unfinished">Forigi Grupon</translation>
     </message>
@@ -14852,130 +15817,442 @@ Proceed?</source>
     </message>
 </context>
 <context>
+    <name>PsiThemeViewDelegate</name>
+    <message>
+        <location filename="../../psi-plus/src/psithemeviewdelegate.cpp" line="+44"/>
+        <source>No Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PsiToolBar</name>
     <message>
-        <source>Configure &amp;Toolbar...</source>
-        <translation type="obsolete">Agordi &amp;ilobreton...</translation>
-    </message>
-    <message>
-        <location filename="../src/psitoolbar.cpp" line="+67"/>
+        <location filename="../../psi-plus/src/psitoolbar.cpp" line="+70"/>
         <source>Configure&amp; Toolbar...</source>
         <translation>Agordi Ilobre&amp;ton...</translation>
     </message>
 </context>
 <context>
+    <name>PsiWindowHeader</name>
+    <message>
+        <location filename="../../psi-plus/src/widgets/psiwindowheader.ui" line="+23"/>
+        <source>PsiWindowHeader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+53"/>
+        <location line="+10"/>
+        <location line="+16"/>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+</context>
+<context>
     <name>QObject</name>
     <message>
-        <source>Auto Status (idle)</source>
-        <translation type="obsolete">Aŭtomata stato (mallaboranta)</translation>
+        <location filename="../../psi-plus/src/activitycatalog.cpp" line="+77"/>
+        <source>Doing Chores</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Away from desk</source>
-        <translation type="obsolete">For de la skribotablo</translation>
+        <location line="+1"/>
+        <source>Buying Groceries</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>I am away from my desk.  Leave a message.</source>
-        <translation type="obsolete">Mi estas for de mia skribotablo.  Lasu mesaĝon.</translation>
+        <location line="+1"/>
+        <source>Cleaning</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Showering</source>
-        <translation type="obsolete">Duŝanta</translation>
+        <location line="+1"/>
+        <source>Cooking</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>I&apos;m in the shower.  You&apos;ll have to wait for me to get out.</source>
-        <translation type="obsolete">Mi estas en la duŝejo.  Vi devos atendi ĝis tiam ke mi eliros.</translation>
+        <location line="+1"/>
+        <source>Doing Maintenance</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
+        <location line="+1"/>
+        <source>Doing The Dishes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Doing The Laundry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Gardening</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Running An Errand</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Walking The Dog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Drinking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Having A Beer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Having Coffee</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Having Tea</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
         <source>Eating</source>
-        <translation type="obsolete">Manĝanta</translation>
+        <translation type="unfinished">Manĝanta</translation>
     </message>
     <message>
-        <source>Out eating.  Mmmm.. food.</source>
-        <translation type="obsolete">Ekstere manĝanta.  Mmmm... manĝaĵo.</translation>
+        <location line="+1"/>
+        <source>Having A Snack</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sleep</source>
-        <translation type="obsolete">Dormo</translation>
+        <location line="+1"/>
+        <source>Having Breakfast</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sleep is good.  Zzzzz</source>
-        <translation type="obsolete">Dormo bonas.  Zzzzzz</translation>
+        <location line="+1"/>
+        <source>Having Lunch</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Work</source>
-        <translation type="obsolete">Laboro</translation>
+        <location line="+1"/>
+        <source>Having Dinner</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Can&apos;t chat.  Gotta work.</source>
-        <translation type="obsolete">Mi ne povas babili.  Mi devas labori.</translation>
+        <location line="+2"/>
+        <source>Exercising</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Air</source>
-        <translation type="obsolete">Aero</translation>
+        <location line="+1"/>
+        <location line="+51"/>
+        <source>Cycling</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Stepping out to get some fresh air.</source>
-        <translation type="obsolete">Vizitanta eksteron por preni freŝan aeron.</translation>
+        <location line="-50"/>
+        <source>Dancing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Movie</source>
-        <translation type="obsolete">Filmo</translation>
+        <location line="+1"/>
+        <source>Hiking</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Out to a movie.  Is that OK with you?</source>
-        <translation type="obsolete">Spektanta en filmo.</translation>
+        <location line="+1"/>
+        <source>Jogging</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Secret</source>
-        <translation type="obsolete">Sekreta</translation>
+        <location line="+1"/>
+        <source>Playing Sports</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>I&apos;m not available right now and that&apos;s all you need to know.</source>
-        <translation type="obsolete">Mi ne estas disponebla nun, pro sekreta kialo.</translation>
+        <location line="+1"/>
+        <source>Running</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Out for the night</source>
-        <translation type="obsolete">Ekstere dum la nokto</translation>
+        <location line="+1"/>
+        <source>Skiing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Out for the night.</source>
-        <translation type="obsolete">Ekstere dum la nokto.</translation>
+        <location line="+1"/>
+        <source>Swimming</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Greece</source>
-        <translation type="obsolete">Grekio</translation>
+        <location line="+1"/>
+        <source>Working Out</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>I have gone to a far away place.  I will be back someday!</source>
-        <translation type="obsolete">Mi iris al fora loko.  Mi revenos iun tagon!</translation>
+        <location line="+2"/>
+        <source>Grooming</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Buttons</source>
-        <translation type="obsolete">Butonoj</translation>
+        <location line="+1"/>
+        <source>At The Spa</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show contacts</source>
-        <translation type="obsolete">Montru kontaktulojn</translation>
+        <location line="+1"/>
+        <source>Brushing Teeth</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/psi_profiles.cpp" line="+286"/>
+        <location line="+1"/>
+        <source>Getting A Haircut</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Shaving</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Taking A Bath</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Taking A Shower</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Having Appointment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Inactive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Day Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hanging Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hiding</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>On Vacation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Praying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Scheduled Holiday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sleeping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Thinking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Relaxing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Fishing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Gaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Going Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Partying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Reading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Rehearsing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Shopping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Smoking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Socializing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Sunbathing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Watching TV</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Watching A Movie</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Talking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>In Real Life</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>On The Phone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>On Video Phone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Traveling</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Commuting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Driving</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>In A Car</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>On A Bus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>On A Plane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>On A Train</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>On A Trip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Walking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Working</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Coding</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>In A Meeting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Studying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Writing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Other</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/psi_profiles.cpp" line="+322"/>
         <source>%1 Proxy</source>
         <translation>%1 Prokura servilo</translation>
     </message>
     <message>
-        <location filename="../src/privacy/privacydlg.cpp" line="-43"/>
+        <location filename="../../psi-plus/src/privacy/privacydlg.cpp" line="-71"/>
         <location line="+13"/>
         <source>Error</source>
         <translation>Eraro</translation>
     </message>
     <message>
-        <source>There were problems loading the images / icon set.
-Be sure you have correctly installed Psi.</source>
-        <translation type="obsolete">Estis problemoj ŝargi la bildojn / piktogramaro.
-Certigu ke vi estas ĝuste instalita Psi-on.</translation>
-    </message>
-    <message>
-        <location filename="../src/userlist.cpp" line="+109"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="+129"/>
         <source>Subscription</source>
         <translation>Abono</translation>
     </message>
@@ -14985,12 +16262,17 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
         <translation>OpenPGP</translation>
     </message>
     <message>
-        <location line="+33"/>
+        <location line="+16"/>
+        <source>Activity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+34"/>
         <source>[blank]</source>
         <translation>[nenio]</translation>
     </message>
     <message>
-        <location line="+28"/>
+        <location line="+35"/>
         <location line="+4"/>
         <source>Signed</source>
         <translation>Subskribita</translation>
@@ -15001,29 +16283,32 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
         <translation>Malbona subskribo</translation>
     </message>
     <message>
-        <location line="+12"/>
+        <location line="+21"/>
+        <source>Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
         <source>Last Status</source>
         <translation>Lasta stato</translation>
     </message>
     <message>
-        <location line="-68"/>
-        <location line="+86"/>
-        <location line="+5"/>
+        <location line="-114"/>
         <source>Listening to</source>
         <translation>Aŭskultanta</translation>
     </message>
     <message>
-        <location line="+16"/>
+        <location line="+80"/>
         <source>Using</source>
         <translation>Uzanta</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+40"/>
         <source>Status Message</source>
         <translation>Stata mesaĝo</translation>
     </message>
     <message>
-        <location line="+19"/>
+        <location line="+21"/>
         <source>Last Available</source>
         <translation>Laste disponebla</translation>
     </message>
@@ -15038,14 +16323,14 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
         <translation>Lasta stata mesaĝo</translation>
     </message>
     <message>
-        <location filename="../src/common.cpp" line="+172"/>
-        <location filename="../src/rc.cpp" line="+97"/>
+        <location filename="../../psi-plus/src/common.cpp" line="+173"/>
+        <location filename="../../psi-plus/src/rc.cpp" line="+98"/>
         <source>Offline</source>
         <translation>Senkonekta</translation>
     </message>
     <message>
         <location line="+1"/>
-        <location filename="../src/rc.cpp" line="-20"/>
+        <location filename="../../psi-plus/src/rc.cpp" line="-20"/>
         <source>Away</source>
         <translation>For</translation>
     </message>
@@ -15061,42 +16346,18 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <location filename="../src/rc.cpp" line="+15"/>
+        <location filename="../../psi-plus/src/rc.cpp" line="+15"/>
         <source>Invisible</source>
         <translation>Nevidebla</translation>
     </message>
     <message>
         <location line="+3"/>
-        <location filename="../src/rc.cpp" line="-19"/>
+        <location filename="../../psi-plus/src/rc.cpp" line="-19"/>
         <source>Online</source>
         <translation>Konektita</translation>
     </message>
     <message>
-        <source>URL error</source>
-        <translation type="obsolete">Eraro de URL</translation>
-    </message>
-    <message>
-        <source>Unable to open the URL. You have not selected a mailer (see Options).</source>
-        <translation type="obsolete">Ne eblas malfermi la URL-on.  Vi ne elektis poŝtilon (rigardu Opciojn).</translation>
-    </message>
-    <message>
-        <source>Unable to open the URL. You have not selected a browser (see Options).</source>
-        <translation type="obsolete">Ne eblas malfermi la URL-on.  Vi ne elektis krozilon (rigardu Opciojn).</translation>
-    </message>
-    <message>
-        <source>Unable to open the URL. Ensure that your custom browser/mailer exists (see Options).</source>
-        <translation type="obsolete">Ne eblas malfermi la URL-on. Certiĝu ke via agordita krozilo/poŝtilo ekzistas (vidu Opciojn).</translation>
-    </message>
-    <message>
-        <source>Unable to open the URL. Ensure that you have a web browser installed.</source>
-        <translation type="obsolete">Ne eblas malfermi la URL-on. Certiĝu ke vi havas krozilon instalitan.</translation>
-    </message>
-    <message>
-        <source>Unable to open the URL. Ensure that you have KDE installed.</source>
-        <translation type="obsolete">Ne eblas malfermi la URL-on. Certiĝu ke vi havas KDE-on instalitan.</translation>
-    </message>
-    <message>
-        <location filename="../iris/src/xmpp/xmpp-im/types.cpp" line="+2837"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="+2849"/>
         <source>Username</source>
         <translation>Uzantonomo</translation>
     </message>
@@ -15171,25 +16432,17 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
         <translation>Diversaĵo</translation>
     </message>
     <message>
-        <location filename="../src/psi_profiles.cpp" line="+424"/>
+        <location filename="../../psi-plus/src/psi_profiles.cpp" line="+424"/>
         <source>Event notifier</source>
         <translation>Notifilo de eventoj</translation>
     </message>
     <message>
-        <location filename="../src/common.cpp" line="-4"/>
+        <location filename="../../psi-plus/src/common.cpp" line="-4"/>
         <source>Free for Chat</source>
         <translation>Babilema</translation>
     </message>
     <message>
-        <source>Unable to open the URL. Ensure that you have GNOME 2 installed.</source>
-        <translation type="obsolete">Ne eblas malfermi la URL-on. Certiĝu ke vi havas GNOME 2 instalitan.</translation>
-    </message>
-    <message>
-        <source>&lt;unnamed&gt;</source>
-        <translation type="obsolete">&lt;sennoma&gt;</translation>
-    </message>
-    <message>
-        <location filename="../src/Certificates/CertificateHelpers.cpp" line="+141"/>
+        <location filename="../../psi-plus/src/Certificates/CertificateHelpers.cpp" line="+141"/>
         <source>The server did not present a certificate.</source>
         <translation>La servilo ne prezentis ateston.</translation>
     </message>
@@ -15209,7 +16462,7 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
         <translation>Ĝenerala eraro de atesta validado.</translation>
     </message>
     <message>
-        <location filename="../src/eventdlg.cpp" line="-1694"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="-1696"/>
         <source>Invitation to %1 from %2</source>
         <translation>Invitaĵo al %1 el %2</translation>
     </message>
@@ -15219,7 +16472,7 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
         <translation>Invitaĵo al %1</translation>
     </message>
     <message>
-        <location filename="../src/moodcatalog.cpp" line="+58"/>
+        <location filename="../../psi-plus/src/moodcatalog.cpp" line="+69"/>
         <source>Afraid</source>
         <translation>Tima</translation>
     </message>
@@ -15232,6 +16485,11 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
         <location line="+1"/>
         <source>Angry</source>
         <translation>Kolera</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Amorous</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
@@ -15270,13 +16528,28 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
     </message>
     <message>
         <location line="+1"/>
+        <source>Cautious</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Cold</source>
         <translation>Malvarma</translation>
     </message>
     <message>
         <location line="+1"/>
+        <source>Confident</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Confused</source>
         <translation>Konfuza</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Contemplative</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
@@ -15290,8 +16563,23 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
     </message>
     <message>
         <location line="+1"/>
+        <source>Crazy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Creative</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Curious</source>
         <translation>Scivola</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Dejected</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
@@ -15310,6 +16598,11 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
     </message>
     <message>
         <location line="+1"/>
+        <source>Dismayed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Distracted</source>
         <translation>Senatenta</translation>
     </message>
@@ -15317,6 +16610,11 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
         <location line="+1"/>
         <source>Embarrassed</source>
         <translation>Embarasa</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Envious</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
@@ -15347,6 +16645,11 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
         <location line="+1"/>
         <source>Happy</source>
         <translation>Gaja</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hopeful</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
@@ -15420,6 +16723,11 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
     </message>
     <message>
         <location line="+1"/>
+        <source>Lucky</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Mean</source>
         <translation>Malafabla</translation>
     </message>
@@ -15445,6 +16753,11 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
     </message>
     <message>
         <location line="+1"/>
+        <source>Outraged</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Playful</source>
         <translation>Ludema</translation>
     </message>
@@ -15452,6 +16765,11 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
         <location line="+1"/>
         <source>Proud</source>
         <translation>Fiera</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Relaxed</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
@@ -15505,8 +16823,18 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
     </message>
     <message>
         <location line="+1"/>
+        <source>Spontaneous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Stressed</source>
         <translation>Streĉa</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Strong</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
@@ -15515,8 +16843,28 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
     </message>
     <message>
         <location line="+1"/>
+        <source>Thankful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
         <source>Thirsty</source>
         <translation>Soifa</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Tired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Else</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Weak</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
@@ -15524,7 +16872,7 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
         <translation>Ĝena</translation>
     </message>
     <message>
-        <location filename="../src/mucmanager.cpp" line="-203"/>
+        <location filename="../../psi-plus/src/mucmanager.cpp" line="-203"/>
         <source>a moderator</source>
         <translation>kontrolanto</translation>
     </message>
@@ -15599,12 +16947,12 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
         <translation>senpartnera</translation>
     </message>
     <message>
-        <location filename="../src/options/opt_toolbars.cpp" line="+176"/>
+        <location filename="../../psi-plus/src/options/opt_toolbars.cpp" line="+176"/>
         <source>&lt;unnamed%1&gt;</source>
         <translation>&lt;sennoma%1&gt;</translation>
     </message>
     <message>
-        <location filename="../src/pgputil.cpp" line="-79"/>
+        <location filename="../../psi-plus/src/pgputil.cpp" line="-84"/>
         <source>Invalid passphrase</source>
         <translation>nevalida pasfrazo</translation>
     </message>
@@ -15649,7 +16997,7 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
         <translation>Nekonata eraro</translation>
     </message>
     <message>
-        <location filename="../src/privacy/privacydlg.cpp" line="-13"/>
+        <location filename="../../psi-plus/src/privacy/privacydlg.cpp" line="-13"/>
         <source>There was an error changing the list.</source>
         <translation>Eraro okazis ŝanĝante la liston.</translation>
     </message>
@@ -15659,7 +17007,7 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
         <translation>Okazis eraro rulante vian peton.</translation>
     </message>
     <message>
-        <location filename="../src/privacy/privacylistitem.cpp" line="+68"/>
+        <location filename="../../psi-plus/src/privacy/privacylistitem.cpp" line="+68"/>
         <source>Else %1 %2</source>
         <translation>Aliel %1 %2</translation>
     </message>
@@ -15679,58 +17027,121 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
         <translation>Se Abono estas &apos;%1&apos;, tiam %2 %3</translation>
     </message>
     <message>
-        <location filename="../src/psigrowlnotifier.cpp" line="+65"/>
-        <location line="+9"/>
-        <location line="+60"/>
+        <location filename="../../psi-plus/src/psigrowlnotifier.cpp" line="+67"/>
+        <location line="+91"/>
         <source>Contact becomes Available</source>
         <translation>Kontakto iĝas Disponebla</translation>
     </message>
     <message>
-        <location line="-68"/>
-        <location line="+74"/>
+        <location line="-90"/>
+        <location line="+96"/>
         <source>Contact becomes Unavailable</source>
         <translation>Kontakto iĝas Nedisponebla</translation>
     </message>
     <message>
-        <location line="-73"/>
-        <location line="+79"/>
+        <location line="-95"/>
+        <location line="+101"/>
         <source>Contact changes Status</source>
         <translation>Kontakto ŝanĝas Staton</translation>
     </message>
     <message>
-        <location line="-78"/>
-        <location line="+7"/>
-        <location line="+77"/>
-        <location line="+8"/>
+        <location line="-100"/>
+        <location line="+112"/>
+        <location line="+11"/>
         <source>Incoming Message</source>
         <translation>Envenanta Mesaĝo</translation>
     </message>
     <message>
-        <location line="-91"/>
-        <location line="+7"/>
-        <location line="+91"/>
+        <location line="-122"/>
+        <location line="+132"/>
+        <location line="+46"/>
         <source>Incoming Headline</source>
         <translation>Envenanta Ĉeflinio</translation>
     </message>
     <message>
-        <location line="-97"/>
-        <location line="+7"/>
-        <location line="+99"/>
+        <location line="-177"/>
+        <location line="+143"/>
         <source>Incoming File</source>
         <translation>Envenanta Dosiero</translation>
     </message>
     <message>
-        <location line="-23"/>
+        <location line="-142"/>
+        <location line="+103"/>
+        <source>Typing notify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-102"/>
+        <location line="+146"/>
+        <source>Groupchat highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-145"/>
+        <location line="+154"/>
+        <source>Incoming Call</source>
+        <translation type="unfinished">Eniganta Alvoko</translation>
+    </message>
+    <message>
+        <location line="-51"/>
+        <source>[Typing notify]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <location line="+10"/>
+        <source>[Incoming Message]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>[Incoming Headline]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>[Groupchat highlight]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>[Incoming Call]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/psidbusnotifier.cpp" line="+225"/>
+        <location filename="../../psi-plus/src/psigrowlnotifier.cpp" line="-53"/>
+        <source> is typing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <location filename="../../psi-plus/src/psigrowlnotifier.cpp" line="+6"/>
         <source>%1 says:</source>
         <translation>%1 diras:</translation>
     </message>
     <message>
-        <location line="+24"/>
+        <location line="+8"/>
+        <source>Headline from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Incoming file from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Incoming call from %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/psigrowlnotifier.cpp" line="+33"/>
         <source>[Incoming File]</source>
         <translation>[Envenanta Dosiero]</translation>
     </message>
     <message>
-        <location filename="../src/rc.cpp" line="-26"/>
+        <location filename="../../psi-plus/src/rc.cpp" line="-26"/>
         <source>Set Status</source>
         <translation>Elekti Staton</translation>
     </message>
@@ -15740,12 +17151,43 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
         <translation>Elektu la staton kaj statmesaĝon</translation>
     </message>
     <message>
-        <location line="+14"/>
+        <location filename="../../psi-plus/src/popupmanager.cpp" line="+83"/>
+        <location filename="../../psi-plus/src/rc.cpp" line="+14"/>
         <source>Status</source>
         <translation>Stato</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+2"/>
+        <source>Headline</source>
+        <translation type="unfinished">Ĉeflinio</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Chat Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Groupchat Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+175"/>
+        <source>Classic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Growl</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>DBus</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/rc.cpp" line="+6"/>
         <source>Chat</source>
         <translation>Babilo</translation>
     </message>
@@ -15810,29 +17252,17 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
         <translation>Aŭtomate malfermi la novajn mesaĝojn</translation>
     </message>
     <message>
-        <location filename="../src/userlist.cpp" line="-155"/>
+        <location line="+56"/>
+        <source>Leave All Conferences</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/userlist.cpp" line="-179"/>
         <source>Mood</source>
         <translation>Humoro</translation>
     </message>
     <message>
-        <location line="+12"/>
-        <location line="+91"/>
-        <source>Location</source>
-        <translation>Loko</translation>
-    </message>
-    <message>
-        <location line="-87"/>
-        <location line="+91"/>
-        <source>Geolocation</source>
-        <translation>Globloko</translation>
-    </message>
-    <message>
-        <location line="-25"/>
-        <source>JID: %1</source>
-        <translation>JID: %1</translation>
-    </message>
-    <message>
-        <location line="+2"/>
+        <location line="+130"/>
         <source>Role: %1</source>
         <translation>Rolo: %1</translation>
     </message>
@@ -15842,7 +17272,7 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
         <translation>Partnero: %1</translation>
     </message>
     <message>
-        <location filename="../src/Certificates/CertificateErrorDialog.cpp" line="+17"/>
+        <location filename="../../psi-plus/src/Certificates/CertificateErrorDialog.cpp" line="+17"/>
         <source>The %1 certificate failed the authenticity test.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15867,7 +17297,7 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/groupchatdlg.cpp" line="+567"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="+757"/>
         <source>Warning: %1 is deprecated and will be removed in the future</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15882,7 +17312,7 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/privacy/privacylistitem.cpp" line="-31"/>
+        <location filename="../../psi-plus/src/privacy/privacylistitem.cpp" line="-31"/>
         <source>Deny</source>
         <translation type="unfinished">Malpermesi</translation>
     </message>
@@ -15917,7 +17347,7 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="+86"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="+86"/>
         <source>No certificate presented.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15937,7 +17367,7 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/adhoc_fileserver.cpp" line="+55"/>
+        <location filename="../../psi-plus/src/adhoc_fileserver.cpp" line="+55"/>
         <source>Choose file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15948,11 +17378,12 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
     </message>
     <message>
         <location line="+7"/>
+        <location filename="../../psi-plus/src/popupmanager.cpp" line="-185"/>
         <source>File</source>
         <translation type="unfinished">Dosiero</translation>
     </message>
     <message>
-        <location filename="../src/plugins/generic/chess/main.cpp" line="+48"/>
+        <location filename="../../psi-plus/src/plugins/generic/chess/main.cpp" line="+48"/>
         <source>Socket Error</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15961,111 +17392,314 @@ Certigu ke vi estas ĝuste instalita Psi-on.</translation>
         <source>Cannot create a server socket!</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../../psi-plus/src/geolocation.cpp" line="+379"/>
+        <source>Latitude/Longitude/Altitude: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>
+Bearing: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>
+Error: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>
+Datum: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>
+Country: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>
+Postalcode: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>
+Region: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>
+Locality: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>
+Area: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>
+Street: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>
+Floor: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>
+Room: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>
+Description: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/messageview.cpp" line="+77"/>
+        <source>%1 is now %2</source>
+        <translation type="unfinished">%1 estas nun %2</translation>
+    </message>
+    <message numerus="yes">
+        <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="-328"/>
+        <source>%n day(s) </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <location line="+3"/>
+        <source>%n hour(s) </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <location line="+3"/>
+        <source>%n minute(s) </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <location line="+3"/>
+        <source>%n second(s) </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/OtrInternal.cpp" line="+45"/>
+        <source>No OTR Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>OTR TaggedPlaintextMessage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>OTR QueryMessage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>OTR DH-Commit Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>OTR DH-Key Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>OTR Reveal Signature Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>OTR Signature Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>OTR Version 1 Key Exchange Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>OTR Data Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>OTR Error Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>OTR Unknown Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Unknown OTR Message Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+95"/>
+        <source>Encrypting message to %1 failed.
+The message was not sent.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+148"/>
+        <source>Received %1 [%2]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Session ID: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+296"/>
+        <source>plaintext</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>finished</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+164"/>
+        <location line="+24"/>
+        <source>Psi OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-23"/>
+        <source>Generating keys for account &quot;%1&quot;.
+This may take a while.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Ok</source>
+        <translation type="unfinished">Bone</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Failed to generate keys for account &quot;%1&quot;.
+The OTR Plugin will not work.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Fingerprint for account &quot;%1&quot;:
+%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+117"/>
+        <source>You have received a new fingerprint from %1:
+%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/storagenotesplugin/tagsmodel.cpp" line="-149"/>
+        <source>All Tags</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.cpp" line="+45"/>
+        <source>Name: %1
+Size: %2
+Date prolongate: %3
+URL: %4
+Password: %5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Yes</source>
+        <translation type="unfinished">Jes</translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>No</source>
+        <translation type="unfinished">Ne</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/theme.cpp" line="+48"/>
+        <source>Unnamed</source>
+        <translation type="unfinished">Sennoma</translation>
+    </message>
 </context>
 <context>
-    <name>QXml</name>
+    <name>QipXStatuses</name>
     <message>
-        <source>no error occurred</source>
-        <translation type="obsolete">okazis neniu eraro</translation>
+        <location filename="../../psi-plus/src/plugins/generic/qipxstatusesplugin/qipxstatusesplugin.cpp" line="+99"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>error triggered by consumer</source>
-        <translation type="obsolete">eraro lanĉiĝis pro konsumanto</translation>
+        <location line="+242"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>unexpected end of file</source>
-        <translation type="obsolete">neatendita fino de la dosiero</translation>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>more than one document type definition</source>
-        <translation type="obsolete">pli ol unu difino de dokumenta speco</translation>
-    </message>
-    <message>
-        <source>error occurred while parsing element</source>
-        <translation type="obsolete">eraro okazis dum analizo de elemento</translation>
-    </message>
-    <message>
-        <source>tag mismatch</source>
-        <translation type="obsolete">nekongruo de etikedo</translation>
-    </message>
-    <message>
-        <source>error occurred while parsing content</source>
-        <translation type="obsolete">eraro okazis dum analizo de enhavo</translation>
-    </message>
-    <message>
-        <source>unexpected character</source>
-        <translation type="obsolete">neatendita signo</translation>
-    </message>
-    <message>
-        <source>invalid name for processing instruction</source>
-        <translation type="obsolete">nevalida nomo por proceza instrukcio</translation>
-    </message>
-    <message>
-        <source>version expected while reading the XML declaration</source>
-        <translation type="obsolete">versio atendatis dum legado de la deklaracio XMLa</translation>
-    </message>
-    <message>
-        <source>wrong value for standalone declaration</source>
-        <translation type="obsolete">neĝusta valoro por sendependa deklaracio</translation>
-    </message>
-    <message>
-        <source>encoding declaration or standalone declaration expected while reading the XML declaration</source>
-        <translation type="obsolete">deklaracio de kodado aŭ sendependa deklaracio atendatis dum legado de la deklaracio XMLa</translation>
-    </message>
-    <message>
-        <source>standalone declaration expected while reading the XML declaration</source>
-        <translation type="obsolete">sendependa deklaracio atendatis, dum legado de la XMLa deklaracio</translation>
-    </message>
-    <message>
-        <source>error occurred while parsing document type definition</source>
-        <translation type="obsolete">eraro okazis dum analizado de difino de speco de dokumento</translation>
-    </message>
-    <message>
-        <source>letter is expected</source>
-        <translation type="obsolete">litero atendatas</translation>
-    </message>
-    <message>
-        <source>error occurred while parsing comment</source>
-        <translation type="obsolete">eraro okazis dum analizo de komento</translation>
-    </message>
-    <message>
-        <source>error occurred while parsing reference</source>
-        <translation type="obsolete">eraro okazis dum analizo de referenco</translation>
-    </message>
-    <message>
-        <source>internal general entity reference not allowed in DTD</source>
-        <translation type="obsolete">interna ĝenerala referenco de ento ne permesatas en DTD</translation>
-    </message>
-    <message>
-        <source>external parsed general entity reference not allowed in attribute value</source>
-        <translation type="obsolete">eksterna analizita ĝenerala referenco de ento ne permesatas en valoro de atributo</translation>
-    </message>
-    <message>
-        <source>external parsed general entity reference not allowed in DTD</source>
-        <translation type="obsolete">eksterna analizita ĝenerala referenco de ento ne permesatas en DTD</translation>
-    </message>
-    <message>
-        <source>unparsed entity reference in wrong context</source>
-        <translation type="obsolete">neanalizita referenco de ento en malĝusta kunteksto</translation>
-    </message>
-    <message>
-        <source>recursive entities</source>
-        <translation type="obsolete">rekursiaj entoj</translation>
-    </message>
-    <message>
-        <source>error in the text declaration of an external entity</source>
-        <translation type="obsolete">eraro en la deklaracio de teksto de eksterna ento</translation>
+        <location line="+1"/>
+        <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>RegistrationDlg</name>
     <message>
-        <location filename="../src/registrationdlg.cpp" line="+157"/>
+        <location filename="../../psi-plus/src/registrationdlg.cpp" line="+157"/>
         <source>Registration: %1</source>
         <translation>Registrado: %1</translation>
     </message>
     <message>
-        <location line="+25"/>
+        <location line="+26"/>
         <source>&amp;Register</source>
         <translation>&amp;Registri</translation>
     </message>
@@ -16136,9 +17770,63 @@ Kialo: %1</translation>
     </message>
 </context>
 <context>
+    <name>Reminder</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="+446"/>
+        <source>celebrates birthday today!
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <location line="+3"/>
+        <source>celebrates birthday in %n day(s)
+</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>celebrates birthday yesterday.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+34"/>
+        <source>Birthday Reminder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+27"/>
+        <source>Choose a sound file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Sound (*.wav)</source>
+        <translation type="unfinished">Sono (*.wav)</translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to show reminders of upcoming birthdays.
+The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>RemoveConfirmationMessageBox</name>
     <message>
-        <location filename="../src/removeconfirmationmessagebox.cpp" line="+71"/>
+        <location filename="../../psi-plus/src/removeconfirmationmessagebox.cpp" line="+71"/>
         <source>OK</source>
         <translation type="unfinished">Bone</translation>
     </message>
@@ -16158,7 +17846,7 @@ Kialo: %1</translation>
 <context>
     <name>ResourceMenu</name>
     <message>
-        <location filename="../src/resourcemenu.cpp" line="+67"/>
+        <location filename="../../psi-plus/src/resourcemenu.cpp" line="+67"/>
         <location line="+34"/>
         <source>[blank]</source>
         <translation>[nenio]</translation>
@@ -16167,7 +17855,7 @@ Kialo: %1</translation>
 <context>
     <name>RoomModel</name>
     <message>
-        <location filename="../src/libpsi/widgets/groupchatbrowsewindow.cpp" line="-196"/>
+        <location filename="../../psi-plus/src/libpsi/widgets/groupchatbrowsewindow.cpp" line="-196"/>
         <source>Auto-join</source>
         <translation type="unfinished">Aŭtomate aliĝi</translation>
     </message>
@@ -16178,158 +17866,298 @@ Kialo: %1</translation>
     </message>
 </context>
 <context>
+    <name>RosterAvatarFrame</name>
+    <message>
+        <location filename="../../psi-plus/src/rosteravatarframe.ui" line="+20"/>
+        <source>Form</source>
+        <translation type="unfinished">Formularo</translation>
+    </message>
+    <message>
+        <location line="+38"/>
+        <source>Nick</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>Set Mood for all active accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Set Activity for all active accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Set Status for all active accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <source>Status Message</source>
+        <translation type="unfinished">Stata mesaĝo</translation>
+    </message>
+</context>
+<context>
     <name>RosterExchangeEvent</name>
     <message>
-        <location filename="../src/psievent.cpp" line="+51"/>
+        <location filename="../../psi-plus/src/psievent.cpp" line="+51"/>
         <source>This user wants to modify your roster.</source>
         <translation>Tiu uzanto volas modifi vian kontaktoliston.</translation>
     </message>
 </context>
 <context>
-    <name>SSLCert</name>
+    <name>Screenshot</name>
     <message>
-        <source>SSL Cert</source>
-        <translation type="obsolete">SSL Atesto</translation>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.ui" line="+20"/>
+        <source>Screenshot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Certificate Validation:</source>
-        <translation type="obsolete">Validigado de Atesto:</translation>
+        <location line="+88"/>
+        <source>Copy to clipboard</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Valid From:</source>
-        <translation type="obsolete">Valida Ekde:</translation>
+        <location line="+28"/>
+        <source>Cancel uploading</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Valid Until:</source>
-        <translation type="obsolete">Valida Ĝis:</translation>
+        <location line="+21"/>
+        <source>Upload to server:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Serial Number:</source>
-        <translation type="obsolete">Seria Nombro:</translation>
+        <location line="+13"/>
+        <source>Upload Screenshot to selected server</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Close</source>
-        <translation type="obsolete">Fermi</translation>
+        <location line="+13"/>
+        <source>Save Screenshot to Local Drive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Print Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Open image from Local Drive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <location line="+85"/>
+        <source>New Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-72"/>
+        <source>toolBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>File</source>
+        <translation type="unfinished">Dosiero</translation>
+    </message>
+    <message>
+        <location line="+15"/>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Help</source>
+        <translation type="unfinished">Helpo</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Open</source>
+        <translation type="unfinished">Malfermi</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Print</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Proxy Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>History</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>About Qt</source>
+        <translation type="unfinished">Pri Qt</translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Home page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Upload</source>
+        <translation type="unfinished">Enŝuto</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.cpp" line="+242"/>
+        <source>Size: %1x%2px; %3 bytes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+51"/>
+        <source>Open Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+191"/>
+        <source>/%1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Save As</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>%1 Files (*.%2);;All Files (*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+68"/>
+        <location line="+50"/>
+        <source>%1.</source>
+        <translation type="unfinished">%1.</translation>
+    </message>
+    <message>
+        <location line="+134"/>
+        <source>Can&apos;t parse URL (Reply URL: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Close Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Are you sure?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>SSLCertDlg</name>
+    <name>ScreenshotOptions</name>
     <message>
-        <source>Organization:</source>
-        <translation type="obsolete">Organizaĵo:</translation>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshotoptions.ui" line="+23"/>
+        <source>New Screenshot</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Organizational unit:</source>
-        <translation type="obsolete">Organizaĵa fakejo:</translation>
+        <location line="+6"/>
+        <source>Capture the desktop</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Locality:</source>
-        <translation type="obsolete">Urbo:</translation>
+        <location line="+10"/>
+        <source>Capture current window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>State:</source>
-        <translation type="obsolete">Subŝtato:</translation>
+        <location line="+7"/>
+        <source>Select capture area</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Country:</source>
-        <translation type="obsolete">Lando:</translation>
+        <location line="+9"/>
+        <source>Capture after</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Common name:</source>
-        <translation type="obsolete">Ordinara nomo:</translation>
-    </message>
-    <message>
-        <source>Email:</source>
-        <translation type="obsolete">Retadreso:</translation>
-    </message>
-    <message>
-        <source>SSL Cert</source>
-        <translation type="obsolete">SSL Atesto</translation>
-    </message>
-    <message>
-        <source>The certificate is valid.</source>
-        <translation type="obsolete">La atesto estas valida.</translation>
-    </message>
-    <message>
-        <source>The certificate is NOT valid!</source>
-        <translation type="obsolete">La atesto NE estas valida!</translation>
-    </message>
-    <message>
-        <source>Subject Details:</source>
-        <translation type="obsolete">Detaloj de la temo:</translation>
-    </message>
-    <message>
-        <source>Issuer Details:</source>
-        <translation type="obsolete">Detaloj de la eldonanto:</translation>
-    </message>
-    <message>
-        <source>Domain name:</source>
-        <translation type="obsolete">Domajna nomo:</translation>
-    </message>
-    <message>
-        <source>XMPP name:</source>
-        <translation type="obsolete">XMPP nomo:</translation>
-    </message>
-    <message>
-        <source>Reason: %1.</source>
-        <translation type="obsolete">Kialo: %1.</translation>
+        <location line="+10"/>
+        <source>seconds</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>SSLCertUI</name>
+    <name>ScreenshotPlugin</name>
     <message>
-        <source>Form1</source>
-        <translation type="obsolete">Formularo1</translation>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshotplugin.cpp" line="+194"/>
+        <source>Upload Image</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Certificate Validation:</source>
-        <translation type="obsolete">Validigado de atesto:</translation>
+        <location line="+36"/>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Valid From:</source>
-        <translation type="obsolete">Valida ekde:</translation>
+        <location line="+1"/>
+        <source>This plugin allows you to make screenshots and save them to your hard drive or upload them to an FTP or HTTP server.
+The plugin has the following settings:
+* Shortcut -- hotkey to make the screenshot (by default, Ctrl+Alt+P)
+* Format -- the file format in which the screenshot will be stored (default: .jpg)
+* File Name -- format of the filename (default: pic-yyyyMMdd-hhmmss, where yyyyMMdd=YYYYMMDD, and hhmmss are current date in the format yearmonthday-hourminutesecond)
+The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Valid Until:</source>
-        <translation type="obsolete">Valida ĝis:</translation>
-    </message>
-    <message>
-        <source>Serial Number:</source>
-        <translation type="obsolete">Seria Nombro:</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>SSL Cert</source>
-        <translation type="obsolete">SSLa Atesto</translation>
+        <location line="+6"/>
+        <source>
+
+Settings for authorization on some hostings can be found here: http://code.google.com/p/qscreenshot/wiki/Authorization</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Search</name>
     <message>
-        <location filename="../src/search.ui" line="+16"/>
+        <location filename="../../psi-plus/src/search.ui" line="+20"/>
         <source>Search: %1</source>
         <translation type="unfinished">Serĉo: %1</translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+26"/>
         <source>Search Fields</source>
         <translation type="unfinished">Kampoj de Serĉo</translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+20"/>
         <source>Instructions go here.</source>
         <translation type="unfinished">Instrukcioj estu tie ĉi.</translation>
     </message>
     <message>
-        <location line="+10"/>
-        <source>form</source>
-        <translation type="unfinished">formularo</translation>
-    </message>
-    <message>
-        <location line="+12"/>
+        <location line="+41"/>
         <source>&amp;Search</source>
         <translation type="unfinished">&amp;Serĉi</translation>
     </message>
@@ -16354,27 +18182,27 @@ Kialo: %1</translation>
         <translation type="unfinished">Kromnomo</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+5"/>
         <source>First Name</source>
         <translation type="unfinished">Antaŭnomo</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+5"/>
         <source>Last Name</source>
         <translation type="unfinished">Familia Nomo</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+5"/>
         <source>E-Mail Address</source>
         <translation type="unfinished">Retpoŝtadreso</translation>
     </message>
     <message>
-        <location line="+11"/>
+        <location line="+5"/>
         <source>Jabber ID</source>
         <translation type="unfinished">Jabber-ID</translation>
     </message>
     <message>
-        <location line="+35"/>
+        <location line="+29"/>
         <source>&amp;Add Contact</source>
         <translation type="unfinished">&amp;Aldoni Kontaktulon</translation>
     </message>
@@ -16402,11 +18230,7 @@ Kialo: %1</translation>
 <context>
     <name>SearchDlg</name>
     <message>
-        <source>Search: %1</source>
-        <translation type="obsolete">Serĉo: %1</translation>
-    </message>
-    <message>
-        <location filename="../src/searchdlg.cpp" line="+248"/>
+        <location filename="../../psi-plus/src/searchdlg.cpp" line="+255"/>
         <source>&lt;qt&gt;Fetching search form for %1 ...&lt;/qt&gt;</source>
         <translation>&lt;qt&gt;Akirantas formularon de serĉo por %1 ...&lt;/qt&gt;</translation>
     </message>
@@ -16451,10 +18275,6 @@ Kialo: %1</translation>
         <source>Added %1 to your roster.</source>
         <translation>%1 aldonitas al via kontaktolisto.</translation>
     </message>
-    <message>
-        <source>Added %1 users to your roster.</source>
-        <translation type="obsolete">Aldonitas %1 uzantoj al via kontaktolisto.</translation>
-    </message>
     <message numerus="yes">
         <location line="-5"/>
         <source>Added %n users to your roster.</source>
@@ -16464,80 +18284,9 @@ Kialo: %1</translation>
     </message>
 </context>
 <context>
-    <name>SearchUI</name>
-    <message>
-        <source>SearchUI</source>
-        <translation type="obsolete">SerĉoUI</translation>
-    </message>
-    <message>
-        <source>Search Fields</source>
-        <translation type="obsolete">Kampoj de serĉo</translation>
-    </message>
-    <message>
-        <source>Instructions go here.</source>
-        <translation type="obsolete">Instrukcioj estu tie ĉi.</translation>
-    </message>
-    <message>
-        <source>form</source>
-        <translation type="obsolete">formularo</translation>
-    </message>
-    <message>
-        <source>&amp;Search</source>
-        <translation type="obsolete">&amp;Serĉi</translation>
-    </message>
-    <message>
-        <source>St&amp;op</source>
-        <translation type="obsolete">&amp;Haltu</translation>
-    </message>
-    <message>
-        <source>Nickname</source>
-        <translation type="obsolete">Kromnomo</translation>
-    </message>
-    <message>
-        <source>First Name</source>
-        <translation type="obsolete">Antaŭnomo</translation>
-    </message>
-    <message>
-        <source>Last Name</source>
-        <translation type="obsolete">Familia Nomo</translation>
-    </message>
-    <message>
-        <source>E-Mail Address</source>
-        <translation type="obsolete">Retpoŝtadreso</translation>
-    </message>
-    <message>
-        <source>Jabber ID</source>
-        <translation type="obsolete">Jabber-ID</translation>
-    </message>
-    <message>
-        <source>&amp;Add Contact</source>
-        <translation type="obsolete">&amp;Aldoni Kontaktulon</translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation type="obsolete">&amp;Informo de uzanto</translation>
-    </message>
-    <message>
-        <source>busywidget</source>
-        <translation type="obsolete">okupatafenestraĵo</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>Search: %1</source>
-        <translation type="obsolete">Serĉo: %1</translation>
-    </message>
-    <message>
-        <source>&amp;Stop</source>
-        <translation type="obsolete">&amp;Haltigi</translation>
-    </message>
-</context>
-<context>
     <name>SelectGame</name>
     <message>
-        <location filename="../src/plugins/generic/chess/mainwindow.cpp" line="+38"/>
+        <location filename="../../psi-plus/src/plugins/generic/chess/mainwindow.cpp" line="+38"/>
         <source>New game with...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16573,9 +18322,129 @@ Kialo: %1</translation>
     </message>
 </context>
 <context>
+    <name>SendButtonTemplatesEditor</name>
+    <message>
+        <location filename="../../psi-plus/src/sendbuttontemplateseditor.ui" line="+14"/>
+        <source>Template editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+120"/>
+        <source>Add</source>
+        <translation type="unfinished">Aldoni</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <location filename="../../psi-plus/src/sendbuttonmenu.cpp" line="+23"/>
+        <source>Edit</source>
+        <translation type="unfinished">Redakti</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <location filename="../../psi-plus/src/sendbuttonmenu.cpp" line="+1"/>
+        <source>Remove</source>
+        <translation type="unfinished">Forigi</translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>Ok</source>
+        <translation type="unfinished">Bone</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/sendbuttonmenu.cpp" line="-9"/>
+        <source>Add template string</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Add template string as submenu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Add separator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Add separator as submenu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Up</source>
+        <translation type="unfinished">Supren</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Down</source>
+        <translation type="unfinished">Suben</translation>
+    </message>
+    <message>
+        <location line="+42"/>
+        <location line="+45"/>
+        <location line="+9"/>
+        <source>&lt;separator&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Edit template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Input new template text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+139"/>
+        <source>Save templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SendButtonTemplatesMenu</name>
+    <message>
+        <location line="+109"/>
+        <source>Paste and &amp;Send</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>&amp;Edit Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Only &amp;Paste</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>SeparatorAction</name>
     <message>
-        <location filename="../src/mainwin_p.cpp" line="-41"/>
+        <location filename="../../psi-plus/src/mainwin_p.cpp" line="-41"/>
         <source>&lt;Separator&gt;</source>
         <translation>&lt;Disigilo&gt;</translation>
     </message>
@@ -16588,7 +18457,7 @@ Kialo: %1</translation>
 <context>
     <name>ServerListQuerier</name>
     <message>
-        <location filename="../src/serverlistquerier.cpp" line="+58"/>
+        <location filename="../../psi-plus/src/serverlistquerier.cpp" line="+58"/>
         <source>Unable to parse server list</source>
         <translation>Ne eblas analizi la servilan liston</translation>
     </message>
@@ -16614,225 +18483,22 @@ Kialo: %1</translation>
     </message>
 </context>
 <context>
-    <name>ServicesDlg</name>
+    <name>ShowChangeLogForm</name>
     <message>
-        <source>Manage Services</source>
-        <translation type="obsolete">Administri servojn</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="obsolete">Eraro</translation>
-    </message>
-    <message>
-        <source>There was an error browsing the service list.
-Reason: %1</source>
-        <translation type="obsolete">Estis eraro folumi la servo-liston.
-Kialo: %1</translation>
-    </message>
-</context>
-<context>
-    <name>ServicesUI</name>
-    <message>
-        <source>Form1</source>
-        <translation type="obsolete">Formularo1</translation>
-    </message>
-    <message>
-        <source>Server to browse:</source>
-        <translation type="obsolete">Servilo por folumi:</translation>
-    </message>
-    <message>
-        <source>&amp;Browse</source>
-        <translation type="obsolete">&amp;Folumu</translation>
-    </message>
-    <message>
-        <source>&amp;Register</source>
-        <translation type="obsolete">&amp;Registru</translation>
-    </message>
-    <message>
-        <source>&amp;Search</source>
-        <translation type="obsolete">&amp;Serĉu</translation>
-    </message>
-    <message>
-        <source>&amp;Join</source>
-        <translation type="obsolete">&amp;Eniru</translation>
-    </message>
-    <message>
-        <source>busywidget</source>
-        <translation type="obsolete">okupatafenestraĵo</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermu</translation>
-    </message>
-</context>
-<context>
-    <name>Shortcuts</name>
-    <message>
-        <location filename="../src/option_translations.cpp" line="+2"/>
-        <source>Shortcuts in the chat dialog</source>
+        <location filename="../../psi-plus/src/AutoUpdater/QDChangeLog.ui" line="+14"/>
+        <source>New version is available!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+1"/>
-        <source>Switch to the next tab</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Switch to the previous tab</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Find text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Sends the message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Clear the text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Change to quick command mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Shortcuts in the contactlist</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Assign a custom avatar to the selected contact</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Remove custom avatar from the selected contact</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Delete the selected contact</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Open a chat to the selected contact</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Send a message to the selected contact</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <location line="+10"/>
-        <source>Receive incoming event</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="-9"/>
-        <source>Rename the selected contact</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Log on to the selected transport</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Common actions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Scroll up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Scroll down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Close the current window/tab</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Open the message history</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Show the user info of the contact</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Shortcuts available from outside of the application</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+2"/>
-        <source>Show/hide the application</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Bring the application to front</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Send new message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Hide all active windows</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Shortcuts in the message dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Send the message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Shortcuts in the status dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Set the status message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
-        <source>Shortcuts in the service discovery dialog</source>
+        <location line="+37"/>
+        <source>Open download page?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ShowPhotoDlg</name>
     <message>
-        <location filename="../src/vcardphotodlg.cpp" line="+17"/>
+        <location filename="../../psi-plus/src/vcardphotodlg.cpp" line="+20"/>
         <source>Photo Preview: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16865,16 +18531,206 @@ Kialo: %1</translation>
 <context>
     <name>ShowTextDlg</name>
     <message>
-        <location filename="../src/showtextdlg.cpp" line="+58"/>
+        <location filename="../../psi-plus/src/showtextdlg.cpp" line="+58"/>
         <location line="+27"/>
         <source>&amp;OK</source>
         <translation>&amp;Bone</translation>
     </message>
 </context>
 <context>
+    <name>SkinsPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/skinsplugin/skinsplugin.ui" line="+14"/>
+        <source>Form</source>
+        <translation type="unfinished">Formularo</translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Preview skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Update skins list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Apply selected skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Apply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Open skin file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Open</source>
+        <translation type="unfinished">Malfermi</translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Remove selected skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Remove</source>
+        <translation type="unfinished">Forigi</translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>Overwrite selected skin with the current settings </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Create new skin from current settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Create</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Backup skin before applying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/skinsplugin/skinsplugin.cpp" line="+137"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+87"/>
+        <source>Choose a skin file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <location line="+57"/>
+        <source>*.skn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-9"/>
+        <location line="+5"/>
+        <location line="+25"/>
+        <source>Create Skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-30"/>
+        <location line="+5"/>
+        <location line="+37"/>
+        <location line="+5"/>
+        <location line="+109"/>
+        <location line="+5"/>
+        <source>Unknown error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-152"/>
+        <source>Save a skin file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+21"/>
+        <source>Can&apos;t save skin!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <location line="+5"/>
+        <location line="+23"/>
+        <location line="+28"/>
+        <source>Apply Skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-28"/>
+        <source>Can&apos;t save the backup skin!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+74"/>
+        <source>Overwrite selected skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+40"/>
+        <source>Are You Sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-29"/>
+        <location line="+5"/>
+        <location line="+13"/>
+        <source>Overwrite Skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Can&apos;t save the skin!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Delete skin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+16"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to create, store and apply skins to Psi+.
+Skin - a set of custom settings.
+To download a new skin, create a folder named skins in the PsiData directory and put the new skin in it. You can also just open a skin file.
+Each skin must be in a separate directory. You can also add a screenshot to the skin file.
+In most cases, to be sure that the skin is applied correctly, you must perform a sequence of actions:
+1. Apply the skin
+2. Restart the application
+3. Apply the same skin again
+This allows all settings (icons, toolbar layout) to be picked up correctly. </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>SpacerAction</name>
     <message>
-        <location filename="../src/mainwin_p.cpp" line="-34"/>
+        <location filename="../../psi-plus/src/mainwin_p.cpp" line="-34"/>
         <location line="+1"/>
         <source>&lt;Spacer&gt;</source>
         <translation>&lt;spacigilo&gt;</translation>
@@ -16886,195 +18742,39 @@ Kialo: %1</translation>
     </message>
 </context>
 <context>
-    <name>Stanza::Error::Private</name>
+    <name>StatusMenu</name>
     <message>
-        <source>Bad request</source>
-        <translation type="obsolete">Malbona peto</translation>
+        <location filename="../../psi-plus/src/statusmenu.cpp" line="+70"/>
+        <source>Presets</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The sender has sent XML that is malformed or that cannot be processed.</source>
-        <translation type="obsolete">La sendanto sendis XML, kiu estas malformita aŭ neanalizebla.</translation>
-    </message>
-    <message>
-        <source>Conflict</source>
-        <translation type="obsolete">Konflikto</translation>
-    </message>
-    <message>
-        <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
-        <translation type="obsolete">Atingo ne doneblas ĉar estanta risurco aŭ seanco ekzistas kun la sama nomo aŭ adreso.</translation>
-    </message>
-    <message>
-        <source>Feature not implemented</source>
-        <translation type="obsolete">Funkcio ne programita</translation>
-    </message>
-    <message>
-        <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
-        <translation type="obsolete">La petita funkcio ne estas programita ĉe la ricevanto aŭ servilo, do ne estas havebla.</translation>
-    </message>
-    <message>
-        <source>Forbidden</source>
-        <translation type="obsolete">Malpermesita</translation>
-    </message>
-    <message>
-        <source>The requesting entity does not possess the required permissions to perform the action.</source>
-        <translation type="obsolete">La petanta ulo ne rajtas plenumi la agon.</translation>
-    </message>
-    <message>
-        <source>Gone</source>
-        <translation type="obsolete">Foririta</translation>
-    </message>
-    <message>
-        <source>The recipient or server can no longer be contacted at this address.</source>
-        <translation type="obsolete">La ricevanto aŭ servilo ne plus kontakteblas ĉe tiu adreso.</translation>
-    </message>
-    <message>
-        <source>Internal server error</source>
-        <translation type="obsolete">Interna eraro de servilo</translation>
-    </message>
-    <message>
-        <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
-        <translation type="obsolete">La servilo ne kapablis plenumi la frazon, pro malagordo aŭ alia nedifinita interna servila eraro.</translation>
-    </message>
-    <message>
-        <source>Item not found</source>
-        <translation type="obsolete">Ero ne trovitas</translation>
-    </message>
-    <message>
-        <source>The addressed JID or item requested cannot be found.</source>
-        <translation type="obsolete">La petita adresita JID aŭ ero ne troveblas.</translation>
-    </message>
-    <message>
-        <source>JID malformed</source>
-        <translation type="obsolete">Malformita JID</translation>
-    </message>
-    <message>
-        <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
-        <translation type="obsolete">La sendanto donis aŭ komunikis XMPP adreson (ekz. valoro de la &apos;to&apos; atributo) aŭ aspekton (ekz. risurca identigilo) kiu ne taŭgas laŭ la sintakso difinita en la Adresoskemo.</translation>
-    </message>
-    <message>
-        <source>Not acceptable</source>
-        <translation type="obsolete">Ne akceptebla</translation>
-    </message>
-    <message>
-        <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server (e.g., a local policy regarding acceptable words in messages).</source>
-        <translation type="obsolete">La ricevanto aŭ servilo komprenas la peton, sed malakceptas plenumi ĝin pro ĝi ŝajne ne taŭgas kriteriojn difinitajn de la ricevanto aŭ servilo (ekz. loka regulo pri akcepteblaj vortoj en mesaĝoj).</translation>
-    </message>
-    <message>
-        <source>Not allowed</source>
-        <translation type="obsolete">Malpermesita</translation>
-    </message>
-    <message>
-        <source>The recipient or server does not allow any entity to perform the action.</source>
-        <translation type="obsolete">La ricevanto aŭ servilo ne permesas al iu ajn plenumi la agon.</translation>
-    </message>
-    <message>
-        <source>Not authorized</source>
-        <translation type="obsolete">Ne rajtigita</translation>
-    </message>
-    <message>
-        <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
-        <translation type="obsolete">La sendanto devas doni taŭgan ateston antaŭ ol permesiti plenumi la agon, aŭ donis netaŭgan ateston.</translation>
-    </message>
-    <message>
-        <source>Payment required</source>
-        <translation type="obsolete">Pagado bezonata</translation>
-    </message>
-    <message>
-        <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
-        <translation type="obsolete">La petanto ne rajtas atingi la petitan servon, pro bezonas pagi.</translation>
-    </message>
-    <message>
-        <source>Recipient unavailable</source>
-        <translation type="obsolete">Ricevanto nedisponebla</translation>
-    </message>
-    <message>
-        <source>The intended recipient is temporarily unavailable.</source>
-        <translation type="obsolete">La intenca ricevanto estas maldaŭre nedisponebla.</translation>
-    </message>
-    <message>
-        <source>Redirect</source>
-        <translation type="obsolete">Redirekti</translation>
-    </message>
-    <message>
-        <source>The recipient or server is redirecting requests for this information to another entity, usually temporarily.</source>
-        <translation type="obsolete">La ricevanto aŭ servilo redirektas petojn por tiu informo al alio, ĝenerale maldaŭre.</translation>
-    </message>
-    <message>
-        <source>Registration required</source>
-        <translation type="obsolete">Registrado bezonata</translation>
-    </message>
-    <message>
-        <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
-        <translation type="obsolete">La petanto ne rajtas atingi la petitan servon pro ĝi bezonas registradon.</translation>
-    </message>
-    <message>
-        <source>Remote server not found</source>
-        <translation type="obsolete">Fora servilo ne trovita</translation>
-    </message>
-    <message>
-        <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
-        <translation type="obsolete">Fora servilo aŭ servo specifita kiel parto aŭ ĉio el la JID de la intenca ricevanto ne ekzistas.</translation>
-    </message>
-    <message>
-        <source>Remote server timeout</source>
-        <translation type="obsolete">Fora servilo limtempo</translation>
-    </message>
-    <message>
-        <source>A remote server or service specified as part or all of the JID of the intended recipient (or required to fulfill a request) could not be contacted within a reasonable amount of time.</source>
-        <translation type="obsolete">Fora servilo aŭ servo specifita kiel parto aŭ ĉio el la JID de la ricevonto (aŭ bezonata por plenumi peton) ne kontakteblis dum taŭga tempokvanto.</translation>
-    </message>
-    <message>
-        <source>Resource constraint</source>
-        <translation type="obsolete">Risurca devigaĵo</translation>
-    </message>
-    <message>
-        <source>The server or recipient lacks the system resources necessary to service the request.</source>
-        <translation type="obsolete">La servilo aŭ ricevanto mankas la sisteman risurcon bezonatan por plenumi la peton.</translation>
-    </message>
-    <message>
-        <source>Service unavailable</source>
-        <translation type="obsolete">Servo ne disponebla</translation>
-    </message>
-    <message>
-        <source>The server or recipient does not currently provide the requested service.</source>
-        <translation type="obsolete">La servilo aŭ ricevanto nune ne havigas la petitan servon.</translation>
-    </message>
-    <message>
-        <source>Subscription required</source>
-        <translation type="obsolete">Abono bezonata</translation>
-    </message>
-    <message>
-        <source>The requesting entity is not authorized to access the requested service because a subscription is required.</source>
-        <translation type="obsolete">La petanton ne rajtas atingi la petitan servon pro abono estas bezonata.</translation>
-    </message>
-    <message>
-        <source>Undefined condition</source>
-        <translation type="obsolete">Nedifinita kondiĉo</translation>
-    </message>
-    <message>
-        <source>The error condition is not one of those defined by the other conditions in this list.</source>
-        <translation type="obsolete">La erarkondiĉo ne estas unu el la difinitoj de la aliaj kondiĉoj en tiu listo.</translation>
-    </message>
-    <message>
-        <source>Unexpected request</source>
-        <translation type="obsolete">Neatendita peto</translation>
-    </message>
-    <message>
-        <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
-        <translation type="obsolete">La ricevanto aŭ servilo komprenis la peton, tamen ĝi ne atendis tiun ĉi tiam (ekz. la peto estis forpeta).</translation>
+        <location line="+60"/>
+        <source>Edit presets...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>StatusSetDlg</name>
     <message>
-        <location filename="../src/statusdlg.cpp" line="+108"/>
+        <location filename="../../psi-plus/src/statusdlg.cpp" line="+115"/>
         <source>Set Status: All accounts</source>
         <translation>Agordu staton: ĉiuj kontoj</translation>
     </message>
     <message>
-        <location line="+14"/>
+        <location line="+17"/>
         <source>Set Status: %1</source>
         <translation>Agordu staton: %1</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Set Status for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Set Status for group</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+16"/>
@@ -17082,7 +18782,7 @@ Kialo: %1</translation>
         <translation>Stato:</translation>
     </message>
     <message>
-        <location line="+13"/>
+        <location line="+15"/>
         <source>Preset:</source>
         <translation>Antaŭskribita:</translation>
     </message>
@@ -17092,7 +18792,7 @@ Kialo: %1</translation>
         <translation>&lt;Neniu&gt;</translation>
     </message>
     <message>
-        <location line="+18"/>
+        <location line="+23"/>
         <source>&amp;Set</source>
         <translation>&amp;Determini</translation>
     </message>
@@ -17107,7 +18807,7 @@ Kialo: %1</translation>
         <translation>&amp;Konservu kiel antaŭskribitan</translation>
     </message>
     <message>
-        <location line="+43"/>
+        <location line="+46"/>
         <source>New Status Preset</source>
         <translation>Nova stato antaŭskribita</translation>
     </message>
@@ -17133,7 +18833,7 @@ Kialo: %1</translation>
         <translation>Vi jam determinis antaŭskribaĵon per tiu nomo!</translation>
     </message>
     <message>
-        <location line="-87"/>
+        <location line="-97"/>
         <source>Priority:</source>
         <translation>Prioritato:</translation>
     </message>
@@ -17141,7 +18841,7 @@ Kialo: %1</translation>
 <context>
     <name>StatusShowDlg</name>
     <message>
-        <location line="-83"/>
+        <location line="-108"/>
         <source>&amp;Close</source>
         <translation>&amp;Fermi</translation>
     </message>
@@ -17152,9 +18852,91 @@ Kialo: %1</translation>
     </message>
 </context>
 <context>
+    <name>StopSpam</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/stopspamplugin.cpp" line="+726"/>
+        <source>Block stanza from </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+4"/>
+        <source>Stop Spam Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-1"/>
+        <source> pass the test</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+274"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to block spam messages and other unwanted information from Psi+ users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
+With the plugin settings you can:
+* Define a security question and the answer
+* Define the set of rules that define whether to the trigger plugin for a contact
+* Define the text messages sent in the case of the correct answer
+* Enable notification through popups
+* Enable the saving of blocked messages in the history of the contact
+* Define the number of subject parcels
+* Set the time interval after which to reset the number of how many questions will be sent
+* Enable blocking of private messages in conferences
+* Choose for which ranks and roles of conference participants blocking messages will be disabled
+* Enable deadlocks in private messages to participants who do not fall into the exceptions list for the roles and ranks which include blocking.
+
+The rules are checked from top to bottom. If the rule is Enabled - stopspam is triggered, otherwise - stopspam is not triggered. In the case where none of the rules triggered stopspam for roster messages, you can specify whether the plugin will activate or not. For private messages from the same conference, it will always work.
+Question and answer as well as a list of rules is common for ordinary messages and for private messages in conferences.
+When a user has passed, the test will send a re-authorization request. It should be noted in the messages that are sent back the security question was correctly answered.
+The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
+
+WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>StorageNotesPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/storagenotesplugin/storagenotesplugin.cpp" line="+84"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+74"/>
+        <source>Storage Notes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is an implementation of XEP-0049: Private XML Storage.
+The plugin is fully compatible with notes saved using Miranda IM.
+The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi+ or Miranda IM.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>TabDlg</name>
     <message>
-        <location filename="../src/tabs/tabdlg.cpp" line="+248"/>
+        <location filename="../../psi-plus/src/tabs/tabdlg.cpp" line="+261"/>
         <source>Detach Tab</source>
         <translation>Malkroĉi Langeton</translation>
     </message>
@@ -17164,11 +18946,7 @@ Kialo: %1</translation>
         <translation>Fermi Langeton</translation>
     </message>
     <message>
-        <source>Send Tab to</source>
-        <translation type="obsolete">Sendi Langeton al</translation>
-    </message>
-    <message>
-        <location line="+35"/>
+        <location line="+40"/>
         <source>Detach Current Tab</source>
         <translation>Malkroĉi Nunan Langeton</translation>
     </message>
@@ -17178,19 +18956,7 @@ Kialo: %1</translation>
         <translation>Fermi Nunan Langeton</translation>
     </message>
     <message>
-        <source>Send Current Tab to</source>
-        <translation type="obsolete">Sendi Nunan Langeton al</translation>
-    </message>
-    <message>
-        <source>Use for new chats</source>
-        <translation type="obsolete">Uzi por novaj babiloj</translation>
-    </message>
-    <message>
-        <source>Use for new mucs</source>
-        <translation type="obsolete">Uzi por novaj MUC-oj</translation>
-    </message>
-    <message>
-        <location line="+216"/>
+        <location line="+255"/>
         <source>%1 Conversations</source>
         <translation>%1 Babiladoj</translation>
     </message>
@@ -17200,12 +18966,27 @@ Kialo: %1</translation>
         <translation> estas tajpante</translation>
     </message>
     <message>
-        <location line="-251"/>
+        <location line="-295"/>
         <source>Send Tab To</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+34"/>
+        <location line="-10"/>
+        <source>Hide Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+43"/>
+        <source>Hide Current Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Hide All Tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
         <source>Send Current Tab To</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17221,16 +19002,9 @@ Kialo: %1</translation>
     </message>
 </context>
 <context>
-    <name>Task</name>
-    <message>
-        <source>Disconnected</source>
-        <translation type="obsolete">Senkonekte</translation>
-    </message>
-</context>
-<context>
     <name>TestDlg</name>
     <message>
-        <location filename="../iris/tools/xmpptest/xmpptest.cpp" line="+80"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="+80"/>
         <source>XMPP Test</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17342,7 +19116,7 @@ Please correct and try again.</source>
 <context>
     <name>TestUI</name>
     <message>
-        <location filename="../iris/tools/xmpptest/test.ui" line="+13"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="+13"/>
         <source>Form1</source>
         <translation type="unfinished">Formularo1</translation>
     </message>
@@ -17512,14 +19286,14 @@ Please correct and try again.</source>
 <context>
     <name>Tip</name>
     <message>
-        <location filename="../src/tip.ui" line="+16"/>
+        <location filename="../../psi-plus/src/tip.ui" line="+16"/>
         <source>Useful Tips</source>
         <translation type="unfinished">Utilaj Konsiloj</translation>
     </message>
     <message>
         <location line="+43"/>
         <source>psi/logo_128</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">psi/logo_128</translation>
     </message>
     <message>
         <location line="+130"/>
@@ -17570,7 +19344,7 @@ Please correct and try again.</source>
 <context>
     <name>TipDlg</name>
     <message>
-        <location filename="../src/tipdlg.cpp" line="+63"/>
+        <location filename="../../psi-plus/src/tipdlg.cpp" line="+65"/>
         <source>Hello! Thank you for downloading Psi!
 We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi HomePage&lt;/a&gt;.
@@ -17697,191 +19471,194 @@ Noto: Kelkaj serviloj eble malebligas registriĝon al transportoj fare de uzanto
     </message>
 </context>
 <context>
-    <name>TipUI</name>
+    <name>ToolBar</name>
     <message>
-        <source>Useful Tips</source>
-        <translation type="obsolete">Utilaj konsiloj</translation>
+        <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/toolbar.cpp" line="+71"/>
+        <source>Line Width:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Show tips at startup</source>
-        <translation type="obsolete">Montru konsilojn je starto</translation>
+        <location line="+4"/>
+        <source>Line width</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Previous</source>
-        <translation type="obsolete">&amp;Antaŭa</translation>
+        <location line="+7"/>
+        <source>Select Color</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Next</source>
-        <translation type="obsolete">&amp;Sekvonta</translation>
+        <location line="+1"/>
+        <source>Pen</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
+        <location line="+1"/>
+        <source>Select</source>
+        <translation type="unfinished">Elekti</translation>
     </message>
     <message>
-        <source>Hello! Thank you for downloading Psi!
-We hope that you will enjoy using it as we have enjoyed making it!
-&lt;br&gt;&lt;br&gt;If you want to download another language translation, iconset or a new version of Psi, then you need to visit the &lt;a href=&quot;http://psi.affinix.com&quot;&gt;Psi HomePage&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://psi.affinix.com/forums/&quot;&gt;Psi Forums&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
-        <translation type="obsolete">Saluton! Dankon pro elŝuto de Psi!
-Ni esperas ke vi ĝuos uzi ĝin same, kiel ni ĝuis farante ĝin!
-&lt;br&gt;&lt;br&gt;Se vi volas elŝuti tradukon alilingvan, piktogramaron, aŭ novan version de Psio, vi devos viziti la &lt;a href=&quot;http://psi.affinix.com&quot;&gt;TTT-paĝon de Psio&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;Se vi pensas ke vi trovis cimon aŭ vi volas simple babili kun aliaj uzantoj de Psio, vizitu la &lt;a href=&quot;http://psi.affinix.com/forums/&quot;&gt;Forumojn de Psi&lt;/a&gt;.
-&lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;la Teamo de Psi&lt;/i&gt;&lt;/div&gt;</translation>
+        <location line="+1"/>
+        <source>Cut</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation type="obsolete">Vi povas elekti plurajn mienpiktogramarojn, kaj fiksi al ili prioritatojn per la elekta dialogujo.</translation>
+        <location line="+3"/>
+        <source>Copy</source>
+        <translation type="unfinished">Kopii</translation>
     </message>
     <message>
-        <source>You can use multiple useful shortcuts while typing chat messages:&lt;br&gt;
-&lt;ul&gt;
-&lt;li&gt;Ctrl+Enter to send message&lt;/li&gt;
-&lt;li&gt;Ctrl+M to add newline character&lt;/li&gt;
-&lt;li&gt;Ctrl+H to display message history dialog&lt;/li&gt;
-&lt;li&gt;Alt+S to send message&lt;/li&gt;
-&lt;li&gt;Ctrl+U to clear edit buffer&lt;/li&gt;
-&lt;li&gt;Ctrl+PgUp/PgDn to scroll chat view&lt;/li&gt;
-&lt;/ul&gt;</source>
-        <translation type="obsolete">Vi povas uzi plurajn simbolajn ligilojn, dum tajpante mesaĝojn de babilado:&lt;br&gt;
-&lt;ul&gt;
-&lt;li&gt;Ktrl+Enen por sendi la mesaĝon&lt;/li&gt;
-&lt;li&gt;Ktrl+M por aldoni novan tekstolinion&lt;/li&gt;
-&lt;li&gt;Ktrl+H por montri dialogujon de mesaĝa historio&lt;/li&gt;
-&lt;li&gt;Alt+S por sendi la mesaĝon&lt;/li&gt;
-&lt;li&gt;Ktrl+U por forviŝi la redaktujon&lt;/li&gt;
-&lt;li&gt;Ktrl+PĝSupren/PĝMalsupren por rulumi la fenestron de la babilado&lt;/li&gt;
-&lt;/ul&gt;</translation>
+        <location line="+3"/>
+        <source>Paste</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You can type these special commands in chat and groupchat dialogs:
-&lt;ul&gt;
-&lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
-&lt;/ul&gt;
-And these work only in groupchat dialog:
-&lt;ul&gt;
-&lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
-&lt;/ul&gt;</source>
-        <translation type="obsolete">Vi povas uzi tiujn ĉi specialajn ordonojn en babilaj kaj babilejaj dialogujoj:
-&lt;ul&gt;
-&lt;li&gt;&quot;/clear&quot; por viŝi la fenestron de babilado&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;mesaĝo&amp;gt;&quot; &apos;/me&apos; estos anstataŭigita per via kromnomo&lt;/li&gt;
-&lt;/ul&gt;
-Kaj tiuj ĉi uzeblos nur en dialogujo de babilejo:
-&lt;ul&gt;
-&lt;li&gt;&quot;/nick &amp;lt;nova_kromnomo&amp;gt;&quot; por ŝanĝi vian kromnomon&lt;/li&gt;
-&lt;/ul&gt;</translation>
+        <location line="+3"/>
+        <source>Rotate</source>
+        <translation type="unfinished">Rotacii</translation>
     </message>
     <message>
-        <source>Did you know that you can register multiple Jabber accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest Jabber features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="obsolete">Ĉu vi scias ke vi povas registri plurajn Jabberajn kontojn per Psi? Se vi volas malkunigi vian laborejan konton de via persona, vi povas.  Se vi estas sperta uzanto, kiu volas provi la plej lastajn kapablojn de Jabber en nestabila servilo, vi povas tion fari, sen bezoni kroman klientilon por konektiĝi al via nestabila servilo.  Simple premu Aldoni en la ekrano pri agordi kontojn.</translation>
+        <location line="+1"/>
+        <source>Insert Text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to Jabber. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="obsolete">Ĉu vi babilas en alies tujmesaĝaj retoj, kiel AIM kaj ICQ?  Provu ŝalti la &quot;piktogramojn por specifaj transportoj&quot;.  Tio permesos al vi tuj vidi kiun reton via amiko uzas.  Tiam vi povas tiun konvinki, por ke tiu ekuzu Jabberon. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
-    </message>
-    <message>
-        <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation type="obsolete">Ĉu vi sciis ke vi povas uzi elektujojn en la dialogujo pri agori kontojn, por aktivigi/malaktivigi kontojn? Tio eble utilas al vi, se vi uzas iun konton nur maloftege, kaj vi ne volas ke ĝi ĝenu en la kontaktlisto.</translation>
-    </message>
-    <message>
-        <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation type="obsolete">Ĉu vi ne ŝatas la nunan lokon de la butonoj?  Ĉu vi volas kroman butonon por ŝanĝi vian staton al Fora?  Rigardu la fenestron pri agordo de ilobretoj, kiu disponeblas per la kunteksta menuo de la ilobretoj.  Vi povas eĉ fari ke ilobreto flosu!</translation>
-    </message>
-    <message>
-        <source>Did you know that Psi is one of the only Jabber clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="obsolete">Ĉu vi sciis ke Psio estas unu el malmultaj Jabberaj klientiloj kiuj permesas al vi konektiĝi kun pluraj serviloj samtempe?  Vi povas esti konata kiel &quot;elefanteto@jabber.org&quot; al viaj amikoj, kaj &quot;Vladimir.Tolstoj@miafirmao.com&quot; al firmaaj kontaktoj.</translation>
-    </message>
-    <message>
-        <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation type="obsolete">Ĉu vi estis uzanto de Gadu-Gadu aŭ Trillian, kaj vi nun sopiras pri la mienpiktogramoj?  Kredu, ni pensis pri vi!  Rigardu &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; por trovi multegon da piktogramaroj, kiujn eblas aldoni al Psio por ke ĝi aspektu tiel, kiel vi preferas!</translation>
-    </message>
-    <message>
-        <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation type="obsolete">Ĉu vi sciis ke la meza musbutono (tiu meza, de tributonaj musoj) uzatas por &quot;ordoni la antaŭsupozitan agon&quot; sur plurajn objektojn en Psio?  Provu klaki per la meza buttono sur kontakton aŭ ŝprucaĵon.</translation>
-    </message>
-    <message>
-        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your Jabber server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="obsolete">Por aldoni kontaktulojn de diversaj tujmesaĝilaj retoj, vi bezonas aldoni la korespondan agenton de via Jabber server. Trarigardu per Psia menuo -&gt; Malkovri servojn.</translation>
-    </message>
-    <message>
-        <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation type="obsolete">Vi povas dekstre-klaki sur la nomo de servilo en via kontaktolisto por fari diversaĵojn.  Vi povas ŝanĝi vian staton, ŝanĝi la agordojn de via konto, ŝanĝu administraĵojn (se vi rajtas), kaj pli.</translation>
-    </message>
-    <message>
-        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; Jabber Server for nice services by typing its domain in the address field.
-&lt;br&gt;&lt;br&gt;
-Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation type="obsolete">Ĉu vi serĉas transporton aŭ babilejon, sed via servilo provizas neniun oportunan? Uzu la Psia Menu -&gt; Malkovri servojn por rigardi en &lt;i&gt;iu ajn&lt;/i&gt; Jabbera servilo por oportunaj servoj, tajpante ties regnon en la adresa kampo.
-&lt;br&gt;&lt;br&gt;
-Noto: Kelkaj serviloj eble malebligas registriĝon al transportoj fare de uzantoj de aliaj serviloj, sed tio ĉi ankoraŭ ne kutimas.</translation>
-    </message>
-    <message>
-        <source>This is the last tip.
-&lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;http://psi.affinix.com/forums&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
-        <translation type="obsolete">Tiu ĉi estas la lasta konsilo.
-&lt;br&gt;&lt;br&gt;Se vi volas kontribui por via propra nova &quot;taga konsilo&quot;, bonvolu publiki ĝin en la &lt;a href=&quot;http://psi.affinix.com/forums&quot;&gt;Psiajn Forumojn&lt;/a&gt; (aŭ poŝte sendu ĝin al iu programisto), kaj ni ĝoje aldonos ĝin al la venonta eldono.</translation>
-    </message>
-    <message>
-        <source>Contributed by</source>
-        <translation type="obsolete">Kontribuis</translation>
+        <location line="+1"/>
+        <source>Undo</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>ToolbarDlg</name>
+    <name>TranslatePlugin</name>
     <message>
-        <source>Configure Toolbars</source>
-        <translation type="obsolete">Agordu ilobretojn</translation>
+        <location filename="../../psi-plus/src/plugins/generic/translateplugin/translateplugin.cpp" line="+224"/>
+        <source>from</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;OK</source>
-        <translation type="obsolete">&amp;Bone</translation>
+        <location line="+0"/>
+        <source>to</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Apply</source>
-        <translation type="obsolete">&amp;Apliki</translation>
+        <location line="+18"/>
+        <source>Add</source>
+        <translation type="unfinished">Aldoni</translation>
     </message>
     <message>
-        <source>&amp;Cancel</source>
-        <translation type="obsolete">&amp;Nuligi</translation>
+        <location line="+1"/>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Warning</source>
-        <translation type="obsolete">Atentu</translation>
+        <location line="+6"/>
+        <source>ShortCut:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars. If you do so, you will be unable to enable them back, when you&apos;ll change your mind.
-&lt;br&gt;&lt;br&gt;
-If you really-really want to disable all toolbars, you need to edit the config.xml file by hand.</source>
-        <translation type="obsolete">Vi ne povas malaktivigi &lt;i&gt;ĉiujn&lt;/i&gt; ilobretojn. Se vi tion faras, vi ne povos aktivigi ilin denove, kiam vi ŝangos la opinion.
-&lt;br&gt;&lt;br&gt;
-Se vi vere vere volas malaktivigi ĉiujn ilobretojn, vi devos redakti la dosieron config.xml mane.</translation>
+        <location line="+6"/>
+        <source>Modify</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>I understand</source>
-        <translation type="obsolete">Mi komprenas</translation>
+        <location line="+4"/>
+        <source>Not translating &quot;Nickname:&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Restore Defaults Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+315"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin allows you to convert selected text into another language.
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>TranslationManager</name>
     <message>
-        <location filename="../src/translationmanager.cpp" line="-126"/>
+        <location filename="../../psi-plus/src/translationmanager.cpp" line="-126"/>
         <source>language_name</source>
         <translation>Esperanto</translation>
     </message>
 </context>
 <context>
-    <name>URLLabel</name>
+    <name>TypeAheadFindBar</name>
     <message>
-        <location filename="../src/widgets/urlobject.cpp" line="+57"/>
-        <source>Open mail composer</source>
-        <translation>Malfermi retpoŝtilon</translation>
+        <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/typeaheadfind.cpp" line="+88"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/typeaheadfind.cpp" line="+88"/>
+        <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="+88"/>
+        <source>Search: </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Send Jabber message</source>
-        <translation type="obsolete">Sendu Jabber-mesaĝon</translation>
+        <location line="+21"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/typeaheadfind.cpp" line="+21"/>
+        <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="+21"/>
+        <location filename="../../psi-plus/src/widgets/typeaheadfind.cpp" line="+167"/>
+        <source>&amp;Case sensitive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/typeaheadfind.cpp" line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="+7"/>
+        <source>First page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/typeaheadfind.cpp" line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="+7"/>
+        <source>Previous page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/typeaheadfind.cpp" line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="+7"/>
+        <source>Next page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/typeaheadfind.cpp" line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="+7"/>
+        <source>Last page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/widgets/typeaheadfind.cpp" line="-16"/>
+        <source>Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <location line="+2"/>
+        <source>Find next</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <location line="+2"/>
+        <source>Find previous</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>URLLabel</name>
+    <message>
+        <location filename="../../psi-plus/src/widgets/urlobject.cpp" line="+58"/>
+        <source>Open mail composer</source>
+        <translation>Malfermi retpoŝtilon</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -17899,13 +19676,14 @@ Se vi vere vere volas malaktivigi ĉiujn ilobretojn, vi devos redakti la dosiero
         <translation>Kopiu lokon</translation>
     </message>
     <message>
-        <location line="-16"/>
-        <source>Add to Roster</source>
-        <translation>Aldoni al Kontaktlisto</translation>
+        <location line="+4"/>
+        <source>User Info</source>
+        <translation type="unfinished">Informo de la uzanto</translation>
     </message>
     <message>
-        <source>Send massage to</source>
-        <translation type="obsolete">Sendi mesaĝon al</translation>
+        <location line="-20"/>
+        <source>Add to Roster</source>
+        <translation>Aldoni al Kontaktlisto</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -17924,9 +19702,272 @@ Se vi vere vere volas malaktivigi ĉiujn ilobretojn, vi devos redakti la dosiero
     </message>
 </context>
 <context>
+    <name>UploadManager</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploadmanager.cpp" line="+227"/>
+        <source>Getting storage...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Can&apos;t get storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Starting upload...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Error opening file!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+19"/>
+        <source>Verifying...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Uploaded successfully</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Verifying failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>VideoStatusChanger</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/videostatusplugin/videostatusplugin.cpp" line="+398"/>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
+Note: This plugin is designed to work in Linux family operating systems and in Windows OS. 
+
+In Linux plugin uses DBUS to work with video players and X11 functions to detect fullscreen applications. 
+In Windows plugin uses WinAPI functions to detect fullscreen applications. 
+
+To work with Totem player you need to enable appropriate plugin in this player (Edit\Plugins\D-Bus);
+
+To work with VLC player you need to enable the option &quot;Control Interface D-Bus&quot; in the Advanced Settings tab on &quot;Interface\Control Interface&quot; section of the player settings; 
+
+To work with Kaffeine player you must have player version (&gt;= 1.0), additional configuration is not needed; 
+
+To work with GNOME MPlayer additional configuration is not needed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ViewLog</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/viewer.cpp" line="+41"/>
+        <source>Find</source>
+        <translation type="unfinished">Trovi</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Close</source>
+        <translation type="unfinished">Fermi</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Save Changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Delete Log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Update Log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <source>Delete log file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+26"/>
+        <source>Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-11"/>
+        <location line="+10"/>
+        <source>Save log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-9"/>
+        <source>New messages has been added to log. If you save your changes, you will lose them</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Do you want to save your changes?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ViewMailDlg</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/viewmaildlg.ui" line="+20"/>
+        <source>E-Mail</source>
+        <translation type="unfinished">Retadreso</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>From:</source>
+        <translation type="unfinished">De:</translation>
+    </message>
+    <message>
+        <location line="+14"/>
+        <source>Subject:</source>
+        <translation type="unfinished">Temo:</translation>
+    </message>
+    <message>
+        <location line="+21"/>
+        <source>Account:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>Open mail in browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Open MailBox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Previous</source>
+        <translation type="unfinished">Antaŭa</translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Next</source>
+        <translation type="unfinished">Sekva</translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Close</source>
+        <translation type="unfinished">Fermi</translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>&amp;Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/viewmaildlg.cpp" line="+59"/>
+        <source>[%1/%2] E-Mail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+65"/>
+        <source>Open in browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Viewer</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/viewer.cpp" line="+45"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="+45"/>
+        <source>Find</source>
+        <translation type="unfinished">Trovi</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="+1"/>
+        <source>Close</source>
+        <translation type="unfinished">Fermi</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="+1"/>
+        <source>Save Changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="+1"/>
+        <source>Delete Log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="+1"/>
+        <source>Update Log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+28"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="+28"/>
+        <source>Delete log file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+26"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="+1"/>
+        <location line="+26"/>
+        <source>Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-11"/>
+        <location line="+10"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="-11"/>
+        <location line="+10"/>
+        <source>Save log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-9"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="-9"/>
+        <source>New messages has been added to log. If you save your changes, you will lose them</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="+1"/>
+        <source>Do you want to save your changes?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/view.cpp" line="+66"/>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Uncheck</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Invert</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>VoiceCall</name>
     <message>
-        <location filename="../src/voicecall.ui" line="+16"/>
+        <location filename="../../psi-plus/src/voicecall.ui" line="+16"/>
         <source>Voice Call</source>
         <translation type="unfinished">Alvoko</translation>
     </message>
@@ -17949,7 +19990,7 @@ Se vi vere vere volas malaktivigi ĉiujn ilobretojn, vi devos redakti la dosiero
 <context>
     <name>VoiceCallDlg</name>
     <message>
-        <location filename="../src/voicecalldlg.cpp" line="+34"/>
+        <location filename="../../psi-plus/src/voicecalldlg.cpp" line="+34"/>
         <source>Voice Call (%1)</source>
         <translation>Alvoko (%1)</translation>
     </message>
@@ -18000,9 +20041,67 @@ Se vi vere vere volas malaktivigi ĉiujn ilobretojn, vi devos redakti la dosiero
     </message>
 </context>
 <context>
+    <name>Watcher</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="+205"/>
+        <location line="+369"/>
+        <location line="+36"/>
+        <source>Empty item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-253"/>
+        <source> change status to </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+117"/>
+        <location line="+8"/>
+        <source>Choose a sound file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-6"/>
+        <location line="+8"/>
+        <source>Sound (*.wav)</source>
+        <translation type="unfinished">Sono (*.wav)</translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>&lt;br&gt;Status Message: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Watcher Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>Watch for JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+80"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
+On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>WbDlg</name>
     <message>
-        <location filename="../src/whiteboarding/wbdlg.cpp" line="+74"/>
+        <location filename="../../psi-plus/src/whiteboarding/wbdlg.cpp" line="+74"/>
         <source>Save session</source>
         <translation>Konservi la seancon</translation>
     </message>
@@ -18183,7 +20282,7 @@ Do you still want to close the window?</source>
 <context>
     <name>WbItem</name>
     <message>
-        <location filename="../src/whiteboarding/wbitem.cpp" line="+336"/>
+        <location filename="../../psi-plus/src/whiteboarding/wbitem.cpp" line="+336"/>
         <source>Bring forward</source>
         <translation>Meti antaŭen</translation>
     </message>
@@ -18216,7 +20315,7 @@ Do you still want to close the window?</source>
 <context>
     <name>WbManager</name>
     <message>
-        <location filename="../src/whiteboarding/wbmanager.cpp" line="+72"/>
+        <location filename="../../psi-plus/src/whiteboarding/wbmanager.cpp" line="+72"/>
         <source>Open Existing SVG?</source>
         <translation>Ĉu Malfermi Ekzistantan SVG?</translation>
     </message>
@@ -18257,14 +20356,27 @@ Do you still want to close the window?</source>
     </message>
 </context>
 <context>
+    <name>WebView</name>
+    <message>
+        <location filename="../../psi-plus/src/webview.cpp" line="+47"/>
+        <source>Quote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Ctrl+S</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>XMLConsole</name>
     <message>
-        <location filename="../src/xmlconsole.ui" line="+13"/>
+        <location filename="../../psi-plus/src/xmlconsole.ui" line="+13"/>
         <source>XML Console</source>
         <translation type="unfinished">XMLa Konzolo</translation>
     </message>
     <message>
-        <location line="+18"/>
+        <location line="+15"/>
         <source>Filter</source>
         <translation type="unfinished">Filtrilo</translation>
     </message>
@@ -18317,7 +20429,7 @@ Do you still want to close the window?</source>
 <context>
     <name>XMPP::ClientStream</name>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-core/stream.cpp" line="+782"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/stream.cpp" line="+782"/>
         <source>Offered mechanisms: </source>
         <translation type="unfinished"></translation>
     </message>
@@ -18325,7 +20437,7 @@ Do you still want to close the window?</source>
 <context>
     <name>XMPP::Features::FeatureName</name>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="+181"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="+190"/>
         <source>ERROR: Incorrect usage of Features class</source>
         <translation type="unfinished">ERARO: malĝusta uzado de klaso Features</translation>
     </message>
@@ -18370,6 +20482,11 @@ Do you still want to close the window?</source>
         <translation type="unfinished">Ruli komandon</translation>
     </message>
     <message>
+        <location line="+1"/>
+        <source>Query version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location line="+3"/>
         <source>Add to roster</source>
         <translation type="unfinished">Aldoni al kontaktolisto</translation>
@@ -18378,7 +20495,7 @@ Do you still want to close the window?</source>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="+1083"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="+1083"/>
         <source>No VCard available</source>
         <translation type="unfinished">Ne disponeblas VCard</translation>
     </message>
@@ -18386,7 +20503,7 @@ Do you still want to close the window?</source>
 <context>
     <name>XMPP::Stanza::Error::Private</name>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="+249"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="+249"/>
         <source>Bad request</source>
         <translation type="unfinished">Malbona peto</translation>
     </message>
@@ -18609,7 +20726,7 @@ Do you still want to close the window?</source>
 <context>
     <name>XMPP::Task</name>
     <message>
-        <location filename="../iris/src/xmpp/xmpp-im/xmpp_task.cpp" line="+165"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/xmpp_task.cpp" line="+165"/>
         <source>Disconnected</source>
         <translation type="unfinished">Senkonekte</translation>
     </message>
@@ -18617,23 +20734,7 @@ Do you still want to close the window?</source>
 <context>
     <name>XmlConsole</name>
     <message>
-        <source>Enable</source>
-        <translation type="obsolete">Ŝalti</translation>
-    </message>
-    <message>
-        <source>Clear</source>
-        <translation type="obsolete">Viŝi</translation>
-    </message>
-    <message>
-        <source>&amp;XML Input...</source>
-        <translation type="obsolete">&amp;XMLa enigo...</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
-    </message>
-    <message>
-        <location filename="../src/xmlconsole.cpp" line="+87"/>
+        <location filename="../../psi-plus/src/xmlconsole.cpp" line="+87"/>
         <location line="+2"/>
         <source>XML Console</source>
         <translation>XMLa Konzolo</translation>
@@ -18675,6 +20776,942 @@ Do you still want to close the window?</source>
         <location line="+0"/>
         <source>No</source>
         <translation>Ne</translation>
+    </message>
+</context>
+<context>
+    <name>options</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/chessplugin/options.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="+14"/>
+        <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="+14"/>
+        <source>Form</source>
+        <translation type="unfinished">Formularo</translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="+6"/>
+        <source>Select Sounds:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="+11"/>
+        <source>Game started:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="+7"/>
+        <source>Game finished:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="+7"/>
+        <source>Your turn:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="+7"/>
+        <source>Error message:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+159"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="+159"/>
+        <source>If checked, the sound will always enabled (or disabled)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="+3"/>
+        <source>Override default sound settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="+7"/>
+        <source>Disable invitations if status is DND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="+7"/>
+        <source>Disable invitations from conference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Save window height and width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Save window position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="+8"/>
+        <source>Auto Reply Message If Recv:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Auto Reply Message If No Recv:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Custom options:
+-uin - do nothing
++uin - send replay
+!uin - block message
+[-+!]other - default
+[-+!]nil - not in list
+# - comment to end line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Pause for next Recv message:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+33"/>
+        <source>min.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Max messages to contact:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+32"/>
+        <source>Disable if chat window is active</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Transports:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
+        <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiotr::AuthenticationDialog</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="+53"/>
+        <source>Authenticate %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>To authenticate via question and answer, ask a question whose answer is only known to you and %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>To authenticate manually, exchange your fingerprints over an authenticated channel and compare each other&apos;s fingerprint with the one listed beneath.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Authenticate to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>%1 wants to authenticate you. To authenticate, answer the question asked below.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Question and answer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Fingerprint verification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>&amp;Question:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>A&amp;nswer:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>&amp;Authenticate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+25"/>
+        <source>This contact is already authenticated.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>No private key for account &quot;%1&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Your fingerprint:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Fingerprint for %1:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+134"/>
+        <source>Account: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Fingerprint: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Have you verified that this is in fact the correct fingerprint?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <location line="+78"/>
+        <source>Psi OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-59"/>
+        <source>%1 has canceled the authentication process.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>An error occured during the authentication process.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+23"/>
+        <source>Authentication successful.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>You have been successfully authenticated.
+
+You should authenticate %1 as well by asking your own question.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Authentication failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiotr::ConfigDialog</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/PsiOtrConfig.cpp" line="+56"/>
+        <source>Known fingerprints</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>My private keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiotr::ConfigOtrWidget</name>
+    <message>
+        <location line="+17"/>
+        <source>OTR Policy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+5"/>
+        <source>Disable private messaging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Manually start private messaging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Automatically start private messaging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Require private messaging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>End session when contact goes offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiotr::FingerprintWidget</name>
+    <message>
+        <location line="+77"/>
+        <source>Delete fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+148"/>
+        <source>Verify fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-125"/>
+        <source>Account</source>
+        <translation type="unfinished">Konto</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>User</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Verified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Status</source>
+        <translation type="unfinished">Stato</translation>
+    </message>
+    <message>
+        <location line="+43"/>
+        <source>Are you sure you want to delete the following fingerprint?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+29"/>
+        <source>Account: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-28"/>
+        <location line="+29"/>
+        <source>User: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-28"/>
+        <location line="+29"/>
+        <source>Fingerprint: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-27"/>
+        <location line="+29"/>
+        <source>Psi OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-5"/>
+        <source>Have you verified that this is in fact the correct fingerprint?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+50"/>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Copy fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiotr::PrivKeyWidget</name>
+    <message>
+        <location line="+28"/>
+        <source>Generate new key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Delete key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>Account</source>
+        <translation type="unfinished">Konto</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+36"/>
+        <source>Are you sure you want to delete the following key?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <location line="+32"/>
+        <source>Account: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-31"/>
+        <location line="+32"/>
+        <source>Fingerprint: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-30"/>
+        <location line="+32"/>
+        <source>Psi OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-4"/>
+        <source>Are you sure you want to overwrite the following key?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+52"/>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Copy fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiotr::PsiOtrClosure</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="+132"/>
+        <source>No active encrypted session</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Session ID between account &quot;%1&quot; and %2:&lt;br/&gt;%3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <location line="+27"/>
+        <source>Psi OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-5"/>
+        <source>No private key for account &quot;%1&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Fingerprint for account &quot;%1&quot;:
+%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+30"/>
+        <source>unverified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>OTR Messaging [%1]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Refre&amp;sh private conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>&amp;Start private conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+36"/>
+        <source>&amp;End private conversation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>&amp;Authenticate contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Show secure session &amp;ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Show own &amp;fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>psiotr::PsiOtrPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/PsiOtrPlugin.cpp" line="+544"/>
+        <source>Psi OTR</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>requestAuthDialogClass</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/requestauthdialog.ui" line="+26"/>
+        <source>Authorization</source>
+        <translation type="unfinished">Rajtigo</translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Login:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Password:</source>
+        <translation type="unfinished">Pasvorto:</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Remember</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+34"/>
+        <source>Captcha:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>uploadDialog</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploaddialog.cpp" line="+48"/>
+        <source>File: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Progress: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Elapsed time: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Speed: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source> kb/sec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Upload completed. Waiting for verification.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Done</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Close</source>
+        <translation type="unfinished">Fermi</translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>uploadDialogClass</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploaddialog.ui" line="+32"/>
+        <source>Uploading...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Upload started.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>File: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Progress:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Elapsed time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Speed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Link: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+57"/>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>vCardView</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/common.cpp" line="+33"/>
+        <source>Full Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Nick:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>Birthday:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+2"/>
+        <source>E-Mail:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+18"/>
+        <source>Close</source>
+        <translation type="unfinished">Fermi</translation>
+    </message>
+</context>
+<context>
+    <name>yandexnarodManage</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.cpp" line="+109"/>
+        <source>Yandex.Narod file manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+99"/>
+        <source>Delete file(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+98"/>
+        <source>Set password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Remove password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Copy URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Prolongate</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>yandexnarodManageClass</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.ui" line="+20"/>
+        <source>Form</source>
+        <translation type="unfinished">Formularo</translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Get Filelist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Upload File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+47"/>
+        <source>Actions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+19"/>
+        <source>Copy URL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Prolongate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Delete File(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+70"/>
+        <source>line1
+line2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>Files list:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+29"/>
+        <source>New Item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+12"/>
+        <source>Clear Cookies</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+11"/>
+        <source>Open Browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+26"/>
+        <source>Close</source>
+        <translation type="unfinished">Fermi</translation>
+    </message>
+</context>
+<context>
+    <name>yandexnarodNetMan</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodnetman.cpp" line="+111"/>
+        <source>Downloading filelist...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>Deleting files...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+0"/>
+        <source>Prolongate files...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+63"/>
+        <source>Cookies are obsolete!
+Reathorization...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+8"/>
+        <source>Can&apos;t get files!
+Try remove cookies.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+42"/>
+        <source>Filelist downloaded
+(%1 files)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>File(s) deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>File(s) prolongated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Password is set</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Password is deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>yandexnarodPlugin</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarod.cpp" line="+149"/>
+        <source>Open Yandex Narod Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Send file via Yandex Narod</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+64"/>
+        <source>File sent to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Yandex Narod Plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Ported from QutIM Yandex.Narod plugin
+http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
+
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>yandexnarodSettingsClass</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodsettings.ui" line="+14"/>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+6"/>
+        <source>Login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>Password</source>
+        <translation type="unfinished">Pasvorto</translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Test Authorization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Start Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Send file template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+17"/>
+        <source>%N - file name; %U - file URL; %S - file size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>Clear Cookies</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
