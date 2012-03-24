@@ -46,9 +46,17 @@ case "${1}" in
 ;;
 "tr")
 
+    LANG_DIR="${CUR_DIR}/translations/"
+
     cd "${MAIN_DIR}/psi-plus-i18n_transifex" || exit 1
     tx pull -a -s || exit 1
-    cp -f psi-plus.full/*.ts "${CUR_DIR}"/translations/
+
+    cd "translations/psi-plus.full/" || exit 1
+    for FILE_FROM in *.ts ; do
+        FILE_TO="psi_${FILE_FROM}"
+        echo "Copying '${FILE_FROM}' to '${FILE_TO}'"
+        cp -f "${FILE_FROM}" "${LANG_DIR}/${FILE_TO}"
+    done
 
     cd "${CUR_DIR}"
     git status
@@ -95,8 +103,17 @@ case "${1}" in
 ;;
 "tr_push")
 
-    cd "${MAIN_DIR}/psi-plus-i18n_transifex" || exit 1
-    cp -f "${CUR_DIR}"/translations/*.ts psi-plus.full/
+    LANG_DIR="${MAIN_DIR}/psi-plus-i18n_transifex/translations/psi-plus.full/"
+    cd "${LANG_DIR}" || exit 1
+
+    cd "${CUR_DIR}/translations/" || exit 1
+    for FILE_FROM in *.ts ; do
+        FILE_TO=$(echo ${FILE_FROM} | sed -e "s/psi_//")
+        echo "Copying '${FILE_FROM}' to '${FILE_TO}'"
+        cp -f "${FILE_FROM}" "${LANG_DIR}/${FILE_TO}"
+    done
+
+    cd "${MAIN_DIR}/psi-plus-i18n_transifex/"
     tx push -s -t || exit 1
 
 ;;
