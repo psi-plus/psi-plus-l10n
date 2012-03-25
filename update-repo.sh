@@ -18,6 +18,16 @@ case "${1}" in
     git pull --all || exit 1
 
 ;;
+"tag")
+
+    cd "${PSIPLUS_DIR}" || exit 1
+    CUR_TAG="$(git tag -l  | sort -r -V | head -n1)"
+
+    cd "${CUR_DIR}" || exit 1
+    echo "git tag \"${CUR_TAG}\""
+    git tag "${CUR_TAG}"
+
+;;
 "push")
 
     git push || exit 1
@@ -143,7 +153,7 @@ case "${1}" in
 *)
 
     echo "Usage:"
-    echo "  up push make install"
+    echo "  up tag push make install"
     echo "  tr tr_up tr_cl tr_push tr_co"
 
 ;;
