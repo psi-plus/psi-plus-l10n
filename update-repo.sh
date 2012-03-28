@@ -59,17 +59,13 @@ case "${1}" in
 ;;
 "tr")
 
-    LANG_DIR="${CUR_DIR}/translations/"
+    LANG_DIR="${CUR_DIR}/translations"
 
     cd "${MAIN_DIR}/psi-plus-i18n_transifex" || exit 1
     tx pull -a -s || exit 1
 
     cd "translations/psi-plus.full/" || exit 1
-    for FILE_FROM in *.ts ; do
-        FILE_TO="psi_${FILE_FROM}"
-        echo "Copying '${FILE_FROM}' to '${FILE_TO}'"
-        cp -f "${FILE_FROM}" "${LANG_DIR}/${FILE_TO}"
-    done
+    cp *.ts "${LANG_DIR}/"
 
     cd "${CUR_DIR}"
     git status
@@ -120,15 +116,11 @@ case "${1}" in
 ;;
 "tr_push")
 
-    LANG_DIR="${MAIN_DIR}/psi-plus-i18n_transifex/translations/psi-plus.full/"
+    LANG_DIR="${MAIN_DIR}/psi-plus-i18n_transifex/translations/psi-plus.full"
     cd "${LANG_DIR}" || exit 1
 
     cd "${CUR_DIR}/translations/" || exit 1
-    for FILE_FROM in *.ts ; do
-        FILE_TO=$(echo ${FILE_FROM} | sed -e "s/psi_//")
-        echo "Copying '${FILE_FROM}' to '${FILE_TO}'"
-        cp -f "${FILE_FROM}" "${LANG_DIR}/${FILE_TO}"
-    done
+    cp *.ts "${LANG_DIR}/"
 
     cd "${MAIN_DIR}/psi-plus-i18n_transifex/"
     tx push -s -t || exit 1
@@ -141,12 +133,10 @@ case "${1}" in
         echo "directory is already exists!"
     else
         echo "Creating ${MAIN_DIR}/psi-plus-i18n_transifex"
-        mkdir -p "${MAIN_DIR}/psi-plus-i18n_transifex"
+        mkdir -p "${MAIN_DIR}/psi-plus-i18n_transifex/.tx"
+        cp "transifex.config" "${MAIN_DIR}/psi-plus-i18n_transifex/.tx/config"
         cd "${MAIN_DIR}/psi-plus-i18n_transifex" || exit 1
-
-        tx init
-        tx set --auto-remote  https://www.transifex.net/projects/p/psi-plus/
-        tx pull -a
+        tx pull -a -s || exit 1
     fi
 
 ;;
