@@ -18,6 +18,11 @@ case "${1}" in
     git pull --all || exit 1
 
 ;;
+"cm")
+
+    git commit -a -m 'Translations were updated from Transifex.' || exit 1
+
+;;
 "tag")
 
     cd "${PSIPLUS_DIR}" || exit 1
@@ -143,7 +148,7 @@ case "${1}" in
 *)
 
     echo "Usage:"
-    echo "  up tag push make install"
+    echo "  up cm tag push make install"
     echo "  tr tr_up tr_cl tr_push tr_co"
 
 ;;
