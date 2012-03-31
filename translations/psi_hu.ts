@@ -48,7 +48,7 @@
     </message>
     <message>
         <source>psi/psiplus_logo</source>
-        <translation type="unfinished"/>
+        <translation>psi/psiplus_logo</translation>
     </message>
     <message utf8="true">
         <source>A cross-platform Jabber client designed for the Jabber power user.&lt;br&gt;
@@ -1304,7 +1304,7 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Auto Reply Message:</source>
-        <translation type="unfinished"/>
+        <translation>Automatikus válasz üzenet:</translation>
     </message>
     <message>
         <source>for JIDs and conferences:</source>
@@ -1799,7 +1799,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"/>
+        <translation>Hang hívás</translation>
     </message>
     <message>
         <source>Toggle encryption</source>
@@ -1872,7 +1872,7 @@ Biztos be akarod zárni az ablakot?</translation>
     <name>ChatEdit</name>
     <message>
         <source>Paste As Quotation</source>
-        <translation type="unfinished"/>
+        <translation>Beillesztés idézetként</translation>
     </message>
     <message>
         <source>Add to dictionary</source>
@@ -1966,7 +1966,7 @@ Biztos be akarod zárni az ablakot?</translation>
     </message>
     <message>
         <source>You are allready playing!</source>
-        <translation type="unfinished"/>
+        <translation>Már játszik!</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -1995,7 +1995,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>ChessWindow</name>
     <message>
         <source>Chess Board</source>
-        <translation type="unfinished"/>
+        <translation>Sakktábla</translation>
     </message>
     <message>
         <source>Moves:</source>
@@ -2092,7 +2092,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Delete selected</source>
-        <translation type="unfinished"/>
+        <translation>Kiválasztott törlése</translation>
     </message>
     <message>
         <source>Close Psi Cleaner</source>
@@ -2124,7 +2124,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Actions</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Műveletek</translation>
     </message>
     <message>
         <source>History files: </source>
@@ -2168,7 +2168,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Profile:</source>
-        <translation type="unfinished"/>
+        <translation>Profil:</translation>
     </message>
     <message>
         <source>Clear Juick Cache</source>
@@ -2207,7 +2207,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -2311,7 +2311,7 @@ You can specify the version of the client and OS or to select them from the pres
     <name>ConferenceLogger</name>
     <message>
         <source>You can find your logs here:</source>
-        <translation type="unfinished"/>
+        <translation>Megtalálhatja a naplóit itt:</translation>
     </message>
     <message>
         <source>Logs:</source>
@@ -2433,7 +2433,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"/>
+        <translation>Csoportos csevegés</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -2616,7 +2616,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Field</source>
-        <translation type="unfinished"/>
+        <translation>Mező</translation>
     </message>
     <message>
         <source>Action</source>
@@ -3500,15 +3500,15 @@ Folytatod?</translation>
     </message>
     <message>
         <source>*for FTP servers only</source>
-        <translation type="unfinished"/>
+        <translation>*csak FTP szerverekhez</translation>
     </message>
     <message>
         <source>**for HTTP servers only</source>
-        <translation type="unfinished"/>
+        <translation>**csak HTTP szerverekhez</translation>
     </message>
     <message>
         <source>Use proxy server</source>
-        <translation type="unfinished"/>
+        <translation>Proxy szerver használat</translation>
     </message>
 </context>
 <context>
@@ -3716,7 +3716,7 @@ Ha engedélyezni szeretnéd, add meg a tranzakciós azonosítót és nyomd meg a
     <name>ExtendedMenuPlugin</name>
     <message>
         <source>Ping %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 pingelése</translation>
     </message>
     <message>
         <source>Pong from %1 after %2 secs</source>
@@ -3969,7 +3969,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show groups</source>
-        <translation type="unfinished"/>
+        <translation>Csoportok megjelenítése</translation>
     </message>
     <message>
         <source>Use slim group heading</source>
@@ -3977,7 +3977,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show status icons</source>
-        <translation type="unfinished"/>
+        <translation>Állapotikonok megjelenítése</translation>
     </message>
     <message>
         <source>Show affiliation icons</source>
@@ -3985,7 +3985,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show client icons</source>
-        <translation type="unfinished"/>
+        <translation>Kliensikonok megjelenítése</translation>
     </message>
     <message>
         <source>Show avatars</source>
@@ -4173,11 +4173,11 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show Close Button on tabs</source>
-        <translation type="unfinished"/>
+        <translation>Bezárógomb megjelenítése a füleken</translation>
     </message>
     <message>
         <source>Show status icons on tabs</source>
-        <translation type="unfinished"/>
+        <translation>Állapotikonok megjelenítése a füleken</translation>
     </message>
     <message>
         <source>Hide tab when close chat window</source>
@@ -5064,15 +5064,15 @@ Ok: %1</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation type="unfinished"/>
+        <translation>Tag</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation type="unfinished"/>
+        <translation>Adminisztrátor</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished"/>
+        <translation>Tulajdonos</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -5442,7 +5442,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Postalcode:</source>
-        <translation type="unfinished"/>
+        <translation>Irányítószám:</translation>
     </message>
     <message>
         <source>A code used for postal delivery</source>
@@ -5450,7 +5450,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Region:</source>
-        <translation type="unfinished"/>
+        <translation>Régió:</translation>
     </message>
     <message>
         <source>An administrative region of the nation, such as a state or province</source>
@@ -5524,19 +5524,19 @@ You lost the game.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Szerző: </translation>
     </message>
     <message>
         <source>Version: </source>
-        <translation type="unfinished"/>
+        <translation>Verzió:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Rendben</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Mégse</translation>
     </message>
 </context>
 <context>
@@ -5880,7 +5880,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Open link in browser</source>
-        <translation type="unfinished"/>
+        <translation>Hivatkozás megnyitása a böngészőben</translation>
     </message>
     <message>
         <source>Close</source>
@@ -5974,7 +5974,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Create new profile</source>
-        <translation type="unfinished"/>
+        <translation>Új profil létrehozása</translation>
     </message>
 </context>
 <context>
@@ -6072,7 +6072,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Részletek megjelenítése</translation>
     </message>
 </context>
 <context>
@@ -6087,7 +6087,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Részletek megjelenítése</translation>
     </message>
 </context>
 <context>
@@ -6190,7 +6190,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Részletek megjelenítése</translation>
     </message>
 </context>
 <context>
@@ -6296,11 +6296,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Szerző: </translation>
     </message>
     <message>
         <source>This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
@@ -6318,31 +6318,31 @@ The plugin has a number of simple settings that can help you:
     <name>ImagePlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Send Image</source>
-        <translation type="unfinished"/>
+        <translation>Kép küldése</translation>
     </message>
     <message>
         <source>Open Image</source>
-        <translation type="unfinished"/>
+        <translation>Kép megnyitása</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
-        <translation type="unfinished"/>
+        <translation>Képek (*.png *.gif *.jpg *.jpeg *.ico)</translation>
     </message>
     <message>
         <source>The image size is too large.</source>
-        <translation type="unfinished"/>
+        <translation>A kép mérete túl nagy.</translation>
     </message>
     <message>
         <source>Image :)</source>
-        <translation type="unfinished"/>
+        <translation>Kép :)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Szerző: </translation>
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
@@ -6506,7 +6506,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Edit names</source>
-        <translation type="unfinished"/>
+        <translation>Nevek szerkesztése</translation>
     </message>
     <message>
         <source>View names</source>
@@ -6522,7 +6522,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Edit birthday</source>
-        <translation type="unfinished"/>
+        <translation>Születésnapok szerkesztése</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -6589,7 +6589,7 @@ elérhető</translation>
     </message>
     <message>
         <source>Opponent:</source>
-        <translation type="unfinished"/>
+        <translation>Ellenfél:</translation>
     </message>
     <message>
         <source>Select resource:</source>
@@ -6605,7 +6605,7 @@ elérhető</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Mégse</translation>
     </message>
 </context>
 <context>
@@ -6616,11 +6616,11 @@ elérhető</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Elfogadás</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="unfinished"/>
+        <translation>Elutasítás</translation>
     </message>
     <message>
         <source>Gomoku Game Plugin - Invitation</source>
@@ -6628,11 +6628,11 @@ elérhető</translation>
     </message>
     <message>
         <source>white</source>
-        <translation type="unfinished"/>
+        <translation>fehér</translation>
     </message>
     <message>
         <source>black</source>
-        <translation type="unfinished"/>
+        <translation>fekete</translation>
     </message>
     <message>
         <source>Player %1 invites you 
@@ -6649,7 +6649,7 @@ to play gomoku. He wants to play %2.</source>
     <name>InviteDialog</name>
     <message>
         <source>Invitation</source>
-        <translation type="unfinished"/>
+        <translation>Meghívás</translation>
     </message>
     <message>
         <source>Select resource:</source>
@@ -6763,11 +6763,11 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Szező: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-mail: </translation>
     </message>
 </context>
 <context>
@@ -6778,15 +6778,15 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Hozzáadás</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Törlés</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Rendben</translation>
     </message>
 </context>
 <context>
@@ -6800,11 +6800,11 @@ to play gomoku. He wants to play %2.</source>
     <name>JuickPlugin</name>
     <message>
         <source>Show all messages</source>
-        <translation type="unfinished"/>
+        <translation>Összes üzenet megjelenítése</translation>
     </message>
     <message>
         <source>Reply</source>
-        <translation type="unfinished"/>
+        <translation>Válasz</translation>
     </message>
     <message>
         <source>Show %1&apos;s info and last 10 messages</source>
@@ -6848,19 +6848,19 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>bold</source>
-        <translation type="unfinished"/>
+        <translation>félkövér</translation>
     </message>
     <message>
         <source>italic</source>
-        <translation type="unfinished"/>
+        <translation>dőlt</translation>
     </message>
     <message>
         <source>underline</source>
-        <translation type="unfinished"/>
+        <translation>aláhúzott</translation>
     </message>
     <message>
         <source>color</source>
-        <translation type="unfinished"/>
+        <translation>szín</translation>
     </message>
     <message>
         <source>Use message Id as resource</source>
@@ -6881,7 +6881,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Clear avatar cache</source>
@@ -6889,7 +6889,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Figyelmeztetés</translation>
     </message>
     <message>
         <source>can't create folder %1 
@@ -6927,15 +6927,15 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Törlés</translation>
     </message>
     <message>
         <source>Add to favorites</source>
-        <translation type="unfinished"/>
+        <translation>Hozzáadás a kedvencekhez</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Szerző: </translation>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -7027,7 +7027,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Reason</source>
-        <translation type="unfinished"/>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Members</source>
@@ -7188,7 +7188,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Bookmarks:</source>
-        <translation type="unfinished"/>
+        <translation>Könyvjelzők:</translation>
     </message>
 </context>
 <context>
@@ -7303,7 +7303,7 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Mentés</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -7585,15 +7585,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Mentés</translation>
     </message>
     <message>
         <source>Close window</source>
-        <translation type="unfinished"/>
+        <translation>Ablak bezárása</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Bezárás</translation>
     </message>
     <message>
         <source>Some changes are not saved. Are you sure you want to quit?</source>
@@ -7960,11 +7960,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="unfinished"/>
+        <translation>Proxy beállítások</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Nyelv</translation>
     </message>
 </context>
 <context>
@@ -8168,7 +8168,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Version: 0</source>
-        <translation type="unfinished"/>
+        <translation>Verzió: 0</translation>
     </message>
     <message>
         <source>Load this plugin</source>
@@ -8302,7 +8302,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation type="unfinished"/>
+        <translation>Menüsáv megjelenítése</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
@@ -8326,11 +8326,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation>másodperc</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished"/>
+        <translation>Ikonok</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
@@ -8338,7 +8338,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished"/>
+        <translation>Avatarok</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
@@ -8378,7 +8378,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished"/>
+        <translation>Kliensek</translation>
     </message>
     <message>
         <source>all client icons</source>
@@ -8394,11 +8394,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Méret</translation>
     </message>
     <message>
         <source>px</source>
-        <translation type="unfinished"/>
+        <translation>px</translation>
     </message>
     <message>
         <source>Radius of corners</source>
@@ -8547,11 +8547,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Online:</source>
-        <translation type="unfinished"/>
+        <translation>Elérhető:</translation>
     </message>
     <message>
         <source>Away:</source>
-        <translation type="unfinished"/>
+        <translation>Távol:</translation>
     </message>
     <message>
         <source>Free For Chat:</source>
@@ -8563,11 +8563,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Do Not Disturb:</source>
-        <translation type="unfinished"/>
+        <translation>Ne zavarj:</translation>
     </message>
     <message>
         <source>Invisible:</source>
-        <translation type="unfinished"/>
+        <translation>Láthatatlan</translation>
     </message>
 </context>
 <context>
@@ -8582,7 +8582,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished"/>
+        <translation>Elérhető</translation>
     </message>
     <message>
         <source>Free for Chat</source>
@@ -8650,15 +8650,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Hozzáadás</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Szerkesztés</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Törlés</translation>
     </message>
     <message>
         <source>Selected preset</source>
@@ -8666,7 +8666,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"/>
+        <translation>Név:</translation>
     </message>
     <message>
         <source>Status:</source>
@@ -8701,7 +8701,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Add extensions</source>
-        <translation type="unfinished"/>
+        <translation>Bővítmény hozzáadása</translation>
     </message>
     <message>
         <source>Ignored media file extensions on psi tunes sending</source>
@@ -8720,7 +8720,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"/>
+        <translation>Típus:</translation>
     </message>
     <message>
         <source>Value: </source>
@@ -8775,7 +8775,7 @@ A nevek nem lehetnek üresek, vagy végződhetnek pontra, nem tartalmazhatnak &a
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts
@@ -8784,7 +8784,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Update Birthdays</source>
-        <translation type="unfinished"/>
+        <translation>Születésnapok frissítése</translation>
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
@@ -8792,7 +8792,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Check Birthdays</source>
-        <translation type="unfinished"/>
+        <translation>Születésnapok ellenőrzése </translation>
     </message>
     <message>
         <source>Start notifying</source>
@@ -8832,7 +8832,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Beállítások</translation>
     </message>
     <message>
         <source>Auto-popup Captcha dialog</source>
@@ -8844,7 +8844,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Contact menu</source>
