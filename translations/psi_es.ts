@@ -141,7 +141,7 @@ Copyright © 2001-2012 El equipo de Psi&lt;br&gt;⏎ </translation>
     </message>
     <message>
         <source>Ubuntu Packager and Patcher</source>
-        <translation type="unfinished"/>
+        <translation>Paquete de Ubuntu y parche</translation>
     </message>
     <message>
         <source>Ubuntu Packager</source>
@@ -154,11 +154,11 @@ Copyright © 2001-2012 El equipo de Psi&lt;br&gt;⏎ </translation>
     </message>
     <message>
         <source>Patcher and Russian localization</source>
-        <translation type="unfinished"/>
+        <translation>Parche y localización rusa</translation>
     </message>
     <message>
         <source>Psimedia Patcher and English localization</source>
-        <translation type="unfinished"/>
+        <translation>Parche de Psimedia y localización inglesa</translation>
     </message>
     <message>
         <source>Mac OS X Packager</source>
@@ -458,7 +458,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>OpenPGP</source>
-        <translation type="unfinished"/>
+        <translation>OpenPGP</translation>
     </message>
     <message>
         <source>placeholder2</source>
@@ -474,11 +474,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Privacy</source>
-        <translation type="unfinished"/>
+        <translation>Privacidad</translation>
     </message>
     <message>
         <source>Blocked Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Contactos bloqueados</translation>
     </message>
     <message>
         <source>Add</source>
@@ -498,7 +498,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Connection</source>
-        <translation type="unfinished"/>
+        <translation>Conexión</translation>
     </message>
     <message>
         <source>Connection proxy:</source>
@@ -522,7 +522,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Host:</source>
-        <translation type="unfinished"/>
+        <translation>Anfitrión</translation>
     </message>
     <message>
         <source>Port:</source>
@@ -554,15 +554,15 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Resource:</source>
-        <translation type="unfinished"/>
+        <translation>Recursos:</translation>
     </message>
     <message>
         <source>Default priority:</source>
-        <translation type="unfinished"/>
+        <translation>Prioridad por defecto:</translation>
     </message>
     <message>
         <source>Data Transfer</source>
-        <translation type="unfinished"/>
+        <translation>Transferencia de datos</translation>
     </message>
     <message>
         <source>In-Band only (slow)</source>
@@ -582,7 +582,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Authenticate as:</source>
-        <translation type="unfinished"/>
+        <translation>Autentificarse como:</translation>
     </message>
     <message>
         <source>Realm:</source>
@@ -1146,11 +1146,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cerrar</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Añadir</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1158,7 +1158,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished"/>
+        <translation>psi/AñadirContacto</translation>
     </message>
 </context>
 <context>
@@ -1169,7 +1169,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"/>
+        <translation>Ocultar</translation>
     </message>
     <message>
         <source>Add User: Error</source>
@@ -1228,15 +1228,15 @@ Hubo un error obteniendo la información de traducción de la &quot;Service ID&q
     <name>AttentionPlugin</name>
     <message>
         <source> sends Attention message to you!</source>
-        <translation type="unfinished"/>
+        <translation>Le han enviado un toque de atención</translation>
     </message>
     <message>
         <source>Send Attention</source>
-        <translation type="unfinished"/>
+        <translation>Enviar toque de atención</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Elija un archivo de sonido</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
@@ -1356,11 +1356,14 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>times (-1=infinite)</source>
-        <translation type="unfinished"/>
+        <translation>tiempos (-1=infinito)
+</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (En linea)&lt;/a&gt;
+
+</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -1463,11 +1466,11 @@ The list of exceptions for jids has two operating modes:
     <name>BookmarkManage</name>
     <message>
         <source>Manage Bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Administrar favoritos</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="unfinished"/>
+        <translation>Anfitrión</translation>
     </message>
     <message>
         <source>Room:</source>
@@ -1483,23 +1486,23 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Auto-join</source>
-        <translation type="unfinished"/>
+        <translation>Auto unirse</translation>
     </message>
     <message>
         <source>Import bookmarks from file</source>
-        <translation type="unfinished"/>
+        <translation>Importar favoritos a partir de archivo</translation>
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Importar</translation>
     </message>
     <message>
         <source>Export bookmarks to file</source>
-        <translation type="unfinished"/>
+        <translation>Exportar favoritos a un archivo</translation>
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Exportar</translation>
     </message>
 </context>
 <context>
@@ -1949,15 +1952,15 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Chess Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Plugin de Ajedrez</translation>
     </message>
     <message>
         <source>Chess!</source>
-        <translation type="unfinished"/>
+        <translation>Ajedrez!</translation>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation type="unfinished"/>
+        <translation>Ya estás jugando!</translation>
     </message>
     <message>
         <source>Your opponent has closed the board!
@@ -2104,35 +2107,35 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"/>
+        <translation>0</translation>
     </message>
     <message>
         <source> files selected</source>
-        <translation type="unfinished"/>
+        <translation>Archivos seleccionados</translation>
     </message>
     <message>
         <source>Delete selected files</source>
-        <translation type="unfinished"/>
+        <translation>Eliminar archivos seleccionados</translation>
     </message>
     <message>
         <source>Delete selected</source>
-        <translation type="unfinished"/>
+        <translation>Eliminar seleccionado</translation>
     </message>
     <message>
         <source>Close Psi Cleaner</source>
-        <translation type="unfinished"/>
+        <translation>Cerrar Limpiador de Psi</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <source>Choose &amp;Profile</source>
-        <translation type="unfinished"/>
+        <translation>Elegir &amp;perfil</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Salir</translation>
     </message>
     <message>
         <source>Clear &amp;Juick Cache</source>
@@ -2144,11 +2147,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Archivo</translation>
     </message>
     <message>
         <source>&amp;Actions</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Acciones</translation>
     </message>
     <message>
         <source>History files: </source>
@@ -2160,27 +2163,27 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Avatars: </source>
-        <translation type="unfinished"/>
+        <translation>Avatares</translation>
     </message>
     <message>
         <source>Clear History</source>
-        <translation type="unfinished"/>
+        <translation>Limpiar historial</translation>
     </message>
     <message>
         <source>Are You Sure?</source>
-        <translation type="unfinished"/>
+        <translation>¿Estas seguro?</translation>
     </message>
     <message>
         <source>Clear vCards</source>
-        <translation type="unfinished"/>
+        <translation>Limpiar vCard</translation>
     </message>
     <message>
         <source>Clear Avatars</source>
-        <translation type="unfinished"/>
+        <translation>Limpiar Avatares</translation>
     </message>
     <message>
         <source>Clear Options</source>
-        <translation type="unfinished"/>
+        <translation>Limpiar opciones</translation>
     </message>
     <message>
         <source>Not supported yet!</source>
@@ -2188,11 +2191,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Choose profile</source>
-        <translation type="unfinished"/>
+        <translation>Elegir perfil</translation>
     </message>
     <message>
         <source>Profile:</source>
-        <translation type="unfinished"/>
+        <translation>Perfil</translation>
     </message>
     <message>
         <source>Clear Juick Cache</source>
@@ -2235,11 +2238,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>Correo</translation>
     </message>
     <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
@@ -2251,11 +2254,11 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClearingAvatarModel</name>
     <message>
         <source>Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Avatar</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <source>Creation Date</source>
@@ -2266,15 +2269,15 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClearingModel</name>
     <message>
         <source>Nick</source>
-        <translation type="unfinished"/>
+        <translation>Apodo</translation>
     </message>
     <message>
         <source>Domain</source>
-        <translation type="unfinished"/>
+        <translation>Dominio</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <source>Creation Date</source>
@@ -2285,11 +2288,11 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClearingOptionsModel</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Opciones</translation>
     </message>
     <message>
         <source>Values</source>
-        <translation type="unfinished"/>
+        <translation>Valores</translation>
     </message>
 </context>
 <context>
@@ -2303,15 +2306,15 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClearingViewer</name>
     <message>
         <source>Check</source>
-        <translation type="unfinished"/>
+        <translation>Comprobar</translation>
     </message>
     <message>
         <source>Uncheck</source>
-        <translation type="unfinished"/>
+        <translation>Desmarcar</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Invertir</translation>
     </message>
 </context>
 <context>
@@ -2322,7 +2325,7 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Autores</translation>
     </message>
     <message>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
@@ -2461,22 +2464,22 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Plugins</source>
-        <translation type="unfinished"/>
+        <translation>Plugins</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Admin</translation>
     </message>
     <message>
         <source>Join %1</source>
-        <translation type="unfinished"/>
+        <translation>Unirse %1</translation>
     </message>
 </context>
 <context>
     <name>ContactListGroupMenu::Private</name>
     <message>
         <source>Re&amp;name</source>
-        <translation type="unfinished"/>
+        <translation>Cambiar nombre</translation>
     </message>
     <message>
         <source>Resend Authorization to Group</source>
@@ -2520,7 +2523,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Show All</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar a todos</translation>
     </message>
     <message>
         <source>Leave All</source>
@@ -2532,14 +2535,14 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Authorization</source>
-        <translation type="unfinished"/>
+        <translation>Autorización</translation>
     </message>
 </context>
 <context>
     <name>ContactListModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Error</translation>
     </message>
     <message>
         <source>You can&apos;t set a blank group name.</source>
@@ -2550,7 +2553,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ContactListSpecialGroup</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>General</translation>
     </message>
     <message>
         <source>Not in List</source>
@@ -2562,11 +2565,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished"/>
+        <translation>Mensajes privados</translation>
     </message>
     <message>
         <source>Conferences</source>
-        <translation type="unfinished"/>
+        <translation>Conferencias</translation>
     </message>
 </context>
 <context>
@@ -2597,7 +2600,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Clear Group</source>
-        <translation type="unfinished"/>
+        <translation>Limpiar grupo</translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;group and all its contacts from your contact list.</source>
@@ -2644,19 +2647,19 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished"/>
+        <translation>Acción</translation>
     </message>
     <message>
         <source>Execute</source>
-        <translation type="unfinished"/>
+        <translation>Ejecutar</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished"/>
+        <translation>Mensaje</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Elminar</translation>
     </message>
     <message>
         <source>Auth request</source>
@@ -2668,7 +2671,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Change domain</source>
-        <translation type="unfinished"/>
+        <translation>Cambiar dominio</translation>
     </message>
     <message>
         <source>Resolve nicks</source>
@@ -2740,7 +2743,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Nothing to do..</source>
-        <translation type="unfinished"/>
+        <translation>Nada que hacer...</translation>
     </message>
     <message>
         <source>No contacts found in file %1</source>
@@ -2759,11 +2762,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ContactManagerModel</name>
     <message>
         <source>Nick</source>
-        <translation type="unfinished"/>
+        <translation>Apodo</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"/>
+        <translation>Grupo</translation>
     </message>
     <message>
         <source>Node</source>
@@ -2771,7 +2774,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Domain</source>
-        <translation type="unfinished"/>
+        <translation>Dominio</translation>
     </message>
     <message>
         <source>Subscription</source>
@@ -2782,7 +2785,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ContactManagerView</name>
     <message>
         <source>Check</source>
-        <translation type="unfinished"/>
+        <translation>Comprobar</translation>
     </message>
     <message>
         <source>Uncheck</source>
@@ -2790,7 +2793,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Invertir</translation>
     </message>
 </context>
 <context>
@@ -2841,7 +2844,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Activity</source>
-        <translation type="unfinished"/>
+        <translation>Actividad</translation>
     </message>
     <message>
         <source>Set Avatar</source>
@@ -3139,11 +3142,11 @@ Proceed?</source>
     <name>ContentDownloader</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor</translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation type="unfinished"/>
+        <translation>Correo</translation>
     </message>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi+.</source>
@@ -3163,7 +3166,7 @@ Proceed?</source>
     </message>
     <message>
         <source>&amp;Address:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dirección</translation>
     </message>
     <message>
         <source>&amp;Node:</source>
@@ -3171,7 +3174,7 @@ Proceed?</source>
     </message>
     <message>
         <source>&amp;Browse</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Explorador</translation>
     </message>
     <message>
         <source>Filter by JID:</source>
@@ -3403,11 +3406,11 @@ Proceed?</source>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Si</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>No</translation>
     </message>
 </context>
 <context>
@@ -3429,11 +3432,11 @@ Proceed?</source>
     </message>
     <message>
         <source>JID*</source>
-        <translation type="unfinished"/>
+        <translation>JID*</translation>
     </message>
     <message>
         <source>Text**</source>
-        <translation type="unfinished"/>
+        <translation>Texto**</translation>
     </message>
     <message>
         <source>*Regular expressions can be used</source>
@@ -3450,42 +3453,42 @@ Proceed?</source>
     </message>
     <message>
         <source>Chats</source>
-        <translation type="unfinished"/>
+        <translation>Conversaciones</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished"/>
+        <translation>Converasciones de grupo</translation>
     </message>
     <message>
         <source>Always play sound</source>
-        <translation type="unfinished"/>
+        <translation>Siempre reproducir sonido</translation>
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="unfinished"/>
+        <translation>Sonido</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Elija un archivo de sonido</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Sonido(*.wav)</translation>
     </message>
 </context>
 <context>
     <name>EditNote</name>
     <message>
         <source>Edit Note</source>
-        <translation type="unfinished"/>
+        <translation>Editar nota</translation>
     </message>
     <message>
         <source>Title:</source>
-        <translation type="unfinished"/>
+        <translation>Titulo</translation>
     </message>
     <message>
         <source>Tags:</source>
-        <translation type="unfinished"/>
+        <translation>Etiquetas</translation>
     </message>
 </context>
 <context>
