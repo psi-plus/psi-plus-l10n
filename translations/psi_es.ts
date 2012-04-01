@@ -48,34 +48,36 @@
     </message>
     <message>
         <source>psi/psiplus_logo</source>
-        <translation type="unfinished"/>
+        <translation>psi/psiplus_logo</translation>
     </message>
     <message utf8="true">
         <source>A cross-platform Jabber client designed for the Jabber power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2012 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="unfinished"/>
+        <translation>Un cliente de Jabber multiplataforma diseñado para el usuario de Jabber.&lt;br&gt;⏎ 
+&lt;br&gt;⏎ 
+Copyright © 2001-2012 El equipo de Psi&lt;br&gt;⏎ </translation>
     </message>
     <message>
         <source>http://psi-im.org</source>
-        <translation type="unfinished"/>
+        <translation>http://psi-im.org</translation>
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished"/>
+        <translation>Autores</translation>
     </message>
     <message>
         <source>Thanks To</source>
-        <translation type="unfinished"/>
+        <translation>Gracias a</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="unfinished"/>
+        <translation>Traducción</translation>
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished"/>
+        <translation>Licencia</translation>
     </message>
     <message>
         <source>About Psi+</source>
@@ -83,7 +85,7 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cerrar</translation>
     </message>
     <message>
         <source>Current Maintainer and Original Author</source>
@@ -127,7 +129,7 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Designer and Patcher</source>
-        <translation type="unfinished"/>
+        <translation>Diseñador y Parchador</translation>
     </message>
     <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
@@ -135,7 +137,7 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Patcher</source>
-        <translation type="unfinished"/>
+        <translation>Parche</translation>
     </message>
     <message>
         <source>Ubuntu Packager and Patcher</source>
@@ -272,7 +274,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"/>
+        <translation>Nombre</translation>
     </message>
     <message>
         <source>Register new account</source>
@@ -289,11 +291,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished"/>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished"/>
+        <translation>psi/Añadir contacto</translation>
     </message>
 </context>
 <context>
@@ -311,22 +313,22 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <name>AccountLoginPassword</name>
     <message>
         <source>Please enter the password for %1:</source>
-        <translation type="unfinished"/>
+        <translation>Por favor, escriba la contraseña de%1:</translation>
     </message>
     <message>
         <source>Please enter your password:</source>
-        <translation type="unfinished"/>
+        <translation>Porfavor inserte su contraseña</translation>
     </message>
     <message>
         <source>Need Password</source>
-        <translation type="unfinished"/>
+        <translation>Necesita contraseña</translation>
     </message>
 </context>
 <context>
     <name>AccountManage</name>
     <message>
         <source>Jabber Accounts</source>
-        <translation type="unfinished"/>
+        <translation>Cuentas de Jabber</translation>
     </message>
     <message>
         <source>Name</source>
@@ -338,27 +340,27 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Estado</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Añadir</translation>
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished"/>
+        <translation>psi/Añadir contacto</translation>
     </message>
     <message>
         <source>&amp;Modify</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Modificar</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation type="unfinished"/>
+        <translation>Quitar</translation>
     </message>
     <message>
         <source>psi/remove</source>
-        <translation type="unfinished"/>
+        <translation>psi/eliminar</translation>
     </message>
 </context>
 <context>
@@ -381,58 +383,58 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>&amp;Disconnect</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Desconectar</translation>
     </message>
 </context>
 <context>
     <name>AccountModify</name>
     <message>
         <source>Account Properties</source>
-        <translation type="unfinished"/>
+        <translation>Propiedades de la cuenta</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"/>
+        <translation>Nombre</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"/>
+        <translation>Cuenta</translation>
     </message>
     <message>
         <source>Example: juliet@capulet.com</source>
-        <translation type="unfinished"/>
+        <translation>Ejemplo:juliet@capulet.com</translation>
     </message>
     <message>
         <source>Jabber ID:</source>
-        <translation type="unfinished"/>
+        <translation>ID Jabber</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Contraseña</translation>
     </message>
     <message>
         <source>Change...</source>
-        <translation type="unfinished"/>
+        <translation>Cambiar...</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ajustes</translation>
     </message>
     <message>
         <source>Automatically connect on startup</source>
-        <translation type="unfinished"/>
+        <translation>Conectar automáticamente al inicio</translation>
     </message>
     <message>
         <source>Automatically connect after sleep</source>
-        <translation type="unfinished"/>
+        <translation>Conectar automáticamente después de la suspensión</translation>
     </message>
     <message>
         <source>Restore last status</source>
-        <translation type="unfinished"/>
+        <translation>Restaurar el último estado</translation>
     </message>
     <message>
         <source>Automatically reconnect if disconnected</source>
-        <translation type="unfinished"/>
+        <translation>Reconectar automáticamente si se desconecta</translation>
     </message>
     <message>
         <source>Log message history</source>
@@ -440,11 +442,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"/>
+        <translation>Detalles</translation>
     </message>
     <message>
         <source>Personal Information</source>
-        <translation type="unfinished"/>
+        <translation>Información personal</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Information about you is stored as a VCard on the server, which other people can retrieve at any time.&lt;/qt&gt;</source>
@@ -524,11 +526,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Port:</source>
-        <translation type="unfinished"/>
+        <translation>Puerto</translation>
     </message>
     <message>
         <source>Encrypt connection:</source>
-        <translation type="unfinished"/>
+        <translation>Conexión encriptada</translation>
     </message>
     <message>
         <source>Probe legacy SSL port</source>
@@ -576,7 +578,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished"/>
+        <translation>Usuario</translation>
     </message>
     <message>
         <source>Authenticate as:</source>
@@ -615,7 +617,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Use host name</source>
-        <translation type="unfinished"/>
+        <translation>Utilizar el nombre  anfitrión</translation>
     </message>
     <message>
         <source>Fixed</source>
@@ -770,11 +772,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <name>AccountReg</name>
     <message>
         <source>Register Account</source>
-        <translation type="unfinished"/>
+        <translation>Resgistrar cuenta</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="unfinished"/>
+        <translation>Servidor</translation>
     </message>
     <message>
         <source>Please enter the name of the server you wish to register with:</source>
@@ -782,11 +784,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Example: capulet.com</source>
-        <translation type="unfinished"/>
+        <translation>Ejemplo:capulet.com</translation>
     </message>
     <message>
         <source>Connection settings</source>
-        <translation type="unfinished"/>
+        <translation>Opciones de conexión</translation>
     </message>
     <message>
         <source>Manually Specify Server Host/Port:</source>
@@ -910,7 +912,7 @@ Razón: %1</translation>
     <name>AccountRemove</name>
     <message>
         <source>Remove Account</source>
-        <translation type="unfinished"/>
+        <translation>Eliminar cuenta</translation>
     </message>
     <message>
         <source>Remove account from Psi only.</source>
@@ -922,7 +924,7 @@ Razón: %1</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Contraseña</translation>
     </message>
 </context>
 <context>
@@ -1017,11 +1019,11 @@ save the history for this contact.</source>
     <name>Activity</name>
     <message>
         <source>User Activity</source>
-        <translation type="unfinished"/>
+        <translation>Actividad del usuario</translation>
     </message>
     <message>
         <source>General:</source>
-        <translation type="unfinished"/>
+        <translation>General</translation>
     </message>
     <message>
         <source>Specific:</source>
@@ -1029,7 +1031,7 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Descripción</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1037,7 +1039,7 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -1055,15 +1057,15 @@ save the history for this contact.</source>
     <name>AddUrl</name>
     <message>
         <source>Add URL</source>
-        <translation type="unfinished"/>
+        <translation>Añadir URL</translation>
     </message>
     <message>
         <source>URL:</source>
-        <translation type="unfinished"/>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Descripción</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -1082,7 +1084,7 @@ save the history for this contact.</source>
     <name>AddUser</name>
     <message>
         <source>Add Contact</source>
-        <translation type="unfinished"/>
+        <translation>Añadir contacto</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -1094,11 +1096,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Service:</source>
-        <translation type="unfinished"/>
+        <translation>Servicio</translation>
     </message>
     <message>
         <source>Jabber</source>
-        <translation type="unfinished"/>
+        <translation>Jabber</translation>
     </message>
     <message>
         <source>Service ID Translation</source>
@@ -1118,7 +1120,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Group:</source>
-        <translation type="unfinished"/>
+        <translation>Grupo</translation>
     </message>
     <message>
         <source>Resolve</source>
@@ -1126,7 +1128,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Nickname (optional):</source>
-        <translation type="unfinished"/>
+        <translation>Apodo(opcional)</translation>
     </message>
     <message>
         <source>Jabber ID:</source>
@@ -1236,7 +1238,7 @@ Hubo un error obteniendo la información de traducción de la &quot;Service ID&q
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Sonido(*.wav)</translation>
     </message>
     <message>
         <source>Attention Plugin</source>
@@ -1315,7 +1317,7 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Invisible</translation>
     </message>
     <message>
         <source>Enable if status is:</source>
@@ -1323,7 +1325,7 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Auto Reply Message:</source>
-        <translation type="unfinished"/>
+        <translation>Auto responder mensaje:</translation>
     </message>
     <message>
         <source>for JIDs and conferences:</source>
@@ -1360,11 +1362,11 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>Correo</translation>
     </message>
     <message>
         <source>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
@@ -1433,26 +1435,26 @@ The list of exceptions for jids has two operating modes:
     <name>AvatarDelegate</name>
     <message>
         <source>Empty file</source>
-        <translation type="unfinished"/>
+        <translation>Archivo vacio</translation>
     </message>
 </context>
 <context>
     <name>AvatarView</name>
     <message>
         <source>Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Avatar</translation>
     </message>
     <message>
         <source>Save Image</source>
-        <translation type="unfinished"/>
+        <translation>Guardar imagen</translation>
     </message>
     <message>
         <source>Save Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Guardar Avatar</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="unfinished"/>
+        <translation>Imagenes(*.png *.gif *.jpg *.jpeg)</translation>
     </message>
 </context>
 <context>
@@ -1467,15 +1469,15 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Room:</source>
-        <translation type="unfinished"/>
+        <translation>Sala</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation type="unfinished"/>
+        <translation>Apodo</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Contraseña</translation>
     </message>
     <message>
         <source>Auto-join</source>
@@ -1522,7 +1524,7 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Error!</source>
-        <translation type="unfinished"/>
+        <translation>Error!</translation>
     </message>
     <message>
         <source>Export bookmarks</source>
@@ -1631,7 +1633,7 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Loading data...</source>
-        <translation type="unfinished"/>
+        <translation>Cargando datos</translation>
     </message>
     <message>
         <source>Original message</source>
@@ -1650,11 +1652,11 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>Correo</translation>
     </message>
     <message>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
@@ -1681,11 +1683,11 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Serial Number:</source>
-        <translation type="unfinished"/>
+        <translation>Numero de serie</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Cerrar</translation>
     </message>
 </context>
 <context>
@@ -1751,11 +1753,11 @@ The list of exceptions for jids has two operating modes:
     <name>ChangePassword</name>
     <message>
         <source>Change Password</source>
-        <translation type="unfinished"/>
+        <translation>Cambiar contraseña</translation>
     </message>
     <message>
         <source>Confirm new password:</source>
-        <translation type="unfinished"/>
+        <translation>Confirmar la nueva contraseña</translation>
     </message>
     <message>
         <source>Current password:</source>
@@ -1970,7 +1972,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>You Win!</source>
-        <translation type="unfinished"/>
+        <translation>Tú ganas!</translation>
     </message>
     <message>
         <source>Draw!</source>
@@ -1978,7 +1980,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="unfinished"/>
+        <translation>Error desconocido!</translation>
     </message>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
@@ -1998,11 +2000,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>Correo</translation>
     </message>
     <message>
         <source>This plugin allows you to play chess with your friends.
@@ -2028,15 +2030,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Load game</source>
-        <translation type="unfinished"/>
+        <translation>Cargar juego</translation>
     </message>
     <message>
         <source>Save game</source>
-        <translation type="unfinished"/>
+        <translation>Guardar juego</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Salir</translation>
     </message>
     <message>
         <source>Resign</source>
@@ -2048,11 +2050,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>Archivo</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="unfinished"/>
+        <translation>Juego</translation>
     </message>
     <message>
         <source>*.chs</source>
