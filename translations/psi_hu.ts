@@ -4209,7 +4209,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -5907,7 +5907,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Szerző: </translation>
     </message>
     <message>
         <source>Email: </source>
@@ -8828,7 +8828,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Options</source>
@@ -8856,7 +8856,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Supported accounts:</source>
@@ -8943,7 +8943,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Add</source>
@@ -8955,7 +8955,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Per contact delay between the popup notifications of the same events</source>
@@ -8999,7 +8999,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Main</source>
@@ -9116,7 +9116,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Status</source>
@@ -9148,7 +9148,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Authorizing...</source>
@@ -10043,7 +10043,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Shortcut:</source>
@@ -10115,7 +10115,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Enable for players:</source>
@@ -10147,7 +10147,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -10284,7 +10284,7 @@ Kérlek írd be a jelszavadat:</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Szerző: </translation>
     </message>
     <message>
         <source>Email: </source>
@@ -10517,7 +10517,7 @@ Kérlek írd be a jelszavadat:</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Szerző: </translation>
     </message>
     <message>
         <source>Version: </source>
@@ -14107,11 +14107,11 @@ Password: %5</source>
     <name>QipXStatuses</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Szerző: </translation>
     </message>
     <message>
         <source>Email: </source>
@@ -14216,7 +14216,7 @@ Ok: %1</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Szerző: </translation>
     </message>
     <message>
         <source>Email: </source>
@@ -14465,7 +14465,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Szerzők: </translation>
     </message>
     <message>
         <source>This plugin allows you to make screenshots and save them to your hard drive or upload them to an FTP or HTTP server.
@@ -14869,7 +14869,7 @@ Oka: %1</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Choose a skin file</source>
@@ -14925,7 +14925,7 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Szerző: </translation>
     </message>
     <message>
         <source>Email: </source>
@@ -15060,7 +15060,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Szerző: </translation>
     </message>
     <message>
         <source>Email: </source>
@@ -15093,7 +15093,7 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     <name>StorageNotesPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Storage Notes</source>
@@ -15101,7 +15101,7 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Szerző: </translation>
     </message>
     <message>
         <source>Email: </source>
@@ -15644,7 +15644,7 @@ Megj: Néhány szerver nem engedélyezi más szerverek felhasználóinak a haszn
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Szerző: </translation>
     </message>
     <message>
         <source>This plugin allows you to convert selected text into another language.
@@ -15772,7 +15772,7 @@ Megj: Néhány szerver nem engedélyezi más szerverek felhasználóinak a haszn
     <name>VideoStatusChanger</name>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Szerzők: </translation>
     </message>
     <message>
         <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
@@ -16034,7 +16034,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Szerző: </translation>
     </message>
     <message>
         <source>Email: </source>
@@ -16646,7 +16646,7 @@ Biztos bezárod az ablakot?</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Auto Reply Message If Recv:</source>
@@ -16688,7 +16688,7 @@ Biztos bezárod az ablakot?</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -17182,7 +17182,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Copy URL</source>
-        <translation type="unfinished"/>
+        <translation>Hivatkozás másolása</translation>
     </message>
     <message>
         <source>Prolongate</source>
@@ -17190,7 +17190,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete File(s)</source>
-        <translation type="unfinished"/>
+        <translation>Fájl(ok) törlése</translation>
     </message>
     <message>
         <source>line1
@@ -17199,7 +17199,7 @@ line2</source>
     </message>
     <message>
         <source>Files list:</source>
-        <translation type="unfinished"/>
+        <translation>Fájllista: </translation>
     </message>
     <message>
         <source>New Item</source>
@@ -17211,22 +17211,22 @@ line2</source>
     </message>
     <message>
         <source>Open Browser</source>
-        <translation type="unfinished"/>
+        <translation>Böngésző megnyitása</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Bezárás</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodNetMan</name>
     <message>
         <source>Downloading filelist...</source>
-        <translation type="unfinished"/>
+        <translation>Fájllista letöltése...</translation>
     </message>
     <message>
         <source>Deleting files...</source>
-        <translation type="unfinished"/>
+        <translation>Fájlok törlése...</translation>
     </message>
     <message>
         <source>Prolongate files...</source>
@@ -17245,11 +17245,12 @@ Try remove cookies.</source>
     <message>
         <source>Filelist downloaded
 (%1 files)</source>
-        <translation type="unfinished"/>
+        <translation>Fájllista letöltve\n
+(%1 fájl)</translation>
     </message>
     <message>
         <source>File(s) deleted</source>
-        <translation type="unfinished"/>
+        <translation>Fájl(ok) törölve</translation>
     </message>
     <message>
         <source>File(s) prolongated</source>
@@ -17276,7 +17277,7 @@ Try remove cookies.</source>
     </message>
     <message>
         <source>File sent to %1</source>
-        <translation type="unfinished"/>
+        <translation>Fájl elküldve neki: %1</translation>
     </message>
     <message>
         <source>Yandex Narod Plugin</source>
@@ -17294,19 +17295,19 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
     <name>yandexnarodSettingsClass</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Beállítások</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Bejelentkezés</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"/>
+        <translation>Jelszó</translation>
     </message>
     <message>
         <source>status</source>
-        <translation type="unfinished"/>
+        <translation>állapot</translation>
     </message>
     <message>
         <source>Test Authorization</source>
@@ -17330,15 +17331,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>%N - file name; %U - file URL; %S - file size</source>
-        <translation type="unfinished"/>
+        <translation>%N - fájlnév; %U - fájl URL; %S - fájlméret</translation>
     </message>
     <message>
         <source>Clear Cookies</source>
-        <translation type="unfinished"/>
+        <translation>Sütik törlése</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</translation>
     </message>
 </context>
 </TS>
