@@ -7842,11 +7842,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Specifies the color for additional text of system messages. MUC topic for example.</source>
-        <translation type="unfinished"/>
+        <translation>Legt die Farbe für zusätzliche Texte in Systemnachrichten fest. MUC Thema zum Beispiel.</translation>
     </message>
     <message>
         <source>Additional message text:</source>
-        <translation type="unfinished"/>
+        <translation>Zusätzliche Textnachricht:</translation>
     </message>
     <message>
         <source>Fonts</source>
@@ -7866,11 +7866,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Roster:</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktliste:</translation>
     </message>
     <message>
         <source>Popup:</source>
-        <translation type="unfinished"/>
+        <translation>Popup:</translation>
     </message>
 </context>
 <context>
@@ -8214,7 +8214,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Notifications type</source>
-        <translation type="unfinished"/>
+        <translation>Benachrichtigungstyp</translation>
     </message>
     <message>
         <source>General</source>
@@ -8381,7 +8381,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation type="unfinished"/>
+        <translation>Geographische Position</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
@@ -8405,7 +8405,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>only highest priority client icon</source>
-        <translation type="unfinished"/>
+        <translation>Nur vom Client mit der höchsten Priorität</translation>
     </message>
     <message>
         <source>Avatar settings</source>
@@ -8597,7 +8597,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Prompt for status message when choosing</source>
-        <translation type="unfinished"/>
+        <translation>Frage beim Wählen nach Statusnachricht</translation>
     </message>
     <message>
         <source>Online</source>
@@ -8605,19 +8605,19 @@ Tags: %1</source>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation type="unfinished"/>
+        <translation>Frei zum Chatten</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Abwesend</translation>
     </message>
     <message>
         <source>Not Available</source>
-        <translation type="unfinished"/>
+        <translation>Nicht verfügbar</translation>
     </message>
     <message>
         <source>Do not Disturb</source>
-        <translation type="unfinished"/>
+        <translation>Bitte nicht stören</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -8629,23 +8629,23 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show presets in menus:</source>
-        <translation type="unfinished"/>
+        <translation>Zeige Vorlagen in Menüs:</translation>
     </message>
     <message>
         <source>As submenu</source>
-        <translation type="unfinished"/>
+        <translation>Als Untermenü</translation>
     </message>
     <message>
         <source>With standard statuses</source>
-        <translation type="unfinished"/>
+        <translation>Mit standard Status</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Nein</translation>
     </message>
     <message>
         <source>Hide Free for Chat, Away, Not Available and Do not Disturb</source>
-        <translation type="unfinished"/>
+        <translation>Verstecke Frei zum Chatten, Nicht verfügbar und Bitte nicht stören</translation>
     </message>
     <message>
         <source>Hide standard statuses (Chat, Away, XA, DND)</source>
@@ -8653,35 +8653,35 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show &quot;Edit presets...&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Zeige &quot;Vorlagen bearbeiten...&quot;</translation>
     </message>
     <message>
         <source>Show &quot;Choose...&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Zeige &quot;Wählen...&quot;</translation>
     </message>
     <message>
         <source>Show &quot;Reconnect&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Zeige &quot;Neu verbinden&quot;</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"/>
+        <translation>Vorgaben</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Hinzufügen</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Bearbeiten</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Selected preset</source>
-        <translation type="unfinished"/>
+        <translation>Gewählte Vorgabe</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -8693,7 +8693,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Priority:</source>
-        <translation type="unfinished"/>
+        <translation>Priorität:</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -8712,15 +8712,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Tunes</source>
-        <translation type="unfinished"/>
+        <translation>Klänge</translation>
     </message>
     <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
-        <translation type="unfinished"/>
+        <translation>Mediendatei-Erweiterungen eingeben, die beim Klang senden (&quot;Hört gerade&quot;) ignoriert werden sollen</translation>
     </message>
     <message>
         <source>Add extensions</source>
-        <translation type="unfinished"/>
+        <translation>Erweiterung hinzufügen</translation>
     </message>
     <message>
         <source>Ignored media file extensions on psi tunes sending</source>
@@ -8728,14 +8728,14 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Tune Controllers</source>
-        <translation type="unfinished"/>
+        <translation>Klang Controller</translation>
     </message>
 </context>
 <context>
     <name>OptionEditor</name>
     <message>
         <source>Option:</source>
-        <translation type="unfinished"/>
+        <translation>Option:</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -8778,7 +8778,7 @@ Optionen-Namen dürfen weder leer sein, noch auf &quot;.&quot; enden oder &quot;
     </message>
     <message>
         <source>sec</source>
-        <translation type="unfinished"/>
+        <translation>Sek</translation>
     </message>
     <message>
         <source>Don&apos;t hide popup if status is Away or XA</source>
@@ -8786,11 +8786,11 @@ Optionen-Namen dürfen weder leer sein, noch auf &quot;.&quot; enden oder &quot;
     </message>
     <message>
         <source>Disable notifications if status is DND</source>
-        <translation type="unfinished"/>
+        <translation>Benachrichtigungen deaktiveren wenn Status auf &quot;Bitte nicht stören&quot;</translation>
     </message>
     <message>
         <source>Play sound:</source>
-        <translation type="unfinished"/>
+        <translation>Klang abspielen:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -8807,11 +8807,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
-        <translation type="unfinished"/>
+        <translation>Lösche Geburtstags-Speicher</translation>
     </message>
     <message>
         <source>Check Birthdays</source>
-        <translation type="unfinished"/>
+        <translation>Prüfe Geburtstage</translation>
     </message>
     <message>
         <source>Start notifying</source>
@@ -8823,11 +8823,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Check birthdays every</source>
-        <translation type="unfinished"/>
+        <translation>Prüfe Geburtstage alle</translation>
     </message>
     <message>
         <source>hours</source>
-        <translation type="unfinished"/>
+        <translation>Stunden</translation>
     </message>
     <message>
         <source>Update birthdays every</source>
@@ -8843,7 +8843,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Check birthdays on startup</source>
-        <translation type="unfinished"/>
+        <translation>Beim Start Geburtstage prüfen</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -8851,7 +8851,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Optionen</translation>
     </message>
     <message>
         <source>Auto-popup Captcha dialog</source>
@@ -8867,7 +8867,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Contact menu</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktmenü</translation>
     </message>
     <message>
         <source>Toolbar action</source>
@@ -8887,7 +8887,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Account Settings</source>
-        <translation type="unfinished"/>
+        <translation>Konto Einstellungen</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will send
@@ -8896,7 +8896,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Mail notifications</source>
-        <translation type="unfinished"/>
+        <translation>Mail Benachrichtungen</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will save
@@ -8938,7 +8938,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable Off the Record Chats</source>
-        <translation type="unfinished"/>
+        <translation>Aktivere Off the Record Chats</translation>
     </message>
     <message>
         <source> Enable &quot;Mail notifications&quot; option!</source>
@@ -8946,11 +8946,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Mail Notifications Settings</source>
-        <translation type="unfinished"/>
+        <translation>Mail Benachrichtungs Einsellungen</translation>
     </message>
     <message>
         <source>Show all unread messages</source>
-        <translation type="unfinished"/>
+        <translation>Zeige alle ungelesenen Nachrichten</translation>
     </message>
     <message>
         <source>Show new messages only</source>
@@ -8966,11 +8966,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Hinzufügen</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -8986,15 +8986,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation>Sekunden</translation>
     </message>
     <message>
         <source>Disable popups if status is DND</source>
-        <translation type="unfinished"/>
+        <translation>Popups deaktiveren wenn Status auf &quot;Bitte nicht stören&quot;</translation>
     </message>
     <message>
         <source>Enable notifications for:</source>
-        <translation type="unfinished"/>
+        <translation>Aktiviere Benachrichtigungen für:</translation>
     </message>
     <message>
         <source>Tune</source>
@@ -9002,19 +9002,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Mood</source>
-        <translation type="unfinished"/>
+        <translation>Stimmung</translation>
     </message>
     <message>
         <source>Activity</source>
-        <translation type="unfinished"/>
+        <translation>Aktivität</translation>
     </message>
     <message>
         <source>Geolocation</source>
-        <translation type="unfinished"/>
+        <translation>Geographische Position</translation>
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="unfinished"/>
+        <translation>Klang:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9030,11 +9030,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Answer:</source>
-        <translation type="unfinished"/>
+        <translation>Antwort:</translation>
     </message>
     <message>
         <source>Congratulation:</source>
-        <translation type="unfinished"/>
+        <translation>Gratulation:</translation>
     </message>
     <message>
         <source>MUC</source>
@@ -9050,7 +9050,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished"/>
+        <translation>Besitzer</translation>
     </message>
     <message>
         <source>Admin</source>
@@ -9070,11 +9070,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="unfinished"/>
+        <translation>Moderator</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="unfinished"/>
+        <translation>Teilnehmer</translation>
     </message>
     <message>
         <source>Visitor</source>
@@ -9086,11 +9086,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Send message:</source>
-        <translation type="unfinished"/>
+        <translation>Nachricht senden:</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished"/>
+        <translation>Sonstiges</translation>
     </message>
     <message>
         <source>Number of blocked stanzas:</source>
@@ -9102,7 +9102,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Zurücksetzen</translation>
     </message>
     <message>
         <source>Send maximum</source>
@@ -9143,27 +9143,27 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Delete selected</source>
-        <translation type="unfinished"/>
+        <translation>Gewählte löschen</translation>
     </message>
     <message>
         <source>Add row</source>
-        <translation type="unfinished"/>
+        <translation>Zeile hinzufügen</translation>
     </message>
     <message>
         <source>Default sound: </source>
-        <translation type="unfinished"/>
+        <translation>Standard Klang: </translation>
     </message>
     <message>
         <source>Messages</source>
-        <translation type="unfinished"/>
+        <translation>Nachrichten</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Bearbeiten</translation>
     </message>
     <message>
         <source>Disable sound if chat window is active</source>
-        <translation type="unfinished"/>
+        <translation>Klänge deaktivieren wenn Chatfenster aktiv ist</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9171,23 +9171,23 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Authorizing...</source>
-        <translation type="unfinished"/>
+        <translation>Autorisiere</translation>
     </message>
     <message>
         <source>Authorizing OK</source>
-        <translation type="unfinished"/>
+        <translation>Autorisierung abgeschlossen</translation>
     </message>
     <message>
         <source>Authorization failed</source>
-        <translation type="unfinished"/>
+        <translation>Autorisierung fehlgeschlagen</translation>
     </message>
     <message>
         <source>Canceled</source>
-        <translation type="unfinished"/>
+        <translation>Abgebrochen</translation>
     </message>
     <message>
         <source>Choose file</source>
-        <translation type="unfinished"/>
+        <translation>Datei auswählen</translation>
     </message>
     <message>
         <source>Uploading</source>
@@ -9195,7 +9195,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Error! %1</source>
-        <translation type="unfinished"/>
+        <translation>Fehler! %1</translation>
     </message>
     <message>
         <source>Cookies are removed</source>
@@ -9434,7 +9434,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Standard</translation>
     </message>
     <message>
         <source>(TCP: Disabled, UDP: Auto)</source>
@@ -9592,11 +9592,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabIconsetActivity</name>
     <message>
         <source>Activity</source>
-        <translation type="unfinished"/>
+        <translation>Aktivität</translation>
     </message>
     <message>
         <source>Select your activity iconset</source>
-        <translation type="unfinished"/>
+        <translation>Aktivitäts-Symbole wählen</translation>
     </message>
 </context>
 <context>
@@ -9614,11 +9614,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabIconsetClients</name>
     <message>
         <source>Clients</source>
-        <translation type="unfinished"/>
+        <translation>Clients</translation>
     </message>
     <message>
         <source>Select your clients iconset</source>
-        <translation type="unfinished"/>
+        <translation>Client-Symbole auswählen</translation>
     </message>
 </context>
 <context>
@@ -9643,11 +9643,11 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     <name>OptionsTabIconsetMoods</name>
     <message>
         <source>Moods</source>
-        <translation type="unfinished"/>
+        <translation>Stimmungen</translation>
     </message>
     <message>
         <source>Select your mood iconset</source>
-        <translation type="unfinished"/>
+        <translation>Stimmungs-Symbole auswählen</translation>
     </message>
 </context>
 <context>
@@ -9715,18 +9715,18 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>The popups behaviour</source>
-        <translation type="unfinished"/>
+        <translation>Popup Verhalten</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabRoster</name>
     <message>
         <source>Roster</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktliste</translation>
     </message>
     <message>
         <source>Roster window options</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktlistenfenster Einstellungen</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
@@ -10361,7 +10361,7 @@ Bitte geben Sie Ihre Passphrase ein:</translation>
     <name>PluginManager</name>
     <message>
         <source>This plugin has no user configurable options</source>
-        <translation type="unfinished"/>
+        <translation>Dieses Plugin bietet keine Konfigurationsmöglichkeiten für den Nutzer</translation>
     </message>
 </context>
 <context>
@@ -11115,7 +11115,7 @@ Möchten Sie sich abmelden?</translation>
     </message>
     <message>
         <source>Reconnecting</source>
-        <translation type="unfinished"/>
+        <translation>Verbinde neu</translation>
     </message>
     <message>
         <source>Encryption Error</source>
@@ -11287,7 +11287,7 @@ Möchten Sie sich abmelden?</translation>
     </message>
     <message>
         <source>Wrong Password</source>
-        <translation type="unfinished"/>
+        <translation>Falsches Passwort</translation>
     </message>
     <message>
         <source>Temporary auth failure</source>
@@ -11321,7 +11321,7 @@ Details: %1</translation>
     </message>
     <message>
         <source>Logged out</source>
-        <translation type="unfinished"/>
+        <translation>Abgemeldet</translation>
     </message>
     <message>
         <source>You must be connected to the server in order to do this.</source>
@@ -11333,7 +11333,7 @@ Details: %1</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Sind Sie sicher?</translation>
     </message>
     <message>
         <source>Name:	</source>
@@ -11402,11 +11402,11 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Show Roster Groups</source>
-        <translation type="unfinished"/>
+        <translation>Zeige Kontaktlistengruppen</translation>
     </message>
     <message>
         <source>Enable/disable groups in roster</source>
-        <translation type="unfinished"/>
+        <translation>(De-)aktivere Gruppen in der Kontaktliste</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
@@ -11474,11 +11474,11 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Active contacts</source>
-        <translation type="unfinished"/>
+        <translation>Aktive Kontakte</translation>
     </message>
     <message>
         <source>Simple way to find contacts with opened chats</source>
-        <translation type="unfinished"/>
+        <translation>Einfacher Weg, Kontakte mit geöffneten Chats zu finden</translation>
     </message>
     <message>
         <source>Buttons</source>
@@ -11610,27 +11610,27 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Set Mood</source>
-        <translation type="unfinished"/>
+        <translation>Stimmung auswählen</translation>
     </message>
     <message>
         <source>Set Mood for all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Setze Stimmung für alle aktiven Konten</translation>
     </message>
     <message>
         <source>Set Activity</source>
-        <translation type="unfinished"/>
+        <translation>Setze Aktivität</translation>
     </message>
     <message>
         <source>Set Activity for all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Setze Aktivität für alle aktiven Konten</translation>
     </message>
     <message>
         <source>Set Geolocation</source>
-        <translation type="unfinished"/>
+        <translation>Setze geographische Position</translation>
     </message>
     <message>
         <source>Set Geolocation for all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Setze geographische Position für alle aktiven Konten</translation>
     </message>
     <message>
         <source>Publish</source>
@@ -11670,23 +11670,23 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Choose status...</source>
-        <translation type="unfinished"/>
+        <translation>Status wählen...</translation>
     </message>
     <message>
         <source>Choose...</source>
-        <translation type="unfinished"/>
+        <translation>Wählen...</translation>
     </message>
     <message>
         <source>Show dialog to set your status</source>
-        <translation type="unfinished"/>
+        <translation>Zeige Dialog zum Ändern Ihres Status</translation>
     </message>
     <message>
         <source>Reconnect</source>
-        <translation type="unfinished"/>
+        <translation>Neu verbinden</translation>
     </message>
     <message>
         <source>Reconnect all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Verbinde alle aktiven Konten neu</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -11746,7 +11746,7 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Join Psi+ Discussion Room (Online)</source>
-        <translation type="unfinished"/>
+        <translation>Trete Psi+ Diskussions Raum bei (Online)</translation>
     </message>
     <message>
         <source>&amp;Join Psi+ Discussion Room (Online)</source>
@@ -11833,11 +11833,11 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Add Contact To Roster</source>
-        <translation type="unfinished"/>
+        <translation>Füge Kontakt zur Kontaktliste hinzu</translation>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="unfinished"/>
+        <translation>Kontakt hinzufügen</translation>
     </message>
     <message>
         <source>Select Icon</source>
@@ -11869,15 +11869,15 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished"/>
+        <translation>Einfügen und Senden</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"/>
+        <translation>Vorlagen</translation>
     </message>
     <message>
         <source>Active contacts</source>
-        <translation type="unfinished"/>
+        <translation>Aktive Kontakte</translation>
     </message>
     <message>
         <source>Chat Toolbar</source>
@@ -11907,11 +11907,11 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>turn off autojid</source>
-        <translation type="unfinished"/>
+        <translation>AutoJID deaktivieren</translation>
     </message>
     <message>
         <source>turn on autojid</source>
-        <translation type="unfinished"/>
+        <translation>AutoJID aktivieren</translation>
     </message>
 </context>
 <context>
@@ -12270,23 +12270,23 @@ Das bedeutet wahrscheinlich, dass bereits eine andere Instanz von Psi läuft. Es
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"/>
+        <translation>Ausblenden</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"/>
+        <translation>Einblenden</translation>
     </message>
     <message>
         <source>Leave</source>
-        <translation type="unfinished"/>
+        <translation>Verlassen</translation>
     </message>
     <message>
         <source>Block</source>
-        <translation type="unfinished"/>
+        <translation>Blockieren</translation>
     </message>
     <message>
         <source>Always Visible</source>
-        <translation type="unfinished"/>
+        <translation>Immer sichtbar</translation>
     </message>
     <message>
         <source>Authorization</source>
@@ -12354,7 +12354,7 @@ Das bedeutet wahrscheinlich, dass bereits eine andere Instanz von Psi läuft. Es
     </message>
     <message>
         <source>Unblock</source>
-        <translation type="unfinished"/>
+        <translation>Nicht mehr blockieren</translation>
     </message>
 </context>
 <context>
@@ -12545,11 +12545,11 @@ Möchten Sie die Sitzung jetzt aktivieren?</translation>
     </message>
     <message>
         <source>Delete...</source>
-        <translation type="unfinished"/>
+        <translation>Löschen...</translation>
     </message>
     <message>
         <source>Reset...</source>
-        <translation type="unfinished"/>
+        <translation>Zurücksetzen...</translation>
     </message>
     <message>
         <source>Edit...</source>
@@ -12565,7 +12565,7 @@ Möchten Sie die Sitzung jetzt aktivieren?</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"/>
+        <translation>Erweitert</translation>
     </message>
     <message>
         <source>(internal node)</source>
@@ -12585,15 +12585,15 @@ Möchten Sie die Sitzung jetzt aktivieren?</translation>
     </message>
     <message>
         <source>Psi+: Option Editor</source>
-        <translation type="unfinished"/>
+        <translation>Psi+: Optionen-Editor</translation>
     </message>
     <message>
         <source>Really reset options %1 to default value?</source>
-        <translation type="unfinished"/>
+        <translation>Optionen %1 wirklich zurücksetzen?</translation>
     </message>
     <message>
         <source>Really reset all options starting with %1. to default value?</source>
-        <translation type="unfinished"/>
+        <translation>Wirklich alle Optionen zurücksetzen, die mit %1. beginnen?</translation>
     </message>
 </context>
 <context>
@@ -12616,7 +12616,7 @@ Möchten Sie die Sitzung jetzt aktivieren?</translation>
     </message>
     <message>
         <source>Typing notify</source>
-        <translation type="unfinished"/>
+        <translation>Tipp-Benachrichtigung</translation>
     </message>
     <message>
         <source>Incoming chat message</source>
@@ -12644,7 +12644,7 @@ Möchten Sie die Sitzung jetzt aktivieren?</translation>
     </message>
     <message>
         <source> is typing...</source>
-        <translation type="unfinished"/>
+        <translation>tippt gerade...</translation>
     </message>
 </context>
 <context>
@@ -12674,7 +12674,7 @@ Fortfahren?</translation>
     <name>PsiThemeViewDelegate</name>
     <message>
         <source>No Image</source>
-        <translation type="unfinished"/>
+        <translation>Kein Bild</translation>
     </message>
 </context>
 <context>
@@ -12811,115 +12811,115 @@ Fortfahren?</translation>
     </message>
     <message>
         <source>Doing Chores</source>
-        <translation type="unfinished"/>
+        <translation>Haushalt erledigen</translation>
     </message>
     <message>
         <source>Buying Groceries</source>
-        <translation type="unfinished"/>
+        <translation>Lebensmittel einkaufen</translation>
     </message>
     <message>
         <source>Cleaning</source>
-        <translation type="unfinished"/>
+        <translation>Putzen</translation>
     </message>
     <message>
         <source>Cooking</source>
-        <translation type="unfinished"/>
+        <translation>Kochen</translation>
     </message>
     <message>
         <source>Doing Maintenance</source>
-        <translation type="unfinished"/>
+        <translation>Instandhaltung</translation>
     </message>
     <message>
         <source>Doing The Dishes</source>
-        <translation type="unfinished"/>
+        <translation>Geschirr spülen</translation>
     </message>
     <message>
         <source>Doing The Laundry</source>
-        <translation type="unfinished"/>
+        <translation>Wäsche waschen</translation>
     </message>
     <message>
         <source>Gardening</source>
-        <translation type="unfinished"/>
+        <translation>Gartenarbeit</translation>
     </message>
     <message>
         <source>Running An Errand</source>
-        <translation type="unfinished"/>
+        <translation>Besorgungen machen</translation>
     </message>
     <message>
         <source>Walking The Dog</source>
-        <translation type="unfinished"/>
+        <translation>Hund ausführen</translation>
     </message>
     <message>
         <source>Drinking</source>
-        <translation type="unfinished"/>
+        <translation>Etwas trinken</translation>
     </message>
     <message>
         <source>Having A Beer</source>
-        <translation type="unfinished"/>
+        <translation>Bier trinken</translation>
     </message>
     <message>
         <source>Having Coffee</source>
-        <translation type="unfinished"/>
+        <translation>Kaffee trinken</translation>
     </message>
     <message>
         <source>Having Tea</source>
-        <translation type="unfinished"/>
+        <translation>Tee trinken</translation>
     </message>
     <message>
         <source>Eating</source>
-        <translation type="unfinished"/>
+        <translation>Essen</translation>
     </message>
     <message>
         <source>Having A Snack</source>
-        <translation type="unfinished"/>
+        <translation>Zwischenmahlzeit</translation>
     </message>
     <message>
         <source>Having Breakfast</source>
-        <translation type="unfinished"/>
+        <translation>Frühstücken</translation>
     </message>
     <message>
         <source>Having Lunch</source>
-        <translation type="unfinished"/>
+        <translation>Mittagessen</translation>
     </message>
     <message>
         <source>Having Dinner</source>
-        <translation type="unfinished"/>
+        <translation>Abendessen</translation>
     </message>
     <message>
         <source>Exercising</source>
-        <translation type="unfinished"/>
+        <translation>Sport machen</translation>
     </message>
     <message>
         <source>Cycling</source>
-        <translation type="unfinished"/>
+        <translation>Rad fahren</translation>
     </message>
     <message>
         <source>Dancing</source>
-        <translation type="unfinished"/>
+        <translation>Tanzen</translation>
     </message>
     <message>
         <source>Hiking</source>
-        <translation type="unfinished"/>
+        <translation>Klettern</translation>
     </message>
     <message>
         <source>Jogging</source>
-        <translation type="unfinished"/>
+        <translation>Joggen</translation>
     </message>
     <message>
         <source>Playing Sports</source>
-        <translation type="unfinished"/>
+        <translation>Beim Sport</translation>
     </message>
     <message>
         <source>Running</source>
-        <translation type="unfinished"/>
+        <translation>Laufen</translation>
     </message>
     <message>
         <source>Skiing</source>
-        <translation type="unfinished"/>
+        <translation>Ski fahren</translation>
     </message>
     <message>
         <source>Swimming</source>
-        <translation type="unfinished"/>
+        <translation>Schwimmen</translation>
     </message>
     <message>
         <source>Working Out</source>
@@ -12927,95 +12927,95 @@ Fortfahren?</translation>
     </message>
     <message>
         <source>Grooming</source>
-        <translation type="unfinished"/>
+        <translation>Körperpflege</translation>
     </message>
     <message>
         <source>At The Spa</source>
-        <translation type="unfinished"/>
+        <translation>Im Bad</translation>
     </message>
     <message>
         <source>Brushing Teeth</source>
-        <translation type="unfinished"/>
+        <translation>Zähne putzen</translation>
     </message>
     <message>
         <source>Getting A Haircut</source>
-        <translation type="unfinished"/>
+        <translation>Beim Frisör</translation>
     </message>
     <message>
         <source>Shaving</source>
-        <translation type="unfinished"/>
+        <translation>Rasieren</translation>
     </message>
     <message>
         <source>Taking A Bath</source>
-        <translation type="unfinished"/>
+        <translation>Ein Bad nehmen</translation>
     </message>
     <message>
         <source>Taking A Shower</source>
-        <translation type="unfinished"/>
+        <translation>Unter der Dusche</translation>
     </message>
     <message>
         <source>Having Appointment</source>
-        <translation type="unfinished"/>
+        <translation>Termin</translation>
     </message>
     <message>
         <source>Inactive</source>
-        <translation type="unfinished"/>
+        <translation>Inaktiv</translation>
     </message>
     <message>
         <source>Day Off</source>
-        <translation type="unfinished"/>
+        <translation>Freier Tag</translation>
     </message>
     <message>
         <source>Hanging Out</source>
-        <translation type="unfinished"/>
+        <translation>Rumhängen</translation>
     </message>
     <message>
         <source>Hiding</source>
-        <translation type="unfinished"/>
+        <translation>Verstecken</translation>
     </message>
     <message>
         <source>On Vacation</source>
-        <translation type="unfinished"/>
+        <translation>Im Urlaub</translation>
     </message>
     <message>
         <source>Praying</source>
-        <translation type="unfinished"/>
+        <translation>Beten</translation>
     </message>
     <message>
         <source>Scheduled Holiday</source>
-        <translation type="unfinished"/>
+        <translation>Geplanter Urlaub</translation>
     </message>
     <message>
         <source>Sleeping</source>
-        <translation type="unfinished"/>
+        <translation>Schlafen</translation>
     </message>
     <message>
         <source>Thinking</source>
-        <translation type="unfinished"/>
+        <translation>Nachdenken</translation>
     </message>
     <message>
         <source>Relaxing</source>
-        <translation type="unfinished"/>
+        <translation>Entspannen</translation>
     </message>
     <message>
         <source>Fishing</source>
-        <translation type="unfinished"/>
+        <translation>Angeln</translation>
     </message>
     <message>
         <source>Gaming</source>
-        <translation type="unfinished"/>
+        <translation>Spielen</translation>
     </message>
     <message>
         <source>Going Out</source>
-        <translation type="unfinished"/>
+        <translation>Ausgehen</translation>
     </message>
     <message>
         <source>Partying</source>
-        <translation type="unfinished"/>
+        <translation>Feiern</translation>
     </message>
     <message>
         <source>Reading</source>
-        <translation type="unfinished"/>
+        <translation>Lesen</translation>
     </message>
     <message>
         <source>Rehearsing</source>
@@ -13023,103 +13023,103 @@ Fortfahren?</translation>
     </message>
     <message>
         <source>Shopping</source>
-        <translation type="unfinished"/>
+        <translation>Shoppen</translation>
     </message>
     <message>
         <source>Smoking</source>
-        <translation type="unfinished"/>
+        <translation>Rauchen</translation>
     </message>
     <message>
         <source>Socializing</source>
-        <translation type="unfinished"/>
+        <translation>Unter Leuten</translation>
     </message>
     <message>
         <source>Sunbathing</source>
-        <translation type="unfinished"/>
+        <translation>Sonnenbaden</translation>
     </message>
     <message>
         <source>Watching TV</source>
-        <translation type="unfinished"/>
+        <translation>Fernsehen</translation>
     </message>
     <message>
         <source>Watching A Movie</source>
-        <translation type="unfinished"/>
+        <translation>Film schauen</translation>
     </message>
     <message>
         <source>Talking</source>
-        <translation type="unfinished"/>
+        <translation>Im Gespräch</translation>
     </message>
     <message>
         <source>In Real Life</source>
-        <translation type="unfinished"/>
+        <translation>Im echten Leben</translation>
     </message>
     <message>
         <source>On The Phone</source>
-        <translation type="unfinished"/>
+        <translation>Am Telefon</translation>
     </message>
     <message>
         <source>On Video Phone</source>
-        <translation type="unfinished"/>
+        <translation>Am Videotelefon</translation>
     </message>
     <message>
         <source>Traveling</source>
-        <translation type="unfinished"/>
+        <translation>Reisen</translation>
     </message>
     <message>
         <source>Commuting</source>
-        <translation type="unfinished"/>
+        <translation>Pendeln</translation>
     </message>
     <message>
         <source>Driving</source>
-        <translation type="unfinished"/>
+        <translation>Fahren</translation>
     </message>
     <message>
         <source>In A Car</source>
-        <translation type="unfinished"/>
+        <translation>Im Auto</translation>
     </message>
     <message>
         <source>On A Bus</source>
-        <translation type="unfinished"/>
+        <translation>Im Bus</translation>
     </message>
     <message>
         <source>On A Plane</source>
-        <translation type="unfinished"/>
+        <translation>Im Flugzeug</translation>
     </message>
     <message>
         <source>On A Train</source>
-        <translation type="unfinished"/>
+        <translation>Im Zug</translation>
     </message>
     <message>
         <source>On A Trip</source>
-        <translation type="unfinished"/>
+        <translation>Auf einer Reise</translation>
     </message>
     <message>
         <source>Walking</source>
-        <translation type="unfinished"/>
+        <translation>Spazierengehen</translation>
     </message>
     <message>
         <source>Working</source>
-        <translation type="unfinished"/>
+        <translation>Arbeiten</translation>
     </message>
     <message>
         <source>Coding</source>
-        <translation type="unfinished"/>
+        <translation>Programmieren</translation>
     </message>
     <message>
         <source>In A Meeting</source>
-        <translation type="unfinished"/>
+        <translation>In einem Meeting</translation>
     </message>
     <message>
         <source>Studying</source>
-        <translation type="unfinished"/>
+        <translation>Lernen</translation>
     </message>
     <message>
         <source>Writing</source>
-        <translation type="unfinished"/>
+        <translation>Schreiben</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>Sonstiges</translation>
     </message>
     <message>
         <source>Choose file</source>
@@ -13171,7 +13171,7 @@ Fortfahren?</translation>
     </message>
     <message>
         <source>Latitude/Longitude/Altitude: </source>
-        <translation type="unfinished"/>
+        <translation>Breitengrad/Längengrad/Höhe:</translation>
     </message>
     <message>
         <source>
@@ -13181,7 +13181,8 @@ Bearing: </source>
     <message>
         <source>
 Error: </source>
-        <translation type="unfinished"/>
+        <translation>
+Fehler: </translation>
     </message>
     <message>
         <source>
@@ -13191,12 +13192,14 @@ Datum: </source>
     <message>
         <source>
 Country: </source>
-        <translation type="unfinished"/>
+        <translation>
+Land: </translation>
     </message>
     <message>
         <source>
 Postalcode: </source>
-        <translation type="unfinished"/>
+        <translation>
+Postleitzahl: </translation>
     </message>
     <message>
         <source>
@@ -13216,22 +13219,26 @@ Area: </source>
     <message>
         <source>
 Street: </source>
-        <translation type="unfinished"/>
+        <translation>
+Straße: </translation>
     </message>
     <message>
         <source>
 Floor: </source>
-        <translation type="unfinished"/>
+        <translation>
+Stockwerk: </translation>
     </message>
     <message>
         <source>
 Room: </source>
-        <translation type="unfinished"/>
+        <translation>
+Raum: </translation>
     </message>
     <message>
         <source>
 Description: </source>
-        <translation type="unfinished"/>
+        <translation>
+Beschreibung: </translation>
     </message>
     <message>
         <source>Warning: %1 is deprecated and will be removed in the future</source>
@@ -13247,7 +13254,7 @@ Description: </source>
     </message>
     <message>
         <source>%1 is now %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 ist jetzt %2</translation>
     </message>
     <message>
         <source>Afraid</source>
@@ -13263,7 +13270,7 @@ Description: </source>
     </message>
     <message>
         <source>Amorous</source>
-        <translation type="unfinished"/>
+        <translation>Verliebt</translation>
     </message>
     <message>
         <source>Annoyed</source>
@@ -13295,7 +13302,7 @@ Description: </source>
     </message>
     <message>
         <source>Cautious</source>
-        <translation type="unfinished"/>
+        <translation>Vorsichtig</translation>
     </message>
     <message>
         <source>Cold</source>
@@ -13303,7 +13310,7 @@ Description: </source>
     </message>
     <message>
         <source>Confident</source>
-        <translation type="unfinished"/>
+        <translation>Zuversichtlicht</translation>
     </message>
     <message>
         <source>Confused</source>
@@ -13311,7 +13318,7 @@ Description: </source>
     </message>
     <message>
         <source>Contemplative</source>
-        <translation type="unfinished"/>
+        <translation>Nachdenklich</translation>
     </message>
     <message>
         <source>Contented</source>
@@ -13323,11 +13330,11 @@ Description: </source>
     </message>
     <message>
         <source>Crazy</source>
-        <translation type="unfinished"/>
+        <translation>Verrückt</translation>
     </message>
     <message>
         <source>Creative</source>
-        <translation type="unfinished"/>
+        <translation>Kreativ</translation>
     </message>
     <message>
         <source>Curious</source>
@@ -13335,7 +13342,7 @@ Description: </source>
     </message>
     <message>
         <source>Dejected</source>
-        <translation type="unfinished"/>
+        <translation>Niedergeschlagen</translation>
     </message>
     <message>
         <source>Depressed</source>
@@ -13351,7 +13358,7 @@ Description: </source>
     </message>
     <message>
         <source>Dismayed</source>
-        <translation type="unfinished"/>
+        <translation>Bestürzt</translation>
     </message>
     <message>
         <source>Distracted</source>
@@ -13363,7 +13370,7 @@ Description: </source>
     </message>
     <message>
         <source>Envious</source>
-        <translation type="unfinished"/>
+        <translation>Neidisch</translation>
     </message>
     <message>
         <source>Excited</source>
@@ -13391,7 +13398,7 @@ Description: </source>
     </message>
     <message>
         <source>Hopeful</source>
-        <translation type="unfinished"/>
+        <translation>Hoffnungsvoll</translation>
     </message>
     <message>
         <source>Hot</source>
@@ -13451,7 +13458,7 @@ Description: </source>
     </message>
     <message>
         <source>Lucky</source>
-        <translation type="unfinished"/>
+        <translation>Glücklich</translation>
     </message>
     <message>
         <source>Mean</source>
@@ -13475,7 +13482,7 @@ Description: </source>
     </message>
     <message>
         <source>Outraged</source>
-        <translation type="unfinished"/>
+        <translation>Empört</translation>
     </message>
     <message>
         <source>Playful</source>
@@ -13487,7 +13494,7 @@ Description: </source>
     </message>
     <message>
         <source>Relaxed</source>
-        <translation type="unfinished"/>
+        <translation>Entspannt</translation>
     </message>
     <message>
         <source>Relieved</source>
@@ -13531,7 +13538,7 @@ Description: </source>
     </message>
     <message>
         <source>Spontaneous</source>
-        <translation type="unfinished"/>
+        <translation>Spontan</translation>
     </message>
     <message>
         <source>Stressed</source>
@@ -13539,7 +13546,7 @@ Description: </source>
     </message>
     <message>
         <source>Strong</source>
-        <translation type="unfinished"/>
+        <translation>Stark</translation>
     </message>
     <message>
         <source>Surprised</source>
@@ -13547,7 +13554,7 @@ Description: </source>
     </message>
     <message>
         <source>Thankful</source>
-        <translation type="unfinished"/>
+        <translation>Dankbar</translation>
     </message>
     <message>
         <source>Thirsty</source>
@@ -13555,15 +13562,15 @@ Description: </source>
     </message>
     <message>
         <source>Tired</source>
-        <translation type="unfinished"/>
+        <translation>Müde</translation>
     </message>
     <message>
         <source>Else</source>
-        <translation type="unfinished"/>
+        <translation>Anders</translation>
     </message>
     <message>
         <source>Weak</source>
-        <translation type="unfinished"/>
+        <translation>Schwach</translation>
     </message>
     <message>
         <source>Worried</source>
@@ -13679,23 +13686,23 @@ Description: </source>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform>%n Tag(e) </numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) </source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform>%n Stunde(n) </numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) </source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform>%n Minute(n) </numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) </source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform>%n Sekunde(n) </numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>No OTR Message</source>
-        <translation type="unfinished"/>
+        <translation>Keine OTR Nachricht</translation>
     </message>
     <message>
         <source>OTR TaggedPlaintextMessage</source>
@@ -13727,11 +13734,11 @@ Description: </source>
     </message>
     <message>
         <source>OTR Data Message</source>
-        <translation type="unfinished"/>
+        <translation>OTR Daten Nachricht</translation>
     </message>
     <message>
         <source>OTR Error Message</source>
-        <translation type="unfinished"/>
+        <translation>OTR Fehler Nachricht</translation>
     </message>
     <message>
         <source>OTR Unknown Message</source>
@@ -13739,7 +13746,7 @@ Description: </source>
     </message>
     <message>
         <source>Unknown OTR Message Type</source>
-        <translation type="unfinished"/>
+        <translation>Unbekannter OTR Nachrichtentyp</translation>
     </message>
     <message>
         <source>Encrypting message to %1 failed.
@@ -13748,7 +13755,7 @@ The message was not sent.</source>
     </message>
     <message>
         <source>Received %1 [%2]</source>
-        <translation type="unfinished"/>
+        <translation>Empfing %1 [%2]</translation>
     </message>
     <message>
         <source>Session ID: </source>
@@ -13756,19 +13763,19 @@ The message was not sent.</source>
     </message>
     <message>
         <source>plaintext</source>
-        <translation type="unfinished"/>
+        <translation>klartext</translation>
     </message>
     <message>
         <source>encrypted</source>
-        <translation type="unfinished"/>
+        <translation>verschlüsselt</translation>
     </message>
     <message>
         <source>finished</source>
-        <translation type="unfinished"/>
+        <translation>beendet</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"/>
+        <translation>unbekannt</translation>
     </message>
     <message>
         <source>Psi OTR</source>
@@ -13777,15 +13784,16 @@ The message was not sent.</source>
     <message>
         <source>Generating keys for account &quot;%1&quot;.
 This may take a while.</source>
-        <translation type="unfinished"/>
+        <translation>Generiere Schlüssel für Konto &quot;%1&quot;.
+Dies kann eine Weile dauern.</translation>
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished"/>
+        <translation>Bitte warten...</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
@@ -13816,11 +13824,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Ja</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Nein</translation>
     </message>
     <message>
         <source>Status</source>
@@ -13832,11 +13840,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Chat Message</source>
-        <translation type="unfinished"/>
+        <translation>Chat Nachricht</translation>
     </message>
     <message>
         <source>Groupchat Message</source>
-        <translation type="unfinished"/>
+        <translation>Gruppenchat Nachricht</translation>
     </message>
     <message>
         <source>Classic</source>
@@ -13916,7 +13924,7 @@ Password: %5</source>
     </message>
     <message>
         <source> is typing...</source>
-        <translation type="unfinished"/>
+        <translation>tippt gerade...</translation>
     </message>
     <message>
         <source>%1 says:</source>
@@ -13960,7 +13968,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Typing notify</source>
-        <translation type="unfinished"/>
+        <translation>Tipp-Benachrichtigung</translation>
     </message>
     <message>
         <source>Groupchat highlight</source>
@@ -13968,7 +13976,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Incoming Call</source>
-        <translation type="unfinished"/>
+        <translation>Eingehender Anruf</translation>
     </message>
     <message>
         <source>[Typing notify]</source>
@@ -14056,7 +14064,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Leave All Conferences</source>
-        <translation type="unfinished"/>
+        <translation>Alle Konferenzen verlassen</translation>
     </message>
     <message>
         <source>Unnamed</source>
@@ -14076,7 +14084,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Activity</source>
-        <translation type="unfinished"/>
+        <translation>Aktivität</translation>
     </message>
     <message>
         <source>Listening to</source>
@@ -14100,7 +14108,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"/>
+        <translation>Zeit</translation>
     </message>
     <message>
         <source>Role: %1</source>
@@ -14139,11 +14147,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
@@ -14218,37 +14226,40 @@ Grund: %1</translation>
     <message>
         <source>celebrates birthday today!
 </source>
-        <translation type="unfinished"/>
+        <translation>feiert heute Geburtstag!
+</translation>
     </message>
     <message numerus="yes">
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform>feiert in %n Tag(en) seinen Geburtstag
+</numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>celebrates birthday yesterday.
 </source>
-        <translation type="unfinished"/>
+        <translation>feierte gestern Geburtstag.
+</translation>
     </message>
     <message>
         <source>Birthday Reminder</source>
-        <translation type="unfinished"/>
+        <translation>Geburtstagserinnerungen</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Klangdatei wählen</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Klangdatei (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
@@ -14297,23 +14308,23 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Nick</source>
-        <translation type="unfinished"/>
+        <translation>Spitzname</translation>
     </message>
     <message>
         <source>Set Mood for all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Setze Stimmung für alle aktiven Konten</translation>
     </message>
     <message>
         <source>Set Activity for all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Setze Aktivität für alle aktiven Konten</translation>
     </message>
     <message>
         <source>Set Status for all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Setze Status für alle aktiven Konten</translation>
     </message>
     <message>
         <source>Status Message</source>
-        <translation type="unfinished"/>
+        <translation>Statusnachricht</translation>
     </message>
 </context>
 <context>
@@ -14327,39 +14338,39 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>Screenshot</name>
     <message>
         <source>Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Bildschirmfoto</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"/>
+        <translation>In Zwischenablage kopieren</translation>
     </message>
     <message>
         <source>Cancel uploading</source>
-        <translation type="unfinished"/>
+        <translation>Hochladen abbrechen</translation>
     </message>
     <message>
         <source>Upload to server:</source>
-        <translation type="unfinished"/>
+        <translation>Lade zu Server hoch:</translation>
     </message>
     <message>
         <source>Upload Screenshot to selected server</source>
-        <translation type="unfinished"/>
+        <translation>Lade Bildschirmfoto zu gewähltem Server hoch</translation>
     </message>
     <message>
         <source>Save Screenshot to Local Drive</source>
-        <translation type="unfinished"/>
+        <translation>Speichere Bildschirmfoto auf lokales Laufwerk</translation>
     </message>
     <message>
         <source>Print Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Drucke Bildschirmfoto</translation>
     </message>
     <message>
         <source>Open image from Local Drive</source>
-        <translation type="unfinished"/>
+        <translation>Öffne Bild von lokalem Datenträger</translation>
     </message>
     <message>
         <source>New Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Neues Bildschirmfoto</translation>
     </message>
     <message>
         <source>toolBar</source>
@@ -14367,67 +14378,67 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>Datei</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Hilfe</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Öffnen</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Speichern</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Drucken</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"/>
+        <translation>Verlassen</translation>
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="unfinished"/>
+        <translation>Proxy-Einstellungen</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Optionen</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished"/>
+        <translation>Verlauf</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="unfinished"/>
+        <translation>Über Qt</translation>
     </message>
     <message>
         <source>Home page</source>
-        <translation type="unfinished"/>
+        <translation>Homepage</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"/>
+        <translation>Hochladen</translation>
     </message>
     <message>
         <source>Size: %1x%2px; %3 bytes</source>
-        <translation type="unfinished"/>
+        <translation>Größe: %1x%2px; %3 Bytes</translation>
     </message>
     <message>
         <source>Open Image</source>
-        <translation type="unfinished"/>
+        <translation>Bild öffnen</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
-        <translation type="unfinished"/>
+        <translation>Bilder (*.png *.gif *.jpg *.jpeg *.ico)</translation>
     </message>
     <message>
         <source>/%1.</source>
@@ -14435,7 +14446,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"/>
+        <translation>Speichern als</translation>
     </message>
     <message>
         <source>%1 Files (*.%2);;All Files (*)</source>
@@ -14451,18 +14462,18 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Close Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Schließe Bildschirmfoto</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Sind Sie sicher?</translation>
     </message>
 </context>
 <context>
     <name>ScreenshotOptions</name>
     <message>
         <source>New Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Neues Bildschirmfoto</translation>
     </message>
     <message>
         <source>Capture the desktop</source>
@@ -15908,39 +15919,39 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Schließen</translation>
     </message>
     <message>
         <source>Save Changes</source>
-        <translation type="unfinished"/>
+        <translation>Änderungen speichern</translation>
     </message>
     <message>
         <source>Delete Log</source>
-        <translation type="unfinished"/>
+        <translation>Log löschen</translation>
     </message>
     <message>
         <source>Update Log</source>
-        <translation type="unfinished"/>
+        <translation>Log aktualisieren</translation>
     </message>
     <message>
         <source>Delete log file</source>
-        <translation type="unfinished"/>
+        <translation>Logdatei  löschen</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Sind Sie sicher?</translation>
     </message>
     <message>
         <source>Save log</source>
-        <translation type="unfinished"/>
+        <translation>Log speichern</translation>
     </message>
     <message>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
-        <translation type="unfinished"/>
+        <translation>Neue Nachrichten wurden dem Log hinzugefügt. Wenn Sie Ihre Änderungen speichern, werden Sie sie verlieren</translation>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
-        <translation type="unfinished"/>
+        <translation>Möchten Sie Ihre Änderungen speichern?</translation>
     </message>
     <message>
         <source>Check</source>
@@ -17127,15 +17138,15 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>vCardView</name>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished"/>
+        <translation>Vollst. Name:</translation>
     </message>
     <message>
         <source>Nick:</source>
-        <translation type="unfinished"/>
+        <translation>Spitzname:</translation>
     </message>
     <message>
         <source>Birthday:</source>
-        <translation type="unfinished"/>
+        <translation>Geburtstag:</translation>
     </message>
     <message>
         <source>E-Mail:</source>
@@ -17143,7 +17154,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Schließen</translation>
     </message>
 </context>
 <context>
@@ -17154,23 +17165,23 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete file(s)</source>
-        <translation type="unfinished"/>
+        <translation>Datei(en) löschen</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Sind Sie sicher?</translation>
     </message>
     <message>
         <source>Set password</source>
-        <translation type="unfinished"/>
+        <translation>Passwort wählen</translation>
     </message>
     <message>
         <source>Remove password</source>
-        <translation type="unfinished"/>
+        <translation>Passwort entfernen</translation>
     </message>
     <message>
         <source>Copy URL</source>
-        <translation type="unfinished"/>
+        <translation>URL kopieren</translation>
     </message>
     <message>
         <source>Prolongate</source>
