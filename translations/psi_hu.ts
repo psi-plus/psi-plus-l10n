@@ -16759,7 +16759,7 @@ Biztos bezárod az ablakot?</translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished"/>
+        <translation>Felhasználó: </translation>
     </message>
     <message>
         <source>Fingerprint: </source>
@@ -16771,7 +16771,7 @@ Biztos bezárod az ablakot?</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>%1 has canceled the authentication process.</source>
@@ -16854,7 +16854,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished"/>
+        <translation>Felhasználó</translation>
     </message>
     <message>
         <source>Fingerprint</source>
@@ -16866,7 +16866,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Állapot</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following fingerprint?</source>
@@ -16878,7 +16878,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished"/>
+        <translation>Felhasználó: </translation>
     </message>
     <message>
         <source>Fingerprint: </source>
@@ -16886,7 +16886,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
@@ -16894,7 +16894,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Törlés</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -16933,7 +16933,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>Are you sure you want to overwrite the following key?</source>
@@ -16941,7 +16941,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Törlés</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -16960,7 +16960,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>No private key for account &quot;%1&quot;</source>
@@ -17019,42 +17019,42 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Login:</source>
-        <translation type="unfinished"/>
+        <translation>Bejelentkezés:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Jelszó:</translation>
     </message>
     <message>
         <source>Remember</source>
-        <translation type="unfinished"/>
+        <translation>Jegyezze meg</translation>
     </message>
     <message>
         <source>Captcha:</source>
-        <translation type="unfinished"/>
+        <translation>Captcha:</translation>
     </message>
 </context>
 <context>
     <name>uploadDialog</name>
     <message>
         <source>File: </source>
-        <translation type="unfinished"/>
+        <translation>Fájl: </translation>
     </message>
     <message>
         <source>Progress: </source>
-        <translation type="unfinished"/>
+        <translation>Folyamat: </translation>
     </message>
     <message>
         <source>Elapsed time: </source>
-        <translation type="unfinished"/>
+        <translation>Eltelt idő: </translation>
     </message>
     <message>
         <source>Speed: </source>
-        <translation type="unfinished"/>
+        <translation>Sebesség: </translation>
     </message>
     <message>
         <source> kb/sec</source>
-        <translation type="unfinished"/>
+        <translation> kb/sec</translation>
     </message>
     <message>
         <source>Upload completed. Waiting for verification.</source>
@@ -17062,11 +17062,11 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"/>
+        <translation>Kész</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Bezárás</translation>
     </message>
     <message>
         <source>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
@@ -17077,15 +17077,15 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>uploadDialogClass</name>
     <message>
         <source>Uploading...</source>
-        <translation type="unfinished"/>
+        <translation>Feltöltés...</translation>
     </message>
     <message>
         <source>Upload started.</source>
-        <translation type="unfinished"/>
+        <translation>Feltöltés elkezdve.</translation>
     </message>
     <message>
         <source>File: </source>
-        <translation type="unfinished"/>
+        <translation>Fájl: </translation>
     </message>
     <message>
         <source>Progress:</source>
@@ -17093,42 +17093,42 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Elapsed time:</source>
-        <translation type="unfinished"/>
+        <translation>Eltelt idő:</translation>
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="unfinished"/>
+        <translation>Sebesség:</translation>
     </message>
     <message>
         <source>Link: </source>
-        <translation type="unfinished"/>
+        <translation>Hivatkozás: </translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Mégsem</translation>
     </message>
 </context>
 <context>
     <name>vCardView</name>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished"/>
+        <translation>Teljes név: </translation>
     </message>
     <message>
         <source>Nick:</source>
-        <translation type="unfinished"/>
+        <translation>Becenév:</translation>
     </message>
     <message>
         <source>Birthday:</source>
-        <translation type="unfinished"/>
+        <translation>Születésnap:</translation>
     </message>
     <message>
         <source>E-Mail:</source>
-        <translation type="unfinished"/>
+        <translation>E-mail:</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Bezárás</translation>
     </message>
 </context>
 <context>
@@ -17139,23 +17139,23 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete file(s)</source>
-        <translation type="unfinished"/>
+        <translation>Fájl(ok) törlése</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Biztos benne?</translation>
     </message>
     <message>
         <source>Set password</source>
-        <translation type="unfinished"/>
+        <translation>Jelszó beállítva</translation>
     </message>
     <message>
         <source>Remove password</source>
-        <translation type="unfinished"/>
+        <translation>Jelszó eltávolítva</translation>
     </message>
     <message>
         <source>Copy URL</source>
-        <translation type="unfinished"/>
+        <translation>URL másolása</translation>
     </message>
     <message>
         <source>Prolongate</source>
@@ -17170,15 +17170,15 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Get Filelist</source>
-        <translation type="unfinished"/>
+        <translation>Fájllista letöltése</translation>
     </message>
     <message>
         <source>Upload File</source>
-        <translation type="unfinished"/>
+        <translation>Fájl feltöltése</translation>
     </message>
     <message>
         <source>Actions:</source>
-        <translation type="unfinished"/>
+        <translation>Műveletek:</translation>
     </message>
     <message>
         <source>Copy URL</source>
@@ -17203,11 +17203,11 @@ line2</source>
     </message>
     <message>
         <source>New Item</source>
-        <translation type="unfinished"/>
+        <translation>Új elem</translation>
     </message>
     <message>
         <source>Clear Cookies</source>
-        <translation type="unfinished"/>
+        <translation>Sütik törlése</translation>
     </message>
     <message>
         <source>Open Browser</source>
@@ -17258,11 +17258,11 @@ Try remove cookies.</source>
     </message>
     <message>
         <source>Password is set</source>
-        <translation type="unfinished"/>
+        <translation>Jelszó beállítva</translation>
     </message>
     <message>
         <source>Password is deleted</source>
-        <translation type="unfinished"/>
+        <translation>Jelszó törölve</translation>
     </message>
 </context>
 <context>
