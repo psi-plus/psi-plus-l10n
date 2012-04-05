@@ -4207,19 +4207,19 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Enable XML-console on login</source>
-        <translation type="unfinished"/>
+        <translation>Zapnout XML konzoli při přihlášení</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>Email: </translation>
     </message>
     <message>
         <source>This plugin is designed to allow easy configuration of some advanced options in Psi+.
@@ -4631,7 +4631,7 @@ Zdůvodnění: %3</translation>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
-        <translation type="unfinished"/>
+        <translation>Obrázky (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
     </message>
 </context>
 <context>
@@ -4653,11 +4653,11 @@ Zdůvodnění: %3</translation>
     </message>
     <message>
         <source>Download and Install</source>
-        <translation type="unfinished"/>
+        <translation>Stáhnout a instalovat</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -4734,7 +4734,7 @@ Zdůvodnění: %3</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished"/>
+        <translation>Vložit a poslat</translation>
     </message>
     <message>
         <source>Templates</source>
@@ -4834,7 +4834,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source> (Reason: %1)</source>
-        <translation type="unfinished"/>
+        <translation> (důvod: %1)</translation>
     </message>
     <message>
         <source>This room has been destroyed.</source>
@@ -4942,11 +4942,11 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source> has unset the topic</source>
-        <translation type="unfinished"/>
+        <translation> nemá nastavené téma</translation>
     </message>
     <message>
         <source> has set the topic to</source>
-        <translation type="unfinished"/>
+        <translation> má téma nastavené na</translation>
     </message>
     <message>
         <source>Connected.</source>
@@ -4954,19 +4954,19 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Uložit</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Smazat</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Zrušit</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation>Jmé&amp;no:</translation>
     </message>
     <message>
         <source>N&amp;ick:</source>
@@ -5068,11 +5068,11 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation type="unfinished"/>
+        <translation>Administrator</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished"/>
+        <translation>Vlastník</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -5091,7 +5091,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>game with</source>
-        <translation type="unfinished"/>
+        <translation>hra s</translation>
     </message>
     <message>
         <source>Game chat</source>
@@ -5176,7 +5176,7 @@ You will lose it</source>
     </message>
     <message>
         <source>Error!</source>
-        <translation type="unfinished"/>
+        <translation>Chyba!</translation>
     </message>
     <message>
         <source>Lookup Error</source>
@@ -5192,23 +5192,23 @@ You will lose it</source>
     </message>
     <message>
         <source>Save image</source>
-        <translation type="unfinished"/>
+        <translation>Uložit obrázek</translation>
     </message>
     <message>
         <source>Do you want to save the image?</source>
-        <translation type="unfinished"/>
+        <translation>Chcete uložit obrázek?</translation>
     </message>
     <message>
         <source>Yes, save</source>
-        <translation type="unfinished"/>
+        <translation>Ano, uložit</translation>
     </message>
     <message>
         <source>No, don&apos;t save</source>
-        <translation type="unfinished"/>
+        <translation>Ne, neukládat</translation>
     </message>
     <message>
         <source>Game over</source>
-        <translation type="unfinished"/>
+        <translation>Konec hry</translation>
     </message>
     <message>
         <source>You scored the game</source>
@@ -5235,7 +5235,7 @@ You lost the game.</source>
     <name>GameSessions</name>
     <message>
         <source>%1: Invitation from %2</source>
-        <translation type="unfinished"/>
+        <translation>%1: Invitation from %2</translation>
     </message>
     <message>
         <source>Incorrect parameters</source>
