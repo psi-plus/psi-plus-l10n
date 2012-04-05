@@ -606,7 +606,7 @@ Aktivieren Sie &lt;b&gt;Neues Konto registrieren&lt;/b&gt;, wenn Psi versuchen s
     </message>
     <message>
         <source>Fixed</source>
-        <translation type="unfinished"/>
+        <translation>Festgesetzt</translation>
     </message>
     <message>
         <source>Depends on status</source>
@@ -978,11 +978,11 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Ignore global actions</source>
-        <translation type="unfinished"/>
+        <translation>Ingnoriere globale Aktionen</translation>
     </message>
     <message>
         <source>Ignore all global actions for this account. For example, autostatus, mood, activity etc.</source>
-        <translation type="unfinished"/>
+        <translation>Ignoriere alle globalen Aktionen für dieses Konto. Beispielsweise Auto-Status, Stimmung, Aktivität etc.</translation>
     </message>
 </context>
 <context>
@@ -991,7 +991,9 @@ Grund: %1</translation>
         <source> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</source>
-        <translation type="unfinished"/>
+        <translation>Aktiviere Off-the-Record Chat.
+Wenn gewählt, wird der Server keine
+Chronik für diesen Kontakt speichern.</translation>
     </message>
 </context>
 <context>
@@ -1005,7 +1007,7 @@ save the history for this contact.</source>
     <name>Activity</name>
     <message>
         <source>User Activity</source>
-        <translation type="unfinished"/>
+        <translation>Aktivität</translation>
     </message>
     <message>
         <source>General:</source>
@@ -1013,7 +1015,7 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>Specific:</source>
-        <translation type="unfinished"/>
+        <translation>Genauer:</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -1036,7 +1038,7 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>Anderes</translation>
     </message>
 </context>
 <context>
@@ -1353,11 +1355,11 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-Mail: </translation>
     </message>
     <message>
         <source>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
@@ -1426,7 +1428,7 @@ The list of exceptions for jids has two operating modes:
     <name>AvatarDelegate</name>
     <message>
         <source>Empty file</source>
-        <translation type="unfinished"/>
+        <translation>Leere Datei</translation>
     </message>
 </context>
 <context>
@@ -1480,7 +1482,7 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Importieren</translation>
     </message>
     <message>
         <source>Export bookmarks to file</source>
@@ -1488,7 +1490,7 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Exportieren</translation>
     </message>
 </context>
 <context>
@@ -1812,7 +1814,7 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"/>
+        <translation>Anruf</translation>
     </message>
     <message>
         <source>Toggle encryption</source>
@@ -1923,7 +1925,7 @@ Möchten Sie das Fenster trotzdem schließen?</translation>
     <name>ChatViewThemeProvider</name>
     <message>
         <source>Chat Message Style</source>
-        <translation type="unfinished"/>
+        <translation>Chat Nachrichten Stil</translation>
     </message>
     <message>
         <source>Configure your chat theme here</source>
@@ -1934,7 +1936,7 @@ Möchten Sie das Fenster trotzdem schließen?</translation>
     <name>ChessPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Chess Plugin</source>
@@ -2362,7 +2364,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ContactListAccountMenu::Private</name>
     <message>
         <source>&amp;Status</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Status</translation>
     </message>
     <message>
         <source>Mood</source>
@@ -2370,11 +2372,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Activity</source>
-        <translation type="unfinished"/>
+        <translation>Aktivität</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation type="unfinished"/>
+        <translation>Geographische Position</translation>
     </message>
     <message>
         <source>Set Avatar</source>
@@ -2390,11 +2392,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Manage Bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Gruppenchats verwalten</translation>
     </message>
     <message>
         <source>Join Groupchat</source>
-        <translation type="unfinished"/>
+        <translation>Gruppenchat beitreten</translation>
     </message>
     <message>
         <source>&amp;Add a Contact</source>
@@ -2442,15 +2444,15 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Avatar</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"/>
+        <translation>Gruppenchat (MUC)</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation type="unfinished"/>
+        <translation>Plugins</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
@@ -3128,15 +3130,15 @@ Fortfahren?</translation>
     <name>ContentDownloader</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation type="unfinished"/>
+        <translation>E-Mail:</translation>
     </message>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi+.</source>
-        <translation type="unfinished"/>
+        <translation>Dieses Plugin ermöglicht das einfache Herunterladen und Installieren von neuen Grafiken und anderen Resourcen für Psi+.</translation>
     </message>
 </context>
 <context>
@@ -3164,7 +3166,7 @@ Fortfahren?</translation>
     </message>
     <message>
         <source>Filter by JID:</source>
-        <translation type="unfinished"/>
+        <translation>Nach JID filtern:</translation>
     </message>
     <message>
         <source>Auto-browse into objects</source>
@@ -3299,7 +3301,7 @@ Fortfahren?</translation>
     </message>
     <message>
         <source>Query version</source>
-        <translation type="unfinished"/>
+        <translation>Version abfragen</translation>
     </message>
     <message>
         <source>&amp;Query version</source>
@@ -3443,7 +3445,7 @@ Fortfahren?</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished"/>
+        <translation>Gruppenchats</translation>
     </message>
     <message>
         <source>Always play sound</source>
@@ -3730,27 +3732,27 @@ Wenn Sie die Anforderung zulassen möchten, drücken Sie bitte &lt;bestätigen&g
     <name>ExtendedMenuPlugin</name>
     <message>
         <source>Ping %1</source>
-        <translation type="unfinished"/>
+        <translation>Ping %1</translation>
     </message>
     <message>
         <source>Pong from %1 after %2 secs</source>
-        <translation type="unfinished"/>
+        <translation>Pong von %1 nach %2 Sek.</translation>
     </message>
     <message>
         <source>Feature not implemented</source>
-        <translation type="unfinished"/>
+        <translation>Funktion nicht implementiert</translation>
     </message>
     <message>
         <source>%1 Last Activity</source>
-        <translation type="unfinished"/>
+        <translation>%1 Letzte  Aktivität</translation>
     </message>
     <message>
         <source>%1 Last Activity was %2 ago</source>
-        <translation type="unfinished"/>
+        <translation>%1 Letzte  Aktivität war vor %2</translation>
     </message>
     <message>
         <source>%1 went offline %2 ago</source>
-        <translation type="unfinished"/>
+        <translation>%1 ist vor %2 offline  gegangen</translation>
     </message>
     <message>
         <source>%1 uptime is %2</source>
@@ -3758,67 +3760,67 @@ Wenn Sie die Anforderung zulassen möchten, drücken Sie bitte &lt;bestätigen&g
     </message>
     <message>
         <source>%1 is online!</source>
-        <translation type="unfinished"/>
+        <translation>%1 ist online!</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="unfinished"/>
+        <translation>Unbekannter Fehler!</translation>
     </message>
     <message>
         <source>Service unavailable</source>
-        <translation type="unfinished"/>
+        <translation>Dienst nicht verfügbar</translation>
     </message>
     <message>
         <source>You are not authorized to retrieve Last Activity information</source>
-        <translation type="unfinished"/>
+        <translation>Sie sind nicht autorisiert, Informationen über die Letzte Aktivität zu erhalten</translation>
     </message>
     <message>
         <source>%1 Time</source>
-        <translation type="unfinished"/>
+        <translation>%1 Zeit</translation>
     </message>
     <message>
         <source>%1 time is %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 Zeit ist %2</translation>
     </message>
     <message>
         <source>Extended Actions</source>
-        <translation type="unfinished"/>
+        <translation>Erweiterte Aktionen</translation>
     </message>
     <message>
         <source>Copy JID</source>
-        <translation type="unfinished"/>
+        <translation>JID kopieren</translation>
     </message>
     <message>
         <source>Copy Nick</source>
-        <translation type="unfinished"/>
+        <translation>Spitzname kopieren</translation>
     </message>
     <message>
         <source>Copy Status Message</source>
-        <translation type="unfinished"/>
+        <translation>Statusnachricht kopieren</translation>
     </message>
     <message>
         <source>Ping</source>
-        <translation type="unfinished"/>
+        <translation>Ping</translation>
     </message>
     <message>
         <source>Last Activity</source>
-        <translation type="unfinished"/>
+        <translation>Letzte  Aktivität</translation>
     </message>
     <message>
         <source>Entity Time</source>
-        <translation type="unfinished"/>
+        <translation>Zeit der Entität</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-Mail: </translation>
     </message>
     <message>
         <source>This plugin adds several additional commands into contacts context menu.</source>
-        <translation type="unfinished"/>
+        <translation>Dieses Plugin fügt dem Kontakt-Kontextmenü einige weitere Kommandos hinzu.</translation>
     </message>
 </context>
 <context>
@@ -4660,19 +4662,19 @@ Grund: %3</translation>
     <name>Form</name>
     <message>
         <source>Proxy Authentication Required</source>
-        <translation type="unfinished"/>
+        <translation>Proxy Authentifizierung erforderlich</translation>
     </message>
     <message>
         <source>Load Content List</source>
-        <translation type="unfinished"/>
+        <translation>Inhaltsliste herunterladen</translation>
     </message>
     <message>
         <source>Download and Install</source>
-        <translation type="unfinished"/>
+        <translation>Herunterladen und installieren</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -4775,7 +4777,7 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Add to bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Zu Lesezeichen hinzufügen</translation>
     </message>
     <message>
         <source>Error: Cannot parse command: </source>
@@ -4977,7 +4979,7 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -7205,7 +7207,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Bookmarks:</source>
-        <translation type="unfinished"/>
+        <translation>Lesezeichen:</translation>
     </message>
 </context>
 <context>
@@ -7320,7 +7322,7 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Speichern</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -7508,7 +7510,7 @@ Details: %1</translation>
     <name>Model</name>
     <message>
         <source>Enable/Disable</source>
-        <translation type="unfinished"/>
+        <translation>Aktivieren/Deaktivieren</translation>
     </message>
     <message>
         <source>JID (or part of JID)</source>
@@ -7535,7 +7537,7 @@ Details: %1</translation>
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>Text:</translation>
     </message>
     <message>
         <source>OK</source>
