@@ -5235,7 +5235,7 @@ You lost the game.</source>
     <name>GameSessions</name>
     <message>
         <source>%1: Invitation from %2</source>
-        <translation>%1: Invitation from %2</translation>
+        <translation>%1: Pozvánka od %2</translation>
     </message>
     <message>
         <source>Incorrect parameters</source>
@@ -5247,11 +5247,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
-        <translation type="unfinished"/>
+        <translation>Od: %1&lt;br /&gt;Hra byla odmítnuta</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;Game error.</source>
-        <translation type="unfinished"/>
+        <translation>Od: %1&lt;br /&gt;Konec hry.</translation>
     </message>
 </context>
 <context>
@@ -5345,19 +5345,19 @@ You lost the game.</source>
     </message>
     <message>
         <source>Altitude:</source>
-        <translation type="unfinished"/>
+        <translation>Namořská výška:</translation>
     </message>
     <message>
         <source>Altitude in meters above or below sea level</source>
-        <translation type="unfinished"/>
+        <translation>Namořská výška v metrech</translation>
     </message>
     <message>
         <source>Area:</source>
-        <translation type="unfinished"/>
+        <translation>Oblast:</translation>
     </message>
     <message>
         <source>A named area such as a campus or neighborhood</source>
-        <translation type="unfinished"/>
+        <translation>Pojmenovaná oblast jako třeba čtvrť</translation>
     </message>
     <message>
         <source>Bearing:</source>
@@ -5369,7 +5369,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Building:</source>
-        <translation type="unfinished"/>
+        <translation>Budova</translation>
     </message>
     <message>
         <source>A specific building on a street or in an area</source>
@@ -5393,7 +5393,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Popis:</translation>
     </message>
     <message>
         <source>A natural-language name for or description of the location</source>
@@ -5401,7 +5401,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Error:</source>
-        <translation type="unfinished"/>
+        <translation>Chyba:</translation>
     </message>
     <message>
         <source>Horizontal GPS error in arc minutes; this element is deprecated in favor of &lt;accuracy/&gt;</source>
@@ -5409,11 +5409,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>Floor:</source>
-        <translation type="unfinished"/>
+        <translation>Podlaží:</translation>
     </message>
     <message>
         <source>A particular floor in a building</source>
-        <translation type="unfinished"/>
+        <translation>Konkrétní podlaží v budově</translation>
     </message>
     <message>
         <source>Latitude:</source>
@@ -5441,15 +5441,15 @@ You lost the game.</source>
     </message>
     <message>
         <source>Postalcode:</source>
-        <translation type="unfinished"/>
+        <translation>PSČ</translation>
     </message>
     <message>
         <source>A code used for postal delivery</source>
-        <translation type="unfinished"/>
+        <translation>Poštovní směrovací číslo</translation>
     </message>
     <message>
         <source>Region:</source>
-        <translation type="unfinished"/>
+        <translation>Oblast:</translation>
     </message>
     <message>
         <source>An administrative region of the nation, such as a state or province</source>
@@ -5573,11 +5573,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Vybrat zvukový soubor</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Zvuk (*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
@@ -5589,7 +5589,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Autoři: </translation>
     </message>
     <message>
         <source>Shows notifications of new messages in your Gmailbox.
@@ -5601,7 +5601,7 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <name>Gnome3StatusWatcher</name>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Autoři: </translation>
     </message>
     <message>
         <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
@@ -5612,19 +5612,19 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Vybrat zvukový soubor</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Zvuk (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>Email: </translation>
     </message>
     <message>
         <source>This plugin allows you to play gomoku with your friends.
@@ -5712,7 +5712,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"/>
+        <translation>Odeslat</translation>
     </message>
 </context>
 <context>
@@ -5764,31 +5764,31 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>HTMLTextMenu</name>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"/>
+        <translation>Tučné</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"/>
+        <translation>Kurzíva</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"/>
+        <translation>Podtržení</translation>
     </message>
     <message>
         <source>Strike Out</source>
-        <translation type="unfinished"/>
+        <translation>Přeškrtnutí</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation type="unfinished"/>
+        <translation>Barva textu</translation>
     </message>
     <message>
         <source>Background Color</source>
-        <translation type="unfinished"/>
+        <translation>Barva pozadí</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"/>
+        <translation>Font</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -5827,7 +5827,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Remove history</source>
-        <translation type="unfinished"/>
+        <translation>Odstranit historii</translation>
     </message>
     <message>
         <source>Are you sure you want to completely remove history for a contact %1?</source>
@@ -5863,15 +5863,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished"/>
+        <translation>Historie</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>Kopírovat</translation>
     </message>
     <message>
         <source>Copy link to the clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Zkopírovat odkaz do schránky</translation>
     </message>
     <message>
         <source>Open</source>
@@ -6299,7 +6299,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
@@ -6321,27 +6321,27 @@ The plugin has a number of simple settings that can help you:
     </message>
     <message>
         <source>Send Image</source>
-        <translation type="unfinished"/>
+        <translation>Poslat obrázek</translation>
     </message>
     <message>
         <source>Open Image</source>
-        <translation type="unfinished"/>
+        <translation>Otevřít obrázek</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
-        <translation type="unfinished"/>
+        <translation>Obrázky (*.png *.gif *.jpg *.jpeg *.ico)</translation>
     </message>
     <message>
         <source>The image size is too large.</source>
-        <translation type="unfinished"/>
+        <translation>Obrázek je příliš velký</translation>
     </message>
     <message>
         <source>Image :)</source>
-        <translation type="unfinished"/>
+        <translation>Obrázek :)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
@@ -6505,15 +6505,15 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Edit names</source>
-        <translation type="unfinished"/>
+        <translation>Upravit jména</translation>
     </message>
     <message>
         <source>View names</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit jména</translation>
     </message>
     <message>
         <source>Open web browser</source>
-        <translation type="unfinished"/>
+        <translation>Otevřít webový prohlížeč</translation>
     </message>
     <message>
         <source>No date</source>
@@ -6521,7 +6521,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Edit birthday</source>
-        <translation type="unfinished"/>
+        <translation>Upravit narozeniny</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -6588,7 +6588,7 @@ k dispozici</translation>
     </message>
     <message>
         <source>Opponent:</source>
-        <translation type="unfinished"/>
+        <translation>Protihráč:</translation>
     </message>
     <message>
         <source>Select resource:</source>
@@ -6596,15 +6596,15 @@ k dispozici</translation>
     </message>
     <message>
         <source>Play Black</source>
-        <translation type="unfinished"/>
+        <translation>Hrát za černé</translation>
     </message>
     <message>
         <source>Play White</source>
-        <translation type="unfinished"/>
+        <translation>Hrát za bílé</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Zrušit</translation>
     </message>
 </context>
 <context>
@@ -6615,11 +6615,11 @@ k dispozici</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Přijmout</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="unfinished"/>
+        <translation>Odmítnout</translation>
     </message>
     <message>
         <source>Gomoku Game Plugin - Invitation</source>
@@ -6656,18 +6656,18 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>Play White</source>
-        <translation type="unfinished"/>
+        <translation>Hrát za bílé</translation>
     </message>
     <message>
         <source>Play Black</source>
-        <translation type="unfinished"/>
+        <translation>Hrát za černé</translation>
     </message>
 </context>
 <context>
     <name>JDMainWin</name>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Obnovit</translation>
     </message>
     <message>
         <source>Clear log</source>
@@ -6675,7 +6675,7 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"/>
+        <translation>Odeslat</translation>
     </message>
     <message>
         <source>Jabber Disk - %1</source>
@@ -6777,11 +6777,11 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Přidat</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Smazat</translation>
     </message>
     <message>
         <source>OK</source>
@@ -6799,7 +6799,7 @@ to play gomoku. He wants to play %2.</source>
     <name>JuickPlugin</name>
     <message>
         <source>Show all messages</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit všechny zprávy</translation>
     </message>
     <message>
         <source>Reply</source>
@@ -6831,7 +6831,7 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>*tag</source>
-        <translation type="unfinished"/>
+        <translation>*tag</translation>
     </message>
     <message>
         <source>#message id</source>
@@ -6843,23 +6843,23 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>http://link</source>
-        <translation type="unfinished"/>
+        <translation>http://link</translation>
     </message>
     <message>
         <source>bold</source>
-        <translation type="unfinished"/>
+        <translation>tučně</translation>
     </message>
     <message>
         <source>italic</source>
-        <translation type="unfinished"/>
+        <translation>kurzíva</translation>
     </message>
     <message>
         <source>underline</source>
-        <translation type="unfinished"/>
+        <translation>podtržené</translation>
     </message>
     <message>
         <source>color</source>
-        <translation type="unfinished"/>
+        <translation>barva</translation>
     </message>
     <message>
         <source>Use message Id as resource</source>
@@ -6871,7 +6871,7 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>Show Avatars</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit avatary</translation>
     </message>
     <message>
         <source>Replaces message id with a link
@@ -6888,7 +6888,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Varování</translation>
     </message>
     <message>
         <source>can't create folder %1 
@@ -6897,11 +6897,11 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Recommended by </source>
-        <translation type="unfinished"/>
+        <translation>Doporučuje </translation>
     </message>
     <message>
         <source> replied:</source>
-        <translation type="unfinished"/>
+        <translation> odpověděl:</translation>
     </message>
     <message>
         <source>Reply posted.</source>
@@ -6926,7 +6926,7 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Smazat</translation>
     </message>
     <message>
         <source>Add to favorites</source>
@@ -6934,7 +6934,7 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -7022,11 +7022,11 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <name>MUCAffiliationsModel</name>
     <message>
         <source>JID</source>
-        <translation type="unfinished"/>
+        <translation>JID</translation>
     </message>
     <message>
         <source>Reason</source>
-        <translation type="unfinished"/>
+        <translation>Důvod</translation>
     </message>
     <message>
         <source>Members</source>
@@ -7302,7 +7302,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Uložit</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -7603,11 +7603,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Storage Notes Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Storage Notes Plugin</translation>
     </message>
     <message>
         <source>Notes has been saved.</source>
-        <translation type="unfinished"/>
+        <translation>Poznámky byly uloženy-</translation>
     </message>
 </context>
 <context>
@@ -7891,7 +7891,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>&lt;a href=&quot;thememanager://showmore/&quot;&gt;More themes&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;thememanager://showmore/&quot;&gt;Více témat&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -7902,7 +7902,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Automatically launch application when OS starts</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky spustit aplikaci při startu systému</translation>
     </message>
     <message>
         <source>Enable docklet</source>
@@ -7958,7 +7958,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Jazyk</translation>
     </message>
 </context>
 <context>
@@ -7981,7 +7981,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Video support:</source>
-        <translation type="unfinished"/>
+        <translation>Podpora videa:</translation>
     </message>
 </context>
 <context>
@@ -8162,7 +8162,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Version: 0</source>
-        <translation type="unfinished"/>
+        <translation>Verze: 0</translation>
     </message>
     <message>
         <source>Load this plugin</source>
@@ -8237,15 +8237,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Limitations</source>
-        <translation type="unfinished"/>
+        <translation>Omezení</translation>
     </message>
     <message>
         <source>Maximum JID length:</source>
-        <translation type="unfinished"/>
+        <translation>Maximální délka JID:</translation>
     </message>
     <message>
         <source>Maximum text length:</source>
-        <translation type="unfinished"/>
+        <translation>Maximální délka textu:</translation>
     </message>
     <message>
         <source>Maximum status length:</source>
@@ -8265,7 +8265,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished"/>
+        <translation>Různé</translation>
     </message>
     <message>
         <source>Avatar size:</source>
