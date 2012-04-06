@@ -1202,11 +1202,11 @@ Vyskytla se chyba při získávání údajů pro převod ID služby z(e) &quot;%
     <name>AttentionPlugin</name>
     <message>
         <source> sends Attention message to you!</source>
-        <translation type="unfinished"/>
+        <translation> ti poslal upozornění!</translation>
     </message>
     <message>
         <source>Send Attention</source>
-        <translation type="unfinished"/>
+        <translation>Poslat upozornění</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -1218,11 +1218,11 @@ Vyskytla se chyba při získávání údajů pro převod ID služby z(e) &quot;%
     </message>
     <message>
         <source>Attention Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Attention Plugin</translation>
     </message>
     <message>
         <source>You sent Attention message to %1</source>
-        <translation type="unfinished"/>
+        <translation>Upozornění pro %1 odesláno</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -1923,7 +1923,7 @@ Opravdu zavřít toto okno?</translation>
     </message>
     <message>
         <source>Configure your chat theme here</source>
-        <translation type="unfinished"/>
+        <translation>Nastavte si zde theme vašeho chatu</translation>
     </message>
 </context>
 <context>
@@ -2076,7 +2076,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <source>Filter:</source>
@@ -2156,7 +2156,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Are You Sure?</source>
-        <translation type="unfinished"/>
+        <translation>Určitě?</translation>
     </message>
     <message>
         <source>Clear vCards</source>
@@ -2172,15 +2172,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Not supported yet!</source>
-        <translation type="unfinished"/>
+        <translation>Zatím nepodporováno!</translation>
     </message>
     <message>
         <source>Choose profile</source>
-        <translation type="unfinished"/>
+        <translation>Vyberte profil</translation>
     </message>
     <message>
         <source>Profile:</source>
-        <translation type="unfinished"/>
+        <translation>Profil:</translation>
     </message>
     <message>
         <source>Clear Juick Cache</source>
@@ -2192,7 +2192,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Something wrong!</source>
-        <translation type="unfinished"/>
+        <translation>Něco je špatně!</translation>
     </message>
     <message>
         <source>Cache Not Found!</source>
@@ -2215,7 +2215,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CleanerPlugin</name>
     <message>
         <source>Launch Cleaner</source>
-        <translation type="unfinished"/>
+        <translation>Spustit čistič</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2273,7 +2273,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClearingOptionsModel</name>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Možnosti</translation>
     </message>
     <message>
         <source>Values</source>
@@ -2339,7 +2339,7 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
     <message>
         <source>Conference History</source>
-        <translation type="unfinished"/>
+        <translation>Historie konference</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -2550,7 +2550,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished"/>
+        <translation>Soukromé zprávy</translation>
     </message>
     <message>
         <source>Conferences</source>
