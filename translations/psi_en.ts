@@ -4269,6 +4269,26 @@ This plugin gives you access to advanced application options, which do not have 
 
 Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</translation>
     </message>
+    <message>
+        <source>Enable last activity server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable sound notifications for every MUC message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable popup notifications if status is DND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable popup notifications if status is Away</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Notifications</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>
@@ -5977,7 +5997,7 @@ You can select or deselect a contact for history removal from the context menu o
     <name>HomeDirMigration</name>
     <message>
         <source>Psi+ Import Wizard</source>
-        <translation>Psi+ Import Wizard</translation>
+        <translation type="obsolete">Psi+ Import Wizard</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -6038,6 +6058,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Create new profile</source>
         <translation>Create new profile</translation>
+    </message>
+    <message>
+        <source>Import Wizard</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6413,11 +6437,11 @@ The plugin has a number of simple settings that can help you:
     </message>
     <message>
         <source>Image :)</source>
-        <translation>Image :)</translation>
+        <translation type="obsolete">Image :)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Author: </translation>
+        <translation type="obsolete">Author: </translation>
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
@@ -6426,6 +6450,30 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation>This plugin is designed to send images to roster contacts.
 Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</translation>
+    </message>
+    <message>
+        <source>Open file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image size must be less than 60 kb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image %1 bytes received.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished">Authors: </translation>
     </message>
 </context>
 <context>
