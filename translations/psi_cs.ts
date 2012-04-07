@@ -1998,7 +1998,9 @@ Pořád si ale můžete uložit hru.</translation>
         <source>This plugin allows you to play chess with your friends.
 The plugin is compatible with a similar plugin for Tkabber.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"/>
+        <translation>Tento plugin Vám umožňuje hrát šachy s Vašimi přáteli.
+Plugin je kompatibilné s podobným pluginem pro Tkabber.
+Pro příkazy se používají obyčejné zprávy, takže plugin bude fungovat kdekoliv se dokážete přihlásit. Do hry můžete přátele pozvat buď z menu u kontaků nebo pomocí tlačítka z nástrojové lišty okna chatu.</translation>
     </message>
 </context>
 <context>
@@ -2152,7 +2154,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Clear History</source>
-        <translation type="unfinished"/>
+        <translation>Vymazat historii</translation>
     </message>
     <message>
         <source>Are You Sure?</source>
@@ -2160,11 +2162,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Clear vCards</source>
-        <translation type="unfinished"/>
+        <translation>Vymazat vCardy</translation>
     </message>
     <message>
         <source>Clear Avatars</source>
-        <translation type="unfinished"/>
+        <translation>Vymazat Avatary</translation>
     </message>
     <message>
         <source>Clear Options</source>
@@ -2200,15 +2202,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Clear Birthdays Cach</source>
-        <translation type="unfinished"/>
+        <translation>Vymazat cache narozenin</translation>
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
-        <translation type="unfinished"/>
+        <translation>Vymazat cache narozenin</translation>
     </message>
     <message>
         <source>Birthdays Cache Successfully Cleared</source>
-        <translation type="unfinished"/>
+        <translation>Cache narozenin byla úspěšně vymazána</translation>
     </message>
 </context>
 <context>
@@ -2277,7 +2279,7 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
     <message>
         <source>Values</source>
-        <translation type="unfinished"/>
+        <translation>Hodnoty</translation>
     </message>
 </context>
 <context>
@@ -2306,7 +2308,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>%1 has requested your version</source>
-        <translation type="unfinished"/>
+        <translation>%1 se ptá na vaší verzi</translation>
     </message>
     <message>
         <source>Authors: </source>
@@ -2480,7 +2482,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Send Status to Group</source>
-        <translation type="unfinished"/>
+        <translation>Poslat stav skupině</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
@@ -2656,7 +2658,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Change domain</source>
-        <translation type="unfinished"/>
+        <translation>Změnit doménu</translation>
     </message>
     <message>
         <source>Resolve nicks</source>
@@ -2664,7 +2666,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Move to group</source>
-        <translation type="unfinished"/>
+        <translation>Přesunout do skupiny</translation>
     </message>
     <message>
         <source>Export</source>
@@ -2680,11 +2682,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>RegExp</source>
-        <translation type="unfinished"/>
+        <translation>Regulární výraz</translation>
     </message>
     <message>
         <source>Removal confirmation</source>
-        <translation type="unfinished"/>
+        <translation>Potvrzení odebrání</translation>
     </message>
     <message>
         <source>Are you sure want to delete selected contacts?</source>
@@ -2692,7 +2694,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Invalid</source>
-        <translation type="unfinished"/>
+        <translation>Neplatné</translation>
     </message>
     <message>
         <source>This action is not supported atm</source>
@@ -2708,7 +2710,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Save error!</source>
-        <translation type="unfinished"/>
+        <translation>Chyba při ukládání!</translation>
     </message>
     <message>
         <source>Can&apos;t open file %1 for writing</source>
@@ -2716,7 +2718,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Open error!</source>
-        <translation type="unfinished"/>
+        <translation>Chyba při otvírání!</translation>
     </message>
     <message>
         <source>Can&apos;t open file %1 for reading</source>
@@ -2736,7 +2738,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Confirm contacts importing</source>
-        <translation type="unfinished"/>
+        <translation>Potvrzení importu kontaktů</translation>
     </message>
     <message>
         <source>Do you really want to import these contacts?</source>
@@ -3749,7 +3751,7 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     </message>
     <message>
         <source>%1 went offline %2 ago</source>
-        <translation type="unfinished"/>
+        <translation>%1 se odpojil před %2</translation>
     </message>
     <message>
         <source>%1 uptime is %2</source>
@@ -3777,11 +3779,11 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     </message>
     <message>
         <source>%1 time is %2</source>
-        <translation type="unfinished"/>
+        <translation>Čas %1 je %2</translation>
     </message>
     <message>
         <source>Extended Actions</source>
-        <translation type="unfinished"/>
+        <translation>Rozšířené akce</translation>
     </message>
     <message>
         <source>Copy JID</source>
@@ -3817,7 +3819,7 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     </message>
     <message>
         <source>This plugin adds several additional commands into contacts context menu.</source>
-        <translation type="unfinished"/>
+        <translation>Tento plugin přídává několik nových příkazů do kontextového menu u kontaktů.</translation>
     </message>
 </context>
 <context>
@@ -3840,7 +3842,7 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     </message>
     <message>
         <source>Menu</source>
-        <translation type="unfinished"/>
+        <translation>Menu</translation>
     </message>
     <message>
         <source>Look</source>
@@ -3848,11 +3850,11 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     </message>
     <message>
         <source>CSS</source>
-        <translation type="unfinished"/>
+        <translation>CSS</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished"/>
+        <translation>Různé</translation>
     </message>
     <message>
         <source>Enable central toolbar</source>
@@ -3860,11 +3862,11 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     </message>
     <message>
         <source>Ask for confirmation before clearing chat window</source>
-        <translation type="unfinished"/>
+        <translation>Ptát se na potvrzení před vyčištěním okna chatu</translation>
     </message>
     <message>
         <source>Enable icons in chat</source>
-        <translation type="unfinished"/>
+        <translation>Zapnout ikony v chatu</translation>
     </message>
     <message>
         <source>Scaled message icons</source>
@@ -3892,11 +3894,11 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     </message>
     <message>
         <source>Default JID mode:</source>
-        <translation type="unfinished"/>
+        <translation>Výchozí mód JID:</translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky psát velké písmeno na začátku věty</translation>
     </message>
     <message>
         <source>Automatically scroll down the log when a message was sent</source>
@@ -3904,11 +3906,11 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     </message>
     <message>
         <source>Show status changes</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit změny stavu</translation>
     </message>
     <message>
         <source>Show status priority</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazovat prioritu stavu</translation>
     </message>
     <message>
         <source>Chat window caption:</source>
@@ -4010,7 +4012,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Sort style for contacts:</source>
-        <translation type="unfinished"/>
+        <translation>Styl řazení kontaktů:</translation>
     </message>
     <message>
         <source>Avatars size:</source>
@@ -4030,7 +4032,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
-        <translation type="unfinished"/>
+        <translation>Umístit roster nalevo v &quot;jednookenním&quot; režimu</translation>
     </message>
     <message>
         <source>Contact name and status message in a row</source>
@@ -4046,7 +4048,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Automatically remove temporary contacts</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky odstranit dočasné kontakty</translation>
     </message>
     <message>
         <source>Tooltips:</source>
@@ -4178,7 +4180,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Disable wheel scroll</source>
-        <translation type="unfinished"/>
+        <translation>Vypnout skrolování kolečkem</translation>
     </message>
     <message>
         <source>Put tabs at bottom of chat window</source>
@@ -4210,7 +4212,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Enable windows flashing</source>
-        <translation type="unfinished"/>
+        <translation>Zapnout blikání oken</translation>
     </message>
     <message>
         <source>Enable &quot;Single Account&quot; mode</source>
@@ -4729,7 +4731,7 @@ Zdůvodnění: %3</translation>
     </message>
     <message>
         <source>Set Text Format</source>
-        <translation type="unfinished"/>
+        <translation>Nastavit formát textu</translation>
     </message>
     <message>
         <source>Select Icon</source>
@@ -4833,7 +4835,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source> and now is %1</source>
-        <translation type="unfinished"/>
+        <translation> a teď je %1</translation>
     </message>
     <message>
         <source>%1 is now %2 and %3</source>
@@ -4949,7 +4951,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>The topic has been set to</source>
-        <translation type="unfinished"/>
+        <translation>Téma bylo nastaveno na</translation>
     </message>
     <message>
         <source> has unset the topic</source>
@@ -4989,7 +4991,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Bookmark conference</source>
-        <translation type="unfinished"/>
+        <translation>Zazáložkovat konferenci</translation>
     </message>
 </context>
 <context>
@@ -5027,7 +5029,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"/>
+        <translation>Hovor</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -5126,7 +5128,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Connected to the host</source>
-        <translation type="unfinished"/>
+        <translation>Připojeno ke stroji</translation>
     </message>
     <message>
         <source>Socket Error...</source>
@@ -5200,7 +5202,7 @@ Tímto ji prohrajete</translation>
     </message>
     <message>
         <source>not found.</source>
-        <translation type="unfinished"/>
+        <translation>nenalezen.</translation>
     </message>
     <message>
         <source>Save image</source>
@@ -5229,7 +5231,8 @@ Tímto ji prohrajete</translation>
     <message>
         <source>You have a mate.
 You lost the game.</source>
-        <translation type="unfinished"/>
+        <translation>Máte mat.
+Hra je prohraná.</translation>
     </message>
     <message>
         <source>You have a stalemate</source>
@@ -5251,11 +5254,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>Incorrect parameters</source>
-        <translation type="unfinished"/>
+        <translation>Neplatné parametry</translation>
     </message>
     <message>
         <source>You are allready playing!</source>
-        <translation type="unfinished"/>
+        <translation>Už jednu hru hrajete!</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
@@ -5389,7 +5392,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Country:</source>
-        <translation type="unfinished"/>
+        <translation>Země:</translation>
     </message>
     <message>
         <source>The nation where the user is located</source>
@@ -5397,7 +5400,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Datum:</source>
-        <translation type="unfinished"/>
+        <translation>Datum:</translation>
     </message>
     <message>
         <source>GPS datum</source>
@@ -5485,7 +5488,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>Text:</translation>
     </message>
     <message>
         <source>A catch-all element that captures any other information about the location</source>
@@ -5493,11 +5496,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Reset</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5527,7 +5530,7 @@ You lost the game.</source>
     <name>GetSkinName</name>
     <message>
         <source>Get Skin Name</source>
-        <translation type="unfinished"/>
+        <translation>Získat jméno skinu</translation>
     </message>
     <message>
         <source>Name: </source>
@@ -5543,7 +5546,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5815,7 +5818,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Refresh history</source>
-        <translation type="unfinished"/>
+        <translation>Obnovit historii</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
@@ -5823,7 +5826,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Earliest</source>
-        <translation type="unfinished"/>
+        <translation>Nej&amp;starší</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
@@ -5835,7 +5838,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Lastest</source>
-        <translation type="unfinished"/>
+        <translation>Nej&amp;novější</translation>
     </message>
     <message>
         <source>Remove history</source>
@@ -5843,7 +5846,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Are you sure you want to completely remove history for a contact %1?</source>
-        <translation type="unfinished"/>
+        <translation>Určitě chcete kompletně odstranit historii kontaktu %1?</translation>
     </message>
     <message>
         <source>Export message history</source>
@@ -5863,15 +5866,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Open chat</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Otevřít chat</translation>
     </message>
     <message>
         <source>&amp;Export history</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Exportovat historii</translation>
     </message>
     <message>
         <source>&amp;Delete history</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Smazat historii</translation>
     </message>
     <message>
         <source>History</source>
@@ -5887,15 +5890,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Otevřít</translation>
     </message>
     <message>
         <source>Open link in browser</source>
-        <translation type="unfinished"/>
+        <translation>Otevřít link v browseru</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zavřít</translation>
     </message>
     <message>
         <source>Close history</source>
@@ -5934,7 +5937,7 @@ You can select or deselect a contact for history removal from the context menu o
     <name>HistoryView</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zavřít</translation>
     </message>
 </context>
 <context>
@@ -6648,19 +6651,21 @@ k dispozici</translation>
     <message>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation type="unfinished"/>
+        <translation>Hráč %1 Vás zve ke
+hře v šach. Chce hrát za %2.</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation type="unfinished"/>
+        <translation>Hráč %1 Vás zve ke
+hře gomoku. Chce hrát za %2.</translation>
     </message>
 </context>
 <context>
     <name>InviteDialog</name>
     <message>
         <source>Invitation</source>
-        <translation type="unfinished"/>
+        <translation>Pozvánka</translation>
     </message>
     <message>
         <source>Select resource:</source>
@@ -6723,11 +6728,11 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>Link</source>
-        <translation type="unfinished"/>
+        <translation>Link</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Nápověda</translation>
     </message>
     <message>
         <source>Intro</source>
@@ -6735,11 +6740,11 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="unfinished"/>
+        <translation>Statistiky</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Přejmenovat</translation>
     </message>
     <message>
         <source>Move to...</source>
@@ -6751,7 +6756,7 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Určitě?</translation>
     </message>
     <message>
         <source>Input Dir Name</source>
@@ -6774,11 +6779,11 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>Email: </translation>
     </message>
 </context>
 <context>
@@ -6847,7 +6852,7 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>#message id</source>
-        <translation type="unfinished"/>
+        <translation>#id zprávy</translation>
     </message>
     <message>
         <source>&gt;quote</source>
@@ -7199,7 +7204,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Bookmarks:</source>
-        <translation type="unfinished"/>
+        <translation>Záložky:</translation>
     </message>
 </context>
 <context>
@@ -7393,16 +7398,17 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Status Message</source>
-        <translation type="unfinished"/>
+        <translation>Stavová zpráva</translation>
     </message>
     <message>
         <source>Active accounts:</source>
-        <translation type="unfinished"/>
+        <translation>Aktivní účty:</translation>
     </message>
     <message>
         <source>
 Active accounts:</source>
-        <translation type="unfinished"/>
+        <translation>
+Aktivní účty:</translation>
     </message>
     <message>
         <source>Incoming event(s) from:</source>
@@ -7591,27 +7597,27 @@ Tags: %1</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Uložit</translation>
     </message>
     <message>
         <source>Close window</source>
-        <translation type="unfinished"/>
+        <translation>Zavřít okno</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zavřít</translation>
     </message>
     <message>
         <source>Some changes are not saved. Are you sure you want to quit?</source>
-        <translation type="unfinished"/>
+        <translation>Některé změny nejsou uloženy. Určitě chcete zkončit?</translation>
     </message>
     <message>
         <source>Some changes are not saved. Are you sure you want to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Některé změny nejsou uloženy. Určitě chcete pokračovat?</translation>
     </message>
     <message>
         <source>Error! Perhaps the function is not implemented on the server.</source>
-        <translation type="unfinished"/>
+        <translation>Chyba! Možná funkce není implementována na serveru.</translation>
     </message>
     <message>
         <source>Storage Notes Plugin</source>
