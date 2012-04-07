@@ -3514,11 +3514,11 @@ Provést?</translation>
     </message>
     <message>
         <source>*for FTP servers only</source>
-        <translation type="unfinished"/>
+        <translation>*pouze pro FTP servery</translation>
     </message>
     <message>
         <source>**for HTTP servers only</source>
-        <translation type="unfinished"/>
+        <translation>*pouze pro HTTP servery</translation>
     </message>
     <message>
         <source>Use proxy server</source>
@@ -3747,7 +3747,7 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     </message>
     <message>
         <source>%1 Last Activity was %2 ago</source>
-        <translation type="unfinished"/>
+        <translation>%1 Poslední aktivita byla před %2</translation>
     </message>
     <message>
         <source>%1 went offline %2 ago</source>
@@ -3755,7 +3755,7 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     </message>
     <message>
         <source>%1 uptime is %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 uptime je %2</translation>
     </message>
     <message>
         <source>%1 is online!</source>
@@ -4108,7 +4108,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Enable single messages</source>
-        <translation type="unfinished"/>
+        <translation>Zapnout jednotlivé zprávy</translation>
     </message>
     <message>
         <source>Popup border color:</source>
@@ -4116,11 +4116,11 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Link color:</source>
-        <translation type="unfinished"/>
+        <translation>Barva linků:</translation>
     </message>
     <message>
         <source>Mailto color:</source>
-        <translation type="unfinished"/>
+        <translation>Barva mailto:</translation>
     </message>
     <message>
         <source>Moderators color:</source>
@@ -4168,7 +4168,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Popup</source>
-        <translation type="unfinished"/>
+        <translation>Vyskakovací okno</translation>
     </message>
     <message>
         <source>Tooltip</source>
@@ -4176,7 +4176,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS pro Psi+&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable wheel scroll</source>
@@ -5321,7 +5321,7 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>Enable hash nick coloring</source>
-        <translation type="unfinished"/>
+        <translation>Zapnout hashové obarvování přezdívek</translation>
     </message>
     <message>
         <source>Nick coloring</source>
@@ -5376,7 +5376,7 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>Bearing:</source>
-        <translation type="unfinished"/>
+        <translation>Směřování:</translation>
     </message>
     <message>
         <source>GPS bearing (direction in which the entity is heading to reach its next waypoint), measured in decimal degrees relative to true north</source>
@@ -5388,7 +5388,7 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>A specific building on a street or in an area</source>
-        <translation type="unfinished"/>
+        <translation>Konkrétní budova v ulici nebo v oblasti</translation>
     </message>
     <message>
         <source>Country:</source>
@@ -5404,7 +5404,7 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>GPS datum</source>
-        <translation type="unfinished"/>
+        <translation>GPS datum</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -5412,7 +5412,7 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>A natural-language name for or description of the location</source>
-        <translation type="unfinished"/>
+        <translation>Popis místa v přirozeném jazyce</translation>
     </message>
     <message>
         <source>Error:</source>
@@ -5432,11 +5432,11 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>Latitude:</source>
-        <translation type="unfinished"/>
+        <translation>Šířka:</translation>
     </message>
     <message>
         <source>Latitude in decimal degrees North</source>
-        <translation type="unfinished"/>
+        <translation>Severní šířka ve stupních</translation>
     </message>
     <message>
         <source>Locality:</source>
@@ -5448,11 +5448,11 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>Longitude:</source>
-        <translation type="unfinished"/>
+        <translation>Délka:</translation>
     </message>
     <message>
         <source>Longitude in decimal degrees East</source>
-        <translation type="unfinished"/>
+        <translation>Východní délka ve stupních</translation>
     </message>
     <message>
         <source>Postalcode:</source>
@@ -5472,15 +5472,15 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation type="unfinished"/>
+        <translation>Místnost:</translation>
     </message>
     <message>
         <source>A particular room in a building</source>
-        <translation type="unfinished"/>
+        <translation>Konkrétní místnost v budově</translation>
     </message>
     <message>
         <source>Street:</source>
-        <translation type="unfinished"/>
+        <translation>Ulice:</translation>
     </message>
     <message>
         <source>A thoroughfare within the locality, or a crossing of two thoroughfares</source>
@@ -5580,7 +5580,7 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>Attributes for contact %1 are changed</source>
-        <translation type="unfinished"/>
+        <translation>Vlastnosti kontaktu %1 se změnili</translation>
     </message>
     <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
@@ -5681,7 +5681,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>New Shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Nová zkratka</translation>
     </message>
 </context>
 <context>
@@ -5909,15 +5909,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>HistoryKeeperPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Remove history for contacts:</source>
-        <translation type="unfinished"/>
+        <translation>Smazat historii kontaktů:</translation>
     </message>
     <message>
         <source>Clear history on exit</source>
-        <translation type="unfinished"/>
+        <translation>Smazat historii při ukončení</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -6310,7 +6310,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -6332,7 +6332,7 @@ The plugin has a number of simple settings that can help you:
     <name>ImagePlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Send Image</source>
@@ -6626,7 +6626,7 @@ k dispozici</translation>
     <name>InvitationDialog</name>
     <message>
         <source>Chess Plugin - Invitation</source>
-        <translation type="unfinished"/>
+        <translation>Šachový plugin - pozvánka</translation>
     </message>
     <message>
         <source>Accept</source>
@@ -6947,7 +6947,7 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Add to favorites</source>
-        <translation type="unfinished"/>
+        <translation>Přidat do oblíbených</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -7412,12 +7412,13 @@ Aktivní účty:</translation>
     </message>
     <message>
         <source>Incoming event(s) from:</source>
-        <translation type="unfinished"/>
+        <translation>Příchozí událost(i) od:</translation>
     </message>
     <message>
         <source>
 Incoming event(s) from:</source>
-        <translation type="unfinished"/>
+        <translation>
+Příchozí událost(i) od:</translation>
     </message>
     <message>
         <source>Connecting</source>
@@ -7501,11 +7502,11 @@ Detaily: %1</translation>
     <name>Model</name>
     <message>
         <source>Enable/Disable</source>
-        <translation type="unfinished"/>
+        <translation>Zapnout/Vypnout</translation>
     </message>
     <message>
         <source>JID (or part of JID)</source>
-        <translation type="unfinished"/>
+        <translation>JID (nebo jeho část)</translation>
     </message>
     <message>
         <source>Watch for JIDs</source>
@@ -7589,7 +7590,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"/>
+        <translation>Znovu načíst</translation>
     </message>
     <message>
         <source>Save notes</source>
@@ -7972,7 +7973,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="unfinished"/>
+        <translation>Nastavení proxy</translation>
     </message>
     <message>
         <source>Language</source>
@@ -8215,7 +8216,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Popup notifications</source>
-        <translation type="unfinished"/>
+        <translation>Vyskakovací upozornění</translation>
     </message>
     <message>
         <source>On incoming message event</source>
@@ -8287,11 +8288,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Avatar size:</source>
-        <translation type="unfinished"/>
+        <translation>Velikost avatara:</translation>
     </message>
     <message>
         <source>Durations, sec.</source>
-        <translation type="unfinished"/>
+        <translation>Délka trvání ve vteřinách</translation>
     </message>
 </context>
 <context>
@@ -8306,11 +8307,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Auto-resize contact list</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky měnit velikost seznamu kontaktů</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation type="unfinished"/>
+        <translation>Levé tlačítko zobrazí menu</translation>
     </message>
     <message>
         <source>Show menubar</source>
@@ -8346,19 +8347,19 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazovat avatary v rosteru</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished"/>
+        <translation>Avataři</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazovat nálady v rosteru</translation>
     </message>
     <message>
         <source>Moods</source>
-        <translation type="unfinished"/>
+        <translation>Nálady</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
@@ -8382,15 +8383,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Now playing</source>
-        <translation type="unfinished"/>
+        <translation>Nyní hraje</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazovat ikonu uživatelova klienta</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished"/>
+        <translation>Klienti</translation>
     </message>
     <message>
         <source>all client icons</source>
@@ -8402,19 +8403,19 @@ Tags: %1</source>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished"/>
+        <translation>Nastavení avatara</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Velikost</translation>
     </message>
     <message>
         <source>px</source>
-        <translation type="unfinished"/>
+        <translation>px</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="unfinished"/>
+        <translation>Poloměr rohů</translation>
     </message>
 </context>
 <context>
@@ -8531,27 +8532,27 @@ Tags: %1</source>
     </message>
     <message>
         <source> minutes</source>
-        <translation type="unfinished"/>
+        <translation> minutách</translation>
     </message>
     <message>
         <source>Auto offline after:</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky offline po:</translation>
     </message>
     <message>
         <source>Auto XA after:</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky dlouho pryč po:</translation>
     </message>
     <message>
         <source>Auto away after:</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky pryč po:</translation>
     </message>
     <message>
         <source>Priority:</source>
-        <translation type="unfinished"/>
+        <translation>Priorita:</translation>
     </message>
     <message>
         <source>Status message:</source>
-        <translation type="unfinished"/>
+        <translation>Stavová zpráva:</translation>
     </message>
     <message>
         <source>Default priority</source>
