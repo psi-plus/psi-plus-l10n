@@ -112,10 +112,6 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Founder, Patcher and MS Windows x86 Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Founder and Lead Patcher</source>
         <translation type="unfinished"></translation>
     </message>
@@ -133,14 +129,6 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Patcher</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ubuntu Packager and Patcher</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -264,6 +252,18 @@ Robert Wróbel&lt;br&gt;
 Tłumaczył Psi 0.8.5&lt;br&gt;
 &lt;br&gt;
 Podziękowania dla Mariana, Kocia, Dentharga, Zgody, Smoka oraz Rafiego i Kamyka za pomoc w tworzeniu tłumaczenia wersji 0.9.0. Cobra&lt;br&gt;</translation>
+    </message>
+    <message>
+        <source>Founder, Patcher and MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lead Patcher and Plugins Writer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

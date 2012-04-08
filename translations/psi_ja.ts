@@ -112,10 +112,6 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Founder, Patcher and MS Windows x86 Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Founder and Lead Patcher</source>
         <translation type="unfinished"></translation>
     </message>
@@ -133,14 +129,6 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Patcher</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ubuntu Packager and Patcher</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -230,6 +218,18 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
 &amp;nbsp;&amp;nbsp;E-Mail: &lt;a href=&quot;mailto:hamano@cuspy.org&quot;&gt;hamano@cuspy.org&lt;/a&gt;&lt;br&gt;
 ￼&amp;nbsp;&amp;nbsp;翻訳者&lt;br&gt;￼&lt;br&gt;￼
 翻訳チームに参加してください!</translation>
+    </message>
+    <message>
+        <source>Founder, Patcher and MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lead Patcher and Plugins Writer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

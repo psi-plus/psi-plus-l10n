@@ -112,10 +112,6 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Founder, Patcher and MS Windows x86 Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Founder and Lead Patcher</source>
         <translation type="unfinished"></translation>
     </message>
@@ -133,14 +129,6 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Patcher</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ubuntu Packager and Patcher</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -227,6 +215,18 @@ Join the translation team today! Go to
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <translation>Alain REBEYROTTE &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;￼&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;￼&amp;nbsp;&amp;nbsp;Jabber: &lt;a href=&quot;xmpp:aniamaniac@jabber.org&quot;&gt;aniamaniac@jabber.org&lt;/a&gt;&lt;br&gt;￼&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:alreb@free.fr&quot;&gt;alreb@free.fr&lt;/a&gt;&lt;br&gt;￼&amp;nbsp;&amp;nbsp;Traducteur français depuis la version 0.9.2&lt;br&gt;￼Merci à tous ceux qui m&apos;aident à corriger les erreurs de mes traductions !&lt;br&gt;&lt;br&gt;￼Pour une traduction &quot;non-officielle&quot; de la licence GPL allez sur
  &lt;a href=&quot;http://www.linux-france.org/article/these/gpl.html&quot;&gt;Linux-France/GPL&lt;/a&gt;￼&lt;br&gt;&lt;br&gt;￼Une langue qui vous intéresse n&apos;est pas traduite? Rejoignez l&apos;équipe de traduction dès aujourd&apos;hui ! &lt;br&gt;Allez sur￼ ￼&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;￼http://forum.psi-im.org/forum/14&lt;/a&gt; pour plus de détails!</translation>
+    </message>
+    <message>
+        <source>Founder, Patcher and MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lead Patcher and Plugins Writer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

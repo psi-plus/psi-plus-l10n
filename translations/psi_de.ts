@@ -113,7 +113,7 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Founder, Patcher and MS Windows x86 Packager</source>
-        <translation>Gründer, Patcher und MS Windows x86 Packager</translation>
+        <translation type="obsolete">Gründer, Patcher und MS Windows x86 Packager</translation>
     </message>
     <message>
         <source>Founder and Lead Patcher</source>
@@ -137,11 +137,11 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Patcher</source>
-        <translation>Patcher</translation>
+        <translation type="obsolete">Patcher</translation>
     </message>
     <message>
         <source>Ubuntu Packager and Patcher</source>
-        <translation>Ubuntu Packager und Patcher</translation>
+        <translation type="obsolete">Ubuntu Packager und Patcher</translation>
     </message>
     <message>
         <source>Ubuntu Packager</source>
@@ -244,6 +244,18 @@ Erik-B. Ernst&lt;br&gt;
 Fehler gefunden oder Verbesserungsvorschläge?&lt;br&gt;
 Kontaktaufnahme zur deutschen Übersetzung per Mailingliste (bitte auf Englisch):&lt;br&gt;
 &lt;a href=&quot;mailto:psi-lang@lists.affinix.com&quot;&gt;psi-lang@lists.affinix.com&lt;/a&gt;.</translation>
+    </message>
+    <message>
+        <source>Founder, Patcher and MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lead Patcher and Plugins Writer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

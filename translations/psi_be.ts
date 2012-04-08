@@ -112,10 +112,6 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Founder, Patcher and MS Windows x86 Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Founder and Lead Patcher</source>
         <translation type="unfinished"></translation>
     </message>
@@ -133,14 +129,6 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Patcher</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ubuntu Packager and Patcher</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -242,6 +230,18 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt;.&lt;br&gt;
 Актуальны пераклад можна сьцягнуць тут: &lt;a href=&quot;http://code.google.com/p/psi-be/downloads/list&quot;&gt;http://psi-be.googlecode.com&lt;/a&gt;.</translation>
+    </message>
+    <message>
+        <source>Founder, Patcher and MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lead Patcher and Plugins Writer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

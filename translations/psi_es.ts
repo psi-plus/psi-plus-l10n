@@ -114,10 +114,6 @@ Copyright © 2001-2012 El equipo de Psi&lt;br&gt;⏎ </translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Founder, Patcher and MS Windows x86 Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Founder and Lead Patcher</source>
         <translation type="unfinished"></translation>
     </message>
@@ -139,11 +135,11 @@ Copyright © 2001-2012 El equipo de Psi&lt;br&gt;⏎ </translation>
     </message>
     <message>
         <source>Patcher</source>
-        <translation>Parche</translation>
+        <translation type="obsolete">Parche</translation>
     </message>
     <message>
         <source>Ubuntu Packager and Patcher</source>
-        <translation>Paquete de Ubuntu y parche</translation>
+        <translation type="obsolete">Paquete de Ubuntu y parche</translation>
     </message>
     <message>
         <source>Ubuntu Packager</source>
@@ -260,6 +256,18 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
 
 ¡Únete al equipo de traducción! Visita &lt;a href=&quot;http://psi-im.org/forum/forum/3&quot;&gt;http://psi-im.org/forum/forum/3&lt;/a&gt; para más detalles!
 </translation>
+    </message>
+    <message>
+        <source>Founder, Patcher and MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lead Patcher and Plugins Writer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -112,10 +112,6 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Founder, Patcher and MS Windows x86 Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Founder and Lead Patcher</source>
         <translation type="unfinished"></translation>
     </message>
@@ -133,14 +129,6 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Patcher</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ubuntu Packager and Patcher</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -240,6 +228,18 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
 &amp;nbsp;&amp;nbsp; &lt;a href=&quot;http://www.connesso.org&quot;&gt;http://www.connesso.org&lt;/a&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp; Jabber: &lt;a href=&quot;jabber:ylothar@connesso.org&quot;&gt;ylothar@connesso.org&lt;/a&gt;&lt;br&gt;
 &lt;br&gt;Unisciti al team di traduzione oggi! Visita il sito &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;http://forum.psi-im.org/forum/14&lt;/a&gt;per maggiori dettagli!</translation>
+    </message>
+    <message>
+        <source>Founder, Patcher and MS Windows Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lead Patcher and Plugins Writer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patcher and Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
