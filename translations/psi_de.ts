@@ -224,7 +224,7 @@ Join the translation team today! Go to
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <translation>Deutsche Übersetzung&lt;br&gt;
-&lt;small&gt;Letzte Aktualisierung: 08.04.2012&lt;/small&gt;&lt;br&gt;
+&lt;small&gt;Letzte Aktualisierung: 09.04.2012&lt;/small&gt;&lt;br&gt;
 &lt;br&gt;
 M.Kiesel&lt;br&gt;
 Jaan Klatt&lt;br&gt;
@@ -1231,7 +1231,7 @@ Beispiele:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&
     <name>AttentionPlugin</name>
     <message>
         <source> sends Attention message to you!</source>
-        <translation type="unfinished"/>
+        <translation> sendet Ihnen eine Aufmerksamkeits Nachricht!</translation>
     </message>
     <message>
         <source>Send Attention</source>
@@ -1239,7 +1239,7 @@ Beispiele:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Klangdatei wählen</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
@@ -1264,7 +1264,8 @@ Beispiele:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&
     <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
-        <translation type="unfinished"/>
+        <translation>Dieses Plugin dient dazu, spezielle Nachrichten wie Aufmerksamkeiten (Attentions) zu Senden und Empfangen.
+Um korrekt zu funktionieren, benötigt das Plugin einen Client auf der Gegenseite, der  XEP-0224 (z.B.: Pidgin, Miranda IM mit Nudge plugin) unterstützt.</translation>
     </message>
 </context>
 <context>
@@ -1339,7 +1340,8 @@ To work correctly, the plugin requires that the client of the other part support
     <message>
         <source>You can also specify a part of JID
 (without any additional symbols)</source>
-        <translation type="unfinished"/>
+        <translation>Sie können auch einen Teil der JID
+(ohne zusätzliche Symbole) definieren</translation>
     </message>
     <message>
         <source>Disable for your accounts (specify your JIDs):</source>
@@ -1359,11 +1361,11 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>times (-1=infinite)</source>
-        <translation type="unfinished"/>
+        <translation>mal (-1=unendlich)</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -3428,32 +3430,33 @@ Fortfahren?</translation>
     <name>EditItemDlg</name>
     <message>
         <source>Watch For...</source>
-        <translation type="unfinished"/>
+        <translation>Halte Ausschau nach...</translation>
     </message>
     <message>
         <source>JID*</source>
-        <translation type="unfinished"/>
+        <translation>JID*</translation>
     </message>
     <message>
         <source>Text**</source>
-        <translation type="unfinished"/>
+        <translation>Text**</translation>
     </message>
     <message>
         <source>*Regular expressions can be used</source>
-        <translation type="unfinished"/>
+        <translation>*Reguläre Ausdrücke können genutzt werden</translation>
     </message>
     <message>
         <source>**List of words can be used.
   Each word can use regular expression</source>
-        <translation type="unfinished"/>
+        <translation>**Wörterlisten können genutzt werden.
+  Jedes Wort kann reg. Ausdrücke nutzen</translation>
     </message>
     <message>
         <source>Use for</source>
-        <translation type="unfinished"/>
+        <translation>Verwende für</translation>
     </message>
     <message>
         <source>Chats</source>
-        <translation type="unfinished"/>
+        <translation>Chats</translation>
     </message>
     <message>
         <source>Groupchats</source>
@@ -3461,19 +3464,19 @@ Fortfahren?</translation>
     </message>
     <message>
         <source>Always play sound</source>
-        <translation type="unfinished"/>
+        <translation>Immer Klang abspielen</translation>
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="unfinished"/>
+        <translation>Klang:</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Klangdatei wählen</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Klangdatei (*.wav)</translation>
     </message>
 </context>
 <context>
@@ -3507,11 +3510,11 @@ Fortfahren?</translation>
     </message>
     <message>
         <source>User Name*:</source>
-        <translation type="unfinished"/>
+        <translation>Benutzername*:</translation>
     </message>
     <message>
         <source>Password*:</source>
-        <translation type="unfinished"/>
+        <translation>Kennwort*:</translation>
     </message>
     <message>
         <source>PostData**:</source>
@@ -3523,15 +3526,15 @@ Fortfahren?</translation>
     </message>
     <message>
         <source>RegExp**:</source>
-        <translation type="unfinished"/>
+        <translation>Reg. Ausdr.**:</translation>
     </message>
     <message>
         <source>*for FTP servers only</source>
-        <translation type="unfinished"/>
+        <translation>*nur für FTP Server</translation>
     </message>
     <message>
         <source>**for HTTP servers only</source>
-        <translation type="unfinished"/>
+        <translation>**nur für HTTP Server</translation>
     </message>
     <message>
         <source>Use proxy server</source>
@@ -3768,7 +3771,7 @@ Wenn Sie die Anforderung zulassen möchten, drücken Sie bitte &lt;bestätigen&g
     </message>
     <message>
         <source>%1 uptime is %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 ist online seit %2</translation>
     </message>
     <message>
         <source>%1 is online!</source>
@@ -3931,7 +3934,7 @@ Wenn Sie die Anforderung zulassen möchten, drücken Sie bitte &lt;bestätigen&g
     </message>
     <message>
         <source>Default JID mode ignore list:</source>
-        <translation type="unfinished"/>
+        <translation>Standard JID Modus Ingorierliste:</translation>
     </message>
     <message>
         <source>General</source>
@@ -3939,15 +3942,15 @@ Wenn Sie die Anforderung zulassen möchten, drücken Sie bitte &lt;bestätigen&g
     </message>
     <message>
         <source>Show joins</source>
-        <translation type="unfinished"/>
+        <translation>Zeige Beitritte</translation>
     </message>
     <message>
         <source>Show initial joins</source>
-        <translation type="unfinished"/>
+        <translation>Zeige initiale Beitritte</translation>
     </message>
     <message>
         <source>Show status with priority</source>
-        <translation type="unfinished"/>
+        <translation>Zeige Status mit Priorität</translation>
     </message>
     <message>
         <source>Show roles and affiliations changes</source>
@@ -3959,45 +3962,47 @@ Wenn Sie die Anforderung zulassen möchten, drücken Sie bitte &lt;bestätigen&g
     </message>
     <message>
         <source>Hide auto-join conferences</source>
-        <translation type="unfinished"/>
+        <translation>Verstecke autom. beigetretene Konferenzen</translation>
     </message>
     <message>
         <source>Enable HTML rendering in MUC chat window</source>
-        <translation type="unfinished"/>
+        <translation>Aktiviere HTML Rendering im MUC Chatfenster</translation>
     </message>
     <message>
         <source>Automatically accept the default room configuration</source>
-        <translation type="unfinished"/>
+        <translation>Automatisch die vorgegebene Raumkonfiguration akzeptieren</translation>
     </message>
     <message>
         <source>Automatically accept the default room configuration when a new room is created</source>
-        <translation type="unfinished"/>
+        <translation>Automatisch die vorgegebene Raumkonfiguration akzeptieren, wenn ein neuer Raum erstellt wurde</translation>
     </message>
     <message>
         <source>Automatically open the configuration dialog when a new room is created</source>
-        <translation type="unfinished"/>
+        <translation>Automatisch den Raumkonfigurationsdialog öffnen, wenn ein neuer Raum erstellt wurde</translation>
     </message>
     <message>
         <source>Automatically open the configuration dialog when a new room is created.
 This option only has effect if accept-defaults is false.</source>
-        <translation type="unfinished"/>
+        <translation>Automatisch den Raumkonfigurationsdialog öffnen, wenn ein neuer Raum erstellt wurde.
+Diese Option zeigt nur Wirkung, wenn automatisches Akzeptieren der Vorgaben abgewählt wurde.</translation>
     </message>
     <message>
         <source>Disable autojoin to folowing conferences:
 (specify JIDs)</source>
-        <translation type="unfinished"/>
+        <translation>Deaktiviere automatisches Beitreten bei den 
+folgenden Konferenzen (JIDs eingeben)</translation>
     </message>
     <message>
         <source>MUC leave status message:</source>
-        <translation type="unfinished"/>
+        <translation>MUC verlassen Statusnachricht:</translation>
     </message>
     <message>
         <source>Place MUC roster at left</source>
-        <translation type="unfinished"/>
+        <translation>Platziere MUC Kontaktliste links</translation>
     </message>
     <message>
         <source>Show groups</source>
-        <translation type="unfinished"/>
+        <translation>Zeige Gruppen</translation>
     </message>
     <message>
         <source>Use slim group heading</source>
@@ -8348,7 +8353,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Place popups at left</source>
-        <translation>Plaziere Popups auf der linken Seite</translation>
+        <translation>Platziere Popups auf der linken Seite</translation>
     </message>
     <message>
         <source>Misc</source>
@@ -8367,7 +8372,7 @@ Tags: %1</source>
     <name>OptRoster</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished"/>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
@@ -8399,7 +8404,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Enable roster avatar frame</source>
-        <translation type="unfinished"/>
+        <translation>Aktiviere Kontaktlisten-Avatar Rahmen</translation>
     </message>
     <message>
         <source>Autohide roster after</source>
@@ -8490,7 +8495,7 @@ Tags: %1</source>
     <name>OptShortcuts</name>
     <message>
         <source>OptShortcutsUI</source>
-        <translation type="unfinished"/>
+        <translation>OptShortcutsUI</translation>
     </message>
     <message>
         <source>Description</source>
@@ -8521,7 +8526,7 @@ Tags: %1</source>
     <name>OptSound</name>
     <message>
         <source>OptSoundUI</source>
-        <translation type="unfinished"/>
+        <translation>OptSoundUI</translation>
     </message>
     <message>
         <source>Player:</source>
@@ -8663,7 +8668,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished"/>
+        <translation>Online</translation>
     </message>
     <message>
         <source>Free for Chat</source>
@@ -8683,11 +8688,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Status menus</source>
-        <translation type="unfinished"/>
+        <translation>Status Menüs</translation>
     </message>
     <message>
         <source>Show presets in menus:</source>
@@ -8747,11 +8752,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"/>
+        <translation>Name:</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished"/>
+        <translation>Status:</translation>
     </message>
     <message>
         <source>Priority:</source>
@@ -8836,7 +8841,7 @@ Optionen-Namen dürfen weder leer sein, noch auf &quot;.&quot; enden oder &quot;
     </message>
     <message>
         <source>Allow receiving one Attention from the same contact every</source>
-        <translation type="unfinished"/>
+        <translation>Erlaube Empfang einer Aufmerksamkeit (Attention) vom selben Kontakt alle</translation>
     </message>
     <message>
         <source>sec</source>
@@ -8856,16 +8861,17 @@ Optionen-Namen dürfen weder leer sein, noch auf &quot;.&quot; enden oder &quot;
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts
 is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation type="unfinished"/>
+        <translation>Wenn Sie dieses Plugin das erste Mal nutzen, stellen Sie sicher, dass alle Ihre Konten
+online sind und drücken Sie dann &quot;Geburtstage aktualisieren&quot;. Dies dauert einen Moment.</translation>
     </message>
     <message>
         <source>Update Birthdays</source>
-        <translation type="unfinished"/>
+        <translation>Geburtstage aktualisieren</translation>
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
@@ -8877,7 +8883,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Start notifying</source>
-        <translation type="unfinished"/>
+        <translation>Beginne Benachrichtigung</translation>
     </message>
     <message>
         <source>days in advance</source>
@@ -8893,15 +8899,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Update birthdays every</source>
-        <translation type="unfinished"/>
+        <translation>Aktualisiere Geburtstage alle</translation>
     </message>
     <message>
         <source>days (0 - automatic update disabled)</source>
-        <translation type="unfinished"/>
+        <translation>Tage (0 = autom. Aktualisierung deaktiviert)</translation>
     </message>
     <message>
         <source>Remind for contacts from active accounts only</source>
-        <translation type="unfinished"/>
+        <translation>Erinnere nur für Kontakte aktiver Konten</translation>
     </message>
     <message>
         <source>Check birthdays on startup</source>
@@ -8909,7 +8915,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Options</source>
@@ -8921,11 +8927,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Use proxy settings from account</source>
-        <translation type="unfinished"/>
+        <translation>Nutze Proxy Einstellungen des Kontos</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Contact menu</source>
@@ -8937,15 +8943,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Supported accounts:</source>
-        <translation type="unfinished"/>
+        <translation>Unterstützte Konten:</translation>
     </message>
     <message>
         <source>There is no supported accounts!</source>
-        <translation type="unfinished"/>
+        <translation>Es gibt keine unterstützten Konten!</translation>
     </message>
     <message>
         <source>Account Settings</source>
@@ -8979,7 +8985,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Auto-accept suggestions</source>
-        <translation type="unfinished"/>
+        <translation>Autom. Vorschläge akzeptieren</translation>
     </message>
     <message>
         <source> Enable multiple applications signed in
@@ -9004,7 +9010,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation type="unfinished"/>
+        <translation>&quot;Mail Benachrichtigungen&quot;-Option aktivieren!</translation>
     </message>
     <message>
         <source>Mail Notifications Settings</source>
@@ -9016,7 +9022,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Show new messages only</source>
-        <translation type="unfinished"/>
+        <translation>Zeige nur neue Nachrichten</translation>
     </message>
     <message>
         <source>Start program:</source>
@@ -9024,7 +9030,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Add</source>
@@ -9036,7 +9042,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Per contact delay between the popup notifications of the same events</source>
@@ -9044,7 +9050,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Delay between popups</source>
-        <translation type="unfinished"/>
+        <translation>Verzögerung zwischen Popups</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -9080,7 +9086,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Main</source>
@@ -9088,7 +9094,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Question:</source>
-        <translation type="unfinished"/>
+        <translation>Frage:</translation>
     </message>
     <message>
         <source>Answer:</source>
@@ -9100,7 +9106,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>MUC</source>
-        <translation type="unfinished"/>
+        <translation>MUC</translation>
     </message>
     <message>
         <source>Enable Stop Spam for private messages in MUC</source>
@@ -9116,11 +9122,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Admin</source>
-        <translation type="unfinished"/>
+        <translation>Admin</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation type="unfinished"/>
+        <translation>Mitglied</translation>
     </message>
     <message>
         <source>None</source>
@@ -9140,11 +9146,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="unfinished"/>
+        <translation>Besucher</translation>
     </message>
     <message>
         <source>Block all private messages</source>
-        <translation type="unfinished"/>
+        <translation>Blockiere alle privaten Nachrichten</translation>
     </message>
     <message>
         <source>Send message:</source>
@@ -9160,7 +9166,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>View Log</source>
-        <translation type="unfinished"/>
+        <translation>Zeige Log</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -9172,7 +9178,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>times</source>
-        <translation type="unfinished"/>
+        <translation>mal</translation>
     </message>
     <message>
         <source>Timeout to reset counter:</source>
@@ -9184,11 +9190,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Log blocked messages to contact&apos;s history</source>
-        <translation type="unfinished"/>
+        <translation>Logge geblockte Nachrichten im Verlauf des Kontakts</translation>
     </message>
     <message>
         <source>Del</source>
-        <translation type="unfinished"/>
+        <translation>Entf</translation>
     </message>
     <message>
         <source>Disable stopspam, if don't match any rule above
@@ -9197,11 +9203,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Delete selected</source>
@@ -9229,7 +9235,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Authorizing...</source>
@@ -9253,7 +9259,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Uploading</source>
-        <translation type="unfinished"/>
+        <translation>Beim Hochladen</translation>
     </message>
     <message>
         <source>Error! %1</source>
@@ -9261,14 +9267,14 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Cookies are removed</source>
-        <translation type="unfinished"/>
+        <translation>Cookies sind entfernt</translation>
     </message>
 </context>
 <context>
     <name>OptionsDlg</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Einstellungen</translation>
     </message>
 </context>
 <context>
@@ -9291,11 +9297,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Request receipts from contacts on each message.</source>
-        <translation type="unfinished"/>
+        <translation>Fordere (automatische) Übermittlungsbestätigungen für jede Nachricht an Kontakte an.</translation>
     </message>
     <message>
         <source>Send receipts to contacts by request.</source>
-        <translation type="unfinished"/>
+        <translation>Sende angeforderte Übermittlungsbestätigungen an Kontakte.</translation>
     </message>
     <message>
         <source>Enables remote controlling your client from other locations</source>
@@ -9488,11 +9494,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Information</translation>
     </message>
     <message>
         <source>Some of the options you changed will only have full effect upon restart.</source>
-        <translation type="unfinished"/>
+        <translation>Einige Ihrer geänderten Einstellungen werden erst nach einem Neustart vollständig in Kraft treten.</translation>
     </message>
     <message>
         <source>Default</source>
