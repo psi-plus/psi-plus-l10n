@@ -110,17 +110,17 @@ case "${1}" in
     rm translations.pro
 
     echo "HEADERS = \\" >> translations.pro
-    find "${PSIPLUS_DIR}" -type f -name "*.h" | \
+    find "${PSIPLUS_DIR}/iris" "${PSIPLUS_DIR}/src" -type f -name "*.h" | \
         while read var; do echo "  ${var} \\" >> translations.pro; done
     echo "  ${CUR_DIR}/tmp/*.h" >> translations.pro
 
     echo "SOURCES = \\" >> translations.pro
-    find "${PSIPLUS_DIR}" -type f -name "*.cpp" | \
+    find "${PSIPLUS_DIR}/iris" "${PSIPLUS_DIR}/src" -type f -name "*.cpp" | \
         while read var; do echo "  ${var} \\" >> translations.pro; done
     echo "  ${CUR_DIR}/tmp/*.cpp" >> translations.pro
 
     echo "FORMS = \\" >> translations.pro
-    find "${PSIPLUS_DIR}" -type f -name "*.ui" | \
+    find "${PSIPLUS_DIR}/iris" "${PSIPLUS_DIR}/src" -type f -name "*.ui" | \
         while read var; do echo "  ${var} \\" >> translations.pro; done
     echo "  ${CUR_DIR}/tmp/*.ui" >> translations.pro
 
