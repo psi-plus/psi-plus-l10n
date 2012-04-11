@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2012-03-24
+# Updated: 2012-04-11
 # Version: N/A
 
 export CUR_DIR="${PWD}/$(dirname ${0})"
@@ -90,33 +90,49 @@ case "${1}" in
         echo;
     fi
 
+    # beginning of magical hack
+    cd "${CUR_DIR}"
+    rm -fr tmp
+    mkdir tmp
+    cd tmp/
+
+    cp "${PSIPLUS_DIR}/src/patches/mac/3030-psi-mac-sparkle.diff" ./ || exit 1
+    cp "${PSIPLUS_DIR}/src/psiactionlist.cpp" ./ || exit 1
+    cp "${PSIPLUS_DIR}/src/mainwin.cpp" ./ || exit 1
+    patch -f -p2 < 3030-psi-mac-sparkle.diff > /dev/null
+
+    cd "${PSIPLUS_DIR}/src"
+    python ../admin/update_options_ts.py ../options/default.xml > \
+        "${CUR_DIR}/tmp/option_translations.cpp"
+    # ending of magical hack
+
     cd "${CUR_DIR}"
     rm translations.pro
 
     echo "HEADERS = \\" >> translations.pro
     find "${PSIPLUS_DIR}" -type f -name "*.h" | \
         while read var; do echo "  ${var} \\" >> translations.pro; done
-    echo "  ." >> translations.pro
+    echo "  ${CUR_DIR}/tmp/*.h" >> translations.pro
 
     echo "SOURCES = \\" >> translations.pro
     find "${PSIPLUS_DIR}" -type f -name "*.cpp" | \
         while read var; do echo "  ${var} \\" >> translations.pro; done
-    echo "  ." >> translations.pro
+    echo "  ${CUR_DIR}/tmp/*.cpp" >> translations.pro
 
     echo "FORMS = \\" >> translations.pro
     find "${PSIPLUS_DIR}" -type f -name "*.ui" | \
         while read var; do echo "  ${var} \\" >> translations.pro; done
-    echo "  ." >> translations.pro
+    echo "  ${CUR_DIR}/tmp/*.ui" >> translations.pro
 
     echo "TRANSLATIONS = \\" >> translations.pro
     echo translations/*.ts >> translations.pro
 
-    lupdate ./translations.pro
+    lupdate -verbose ./translations.pro
 
 ;;
 "tr_cl")
 
-    lupdate -no-obsolete ./translations.pro
+    lupdate -verbose -no-obsolete ./translations.pro
 
 ;;
 "tr_push")

@@ -7452,6 +7452,13 @@ Incoming event(s) from:</source>
     </message>
 </context>
 <context>
+    <name>MainWin::Private</name>
+    <message>
+        <source>Diagnostics</source>
+        <translation type="unfinished">Chẩn đoán</translation>
+    </message>
+</context>
+<context>
     <name>MainWindow</name>
     <message>
         <source>New</source>
@@ -11813,6 +11820,14 @@ Lý do : %1.</translation>
         <source>Help</source>
         <translation>Trợ giúp</translation>
     </message>
+    <message>
+        <source>Check for Updates...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Check for Updates...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -14804,6 +14819,381 @@ Lý do : %1</translation>
     <message>
         <source>Unexpected HTTP status code: %1</source>
         <translation>Gặp mã trạng thái HTTP bất thường: %1</translation>
+    </message>
+</context>
+<context>
+    <name>Shortcuts</name>
+    <message>
+        <source>Action List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Service Discovery</source>
+        <translation type="unfinished">Tìm dịch vụ</translation>
+    </message>
+    <message>
+        <source>Add Contact</source>
+        <translation type="unfinished">Thêm liên lạc</translation>
+    </message>
+    <message>
+        <source>New Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join Group Chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account Setup</source>
+        <translation type="unfinished">Thiết lập tài khoản</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished">Tùy chọn</translation>
+    </message>
+    <message>
+        <source>File Transfer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toolbars</source>
+        <translation type="unfinished">Thanh công cụ</translation>
+    </message>
+    <message>
+        <source>XML Console</source>
+        <translation type="unfinished">Bàn giao tiếp XML</translation>
+    </message>
+    <message>
+        <source>Change Profile</source>
+        <translation type="unfinished">Đổi hồ sơ</translation>
+    </message>
+    <message>
+        <source>Play Sounds</source>
+        <translation type="unfinished">Phát âm thanh</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation type="unfinished">Thoát</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">Trạng thái</translation>
+    </message>
+    <message>
+        <source>Enable Groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Event Notifier</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Groups</source>
+        <translation type="unfinished">Xem nhóm</translation>
+    </message>
+    <message>
+        <source>Show Offline Contacts</source>
+        <translation type="unfinished">Hiện liên lạc ngoại tuyến</translation>
+    </message>
+    <message>
+        <source>Show Away Contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Hidden Contacts</source>
+        <translation type="unfinished">Hiện liên lạc ẩn</translation>
+    </message>
+    <message>
+        <source>Show Agents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Self</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Status Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Publish Tune</source>
+        <translation type="unfinished">Xuất bản điệu</translation>
+    </message>
+    <message>
+        <source>Active contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status Chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status Online</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status Away</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status XA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status DND</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status Invisible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status Offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reconnect all accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Mood</source>
+        <translation type="unfinished">Đặt tâm trạng</translation>
+    </message>
+    <message>
+        <source>Set Activity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Geolocation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>README</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi Forum (Online)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Wiki</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Home Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help Psi MUC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Report Bug</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About Psi</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About PsiMedia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About Qt</source>
+        <translation type="unfinished">Giới thiệu về Qt</translation>
+    </message>
+    <message>
+        <source>QCA plugin diag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QCA key store diag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shortcuts in the chat dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to the next tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to the previous tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find text next</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find text previous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sends the message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear the text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change to quick command mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show last message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show first message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show next message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show prev message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change case of letters in the chat edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimize active chat window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shortcuts in the contactlist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Assign a custom avatar to the selected contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove custom avatar from the selected contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete the selected contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open a chat to the selected contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send a message to the selected contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Receive incoming event</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename the selected contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Log on to the selected transport</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common actions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close the current window/tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide the current window/tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open the message history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show the user info of the contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shortcuts available from outside of the application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/hide the application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bring the application to front</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send new message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide all active windows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shortcuts in the message dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send the message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shortcuts in the status dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set the status message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shortcuts in the service discovery dialog</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
