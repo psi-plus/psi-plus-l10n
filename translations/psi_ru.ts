@@ -112,10 +112,6 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;</translation>
         <translation>Активные участники проекта представлены ниже:</translation>
     </message>
     <message>
-        <source>Founder, Patcher and MS Windows x86 Packager</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Founder and Lead Patcher</source>
         <translation>Основатель и ведущий автор патчей</translation>
     </message>
@@ -134,14 +130,6 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;</translation>
     <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
         <translation>Автор патчей, разработчик плагинов и сопровождающий пакета для Fedora</translation>
-    </message>
-    <message>
-        <source>Patcher</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Ubuntu Packager and Patcher</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ubuntu Packager</source>
@@ -5998,10 +5986,6 @@ You can select or deselect a contact for history removal from the context menu o
 <context>
     <name>HomeDirMigration</name>
     <message>
-        <source>Psi+ Import Wizard</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -6436,14 +6420,6 @@ The plugin has a number of simple settings that can help you:
     <message>
         <source>The image size is too large.</source>
         <translation>Размер картинки слишком большой.</translation>
-    </message>
-    <message>
-        <source>Image :)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
@@ -13855,51 +13831,51 @@ Description: </source>
     </message>
     <message>
         <source>No OTR Message</source>
-        <translation>Не OTR сообщение</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OTR TaggedPlaintextMessage</source>
-        <translation>OTR TaggedPlaintextMessage</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OTR QueryMessage</source>
-        <translation>OTR QueryMessage</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OTR DH-Commit Message</source>
-        <translation>OTR DH-Commit Message</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OTR DH-Key Message</source>
-        <translation>OTR DH-Key Message</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OTR Reveal Signature Message</source>
-        <translation>OTR Reveal Signature Message</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OTR Signature Message</source>
-        <translation>OTR Signature Message</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OTR Version 1 Key Exchange Message</source>
-        <translation>OTR Version 1 Key Exchange Message</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OTR Data Message</source>
-        <translation>OTR Data Message</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OTR Error Message</source>
-        <translation>OTR Error Message</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OTR Unknown Message</source>
-        <translation>OTR Unknown Message</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unknown OTR Message Type</source>
-        <translation>Неизвестный тип OTR сообщения</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Encrypting message to %1 failed.
@@ -13909,11 +13885,11 @@ The message was not sent.</source>
     </message>
     <message>
         <source>Received %1 [%2]</source>
-        <translation>Получено %1 [%2]</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Session ID: </source>
-        <translation>ID сессии: </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>plaintext</source>
@@ -17392,7 +17368,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Fingerprint for %1:</source>
-        <translation>Отпечаток для %1:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Account: </source>
@@ -17437,6 +17413,26 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Authentication failed.</source>
         <translation>Аутентификация не прошла.</translation>
+    </message>
+    <message>
+        <source>To authenticate via shared secret, enter a secret only known to you and %1.</source>
+        <translation>Для аутентификации используя общий секрет, задайте вопрос, ответ на который известен только вам и %1.</translation>
+    </message>
+    <message>
+        <source>%1 wants to authenticate you. To authenticate, enter your shared secret below.</source>
+        <translation>%1 хочет вас аутентифицировать. Для аутентификации ответьте на вопрос внизу.</translation>
+    </message>
+    <message>
+        <source>Shared secret</source>
+        <translation>Общий секрет</translation>
+    </message>
+    <message>
+        <source>&amp;Shared Secret:</source>
+        <translation>&amp;Общий секрет:</translation>
+    </message>
+    <message>
+        <source>%1&apos;s fingerprint:</source>
+        <translation>Отпечаток %1:</translation>
     </message>
 </context>
 <context>
@@ -17653,6 +17649,98 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Psi OTR</source>
         <translation>Psi+ OTR</translation>
+    </message>
+    <message>
+        <source>Off-the-Record Messaging plugin for Psi+</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Authors: %1</source>
+        <translation>Авторы: %1</translation>
+    </message>
+    <message>
+        <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Encryption</source>
+        <translation>Шифрование</translation>
+    </message>
+    <message>
+        <source>No one else can read your instant messages.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Authentication</source>
+        <translation>Аутентификация</translation>
+    </message>
+    <message>
+        <source>You are assured the correspondent is who you think it is.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Deniability</source>
+        <translation>Отрицание</translation>
+    </message>
+    <message>
+        <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Perfect forward secrecy</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>If you lose control of your private keys, no previous conversation is compromised.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>For further information, see &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Attempting to refresh the private conversation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Attempting to start a private conversation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Private conversation started</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unverified conversation started</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Private conversation lost</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Private conversation closed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>%1 has ended the private conversation with you; you should do the same.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Private conversation refreshed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unverified conversation refreshed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Contact authenticated</source>
+        <translation>Контакт аутентифицирован</translation>
+    </message>
+    <message>
+        <source>Contact not authenticated</source>
+        <translation>Контакт не аутентифицирован</translation>
     </message>
 </context>
 <context>
