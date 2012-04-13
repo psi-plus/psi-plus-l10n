@@ -185,7 +185,7 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;</translation>
     </message>
     <message>
         <source>Original End User Documentation</source>
-        <translation>Документация для конечного пользователя</translation>
+        <translation>Завершать сессию при уходе контакта в офлайн</translation>
     </message>
     <message>
         <source>Webmaster, Marketing</source>
@@ -17466,7 +17466,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Automatically start private messaging</source>
-        <translation>Атоматически запускать личные сообщения</translation>
+        <translation>Автоматически запускать личные сообщения</translation>
     </message>
     <message>
         <source>Require private messaging</source>
@@ -17474,7 +17474,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>End session when contact goes offline</source>
-        <translation>Завершать сессию для уходе контакта в офлайн</translation>
+        <translation>Завершать сессию при уходе контакта в офлайн</translation>
     </message>
 </context>
 <context>
@@ -17560,7 +17560,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation>Хотите удалить следующий отпечаток?</translation>
+        <translation>Хотите удалить следующий ключ?</translation>
     </message>
     <message>
         <source>Account: </source>
@@ -17576,7 +17576,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Are you sure you want to overwrite the following key?</source>
-        <translation>Хотите перезаписать следующий отпечаток?</translation>
+        <translation>Хотите перезаписать следующий ключ?</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -17652,7 +17652,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Off-the-Record Messaging plugin for Psi+</source>
-        <translation type="unfinished"/>
+        <translation>Плагин OTR для Psi+</translation>
     </message>
     <message>
         <source>Authors: %1</source>
@@ -17660,7 +17660,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
-        <translation type="unfinished"/>
+        <translation>Технология OTR позволяет проводить личную переписку, обеспечивая:</translation>
     </message>
     <message>
         <source>Encryption</source>
@@ -17668,7 +17668,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>No one else can read your instant messages.</source>
-        <translation type="unfinished"/>
+        <translation>Никто иной не сможет прочитать сообщения.</translation>
     </message>
     <message>
         <source>Authentication</source>
@@ -17676,7 +17676,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>You are assured the correspondent is who you think it is.</source>
-        <translation type="unfinished"/>
+        <translation>Уверенность в том, кто является собеседником.</translation>
     </message>
     <message>
         <source>Deniability</source>
@@ -17684,55 +17684,55 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
-        <translation type="unfinished"/>
+        <translation>Отправленные сообщения не имеют цифровой подписи, проверяемой третьим лицом. Кто угодно сможет подделать историю переписки так, чтобы сообщения выглядели приходящими от вас. Зато во время разговора ваш корреспондент будет уверен, что сообщения от вас подлинны и не подделаны.</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
-        <translation type="unfinished"/>
+        <translation>Совершенная прямая секретность</translation>
     </message>
     <message>
         <source>If you lose control of your private keys, no previous conversation is compromised.</source>
-        <translation type="unfinished"/>
+        <translation>Если вы потеряете контроль над личными ключами, предыдущая переписка не будет скомпрометирована.</translation>
     </message>
     <message>
         <source>For further information, see &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Дополнительная информация: &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</translation>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
-        <translation type="unfinished"/>
+        <translation>Попытка возобновить личную переписку</translation>
     </message>
     <message>
         <source>Attempting to start a private conversation</source>
-        <translation type="unfinished"/>
+        <translation>Попытка начать личную переписку</translation>
     </message>
     <message>
         <source>Private conversation started</source>
-        <translation type="unfinished"/>
+        <translation>Личная переписка начата</translation>
     </message>
     <message>
         <source>Unverified conversation started</source>
-        <translation type="unfinished"/>
+        <translation>Непроверенная переписка начата</translation>
     </message>
     <message>
         <source>Private conversation lost</source>
-        <translation type="unfinished"/>
+        <translation>Личная переписка утеряна</translation>
     </message>
     <message>
         <source>Private conversation closed</source>
-        <translation type="unfinished"/>
+        <translation>Личная переписка закрыта</translation>
     </message>
     <message>
         <source>%1 has ended the private conversation with you; you should do the same.</source>
-        <translation type="unfinished"/>
+        <translation>%1 завершил личную переписку с вами, сделайте то же самое.</translation>
     </message>
     <message>
         <source>Private conversation refreshed</source>
-        <translation type="unfinished"/>
+        <translation>Личная переписка возобновлена</translation>
     </message>
     <message>
         <source>Unverified conversation refreshed</source>
-        <translation type="unfinished"/>
+        <translation>Непроверенная переписка возобновлена</translation>
     </message>
     <message>
         <source>Contact authenticated</source>
