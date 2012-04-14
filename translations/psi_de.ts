@@ -55,7 +55,9 @@
 &lt;br&gt;
 Copyright © 2001-2012 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="unfinished"/>
+        <translation>Ein Plattformunabhängiger Jabber/XMPP Client für Jabber-Power-Nutzer.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2012 The Psi Team.&lt;br&gt;</translation>
     </message>
     <message>
         <source>http://psi-im.org</source>
@@ -212,7 +214,7 @@ Join the translation team today! Go to
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <translation>Deutsche Übersetzung&lt;br&gt;
-&lt;small&gt;Letzte Aktualisierung: 09.04.2012&lt;/small&gt;&lt;br&gt;
+&lt;small&gt;Letzte Aktualisierung: 14.04.2012&lt;/small&gt;&lt;br&gt;
 &lt;br&gt;
 M.Kiesel&lt;br&gt;
 Jaan Klatt&lt;br&gt;
@@ -1223,7 +1225,7 @@ Beispiele:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&
     </message>
     <message>
         <source>Send Attention</source>
-        <translation type="unfinished"/>
+        <translation>Aufmerksamkeit zusenden</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -1235,11 +1237,11 @@ Beispiele:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&
     </message>
     <message>
         <source>Attention Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Attention Plugin (Aufmerksamkeit)</translation>
     </message>
     <message>
         <source>You sent Attention message to %1</source>
-        <translation type="unfinished"/>
+        <translation>Sie haben eine Aufmerksamkeitsnachricht an %1 gesendet</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -1931,7 +1933,7 @@ Möchten Sie das Fenster trotzdem schließen?</translation>
     </message>
     <message>
         <source>Configure your chat theme here</source>
-        <translation type="unfinished"/>
+        <translation>Konfiguration der Chat Stil-Themen</translation>
     </message>
 </context>
 <context>
@@ -1942,15 +1944,15 @@ Möchten Sie das Fenster trotzdem schließen?</translation>
     </message>
     <message>
         <source>Chess Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Chess Plugin (Schach)</translation>
     </message>
     <message>
         <source>Chess!</source>
-        <translation type="unfinished"/>
+        <translation>Schach!</translation>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation type="unfinished"/>
+        <translation>Sie spielen bereits!</translation>
     </message>
     <message>
         <source>Your opponent has closed the board!
@@ -1959,15 +1961,15 @@ Möchten Sie das Fenster trotzdem schließen?</translation>
     </message>
     <message>
         <source>The game was rejected</source>
-        <translation type="unfinished"/>
+        <translation>Das Spiel wurde abgelehnt</translation>
     </message>
     <message>
         <source>You Lose.</source>
-        <translation type="unfinished"/>
+        <translation>Sie haben verloren.</translation>
     </message>
     <message>
         <source>You Win!</source>
-        <translation type="unfinished"/>
+        <translation>Sie haben gewonnen!</translation>
     </message>
     <message>
         <source>Draw!</source>
@@ -1975,31 +1977,31 @@ Möchten Sie das Fenster trotzdem schließen?</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="unfinished"/>
+        <translation>Unbekannter Fehler!</translation>
     </message>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
-        <translation type="unfinished"/>
+        <translation>Chess Plugin (Schach): Einladung von %1</translation>
     </message>
     <message>
         <source>You are allready playing!</source>
-        <translation type="unfinished"/>
+        <translation>Sie spielen bereits!</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Klangdatei wählen</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Klangdatei (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-Mail: </translation>
     </message>
     <message>
         <source>This plugin allows you to play chess with your friends.
@@ -2012,7 +2014,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>ChessWindow</name>
     <message>
         <source>Chess Board</source>
-        <translation type="unfinished"/>
+        <translation>Schachbrett</translation>
     </message>
     <message>
         <source>Moves:</source>
@@ -2025,15 +2027,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Load game</source>
-        <translation type="unfinished"/>
+        <translation>Spiel laden</translation>
     </message>
     <message>
         <source>Save game</source>
-        <translation type="unfinished"/>
+        <translation>Spiel speichern</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Beenden</translation>
     </message>
     <message>
         <source>Resign</source>
@@ -2041,19 +2043,19 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Enable sound</source>
-        <translation type="unfinished"/>
+        <translation>Klänge aktivieren</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>Datei</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="unfinished"/>
+        <translation>Spiel</translation>
     </message>
     <message>
         <source>*.chs</source>
-        <translation type="unfinished"/>
+        <translation>*.chs</translation>
     </message>
     <message>
         <source>  White     Black
@@ -2065,7 +2067,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CleanerMainWindow</name>
     <message>
         <source>Psi+ Cleaner</source>
-        <translation type="unfinished"/>
+        <translation>Psi+ Cleaner</translation>
     </message>
     <message>
         <source>History</source>
@@ -2113,7 +2115,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Close Psi Cleaner</source>
-        <translation type="unfinished"/>
+        <translation>Psi Cleaner schließen</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2145,7 +2147,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>History files: </source>
-        <translation type="unfinished"/>
+        <translation>Verlaufsdateien: </translation>
     </message>
     <message>
         <source>vCards: </source>
@@ -2220,7 +2222,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CleanerPlugin</name>
     <message>
         <source>Launch Cleaner</source>
-        <translation type="unfinished"/>
+        <translation>Cleaner ausführen</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2263,7 +2265,7 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
     <message>
         <source>Domain</source>
-        <translation type="unfinished"/>
+        <translation>Domain</translation>
     </message>
     <message>
         <source>Size</source>
@@ -2344,7 +2346,7 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
     <message>
         <source>Conference History</source>
-        <translation type="unfinished"/>
+        <translation>Konferenz Verlauf</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -2481,7 +2483,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Remove Authorization from Group</source>
-        <translation type="unfinished"/>
+        <translation>Autorisation für Gruppe entfernen</translation>
     </message>
     <message>
         <source>Send Status to Group</source>
@@ -2521,7 +2523,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"/>
+        <translation>Versteckt</translation>
     </message>
     <message>
         <source>Authorization</source>
@@ -2637,7 +2639,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished"/>
+        <translation>Aktion</translation>
     </message>
     <message>
         <source>Execute</source>
@@ -2653,7 +2655,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Auth request</source>
-        <translation type="unfinished"/>
+        <translation>Autorisierungs Anfrage</translation>
     </message>
     <message>
         <source>Auth grant</source>
@@ -2661,11 +2663,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Change domain</source>
-        <translation type="unfinished"/>
+        <translation>Domain ändern</translation>
     </message>
     <message>
         <source>Resolve nicks</source>
-        <translation type="unfinished"/>
+        <translation>Spitznamen auflösen</translation>
     </message>
     <message>
         <source>Move to group</source>
@@ -2705,11 +2707,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Please fill parameter field with new domain name</source>
-        <translation type="unfinished"/>
+        <translation>Bitte Parameterfeld mit neuem Domainnamen ausfüllen</translation>
     </message>
     <message>
         <source>Roster file</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktlistendatei</translation>
     </message>
     <message>
         <source>Save error!</source>
@@ -2733,7 +2735,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Nothing to do..</source>
-        <translation type="unfinished"/>
+        <translation>Nichts zu erledigen..</translation>
     </message>
     <message>
         <source>No contacts found in file %1</source>
@@ -3838,7 +3840,7 @@ Wenn Sie die Anforderung zulassen möchten, drücken Sie bitte &lt;bestätigen&g
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Tabs</translation>
     </message>
     <message>
         <source>Roster</source>
@@ -3874,7 +3876,7 @@ Wenn Sie die Anforderung zulassen möchten, drücken Sie bitte &lt;bestätigen&g
     </message>
     <message>
         <source>Scaled message icons</source>
-        <translation type="unfinished"/>
+        <translation>Skalierte Nachrichtensymbole</translation>
     </message>
     <message>
         <source>Show Avatar</source>
@@ -3998,7 +4000,7 @@ folgenden Konferenzen (JIDs eingeben)</translation>
     </message>
     <message>
         <source>Show status icons</source>
-        <translation type="unfinished"/>
+        <translation>Zeige Statussymbole</translation>
     </message>
     <message>
         <source>Show affiliation icons</source>
@@ -4006,7 +4008,7 @@ folgenden Konferenzen (JIDs eingeben)</translation>
     </message>
     <message>
         <source>Show client icons</source>
-        <translation type="unfinished"/>
+        <translation>Zeige Client Symbole</translation>
     </message>
     <message>
         <source>Show avatars</source>
@@ -4018,7 +4020,7 @@ folgenden Konferenzen (JIDs eingeben)</translation>
     </message>
     <message>
         <source>Sort style for contacts:</source>
-        <translation type="unfinished"/>
+        <translation>Sortierungsart für Kontakte:</translation>
     </message>
     <message>
         <source>Avatars size:</source>
@@ -4030,7 +4032,7 @@ folgenden Konferenzen (JIDs eingeben)</translation>
     </message>
     <message>
         <source>Resolve nicks on contact add</source>
-        <translation type="unfinished"/>
+        <translation>Spitznamen beim Hinzufügen von Kontakten auflösen</translation>
     </message>
     <message>
         <source>Lockdown roster</source>
@@ -4506,7 +4508,7 @@ ausgehende TCP-Verbindungen erlaubt sind.</translation>
     </message>
     <message>
         <source>%1%2/s</source>
-        <translation type="unfinished"/>
+        <translation>%1%2/s</translation>
     </message>
     <message>
         <source>%1h%2m%3s remaining</source>
@@ -4980,11 +4982,11 @@ Grund: %1</translation>
     </message>
     <message>
         <source>The topic has been set to</source>
-        <translation type="unfinished"/>
+        <translation>Das Thema wurde gesetzt auf</translation>
     </message>
     <message>
         <source> has unset the topic</source>
-        <translation type="unfinished"/>
+        <translation> hat das Thema entfernt</translation>
     </message>
     <message>
         <source> has set the topic to</source>
@@ -5020,7 +5022,7 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Bookmark conference</source>
-        <translation type="unfinished"/>
+        <translation>Lesezeichen für Konferenz erstellen</translation>
     </message>
 </context>
 <context>
@@ -5203,19 +5205,19 @@ Sie verlieren es so.</translation>
     </message>
     <message>
         <source>B</source>
-        <translation type="unfinished"/>
+        <translation>B</translation>
     </message>
     <message>
         <source>K</source>
-        <translation type="unfinished"/>
+        <translation>K</translation>
     </message>
     <message>
         <source>C</source>
-        <translation type="unfinished"/>
+        <translation>C</translation>
     </message>
     <message>
         <source>Q</source>
-        <translation type="unfinished"/>
+        <translation>Q</translation>
     </message>
     <message>
         <source>Error!</source>
@@ -5271,30 +5273,30 @@ You lost the game.</source>
     <name>GameModel</name>
     <message>
         <source>The first turn can be only H8.</source>
-        <translation type="unfinished"/>
+        <translation>Der erste Zug kann nur H8 sein</translation>
     </message>
 </context>
 <context>
     <name>GameSessions</name>
     <message>
         <source>%1: Invitation from %2</source>
-        <translation type="unfinished"/>
+        <translation>%1: Einladung von %2</translation>
     </message>
     <message>
         <source>Incorrect parameters</source>
-        <translation type="unfinished"/>
+        <translation>Fehlerhafte Parameter</translation>
     </message>
     <message>
         <source>You are allready playing!</source>
-        <translation type="unfinished"/>
+        <translation>Sie spielen bereits!</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
-        <translation type="unfinished"/>
+        <translation>Von: %1&lt;br/&gt;Das Spiel wurde abgelehnt</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;Game error.</source>
-        <translation type="unfinished"/>
+        <translation>Von: %1&lt;br/&gt;Spielfehler.</translation>
     </message>
 </context>
 <context>
@@ -5396,11 +5398,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>Area:</source>
-        <translation type="unfinished"/>
+        <translation>Areal:</translation>
     </message>
     <message>
         <source>A named area such as a campus or neighborhood</source>
-        <translation type="unfinished"/>
+        <translation>Ein Areal mit einer Bezeichnung wie Campus oder Nachbarschaft</translation>
     </message>
     <message>
         <source>Bearing:</source>
@@ -5416,7 +5418,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>A specific building on a street or in an area</source>
-        <translation type="unfinished"/>
+        <translation>Ein spezielles Gebäude an einer Straße oder in einem Areal</translation>
     </message>
     <message>
         <source>Country:</source>
@@ -5424,7 +5426,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>The nation where the user is located</source>
-        <translation type="unfinished"/>
+        <translation>Die Nation wo sich der Nutzer aufhält</translation>
     </message>
     <message>
         <source>Datum:</source>
@@ -5440,7 +5442,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>A natural-language name for or description of the location</source>
-        <translation type="unfinished"/>
+        <translation>Ein gebräuchlicher Name für oder eine Beschreibung des Ortes</translation>
     </message>
     <message>
         <source>Error:</source>
@@ -5456,7 +5458,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>A particular floor in a building</source>
-        <translation type="unfinished"/>
+        <translation>Ein bestimmtes Stockwerk in einem Gebäude</translation>
     </message>
     <message>
         <source>Latitude:</source>
@@ -5504,7 +5506,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>A particular room in a building</source>
-        <translation type="unfinished"/>
+        <translation>Ein bestimmter Raum in einem Gebäude</translation>
     </message>
     <message>
         <source>Street:</source>
@@ -5539,7 +5541,7 @@ You lost the game.</source>
     <name>GetPassDlg</name>
     <message>
         <source>Set Password</source>
-        <translation type="unfinished"/>
+        <translation>Passwort wählen</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -5600,7 +5602,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Settings for an account %1 are changed</source>
-        <translation type="unfinished"/>
+        <translation>Einstellungen für ein Konto %1 sind geändert</translation>
     </message>
     <message>
         <source>Shared Status for an account %1 is updated</source>
@@ -5612,19 +5614,19 @@ You lost the game.</source>
     </message>
     <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;mail.google.com - Eingehende E-Mail!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Klangdatei wählen</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Klangdatei (*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
-        <translation type="unfinished"/>
+        <translation>Ein Programm auswählen</translation>
     </message>
     <message>
         <source>Block gmail contact</source>
@@ -5632,7 +5634,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Autoren: </translation>
     </message>
     <message>
         <source>Shows notifications of new messages in your Gmailbox.
@@ -5644,30 +5646,30 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <name>Gnome3StatusWatcher</name>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Autoren: </translation>
     </message>
     <message>
         <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
-        <translation type="unfinished"/>
+        <translation>Dieses Plugin fügt die Unterstützung für GNOME 3 Präsenz Statusänderungen hinzu</translation>
     </message>
 </context>
 <context>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Klangdatei wählen</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Klangdatei (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-Mail: </translation>
     </message>
     <message>
         <source>This plugin allows you to play gomoku with your friends.
@@ -5766,7 +5768,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Configure your groupchat theme here</source>
-        <translation type="unfinished"/>
+        <translation>Konfigurieren Sie Ihr Gruppenchat Stil-Thema hier</translation>
     </message>
 </context>
 <context>
@@ -6140,7 +6142,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Client iconsets</source>
-        <translation type="unfinished"/>
+        <translation>Client-Symbole</translation>
     </message>
     <message>
         <source>&amp;Show Details</source>
@@ -6155,7 +6157,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -6179,7 +6181,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>XXX</source>
-        <translation type="unfinished"/>
+        <translation>XXX</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -6360,7 +6362,7 @@ The plugin has a number of simple settings that can help you:
     <name>ImagePlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Send Image</source>
@@ -6372,7 +6374,7 @@ The plugin has a number of simple settings that can help you:
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
-        <translation type="unfinished"/>
+        <translation>Bilder (*.png *.gif *.jpg *.jpeg *.ico)</translation>
     </message>
     <message>
         <source>The image size is too large.</source>
@@ -6402,7 +6404,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
-        <translation type="unfinished"/>
+        <translation>Bild %1 gesendet &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </translation>
     </message>
     <message>
         <source>Authors: </source>
@@ -6752,11 +6754,11 @@ ein. Er möchte %2 spielen.</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Entfernen</translation>
     </message>
     <message>
         <source>Make dir</source>
-        <translation type="unfinished"/>
+        <translation>Ordner erstellen</translation>
     </message>
     <message>
         <source>Get File</source>
@@ -6764,15 +6766,15 @@ ein. Er möchte %2 spielen.</translation>
     </message>
     <message>
         <source>Send File</source>
-        <translation type="unfinished"/>
+        <translation>Datei senden</translation>
     </message>
     <message>
         <source>Hash</source>
-        <translation type="unfinished"/>
+        <translation>Hash</translation>
     </message>
     <message>
         <source>Link</source>
-        <translation type="unfinished"/>
+        <translation>Link</translation>
     </message>
     <message>
         <source>Help</source>
@@ -6784,15 +6786,15 @@ ein. Er möchte %2 spielen.</translation>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="unfinished"/>
+        <translation>Statistiken</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Umbenennen</translation>
     </message>
     <message>
         <source>Move to...</source>
-        <translation type="unfinished"/>
+        <translation>Verschieben nach...</translation>
     </message>
     <message>
         <source>Remove Item</source>
@@ -6819,15 +6821,15 @@ ein. Er möchte %2 spielen.</translation>
     <name>JabberDiskPlugin</name>
     <message>
         <source>Jabber Disk</source>
-        <translation type="unfinished"/>
+        <translation>Jabber Disk</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-Mail: </translation>
     </message>
 </context>
 <context>
@@ -6838,15 +6840,15 @@ ein. Er möchte %2 spielen.</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Hinzufügen</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -7036,7 +7038,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"/>
+        <translation>Name:</translation>
     </message>
     <message>
         <source>Specifies, whether toolbar is enabled and visible.</source>
@@ -7052,7 +7054,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
     <message>
         <source>psi/arrowUp</source>
@@ -7083,11 +7085,11 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <name>MUCAffiliationsModel</name>
     <message>
         <source>JID</source>
-        <translation type="unfinished"/>
+        <translation>JID</translation>
     </message>
     <message>
         <source>Reason</source>
-        <translation type="unfinished"/>
+        <translation>Grund</translation>
     </message>
     <message>
         <source>Members</source>
@@ -7118,7 +7120,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Filter:</source>
-        <translation type="unfinished"/>
+        <translation>Filter:</translation>
     </message>
     <message>
         <source>Add</source>
@@ -7481,7 +7483,7 @@ Eingehende(s) Event(s) von:</translation>
     <name>MainWin::Private</name>
     <message>
         <source>Diagnostics</source>
-        <translation type="unfinished"/>
+        <translation>Diagnose</translation>
     </message>
 </context>
 <context>
@@ -7562,15 +7564,15 @@ Details: %1</translation>
     </message>
     <message>
         <source>JID (or part of JID)</source>
-        <translation type="unfinished"/>
+        <translation>JID (oder Teil von JID)</translation>
     </message>
     <message>
         <source>Watch for JIDs</source>
-        <translation type="unfinished"/>
+        <translation>Beobachte JID</translation>
     </message>
     <message>
         <source>Sounds (if empty default sound will be used)</source>
-        <translation type="unfinished"/>
+        <translation>Klänge (wenn leer werden Standardklänge verwendet)</translation>
     </message>
 </context>
 <context>
@@ -7701,7 +7703,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Disables the sending of message events such as &quot;Contact is Typing...&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Deaktiviere das Senden von Ereignisbenachrichtigungen wie &quot;Kontakt tippt gerade...&quot;</translation>
     </message>
     <message>
         <source>Do not send composing events</source>
@@ -7709,11 +7711,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Request receipts</source>
-        <translation type="unfinished"/>
+        <translation>Übermittlungsbestätigung anfragen</translation>
     </message>
     <message>
         <source>Send receipts</source>
-        <translation type="unfinished"/>
+        <translation>Übermittlungsbestätigung senden</translation>
     </message>
     <message>
         <source>Enable remote controlling from other locations</source>
@@ -7966,7 +7968,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>&lt;a href=&quot;thememanager://showmore/&quot;&gt;More themes&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;thememanager://showmore/&quot;&gt;Mehr Stil-Themen&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -8237,7 +8239,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Version: 0</source>
-        <translation type="unfinished"/>
+        <translation>Version: 0</translation>
     </message>
     <message>
         <source>Load this plugin</source>
@@ -8922,7 +8924,7 @@ online sind und drücken Sie dann &quot;Geburtstage aktualisieren&quot;. Dies da
     </message>
     <message>
         <source>Toolbar action</source>
-        <translation type="unfinished"/>
+        <translation>Werkzeugleisten Aktion</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9009,7 +9011,7 @@ online sind und drücken Sie dann &quot;Geburtstage aktualisieren&quot;. Dies da
     </message>
     <message>
         <source>Start program:</source>
-        <translation type="unfinished"/>
+        <translation>Starte Programm:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9029,7 +9031,7 @@ online sind und drücken Sie dann &quot;Geburtstage aktualisieren&quot;. Dies da
     </message>
     <message>
         <source>Per contact delay between the popup notifications of the same events</source>
-        <translation type="unfinished"/>
+        <translation>Verzögerung zwischen der Popup-Benachrichtigungen gleicher Ereignisse pro Kontakt</translation>
     </message>
     <message>
         <source>Delay between popups</source>
@@ -9438,11 +9440,11 @@ online sind und drücken Sie dann &quot;Geburtstage aktualisieren&quot;. Dies da
     <name>OptionsTabAppearanceThemes</name>
     <message>
         <source>Themes</source>
-        <translation type="unfinished"/>
+        <translation>Stil-Themen</translation>
     </message>
     <message>
         <source>Configure themes</source>
-        <translation type="unfinished"/>
+        <translation>Stil-Themen konfigurieren</translation>
     </message>
 </context>
 <context>
@@ -9713,7 +9715,7 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>Transport</source>
-        <translation type="unfinished"/>
+        <translation>Transport</translation>
     </message>
     <message>
         <source>vk.com</source>
@@ -9781,19 +9783,19 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="unfinished"/>
+        <translation>Lässt das Psi Hauptfenster im Vordergrund vor anderen Fenstern erscheinen.</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation type="unfinished"/>
+        <translation>Lässt die Größe des Psi Hauptfensters sich automatisch anpassen, um alle Kontakte anzuzeigen.</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="unfinished"/>
+        <translation>Normalerweise wird das Kontextmenü durch einen Rechtsklick auf einen Kontakt geöffnet. Diese Option wählen, wenn Sie lieber einen Linksklick verwenden möchten.</translation>
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation type="unfinished"/>
+        <translation>Zeigt die Menüleiste im Applikationsfenster.</translation>
     </message>
 </context>
 <context>
@@ -9866,7 +9868,7 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     <name>OptionsTabStatus</name>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Status preferences</source>
@@ -10030,47 +10032,47 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Allgemein</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished"/>
+        <translation>Benutzerkonto:</translation>
     </message>
     <message>
         <source>For all accounts</source>
-        <translation type="unfinished"/>
+        <translation>Für alle Konten</translation>
     </message>
     <message>
         <source>Deny iq version</source>
-        <translation type="unfinished"/>
+        <translation>Verweigere Versions-IQ-Abfrage</translation>
     </message>
     <message>
         <source>Deny iq time request</source>
-        <translation type="unfinished"/>
+        <translation>Verweigere Zeit-IQ-Abfrage</translation>
     </message>
     <message>
         <source>OS</source>
-        <translation type="unfinished"/>
+        <translation>BS</translation>
     </message>
     <message>
         <source>Template</source>
-        <translation type="unfinished"/>
+        <translation>Vorlagen</translation>
     </message>
     <message>
         <source>OS name</source>
-        <translation type="unfinished"/>
+        <translation>BS-Name</translation>
     </message>
     <message>
         <source>Client</source>
-        <translation type="unfinished"/>
+        <translation>Client</translation>
     </message>
     <message>
         <source>Client name</source>
-        <translation type="unfinished"/>
+        <translation>Client-Name</translation>
     </message>
     <message>
         <source>Client version</source>
-        <translation type="unfinished"/>
+        <translation>Client-Version</translation>
     </message>
     <message>
         <source>Caps node</source>
@@ -10082,23 +10084,23 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>Enable for:</source>
-        <translation type="unfinished"/>
+        <translation>Aktiviere für:</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Kontakte</translation>
     </message>
     <message>
         <source>Conferences</source>
-        <translation type="unfinished"/>
+        <translation>Konferenzen</translation>
     </message>
     <message>
         <source>Show popup at version iq</source>
-        <translation type="unfinished"/>
+        <translation>Zeige Popup bei Versions-IQ</translation>
     </message>
     <message>
         <source>never</source>
-        <translation type="unfinished"/>
+        <translation>niemals</translation>
     </message>
     <message>
         <source>if iq replaced</source>
@@ -10106,27 +10108,27 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>always</source>
-        <translation type="unfinished"/>
+        <translation>immer</translation>
     </message>
     <message>
         <source>Save queryes to log</source>
-        <translation type="unfinished"/>
+        <translation>Speichere Abfragen im Log</translation>
     </message>
     <message>
         <source>Logs</source>
-        <translation type="unfinished"/>
+        <translation>Logs</translation>
     </message>
     <message>
         <source>View log</source>
-        <translation type="unfinished"/>
+        <translation>Zeige Log</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Shortcut:</source>
-        <translation type="unfinished"/>
+        <translation>Tastenkombination:</translation>
     </message>
     <message>
         <source>Format:</source>
@@ -10134,19 +10136,19 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>File Name:</source>
-        <translation type="unfinished"/>
+        <translation>Dateiname:</translation>
     </message>
     <message>
         <source>Modify hotkey</source>
-        <translation type="unfinished"/>
+        <translation>Tastenkürzel ändern</translation>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="unfinished"/>
+        <translation>Ändern</translation>
     </message>
     <message>
         <source>Default action</source>
-        <translation type="unfinished"/>
+        <translation>Standardaktion</translation>
     </message>
     <message>
         <source>Capture the desktop</source>
@@ -10162,7 +10164,7 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>Servers:</source>
-        <translation type="unfinished"/>
+        <translation>Server:</translation>
     </message>
     <message>
         <source>*to specify the order of servers, use the drag-n-drop </source>
@@ -10170,47 +10172,47 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>Add new server</source>
-        <translation type="unfinished"/>
+        <translation>Neuen Server hinzufügen</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Hinzufügen</translation>
     </message>
     <message>
         <source>Delete current server</source>
-        <translation type="unfinished"/>
+        <translation>Derzeitigen Server löschen</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Edit current server</source>
-        <translation type="unfinished"/>
+        <translation>Derzeitigen Server bearbeiten</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Bearbeiten</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Enable for players:</source>
-        <translation type="unfinished"/>
+        <translation>Aktiviere für Spieler:</translation>
     </message>
     <message>
         <source>Detect full screen applications</source>
-        <translation type="unfinished"/>
+        <translation>Erkenne Vollbild Applikationen</translation>
     </message>
     <message>
         <source>Set status:</source>
-        <translation type="unfinished"/>
+        <translation>Status setzen:</translation>
     </message>
     <message>
         <source>Status message:</source>
-        <translation type="unfinished"/>
+        <translation>Statusnachricht:</translation>
     </message>
     <message>
         <source>Restore old status if player stops</source>
@@ -10226,7 +10228,7 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -10427,11 +10429,11 @@ Bitte geben Sie Ihre Passphrase ein:</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished"/>
+        <translation>Status:</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="unfinished"/>
+        <translation>Spiel</translation>
     </message>
     <message>
         <source>Skin</source>
@@ -10439,23 +10441,23 @@ Bitte geben Sie Ihre Passphrase ein:</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>Datei</translation>
     </message>
     <message>
         <source>New game</source>
-        <translation type="unfinished"/>
+        <translation>Neues Spiel</translation>
     </message>
     <message>
         <source>Load game</source>
-        <translation type="unfinished"/>
+        <translation>Spiel laden</translation>
     </message>
     <message>
         <source>Save game</source>
-        <translation type="unfinished"/>
+        <translation>Spiel speichern</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Beenden</translation>
     </message>
     <message>
         <source>Resign</source>
@@ -10463,11 +10465,11 @@ Bitte geben Sie Ihre Passphrase ein:</translation>
     </message>
     <message>
         <source>Switch color</source>
-        <translation type="unfinished"/>
+        <translation>Farbe wechseln</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="unfinished"/>
+        <translation>Standard</translation>
     </message>
     <message>
         <source>Yellow wood</source>
@@ -10487,19 +10489,19 @@ Bitte geben Sie Ihre Passphrase ein:</translation>
     </message>
     <message>
         <source>End of game</source>
-        <translation type="unfinished"/>
+        <translation>Spielende</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>Win!</source>
-        <translation type="unfinished"/>
+        <translation>Gewonnen!</translation>
     </message>
     <message>
         <source>Lose.</source>
-        <translation type="unfinished"/>
+        <translation>Verloren.</translation>
     </message>
     <message>
         <source>Draw.</source>
@@ -10507,12 +10509,12 @@ Bitte geben Sie Ihre Passphrase ein:</translation>
     </message>
     <message>
         <source>You</source>
-        <translation type="unfinished"/>
+        <translation>Sie</translation>
     </message>
     <message>
         <source>Opp</source>
         <comment>Opponent</comment>
-        <translation type="unfinished"/>
+        <translation>Gegner</translation>
     </message>
     <message>
         <source>%1: %2 - swch</source>
@@ -10525,7 +10527,7 @@ Bitte geben Sie Ihre Passphrase ein:</translation>
     </message>
     <message>
         <source>Game Error!</source>
-        <translation type="unfinished"/>
+        <translation>Spielfehler!</translation>
     </message>
     <message>
         <source>Your opponent has closed the board!
@@ -10538,11 +10540,11 @@ Bitte geben Sie Ihre Passphrase ein:</translation>
     </message>
     <message>
         <source>You Lose.</source>
-        <translation type="unfinished"/>
+        <translation>Sie haben verloren.</translation>
     </message>
     <message>
         <source>You Win!</source>
-        <translation type="unfinished"/>
+        <translation>Sie haben gewonnen!</translation>
     </message>
     <message>
         <source>You really want to begin new game?</source>
@@ -10592,23 +10594,23 @@ Bitte geben Sie Ihre Passphrase ein:</translation>
     </message>
     <message>
         <source>Name: </source>
-        <translation type="unfinished"/>
+        <translation>Name: </translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Version: </source>
-        <translation type="unfinished"/>
+        <translation>Version: </translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Anwenden</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Schließen</translation>
     </message>
     <message>
         <source>Skin is not valid!</source>
@@ -10643,7 +10645,7 @@ Bitte geben Sie Ihre Passphrase ein:</translation>
     </message>
     <message>
         <source>Rename List</source>
-        <translation type="unfinished"/>
+        <translation>Liste umbenennen</translation>
     </message>
     <message>
         <source>Delete List</source>
@@ -10913,7 +10915,7 @@ Aktivieren Sie die Option &quot;Emoticons verwenden&quot;, wenn Sie statt dem Te
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Chat</translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11053,7 +11055,7 @@ Aktivieren Sie die Option &quot;Emoticons verwenden&quot;, wenn Sie statt dem Te
     </message>
     <message>
         <source>Port:</source>
-        <translation type="unfinished"/>
+        <translation>Port:</translation>
     </message>
     <message>
         <source>Polling URL:</source>
@@ -11117,31 +11119,31 @@ Aktivieren Sie die Option &quot;Emoticons verwenden&quot;, wenn Sie statt dem Te
     <name>ProxySettingsDlg</name>
     <message>
         <source>Proxy Server Settings</source>
-        <translation type="unfinished"/>
+        <translation>Proxy Server Einstellungen</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"/>
+        <translation>Typ:</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="unfinished"/>
+        <translation>Host:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="unfinished"/>
+        <translation>Port:</translation>
     </message>
     <message>
         <source>99999; </source>
-        <translation type="unfinished"/>
+        <translation>99999; </translation>
     </message>
     <message>
         <source>User:</source>
-        <translation type="unfinished"/>
+        <translation>Nutzer:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Kennwort:</translation>
     </message>
 </context>
 <context>
@@ -11388,19 +11390,19 @@ Details: %1</translation>
     </message>
     <message>
         <source>Name:	</source>
-        <translation type="unfinished"/>
+        <translation>Name:	</translation>
     </message>
     <message>
         <source>Version:	</source>
-        <translation type="unfinished"/>
+        <translation>Version:	</translation>
     </message>
     <message>
         <source>Os:	</source>
-        <translation type="unfinished"/>
+        <translation>Bs:	</translation>
     </message>
     <message>
         <source>Version Query Information</source>
-        <translation type="unfinished"/>
+        <translation>Versionsabfrage Information</translation>
     </message>
     <message>
         <source>Headline</source>
@@ -11513,7 +11515,7 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>&amp;Status</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Status</translation>
     </message>
     <message>
         <source>Provides a convenient way to change and to get information about current status</source>
@@ -11749,7 +11751,7 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Status</translation>
     </message>
     <message>
         <source>ReadMe</source>
@@ -11773,11 +11775,11 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Wiki (Online)</source>
-        <translation type="unfinished"/>
+        <translation>Wiki (Online)</translation>
     </message>
     <message>
         <source>&amp;Wiki (Online)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Wiki (Online)</translation>
     </message>
     <message>
         <source>Home Page (Online)</source>
@@ -11789,11 +11791,11 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Psi+ Forum (Online)</source>
-        <translation type="unfinished"/>
+        <translation>Psi+ Forum (Online)</translation>
     </message>
     <message>
         <source>Psi+ &amp;Forum (Online)</source>
-        <translation type="unfinished"/>
+        <translation>Psi+ &amp;Forum (Online)</translation>
     </message>
     <message>
         <source>Join Psi+ Discussion Room (Online)</source>
@@ -11857,7 +11859,7 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Check for Updates...</source>
-        <translation type="unfinished"/>
+        <translation>Auf Aktualisierungen prüfen...</translation>
     </message>
     <message>
         <source>&amp;Check for Updates...</source>
@@ -12098,7 +12100,7 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Information</translation>
     </message>
     <message>
         <source>Some of the options you changed will only have full effect upon restart.</source>
@@ -12178,7 +12180,7 @@ Das bedeutet wahrscheinlich, dass bereits eine andere Instanz von Psi läuft. Es
     <name>PsiContactListViewDelegate</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -12277,7 +12279,7 @@ Das bedeutet wahrscheinlich, dass bereits eine andere Instanz von Psi läuft. Es
     </message>
     <message>
         <source>Sen&amp;d Status</source>
-        <translation type="unfinished"/>
+        <translation>Sen&amp;de Status</translation>
     </message>
     <message>
         <source>&amp;Assign Custom Picture</source>
@@ -12751,7 +12753,7 @@ Fortfahren?</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -13263,17 +13265,20 @@ Postleitzahl: </translation>
     <message>
         <source>
 Region: </source>
-        <translation type="unfinished"/>
+        <translation>
+Region: </translation>
     </message>
     <message>
         <source>
 Locality: </source>
-        <translation type="unfinished"/>
+        <translation>
+Ort: </translation>
     </message>
     <message>
         <source>
 Area: </source>
-        <translation type="unfinished"/>
+        <translation>
+Areal: </translation>
     </message>
     <message>
         <source>
@@ -13838,7 +13843,7 @@ The message was not sent.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>Generating keys for account &quot;%1&quot;.
@@ -13891,7 +13896,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Headline</source>
@@ -13907,15 +13912,15 @@ Password: %5</source>
     </message>
     <message>
         <source>Classic</source>
-        <translation type="unfinished"/>
+        <translation>Klassisch</translation>
     </message>
     <message>
         <source>Growl</source>
-        <translation type="unfinished"/>
+        <translation>Growl</translation>
     </message>
     <message>
         <source>DBus</source>
-        <translation type="unfinished"/>
+        <translation>DBus</translation>
     </message>
     <message>
         <source>Error</source>
@@ -13995,11 +14000,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Incoming file from %1</source>
-        <translation type="unfinished"/>
+        <translation>Eingehende Datei von %1</translation>
     </message>
     <message>
         <source>Incoming call from %1</source>
-        <translation type="unfinished"/>
+        <translation>Eingehender Anruf von %1</translation>
     </message>
     <message>
         <source>Contact becomes Available</source>
@@ -14039,11 +14044,11 @@ Password: %5</source>
     </message>
     <message>
         <source>[Typing notify]</source>
-        <translation type="unfinished"/>
+        <translation>[Tipp-Benachrichtigung]</translation>
     </message>
     <message>
         <source>[Incoming Message]</source>
-        <translation type="unfinished"/>
+        <translation>[Eingehende Nachricht]</translation>
     </message>
     <message>
         <source>[Incoming Headline]</source>
@@ -14059,7 +14064,7 @@ Password: %5</source>
     </message>
     <message>
         <source>[Incoming Call]</source>
-        <translation type="unfinished"/>
+        <translation>[Eingehender Anruf]</translation>
     </message>
     <message>
         <source>Set Status</source>
@@ -14127,7 +14132,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Unnamed</source>
-        <translation type="unfinished"/>
+        <translation>Unbenannt</translation>
     </message>
     <message>
         <source>Subscription</source>
@@ -14202,7 +14207,7 @@ Password: %5</source>
     <name>QipXStatuses</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -14331,7 +14336,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RemoveConfirmationMessageBox</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -14502,7 +14507,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>/%1.</source>
-        <translation type="unfinished"/>
+        <translation>/%1.</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -14510,11 +14515,11 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>%1 Files (*.%2);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>%1 Dateien (*.%2);;Alle Dateien (*)</translation>
     </message>
     <message>
         <source>%1.</source>
-        <translation type="unfinished"/>
+        <translation>%1.</translation>
     </message>
     <message>
         <source>Can&apos;t parse URL (Reply URL: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</source>
@@ -14553,18 +14558,18 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation>Sekunden</translation>
     </message>
 </context>
 <context>
     <name>ScreenshotPlugin</name>
     <message>
         <source>Upload Image</source>
-        <translation type="unfinished"/>
+        <translation>Bild hochladen</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Autoren: </translation>
     </message>
     <message>
         <source>This plugin allows you to make screenshots and save them to your hard drive or upload them to an FTP or HTTP server.
@@ -14739,23 +14744,23 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Hinzufügen</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Bearbeiten</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Entfernen</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Add template string</source>
@@ -14775,11 +14780,11 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished"/>
+        <translation>Hoch</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"/>
+        <translation>Runter</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
@@ -14803,14 +14808,14 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation type="unfinished"/>
+        <translation>Fortsetzen?</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
         <source>Paste and &amp;Send</source>
-        <translation type="unfinished"/>
+        <translation>Einfügen und &amp;Senden</translation>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
@@ -14867,35 +14872,35 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="unfinished"/>
+        <translation>Kontakt hinzufügen</translation>
     </message>
     <message>
         <source>New Message</source>
-        <translation type="unfinished"/>
+        <translation>Neue Nachricht</translation>
     </message>
     <message>
         <source>Join Group Chat</source>
-        <translation type="unfinished"/>
+        <translation>Gruppenchat beitreten</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation type="unfinished"/>
+        <translation>Konto Einstellungen</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Optionen</translation>
     </message>
     <message>
         <source>File Transfer</source>
-        <translation type="unfinished"/>
+        <translation>Dateitransfer</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="unfinished"/>
+        <translation>Symbolleisten</translation>
     </message>
     <message>
         <source>XML Console</source>
-        <translation type="unfinished"/>
+        <translation>XML-Konsole</translation>
     </message>
     <message>
         <source>Change Profile</source>
@@ -14903,39 +14908,39 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation type="unfinished"/>
+        <translation>Klänge abspielen</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Beenden</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Enable Groups</source>
-        <translation type="unfinished"/>
+        <translation>Gruppen aktivieren</translation>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation type="unfinished"/>
+        <translation>Ereignis-Benachrichtigung</translation>
     </message>
     <message>
         <source>View Groups</source>
-        <translation type="unfinished"/>
+        <translation>Gruppen-Ansicht</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation type="unfinished"/>
+        <translation>&apos;Offline&apos;-Kontakte anzeigen</translation>
     </message>
     <message>
         <source>Show Away Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Zeige &quot;Abwesende&quot; Kontakte</translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Versteckte Kontakte anzeigen</translation>
     </message>
     <message>
         <source>Show Agents</source>
@@ -14943,19 +14948,19 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Show Self</source>
-        <translation type="unfinished"/>
+        <translation>Sich selbst anzeigen</translation>
     </message>
     <message>
         <source>Show Status Message</source>
-        <translation type="unfinished"/>
+        <translation>Status-Nachricht anzeigen</translation>
     </message>
     <message>
         <source>Publish Tune</source>
-        <translation type="unfinished"/>
+        <translation>Lied bekanntgeben</translation>
     </message>
     <message>
         <source>Active contacts</source>
-        <translation type="unfinished"/>
+        <translation>Aktive Kontakte</translation>
     </message>
     <message>
         <source>Status All</source>
@@ -14999,23 +15004,23 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Reconnect all accounts</source>
-        <translation type="unfinished"/>
+        <translation>Verbinde alle Konten neu</translation>
     </message>
     <message>
         <source>Set Mood</source>
-        <translation type="unfinished"/>
+        <translation>Stimmung auswählen</translation>
     </message>
     <message>
         <source>Set Activity</source>
-        <translation type="unfinished"/>
+        <translation>Setze Aktivität</translation>
     </message>
     <message>
         <source>Set Geolocation</source>
-        <translation type="unfinished"/>
+        <translation>Setze geographische Position</translation>
     </message>
     <message>
         <source>README</source>
-        <translation type="unfinished"/>
+        <translation>LiesMich</translation>
     </message>
     <message>
         <source>Tips</source>
@@ -15023,19 +15028,19 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="unfinished"/>
+        <translation>Psi+ Forum (Online)</translation>
     </message>
     <message>
         <source>Open Help</source>
-        <translation type="unfinished"/>
+        <translation>Hilfe öffnen</translation>
     </message>
     <message>
         <source>Open Wiki</source>
-        <translation type="unfinished"/>
+        <translation>Wiki öffnen</translation>
     </message>
     <message>
         <source>Open Home Page</source>
-        <translation type="unfinished"/>
+        <translation>Homepage öffnen</translation>
     </message>
     <message>
         <source>Help Psi MUC</source>
@@ -15043,19 +15048,19 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Report Bug</source>
-        <translation type="unfinished"/>
+        <translation>Fehler melden</translation>
     </message>
     <message>
         <source>About Psi</source>
-        <translation type="unfinished"/>
+        <translation>Über Psi</translation>
     </message>
     <message>
         <source>About PsiMedia</source>
-        <translation type="unfinished"/>
+        <translation>Über PsiMedia</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="unfinished"/>
+        <translation>Über Qt</translation>
     </message>
     <message>
         <source>QCA plugin diag</source>
@@ -15071,11 +15076,11 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Switch to the next tab</source>
-        <translation type="unfinished"/>
+        <translation>Zum nächsten Tab wechseln</translation>
     </message>
     <message>
         <source>Switch to the previous tab</source>
-        <translation type="unfinished"/>
+        <translation>Zum vorherigen Tab wechseln</translation>
     </message>
     <message>
         <source>Find text next</source>
