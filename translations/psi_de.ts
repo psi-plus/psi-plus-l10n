@@ -214,7 +214,7 @@ Join the translation team today! Go to
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <translation>Deutsche Übersetzung&lt;br&gt;
-&lt;small&gt;Letzte Aktualisierung: 14.04.2012&lt;/small&gt;&lt;br&gt;
+&lt;small&gt;Letzte Aktualisierung: 22.04.2012&lt;/small&gt;&lt;br&gt;
 &lt;br&gt;
 M.Kiesel&lt;br&gt;
 Jaan Klatt&lt;br&gt;
@@ -1957,7 +1957,8 @@ Möchten Sie das Fenster trotzdem schließen?</translation>
     <message>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="unfinished"/>
+        <translation>Ihr Gegenspieler hat das Spielbrett geschlossen!
+ Sie können das Spiel immernoch speichern.</translation>
     </message>
     <message>
         <source>The game was rejected</source>
@@ -2129,7 +2130,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Beenden</translation>
     </message>
     <message>
         <source>Clear &amp;Juick Cache</source>
@@ -2141,7 +2142,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Datei</translation>
     </message>
     <message>
         <source>&amp;Actions</source>
@@ -2394,7 +2395,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>&amp;Contacts Manager</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kontakt Verwaltung</translation>
     </message>
     <message>
         <source>Manage Bookmarks</source>
@@ -2693,7 +2694,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Removal confirmation</source>
-        <translation type="unfinished"/>
+        <translation>Löschbestätigung</translation>
     </message>
     <message>
         <source>Are you sure want to delete selected contacts?</source>
@@ -4118,7 +4119,7 @@ folgenden Konferenzen (JIDs eingeben)</translation>
     </message>
     <message>
         <source>Enable single messages</source>
-        <translation type="unfinished"/>
+        <translation>Aktiviere einzelne Nachrichten</translation>
     </message>
     <message>
         <source>Popup border color:</source>
@@ -4138,19 +4139,19 @@ folgenden Konferenzen (JIDs eingeben)</translation>
     </message>
     <message>
         <source>Participants color:</source>
-        <translation type="unfinished"/>
+        <translation>Teilnehmer Farbe:</translation>
     </message>
     <message>
         <source>Visitors color:</source>
-        <translation type="unfinished"/>
+        <translation>Besucher Farbe:</translation>
     </message>
     <message>
         <source>No Role color:</source>
-        <translation type="unfinished"/>
+        <translation>Keine Rolle Farbe:</translation>
     </message>
     <message>
         <source>MUC roster coloring:</source>
-        <translation type="unfinished"/>
+        <translation>MUC Kontaktlistenfärbung:</translation>
     </message>
     <message>
         <source>ToolTip text color:</source>
@@ -4170,7 +4171,7 @@ folgenden Konferenzen (JIDs eingeben)</translation>
     </message>
     <message>
         <source>Text color for &quot;unread&quot; events on tabs:</source>
-        <translation type="unfinished"/>
+        <translation>Textfarbe für &quot;Ungelesene Nachricht&quot;-Ereignisse auf Tabs:</translation>
     </message>
     <message>
         <source>Colors:</source>
@@ -5524,7 +5525,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>A catch-all element that captures any other information about the location</source>
-        <translation type="unfinished"/>
+        <translation>Hier können alle weiteren Informationen über die Örtlichkeit aufgeführt werden</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -5846,7 +5847,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>HistoryDlg</name>
     <message>
         <source>HistoryDlg</source>
-        <translation type="unfinished"/>
+        <translation>HistoryDlg</translation>
     </message>
     <message>
         <source>Refresh history</source>
@@ -5962,7 +5963,8 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi+ is closed.
 You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
-        <translation type="unfinished"/>
+        <translation>Dieses Plugin dient dazu, den Gesprächsverlauf von bestimmten Kontakten zu löschen, wenn Psi+ geschlossen wird.
+Sie können für Kontakte das Löschen des Verlaufs im jeweiligen Kontakt-Kontextmenü (de-)aktivieren oder alternativ über die Optionen des Plugins konfigurieren.</translation>
     </message>
 </context>
 <context>
@@ -5980,7 +5982,11 @@ You can select or deselect a contact for history removal from the context menu o
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Einstellungen und Daten importieren&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -6118,7 +6124,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"/>
+        <translation>Details &amp;anzeigen</translation>
     </message>
 </context>
 <context>
@@ -6133,7 +6139,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"/>
+        <translation>Details &amp;anzeigen</translation>
     </message>
 </context>
 <context>
@@ -6148,7 +6154,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"/>
+        <translation>Details &amp;anzeigen</translation>
     </message>
 </context>
 <context>
@@ -6201,7 +6207,7 @@ p, li { white-space: pre-wrap; }
     <name>IconsetEmo</name>
     <message>
         <source>IconsetEmoUI</source>
-        <translation type="unfinished"/>
+        <translation>IconsetEmoUI</translation>
     </message>
     <message>
         <source>Enable emoticons</source>
@@ -6236,7 +6242,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"/>
+        <translation>Details &amp;anzeigen</translation>
     </message>
 </context>
 <context>
@@ -6991,15 +6997,15 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Add to favorites</source>
-        <translation type="unfinished"/>
+        <translation>Zu Favoriten hinzufügen</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -7623,7 +7629,8 @@ Details: %1</translation>
     <message>
         <source>
 Tags: %1</source>
-        <translation type="unfinished"/>
+        <translation>
+Tags: %1</translation>
     </message>
 </context>
 <context>
@@ -8910,7 +8917,7 @@ online sind und drücken Sie dann &quot;Geburtstage aktualisieren&quot;. Dies da
     </message>
     <message>
         <source>Auto-popup Captcha dialog</source>
-        <translation type="unfinished"/>
+        <translation>Captcha-Dialog automatisch öffnen</translation>
     </message>
     <message>
         <source>Use proxy settings from account</source>
@@ -9149,7 +9156,7 @@ online sind und drücken Sie dann &quot;Geburtstage aktualisieren&quot;. Dies da
     </message>
     <message>
         <source>Number of blocked stanzas:</source>
-        <translation type="unfinished"/>
+        <translation>Anzahl geblockter Elemente:</translation>
     </message>
     <message>
         <source>View Log</source>
@@ -9889,7 +9896,7 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;away&quot; if your computer is idle for the specified amount of time.</source>
-        <translation>Lässt Psi den Status automatisch auf &quot;abwesend&quot; setzen, wenn Ihr Computer für die eingestellte Zeit untätig ist.</translation>
+        <translation>Lässt Psi automatisch auf den Status &quot;abwesend&quot; wechseln, wenn Ihr Computer für eine (frei einstellbare) Zeit untätig ist.</translation>
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;extended away&quot; if your computer is idle for the specified amount of time.</source>
@@ -9897,7 +9904,7 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation type="unfinished"/>
+        <translation>Lässt Psi automatisch auf den Status &quot;offline&quot; wechseln, wenn Ihr Computer für eine (frei einstellbare) Zeit untätig ist.  Dies wird die Verbindung zum Jabber Server trennen.</translation>
     </message>
     <message>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
@@ -9905,7 +9912,7 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>Specifies priority of auto-away status. If empty, Psi will use account&apos;s default priority.</source>
-        <translation type="unfinished"/>
+        <translation>Legt die Priorität des automatischen &quot;abwesend&quot; Status fest. Wenn leer, wird Psi die Standardpriorität des Kontos wählen.</translation>
     </message>
 </context>
 <context>
@@ -10170,7 +10177,7 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>*to specify the order of servers, use the drag-n-drop </source>
-        <translation type="unfinished"/>
+        <translation>*um die Reihenfolge der Server festzulegen, nutzen Sie Drag-n-Drop</translation>
     </message>
     <message>
         <source>Add new server</source>
@@ -10534,11 +10541,12 @@ Bitte geben Sie Ihre Passphrase ein:</translation>
     <message>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="unfinished"/>
+        <translation>Ihr Gegenspieler hat das Spielbrett geschlossen!
+ Sie können das Spiel immernoch speichern.</translation>
     </message>
     <message>
         <source>You want to switch color?</source>
-        <translation type="unfinished"/>
+        <translation>Wollen Sie die Farben tauschen?</translation>
     </message>
     <message>
         <source>You Lose.</source>
@@ -16738,7 +16746,7 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"/>
+        <translation>Filter</translation>
     </message>
     <message>
         <source>Message</source>
@@ -16750,7 +16758,7 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
     <message>
         <source>IQ</source>
-        <translation type="unfinished"/>
+        <translation>IQ</translation>
     </message>
     <message>
         <source>JID:</source>
@@ -16824,7 +16832,7 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
     <message>
         <source>Query version</source>
-        <translation type="unfinished"/>
+        <translation>Version abfragen</translation>
     </message>
     <message>
         <source>Add to roster</source>
@@ -17070,15 +17078,15 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
     <message>
         <source>Select Sounds:</source>
-        <translation type="unfinished"/>
+        <translation>Klänge wählen:</translation>
     </message>
     <message>
         <source>Game started:</source>
-        <translation type="unfinished"/>
+        <translation>Spiel hat begonnen:</translation>
     </message>
     <message>
         <source>Game finished:</source>
-        <translation type="unfinished"/>
+        <translation>Spiel endete:</translation>
     </message>
     <message>
         <source>Your turn:</source>
@@ -17086,19 +17094,19 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
     <message>
         <source>Error message:</source>
-        <translation type="unfinished"/>
+        <translation>Fehlermeldung:</translation>
     </message>
     <message>
         <source>If checked, the sound will always enabled (or disabled)</source>
-        <translation type="unfinished"/>
+        <translation>Wenn gewählt, werden Klänge immer aktiviert (oder deaktiviert)</translation>
     </message>
     <message>
         <source>Override default sound settings</source>
-        <translation type="unfinished"/>
+        <translation>Überschreibe Standard Klangeinstellungen</translation>
     </message>
     <message>
         <source>Disable invitations if status is DND</source>
-        <translation type="unfinished"/>
+        <translation>Deaktiviere Einladungen wenn Status auf Bitte Nicht Stören</translation>
     </message>
     <message>
         <source>Disable invitations from conference</source>
@@ -17106,15 +17114,15 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
     <message>
         <source>Save window height and width</source>
-        <translation type="unfinished"/>
+        <translation>Speichere Fensterhöhe und -breite</translation>
     </message>
     <message>
         <source>Save window position</source>
-        <translation type="unfinished"/>
+        <translation>Speichere Fensterposition</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Auto Reply Message If Recv:</source>
@@ -17148,74 +17156,74 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation type="unfinished"/>
+        <translation>Deaktivieren, wenn Chatfenster aktiv ist</translation>
     </message>
     <message>
         <source>Transports:</source>
-        <translation type="unfinished"/>
+        <translation>Transporte:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>psiotr::AuthenticationDialog</name>
     <message>
         <source>Authenticate %1</source>
-        <translation type="unfinished"/>
+        <translation>Authentifiziere %1</translation>
     </message>
     <message>
         <source>To authenticate via question and answer, ask a question whose answer is only known to you and %1.</source>
-        <translation type="unfinished"/>
+        <translation>Um mittels Frage-Antwort zu authentifizieren, stellen Sie eine Frage dessen Antwort nur Sie und %1 kennen.</translation>
     </message>
     <message>
         <source>To authenticate manually, exchange your fingerprints over an authenticated channel and compare each other&apos;s fingerprint with the one listed beneath.</source>
-        <translation type="unfinished"/>
+        <translation>Für manuelle Authentifizierung tauschen Sie ihre Fingerabdrücke über einen authentifizierten Kanal aus und vergleichen gegenseitig die Fingerabdrücke mit dem unten aufgeführten.</translation>
     </message>
     <message>
         <source>Authenticate to %1</source>
-        <translation type="unfinished"/>
+        <translation>Authentifizierung bestätigen für %1</translation>
     </message>
     <message>
         <source>%1 wants to authenticate you. To authenticate, answer the question asked below.</source>
-        <translation type="unfinished"/>
+        <translation>%1 möchte Sie authentifizieren. Hierfür beantworten Sie bitte die folgende Frage.</translation>
     </message>
     <message>
         <source>Question and answer</source>
-        <translation type="unfinished"/>
+        <translation>Frage und Antwort</translation>
     </message>
     <message>
         <source>Fingerprint verification</source>
-        <translation type="unfinished"/>
+        <translation>Fingerabdruck-Verifizierung</translation>
     </message>
     <message>
         <source>&amp;Question:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Frage:</translation>
     </message>
     <message>
         <source>A&amp;nswer:</source>
-        <translation type="unfinished"/>
+        <translation>A&amp;ntwort:</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Abbrechen</translation>
     </message>
     <message>
         <source>&amp;Authenticate</source>
-        <translation type="unfinished"/>
+        <translation>A&amp;uthentifizieren</translation>
     </message>
     <message>
         <source>This contact is already authenticated.</source>
-        <translation type="unfinished"/>
+        <translation>Dieser Kontakt ist bereits authentifiziert.</translation>
     </message>
     <message>
         <source>No private key for account &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Kein privater Schlüssel für Konto &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Your fingerprint:</source>
-        <translation type="unfinished"/>
+        <translation>Ihr Fingerabdruck:</translation>
     </message>
     <message>
         <source>Fingerprint for %1:</source>
@@ -17223,80 +17231,82 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished"/>
+        <translation>Konto: </translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished"/>
+        <translation>Nutzer: </translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished"/>
+        <translation>Fingerabdruck: </translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
-        <translation type="unfinished"/>
+        <translation>Haben Sie verifiziert, dass dies wirklich der korrekte Fingerabdruck ist?</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>%1 has canceled the authentication process.</source>
-        <translation type="unfinished"/>
+        <translation>%1 hat den Authentifizierungsprozess abgebrochen.</translation>
     </message>
     <message>
         <source>An error occured during the authentication process.</source>
-        <translation type="unfinished"/>
+        <translation>Ein Fehler ist während des Authentifizierungsprozesses aufgetreten.</translation>
     </message>
     <message>
         <source>Authentication successful.</source>
-        <translation type="unfinished"/>
+        <translation>Authentifizierung erfolgreich.</translation>
     </message>
     <message>
         <source>You have been successfully authenticated.
 
 You should authenticate %1 as well by asking your own question.</source>
-        <translation type="unfinished"/>
+        <translation>Sie wurden erfolgreich authentifiziert.
+
+Sie sollten %1 ebenfalls authentifizieren, indem Sie Ihre eigene Frage stellen.</translation>
     </message>
     <message>
         <source>Authentication failed.</source>
-        <translation type="unfinished"/>
+        <translation>Authentifizierung fehlgeschlagen.</translation>
     </message>
     <message>
         <source>To authenticate via shared secret, enter a secret only known to you and %1.</source>
-        <translation type="unfinished"/>
+        <translation>Um mittels Gemeinsames Geheimnis zu authentifizieren, geben Sie ein Geheimnis ein, dass nur Sie und %1 kennen.</translation>
     </message>
     <message>
         <source>%1 wants to authenticate you. To authenticate, enter your shared secret below.</source>
-        <translation type="unfinished"/>
+        <translation>%1 möchte Sie authentifizieren. Geben Sie hierfür Ihr Gemeinsames Geheimnis unten ein.</translation>
     </message>
     <message>
         <source>Shared secret</source>
-        <translation type="unfinished"/>
+        <translation>Gemeinsames Geheimnis</translation>
     </message>
     <message>
         <source>&amp;Shared Secret:</source>
-        <translation type="unfinished"/>
+        <translation>Gemein&amp;sames Geheimnis:</translation>
     </message>
     <message>
         <source>%1&apos;s fingerprint:</source>
-        <translation type="unfinished"/>
+        <translation>%1&apos;s Fingerabdruck:</translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
         <source>Known fingerprints</source>
-        <translation type="unfinished"/>
+        <translation>Bekannte Fingerabdrücke</translation>
     </message>
     <message>
         <source>My private keys</source>
-        <translation type="unfinished"/>
+        <translation>Meine privaten Schlüssel</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished"/>
+        <translation>Konfiguration</translation>
     </message>
 </context>
 <context>
@@ -17307,161 +17317,162 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Disable private messaging</source>
-        <translation type="unfinished"/>
+        <translation>Deaktiviere privaten Nachrichtenaustausch</translation>
     </message>
     <message>
         <source>Manually start private messaging</source>
-        <translation type="unfinished"/>
+        <translation>Starte privaten Nachrichtenaustausch manuell</translation>
     </message>
     <message>
         <source>Automatically start private messaging</source>
-        <translation type="unfinished"/>
+        <translation>Starte privaten Nachrichtenaustausch automatisch</translation>
     </message>
     <message>
         <source>Require private messaging</source>
-        <translation type="unfinished"/>
+        <translation>Fordere privaten Nachrichtenaustausch</translation>
     </message>
     <message>
         <source>End session when contact goes offline</source>
-        <translation type="unfinished"/>
+        <translation>Beende Sitzung wenn Kontakt offline geht</translation>
     </message>
 </context>
 <context>
     <name>psiotr::FingerprintWidget</name>
     <message>
         <source>Delete fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Lösche Fingerabdruck</translation>
     </message>
     <message>
         <source>Verify fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Verifiziere Fingerabdruck</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"/>
+        <translation>Konto</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished"/>
+        <translation>Nutzer</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Fingerabdruck</translation>
     </message>
     <message>
         <source>Verified</source>
-        <translation type="unfinished"/>
+        <translation>Verifiziert</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation type="unfinished"/>
+        <translation>Sind Sie sicher, dass Sie die folgenden Fingerabdrücke löschen wollen?</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished"/>
+        <translation>Konto: </translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished"/>
+        <translation>Nutzer: </translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished"/>
+        <translation>Fingerabdruck: </translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
-        <translation type="unfinished"/>
+        <translation>Haben Sie verifiziert, dass dies wirklich der korrekte Fingerabdruck ist?</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Kopiere Fingerabdruck</translation>
     </message>
 </context>
 <context>
     <name>psiotr::PrivKeyWidget</name>
     <message>
         <source>Generate new key</source>
-        <translation type="unfinished"/>
+        <translation>Generiere neuen Schlüssel</translation>
     </message>
     <message>
         <source>Delete key</source>
-        <translation type="unfinished"/>
+        <translation>Lösche Schlüssel</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"/>
+        <translation>Konto</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Fingerabdruck</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished"/>
+        <translation>Sind Sie sicher, dass Sie den folgenden Schlüssel löschen wollen?</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished"/>
+        <translation>Konto: </translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished"/>
+        <translation>Fingerabdruck: </translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>Are you sure you want to overwrite the following key?</source>
-        <translation type="unfinished"/>
+        <translation>Sind Sie sicher, dass Sie den folgenden Schlüssel überschreiben wollen?</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Kopiere Fingerabdruck</translation>
     </message>
 </context>
 <context>
     <name>psiotr::PsiOtrClosure</name>
     <message>
         <source>No active encrypted session</source>
-        <translation type="unfinished"/>
+        <translation>Keine aktiv verschlüsselete Sitzung</translation>
     </message>
     <message>
         <source>Session ID between account &quot;%1&quot; and %2:&lt;br/&gt;%3</source>
-        <translation type="unfinished"/>
+        <translation>Sitzungs ID zwischen Konto &quot;%1&quot; und %2:&lt;br/&gt;%3</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>No private key for account &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Kein privater Schlüssel für Konto &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;:
 %2</source>
-        <translation type="unfinished"/>
+        <translation>Fingerabdruck für Konto &quot;%1&quot;:
+%2</translation>
     </message>
     <message>
         <source>unverified</source>
-        <translation type="unfinished"/>
+        <translation>nicht verifiziert</translation>
     </message>
     <message>
         <source>OTR Messaging [%1]</source>
@@ -17469,66 +17480,66 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Refre&amp;sh private conversation</source>
-        <translation type="unfinished"/>
+        <translation>Er&amp;neuere private Konversation</translation>
     </message>
     <message>
         <source>&amp;Start private conversation</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Starte private Konversation</translation>
     </message>
     <message>
         <source>&amp;End private conversation</source>
-        <translation type="unfinished"/>
+        <translation>Be&amp;ende private Konversation</translation>
     </message>
     <message>
         <source>&amp;Authenticate contact</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Authentifiziere Kontakt</translation>
     </message>
     <message>
         <source>Show secure session &amp;ID</source>
-        <translation type="unfinished"/>
+        <translation>Zeige sichere Sitzungs &amp;ID</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Zeige eigenen &amp;Fingerabdruck</translation>
     </message>
 </context>
 <context>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>Off-the-Record Messaging plugin for Psi+</source>
-        <translation type="unfinished"/>
+        <translation>Off-the-Record Messaging Plugin für Psi+</translation>
     </message>
     <message>
         <source>Authors: %1</source>
-        <translation type="unfinished"/>
+        <translation>Autoren: %1</translation>
     </message>
     <message>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
-        <translation type="unfinished"/>
+        <translation>Off-the-Record (OTR) Messaging erlaubt Ihnen private Chat Konversationen mit den folgenden Eigenschaften:</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Verschlüsselung</translation>
     </message>
     <message>
         <source>No one else can read your instant messages.</source>
-        <translation type="unfinished"/>
+        <translation>Niemand anders kann Ihre Chatnachrichten lesen.</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished"/>
+        <translation>Authentifizierung</translation>
     </message>
     <message>
         <source>You are assured the correspondent is who you think it is.</source>
-        <translation type="unfinished"/>
+        <translation>Es ist sichergestellt, dass Ihr Korrespondent derjenige ist, den Sie meinen.</translation>
     </message>
     <message>
         <source>Deniability</source>
-        <translation type="unfinished"/>
+        <translation>Abstreitbarkeit</translation>
     </message>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
@@ -17540,152 +17551,152 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>If you lose control of your private keys, no previous conversation is compromised.</source>
-        <translation type="unfinished"/>
+        <translation>Wenn Sie die Kontrolle über Ihre privaten Schlüssel verlieren, wird keine vorhergehende Konversation kompromittiert.</translation>
     </message>
     <message>
         <source>For further information, see &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Für weitere Informationen, siehe &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</translation>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
-        <translation type="unfinished"/>
+        <translation>Versuche die private Konversation zu erneuern</translation>
     </message>
     <message>
         <source>Attempting to start a private conversation</source>
-        <translation type="unfinished"/>
+        <translation>Versuche eine private Kommunikation zu starten</translation>
     </message>
     <message>
         <source>Private conversation started</source>
-        <translation type="unfinished"/>
+        <translation>Private Konversation hat begonnen</translation>
     </message>
     <message>
         <source>Unverified conversation started</source>
-        <translation type="unfinished"/>
+        <translation>Nicht verifizierte Konversation hat begonnen</translation>
     </message>
     <message>
         <source>Private conversation lost</source>
-        <translation type="unfinished"/>
+        <translation>Private Konversation verloren</translation>
     </message>
     <message>
         <source>Private conversation closed</source>
-        <translation type="unfinished"/>
+        <translation>Private Konversation geschlossen</translation>
     </message>
     <message>
         <source>%1 has ended the private conversation with you; you should do the same.</source>
-        <translation type="unfinished"/>
+        <translation>%1 hat die private Konversation mit Ihnen beendet, Sie sollten das Gleiche tun.</translation>
     </message>
     <message>
         <source>Private conversation refreshed</source>
-        <translation type="unfinished"/>
+        <translation>Private Konversation erneuert</translation>
     </message>
     <message>
         <source>Unverified conversation refreshed</source>
-        <translation type="unfinished"/>
+        <translation>Unverifizierte Konversation erneuert</translation>
     </message>
     <message>
         <source>Contact authenticated</source>
-        <translation type="unfinished"/>
+        <translation>Kontakt authentifiziert</translation>
     </message>
     <message>
         <source>Contact not authenticated</source>
-        <translation type="unfinished"/>
+        <translation>Kontakt nicht authentifiziert</translation>
     </message>
 </context>
 <context>
     <name>requestAuthDialogClass</name>
     <message>
         <source>Authorization</source>
-        <translation type="unfinished"/>
+        <translation>Autorisation</translation>
     </message>
     <message>
         <source>Login:</source>
-        <translation type="unfinished"/>
+        <translation>Login:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Kennwort:</translation>
     </message>
     <message>
         <source>Remember</source>
-        <translation type="unfinished"/>
+        <translation>Merken</translation>
     </message>
     <message>
         <source>Captcha:</source>
-        <translation type="unfinished"/>
+        <translation>Captcha:</translation>
     </message>
 </context>
 <context>
     <name>uploadDialog</name>
     <message>
         <source>File: </source>
-        <translation type="unfinished"/>
+        <translation>Datei: </translation>
     </message>
     <message>
         <source>Progress: </source>
-        <translation type="unfinished"/>
+        <translation>Fortschritt: </translation>
     </message>
     <message>
         <source>Elapsed time: </source>
-        <translation type="unfinished"/>
+        <translation>Vergangene Zeit: </translation>
     </message>
     <message>
         <source>Speed: </source>
-        <translation type="unfinished"/>
+        <translation>Geschwindigkeit: </translation>
     </message>
     <message>
         <source> kb/sec</source>
-        <translation type="unfinished"/>
+        <translation> kb/sek</translation>
     </message>
     <message>
         <source>Upload completed. Waiting for verification.</source>
-        <translation type="unfinished"/>
+        <translation>Hochladen abgeschlossen. Warte auf Verifikation.</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"/>
+        <translation>Erledigt</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Schließen</translation>
     </message>
     <message>
         <source>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>uploadDialogClass</name>
     <message>
         <source>Uploading...</source>
-        <translation type="unfinished"/>
+        <translation>Hochladen...</translation>
     </message>
     <message>
         <source>Upload started.</source>
-        <translation type="unfinished"/>
+        <translation>Hochladen begonnen.</translation>
     </message>
     <message>
         <source>File: </source>
-        <translation type="unfinished"/>
+        <translation>Datei: </translation>
     </message>
     <message>
         <source>Progress:</source>
-        <translation type="unfinished"/>
+        <translation>Fortschritt:</translation>
     </message>
     <message>
         <source>Elapsed time:</source>
-        <translation type="unfinished"/>
+        <translation>Vergangene Zeit:</translation>
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="unfinished"/>
+        <translation>Geschwindigkeit:</translation>
     </message>
     <message>
         <source>Link: </source>
-        <translation type="unfinished"/>
+        <translation>Link: </translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Abbrechen</translation>
     </message>
 </context>
 <context>
@@ -17704,7 +17715,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>E-Mail:</source>
-        <translation type="unfinished"/>
+        <translation>E-Mail:</translation>
     </message>
     <message>
         <source>Close</source>
