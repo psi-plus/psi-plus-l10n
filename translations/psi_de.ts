@@ -13344,7 +13344,7 @@ Beschreibung: </translation>
     </message>
     <message>
         <source>Amorous</source>
-        <translation>Verliebt</translation>
+        <translation>Sinnlich</translation>
     </message>
     <message>
         <source>Annoyed</source>
@@ -13428,7 +13428,7 @@ Beschreibung: </translation>
     </message>
     <message>
         <source>Disgusted</source>
-        <translation>Empört</translation>
+        <translation>Angewidert</translation>
     </message>
     <message>
         <source>Dismayed</source>
@@ -13468,7 +13468,7 @@ Beschreibung: </translation>
     </message>
     <message>
         <source>Happy</source>
-        <translation>Glücklich</translation>
+        <translation>Fröhlich</translation>
     </message>
     <message>
         <source>Hopeful</source>
