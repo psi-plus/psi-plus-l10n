@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2012-04-11
+# Updated: 2012-05-05
 # Version: N/A
 
 export CUR_DIR="${PWD}/$(dirname ${0})"
@@ -59,7 +59,8 @@ case "${1}" in
         exit 1
     fi
 
-    cp out/*.qm /usr/share/psi-plus/ || exit 1
+    mkdir -p /usr/share/psi-plus/translations/
+    cp out/*.qm /usr/share/psi-plus/translations/ || exit 1
 
 ;;
 "tr")
