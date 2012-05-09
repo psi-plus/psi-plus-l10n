@@ -48,18 +48,20 @@
     </message>
     <message>
         <source>psi/psiplus_logo</source>
-        <translation type="unfinished"/>
+        <translation>psi/psiplus_logo</translation>
     </message>
     <message utf8="true">
         <source>A cross-platform Jabber client designed for the Jabber power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2012 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="unfinished"/>
+        <translation>Multi-platformowy klient sieci jabber zaprojektowany dla zaawansowanych użytkowników.&lt;br&gt;⏎
+&lt;br&gt;⏎
+Copyright © 2001-2012 The Psi Team.&lt;br&gt;⏎</translation>
     </message>
     <message>
         <source>http://psi-im.org</source>
-        <translation type="unfinished"/>
+        <translation>http://psi-im.org</translation>
     </message>
     <message>
         <source>Authors</source>
@@ -107,11 +109,11 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Active project members are presents below:</source>
-        <translation type="unfinished"/>
+        <translation>Aktywni uczestnicy projektu wymienieni poniżej:</translation>
     </message>
     <message>
         <source>Founder and Lead Patcher</source>
-        <translation type="unfinished"/>
+        <translation>Założyciel i główny Patcher</translation>
     </message>
     <message>
         <source>Founder, Designer and Patcher</source>
@@ -435,7 +437,7 @@ Zaznacz opcję &lt;b&gt;Utwórz nowe konto&lt;/b&gt;, jeśli chcesz, aby Psi spr
     </message>
     <message>
         <source>Restore last status</source>
-        <translation type="unfinished"/>
+        <translation>Przywróć ostatni status</translation>
     </message>
     <message>
         <source>Automatically reconnect if disconnected</source>
@@ -563,11 +565,11 @@ Zaznacz opcję &lt;b&gt;Utwórz nowe konto&lt;/b&gt;, jeśli chcesz, aby Psi spr
     </message>
     <message>
         <source>Default priority:</source>
-        <translation type="unfinished"/>
+        <translation>Domyślny priorytet:</translation>
     </message>
     <message>
         <source>Data Transfer</source>
-        <translation type="unfinished"/>
+        <translation>Transfer danych</translation>
     </message>
     <message>
         <source>In-Band only (slow)</source>
@@ -618,11 +620,11 @@ Zaznacz opcję &lt;b&gt;Utwórz nowe konto&lt;/b&gt;, jeśli chcesz, aby Psi spr
     </message>
     <message>
         <source>Manual</source>
-        <translation type="unfinished"/>
+        <translation>Instrukcja</translation>
     </message>
     <message>
         <source>Use host name</source>
-        <translation type="unfinished"/>
+        <translation>Użyj nazwy hosta</translation>
     </message>
     <message>
         <source>Fixed</source>
@@ -630,7 +632,7 @@ Zaznacz opcję &lt;b&gt;Utwórz nowe konto&lt;/b&gt;, jeśli chcesz, aby Psi spr
     </message>
     <message>
         <source>Depends on status</source>
-        <translation type="unfinished"/>
+        <translation>Zależnie od statusu</translation>
     </message>
     <message>
         <source>None</source>
@@ -821,7 +823,7 @@ Zaznacz opcję &lt;b&gt;Utwórz nowe konto&lt;/b&gt;, jeśli chcesz, aby Psi spr
     </message>
     <message>
         <source>proxychooser</source>
-        <translation type="unfinished"/>
+        <translation>Wybór proxy</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -904,7 +906,7 @@ Zaznacz opcję &lt;b&gt;Utwórz nowe konto&lt;/b&gt;, jeśli chcesz, aby Psi spr
     </message>
     <message>
         <source>You have successfully registered your account with Jabber ID &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Udało Ci się zarejestrować konto z ID jabber &apos;%1&apos;</translation>
     </message>
     <message>
         <source>There was an error registering the account.
@@ -985,23 +987,23 @@ Przyczyna: %1</translation>
     <name>AccountStatusMenu</name>
     <message>
         <source>Choose status...</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz status...</translation>
     </message>
     <message>
         <source>Choose...</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz...</translation>
     </message>
     <message>
         <source>Reconnect</source>
-        <translation type="unfinished"/>
+        <translation>Połącz ponownie</translation>
     </message>
     <message>
         <source>Ignore global actions</source>
-        <translation type="unfinished"/>
+        <translation>Ignoruj ​​globalne działania</translation>
     </message>
     <message>
         <source>Ignore all global actions for this account. For example, autostatus, mood, activity etc.</source>
-        <translation type="unfinished"/>
+        <translation>Ignoruj ​​wszystkie globalne działania na rzecz tego konta. Na przykład, autostatus, nastrój,  aktywności, itd.</translation>
     </message>
 </context>
 <context>
@@ -1024,15 +1026,15 @@ save the history for this contact.</source>
     <name>Activity</name>
     <message>
         <source>User Activity</source>
-        <translation type="unfinished"/>
+        <translation>Aktywność użytkownika</translation>
     </message>
     <message>
         <source>General:</source>
-        <translation type="unfinished"/>
+        <translation>Ogólne:</translation>
     </message>
     <message>
         <source>Specific:</source>
-        <translation type="unfinished"/>
+        <translation>Szczegółowe:</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -1172,7 +1174,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"/>
+        <translation>Ukryty</translation>
     </message>
     <message>
         <source>Add User: Error</source>
@@ -1231,7 +1233,7 @@ Przykłady:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;użytkownikjabbera@jakiśhost
     <name>AttentionPlugin</name>
     <message>
         <source> sends Attention message to you!</source>
-        <translation type="unfinished"/>
+        <translation>wysyła ważną wiadomość do Ciebie!</translation>
     </message>
     <message>
         <source>Send Attention</source>
@@ -1347,7 +1349,7 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Timeout to reset counter:</source>
-        <translation type="unfinished"/>
+        <translation>Limit czasu, zerowania licznika:</translation>
     </message>
     <message>
         <source>min.</source>
@@ -1355,7 +1357,7 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Send maximum</source>
-        <translation type="unfinished"/>
+        <translation>Wyślij maksymalnie</translation>
     </message>
     <message>
         <source>times (-1=infinite)</source>
@@ -1367,11 +1369,11 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>email:</translation>
     </message>
     <message>
         <source>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
@@ -1440,26 +1442,26 @@ The list of exceptions for jids has two operating modes:
     <name>AvatarDelegate</name>
     <message>
         <source>Empty file</source>
-        <translation type="unfinished"/>
+        <translation>Pusty plik</translation>
     </message>
 </context>
 <context>
     <name>AvatarView</name>
     <message>
         <source>Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Awatar</translation>
     </message>
     <message>
         <source>Save Image</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz obraz</translation>
     </message>
     <message>
         <source>Save Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz awatar</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="unfinished"/>
+        <translation>Obrazy (*.png *.gif *.jpg *.jpeg)</translation>
     </message>
 </context>
 <context>
@@ -1490,7 +1492,7 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Import bookmarks from file</source>
-        <translation type="unfinished"/>
+        <translation>importuj zakładki z pliku</translation>
     </message>
     <message>
         <source>&amp;Import</source>
@@ -1498,7 +1500,7 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Export bookmarks to file</source>
-        <translation type="unfinished"/>
+        <translation>Eksportuj zakładki do pliku</translation>
     </message>
     <message>
         <source>&amp;Export</source>
@@ -1525,15 +1527,15 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Import bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>importuj zakładki</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation type="unfinished"/>
+        <translation>Błąd!</translation>
     </message>
     <message>
         <source>Export bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Eksportuj zakładki</translation>
     </message>
 </context>
 <context>
@@ -1638,11 +1640,11 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Loading data...</source>
-        <translation type="unfinished"/>
+        <translation>Ładowanie danych ...</translation>
     </message>
     <message>
         <source>Original message</source>
-        <translation type="unfinished"/>
+        <translation>Oryginalna wiadomość</translation>
     </message>
 </context>
 <context>
@@ -1653,19 +1655,19 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Error! Image can not be loaded.</source>
-        <translation type="unfinished"/>
+        <translation>Błąd! Nie można wczytać obrazu.</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>email:</translation>
     </message>
     <message>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation type="unfinished"/>
+        <translation>Ta wtyczka ma na celu przekazać CAPTCHA bezpośrednio w Psi+.</translation>
     </message>
 </context>
 <context>
@@ -1826,7 +1828,7 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"/>
+        <translation>rozmowa głosowa</translation>
     </message>
     <message>
         <source>Toggle encryption</source>
@@ -1842,7 +1844,7 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"/>
+        <translation>Wyślij</translation>
     </message>
     <message>
         <source>Avatar</source>
@@ -1899,7 +1901,7 @@ Czy nadal chcesz zamknąć to okno?</translation>
     <name>ChatEdit</name>
     <message>
         <source>Paste As Quotation</source>
-        <translation type="unfinished"/>
+        <translation>Wklej jako cytat</translation>
     </message>
     <message>
         <source>Add to dictionary</source>
@@ -1918,11 +1920,11 @@ Czy nadal chcesz zamknąć to okno?</translation>
     </message>
     <message>
         <source>%1 says:</source>
-        <translation type="unfinished"/>
+        <translation>%1 pisze:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="unfinished"/>
+        <translation>Dotyczy:</translation>
     </message>
     <message>
         <source>URL:</source>
@@ -1930,18 +1932,18 @@ Czy nadal chcesz zamknąć to okno?</translation>
     </message>
     <message>
         <source>Desc:</source>
-        <translation type="unfinished"/>
+        <translation>Opis:</translation>
     </message>
 </context>
 <context>
     <name>ChatViewThemeProvider</name>
     <message>
         <source>Chat Message Style</source>
-        <translation type="unfinished"/>
+        <translation>Styl czatu</translation>
     </message>
     <message>
         <source>Configure your chat theme here</source>
-        <translation type="unfinished"/>
+        <translation>Konfiguruj temat czatu tutaj</translation>
     </message>
 </context>
 <context>
@@ -1952,40 +1954,41 @@ Czy nadal chcesz zamknąć to okno?</translation>
     </message>
     <message>
         <source>Chess Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Plugin szachy</translation>
     </message>
     <message>
         <source>Chess!</source>
-        <translation type="unfinished"/>
+        <translation>Szachy!</translation>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation type="unfinished"/>
+        <translation>Już grasz!</translation>
     </message>
     <message>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="unfinished"/>
+        <translation>Twój przeciwnik zamknął planszę! ⏎
+ Nadal można zapisać grę.</translation>
     </message>
     <message>
         <source>The game was rejected</source>
-        <translation type="unfinished"/>
+        <translation>Gra została odrzucona</translation>
     </message>
     <message>
         <source>You Lose.</source>
-        <translation type="unfinished"/>
+        <translation>Przegrałeś!</translation>
     </message>
     <message>
         <source>You Win!</source>
-        <translation type="unfinished"/>
+        <translation>Wygrałeś!</translation>
     </message>
     <message>
         <source>Draw!</source>
-        <translation type="unfinished"/>
+        <translation>Remis!</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="unfinished"/>
+        <translation>Nieznany błąd!</translation>
     </message>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
@@ -2155,47 +2158,47 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>History files: </source>
-        <translation type="unfinished"/>
+        <translation>Pliki historii:</translation>
     </message>
     <message>
         <source>vCards: </source>
-        <translation type="unfinished"/>
+        <translation>Wizytówki:</translation>
     </message>
     <message>
         <source>Avatars: </source>
-        <translation type="unfinished"/>
+        <translation>Awatary:</translation>
     </message>
     <message>
         <source>Clear History</source>
-        <translation type="unfinished"/>
+        <translation>Wyczyść historię</translation>
     </message>
     <message>
         <source>Are You Sure?</source>
-        <translation type="unfinished"/>
+        <translation>Jesteś pewien?</translation>
     </message>
     <message>
         <source>Clear vCards</source>
-        <translation type="unfinished"/>
+        <translation>Wyczyść wizytówki</translation>
     </message>
     <message>
         <source>Clear Avatars</source>
-        <translation type="unfinished"/>
+        <translation>Wyczyść awatary</translation>
     </message>
     <message>
         <source>Clear Options</source>
-        <translation type="unfinished"/>
+        <translation>Wyczyść ustawienia</translation>
     </message>
     <message>
         <source>Not supported yet!</source>
-        <translation type="unfinished"/>
+        <translation>Jeszcze nie obsługiwane!</translation>
     </message>
     <message>
         <source>Choose profile</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz profil</translation>
     </message>
     <message>
         <source>Profile:</source>
-        <translation type="unfinished"/>
+        <translation>Profile:</translation>
     </message>
     <message>
         <source>Clear Juick Cache</source>
@@ -2384,7 +2387,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Activity</source>
-        <translation type="unfinished"/>
+        <translation>Nieznany błąd!</translation>
     </message>
     <message>
         <source>GeoLocation</source>
@@ -17492,7 +17495,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>No one else can read your instant messages.</source>
-        <translation type="unfinished"/>
+        <translation>Nikt inny nie może czytać Twoich wiadomości</translation>
     </message>
     <message>
         <source>Authentication</source>
@@ -17500,7 +17503,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>You are assured the correspondent is who you think it is.</source>
-        <translation type="unfinished"/>
+        <translation>Masz pewność, rozmówca jest tym kim myślisz, że jest.</translation>
     </message>
     <message>
         <source>Deniability</source>
@@ -17512,7 +17515,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
-        <translation type="unfinished"/>
+        <translation>Doskonałe utajnienie przekazywania</translation>
     </message>
     <message>
         <source>If you lose control of your private keys, no previous conversation is compromised.</source>
@@ -17520,7 +17523,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>For further information, see &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Aby uzyskać więcej informacji, zobacz &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</translation>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
@@ -17548,23 +17551,23 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>%1 has ended the private conversation with you; you should do the same.</source>
-        <translation type="unfinished"/>
+        <translation>%1 zakończył prywatną rozmowę z Tobą, powinieneś zrobić to samo.</translation>
     </message>
     <message>
         <source>Private conversation refreshed</source>
-        <translation type="unfinished"/>
+        <translation>Prywatna rozmowa odświeżona</translation>
     </message>
     <message>
         <source>Unverified conversation refreshed</source>
-        <translation type="unfinished"/>
+        <translation>Niezweryfikowana rozmowa odświeżona</translation>
     </message>
     <message>
         <source>Contact authenticated</source>
-        <translation type="unfinished"/>
+        <translation>Kontakt uwierzytelniony</translation>
     </message>
     <message>
         <source>Contact not authenticated</source>
-        <translation type="unfinished"/>
+        <translation>Kontakt nieuwierzytelniony</translation>
     </message>
 </context>
 <context>
