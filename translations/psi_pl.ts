@@ -298,11 +298,11 @@ Zaznacz opcję &lt;b&gt;Utwórz nowe konto&lt;/b&gt;, jeśli chcesz, aby Psi spr
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished"/>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished"/>
+        <translation>psi/addContact</translation>
     </message>
 </context>
 <context>
@@ -355,7 +355,7 @@ Zaznacz opcję &lt;b&gt;Utwórz nowe konto&lt;/b&gt;, jeśli chcesz, aby Psi spr
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished"/>
+        <translation>psi/addContact</translation>
     </message>
     <message>
         <source>&amp;Modify</source>
@@ -367,7 +367,7 @@ Zaznacz opcję &lt;b&gt;Utwórz nowe konto&lt;/b&gt;, jeśli chcesz, aby Psi spr
     </message>
     <message>
         <source>psi/remove</source>
-        <translation type="unfinished"/>
+        <translation>psi/remove</translation>
     </message>
 </context>
 <context>
@@ -469,7 +469,7 @@ Zaznacz opcję &lt;b&gt;Utwórz nowe konto&lt;/b&gt;, jeśli chcesz, aby Psi spr
     </message>
     <message>
         <source>placeholder2</source>
-        <translation type="unfinished"/>
+        <translation>placeholder2</translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
@@ -577,7 +577,7 @@ Zaznacz opcję &lt;b&gt;Utwórz nowe konto&lt;/b&gt;, jeśli chcesz, aby Psi spr
     </message>
     <message>
         <source>Proxy:</source>
-        <translation type="unfinished"/>
+        <translation>Proxy:</translation>
     </message>
     <message>
         <source>STUN/TURN</source>
@@ -628,7 +628,7 @@ Zaznacz opcję &lt;b&gt;Utwórz nowe konto&lt;/b&gt;, jeśli chcesz, aby Psi spr
     </message>
     <message>
         <source>Fixed</source>
-        <translation type="unfinished"/>
+        <translation>Ustalony</translation>
     </message>
     <message>
         <source>Depends on status</source>
@@ -1012,7 +1012,9 @@ Przyczyna: %1</translation>
         <source> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</source>
-        <translation type="unfinished"/>
+        <translation>Włącz nierejestrowaną rozmowę.
+Jeśli zaznaczone, serwer nie będzie
+zapisywał historii dla tego kontaktu.</translation>
     </message>
 </context>
 <context>
@@ -1123,7 +1125,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>psi/vCard</source>
-        <translation type="unfinished"/>
+        <translation>psi/vCard</translation>
     </message>
     <message>
         <source>Group:</source>
@@ -1159,7 +1161,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished"/>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>psi/addContact</source>
@@ -1328,11 +1330,11 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Enable if status is:</source>
-        <translation type="unfinished"/>
+        <translation>Włącz jeśli status jest:</translation>
     </message>
     <message>
         <source>Auto Reply Message:</source>
-        <translation type="unfinished"/>
+        <translation>Auto-odpowiedź:</translation>
     </message>
     <message>
         <source>for JIDs and conferences:</source>
@@ -2038,31 +2040,31 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Load game</source>
-        <translation type="unfinished"/>
+        <translation>Wczytaj grę</translation>
     </message>
     <message>
         <source>Save game</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz grę</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Wyjdź</translation>
     </message>
     <message>
         <source>Resign</source>
-        <translation type="unfinished"/>
+        <translation>Porzucić</translation>
     </message>
     <message>
         <source>Enable sound</source>
-        <translation type="unfinished"/>
+        <translation>Włącz dźwięk</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>Plik</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="unfinished"/>
+        <translation>Gra</translation>
     </message>
     <message>
         <source>*.chs</source>
@@ -2082,31 +2084,31 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished"/>
+        <translation>Historia</translation>
     </message>
     <message>
         <source>vCards</source>
-        <translation type="unfinished"/>
+        <translation>Wizytówki</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished"/>
+        <translation>Awatary</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Opcje</translation>
     </message>
     <message>
         <source>Filter:</source>
-        <translation type="unfinished"/>
+        <translation>Filtr:</translation>
     </message>
     <message>
         <source>Select All Files</source>
-        <translation type="unfinished"/>
+        <translation>Zaznacz wszystkie pliki</translation>
     </message>
     <message>
         <source>Unselect All Files</source>
-        <translation type="unfinished"/>
+        <translation>Odznacz wszystkie pliki</translation>
     </message>
     <message>
         <source>0</source>
@@ -2114,35 +2116,35 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source> files selected</source>
-        <translation type="unfinished"/>
+        <translation>wybrane pliki</translation>
     </message>
     <message>
         <source>Delete selected files</source>
-        <translation type="unfinished"/>
+        <translation>Usuń wybrane pliki</translation>
     </message>
     <message>
         <source>Delete selected</source>
-        <translation type="unfinished"/>
+        <translation>Usuń zaznaczone</translation>
     </message>
     <message>
         <source>Close Psi Cleaner</source>
-        <translation type="unfinished"/>
+        <translation>Zamknij Psi Cleaner</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>Choose &amp;Profile</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz i ustaw</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>i wyjdź</translation>
     </message>
     <message>
         <source>Clear &amp;Juick Cache</source>
-        <translation type="unfinished"/>
+        <translation>wyczyść i opróżnij cache</translation>
     </message>
     <message>
         <source>Clear &amp;Birthdays Cache</source>
@@ -2341,15 +2343,15 @@ You can specify the version of the client and OS or to select them from the pres
     <name>ConferenceLogger</name>
     <message>
         <source>You can find your logs here:</source>
-        <translation type="unfinished"/>
+        <translation>Tutaj możesz znaleźć Twoje logi</translation>
     </message>
     <message>
         <source>Logs:</source>
-        <translation type="unfinished"/>
+        <translation>Logi:</translation>
     </message>
     <message>
         <source>View Log</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż log</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2357,7 +2359,7 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
     <message>
         <source>Conference History</source>
-        <translation type="unfinished"/>
+        <translation>Historia konferencji</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -2407,11 +2409,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Manage Bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Zarządzaj zakładkami</translation>
     </message>
     <message>
         <source>Join Groupchat</source>
-        <translation type="unfinished"/>
+        <translation>dołącz do konferencji</translation>
     </message>
     <message>
         <source>&amp;Add a Contact</source>
@@ -2427,7 +2429,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Privacy Lists</source>
-        <translation type="unfinished"/>
+        <translation>Listy prywatności</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
@@ -2463,11 +2465,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"/>
+        <translation>Konferencja</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation type="unfinished"/>
+        <translation>Dodatki</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
@@ -2486,15 +2488,15 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Resend Authorization to Group</source>
-        <translation type="unfinished"/>
+        <translation>Wyślij ponownie autoryzację dla grupy</translation>
     </message>
     <message>
         <source>Request Authorization from Group</source>
-        <translation type="unfinished"/>
+        <translation>poproś grupę o autoryzację</translation>
     </message>
     <message>
         <source>Remove Authorization from Group</source>
-        <translation type="unfinished"/>
+        <translation>Usuń autoryzację grupy</translation>
     </message>
     <message>
         <source>Send Status to Group</source>
@@ -2750,15 +2752,15 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>No contacts found in file %1</source>
-        <translation type="unfinished"/>
+        <translation>nie znaleziono kontaktów w pliku %1</translation>
     </message>
     <message>
         <source>Confirm contacts importing</source>
-        <translation type="unfinished"/>
+        <translation>potwierdź import kontaktów</translation>
     </message>
     <message>
         <source>Do you really want to import these contacts?</source>
-        <translation type="unfinished"/>
+        <translation>Czy na pewno chcesz zaimportować te kontakty?</translation>
     </message>
 </context>
 <context>
@@ -2769,34 +2771,34 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"/>
+        <translation>Grupa</translation>
     </message>
     <message>
         <source>Node</source>
-        <translation type="unfinished"/>
+        <translation>Węzeł</translation>
     </message>
     <message>
         <source>Domain</source>
-        <translation type="unfinished"/>
+        <translation>Domena</translation>
     </message>
     <message>
         <source>Subscription</source>
-        <translation type="unfinished"/>
+        <translation>Subskrypcja</translation>
     </message>
 </context>
 <context>
     <name>ContactManagerView</name>
     <message>
         <source>Check</source>
-        <translation type="unfinished"/>
+        <translation>Zaznacz</translation>
     </message>
     <message>
         <source>Uncheck</source>
-        <translation type="unfinished"/>
+        <translation>Odznacz</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Odwróć</translation>
     </message>
 </context>
 <context>
@@ -2847,7 +2849,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Activity</source>
-        <translation type="unfinished"/>
+        <translation>Aktywność</translation>
     </message>
     <message>
         <source>Set Avatar</source>
@@ -3165,7 +3167,7 @@ Kontynuować?</translation>
     <message>
         <source>ToolBar will be placed here</source>
         <comment>Don't translate this string</comment>
-        <translation type="unfinished"/>
+        <translation>Belka zostanie umieszczona tutaj</translation>
     </message>
     <message>
         <source>&amp;Address:</source>
@@ -3181,7 +3183,7 @@ Kontynuować?</translation>
     </message>
     <message>
         <source>Filter by JID:</source>
-        <translation type="unfinished"/>
+        <translation>Filtruj według JID:</translation>
     </message>
     <message>
         <source>Auto-browse into objects</source>
@@ -3268,7 +3270,7 @@ Kontynuować?</translation>
     </message>
     <message>
         <source>Unregister</source>
-        <translation type="unfinished"/>
+        <translation>Wyrejestruj</translation>
     </message>
     <message>
         <source>&amp;Unregister</source>
@@ -3316,7 +3318,7 @@ Kontynuować?</translation>
     </message>
     <message>
         <source>Query version</source>
-        <translation type="unfinished"/>
+        <translation>Wersja zapytania</translation>
     </message>
     <message>
         <source>&amp;Query version</source>
@@ -3452,77 +3454,77 @@ Kontynuować?</translation>
     </message>
     <message>
         <source>Use for</source>
-        <translation type="unfinished"/>
+        <translation>Użyj do</translation>
     </message>
     <message>
         <source>Chats</source>
-        <translation type="unfinished"/>
+        <translation>Rozmowy</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished"/>
+        <translation>Konferencje</translation>
     </message>
     <message>
         <source>Always play sound</source>
-        <translation type="unfinished"/>
+        <translation>Zawsze odtwarzaj dźwięk</translation>
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="unfinished"/>
+        <translation>Dźwięk:</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz plik dźwięku</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Dźwięk (*.wav)</translation>
     </message>
 </context>
 <context>
     <name>EditNote</name>
     <message>
         <source>Edit Note</source>
-        <translation type="unfinished"/>
+        <translation>Edytuj notatkę</translation>
     </message>
     <message>
         <source>Title:</source>
-        <translation type="unfinished"/>
+        <translation>Tytuł:</translation>
     </message>
     <message>
         <source>Tags:</source>
-        <translation type="unfinished"/>
+        <translation>Tagi:</translation>
     </message>
 </context>
 <context>
     <name>EditServerDlg</name>
     <message>
         <source>Server Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ustawienia serwera</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"/>
+        <translation>Nazwa:</translation>
     </message>
     <message>
         <source>Url:</source>
-        <translation type="unfinished"/>
+        <translation>Adres:</translation>
     </message>
     <message>
         <source>User Name*:</source>
-        <translation type="unfinished"/>
+        <translation>Nazwa użytkownika*:</translation>
     </message>
     <message>
         <source>Password*:</source>
-        <translation type="unfinished"/>
+        <translation>Hasło*:</translation>
     </message>
     <message>
         <source>PostData**:</source>
-        <translation type="unfinished"/>
+        <translation>Data wpisu**:</translation>
     </message>
     <message>
         <source>File Input**:</source>
-        <translation type="unfinished"/>
+        <translation>Plik wejściowy**:</translation>
     </message>
     <message>
         <source>RegExp**:</source>
@@ -3530,11 +3532,11 @@ Kontynuować?</translation>
     </message>
     <message>
         <source>*for FTP servers only</source>
-        <translation type="unfinished"/>
+        <translation>*tylko dla serwerów FTP</translation>
     </message>
     <message>
         <source>**for HTTP servers only</source>
-        <translation type="unfinished"/>
+        <translation>**tylko dla serwerów HTTP</translation>
     </message>
     <message>
         <source>Use proxy server</source>
@@ -3882,113 +3884,115 @@ Jeśli chcesz potwierdzić te żądanie, naciśnij przycisk Potwierdź. W przeci
     </message>
     <message>
         <source>Enable icons in chat</source>
-        <translation type="unfinished"/>
+        <translation>Włącz ikony podczas rozmowy</translation>
     </message>
     <message>
         <source>Scaled message icons</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz ikony rozmowy</translation>
     </message>
     <message>
         <source>Show Avatar</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż awatar</translation>
     </message>
     <message>
         <source>Disable &quot;Paste and Send&quot; button</source>
-        <translation type="unfinished"/>
+        <translation>Wyłącz przycisk &quot;wklej i wyślij&quot;</translation>
     </message>
     <message>
         <source>Enable &quot;Says style&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Włącz &quot;styl rozmowy&quot;</translation>
     </message>
     <message>
         <source>Hide &quot;Send&quot; button</source>
-        <translation type="unfinished"/>
+        <translation>Ukryj przycisk &quot;Wyślij&quot;</translation>
     </message>
     <message>
         <source>Avatar size:</source>
-        <translation type="unfinished"/>
+        <translation>Rozmiar awatara:</translation>
     </message>
     <message>
         <source>Default JID mode:</source>
-        <translation type="unfinished"/>
+        <translation>Domyślny tryb JID:</translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="unfinished"/>
+        <translation>Automatyczna duża pierwsza litera</translation>
     </message>
     <message>
         <source>Automatically scroll down the log when a message was sent</source>
-        <translation type="unfinished"/>
+        <translation>Automatycznie przewija w dół log po wysłaniu wiadomości</translation>
     </message>
     <message>
         <source>Show status changes</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż zmiany statusu</translation>
     </message>
     <message>
         <source>Show status priority</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż priorytet statusu</translation>
     </message>
     <message>
         <source>Chat window caption:</source>
-        <translation type="unfinished"/>
+        <translation>Podpis okna rozmowy:</translation>
     </message>
     <message>
         <source>Default JID mode ignore list:</source>
-        <translation type="unfinished"/>
+        <translation>Ignorowana lista domyślnego trybu JID</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Ogólne</translation>
     </message>
     <message>
         <source>Show joins</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż połączenia</translation>
     </message>
     <message>
         <source>Show initial joins</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż początkowe połączenia</translation>
     </message>
     <message>
         <source>Show status with priority</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż status z priorytetem</translation>
     </message>
     <message>
         <source>Show roles and affiliations changes</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż zmiany rol i przynależność</translation>
     </message>
     <message>
         <source>Enable autojoin for bookmarked conferences</source>
-        <translation type="unfinished"/>
+        <translation>Włącz auto-łączenie z zapamiętanymi konferencjami</translation>
     </message>
     <message>
         <source>Hide auto-join conferences</source>
-        <translation type="unfinished"/>
+        <translation>Ukryj auto-łącz konferencje</translation>
     </message>
     <message>
         <source>Enable HTML rendering in MUC chat window</source>
-        <translation type="unfinished"/>
+        <translation>Włącz renderowanie HTML w MUC okna rozmowy</translation>
     </message>
     <message>
         <source>Automatically accept the default room configuration</source>
-        <translation type="unfinished"/>
+        <translation>Automatycznie akceptuj domyślną konfigurację pokoju</translation>
     </message>
     <message>
         <source>Automatically accept the default room configuration when a new room is created</source>
-        <translation type="unfinished"/>
+        <translation>Automatycznie akceptuj domyślną konfigurację pokoju kiedy tworzony jest nowy pokój</translation>
     </message>
     <message>
         <source>Automatically open the configuration dialog when a new room is created</source>
-        <translation type="unfinished"/>
+        <translation>Automatycznie otwórz okno konfiguracji przy tworzeniu nowego pokoju</translation>
     </message>
     <message>
         <source>Automatically open the configuration dialog when a new room is created.
 This option only has effect if accept-defaults is false.</source>
-        <translation type="unfinished"/>
+        <translation>Automatycznie otwórz okno konfiguracji przy tworzeniu nowego pokoju
+Ta opcja działa tylko jeżeli nie zaakceptowano domyślnej</translation>
     </message>
     <message>
         <source>Disable autojoin to folowing conferences:
 (specify JIDs)</source>
-        <translation type="unfinished"/>
+        <translation>Wyłącz auto-łączenie dla wybranych konferencji:
+(podaj JID)</translation>
     </message>
     <message>
         <source>MUC leave status message:</source>
@@ -3996,91 +4000,91 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Place MUC roster at left</source>
-        <translation type="unfinished"/>
+        <translation>Umieść MCU roster po lewej</translation>
     </message>
     <message>
         <source>Show groups</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż grupy</translation>
     </message>
     <message>
         <source>Use slim group heading</source>
-        <translation type="unfinished"/>
+        <translation>Użyj cienkiego nagłówka grup</translation>
     </message>
     <message>
         <source>Show status icons</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż ikony statusu</translation>
     </message>
     <message>
         <source>Show affiliation icons</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż ikony przynależności</translation>
     </message>
     <message>
         <source>Show client icons</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż ikony klienta</translation>
     </message>
     <message>
         <source>Show avatars</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż awatary</translation>
     </message>
     <message>
         <source>Place avatars at left</source>
-        <translation type="unfinished"/>
+        <translation>Umieść awatary po lewej</translation>
     </message>
     <message>
         <source>Sort style for contacts:</source>
-        <translation type="unfinished"/>
+        <translation>Styl sortowania kontaktów:</translation>
     </message>
     <message>
         <source>Avatars size:</source>
-        <translation type="unfinished"/>
+        <translation>Rozmiar awatara:</translation>
     </message>
     <message>
         <source>Avatars radius:</source>
-        <translation type="unfinished"/>
+        <translation>Kąt awatara:</translation>
     </message>
     <message>
         <source>Resolve nicks on contact add</source>
-        <translation type="unfinished"/>
+        <translation>Pobieraj niki przy dodawania kontaktów</translation>
     </message>
     <message>
         <source>Lockdown roster</source>
-        <translation type="unfinished"/>
+        <translation>Zablokuj listę</translation>
     </message>
     <message>
         <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
-        <translation type="unfinished"/>
+        <translation>Umieść listę po lewej w trybie &quot;wszystko w jednym oknie&quot;</translation>
     </message>
     <message>
         <source>Contact name and status message in a row</source>
-        <translation type="unfinished"/>
+        <translation>Nazwa kontaktu i opis statusu w wierszu</translation>
     </message>
     <message>
         <source>If contact does not have avatar, use default avatar</source>
-        <translation type="unfinished"/>
+        <translation>Jeśli kontakt nie ma awatara, użyj domyślny</translation>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="unfinished"/>
+        <translation>Umieść Ikonę stanu za awatarem</translation>
     </message>
     <message>
         <source>Automatically remove temporary contacts</source>
-        <translation type="unfinished"/>
+        <translation>Automatycznie usuwaj tymczasowe kontakty</translation>
     </message>
     <message>
         <source>Tooltips:</source>
-        <translation type="unfinished"/>
+        <translation>Podpowiedzi:</translation>
     </message>
     <message>
         <source>Show avatar</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż awatar</translation>
     </message>
     <message>
         <source>Show last status</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż ostatni status</translation>
     </message>
     <message>
         <source>Show PGP</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż PGP</translation>
     </message>
     <message>
         <source>Show client version</source>
@@ -4696,15 +4700,15 @@ Przyczyna: %3</translation>
     <name>Form</name>
     <message>
         <source>Proxy Authentication Required</source>
-        <translation type="unfinished"/>
+        <translation>Wymagana autoryzacja proxy</translation>
     </message>
     <message>
         <source>Load Content List</source>
-        <translation type="unfinished"/>
+        <translation>Załaduj listę zawartości</translation>
     </message>
     <message>
         <source>Download and Install</source>
-        <translation type="unfinished"/>
+        <translation>Pobierz i zainstaluj</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -4715,7 +4719,7 @@ Przyczyna: %3</translation>
     <name>Frame</name>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>Ramka</translation>
     </message>
 </context>
 <context>
@@ -4745,7 +4749,7 @@ Przyczyna: %3</translation>
     <name>GCMainDlg</name>
     <message>
         <source>Find toolbar</source>
-        <translation type="unfinished"/>
+        <translation>pasek wyszukiwania</translation>
     </message>
     <message>
         <source>Clear Chat Window</source>
@@ -4769,7 +4773,7 @@ Przyczyna: %3</translation>
     </message>
     <message>
         <source>Set Text Format</source>
-        <translation type="unfinished"/>
+        <translation>Ustaw format tekstu</translation>
     </message>
     <message>
         <source>Select Icon</source>
@@ -4785,15 +4789,15 @@ Przyczyna: %3</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished"/>
+        <translation>Wklej i wyślij</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"/>
+        <translation>Szablony</translation>
     </message>
     <message>
         <source>Copy MUC JID</source>
-        <translation type="unfinished"/>
+        <translation>Kopiuj MCU JID</translation>
     </message>
     <message>
         <source> by %1</source>
@@ -4807,11 +4811,11 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Edit bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Edytuj zakładkę</translation>
     </message>
     <message>
         <source>Add to bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj do zakładek</translation>
     </message>
     <message>
         <source>Error: Cannot parse command: </source>
@@ -4873,7 +4877,7 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source> and now is %1</source>
-        <translation type="unfinished"/>
+        <translation>a teraz jest %1</translation>
     </message>
     <message>
         <source>%1 is now %2 and %3</source>
@@ -4885,7 +4889,7 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source> (Reason: %1)</source>
-        <translation type="unfinished"/>
+        <translation>(Przyczyna: %1)</translation>
     </message>
     <message>
         <source>This room has been destroyed.</source>
@@ -4989,15 +4993,15 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>The topic has been set to</source>
-        <translation type="unfinished"/>
+        <translation>Wątek został ustawiony na</translation>
     </message>
     <message>
         <source> has unset the topic</source>
-        <translation type="unfinished"/>
+        <translation>wątek został usunięty</translation>
     </message>
     <message>
         <source> has set the topic to</source>
-        <translation type="unfinished"/>
+        <translation>wątek ustawiono na</translation>
     </message>
     <message>
         <source>Connected.</source>
@@ -5005,15 +5009,15 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Usuń</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Rezygnuj</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
