@@ -1241,11 +1241,11 @@ Przykłady:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;użytkownikjabbera@jakiśhost
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz plik dźwięku</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Dźwięk (*.wav)</translation>
     </message>
     <message>
         <source>Attention Plugin</source>
@@ -1257,11 +1257,11 @@ Przykłady:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;użytkownikjabbera@jakiśhost
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>email: </translation>
     </message>
     <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
@@ -1288,23 +1288,23 @@ To work correctly, the plugin requires that the client of the other part support
     <name>AutoReply</name>
     <message>
         <source>Enable</source>
-        <translation type="unfinished"/>
+        <translation>Włącz</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished"/>
+        <translation>Wyłącz</translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation type="unfinished"/>
+        <translation>Wyłącz, jeśli okno rozmowy jest aktywne</translation>
     </message>
     <message>
         <source>Disable if contact isn&apos;t from your roster</source>
-        <translation type="unfinished"/>
+        <translation>Wyłącz, jeśli kontakt nie jest z Twojego listy</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished"/>
+        <translation>Zalogowany</translation>
     </message>
     <message>
         <source>Away</source>
@@ -1320,11 +1320,11 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Rozmowa</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Niewidoczny</translation>
     </message>
     <message>
         <source>Enable if status is:</source>
@@ -2391,7 +2391,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation type="unfinished"/>
+        <translation>Geolokalizacja</translation>
     </message>
     <message>
         <source>Set Avatar</source>
