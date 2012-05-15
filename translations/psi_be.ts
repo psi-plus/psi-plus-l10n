@@ -90,7 +90,7 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Current Maintainer and Original Author</source>
-        <translation>Бягучы суправаджальнік і першапачатны аўтар</translation>
+        <translation>Суправаджальнік і першапачатны аўтар</translation>
     </message>
     <message>
         <source>Past Lead Developer and Maintainer</source>
@@ -122,7 +122,7 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Patcher and Plugins Writer</source>
-        <translation>Стварае латкі, піша ўтулкі</translation>
+        <translation>Стварае латкі, піша ўбудовы</translation>
     </message>
     <message>
         <source>Designer and Patcher</source>
@@ -215,9 +215,9 @@ Join the translation team today! Go to
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <translation>Павал «Клёк» Шаламіцкі&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://vk.com/klyok&quot;&gt;http://vk.com/klyok&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Jabber: &lt;a href=&quot;xmpp:kliok@jabber.org.by&quot;&gt;kliok@jabber.org.by&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.kliok@gmail.com&quot;&gt;i.kliok@gmail.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Бачына: &lt;a href=&quot;http://vk.com/klyok&quot;&gt;http://vk.com/klyok&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Джабэр: &lt;a href=&quot;xmpp:kliok@jabber.org.by&quot;&gt;kliok@jabber.org.by&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Пошта: &lt;a href=&quot;mailto:i.kliok@gmail.com&quot;&gt;i.kliok@gmail.com&lt;/a&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;Перакладае&lt;br&gt;
 &lt;br&gt;
 Дамінік&lt;br&gt;
@@ -390,7 +390,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Jabber ID:</source>
-        <translation>Адрас джабэру:</translation>
+        <translation>Джабэр:</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -673,7 +673,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the Jabber ID you are logging in as.</source>
-        <translation>Тут можна абраць імя карыстальніка (і вузел), якімі жадаеце апазнавацца. Яны заменяць ваш адрас джабэру, зь якім вы ўваходзіце.</translation>
+        <translation>Тут можна абраць імя карыстальніка (і вузел), якімі жадаеце апазнавацца. Яны заменяць адрас джабэру, зь якім вы ўваходзіце.</translation>
     </message>
     <message>
         <source>&lt;p&gt;You can have multiple clients connected to the Jabber server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your Jabber client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
@@ -737,7 +737,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Enter the Jabber ID of the contact to block:</source>
-        <translation>Упішыце адрас джабэру суразмоўцы, якога трэба забараніць:</translation>
+        <translation>Упішыце джабэр суразмоўцы, якога трэба забараніць:</translation>
     </message>
     <message>
         <source>Retrieving blocked contact list ...</source>
@@ -883,7 +883,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>You have successfully registered your account with Jabber ID &apos;%1&apos;</source>
-        <translation>Запісаліся. Ваш адрас у джабэры: «%1»</translation>
+        <translation>Запісаліся. Ваш джабэр: «%1»</translation>
     </message>
     <message>
         <source>There was an error registering the account.
@@ -915,7 +915,7 @@ Reason: %1</source>
     <name>AccountRemoveDlg</name>
     <message>
         <source>&amp;Remove</source>
-        <translation>&amp;Прыбраць</translation>
+        <translation>&amp;Выдаліць</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -1082,7 +1082,7 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Каб дадаць карыстальніка &lt;span style=&quot; font-weight:600;&quot;&gt;джабэру&lt;/span&gt;, проста запоўніце ў ніжняй частцы поле «Адрас джабэру» (таксама можна, але не абавязкова, вызначыць мянушку ды суполку) і націсьніце «&lt;span style=&quot; font-style:italic;&quot;&gt;Дадаць&lt;/span&gt;».&lt;br /&gt;&lt;br /&gt;Каб дадаць суразмоўцу &lt;span style=&quot; font-weight:600;&quot;&gt;ня з джабэру&lt;/span&gt;, спачатку ўпэўніцеся, што вы запісаліся ў адпаведнай службе (глядзіце пункт «Агляд службаў» у галоўным мэню), а потым абярыце службу са сьпісу ўверсе. Кіруйцеся падказкамі, што будуць у рамцы «&lt;span style=&quot; font-style:italic;&quot;&gt;Перакласьці адрас службы&lt;/span&gt;», а потым націсьніце «&lt;span style=&quot; font-style:italic;&quot;&gt;Атрымаць адрас джабэру&lt;/span&gt;».&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Каб дадаць карыстальніка &lt;span style=&quot; font-weight:600;&quot;&gt;джабэру&lt;/span&gt;, проста запоўніце ў ніжняй частцы поле «Джабэр» (таксама можна, але не абавязкова, вызначыць мянушку ды суполку) і націсьніце «&lt;span style=&quot; font-style:italic;&quot;&gt;Дадаць&lt;/span&gt;».&lt;br /&gt;&lt;br /&gt;Каб дадаць суразмоўцу &lt;span style=&quot; font-weight:600;&quot;&gt;ня з джабэру&lt;/span&gt;, спачатку ўпэўніцеся, што вы запісаліся ў адпаведнай службе (глядзіце пункт «Шукаць службы» ў галоўным мэню), а потым абярыце службу са сьпісу ўверсе. Кіруйцеся падказкамі, што будуць у рамцы «&lt;span style=&quot; font-style:italic;&quot;&gt;Перакласьці адрас службы&lt;/span&gt;», а потым націсьніце «&lt;span style=&quot; font-style:italic;&quot;&gt;Атрымаць адрас&lt;/span&gt;».&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Service:</source>
@@ -1102,7 +1102,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Get Jabber ID</source>
-        <translation>Атрымаць адрас джабэру</translation>
+        <translation>Атрымаць адрас</translation>
     </message>
     <message>
         <source>psi/vCard</source>
@@ -1122,7 +1122,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Jabber ID:</source>
-        <translation>Адрас джабэру:</translation>
+        <translation>Джабэр:</translation>
     </message>
     <message>
         <source>Request authorization when adding</source>
@@ -1165,13 +1165,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Please fill in the Jabber ID of the person you wish to add.</source>
-        <translation>Пазначце адрас джабэру чалавека, якога жадаеце дадаць.</translation>
+        <translation>Пазначце джабэр чалавека, якога жадаеце дадаць.</translation>
     </message>
     <message>
         <source>The Jabber ID you entered is not valid!
 Make sure you enter a fully qualified Jabber ID.</source>
-        <translation>Пазначылі хібны адрас джабэру!
-Упэўніцеся, адрас джабэру напісалі без памылак.</translation>
+        <translation>Пазначылі хібны джабэр!
+Упэўніцеся, што адрас джабэру напісалі без памылак.</translation>
     </message>
     <message>
         <source>Add User: Success</source>
@@ -1189,7 +1189,7 @@ Make sure you enter a fully qualified Jabber ID.</source>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the Jabber ID manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aoluser@[Jabber ID of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[Jabber ID of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[Jabber ID of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[Jabber ID of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
         <translation>&lt;qt&gt;
-Далі хібу, калі атрымвалі ад «%1» зьвесткі, каб перакласьці азначальнік службы.&lt;br&gt;Падстава: %2&lt;br&gt;&lt;br&gt;Магчыма, служба гэтага не падтрымвае.  У гэтым выпадку трэба самастойна вызначыць адрас джабэру асобы, якую жадаеце дадаць.  Прыклады:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;karystalnikDZHABERU@pasluzhnik.by&lt;br&gt;&amp;nbsp;&amp;nbsp;karystalnikAOL@[адрас транспарту AIM]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[адрас транспарту ICQ]&lt;br&gt;&amp;nbsp;&amp;nbsp;jan%hotmail.com@[адрас джабэру транспарту MSN]&lt;br&gt;&amp;nbsp;&amp;nbsp;karystalnikYahoo@[адрас транспарту Yahoo]&lt;br&gt;&lt;/qt&gt;</translation>
+Далі хібу, калі атрымвалі ад «%1» зьвесткі, каб перакласьці адрас службы.&lt;br&gt;Падстава: %2&lt;br&gt;&lt;br&gt;Магчыма, служба гэтага не падтрымвае.  У гэтым выпадку трэба самастойна ўпісаць джабэр чалавека, якога жадаеце дадаць.  Прыклады:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;karystalnikDZHABERU@pasluzhnik.by&lt;br&gt;&amp;nbsp;&amp;nbsp;karystalnikAOL@[адрас транспарту AIM]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[адрас транспарту ICQ]&lt;br&gt;&amp;nbsp;&amp;nbsp;jan%hotmail.com@[адрас транспарту MSN]&lt;br&gt;&amp;nbsp;&amp;nbsp;karystalnikYahoo@[адрас транспарту Yahoo]&lt;br&gt;&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
@@ -1371,7 +1371,7 @@ To work correctly, the plugin requires that the client of the other part support
 The list of exceptions for jids has two operating modes:
 * auto-responder is switched off for the list of exceptions, for the others is switched on (Disable mode)
 * auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
-        <translation>Убудова працуе як самарушны адказьнік. Некалькі нескладаных можнасьцяў утулкі дазваляюць вызначыць:
+        <translation>Убудова працуе як самарушны адказьнік. Некалькі нескладаных можнасьцяў убудовы дазваляюць вызначыць:
 • што будзе паведамляць адказьнік,
 • якім суразмоўцам або нарадам ня трэба адказваць (калі нарада ў выключэньнях, гэта паўплывае й на асабістыя паведамленьні),
 • на якіх рахунках не дазваляць самарушна адказваць,
@@ -1762,7 +1762,7 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Current password:</source>
-        <translation>Бягучы пароль:</translation>
+        <translation>Пароль зараз:</translation>
     </message>
     <message>
         <source>New password:</source>
@@ -2014,7 +2014,7 @@ The plugin is compatible with a similar plugin for Tkabber.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
         <translation>Убудова дазваляеце гуляць зь сябрамі ў шахматы.
 Убудова можа працаваць разам з такою ж убудоваю для «Tkabber».
-Убудова можа працаваць паўсюдна, дзе можна ўвайсьці ў рахунак, бо загады дасылаюцца звычайнымі паведамленьнямі. Прапанаваць суразмоўцу пагуляць можна праз пункт выплыўнога мэню суразмоўцы ці націснуўшы на гузік у вакне гутаркі.</translation>
+Убудова можа працаваць паўсюдна, дзе можна ўвайсьці ў рахунак, бо загады дасылаюцца звычайнымі паведамленьнямі. Прапанаваць суразмоўцу пагуляць можна праз пункт выплыўнога мэню суразмоўцы ці націснуўшы кнопку ў вакне гутаркі.</translation>
     </message>
 </context>
 <context>
@@ -2420,7 +2420,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Service &amp;Discovery</source>
-        <translation>&amp;Агляд службаў</translation>
+        <translation>&amp;Шукаць службы</translation>
     </message>
     <message>
         <source>New &amp;Blank Message</source>
@@ -2495,7 +2495,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Remove Authorization from Group</source>
-        <translation>Скасаваць зацьверджаньне ва ўсіх з суполкі</translation>
+        <translation>Забраць зацьверджаньне ва ўсіх з суполкі</translation>
     </message>
     <message>
         <source>Send Status to Group</source>
@@ -2719,7 +2719,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Please fill parameter field with new domain name</source>
-        <translation>Запоўніце поле парамэтра назваю вузла</translation>
+        <translation>Запоўніце поле парамэтру назваю вузла</translation>
     </message>
     <message>
         <source>Roster file</source>
@@ -2880,7 +2880,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Service &amp;Discovery</source>
-        <translation>&amp;Агляд службаў</translation>
+        <translation>&amp;Шукаць службы</translation>
     </message>
     <message>
         <source>New &amp;Blank Message</source>
@@ -3160,7 +3160,7 @@ Proceed?</source>
     <name>Disco</name>
     <message>
         <source>Service Discovery</source>
-        <translation>Агляд службаў</translation>
+        <translation>Шукаць службы</translation>
     </message>
     <message>
         <source>ToolBar will be placed here</source>
@@ -3208,7 +3208,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation>Агляд службаў</translation>
+        <translation>Шукаць службы</translation>
     </message>
     <message>
         <source>Browse Services</source>
@@ -3324,7 +3324,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Service Discovery toolbar</source>
-        <translation>Паліца «Агляду службаў»</translation>
+        <translation>Паліца «Шукаць службы»</translation>
     </message>
 </context>
 <context>
@@ -3405,7 +3405,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Do you want to castle?</source>
-        <translation>Ці хочаце вы зрабіць ракіроўку?</translation>
+        <translation>Ці хочаце зрабіць ракіроўку?</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -3435,7 +3435,7 @@ Proceed?</source>
     </message>
     <message>
         <source>JID*</source>
-        <translation>Азначальнікам¹</translation>
+        <translation>Адрасам¹</translation>
     </message>
     <message>
         <source>Text**</source>
@@ -3698,7 +3698,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to subscribe to your presence.  Click the button labelled &quot;Add/Auth&quot; to authorize the subscription.  This will also add the person to your contact list if it is not already there.</source>
-        <translation>&lt;big&gt;[Паведамленьне сыстэмы]&lt;/big&gt;&lt;br&gt;Карыстальнік жадае бачыць зьмены вашага стану.  Націсьніце на гузік «Дазволіць», каб зацьвердзіць зьмяненьні.  Калі гэтага чалавеку раней не было ў сьпісе суразмоўцаў, ён там зьявіцца.</translation>
+        <translation>&lt;big&gt;[Паведамленьне сыстэмы]&lt;/big&gt;&lt;br&gt;Карыстальнік жадае бачыць зьмены вашага стану.  Націсьніце «Дазволіць», каб зацьвердзіць зьмененае.  Калі гэтага чалавеку раней не было ў сьпісе суразмоўцаў, ён там зьявіцца.</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
@@ -3741,7 +3741,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <name>EventNotifierAction</name>
     <message>
         <source>&lt;Event notifier&gt;</source>
-        <translation>&lt;Паведамляльнік&gt;</translation>
+        <translation>&lt;Апавяшчэньні&gt;</translation>
     </message>
 </context>
 <context>
@@ -3804,7 +3804,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Copy JID</source>
-        <translation>Перапісаць азначальнік</translation>
+        <translation>Перапісаць джабэр</translation>
     </message>
     <message>
         <source>Copy Nick</source>
@@ -3911,7 +3911,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Default JID mode:</source>
-        <translation>Спосаб паказваць азначальнікі:</translation>
+        <translation>Спосаб паказваць адрас:</translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
@@ -3935,7 +3935,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Default JID mode ignore list:</source>
-        <translation>Сьпіс азначальнікаў, на якія не зважаць</translation>
+        <translation>Сьпіс адрасоў, на якія не зважаць:</translation>
     </message>
     <message>
         <source>General</source>
@@ -4203,7 +4203,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Put tabs at bottom of chat window</source>
-        <translation>Разьмясьціць укладкі ўнізе вакна гутаркі</translation>
+        <translation>Разьмясьціць карткі ўнізе вакна гутаркі</translation>
     </message>
     <message>
         <source>Show Close Button on tabs</source>
@@ -4382,7 +4382,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>The Jabber ID specified is not valid.  Correct this and try again.</source>
-        <translation>Пазначылі хібны адрас джабэру.  Выпраўце яго ды паспрабуйце зноўку.</translation>
+        <translation>Пазначылі хібны джабэр.  Выпраўце яго ды паспрабуйце зноўку.</translation>
     </message>
     <message>
         <source>The file specified does not exist.  Choose a correct file name before sending.</source>
@@ -4451,7 +4451,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>File I/O error</source>
-        <translation>Далі хібу, калі чыталі</translation>
+        <translation>Памылка чытаньня</translation>
     </message>
     <message>
         <source>Unable to accept the file.  Perhaps the sender has cancelled the request.</source>
@@ -4599,7 +4599,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>File I/O error (%1)</source>
-        <translation>Далі хібу, калі чыталі файл (%1)</translation>
+        <translation>Памылка чытаньня (%1)</translation>
     </message>
 </context>
 <context>
@@ -4684,7 +4684,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
-        <translation>Відарысы (*.png, *.xpm, *.jpg, *.jpeg, *.PNG, *.XPM, *.JPG, *.JPEG)</translation>
+        <translation>Выявы (*.png, *.xpm, *.jpg, *.jpeg, *.PNG, *.XPM, *.JPG, *.JPEG)</translation>
     </message>
 </context>
 <context>
@@ -4783,7 +4783,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Enter Command...</source>
-        <translation>Набярыце загад…</translation>
+        <translation>Набраць загад…</translation>
     </message>
     <message>
         <source>Paste and Send</source>
@@ -4899,7 +4899,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
-        <translation>Ці жадаеце вы перайсьці ў іншае месца («%1»)?</translation>
+        <translation>Ці жадаеце перайсьці ў іншае месца («%1»)?</translation>
     </message>
     <message>
         <source>Room Destroyed</source>
@@ -4967,7 +4967,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>You have been removed from the room because the room was made members only</source>
-        <translation>Вас выкінулі з пакою: гэты пакой толькі для чальцоў</translation>
+        <translation>Вас прыбралі з пакою: гэты пакой толькі для чальцоў</translation>
     </message>
     <message>
         <source>You have been removed from the room by %1 because the room was made members only</source>
@@ -5246,11 +5246,11 @@ You will lose it</source>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Захаваць малюнак</translation>
+        <translation>Захаваць выяву</translation>
     </message>
     <message>
         <source>Do you want to save the image?</source>
-        <translation>Ці жадаеце захаваць відарыс?</translation>
+        <translation>Ці жадаеце захаваць выяву?</translation>
     </message>
     <message>
         <source>Yes, save</source>
@@ -5640,7 +5640,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Block gmail contact</source>
-        <translation>Замкнуць суразмоўцу</translation>
+        <translation>Забараніць суразмоўцу з «Gmail»</translation>
     </message>
     <message>
         <source>Authors: </source>
@@ -5661,7 +5661,7 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
     <message>
         <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
-        <translation>Убудова падтрымвае зьмяненьні стану прысутнасьці паводле «GNOME 3»</translation>
+        <translation>Убудова падтрымвае зьмены стану прысутнасьці паводле «GNOME 3»</translation>
     </message>
 </context>
 <context>
@@ -5686,7 +5686,7 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
         <source>This plugin allows you to play gomoku with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
         <translation>Убудова дазваляеце гуляць зь сябрамі ў ґамоку («пяць у шэраг»).
-Убудова можа працаваць паўсюдна, дзе можна ўвайсьці ў рахунак, бо загады дасылаюцца звычайнымі паведамленьнямі. Прапанаваць суразмоўцу пагуляць можна праз пункт выплыўнога мэню суразмоўцы ці націснуўшы на гузік у вакне гутаркі.</translation>
+Убудова можа працаваць паўсюдна, дзе можна ўвайсьці ў рахунак, бо загады дасылаюцца звычайнымі паведамленьнямі. Прапанаваць суразмоўцу пагуляць можна праз пункт выплыўнога мэню суразмоўцы ці націснуўшы кнопку ў вакне гутаркі.</translation>
     </message>
     <message>
         <source>Gomoku game</source>
@@ -5746,7 +5746,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Show your name in the groupchat as:</source>
-        <translation>Паказваць вашае ймя ў нарадзе як:</translation>
+        <translation>Паказваць вашае імя ў нарадзе так:</translation>
     </message>
 </context>
 <context>
@@ -5972,7 +5972,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi+ is closed.
 You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
-        <translation>Убудова дазваляе зьнішчаць гісторыю гутаркі з абранымі суразмоўцамі, калі «Псі+».
+        <translation>Убудова дазваляе зьнішчаць гісторыю гутаркі з абранымі суразмоўцамі, калі «Псі+» зачыняецца.
 Вызначыць, ці зьнішчаць гутарку, можна ў мэню суразмоўцы або ў можнасьцях убудовы.</translation>
     </message>
 </context>
@@ -6438,7 +6438,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Image %1 bytes received.</source>
-        <translation>Атрымалі %1 байтаў выявы.</translation>
+        <translation>Атрымалі %1 байт (-ы, аў) выявы.</translation>
     </message>
     <message>
         <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
@@ -6561,7 +6561,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Alt+D</source>
-        <translation>Alt+F</translation>
+        <translation>Alt+I</translation>
     </message>
     <message>
         <source>psi/disco</source>
@@ -6629,7 +6629,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation>Зьмененыя зьвесткі не апавясьцілі да агульнага ведама.
+        <translation>Зьмененыя зьвесткі не абвясьцілі да агульнага ведама.
 Ці ўпэўненыя вы, што жадаеце адкінуць зьмены?</translation>
     </message>
     <message>
@@ -6646,7 +6646,7 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation>Пасьпяхова апавясьцілі да агульнага ведама зьвесткі пра ваш рахунак.</translation>
+        <translation>Пасьпяхова абвясьцілі да агульнага ведама зьвесткі пра рахунак.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -6665,7 +6665,7 @@ Reason: %1</source>
     <message>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation>Немагчыма апавясьціць да агульнага ведама зьвесткі пра рахунак.
+        <translation>Немагчыма абвясьціць да агульнага ведама зьвесткі пра рахунак.
 Падстава: %1</translation>
     </message>
     <message>
@@ -6848,7 +6848,7 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>Input Full JID</source>
-        <translation>Пазначце поўны адрас джабэру</translation>
+        <translation>Пазначце поўны джабэр</translation>
     </message>
     <message>
         <source>Input New Name</source>
@@ -7209,7 +7209,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Enter the JID of the user:</source>
-        <translation>Пазначце адрас джабэру карыстальніка:</translation>
+        <translation>Пазначце джабэр карыстальніка:</translation>
     </message>
     <message>
         <source>Error</source>
@@ -7514,11 +7514,11 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>1 event received</source>
-        <translation>Адна падзея адбылася</translation>
+        <translation>Адно спавяшчэньне</translation>
     </message>
     <message>
         <source>%1 events received</source>
-        <translation>Адбылося падзеяў: %1</translation>
+        <translation>Апавяшчэньняў: %1</translation>
     </message>
 </context>
 <context>
@@ -7536,7 +7536,7 @@ Incoming event(s) from:</source>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Захаваць малюнак</translation>
+        <translation>Захаваць выяву</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -7789,7 +7789,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show subject line in events</source>
-        <translation>Паказваць радок тэмы ў падзеях</translation>
+        <translation>Паказваць радок тэмы ў апавяшчэньнях</translation>
     </message>
     <message>
         <source>Show character counter</source>
@@ -7900,7 +7900,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Specifies the color for informational messages in chat windows, like status changes and offline messages.</source>
-        <translation>Вызначае колер паведамленьняў зьвестак (кшталту зьмяненьняў стану ды разьвітальных паведамленьняў) у вокнах гутаркі.</translation>
+        <translation>Вызначае колер паведамленьняў зьвестак (кшталту зьменаў стану ды разьвітальных паведамленьняў) у вокнах гутаркі.</translation>
     </message>
     <message>
         <source>Informational messages in chats:</source>
@@ -8057,7 +8057,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Data transfer base port:</source>
-        <translation>Галоўны порт перадаванага:</translation>
+        <translation>Порт перадаваць зьвесткі:</translation>
     </message>
     <message>
         <source>99999; </source>
@@ -8222,7 +8222,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Raise roster window on new event</source>
-        <translation>Падымаць сьпіс, калі адбылася новая падзея</translation>
+        <translation>Падымаць сьпіс, калі нешта адбылося</translation>
     </message>
     <message>
         <source>Ignore events from contacts not already in your roster</source>
@@ -8491,7 +8491,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Clients</source>
-        <translation>Кіленты</translation>
+        <translation>Кліенты</translation>
     </message>
     <message>
         <source>all client icons</source>
@@ -9332,7 +9332,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enables the sending and requesting of message events such as &apos;Contact is Typing&apos;, ...</source>
-        <translation>Дазваляе дасылаць і прымаць падзеі кшталту «друкуе…», …</translation>
+        <translation>Дазваляе дасылаць і прымаць падзеі кшталту «Суразмоўца друкуе…», …</translation>
     </message>
     <message>
         <source>Enables the sending of events when you end or suspend a conversation</source>
@@ -9368,7 +9368,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enables as-you-type JID autocompletion in message dialog.</source>
-        <translation>Дазваляе азначальніку самарушна дапаўняцца ў вакне паведамленьня.</translation>
+        <translation>Дазваляе адрасу самарушна дапаўняцца ў вакне паведамленьня.</translation>
     </message>
     <message>
         <source>Automatically attaches URLs from clipboard to the messages when enabled</source>
@@ -9511,7 +9511,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Set or remove window decorations for roster and chats. For chats there are special header with close, hide and maximize buttons</source>
-        <translation>Вызначае, ці аздабляць вокны сьпісу ды гутарак. Гутаркі будуць мець адмысловы загаловак з кнопкамі «зачыніць», «найменшыць» ды «найбольшыць»</translation>
+        <translation>Вызначае, ці паказваць рамку вокнаў сьпісу ды гутарак. Гутаркі будуць мець адмысловы загаловак з кнопкамі «зачыніць», «найменшыць» ды «найбольшыць»</translation>
     </message>
     <message>
         <source>Makes Psi use a docklet icon, also known as system tray icon.</source>
@@ -9527,7 +9527,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Prevents Psi from taking up a slot on the taskbar and makes the main window use a small titlebar.</source>
-        <translation>Не дазваляе праґраме займаць мейсца ў паліцы задачаў ды памяншае загаловак галоўнага вакна.</translation>
+        <translation>Не дазваляе праґраме займаць месца ў паліцы задачаў ды памяншае загаловак галоўнага вакна.</translation>
     </message>
     <message>
         <source>Information</source>
@@ -9719,7 +9719,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabIconsetClients</name>
     <message>
         <source>Clients</source>
-        <translation>Кіленты</translation>
+        <translation>Кліенты</translation>
     </message>
     <message>
         <source>Select your clients iconset</source>
@@ -9738,7 +9738,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;Emoticons are short sequences of characters that are used to convey an emotion or idea.&lt;/P&gt;&lt;P&gt;Enable this option if you want Psi to replace common emoticons with a graphical image.&lt;/P&gt;&lt;P&gt;For example, &lt;B&gt;:-)&lt;/B&gt; would be replaced by &lt;icon name=&quot;psi/smile&quot;&gt;&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Пацуцьцезнак — гэта некалькі знакаў запар, якімі выказваюць нейкае пачуцьцё ці думку.&lt;/P&gt;&lt;P&gt;Абярыце гэта, каб простыя пацуцьцезнакі замяняліся на выявы.&lt;/P&gt;&lt;P&gt;Прыкладам, &lt;B&gt;:-)&lt;/B&gt; заменіцца на &lt;icon name=&quot;psi/smile&quot;&gt;.&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;Пацуцьцезнак — гэта некалькі знакаў, якімі выказваюць нейкае пачуцьцё ці думку.&lt;/P&gt;&lt;P&gt;Абярыце гэта, каб простыя пацуцьцезнакі замяняліся на выявы.&lt;/P&gt;&lt;P&gt;Прыкладам, &lt;B&gt;:-)&lt;/B&gt; заменіцца на &lt;icon name=&quot;psi/smile&quot;&gt;.&lt;/P&gt;</translation>
     </message>
 </context>
 <context>
@@ -10121,7 +10121,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Client version</source>
-        <translation>Вэрсія кілента</translation>
+        <translation>Вэрсія кліента</translation>
     </message>
     <message>
         <source>Caps node</source>
@@ -10882,7 +10882,7 @@ Please enter your passphrase below:</source>
     <name>ProfileManageDlg</name>
     <message>
         <source>Rename Profile</source>
-        <translation>Даць новую назву профілю</translation>
+        <translation>Назваць профіль</translation>
     </message>
     <message>
         <source>Please enter a new name for the profile.  Keep it simple.
@@ -10949,7 +10949,7 @@ The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a co
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
         <translation>Давайце профілю простую &lt;i&gt;назву&lt;/i&gt;. Назва — гэта адно слова зь літараў ці лічбаў.&lt;br&gt;
 &lt;br&gt;
-&lt;i&gt;Звычайнае дзеяньне&lt;/i&gt; — гэта тое, што адбываецца, калі двойчы пстрыкнуць па сьпісе суразмоўцаў. Можна абраць «&lt;b&gt;Паведамленьне&lt;/b&gt;» (як у ICQ) ці «&lt;b&gt;Гутарка&lt;/b&gt;» (як у AIM). Потым гэта можна зьмяніць у наладах.&lt;br&gt;
+&lt;i&gt;Звычайнае дзеяньне&lt;/i&gt; — гэта тое, што адбываецца, калі двойчы пстрыкнуць па сьпісе суразмоўцаў. Можна абраць «&lt;b&gt;Паведамленьне&lt;/b&gt;» (як у ICQ) ці «&lt;b&gt;Гутарка&lt;/b&gt;» (як у AIM). Потым гэта можна зьмяніць у «Можнасьцях».&lt;br&gt;
 &lt;br&gt;
 Пастаўце птушачку «&lt;i&gt;Дазволіць пацуцьцезнакі&lt;/i&gt;», калі жадаеце, каб тэкст кшталту &lt;b&gt;:-)&lt;/b&gt; пераўтвараўся ў малюнкі, падобныя да гэтага: &lt;icon name=&quot;psi/smile&quot;&gt;.</translation>
     </message>
@@ -11202,7 +11202,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>PsiAccount</name>
     <message>
         <source>Unable to disable the account, as it has pending events.</source>
-        <translation>Нельга вымкнуць гэты рахунак: пэўныя падзеі яшчэ не прагледзелі.</translation>
+        <translation>Немагчыма вымкнуць гэты рахунак: пэўныя падзеі яшчэ не прагледзелі.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -11292,7 +11292,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Unable to connect to server</source>
-        <translation>Нельга злучыцца з паслужніком</translation>
+        <translation>Немагчыма злучыцца з паслужніком</translation>
     </message>
     <message>
         <source>Host not found</source>
@@ -11356,7 +11356,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Unable to login</source>
-        <translation>Нельга ўвайсьці</translation>
+        <translation>Немагчыма ўвайсьці</translation>
     </message>
     <message>
         <source>No appropriate mechanism available for given security settings (e.g. SASL library too weak, or plaintext authentication not enabled)</source>
@@ -11571,7 +11571,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Provides a convenient way to change and to get information about current status</source>
-        <translation>Дазваляе зручна зьмяняць і атрымваць зьвесткі пра бягучы стан</translation>
+        <translation>Дазваляе зручна зьмяняць і атрымваць зьвесткі пра цяперашні стан</translation>
     </message>
     <message>
         <source>Special item that displays number of pending events</source>
@@ -11599,7 +11599,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
-        <translation>&amp;Агляд службаў</translation>
+        <translation>&amp;Шукаць службы</translation>
     </message>
     <message>
         <source>New Blank Message</source>
@@ -12047,7 +12047,7 @@ Reason: %1.</source>
     <message>
         <source>Display Choose Profile dialog on startup. Cannot be used together with --remote.</source>
         <comment>do not translate --remote</comment>
-        <translation>Па запуску адразу паказаць ваконца абіраць профіль. Нельга ўжываць разам з «--remote».</translation>
+        <translation>Па запуску адразу паказаць акно абіраць профіль. Нельга ўжываць разам з «--remote».</translation>
     </message>
     <message>
         <source>URI</source>
@@ -12181,7 +12181,7 @@ Reason: %1.</source>
     <message>
         <source>Unable to bind to port %1 for Data Transfer.
 This may mean you are already running another instance of Psi. You may experience problems sending and/or receiving files.</source>
-        <translation>Нельга зьвязаць порт %1 з перадаваньнем зьвестак.
+        <translation>Немагчыма перадаваць зьвесткі праз порт %1.
 Такое можа здарыцца, калі ўжо працуе іншы асобнік «Псі». У такім разе могуць быць пэўныя цяжкасьці з тым, каб прымаць або дасылаць файлы.</translation>
     </message>
     <message>
@@ -12275,7 +12275,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>&amp;Block</source>
-        <translation>За&amp;мкнуць</translation>
+        <translation>За&amp;бараніць</translation>
     </message>
     <message>
         <source>Disable mood notifications</source>
@@ -12467,7 +12467,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Unblock</source>
-        <translation>Адамкнуць</translation>
+        <translation>Зьняць забарону</translation>
     </message>
 </context>
 <context>
@@ -12642,7 +12642,7 @@ Would you like to activate that session now?</source>
     <name>PsiOptionsEditor</name>
     <message>
         <source>Full name of the currently selected option.</source>
-        <translation>Поўная назва бягучае можнасьці.</translation>
+        <translation>Поўная назва абранае можнасьці.</translation>
     </message>
     <message>
         <source>(no selection)</source>
@@ -14028,7 +14028,7 @@ Password: %5</source>
     </message>
     <message>
         <source>If JID is &apos;%1&apos; then %2 %3</source>
-        <translation>Калі азначальнік — «%1», тады %2 %3</translation>
+        <translation>Калі адрас — «%1», тады %2 %3</translation>
     </message>
     <message>
         <source>If Group is &apos;%1&apos; then %2 %3</source>
@@ -14302,7 +14302,7 @@ Password: %5</source>
     </message>
     <message>
         <source>&lt;qt&gt;Registration has already been submitted, so closing this window will not prevent the registration from happening.  Do you still wish to close?&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;Запыт запісацца ўжо падалі, таму калі зачыніць ваконца, усё роўна запішамся.  Усё яшчэ жадаеце зачыніць?&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;Запыт запісацца ўжо падалі, таму калі зачыніць вакно, усё роўна запішамся.  Усё яшчэ жадаеце зачыніць?&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -14490,7 +14490,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Open image from Local Drive</source>
-        <translation>Адчыніць малюнак на дыску</translation>
+        <translation>Адчыніць выяву на дыску</translation>
     </message>
     <message>
         <source>New Screenshot</source>
@@ -14605,7 +14605,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Capture current window</source>
-        <translation>Зьняць бягучае вакно</translation>
+        <translation>Зьняць дзейнае вакно</translation>
     </message>
     <message>
         <source>Select capture area</source>
@@ -14639,9 +14639,9 @@ The plugin has the following settings:
 The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</source>
         <translation>Убудова дазваляе рабіць здымкі экрану і захоўваць іх на дыск або запампоўваць іх на паслужнік FTP або HTTP.
 Убудова мае наступныя налады:
-* «Выклічнік» — спалучэньне клявішаў, па якім рабіць здымак (звычайна — Ctrl+Alt+P),
-* «Від» — у які від файла захоўваць здымак экрану (звычайна JPEG — «.jpg»),
-* «Назва файла» — як называць файл (звычайна — «pic-ггггММдд-ггххсс», дзе «ггггММдд» = «ГГГГММДД» і «ггххсс» — бягучая дата й час у выглядзе «годмесяцдзень-гадзіныхвілінысэкунды»).
+• «Выклічнік» — спалучэньне клявішаў, па якім рабіць здымак (звычайна — Ctrl+Alt+P),
+• «Від» — у які від файла захоўваць здымак экрану (звычайна JPEG — «.jpg»),
+• «Назва файла» — як называць файл (звычайна — «pic-ггггММдд-ггххсс», дзе «ггггММдд» = «ГГГГММДД» і «ггххсс» — дата й час у выглядзе «годмесяцдзень-гадзіныхвілінысэкунды»).
 Адрас паслужніка FTP пазначаецца як ftp://ftp.domain.tld/path1/path2.</translation>
     </message>
     <message>
@@ -14699,7 +14699,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
     </message>
     <message>
         <source>Jabber ID</source>
-        <translation>Адрас джабэру</translation>
+        <translation>Джабэр</translation>
     </message>
     <message>
         <source>&amp;Add Contact</source>
@@ -14777,7 +14777,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Choose your game</source>
-        <translation>Абярыце, якімі фігурамі будзеце гуляць</translation>
+        <translation>Абярыце, якімі фіґурамі будзеце гуляць</translation>
     </message>
     <message>
         <source>White game</source>
@@ -14932,7 +14932,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation>Агляд службаў</translation>
+        <translation>Шукаць службы</translation>
     </message>
     <message>
         <source>Add Contact</source>
@@ -15220,7 +15220,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Receive incoming event</source>
-        <translation>Прагледзець падзею, што адбылася</translation>
+        <translation>Паглядзець, што адбылося</translation>
     </message>
     <message>
         <source>Rename the selected contact</source>
@@ -15244,11 +15244,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Close the current window/tab</source>
-        <translation>Зачыніць бягучае вакно ці картку</translation>
+        <translation>Зачыніць дзейнае вакно ці картку</translation>
     </message>
     <message>
         <source>Hide the current window/tab</source>
-        <translation>Схаваць бягучае вакно ці картку</translation>
+        <translation>Схаваць дзейнае вакно ці картку</translation>
     </message>
     <message>
         <source>Open the message history</source>
@@ -15296,7 +15296,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Shortcuts in the service discovery dialog</source>
-        <translation>Выклічнікі ў вакне агляду службаў</translation>
+        <translation>Выклічнікі ў вакне шукаць службы</translation>
     </message>
 </context>
 <context>
@@ -15392,7 +15392,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Overwrite selected skin with the current settings </source>
-        <translation>Перазапісаць аздабленьне бягучымі наладамі </translation>
+        <translation>Перазапісаць аздабленьне дзейнымі наладамі </translation>
     </message>
     <message>
         <source>Save</source>
@@ -15400,7 +15400,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Create new skin from current settings</source>
-        <translation>Стварыць аздабленьне зь бягучых наладаў</translation>
+        <translation>Стварыць аздабленьне зь дзейных наладаў</translation>
     </message>
     <message>
         <source>Create</source>
@@ -15664,7 +15664,7 @@ The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi+ or Miranda IM.</source>
         <translation>Убудова дзейнічае як пашырэньне XEP-0049 — асабістае сховішча XML.
 Убудова цалкам сумяшчальная з нататкамі, якія захоўвае кліент «Міранда».
-Убудова дазваляе захоўваць нататкі на паслужніку Jabber і дае магчымасьць праглядаць іх праз «Псі+» ці «Міранду».</translation>
+Убудова дазваляе захоўваць нататкі на паслужніку джабэру і дае магчымасьць праглядаць іх праз «Псі+» ці «Міранду».</translation>
     </message>
 </context>
 <context>
@@ -15831,7 +15831,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Full JID:</source>
-        <translation>Поўны адрас джабэру:</translation>
+        <translation>Поўны джабэр:</translation>
     </message>
     <message>
         <source>User (if needed):</source>
@@ -15867,7 +15867,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Legacy SSL probe</source>
-        <translation>Спрабаваць звыклы SSL</translation>
+        <translation>Спрабаваць звычайны SSL</translation>
     </message>
     <message>
         <source>Proxy:</source>
@@ -16065,11 +16065,11 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation>Ці ведаеце вы, што можна задзейнічаць рахунак, калі паставіць птушачку побач зь ім у вакне «Наладзіць рахункі»? Так сама можна й зьняць птушачку, каб не выкарыстоўваць рахунак. Гэта карысна, каб не загрувашчваць сьпіс рахункам, якім вы карыстаецеся рэдка.</translation>
+        <translation>Ці ведаеце вы, што можна задзейнічаць рахунак, калі паставіць птушачку побач зь ім у вакне «Наладзіць рахункі»? Так сама можна й зьняць птушачку, каб не выкарыстоўваць рахунак. Гэта карысна, каб не загрувашчваць сьпіс рахункам, якім рэдка ўжываецца.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation>Не падабаецца, як разьмясьціліся гузікі?  Жадаеце зьмяняць стан на «адсутнічаю» адным націскам?  Абярыце пункт «Наставіць паліцы прыладаў» выплыўнога мэню паліцы прыладаў.  Можна нават зрабіць так, каб паліца прыладаў перасоўвалася!</translation>
+        <translation>Не падабаецца, як разьмясьціліся кнопкі?  Жадаеце зьмяняць стан на «адсутнічаю» адным націскам?  Абярыце пункт «Наставіць паліцы прыладаў» выплыўнога мэню паліцы прыладаў.  Можна нават зрабіць так, каб паліца прыладаў перасоўвалася!</translation>
     </message>
     <message>
         <source>Did you know that Psi is one of the only Jabber clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
@@ -16077,8 +16077,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation>Вы прыахвоціліся да «Gadu-Gadu» ці «Trillian» і сумуеце па файных пацуцьцезнаках?  Не тужыце, мы пра гэта паклапаціліся!  Зазірніце на &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; — там вы знойдзеце шмат набораў значкаў, якія можна дадаць у праґраму, каб яна выглядала так, як вы жадаеце!
-</translation>
+        <translation>Вы прыахвоціліся да «Gadu-Gadu» ці «Trillian» і сумуеце па файных пацуцьцезнаках?  Не тужыце, мы пра гэта паклапаціліся!  Зазірніце на &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; — там вы знойдзеце шмат набораў значкаў, якія можна дадаць у праґраму, каб яна выглядала так, як вы жадаеце!</translation>
     </message>
     <message>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
@@ -16086,7 +16085,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your Jabber server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation>Каб дадаць суразмоўцу зь іншае сеткі вокамгненных паведамленьняў, трэба дадаць адпаведны сродак з паслужніка джабэру. Глядзіце тут: галоўнае мэню ⇒ «Агляд службаў».</translation>
+        <translation>Каб дадаць суразмоўцу зь іншае сеткі вокамгненных паведамленьняў, трэба дадаць адпаведны сродак з паслужніка джабэру. Глядзіце тут: галоўнае мэню → «Шукаць службы».</translation>
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
@@ -16096,7 +16095,7 @@ And these work only in groupchat dialog:
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; Jabber Server for nice services by typing its domain in the address field.
 &lt;br&gt;&lt;br&gt;
 Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation>Шукаеце транспарт ці пакой пагутарыць, але на паслужніку іх няма? Каб пашукаць якія цікавыя службы на &lt;i&gt;хоць-якім&lt;/i&gt; паслужніку джабэру, упішыце яго ў поле адрасу вакна «Агляд службаў» (галоўнае мэню ⇒ «Агляд службаў»).
+        <translation>Шукаеце транспарт ці пакой пагутарыць, але на паслужніку іх няма? Каб пашукаць якія цікавыя службы на &lt;i&gt;хоць-якім&lt;/i&gt; паслужніку джабэру, упішыце яго ў поле адрасу вакна «Шукаць службы» (галоўнае мэню → «Шукаць службы»).
 &lt;br&gt;&lt;br&gt;
 Уважце: асобныя паслужнікі могуць забараніць запісвацца на транспарце карыстальнікам зь іншых паслужнікоў, але гэта хутчэй выключэньне.</translation>
     </message>
@@ -16686,7 +16685,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Add images</source>
-        <translation>Дадаць відарысы</translation>
+        <translation>Дадаць выявы</translation>
     </message>
     <message>
         <source>Whiteboard toolbar</source>
@@ -16900,7 +16899,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation>Агляд службаў</translation>
+        <translation>Шукаць службы</translation>
     </message>
     <message>
         <source>VCard</source>
@@ -16982,15 +16981,15 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>The addressed JID or item requested cannot be found.</source>
-        <translation>Не знайшлі адрас джабэру, да якога зьвярталіся, ці запытаны складнік сьпісу .</translation>
+        <translation>Не знайшлі джабэру, да якога зьвярталіся, ці запытаны складнік сьпісу.</translation>
     </message>
     <message>
         <source>JID malformed</source>
-        <translation>Няправільны адрас джабэру</translation>
+        <translation>Няправільны джабэр</translation>
     </message>
     <message>
         <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
-        <translation>Адпраўнік падаў такі адрас XMPP (напрыклад, у полі «каму»), ці ягоную частку (напрыклад, азначальнік крыніцы), што не адпавядае сынтаксісу, вызначанаму ў «Схеме адрасу».</translation>
+        <translation>Адпраўнік падаў такі адрас XMPP (напрыклад, у полі «каму»), ці ягоную частку (напрыклад, адрас крыніцы), што не адпавядае сынтаксісу, вызначанаму ў «Схеме адрасу».</translation>
     </message>
     <message>
         <source>Not acceptable</source>
@@ -17627,7 +17626,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
-        <translation>Паведамленьні, якія вы дасылаеце, ня спраўджваюцца кімсьці іншым. Кожны можа падрабіць гісторыю размовы і замяніць вашыя паведамленьні іншымі так, быццам іх дасылалі вы. Але калі вы гутарыце, суразмоўца будзе ўпэўненым, што паведамленьні, якія ён атрымвае ад вас, не зьмяняліся.</translation>
+        <translation>Паведамленьні, якія вы дасылаеце, не падпісваюцца і ня спраўджваюцца кімсьці іншым. Кожны можа падрабіць гісторыю размовы і замяніць вашыя паведамленьні іншымі так, быццам іх дасылалі вы. Але калі вы гутарыце, суразмоўца будзе ўпэўненым, што паведамленьні, якія ён атрымвае, ідуць ад вас, і што яны не зьмяняліся.</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
