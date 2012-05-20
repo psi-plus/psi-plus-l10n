@@ -67,7 +67,7 @@ case "${1}" in
 
     CUR_TAG="$(git tag -l  | sort -r -V | head -n1)"
 
-    rm -f psi-plus_translations_*
+    rm -rf psi-plus_translations_*
     mkdir psi-plus_translations_${CUR_TAG} || exit 1
     cp out/*.qm psi-plus_translations_${CUR_TAG} || exit 1
 
