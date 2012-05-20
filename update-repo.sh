@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2012-05-05
+# Updated: 2012-05-20
 # Version: N/A
 
 export CUR_DIR="${PWD}/$(dirname ${0})"
@@ -61,6 +61,19 @@ case "${1}" in
 
     mkdir -p /usr/share/psi-plus/translations/
     cp out/*.qm /usr/share/psi-plus/translations/ || exit 1
+
+;;
+"tarball")
+
+    CUR_TAG="$(git tag -l  | sort -r -V | head -n1)"
+
+    rm -f psi-plus_translations_*
+    mkdir psi-plus_translations_${CUR_TAG} || exit 1
+    cp out/*.qm psi-plus_translations_${CUR_TAG} || exit 1
+
+    tar -cJf psi-plus_translations_${CUR_TAG}.tar.xz psi-plus_translations_${CUR_TAG} || exit 1
+    echo "Tarball with precompiled translation files is ready for upload:"
+    echo "https://github.com/tehnick/psi-plus-i18n/downloads"
 
 ;;
 "tr")
@@ -165,7 +178,7 @@ case "${1}" in
 *)
 
     echo "Usage:"
-    echo "  up cm tag push make install"
+    echo "  up cm tag push make install tarball"
     echo "  tr tr_up tr_cl tr_push tr_co"
 
 ;;
