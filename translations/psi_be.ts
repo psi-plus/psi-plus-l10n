@@ -2373,7 +2373,10 @@ You can specify the version of the client and OS or to select them from the pres
 Conferences logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with conference.
 
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="unfinished"/>
+        <translation>Убудова дазваляе захоўваць гісторыю размовы ў нарадах, у якіх сядзіць карыстальнік «Псі+».
+Гісторыі можна паглядзець праз налады ўбудовы ці пстрыкнуўшы па адпаведным значку на паліцы прыладаў вакна ці карткі нарады.
+
+Уважце: каб убудова працавала належным чынам, можнасьць «options.ui.chat.central-toolbar» мусіць мець значэньне «true».</translation>
     </message>
 </context>
 <context>
@@ -2918,7 +2921,8 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation>Будзе так, што знаёмствы з гэтае суполкі ня будуць болей зьвязвацца зь ёю.
+        <translation>Суразмоўцы з гэтае суполкі ня будуць болей зьвязвацца зь ёю.
+
 Ці працягваць?</translation>
     </message>
     <message>
@@ -2933,7 +2937,7 @@ Proceed?</source>
         <source>WARNING!  This will remove all contacts associated with this group!
 
 Proceed?</source>
-        <translation>УВАГА!  Зьнішчацца ўсе знаёмствы, што ўваходзяць у гэту суполку!
+        <translation>Перасьцярога!  Прыбяруцца ўсе суразмоўцы, што ўваходзяць у суполку!
 
 Ці працягваць?</translation>
     </message>
@@ -3694,7 +3698,7 @@ If you wish to confirm this request, please provide transaction identifier and p
 If you wish to confirm this request, please press Confirm button. Otherwise press Deny button.</source>
         <translation>Азначальнік апэрацыі: %1
 
-Калі вы пацьвярджаеце гэты запыт, калі ласка, націсьніце на гузік &quot;Пацьвердзіць&quot;. Інакш націсьніце на гузік &quot;Адмовіць&quot;.</translation>
+Каб пацьвердзіць запыт, націсьніце «Пацьвердзіць». Інакш націсьніце «Адмовіць».</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to subscribe to your presence.  Click the button labelled &quot;Add/Auth&quot; to authorize the subscription.  This will also add the person to your contact list if it is not already there.</source>
@@ -4258,7 +4262,10 @@ This option only has effect if accept-defaults is false.</source>
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
 Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
-        <translation type="unfinished"/>
+        <translation>Убудова дазваляе хутка настаўляць пэўныя дадатковыя можнасьці ў «Псі+».
+Убудова дае доступ да тых адмысловых можнасьцяў праґрамы, што не наладжваюцца ў інтэрфэйсе.
+
+Гэта важна: вялікая частка гэтых можнасьцяў закранаюць істотныя сыстэмныя налады. Таму трэба вельмі ўважліва зьмяняць гэтыя можнасьці, цалкам разумеючы, што будзе вынікам.</translation>
     </message>
     <message>
         <source>Enable last activity server</source>
@@ -4421,10 +4428,9 @@ Importantly: a large part of the options are important system settings. These re
 
 This can happen if the contact did not understand our request, or if the
 contact is offline.</source>
-        <translation>Нельга дамовіцца перадаваць файл.
+        <translation>Немагчыма дамовіцца перадаваць зьвесткі.
 
-Такое можа здарыцца, калі сродак знаёмага не разумее запыту,
-ці калі ён адлучаны.</translation>
+Мажліва, сродак суразмоўцы не разумее запыту або суразмоўца па-за сеткаю.</translation>
     </message>
     <message>
         <source>Unable to connect to peer for data transfer.
@@ -4432,11 +4438,11 @@ contact is offline.</source>
 Ensure that your Data Transfer settings are proper.  If you are behind
 a NAT router or firewall then you'll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
-        <translation>Не атрымоўваецца далучыцца да аддаленага асьветару, каб перадаваць дадзеныя.
+        <translation>Немагчыма злучыцца з атрымальнікам, каб перадаваць зьвесткі.
 
-Упэўніцеся ў адпаведнасьці наладжваньняў перадаваць дадзеныя.  Калі вы знаходзіцеся 
-за маршрутавальнікам NAT ці за сетказаслонаю, вы мусіце адкрыць належны порт TCP ці вызначыць 
-пасродак перадаваць дадзеныя ў наладжваньнях вашага рахунку.</translation>
+Упэўніцеся ў адпаведнасьці наладаў перадаваць зьвесткі.  Калі вы знаходзіцеся
+за маршрутавальнікам NAT ці сетказаслонаю, трэба адчыніць належны
+порт TCP ці вызначыць пасродак ў наладах рахунку.</translation>
     </message>
     <message>
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
@@ -4444,10 +4450,10 @@ or specify a Data Transfer Proxy in your account settings.</source>
 This means that the Proxy service is either not functioning or it is
 unreachable.  If you are behind a firewall, then you'll need to ensure
 that outgoing TCP connections are allowed.</source>
-        <translation>Не ўдалося або злучыцца з пасродкам перадаваць дадзеныя, або задзейнічаць яго.
+        <translation>Не ўдалося або злучыцца з пасродкам перадаваць зьвесткі, або задзейнічаць яго.
 
-Гэта значыць, што пасродак або не працуе, або не адказвае.  Калі вы знаходзіцеся 
-за сетказаслонаю, вам трэба ўпэўніцца, што выходныя злучэньні TCP дазваляюцца.</translation>
+Гэта значыць, што пасродак або не працуе, або не адказвае.  Калі вы знаходзіцеся за сетказаслонаю, трэба ўпэўніцца,
+што выходныя злучэньні TCP дазваляюцца.</translation>
     </message>
     <message>
         <source>File I/O error</source>
@@ -6358,14 +6364,19 @@ p, li { white-space: pre-wrap; }
         <source>Я Вам как Linux скажу, только Вы не обижайтесь. Этот человек, конечно, получит Ваше сообщение, но лучше бы Вам общаться с ним через Jabber. А то не ровен час - аська сдохнет, старушка своё отжила. Его JID: %1.
 
 Искренне Ваш, Debian Sid.</source>
-        <translation type="unfinished"/>
+        <translation>Я вам як Linux скажу — толькі не крыўдуйце. Гэты чалавек, вядома, атрымае вашае паведамленьне, але лепей было б, каб вы гутарылі зь ім праз джабэр (Jabber). Бо раптам здохне аська? — старая аджыла ўжо сваё. Ягоны адрас (JID): %1.
+
+Заўжды ваш, спадар Debian.</translation>
     </message>
     <message utf8="true">
         <source>Я Вам как Linux скажу, только Вы не обижайтесь. Этот человек имел в виду всех пользователей аськи, поэтому если Вы до сих пор сидите в этой сети, то он не получит Ваше сообщение, поэтому Вам придётся общаться с ним через Jabber. Его JID: %1.
 
 Если Вы не знаете что такое Jabber, то есть Google - он всё знает и поможет любому, кто к нему обратится.
 Искренне Ваш, Debian Sid.</source>
-        <translation type="unfinished"/>
+        <translation>Я вам як Linux скажу — толькі не крыўдуйце. Гэты чалавек не аматар аські, таму калі вы дагэтуль сядзіце ў гэтай сетцы, ён не атрымае вашага паведамленьня: вам прыйдзецца гутарыць зь ім праз джабэр (Jabber). Ягоны адрас (JID): %1.
+
+Калі вы ня ведаеце, што такое джабэр, дык на вашае шчасьце ёсьць Google: ён ведае ўсё ды дапаможа кожнаму, што да яго зьвернецца.
+Заўжды ваш, спадар Debian.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -7049,7 +7060,13 @@ Currently, the plugin is able to:
 * Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
 
 Note: To work correctly, the option options.html.chat.render	must be set to true. </source>
-        <translation type="unfinished"/>
+        <translation>Убудова дазваляе зручна працаваць з са службаю мікрадзёньнікаў «Juick».
+Зараз убудова можа наступнае:
+• падфарбоўваць @мянушкі, *біркі ды #нумары_паведамленьняў у паведамленьнях ад бота juick@juick.com,
+• выяўляць у паведамленьнях &gt;цытаты,
+• пстрыкаць па @мянушках, *бірках, #нумарах_паведамленьняў ды іншых складніках, каб уставіць іх у поле ўводу.
+
+Уважце: каб убудова працавала належным чынам, можнасьць «options.ui.chat.central-toolbar» мусіць мець значэньне «true». </translation>
     </message>
 </context>
 <context>
@@ -7570,8 +7587,9 @@ because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
         <translation>гэта сеткавая шахматная гульня на двох гульцоў.
-У адной праграме зьмяшчаецца разам кліент і паслужнік гульні.
-Балазе праграма мае ліцэнзію GPL, таму вы можаце зьмяняць распаўсюджваць крынічны код.
+У адной праґраме зьмяшчаюцца разам кліент і паслужнік гульні.
+Праґрама мае ліцэнзію GPL, таму можна
+зьмяняць і распаўсюджваць крынічны код.
 
 Расея, Тамбоў, 2005 (denis@silversoft.net)</translation>
     </message>
@@ -12579,7 +12597,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Can&apos;t chat.  Gotta work.</source>
-        <translation>Не магу балбатаць.  З галавою ў працы.</translation>
+        <translation>Не магу размаўляць.  З галавою ў працы.</translation>
     </message>
     <message>
         <source>Air</source>
@@ -12770,7 +12788,9 @@ Would you like to activate that session now?</source>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="unfinished"/>
+        <translation>Суразмоўцы з гэтае суполкі ня будуць болей зьвязвацца зь ёю.
+
+Ці працягваць?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -14648,7 +14668,9 @@ The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</sour
         <source>
 
 Settings for authorization on some hostings can be found here: http://code.google.com/p/qscreenshot/wiki/Authorization</source>
-        <translation type="unfinished"/>
+        <translation>
+
+Як упаўнаважыцца у некаторых сховішчах, можна зірнуць тут: http://code.google.com/p/qscreenshot/wiki/Authorization</translation>
     </message>
 </context>
 <context>
@@ -14868,7 +14890,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation>Шаблён «%1» захавалі!</translation>
+        <translation>Шаблён «%1» не захавалі!</translation>
     </message>
     <message>
         <source>Continue?</source>
@@ -15460,7 +15482,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Can&apos;t save the skin!</source>
-        <translation>Нельга захаваць аздабленьне!</translation>
+        <translation>Нельга захаваць!</translation>
     </message>
     <message>
         <source>Delete skin</source>
@@ -15637,7 +15659,25 @@ When a user has passed, the test will send a re-authorization request. It should
 The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
-        <translation type="unfinished"/>
+        <translation>Убудова дазваляе затрымваць лухту (спам) ці іншыя непажаданыя зьвесткі ад карыстальнікаў «Псі+». Убудова працуе па правіле «пытаньне — адказ».
+Налады убудовы дазваляюць вызначыць:
+• пытаньне і адказ, якія абароняць супраць лухты,
+• правілы, якія ўсталёўваюць, хто з суразмоўцаў трапляе пад дзеяньне ўбудовы,
+• паведамленьне, якое трэба дасылаць, калі атрымалі правільны адказ,
+• ці спавяшчаць вынырцамі,
+• ці захоўваць затрыманыя паведамленьні ў гісторыі размовы,
+• колькі разоў перапытвацца,
+• празь які адцінак часу скідваць лічыльнік дасланых пытаньняў,
+• ці затрымваць асабістыя паведамленьні ў нарадах,
+• ад удзельнікаў нарады зь якою роляю ды прыналежнасьцю не затрымваць паведамленьні,
+• цалкам затрымваць паведамленьні ад удзельнікаў, якія ня трапілі ў сьпіс выключэньняў.
+
+Правілы праглядаюцца зьверху ўніз. Калі правіла дзейнічае — убудова выклікаецца, калі не — не выклікаецца. Можна вызначыць, ці выклікаць убудову, калі паведамленьне не адпавядае ніводнаму правілу. Убудова заўжды будзе спрацоўваць на паведамленьнях адной нарады.
+Пытаньне, адказ і набор правілаў аднолькавыя як для звычайных паведамленьняў, так і для асабістых паведамленьняў у нарадзе.
+Калі карыстальнік прайшоў выпрабаваньне, яму трэба зноўку запытаюцца на зацьверджаньне. Гэта трэба адзначыць у паведамленьні, якое дасылаецца, калі атрымваем правільны адказ.
+У наладах убудовы можна зірнуць справаздачу — захаваныя затрыманыя паведамленьні. Кнопка «Скінуць» сьцірае гісторыю ды скідвае лічыльнік затрыманых паведамленьняў.
+
+&lt;b&gt;Перасьцярога!!!&lt;/b&gt; Перад тым, як запісвацца на транспарце, варта дадаць ягоны адрас да выключэньняў транспарту. Гэта трэба, каб убудова не затрымвала запыты зацьверджаньня, якія будуць дасылацца, калі вы запішацеся на транспарце.</translation>
     </message>
 </context>
 <context>
@@ -15746,7 +15786,7 @@ Currently supports:
   JEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
-        <translation>%1 v1.0
+        <translation>«%1» вэрсіі 1.0
 
 Прылада, якая паказвае дзеяньне бібліятэкі Iris XMPP.
 
@@ -15754,7 +15794,7 @@ Copyright (C) 2003 Justin Karneges</source>
   draft-ietf-xmpp-core-21
   JEP-0025
 
-Аўтарскія правы (C) 2003 Justin Karneges</translation>
+© Джастын Карнэґіс, 2003</translation>
     </message>
     <message>
         <source>Error</source>
@@ -16342,7 +16382,19 @@ To work with VLC player you need to enable the option &quot;Control Interface D-
 To work with Kaffeine player you must have player version (&gt;= 1.0), additional configuration is not needed; 
 
 To work with GNOME MPlayer additional configuration is not needed.</source>
-        <translation type="unfinished"/>
+        <translation>Убудова дазваляе зьмяняць стан на вызначаны карыстальнікам, калі праглядаецца відэа ў абраных прайгравальніках. 
+Уважце: убудова працуе і ў сыстэмах сямейства «Linux», і ў сыстэмах «Windows». 
+
+У «Linux» убудова працуе з прайгравальнікамі праз D-Bus, а поўнаэкранныя праґрамы вызначае праз X11. 
+У «Windows» убудова выяўляе поўнаэкранныя праґрамы праз WinAPI. 
+
+Каб працаваць з прайгравальнікам «Totem», трэба запусьціць адпаведную ўбудову («Рэдагаваньне → Модулі → D-Bus»).
+
+Каб працаваць з прайгравальнікам «VLC», трэба перайсьці да ўсіх перавагаў, абраць «Інтэрфэйс → Інтэрфэйсы кіраваньня → Інтэрфэйс кіраваньня „D-Bus“». 
+
+Каб працаваць з прайгравальнікам «Kaffeine», трэба толькі, каб ён быў навейшыя за вэрсію 1.0. 
+
+Каб працаваць з прайгравальнікам «Gnome MPlayer», нічога дадаткова наладжваць ня трэба.</translation>
     </message>
 </context>
 <context>
@@ -17350,7 +17402,9 @@ Do you still want to close the window?</source>
         <source>You have been successfully authenticated.
 
 You should authenticate %1 as well by asking your own question.</source>
-        <translation type="unfinished"/>
+        <translation>Апазналіся.
+
+Трэба апазнаць %1, задаўшы сваё пытаньне.</translation>
     </message>
     <message>
         <source>Authentication failed.</source>
@@ -17374,7 +17428,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>%1&apos;s fingerprint:</source>
-        <translation>Адбітак %1</translation>
+        <translation>Адбітак %1:</translation>
     </message>
 </context>
 <context>
@@ -17400,11 +17454,11 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Disable private messaging</source>
-        <translation>Забараніць асабістыя паведамленьні</translation>
+        <translation>Не размаўляць таемна</translation>
     </message>
     <message>
         <source>Manually start private messaging</source>
-        <translation>Самастойна пачынаць таемную размову</translation>
+        <translation>Пачынаць таемную размову па запыце</translation>
     </message>
     <message>
         <source>Automatically start private messaging</source>
@@ -17965,7 +18019,9 @@ Try remove cookies.</source>
 http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
 
 </source>
-        <translation type="unfinished"/>
+        <translation>Убудову перанялі з убудовы «Яндэкс.Народ» кліента «QutIM»
+
+</translation>
     </message>
 </context>
 <context>
