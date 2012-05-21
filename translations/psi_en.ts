@@ -148,7 +148,7 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Psimedia Patcher and English localization</source>
-        <translation>Psimedia Patcher and English localization</translation>
+        <translation type="obsolete">Psimedia Patcher and English localization</translation>
     </message>
     <message>
         <source>Mac OS X Packager</source>
@@ -237,6 +237,10 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</translation>
     <message>
         <source>Patcher and Ubuntu Packager</source>
         <translation>Patcher and Ubuntu Packager</translation>
+    </message>
+    <message>
+        <source>Psimedia Patcher and Wiki English localization</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6915,93 +6919,93 @@ to play gomoku. He wants to play %2.</translation>
     <name>JuickPlugin</name>
     <message>
         <source>Show all messages</source>
-        <translation>Show all messages</translation>
+        <translation type="obsolete">Show all messages</translation>
     </message>
     <message>
         <source>Reply</source>
-        <translation>Reply</translation>
+        <translation type="obsolete">Reply</translation>
     </message>
     <message>
         <source>Show %1&apos;s info and last 10 messages</source>
-        <translation>Show %1&apos;s info and last 10 messages</translation>
+        <translation type="obsolete">Show %1&apos;s info and last 10 messages</translation>
     </message>
     <message>
         <source>Subscribe</source>
-        <translation>Subscribe</translation>
+        <translation type="obsolete">Subscribe</translation>
     </message>
     <message>
         <source>Show last 10 messages with tag %1</source>
-        <translation>Show last 10 messages with tag %1</translation>
+        <translation type="obsolete">Show last 10 messages with tag %1</translation>
     </message>
     <message>
         <source>Unsubscribe</source>
-        <translation>Unsubscribe</translation>
+        <translation type="obsolete">Unsubscribe</translation>
     </message>
     <message>
         <source>Edit JIDs</source>
-        <translation>Edit JIDs</translation>
+        <translation type="obsolete">Edit JIDs</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation>@username</translation>
+        <translation type="obsolete">@username</translation>
     </message>
     <message>
         <source>*tag</source>
-        <translation>*tag</translation>
+        <translation type="obsolete">*tag</translation>
     </message>
     <message>
         <source>#message id</source>
-        <translation>#message id</translation>
+        <translation type="obsolete">#message id</translation>
     </message>
     <message>
         <source>&gt;quote</source>
-        <translation>&gt;quote</translation>
+        <translation type="obsolete">&gt;quote</translation>
     </message>
     <message>
         <source>http://link</source>
-        <translation>http://link</translation>
+        <translation type="obsolete">http://link</translation>
     </message>
     <message>
         <source>bold</source>
-        <translation>bold</translation>
+        <translation type="obsolete">bold</translation>
     </message>
     <message>
         <source>italic</source>
-        <translation>italic</translation>
+        <translation type="obsolete">italic</translation>
     </message>
     <message>
         <source>underline</source>
-        <translation>underline</translation>
+        <translation type="obsolete">underline</translation>
     </message>
     <message>
         <source>color</source>
-        <translation>color</translation>
+        <translation type="obsolete">color</translation>
     </message>
     <message>
         <source>Use message Id as resource</source>
-        <translation>Use message Id as resource</translation>
+        <translation type="obsolete">Use message Id as resource</translation>
     </message>
     <message>
         <source>Show Photo</source>
-        <translation>Show Photo</translation>
+        <translation type="obsolete">Show Photo</translation>
     </message>
     <message>
         <source>Show Avatars</source>
-        <translation>Show Avatars</translation>
+        <translation type="obsolete">Show Avatars</translation>
     </message>
     <message>
         <source>Replaces message id with a link
 to this message in juick@conference.jabber.ru</source>
-        <translation>Replaces message id with a link
+        <translation type="obsolete">Replaces message id with a link
 to this message in juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <translation type="obsolete">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Clear avatar cache</source>
-        <translation>Clear avatar cache</translation>
+        <translation type="obsolete">Clear avatar cache</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -7015,7 +7019,7 @@ caching avatars will be not available</translation>
     </message>
     <message>
         <source>Recommended by </source>
-        <translation>Recommended by </translation>
+        <translation type="obsolete">Recommended by </translation>
     </message>
     <message>
         <source> replied:</source>
@@ -7023,11 +7027,11 @@ caching avatars will be not available</translation>
     </message>
     <message>
         <source>Reply posted.</source>
-        <translation>Reply posted.</translation>
+        <translation type="obsolete">Reply posted.</translation>
     </message>
     <message>
         <source>New message posted.</source>
-        <translation>New message posted.</translation>
+        <translation type="obsolete">New message posted.</translation>
     </message>
     <message>
         <source>Subscribe to %1&apos;s blog</source>
@@ -7040,7 +7044,7 @@ caching avatars will be not available</translation>
     <message>
         <source>Cannot write to file %1:
 %2.</source>
-        <translation>Cannot write to file %1:
+        <translation type="obsolete">Cannot write to file %1:
 %2.</translation>
     </message>
     <message>
@@ -7053,7 +7057,7 @@ caching avatars will be not available</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Author: </translation>
+        <translation type="obsolete">Author: </translation>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -7070,6 +7074,14 @@ Currently, the plugin is able to:
 * Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
 
 Note: To work correctly, the option options.html.chat.render	must be set to true. </translation>
+    </message>
+    <message>
+        <source>Time stamp: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished">Authors: </translation>
     </message>
 </context>
 <context>
@@ -14297,6 +14309,56 @@ Password: %5</translation>
         <source>Last Status Message</source>
         <translation>Last Status Message</translation>
     </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">Warning</translation>
+    </message>
+    <message>
+        <source>Cannot write to file %1:
+%2.</source>
+        <translation type="unfinished">Cannot write to file %1:
+%2.</translation>
+    </message>
+    <message>
+        <source>Recommended by @%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reply posted.</source>
+        <translation type="unfinished">Reply posted.</translation>
+    </message>
+    <message>
+        <source>New message posted.</source>
+        <translation type="unfinished">New message posted.</translation>
+    </message>
+    <message>
+        <source> recommended your post </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show all messages</source>
+        <translation type="unfinished">Show all messages</translation>
+    </message>
+    <message>
+        <source>Reply</source>
+        <translation type="unfinished">Reply</translation>
+    </message>
+    <message>
+        <source>Show %1&apos;s info and last 10 messages</source>
+        <translation type="unfinished">Show %1&apos;s info and last 10 messages</translation>
+    </message>
+    <message>
+        <source>Subscribe</source>
+        <translation type="unfinished">Subscribe</translation>
+    </message>
+    <message>
+        <source>Show last 10 messages with tag %1</source>
+        <translation type="unfinished">Show last 10 messages with tag %1</translation>
+    </message>
+    <message>
+        <source>Unsubscribe</source>
+        <translation type="unfinished">Unsubscribe</translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -17783,6 +17845,79 @@ You should authenticate %1 as well by asking your own question.</translation>
     <message>
         <source>Captcha:</source>
         <translation>Captcha:</translation>
+    </message>
+</context>
+<context>
+    <name>settings</name>
+    <message>
+        <source>settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit JIDs</source>
+        <translation type="unfinished">Edit JIDs</translation>
+    </message>
+    <message>
+        <source>bold</source>
+        <translation type="unfinished">bold</translation>
+    </message>
+    <message>
+        <source>italic</source>
+        <translation type="unfinished">italic</translation>
+    </message>
+    <message>
+        <source>underline</source>
+        <translation type="unfinished">underline</translation>
+    </message>
+    <message>
+        <source>color</source>
+        <translation type="unfinished">color</translation>
+    </message>
+    <message>
+        <source>@username</source>
+        <translation type="unfinished">@username</translation>
+    </message>
+    <message>
+        <source>*tag</source>
+        <translation type="unfinished">*tag</translation>
+    </message>
+    <message>
+        <source>#message id</source>
+        <translation type="unfinished">#message id</translation>
+    </message>
+    <message>
+        <source>&gt;quote</source>
+        <translation type="unfinished">&gt;quote</translation>
+    </message>
+    <message>
+        <source>http://link</source>
+        <translation type="unfinished">http://link</translation>
+    </message>
+    <message>
+        <source>Use message Id as resource</source>
+        <translation type="unfinished">Use message Id as resource</translation>
+    </message>
+    <message>
+        <source>Show Photo</source>
+        <translation type="unfinished">Show Photo</translation>
+    </message>
+    <message>
+        <source>Show Avatars</source>
+        <translation type="unfinished">Show Avatars</translation>
+    </message>
+    <message>
+        <source>Replaces message id with a link
+to this message in juick@conference.jabber.ru</source>
+        <translation type="unfinished">Replaces message id with a link
+to this message in juick@conference.jabber.ru</translation>
+    </message>
+    <message>
+        <source>Clear avatar cache</source>
+        <translation type="unfinished">Clear avatar cache</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>

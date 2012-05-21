@@ -147,7 +147,7 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;</translation>
     </message>
     <message>
         <source>Psimedia Patcher and English localization</source>
-        <translation>Автор патчей для Psimedia и английского перевода Wiki</translation>
+        <translation type="obsolete">Автор патчей для Psimedia и английского перевода Wiki</translation>
     </message>
     <message>
         <source>Mac OS X Packager</source>
@@ -215,7 +215,7 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@mail.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;https://www.transifex.net/projects/p/psi-plus/r/all-resources/&quot;&gt;Transifex&lt;/a&gt; и здесь: &lt;a href=&quot;https://github.com/tehnick/psi-plus-i18n&quot;&gt;GitHub&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 09.04.2012</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@mail.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйся к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;https://www.transifex.net/projects/p/psi-plus/r/all-resources/&quot;&gt;Transifex&lt;/a&gt; и здесь: &lt;a href=&quot;https://github.com/tehnick/psi-plus-i18n&quot;&gt;GitHub&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 21.05.2012</translation>
     </message>
     <message>
         <source>Founder, Patcher and MS Windows Packager</source>
@@ -228,6 +228,10 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
     <message>
         <source>Patcher and Ubuntu Packager</source>
         <translation>Автор патчей и сопровождающий пакета для Ubuntu</translation>
+    </message>
+    <message>
+        <source>Psimedia Patcher and Wiki English localization</source>
+        <translation>Автор патчей для Psimedia и английского перевода Wiki</translation>
     </message>
 </context>
 <context>
@@ -6915,93 +6919,93 @@ to play gomoku. He wants to play %2.</source>
     <name>JuickPlugin</name>
     <message>
         <source>Show all messages</source>
-        <translation>Показать все сообщения</translation>
+        <translation type="obsolete">Показать все сообщения</translation>
     </message>
     <message>
         <source>Reply</source>
-        <translation>Ответить</translation>
+        <translation type="obsolete">Ответить</translation>
     </message>
     <message>
         <source>Show %1&apos;s info and last 10 messages</source>
-        <translation>Показать информацию о %1 и последние 10 сообщений</translation>
+        <translation type="obsolete">Показать информацию о %1 и последние 10 сообщений</translation>
     </message>
     <message>
         <source>Subscribe</source>
-        <translation>Подписаться</translation>
+        <translation type="obsolete">Подписаться</translation>
     </message>
     <message>
         <source>Show last 10 messages with tag %1</source>
-        <translation>Показать последие 10 сообщений с тегом %1</translation>
+        <translation type="obsolete">Показать последие 10 сообщений с тегом %1</translation>
     </message>
     <message>
         <source>Unsubscribe</source>
-        <translation>Отписаться</translation>
+        <translation type="obsolete">Отписаться</translation>
     </message>
     <message>
         <source>Edit JIDs</source>
-        <translation>Редактировать JID&apos;ы</translation>
+        <translation type="obsolete">Редактировать JID&apos;ы</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation>@пользователь</translation>
+        <translation type="obsolete">@пользователь</translation>
     </message>
     <message>
         <source>*tag</source>
-        <translation>*тег</translation>
+        <translation type="obsolete">*тег</translation>
     </message>
     <message>
         <source>#message id</source>
-        <translation>#id сообщения</translation>
+        <translation type="obsolete">#id сообщения</translation>
     </message>
     <message>
         <source>&gt;quote</source>
-        <translation>&gt;цитата</translation>
+        <translation type="obsolete">&gt;цитата</translation>
     </message>
     <message>
         <source>http://link</source>
-        <translation>http://link</translation>
+        <translation type="obsolete">http://link</translation>
     </message>
     <message>
         <source>bold</source>
-        <translation>полужирный</translation>
+        <translation type="obsolete">полужирный</translation>
     </message>
     <message>
         <source>italic</source>
-        <translation>курсив</translation>
+        <translation type="obsolete">курсив</translation>
     </message>
     <message>
         <source>underline</source>
-        <translation>подчёркивать</translation>
+        <translation type="obsolete">подчёркивать</translation>
     </message>
     <message>
         <source>color</source>
-        <translation>цвет</translation>
+        <translation type="obsolete">цвет</translation>
     </message>
     <message>
         <source>Use message Id as resource</source>
-        <translation>Использовать id сообщения как ресурс</translation>
+        <translation type="obsolete">Использовать id сообщения как ресурс</translation>
     </message>
     <message>
         <source>Show Photo</source>
-        <translation>Показывать фотографии</translation>
+        <translation type="obsolete">Показывать фотографии</translation>
     </message>
     <message>
         <source>Show Avatars</source>
-        <translation>Показывать аватары</translation>
+        <translation type="obsolete">Показывать аватары</translation>
     </message>
     <message>
         <source>Replaces message id with a link
 to this message in juick@conference.jabber.ru</source>
-        <translation>Подменять номер сообщения ссылкой
+        <translation type="obsolete">Подменять номер сообщения ссылкой
 на него в конференции juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
+        <translation type="obsolete">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Clear avatar cache</source>
-        <translation>Очистить кэш аватар</translation>
+        <translation type="obsolete">Очистить кэш аватар</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -7015,7 +7019,7 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Recommended by </source>
-        <translation>Рекомендовано </translation>
+        <translation type="obsolete">Рекомендовано </translation>
     </message>
     <message>
         <source> replied:</source>
@@ -7023,11 +7027,11 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Reply posted.</source>
-        <translation>Ответ отправлен.</translation>
+        <translation type="obsolete">Ответ отправлен.</translation>
     </message>
     <message>
         <source>New message posted.</source>
-        <translation>Новое сообщение отправлено.</translation>
+        <translation type="obsolete">Новое сообщение отправлено.</translation>
     </message>
     <message>
         <source>Subscribe to %1&apos;s blog</source>
@@ -7040,7 +7044,7 @@ caching avatars will be not available</source>
     <message>
         <source>Cannot write to file %1:
 %2.</source>
-        <translation>Не удаётся записать в файл %1: 
+        <translation type="obsolete">Не удаётся записать в файл %1: 
 %2.</translation>
     </message>
     <message>
@@ -7053,7 +7057,7 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Автор: </translation>
+        <translation type="obsolete">Автор: </translation>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -7070,6 +7074,14 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
  * Кликабельные @ники, *тэги, #id_сообщений и другие управляющие элементы для подстановки их в строку ввода.
 
 Примечание: для корректной работы плагина опция &quot;options.html.chat.render&quot; должна быть установленна в &quot;true&quot;.</translation>
+    </message>
+    <message>
+        <source>Time stamp: %1</source>
+        <translation>Время: %1</translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation>Авторы: </translation>
     </message>
 </context>
 <context>
@@ -14245,6 +14257,56 @@ URL: %4
         <source>Last Status Message</source>
         <translation>Последний статус</translation>
     </message>
+    <message>
+        <source>Warning</source>
+        <translation>Предупреждение</translation>
+    </message>
+    <message>
+        <source>Cannot write to file %1:
+%2.</source>
+        <translation>Не удаётся записать в файл %1:
+%2.</translation>
+    </message>
+    <message>
+        <source>Recommended by @%1</source>
+        <translation>Рекомендовано @%1</translation>
+    </message>
+    <message>
+        <source>Reply posted.</source>
+        <translation>Ответ отправлен.</translation>
+    </message>
+    <message>
+        <source>New message posted.</source>
+        <translation>Новое сообщение отправлено.</translation>
+    </message>
+    <message>
+        <source> recommended your post </source>
+        <translation> рекомендовал ваш пост </translation>
+    </message>
+    <message>
+        <source>Show all messages</source>
+        <translation>Показать все сообщения</translation>
+    </message>
+    <message>
+        <source>Reply</source>
+        <translation>Ответить</translation>
+    </message>
+    <message>
+        <source>Show %1&apos;s info and last 10 messages</source>
+        <translation>Показать информацию о %1 и последние 10 сообщений</translation>
+    </message>
+    <message>
+        <source>Subscribe</source>
+        <translation>Подписаться</translation>
+    </message>
+    <message>
+        <source>Show last 10 messages with tag %1</source>
+        <translation>Показать последие 10 сообщений с тегом %1</translation>
+    </message>
+    <message>
+        <source>Unsubscribe</source>
+        <translation>Отписаться</translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -17738,6 +17800,79 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Captcha:</source>
         <translation>Капча:</translation>
+    </message>
+</context>
+<context>
+    <name>settings</name>
+    <message>
+        <source>settings</source>
+        <translation>настройки</translation>
+    </message>
+    <message>
+        <source>Edit JIDs</source>
+        <translation>Редактировать JID&apos;ы</translation>
+    </message>
+    <message>
+        <source>bold</source>
+        <translation>полужирный</translation>
+    </message>
+    <message>
+        <source>italic</source>
+        <translation>курсив</translation>
+    </message>
+    <message>
+        <source>underline</source>
+        <translation>подчёркивать</translation>
+    </message>
+    <message>
+        <source>color</source>
+        <translation>цвет</translation>
+    </message>
+    <message>
+        <source>@username</source>
+        <translation>@пользователь</translation>
+    </message>
+    <message>
+        <source>*tag</source>
+        <translation>*тег</translation>
+    </message>
+    <message>
+        <source>#message id</source>
+        <translation>#id сообщения</translation>
+    </message>
+    <message>
+        <source>&gt;quote</source>
+        <translation>&gt;цитата</translation>
+    </message>
+    <message>
+        <source>http://link</source>
+        <translation>http://link</translation>
+    </message>
+    <message>
+        <source>Use message Id as resource</source>
+        <translation>Использовать id сообщения как ресурс</translation>
+    </message>
+    <message>
+        <source>Show Photo</source>
+        <translation>Показывать фотографии</translation>
+    </message>
+    <message>
+        <source>Show Avatars</source>
+        <translation>Показывать аватары</translation>
+    </message>
+    <message>
+        <source>Replaces message id with a link
+to this message in juick@conference.jabber.ru</source>
+        <translation>Подменять номер сообщения ссылкой
+на него в конференции juick@conference.jabber.ru</translation>
+    </message>
+    <message>
+        <source>Clear avatar cache</source>
+        <translation>Очистить кэш аватар</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>

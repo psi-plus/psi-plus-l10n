@@ -144,10 +144,6 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psimedia Patcher and English localization</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Mac OS X Packager</source>
         <translation>Mac OS X csomagkészítő</translation>
     </message>
@@ -238,6 +234,10 @@ Csatlakozz a fordítókhoz! További információért látogasd meg a &lt;a href
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psimedia Patcher and Wiki English localization</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6842,92 +6842,31 @@ to play gomoku. He wants to play %2.</source>
     <name>JuickPlugin</name>
     <message>
         <source>Show all messages</source>
-        <translation>Összes üzenet megjelenítése</translation>
+        <translation type="obsolete">Összes üzenet megjelenítése</translation>
     </message>
     <message>
         <source>Reply</source>
-        <translation>Válasz</translation>
-    </message>
-    <message>
-        <source>Show %1&apos;s info and last 10 messages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Subscribe</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show last 10 messages with tag %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unsubscribe</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit JIDs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>@username</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>*tag</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>#message id</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&gt;quote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>http://link</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Válasz</translation>
     </message>
     <message>
         <source>bold</source>
-        <translation>félkövér</translation>
+        <translation type="obsolete">félkövér</translation>
     </message>
     <message>
         <source>italic</source>
-        <translation>dőlt</translation>
+        <translation type="obsolete">dőlt</translation>
     </message>
     <message>
         <source>underline</source>
-        <translation>aláhúzott</translation>
+        <translation type="obsolete">aláhúzott</translation>
     </message>
     <message>
         <source>color</source>
-        <translation>szín</translation>
-    </message>
-    <message>
-        <source>Use message Id as resource</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Photo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Avatars</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Replaces message id with a link
-to this message in juick@conference.jabber.ru</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">szín</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Clear avatar cache</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -6939,19 +6878,7 @@ caching avatars will be not available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Recommended by </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source> replied:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reply posted.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New message posted.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6960,11 +6887,6 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Send personal message to %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot write to file %1:
-%2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6977,7 +6899,7 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Szerző: </translation>
+        <translation type="obsolete">Szerző: </translation>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -6988,6 +6910,14 @@ Currently, the plugin is able to:
 
 Note: To work correctly, the option options.html.chat.render	must be set to true. </source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Time stamp: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished">Szerzők: </translation>
     </message>
 </context>
 <context>
@@ -14111,6 +14041,55 @@ Password: %5</source>
         <source>Last Status Message</source>
         <translation>Utolsó állapot leírás</translation>
     </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">Figyelmeztetés</translation>
+    </message>
+    <message>
+        <source>Cannot write to file %1:
+%2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recommended by @%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reply posted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New message posted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> recommended your post </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show all messages</source>
+        <translation type="unfinished">Összes üzenet megjelenítése</translation>
+    </message>
+    <message>
+        <source>Reply</source>
+        <translation type="unfinished">Válasz</translation>
+    </message>
+    <message>
+        <source>Show %1&apos;s info and last 10 messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscribe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show last 10 messages with tag %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unsubscribe</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -17528,6 +17507,78 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Captcha:</source>
         <translation>Captcha:</translation>
+    </message>
+</context>
+<context>
+    <name>settings</name>
+    <message>
+        <source>settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit JIDs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>bold</source>
+        <translation type="unfinished">félkövér</translation>
+    </message>
+    <message>
+        <source>italic</source>
+        <translation type="unfinished">dőlt</translation>
+    </message>
+    <message>
+        <source>underline</source>
+        <translation type="unfinished">aláhúzott</translation>
+    </message>
+    <message>
+        <source>color</source>
+        <translation type="unfinished">szín</translation>
+    </message>
+    <message>
+        <source>@username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*tag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#message id</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&gt;quote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>http://link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use message Id as resource</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Photo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Avatars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replaces message id with a link
+to this message in juick@conference.jabber.ru</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear avatar cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
