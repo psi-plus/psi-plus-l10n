@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.0" language="en">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="en" version="2.0">
 <context>
     <name>@default</name>
     <message>
@@ -148,7 +146,7 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Psimedia Patcher and English localization</source>
-        <translation type="obsolete">Psimedia Patcher and English localization</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mac OS X Packager</source>
@@ -240,7 +238,7 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</translation>
     </message>
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
-        <translation type="unfinished"></translation>
+        <translation>Psimedia Patcher and Wiki English localization</translation>
     </message>
 </context>
 <context>
@@ -1076,7 +1074,7 @@ save the history for this contact.</translation>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;Jabber&lt;/span&gt; user, simply fill out the Jabber ID (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-Jabber&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get Jabber ID&lt;/span&gt; button to generate a Jabber ID for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -2587,17 +2585,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message numerus="yes">
         <source>and %n contacts </source>
-        <translation>
-            <numerusform>and %n contacts </numerusform>
-            <numerusform>and %n contacts </numerusform>
-        </translation>
+        <translation><numerusform>and %n contacts </numerusform><numerusform>and %n contacts </numerusform></translation>
     </message>
     <message numerus="yes">
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation>
-            <numerusform>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</numerusform>
-            <numerusform>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</numerusform>
-        </translation>
+        <translation><numerusform>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</numerusform><numerusform>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</numerusform></translation>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
@@ -3174,7 +3166,7 @@ Proceed?</translation>
     </message>
     <message>
         <source>ToolBar will be placed here</source>
-        <comment>Don&apos;t translate this string</comment>
+        <comment>Don't translate this string</comment>
         <translation>ToolBar will be placed here</translation>
     </message>
     <message>
@@ -4443,7 +4435,7 @@ contact is offline.</translation>
         <source>Unable to connect to peer for data transfer.
 
 Ensure that your Data Transfer settings are proper.  If you are behind
-a NAT router or firewall then you&apos;ll need to open the proper TCP port
+a NAT router or firewall then you'll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>Unable to connect to peer for data transfer.
 
@@ -4455,7 +4447,7 @@ or specify a Data Transfer Proxy in your account settings.</translation>
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
 
 This means that the Proxy service is either not functioning or it is
-unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
+unreachable.  If you are behind a firewall, then you'll need to ensure
 that outgoing TCP connections are allowed.</source>
         <translation>Failure to either connect to, or activate, the Data Transfer Proxy.
 
@@ -6003,7 +5995,7 @@ You can select or deselect a contact for history removal from the context menu o
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -6015,7 +6007,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -6031,7 +6023,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -6047,7 +6039,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -6437,7 +6429,7 @@ The plugin has a number of simple settings that can help you:
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
-Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
         <translation>This plugin is designed to send images to roster contacts.
 Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
@@ -6919,107 +6911,106 @@ to play gomoku. He wants to play %2.</translation>
     <name>JuickPlugin</name>
     <message>
         <source>Show all messages</source>
-        <translation type="obsolete">Show all messages</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reply</source>
-        <translation type="obsolete">Reply</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show %1&apos;s info and last 10 messages</source>
-        <translation type="obsolete">Show %1&apos;s info and last 10 messages</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Subscribe</source>
-        <translation type="obsolete">Subscribe</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show last 10 messages with tag %1</source>
-        <translation type="obsolete">Show last 10 messages with tag %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unsubscribe</source>
-        <translation type="obsolete">Unsubscribe</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Edit JIDs</source>
-        <translation type="obsolete">Edit JIDs</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>@username</source>
-        <translation type="obsolete">@username</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>*tag</source>
-        <translation type="obsolete">*tag</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>#message id</source>
-        <translation type="obsolete">#message id</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&gt;quote</source>
-        <translation type="obsolete">&gt;quote</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>http://link</source>
-        <translation type="obsolete">http://link</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>bold</source>
-        <translation type="obsolete">bold</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>italic</source>
-        <translation type="obsolete">italic</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>underline</source>
-        <translation type="obsolete">underline</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>color</source>
-        <translation type="obsolete">color</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Use message Id as resource</source>
-        <translation type="obsolete">Use message Id as resource</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Photo</source>
-        <translation type="obsolete">Show Photo</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Avatars</source>
-        <translation type="obsolete">Show Avatars</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Replaces message id with a link
 to this message in juick@conference.jabber.ru</source>
-        <translation type="obsolete">Replaces message id with a link
-to this message in juick@conference.jabber.ru</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="obsolete">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear avatar cache</source>
-        <translation type="obsolete">Clear avatar cache</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Warning</source>
         <translation>Warning</translation>
     </message>
     <message>
-        <source>can&apos;t create folder %1 
+        <source>can't create folder %1 
 caching avatars will be not available</source>
         <translation>can&apos;t create folder %1 
 caching avatars will be not available</translation>
     </message>
     <message>
         <source>Recommended by </source>
-        <translation type="obsolete">Recommended by </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> replied:</source>
@@ -7027,11 +7018,11 @@ caching avatars will be not available</translation>
     </message>
     <message>
         <source>Reply posted.</source>
-        <translation type="obsolete">Reply posted.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New message posted.</source>
-        <translation type="obsolete">New message posted.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Subscribe to %1&apos;s blog</source>
@@ -7044,8 +7035,7 @@ caching avatars will be not available</translation>
     <message>
         <source>Cannot write to file %1:
 %2.</source>
-        <translation type="obsolete">Cannot write to file %1:
-%2.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete</source>
@@ -7057,7 +7047,7 @@ caching avatars will be not available</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="obsolete">Author: </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -7077,11 +7067,11 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Time stamp: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Time stamp: %1</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished">Authors: </translation>
+        <translation>Authors: </translation>
     </message>
 </context>
 <context>
@@ -8826,7 +8816,7 @@ Tags: %1</translation>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -9272,7 +9262,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Del</translation>
     </message>
     <message>
-        <source>Disable stopspam, if don&apos;t match any rule above
+        <source>Disable stopspam, if don't match any rule above
 (does not work for muc private messages)</source>
         <translation>Disable stopspam, if don&apos;t match any rule above
 (does not work for muc private messages)</translation>
@@ -12098,7 +12088,7 @@ Reason: %1.</translation>
     </message>
     <message>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
-        <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
+        <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
         <translation>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</translation>
     </message>
     <message>
@@ -13837,79 +13827,67 @@ Description: </translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
-        <translation>
-            <numerusform>%n day(s) </numerusform>
-            <numerusform>%n day(s) </numerusform>
-        </translation>
+        <translation><numerusform>%n day(s) </numerusform><numerusform>%n day(s) </numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) </source>
-        <translation>
-            <numerusform>%n hour(s) </numerusform>
-            <numerusform>%n hour(s) </numerusform>
-        </translation>
+        <translation><numerusform>%n hour(s) </numerusform><numerusform>%n hour(s) </numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) </source>
-        <translation>
-            <numerusform>%n minute(s) </numerusform>
-            <numerusform>%n minute(s) </numerusform>
-        </translation>
+        <translation><numerusform>%n minute(s) </numerusform><numerusform>%n minute(s) </numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) </source>
-        <translation>
-            <numerusform>%n second(s) </numerusform>
-            <numerusform>%n second(s) </numerusform>
-        </translation>
+        <translation><numerusform>%n second(s) </numerusform><numerusform>%n second(s) </numerusform></translation>
     </message>
     <message>
         <source>No OTR Message</source>
-        <translation type="obsolete">No OTR Message</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OTR TaggedPlaintextMessage</source>
-        <translation type="obsolete">OTR TaggedPlaintextMessage</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OTR QueryMessage</source>
-        <translation type="obsolete">OTR QueryMessage</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OTR DH-Commit Message</source>
-        <translation type="obsolete">OTR DH-Commit Message</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OTR DH-Key Message</source>
-        <translation type="obsolete">OTR DH-Key Message</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OTR Reveal Signature Message</source>
-        <translation type="obsolete">OTR Reveal Signature Message</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OTR Signature Message</source>
-        <translation type="obsolete">OTR Signature Message</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OTR Version 1 Key Exchange Message</source>
-        <translation type="obsolete">OTR Version 1 Key Exchange Message</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OTR Data Message</source>
-        <translation type="obsolete">OTR Data Message</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OTR Error Message</source>
-        <translation type="obsolete">OTR Error Message</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OTR Unknown Message</source>
-        <translation type="obsolete">OTR Unknown Message</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unknown OTR Message Type</source>
-        <translation type="obsolete">Unknown OTR Message Type</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Encrypting message to %1 failed.
@@ -13919,11 +13897,11 @@ The message was not sent.</translation>
     </message>
     <message>
         <source>Received %1 [%2]</source>
-        <translation type="obsolete">Received %1 [%2]</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Session ID: </source>
-        <translation type="obsolete">Session ID: </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>plaintext</source>
@@ -14311,53 +14289,53 @@ Password: %5</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Warning</translation>
+        <translation>Warning</translation>
     </message>
     <message>
         <source>Cannot write to file %1:
 %2.</source>
-        <translation type="unfinished">Cannot write to file %1:
+        <translation>Cannot write to file %1:
 %2.</translation>
     </message>
     <message>
         <source>Recommended by @%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Recommended by @%1</translation>
     </message>
     <message>
         <source>Reply posted.</source>
-        <translation type="unfinished">Reply posted.</translation>
+        <translation>Reply posted.</translation>
     </message>
     <message>
         <source>New message posted.</source>
-        <translation type="unfinished">New message posted.</translation>
+        <translation>New message posted.</translation>
     </message>
     <message>
         <source> recommended your post </source>
-        <translation type="unfinished"></translation>
+        <translation> recommended your post </translation>
     </message>
     <message>
         <source>Show all messages</source>
-        <translation type="unfinished">Show all messages</translation>
+        <translation>Show all messages</translation>
     </message>
     <message>
         <source>Reply</source>
-        <translation type="unfinished">Reply</translation>
+        <translation>Reply</translation>
     </message>
     <message>
         <source>Show %1&apos;s info and last 10 messages</source>
-        <translation type="unfinished">Show %1&apos;s info and last 10 messages</translation>
+        <translation>Show %1&apos;s info and last 10 messages</translation>
     </message>
     <message>
         <source>Subscribe</source>
-        <translation type="unfinished">Subscribe</translation>
+        <translation>Subscribe</translation>
     </message>
     <message>
         <source>Show last 10 messages with tag %1</source>
-        <translation type="unfinished">Show last 10 messages with tag %1</translation>
+        <translation>Show last 10 messages with tag %1</translation>
     </message>
     <message>
         <source>Unsubscribe</source>
-        <translation type="unfinished">Unsubscribe</translation>
+        <translation>Unsubscribe</translation>
     </message>
 </context>
 <context>
@@ -14453,12 +14431,9 @@ Reason: %1</translation>
     <message numerus="yes">
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation>
-            <numerusform>celebrates birthday in %n day(s)
-</numerusform>
-            <numerusform>celebrates birthday in %n day(s)
-</numerusform>
-        </translation>
+        <translation><numerusform>celebrates birthday in %n day(s)
+</numerusform><numerusform>celebrates birthday in %n day(s)
+</numerusform></translation>
     </message>
     <message>
         <source>celebrates birthday yesterday.
@@ -14862,10 +14837,7 @@ Reason: %1</translation>
     </message>
     <message numerus="yes">
         <source>Added %n users to your roster.</source>
-        <translation>
-            <numerusform>Added %n users to your roster.</numerusform>
-            <numerusform>Added %n users to your roster.</numerusform>
-        </translation>
+        <translation><numerusform>Added %n users to your roster.</numerusform><numerusform>Added %n users to your roster.</numerusform></translation>
     </message>
     <message>
         <source>Added %1 to your roster.</source>
@@ -16164,7 +16136,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
         <source>You can type these special commands in chat and groupchat dialogs:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
+&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; '/me' is replaced by your nick&lt;/li&gt;
 &lt;/ul&gt;
 And these work only in groupchat dialog:
 &lt;ul&gt;
@@ -17449,7 +17421,7 @@ Do you still want to close the window?</translation>
     </message>
     <message>
         <source>Fingerprint for %1:</source>
-        <translation type="obsolete">Fingerprint for %1:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Account: </source>
@@ -17497,23 +17469,23 @@ You should authenticate %1 as well by asking your own question.</translation>
     </message>
     <message>
         <source>To authenticate via shared secret, enter a secret only known to you and %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>To authenticate via shared secret, enter a secret only known to you and %1.</translation>
     </message>
     <message>
         <source>%1 wants to authenticate you. To authenticate, enter your shared secret below.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 wants to authenticate you. To authenticate, enter your shared secret below.</translation>
     </message>
     <message>
         <source>Shared secret</source>
-        <translation type="unfinished"></translation>
+        <translation>Shared secret</translation>
     </message>
     <message>
         <source>&amp;Shared Secret:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Shared Secret:</translation>
     </message>
     <message>
         <source>%1&apos;s fingerprint:</source>
-        <translation type="unfinished"></translation>
+        <translation>%1&apos;s fingerprint:</translation>
     </message>
 </context>
 <context>
@@ -17733,95 +17705,95 @@ You should authenticate %1 as well by asking your own question.</translation>
     </message>
     <message>
         <source>Off-the-Record Messaging plugin for Psi+</source>
-        <translation type="unfinished"></translation>
+        <translation>Off-the-Record Messaging plugin for Psi+</translation>
     </message>
     <message>
         <source>Authors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Authors: %1</translation>
     </message>
     <message>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Encryption</translation>
     </message>
     <message>
         <source>No one else can read your instant messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>No one else can read your instant messages.</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Authentication</translation>
     </message>
     <message>
         <source>You are assured the correspondent is who you think it is.</source>
-        <translation type="unfinished"></translation>
+        <translation>You are assured the correspondent is who you think it is.</translation>
     </message>
     <message>
         <source>Deniability</source>
-        <translation type="unfinished"></translation>
+        <translation>Deniability</translation>
     </message>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
-        <translation type="unfinished"></translation>
+        <translation>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
-        <translation type="unfinished"></translation>
+        <translation>Perfect forward secrecy</translation>
     </message>
     <message>
         <source>If you lose control of your private keys, no previous conversation is compromised.</source>
-        <translation type="unfinished"></translation>
+        <translation>If you lose control of your private keys, no previous conversation is compromised.</translation>
     </message>
     <message>
         <source>For further information, see &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>For further information, see &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</translation>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>Attempting to refresh the private conversation</translation>
     </message>
     <message>
         <source>Attempting to start a private conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>Attempting to start a private conversation</translation>
     </message>
     <message>
         <source>Private conversation started</source>
-        <translation type="unfinished"></translation>
+        <translation>Private conversation started</translation>
     </message>
     <message>
         <source>Unverified conversation started</source>
-        <translation type="unfinished"></translation>
+        <translation>Unverified conversation started</translation>
     </message>
     <message>
         <source>Private conversation lost</source>
-        <translation type="unfinished"></translation>
+        <translation>Private conversation lost</translation>
     </message>
     <message>
         <source>Private conversation closed</source>
-        <translation type="unfinished"></translation>
+        <translation>Private conversation closed</translation>
     </message>
     <message>
         <source>%1 has ended the private conversation with you; you should do the same.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 has ended the private conversation with you; you should do the same.</translation>
     </message>
     <message>
         <source>Private conversation refreshed</source>
-        <translation type="unfinished"></translation>
+        <translation>Private conversation refreshed</translation>
     </message>
     <message>
         <source>Unverified conversation refreshed</source>
-        <translation type="unfinished"></translation>
+        <translation>Unverified conversation refreshed</translation>
     </message>
     <message>
         <source>Contact authenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>Contact authenticated</translation>
     </message>
     <message>
         <source>Contact not authenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>Contact not authenticated</translation>
     </message>
 </context>
 <context>
@@ -17851,73 +17823,73 @@ You should authenticate %1 as well by asking your own question.</translation>
     <name>settings</name>
     <message>
         <source>settings</source>
-        <translation type="unfinished"></translation>
+        <translation>settings</translation>
     </message>
     <message>
         <source>Edit JIDs</source>
-        <translation type="unfinished">Edit JIDs</translation>
+        <translation>Edit JIDs</translation>
     </message>
     <message>
         <source>bold</source>
-        <translation type="unfinished">bold</translation>
+        <translation>bold</translation>
     </message>
     <message>
         <source>italic</source>
-        <translation type="unfinished">italic</translation>
+        <translation>italic</translation>
     </message>
     <message>
         <source>underline</source>
-        <translation type="unfinished">underline</translation>
+        <translation>underline</translation>
     </message>
     <message>
         <source>color</source>
-        <translation type="unfinished">color</translation>
+        <translation>color</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation type="unfinished">@username</translation>
+        <translation>@username</translation>
     </message>
     <message>
         <source>*tag</source>
-        <translation type="unfinished">*tag</translation>
+        <translation>*tag</translation>
     </message>
     <message>
         <source>#message id</source>
-        <translation type="unfinished">#message id</translation>
+        <translation>#message id</translation>
     </message>
     <message>
         <source>&gt;quote</source>
-        <translation type="unfinished">&gt;quote</translation>
+        <translation>&gt;quote</translation>
     </message>
     <message>
         <source>http://link</source>
-        <translation type="unfinished">http://link</translation>
+        <translation>http://link</translation>
     </message>
     <message>
         <source>Use message Id as resource</source>
-        <translation type="unfinished">Use message Id as resource</translation>
+        <translation>Use message Id as resource</translation>
     </message>
     <message>
         <source>Show Photo</source>
-        <translation type="unfinished">Show Photo</translation>
+        <translation>Show Photo</translation>
     </message>
     <message>
         <source>Show Avatars</source>
-        <translation type="unfinished">Show Avatars</translation>
+        <translation>Show Avatars</translation>
     </message>
     <message>
         <source>Replaces message id with a link
 to this message in juick@conference.jabber.ru</source>
-        <translation type="unfinished">Replaces message id with a link
+        <translation>Replaces message id with a link
 to this message in juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>Clear avatar cache</source>
-        <translation type="unfinished">Clear avatar cache</translation>
+        <translation>Clear avatar cache</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished">&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -18126,7 +18098,7 @@ Reathorization...</source>
 Reathorization...</translation>
     </message>
     <message>
-        <source>Can&apos;t get files!
+        <source>Can't get files!
 Try remove cookies.</source>
         <translation>Can&apos;t get files!
 Try remove cookies.</translation>
@@ -18217,7 +18189,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
