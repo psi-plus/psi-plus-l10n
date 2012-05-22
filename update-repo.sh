@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2012-05-20
+# Updated: 2012-05-22
 # Version: N/A
 
 export CUR_DIR="${PWD}/$(dirname ${0})"
@@ -50,6 +50,7 @@ case "${1}" in
 
     mkdir -p out
     mv translations/*.qm out/ || exit 1
+    rm out/psi_en.qm || exit 1
 
 ;;
 "install")
