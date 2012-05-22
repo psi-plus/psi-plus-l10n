@@ -244,7 +244,7 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
     </message>
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
-        <translation type="unfinished"/>
+        <translation>Стварае латкі для «psimedia», перакладае вікі ў анґельскую</translation>
     </message>
 </context>
 <context>
@@ -2591,7 +2591,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message numerus="yes">
         <source>and %n contacts </source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>і %n суразмоўца </numerusform><numerusform>і %n суразмоўцы </numerusform><numerusform>і %n суразмоўцаў </numerusform><numerusform>і %n суразмоўцаў </numerusform></translation>
     </message>
     <message numerus="yes">
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
@@ -7071,11 +7071,11 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Time stamp: %1</source>
-        <translation type="unfinished"/>
+        <translation>Часадзнака: %1</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Аўтары: </translation>
     </message>
 </context>
 <context>
@@ -8886,9 +8886,9 @@ p, li { white-space: pre-wrap; }
         <source>Please enter option name.
 
 Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</source>
-        <translation>Калі ласка, упішыце назоў можнасьці.
+        <translation>Пазначце назву можнасьці.
 
-Нельга, каб назоў быў пустым, меў канчаткам &quot;.&quot; ці зьмяшчаў &quot;..&quot;.</translation>
+Назва мусіць не зьмяшчаць «..» і не заканчвацца кропкаю «.».</translation>
     </message>
 </context>
 <context>
@@ -13831,19 +13831,19 @@ Description: </source>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n дзень </numerusform><numerusform>%n дні </numerusform><numerusform>%n дзён </numerusform><numerusform>%n дзён </numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) </source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n гадзіна </numerusform><numerusform>%n гадзіны </numerusform><numerusform>%n гадзінаў </numerusform><numerusform>%n гадзінаў </numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) </source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n хвіліна </numerusform><numerusform>%n хвіліны </numerusform><numerusform>%n хвілінаў </numerusform><numerusform>%n хвілінаў </numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) </source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n сэкунда </numerusform><numerusform>%n сэкунды </numerusform><numerusform>%n сэкундаў </numerusform><numerusform>%n сэкундаў </numerusform></translation>
     </message>
     <message>
         <source>No OTR Message</source>
@@ -14293,52 +14293,53 @@ Password: %5</source>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Перасьцярога</translation>
     </message>
     <message>
         <source>Cannot write to file %1:
 %2.</source>
-        <translation type="unfinished"/>
+        <translation>Нельга запісаць у файл «%1»:
+%2.</translation>
     </message>
     <message>
         <source>Recommended by @%1</source>
-        <translation type="unfinished"/>
+        <translation>Раіць @%1</translation>
     </message>
     <message>
         <source>Reply posted.</source>
-        <translation type="unfinished"/>
+        <translation>Адказалі.</translation>
     </message>
     <message>
         <source>New message posted.</source>
-        <translation type="unfinished"/>
+        <translation>Зрабілі допіс.</translation>
     </message>
     <message>
         <source> recommended your post </source>
-        <translation type="unfinished"/>
+        <translation> раіць ваш допіс </translation>
     </message>
     <message>
         <source>Show all messages</source>
-        <translation type="unfinished"/>
+        <translation>Усе паведамленьні</translation>
     </message>
     <message>
         <source>Reply</source>
-        <translation type="unfinished"/>
+        <translation>Адказаць</translation>
     </message>
     <message>
         <source>Show %1&apos;s info and last 10 messages</source>
-        <translation type="unfinished"/>
+        <translation>Зьвесткі пра %1 і апошнія 10 паведамленьняў</translation>
     </message>
     <message>
         <source>Subscribe</source>
-        <translation type="unfinished"/>
+        <translation>Падпісацца</translation>
     </message>
     <message>
         <source>Show last 10 messages with tag %1</source>
-        <translation type="unfinished"/>
+        <translation>Апошнія 10 паведамленьняў зь біркаю «%1»</translation>
     </message>
     <message>
         <source>Unsubscribe</source>
-        <translation type="unfinished"/>
+        <translation>Адпісацца</translation>
     </message>
 </context>
 <context>
@@ -14434,7 +14435,11 @@ Reason: %1</source>
     <message numerus="yes">
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>сьвяткуе народзіны праз %n дзень
+</numerusform><numerusform>сьвяткуе народзіны праз %n дні
+</numerusform><numerusform>сьвяткуе народзіны праз %n дзён
+</numerusform><numerusform>сьвяткуе народзіны праз %n дзён
+</numerusform></translation>
     </message>
     <message>
         <source>celebrates birthday yesterday.
@@ -14838,7 +14843,7 @@ Reason: %1</source>
     </message>
     <message numerus="yes">
         <source>Added %n users to your roster.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Да сьпісу дадалі %n суразмоўцу.</numerusform><numerusform>Да сьпісу дадалі %n суразмоўцы.</numerusform><numerusform>Да сьпісу дадалі %n суразмоўцаў.</numerusform><numerusform>Да сьпісу дадалі %n суразмоўцаў.</numerusform></translation>
     </message>
     <message>
         <source>Added %1 to your roster.</source>
@@ -17824,72 +17829,74 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>settings</name>
     <message>
         <source>settings</source>
-        <translation type="unfinished"/>
+        <translation>налады</translation>
     </message>
     <message>
         <source>Edit JIDs</source>
-        <translation type="unfinished"/>
+        <translation>Правіць адрасы</translation>
     </message>
     <message>
         <source>bold</source>
-        <translation type="unfinished"/>
+        <translation>тоўсты</translation>
     </message>
     <message>
         <source>italic</source>
-        <translation type="unfinished"/>
+        <translation>курсіў</translation>
     </message>
     <message>
         <source>underline</source>
-        <translation type="unfinished"/>
+        <translation>падкрэсьлены</translation>
     </message>
     <message>
         <source>color</source>
-        <translation type="unfinished"/>
+        <translation>колер</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation type="unfinished"/>
+        <translation>@карыстальнік</translation>
     </message>
     <message>
         <source>*tag</source>
-        <translation type="unfinished"/>
+        <translation>*бірка</translation>
     </message>
     <message>
         <source>#message id</source>
-        <translation type="unfinished"/>
+        <translation>#паведамленьне_№</translation>
     </message>
     <message>
         <source>&gt;quote</source>
-        <translation type="unfinished"/>
+        <translation>&gt;цытата</translation>
     </message>
     <message>
         <source>http://link</source>
-        <translation type="unfinished"/>
+        <translation>http://спасылка</translation>
     </message>
     <message>
         <source>Use message Id as resource</source>
-        <translation type="unfinished"/>
+        <translation>Нумар паведамленьня як крыніца</translation>
     </message>
     <message>
         <source>Show Photo</source>
-        <translation type="unfinished"/>
+        <translation>Паказваць фатаздымкі</translation>
     </message>
     <message>
         <source>Show Avatars</source>
-        <translation type="unfinished"/>
+        <translation>Паказваць увасабленьні</translation>
     </message>
     <message>
         <source>Replaces message id with a link
 to this message in juick@conference.jabber.ru</source>
-        <translation type="unfinished"/>
+        <translation>Замяняць нумар паведамленьня на спасылку
+на паведамленьне ў juick@conference.jabber.ru
+</translation>
     </message>
     <message>
         <source>Clear avatar cache</source>
-        <translation type="unfinished"/>
+        <translation>Ачысьціць запасьнік увасабленьняў</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Вікі (у сеціве)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>

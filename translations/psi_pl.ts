@@ -1347,11 +1347,12 @@ To work correctly, the plugin requires that the client of the other part support
     <message>
         <source>You can also specify a part of JID
 (without any additional symbols)</source>
-        <translation type="unfinished"/>
+        <translation>Możesz także podać część JID
+(bez dodatkowych symboli)</translation>
     </message>
     <message>
         <source>Disable for your accounts (specify your JIDs):</source>
-        <translation type="unfinished"/>
+        <translation>Wyłącz dla kont (podaj JID):</translation>
     </message>
     <message>
         <source>Timeout to reset counter:</source>
@@ -1359,7 +1360,7 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>min.</source>
-        <translation type="unfinished"/>
+        <translation>min.</translation>
     </message>
     <message>
         <source>Send maximum</source>
@@ -1367,7 +1368,7 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>times (-1=infinite)</source>
-        <translation type="unfinished"/>
+        <translation>czasy (-1 = nieskończony)</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -1502,7 +1503,7 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Import</translation>
     </message>
     <message>
         <source>Export bookmarks to file</source>
@@ -1510,7 +1511,7 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Eksport</translation>
     </message>
 </context>
 <context>
@@ -1642,7 +1643,7 @@ The list of exceptions for jids has two operating modes:
     <name>CaptchaDialog</name>
     <message>
         <source>CAPTCHA</source>
-        <translation type="unfinished"/>
+        <translation>CAPTCHA</translation>
     </message>
     <message>
         <source>Loading data...</source>
@@ -1657,7 +1658,7 @@ The list of exceptions for jids has two operating modes:
     <name>CaptchaFormsPlugin</name>
     <message>
         <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation type="unfinished"/>
+        <translation>dodatek Captcha: CAPTCHA z %1</translation>
     </message>
     <message>
         <source>Error! Image can not be loaded.</source>
@@ -1918,11 +1919,11 @@ Czy nadal chcesz zamknąć to okno?</translation>
     <name>ChatView</name>
     <message>
         <source>Quote</source>
-        <translation type="unfinished"/>
+        <translation>Cytat</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <source>%1 says:</source>
@@ -1934,7 +1935,7 @@ Czy nadal chcesz zamknąć to okno?</translation>
     </message>
     <message>
         <source>URL:</source>
-        <translation type="unfinished"/>
+        <translation>Link:</translation>
     </message>
     <message>
         <source>Desc:</source>
@@ -1998,49 +1999,52 @@ Czy nadal chcesz zamknąć to okno?</translation>
     </message>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
-        <translation type="unfinished"/>
+        <translation>dodatek Szachy: Zaproszenie z %1</translation>
     </message>
     <message>
         <source>You are allready playing!</source>
-        <translation type="unfinished"/>
+        <translation>Już grasz!</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz plik dźwięku</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Dźwięk (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>email:</translation>
     </message>
     <message>
         <source>This plugin allows you to play chess with your friends.
 The plugin is compatible with a similar plugin for Tkabber.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"/>
+        <translation>Ten dodatek pozwala grac w szachy z przyjaciółmi.
+Ten dodatek jest kompatybilny z podobnymi dodatkami dla Tkabber.
+Do wysyłania poleceń używana jest zwykła wiadomość, więc ten dodatek działa zawsze jeśli tylko możesz się zalogować. Aby zaprosić do gry przyjaciela, użyj menu przycisku kontakt, na pasku okna rozmowy. </translation>
     </message>
 </context>
 <context>
     <name>ChessWindow</name>
     <message>
         <source>Chess Board</source>
-        <translation type="unfinished"/>
+        <translation>Szachownica</translation>
     </message>
     <message>
         <source>Moves:</source>
-        <translation type="unfinished"/>
+        <translation>Ruchy:</translation>
     </message>
     <message>
         <source>    White    Black
 </source>
-        <translation type="unfinished"/>
+        <translation>    Białe    Czarne
+</translation>
     </message>
     <message>
         <source>Load game</source>
@@ -2072,7 +2076,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>*.chs</source>
-        <translation type="unfinished"/>
+        <translation>*.chs</translation>
     </message>
     <message>
         <source>  White     Black
@@ -2648,59 +2652,59 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ContactManagerDlg</name>
     <message>
         <source>Contacts Manager</source>
-        <translation type="unfinished"/>
+        <translation>Menedżer kontaktów</translation>
     </message>
     <message>
         <source>Field</source>
-        <translation type="unfinished"/>
+        <translation>Pole</translation>
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished"/>
+        <translation>Ruch</translation>
     </message>
     <message>
         <source>Execute</source>
-        <translation type="unfinished"/>
+        <translation>Wykonaj</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished"/>
+        <translation>Wiadomość</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Usuń</translation>
     </message>
     <message>
         <source>Auth request</source>
-        <translation type="unfinished"/>
+        <translation>Żądanie aut.</translation>
     </message>
     <message>
         <source>Auth grant</source>
-        <translation type="unfinished"/>
+        <translation>Aut. przyznana</translation>
     </message>
     <message>
         <source>Change domain</source>
-        <translation type="unfinished"/>
+        <translation>Zmiana domeny</translation>
     </message>
     <message>
         <source>Resolve nicks</source>
-        <translation type="unfinished"/>
+        <translation>Analizuj pseudo</translation>
     </message>
     <message>
         <source>Move to group</source>
-        <translation type="unfinished"/>
+        <translation>Przenieś do grupy</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"/>
+        <translation>Eksport</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"/>
+        <translation>Import</translation>
     </message>
     <message>
         <source>Simple</source>
-        <translation type="unfinished"/>
+        <translation>Prosty</translation>
     </message>
     <message>
         <source>RegExp</source>
@@ -2708,51 +2712,51 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Removal confirmation</source>
-        <translation type="unfinished"/>
+        <translation>Potwierdzenie usunięcia</translation>
     </message>
     <message>
         <source>Are you sure want to delete selected contacts?</source>
-        <translation type="unfinished"/>
+        <translation>Czy na pewno usunąć zaznaczone kontakty?</translation>
     </message>
     <message>
         <source>Invalid</source>
-        <translation type="unfinished"/>
+        <translation>Nieprawidlowy</translation>
     </message>
     <message>
         <source>This action is not supported atm</source>
-        <translation type="unfinished"/>
+        <translation>Ta akcja nie jest dostępna na atm</translation>
     </message>
     <message>
         <source>Please fill parameter field with new domain name</source>
-        <translation type="unfinished"/>
+        <translation>Wpisz do pola parametru nową nazwę domeny</translation>
     </message>
     <message>
         <source>Roster file</source>
-        <translation type="unfinished"/>
+        <translation>Plik listy</translation>
     </message>
     <message>
         <source>Save error!</source>
-        <translation type="unfinished"/>
+        <translation>Błąd zapisu!</translation>
     </message>
     <message>
         <source>Can&apos;t open file %1 for writing</source>
-        <translation type="unfinished"/>
+        <translation>Nie można otworzyć pliku %1 do zapisu</translation>
     </message>
     <message>
         <source>Open error!</source>
-        <translation type="unfinished"/>
+        <translation>Błąd otwarcia!</translation>
     </message>
     <message>
         <source>Can&apos;t open file %1 for reading</source>
-        <translation type="unfinished"/>
+        <translation>Nie można otworzyć pliku %1 do odczytu</translation>
     </message>
     <message>
         <source>File %1 is not xml file</source>
-        <translation type="unfinished"/>
+        <translation>Plik %1 nie jest plikiem xml</translation>
     </message>
     <message>
         <source>Nothing to do..</source>
-        <translation type="unfinished"/>
+        <translation>Nic do zrobienia...</translation>
     </message>
     <message>
         <source>No contacts found in file %1</source>
@@ -2771,7 +2775,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ContactManagerModel</name>
     <message>
         <source>Nick</source>
-        <translation type="unfinished"/>
+        <translation>Pseudo</translation>
     </message>
     <message>
         <source>Group</source>
@@ -3151,15 +3155,15 @@ Kontynuować?</translation>
     <name>ContentDownloader</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation type="unfinished"/>
+        <translation>email:</translation>
     </message>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi+.</source>
-        <translation type="unfinished"/>
+        <translation>Ten dodatek stworzono aby ułatwić pobieranie i instalowanie zestawów ikon i innych zasobów dla Psi+</translation>
     </message>
 </context>
 <context>
@@ -3278,7 +3282,7 @@ Kontynuować?</translation>
     </message>
     <message>
         <source>&amp;Unregister</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Wyrejestruj</translation>
     </message>
     <message>
         <source>Search</source>
@@ -3326,7 +3330,7 @@ Kontynuować?</translation>
     </message>
     <message>
         <source>&amp;Query version</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Wersja zapytania</translation>
     </message>
     <message>
         <source>Service Discovery toolbar</source>
@@ -3399,11 +3403,11 @@ Kontynuować?</translation>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
-        <translation type="unfinished"/>
+        <translation>Błąd ruchu</translation>
     </message>
     <message>
         <source>You cannot move this figure because the king is in check</source>
-        <translation type="unfinished"/>
+        <translation>Nie możesz przesunąć tej figury, ponieważ jest szach króla</translation>
     </message>
     <message>
         <source>To castle</source>
@@ -3437,24 +3441,25 @@ Kontynuować?</translation>
     <name>EditItemDlg</name>
     <message>
         <source>Watch For...</source>
-        <translation type="unfinished"/>
+        <translation>Czekaj na...</translation>
     </message>
     <message>
         <source>JID*</source>
-        <translation type="unfinished"/>
+        <translation>JID*</translation>
     </message>
     <message>
         <source>Text**</source>
-        <translation type="unfinished"/>
+        <translation>Tekst**</translation>
     </message>
     <message>
         <source>*Regular expressions can be used</source>
-        <translation type="unfinished"/>
+        <translation>*Mogą być używane wyrażenia regularne</translation>
     </message>
     <message>
         <source>**List of words can be used.
   Each word can use regular expression</source>
-        <translation type="unfinished"/>
+        <translation>**Lista dozwolonych słów.
+Każde słowo używa wyrażenia regularnego</translation>
     </message>
     <message>
         <source>Use for</source>
@@ -3532,7 +3537,7 @@ Kontynuować?</translation>
     </message>
     <message>
         <source>RegExp**:</source>
-        <translation type="unfinished"/>
+        <translation>RegExp**:</translation>
     </message>
     <message>
         <source>*for FTP servers only</source>
@@ -3544,7 +3549,7 @@ Kontynuować?</translation>
     </message>
     <message>
         <source>Use proxy server</source>
-        <translation type="unfinished"/>
+        <translation>Użyj serwera proxy</translation>
     </message>
 </context>
 <context>
@@ -3753,27 +3758,27 @@ Jeśli chcesz potwierdzić te żądanie, naciśnij przycisk Potwierdź. W przeci
     <name>ExtendedMenuPlugin</name>
     <message>
         <source>Ping %1</source>
-        <translation type="unfinished"/>
+        <translation>Ping %1</translation>
     </message>
     <message>
         <source>Pong from %1 after %2 secs</source>
-        <translation type="unfinished"/>
+        <translation>Ping z %1 po %2 sec</translation>
     </message>
     <message>
         <source>Feature not implemented</source>
-        <translation type="unfinished"/>
+        <translation>Funkcja nie zaimplementowana</translation>
     </message>
     <message>
         <source>%1 Last Activity</source>
-        <translation type="unfinished"/>
+        <translation>%1 Ostatnia aktywność</translation>
     </message>
     <message>
         <source>%1 Last Activity was %2 ago</source>
-        <translation type="unfinished"/>
+        <translation>%1 ostatnia aktywność %2 temu</translation>
     </message>
     <message>
         <source>%1 went offline %2 ago</source>
-        <translation type="unfinished"/>
+        <translation>%1 brak aktywności od %2</translation>
     </message>
     <message>
         <source>%1 uptime is %2</source>
@@ -4168,35 +4173,35 @@ Ta opcja działa tylko jeżeli nie zaakceptowano domyślnej</translation>
     </message>
     <message>
         <source>ToolTip text color:</source>
-        <translation type="unfinished"/>
+        <translation>Kolor teksty podpowiedzi:</translation>
     </message>
     <message>
         <source>ToolTip background color:</source>
-        <translation type="unfinished"/>
+        <translation>Kolor tła podpowiedzi:</translation>
     </message>
     <message>
         <source>ToolTip coloring:</source>
-        <translation type="unfinished"/>
+        <translation>Koloryt podpowiedzi:</translation>
     </message>
     <message>
         <source>Text color for &quot;composing&quot; events on tabs:</source>
-        <translation type="unfinished"/>
+        <translation>Kolor tekstu &quot;???&quot; zdarzeń na kartach:</translation>
     </message>
     <message>
         <source>Text color for &quot;unread&quot; events on tabs:</source>
-        <translation type="unfinished"/>
+        <translation>Kolor tekstu &quot;nieprzeczytanych&quot; zdarzeń na kartach:</translation>
     </message>
     <message>
         <source>Colors:</source>
-        <translation type="unfinished"/>
+        <translation>Kolory:</translation>
     </message>
     <message>
         <source>Popup</source>
-        <translation type="unfinished"/>
+        <translation>Powiadomienie</translation>
     </message>
     <message>
         <source>Tooltip</source>
-        <translation type="unfinished"/>
+        <translation>Podpowiedź</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
@@ -4204,47 +4209,47 @@ Ta opcja działa tylko jeżeli nie zaakceptowano domyślnej</translation>
     </message>
     <message>
         <source>Disable wheel scroll</source>
-        <translation type="unfinished"/>
+        <translation>Wyłącz podczas przewijania</translation>
     </message>
     <message>
         <source>Put tabs at bottom of chat window</source>
-        <translation type="unfinished"/>
+        <translation>Umieść karty na dole okna rozmowy</translation>
     </message>
     <message>
         <source>Show Close Button on tabs</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż przycisk Zamknij na kartach</translation>
     </message>
     <message>
         <source>Show status icons on tabs</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż ikony statusów na kartach</translation>
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation type="unfinished"/>
+        <translation>Ukryj kartę przy zamknięciu okna rozmowy</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
-        <translation type="unfinished"/>
+        <translation>Pozwól zamykać nieaktywne karty</translation>
     </message>
     <message>
         <source>Action for mouse middle click on tabs:</source>
-        <translation type="unfinished"/>
+        <translation>Akcja dla kliknięcia środkowym klawiszem myszy na kartach:</translation>
     </message>
     <message>
         <source>Action for mouse double click on tabs:</source>
-        <translation type="unfinished"/>
+        <translation>Akcja dla podwójnego kliknięcia myszą na kartach:</translation>
     </message>
     <message>
         <source>Enable windows flashing</source>
-        <translation type="unfinished"/>
+        <translation>Włącz migotanie okna</translation>
     </message>
     <message>
         <source>Enable &quot;Single Account&quot; mode</source>
-        <translation type="unfinished"/>
+        <translation>Włącz tryb &quot;jednego konta&quot;</translation>
     </message>
     <message>
         <source>Enable XML-console on login</source>
-        <translation type="unfinished"/>
+        <translation>Włącz przy logowaniu konsolę XML</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -4252,18 +4257,21 @@ Ta opcja działa tylko jeżeli nie zaakceptowano domyślnej</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>email:</translation>
     </message>
     <message>
         <source>This plugin is designed to allow easy configuration of some advanced options in Psi+.
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
 Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
-        <translation type="unfinished"/>
+        <translation>Ten dodatek zaprojektowano, aby ułatwić konfigurację niektórych zaawansowanych opcji Psi+
+Ten dodatek umożliwia dostęp do zaawansowanych opcji programu, które nie mają graficznego interfejsu użytkownika
+
+Ważne: Większość z tych to ważne opcje systemowe. Wymaga to szczególnej uwagi i zrozumienia wpływy na działanie, przy wykonywaniu zmian.</translation>
     </message>
     <message>
         <source>Enable last activity server</source>
@@ -4297,7 +4305,7 @@ Importantly: a large part of the options are important system settings. These re
     <name>FigureDialog</name>
     <message>
         <source>What figure should I set?</source>
-        <translation type="unfinished"/>
+        <translation>Co powinienem zmienić?</translation>
     </message>
 </context>
 <context>
@@ -4468,7 +4476,7 @@ osiągalny. Jeśli jesteś za firewallem, to upewnij się
     <name>FileTrans</name>
     <message>
         <source>Form1</source>
-        <translation type="unfinished"/>
+        <translation>Formularz1</translation>
     </message>
     <message>
         <source>accountlabel</source>
@@ -4484,7 +4492,7 @@ osiągalny. Jeśli jesteś za firewallem, to upewnij się
     </message>
     <message>
         <source>psi/browse</source>
-        <translation type="unfinished"/>
+        <translation>psi/browse</translation>
     </message>
     <message>
         <source>Size:</source>
@@ -4616,7 +4624,7 @@ Przyczyna: %3</translation>
     </message>
     <message>
         <source>&amp;Open Containing Folder</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Otwórz zawarty folder</translation>
     </message>
     <message>
         <source>Cl&amp;ear</source>
@@ -4627,7 +4635,7 @@ Przyczyna: %3</translation>
     <name>FileTransferHandler</name>
     <message>
         <source>Querying proxy...</source>
-        <translation type="unfinished"/>
+        <translation>Odpytywanie proxy...</translation>
     </message>
     <message>
         <source>Proxy query successful.</source>
@@ -4690,7 +4698,7 @@ Przyczyna: %3</translation>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
-        <translation type="unfinished"/>
+        <translation>Obrazy (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
     </message>
 </context>
 <context>
@@ -5304,15 +5312,15 @@ Przegrałeś.</translation>
     </message>
     <message>
         <source>You are allready playing!</source>
-        <translation type="unfinished"/>
+        <translation>Już grasz!</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
-        <translation type="unfinished"/>
+        <translation>Z: %1&lt;br /&gt;The game was rejected</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;Game error.</source>
-        <translation type="unfinished"/>
+        <translation>Z: %1&lt;br /&gt;Błąd gry.</translation>
     </message>
 </context>
 <context>
@@ -5367,7 +5375,7 @@ Przegrałeś.</translation>
     </message>
     <message>
         <source>Enable hash nick coloring</source>
-        <translation type="unfinished"/>
+        <translation>Włącz kolorowanie pseudonimów</translation>
     </message>
     <message>
         <source>Nick coloring</source>
@@ -5383,7 +5391,7 @@ Przegrałeś.</translation>
     </message>
     <message>
         <source>Type a colourcode here, or press the palette to the right</source>
-        <translation type="unfinished"/>
+        <translation>Wpisz tutaj kod koloru, lub wybierz z palety po prawej</translation>
     </message>
     <message>
         <source>Adds the color to the list</source>
@@ -5402,27 +5410,27 @@ Przegrałeś.</translation>
     <name>GeoLocation</name>
     <message>
         <source>Set GeoLocation</source>
-        <translation type="unfinished"/>
+        <translation>Ustaw Geo-lokalizację</translation>
     </message>
     <message>
         <source>Altitude:</source>
-        <translation type="unfinished"/>
+        <translation>Wysokość:</translation>
     </message>
     <message>
         <source>Altitude in meters above or below sea level</source>
-        <translation type="unfinished"/>
+        <translation>Wysokość powyżej lub poniżej poziomu morza</translation>
     </message>
     <message>
         <source>Area:</source>
-        <translation type="unfinished"/>
+        <translation>Obszar:</translation>
     </message>
     <message>
         <source>A named area such as a campus or neighborhood</source>
-        <translation type="unfinished"/>
+        <translation>Nazwa obszaru, taka jak kampus lub okolica</translation>
     </message>
     <message>
         <source>Bearing:</source>
-        <translation type="unfinished"/>
+        <translation>Odległość:</translation>
     </message>
     <message>
         <source>GPS bearing (direction in which the entity is heading to reach its next waypoint), measured in decimal degrees relative to true north</source>
@@ -5430,27 +5438,27 @@ Przegrałeś.</translation>
     </message>
     <message>
         <source>Building:</source>
-        <translation type="unfinished"/>
+        <translation>Budynek:</translation>
     </message>
     <message>
         <source>A specific building on a street or in an area</source>
-        <translation type="unfinished"/>
+        <translation>Konkretny budynek przy ulicy lub w okolicy</translation>
     </message>
     <message>
         <source>Country:</source>
-        <translation type="unfinished"/>
+        <translation>Kraj:</translation>
     </message>
     <message>
         <source>The nation where the user is located</source>
-        <translation type="unfinished"/>
+        <translation>Kraj, w którym przebywa użytkownik</translation>
     </message>
     <message>
         <source>Datum:</source>
-        <translation type="unfinished"/>
+        <translation>Data:</translation>
     </message>
     <message>
         <source>GPS datum</source>
-        <translation type="unfinished"/>
+        <translation>Data z GPS</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -5959,31 +5967,32 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Remove history for contacts:</source>
-        <translation type="unfinished"/>
+        <translation>Usuń historię dla kontaktów:</translation>
     </message>
     <message>
         <source>Clear history on exit</source>
-        <translation type="unfinished"/>
+        <translation>Wyczyść historię przy wyjściu</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor;</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>email:</translation>
     </message>
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi+ is closed.
 You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
-        <translation type="unfinished"/>
+        <translation>Ten dodatek jest przeznaczony do usuwania historii wybranych kontaktów, kiedy program Psi+ jest zamknięty.
+Można zaznaczyć lub odznaczyć kontakt do usunięcia historii z poziomu menu kontekstowego kontaktu lub za pomocą opcji dodatku.</translation>
     </message>
 </context>
 <context>
     <name>HistoryView</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zamknij</translation>
     </message>
 </context>
 <context>
@@ -6006,7 +6015,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Import Psi profile</source>
-        <translation type="unfinished"/>
+        <translation>Importuj profil Psi</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -6018,7 +6027,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Import Psi profile and remove it</source>
-        <translation type="unfinished"/>
+        <translation>Importuj i usuń profil Psi</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -6030,7 +6039,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Create new profile</source>
-        <translation type="unfinished"/>
+        <translation>Utwórz nowy profil</translation>
     </message>
     <message>
         <source>Import Wizard</source>
@@ -6128,11 +6137,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Activity iconsets</source>
-        <translation type="unfinished"/>
+        <translation>Kolekcja ikon aktywności</translation>
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pokaż szczegóły</translation>
     </message>
 </context>
 <context>
@@ -6143,11 +6152,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Affiliation iconsets</source>
-        <translation type="unfinished"/>
+        <translation>Kolekcja ikon przynależności</translation>
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pokaż szczegóły</translation>
     </message>
 </context>
 <context>
@@ -6158,11 +6167,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Client iconsets</source>
-        <translation type="unfinished"/>
+        <translation>Kolekcja ikon klienta</translation>
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pokaż szczegóły</translation>
     </message>
 </context>
 <context>
@@ -6197,7 +6206,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>XXX</source>
-        <translation type="unfinished"/>
+        <translation>XXX</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -6227,11 +6236,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>psi/arrowDown</source>
-        <translation type="unfinished"/>
+        <translation>psi/arrowDown</translation>
     </message>
     <message>
         <source>psi/arrowUp</source>
-        <translation type="unfinished"/>
+        <translation>psi/arrowUp</translation>
     </message>
     <message>
         <source>&amp;Show details</source>
@@ -6246,11 +6255,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Mood iconsets</source>
-        <translation type="unfinished"/>
+        <translation>Kolekcja ikon nastroju</translation>
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pokaż szczegóły</translation>
     </message>
 </context>
 <context>
@@ -6371,7 +6380,14 @@ The plugin has a number of simple settings that can help you:
 * set the max count of messages by contact
 * disable the message for the active window/tab
 * disable messages for contacts that are not in your roster</source>
-        <translation type="unfinished"/>
+        <translation>Ten dodatek jest zaprojektowany, aby pomóc Ci pobrać jak najwięcej kontaktów z ICQ do Jabbera.
+Wtyczka posiada kilka prostych ustawień, które mogą pomóc:
+* Ustaw specjalny tekst wiadomości
+* Wyklucz określone numery ICQ
+* Ustaw interwał czasu, po którym wiadomość zostanie powtórzona
+* Ustaw maksymalną liczbę wiadomości na kontakt
+* Wyłącz wiadomość dla aktywnego okna/karty
+* Całkowicie wyłącz komunikaty dla kontaktów, które nie są na liscie</translation>
     </message>
 </context>
 <context>
@@ -6400,7 +6416,9 @@ The plugin has a number of simple settings that can help you:
         <source>This plugin is designed to send images to roster contacts.
 Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="unfinished"/>
+        <translation>Ten dodatek służy do wysyłania obrazów na listę kontaktów.
+Twój klient musi wspierać XEP-0071: XHTML-IM oraz schemat danych URI.
+Nota: Do poprawnej pracy opcja: options.ui.chat.central-toolbar musi mieć wartość prawda</translation>
     </message>
     <message>
         <source>Open file</source>
@@ -6543,7 +6561,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>psi/disco</source>
-        <translation type="unfinished"/>
+        <translation>psi/disco</translation>
     </message>
     <message>
         <source>&amp;Publish</source>
@@ -6555,7 +6573,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>psi/reload</source>
-        <translation type="unfinished"/>
+        <translation>psi/reload</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -6563,7 +6581,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>psi/close</source>
-        <translation type="unfinished"/>
+        <translation>psi/close</translation>
     </message>
 </context>
 <context>
@@ -6806,38 +6824,38 @@ do gry gamoku. Chce grać %2</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Zmień nazwę</translation>
     </message>
     <message>
         <source>Move to...</source>
-        <translation type="unfinished"/>
+        <translation>Przenieś do...</translation>
     </message>
     <message>
         <source>Remove Item</source>
-        <translation type="unfinished"/>
+        <translation>Usuń pozycję</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Czy jesteś pewien?</translation>
     </message>
     <message>
         <source>Input Dir Name</source>
-        <translation type="unfinished"/>
+        <translation>Podaj nazwę katalogu</translation>
     </message>
     <message>
         <source>Input Full JID</source>
-        <translation type="unfinished"/>
+        <translation>Podaj pełne JID</translation>
     </message>
     <message>
         <source>Input New Name</source>
-        <translation type="unfinished"/>
+        <translation>Podaj nową nazwę</translation>
     </message>
 </context>
 <context>
     <name>JabberDiskPlugin</name>
     <message>
         <source>Jabber Disk</source>
-        <translation type="unfinished"/>
+        <translation>Dysk jabberowy</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -7914,11 +7932,11 @@ Etykiety: %1</translation>
     </message>
     <message>
         <source>Specifies the color for additional text of system messages. MUC topic for example.</source>
-        <translation type="unfinished"/>
+        <translation>Określa kolor tekstu dodatkowych komunikatów systemowych. Na przykład temat MUC .</translation>
     </message>
     <message>
         <source>Additional message text:</source>
-        <translation type="unfinished"/>
+        <translation>Tekst dodatkowych komunikatów:</translation>
     </message>
     <message>
         <source>Fonts</source>
@@ -7969,7 +7987,7 @@ Etykiety: %1</translation>
     </message>
     <message>
         <source>100</source>
-        <translation type="unfinished"/>
+        <translation>100</translation>
     </message>
     <message>
         <source>Roster opacity:</source>
@@ -7999,7 +8017,7 @@ Etykiety: %1</translation>
     </message>
     <message>
         <source>Automatically launch application when OS starts</source>
-        <translation type="unfinished"/>
+        <translation>Uruchom program automatycznie ze startem systemu</translation>
     </message>
     <message>
         <source>Enable docklet</source>
@@ -8007,7 +8025,7 @@ Etykiety: %1</translation>
     </message>
     <message>
         <source>Decorate windows</source>
-        <translation type="unfinished"/>
+        <translation>Dekoruj okna</translation>
     </message>
     <message>
         <source>Docklet</source>
@@ -8031,7 +8049,7 @@ Etykiety: %1</translation>
     </message>
     <message>
         <source>Quit when closing the roster window</source>
-        <translation type="unfinished"/>
+        <translation>Zamknij po zamknięciu okna listy</translation>
     </message>
     <message>
         <source>Data transfer base port:</source>
@@ -8051,11 +8069,11 @@ Etykiety: %1</translation>
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ustawienia proxy</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Język</translation>
     </message>
 </context>
 <context>
@@ -8078,7 +8096,7 @@ Etykiety: %1</translation>
     </message>
     <message>
         <source>Video support:</source>
-        <translation type="unfinished"/>
+        <translation>Obsługa wideo:</translation>
     </message>
 </context>
 <context>
@@ -8126,7 +8144,7 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"/>
+        <translation>Przy rozmowach grupowych, lista kontaktów i rozmowy w jednym oknie</translation>
     </message>
     <message>
         <source>[customized]</source>
@@ -8134,7 +8152,7 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż karty</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
@@ -8260,7 +8278,7 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>Version: 0</source>
-        <translation type="unfinished"/>
+        <translation>Wersja: 0</translation>
     </message>
     <message>
         <source>Load this plugin</source>
@@ -8283,95 +8301,95 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>Enable popup notifications</source>
-        <translation type="unfinished"/>
+        <translation>Włącz wyskakujące powiadomienia</translation>
     </message>
     <message>
         <source>Notifications type</source>
-        <translation type="unfinished"/>
+        <translation>typ powiadomień</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Podstawowe</translation>
     </message>
     <message>
         <source>Popup notifications</source>
-        <translation type="unfinished"/>
+        <translation>Wyskakujące powiadomienia</translation>
     </message>
     <message>
         <source>On incoming message event</source>
-        <translation type="unfinished"/>
+        <translation>Przy przychodzącej wiadomości</translation>
     </message>
     <message>
         <source>Show incoming message on popup</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż przychodzącą wiadomość na wyskakującym powiadomieniu</translation>
     </message>
     <message>
         <source>On incoming headline event</source>
-        <translation type="unfinished"/>
+        <translation>Przy nadchodzącym wydarzeniu</translation>
     </message>
     <message>
         <source>On incoming file event</source>
-        <translation type="unfinished"/>
+        <translation>Przy nadchodzącym pliku</translation>
     </message>
     <message>
         <source>When a contact begins typing</source>
-        <translation type="unfinished"/>
+        <translation>Kiedy kontakt pisze</translation>
     </message>
     <message>
         <source>When a contact becomes available</source>
-        <translation type="unfinished"/>
+        <translation>Kiedy kontakt będzie dostępny</translation>
     </message>
     <message>
         <source>When a contact becomes unavailable</source>
-        <translation type="unfinished"/>
+        <translation>Kiedy kontakt będzie niedostępny</translation>
     </message>
     <message>
         <source>When a contact changes status</source>
-        <translation type="unfinished"/>
+        <translation>kiedy kontakt zmieni status</translation>
     </message>
     <message>
         <source>Enable popup notifications for every muc message</source>
-        <translation type="unfinished"/>
+        <translation>Włącz wyskakujące powiadomienia dla wszystkich wiadomości rozmów grupowych</translation>
     </message>
     <message>
         <source>Limitations</source>
-        <translation type="unfinished"/>
+        <translation>Ograniczenia</translation>
     </message>
     <message>
         <source>Maximum JID length:</source>
-        <translation type="unfinished"/>
+        <translation>Maksymalna długość JID:</translation>
     </message>
     <message>
         <source>Maximum text length:</source>
-        <translation type="unfinished"/>
+        <translation>Maksymalna długość tekstu:</translation>
     </message>
     <message>
         <source>Maximum status length:</source>
-        <translation type="unfinished"/>
+        <translation>Maksymalna długość statusu:</translation>
     </message>
     <message>
         <source>Popup location</source>
-        <translation type="unfinished"/>
+        <translation>Lokalizacja powiadomień</translation>
     </message>
     <message>
         <source>Show popups from top to bottom</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż powiadomienia od góry do dołu</translation>
     </message>
     <message>
         <source>Place popups at left</source>
-        <translation type="unfinished"/>
+        <translation>Umieść powiadomienia z lewej</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished"/>
+        <translation>Inne</translation>
     </message>
     <message>
         <source>Avatar size:</source>
-        <translation type="unfinished"/>
+        <translation>Rozmiar awatara</translation>
     </message>
     <message>
         <source>Durations, sec.</source>
-        <translation type="unfinished"/>
+        <translation>Czas trwania w sec.</translation>
     </message>
 </context>
 <context>
@@ -8382,27 +8400,27 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
-        <translation type="unfinished"/>
+        <translation>Okno z listą zawsze na wierzchu</translation>
     </message>
     <message>
         <source>Auto-resize contact list</source>
-        <translation type="unfinished"/>
+        <translation>Automatyczna zmiana wielkości listy</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation type="unfinished"/>
+        <translation>Lewy przycisk myszy - menu</translation>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż pasek menu</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation type="unfinished"/>
+        <translation>Wyłączenie paska przewijania w oknie aplikacji.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="unfinished"/>
+        <translation>Wyłącz pasek przewijania</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
@@ -8666,107 +8684,107 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     <name>OptStatusGeneral</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Formularz</translation>
     </message>
     <message>
         <source>Prompt for status message when choosing</source>
-        <translation type="unfinished"/>
+        <translation>Pytaj o opis status przy zmianie</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished"/>
+        <translation>Dostępny</translation>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation type="unfinished"/>
+        <translation>Chętny do rozmowy</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Zaraz wracam</translation>
     </message>
     <message>
         <source>Not Available</source>
-        <translation type="unfinished"/>
+        <translation>Nieobecny</translation>
     </message>
     <message>
         <source>Do not Disturb</source>
-        <translation type="unfinished"/>
+        <translation>Nie przeszkadzać</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Niedostępny</translation>
     </message>
     <message>
         <source>Status menus</source>
-        <translation type="unfinished"/>
+        <translation>Menu statusu</translation>
     </message>
     <message>
         <source>Show presets in menus:</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż ustawienia w menu:</translation>
     </message>
     <message>
         <source>As submenu</source>
-        <translation type="unfinished"/>
+        <translation>Jako podmenu</translation>
     </message>
     <message>
         <source>With standard statuses</source>
-        <translation type="unfinished"/>
+        <translation>Ze standardowymi statusami</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Nie</translation>
     </message>
     <message>
         <source>Hide Free for Chat, Away, Not Available and Do not Disturb</source>
-        <translation type="unfinished"/>
+        <translation>ukryj: Chętny do rozmowy, Zaraz wracam, Nieobecny, Nie przeszkadzać</translation>
     </message>
     <message>
         <source>Hide standard statuses (Chat, Away, XA, DND)</source>
-        <translation type="unfinished"/>
+        <translation>Ukryj standardowe statusy (Chat, Away, XA, DND)</translation>
     </message>
     <message>
         <source>Show &quot;Edit presets...&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż &quot;edytuj ustawienia...&quot;</translation>
     </message>
     <message>
         <source>Show &quot;Choose...&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż &quot;Wybierz...&quot;</translation>
     </message>
     <message>
         <source>Show &quot;Reconnect&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż &quot;Połącz ponownie&quot;</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"/>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Edytuj</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Skasuj</translation>
     </message>
     <message>
         <source>Selected preset</source>
-        <translation type="unfinished"/>
+        <translation>Wybrane ustawienie</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"/>
+        <translation>Nazwa:</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished"/>
+        <translation>Status:</translation>
     </message>
     <message>
         <source>Priority:</source>
-        <translation type="unfinished"/>
+        <translation>Priorytet:</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -8781,19 +8799,19 @@ p, li { white-space: pre-wrap; }
     <name>OptStatusPep</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Formularz</translation>
     </message>
     <message>
         <source>Tunes</source>
-        <translation type="unfinished"/>
+        <translation>Melodie</translation>
     </message>
     <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
-        <translation type="unfinished"/>
+        <translation>Podaj rozszerzenia plików multimedialnych, które mają być ignorowane przy wysyłaniu melodii</translation>
     </message>
     <message>
         <source>Add extensions</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj rozszerzenia</translation>
     </message>
     <message>
         <source>Ignored media file extensions on psi tunes sending</source>
@@ -8903,7 +8921,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Update birthdays every</source>
-        <translation type="unfinished"/>
+        <translation>Wyłącz pasek przewijania</translation>
     </message>
     <message>
         <source>days (0 - automatic update disabled)</source>
