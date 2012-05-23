@@ -1169,7 +1169,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished"/>
+        <translation>psi/addContact</translation>
     </message>
 </context>
 <context>
@@ -1243,7 +1243,7 @@ Przykłady:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;użytkownikjabbera@jakiśhost
     </message>
     <message>
         <source>Send Attention</source>
-        <translation type="unfinished"/>
+        <translation>Wyślij Uwagę</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -1255,11 +1255,11 @@ Przykłady:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;użytkownikjabbera@jakiśhost
     </message>
     <message>
         <source>Attention Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Dodatek  Uwaga</translation>
     </message>
     <message>
         <source>You sent Attention message to %1</source>
-        <translation type="unfinished"/>
+        <translation>Możesz wysłać wiadomość  Uwaga do %1</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -1272,7 +1272,8 @@ Przykłady:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;użytkownikjabbera@jakiśhost
     <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
-        <translation type="unfinished"/>
+        <translation>Ten dodatek służy do wysyłania i odbierania wiadomości specjalnych, takich jak uwagi.
+Do poprawnej pracy, dodatek wymaga, aby klient po drugiej stronie wspierł XEP-0224 (na przykład: Pidgin, Miranda IM z wtyczką Posuwanie).</translation>
     </message>
 </context>
 <context>
@@ -1314,15 +1315,15 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Zaraz wracam</translation>
     </message>
     <message>
         <source>Dnd</source>
-        <translation type="unfinished"/>
+        <translation>Nie przeszkadzać</translation>
     </message>
     <message>
         <source>XA</source>
-        <translation type="unfinished"/>
+        <translation>Nieobecny</translation>
     </message>
     <message>
         <source>Chat</source>
@@ -1342,7 +1343,7 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>for JIDs and conferences:</source>
-        <translation type="unfinished"/>
+        <translation>dla JID&apos;ów i konferencji:</translation>
     </message>
     <message>
         <source>You can also specify a part of JID
@@ -1394,7 +1395,17 @@ To work correctly, the plugin requires that the client of the other part support
 The list of exceptions for jids has two operating modes:
 * auto-responder is switched off for the list of exceptions, for the others is switched on (Disable mode)
 * auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
-        <translation type="unfinished"/>
+        <translation>Ten dodatek działa jako automatyczna sekretarka. Posiada szereg prostych opcji konfiguracyjnych, które można użyć do:
+* Ustaw wiadomość tekstową do auto-odpowiedzi ⏎
+* Wyklucz określone JID&apos;y, w tym konferencji, z obiektów do auto-odpowiedzi (jeśli JID konferencji jest ustalony, wyjątek obejmuje wszystkie wiadomości)
+* Wyłącz auto-responder dla niektórych twoich kont
+* Ustaw liczbę automatycznie wysłanych wiadomości
+* Ustaw przedział czasu, po którym licznik automatycznych wiadomości  będzie resetowany
+* Wyłącz auto-responder na aktywnej karcie
+* Wyłącz auto-responder dla kontaktów, które nie są na liście.
+Lista wyjątków JID&apos;ów posiada dwa tryby pracy:
+* Auto-responder jest wyłączony na liście wyjątków, dla innych jest włączony (tryb wyłączenia)
+* Auto-responder jest włączony na liście wyjątków, dla innych jest wyłączony (tryb włączenia)</translation>
     </message>
 </context>
 <context>
@@ -1827,7 +1838,7 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"/>
+        <translation>0</translation>
     </message>
     <message>
         <source>AccountLabel</source>
@@ -2081,14 +2092,14 @@ Do wysyłania poleceń używana jest zwykła wiadomość, więc ten dodatek dzia
     <message>
         <source>  White     Black
 </source>
-        <translation type="unfinished"/>
+        <translation>  Biały     Czarny</translation>
     </message>
 </context>
 <context>
     <name>CleanerMainWindow</name>
     <message>
         <source>Psi+ Cleaner</source>
-        <translation type="unfinished"/>
+        <translation>Czyściciel Psi+</translation>
     </message>
     <message>
         <source>History</source>
@@ -2120,7 +2131,7 @@ Do wysyłania poleceń używana jest zwykła wiadomość, więc ten dodatek dzia
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"/>
+        <translation>0</translation>
     </message>
     <message>
         <source> files selected</source>
@@ -2156,15 +2167,15 @@ Do wysyłania poleceń używana jest zwykła wiadomość, więc ten dodatek dzia
     </message>
     <message>
         <source>Clear &amp;Birthdays Cache</source>
-        <translation type="unfinished"/>
+        <translation>Wyczyść pamięć podręczną &amp;Urodzin</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Plik</translation>
     </message>
     <message>
         <source>&amp;Actions</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Akcje</translation>
     </message>
     <message>
         <source>History files: </source>
@@ -2260,7 +2271,8 @@ Do wysyłania poleceń używana jest zwykła wiadomość, więc ten dodatek dzia
     <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
-        <translation type="unfinished"/>
+        <translation>ten dodatek jest zaprojektowany, aby wyczyścić pamięć podręczną avatarów, zapisane lokalne kopie wizytówek i dzienniki historii.
+Można obejrzeć elementy przed ich usunięciem z dysku twardego.</translation>
     </message>
 </context>
 <context>
@@ -2344,7 +2356,8 @@ You can preview items before deleting them from your hard drive.</source>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
 You can specify the version of the client and OS or to select them from the preset list.
 </source>
-        <translation type="unfinished"/>
+        <translation>Ten dodatek jest przeznaczony do zmiany wersji klienta, jego nazwy i typu systemu operacyjnego.
+Można ręcznie określić wersję klienta i systemu operacyjnego lub wybrać je z listy.</translation>
     </message>
 </context>
 <context>
@@ -2371,18 +2384,21 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>email:</translation>
     </message>
     <message>
         <source>This plugin is designed to save conference logs in which the Psi+ user sits.
 Conferences logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with conference.
 
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="unfinished"/>
+        <translation>Ten dodatek służy do zapisywania dzienników konferencji, w których uczestniczy użytkownik + Psi.
+Dzienniki konferencji mogą być przeglądane z ustawień dodatku lub klikając na odpowiedni przycisk na pasku narzędzi w aktywnym oknie/karcie konferencji.
+
+Uwaga: Do poprawnego działania, opcja: options.ui.chat.central-toolbar musi być ustawiona na prawda.</translation>
     </message>
 </context>
 <context>
@@ -2413,7 +2429,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>&amp;Contacts Manager</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Menadżer kontaktów</translation>
     </message>
     <message>
         <source>Manage Bookmarks</source>
@@ -2481,7 +2497,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>&amp;Admin</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Administrator</translation>
     </message>
     <message>
         <source>Join %1</source>
@@ -2508,7 +2524,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Send Status to Group</source>
-        <translation type="unfinished"/>
+        <translation>Wyślij status do grupy</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
@@ -2532,23 +2548,23 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Hide All</source>
-        <translation type="unfinished"/>
+        <translation>Ukryj wszystko</translation>
     </message>
     <message>
         <source>Show All</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż wszystko</translation>
     </message>
     <message>
         <source>Leave All</source>
-        <translation type="unfinished"/>
+        <translation>Zostaw wszystko</translation>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"/>
+        <translation>Ukryty</translation>
     </message>
     <message>
         <source>Authorization</source>
-        <translation type="unfinished"/>
+        <translation>Autoryzacja</translation>
     </message>
 </context>
 <context>
@@ -2582,7 +2598,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Conferences</source>
-        <translation type="unfinished"/>
+        <translation>Konferencje</translation>
     </message>
 </context>
 <context>
@@ -3782,114 +3798,114 @@ Jeśli chcesz potwierdzić te żądanie, naciśnij przycisk Potwierdź. W przeci
     </message>
     <message>
         <source>%1 uptime is %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 czas zalogowania: %2</translation>
     </message>
     <message>
         <source>%1 is online!</source>
-        <translation type="unfinished"/>
+        <translation>%1 jest dostępny!</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="unfinished"/>
+        <translation>Nieznany błąd!</translation>
     </message>
     <message>
         <source>Service unavailable</source>
-        <translation type="unfinished"/>
+        <translation>Usługa niedostępna</translation>
     </message>
     <message>
         <source>You are not authorized to retrieve Last Activity information</source>
-        <translation type="unfinished"/>
+        <translation>Nie masz autoryzacji do odbierania informacji Ostatnia Aktywność</translation>
     </message>
     <message>
         <source>%1 Time</source>
-        <translation type="unfinished"/>
+        <translation>%1 Czas</translation>
     </message>
     <message>
         <source>%1 time is %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 czas wynosi %2</translation>
     </message>
     <message>
         <source>Extended Actions</source>
-        <translation type="unfinished"/>
+        <translation>Rozszerzone Akcje</translation>
     </message>
     <message>
         <source>Copy JID</source>
-        <translation type="unfinished"/>
+        <translation>Kopiuj JID</translation>
     </message>
     <message>
         <source>Copy Nick</source>
-        <translation type="unfinished"/>
+        <translation>Kopiuj Pseudonim</translation>
     </message>
     <message>
         <source>Copy Status Message</source>
-        <translation type="unfinished"/>
+        <translation>Kopiuj Status</translation>
     </message>
     <message>
         <source>Ping</source>
-        <translation type="unfinished"/>
+        <translation>Ping</translation>
     </message>
     <message>
         <source>Last Activity</source>
-        <translation type="unfinished"/>
+        <translation>Ostatnia Aktywność</translation>
     </message>
     <message>
         <source>Entity Time</source>
-        <translation type="unfinished"/>
+        <translation>Czas utworzenia</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>email:</translation>
     </message>
     <message>
         <source>This plugin adds several additional commands into contacts context menu.</source>
-        <translation type="unfinished"/>
+        <translation>Ten dodatek dodaje kilka dodatkowych poleceń do menu kontekstowego kontaktów.</translation>
     </message>
 </context>
 <context>
     <name>ExtendedOptions</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"/>
+        <translation>Rozmowa</translation>
     </message>
     <message>
         <source>Conference</source>
-        <translation type="unfinished"/>
+        <translation>Konferencja</translation>
     </message>
     <message>
         <source>Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Zakłdki</translation>
     </message>
     <message>
         <source>Roster</source>
-        <translation type="unfinished"/>
+        <translation>Lista</translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation type="unfinished"/>
+        <translation>Menu</translation>
     </message>
     <message>
         <source>Look</source>
-        <translation type="unfinished"/>
+        <translation>Wygląd</translation>
     </message>
     <message>
         <source>CSS</source>
-        <translation type="unfinished"/>
+        <translation>CSS</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished"/>
+        <translation>Inne</translation>
     </message>
     <message>
         <source>Enable central toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Włącz centralny pasek narzędzi</translation>
     </message>
     <message>
         <source>Ask for confirmation before clearing chat window</source>
-        <translation type="unfinished"/>
+        <translation>Pytaj o potwierdzenie przed wyczyszczeniem okna rozmowy</translation>
     </message>
     <message>
         <source>Enable icons in chat</source>
@@ -4005,7 +4021,7 @@ Ta opcja działa tylko jeżeli nie zaakceptowano domyślnej</translation>
     </message>
     <message>
         <source>MUC leave status message:</source>
-        <translation type="unfinished"/>
+        <translation>Komunikat statusu opuszczania rozmowy grupowej</translation>
     </message>
     <message>
         <source>Place MUC roster at left</source>
@@ -4097,79 +4113,79 @@ Ta opcja działa tylko jeżeli nie zaakceptowano domyślnej</translation>
     </message>
     <message>
         <source>Show client version</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż wersję klienta</translation>
     </message>
     <message>
         <source>Show geolocation</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż geolokalizację</translation>
     </message>
     <message>
         <source>Show &quot;Admin&quot; option in account menu</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż opcję &quot;Administrator&quot; w menu konta</translation>
     </message>
     <message>
         <source>Show &quot;Active Chats&quot; option in contact menu</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż opcję &quot;aktywne rozmowy&quot; w menu kontaktu</translation>
     </message>
     <message>
         <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż opcję &quot;Przypisz lkucz OpenPGP&quot; w menu kontaktu</translation>
     </message>
     <message>
         <source>Show &quot;Picture&quot; option in contact menu</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż opcję &quot;Obraz&quot; w menu kontaktu</translation>
     </message>
     <message>
         <source>Show &quot;Change Profile&quot; option in main menu</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż opcję &quot;Zmień profil&quot; w menu głównym</translation>
     </message>
     <message>
         <source>Show &quot;Chat&quot; option in status menu</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż opcję &quot;Rozmowa&quot; w menu statusu</translation>
     </message>
     <message>
         <source>Show &quot;Invisible&quot; option in status menu</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż opcję &quot;Niewidoczny&quot; w menu statusu</translation>
     </message>
     <message>
         <source>Show &quot;XA&quot; option in status menu</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż opcję &quot;Nieobecny&quot; w menu statusu</translation>
     </message>
     <message>
         <source>Enable single messages</source>
-        <translation type="unfinished"/>
+        <translation>Włącz pojedyncze wiadomości</translation>
     </message>
     <message>
         <source>Popup border color:</source>
-        <translation type="unfinished"/>
+        <translation>Kolor ramki powiadomienia:</translation>
     </message>
     <message>
         <source>Link color:</source>
-        <translation type="unfinished"/>
+        <translation>Kolor linku</translation>
     </message>
     <message>
         <source>Mailto color:</source>
-        <translation type="unfinished"/>
+        <translation>kolor wyślij do:</translation>
     </message>
     <message>
         <source>Moderators color:</source>
-        <translation type="unfinished"/>
+        <translation>Kolor moderatora:</translation>
     </message>
     <message>
         <source>Participants color:</source>
-        <translation type="unfinished"/>
+        <translation>Kolor uczestników:</translation>
     </message>
     <message>
         <source>Visitors color:</source>
-        <translation type="unfinished"/>
+        <translation>kolor odwiedzających:</translation>
     </message>
     <message>
         <source>No Role color:</source>
-        <translation type="unfinished"/>
+        <translation>Kolor dla bez roli</translation>
     </message>
     <message>
         <source>MUC roster coloring:</source>
-        <translation type="unfinished"/>
+        <translation>Kolorowanie listy rozmów grupowych:</translation>
     </message>
     <message>
         <source>ToolTip text color:</source>
@@ -5462,79 +5478,79 @@ Przegrałeś.</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Opis:</translation>
     </message>
     <message>
         <source>A natural-language name for or description of the location</source>
-        <translation type="unfinished"/>
+        <translation>Nazwa w języku naturalnym lub opis lokalizacji</translation>
     </message>
     <message>
         <source>Error:</source>
-        <translation type="unfinished"/>
+        <translation>Błąd:</translation>
     </message>
     <message>
         <source>Horizontal GPS error in arc minutes; this element is deprecated in favor of &lt;accuracy/&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Poziomy błąd GPS w minutach kontowych; element ten jest przestarzały ze względu na &lt;accuracy/&gt;</translation>
     </message>
     <message>
         <source>Floor:</source>
-        <translation type="unfinished"/>
+        <translation>Piętro:</translation>
     </message>
     <message>
         <source>A particular floor in a building</source>
-        <translation type="unfinished"/>
+        <translation>Konkretne piętro w budynku</translation>
     </message>
     <message>
         <source>Latitude:</source>
-        <translation type="unfinished"/>
+        <translation>Szerokość:</translation>
     </message>
     <message>
         <source>Latitude in decimal degrees North</source>
-        <translation type="unfinished"/>
+        <translation>Szerokość geograficzna północna w stopniach dziesiętnych</translation>
     </message>
     <message>
         <source>Locality:</source>
-        <translation type="unfinished"/>
+        <translation>Rejon:</translation>
     </message>
     <message>
         <source>A locality within the administrative region, such as a town or city</source>
-        <translation type="unfinished"/>
+        <translation>Rejon w regionie administracyjnym, taki jak miejscowość lub miasto</translation>
     </message>
     <message>
         <source>Longitude:</source>
-        <translation type="unfinished"/>
+        <translation>Długość:</translation>
     </message>
     <message>
         <source>Longitude in decimal degrees East</source>
-        <translation type="unfinished"/>
+        <translation>Długość geograficzna wschodnia w stopniach dziesiętnych</translation>
     </message>
     <message>
         <source>Postalcode:</source>
-        <translation type="unfinished"/>
+        <translation>Kod pocztowy:</translation>
     </message>
     <message>
         <source>A code used for postal delivery</source>
-        <translation type="unfinished"/>
+        <translation>Skrytka pocztowa</translation>
     </message>
     <message>
         <source>Region:</source>
-        <translation type="unfinished"/>
+        <translation>Region:</translation>
     </message>
     <message>
         <source>An administrative region of the nation, such as a state or province</source>
-        <translation type="unfinished"/>
+        <translation>Region administracyjny państwa, taki jak stan czy województwo</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation type="unfinished"/>
+        <translation>Mieszkanie:</translation>
     </message>
     <message>
         <source>A particular room in a building</source>
-        <translation type="unfinished"/>
+        <translation>Numer mieszkania w budynku:</translation>
     </message>
     <message>
         <source>Street:</source>
-        <translation type="unfinished"/>
+        <translation>Ulica:</translation>
     </message>
     <message>
         <source>A thoroughfare within the locality, or a crossing of two thoroughfares</source>
@@ -5542,19 +5558,19 @@ Przegrałeś.</translation>
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>Tekst:</translation>
     </message>
     <message>
         <source>A catch-all element that captures any other information about the location</source>
-        <translation type="unfinished"/>
+        <translation>Złap wszystkie elementy, które zawierają wszelkie inne informacje o miejscu</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Resetuj</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -6133,7 +6149,7 @@ p, li { white-space: pre-wrap; }
     <name>IconsetActivity</name>
     <message>
         <source>IconsetActivityUI</source>
-        <translation type="unfinished"/>
+        <translation>IconsetActivityUI</translation>
     </message>
     <message>
         <source>Activity iconsets</source>
@@ -6148,7 +6164,7 @@ p, li { white-space: pre-wrap; }
     <name>IconsetAffiliation</name>
     <message>
         <source>IconsetClientUI</source>
-        <translation type="unfinished"/>
+        <translation>IconsetClientUI</translation>
     </message>
     <message>
         <source>Affiliation iconsets</source>
@@ -6163,7 +6179,7 @@ p, li { white-space: pre-wrap; }
     <name>IconsetClient</name>
     <message>
         <source>IconsetClientUI</source>
-        <translation type="unfinished"/>
+        <translation>IconsetClientUI</translation>
     </message>
     <message>
         <source>Client iconsets</source>
@@ -6224,7 +6240,7 @@ p, li { white-space: pre-wrap; }
     <name>IconsetEmo</name>
     <message>
         <source>IconsetEmoUI</source>
-        <translation type="unfinished"/>
+        <translation>IconsetEmoUI</translation>
     </message>
     <message>
         <source>Enable emoticons</source>
@@ -6251,7 +6267,7 @@ p, li { white-space: pre-wrap; }
     <name>IconsetMood</name>
     <message>
         <source>IconsetMoodUI</source>
-        <translation type="unfinished"/>
+        <translation>IconsetMoodUI</translation>
     </message>
     <message>
         <source>Mood iconsets</source>
@@ -6266,7 +6282,7 @@ p, li { white-space: pre-wrap; }
     <name>IconsetRoster</name>
     <message>
         <source>IconsetRosterUI</source>
-        <translation type="unfinished"/>
+        <translation>IconsetRosterUI</translation>
     </message>
     <message>
         <source>Default</source>
@@ -6804,7 +6820,7 @@ do gry gamoku. Chce grać %2</translation>
     </message>
     <message>
         <source>Hash</source>
-        <translation type="unfinished"/>
+        <translation>Komentuj</translation>
     </message>
     <message>
         <source>Link</source>
@@ -6859,11 +6875,11 @@ do gry gamoku. Chce grać %2</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>email:</translation>
     </message>
 </context>
 <context>
@@ -6874,22 +6890,22 @@ do gry gamoku. Chce grać %2</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Kasuj</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>JuickJidList</name>
     <message>
         <source>Input JID</source>
-        <translation type="unfinished"/>
+        <translation>Wprowadź JID</translation>
     </message>
 </context>
 <context>
@@ -6985,12 +7001,13 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Ostrzeżenie</translation>
     </message>
     <message>
         <source>can't create folder %1 
 caching avatars will be not available</source>
-        <translation type="unfinished"/>
+        <translation>Nie można utworzyć folderu %1
+buforowanie awatarów będzie niedostępne</translation>
     </message>
     <message>
         <source>Recommended by </source>
@@ -6998,7 +7015,7 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source> replied:</source>
-        <translation type="unfinished"/>
+        <translation>odpowiedział:</translation>
     </message>
     <message>
         <source>Reply posted.</source>
@@ -7010,7 +7027,7 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Subscribe to %1&apos;s blog</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz się do %1 blogu</translation>
     </message>
     <message>
         <source>Send personal message to %1</source>
@@ -7041,7 +7058,13 @@ Currently, the plugin is able to:
 * Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
 
 Note: To work correctly, the option options.html.chat.render	must be set to true. </source>
-        <translation type="unfinished"/>
+        <translation>Ten dodatel jest przeznaczony do skutecznej i wygodnej pracy z usługą mikroblogowania Juick.
+Obecnie dodatek może:
+* Kolorować @nick, *tag i #message_id w wiadomościach od bota juick@juick.com
+* Wykrywać cytaty w wiadomościach
+* Włączyć klikalny @nick, *tag *, #message_id i inne elementy kontrolne, aby wstawić je do obszaru pisania
+
+Uwaga: Do poprawnego opcja, option options.html.chat.render musi być ustawiona na prawda.</translation>
     </message>
     <message>
         <source>Time stamp: %1</source>
@@ -7056,7 +7079,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <name>LookFeelToolbars</name>
     <message>
         <source>LookFeelToolbarsUI</source>
-        <translation type="unfinished"/>
+        <translation>LookFeelToolbarsUI</translation>
     </message>
     <message>
         <source>Toolbar:</source>
@@ -7100,15 +7123,15 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>psi/arrowUp</source>
-        <translation type="unfinished"/>
+        <translation>w Górę</translation>
     </message>
     <message>
         <source>psi/arrowDown</source>
-        <translation type="unfinished"/>
+        <translation>Na dół</translation>
     </message>
     <message>
         <source>psi/arrowRight</source>
-        <translation type="unfinished"/>
+        <translation>W prawo</translation>
     </message>
     <message>
         <source>A&amp;vailable actions:</source>
@@ -7116,7 +7139,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>psi/arrowLeft</source>
-        <translation type="unfinished"/>
+        <translation>W lewo</translation>
     </message>
     <message>
         <source>Curr&amp;ent actions:</source>
@@ -7729,7 +7752,7 @@ Etykiety: %1</translation>
     <name>OptAdvanced</name>
     <message>
         <source>OptAdvancedUI</source>
-        <translation type="unfinished"/>
+        <translation>OptAdvancedUI</translation>
     </message>
     <message>
         <source>Enable &quot;Contact is typing ...&quot; events</source>
@@ -7741,19 +7764,19 @@ Etykiety: %1</translation>
     </message>
     <message>
         <source>Disables the sending of message events such as &quot;Contact is Typing...&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Wyłącza wysyłanie zdarzeń komunikatów, takich jak &quot;Kontakt pisze ...&quot;</translation>
     </message>
     <message>
         <source>Do not send composing events</source>
-        <translation type="unfinished"/>
+        <translation>Nie wysyłaj wydarzenia składające</translation>
     </message>
     <message>
         <source>Request receipts</source>
-        <translation type="unfinished"/>
+        <translation>Poproś</translation>
     </message>
     <message>
         <source>Send receipts</source>
-        <translation type="unfinished"/>
+        <translation>Wyślij prośbę</translation>
     </message>
     <message>
         <source>Enable remote controlling from other locations</source>
@@ -7832,7 +7855,7 @@ Etykiety: %1</translation>
     <name>OptAppearance</name>
     <message>
         <source>OptAppearanceUI</source>
-        <translation type="unfinished"/>
+        <translation>OptAppearanceUI</translation>
     </message>
     <message>
         <source>Colors</source>
@@ -7844,7 +7867,7 @@ Etykiety: %1</translation>
     </message>
     <message>
         <source>Specifies the background color for an account name in the main window.</source>
-        <translation type="unfinished"/>
+        <translation>Określa kolor tła dla nazwy konta w oknie głównym.</translation>
     </message>
     <message>
         <source>Account heading background:</source>
@@ -7856,7 +7879,7 @@ Etykiety: %1</translation>
     </message>
     <message>
         <source>Specifies the background color for a group name in the main window.</source>
-        <translation type="unfinished"/>
+        <translation>Określa kolor tła dla nazwy grupy w oknie głównym.</translation>
     </message>
     <message>
         <source>Group heading background:</source>
@@ -7864,7 +7887,7 @@ Etykiety: %1</translation>
     </message>
     <message>
         <source>Specifies the foreground animation color for nicks.</source>
-        <translation type="unfinished"/>
+        <translation>Określa kolor pierwszoplanowej animacji dla pseudonimów.</translation>
     </message>
     <message>
         <source>Nick animation foreground:</source>
@@ -7872,7 +7895,7 @@ Etykiety: %1</translation>
     </message>
     <message>
         <source>Specifies the background animation color for nicks.</source>
-        <translation type="unfinished"/>
+        <translation>Określa kolor animacji tła dla pseudonimów.</translation>
     </message>
     <message>
         <source>Nick animation background:</source>
@@ -7880,7 +7903,7 @@ Etykiety: %1</translation>
     </message>
     <message>
         <source>Specifies the color for sent messages in chat and history windows.</source>
-        <translation type="unfinished"/>
+        <translation>Określa kolor wysyłanych wiadomości w oknach rozmowy i historii.</translation>
     </message>
     <message>
         <source>Sent message foreground:</source>
@@ -7888,7 +7911,7 @@ Etykiety: %1</translation>
     </message>
     <message>
         <source>Specifies the color for received messages in chat and history windows.</source>
-        <translation type="unfinished"/>
+        <translation>Określa kolor odebrane wiadomości w oknach rozmowy i historii.</translation>
     </message>
     <message>
         <source>Received message foreground:</source>
@@ -7896,7 +7919,7 @@ Etykiety: %1</translation>
     </message>
     <message>
         <source>Specifies the color for informational messages in chat windows, like status changes and offline messages.</source>
-        <translation type="unfinished"/>
+        <translation>Określa kolor komunikatów informacyjnych w oknach rozmów, takich jak zmiany statusu i wiadomości offline.</translation>
     </message>
     <message>
         <source>Informational messages in chats:</source>
@@ -7920,7 +7943,7 @@ Etykiety: %1</translation>
     </message>
     <message>
         <source>Specifies the background color for the main window.</source>
-        <translation type="unfinished"/>
+        <translation>Określa kolor tła głównego okna.</translation>
     </message>
     <message>
         <source>Contact list background:</source>
@@ -7967,7 +7990,7 @@ Etykiety: %1</translation>
     <name>OptAppearanceMisc</name>
     <message>
         <source>OptAppearanceMiscUI</source>
-        <translation type="unfinished"/>
+        <translation>OptAppearanceMiscUI</translation>
     </message>
     <message>
         <source>Headings</source>
@@ -14258,15 +14281,15 @@ Password: %5</source>
     </message>
     <message>
         <source>Subscribe</source>
-        <translation type="unfinished"/>
+        <translation>Subskrybuj</translation>
     </message>
     <message>
         <source>Show last 10 messages with tag %1</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż ostatnie 10 wiadomości z etykietą %1</translation>
     </message>
     <message>
         <source>Unsubscribe</source>
-        <translation type="unfinished"/>
+        <translation>Cofnij subskrypcję</translation>
     </message>
 </context>
 <context>
@@ -14954,91 +14977,91 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>File Transfer</source>
-        <translation type="unfinished"/>
+        <translation>Transfer plików</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="unfinished"/>
+        <translation>Paski narzedziowe</translation>
     </message>
     <message>
         <source>XML Console</source>
-        <translation type="unfinished"/>
+        <translation>konsola XML</translation>
     </message>
     <message>
         <source>Change Profile</source>
-        <translation type="unfinished"/>
+        <translation>Zmień Profil</translation>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation type="unfinished"/>
+        <translation>Odtwarzaj dźwięki</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Wujdź</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Enable Groups</source>
-        <translation type="unfinished"/>
+        <translation>Włącz grupy</translation>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation type="unfinished"/>
+        <translation>Powiadomienia zdarzeń</translation>
     </message>
     <message>
         <source>View Groups</source>
-        <translation type="unfinished"/>
+        <translation>Przeglądaj grupy</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż kontakty rozłączone</translation>
     </message>
     <message>
         <source>Show Away Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż kontakty niedostępne</translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż kontakty ukryte</translation>
     </message>
     <message>
         <source>Show Agents</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż agentów</translation>
     </message>
     <message>
         <source>Show Self</source>
-        <translation type="unfinished"/>
+        <translation>pokazuj siebie</translation>
     </message>
     <message>
         <source>Show Status Message</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż Status</translation>
     </message>
     <message>
         <source>Publish Tune</source>
-        <translation type="unfinished"/>
+        <translation>Publikuj melodie</translation>
     </message>
     <message>
         <source>Active contacts</source>
-        <translation type="unfinished"/>
+        <translation>Aktywne kontakty</translation>
     </message>
     <message>
         <source>Status All</source>
-        <translation type="unfinished"/>
+        <translation>Status wszystkich</translation>
     </message>
     <message>
         <source>Status Group</source>
-        <translation type="unfinished"/>
+        <translation>Status grupy</translation>
     </message>
     <message>
         <source>Status Chat</source>
-        <translation type="unfinished"/>
+        <translation>Status rozmowy</translation>
     </message>
     <message>
         <source>Status Online</source>
-        <translation type="unfinished"/>
+        <translation>Status dostępny</translation>
     </message>
     <message>
         <source>Status Away</source>
@@ -17687,11 +17710,11 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>settings</name>
     <message>
         <source>settings</source>
-        <translation type="unfinished"/>
+        <translation>ustawienia</translation>
     </message>
     <message>
         <source>Edit JIDs</source>
-        <translation type="unfinished"/>
+        <translation>Edytuj JID&apos;y</translation>
     </message>
     <message>
         <source>bold</source>
@@ -17699,27 +17722,27 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>italic</source>
-        <translation type="unfinished"/>
+        <translation>kursywa</translation>
     </message>
     <message>
         <source>underline</source>
-        <translation type="unfinished"/>
+        <translation>podkreślenie</translation>
     </message>
     <message>
         <source>color</source>
-        <translation type="unfinished"/>
+        <translation>kolor</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation type="unfinished"/>
+        <translation>@nazwa użytkownika</translation>
     </message>
     <message>
         <source>*tag</source>
-        <translation type="unfinished"/>
+        <translation>*etykieta</translation>
     </message>
     <message>
         <source>#message id</source>
-        <translation type="unfinished"/>
+        <translation>#ID wiadomości</translation>
     </message>
     <message>
         <source>&gt;quote</source>
@@ -17727,28 +17750,29 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>http://link</source>
-        <translation type="unfinished"/>
+        <translation>http://link</translation>
     </message>
     <message>
         <source>Use message Id as resource</source>
-        <translation type="unfinished"/>
+        <translation>Użyj ID wiadomości jako źródło</translation>
     </message>
     <message>
         <source>Show Photo</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż zdjęcie</translation>
     </message>
     <message>
         <source>Show Avatars</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż awatar</translation>
     </message>
     <message>
         <source>Replaces message id with a link
 to this message in juick@conference.jabber.ru</source>
-        <translation type="unfinished"/>
+        <translation>Zastąp id wiadomości linkiem
+do tej wiadomości w juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>Clear avatar cache</source>
-        <translation type="unfinished"/>
+        <translation>Wyczyść pamięć podręczną awatarów</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
