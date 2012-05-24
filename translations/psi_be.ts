@@ -2595,7 +2595,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message numerus="yes">
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Гэткім чынам&lt;br&gt;%1&lt;br&gt;%2і %n суполка зьнікнуць са сьпісу.</numerusform><numerusform>Гэткім чынам&lt;br&gt;%1&lt;br&gt;%2і %n суполкі зьнікнуць са сьпісу.</numerusform><numerusform>Гэткім чынам&lt;br&gt;%1&lt;br&gt;%2і %n суполак зьнікнуць са сьпісу.</numerusform><numerusform>Гэткім чынам&lt;br&gt;%1&lt;br&gt;%2і %n суполак зьнікнуць са сьпісу.</numerusform></translation>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
