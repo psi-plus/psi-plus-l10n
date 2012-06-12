@@ -356,11 +356,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Please disconnect before removing the account.</source>
-        <translation>Будь ласка, відключіться перед видаленням аккаунту.</translation>
+        <translation>Будь ласка, від’єднайтесь перед видаленням аккаунту.</translation>
     </message>
     <message>
         <source>&amp;Disconnect</source>
-        <translation>&amp;Відключитись</translation>
+        <translation>&amp;Від’єднатись</translation>
     </message>
 </context>
 <context>
@@ -630,7 +630,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
-        <translation>Автоматично входити під цим обліковим записом під час запуску Psi. Зручно якщо Psi запускається, коли знайдено підключення до інтернету.</translation>
+        <translation>Автоматично входити під цим аккаунтом під час запуску Psi. Зручно якщо Psi запускається, коли знайдено підключення до інтернету.</translation>
     </message>
     <message>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
@@ -662,7 +662,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>You can have multiple clients connected to the Jabber server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
-        <translation>Ви можете мати багато з&apos;єднаних клієнтів з джаббер-сервером маючи лише один обліковий запис. Кожен логін відрізняється ім&apos;ям ресурсу, яке ви можете вказати в цьому полі.</translation>
+        <translation>Ви можете мати багато з&apos;єднаних клієнтів з джаббер-сервером маючи лише один аккаунт. Кожен логін відрізняється ім&apos;ям ресурсу, яке ви можете вказати в цьому полі.</translation>
     </message>
     <message>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the Jabber ID you are logging in as.</source>
@@ -670,7 +670,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>&lt;p&gt;You can have multiple clients connected to the Jabber server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your Jabber client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Ви можете мати багато з&apos;єднаних клієнтів з джаббер-сервером маючи лише один обліковий запис. У такій ситуації, клієнт з найвищим пріоритетом (це вказано в цьому полі) буде тим, який отримає всі події, що надходять.&lt;/p&gt;&lt;p&gt; Наприклад, якщо ви маєте постійне з&apos;єднання з інтернетом на роботі, і маєте комутований доступ вдома, то ви можете мати свого джаббер-клієнта на роботі з низьким пріоритетом, і ви все ще  можете використовувати той самий обліковий запис з дому, використовуючи клієнта з вищим пріоритетом для  тимчасового &quot;відключення&quot; клієнта на роботі з нижчим пріорітетом.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Ви можете мати багато з&apos;єднаних клієнтів з джаббер-сервером маючи лише один аккаунт. У такій ситуації, клієнт з найвищим пріоритетом (це вказано в цьому полі) буде тим, що отримає всі події, які надходять.&lt;/p&gt;&lt;p&gt; Наприклад, якщо ви маєте постійне з&apos;єднання з інтернетом на роботі, і маєте комутований доступ вдома, то ви можете використовувати свій джаббер-клієнт на роботі з низьким пріоритетом, і  можете використовувати той самий аккаунт з дому, використовуючи клієнта з вищим пріоритетом для тимчасового &quot;відключення&quot; клієнта на роботі з нижчим пріорітетом.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Username:</source>
@@ -698,7 +698,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Secret Key</source>
-        <translation>Обрати ключ</translation>
+        <translation>Приватний ключ</translation>
     </message>
     <message>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
@@ -714,7 +714,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>This account is currently active, so certain changes may not take effect until the next login.</source>
-        <translation>Цей обліковий запис зараз активний, тому зміни подіють лише після наступного входу.</translation>
+        <translation>Цей аккаунт зараз активний, тому зміни подіють лише після наступного входу.</translation>
     </message>
     <message>
         <source>Reconnect &amp;Later</source>
@@ -872,7 +872,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Success</source>
-        <translation>Успішно</translation>
+        <translation>Реєстрацію закінчено</translation>
     </message>
     <message>
         <source>You have successfully registered your account with Jabber ID &apos;%1&apos;</source>
@@ -881,7 +881,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <source>There was an error registering the account.
 Reason: %1</source>
-        <translation>Сталася помилка під час реєстрації облікового запису 
+        <translation>Сталася помилка під час реєстрації 
 Причина: %1</translation>
     </message>
 </context>
@@ -916,7 +916,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Are you sure you want to cancel the unregistration?</source>
-        <translation>Ви впевнені, що ви хочете скасувати  видалення облікового запису з сервера?</translation>
+        <translation>Скасувати видалення аккаунту?</translation>
     </message>
     <message>
         <source>&amp;No</source>
@@ -932,7 +932,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Password does not match account.  Please try again.</source>
-        <translation>Пароль не відповідає обліковому запису. Спробуйте ще.</translation>
+        <translation>Пароль не співпадає зі старим паролем аккаунту. Спробуйте ще.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; ?</source>
@@ -944,12 +944,12 @@ Reason: %1</source>
     </message>
     <message>
         <source>The account was unregistered successfully.</source>
-        <translation>Обліковий запис видалено успішно.</translation>
+        <translation>Аккаунт видалено успішно.</translation>
     </message>
     <message>
         <source>There was an error unregistering the account.
 Reason: %1</source>
-        <translation>Сталася помилка під час видалення облікового запису з серверу
+        <translation>Сталася помилка під час видалення
 Причина: %1</translation>
     </message>
 </context>
@@ -1010,7 +1010,7 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>Description:</source>
-        <translation>Описання:</translation>
+        <translation>Опис:</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1044,7 +1044,7 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>Description:</source>
-        <translation>Описання:</translation>
+        <translation>Опис:</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -1091,7 +1091,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>No description</source>
-        <translation>Немає описання</translation>
+        <translation>Немає опису</translation>
     </message>
     <message>
         <source>Get Jabber ID</source>
@@ -1146,11 +1146,11 @@ p, li { white-space: pre-wrap; }
     <name>AddUserDlg</name>
     <message>
         <source>&lt;None&gt;</source>
-        <translation>Ніяка</translation>
+        <translation>&lt;Ніякий&gt;</translation>
     </message>
     <message>
         <source>Hidden</source>
-        <translation>Схований</translation>
+        <translation>Прихований</translation>
     </message>
     <message>
         <source>Add User: Error</source>
@@ -1158,13 +1158,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Please fill in the Jabber ID of the person you wish to add.</source>
-        <translation>Будь ласка, введіть  Jabber ID того, кого ви хочете додати.</translation>
+        <translation>Будь ласка, введіть Jabber ID того, кого ви хочете додати.</translation>
     </message>
     <message>
         <source>The Jabber ID you entered is not valid!
 Make sure you enter a fully qualified Jabber ID.</source>
         <translation> Jabber ID, що ви ввели, не дійсний.
-Упевніться, що ви ввели все правильно.</translation>
+Перевірте, що ви ввели все правильно.</translation>
     </message>
     <message>
         <source>Add User: Success</source>
@@ -1630,7 +1630,7 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Original message</source>
-        <translation>Вихідне повідомлення</translation>
+        <translation>Оригінальне повідомлення</translation>
     </message>
 </context>
 <context>
@@ -1852,7 +1852,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>%1 (Composing ...)</source>
-        <translation>%1 (Пише...)</translation>
+        <translation>%1 (Друкує...)</translation>
     </message>
     <message>
         <source>%1 (Inactive)</source>
@@ -2887,7 +2887,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>&amp;Modify Account...</source>
-        <translation>&amp;Змінити обліковий запис...</translation>
+        <translation>&amp;Змінити аккаунт...</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
@@ -3080,7 +3080,7 @@ Proceed?</source>
     <name>ContactView</name>
     <message>
         <source>Hidden</source>
-        <translation>Сховано</translation>
+        <translation>Прихований</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
@@ -4431,7 +4431,7 @@ or specify a Data Transfer Proxy in your account settings.</source>
 
 Упевніться що ваші налаштунки приавильні. Якщо ви за
 NAT роутером чи firewall тоді вам потрібно буде відкрити правильний TCP порт
-чи вказати Проксі Передачі Даних в налаштунках вашого облікового запису.</translation>
+чи вказати Проксі Передачі Даних в налаштунках вашого аккаунту.</translation>
     </message>
     <message>
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
@@ -4698,7 +4698,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Load Content List</source>
-        <translation>Завантажити список вмісту</translation>
+        <translation>Завантажити список елементів</translation>
     </message>
     <message>
         <source>Download and Install</source>
@@ -4983,7 +4983,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>%1 has left the room</source>
-        <translation>%1 пішов з кімнати</translation>
+        <translation>%1 залишив кімнату</translation>
     </message>
     <message>
         <source>The topic has been set to</source>
@@ -5956,7 +5956,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Clear history on exit</source>
-        <translation>Очищати історію при виході</translation>
+        <translation>Очищувати історію при виході</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -6631,7 +6631,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation>Ви не опублікували зміни вашого облікового запису.
+        <translation>Ви не опублікували зміни вашого аккаунту.
 Ви впевнені, що ви хочете позбутися їх?</translation>
     </message>
     <message>
@@ -6656,12 +6656,12 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>Неможливо отримати інформацію по вашому обліковому запису. Можливо, ви ще нічого не вказали.</translation>
+        <translation>Неможливо отримати інформацію по вашому аккаунту. Можливо, ви ще нічого не вказали.</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation>Неможливо отримати інформацію по цьому обліковому запису.
+        <translation>Неможливо отримати інформацію по цьому аккаунту.
 Причина: %1</translation>
     </message>
     <message>
@@ -8124,7 +8124,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Enter key sends chat messages</source>
-        <translation>Надсилати повідомлення по натисканню Enter</translation>
+        <translation>Надсилати повідомлення натисканням Enter</translation>
     </message>
     <message>
         <source>Alert chat messages even if chat window is open</source>
@@ -8188,7 +8188,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Delete chat window contents</source>
-        <translation>Очищати вікно чату</translation>
+        <translation>Очищувати вікно чату</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
@@ -8223,7 +8223,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Auto-open new files</source>
-        <translation type="unfinished"/>
+        <translation>Авто-відкриття нових файлів</translation>
     </message>
     <message>
         <source>Allow auto-open even when Away/XA</source>
@@ -8436,7 +8436,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation>Відкобчити смугу прокрутки</translation>
+        <translation>Відключити смугу прокрутки</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
@@ -8622,7 +8622,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Receive offline status:</source>
-        <translation>Отримання статусу &quot;Відключений&quot;:</translation>
+        <translation>Отримання статусу &quot;Поза мережею&quot;:</translation>
     </message>
     <message>
         <source>Receive MUC message</source>
@@ -8728,7 +8728,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Відключений</translation>
+        <translation>Поза мережею</translation>
     </message>
     <message>
         <source>Status menus</source>
@@ -8827,7 +8827,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
-        <translation>Введіть розширення для імедіа файлів, що ігноруються </translation>
+        <translation>Введіть розширення для медіа файлів, що ігноруються </translation>
     </message>
     <message>
         <source>Add extensions</source>
@@ -9034,7 +9034,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Auto-accept suggestions</source>
-        <translation type="unfinished"/>
+        <translation>Автоматично приймати пропозиції</translation>
     </message>
     <message>
         <source> Enable multiple applications signed in
@@ -9477,7 +9477,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>away</source>
-        <translation>пішов</translation>
+        <translation>відсутній</translation>
     </message>
     <message>
         <source>do not disturb</source>
@@ -9901,7 +9901,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable this option if you wish to hear sound alerts when your status is &quot;away&quot; or &quot;extended away&quot;.</source>
-        <translation>Увімкніть цю опцію, якщо ви хочете чути звукові сигнали, коли ваш статус &quot;пішов&quot; чи &quot;пропав взагалі..&quot;.</translation>
+        <translation>Увімкніть цю опцію, якщо ви хочете чути звукові сигнали, коли ваш статус &quot;відсутній&quot; чи &quot;недоступний&quot;.</translation>
     </message>
     <message>
         <source>Play sounds for all events in groupchat, not only for mentioning of your nick.</source>
@@ -10006,7 +10006,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation>В Jabber можливо використовувати разширені повідомлення про стан для всіх статусів.  Зазвичай Psi не пропонує Вам використовувати їх, коли Ви встановлюєте статус &quot;в мережі&quot;.  Увімкніть цю опцію, якщо хочете скористатись цією можливісттю.</translation>
+        <translation>В Jabber можливо використовувати розширені повідомлення про стан для всіх статусів.  Зазвичай Psi не пропонує Вам використовувати їх, коли Ви встановлюєте статус &quot;в мережі&quot;.  Увімкніть цю опцію, якщо хочете скористатись цією можливісттю.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -11214,7 +11214,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>PsiAccount</name>
     <message>
         <source>Unable to disable the account, as it has pending events.</source>
-        <translation>Не в змозі відключити обліковий запис, оскільки розглядаються події.</translation>
+        <translation>Не в змозі відключити аккаунт, оскільки розглядаються події.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -11222,12 +11222,12 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Disable Account</source>
-        <translation>Вимкнути обліковий запис</translation>
+        <translation>Вимкнути аккаунт</translation>
     </message>
     <message>
         <source>The account is currently active.
 Do you want to log out ?</source>
-        <translation>Обліковий запис зараз активний.
+        <translation>Аккаунт зараз активний.
 Ви хочете війти?</translation>
     </message>
     <message>
@@ -11388,7 +11388,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Invalid account information</source>
-        <translation>Невірна інформація облікового запису</translation>
+        <translation>Невірна інформація аккаунту</translation>
     </message>
     <message>
         <source>Invalid SASL mechanism</source>
@@ -11400,7 +11400,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
-        <translation>Механізм SASL дуже слабий для цього облікового запису</translation>
+        <translation>Механізм SASL дуже слабий для цього аккаунту</translation>
     </message>
     <message>
         <source>Wrong Password</source>
@@ -11535,11 +11535,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
-        <translation>Показувати сховані контакти</translation>
+        <translation>Показувати приховані контакти</translation>
     </message>
     <message>
         <source>Toggles visibility of hidden contacts in roster</source>
-        <translation>Увімкнути видимість схованих контактів в списку контактів</translation>
+        <translation>Увімкнути видимість прихованих контактів в списку контактів</translation>
     </message>
     <message>
         <source>Show Agents/Transports</source>
@@ -11631,11 +11631,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation>Налаштування облікових записів</translation>
+        <translation>Налаштування аккаунту</translation>
     </message>
     <message>
         <source>Acc&amp;ount Setup</source>
-        <translation>Нал&amp;аштування облікових записів</translation>
+        <translation>Нал&amp;аштування аккаунтів</translation>
     </message>
     <message>
         <source>Options</source>
@@ -11771,11 +11771,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation>Готовий потріпати язиком</translation>
+        <translation>Готовий побалакати</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation>Пішов</translation>
+        <translation>Відсутній</translation>
     </message>
     <message>
         <source>XA</source>
@@ -12010,7 +12010,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Contact has been switched: %1</source>
-        <translation>Перемикання: %1</translation>
+        <translation>Контакт змінено: %1</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -12202,15 +12202,15 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Account setup</source>
-        <translation>Налаштування облікових записів</translation>
+        <translation>Налаштування аккаунтів</translation>
     </message>
     <message>
         <source>You need to set up an account to start. Would you like to register a new account, or use an existing account?</source>
-        <translation>Вам необхідно налаштувати ваш обліковий запис. Бажаєте зареєструвати новий обліковий запис чи скористатися вже існуючим?</translation>
+        <translation>Вам необхідно налаштувати ваш аккаунт. Бажаєте зареєструвати новий аккаунт чи скористатися вже існуючим?</translation>
     </message>
     <message>
         <source>Register new account</source>
-        <translation>Зареєструвати новий обліковий запис</translation>
+        <translation>Зареєструвати новий аккаунт</translation>
     </message>
     <message>
         <source>Use existing account</source>
@@ -13263,7 +13263,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Away</source>
-        <translation>Пішов</translation>
+        <translation>Відсутній</translation>
     </message>
     <message>
         <source>Not Available</source>
@@ -13275,7 +13275,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation>Готовий потріпати язиком</translation>
+        <translation>Готовий побалакати</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -15060,7 +15060,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation>Відключені</translation>
+        <translation>Показувати відключені контакти</translation>
     </message>
     <message>
         <source>Show Away Contacts</source>
@@ -15124,7 +15124,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Status Offline</source>
-        <translation>Статус &quot;Відключений&quot;</translation>
+        <translation>Статус &quot;Поза мережею&quot;</translation>
     </message>
     <message>
         <source>Choose status</source>
@@ -15378,27 +15378,27 @@ Reason: %1</source>
     <name>ShowPhotoDlg</name>
     <message>
         <source>Photo Preview: %1</source>
-        <translation type="unfinished"/>
+        <translation>Попередній перегляд фото: %1</translation>
     </message>
     <message>
         <source>&amp;Save As...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Зберегти як...</translation>
     </message>
     <message>
         <source>&amp;Restore Size</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Відновити розмір</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"/>
+        <translation>Зберегти як</translation>
     </message>
     <message>
         <source>photo.png</source>
-        <translation type="unfinished"/>
+        <translation>photo.png</translation>
     </message>
     <message>
         <source>PNG File (*.png);;JPEG File (*.jpeg);;BMP File (*.bmp);;PPM File (*.ppm);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Файл PNG (*.png);;Файл JPEG (*.jpeg);;Файл BMP (*.bmp);;Файл PPM (*.ppm);;Усі файли (*)</translation>
     </message>
 </context>
 <context>
@@ -15412,131 +15412,131 @@ Reason: %1</source>
     <name>SkinsPlugin</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Preview skin</source>
-        <translation type="unfinished"/>
+        <translation>Попередній перегляд скіна</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"/>
+        <translation>Попередній перегляд</translation>
     </message>
     <message>
         <source>Update skins list</source>
-        <translation type="unfinished"/>
+        <translation>Оновити список</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished"/>
+        <translation>Оновити</translation>
     </message>
     <message>
         <source>Apply selected skin</source>
-        <translation type="unfinished"/>
+        <translation>Застосувати вибраний скін</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Застосувати</translation>
     </message>
     <message>
         <source>Open skin file</source>
-        <translation type="unfinished"/>
+        <translation>Відкрити файл зі скіном</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Відкрити</translation>
     </message>
     <message>
         <source>Remove selected skin</source>
-        <translation type="unfinished"/>
+        <translation>Видалити вибраний скін</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Видалити</translation>
     </message>
     <message>
         <source>Overwrite selected skin with the current settings </source>
-        <translation type="unfinished"/>
+        <translation>Перезаписати вибраний скін поточними налаштуваннями</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Зберегти</translation>
     </message>
     <message>
         <source>Create new skin from current settings</source>
-        <translation type="unfinished"/>
+        <translation>Створити новий скін з поточними налаштуваннями</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"/>
+        <translation>Створити</translation>
     </message>
     <message>
         <source>Backup skin before applying</source>
-        <translation type="unfinished"/>
+        <translation>Створити резервну копію скіна перед застосуванням</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Опис (в інтернеті)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Choose a skin file</source>
-        <translation type="unfinished"/>
+        <translation>Вибрати файл скіна</translation>
     </message>
     <message>
         <source>*.skn</source>
-        <translation type="unfinished"/>
+        <translation>*.skn</translation>
     </message>
     <message>
         <source>Create Skin</source>
-        <translation type="unfinished"/>
+        <translation>Створити скін</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation type="unfinished"/>
+        <translation>Невідома помилка!</translation>
     </message>
     <message>
         <source>Save a skin file</source>
-        <translation type="unfinished"/>
+        <translation>Зберегти файл скіну</translation>
     </message>
     <message>
         <source>Can&apos;t save skin!</source>
-        <translation type="unfinished"/>
+        <translation>Неможливо зберегти скін!</translation>
     </message>
     <message>
         <source>Apply Skin</source>
-        <translation type="unfinished"/>
+        <translation>Застосувати скін</translation>
     </message>
     <message>
         <source>Can&apos;t save the backup skin!</source>
-        <translation type="unfinished"/>
+        <translation>Неможливо зберегти резервну копію скіна!</translation>
     </message>
     <message>
         <source>Overwrite selected skin</source>
-        <translation type="unfinished"/>
+        <translation>Перезаписати обраний скін</translation>
     </message>
     <message>
         <source>Are You Sure?</source>
-        <translation type="unfinished"/>
+        <translation>Ви впевнені?</translation>
     </message>
     <message>
         <source>Overwrite Skin</source>
-        <translation type="unfinished"/>
+        <translation>Перезаписати скін</translation>
     </message>
     <message>
         <source>Can&apos;t save the skin!</source>
-        <translation type="unfinished"/>
+        <translation>Неможливо зберегти скін!</translation>
     </message>
     <message>
         <source>Delete skin</source>
-        <translation type="unfinished"/>
+        <translation>Видалити скін</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to create, store and apply skins to Psi+.
@@ -15548,7 +15548,15 @@ In most cases, to be sure that the skin is applied correctly, you must perform a
 2. Restart the application
 3. Apply the same skin again
 This allows all settings (icons, toolbar layout) to be picked up correctly. </source>
-        <translation type="unfinished"/>
+        <translation>Цей плагін призначений для створення, зберігання та застосування скінів для Psi +. 
+Скін - це набір налаштувань користувача.
+Щоб завантажити новий скін - створіть в каталозі &quot;PsiData&quot;? папку skins і розташуйте там скіни. Або можна відкрити файл скіна з будь-якого місця самостійно.
+Кожен скін повинен лежати в окремому каталозі. Поруч з файлом скіна можна покласти скриншот.
+У більшості випадків, щоб бути впевненим, що скін було застосовано корректно, необхідно виконати таку послідовність дій: 
+1.Застосуйте скін
+2.Перезапустіть програму
+3.Застосуйте цей же скін повторно
+Це дозволить всім налаштуванням (іконкам, розташуванню панелей інструментів) правильно підхопитись.</translation>
     </message>
 </context>
 <context>
@@ -15566,18 +15574,18 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     <name>StatusMenu</name>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"/>
+        <translation>Шаблони</translation>
     </message>
     <message>
         <source>Edit presets...</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати шаблони...</translation>
     </message>
 </context>
 <context>
     <name>StatusSetDlg</name>
     <message>
         <source>Set Status: All accounts</source>
-        <translation>Встановити Статус: Усі облікові записи</translation>
+        <translation>Встановити Статус: Усі аккаунти</translation>
     </message>
     <message>
         <source>Set Status: %1</source>
@@ -15585,11 +15593,11 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source>Set Status for %1</source>
-        <translation type="unfinished"/>
+        <translation>Встановити статус для %1</translation>
     </message>
     <message>
         <source>Set Status for group</source>
-        <translation type="unfinished"/>
+        <translation>Встановити статус для групи</translation>
     </message>
     <message>
         <source>Status:</source>
@@ -15655,23 +15663,23 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     <name>StopSpam</name>
     <message>
         <source>Block stanza from </source>
-        <translation type="unfinished"/>
+        <translation>Заблоковано повідомлення від </translation>
     </message>
     <message>
         <source>Stop Spam Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Анти-Спам плагін</translation>
     </message>
     <message>
         <source> pass the test</source>
-        <translation type="unfinished"/>
+        <translation> тест пройдено</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to block spam messages and other unwanted information from Psi+ users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
@@ -15693,39 +15701,60 @@ When a user has passed, the test will send a re-authorization request. It should
 The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
-        <translation type="unfinished"/>
+        <translation>Цей плагін призначений для блокування отримання до ростеру користувача Psi + розсилок спаму та іншої небажаної інформації.
+Функціонал плагіна заснований на принципі &quot;запитання - відповідь&quot;.
+За допомогою налаштувань плагина можна:
+ * Ввести контрольне запитання і відповідь на нього
+ * Задати набір правил, що визначають, чи буде спрацьовувати плагін для даного контакту
+ * Задати текст повідомлення, що надсилається у разі правильної відповіді
+ * Включити повідомлення за допомогою спливаючих вікон
+ * Включити збереження заблокованих повідомлень в історії контакту
+ * Задати кількість посилок запитання
+ * Задати інтервал часу, після якого лічильник кількості відправлених запитань буде обнулений
+ * Включити блокування приватних повідомлень у конференціях
+ * Вибрати для яких рангів і ролей учасників конференції блокування повідомлень буде відключено
+ * Включити повне блокування приватних повідомлень для учасників конференції, які не потрапляють в список виключень і для ролей і рангів яких включено блокування.
+
+Правила перевіряються згори донизу. Якщо навпроти правила встановлено галочку Enabled - анти-спам спрацює, інакше - ні. У випадку, коли жодне з правил не спрацювало, для повідомлень з ростера можна задати, чи спрацює плагін чи ні. Для приватних  повідомлень з конференцій - завжди спрацює.
+Контрольне запитання і відповідь, а також список правил - спільні як для звичайних повідомлень, так і для приватних повідомлень у конференціях.
+Також користувачеві, який пройшов тест, доведеться заново запитати підписку. Це варто відзначити в повідомленні, що відсилається в разі правильної відповіді на контрольне запитання.
+Плагін веде лог заблокованих повідомлень, який можна переглянути з налаштувань плагина. Кнопка &quot;Reset&quot; видаляє цей лог, і скидає лічильник заблокованих повідомлень.
+
+УВАГА! Перед реєстрацією на новому транспорті рекомендується додати jid транспорту до виключень. Це пов&apos;язано з тим, що після реєстрації транспорт запитує підписку для всіх контактів і якщо його не додати у виключення, то плагін заблокує всі запити.</translation>
     </message>
 </context>
 <context>
     <name>StorageNotesPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Опис (в інтернеті)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Storage Notes</source>
-        <translation type="unfinished"/>
+        <translation>Нотатки</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi+ or Miranda IM.</source>
-        <translation type="unfinished"/>
+        <translation>Цей плагін представляє собою реалізацію XEP-0049: Private XML Storage.
+Плагін повністю сумісний з нотатками, збереженими з клієнта Miranda IM.
+Призначений для зберігання нотаток на jabber-сервері, з можливістю доступу до них з будь-якого місця через клієнт Psi + або Miranda IM.</translation>
     </message>
 </context>
 <context>
     <name>TabDlg</name>
     <message>
         <source>Hide Tab</source>
-        <translation type="unfinished"/>
+        <translation>Сховати вкладинку</translation>
     </message>
     <message>
         <source>Detach Tab</source>
@@ -15737,15 +15766,15 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>Send Tab To</source>
-        <translation type="unfinished"/>
+        <translation>Приєднати вкладинку до</translation>
     </message>
     <message>
         <source>Hide Current Tab</source>
-        <translation type="unfinished"/>
+        <translation>Сховати поточну вкладинку</translation>
     </message>
     <message>
         <source>Hide All Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Сховати всі вкладинки</translation>
     </message>
     <message>
         <source>Detach Current Tab</source>
@@ -15757,15 +15786,15 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>Send Current Tab To</source>
-        <translation type="unfinished"/>
+        <translation>Приєднати вкладинку до</translation>
     </message>
     <message>
         <source>Use for New Chats</source>
-        <translation type="unfinished"/>
+        <translation>Використовувати для нових чатів</translation>
     </message>
     <message>
         <source>Use for New Mucs</source>
-        <translation type="unfinished"/>
+        <translation>Використовувати для нових конференцій</translation>
     </message>
     <message>
         <source>%1 Conversations</source>
@@ -15780,15 +15809,15 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <name>TestDlg</name>
     <message>
         <source>XMPP Test</source>
-        <translation type="unfinished"/>
+        <translation>XMPP тест</translation>
     </message>
     <message>
         <source>&amp;Connect</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Підключитися</translation>
     </message>
     <message>
         <source>About %1</source>
-        <translation type="unfinished"/>
+        <translation>Про %1</translation>
     </message>
     <message>
         <source>%1 v1.0
@@ -15800,246 +15829,255 @@ Currently supports:
   JEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
-        <translation type="unfinished"/>
+        <translation>%1 v1.0
+
+Утиліта для демонстрації XMPP-бібліотеки Iris.
+
+В даний час підтримує:
+  draft-ietf-xmpp-core-21
+  JEP-0025
+
+Copyright © 2003 Justin Karneges</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Помилка</translation>
     </message>
     <message>
         <source>Please enter the Full JID to connect with.</source>
-        <translation type="unfinished"/>
+        <translation>Будь ласка, введіть Повний JID для підключення.</translation>
     </message>
     <message>
         <source>You must specify a host:port for the proxy.</source>
-        <translation type="unfinished"/>
+        <translation>Ви повинні вказати сервер:порт для проксі.</translation>
     </message>
     <message>
         <source>You must at least enter a URL to use http poll.</source>
-        <translation type="unfinished"/>
+        <translation>Ви повинні вказати URL для поллінга.</translation>
     </message>
     <message>
         <source>Please enter the proxy host in the form &apos;host:port&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Введіть проксі сервер у вигляді &apos;вузол:порт&apos;.</translation>
     </message>
     <message>
         <source>Please enter the host in the form &apos;host:port&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Введіть сервер у вигляді &apos;вузол:порт&apos;.</translation>
     </message>
     <message>
         <source>Error: SSF Min is greater than SSF Max.</source>
-        <translation type="unfinished"/>
+        <translation>Помилка: SSF Min більше ніж  SSF Max.</translation>
     </message>
     <message>
         <source>Error: TLS not available.  Disable any TLS options.</source>
-        <translation type="unfinished"/>
+        <translation>Помилка: TLS недоступний. Відключить усі параметри TLS.</translation>
     </message>
     <message>
         <source>&amp;Disconnect</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Відключитись</translation>
     </message>
     <message>
         <source>Bad XML input (%1,%2): %3
 Please correct and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Поганий XML (%1,%2): %3
+Вкажіть правильний та повторіть спробу.</translation>
     </message>
     <message>
         <source>Bad Stanza &apos;%1&apos;.  Must be &apos;message&apos;, &apos;presence&apos;, or &apos;iq&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Погана станза &apos;%1&apos;.  Повинно бути &apos;message&apos;, &apos;presence&apos;, або &apos;iq&apos; </translation>
     </message>
     <message>
         <source>You must enter at least one stanza!</source>
-        <translation type="unfinished"/>
+        <translation>Ви повинні ввести хоча б одну странзу!</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"/>
+        <translation>Пароль</translation>
     </message>
     <message>
         <source>Enter the password for %1</source>
-        <translation type="unfinished"/>
+        <translation>Введіть пароль для %1</translation>
     </message>
 </context>
 <context>
     <name>TestUI</name>
     <message>
         <source>Form1</source>
-        <translation type="unfinished"/>
+        <translation>Form1</translation>
     </message>
     <message>
         <source>Core</source>
-        <translation type="unfinished"/>
+        <translation>Ядро</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="unfinished"/>
+        <translation>Сервер</translation>
     </message>
     <message>
         <source>Full JID:</source>
-        <translation type="unfinished"/>
+        <translation>Повний JID:</translation>
     </message>
     <message>
         <source>User (if needed):</source>
-        <translation type="unfinished"/>
+        <translation>Ім’я користувача (якщо потрібно):</translation>
     </message>
     <message>
         <source>Pass:</source>
-        <translation type="unfinished"/>
+        <translation>Пароль:</translation>
     </message>
     <message>
         <source>SSL</source>
-        <translation type="unfinished"/>
+        <translation>SSL</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Ніяке</translation>
     </message>
     <message>
         <source>HTTP(S)</source>
-        <translation type="unfinished"/>
+        <translation>HTTP(S)</translation>
     </message>
     <message>
         <source>SOCKS5</source>
-        <translation type="unfinished"/>
+        <translation>SOCKS5</translation>
     </message>
     <message>
         <source>HTTP Polling</source>
-        <translation type="unfinished"/>
+        <translation>Поллінг HTTP</translation>
     </message>
     <message>
         <source>Host:Port:</source>
-        <translation type="unfinished"/>
+        <translation>Вузол:Порт:</translation>
     </message>
     <message>
         <source>Legacy SSL probe</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка SSL</translation>
     </message>
     <message>
         <source>Proxy:</source>
-        <translation type="unfinished"/>
+        <translation>Проксі-сервер:</translation>
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="unfinished"/>
+        <translation>Налаштування проксі-серверу</translation>
     </message>
     <message>
         <source>User/Pass:</source>
-        <translation type="unfinished"/>
+        <translation>Користувач/пароль:</translation>
     </message>
     <message>
         <source>/</source>
-        <translation type="unfinished"/>
+        <translation>/</translation>
     </message>
     <message>
         <source>Polling URL:</source>
-        <translation type="unfinished"/>
+        <translation>URL для поллінгу:</translation>
     </message>
     <message>
         <source>Security Settings</source>
-        <translation type="unfinished"/>
+        <translation>Налаштування безпеки</translation>
     </message>
     <message>
         <source>Allow plaintext login</source>
-        <translation type="unfinished"/>
+        <translation>Дозволити аутентифікацію відкритим текстом</translation>
     </message>
     <message>
         <source>Require mutual authentication</source>
-        <translation type="unfinished"/>
+        <translation>Вимагати взаємну аутинтифікацію</translation>
     </message>
     <message>
         <source>SASL SSF min/max:</source>
-        <translation type="unfinished"/>
+        <translation>Мін./макс. SASL SSF:</translation>
     </message>
     <message>
         <source>&amp;Connect</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Підключитися</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"/>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Про програму</translation>
     </message>
     <message>
         <source>Quick XML &gt;&gt;</source>
-        <translation type="unfinished"/>
+        <translation>XML &gt;&gt;</translation>
     </message>
     <message>
         <source>To:</source>
-        <translation type="unfinished"/>
+        <translation>Кому:</translation>
     </message>
     <message>
         <source>&amp;IM Session</source>
-        <translation type="unfinished"/>
+        <translation>Сеанс &amp;IM</translation>
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Повідомлення</translation>
     </message>
     <message>
         <source>IQ &amp;Version</source>
-        <translation type="unfinished"/>
+        <translation>Версія &amp;IQ</translation>
     </message>
     <message>
         <source>IM</source>
-        <translation type="unfinished"/>
+        <translation>IM</translation>
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Надіслати</translation>
     </message>
     <message>
         <source>Alt+S</source>
-        <translation type="unfinished"/>
+        <translation>Alt+S</translation>
     </message>
 </context>
 <context>
     <name>Tip</name>
     <message>
         <source>Useful Tips</source>
-        <translation type="unfinished"/>
+        <translation>Корисні поради</translation>
     </message>
     <message>
         <source>psi/logo_128</source>
-        <translation type="unfinished"/>
+        <translation>psi/logo_128</translation>
     </message>
     <message>
         <source>Show tips at startup</source>
-        <translation type="unfinished"/>
+        <translation>Показувати поради при запуску</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Попереднє</translation>
     </message>
     <message>
         <source>Alt+P</source>
-        <translation type="unfinished"/>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <source>psi/arrowLeft</source>
-        <translation type="unfinished"/>
+        <translation>psi/arrowLeft</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Наступне</translation>
     </message>
     <message>
         <source>Alt+N</source>
-        <translation type="unfinished"/>
+        <translation>Alt+N</translation>
     </message>
     <message>
         <source>psi/arrowRight</source>
-        <translation type="unfinished"/>
+        <translation>psi/arrowRight</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Закрити</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"/>
+        <translation>Alt+C</translation>
     </message>
 </context>
 <context>
@@ -16102,7 +16140,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Did you know that you can register multiple Jabber accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest Jabber features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation>Чи знали ви, що ви можете реєструвати не один обліковий запис в Psi? Якщо ви хочете відділити вашу робочу від вашої особистої переписки, то це можливо. Якщо ви досвідчений користувач і хочете потестувати останні додані в джаббер можливості на нестабільному сервері, це можливо -- без запуска другого клієнта для підключення до вашого стабільного сервера. Просто натисніть Додати в налаштунках облікового запису.</translation>
+        <translation>Чи знали ви, що ви можете реєструвати не один аккаунт в Psi? Якщо ви хочете відділити вашу робочу від вашої особистої переписки, то це можливо. Якщо ви досвідчений користувач і хочете потестувати останні додані в джаббер можливості на нестабільному сервері, це можливо -- без запуска другого клієнта для підключення до вашого стабільного сервера. Просто натисніть Додати в налаштунках аккаунту.</translation>
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to Jabber. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
@@ -16111,11 +16149,11 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation>Чи знали ви, що ви можете використовувати перемикачі в діалозі Налаштування облікового запису, щоб активувати/відключити облікові записи? Це, можливо, корисно у разі облікового запису, який ви використовуєте рідко.</translation>
+        <translation>Чи знали ви, що ви можете використовувати перемикачі в діалозі Налаштування аккаунту, щоб активувати/відключити аккаунти? Це, можливо, корисно у разі аккаунту, який ви використовуєте рідко.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation>Не подобається розташування кнопок? Хочете комбінацію клавіш для зміни вашого статуса на &quot;Пішов&quot;? Дивіться вікно налаштування панелей, воно доступне в контекстному меню панелей. Ви навіть можете зробити плаваючу панель!</translation>
+        <translation>Не подобається розташування кнопок? Хочете комбінацію клавіш для зміни вашого статуса на &quot;Відсутній&quot;? Дивіться вікно налаштування панелей, воно доступне в контекстному меню панелей. Ви навіть можете зробити плаваючу панель!</translation>
     </message>
     <message>
         <source>Did you know that Psi is one of the only Jabber clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
@@ -16135,7 +16173,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation>Натисніть на імені серверу в списку контактів, щоб активувати деякі дії. Ви можете змінити статус, змінити налаштунки облікового запису, змінити якісь адміністративні налаштунки (якщо ви маєте права) та ін.</translation>
+        <translation>Натисніть на імені серверу в списку контактів, щоб активувати деякі дії. Ви можете змінити статус, змінити налаштунки аккаунту, змінити якісь адміністративні налаштунки (якщо ви маєте права) та ін.</translation>
     </message>
     <message>
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; Jabber Server for nice services by typing its domain in the address field.
@@ -16164,91 +16202,92 @@ Note: Some server may disable transport registration to users from different ser
     <name>ToolBar</name>
     <message>
         <source>Line Width:</source>
-        <translation type="unfinished"/>
+        <translation>Ширина лінії:</translation>
     </message>
     <message>
         <source>Line width</source>
-        <translation type="unfinished"/>
+        <translation>Ширина лінії</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"/>
+        <translation>Вибрати колір</translation>
     </message>
     <message>
         <source>Pen</source>
-        <translation type="unfinished"/>
+        <translation>Ручка</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"/>
+        <translation>Вибір</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"/>
+        <translation>Вирізати</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>Копіювати</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"/>
+        <translation>Вставити</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"/>
+        <translation>Поворот</translation>
     </message>
     <message>
         <source>Insert Text</source>
-        <translation type="unfinished"/>
+        <translation>Вставити текст</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"/>
+        <translation>Відмінити</translation>
     </message>
 </context>
 <context>
     <name>TranslatePlugin</name>
     <message>
         <source>from</source>
-        <translation type="unfinished"/>
+        <translation>З</translation>
     </message>
     <message>
         <source>to</source>
-        <translation type="unfinished"/>
+        <translation>На</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Додати</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Видалити</translation>
     </message>
     <message>
         <source>ShortCut:</source>
-        <translation type="unfinished"/>
+        <translation>Комбінація клавіш:</translation>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="unfinished"/>
+        <translation>Змінити</translation>
     </message>
     <message>
         <source>Not translating &quot;Nickname:&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Не перекодувати &quot;Нік:&quot;</translation>
     </message>
     <message>
         <source>Restore Defaults Settings</source>
-        <translation type="unfinished"/>
+        <translation>Відновити стандартні</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Автор:</translation>
     </message>
     <message>
         <source>This plugin allows you to convert selected text into another language.
 </source>
-        <translation type="unfinished"/>
+        <translation>Цей плагін дозволяє конвертувати виділений текст на іншу мовну розкладку.
+</translation>
     </message>
 </context>
 <context>
@@ -16262,46 +16301,46 @@ Note: Some server may disable transport registration to users from different ser
     <name>TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished"/>
+        <translation>Пошук: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"/>
+        <translation>Врахувати &amp;регістр</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation type="unfinished"/>
+        <translation>Перша сторінка</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="unfinished"/>
+        <translation>Попередня сторінка</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="unfinished"/>
+        <translation>Наступна сторінка</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="unfinished"/>
+        <translation>Остання сторінка</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Знайти</translation>
     </message>
     <message>
         <source>Find next</source>
-        <translation type="unfinished"/>
+        <translation>Наступне</translation>
     </message>
     <message>
         <source>Find previous</source>
-        <translation type="unfinished"/>
+        <translation>Попереднє</translation>
     </message>
 </context>
 <context>
     <name>URLLabel</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Відкрити</translation>
     </message>
     <message>
         <source>Open mail composer</source>
@@ -16317,11 +16356,11 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Send message to</source>
-        <translation type="unfinished"/>
+        <translation>Надіслати повідомлення</translation>
     </message>
     <message>
         <source>Chat with</source>
-        <translation type="unfinished"/>
+        <translation>Відкрити в чаті</translation>
     </message>
     <message>
         <source>Join groupchat</source>
@@ -16333,45 +16372,45 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished"/>
+        <translation>vCard</translation>
     </message>
 </context>
 <context>
     <name>UploadManager</name>
     <message>
         <source>Getting storage...</source>
-        <translation type="unfinished"/>
+        <translation>Отримання сховища...</translation>
     </message>
     <message>
         <source>Can&apos;t get storage</source>
-        <translation type="unfinished"/>
+        <translation>Неможливо отримати сховище</translation>
     </message>
     <message>
         <source>Starting upload...</source>
-        <translation type="unfinished"/>
+        <translation>Починаю завантаження...</translation>
     </message>
     <message>
         <source>Error opening file!</source>
-        <translation type="unfinished"/>
+        <translation>Помилка відкриття файлу!</translation>
     </message>
     <message>
         <source>Verifying...</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка...</translation>
     </message>
     <message>
         <source>Uploaded successfully</source>
-        <translation type="unfinished"/>
+        <translation>Завантаження закінчено успішно</translation>
     </message>
     <message>
         <source>Verifying failed</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка не вдалася</translation>
     </message>
 </context>
 <context>
     <name>VideoStatusChanger</name>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Автори: </translation>
     </message>
     <message>
         <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
@@ -16387,175 +16426,187 @@ To work with VLC player you need to enable the option &quot;Control Interface D-
 To work with Kaffeine player you must have player version (&gt;= 1.0), additional configuration is not needed; 
 
 To work with GNOME MPlayer additional configuration is not needed.</source>
-        <translation type="unfinished"/>
+        <translation>Плагін призначено для автоматичного встановлення заданого статусу, коли ви дивитесь відео в зазначеному відеопрогравачі.
+Плагін працює в операційних системах сімейства Linux и Windows.
+
+В Linux використовується D-Bus для роботи з відеопрогравачами та функції X11 для виявлення повноекранних програм.
+В Windows Плагін використовує WinAPI функції для виявлення повноекранних програм.
+
+Для роботи з Totem необхідно в самому програвачі включити відповідний плагін (Правка\Модулі\Служба D-Bus);
+
+Для роботи з VLC необхідно у розширених налаштуваннях програвача у вкладці &quot;Інтерфейс\Інтерфейси керування&quot; включити опцію &quot;Інтерфейс керування D-Bus&quot;;
+
+Для роботи з Kaffeine необхідно мати плеєр версії (&gt;=1.0), додаткові налаштування не потрібні;
+
+Для роботи з GNOME MPlayer додаткові налаштування не потрібні.</translation>
     </message>
 </context>
 <context>
     <name>ViewLog</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Пошук</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Закрити</translation>
     </message>
     <message>
         <source>Save Changes</source>
-        <translation type="unfinished"/>
+        <translation>Зберегти зміни</translation>
     </message>
     <message>
         <source>Delete Log</source>
-        <translation type="unfinished"/>
+        <translation>Видалити лог</translation>
     </message>
     <message>
         <source>Update Log</source>
-        <translation type="unfinished"/>
+        <translation>Оновити лог</translation>
     </message>
     <message>
         <source>Delete log file</source>
-        <translation type="unfinished"/>
+        <translation>Видалити файл логу</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Ви впевнені?</translation>
     </message>
     <message>
         <source>Save log</source>
-        <translation type="unfinished"/>
+        <translation>Зберегти лог</translation>
     </message>
     <message>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
-        <translation type="unfinished"/>
+        <translation>Нові повідомлення додано в лог. Якщо Ви збережете зміни, то втратите їх</translation>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
-        <translation type="unfinished"/>
+        <translation>Ви бажаєте зберегти зміни?</translation>
     </message>
 </context>
 <context>
     <name>ViewMailDlg</name>
     <message>
         <source>E-Mail</source>
-        <translation type="unfinished"/>
+        <translation>E-Mail</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation type="unfinished"/>
+        <translation>Від:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="unfinished"/>
+        <translation>Тема:</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished"/>
+        <translation>Аккаунт:</translation>
     </message>
     <message>
         <source>Open mail in browser</source>
-        <translation type="unfinished"/>
+        <translation>Відкрити пошту у браузері</translation>
     </message>
     <message>
         <source>Open MailBox</source>
-        <translation type="unfinished"/>
+        <translation>Відкрити поштову скриньку</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"/>
+        <translation>Попереднє</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"/>
+        <translation>Наступне</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Закрити</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Закрити</translation>
     </message>
     <message>
         <source>[%1/%2] E-Mail</source>
-        <translation type="unfinished"/>
+        <translation>[%1/%2] E-Mail</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation type="unfinished"/>
+        <translation>Відкрити у браузері</translation>
     </message>
 </context>
 <context>
     <name>Viewer</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Пошук</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Закрити</translation>
     </message>
     <message>
         <source>Save Changes</source>
-        <translation type="unfinished"/>
+        <translation>Зберегти зміни</translation>
     </message>
     <message>
         <source>Delete Log</source>
-        <translation type="unfinished"/>
+        <translation>Видалити лог</translation>
     </message>
     <message>
         <source>Update Log</source>
-        <translation type="unfinished"/>
+        <translation>Оновити лог</translation>
     </message>
     <message>
         <source>Delete log file</source>
-        <translation type="unfinished"/>
+        <translation>Видалити файл логу</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Ви впевнені?</translation>
     </message>
     <message>
         <source>Save log</source>
-        <translation type="unfinished"/>
+        <translation>Зберегти лог</translation>
     </message>
     <message>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
-        <translation type="unfinished"/>
+        <translation>Нові повідомлення додано в лог. Якщо Ви збережете зміни, то втратите їх</translation>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
-        <translation type="unfinished"/>
+        <translation>Ви бажаєте зберегти зміни?</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"/>
+        <translation>Виділити</translation>
     </message>
     <message>
         <source>Uncheck</source>
-        <translation type="unfinished"/>
+        <translation>Зняти виділення</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Інвертувати</translation>
     </message>
 </context>
 <context>
     <name>VoiceCall</name>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"/>
+        <translation>Голосовий виклик</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Прийняти</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation type="unfinished"/>
+        <translation>Відхилити</translation>
     </message>
     <message>
         <source>Hang Up</source>
-        <translation type="unfinished"/>
+        <translation>Покласти слухавку</translation>
     </message>
 </context>
 <context>
@@ -16605,44 +16656,48 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>Watcher</name>
     <message>
         <source>Empty item</source>
-        <translation type="unfinished"/>
+        <translation>Пустий елемент</translation>
     </message>
     <message>
         <source> change status to </source>
-        <translation type="unfinished"/>
+        <translation> змінює статус на </translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Вибрати звуковий файл</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Звуковий файл (*.wav)</translation>
     </message>
     <message>
         <source>&lt;br&gt;Status Message: %1</source>
-        <translation type="unfinished"/>
+        <translation>&lt;br&gt;Статусне повідомлення: %1</translation>
     </message>
     <message>
         <source>Watcher Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Watcher Plugin</translation>
     </message>
     <message>
         <source>Watch for JID</source>
-        <translation type="unfinished"/>
+        <translation>Стежити за JID&apos;ом</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-Mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
-        <translation type="unfinished"/>
+        <translation>Цей плагін призначений для спостереження за статусом певних користувачів в ростері, а також для підміни стандартних звуків вхідних повідомлень.
+
+На першій вкладинці налаштовується список контактів, за статусом яких здійснюється спостереження. При зміні статусу таких контактів буде показуватися спливаюче вікно, а при зміні статусу на &quot;Доступний&quot; - ще й програватися вказаний звук. 
+
+На другій вкладці налаштовується список елементів, за повідомленнями яких ведеться спостереження. Кожен елемент може містити регулярний вираз для перевірки на збіг з джидом, від якого приходить повідомлення; список регулярних виразів для перевірки на збіг з текстом вхідного повідомлення; розмещення звукового файлу, який буде програно в разі збігу; а також опцію, чи буде звук програватися завжди, навіть якщо глобальні звуки вимкнено.</translation>
     </message>
 </context>
 <context>
@@ -16717,7 +16772,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Scroll view</source>
-        <translation type="unfinished"/>
+        <translation>Режим прокрутки</translation>
     </message>
     <message>
         <source>Scroll</source>
@@ -16792,15 +16847,15 @@ Do you still want to close the window?</source>
     <name>WbItem</name>
     <message>
         <source>Bring forward</source>
-        <translation>Висунути</translation>
+        <translation>Підняти</translation>
     </message>
     <message>
         <source>Bring to front</source>
-        <translation>Висунути на перед</translation>
+        <translation>На передній план</translation>
     </message>
     <message>
         <source>Send backwards</source>
-        <translation type="unfinished"/>
+        <translation>Опустити</translation>
     </message>
     <message>
         <source>Send to back</source>
@@ -16819,11 +16874,11 @@ Do you still want to close the window?</source>
     <name>WbManager</name>
     <message>
         <source>Unsupported</source>
-        <translation type="unfinished"/>
+        <translation>Не підтримується</translation>
     </message>
     <message>
         <source>The contact does not support whiteboarding.</source>
-        <translation type="unfinished"/>
+        <translation>Контакт не підтримує дошку для малювання.</translation>
     </message>
     <message>
         <source>Open Existing SVG?</source>
@@ -16854,305 +16909,305 @@ Do you still want to close the window?</source>
     <name>WebView</name>
     <message>
         <source>Quote</source>
-        <translation type="unfinished"/>
+        <translation>Цитувати</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+S</translation>
     </message>
 </context>
 <context>
     <name>XMLConsole</name>
     <message>
         <source>XML Console</source>
-        <translation type="unfinished"/>
+        <translation>Консоль XML</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"/>
+        <translation>Фільтр</translation>
     </message>
     <message>
         <source>Message</source>
-        <translation type="unfinished"/>
+        <translation>Повідомлення</translation>
     </message>
     <message>
         <source>Presence</source>
-        <translation type="unfinished"/>
+        <translation>Присутності</translation>
     </message>
     <message>
         <source>IQ</source>
-        <translation type="unfinished"/>
+        <translation>IQ</translation>
     </message>
     <message>
         <source>JID:</source>
-        <translation type="unfinished"/>
+        <translation>JID:</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation type="unfinished"/>
+        <translation>Включити</translation>
     </message>
     <message>
         <source>Dump Ringbuf</source>
-        <translation type="unfinished"/>
+        <translation>Дамп буферу</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Очистити</translation>
     </message>
     <message>
         <source>XML Input...</source>
-        <translation type="unfinished"/>
+        <translation>Введення XML...</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Закрити</translation>
     </message>
 </context>
 <context>
     <name>XMPP::ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished"/>
+        <translation>Пропонуємі механізми: </translation>
     </message>
 </context>
 <context>
     <name>XMPP::Features::FeatureName</name>
     <message>
         <source>ERROR: Incorrect usage of Features class</source>
-        <translation type="unfinished"/>
+        <translation>Помилка: невірне використання класу Features</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Ніяке</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation type="unfinished"/>
+        <translation>Зареєструватися</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Пошук</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"/>
+        <translation>Конференції</translation>
     </message>
     <message>
         <source>Gateway</source>
-        <translation type="unfinished"/>
+        <translation>Шлюз</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="unfinished"/>
+        <translation>Огляд сервісів</translation>
     </message>
     <message>
         <source>VCard</source>
-        <translation type="unfinished"/>
+        <translation>vCard</translation>
     </message>
     <message>
         <source>Execute command</source>
-        <translation type="unfinished"/>
+        <translation>Виконати команду</translation>
     </message>
     <message>
         <source>Query version</source>
-        <translation type="unfinished"/>
+        <translation>Запитати версію</translation>
     </message>
     <message>
         <source>Add to roster</source>
-        <translation type="unfinished"/>
+        <translation>Додати до ростеру</translation>
     </message>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation type="unfinished"/>
+        <translation>vCard недоступно</translation>
     </message>
 </context>
 <context>
     <name>XMPP::Stanza::Error::Private</name>
     <message>
         <source>Bad request</source>
-        <translation type="unfinished"/>
+        <translation>Помилковий запит</translation>
     </message>
     <message>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
-        <translation type="unfinished"/>
+        <translation>Було відправлено пошкоджений ХML код або відправлений код неможливо обробити.</translation>
     </message>
     <message>
         <source>Conflict</source>
-        <translation type="unfinished"/>
+        <translation>Конфлікт</translation>
     </message>
     <message>
         <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
-        <translation type="unfinished"/>
+        <translation>Дступ неможливий! Існує ще одна сесія або ресурс з таким самим ім’ям або адресою.</translation>
     </message>
     <message>
         <source>Feature not implemented</source>
-        <translation type="unfinished"/>
+        <translation>Можливість не реалізовано</translation>
     </message>
     <message>
         <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
-        <translation type="unfinished"/>
+        <translation>Сервер не реалізує дану можливість. Виконання неможливе.</translation>
     </message>
     <message>
         <source>Forbidden</source>
-        <translation type="unfinished"/>
+        <translation>Заборонено</translation>
     </message>
     <message>
         <source>The requesting entity does not possess the required permissions to perform the action.</source>
-        <translation type="unfinished"/>
+        <translation>Немає прав або можливості виконати дану дію.</translation>
     </message>
     <message>
         <source>Gone</source>
-        <translation type="unfinished"/>
+        <translation>Немає зв’язку</translation>
     </message>
     <message>
         <source>The recipient or server can no longer be contacted at this address.</source>
-        <translation type="unfinished"/>
+        <translation>Сервер або отримувач більше не доступні за цією адресою.</translation>
     </message>
     <message>
         <source>Internal server error</source>
-        <translation type="unfinished"/>
+        <translation>Внутрішня помилка серверу</translation>
     </message>
     <message>
         <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
-        <translation type="unfinished"/>
+        <translation>Сервер не може обробити станзу через помилку в конфігурації або з інших неполадок.</translation>
     </message>
     <message>
         <source>Item not found</source>
-        <translation type="unfinished"/>
+        <translation>Елемент не знайдено</translation>
     </message>
     <message>
         <source>The addressed JID or item requested cannot be found.</source>
-        <translation type="unfinished"/>
+        <translation>Елемент або JID, що запрошено, не знайдений.</translation>
     </message>
     <message>
         <source>JID malformed</source>
-        <translation type="unfinished"/>
+        <translation>Пошкоджений JID</translation>
     </message>
     <message>
         <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
-        <translation type="unfinished"/>
+        <translation>Надіслані дані не відповідають стандарту схеми адресації.</translation>
     </message>
     <message>
         <source>Not acceptable</source>
-        <translation type="unfinished"/>
+        <translation>Неприпустимо</translation>
     </message>
     <message>
         <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server (e.g., a local policy regarding acceptable words in messages).</source>
-        <translation type="unfinished"/>
+        <translation>Сервер прийняв запит, але не хоче його обробляти. Можливо - заборонено внутрішньою політикою сервера.</translation>
     </message>
     <message>
         <source>Not allowed</source>
-        <translation type="unfinished"/>
+        <translation>Не дозволено</translation>
     </message>
     <message>
         <source>The recipient or server does not allow any entity to perform the action.</source>
-        <translation type="unfinished"/>
+        <translation>Виконання подібних дій на цьому сервері неприпустимо.</translation>
     </message>
     <message>
         <source>Not authorized</source>
-        <translation type="unfinished"/>
+        <translation>Не авторизовний</translation>
     </message>
     <message>
         <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
-        <translation type="unfinished"/>
+        <translation>Надайте *правильні* реквізити перед тим, як Вам буде дозволено виконувати дану дію.</translation>
     </message>
     <message>
         <source>Payment required</source>
-        <translation type="unfinished"/>
+        <translation>Потрібна сплата</translation>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
-        <translation type="unfinished"/>
+        <translation>Для доступу до запитуємого сервісу необхідна сплата.</translation>
     </message>
     <message>
         <source>Recipient unavailable</source>
-        <translation type="unfinished"/>
+        <translation>Отримувач недоступний</translation>
     </message>
     <message>
         <source>The intended recipient is temporarily unavailable.</source>
-        <translation type="unfinished"/>
+        <translation>Отримувач тимчасово недоступний.</translation>
     </message>
     <message>
         <source>Redirect</source>
-        <translation type="unfinished"/>
+        <translation>Перенаправлення</translation>
     </message>
     <message>
         <source>The recipient or server is redirecting requests for this information to another entity, usually temporarily.</source>
-        <translation type="unfinished"/>
+        <translation>Отримувач або сервер переадресовують запити в інше місце. Зазвичай це тимчасово.</translation>
     </message>
     <message>
         <source>Registration required</source>
-        <translation type="unfinished"/>
+        <translation>Потрібна реєстрація</translation>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
-        <translation type="unfinished"/>
+        <translation>Для доступу до даного сервісу необхідна реєстрація.</translation>
     </message>
     <message>
         <source>Remote server not found</source>
-        <translation type="unfinished"/>
+        <translation>Віддалений сервер не знайдено</translation>
     </message>
     <message>
         <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Віддалений сервер або сервіс, що вказано, як частина JID&apos;у не існує.</translation>
     </message>
     <message>
         <source>Remote server timeout</source>
-        <translation type="unfinished"/>
+        <translation>Таймаут</translation>
     </message>
     <message>
         <source>A remote server or service specified as part or all of the JID of the intended recipient (or required to fulfill a request) could not be contacted within a reasonable amount of time.</source>
-        <translation type="unfinished"/>
+        <translation>Віддвлений сервер або сервіс, що вказано, як частина JID&apos;у не відповідає вчасно.</translation>
     </message>
     <message>
         <source>Resource constraint</source>
-        <translation type="unfinished"/>
+        <translation>Не вистачає ресурсів</translation>
     </message>
     <message>
         <source>The server or recipient lacks the system resources necessary to service the request.</source>
-        <translation type="unfinished"/>
+        <translation>Серверу не вистачає ресурсів для виконання запиту.</translation>
     </message>
     <message>
         <source>Service unavailable</source>
-        <translation type="unfinished"/>
+        <translation>Сервіс недоступний</translation>
     </message>
     <message>
         <source>The server or recipient does not currently provide the requested service.</source>
-        <translation type="unfinished"/>
+        <translation>На даний час сервер не надає даний сервіс.</translation>
     </message>
     <message>
         <source>Subscription required</source>
-        <translation type="unfinished"/>
+        <translation>Потрібна підписка</translation>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because a subscription is required.</source>
-        <translation type="unfinished"/>
+        <translation>Для доступу до даного сервісу необхідна підписка.</translation>
     </message>
     <message>
         <source>Undefined condition</source>
-        <translation type="unfinished"/>
+        <translation>Невизначена умова</translation>
     </message>
     <message>
         <source>The error condition is not one of those defined by the other conditions in this list.</source>
-        <translation type="unfinished"/>
+        <translation>Умова не задовільняє жодному з зазначених у списку.</translation>
     </message>
     <message>
         <source>Unexpected request</source>
-        <translation type="unfinished"/>
+        <translation>Неочікуваний запит</translation>
     </message>
     <message>
         <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
-        <translation type="unfinished"/>
+        <translation>Сервер прийняв запит, але в цей момент не очікує його (можливо - запит вибився з черги).</translation>
     </message>
 </context>
 <context>
     <name>XMPP::Task</name>
     <message>
         <source>Disconnected</source>
-        <translation type="unfinished"/>
+        <translation>Роз&apos;єднано</translation>
     </message>
 </context>
 <context>
@@ -17197,63 +17252,63 @@ Do you still want to close the window?</source>
     <name>options</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Select Sounds:</source>
-        <translation type="unfinished"/>
+        <translation>Вибрати звуки:</translation>
     </message>
     <message>
         <source>Game started:</source>
-        <translation type="unfinished"/>
+        <translation>Гра розпочалась:</translation>
     </message>
     <message>
         <source>Game finished:</source>
-        <translation type="unfinished"/>
+        <translation>Гру закінчено:</translation>
     </message>
     <message>
         <source>Your turn:</source>
-        <translation type="unfinished"/>
+        <translation>Ваш хід:</translation>
     </message>
     <message>
         <source>Error message:</source>
-        <translation type="unfinished"/>
+        <translation>Помилка:</translation>
     </message>
     <message>
         <source>If checked, the sound will always enabled (or disabled)</source>
-        <translation type="unfinished"/>
+        <translation>Якщо вибрано, звук завжди включений (або відключений)</translation>
     </message>
     <message>
         <source>Override default sound settings</source>
-        <translation type="unfinished"/>
+        <translation>Перевизначити налаштування звуку за замовчуванням</translation>
     </message>
     <message>
         <source>Disable invitations if status is DND</source>
-        <translation type="unfinished"/>
+        <translation>Відключити запрошення, якщо статус &quot;Не турбувати&quot;</translation>
     </message>
     <message>
         <source>Disable invitations from conference</source>
-        <translation type="unfinished"/>
+        <translation>Відключити запрошення з конференції</translation>
     </message>
     <message>
         <source>Save window height and width</source>
-        <translation type="unfinished"/>
+        <translation>Зберігати висоту й ширину вікна</translation>
     </message>
     <message>
         <source>Save window position</source>
-        <translation type="unfinished"/>
+        <translation>Зберігати позицію вікна</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Опис (в інтернеті)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Auto Reply Message If Recv:</source>
-        <translation type="unfinished"/>
+        <translation>Повідомлення автовідповіді якщо прийнято:</translation>
     </message>
     <message>
         <source>Auto Reply Message If No Recv:</source>
-        <translation type="unfinished"/>
+        <translation>Повідомлення автовідповіді якщо заблоковано:</translation>
     </message>
     <message>
         <source>Custom options:
@@ -17263,90 +17318,96 @@ Do you still want to close the window?</source>
 [-+!]other - default
 [-+!]nil - not in list
 # - comment to end line</source>
-        <translation type="unfinished"/>
+        <translation>Налаштування користувача:
+-uin - нічого не робити
++uin - надіслати відповідь
+!uin - заблокувати повідомлення
+[-+!]other - за замовчуванням
+[-+!]nil - не у списку
+# - коментар до рядку</translation>
     </message>
     <message>
         <source>Pause for next Recv message:</source>
-        <translation type="unfinished"/>
+        <translation>Пауза перед відповіддю на наступне повідомлення, що прийнято:</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation type="unfinished"/>
+        <translation>хв.</translation>
     </message>
     <message>
         <source>Max messages to contact:</source>
-        <translation type="unfinished"/>
+        <translation>Максимальна кількість повідомлень контакту:</translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation type="unfinished"/>
+        <translation>Відключити, якщо відкрито вікно чата</translation>
     </message>
     <message>
         <source>Transports:</source>
-        <translation type="unfinished"/>
+        <translation>Сервіси:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Опис (в інтернеті)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>psiotr::AuthenticationDialog</name>
     <message>
         <source>Authenticate %1</source>
-        <translation type="unfinished"/>
+        <translation>Авторизувати %1</translation>
     </message>
     <message>
         <source>To authenticate via question and answer, ask a question whose answer is only known to you and %1.</source>
-        <translation type="unfinished"/>
+        <translation>Для аутентифікації використовуючи запитання-відповідь, задайте запитання, відповідь на яке відома тільки вам і %1.</translation>
     </message>
     <message>
         <source>To authenticate manually, exchange your fingerprints over an authenticated channel and compare each other&apos;s fingerprint with the one listed beneath.</source>
-        <translation type="unfinished"/>
+        <translation>Для аутентифікації вручну, обміняйтеся відбитками по надійному каналу і порівняйте з відбитками, що перелічені нижче.</translation>
     </message>
     <message>
         <source>Authenticate to %1</source>
-        <translation type="unfinished"/>
+        <translation>Авторизувати до %1</translation>
     </message>
     <message>
         <source>%1 wants to authenticate you. To authenticate, answer the question asked below.</source>
-        <translation type="unfinished"/>
+        <translation>%1 хоче вас автентифікувати. Для аутентифікації дайте відповідь на запитання внизу.</translation>
     </message>
     <message>
         <source>Question and answer</source>
-        <translation type="unfinished"/>
+        <translation>Запитання та відповідь</translation>
     </message>
     <message>
         <source>Fingerprint verification</source>
-        <translation type="unfinished"/>
+        <translation>Перевірка відбитку</translation>
     </message>
     <message>
         <source>&amp;Question:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Запитання:</translation>
     </message>
     <message>
         <source>A&amp;nswer:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Відповідь:</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>В&amp;ідміна</translation>
     </message>
     <message>
         <source>&amp;Authenticate</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Авторизувати</translation>
     </message>
     <message>
         <source>This contact is already authenticated.</source>
-        <translation type="unfinished"/>
+        <translation>Цей контакт вже авторизований.</translation>
     </message>
     <message>
         <source>No private key for account &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Немає приватного ключа для аккаунту &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Your fingerprint:</source>
-        <translation type="unfinished"/>
+        <translation>Ваш відбиток:</translation>
     </message>
     <message>
         <source>Fingerprint for %1:</source>
@@ -17354,754 +17415,765 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished"/>
+        <translation>Аккаунт:</translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished"/>
+        <translation>Ім’я користувача:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished"/>
+        <translation>Відбиток: </translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
-        <translation type="unfinished"/>
+        <translation>Чи перевірили ви, що це дійсно правильний відбиток?</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi+ OTR</translation>
     </message>
     <message>
         <source>%1 has canceled the authentication process.</source>
-        <translation type="unfinished"/>
+        <translation>%1 в авторизації було відмовлено.</translation>
     </message>
     <message>
         <source>An error occured during the authentication process.</source>
-        <translation type="unfinished"/>
+        <translation>Сталася помилка в процесі аутентифікації.</translation>
     </message>
     <message>
         <source>Authentication successful.</source>
-        <translation type="unfinished"/>
+        <translation>Аутентифікацію пройдено успішно.</translation>
     </message>
     <message>
         <source>You have been successfully authenticated.
 
 You should authenticate %1 as well by asking your own question.</source>
-        <translation type="unfinished"/>
+        <translation>Вас було успішно аутентифіковано.
+
+Аутентифікуйте %1, задавши своє запитання.</translation>
     </message>
     <message>
         <source>Authentication failed.</source>
-        <translation type="unfinished"/>
+        <translation>Аутентифікацію не пройдено.</translation>
     </message>
     <message>
         <source>To authenticate via shared secret, enter a secret only known to you and %1.</source>
-        <translation type="unfinished"/>
+        <translation>Для аутентифікації використовуючи загальний секрет, задайте запитання, відповідь на яке відома тільки вам і %1.</translation>
     </message>
     <message>
         <source>%1 wants to authenticate you. To authenticate, enter your shared secret below.</source>
-        <translation type="unfinished"/>
+        <translation>%1 хоче вас автентифікувати. Для аутентифікації дайте відповідь на запитання внизу.</translation>
     </message>
     <message>
         <source>Shared secret</source>
-        <translation type="unfinished"/>
+        <translation>Загальний секрет</translation>
     </message>
     <message>
         <source>&amp;Shared Secret:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Загальний секрет:</translation>
     </message>
     <message>
         <source>%1&apos;s fingerprint:</source>
-        <translation type="unfinished"/>
+        <translation>Відбиток %1:</translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
         <source>Known fingerprints</source>
-        <translation type="unfinished"/>
+        <translation>Відомі відбитки</translation>
     </message>
     <message>
         <source>My private keys</source>
-        <translation type="unfinished"/>
+        <translation>Мої особисті ключі</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished"/>
+        <translation>Налаштування</translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
     <message>
         <source>OTR Policy</source>
-        <translation type="unfinished"/>
+        <translation>Політика OTR</translation>
     </message>
     <message>
         <source>Disable private messaging</source>
-        <translation type="unfinished"/>
+        <translation>Відключити особисті повідомлення</translation>
     </message>
     <message>
         <source>Manually start private messaging</source>
-        <translation type="unfinished"/>
+        <translation>Вручну запускати особисті повідомлення</translation>
     </message>
     <message>
         <source>Automatically start private messaging</source>
-        <translation type="unfinished"/>
+        <translation>Автоматично запускати особисті повідомлення</translation>
     </message>
     <message>
         <source>Require private messaging</source>
-        <translation type="unfinished"/>
+        <translation>Вимагати особисті повідомлення</translation>
     </message>
     <message>
         <source>End session when contact goes offline</source>
-        <translation type="unfinished"/>
+        <translation>Закінчувати сесію при виході контакту в офлайн</translation>
     </message>
 </context>
 <context>
     <name>psiotr::FingerprintWidget</name>
     <message>
         <source>Delete fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Видалити відбиток</translation>
     </message>
     <message>
         <source>Verify fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Перевірити відбиток</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"/>
+        <translation>Аккаунт</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished"/>
+        <translation>Користувач</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Відбиток</translation>
     </message>
     <message>
         <source>Verified</source>
-        <translation type="unfinished"/>
+        <translation>Перевірений</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Статус</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation type="unfinished"/>
+        <translation>Бажаєте видалити наступний відбиток?</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished"/>
+        <translation>Аккаунт:</translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished"/>
+        <translation>Ім’я користувача:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished"/>
+        <translation>Відбиток: </translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi+ OTR</translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
-        <translation type="unfinished"/>
+        <translation>Чи перевірили Ви, що це є дійсно правильний відбиток?</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Видалити</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Копіювати відбиток</translation>
     </message>
 </context>
 <context>
     <name>psiotr::PrivKeyWidget</name>
     <message>
         <source>Generate new key</source>
-        <translation type="unfinished"/>
+        <translation>Генерувати нового ключа</translation>
     </message>
     <message>
         <source>Delete key</source>
-        <translation type="unfinished"/>
+        <translation>Видалити ключ</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"/>
+        <translation>Аккаунт</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Відбиток</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished"/>
+        <translation>Бажаєте видалити наступний ключ?</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished"/>
+        <translation>Аккаунт:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished"/>
+        <translation>Відбиток: </translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi+ OTR</translation>
     </message>
     <message>
         <source>Are you sure you want to overwrite the following key?</source>
-        <translation type="unfinished"/>
+        <translation>Бажаєте перезаписати наступний ключ?</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Видалити</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Копіювати відбиток</translation>
     </message>
 </context>
 <context>
     <name>psiotr::PsiOtrClosure</name>
     <message>
         <source>No active encrypted session</source>
-        <translation type="unfinished"/>
+        <translation>Немає активних шифрованих сесій</translation>
     </message>
     <message>
         <source>Session ID between account &quot;%1&quot; and %2:&lt;br/&gt;%3</source>
-        <translation type="unfinished"/>
+        <translation>ID сесії між аккаунтами &quot;%1&quot; та %2:&lt;br/&gt;%3</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi+ OTR</translation>
     </message>
     <message>
         <source>No private key for account &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Немає особистого ключа для аккаунту &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;:
 %2</source>
-        <translation type="unfinished"/>
+        <translation>Відбиток для аккаунту &quot;%1&quot;:
+%2</translation>
     </message>
     <message>
         <source>unverified</source>
-        <translation type="unfinished"/>
+        <translation>неперевірений</translation>
     </message>
     <message>
         <source>OTR Messaging [%1]</source>
-        <translation type="unfinished"/>
+        <translation>Обмін OTR повідомленнями [%1]</translation>
     </message>
     <message>
         <source>Refre&amp;sh private conversation</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Оновити приватну бесіду</translation>
     </message>
     <message>
         <source>&amp;Start private conversation</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Розпочати приватну бесіду</translation>
     </message>
     <message>
         <source>&amp;End private conversation</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Закінчити приватну бесіду</translation>
     </message>
     <message>
         <source>&amp;Authenticate contact</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Аутентифікувати контакт</translation>
     </message>
     <message>
         <source>Show secure session &amp;ID</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Показати безпечний ID сесії</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Показати свій відбито&amp;к</translation>
     </message>
 </context>
 <context>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi+ OTR</translation>
     </message>
     <message>
         <source>Off-the-Record Messaging plugin for Psi+</source>
-        <translation type="unfinished"/>
+        <translation>Плагін OTR для Psi+</translation>
     </message>
     <message>
         <source>Authors: %1</source>
-        <translation type="unfinished"/>
+        <translation>Автори: %1</translation>
     </message>
     <message>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
-        <translation type="unfinished"/>
+        <translation>Технологія OTR дозволяє проводити особисте листування, забезпечуючи:</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Шифрування</translation>
     </message>
     <message>
         <source>No one else can read your instant messages.</source>
-        <translation type="unfinished"/>
+        <translation>Ніхто інший не зможе прочитати повідомлення.</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished"/>
+        <translation>Аутентифікація</translation>
     </message>
     <message>
         <source>You are assured the correspondent is who you think it is.</source>
-        <translation type="unfinished"/>
+        <translation>Впевненість в тому, хто є співрозмовником.</translation>
     </message>
     <message>
         <source>Deniability</source>
-        <translation type="unfinished"/>
+        <translation>Заперечувати</translation>
     </message>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
-        <translation type="unfinished"/>
+        <translation>Надіслані повідомлення не мають цифрового підпису, що перевіряється третьою особою. Хто завгодно зможе підробити історію листування так, щоб повідомлення виглядали ніби то від вас. Зате під час розмови ваш кореспондент буде впевнений, що повідомлення від вас справжні і не підроблені.</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
-        <translation type="unfinished"/>
+        <translation>Досконала пряма секретність</translation>
     </message>
     <message>
         <source>If you lose control of your private keys, no previous conversation is compromised.</source>
-        <translation type="unfinished"/>
+        <translation>Якщо Ви втратите контроль над особистими ключами, попереднє листування не буде скомпрометовано.</translation>
     </message>
     <message>
         <source>For further information, see &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Додаткова інформація: &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</translation>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
-        <translation type="unfinished"/>
+        <translation>Спроба відновити приватне листування</translation>
     </message>
     <message>
         <source>Attempting to start a private conversation</source>
-        <translation type="unfinished"/>
+        <translation>Спроба почати приватне листування</translation>
     </message>
     <message>
         <source>Private conversation started</source>
-        <translation type="unfinished"/>
+        <translation>Особисте листування розпочато</translation>
     </message>
     <message>
         <source>Unverified conversation started</source>
-        <translation type="unfinished"/>
+        <translation>Неперевірене листування розпочато</translation>
     </message>
     <message>
         <source>Private conversation lost</source>
-        <translation type="unfinished"/>
+        <translation>Особисте листування втрачено</translation>
     </message>
     <message>
         <source>Private conversation closed</source>
-        <translation type="unfinished"/>
+        <translation>Особисте листування закрито</translation>
     </message>
     <message>
         <source>%1 has ended the private conversation with you; you should do the same.</source>
-        <translation type="unfinished"/>
+        <translation>%1 закінчив приватне листування з вами, зробіть теж саме.</translation>
     </message>
     <message>
         <source>Private conversation refreshed</source>
-        <translation type="unfinished"/>
+        <translation>Особисте листування відновлено</translation>
     </message>
     <message>
         <source>Unverified conversation refreshed</source>
-        <translation type="unfinished"/>
+        <translation>Неперевірене листування відновлено</translation>
     </message>
     <message>
         <source>Contact authenticated</source>
-        <translation type="unfinished"/>
+        <translation>Контакт аутентифікований</translation>
     </message>
     <message>
         <source>Contact not authenticated</source>
-        <translation type="unfinished"/>
+        <translation>Контакт не аутентифікований</translation>
     </message>
 </context>
 <context>
     <name>requestAuthDialogClass</name>
     <message>
         <source>Authorization</source>
-        <translation type="unfinished"/>
+        <translation>Авторизація</translation>
     </message>
     <message>
         <source>Login:</source>
-        <translation type="unfinished"/>
+        <translation>Логін:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Пароль:</translation>
     </message>
     <message>
         <source>Remember</source>
-        <translation type="unfinished"/>
+        <translation>Запам’ятати</translation>
     </message>
     <message>
         <source>Captcha:</source>
-        <translation type="unfinished"/>
+        <translation>Капча:</translation>
     </message>
 </context>
 <context>
     <name>settings</name>
     <message>
         <source>settings</source>
-        <translation type="unfinished"/>
+        <translation>налаштування</translation>
     </message>
     <message>
         <source>Edit JIDs</source>
-        <translation type="unfinished"/>
+        <translation>Правити JIDи </translation>
     </message>
     <message>
         <source>bold</source>
-        <translation type="unfinished"/>
+        <translation>жирний</translation>
     </message>
     <message>
         <source>italic</source>
-        <translation type="unfinished"/>
+        <translation>курсив</translation>
     </message>
     <message>
         <source>underline</source>
-        <translation type="unfinished"/>
+        <translation>підкреслений</translation>
     </message>
     <message>
         <source>color</source>
-        <translation type="unfinished"/>
+        <translation>колір</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation type="unfinished"/>
+        <translation>@користувач</translation>
     </message>
     <message>
         <source>*tag</source>
-        <translation type="unfinished"/>
+        <translation>*тег</translation>
     </message>
     <message>
         <source>#message id</source>
-        <translation type="unfinished"/>
+        <translation>#id повідомлення</translation>
     </message>
     <message>
         <source>&gt;quote</source>
-        <translation type="unfinished"/>
+        <translation>&gt;цитата</translation>
     </message>
     <message>
         <source>http://link</source>
-        <translation type="unfinished"/>
+        <translation>http://посилання</translation>
     </message>
     <message>
         <source>Use message Id as resource</source>
-        <translation type="unfinished"/>
+        <translation>Id повідомлення як ресурс</translation>
     </message>
     <message>
         <source>Show Photo</source>
-        <translation type="unfinished"/>
+        <translation>Показувати фото</translation>
     </message>
     <message>
         <source>Show Avatars</source>
-        <translation type="unfinished"/>
+        <translation>Показувати аватари</translation>
     </message>
     <message>
         <source>Replaces message id with a link
 to this message in juick@conference.jabber.ru</source>
-        <translation type="unfinished"/>
+        <translation>Підміняти номер повідомлення посиланням
+на нього в конференції juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>Clear avatar cache</source>
-        <translation type="unfinished"/>
+        <translation>Очистити кеш аватарів</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Опис (в інтернеті)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>uploadDialog</name>
     <message>
         <source>File: </source>
-        <translation type="unfinished"/>
+        <translation>Файл:</translation>
     </message>
     <message>
         <source>Progress: </source>
-        <translation type="unfinished"/>
+        <translation>Прогрес:</translation>
     </message>
     <message>
         <source>Elapsed time: </source>
-        <translation type="unfinished"/>
+        <translation>Минуло часу:</translation>
     </message>
     <message>
         <source>Speed: </source>
-        <translation type="unfinished"/>
+        <translation>Швидкість: </translation>
     </message>
     <message>
         <source> kb/sec</source>
-        <translation type="unfinished"/>
+        <translation> кб/сек</translation>
     </message>
     <message>
         <source>Upload completed. Waiting for verification.</source>
-        <translation type="unfinished"/>
+        <translation>Завантаження закінчено. Очікується верифікація.</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"/>
+        <translation>Готово</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Закрити</translation>
     </message>
     <message>
         <source>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Посилання: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>uploadDialogClass</name>
     <message>
         <source>Uploading...</source>
-        <translation type="unfinished"/>
+        <translation>Завантажується...</translation>
     </message>
     <message>
         <source>Upload started.</source>
-        <translation type="unfinished"/>
+        <translation>Завантаження розпочато.</translation>
     </message>
     <message>
         <source>File: </source>
-        <translation type="unfinished"/>
+        <translation>Файл:</translation>
     </message>
     <message>
         <source>Progress:</source>
-        <translation type="unfinished"/>
+        <translation>Прогрес:</translation>
     </message>
     <message>
         <source>Elapsed time:</source>
-        <translation type="unfinished"/>
+        <translation>Минуло часу:</translation>
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="unfinished"/>
+        <translation>Швидкість: </translation>
     </message>
     <message>
         <source>Link: </source>
-        <translation type="unfinished"/>
+        <translation>Посилання: </translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Відміна</translation>
     </message>
 </context>
 <context>
     <name>vCardView</name>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished"/>
+        <translation>ПІБ:</translation>
     </message>
     <message>
         <source>Nick:</source>
-        <translation type="unfinished"/>
+        <translation>Нік:</translation>
     </message>
     <message>
         <source>Birthday:</source>
-        <translation type="unfinished"/>
+        <translation>Дата народження:</translation>
     </message>
     <message>
         <source>E-Mail:</source>
-        <translation type="unfinished"/>
+        <translation>E-Mail: </translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Закрити</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodManage</name>
     <message>
         <source>Yandex.Narod file manager</source>
-        <translation type="unfinished"/>
+        <translation>Яндекс.Народ файловий менеджер</translation>
     </message>
     <message>
         <source>Delete file(s)</source>
-        <translation type="unfinished"/>
+        <translation>Видалити файл(и)</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Ви впевнені?</translation>
     </message>
     <message>
         <source>Set password</source>
-        <translation type="unfinished"/>
+        <translation>Встановити пароль</translation>
     </message>
     <message>
         <source>Remove password</source>
-        <translation type="unfinished"/>
+        <translation>Видалити пароль</translation>
     </message>
     <message>
         <source>Copy URL</source>
-        <translation type="unfinished"/>
+        <translation>Копіювати посилання</translation>
     </message>
     <message>
         <source>Prolongate</source>
-        <translation type="unfinished"/>
+        <translation>Продовжити</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodManageClass</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Get Filelist</source>
-        <translation type="unfinished"/>
+        <translation>Отримати список</translation>
     </message>
     <message>
         <source>Upload File</source>
-        <translation type="unfinished"/>
+        <translation>Завантажити файл</translation>
     </message>
     <message>
         <source>Actions:</source>
-        <translation type="unfinished"/>
+        <translation>Дії:</translation>
     </message>
     <message>
         <source>Copy URL</source>
-        <translation type="unfinished"/>
+        <translation>Копіювати посилання</translation>
     </message>
     <message>
         <source>Prolongate</source>
-        <translation type="unfinished"/>
+        <translation>Продовжити</translation>
     </message>
     <message>
         <source>Delete File(s)</source>
-        <translation type="unfinished"/>
+        <translation>Видалити файл(и)</translation>
     </message>
     <message>
         <source>line1
 line2</source>
-        <translation type="unfinished"/>
+        <translation>лінія1
+лінія2</translation>
     </message>
     <message>
         <source>Files list:</source>
-        <translation type="unfinished"/>
+        <translation>Список файлів:</translation>
     </message>
     <message>
         <source>New Item</source>
-        <translation type="unfinished"/>
+        <translation>Новий елемент</translation>
     </message>
     <message>
         <source>Clear Cookies</source>
-        <translation type="unfinished"/>
+        <translation>Очистити кукі</translation>
     </message>
     <message>
         <source>Open Browser</source>
-        <translation type="unfinished"/>
+        <translation>Відкрити браузер</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Закрити</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodNetMan</name>
     <message>
         <source>Downloading filelist...</source>
-        <translation type="unfinished"/>
+        <translation>Завантаження списку файлів...</translation>
     </message>
     <message>
         <source>Deleting files...</source>
-        <translation type="unfinished"/>
+        <translation>Видалення файлів...</translation>
     </message>
     <message>
         <source>Prolongate files...</source>
-        <translation type="unfinished"/>
+        <translation>Продовження файлів...</translation>
     </message>
     <message>
         <source>Cookies are obsolete!
 Reathorization...</source>
-        <translation type="unfinished"/>
+        <translation>Куки застарілі!
+Реавторизація...</translation>
     </message>
     <message>
         <source>Can't get files!
 Try remove cookies.</source>
-        <translation type="unfinished"/>
+        <translation>Не вдається отримати файли! 
+Спробуйте видалити куки.</translation>
     </message>
     <message>
         <source>Filelist downloaded
 (%1 files)</source>
-        <translation type="unfinished"/>
+        <translation>Список файлів завантажено
+(%1 файлів)</translation>
     </message>
     <message>
         <source>File(s) deleted</source>
-        <translation type="unfinished"/>
+        <translation>Файл(и) видалено</translation>
     </message>
     <message>
         <source>File(s) prolongated</source>
-        <translation type="unfinished"/>
+        <translation>Файл(и) продовжено</translation>
     </message>
     <message>
         <source>Password is set</source>
-        <translation type="unfinished"/>
+        <translation>Пароль встановлено</translation>
     </message>
     <message>
         <source>Password is deleted</source>
-        <translation type="unfinished"/>
+        <translation>Пароль видалено</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodPlugin</name>
     <message>
         <source>Open Yandex Narod Manager</source>
-        <translation type="unfinished"/>
+        <translation>Відкрити Яндекс.Народ менеджер файлів</translation>
     </message>
     <message>
         <source>Send file via Yandex Narod</source>
-        <translation type="unfinished"/>
+        <translation>Відправити файл через Яндекс.Народ</translation>
     </message>
     <message>
         <source>File sent to %1</source>
-        <translation type="unfinished"/>
+        <translation>Посилання на файл відправлено %1</translation>
     </message>
     <message>
         <source>Yandex Narod Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Яндекс.Народ плагін</translation>
     </message>
     <message>
         <source>Ported from QutIM Yandex.Narod plugin
 http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
 
 </source>
-        <translation type="unfinished"/>
+        <translation>Портований з QutIM Яндекс.Народ плагіну
+http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
+
+</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodSettingsClass</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Налаштування</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Логін</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"/>
+        <translation>Пароль</translation>
     </message>
     <message>
         <source>status</source>
-        <translation type="unfinished"/>
+        <translation>статус</translation>
     </message>
     <message>
         <source>Test Authorization</source>
-        <translation type="unfinished"/>
+        <translation>Тест авторизації</translation>
     </message>
     <message>
         <source>Start Manager</source>
-        <translation type="unfinished"/>
+        <translation>Запустити менеджер файлів</translation>
     </message>
     <message>
         <source>Send file template</source>
-        <translation type="unfinished"/>
+        <translation>Шаблон повідомлення отримувачу</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -18109,19 +18181,23 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>%N - file name; %U - file URL; %S - file size</source>
-        <translation type="unfinished"/>
+        <translation>%N - им’я файла; %U - посилання на файл; %S - розмір файла</translation>
     </message>
     <message>
         <source>Clear Cookies</source>
-        <translation type="unfinished"/>
+        <translation>Очистити куки</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;Опис (в інтернеті)&lt;/a&gt;</translation>
     </message>
 </context>
 </TS>
