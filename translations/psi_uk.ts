@@ -797,7 +797,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Відміна</translation>
+        <translation>&amp;Скасувати</translation>
     </message>
     <message>
         <source>&amp;Next</source>
@@ -1018,7 +1018,7 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Відміна</translation>
+        <translation>Скасувати</translation>
     </message>
 </context>
 <context>
@@ -1595,7 +1595,7 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Відміна</translation>
+        <translation>&amp;Скасувати</translation>
     </message>
     <message>
         <source>Calling...</source>
@@ -4385,7 +4385,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Відміна</translation>
+        <translation>&amp;Скасувати</translation>
     </message>
     <message>
         <source>Requesting...</source>
@@ -4602,7 +4602,7 @@ Reason: %3</source>
     <name>FileTransView</name>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Відміна</translation>
+        <translation>&amp;Скасувати</translation>
     </message>
     <message>
         <source>&amp;Open Containing Folder</source>
@@ -5011,7 +5011,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Відміна</translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -5540,7 +5540,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Відміна</translation>
+        <translation>Скасувати</translation>
     </message>
 </context>
 <context>
@@ -5586,7 +5586,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Відміна</translation>
+        <translation>Скасувати</translation>
     </message>
 </context>
 <context>
@@ -5712,7 +5712,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GrepShortcutKeyDialog</name>
     <message>
         <source>Cancel</source>
-        <translation>Відміна</translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <source>Set Keys</source>
@@ -6704,7 +6704,7 @@ available</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Відміна</translation>
+        <translation>Скасувати</translation>
     </message>
 </context>
 <context>
@@ -7198,7 +7198,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Apply</source>
-        <translation>Прийняти</translation>
+        <translation>Застосувати</translation>
     </message>
     <message>
         <source>Close</source>
@@ -7427,7 +7427,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Відміна</translation>
+        <translation>Скасувати</translation>
     </message>
 </context>
 <context>
@@ -7649,7 +7649,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Відміна</translation>
+        <translation>Скасувати</translation>
     </message>
 </context>
 <context>
@@ -10055,7 +10055,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Please note: This editor will change the options directly. Pressing Cancel will not revert these changes.</source>
-        <translation>Будь ласка, зверніть увагу: цей редактор змінить налаштування безпосередньо. Натискання Відміна не поверне ці зміни. </translation>
+        <translation>Будь ласка, зверніть увагу: цей редактор змінить налаштування безпосередньо. Натискання Скасувати не поверне ці зміни. </translation>
     </message>
 </context>
 <context>
@@ -10362,7 +10362,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Відміна</translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
@@ -10387,7 +10387,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Відміна</translation>
+        <translation>&amp;Скасувати</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -10668,7 +10668,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Прийняти</translation>
+        <translation>Застосувати</translation>
     </message>
     <message>
         <source>Close</source>
@@ -10743,7 +10743,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Прийняти</translation>
+        <translation>Застосувати</translation>
     </message>
 </context>
 <context>
@@ -10817,7 +10817,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Відміна</translation>
+        <translation>Скасувати</translation>
     </message>
 </context>
 <context>
@@ -11446,7 +11446,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Unregister from %1</source>
-        <translation>Відміна реєстрації на %1</translation>
+        <translation>Скасувати реєстрацію на %1</translation>
     </message>
     <message>
         <source>Are you sure?</source>
@@ -14463,7 +14463,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Відміна</translation>
+        <translation>Скасувати</translation>
     </message>
 </context>
 <context>
@@ -14857,7 +14857,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Відміна</translation>
+        <translation>Скасувати</translation>
     </message>
 </context>
 <context>
@@ -14888,7 +14888,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Відміна</translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <source>Add template string</source>
@@ -15621,7 +15621,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Відміна</translation>
+        <translation>&amp;Скасувати</translation>
     </message>
     <message>
         <source>Sa&amp;ve as Preset</source>
@@ -17953,7 +17953,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Відміна</translation>
+        <translation>Скасувати</translation>
     </message>
 </context>
 <context>
