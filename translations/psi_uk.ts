@@ -217,7 +217,7 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <translation>Віталій Тонкачеєв&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;a href=&quot;&quot;mailto:thetvg@gmail.com&quot;&gt;thetvg@gmail.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Перекладач&lt;br&gt;
 &lt;br&gt;
-Приєднуйтесь до команди перекладу! Подробиці в конференції &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;Актуальна версія перекладу тут: &lt;a href=&quot;https://www.transifex.net/projects/p/psi-plus/r/all-resources/&quot;&gt;Transifex&lt;/a&gt; и здесь: &lt;a href=&quot;https://github.com/tehnick/psi-plus-i18n&quot;&gt;GitHub&lt;/a&gt;&lt;br&gt;Дата поточного перекладу: 24.05.2012</translation>
+Приєднуйтесь до команди перекладу! Подробиці в конференції &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;Актуальна версія перекладу тут: &lt;a href=&quot;https://www.transifex.net/projects/p/psi-plus/r/all-resources/&quot;&gt;Transifex&lt;/a&gt; та тут: &lt;a href=&quot;https://github.com/tehnick/psi-plus-i18n&quot;&gt;GitHub&lt;/a&gt;&lt;br&gt;Дата поточного перекладу: 24.05.2012</translation>
     </message>
     <message>
         <source>Founder, Patcher and MS Windows Packager</source>
