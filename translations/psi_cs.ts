@@ -16067,66 +16067,66 @@ Pozn.: Některé servery mohou vypínat registraci transportů pro uživatele z 
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"/>
+        <translation>Vyber barvu</translation>
     </message>
     <message>
         <source>Pen</source>
-        <translation type="unfinished"/>
+        <translation>Pero</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"/>
+        <translation>Vybrat</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"/>
+        <translation>Vyjmout</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>Kopírovat</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"/>
+        <translation>Vložit</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"/>
+        <translation>Rotovat</translation>
     </message>
     <message>
         <source>Insert Text</source>
-        <translation type="unfinished"/>
+        <translation>Vložit text</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"/>
+        <translation>Zpět</translation>
     </message>
 </context>
 <context>
     <name>TranslatePlugin</name>
     <message>
         <source>from</source>
-        <translation type="unfinished"/>
+        <translation>z</translation>
     </message>
     <message>
         <source>to</source>
-        <translation type="unfinished"/>
+        <translation>do</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Přidat</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Smazat</translation>
     </message>
     <message>
         <source>ShortCut:</source>
-        <translation type="unfinished"/>
+        <translation>Klávesová zkratka</translation>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="unfinished"/>
+        <translation>Změnit</translation>
     </message>
     <message>
         <source>Not translating &quot;Nickname:&quot;</source>
@@ -16266,7 +16266,7 @@ Pozn.: Některé servery mohou vypínat registraci transportů pro uživatele z 
     <name>VideoStatusChanger</name>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Autoři: </translation>
     </message>
     <message>
         <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
@@ -16293,7 +16293,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zavřít</translation>
     </message>
     <message>
         <source>Save Changes</source>
@@ -16313,7 +16313,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Určitě?</translation>
     </message>
     <message>
         <source>Save log</source>
@@ -16332,19 +16332,19 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>ViewMailDlg</name>
     <message>
         <source>E-Mail</source>
-        <translation type="unfinished"/>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation type="unfinished"/>
+        <translation>Od:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="unfinished"/>
+        <translation>Věc:</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished"/>
+        <translation>Účet: </translation>
     </message>
     <message>
         <source>Open mail in browser</source>
@@ -16356,11 +16356,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"/>
+        <translation>Předchozí</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"/>
+        <translation>Další</translation>
     </message>
     <message>
         <source>Close</source>
@@ -16383,23 +16383,23 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>Viewer</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Hledat</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zavřít</translation>
     </message>
     <message>
         <source>Save Changes</source>
-        <translation type="unfinished"/>
+        <translation>Uložit změny</translation>
     </message>
     <message>
         <source>Delete Log</source>
-        <translation type="unfinished"/>
+        <translation>Smazat log</translation>
     </message>
     <message>
         <source>Update Log</source>
-        <translation type="unfinished"/>
+        <translation>Aktualizovat log</translation>
     </message>
     <message>
         <source>Delete log file</source>
@@ -16407,11 +16407,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Určitě?</translation>
     </message>
     <message>
         <source>Save log</source>
-        <translation type="unfinished"/>
+        <translation>Uložit log</translation>
     </message>
     <message>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
@@ -16423,15 +16423,15 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"/>
+        <translation>Zaškrtnout</translation>
     </message>
     <message>
         <source>Uncheck</source>
-        <translation type="unfinished"/>
+        <translation>Odškrtnout</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Invertovat</translation>
     </message>
 </context>
 <context>
@@ -16500,7 +16500,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>Watcher</name>
     <message>
         <source>Empty item</source>
-        <translation type="unfinished"/>
+        <translation>Prázdná položka</translation>
     </message>
     <message>
         <source> change status to </source>
@@ -16508,11 +16508,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Vyber soubor se zvukem</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Zvuk (*.wav)</translation>
     </message>
     <message>
         <source>&lt;br&gt;Status Message: %1</source>
@@ -16520,19 +16520,19 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Watcher Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Sledovací zásuvný modul</translation>
     </message>
     <message>
         <source>Watch for JID</source>
-        <translation type="unfinished"/>
+        <translation>Sledovat JID</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>Email: </translation>
     </message>
     <message>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
@@ -16749,11 +16749,11 @@ Opravdu zavřít okno?</translation>
     <name>WebView</name>
     <message>
         <source>Quote</source>
-        <translation type="unfinished"/>
+        <translation>Citovat</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+S</translation>
     </message>
 </context>
 <context>
@@ -16868,7 +16868,7 @@ Opravdu zavřít okno?</translation>
     <name>XMPP::Stanza::Error::Private</name>
     <message>
         <source>Bad request</source>
-        <translation type="unfinished"/>
+        <translation>Špatný požadavek (Bad request)</translation>
     </message>
     <message>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
@@ -17112,7 +17112,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Error message:</source>
-        <translation type="unfinished"/>
+        <translation>Chybová zpráva:</translation>
     </message>
     <message>
         <source>If checked, the sound will always enabled (or disabled)</source>
@@ -17132,11 +17132,11 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Save window height and width</source>
-        <translation type="unfinished"/>
+        <translation>Uložit výšku a šířku okna</translation>
     </message>
     <message>
         <source>Save window position</source>
-        <translation type="unfinished"/>
+        <translation>Uložit pozici okna</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
@@ -17166,7 +17166,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation type="unfinished"/>
+        <translation>min.</translation>
     </message>
     <message>
         <source>Max messages to contact:</source>
@@ -17178,7 +17178,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Transports:</source>
-        <translation type="unfinished"/>
+        <translation>Přenosy:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -17217,11 +17217,11 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>&amp;Question:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Otázka:</translation>
     </message>
     <message>
         <source>A&amp;nswer:</source>
-        <translation type="unfinished"/>
+        <translation>O&amp;dpověď:</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -17241,7 +17241,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Your fingerprint:</source>
-        <translation type="unfinished"/>
+        <translation>Tvůj otisk prstu:</translation>
     </message>
     <message>
         <source>Fingerprint for %1:</source>
@@ -17249,15 +17249,15 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished"/>
+        <translation>Účet: </translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished"/>
+        <translation>Uživatel: </translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished"/>
+        <translation>Otisk prstu: </translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
@@ -17314,15 +17314,15 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>psiotr::ConfigDialog</name>
     <message>
         <source>Known fingerprints</source>
-        <translation type="unfinished"/>
+        <translation>Známé otisky prstů</translation>
     </message>
     <message>
         <source>My private keys</source>
-        <translation type="unfinished"/>
+        <translation>Moje soukromé klíče</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished"/>
+        <translation>Konfigurace</translation>
     </message>
 </context>
 <context>
@@ -17356,35 +17356,35 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>psiotr::FingerprintWidget</name>
     <message>
         <source>Delete fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Odstranit otisk prstu</translation>
     </message>
     <message>
         <source>Verify fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Ověřit otisk prstu</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"/>
+        <translation>Účet</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished"/>
+        <translation>Uživatel</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Otisk prstu</translation>
     </message>
     <message>
         <source>Verified</source>
-        <translation type="unfinished"/>
+        <translation>Ověřený</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Stav</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation type="unfinished"/>
+        <translation>Opravdu odebrat následující otisk prstu?</translation>
     </message>
     <message>
         <source>Account: </source>
@@ -17431,7 +17431,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Otisk prstu</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
@@ -17455,7 +17455,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Smazat</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -17621,19 +17621,19 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>requestAuthDialogClass</name>
     <message>
         <source>Authorization</source>
-        <translation type="unfinished"/>
+        <translation>Oprávnění</translation>
     </message>
     <message>
         <source>Login:</source>
-        <translation type="unfinished"/>
+        <translation>Uživatelské jméno:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Heslo:</translation>
     </message>
     <message>
         <source>Remember</source>
-        <translation type="unfinished"/>
+        <translation>Zapamatuj</translation>
     </message>
     <message>
         <source>Captcha:</source>
