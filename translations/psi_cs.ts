@@ -971,7 +971,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Ignore all global actions for this account. For example, autostatus, mood, activity etc.</source>
-        <translation>Ignorovat všechny globální akce pro tento účet. Např. automatický stav, nálady, aktivity apod.</translation>
+        <translation>Ignorovat všechny globální akce pro tento účet. Např. automatický stav, nálady, činnosti apod.</translation>
     </message>
 </context>
 <context>
@@ -1004,7 +1004,7 @@ ukládat historii pro tento kontakt.</translation>
     </message>
     <message>
         <source>Specific:</source>
-        <translation>Konkrétně</translation>
+        <translation>Konkrétně:</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -2341,7 +2341,7 @@ Můžete nastavit vše ručně, nebo si vybrat některou z předdefinovaných mo
     </message>
     <message>
         <source>View Log</source>
-        <translation>obrazit log</translation>
+        <translation>Zobrazit log</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2379,7 +2379,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Activity</source>
-        <translation>Aktivita</translation>
+        <translation>Činnost</translation>
     </message>
     <message>
         <source>GeoLocation</source>
@@ -2839,7 +2839,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Activity</source>
-        <translation>Aktivita</translation>
+        <translation>ČInnost</translation>
     </message>
     <message>
         <source>Set Avatar</source>
@@ -3751,11 +3751,11 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     </message>
     <message>
         <source>%1 Last Activity</source>
-        <translation>%1 Poslední aktivita</translation>
+        <translation>%1 Poslední činnost</translation>
     </message>
     <message>
         <source>%1 Last Activity was %2 ago</source>
-        <translation>%1 Poslední aktivita byla před %2</translation>
+        <translation>%1 Poslední činnost byla před %2</translation>
     </message>
     <message>
         <source>%1 went offline %2 ago</source>
@@ -3811,11 +3811,11 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     </message>
     <message>
         <source>Last Activity</source>
-        <translation>Poslední aktivita</translation>
+        <translation>Poslední činnost</translation>
     </message>
     <message>
         <source>Entity Time</source>
-        <translation type="unfinished"/>
+        <translation>Čas entity</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -4251,7 +4251,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Enable last activity server</source>
-        <translation>Povolit server poslední aktivity</translation>
+        <translation>Povolit server poslední činnosti</translation>
     </message>
     <message>
         <source>Enable sound notifications for every MUC message</source>
@@ -6110,7 +6110,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Activity iconsets</source>
-        <translation type="unfinished"/>
+        <translation>Sady ikon činností</translation>
     </message>
     <message>
         <source>&amp;Show Details</source>
@@ -6125,7 +6125,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Affiliation iconsets</source>
-        <translation type="unfinished"/>
+        <translation>Sady ikon umístění</translation>
     </message>
     <message>
         <source>&amp;Show Details</source>
@@ -6140,7 +6140,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Client iconsets</source>
-        <translation type="unfinished"/>
+        <translation>Sady ikon klientů</translation>
     </message>
     <message>
         <source>&amp;Show Details</source>
@@ -6376,7 +6376,7 @@ The plugin has a number of simple settings that can help you:
     </message>
     <message>
         <source>The image size is too large.</source>
-        <translation>Obrázek je příliš velký</translation>
+        <translation>Obrázek je příliš velký.</translation>
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
@@ -6386,27 +6386,27 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Open file</source>
-        <translation type="unfinished"/>
+        <translation>Otevřít soubor</translation>
     </message>
     <message>
         <source>From clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Ze schránky</translation>
     </message>
     <message>
         <source>Image size must be less than 60 kb</source>
-        <translation type="unfinished"/>
+        <translation>Velikost obrázku musí být menší než 60 KB</translation>
     </message>
     <message>
         <source>Image %1 bytes received.</source>
-        <translation type="unfinished"/>
+        <translation>Přijato %1 bytů obrázku.</translation>
     </message>
     <message>
         <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
-        <translation type="unfinished"/>
+        <translation>Obrázek %1 odeslán &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt;</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Autoři: </translation>
     </message>
 </context>
 <context>
@@ -6651,7 +6651,7 @@ k dispozici</translation>
     </message>
     <message>
         <source>Select resource:</source>
-        <translation type="unfinished"/>
+        <translation>Vyber zdroj:</translation>
     </message>
     <message>
         <source>Play Black</source>
@@ -6682,7 +6682,7 @@ k dispozici</translation>
     </message>
     <message>
         <source>Gomoku Game Plugin - Invitation</source>
-        <translation type="unfinished"/>
+        <translation>Gomoku herní zásuvný modul -- Pozvání</translation>
     </message>
     <message>
         <source>white</source>
@@ -6713,7 +6713,7 @@ hře gomoku. Chce hrát za %2.</translation>
     </message>
     <message>
         <source>Select resource:</source>
-        <translation type="unfinished"/>
+        <translation>Vyber zdroj:</translation>
     </message>
     <message>
         <source>Play White</source>
@@ -6732,7 +6732,7 @@ hře gomoku. Chce hrát za %2.</translation>
     </message>
     <message>
         <source>Clear log</source>
-        <translation type="unfinished"/>
+        <translation>Vyčistit log</translation>
     </message>
     <message>
         <source>Send</source>
@@ -6740,7 +6740,7 @@ hře gomoku. Chce hrát za %2.</translation>
     </message>
     <message>
         <source>Jabber Disk - %1</source>
-        <translation type="unfinished"/>
+        <translation>Jabber Disk - %1</translation>
     </message>
     <message>
         <source>&lt;b&gt;You:&lt;/b&gt; </source>
@@ -6792,11 +6792,11 @@ hře gomoku. Chce hrát za %2.</translation>
     </message>
     <message>
         <source>Move to...</source>
-        <translation type="unfinished"/>
+        <translation>Přesunout do...</translation>
     </message>
     <message>
         <source>Remove Item</source>
-        <translation type="unfinished"/>
+        <translation>Odstranit položku</translation>
     </message>
     <message>
         <source>Are you sure?</source>
@@ -6804,22 +6804,22 @@ hře gomoku. Chce hrát za %2.</translation>
     </message>
     <message>
         <source>Input Dir Name</source>
-        <translation type="unfinished"/>
+        <translation>Vlož jméno adresáře</translation>
     </message>
     <message>
         <source>Input Full JID</source>
-        <translation type="unfinished"/>
+        <translation>Vlož plné JID</translation>
     </message>
     <message>
         <source>Input New Name</source>
-        <translation type="unfinished"/>
+        <translation>Vlož nové jméno</translation>
     </message>
 </context>
 <context>
     <name>JabberDiskPlugin</name>
     <message>
         <source>Jabber Disk</source>
-        <translation type="unfinished"/>
+        <translation>Jabber Disk</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -6834,7 +6834,7 @@ hře gomoku. Chce hrát za %2.</translation>
     <name>JuickJidDialog</name>
     <message>
         <source>Set JIDs of Juick Bot</source>
-        <translation type="unfinished"/>
+        <translation>Nastav JIDy Juick bota</translation>
     </message>
     <message>
         <source>Add</source>
@@ -6853,7 +6853,7 @@ hře gomoku. Chce hrát za %2.</translation>
     <name>JuickJidList</name>
     <message>
         <source>Input JID</source>
-        <translation type="unfinished"/>
+        <translation>Vlož JID</translation>
     </message>
 </context>
 <context>
@@ -7013,7 +7013,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Autoři: </translation>
     </message>
 </context>
 <context>
@@ -7489,7 +7489,7 @@ Příchozí událost(i) od:</translation>
     <name>MainWin::Private</name>
     <message>
         <source>Diagnostics</source>
-        <translation type="unfinished"/>
+        <translation>Diagnostika</translation>
     </message>
 </context>
 <context>
@@ -7569,11 +7569,11 @@ Detaily: %1</translation>
     </message>
     <message>
         <source>Watch for JIDs</source>
-        <translation type="unfinished"/>
+        <translation>Sledovat JIDy</translation>
     </message>
     <message>
         <source>Sounds (if empty default sound will be used)</source>
-        <translation type="unfinished"/>
+        <translation>Zvuky (nechej prázdné pro výchozí zvuky)</translation>
     </message>
 </context>
 <context>
@@ -7617,7 +7617,7 @@ Detaily: %1</translation>
     <name>NoteModel</name>
     <message>
         <source>Title: %1</source>
-        <translation type="unfinished"/>
+        <translation>Nadpis: %1</translation>
     </message>
     <message>
         <source>
@@ -8423,11 +8423,11 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
-        <translation>Zobrazit aktivity v rosteru</translation>
+        <translation>Zobrazit činnosti v rosteru</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation>Aktivity</translation>
+        <translation>Činnosti</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
@@ -8828,7 +8828,7 @@ Názvy voleb nemůžou být prázdné, končit &apos;.&apos; nebo obsahovat &apo
     </message>
     <message>
         <source>Allow receiving one Attention from the same contact every</source>
-        <translation type="unfinished"/>
+        <translation>Povolit příjem jednoho Upozornění od stejného kontaktu každou</translation>
     </message>
     <message>
         <source>sec</source>
@@ -8836,11 +8836,11 @@ Názvy voleb nemůžou být prázdné, končit &apos;.&apos; nebo obsahovat &apo
     </message>
     <message>
         <source>Don&apos;t hide popup if status is Away or XA</source>
-        <translation type="unfinished"/>
+        <translation>Neskrývat vyskakovací ikna když je stav Pryč nebo XA</translation>
     </message>
     <message>
         <source>Disable notifications if status is DND</source>
-        <translation type="unfinished"/>
+        <translation>Zakázat notifikace, když je stav DND</translation>
     </message>
     <message>
         <source>Play sound:</source>
@@ -8853,7 +8853,8 @@ Názvy voleb nemůžou být prázdné, končit &apos;.&apos; nebo obsahovat &apo
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts
 is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation type="unfinished"/>
+        <translation>Pokud používáš tento zásuvný modul poprvé, ujisti se, že jsou všechny tvoje
+účty online a potom stiskni tlačítko &quot;Aktualizovat narozeniny&quot;. Chvíli to potrvá.</translation>
     </message>
     <message>
         <source>Update Birthdays</source>
@@ -8893,7 +8894,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Remind for contacts from active accounts only</source>
-        <translation type="unfinished"/>
+        <translation>Upozorňovat na kontakty pouze z aktivních účtů</translation>
     </message>
     <message>
         <source>Check birthdays on startup</source>
@@ -8913,7 +8914,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Use proxy settings from account</source>
-        <translation type="unfinished"/>
+        <translation>Použít nastavení proxy z účtu</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -8921,11 +8922,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Contact menu</source>
-        <translation type="unfinished"/>
+        <translation>Menu kontaktů</translation>
     </message>
     <message>
         <source>Toolbar action</source>
-        <translation type="unfinished"/>
+        <translation>Akce nástrojové lišty</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -8937,7 +8938,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>There is no supported accounts!</source>
-        <translation type="unfinished"/>
+        <translation>Žádný podporovaný účet!</translation>
     </message>
     <message>
         <source>Account Settings</source>
@@ -8946,11 +8947,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source> If set to &quot;true&quot;, the server will send
  notifications of unread email.</source>
-        <translation type="unfinished"/>
+        <translation> Při nastavení, server pošle oznámení
+ o nepřečtených e-mailech.</translation>
     </message>
     <message>
         <source>Mail notifications</source>
-        <translation type="unfinished"/>
+        <translation>Oznámení e-mailů</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will save
@@ -8971,7 +8973,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Auto-accept suggestions</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky přijímat návrhy</translation>
     </message>
     <message>
         <source> Enable multiple applications signed in
@@ -8981,7 +8983,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable Shared Statuses</source>
-        <translation type="unfinished"/>
+        <translation>Povolit sdílené stavy</translation>
     </message>
     <message>
         <source> Google Talk server disables server-side
@@ -8992,15 +8994,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable Off the Record Chats</source>
-        <translation type="unfinished"/>
+        <translation>Povolit nezaznamenávané chaty</translation>
     </message>
     <message>
         <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation type="unfinished"/>
+        <translation> Povol &quot;Oznámení e-mailů&quot;!</translation>
     </message>
     <message>
         <source>Mail Notifications Settings</source>
-        <translation type="unfinished"/>
+        <translation>Nastavení oznámení e-mailů</translation>
     </message>
     <message>
         <source>Show all unread messages</source>
@@ -9012,7 +9014,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Start program:</source>
-        <translation type="unfinished"/>
+        <translation>Spustit program:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9032,7 +9034,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Per contact delay between the popup notifications of the same events</source>
-        <translation type="unfinished"/>
+        <translation>Prodleva mezi vyskakovacími okny jednoho typu na jednotlivý konktakt</translation>
     </message>
     <message>
         <source>Delay between popups</source>
@@ -9044,7 +9046,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Disable popups if status is DND</source>
-        <translation type="unfinished"/>
+        <translation>Zakázat vyskakovací okna, když je stav DND</translation>
     </message>
     <message>
         <source>Enable notifications for:</source>
@@ -9052,7 +9054,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Tune</source>
-        <translation type="unfinished"/>
+        <translation>Naladit</translation>
     </message>
     <message>
         <source>Mood</source>
@@ -9060,7 +9062,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Activity</source>
-        <translation>Aktivita</translation>
+        <translation>Činnost</translation>
     </message>
     <message>
         <source>Geolocation</source>
@@ -9072,7 +9074,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Main</source>
@@ -9100,7 +9102,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable Stop Spam for affiliations:</source>
-        <translation type="unfinished"/>
+        <translation>Povolit Stop Spam pro přiřazení:</translation>
     </message>
     <message>
         <source>Owner</source>
@@ -9120,7 +9122,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable Stop Spam for roles:</source>
-        <translation type="unfinished"/>
+        <translation>Povolit Stop Spam pro role:</translation>
     </message>
     <message>
         <source>Moderator</source>
@@ -9136,11 +9138,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Block all private messages</source>
-        <translation type="unfinished"/>
+        <translation>Blokovat všechny soukromé zprávy</translation>
     </message>
     <message>
         <source>Send message:</source>
-        <translation type="unfinished"/>
+        <translation>Poslat zprávu:</translation>
     </message>
     <message>
         <source>Misc</source>
@@ -9156,11 +9158,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Vynulovat</translation>
     </message>
     <message>
         <source>Send maximum</source>
-        <translation type="unfinished"/>
+        <translation>Poslat maximum</translation>
     </message>
     <message>
         <source>times</source>
@@ -9172,15 +9174,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>min.</source>
-        <translation type="unfinished"/>
+        <translation>min.</translation>
     </message>
     <message>
         <source>Log blocked messages to contact&apos;s history</source>
-        <translation type="unfinished"/>
+        <translation>Logovat blokované zprávy do historie kontaktů</translation>
     </message>
     <message>
         <source>Del</source>
-        <translation type="unfinished"/>
+        <translation>Del</translation>
     </message>
     <message>
         <source>Disable stopspam, if don't match any rule above
@@ -9193,74 +9195,74 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Stav</translation>
     </message>
     <message>
         <source>Delete selected</source>
-        <translation type="unfinished"/>
+        <translation>Smazat vybrané</translation>
     </message>
     <message>
         <source>Add row</source>
-        <translation type="unfinished"/>
+        <translation>Přidat řádek</translation>
     </message>
     <message>
         <source>Default sound: </source>
-        <translation type="unfinished"/>
+        <translation>Výchozí zvuk: </translation>
     </message>
     <message>
         <source>Messages</source>
-        <translation type="unfinished"/>
+        <translation>Zprávy</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Upravit</translation>
     </message>
     <message>
         <source>Disable sound if chat window is active</source>
-        <translation type="unfinished"/>
+        <translation>Zakázat zvuk když je okno chatu aktivní</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Authorizing...</source>
-        <translation type="unfinished"/>
+        <translation>Ověřování...</translation>
     </message>
     <message>
         <source>Authorizing OK</source>
-        <translation type="unfinished"/>
+        <translation>Ověřování OK</translation>
     </message>
     <message>
         <source>Authorization failed</source>
-        <translation type="unfinished"/>
+        <translation>Ověřování selhalo</translation>
     </message>
     <message>
         <source>Canceled</source>
-        <translation type="unfinished"/>
+        <translation>Zrušeno</translation>
     </message>
     <message>
         <source>Choose file</source>
-        <translation type="unfinished"/>
+        <translation>Vyber soubor</translation>
     </message>
     <message>
         <source>Uploading</source>
-        <translation type="unfinished"/>
+        <translation>Nahrávám</translation>
     </message>
     <message>
         <source>Error! %1</source>
-        <translation type="unfinished"/>
+        <translation>Chyba! %1</translation>
     </message>
     <message>
         <source>Cookies are removed</source>
-        <translation type="unfinished"/>
+        <translation>Cookies jsou odebrány</translation>
     </message>
 </context>
 <context>
     <name>OptionsDlg</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Nastavení</translation>
     </message>
 </context>
 <context>
@@ -9640,11 +9642,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabIconsetActivity</name>
     <message>
         <source>Activity</source>
-        <translation>Aktivity</translation>
+        <translation>Činnost</translation>
     </message>
     <message>
         <source>Select your activity iconset</source>
-        <translation>Vyber sadu ikon pro aktivity</translation>
+        <translation>Vyber sadu ikon pro činnosti</translation>
     </message>
 </context>
 <context>
@@ -9987,7 +9989,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Please note: This editor will change the options directly. Pressing Cancel will not revert these changes.</source>
-        <translation>Poznámka: Tento editor mění volby přímo. Tlačítko Odvolat provedené změny nevrátí.</translation>
+        <translation>Poznámka: Tento editor mění volby přímo. Tlačítko Zrušit provedené změny nevrátí.</translation>
     </message>
 </context>
 <context>
@@ -10345,7 +10347,7 @@ Prosím vlož svou heslovací frázi:</translation>
     </message>
     <message>
         <source>Activity changed to &quot;%1</source>
-        <translation>Aktivita změněna na &quot;%1</translation>
+        <translation>Činnost změněna na &quot;%1</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -11663,11 +11665,11 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Set Activity</source>
-        <translation>Nastavit aktivitu</translation>
+        <translation>Nastavit činnost</translation>
     </message>
     <message>
         <source>Set Activity for all active accounts</source>
-        <translation>Nastavit aktivitu pro všechny aktivní účty</translation>
+        <translation>Nastavit činnost pro všechny aktivní účty</translation>
     </message>
     <message>
         <source>Set Geolocation</source>
@@ -14141,7 +14143,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Activity</source>
-        <translation>Aktivita</translation>
+        <translation>Činnost</translation>
     </message>
     <message>
         <source>Listening to</source>
@@ -14419,7 +14421,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Set Activity for all active accounts</source>
-        <translation>Nastavit aktivitu pro všechny aktivní účty</translation>
+        <translation>Nastavit činnost pro všechny aktivní účty</translation>
     </message>
     <message>
         <source>Set Status for all active accounts</source>
@@ -15569,19 +15571,19 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source>Stop Spam Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Zastavit zasuvný modul Spam</translation>
     </message>
     <message>
         <source> pass the test</source>
-        <translation type="unfinished"/>
+        <translation>prošel testem</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to block spam messages and other unwanted information from Psi+ users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
@@ -15610,19 +15612,19 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     <name>StorageNotesPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Storage Notes</source>
-        <translation type="unfinished"/>
+        <translation>Poznámky úložiště</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
@@ -15635,7 +15637,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <name>TabDlg</name>
     <message>
         <source>Hide Tab</source>
-        <translation type="unfinished"/>
+        <translation>Skrýt záložku</translation>
     </message>
     <message>
         <source>Detach Tab</source>
@@ -15651,11 +15653,11 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>Hide Current Tab</source>
-        <translation type="unfinished"/>
+        <translation>Skrýt aktuální záložku</translation>
     </message>
     <message>
         <source>Hide All Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Skrýt všechny záložky</translation>
     </message>
     <message>
         <source>Detach Current Tab</source>
@@ -15726,7 +15728,7 @@ Copyright (C) 2003 Justin Karneges</source>
     </message>
     <message>
         <source>You must at least enter a URL to use http poll.</source>
-        <translation type="unfinished"/>
+        <translation>Musíš vyplnit alespoň URL, abys mohl použít http poll.</translation>
     </message>
     <message>
         <source>Please enter the proxy host in the form &apos;host:port&apos;.</source>
@@ -15738,7 +15740,7 @@ Copyright (C) 2003 Justin Karneges</source>
     </message>
     <message>
         <source>Error: SSF Min is greater than SSF Max.</source>
-        <translation type="unfinished"/>
+        <translation>Chyba: SSF Min je větší než SSF Max.</translation>
     </message>
     <message>
         <source>Error: TLS not available.  Disable any TLS options.</source>
@@ -15778,7 +15780,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Core</source>
-        <translation type="unfinished"/>
+        <translation>Jádro</translation>
     </message>
     <message>
         <source>Server</source>
@@ -15834,11 +15836,11 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>User/Pass:</source>
-        <translation type="unfinished"/>
+        <translation>Uživatel/heslo:</translation>
     </message>
     <message>
         <source>/</source>
-        <translation type="unfinished"/>
+        <translation>/</translation>
     </message>
     <message>
         <source>Polling URL:</source>
@@ -15858,7 +15860,7 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>SASL SSF min/max:</source>
-        <translation type="unfinished"/>
+        <translation>SASL SSF min/max:</translation>
     </message>
     <message>
         <source>&amp;Connect</source>
@@ -15874,27 +15876,27 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Quick XML &gt;&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Rychlé XML &gt;&gt;</translation>
     </message>
     <message>
         <source>To:</source>
-        <translation type="unfinished"/>
+        <translation>Komu:</translation>
     </message>
     <message>
         <source>&amp;IM Session</source>
-        <translation type="unfinished"/>
+        <translation>Sezení &amp;IM</translation>
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Zpráva</translation>
     </message>
     <message>
         <source>IQ &amp;Version</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Verze IQ</translation>
     </message>
     <message>
         <source>IM</source>
-        <translation type="unfinished"/>
+        <translation>IM</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -16073,11 +16075,11 @@ Pozn.: Některé servery mohou vypínat registraci transportů pro uživatele z 
     <name>ToolBar</name>
     <message>
         <source>Line Width:</source>
-        <translation type="unfinished"/>
+        <translation>Šířka čáry:</translation>
     </message>
     <message>
         <source>Line width</source>
-        <translation type="unfinished"/>
+        <translation>Šířka čáry</translation>
     </message>
     <message>
         <source>Select Color</source>
@@ -16136,7 +16138,7 @@ Pozn.: Některé servery mohou vypínat registraci transportů pro uživatele z 
     </message>
     <message>
         <source>ShortCut:</source>
-        <translation>Klávesová zkratka</translation>
+        <translation>Klávesová zkratka:</translation>
     </message>
     <message>
         <source>Modify</source>
@@ -16144,15 +16146,15 @@ Pozn.: Některé servery mohou vypínat registraci transportů pro uživatele z 
     </message>
     <message>
         <source>Not translating &quot;Nickname:&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Nepřekládám &quot;Přezdívka:&quot;</translation>
     </message>
     <message>
         <source>Restore Defaults Settings</source>
-        <translation type="unfinished"/>
+        <translation>Obnovit tovární nastavení</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>This plugin allows you to convert selected text into another language.
@@ -16171,39 +16173,39 @@ Pozn.: Některé servery mohou vypínat registraci transportů pro uživatele z 
     <name>TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished"/>
+        <translation>Hledat: </translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Uvažovat velikost písmen</translation>
     </message>
     <message>
         <source>First page</source>
-        <translation type="unfinished"/>
+        <translation>První strana</translation>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="unfinished"/>
+        <translation>Předchozí strana</translation>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="unfinished"/>
+        <translation>Další strana</translation>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="unfinished"/>
+        <translation>Poslední strana</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Hledat</translation>
     </message>
     <message>
         <source>Find next</source>
-        <translation type="unfinished"/>
+        <translation>Najít další</translation>
     </message>
     <message>
         <source>Find previous</source>
-        <translation type="unfinished"/>
+        <translation>Najít předchozí</translation>
     </message>
 </context>
 <context>
@@ -16230,7 +16232,7 @@ Pozn.: Některé servery mohou vypínat registraci transportů pro uživatele z 
     </message>
     <message>
         <source>Chat with</source>
-        <translation type="unfinished"/>
+        <translation>Chat s</translation>
     </message>
     <message>
         <source>Join groupchat</source>
@@ -16242,7 +16244,7 @@ Pozn.: Některé servery mohou vypínat registraci transportů pro uživatele z 
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished"/>
+        <translation>Info o uživatelovi</translation>
     </message>
 </context>
 <context>
@@ -16261,11 +16263,11 @@ Pozn.: Některé servery mohou vypínat registraci transportů pro uživatele z 
     </message>
     <message>
         <source>Error opening file!</source>
-        <translation type="unfinished"/>
+        <translation>Chyba při otevírání souboru!</translation>
     </message>
     <message>
         <source>Verifying...</source>
-        <translation type="unfinished"/>
+        <translation>Ověřování...</translation>
     </message>
     <message>
         <source>Uploaded successfully</source>
@@ -16273,7 +16275,7 @@ Pozn.: Některé servery mohou vypínat registraci transportů pro uživatele z 
     </message>
     <message>
         <source>Verifying failed</source>
-        <translation type="unfinished"/>
+        <translation>Ověřování selhalo</translation>
     </message>
 </context>
 <context>
@@ -16303,7 +16305,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>ViewLog</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Hledat</translation>
     </message>
     <message>
         <source>Close</source>
@@ -16311,19 +16313,19 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Save Changes</source>
-        <translation type="unfinished"/>
+        <translation>Uložit změny</translation>
     </message>
     <message>
         <source>Delete Log</source>
-        <translation type="unfinished"/>
+        <translation>Smazat log</translation>
     </message>
     <message>
         <source>Update Log</source>
-        <translation type="unfinished"/>
+        <translation>Aktualizovat log</translation>
     </message>
     <message>
         <source>Delete log file</source>
-        <translation type="unfinished"/>
+        <translation>Smazat soubor s logem</translation>
     </message>
     <message>
         <source>Are you sure?</source>
@@ -16331,7 +16333,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Save log</source>
-        <translation type="unfinished"/>
+        <translation>Uložit log</translation>
     </message>
     <message>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
@@ -16339,7 +16341,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
-        <translation type="unfinished"/>
+        <translation>Chcete uložit svoje změny?</translation>
     </message>
 </context>
 <context>
@@ -16362,11 +16364,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Open mail in browser</source>
-        <translation type="unfinished"/>
+        <translation>Otevřít mail v prohlížeči</translation>
     </message>
     <message>
         <source>Open MailBox</source>
-        <translation type="unfinished"/>
+        <translation>Otevřít poštovní schránku</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -16378,19 +16380,19 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zavřít</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Zavřít</translation>
     </message>
     <message>
         <source>[%1/%2] E-Mail</source>
-        <translation type="unfinished"/>
+        <translation>[%1/%2] E-mail</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation type="unfinished"/>
+        <translation>Otevřít v prohlížeči</translation>
     </message>
 </context>
 <context>
@@ -16417,7 +16419,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Delete log file</source>
-        <translation type="unfinished"/>
+        <translation>Smazat soubor s logem</translation>
     </message>
     <message>
         <source>Are you sure?</source>
@@ -16433,7 +16435,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
-        <translation type="unfinished"/>
+        <translation>Chceš uložit svoje změny?</translation>
     </message>
     <message>
         <source>Check</source>
@@ -17662,7 +17664,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Edit JIDs</source>
-        <translation type="unfinished"/>
+        <translation>Upravit JIDy</translation>
     </message>
     <message>
         <source>bold</source>
@@ -17670,15 +17672,15 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>italic</source>
-        <translation type="unfinished"/>
+        <translation>kurzíva</translation>
     </message>
     <message>
         <source>underline</source>
-        <translation type="unfinished"/>
+        <translation>podtržení</translation>
     </message>
     <message>
         <source>color</source>
-        <translation type="unfinished"/>
+        <translation>barva</translation>
     </message>
     <message>
         <source>@username</source>
@@ -17702,15 +17704,15 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Use message Id as resource</source>
-        <translation type="unfinished"/>
+        <translation>Použít id zprávy jako zdroj</translation>
     </message>
     <message>
         <source>Show Photo</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit foto</translation>
     </message>
     <message>
         <source>Show Avatars</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit avatary</translation>
     </message>
     <message>
         <source>Replaces message id with a link
@@ -17719,22 +17721,22 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Clear avatar cache</source>
-        <translation type="unfinished"/>
+        <translation>Vyčistit vyrovnávací paměť avatarů</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>uploadDialog</name>
     <message>
         <source>File: </source>
-        <translation type="unfinished"/>
+        <translation>Soubor: </translation>
     </message>
     <message>
         <source>Progress: </source>
-        <translation type="unfinished"/>
+        <translation>Průběh: </translation>
     </message>
     <message>
         <source>Elapsed time: </source>
@@ -17742,15 +17744,15 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Speed: </source>
-        <translation type="unfinished"/>
+        <translation>Rychlost: </translation>
     </message>
     <message>
         <source> kb/sec</source>
-        <translation type="unfinished"/>
+        <translation> kb/sek</translation>
     </message>
     <message>
         <source>Upload completed. Waiting for verification.</source>
-        <translation type="unfinished"/>
+        <translation>Nahrávání hotovo. Čekám na ověření.</translation>
     </message>
     <message>
         <source>Done</source>
@@ -17762,26 +17764,26 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Odkaz: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>uploadDialogClass</name>
     <message>
         <source>Uploading...</source>
-        <translation type="unfinished"/>
+        <translation>Nahrávám...</translation>
     </message>
     <message>
         <source>Upload started.</source>
-        <translation type="unfinished"/>
+        <translation>Nahrávaní začalo.</translation>
     </message>
     <message>
         <source>File: </source>
-        <translation type="unfinished"/>
+        <translation>Soubor: </translation>
     </message>
     <message>
         <source>Progress:</source>
-        <translation type="unfinished"/>
+        <translation>Průběh:</translation>
     </message>
     <message>
         <source>Elapsed time:</source>
@@ -17793,34 +17795,34 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Link: </source>
-        <translation type="unfinished"/>
+        <translation>Odkaz: </translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Zrušit</translation>
     </message>
 </context>
 <context>
     <name>vCardView</name>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished"/>
+        <translation>Celé jméno:</translation>
     </message>
     <message>
         <source>Nick:</source>
-        <translation type="unfinished"/>
+        <translation>Přezdívka:</translation>
     </message>
     <message>
         <source>Birthday:</source>
-        <translation type="unfinished"/>
+        <translation>Narozeniny:</translation>
     </message>
     <message>
         <source>E-Mail:</source>
-        <translation type="unfinished"/>
+        <translation>E-mail:</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zavřít</translation>
     </message>
 </context>
 <context>
@@ -17851,18 +17853,18 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Prolongate</source>
-        <translation type="unfinished"/>
+        <translation>Prodloužit</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodManageClass</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Formulář</translation>
     </message>
     <message>
         <source>Get Filelist</source>
-        <translation type="unfinished"/>
+        <translation>Získat seznam souborů</translation>
     </message>
     <message>
         <source>Upload File</source>
@@ -17878,7 +17880,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Prolongate</source>
-        <translation type="unfinished"/>
+        <translation>Prodloužit</translation>
     </message>
     <message>
         <source>Delete File(s)</source>
@@ -17891,7 +17893,7 @@ line2</source>
     </message>
     <message>
         <source>Files list:</source>
-        <translation type="unfinished"/>
+        <translation>Seznam souborů:</translation>
     </message>
     <message>
         <source>New Item</source>
@@ -17907,7 +17909,7 @@ line2</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zavřít</translation>
     </message>
 </context>
 <context>
