@@ -2419,7 +2419,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Privacy Lists</source>
-        <translation type="unfinished"/>
+        <translation>Seznamy soukromí</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
@@ -2658,11 +2658,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Auth request</source>
-        <translation>Autorizační request</translation>
+        <translation>Ověřovací požadavek</translation>
     </message>
     <message>
         <source>Auth grant</source>
-        <translation type="unfinished"/>
+        <translation>Ověření uděleno</translation>
     </message>
     <message>
         <source>Change domain</source>
@@ -2710,7 +2710,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Please fill parameter field with new domain name</source>
-        <translation type="unfinished"/>
+        <translation>Vyplň, prosím, pole parametru novým jménem domény</translation>
     </message>
     <message>
         <source>Roster file</source>
@@ -2773,7 +2773,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Subscription</source>
-        <translation type="unfinished"/>
+        <translation>Přihlášení</translation>
     </message>
 </context>
 <context>
@@ -3440,7 +3440,8 @@ Provést?</translation>
     <message>
         <source>**List of words can be used.
   Each word can use regular expression</source>
-        <translation type="unfinished"/>
+        <translation>**Seznam použitelných slov
+  Každé slovo může obsahovat regulární výraz</translation>
     </message>
     <message>
         <source>Use for</source>
@@ -3452,7 +3453,7 @@ Provést?</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation type="unfinished"/>
+        <translation>Skupinové chaty</translation>
     </message>
     <message>
         <source>Always play sound</source>
@@ -3518,7 +3519,7 @@ Provést?</translation>
     </message>
     <message>
         <source>RegExp**:</source>
-        <translation type="unfinished"/>
+        <translation>Regulární výraz**:</translation>
     </message>
     <message>
         <source>*for FTP servers only</source>
@@ -3779,7 +3780,7 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     </message>
     <message>
         <source>You are not authorized to retrieve Last Activity information</source>
-        <translation type="unfinished"/>
+        <translation>Nemáš oprávnění na ziskání informace o poslední činnosti</translation>
     </message>
     <message>
         <source>%1 Time</source>
@@ -3878,7 +3879,7 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     </message>
     <message>
         <source>Scaled message icons</source>
-        <translation type="unfinished"/>
+        <translation>Upravit velikost ikon zpráv</translation>
     </message>
     <message>
         <source>Show Avatar</source>
@@ -3946,7 +3947,7 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     </message>
     <message>
         <source>Show roles and affiliations changes</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit změny rolí a přiřazení</translation>
     </message>
     <message>
         <source>Enable autojoin for bookmarked conferences</source>
@@ -3954,7 +3955,7 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     </message>
     <message>
         <source>Hide auto-join conferences</source>
-        <translation type="unfinished"/>
+        <translation>Skrýt auto-připojovací konference</translation>
     </message>
     <message>
         <source>Enable HTML rendering in MUC chat window</source>
@@ -3975,16 +3976,18 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     <message>
         <source>Automatically open the configuration dialog when a new room is created.
 This option only has effect if accept-defaults is false.</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky otevřít konfigurační dialog při vytvoření nové místnosti.
+Toto nastavení má účinek pouze je-li akceptovat-výchozí vypnuto.</translation>
     </message>
     <message>
         <source>Disable autojoin to folowing conferences:
 (specify JIDs)</source>
-        <translation type="unfinished"/>
+        <translation>Zakázat automatické připojení do následujících konferencí:
+(udej JIDy)</translation>
     </message>
     <message>
         <source>MUC leave status message:</source>
-        <translation type="unfinished"/>
+        <translation>Zpráva při opuštění chatu více osob</translation>
     </message>
     <message>
         <source>Place MUC roster at left</source>
@@ -4084,35 +4087,35 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show &quot;Admin&quot; option in account menu</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit možnost &quot;Admin&quot; v nabídce účtu</translation>
     </message>
     <message>
         <source>Show &quot;Active Chats&quot; option in contact menu</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit možnost &quot;Aktivní chaty&quot; v nabídce kontaktů</translation>
     </message>
     <message>
         <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit možnost &quot;Přiřadit OpenGPG klíč&quot; v nabídce kontaktů</translation>
     </message>
     <message>
         <source>Show &quot;Picture&quot; option in contact menu</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit možnost &quot;Obrázek&quot; v nabídce kontaktů</translation>
     </message>
     <message>
         <source>Show &quot;Change Profile&quot; option in main menu</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit možnost &quot;Změnit profil&quot; v hlavní nabídce</translation>
     </message>
     <message>
         <source>Show &quot;Chat&quot; option in status menu</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit možnost &quot;Chat&quot; v nabídce stavu</translation>
     </message>
     <message>
         <source>Show &quot;Invisible&quot; option in status menu</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit možnost &quot;Neviditelný&quot; v nabídce stavu</translation>
     </message>
     <message>
         <source>Show &quot;XA&quot; option in status menu</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit možnost &quot;XA&quot; v nabídce stavu</translation>
     </message>
     <message>
         <source>Enable single messages</source>
@@ -4148,27 +4151,27 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>MUC roster coloring:</source>
-        <translation type="unfinished"/>
+        <translation>Barvy kontaktů chatu více lidí:</translation>
     </message>
     <message>
         <source>ToolTip text color:</source>
-        <translation type="unfinished"/>
+        <translation>Barva textu bublinkové nápovědy:</translation>
     </message>
     <message>
         <source>ToolTip background color:</source>
-        <translation type="unfinished"/>
+        <translation>Barva pozadí bublinkové nápovědy:</translation>
     </message>
     <message>
         <source>ToolTip coloring:</source>
-        <translation type="unfinished"/>
+        <translation>Barva bublinkové nápovědy:</translation>
     </message>
     <message>
         <source>Text color for &quot;composing&quot; events on tabs:</source>
-        <translation type="unfinished"/>
+        <translation>Barva textu události &quot;píše&quot; na záložkách:</translation>
     </message>
     <message>
         <source>Text color for &quot;unread&quot; events on tabs:</source>
-        <translation type="unfinished"/>
+        <translation>Barva textu události &quot;nepřečtený&quot; na záložkách:</translation>
     </message>
     <message>
         <source>Colors:</source>
@@ -4255,7 +4258,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Enable sound notifications for every MUC message</source>
-        <translation type="unfinished"/>
+        <translation>Povolit zvukové oznámení pro každou zprávu v chatu více lidí</translation>
     </message>
     <message>
         <source>Disable popup notifications if status is DND</source>
@@ -5202,19 +5205,19 @@ Tímto ji prohrajete</translation>
     </message>
     <message>
         <source>B</source>
-        <translation type="unfinished"/>
+        <translation>B</translation>
     </message>
     <message>
         <source>K</source>
-        <translation type="unfinished"/>
+        <translation>K</translation>
     </message>
     <message>
         <source>C</source>
-        <translation type="unfinished"/>
+        <translation>C</translation>
     </message>
     <message>
         <source>Q</source>
-        <translation type="unfinished"/>
+        <translation>Q</translation>
     </message>
     <message>
         <source>Error!</source>
@@ -5264,7 +5267,7 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>You have a stalemate</source>
-        <translation type="unfinished"/>
+        <translation>Jsi na mrtvém bodu</translation>
     </message>
 </context>
 <context>
@@ -5408,7 +5411,7 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>GPS bearing (direction in which the entity is heading to reach its next waypoint), measured in decimal degrees relative to true north</source>
-        <translation type="unfinished"/>
+        <translation>GPS směr pohybu (směr, kterým se objekt vydá k dosažení další mety), měřeno v stupních relativně k severu</translation>
     </message>
     <message>
         <source>Building:</source>
@@ -5448,7 +5451,7 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>Horizontal GPS error in arc minutes; this element is deprecated in favor of &lt;accuracy/&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Horizontální chyba GPS v arc minutách; tato položka je zastaralá, použij &lt;accuracy/&gt;</translation>
     </message>
     <message>
         <source>Floor:</source>
@@ -5472,7 +5475,7 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>A locality within the administrative region, such as a town or city</source>
-        <translation type="unfinished"/>
+        <translation>Lokalita uvnitř administrativního celku, např. vesnice nebo města</translation>
     </message>
     <message>
         <source>Longitude:</source>
@@ -5496,7 +5499,7 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>An administrative region of the nation, such as a state or province</source>
-        <translation type="unfinished"/>
+        <translation>Administrativní národní celek, např. kraj nebo provincie</translation>
     </message>
     <message>
         <source>Room:</source>
@@ -5596,7 +5599,7 @@ Hra je prohraná.</translation>
     <name>GmailNotifyPlugin</name>
     <message>
         <source>No-save state for contact %1 is changed</source>
-        <translation type="unfinished"/>
+        <translation>Stav Neukládat kontaktu %1 byl změněn</translation>
     </message>
     <message>
         <source>Settings for an account %1 are changed</source>
@@ -5604,7 +5607,7 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>Shared Status for an account %1 is updated</source>
-        <translation type="unfinished"/>
+        <translation>Sdílený stav účtu %1 byl aktualizován</translation>
     </message>
     <message>
         <source>Attributes for contact %1 are changed</source>
@@ -6016,7 +6019,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Import Wizard</source>
-        <translation type="unfinished"/>
+        <translation>Průvodce importem</translation>
     </message>
 </context>
 <context>
@@ -6780,7 +6783,7 @@ hře gomoku. Chce hrát za %2.</translation>
     </message>
     <message>
         <source>Intro</source>
-        <translation type="unfinished"/>
+        <translation>Úvod</translation>
     </message>
     <message>
         <source>Statistics</source>
@@ -7533,7 +7536,12 @@ You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation type="unfinished"/>
+        <translation>je síťová hra v šachy pro dva hráče.
+Obsahuje klienta a server v jednom programu.
+Můžeš měnit a šířit jejich kód, protože je pod
+licencí GPL.
+
+Rusko, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
 </context>
 <context>
@@ -7705,19 +7713,19 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Disables the sending of message events such as &quot;Contact is Typing...&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Zakazuje posilání událostí jako &quot;Kontakt píše...&quot;</translation>
     </message>
     <message>
         <source>Do not send composing events</source>
-        <translation type="unfinished"/>
+        <translation>Neposílat události &quot;píše&quot;</translation>
     </message>
     <message>
         <source>Request receipts</source>
-        <translation type="unfinished"/>
+        <translation>Požadovat oznámení o doručení</translation>
     </message>
     <message>
         <source>Send receipts</source>
-        <translation type="unfinished"/>
+        <translation>Posílat oznámení o doručení</translation>
     </message>
     <message>
         <source>Enable remote controlling from other locations</source>
@@ -7808,7 +7816,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Specifies the background color for an account name in the main window.</source>
-        <translation type="unfinished"/>
+        <translation>Udává barvu pozadí pro jméno účtu v hlavním okně.</translation>
     </message>
     <message>
         <source>Account heading background:</source>
@@ -7820,7 +7828,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Specifies the background color for a group name in the main window.</source>
-        <translation type="unfinished"/>
+        <translation>Udává barvu pozadí pro jméno skupiny v hlavním okně.</translation>
     </message>
     <message>
         <source>Group heading background:</source>
@@ -7828,7 +7836,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Specifies the foreground animation color for nicks.</source>
-        <translation type="unfinished"/>
+        <translation>Udává barvu popředí pro animace přezdívek.</translation>
     </message>
     <message>
         <source>Nick animation foreground:</source>
@@ -7836,7 +7844,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Specifies the background animation color for nicks.</source>
-        <translation type="unfinished"/>
+        <translation>Udává barvu pozadí pro animaci přezdívek.</translation>
     </message>
     <message>
         <source>Nick animation background:</source>
@@ -7844,7 +7852,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Specifies the color for sent messages in chat and history windows.</source>
-        <translation type="unfinished"/>
+        <translation>Udává barvu pro odeslané zprávy v chatu a oknech historie.</translation>
     </message>
     <message>
         <source>Sent message foreground:</source>
@@ -7852,7 +7860,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Specifies the color for received messages in chat and history windows.</source>
-        <translation type="unfinished"/>
+        <translation>Udává barvu pro přijaté zprávy v chatu a oknech historie.</translation>
     </message>
     <message>
         <source>Received message foreground:</source>
@@ -7860,7 +7868,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Specifies the color for informational messages in chat windows, like status changes and offline messages.</source>
-        <translation type="unfinished"/>
+        <translation>Udává barvu pro informativní zprávy v chatu, jako stavové změny a zprávy o přechodu do offline.</translation>
     </message>
     <message>
         <source>Informational messages in chats:</source>
@@ -7884,7 +7892,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Specifies the background color for the main window.</source>
-        <translation type="unfinished"/>
+        <translation>Udává barvu pozadí hlavního okna.</translation>
     </message>
     <message>
         <source>Contact list background:</source>
@@ -7896,11 +7904,11 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Specifies the color for additional text of system messages. MUC topic for example.</source>
-        <translation type="unfinished"/>
+        <translation>Udává barvu pro další textz systémových zpráv. Např. témata chatu více lidí.</translation>
     </message>
     <message>
         <source>Additional message text:</source>
-        <translation type="unfinished"/>
+        <translation>Doplňkový text zprávy:</translation>
     </message>
     <message>
         <source>Fonts</source>
@@ -8107,7 +8115,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"/>
+        <translation>pro chat, chat více lidí a seznam kontaktů v jednom okně</translation>
     </message>
     <message>
         <source>[customized]</source>
@@ -8264,11 +8272,11 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Enable popup notifications</source>
-        <translation type="unfinished"/>
+        <translation>Povolit vyskakovací oznámení</translation>
     </message>
     <message>
         <source>Notifications type</source>
-        <translation type="unfinished"/>
+        <translation>Typ oznámení</translation>
     </message>
     <message>
         <source>General</source>
@@ -8284,19 +8292,19 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Show incoming message on popup</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit příchozí zprávy ve vyskakovacích oznámeních</translation>
     </message>
     <message>
         <source>On incoming headline event</source>
-        <translation type="unfinished"/>
+        <translation>Při příchodu hlavní zprávy</translation>
     </message>
     <message>
         <source>On incoming file event</source>
-        <translation type="unfinished"/>
+        <translation>Při příchodu souboru</translation>
     </message>
     <message>
         <source>When a contact begins typing</source>
-        <translation type="unfinished"/>
+        <translation>Když začne kontakt psát</translation>
     </message>
     <message>
         <source>When a contact becomes available</source>
@@ -8312,7 +8320,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Enable popup notifications for every muc message</source>
-        <translation type="unfinished"/>
+        <translation>Zapnout vyskakovací oznámení pro všechny zprávy chatu více lidí</translation>
     </message>
     <message>
         <source>Limitations</source>
@@ -8328,19 +8336,19 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Maximum status length:</source>
-        <translation type="unfinished"/>
+        <translation>Maximální délka stavu:</translation>
     </message>
     <message>
         <source>Popup location</source>
-        <translation type="unfinished"/>
+        <translation>Umístění vyskakovacího oznámení</translation>
     </message>
     <message>
         <source>Show popups from top to bottom</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazovat oznámení shora dolů </translation>
     </message>
     <message>
         <source>Place popups at left</source>
-        <translation type="unfinished"/>
+        <translation>Umístit vyskakovací oznámení vlevo</translation>
     </message>
     <message>
         <source>Misc</source>
@@ -8375,23 +8383,23 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit hlavní nabídku</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation type="unfinished"/>
+        <translation>Zakáže posuvník v okně aplikace.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="unfinished"/>
+        <translation>Zakázat posuvník</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
-        <translation type="unfinished"/>
+        <translation>Povolí rámec avatara nahoře okna kontaktů</translation>
     </message>
     <message>
         <source>Enable roster avatar frame</source>
-        <translation type="unfinished"/>
+        <translation>Povolit rámec avatara v seznamu kontaktů</translation>
     </message>
     <message>
         <source>Autohide roster after</source>
@@ -8431,7 +8439,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit geolokaci v seznamu kontaktů</translation>
     </message>
     <message>
         <source>GeoLocation</source>
@@ -8439,7 +8447,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit ikonu, když kontakt poslouchá hudbu</translation>
     </message>
     <message>
         <source>Now playing</source>
@@ -8455,11 +8463,11 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>all client icons</source>
-        <translation type="unfinished"/>
+        <translation>ikony všech klientů</translation>
     </message>
     <message>
         <source>only highest priority client icon</source>
-        <translation type="unfinished"/>
+        <translation>pouze ikony klientů s nejvyšší prioritou</translation>
     </message>
     <message>
         <source>Avatar settings</source>
@@ -8573,7 +8581,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Receive MUC message</source>
-        <translation type="unfinished"/>
+        <translation>Přijímat zprávy chatu více lidí</translation>
     </message>
     <message>
         <source>Reset to defaults</source>
@@ -8584,7 +8592,7 @@ Tagy: %1</translation>
     <name>OptStatusAuto</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Formulář</translation>
     </message>
     <message>
         <source>Auto status</source>
@@ -8628,7 +8636,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Free For Chat:</source>
-        <translation type="unfinished"/>
+        <translation>Čeká na chat:</translation>
     </message>
     <message>
         <source>XA:</source>
@@ -8647,11 +8655,11 @@ Tagy: %1</translation>
     <name>OptStatusGeneral</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Formulář</translation>
     </message>
     <message>
         <source>Prompt for status message when choosing</source>
-        <translation type="unfinished"/>
+        <translation>Ptát se na stavové zprávy při výběru</translation>
     </message>
     <message>
         <source>Online</source>
@@ -8659,7 +8667,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation type="unfinished"/>
+        <translation>Čeká na chat</translation>
     </message>
     <message>
         <source>Away</source>
@@ -8679,11 +8687,11 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Status menus</source>
-        <translation type="unfinished"/>
+        <translation>Stavové nabídky</translation>
     </message>
     <message>
         <source>Show presets in menus:</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit předvolby v nabídkách:</translation>
     </message>
     <message>
         <source>As submenu</source>
@@ -8691,7 +8699,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>With standard statuses</source>
-        <translation type="unfinished"/>
+        <translation>Se standardními stavy</translation>
     </message>
     <message>
         <source>No</source>
@@ -8699,27 +8707,27 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Hide Free for Chat, Away, Not Available and Do not Disturb</source>
-        <translation type="unfinished"/>
+        <translation>Skrýt Čeká na chat, Pryč, Nedostupný a Nevyrušovat</translation>
     </message>
     <message>
         <source>Hide standard statuses (Chat, Away, XA, DND)</source>
-        <translation type="unfinished"/>
+        <translation>Skrýt standardní stavy (Chat, Pryč, XA, DND)</translation>
     </message>
     <message>
         <source>Show &quot;Edit presets...&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit &quot;Upravit předvolby...&quot;</translation>
     </message>
     <message>
         <source>Show &quot;Choose...&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit &quot;Vybrat...&quot;</translation>
     </message>
     <message>
         <source>Show &quot;Reconnect&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit &quot;Znovu připojit&quot;</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"/>
+        <translation>Předvolby</translation>
     </message>
     <message>
         <source>Add</source>
@@ -8735,7 +8743,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Selected preset</source>
-        <translation type="unfinished"/>
+        <translation>Zvolená předvolba</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -8743,11 +8751,11 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished"/>
+        <translation>Stav:</translation>
     </message>
     <message>
         <source>Priority:</source>
-        <translation type="unfinished"/>
+        <translation>Priorita:</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -8770,7 +8778,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
-        <translation type="unfinished"/>
+        <translation>Vlož příponu souborů medií, které budou ignorovány při odesílaní</translation>
     </message>
     <message>
         <source>Add extensions</source>
@@ -8778,7 +8786,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Ignored media file extensions on psi tunes sending</source>
-        <translation type="unfinished"/>
+        <translation>Ignorované přípony souborů medií při odesílaní</translation>
     </message>
     <message>
         <source>Tune Controllers</source>
@@ -8910,7 +8918,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Auto-popup Captcha dialog</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky vyskakující okno s Captcha</translation>
     </message>
     <message>
         <source>Use proxy settings from account</source>
@@ -8959,7 +8967,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
  Google Talk chats on the server;
  if set to &quot;false&quot;, no conversations
  will be logged.</source>
-        <translation type="unfinished"/>
+        <translation> Při nastavení, server bude ukládat
+ chaty Google Talku na serveru;
+ pokud ne, nebudou konverzace
+ logovány.</translation>
     </message>
     <message>
         <source>Message archiving</source>
@@ -8969,7 +8980,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <source> If set to &quot;true&quot;, the server will
  automatically add people emailed
  often to the user&apos;s roster.</source>
-        <translation type="unfinished"/>
+        <translation> Při nastavení bude server
+ automaticky přidávat lidi,
+ kteří často dostávají e-mail
+ na seznam kontaktů uživatele.</translation>
     </message>
     <message>
         <source>Auto-accept suggestions</source>
@@ -8979,7 +8993,9 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <source> Enable multiple applications signed in
  as the same user to report the same
  status message. </source>
-        <translation type="unfinished"/>
+        <translation> Povolit vícero aplikací příhlašených
+ na stejného uživatele, aby udávali
+ stejnou stavovou zprávu.</translation>
     </message>
     <message>
         <source>Enable Shared Statuses</source>
@@ -8990,7 +9006,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
  logging of individual conversations and
  sends notifications.
  Enable &quot;Message archiving&quot; option for use!</source>
-        <translation type="unfinished"/>
+        <translation> Google Talk server zakazuje logování
+ na serveru individuálních konverzací
+ a oznámení o odeslaní.
+ Povol nastavení &quot;Archivace zpráv&quot; pro
+ použití!</translation>
     </message>
     <message>
         <source>Enable Off the Record Chats</source>
@@ -9094,11 +9114,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>MUC</source>
-        <translation type="unfinished"/>
+        <translation>Chat více lidí</translation>
     </message>
     <message>
         <source>Enable Stop Spam for private messages in MUC</source>
-        <translation type="unfinished"/>
+        <translation>Povolit Stop spam pro soukromé zprávy v chatu více lidí</translation>
     </message>
     <message>
         <source>Enable Stop Spam for affiliations:</source>
@@ -9187,11 +9207,13 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Disable stopspam, if don't match any rule above
 (does not work for muc private messages)</source>
-        <translation type="unfinished"/>
+        <translation>Zakázat Stop spam, pokud žádné shora uvedené
+pravidlo neodpovídá (nefunguje pro soukromé
+zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Status</source>
@@ -9285,11 +9307,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Request receipts from contacts on each message.</source>
-        <translation type="unfinished"/>
+        <translation>Požadovat potvrzení o přijetí od kontaktů pro každou zprávu.</translation>
     </message>
     <message>
         <source>Send receipts to contacts by request.</source>
-        <translation type="unfinished"/>
+        <translation>Odesílat potvrzení o přijetí na vyžádání.</translation>
     </message>
     <message>
         <source>Enables remote controlling your client from other locations</source>
@@ -9885,19 +9907,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;extended away&quot; if your computer is idle for the specified amount of time.</source>
-        <translation type="unfinished"/>
+        <translation>Způsobí, že Psí nastaví automaticky stav na &quot;dlouho pryč&quot;, když je počítač v klidu déle, než je nastavená doba.</translation>
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation type="unfinished"/>
+        <translation>Způsobí, že Psí nastaví automaticky stav na &quot;offline&quot;, když je počítač v klidu déle, než je nastavená doba. Tohle tě odpojí z Jabber serveru.</translation>
     </message>
     <message>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
-        <translation type="unfinished"/>
+        <translation>Udává rozšířenou zprávu, kterou použít, když povolíš Psí nastavovat automatický stav. Viz možnosti nahoře.</translation>
     </message>
     <message>
         <source>Specifies priority of auto-away status. If empty, Psi will use account&apos;s default priority.</source>
-        <translation type="unfinished"/>
+        <translation>Udává prioritu stavu &quot;automaticky pryč&quot;. Pokud je prázdné, Psí použije výchozí hodnotu účtu.</translation>
     </message>
 </context>
 <context>
