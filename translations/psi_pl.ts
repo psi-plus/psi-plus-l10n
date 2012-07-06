@@ -4269,7 +4269,7 @@ Ta opcja działa tylko jeżeli nie zaakceptowano domyślnej</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -5574,7 +5574,7 @@ Przegrałeś.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
@@ -5638,7 +5638,7 @@ Przegrałeś.</translation>
     <name>GmailNotifyPlugin</name>
     <message>
         <source>No-save state for contact %1 is changed</source>
-        <translation type="unfinished"/>
+        <translation>Stan Nie-zapisuj dla kontaktu %1 zostanie zmieniony</translation>
     </message>
     <message>
         <source>Settings for an account %1 are changed</source>
@@ -5679,7 +5679,8 @@ Przegrałeś.</translation>
     <message>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation type="unfinished"/>
+        <translation>Wyświetla powiadomienia o nowych wiadomościach na koncie Gmail.
+Uwaga: Wtyczka sprawdza nowe wiadomości tylko w folderze w katalogu głównym na koncie Gmail. Podczas korzystania z filtrowania po stronie serwera poczty, możesz nie być informowany o wszystkich nowych wiadomościach.</translation>
     </message>
 </context>
 <context>
@@ -5714,7 +5715,8 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <message>
         <source>This plugin allows you to play gomoku with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"/>
+        <translation>Ta wtyczka umożliwia grę w gomoku wraz z przyjaciółmi.
+Do wysyłania poleceń, wykorzystywane są zwykłe wiadomości, więc wtyczka  ta będzie pracować zawsze gdziekolwiek jesteś w stanie się zalogować. Aby zaprosić przyjaciela do gry, możesz użyć menu kontaktu lub przycisku na pasku narzędzi w oknie rozmowy.</translation>
     </message>
     <message>
         <source>Gomoku game</source>
@@ -7745,7 +7747,7 @@ Etykiety: %1</translation>
     </message>
     <message>
         <source>Notes has been saved.</source>
-        <translation type="unfinished"/>
+        <translation>Notatka została zapisana.</translation>
     </message>
 </context>
 <context>
@@ -8912,7 +8914,7 @@ Nazwa nie może być pusta, zakończona &apos;.&apos; lub zawierać &apos;..&apo
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts
 is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation type="unfinished"/>
+        <translation>Jeśli korzystasz z tej wtyczki pierwszy raz, upewnij się, że wszystkie twoje konta maja status aktywny i kliknij przycisk &quot;Aktualizuj urodziny&quot;. To zajmuje trochę czasu.</translation>
     </message>
     <message>
         <source>Update Birthdays</source>
@@ -8964,7 +8966,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Opcje</translation>
     </message>
     <message>
         <source>Auto-popup Captcha dialog</source>
@@ -9016,7 +9018,9 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
  Google Talk chats on the server;
  if set to &quot;false&quot;, no conversations
  will be logged.</source>
-        <translation type="unfinished"/>
+        <translation>Jeśli ustawiono &quot;tak&quot;, to serwer zapisze
+Rozmowy Google Talk na serwerze;
+jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</translation>
     </message>
     <message>
         <source>Message archiving</source>
@@ -9296,7 +9300,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Canceled</source>
-        <translation type="unfinished"/>
+        <translation>Anulowany</translation>
     </message>
     <message>
         <source>Choose file</source>
@@ -9537,7 +9541,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Some of the options you changed will only have full effect upon restart.</source>
-        <translation type="unfinished"/>
+        <translation>Niektóre z opcji, które zostały zmienione przyniosą pełny efekt po restarcie aplikacji.</translation>
     </message>
     <message>
         <source>Default</source>
@@ -9830,7 +9834,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Roster window options</source>
-        <translation type="unfinished"/>
+        <translation>Opcje okna listy</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
@@ -9950,7 +9954,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
-        <translation type="unfinished"/>
+        <translation>Określa komunikat do wykorzystania, jeśli pozwolisz Psi zmieniać status automatycznie. Zobacz powyższe opcje.</translation>
     </message>
     <message>
         <source>Specifies priority of auto-away status. If empty, Psi will use account&apos;s default priority.</source>
@@ -10163,7 +10167,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Save queryes to log</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz zapytanie do dziennika</translation>
     </message>
     <message>
         <source>Logs</source>
@@ -10345,7 +10349,7 @@ Przyczyna: %1.</translation>
     </message>
     <message>
         <source>Save Password</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz hasło</translation>
     </message>
     <message>
         <source>OK</source>
@@ -10353,7 +10357,7 @@ Przyczyna: %1.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
@@ -10424,7 +10428,7 @@ Wprowadź hasło twojego klucza OpenPGP poniżej:</translation>
     </message>
     <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
-        <translation type="unfinished"/>
+        <translation>Ta wtyczka pokazuje wyskakujące powiadomienia o użytkownikach z listy kontaktów zmieniających nastrój, melodię lub aktywność.</translation>
     </message>
 </context>
 <context>
@@ -10465,7 +10469,7 @@ Wprowadź hasło twojego klucza OpenPGP poniżej:</translation>
     <name>PluginManager</name>
     <message>
         <source>This plugin has no user configurable options</source>
-        <translation type="unfinished"/>
+        <translation>Ta wtyczka nie posiada opcji konfigurowalnych przez użytkownika</translation>
     </message>
 </context>
 <context>
@@ -10504,7 +10508,7 @@ Wprowadź hasło twojego klucza OpenPGP poniżej:</translation>
     </message>
     <message>
         <source>Save game</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz grę</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -10574,7 +10578,7 @@ Wprowadź hasło twojego klucza OpenPGP poniżej:</translation>
     </message>
     <message>
         <source>Gomoku Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Wtyczka Gomoku</translation>
     </message>
     <message>
         <source>Game Error!</source>
@@ -10583,7 +10587,8 @@ Wprowadź hasło twojego klucza OpenPGP poniżej:</translation>
     <message>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="unfinished"/>
+        <translation>Twój przeciwnik zamknął planszę! 
+Nadal można zapisać grę.</translation>
     </message>
     <message>
         <source>You want to switch color?</source>
@@ -12701,11 +12706,11 @@ Czy chcesz teraz aktywować sesję?</translation>
     </message>
     <message>
         <source>Really reset options %1 to default value?</source>
-        <translation type="unfinished"/>
+        <translation>Naprawdę zresetować opcje %1 do wartości domyślnej?</translation>
     </message>
     <message>
         <source>Really reset all options starting with %1. to default value?</source>
-        <translation type="unfinished"/>
+        <translation>Naprawdę zresetować wszystkie opcje zaczynające się od %1. do wartości domyślnych?</translation>
     </message>
 </context>
 <context>
@@ -14496,7 +14501,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Cancel uploading</source>
-        <translation type="unfinished"/>
+        <translation>Anuluj przesyłanie</translation>
     </message>
     <message>
         <source>Upload to server:</source>
@@ -14508,7 +14513,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Save Screenshot to Local Drive</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz zrzut ekranu na dysk lokalny</translation>
     </message>
     <message>
         <source>Print Screenshot</source>
@@ -14544,7 +14549,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz</translation>
     </message>
     <message>
         <source>Print</source>
@@ -14560,7 +14565,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Opcje</translation>
     </message>
     <message>
         <source>History</source>
@@ -14596,7 +14601,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz jako</translation>
     </message>
     <message>
         <source>%1 Files (*.%2);;All Files (*)</source>
@@ -14663,7 +14668,12 @@ The plugin has the following settings:
 * Format -- the file format in which the screenshot will be stored (default: .jpg)
 * File Name -- format of the filename (default: pic-yyyyMMdd-hhmmss, where yyyyMMdd=YYYYMMDD, and hhmmss are current date in the format yearmonthday-hourminutesecond)
 The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</source>
-        <translation type="unfinished"/>
+        <translation>Ta wtyczka pozwala wykonywać zrzuty ekranu i zapisać je na dysku twardym lub przesłać je na serwer FTP lub HTTP.
+Wtyczka posiada następujące ustawienia:
+* Skrót -- skrót, aby wykonać zrzut ekranu (domyślnie Ctrl + Alt + P)
+* Format -- format zapisu pliku (domyślnie: jpg.)
+* Nazwa pliku -- format nazwy pliku (domyślnie: pic-yyyyMMdd-hhmmss, gdzie yyyyMMdd=YYYYMMDD i hhmmss są bieżąca data w formacie rokmiesiącdzień-godzinaminutasekundy)
+Adres serwera FTP jest określona jako ftp://ftp.domain.tld/path1/path2</translation>
     </message>
     <message>
         <source>
@@ -14814,7 +14824,7 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
@@ -14845,7 +14855,7 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Add template string</source>
@@ -14885,11 +14895,11 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz szablony</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="unfinished"/>
+        <translation>Szablon &quot;%1&quot; nie został zapisany!</translation>
     </message>
     <message>
         <source>Continue?</source>
@@ -14953,27 +14963,27 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="unfinished"/>
+        <translation>Przeglądarka usług</translation>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj kontakt</translation>
     </message>
     <message>
         <source>New Message</source>
-        <translation type="unfinished"/>
+        <translation>Nowa wiadomość</translation>
     </message>
     <message>
         <source>Join Group Chat</source>
-        <translation type="unfinished"/>
+        <translation>Dołącz do rozmowy grupowej</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation type="unfinished"/>
+        <translation>Ustawienia konta</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Opcje</translation>
     </message>
     <message>
         <source>File Transfer</source>
@@ -15417,7 +15427,7 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz</translation>
     </message>
     <message>
         <source>Create new skin from current settings</source>
@@ -15453,11 +15463,11 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Save a skin file</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz plik skórki</translation>
     </message>
     <message>
         <source>Can&apos;t save skin!</source>
-        <translation type="unfinished"/>
+        <translation>Nie można zapisać skórki!</translation>
     </message>
     <message>
         <source>Apply Skin</source>
@@ -15465,7 +15475,7 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Can&apos;t save the backup skin!</source>
-        <translation type="unfinished"/>
+        <translation>Nie można zapisać kopii zapasowej skórki!</translation>
     </message>
     <message>
         <source>Overwrite selected skin</source>
@@ -15481,7 +15491,7 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Can&apos;t save the skin!</source>
-        <translation type="unfinished"/>
+        <translation>Nie można zapisać skórki!</translation>
     </message>
     <message>
         <source>Delete skin</source>
@@ -15675,7 +15685,9 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi+ or Miranda IM.</source>
-        <translation type="unfinished"/>
+        <translation>Ta wtyczka jest implementacją XEP-0049: Prywatny napęd XML
+Wtyczka jest w pełni kompatybilna z notatkami zapisanymi za pomocą komunikatora Miranda.
+Wtyczka służy do przechowywania notatek na serwerze jabbera z możliwością dostępu do nich z dowolnego miejsca za pomocą komunikatora Psi+ lub Miranda.</translation>
     </message>
 </context>
 <context>
@@ -15789,7 +15801,7 @@ Copyright (C) 2003 Justin Karneges</source>
     </message>
     <message>
         <source>Error: TLS not available.  Disable any TLS options.</source>
-        <translation type="unfinished"/>
+        <translation>Błąd: TLS niedostępne.  Wyłącz wszystkie opcje TLS.</translation>
     </message>
     <message>
         <source>&amp;Disconnect</source>
@@ -16363,7 +16375,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Save Changes</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz zmiany</translation>
     </message>
     <message>
         <source>Delete Log</source>
@@ -16383,15 +16395,15 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Save log</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz dziennik</translation>
     </message>
     <message>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
-        <translation type="unfinished"/>
+        <translation>Nowe wiadomości został dodany do dziennika. Jeśli zapiszesz zmiany, stracisz je.</translation>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
-        <translation type="unfinished"/>
+        <translation>Czy chcesz zapisać zmiany?</translation>
     </message>
 </context>
 <context>
@@ -16457,7 +16469,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Save Changes</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz zmiany</translation>
     </message>
     <message>
         <source>Delete Log</source>
@@ -16477,15 +16489,15 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Save log</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz dziennik</translation>
     </message>
     <message>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
-        <translation type="unfinished"/>
+        <translation>Nowe wiadomości został dodany do dziennika. Jeśli zapiszesz zmiany, stracisz je.</translation>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
-        <translation type="unfinished"/>
+        <translation>Czy chcesz zapisać zmiany?</translation>
     </message>
     <message>
         <source>Check</source>
@@ -17198,11 +17210,11 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>Save window height and width</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz wysokość i szerokość okna</translation>
     </message>
     <message>
         <source>Save window position</source>
-        <translation type="unfinished"/>
+        <translation>Zapisz pozycję okna</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
@@ -17224,7 +17236,13 @@ Czy nadal chcesz zamknąć tablicę?</translation>
 [-+!]other - default
 [-+!]nil - not in list
 # - comment to end line</source>
-        <translation type="unfinished"/>
+        <translation>Opcje niestandardowe:
+-uin - nic nie rób
++uin - wyślij powtórnie
+!uin - blokuj wiadomość
+[- +!]other - domyślna
+[- +]nil - nie na liście
+# - komentarz do końca linii</translation>
     </message>
     <message>
         <source>Pause for next Recv message:</source>
@@ -17291,7 +17309,7 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Anuluj</translation>
     </message>
     <message>
         <source>&amp;Authenticate</source>
@@ -17335,7 +17353,7 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>%1 has canceled the authentication process.</source>
-        <translation type="unfinished"/>
+        <translation>%1 anulował proces uwierzytelniania.</translation>
     </message>
     <message>
         <source>An error occured during the authentication process.</source>
@@ -17850,7 +17868,7 @@ do tej wiadomości w juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
