@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="ru" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0" language="ru">
 <context>
     <name>@default</name>
     <message>
@@ -142,10 +144,6 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;</translation>
     <message>
         <source>Patcher and Russian localization</source>
         <translation>Автор патчей и русского языкового пакета</translation>
-    </message>
-    <message>
-        <source>Psimedia Patcher and English localization</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mac OS X Packager</source>
@@ -1065,7 +1063,7 @@ save the history for this contact.</source>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;Jabber&lt;/span&gt; user, simply fill out the Jabber ID (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-Jabber&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get Jabber ID&lt;/span&gt; button to generate a Jabber ID for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -2584,11 +2582,19 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message numerus="yes">
         <source>and %n contacts </source>
-        <translation><numerusform>и %n контакт </numerusform><numerusform>и %n контакта </numerusform><numerusform>и %n контактов </numerusform></translation>
+        <translation>
+            <numerusform>и %n контакт </numerusform>
+            <numerusform>и %n контакта </numerusform>
+            <numerusform>и %n контактов </numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation><numerusform>Это действие безвозвратно удалит группы:&lt;br&gt;%1&lt;br&gt;%2and %n из Вашего списка контактов.</numerusform><numerusform>Это действие безвозвратно удалит группы:&lt;br&gt;%1&lt;br&gt;%2and %n из Вашего списка контактов.</numerusform><numerusform>Это действие безвозвратно удалит группы:&lt;br&gt;%1&lt;br&gt;%2and %n из Вашего списка контактов.</numerusform></translation>
+        <translation>
+            <numerusform>Это действие безвозвратно удалит группы:&lt;br&gt;%1&lt;br&gt;%2and %n из Вашего списка контактов.</numerusform>
+            <numerusform>Это действие безвозвратно удалит группы:&lt;br&gt;%1&lt;br&gt;%2and %n из Вашего списка контактов.</numerusform>
+            <numerusform>Это действие безвозвратно удалит группы:&lt;br&gt;%1&lt;br&gt;%2and %n из Вашего списка контактов.</numerusform>
+        </translation>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
@@ -3163,7 +3169,7 @@ Proceed?</source>
     </message>
     <message>
         <source>ToolBar will be placed here</source>
-        <comment>Don't translate this string</comment>
+        <comment>Don&apos;t translate this string</comment>
         <translation>ToolBar will be placed here</translation>
     </message>
     <message>
@@ -4431,7 +4437,7 @@ contact is offline.</source>
         <source>Unable to connect to peer for data transfer.
 
 Ensure that your Data Transfer settings are proper.  If you are behind
-a NAT router or firewall then you'll need to open the proper TCP port
+a NAT router or firewall then you&apos;ll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>Невозможно соединиться с удалённым компьютером для передачи данных.
 
@@ -4444,7 +4450,7 @@ or specify a Data Transfer Proxy in your account settings.</source>
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
 
 This means that the Proxy service is either not functioning or it is
-unreachable.  If you are behind a firewall, then you'll need to ensure
+unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
 that outgoing TCP connections are allowed.</source>
         <translation>Невозможно соединиться с прокси-сервером или использовать его.
 
@@ -5993,7 +5999,7 @@ You can select or deselect a contact for history removal from the context menu o
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -6005,7 +6011,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -6021,7 +6027,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -6037,7 +6043,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -6427,7 +6433,7 @@ The plugin has a number of simple settings that can help you:
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
-Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
         <translation>Данный плагин предназначен для отправки собеседнику графического изображения.
 Клиент собеседника должен поддерживать XEP-0071: XHTML-IM и поддерживать схему data:URI.
@@ -6908,119 +6914,18 @@ to play gomoku. He wants to play %2.</source>
 <context>
     <name>JuickPlugin</name>
     <message>
-        <source>Show all messages</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Reply</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Show %1&apos;s info and last 10 messages</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Subscribe</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Show last 10 messages with tag %1</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unsubscribe</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Edit JIDs</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>@username</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>*tag</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>#message id</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&gt;quote</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>http://link</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>bold</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>italic</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>underline</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>color</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Use message Id as resource</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Show Photo</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Show Avatars</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Replaces message id with a link
-to this message in juick@conference.jabber.ru</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Clear avatar cache</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
     <message>
-        <source>can't create folder %1 
+        <source>can&apos;t create folder %1 
 caching avatars will be not available</source>
         <translation>невозможно создать папку%1 
 кэширование аватар будет недоступно</translation>
     </message>
     <message>
-        <source>Recommended by </source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source> replied:</source>
         <translation> отвечает:</translation>
-    </message>
-    <message>
-        <source>Reply posted.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>New message posted.</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Subscribe to %1&apos;s blog</source>
@@ -7031,21 +6936,12 @@ caching avatars will be not available</source>
         <translation>Отправить личное сообщение для %1</translation>
     </message>
     <message>
-        <source>Cannot write to file %1:
-%2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Delete</source>
         <translation>Удалить</translation>
     </message>
     <message>
         <source>Add to favorites</source>
         <translation>Добавить в избранное</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -8814,7 +8710,7 @@ Tags: %1</source>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -9258,7 +9154,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Удалить</translation>
     </message>
     <message>
-        <source>Disable stopspam, if don't match any rule above
+        <source>Disable stopspam, if don&apos;t match any rule above
 (does not work for muc private messages)</source>
         <translation>Отключить АнтиСпам, если не подошло ни одно перечисленное правило
 (не работает для приватных сообщений в конференциях)</translation>
@@ -12087,7 +11983,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
-        <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
+        <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
         <translation> Установить статус. Варианты: &apos;online&apos;, &apos;chat&apos;, &apos;away&apos;, &apos;xa&apos;, &apos;dnd&apos;, &apos;offline&apos;.</translation>
     </message>
     <message>
@@ -13825,81 +13721,41 @@ Description: </source>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
-        <translation><numerusform>%n дня </numerusform><numerusform>%n дней </numerusform><numerusform>%n дней </numerusform></translation>
+        <translation>
+            <numerusform>%n дня </numerusform>
+            <numerusform>%n дней </numerusform>
+            <numerusform>%n дней </numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) </source>
-        <translation><numerusform>%n час </numerusform><numerusform>%n часов </numerusform><numerusform>%n часов </numerusform></translation>
+        <translation>
+            <numerusform>%n час </numerusform>
+            <numerusform>%n часов </numerusform>
+            <numerusform>%n часов </numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) </source>
-        <translation><numerusform>%n минута </numerusform><numerusform>%n минут </numerusform><numerusform>%n минут </numerusform></translation>
+        <translation>
+            <numerusform>%n минута </numerusform>
+            <numerusform>%n минут </numerusform>
+            <numerusform>%n минут </numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) </source>
-        <translation><numerusform>%n секунда </numerusform><numerusform>%n секунд </numerusform><numerusform>%n секунд </numerusform></translation>
-    </message>
-    <message>
-        <source>No OTR Message</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>OTR TaggedPlaintextMessage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>OTR QueryMessage</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>OTR DH-Commit Message</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>OTR DH-Key Message</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>OTR Reveal Signature Message</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>OTR Signature Message</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>OTR Version 1 Key Exchange Message</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>OTR Data Message</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>OTR Error Message</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>OTR Unknown Message</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Unknown OTR Message Type</source>
-        <translation type="unfinished"/>
+        <translation>
+            <numerusform>%n секунда </numerusform>
+            <numerusform>%n секунд </numerusform>
+            <numerusform>%n секунд </numerusform>
+        </translation>
     </message>
     <message>
         <source>Encrypting message to %1 failed.
 The message was not sent.</source>
         <translation>Шифрование сообщения %1 не удалось.
 Сообщение не отправлено.</translation>
-    </message>
-    <message>
-        <source>Received %1 [%2]</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Session ID: </source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>plaintext</source>
@@ -14429,10 +14285,14 @@ Reason: %1</source>
     <message numerus="yes">
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation><numerusform>отмечает день рождения через %n день
-</numerusform><numerusform>отмечает день рождения через %n дня
-</numerusform><numerusform>отмечает день рождения через %n дней
-</numerusform></translation>
+        <translation>
+            <numerusform>отмечает день рождения через %n день
+</numerusform>
+            <numerusform>отмечает день рождения через %n дня
+</numerusform>
+            <numerusform>отмечает день рождения через %n дней
+</numerusform>
+        </translation>
     </message>
     <message>
         <source>celebrates birthday yesterday.
@@ -14838,7 +14698,11 @@ Reason: %1</source>
     </message>
     <message numerus="yes">
         <source>Added %n users to your roster.</source>
-        <translation><numerusform>Добавлен %n пользователь в ваш список контактов.</numerusform><numerusform>Добавлено %n пользователя в ваш список контактов.</numerusform><numerusform>Добавлено %n пользователей в ваш список контактов.</numerusform></translation>
+        <translation>
+            <numerusform>Добавлен %n пользователь в ваш список контактов.</numerusform>
+            <numerusform>Добавлено %n пользователя в ваш список контактов.</numerusform>
+            <numerusform>Добавлено %n пользователей в ваш список контактов.</numerusform>
+        </translation>
     </message>
     <message>
         <source>Added %1 to your roster.</source>
@@ -16139,7 +16003,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
         <source>You can type these special commands in chat and groupchat dialogs:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; '/me' is replaced by your nick&lt;/li&gt;
+&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
 &lt;/ul&gt;
 And these work only in groupchat dialog:
 &lt;ul&gt;
@@ -17427,10 +17291,6 @@ Do you still want to close the window?</source>
         <translation>Ваш отпечаток:</translation>
     </message>
     <message>
-        <source>Fingerprint for %1:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Account: </source>
         <translation>Аккаунт: </translation>
     </message>
@@ -18105,7 +17965,7 @@ Reathorization...</source>
 Реавторизация...</translation>
     </message>
     <message>
-        <source>Can't get files!
+        <source>Can&apos;t get files!
 Try remove cookies.</source>
         <translation>Не удаётся получить файлы!
 Попробуйте удалить куки.</translation>
@@ -18196,7 +18056,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
