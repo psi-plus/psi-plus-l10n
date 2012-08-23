@@ -52,13 +52,6 @@
         <source>psi/psiplus_logo</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
-        <source>A cross-platform Jabber client designed for the Jabber power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2012 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>http://psi-im.org</source>
         <translation>http://psi-im.org</translation>
@@ -200,25 +193,6 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
         <translation>Phần bổ sung bảo mật: %1</translation>
     </message>
     <message>
-        <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Jabber: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
-&lt;br&gt;
-Join the translation team today! Go to 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Clytie Siddall&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Jabber: &lt;a href=&quot;xmpp:clytie@jabber.org&quot;&gt;clytie@jabber.org&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:clytie@riverland.net.au&quot;&gt;clytie@riverland.net.au&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Dịch giả&lt;br&gt;
-&lt;br&gt;
-Mời bạn tham gia nhóm dịch ! :) Hãy thăm diễn đàn Psi 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt; để tìm chi tiết !</translation>
-    </message>
-    <message>
         <source>Founder, Patcher and MS Windows Packager</source>
         <translation type="unfinished"></translation>
     </message>
@@ -234,20 +208,39 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; để tìm chi tiết !</translation>
         <source>Psimedia Patcher and Wiki English localization</source>
         <translation type="unfinished"></translation>
     </message>
+    <message utf8="true">
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2012 The Psi Team.&lt;br&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sponsor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sponsor (Summer of Code)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
+&lt;br&gt;
+Join the translation team today! Go to 
+&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
+http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountAdd</name>
     <message>
         <source>Add Account</source>
         <translation>Thêm tài khoản</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
-&lt;br&gt;
-Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing Jabber account then leave this box unchecked.</source>
-        <translation>&lt;qt&gt;Hãy chọn &lt;b&gt;tên&lt;/b&gt; thân thiện cho Psi diễn tả tài khoản này.&lt;br&gt;
-&lt;br&gt;
-Bật hộp chọn &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; nếu bạn muốn Psi thử tạo tài khoản trên máy phục vụ ở xa. Thêm tài khoản Jabber tồn tại thì bỏ chọn.</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -273,16 +266,22 @@ Bật hộp chọn &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; nếu bạn 
         <source>psi/addContact</source>
         <translation>psi/addContact</translation>
     </message>
+    <message>
+        <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
+&lt;br&gt;
+Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing XMPP account then leave this box unchecked.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountAddDlg</name>
     <message>
-        <source>Check this option if you don&apos;t yet have a Jabber account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
-        <translation>Bật tùy chọn này nếu bạn chưa có tài khoản Jabber và muốn đăng ký. Ghi chú rầng chức năng này sẽ hoạt động được chỉ trên máy phục vụ cho phép đăng ký vô danh.</translation>
-    </message>
-    <message>
         <source>Default</source>
         <translation>Mặc định</translation>
+    </message>
+    <message>
+        <source>Check this option if you don&apos;t yet have an XMPP account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -302,10 +301,6 @@ Bật hộp chọn &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; nếu bạn 
 </context>
 <context>
     <name>AccountManage</name>
-    <message>
-        <source>Jabber Accounts</source>
-        <translation>Tài khoản Jabber</translation>
-    </message>
     <message>
         <source>Name</source>
         <translation>Tên</translation>
@@ -337,6 +332,10 @@ Bật hộp chọn &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; nếu bạn 
     <message>
         <source>psi/remove</source>
         <translation>psi/remove</translation>
+    </message>
+    <message>
+        <source>XMPP Accounts</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -379,10 +378,6 @@ Bật hộp chọn &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; nếu bạn 
     <message>
         <source>Example: juliet@capulet.com</source>
         <translation>Thí dụ : nguyenvan@vnoss.org</translation>
-    </message>
-    <message>
-        <source>Jabber ID:</source>
-        <translation>ID Jabber:</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -509,10 +504,6 @@ Bật hộp chọn &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; nếu bạn 
         <translation>Mật mã hoá kết nối:</translation>
     </message>
     <message>
-        <source>Probe legacy SSL port</source>
-        <translation>Dò cổng SSL thừa tự</translation>
-    </message>
-    <message>
         <source>Allow plaintext authentication:</source>
         <translation>Cho phép xác thực nhập thô :</translation>
     </message>
@@ -563,6 +554,10 @@ Bật hộp chọn &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; nếu bạn 
     <message>
         <source>Realm:</source>
         <translation>Miền:</translation>
+    </message>
+    <message>
+        <source>XMPP Address:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -624,10 +619,6 @@ Bật hộp chọn &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; nếu bạn 
         <translation>Cao nhất</translation>
     </message>
     <message>
-        <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the Jabber server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
-        <translation>Bình thường Psi đăng nhập bằng phương pháp xác thực &lt;i&gt;digest&lt;/i&gt; để mã hoá tên riêng và mật khẩu.  Đánh dấu trong hộp chọn này để bắt buộc Psi phải đăng nhập vào máy phục vụ Jabber bằng văn bản chuẩn (không mã hoá). Ghi chú : bật tùy chọn này chỉ nếu bạn gặp khó khăn trong việc kết nối bằng bình thường, vì việc đang nhập « nhập thô » cho phép người khác tấn công kết nối.</translation>
-    </message>
-    <message>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
         <translation>Tự động đăng nhập vào tài khoản này khi khởi chạy Psi.  Hữu ích nếu bạn lập Psi tự động khởi chạy khi phát hiện kết nối Mạng.</translation>
     </message>
@@ -646,30 +637,6 @@ Bật hộp chọn &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; nếu bạn 
     <message>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
         <translation>Gởi các gói tin gọi là « cứ hoạt động » theo định kỷ.  Có ích nếu kết nối tự động bị ngắt tự động sau một khoảng thời gian không hoạt động (v.d. do nhà cung cấp dịch vụ Mạng) còn bạn muốn kết nối luôn.</translation>
-    </message>
-    <message>
-        <source>Check this option to use an encrypted SSL connection to the Jabber server.  You may use this option if your server supports it and if you have the necessary QCA-OpenSSL plugin installed.  For more information, check the Psi homepage.</source>
-        <translation>Bật tùy chọn này để sử dụng kết nối SSL đã mật mã tới máy phục vụ Jabber. Tùy chọn này sẵn sàng nếu máy phục vụ có hỗ trợ và bạn đã cài đặt bổ sung QCA-OpenSSL cần thiết. Để tìm thêm thông tin, xem trang chủ Psi.</translation>
-    </message>
-    <message>
-        <source>Check this option to use a compressed connection to the Jabber server, if the server supports it.</source>
-        <translation>Bật tùy chọn này để sử dụng kết nối đã nén tới máy phục vụ Jabber, nếu máy đó có hỗ trợ.</translation>
-    </message>
-    <message>
-        <source>Use this option for manual configuration of your Jabber host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
-        <translation>Dùng tùy chọn này để tự cấu hình máy phục vụ Jabber nếu nó không phải là cùng một máy với máy tới đó bạn kết nối. Thường có ích nếu bạn sử dụng tuyến ủy nhiệm (proxy) kiểu nào trên máy cục bộ (tức là bạn kết nối với localhost) nhưng mà bạn đã đăng ký tài khoản vào máy phục vụ bên ngoại.</translation>
-    </message>
-    <message>
-        <source>You can have multiple clients connected to the Jabber server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
-        <translation>Bạn có thể sử dụng cùng một tài khoản để kết nối nhiều ứng dụng khách với máy phục vụ Jabber.  Mỗi đăng nhập được phân biết theo tên « tài nguyên» mà bạn có thể ghi rõ vào trường này.</translation>
-    </message>
-    <message>
-        <source>This option sets the user (and realm) you want to authenticate as. This overrides the Jabber ID you are logging in as.</source>
-        <translation>Tùy chọn này đặt người dùng (và miền) như đó bạn muốn xác thực. Nó có quyền cao hơn ID Jabber đang nhập.</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;You can have multiple clients connected to the Jabber server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your Jabber client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Bạn có thê sử dụng cùng một tài khoản để kết nối nhiều ứng dụng khách với máy phục vụ Jabber.  Trong trường hợp như vậy, trình khách có ưu tiên cao nhất (được chỉ định trong trường này) sẽ nhận tất cả các sự kiện được gởi đến.&lt;/p&gt;&lt;p&gt;Chẳng hạn, nếu chỗ làm của bạn có kết nối Mạng thường xuyên còn nhà ở có kết nối bằng quay số, bạn có khả năng lập tài khoản Jabber chạy thường xuyên với độ ưu tiên thấp tại nơi làm, vẫn có thể sử dụng cùng tài khoản ở nhà với độ ưu tiên cao hơn tạm thời tắt khả năng của khách ưu tiên thấp hơn ở nơi làm.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Username:</source>
@@ -704,10 +671,6 @@ Bật hộp chọn &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; nếu bạn 
         <translation>&lt;i&gt;Tên người dùng&lt;/i&gt; không hợp lệ.</translation>
     </message>
     <message>
-        <source>&lt;i&gt;Jabber ID&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
-        <translation>&lt;i&gt;Jabber ID&lt;/i&gt; phải được ghi rõ theo định dạng &lt;i&gt;người_dùng@máy&lt;/i&gt;.</translation>
-    </message>
-    <message>
         <source>Warning</source>
         <translation>Cảnh báo</translation>
     </message>
@@ -728,10 +691,6 @@ Bật hộp chọn &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; nếu bạn 
         <translation>Chặn liên lạc</translation>
     </message>
     <message>
-        <source>Enter the Jabber ID of the contact to block:</source>
-        <translation>Nhập ID Jabber của liên lạc cần chặn:</translation>
-    </message>
-    <message>
         <source>Retrieving blocked contact list ...</source>
         <translation>Đang lấy danh sách liên lạc bị chặn ...</translation>
     </message>
@@ -742,6 +701,42 @@ Bật hộp chọn &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; nếu bạn 
     <message>
         <source>Your server does not support blocking.</source>
         <translation>Máy phục vụ không hỗ trợ khả năng chặn.</translation>
+    </message>
+    <message>
+        <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter the XMPP Address of the contact to block:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -781,10 +776,6 @@ Bật hộp chọn &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; nếu bạn 
     <message>
         <source>Encrypt connection:</source>
         <translation>Mật mã hoá kết nối:</translation>
-    </message>
-    <message>
-        <source>Probe legacy SSL port</source>
-        <translation>Dò cổng SSL thừa tự</translation>
     </message>
     <message>
         <source>Proxy:</source>
@@ -874,14 +865,14 @@ Bật hộp chọn &lt;b&gt;Đăng ký tài khoản mới&lt;/b&gt; nếu bạn 
         <translation>Thành công</translation>
     </message>
     <message>
-        <source>You have successfully registered your account with Jabber ID &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>There was an error registering the account.
 Reason: %1</source>
         <translation>Gặp lỗi khi đăng ký tài khoản.
 Lý do: %1</translation>
+    </message>
+    <message>
+        <source>You have successfully registered your account with XMPP address &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1063,20 +1054,8 @@ save the history for this contact.</source>
         <translation>Thêm liên lạc</translation>
     </message>
     <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;Jabber&lt;/span&gt; user, simply fill out the Jabber ID (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-Jabber&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get Jabber ID&lt;/span&gt; button to generate a Jabber ID for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Service:</source>
         <translation>Dịch vụ :</translation>
-    </message>
-    <message>
-        <source>Jabber</source>
-        <translation>Jabber</translation>
     </message>
     <message>
         <source>Service ID Translation</source>
@@ -1085,10 +1064,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>No description</source>
         <translation>Không mô tả</translation>
-    </message>
-    <message>
-        <source>Get Jabber ID</source>
-        <translation>Lấy ID Jabber</translation>
     </message>
     <message>
         <source>psi/vCard</source>
@@ -1105,10 +1080,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Nickname (optional):</source>
         <translation>Tên hiệu (tùy chọn):</translation>
-    </message>
-    <message>
-        <source>Jabber ID:</source>
-        <translation>ID Jabber:</translation>
     </message>
     <message>
         <source>Request authorization when adding</source>
@@ -1134,6 +1105,26 @@ p, li { white-space: pre-wrap; }
         <source>psi/addContact</source>
         <translation>psi/addContact</translation>
     </message>
+    <message>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMPP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Get XMPP Address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMPP Address:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AddUserDlg</name>
@@ -1150,16 +1141,6 @@ p, li { white-space: pre-wrap; }
         <translation>Thêm người dùng: lỗi</translation>
     </message>
     <message>
-        <source>Please fill in the Jabber ID of the person you wish to add.</source>
-        <translation>H ãy gõ ID Jabber của người mà bạn muốn thêm vào.</translation>
-    </message>
-    <message>
-        <source>The Jabber ID you entered is not valid!
-Make sure you enter a fully qualified Jabber ID.</source>
-        <translation>Bạn đã gõ một ID Jabber không hợp lệ.
-Kiểm tra xem bạn đã gõ một ID Jabber có khả năng đầy đủ.</translation>
-    </message>
-    <message>
         <source>Add User: Success</source>
         <translation>Thêm người dùng: thành công</translation>
     </message>
@@ -1172,10 +1153,18 @@ Kiểm tra xem bạn đã gõ một ID Jabber có khả năng đầy đủ.</tra
         <translation>Lỗi</translation>
     </message>
     <message>
+        <source>Please fill in the XMPP address of the person you wish to add.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The XMPP address you entered is not valid!
+Make sure you enter a fully qualified XMPP address.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;qt&gt;
-There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the Jabber ID manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aoluser@[Jabber ID of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[Jabber ID of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[Jabber ID of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[Jabber ID of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;
-Gặp lỗi khi lấy thông tin dịch ID Dịch Vụ từ « %1 ».&lt;br&gt;Lý do : %2&lt;br&gt;&lt;br&gt;Có lẽ dịch vụ không hỗ trợ tính năng này.  Trong trường hợp này, bạn cần phải tự gõ ID Jabber cho liên lạc bạn muốn thêm vào.  Thí dụ : &lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;JabberID@máy_nào.com&lt;br&gt;&amp;nbsp;&amp;nbsp;ng_dùng_AOL@[ID Jabber của truyền tải AIM]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[ID Jabber của truyền tải ICQ]&lt;br&gt;&amp;nbsp;&amp;nbsp;ng_dùng_MSN%hotmail.com@[ID Jabber của truyền tải MSN]&lt;br&gt;&amp;nbsp;&amp;nbsp;ng_dùng_Yahoo@[ID Jabber của truyền tải Yahoo]&lt;br&gt;&lt;/qt&gt;</translation>
+There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3313,16 +3302,16 @@ Tiếp tục không?</translation>
         <translation>Gập lỗi khi duyệt mục cho &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Lý do : %2</translation>
     </message>
     <message>
-        <source>Jabber Service</source>
-        <translation>Dịch vụ Jabber</translation>
-    </message>
-    <message>
         <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Gập lỗi khi lấy tác nhân cho &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Lý do : %2</translation>
     </message>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Gập lỗi khi lấy thông tin mục cho &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Lý do : %2</translation>
+    </message>
+    <message>
+        <source>XMPP Service</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4348,10 +4337,6 @@ Importantly: a large part of the options are important system settings. These re
         <translation>Mọi tập tin (*)</translation>
     </message>
     <message>
-        <source>The Jabber ID specified is not valid.  Correct this and try again.</source>
-        <translation>Ghi rõ ID Jabber không hợp lệ.  Hãy sửa chữa rồi thử lại.</translation>
-    </message>
-    <message>
         <source>The file specified does not exist.  Choose a correct file name before sending.</source>
         <translation>Tập tin đã ghi rõ không tồn tại.  Chọn tên tập tin đúng trước khi gửi.</translation>
     </message>
@@ -4425,6 +4410,10 @@ hãy kiểm tra kết nối kiểu TCP gửi đi được cho phép không.</tra
     <message>
         <source>Unable to accept the file.  Perhaps the sender has cancelled the request.</source>
         <translation>Không thể chấp nhận tập tin.  Có lẽ người gửi đã thôi yêu cầu.</translation>
+    </message>
+    <message>
+        <source>The XMPP address specified is not valid.  Correct this and try again.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7420,10 +7409,9 @@ Nga, Tambov, 2005 (denis@silversoft.net)</translation>
         <translation>Máy phục vụ không hỗ trợ khả năng mật mã kiểu TLS.</translation>
     </message>
     <message>
-        <source>There was an error communicating with the Jabber server.
+        <source>There was an error communicating with the XMPP server.
 Details: %1</source>
-        <translation>Gặp lỗi khi liên lạc với máy phục vụ Jabber.
-Chi tiết: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7612,10 +7600,6 @@ Tags: %1</source>
         <translation>Lấy URL từ bảng nháp</translation>
     </message>
     <message>
-        <source>Jabber ID completion</source>
-        <translation>Gõ xong ID Jabber</translation>
-    </message>
-    <message>
         <source>Show subject line in events</source>
         <translation>Sự kiện hiện dòng chủ đề</translation>
     </message>
@@ -7658,6 +7642,10 @@ Tags: %1</source>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>Tin nhẳn (chát khi chát)</translation>
+    </message>
+    <message>
+        <source>XMPP address completion</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8095,6 +8083,10 @@ Tags: %1</source>
     <message>
         <source>Animate</source>
         <translation>Hoạt ảnh</translation>
+    </message>
+    <message>
+        <source>Enable Growl notifications</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11299,6 +11291,14 @@ Lý do : %1.</translation>
         <source>Public Key: %1</source>
         <translation>Khoá công: %1</translation>
     </message>
+    <message>
+        <source>Feature Removed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -11916,10 +11916,6 @@ Lý do : %1.</translation>
         <translation>URI</translation>
     </message>
     <message>
-        <source>Psi - The Cross-Platform Jabber/XMPP Client For Power Users</source>
-        <translation>Psi — Ứng dụng khách Jabber/XMPP đa nền tăng được thiết kế cho người sử dụng thành thạo</translation>
-    </message>
-    <message>
         <source>Options:</source>
         <translation>Tuỳ chọn:</translation>
     </message>
@@ -11931,6 +11927,10 @@ Lý do : %1.</translation>
         <source>Compiled with Qt %1</source>
         <comment>%1 will contain Qt version number</comment>
         <translation>Biên dịch dùng Qt %1</translation>
+    </message>
+    <message>
+        <source>Psi - The Cross-Platform XMPP Client For Power Users</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14054,6 +14054,14 @@ Password: %5</source>
         <source>Unsubscribe</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Conversion Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -14484,10 +14492,6 @@ Settings for authorization on some hostings can be found here: http://code.googl
         <translation>Địa chỉ thư</translation>
     </message>
     <message>
-        <source>Jabber ID</source>
-        <translation>ID Jabber</translation>
-    </message>
-    <message>
         <source>&amp;Add Contact</source>
         <translation>Thê&amp;m liên lạc</translation>
     </message>
@@ -14506,6 +14510,10 @@ Settings for authorization on some hostings can be found here: http://code.googl
     <message>
         <source>&amp;Close</source>
         <translation>Đón&amp;g</translation>
+    </message>
+    <message>
+        <source>XMPP Address</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15834,24 +15842,12 @@ Chỉ trong hộp thoại chát nhóm:
 &lt;/ul&gt;</translation>
     </message>
     <message>
-        <source>Did you know that you can register multiple Jabber accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest Jabber features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation>Psi cho bạn có khả năng đăng ký nhiều tài khoản Jabber khác nhau. Có thể chạy tài khoản cá nhân riêng với tài khoản làm việc; có thể chạy tài khoản thử ra, không có tác động tài khoản chính. Chỉ nhấn vào nút « Thêm » trong màn hình « Thiết lập tài khoản ».</translation>
-    </message>
-    <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to Jabber. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation>Bạn có chát (bằng truyền tải) trên mạng tin nhẳn nhóm ba như AIM hay ICQ không? Thử bật tùy chọn « biểu tượng của mạng riêng »: nó hiển thị mạng riêng của mỗi liên lạc. Lúc đó, bạn có thể đề nghị bạn bè chuyển đổi sang mạng Jabber. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
-    </message>
-    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
         <translation>Không cần phải xoá tài khoản để tắt nó, nhất là tạm thời. Chỉ đơn giản bật/tắt hộp chọn trong phần « Thiết lập tài khoản ». Có ích để tắt tài khoản ít dùng, để tiết kiệm sức chứa trên bảng liệt kê.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
         <translation>Bạn có muốn di chuyển cái nút, hoặc thêm cái nút lối tắt không? Dễ làm. Xem cửa sổ « Cấu hình thanh công cụ » (mục trong trình đơn ngữ cảnh của thanh công cụ). Ngay cả có khả năng tạo thanh công cụ nổi được !</translation>
-    </message>
-    <message>
-        <source>Did you know that Psi is one of the only Jabber clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation>Psi là một của những ứng dụng khách Jabber duy nhất cho bạn có khả năng kết nối tới nhiều máy phục vụ đồng thời, dùng tài khoản khác nhau. Tài khoản cá nhân có thể là « ông_trơ_tráo@jabber.org », còn tài khoản việc làm có tên « nguyễn_văn @công_ty_tôi.com ».</translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
@@ -15862,19 +15858,8 @@ Chỉ trong hộp thoại chát nhóm:
         <translation>Cú nhấn giữa (nhấn cái nút giữa trên con chuột có ba cái nút) sẽ thực hiện hành động mặc định với nhiều đối tượng trong Psi. Hãy thử nhấn-giữa vào liên lạc hay điều bật lên.</translation>
     </message>
     <message>
-        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your Jabber server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation>Để thêm liên lạc từ mạng tin nhẳn khác, bạn cũng cần phải thêm tác nhân thích hợp có chạy trên máy phục vụ đó. Xem trình đơn Psi &gt; Tìm dịch vụ.</translation>
-    </message>
-    <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
         <translation>Bạn có khả năng nhấn-phải vào tên máy phục vụ trong bảng liệt kê, để thực hiện vài hành động khác nhau. Có thể thay đổi trạng thái, sửa đổi thiết lập tài khoản, đặt tùy chọn quản trị (nếu có quyền) v.v.</translation>
-    </message>
-    <message>
-        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; Jabber Server for nice services by typing its domain in the address field.
-&lt;br&gt;&lt;br&gt;
-Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation>Bạn không thể tìm truyền tải hay phòng chát trên máy phục vụ Jabber hiện thời. Không có sao. Dùng trình đơn Psi &gt; Tìm dịch vụ để tìm trong &lt;i&gt;bất cứ máy phục vụ Jabber nào&lt;/i&gt;, bằng cách gõ vào trường địa chỉ miền của nó (phần của ID Jabber nằm sau dấu @).&lt;br&gt;&lt;br&gt;
-Ghi chú : một số máy phục vụ riêng cũng tắt khả năng đăng ký truyền tải từ máy phục vụ khác, nhưng chưa có nhiều máy làm như thế.</translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
@@ -15889,6 +15874,28 @@ Ghi chú : một số máy phục vụ riêng cũng tắt khả năng đăng ký
     <message>
         <source>Contributed by</source>
         <translation>Đóng góp bởi</translation>
+    </message>
+    <message>
+        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
+&lt;br&gt;&lt;br&gt;
+Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -52,13 +52,6 @@
         <source>psi/psiplus_logo</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
-        <source>A cross-platform Jabber client designed for the Jabber power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2012 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>http://psi-im.org</source>
         <translation>http://psi-im.org</translation>
@@ -200,24 +193,6 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
         <translation>Plugin de segurança: %1</translation>
     </message>
     <message>
-        <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Jabber: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
-&lt;br&gt;
-Join the translation team today! Go to 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Flávio Henrique&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:yoshimit@gmail.com&quot;&gt;yoshimit@gmail.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Tradutor&lt;br&gt;
-&lt;br&gt;
-Entre para a equipe de tradução hoje! Visite
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt; para maiores detalhes!</translation>
-    </message>
-    <message>
         <source>Founder, Patcher and MS Windows Packager</source>
         <translation type="unfinished"></translation>
     </message>
@@ -233,20 +208,39 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; para maiores detalhes!</translation>
         <source>Psimedia Patcher and Wiki English localization</source>
         <translation type="unfinished"></translation>
     </message>
+    <message utf8="true">
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2012 The Psi Team.&lt;br&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sponsor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sponsor (Summer of Code)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
+&lt;br&gt;
+Join the translation team today! Go to 
+&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
+http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountAdd</name>
     <message>
         <source>Add Account</source>
         <translation>Adicionar conta</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
-&lt;br&gt;
-Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing Jabber account then leave this box unchecked.</source>
-        <translation>&lt;qt&gt;Por favor, escolha um &lt;b&gt;Nome&lt;/b&gt; amigável que o Psi possa usar para se referenciar a esta conta.&lt;br&gt;
-&lt;br&gt;
-Clique na caixa de seleção &lt;br&gt;&quot;Registrar nova conta&quot;&lt;/b&gt; se você deseja que o Psi crie uma conta para você em um servidor remoto. Se você estiver adicionando uma conta Jabber existente então deixe a caixa de seleção desmarcada.</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -272,16 +266,22 @@ Clique na caixa de seleção &lt;br&gt;&quot;Registrar nova conta&quot;&lt;/b&gt
         <source>psi/addContact</source>
         <translation>psi/addContact</translation>
     </message>
+    <message>
+        <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
+&lt;br&gt;
+Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing XMPP account then leave this box unchecked.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountAddDlg</name>
     <message>
-        <source>Check this option if you don&apos;t yet have a Jabber account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
-        <translation>Marque esta opção se você ainda não tem uma conta Jabber e quer registrar uma. Note que isto somente funcionará em servidores que permitam registro anônimo.</translation>
-    </message>
-    <message>
         <source>Default</source>
         <translation>Padrão</translation>
+    </message>
+    <message>
+        <source>Check this option if you don&apos;t yet have an XMPP account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -301,10 +301,6 @@ Clique na caixa de seleção &lt;br&gt;&quot;Registrar nova conta&quot;&lt;/b&gt
 </context>
 <context>
     <name>AccountManage</name>
-    <message>
-        <source>Jabber Accounts</source>
-        <translation>Contas Jabber</translation>
-    </message>
     <message>
         <source>Name</source>
         <translation>Nome</translation>
@@ -336,6 +332,10 @@ Clique na caixa de seleção &lt;br&gt;&quot;Registrar nova conta&quot;&lt;/b&gt
     <message>
         <source>psi/remove</source>
         <translation>psi/remove</translation>
+    </message>
+    <message>
+        <source>XMPP Accounts</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -378,10 +378,6 @@ Clique na caixa de seleção &lt;br&gt;&quot;Registrar nova conta&quot;&lt;/b&gt
     <message>
         <source>Example: juliet@capulet.com</source>
         <translation>Exemplo: joao@dominio.com.br</translation>
-    </message>
-    <message>
-        <source>Jabber ID:</source>
-        <translation>Jabber ID:</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -508,10 +504,6 @@ Clique na caixa de seleção &lt;br&gt;&quot;Registrar nova conta&quot;&lt;/b&gt
         <translation>Encriptar conexão:</translation>
     </message>
     <message>
-        <source>Probe legacy SSL port</source>
-        <translation>Tentar porta SSL legada</translation>
-    </message>
-    <message>
         <source>Allow plaintext authentication:</source>
         <translation>Permitir autenticação texto puro:</translation>
     </message>
@@ -562,6 +554,10 @@ Clique na caixa de seleção &lt;br&gt;&quot;Registrar nova conta&quot;&lt;/b&gt
     <message>
         <source>Realm:</source>
         <translation>Domínio:</translation>
+    </message>
+    <message>
+        <source>XMPP Address:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -623,10 +619,6 @@ Clique na caixa de seleção &lt;br&gt;&quot;Registrar nova conta&quot;&lt;/b&gt
         <translation>Mais alta</translation>
     </message>
     <message>
-        <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the Jabber server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
-        <translation>Normalmente, Psi loga usando o método de autenticação &lt;i&gt;digest&lt;/i&gt;. Marque esta caixa de seleção para forçar login em texto puro no servidor Jabber. Use esta opção somente se você tem problemas em se conectar com o procedimento normal de login, já que isso fará sua conexão potencialmente vulnerável a ataques.</translation>
-    </message>
-    <message>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
         <translation>Automaticamente logar nesta conta quando o Psi iniciar. Útil quando o Psi automaticamente for carregado quando uma conexão com a internet for detectada.</translation>
     </message>
@@ -645,30 +637,6 @@ Clique na caixa de seleção &lt;br&gt;&quot;Registrar nova conta&quot;&lt;/b&gt
     <message>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
         <translation>Envia os pacotes chamados &quot;Keep-alive&quot; periodicamente. É útil se sua conexão é configurada para se desconectar automaticamente após um certo período de inatividade (por exemplo, por seu Provedor de Internet) e você quer mantê-la ativa o tempo todo.</translation>
-    </message>
-    <message>
-        <source>Check this option to use an encrypted SSL connection to the Jabber server.  You may use this option if your server supports it and if you have the necessary QCA-OpenSSL plugin installed.  For more information, check the Psi homepage.</source>
-        <translation>Marque esta opção para usar uma conexão escriptada SSL com o servidor Jabber. Você poderá usar esta opção se seu servidor suportá-la e se você possui o plugin QCA-OpenSSL instalado. Para maiores informações, visite a página do Psi.</translation>
-    </message>
-    <message>
-        <source>Check this option to use a compressed connection to the Jabber server, if the server supports it.</source>
-        <translation>Marque esta opção para usar uma conexão compactada com o servidor Jabber, se o mesmo suportá-la.</translation>
-    </message>
-    <message>
-        <source>Use this option for manual configuration of your Jabber host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
-        <translation>Use esta opção para manualmente configurar o seu servidor Jabber se ele for diferente do servidor que você está se conectando. Esta opção é mais usada se você tem um roteador proxy em sua máquina local (por exemplo, você conecta ao localhost), mas sua conta está registrada em um servidor externo.</translation>
-    </message>
-    <message>
-        <source>You can have multiple clients connected to the Jabber server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
-        <translation>Você pode ter vários clientes conectados ao servidor Jabber com sua única conta. Cada login é diferenciado por um nome de &quot;recurso&quot;, que você pode especificar neste campo.</translation>
-    </message>
-    <message>
-        <source>This option sets the user (and realm) you want to authenticate as. This overrides the Jabber ID you are logging in as.</source>
-        <translation>Esta opção define o usuário (e domínio) que você deseja usar para se autenticar. Ela substituirá o Jabber ID que você está logado.</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;You can have multiple clients connected to the Jabber server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your Jabber client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Você pode ter vários clientes conectados ao servidor Jabber com sua única conta. Em tal situação, o cliente com a mais alta prioridade (que é especificada neste campo) é quem receberá todos os eventos.&lt;/p&gt;&lt;p&gt;Por exemplo, se você tem uma conexão permanente com a internet em seu trabalho, e uma usando linha discada em casa, você pode ter seu cliente Jabber permanentemente rodando no trabalho com uma prioridade baixa, e você ainda pode usar a mesma conta em casa, usando um cliente com maior prioridade para temporariamente &quot;desabilitar&quot; o cliente com baixa prioridade do trabalho.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Username:</source>
@@ -703,10 +671,6 @@ Clique na caixa de seleção &lt;br&gt;&quot;Registrar nova conta&quot;&lt;/b&gt
         <translation>&lt;i&gt;Nome do Usuário&lt;/i&gt; é inválido.</translation>
     </message>
     <message>
-        <source>&lt;i&gt;Jabber ID&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
-        <translation>&lt;i&gt;Jabber ID&lt;/i&gt; deve ser especificado no formato &lt;i&gt;usuario@servidor&lt;/i&gt;.</translation>
-    </message>
-    <message>
         <source>Warning</source>
         <translation>Aviso</translation>
     </message>
@@ -727,10 +691,6 @@ Clique na caixa de seleção &lt;br&gt;&quot;Registrar nova conta&quot;&lt;/b&gt
         <translation>Bloquear contato</translation>
     </message>
     <message>
-        <source>Enter the Jabber ID of the contact to block:</source>
-        <translation>Informe o Jabber ID do contato para bloquear:</translation>
-    </message>
-    <message>
         <source>Retrieving blocked contact list ...</source>
         <translation>Buscando lista de contatos bloqueados...</translation>
     </message>
@@ -741,6 +701,42 @@ Clique na caixa de seleção &lt;br&gt;&quot;Registrar nova conta&quot;&lt;/b&gt
     <message>
         <source>Your server does not support blocking.</source>
         <translation>Seu servidor não suporta bloqueio.</translation>
+    </message>
+    <message>
+        <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter the XMPP Address of the contact to block:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -780,10 +776,6 @@ Clique na caixa de seleção &lt;br&gt;&quot;Registrar nova conta&quot;&lt;/b&gt
     <message>
         <source>Encrypt connection:</source>
         <translation>Encriptar conexão:</translation>
-    </message>
-    <message>
-        <source>Probe legacy SSL port</source>
-        <translation>Tentar porta SSL legada</translation>
     </message>
     <message>
         <source>Proxy:</source>
@@ -873,14 +865,14 @@ Clique na caixa de seleção &lt;br&gt;&quot;Registrar nova conta&quot;&lt;/b&gt
         <translation>Sucesso</translation>
     </message>
     <message>
-        <source>You have successfully registered your account with Jabber ID &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>There was an error registering the account.
 Reason: %1</source>
         <translation>Ocorreu um erro registrando a conta.&lt;br&gt;
 Razão: %1</translation>
+    </message>
+    <message>
+        <source>You have successfully registered your account with XMPP address &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1062,20 +1054,8 @@ save the history for this contact.</source>
         <translation>Adicionar contato</translation>
     </message>
     <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;Jabber&lt;/span&gt; user, simply fill out the Jabber ID (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-Jabber&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get Jabber ID&lt;/span&gt; button to generate a Jabber ID for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Service:</source>
         <translation>Serviço:</translation>
-    </message>
-    <message>
-        <source>Jabber</source>
-        <translation>Jabber</translation>
     </message>
     <message>
         <source>Service ID Translation</source>
@@ -1084,10 +1064,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>No description</source>
         <translation>Sem descrição</translation>
-    </message>
-    <message>
-        <source>Get Jabber ID</source>
-        <translation>Obter Jabber ID</translation>
     </message>
     <message>
         <source>psi/vCard</source>
@@ -1104,10 +1080,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Nickname (optional):</source>
         <translation>Apelido (opcional):</translation>
-    </message>
-    <message>
-        <source>Jabber ID:</source>
-        <translation>Jabber ID:</translation>
     </message>
     <message>
         <source>Request authorization when adding</source>
@@ -1133,6 +1105,26 @@ p, li { white-space: pre-wrap; }
         <source>psi/addContact</source>
         <translation>psi/addContact</translation>
     </message>
+    <message>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMPP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Get XMPP Address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMPP Address:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AddUserDlg</name>
@@ -1149,16 +1141,6 @@ p, li { white-space: pre-wrap; }
         <translation>Adicionar Usuário: Erro</translation>
     </message>
     <message>
-        <source>Please fill in the Jabber ID of the person you wish to add.</source>
-        <translation>Por favor, informe o Jabber ID da pessoa que você deseja adicionar.</translation>
-    </message>
-    <message>
-        <source>The Jabber ID you entered is not valid!
-Make sure you enter a fully qualified Jabber ID.</source>
-        <translation>O Jabber ID que você informou é inválido.
-Certifique-se que você informou um Jabber ID qualificado.</translation>
-    </message>
-    <message>
         <source>Add User: Success</source>
         <translation>Adicionar Usuário: Sucesso</translation>
     </message>
@@ -1171,10 +1153,18 @@ Certifique-se que você informou um Jabber ID qualificado.</translation>
         <translation>Erro</translation>
     </message>
     <message>
+        <source>Please fill in the XMPP address of the person you wish to add.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The XMPP address you entered is not valid!
+Make sure you enter a fully qualified XMPP address.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;qt&gt;
-There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the Jabber ID manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aoluser@[Jabber ID of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[Jabber ID of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[Jabber ID of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[Jabber ID of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;
-Ocorreu um erro obtendo a informação do Serviço de Tradução de ID de &quot;%1&quot;.&lt;br&gt;Razão: %2&lt;br&gt;&lt;br&gt;O serviço pode não suportar esta funcionalidade. Neste caso você terá que informar o Jabber ID manualmente para o contato que você deseja adicionar. Exemplos:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;usuariojabber@servidor.com.br&lt;br&gt;&amp;nbsp;&amp;nbsp;usuarioaol@[Jabber ID do AIM]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[Jabber ID do ICQ]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[Jabber ID do MSN]&lt;br&gt;&amp;nbsp;&amp;nbsp;usuarioyahoo@[Jabber ID do Yahoo]&lt;br&gt;&lt;/qt&gt;</translation>
+There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3311,16 +3301,16 @@ Prosseguir?</translation>
         <translation>Ocorreu um erro navegando os itens de &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Razão: %2</translation>
     </message>
     <message>
-        <source>Jabber Service</source>
-        <translation>Serviço Jabber</translation>
-    </message>
-    <message>
         <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Ocorreu um erro obtendo agentes para &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Razão: %2</translation>
     </message>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Ocorreu um erro obtendo informação do item para &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Razão: %2</translation>
+    </message>
+    <message>
+        <source>XMPP Service</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4347,10 +4337,6 @@ Importantly: a large part of the options are important system settings. These re
         <translation>Todos os arquivos (*)</translation>
     </message>
     <message>
-        <source>The Jabber ID specified is not valid.  Correct this and try again.</source>
-        <translation>O Jabber ID especificado não é válido. Corrija-o e tente novamente.</translation>
-    </message>
-    <message>
         <source>The file specified does not exist.  Choose a correct file name before sending.</source>
         <translation>O arquivo especificado não existe. Escolha um nome de arquivo correto antes de enviar.</translation>
     </message>
@@ -4423,6 +4409,10 @@ se certificar que conexões de saída TCP são permitidas.</translation>
     <message>
         <source>Unable to accept the file.  Perhaps the sender has cancelled the request.</source>
         <translation>Não foi possível aceitar o arquivo. Talvez o remetente cancelou o envio.</translation>
+    </message>
+    <message>
+        <source>The XMPP address specified is not valid.  Correct this and try again.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7421,10 +7411,9 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
         <translation>O servidor não suporta criptografia TLS.</translation>
     </message>
     <message>
-        <source>There was an error communicating with the Jabber server.
+        <source>There was an error communicating with the XMPP server.
 Details: %1</source>
-        <translation>Ocorreu um erro comunicando com o servidor Jabber.
-Detalhes: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7613,10 +7602,6 @@ Tags: %1</source>
         <translation>Recuperar URL&apos;s da área de transferência</translation>
     </message>
     <message>
-        <source>Jabber ID completion</source>
-        <translation>Completar Jabber ID</translation>
-    </message>
-    <message>
         <source>Show subject line in events</source>
         <translation>Exibir linha de assunto nos eventos</translation>
     </message>
@@ -7659,6 +7644,10 @@ Tags: %1</source>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>Mensagens (Bate-papo se conversando)</translation>
+    </message>
+    <message>
+        <source>XMPP address completion</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8096,6 +8085,10 @@ Tags: %1</source>
     <message>
         <source>Animate</source>
         <translation>Animar</translation>
+    </message>
+    <message>
+        <source>Enable Growl notifications</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11299,6 +11292,14 @@ Razão: %1.</translation>
         <source>Public Key: %1</source>
         <translation>Chave Pública: %1</translation>
     </message>
+    <message>
+        <source>Feature Removed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -11916,10 +11917,6 @@ Razão: %1.</translation>
         <translation>URI</translation>
     </message>
     <message>
-        <source>Psi - The Cross-Platform Jabber/XMPP Client For Power Users</source>
-        <translation>Psi - Cliente Jabber/XMPP multiplataforma</translation>
-    </message>
-    <message>
         <source>Options:</source>
         <translation>Opções:</translation>
     </message>
@@ -11931,6 +11928,10 @@ Razão: %1.</translation>
         <source>Compiled with Qt %1</source>
         <comment>%1 will contain Qt version number</comment>
         <translation>Compilado com Qt %1</translation>
+    </message>
+    <message>
+        <source>Psi - The Cross-Platform XMPP Client For Power Users</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14056,6 +14057,14 @@ Password: %5</source>
         <source>Unsubscribe</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Conversion Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -14487,10 +14496,6 @@ Settings for authorization on some hostings can be found here: http://code.googl
         <translation>Endereço de Email</translation>
     </message>
     <message>
-        <source>Jabber ID</source>
-        <translation>Jabber ID</translation>
-    </message>
-    <message>
         <source>&amp;Add Contact</source>
         <translation>&amp;Adicionar contato</translation>
     </message>
@@ -14509,6 +14514,10 @@ Settings for authorization on some hostings can be found here: http://code.googl
     <message>
         <source>&amp;Close</source>
         <translation>&amp;Fechar</translation>
+    </message>
+    <message>
+        <source>XMPP Address</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15838,24 +15847,12 @@ E estes somente funcionam em janelas de bate-papo em grupo:
 &lt;/ul&gt;</translation>
     </message>
     <message>
-        <source>Did you know that you can register multiple Jabber accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest Jabber features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation>Você sabia que você pode registrar várias contas Jabber com Psi? Se você gosta de separar seu trabalho da sua conta pessoal, você pode. Se você é um usuário avançado que quer testar as mais novas funcionalidades do Jabber em um servidor instável, você pode fazer isso -- sem rodar um segundo cliente para se conectar ao servidor estável. Apenas clique Adicionar na tela de Configurações de Conta.</translation>
-    </message>
-    <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to Jabber. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation>Você conversa com outros programas de mensagens instantâneas como AIM e ICQ? Tente habilitar a opção &quot;ícones específicos de transportes&quot;. Isso permitirá a você ver rapidamente qual rede seu amigo está usando. Então você pode convencêlo a mudar para o Jabber. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
-    </message>
-    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
         <translation>Você sabia que você pode usar caixas de seleção na tela de Configurações de Conta para habilitar/desabilitar contas? Isso pode ser útil no caso de uma conta que você raramente usa, então você não irá bagunçar sua lista de contatos.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
         <translation>Não gosta dos botões onde eles estão? Quer uma tecla de atalho para alterar o status para Ausente? Verifique as opções em Configurar Barras de Ferramentas que está disponível pelo menu de contexto. Você pode, inclusive, ter barra de ferramentas flutuantes!</translation>
-    </message>
-    <message>
-        <source>Did you know that Psi is one of the only Jabber clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation>Você sabia que o Psi é um dos únicos clientes Jabber que permite você se conectar a vários servidores ao mesmo tempo? Você pode ser &quot;Totalmente_Beleza@jabber.org&quot; para os seus amigos e &quot;João.Pereira@suaempresa.com.br&quot; para seus contatos comerciais.</translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
@@ -15866,18 +15863,8 @@ E estes somente funcionam em janelas de bate-papo em grupo:
         <translation>Você sabia que o clique-do-meio (o botão do meio em mouses com 3 botões) irá executar a &quot;ação padrão&quot; em vários objetos dentro do Psi? Tente o clique-do-meio em um contato ou uma janela popup.</translation>
     </message>
     <message>
-        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your Jabber server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation>Para adicionar contatos de diferentes redes, você precisa adicionar um agente correspondente no seu sevidor Jabber. Dê uma olhada no menu do Psi -&gt; Detectar Serviço.</translation>
-    </message>
-    <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
         <translation>Você pode clicar com o botão direito no nome do servidor em sua lista para executar diferentes ações. Você pode alterar status, modificar configurações de conta, executar comando administrativos (se você possuir permissão) e mais.</translation>
-    </message>
-    <message>
-        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; Jabber Server for nice services by typing its domain in the address field.
-&lt;br&gt;&lt;br&gt;
-Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation>Procurando por um transporte ou sala de bate-papo mas seu servidor não fornece nada apropriado? Use o menu do Psi -&gt; Detectar Serviço para procurar em &lt;i&gt;qualquer&lt;/i&gt; Servidor Jabber por serviços interessantes.</translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
@@ -15892,6 +15879,28 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <source>Contributed by</source>
         <translation>Contribuído por</translation>
+    </message>
+    <message>
+        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
+&lt;br&gt;&lt;br&gt;
+Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

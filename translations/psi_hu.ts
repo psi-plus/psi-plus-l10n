@@ -52,13 +52,6 @@
         <source>psi/psiplus_logo</source>
         <translation>psi/psiplus_logo</translation>
     </message>
-    <message utf8="true">
-        <source>A cross-platform Jabber client designed for the Jabber power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2012 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>http://psi-im.org</source>
         <translation>http://psi-im.org</translation>
@@ -200,31 +193,6 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
         <translation>Biztonsági beépülő: %1</translation>
     </message>
     <message>
-        <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Jabber: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
-&lt;br&gt;
-Join the translation team today! Go to 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>&lt;center&gt;&lt;b&gt;45h71f&lt;/b&gt;&lt;br&gt;
-Fordító&lt;br&gt;
-&lt;a href=&quot;mailto:45h71f@mpp.hu&quot;&gt;45h71f@mpp.hu&lt;/a&gt;&lt;br&gt;&lt;br&gt;
-&lt;b&gt;&quot;They who can give up essential liberty to obtain a little temporary safety, deserve neither liberty nor safety.&quot;&lt;/b&gt; &lt;i&gt;-B. Franklin&lt;/i&gt;&lt;pre&gt;
-88888b.  .d8888b  888 
-888 &quot;88b 88K      888 
-888  888 &quot;Y8888b. 888 
-888 d88P      X88 888 
-88888P&quot;   88888P&apos; 888 
-888                   
-888                   
-888                   
-&lt;/pre&gt;&lt;/center&gt;
-Csatlakozz a fordítókhoz! További információért látogasd meg a &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;http://forum.psi-im.org/forum/14&lt;/a&gt; címet!</translation>
-    </message>
-    <message>
         <source>Founder, Patcher and MS Windows Packager</source>
         <translation type="unfinished"></translation>
     </message>
@@ -240,20 +208,39 @@ Csatlakozz a fordítókhoz! További információért látogasd meg a &lt;a href
         <source>Psimedia Patcher and Wiki English localization</source>
         <translation type="unfinished"></translation>
     </message>
+    <message utf8="true">
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2012 The Psi Team.&lt;br&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sponsor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sponsor (Summer of Code)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
+&lt;br&gt;
+Join the translation team today! Go to 
+&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
+http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountAdd</name>
     <message>
         <source>Add Account</source>
         <translation>Fiók hozzáadása</translation>
-    </message>
-    <message>
-        <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
-&lt;br&gt;
-Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing Jabber account then leave this box unchecked.</source>
-        <translation>&lt;qt&gt;Válassz egy &lt;b&gt;Nevet&lt;/b&gt; amin a Psi elnevezheti ezt a fiókot.&lt;br&gt;
-&lt;br&gt;
-Jelöld be az &lt;b&gt;Új fiók regisztrálása&lt;/b&gt; dobozt, ha szeretnél új fiókot létrehozatni a Psi-vel a távoli szerveren. Ha egy létező fiókot adsz hozzá, akkor ne jelöld be ezt a négyzetet. Vagy dobozt, vagy mit.</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -279,16 +266,22 @@ Jelöld be az &lt;b&gt;Új fiók regisztrálása&lt;/b&gt; dobozt, ha szeretnél
         <source>psi/addContact</source>
         <translation>psi/addContact</translation>
     </message>
+    <message>
+        <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
+&lt;br&gt;
+Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing XMPP account then leave this box unchecked.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountAddDlg</name>
     <message>
-        <source>Check this option if you don&apos;t yet have a Jabber account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
-        <translation>Ezt az opciót akkor jelöld be, ha még nincs Jabber fiókod, de szeretnél regisztrálni egyet. Csak olyan szervereken működik amelyek támogatják a névtelen regisztrációt.</translation>
-    </message>
-    <message>
         <source>Default</source>
         <translation>Alapértelmezett</translation>
+    </message>
+    <message>
+        <source>Check this option if you don&apos;t yet have an XMPP account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -308,10 +301,6 @@ Jelöld be az &lt;b&gt;Új fiók regisztrálása&lt;/b&gt; dobozt, ha szeretnél
 </context>
 <context>
     <name>AccountManage</name>
-    <message>
-        <source>Jabber Accounts</source>
-        <translation>Jabber fiókok</translation>
-    </message>
     <message>
         <source>Name</source>
         <translation>Név</translation>
@@ -343,6 +332,10 @@ Jelöld be az &lt;b&gt;Új fiók regisztrálása&lt;/b&gt; dobozt, ha szeretnél
     <message>
         <source>psi/remove</source>
         <translation>psi/remove</translation>
+    </message>
+    <message>
+        <source>XMPP Accounts</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -385,10 +378,6 @@ Jelöld be az &lt;b&gt;Új fiók regisztrálása&lt;/b&gt; dobozt, ha szeretnél
     <message>
         <source>Example: juliet@capulet.com</source>
         <translation>Például: julia@capulet.com</translation>
-    </message>
-    <message>
-        <source>Jabber ID:</source>
-        <translation>Jabber ID:</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -515,10 +504,6 @@ Jelöld be az &lt;b&gt;Új fiók regisztrálása&lt;/b&gt; dobozt, ha szeretnél
         <translation>Kapcsolat titkosítása:</translation>
     </message>
     <message>
-        <source>Probe legacy SSL port</source>
-        <translation>Legacy SSL port felderítése</translation>
-    </message>
-    <message>
         <source>Allow plaintext authentication:</source>
         <translation>Titkosítatlan azonosítás engedélyezése:</translation>
     </message>
@@ -569,6 +554,10 @@ Jelöld be az &lt;b&gt;Új fiók regisztrálása&lt;/b&gt; dobozt, ha szeretnél
     <message>
         <source>Realm:</source>
         <translation>Tartomány:</translation>
+    </message>
+    <message>
+        <source>XMPP Address:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -630,10 +619,6 @@ Jelöld be az &lt;b&gt;Új fiók regisztrálása&lt;/b&gt; dobozt, ha szeretnél
         <translation>Legmagasabb</translation>
     </message>
     <message>
-        <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the Jabber server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
-        <translation>Alapesetben a Psi a &lt;i&gt;digest&lt;/i&gt; hitelesitési eljárást alkalmazza. Jelöld ezt be, hogy egyszerű (plain) eljárással kapcsolódjon a Jabber szerverhez. Ezt az opciót csak akkor használd, ha problémák adódnak a normális bejelentkezéssel, mert ez potenciálisan sebezhetővé teszi a kapcsolatodat a támadásokkal szemben.</translation>
-    </message>
-    <message>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
         <translation>A fiók automatikus bejelentezése a Psi indításakor. Célszerű a Psi-t automatikusan futtatni, ha csatlakozol az internetre.</translation>
     </message>
@@ -652,30 +637,6 @@ Jelöld be az &lt;b&gt;Új fiók regisztrálása&lt;/b&gt; dobozt, ha szeretnél
     <message>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
         <translation>Egy ún. &quot;Keep-alive&quot; periódikus elküldésével fenntartja a kapcsolatot. Ez akkor lehet szükséges, ha automatikusan bontja a például a szolgáltatód a kapcsolatot üresjáratban.</translation>
-    </message>
-    <message>
-        <source>Check this option to use an encrypted SSL connection to the Jabber server.  You may use this option if your server supports it and if you have the necessary QCA-OpenSSL plugin installed.  For more information, check the Psi homepage.</source>
-        <translation>Titkosított SSL szerver kapcsolat használatához jelöld ezt be. Használata ajánlott ha az XMPP szerverhez rendelkezel a megfelelő QCA OpenSSL kiegészítővell, feltelepítve. Több információért látogass el a Psi honlapjára.</translation>
-    </message>
-    <message>
-        <source>Check this option to use a compressed connection to the Jabber server, if the server supports it.</source>
-        <translation>Tömörített kommunikáció a Jabber szerverrel, ha az támogatja.</translation>
-    </message>
-    <message>
-        <source>Use this option for manual configuration of your Jabber host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
-        <translation>Ezzel beállíthatod kézzel a Jabber hostodat, ha az nem eggyezik meg azzal, amihez kapcsolódtál. Leginkább akkor hasznos, ha valamilyen proxy mögül csatlakozol, (például localhosthoz csatlakozol), de egy külső szerveren regisztráltál.</translation>
-    </message>
-    <message>
-        <source>You can have multiple clients connected to the Jabber server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
-        <translation>Több kapcsolatod lehet a Jabber szerverhez egy felhasználóval. Mindegyik bejelentkezést az azonosítója különbözteti meg, amit itt tudsz beállítani.</translation>
-    </message>
-    <message>
-        <source>This option sets the user (and realm) you want to authenticate as. This overrides the Jabber ID you are logging in as.</source>
-        <translation>Ez az opció állítja be milyen felhasználóként (és tartományról) akarsz bejelentkezni. Felülírja a Jabber ID beállításodat.</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;You can have multiple clients connected to the Jabber server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your Jabber client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Egyszerre több kapcsolatod lehet a Jabber szerverhez egy felhasználóval. Ebben az esetben, a magasabb prioritású kliens (amit itt tudsz beállítani) fogadja az összes bejövő üzenetet.&lt;/p&gt;&lt;p&gt;Például, ha van egy állandó kapcsolatod az internethez a munkahelyeden, és van egy dial-up-os neted otthon, futhat állandóan egy Jabber kliens a munkahelyedről alacsony prioritással, és ugyanezzel a felhasználóval bejelentkezhetsz otthonról egy magasabb prioritással, így az üzeneteket otthon fogadod, és átmenetileg &quot;letiltja&quot; az alacsonyabb prioritásút a munkahelyeden.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Username:</source>
@@ -710,10 +671,6 @@ Jelöld be az &lt;b&gt;Új fiók regisztrálása&lt;/b&gt; dobozt, ha szeretnél
         <translation>A&lt;i&gt;Felhasználónév&lt;/i&gt; nem érvényes.</translation>
     </message>
     <message>
-        <source>&lt;i&gt;Jabber ID&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
-        <translation>&lt;i&gt;Jabber ID&lt;/i&gt;nek meghatározott formája van: &lt;i&gt;felhasználó@host&lt;/i&gt;.</translation>
-    </message>
-    <message>
         <source>Warning</source>
         <translation>Figyelmeztetés</translation>
     </message>
@@ -734,10 +691,6 @@ Jelöld be az &lt;b&gt;Új fiók regisztrálása&lt;/b&gt; dobozt, ha szeretnél
         <translation>Ismerős letiltása</translation>
     </message>
     <message>
-        <source>Enter the Jabber ID of the contact to block:</source>
-        <translation>Add meg a blokkolni kívánt Jabber ID-jét:</translation>
-    </message>
-    <message>
         <source>Retrieving blocked contact list ...</source>
         <translation>Tiltott kapcsolatok listájának lekérdezése...</translation>
     </message>
@@ -748,6 +701,42 @@ Jelöld be az &lt;b&gt;Új fiók regisztrálása&lt;/b&gt; dobozt, ha szeretnél
     <message>
         <source>Your server does not support blocking.</source>
         <translation>A szerver nem támogatja a letiltást.</translation>
+    </message>
+    <message>
+        <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter the XMPP Address of the contact to block:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -787,10 +776,6 @@ Jelöld be az &lt;b&gt;Új fiók regisztrálása&lt;/b&gt; dobozt, ha szeretnél
     <message>
         <source>Encrypt connection:</source>
         <translation>Kapcsolat titkosítása:</translation>
-    </message>
-    <message>
-        <source>Probe legacy SSL port</source>
-        <translation>Legacy SSL port</translation>
     </message>
     <message>
         <source>Proxy:</source>
@@ -880,14 +865,14 @@ Jelöld be az &lt;b&gt;Új fiók regisztrálása&lt;/b&gt; dobozt, ha szeretnél
         <translation>Siker</translation>
     </message>
     <message>
-        <source>You have successfully registered your account with Jabber ID &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>There was an error registering the account.
 Reason: %1</source>
         <translation>A következő probléma lépett fel a felhasználó regisztrálásánál:
 %1</translation>
+    </message>
+    <message>
+        <source>You have successfully registered your account with XMPP address &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1069,20 +1054,8 @@ save the history for this contact.</source>
         <translation>Ismerős hozzáadása</translation>
     </message>
     <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;Jabber&lt;/span&gt; user, simply fill out the Jabber ID (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-Jabber&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get Jabber ID&lt;/span&gt; button to generate a Jabber ID for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Service:</source>
         <translation>Szolgáltatás:</translation>
-    </message>
-    <message>
-        <source>Jabber</source>
-        <translation>Jabber</translation>
     </message>
     <message>
         <source>Service ID Translation</source>
@@ -1091,10 +1064,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>No description</source>
         <translation>Nincs leírás</translation>
-    </message>
-    <message>
-        <source>Get Jabber ID</source>
-        <translation>Jabber ID kérése</translation>
     </message>
     <message>
         <source>psi/vCard</source>
@@ -1111,10 +1080,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Nickname (optional):</source>
         <translation>Becenév (nem kötelező):</translation>
-    </message>
-    <message>
-        <source>Jabber ID:</source>
-        <translation>Jabber ID:</translation>
     </message>
     <message>
         <source>Request authorization when adding</source>
@@ -1140,6 +1105,26 @@ p, li { white-space: pre-wrap; }
         <source>psi/addContact</source>
         <translation>psi/addContact</translation>
     </message>
+    <message>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMPP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Get XMPP Address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XMPP Address:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AddUserDlg</name>
@@ -1156,16 +1141,6 @@ p, li { white-space: pre-wrap; }
         <translation>Partner hozzáadása: Hiba</translation>
     </message>
     <message>
-        <source>Please fill in the Jabber ID of the person you wish to add.</source>
-        <translation>Töltsd ki a hozzáadni kínánt személy Jabber ID-jét.</translation>
-    </message>
-    <message>
-        <source>The Jabber ID you entered is not valid!
-Make sure you enter a fully qualified Jabber ID.</source>
-        <translation>A Jabber ID amit beírtál nem érvényes!
-Ellenőrizd hogy érvényes Jabber ID-t írtál-e be.</translation>
-    </message>
-    <message>
         <source>Add User: Success</source>
         <translation>Partner hozzáadása: Sikeres</translation>
     </message>
@@ -1178,10 +1153,18 @@ Ellenőrizd hogy érvényes Jabber ID-t írtál-e be.</translation>
         <translation>Hiba</translation>
     </message>
     <message>
+        <source>Please fill in the XMPP address of the person you wish to add.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The XMPP address you entered is not valid!
+Make sure you enter a fully qualified XMPP address.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;qt&gt;
-There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the Jabber ID manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aoluser@[Jabber ID of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[Jabber ID of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[Jabber ID of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[Jabber ID of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;
-Hiba lépett fel a szolgáltatás azonosító átalakítása &quot;%1&quot;-ból.&lt;br&gt;Oka: %2&lt;br&gt;&lt;br&gt;Ez a szolgáltatás talán nem támogatja ezt. Ebben az esetben neked kell beírnod a Jabber ID-t, amit hozzá akarsz adni. Példák:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolfelhasználó@[az AIM átjáró Jabber ID-je]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[ICQ átjáró Jabber ID-je]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[MSN átjáró Jabber ID-je]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahoofelhasználó@[Yahoo átjáró Jabber ID-je]&lt;br&gt;&lt;/qt&gt;</translation>
+There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3318,16 +3301,16 @@ Folytatod?</translation>
         <translation>Hiba lépett fel &lt;b&gt;%1&lt;/b&gt; böngészésekor. &lt;br&gt;Oka: %2</translation>
     </message>
     <message>
-        <source>Jabber Service</source>
-        <translation>Jabber szolgáltatás</translation>
-    </message>
-    <message>
         <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Hiba lépett fel &lt;b&gt;%1&lt;/b&gt; beszerzésekor. &lt;br&gt;Oka: %2</translation>
     </message>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Hiba lépett fel &lt;b&gt;%1&lt;/b&gt; adatainak beszerzésekor. &lt;br&gt;Oka: %2</translation>
+    </message>
+    <message>
+        <source>XMPP Service</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4353,10 +4336,6 @@ Importantly: a large part of the options are important system settings. These re
         <translation>Minden fájl (*)</translation>
     </message>
     <message>
-        <source>The Jabber ID specified is not valid.  Correct this and try again.</source>
-        <translation>A megadott Jabber ID nem érvényes. Javítsd ki, és próbáld úrja.</translation>
-    </message>
-    <message>
         <source>The file specified does not exist.  Choose a correct file name before sending.</source>
         <translation>A megadott fájl nem létezik. Javítsd a nevet mielőtt küldenéd.</translation>
     </message>
@@ -4429,6 +4408,10 @@ engedélyezve vannak-e.</translation>
     <message>
         <source>Unable to accept the file.  Perhaps the sender has cancelled the request.</source>
         <translation>Nem sikerült a fájl fogadni. Lehet, hogy a küldő megszakította.</translation>
+    </message>
+    <message>
+        <source>The XMPP address specified is not valid.  Correct this and try again.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7426,10 +7409,9 @@ Oroszország, Tambov, 2005 (denis@silversoft.net)</translation>
         <translation>A szerver nem támogatja a TLS kódolást.</translation>
     </message>
     <message>
-        <source>There was an error communicating with the Jabber server.
+        <source>There was an error communicating with the XMPP server.
 Details: %1</source>
-        <translation>Hiba lépett fel a Jabber szerverrel való kommunikálás közben.
-Részletek: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7618,10 +7600,6 @@ Tags: %1</source>
         <translation>Honlapcímek felismerése a vágólapról</translation>
     </message>
     <message>
-        <source>Jabber ID completion</source>
-        <translation>Jabber ID kiegészítése</translation>
-    </message>
-    <message>
         <source>Show subject line in events</source>
         <translation>Tárgy mező mutatása az eseményekben</translation>
     </message>
@@ -7664,6 +7642,10 @@ Tags: %1</source>
     <message>
         <source>Messages (Chats if Chatting)</source>
         <translation>Üzenetekként (Beszélgetésként beszélgetés esetén)</translation>
+    </message>
+    <message>
+        <source>XMPP address completion</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8101,6 +8083,10 @@ Tags: %1</source>
     <message>
         <source>Animate</source>
         <translation>Animálás</translation>
+    </message>
+    <message>
+        <source>Enable Growl notifications</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11304,6 +11290,14 @@ A hiba oka: %1.</translation>
         <source>Public Key: %1</source>
         <translation>Nyilvános kulcs: %1</translation>
     </message>
+    <message>
+        <source>Feature Removed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
@@ -11921,10 +11915,6 @@ A hiba oka: %1.</translation>
         <translation>URI</translation>
     </message>
     <message>
-        <source>Psi - The Cross-Platform Jabber/XMPP Client For Power Users</source>
-        <translation>Psi - Egy több platformon működő Jaber/XMPP kliens</translation>
-    </message>
-    <message>
         <source>Options:</source>
         <translation>Beállítások:</translation>
     </message>
@@ -11936,6 +11926,10 @@ A hiba oka: %1.</translation>
         <source>Compiled with Qt %1</source>
         <comment>%1 will contain Qt version number</comment>
         <translation>A Qt %1 verziójával forgatva</translation>
+    </message>
+    <message>
+        <source>Psi - The Cross-Platform XMPP Client For Power Users</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14058,6 +14052,14 @@ Password: %5</source>
         <source>Unsubscribe</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Conversion Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -14488,10 +14490,6 @@ Settings for authorization on some hostings can be found here: http://code.googl
         <translation>E-Mail cím</translation>
     </message>
     <message>
-        <source>Jabber ID</source>
-        <translation>Jabber ID</translation>
-    </message>
-    <message>
         <source>&amp;Add Contact</source>
         <translation>Ismerős &amp;hozzáadása</translation>
     </message>
@@ -14510,6 +14508,10 @@ Settings for authorization on some hostings can be found here: http://code.googl
     <message>
         <source>&amp;Close</source>
         <translation>&amp;Bezárás</translation>
+    </message>
+    <message>
+        <source>XMPP Address</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15838,24 +15840,12 @@ And these work only in groupchat dialog:
 &lt;/ul&gt;</translation>
     </message>
     <message>
-        <source>Did you know that you can register multiple Jabber accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest Jabber features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation>Tudtad, hogy akár több Jabber fiókot is regisztrálhatsz a Psi-vel? Ha el akarod választani a munkahelyi fiókodat a személyestől, megteheted. Ha szeretnéd a legújabb, nem teljesen stabil Jabber újdonságokat tesztelni egy adott szerveren, azt is megteheted -- egy második kliens futtatása nélkül. Csak adj hozzá egy új fiókot a Fiókok beállításai menü alatt.</translation>
-    </message>
-    <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to Jabber. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation>Használsz más fajta azonnali üzenetküldő szolgáltatásokat is, mint az AIM vagy ICQ? Engedélyezd a &quot;protokoll specifikus ikonok&quot; opciót. Ezzel láthatod majd, hogy melyik ismerősöd melyik protokollt használja, aztán akár rájuk is tukmálhatod a Jabbert. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
-    </message>
-    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
         <translation>Tudtad, hogy engedélyezheted vagy letilthatod a fiókjaidat? Ez hasznos lehet abban az esetben, ha ritkán használod valamelyiket, így nem szemeteli tele a partnerlistádat.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
         <translation>Nem tetszenek a gombok helyei? Szeretnél egy parancsikont az egyik állapothoz? Nézd meg az Eszköztárak testreszabása menüpontot, az eszköztárak alatt. Még úszó eszköztárat is készíthetsz!</translation>
-    </message>
-    <message>
-        <source>Did you know that Psi is one of the only Jabber clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation>Tudtad, hogy a Psi az egyetlen Jabber kliens amivel több szerverre is csatlakozhatsz egyszerre? Látható lehetsz &quot;kemenycsavo@jabber.org&quot; névvel a haveroknak, de közben &quot;Kovacs_Jozsef_A_Harmadikrol@cegnev.com&quot; névvel a munkatársaknak is akár.</translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
@@ -15866,20 +15856,8 @@ And these work only in groupchat dialog:
         <translation>Tudtad, hogy egy középgombos kattintás (az egered közepén lévő görgővel, vágod) az alapértelmezett cselekvést hajtja végre szinte mindenen a Psi-ben? Próbáld ki.</translation>
     </message>
     <message>
-        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your Jabber server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation>Más azonalli üzenetküldő hálózatokon lévő ismerősök hozzáadásához egy üygnököt vagy átjárót kell keresned egy Jabber szerveren. Nyisd le a Psi menüből a Szolgáltatások feltérképezése pontot.</translation>
-    </message>
-    <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
         <translation>Jobb gombra egy szerver nevén a címlistádban sok dolgot hajthatsz végre. Az állapotodat, fiókodat adminisztrálhatod, vagy ha van hozzá jogod, egyéb moderátori dolgokat is elvégezhetsz.</translation>
-    </message>
-    <message>
-        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; Jabber Server for nice services by typing its domain in the address field.
-&lt;br&gt;&lt;br&gt;
-Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation>Keresel egy átjárót vagy egy chat szobát, de a szervered nem kínál semmit? Haználd a Psi menüjéből a Szolgáltatások listája menüpontot &lt;i&gt;bármely&lt;/i&gt; Jabber szerverhez, úgy hogy beírod a szervert a címhez.
-&lt;br&gt;&lt;br&gt;
-Megj: Néhány szerver nem engedélyezi más szerverek felhasználóinak a használatot, bár ez nem megszokott.</translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
@@ -15894,6 +15872,28 @@ Megj: Néhány szerver nem engedélyezi más szerverek felhasználóinak a haszn
     <message>
         <source>Contributed by</source>
         <translation>Köszönhető</translation>
+    </message>
+    <message>
+        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
+&lt;br&gt;&lt;br&gt;
+Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
