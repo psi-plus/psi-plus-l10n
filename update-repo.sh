@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2012-05-22
+# Updated: 2012-05-24
 # Version: N/A
 
 export CUR_DIR="${PWD}/$(dirname ${0})"
@@ -159,7 +159,11 @@ case "${1}" in
     cp *.ts "${LANG_DIR}/"
 
     cd "${MAIN_DIR}/psi-plus-i18n_transifex/"
-    tx push -s -t || exit 1
+    if [ -z "${2}" ]; then
+        tx push -s -t || exit 1
+    else
+        tx push -t -l ${2} || exit 1
+    fi
 
 ;;
 "tr_co")
@@ -181,6 +185,7 @@ case "${1}" in
     echo "Usage:"
     echo "  up cm tag push make install tarball"
     echo "  tr tr_up tr_cl tr_push tr_co"
+    echo "  tr_push <LANG> (for example: tr_push ru)"
 
 ;;
 esac
