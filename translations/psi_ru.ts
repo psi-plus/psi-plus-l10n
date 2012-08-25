@@ -11408,7 +11408,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation>В настройках этого аккаунта была указана опция &quot;Использовать стандартный порт SSL&quot;, но эта возможность больше не поддерживается. Удаление этой опции не затронет вас, если используемый вами XMPP сервер не слишном древний. Если проблемы с подключением все же возникли, проверьте настройки аккаунта или свяжитесь с администратором XMPP сервера.</translation>
+        <translation>В настройках этого аккаунта была указана опция &quot;Использовать стандартный порт SSL&quot;, но эта возможность больше не поддерживается. Удаление этой опции не затронет вас, если используемый вами XMPP сервер не слишком древний. Если проблемы с подключением все же возникли, проверьте настройки аккаунта или свяжитесь с администратором XMPP сервера.</translation>
     </message>
 </context>
 <context>
