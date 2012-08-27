@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.0" language="uk">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="uk" version="2.0">
 <context>
     <name>@default</name>
     <message>
@@ -213,15 +211,17 @@
 &lt;br&gt;
 Copyright © 2001-2012 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Крос-платформовий XMPP клієнт для досвідчених користувачів.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2012 The Psi Team.&lt;br&gt; </translation>
     </message>
     <message>
         <source>Sponsor</source>
-        <translation type="unfinished"></translation>
+        <translation>Спонсор</translation>
     </message>
     <message>
         <source>Sponsor (Summer of Code)</source>
-        <translation type="unfinished"></translation>
+        <translation>Спонсор (Summer of Code)</translation>
     </message>
     <message>
         <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
@@ -233,7 +233,16 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation type="unfinished"></translation>
+        <translation>Віталій Тонкачеєв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:thetvg@gmail.com&quot;&gt;thetvg@gmail.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Перекладач&lt;br&gt;
+&lt;br&gt;
+Приєднуйся до команди перекладачів! Подробиці у конференції 
+&lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;
+&lt;br&gt;Актуальна версія перекладу тут: 
+&lt;a href=&quot;https://www.transifex.net/projects/p/psi-plus/r/all-resources/&quot;&gt;Transifex&lt;/a&gt;
+ та тут: 
+&lt;a href=&quot;https://github.com/tehnick/psi-plus-i18n&quot;&gt;GitHub&lt;/a&gt;
+&lt;br&gt;Дата поточного перекладу: 27.08.2012</translation>
     </message>
 </context>
 <context>
@@ -270,7 +279,9 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
 &lt;br&gt;
 Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing XMPP account then leave this box unchecked.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt;Оберіть зручне &lt;b&gt;ім’я&lt;/b&gt;, яке буде використовуватись програмою в подальшому для цього акаунту.
+&lt;br&gt;
+Поставте галочку напроти &lt;b&gt;Зареєструвати новий акаунт&lt;/b&gt;, якщо Ви хочете створити новий акаунт на сервері. Якщо ви додаєте вже існуючий акаунт, не ставте її.</translation>
     </message>
 </context>
 <context>
@@ -281,7 +292,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Check this option if you don&apos;t yet have an XMPP account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Увімкніть цю опцію, тільки якщо у вас немає акаунта XMPP і вам потрібно його створити. Майте на увазі, що реєстрація нових користувачів повинна бути дозволена на сервері, інакше спроба буде невдалою.</translation>
     </message>
 </context>
 <context>
@@ -335,7 +346,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>XMPP Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Акаунти XMPP</translation>
     </message>
 </context>
 <context>
@@ -517,7 +528,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Misc.</source>
-        <translation>Інше</translation>
+        <translation>Інше.</translation>
     </message>
     <message>
         <source>Resource:</source>
@@ -557,7 +568,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>XMPP Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP адреса:</translation>
     </message>
 </context>
 <context>
@@ -704,39 +715,39 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Зазвичай Psi реєструється в мережі, використовуючи режим аутентифікації, при якому пароль не передається у відкритому вигляді. Відзначте цю опцію, якщо хочете використовувати базову автентифікацію (пароль передається у відкритому вигляді). Рекомендується робити це тільки тоді, коли у вас виникають проблеми зі звичайною процедурою реєстрації в мережі, так як теоретично цей спосіб робить з&apos;єднання вразливим.</translation>
     </message>
     <message>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation type="unfinished"></translation>
+        <translation>Увімкніть цю опцію для використання зашифрованого SSL з&apos;єднання до XMPP серверу. Ви можете використовувати цю опцію якщо ваш сервер це підтримує і у вас встановлений модуль QCA-OpenSSL. Для додаткової інформації відвідайте домашню сторінку проекту Psi.</translation>
     </message>
     <message>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Увімкніть цю опцію, якщо вам потрібно стискати передачу даних та якщо ваш XMPP сервер це підтримує. </translation>
     </message>
     <message>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовуйте цю опцію для зазначення імені сервера XMPP вручну, якщо воно відрізняється від імені сервера, з яким встановлюється з&apos;єднання. Це корисно, якщо ви підключаєтеся через проксі-сервер на вашому комп&apos;ютері (наприклад, якщо ви підключаєтеся до серверу localhost), а акаунт зареєстрований на зовнішньому сервері.</translation>
     </message>
     <message>
         <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
-        <translation type="unfinished"></translation>
+        <translation>У вас може бути декілька клієнтів, що підключено до серверу XMPP і використовують один акаунт. Клієнт ідентифікується ім&apos;ям &quot;ресурсу&quot;, яке можна вказати тут.</translation>
     </message>
     <message>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ця опція встановлює ім&apos;я користувача (і повне ім&apos;я), яке вам потрібно для аутентифікації на сервері. Це встановлює XMPP адресу, під якою ви будете входити на сервер.</translation>
     </message>
     <message>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt; У вас може бути декілька клієнтів, що підключені до серверу XMPP і використовують один аккаунт. Повідомлення, для яких не вказано &quot;ресурс-одержувач&quot; будуть доставлятися ресурсу з найбільшим пріоритетом (вказується тут).&lt;/p&gt;&lt;p&gt;Наприклад, якщо у вас постійне з&apos;єднання з Інтернетом на роботі і модемне - вдома, ви можете залишати клієнт XMPP на роботі постійно працюючим з низьким пріоритетом. При цьому ви зможете користуватися тим же аккаунтом працюючи вдома за допомогою клієнта з більш високим пріоритетом, щоб тимчасово перехоплювати повідомлення у клієнта, запущеного на робочому місці.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;i&gt;XMPP адресу&lt;/i&gt; необхідно вказати у форматі &lt;i&gt;user@host&lt;/i&gt;.</translation>
     </message>
     <message>
         <source>Enter the XMPP Address of the contact to block:</source>
-        <translation type="unfinished"></translation>
+        <translation>Введіть XMPP адресу контакта для блокування:</translation>
     </message>
 </context>
 <context>
@@ -872,7 +883,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>You have successfully registered your account with XMPP address &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви успішно зареєстрували акаунт з XMPP адресою &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -1111,21 +1122,25 @@ save the history for this contact.</source>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Щоб додати &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt;-контакт, лише впишіть цого XMPP адресу (додатково можна вказати нік та групу) та натисніть кнопку &lt;span style=&quot; font-style:italic;&quot;&gt;Додати&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;,Щоб додати контакт &lt;span style=&quot; font-weight:600;&quot;&gt;не з мережі XMPP&lt;/span&gt;, переконайтеся, що ви зареєструвались у відповідному сервісі  (див. Меню - Огляд сервісів), далі оберіть необхідний сервіс зі списку вгорі. Дотримуйтесь інструкцій &lt;span style=&quot; font-style:italic;&quot;&gt;Транслятора Service ID&lt;/span&gt;, далі натисніть  кнопку &lt;span style=&quot; font-style:italic;&quot;&gt;Отримати XMPP адресу&lt;/span&gt; для отримання XMPP адреси в правильному вигляді та натисніть кнопку &lt;span style=&quot; font-style:italic;&quot;&gt;Додати&lt;/span&gt;.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>XMPP</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP</translation>
     </message>
     <message>
         <source>Get XMPP Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Отримати XMPP адресу</translation>
     </message>
     <message>
         <source>XMPP Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP адреса:</translation>
     </message>
 </context>
 <context>
@@ -1156,17 +1171,26 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Please fill in the XMPP address of the person you wish to add.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вкажіть XMPP адресу користувача, якого ви хочете додати.</translation>
     </message>
     <message>
         <source>The XMPP address you entered is not valid!
 Make sure you enter a fully qualified XMPP address.</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP адреса, що ви ввели - недійсна!
+Переконайтесь, що ви ввели правильну XMPP адресу.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt;
+Під час отримання інформації про трансляцію Service ID з &quot;%1&quot; виникла помилка.&lt;br&gt;
+Причина: %2&lt;br&gt;&lt;br&gt;
+Можливо, даний сервіс не підтримує цю функцію. В цьому випадку вам необхідно ввести XMPP адресу контакта вручну. Приклади:&lt;br&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;jabberuser@somehost.com&lt;br&gt;
+&amp;nbsp;&amp;nbsp;aoluser@[XMPP адреса служби AIM]&lt;br&gt;
+&amp;nbsp;&amp;nbsp;1234567@[XMPP адреса служби ICQ]&lt;br&gt;
+&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP адреса служби MSN]&lt;br&gt;
+&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
@@ -2564,19 +2588,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message numerus="yes">
         <source>and %n contacts </source>
-        <translation>
-            <numerusform>and %n контакт</numerusform>
-            <numerusform>and %n контакту</numerusform>
-            <numerusform>and %n контактів</numerusform>
-        </translation>
+        <translation><numerusform>and %n контакт</numerusform><numerusform>and %n контакту</numerusform><numerusform>and %n контактів</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation>
-            <numerusform>Ця дія остаточно видалить групи:&lt;br&gt;%1&lt;br&gt;%2and %n з Вашого списку контактів.</numerusform>
-            <numerusform>Ця дія остаточно видалить групи:&lt;br&gt;%1&lt;br&gt;%2and %n з Вашого списку контактів.</numerusform>
-            <numerusform>Ця дія остаточно видалить групи:&lt;br&gt;%1&lt;br&gt;%2and %n з Вашого списку контактів.</numerusform>
-        </translation>
+        <translation><numerusform>Ця дія остаточно видалить групи:&lt;br&gt;%1&lt;br&gt;%2and %n з Вашого списку контактів.</numerusform><numerusform>Ця дія остаточно видалить групи:&lt;br&gt;%1&lt;br&gt;%2and %n з Вашого списку контактів.</numerusform><numerusform>Ця дія остаточно видалить групи:&lt;br&gt;%1&lt;br&gt;%2and %n з Вашого списку контактів.</numerusform></translation>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
@@ -3151,7 +3167,7 @@ Proceed?</source>
     </message>
     <message>
         <source>ToolBar will be placed here</source>
-        <comment>Don&apos;t translate this string</comment>
+        <comment>Don't translate this string</comment>
         <translation>Панель інструментів буде розташовано тут</translation>
     </message>
     <message>
@@ -3338,7 +3354,7 @@ Proceed?</source>
     </message>
     <message>
         <source>XMPP Service</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервіс XMPP</translation>
     </message>
 </context>
 <context>
@@ -4414,7 +4430,7 @@ contact is offline.</source>
         <source>Unable to connect to peer for data transfer.
 
 Ensure that your Data Transfer settings are proper.  If you are behind
-a NAT router or firewall then you&apos;ll need to open the proper TCP port
+a NAT router or firewall then you'll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>Неможливо з&apos;єднатися з вузлом для передачі даних.
 
@@ -4426,7 +4442,7 @@ NAT роутером чи firewall тоді вам потрібно буде в�
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
 
 This means that the Proxy service is either not functioning or it is
-unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
+unreachable.  If you are behind a firewall, then you'll need to ensure
 that outgoing TCP connections are allowed.</source>
         <translation>Не вдалося ні приєднатися до Проксі передачі даних ні активувати його.
 
@@ -4444,7 +4460,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>The XMPP address specified is not valid.  Correct this and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вказано невірну XMPP адресу.  Виправте її та спопробуйте ще раз.</translation>
     </message>
 </context>
 <context>
@@ -5979,7 +5995,7 @@ You can select or deselect a contact for history removal from the context menu o
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -5991,7 +6007,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -6007,7 +6023,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -6023,7 +6039,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -6413,7 +6429,7 @@ The plugin has a number of simple settings that can help you:
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
-Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
         <translation>Цей плагін призначений для відправки співрозмовнику графічного зображення.
 Клієнт співрозмовника повинен підтримувати XEP-0071: XHTML-IM та підтримувати схему data:URI.
@@ -6897,7 +6913,7 @@ to play gomoku. He wants to play %2.</source>
         <translation>Попередження</translation>
     </message>
     <message>
-        <source>can&apos;t create folder %1 
+        <source>can't create folder %1 
 caching avatars will be not available</source>
         <translation>неможливо створити папку%1 
 кешування аватар буде недоступне</translation>
@@ -7489,7 +7505,8 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     <message>
         <source>There was an error communicating with the XMPP server.
 Details: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Під час роботи з сервером XMPP виникла помилка.
+Подробиці: %1</translation>
     </message>
 </context>
 <context>
@@ -7724,7 +7741,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>XMPP address completion</source>
-        <translation type="unfinished"></translation>
+        <translation>Автодоповнення XMPP адреси</translation>
     </message>
 </context>
 <context>
@@ -8165,7 +8182,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Enable Growl notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Включити спливаючі оповіщення Growl</translation>
     </message>
 </context>
 <context>
@@ -8692,7 +8709,7 @@ Tags: %1</source>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -9136,7 +9153,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Видалити</translation>
     </message>
     <message>
-        <source>Disable stopspam, if don&apos;t match any rule above
+        <source>Disable stopspam, if don't match any rule above
 (does not work for muc private messages)</source>
         <translation>Вимкнути АнтиСпам, якщо не підійшло жодне з перелічених правил
 (не працює для приватних повідомлень в конференціях)</translation>
@@ -11390,11 +11407,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Feature Removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Можливісь видалено</translation>
     </message>
     <message>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation type="unfinished"></translation>
+        <translation>У налаштуваннях цього акаунту була вказана опція &quot;Використовувати стандартний порт SSL&quot;, але ця можливість більше не підтримується. Видалення цієї опції не торкнеться вас, якщо XMPP сервер, що ви використовуєте не дуже старий. Якщо проблеми з підключенням все ж виникли, перевірте налаштування акаунту або зв&apos;яжіться з адміністратором XMPP серверу.</translation>
     </message>
 </context>
 <context>
@@ -11971,7 +11988,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
-        <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
+        <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
         <translation>Встановити статус. Варіанти: &apos;online&apos;, &apos;chat&apos;, &apos;away&apos;, &apos;xa&apos;, &apos;dnd&apos;, &apos;offline&apos;.</translation>
     </message>
     <message>
@@ -12027,7 +12044,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi - The Cross-Platform XMPP Client For Power Users</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi + - мультиплатформовий XMPP-клієнт для досвідчених користувачів</translation>
     </message>
 </context>
 <context>
@@ -13709,35 +13726,19 @@ Description: </source>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
-        <translation>
-            <numerusform>%n день</numerusform>
-            <numerusform>%n днів</numerusform>
-            <numerusform>%n днів</numerusform>
-        </translation>
+        <translation><numerusform>%n день</numerusform><numerusform>%n днів</numerusform><numerusform>%n днів</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) </source>
-        <translation>
-            <numerusform>%n година</numerusform>
-            <numerusform>%n години</numerusform>
-            <numerusform>%n години</numerusform>
-        </translation>
+        <translation><numerusform>%n година</numerusform><numerusform>%n години</numerusform><numerusform>%n години</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) </source>
-        <translation>
-            <numerusform>%n хвилина</numerusform>
-            <numerusform>%n хвилин</numerusform>
-            <numerusform>%n хвилин</numerusform>
-        </translation>
+        <translation><numerusform>%n хвилина</numerusform><numerusform>%n хвилин</numerusform><numerusform>%n хвилин</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) </source>
-        <translation>
-            <numerusform>%n секунда </numerusform>
-            <numerusform>%n секунд </numerusform>
-            <numerusform>%n секунд </numerusform>
-        </translation>
+        <translation><numerusform>%n секунда </numerusform><numerusform>%n секунд </numerusform><numerusform>%n секунд </numerusform></translation>
     </message>
     <message>
         <source>Encrypting message to %1 failed.
@@ -14181,11 +14182,11 @@ URL: %4
     </message>
     <message>
         <source>Conversion Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка перетворення</translation>
     </message>
     <message>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Було знайдено файли налаштувань старої версії Psi, але переконвертувати їх для використання з поточною версією не вдалося. Переконайтесь, що ви маєте необхідні права доступу до файлів та що не запущено іншу копію програми Psi. Потім спробуйте ще раз.</translation>
     </message>
 </context>
 <context>
@@ -14280,11 +14281,7 @@ Reason: %1</source>
     <message numerus="yes">
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation>
-            <numerusform>відзначає день народження через %n день</numerusform>
-            <numerusform>відзначає день народження через %n дні</numerusform>
-            <numerusform>відзначає день народження через %n днів</numerusform>
-        </translation>
+        <translation><numerusform>відзначає день народження через %n день</numerusform><numerusform>відзначає день народження через %n дні</numerusform><numerusform>відзначає день народження через %n днів</numerusform></translation>
     </message>
     <message>
         <source>celebrates birthday yesterday.
@@ -14649,7 +14646,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
     </message>
     <message>
         <source>XMPP Address</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP адреса</translation>
     </message>
 </context>
 <context>
@@ -14688,11 +14685,7 @@ Reason: %1</source>
     </message>
     <message numerus="yes">
         <source>Added %n users to your roster.</source>
-        <translation>
-            <numerusform>Доданий %n користувач до вашого списку контактів.</numerusform>
-            <numerusform>Додано %n користувачі до вашого списку контактів.</numerusform>
-            <numerusform>Додано %n користувачів до вашого списку контактів.</numerusform>
-        </translation>
+        <translation><numerusform>Доданий %n користувач до вашого списку контактів.</numerusform><numerusform>Додано %n користувачі до вашого списку контактів.</numerusform><numerusform>Додано %n користувачів до вашого списку контактів.</numerusform></translation>
     </message>
     <message>
         <source>Added %1 to your roster.</source>
@@ -15992,7 +15985,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
         <source>You can type these special commands in chat and groupchat dialogs:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
+&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; '/me' is replaced by your nick&lt;/li&gt;
 &lt;/ul&gt;
 And these work only in groupchat dialog:
 &lt;ul&gt;
@@ -16044,25 +16037,28 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Чи знаєте ви, що можете використовувати декілька акаунтів XMPP?
+Просто натисніть &quot;Додати&quot; у розділі &quot;Акаунти&quot;.</translation>
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви спілкуєтесь з користувачами AIM та ICQ? Використовуйте транспорти, що надаються серверами XMPP. Потім ви можете вмовити ваших співрозмовників використовувати XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
     </message>
     <message>
         <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Чи знаєте ви, що Psi - один з небагатьох XMPP-клієнтів, які дозволяють працювати з декількома серверами одночасно? Ви можете використовувати &quot;mrcool@jabber.org&quot; для спілкування з друзями та &quot;John.J.Smith_the_fourth @ mycompany.com&quot; для ділових партнерів.</translation>
     </message>
     <message>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="unfinished"></translation>
+        <translation>Щоб додати контакти з інших мереж вам потрібно підключити відповідний транспорт на XMPP сервері. Див Меню -&gt; Огляд сервісів.</translation>
     </message>
     <message>
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
 &lt;br&gt;&lt;br&gt;
 Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вам потрібен транспорт або конференция, але ваш сервер не підтримує їх? Використовуйте Меню -&gt; Огляд сервісів для пошуку &lt;i&gt;будь-якого&lt;/i&gt; XMPP серверу, що має ці можливості. Для цього вкажіте його адресу.
+&lt;br&gt;&lt;br&gt;
+Примітка: деякі сервери не підтримують роботу з користувачами з інших серверів. На щастя, це трапляється рідко.</translation>
     </message>
 </context>
 <context>
@@ -17951,7 +17947,7 @@ Reathorization...</source>
 Реавторизація...</translation>
     </message>
     <message>
-        <source>Can&apos;t get files!
+        <source>Can't get files!
 Try remove cookies.</source>
         <translation>Не вдається отримати файли! 
 Спробуйте видалити куки.</translation>
@@ -18042,7 +18038,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
