@@ -12044,7 +12044,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Psi - The Cross-Platform XMPP Client For Power Users</source>
-        <translation>Psi + - мультиплатформовий XMPP-клієнт для досвідчених користувачів</translation>
+        <translation>Psi+ - мультиплатформовий XMPP-клієнт для досвідчених користувачів</translation>
     </message>
 </context>
 <context>
