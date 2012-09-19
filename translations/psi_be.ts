@@ -8195,10 +8195,6 @@ Tags: %1</source>
         <source>Animate</source>
         <translation>ажыўляць</translation>
     </message>
-    <message>
-        <source>Enable Growl notifications</source>
-        <translation type="obsolete">Апавяшчаць праз «Growl»</translation>
-    </message>
 </context>
 <context>
     <name>OptPlugins</name>
@@ -10021,10 +10017,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>For all accounts</source>
         <translation>Для ўсіх рахункаў</translation>
-    </message>
-    <message>
-        <source>Deny iq version</source>
-        <translation type="obsolete">Забараніць запытваць вэрсію</translation>
     </message>
     <message>
         <source>Deny iq time request</source>

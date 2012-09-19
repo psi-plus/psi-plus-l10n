@@ -9952,10 +9952,6 @@ zprávy v chatu víde lidí)</translation>
         <translation>Pro všechny účty</translation>
     </message>
     <message>
-        <source>Deny iq version</source>
-        <translation type="obsolete">Zakázat verzi IQ</translation>
-    </message>
-    <message>
         <source>Deny iq time request</source>
         <translation>Zakázat časové požadavky IQ</translation>
     </message>

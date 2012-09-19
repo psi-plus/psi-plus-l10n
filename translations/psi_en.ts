@@ -8112,7 +8112,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Enable Alt-[0-9] tab shortcuts</translation>
     </message>
 </context>
 <context>
@@ -8188,10 +8188,6 @@ Tags: %1</translation>
     <message>
         <source>Animate</source>
         <translation>Animate</translation>
-    </message>
-    <message>
-        <source>Enable Growl notifications</source>
-        <translation type="obsolete">Enable Growl notifications</translation>
     </message>
 </context>
 <context>
@@ -10017,10 +10013,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>For all accounts</translation>
     </message>
     <message>
-        <source>Deny iq version</source>
-        <translation type="obsolete">Deny iq version</translation>
-    </message>
-    <message>
         <source>Deny iq time request</source>
         <translation>Deny iq time request</translation>
     </message>
@@ -10206,19 +10198,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Response mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Response mode</translation>
     </message>
     <message>
         <source>allow</source>
-        <translation type="unfinished"></translation>
+        <translation>allow</translation>
     </message>
     <message>
         <source>not implemented</source>
-        <translation type="unfinished"></translation>
+        <translation>not implemented</translation>
     </message>
     <message>
         <source>ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>ignore</translation>
     </message>
 </context>
 <context>

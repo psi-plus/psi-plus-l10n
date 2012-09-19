@@ -9933,10 +9933,6 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
         <translation>Für alle Konten</translation>
     </message>
     <message>
-        <source>Deny iq version</source>
-        <translation type="obsolete">Verweigere Versions-IQ-Abfrage</translation>
-    </message>
-    <message>
         <source>Deny iq time request</source>
         <translation>Verweigere Zeit-IQ-Abfrage</translation>
     </message>
