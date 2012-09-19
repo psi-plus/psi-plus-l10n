@@ -8065,6 +8065,10 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
         <source>Never</source>
         <translation>Nigdy</translation>
     </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptEvents</name>
@@ -8139,10 +8143,6 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     <message>
         <source>Animate</source>
         <translation>Animowane ikonki</translation>
-    </message>
-    <message>
-        <source>Enable Growl notifications</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9952,10 +9952,6 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Deny iq version</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Deny iq time request</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10137,6 +10133,22 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Response mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>allow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>not implemented</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ignore</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

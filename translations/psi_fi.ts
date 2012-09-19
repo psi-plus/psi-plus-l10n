@@ -7996,6 +7996,10 @@ Tags: %1</source>
         <source>Never</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Enable Alt-[0-9] tab shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptEvents</name>
@@ -8069,10 +8073,6 @@ Tags: %1</source>
     </message>
     <message>
         <source>Animate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable Growl notifications</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9880,10 +9880,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Deny iq version</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Deny iq time request</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10065,6 +10061,22 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Response mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>allow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>not implemented</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ignore</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
