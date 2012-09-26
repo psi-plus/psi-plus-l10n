@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2012-05-24
+# Updated: 2012-09-26
 # Version: N/A
 
 export CUR_DIR="${PWD}/$(dirname ${0})"
@@ -74,14 +74,14 @@ case "${1}" in
 
     tar -cJf psi-plus_translations_${CUR_TAG}.tar.xz psi-plus_translations_${CUR_TAG} || exit 1
     echo "Tarball with precompiled translation files is ready for upload:"
-    echo "https://github.com/tehnick/psi-plus-i18n/downloads"
+    echo "https://github.com/psi-plus/psi-plus-l10n/downloads"
 
 ;;
 "tr")
 
     LANG_DIR="${CUR_DIR}/translations"
 
-    cd "${MAIN_DIR}/psi-plus-i18n_transifex" || exit 1
+    cd "${MAIN_DIR}/psi-plus-l10n_transifex" || exit 1
     tx pull -a -s || exit 1
 
     cd "translations/psi-plus.full/" || exit 1
@@ -152,13 +152,13 @@ case "${1}" in
 ;;
 "tr_push")
 
-    LANG_DIR="${MAIN_DIR}/psi-plus-i18n_transifex/translations/psi-plus.full"
+    LANG_DIR="${MAIN_DIR}/psi-plus-l10n_transifex/translations/psi-plus.full"
     cd "${LANG_DIR}" || exit 1
 
     cd "${CUR_DIR}/translations/" || exit 1
     cp *.ts "${LANG_DIR}/"
 
-    cd "${MAIN_DIR}/psi-plus-i18n_transifex/"
+    cd "${MAIN_DIR}/psi-plus-l10n_transifex/"
     if [ -z "${2}" ]; then
         tx push -s -t || exit 1
     else
@@ -168,14 +168,14 @@ case "${1}" in
 ;;
 "tr_co")
 
-    if [ -d "${MAIN_DIR}/psi-plus-i18n_transifex" ]; then
-        echo "${MAIN_DIR}/psi-plus-i18n_transifex"
+    if [ -d "${MAIN_DIR}/psi-plus-l10n_transifex" ]; then
+        echo "${MAIN_DIR}/psi-plus-l10n_transifex"
         echo "directory is already exists!"
     else
-        echo "Creating ${MAIN_DIR}/psi-plus-i18n_transifex"
-        mkdir -p "${MAIN_DIR}/psi-plus-i18n_transifex/.tx"
-        cp "transifex.config" "${MAIN_DIR}/psi-plus-i18n_transifex/.tx/config"
-        cd "${MAIN_DIR}/psi-plus-i18n_transifex" || exit 1
+        echo "Creating ${MAIN_DIR}/psi-plus-l10n_transifex"
+        mkdir -p "${MAIN_DIR}/psi-plus-l10n_transifex/.tx"
+        cp "transifex.config" "${MAIN_DIR}/psi-plus-l10n_transifex/.tx/config"
+        cd "${MAIN_DIR}/psi-plus-l10n_transifex" || exit 1
         tx pull -a -s || exit 1
     fi
 
