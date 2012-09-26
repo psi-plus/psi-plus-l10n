@@ -241,8 +241,8 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
 &lt;br&gt;Актуальна версія перекладу тут: 
 &lt;a href=&quot;https://www.transifex.net/projects/p/psi-plus/r/all-resources/&quot;&gt;Transifex&lt;/a&gt;
  та тут: 
-&lt;a href=&quot;https://github.com/tehnick/psi-plus-i18n&quot;&gt;GitHub&lt;/a&gt;
-&lt;br&gt;Дата поточного перекладу: 27.08.2012</translation>
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;
+&lt;br&gt;Дата поточного перекладу: 26.09.2012</translation>
     </message>
 </context>
 <context>
@@ -8184,10 +8184,6 @@ Tags: %1</source>
         <source>Animate</source>
         <translation>Анімація</translation>
     </message>
-    <message>
-        <source>Enable Growl notifications</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>OptPlugins</name>
@@ -10008,10 +10004,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>For all accounts</source>
         <translation>Для всіх акаунтів</translation>
-    </message>
-    <message>
-        <source>Deny iq version</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Deny iq time request</source>
