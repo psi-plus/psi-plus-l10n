@@ -8102,7 +8102,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation>Использовать горячие клавиши Alt-[0-9] для навигации по табам</translation>
+        <translation>Использовать горячие клавиши Alt-[0-9] для навигации по вкладкам</translation>
     </message>
 </context>
 <context>
