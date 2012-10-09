@@ -3953,7 +3953,7 @@ Wenn Sie die Anforderung zulassen möchten, drücken Sie bitte &lt;bestätigen&g
     </message>
     <message>
         <source>Hide auto-join conferences</source>
-        <translation>Verstecke autom. beigetretene Konferenzen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable HTML rendering in MUC chat window</source>
@@ -4269,6 +4269,10 @@ Importantly: a large part of the options are important system settings. These re
     <message>
         <source>Notifications</source>
         <translation>Benachrichtigungen</translation>
+    </message>
+    <message>
+        <source>Hide conference on auto-join</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8135,10 +8139,6 @@ Tags: %1</translation>
         <source>Animate</source>
         <translation>Animieren</translation>
     </message>
-    <message>
-        <source>Enable Growl notifications</source>
-        <translation type="unfinished"/>
-    </message>
 </context>
 <context>
     <name>OptPlugins</name>
@@ -9954,10 +9954,6 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     <message>
         <source>For all accounts</source>
         <translation>Für alle Konten</translation>
-    </message>
-    <message>
-        <source>Deny iq version</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <source>Deny iq time request</source>
@@ -12680,7 +12676,11 @@ Fortfahren?</translation>
     <name>PsiToolBar</name>
     <message>
         <source>Configure&amp; Toolbar...</source>
-        <translation>Symbolleiste &amp;einrichten ...</translation>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Configure Toolbar...</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

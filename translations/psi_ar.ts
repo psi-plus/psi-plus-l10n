@@ -4216,6 +4216,10 @@ Importantly: a large part of the options are important system settings. These re
         <source>Notifications</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Hide conference on auto-join</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>
@@ -12550,6 +12554,10 @@ Proceed?</source>
     <name>PsiToolBar</name>
     <message>
         <source>Configure&amp; Toolbar...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Configure Toolbar...</source>
         <translation type="unfinished"/>
     </message>
 </context>

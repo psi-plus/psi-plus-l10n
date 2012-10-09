@@ -3964,7 +3964,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Hide auto-join conferences</source>
-        <translation>Сховати конференції що підключаються автоматично</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable HTML rendering in MUC chat window</source>
@@ -4283,6 +4283,10 @@ Importantly: a large part of the options are important system settings. These re
     <message>
         <source>Notifications</source>
         <translation>Повідомлення</translation>
+    </message>
+    <message>
+        <source>Hide conference on auto-join</source>
+        <translation>Ховати вікно конференції при авто-вході</translation>
     </message>
 </context>
 <context>
@@ -12728,7 +12732,11 @@ Proceed?</source>
     <name>PsiToolBar</name>
     <message>
         <source>Configure&amp; Toolbar...</source>
-        <translation>Налаштунки&amp; панелей...</translation>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>&amp;Configure Toolbar...</source>
+        <translation>&amp;Налаштувати панель інструментів...</translation>
     </message>
 </context>
 <context>
