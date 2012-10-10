@@ -10,7 +10,11 @@ export CUR_DIR="${PWD}/$(dirname ${0})"
 export MAIN_DIR="${CUR_DIR}/.."
 export PSIPLUS_DIR="${MAIN_DIR}/psi-plus"
 
-git status
+# Test Internet connection:
+host github.com > /dev/null || exit 1
+
+cd "${CUR_DIR}" || exit 1
+git status || exit 1
 
 case "${1}" in
 "up")
