@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2012-09-26
+# Updated: 2012-10-11
 # Version: N/A
 
 export CUR_DIR="${PWD}/$(dirname ${0})"
@@ -180,11 +180,22 @@ case "${1}" in
     fi
 
 ;;
+"tr_sync")
+
+    "${0}" tr > /dev/null || exit 1
+    git status || exit 1
+
+    if [ "$(git status | grep 'translations/' | wc -l)" -gt 0 ]; then
+        "${0}" cm || exit 1
+        "${0}" push || exit 1
+    fi
+    echo ;
+;;
 *)
 
     echo "Usage:"
     echo "  up cm tag push make install tarball"
-    echo "  tr tr_up tr_cl tr_push tr_co"
+    echo "  tr tr_up tr_cl tr_push tr_co tr_sync"
     echo "  tr_push <LANG> (for example: tr_push ru)"
 
 ;;
