@@ -3,10 +3,15 @@
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2012-10-11
+# Updated: 2012-10-12
 # Version: N/A
 
-export CUR_DIR="${PWD}/$(dirname ${0})"
+if [[ ${0} =~ ^/.+$ ]]; then
+    export CUR_DIR="$(dirname ${0})"
+else
+    export CUR_DIR="${PWD}/$(dirname ${0})"
+fi
+
 export MAIN_DIR="${CUR_DIR}/.."
 export PSIPLUS_DIR="${MAIN_DIR}/psi-plus"
 
