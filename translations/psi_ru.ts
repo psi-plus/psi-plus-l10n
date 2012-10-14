@@ -3967,10 +3967,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <translation>Включить автоподключение к закладкам</translation>
     </message>
     <message>
-        <source>Hide auto-join conferences</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Enable HTML rendering in MUC chat window</source>
         <translation>Включить рендеринг HTML в конференциях</translation>
     </message>
@@ -12737,10 +12733,6 @@ Proceed?</source>
 </context>
 <context>
     <name>PsiToolBar</name>
-    <message>
-        <source>Configure&amp; Toolbar...</source>
-        <translation></translation>
-    </message>
     <message>
         <source>&amp;Configure Toolbar...</source>
         <translation>Настроить панель &amp;инструментов...</translation>
