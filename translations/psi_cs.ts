@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.0" language="cs">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="cs" version="2.0">
 <context>
     <name>@default</name>
     <message>
@@ -213,15 +211,15 @@
 &lt;br&gt;
 Copyright © 2001-2012 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sponsor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sponsor (Summer of Code)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
@@ -233,7 +231,7 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -270,7 +268,7 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
 &lt;br&gt;
 Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing XMPP account then leave this box unchecked.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -281,7 +279,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Check this option if you don&apos;t yet have an XMPP account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -335,7 +333,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>XMPP Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -533,7 +531,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>In-Band only (slow)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Proxy:</source>
@@ -557,7 +555,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>XMPP Address:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -704,39 +702,39 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enter the XMPP Address of the contact to block:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -872,7 +870,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>You have successfully registered your account with XMPP address &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1111,21 +1109,21 @@ ukládat historii pro tento kontakt.</translation>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XMPP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Get XMPP Address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XMPP Address:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1156,17 +1154,17 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Please fill in the XMPP address of the person you wish to add.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The XMPP address you entered is not valid!
 Make sure you enter a fully qualified XMPP address.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2350,7 +2348,7 @@ Můžete nastavit vše ručně, nebo si vybrat některou z předdefinovaných mo
 Conferences logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with conference.
 
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2561,19 +2559,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message numerus="yes">
         <source>and %n contacts </source>
-        <translation>
-            <numerusform>a %n kontakt </numerusform>
-            <numerusform>a %n kontakty </numerusform>
-            <numerusform>a %n kontaktů </numerusform>
-        </translation>
+        <translation><numerusform>a %n kontakt </numerusform><numerusform>a %n kontakty </numerusform><numerusform>a %n kontaktů </numerusform></translation>
     </message>
     <message numerus="yes">
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation>
-            <numerusform>Navždy odstranit:&lt;br&gt;%1&lt;br&gt;%2a %n skupinu ze seznamu kontaktů.</numerusform>
-            <numerusform>Navždy odstranit:&lt;br&gt;%1&lt;br&gt;%2a %n skupiny ze seznamu kontaktů.</numerusform>
-            <numerusform>Navždy odstranit:&lt;br&gt;%1&lt;br&gt;%2a %n skupin ze seznamu kontaktů.</numerusform>
-        </translation>
+        <translation><numerusform>Navždy odstranit:&lt;br&gt;%1&lt;br&gt;%2a %n skupinu ze seznamu kontaktů.</numerusform><numerusform>Navždy odstranit:&lt;br&gt;%1&lt;br&gt;%2a %n skupiny ze seznamu kontaktů.</numerusform><numerusform>Navždy odstranit:&lt;br&gt;%1&lt;br&gt;%2a %n skupin ze seznamu kontaktů.</numerusform></translation>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
@@ -3150,7 +3140,7 @@ Provést?</translation>
     </message>
     <message>
         <source>ToolBar will be placed here</source>
-        <comment>Don&apos;t translate this string</comment>
+        <comment>Don't translate this string</comment>
         <translation>Nástrojová lišta sem bude umístěna</translation>
     </message>
     <message>
@@ -3337,7 +3327,7 @@ Provést?</translation>
     </message>
     <message>
         <source>XMPP Service</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3505,11 +3495,11 @@ Provést?</translation>
     </message>
     <message>
         <source>PostData**:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File Input**:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>RegExp**:</source>
@@ -4240,7 +4230,7 @@ Toto nastavení má účinek pouze je-li akceptovat-výchozí vypnuto.</translat
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
 Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable last activity server</source>
@@ -4264,7 +4254,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Hide conference on auto-join</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4412,7 +4402,7 @@ je kontakt offline.</translation>
         <source>Unable to connect to peer for data transfer.
 
 Ensure that your Data Transfer settings are proper.  If you are behind
-a NAT router or firewall then you&apos;ll need to open the proper TCP port
+a NAT router or firewall then you'll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>Nemohu se spojit s protějškem pro přenos souboru.
 
@@ -4423,7 +4413,7 @@ nebo specifikovat proxy pro přenos souborů.</translation>
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
 
 This means that the Proxy service is either not functioning or it is
-unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
+unreachable.  If you are behind a firewall, then you'll need to ensure
 that outgoing TCP connections are allowed.</source>
         <translation>Chyba při spojení nebo aktivaci proxy pro přenos dat.
 Tato chyba znamená, že proxy buď nepracuje a nebo je
@@ -4440,7 +4430,7 @@ nedostupná.  Pokud jsi za firewallem, je nutné se ujistit,
     </message>
     <message>
         <source>The XMPP address specified is not valid.  Correct this and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5509,7 +5499,7 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>A thoroughfare within the locality, or a crossing of two thoroughfares</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text:</source>
@@ -5670,7 +5660,7 @@ Pozn.: zásuvný modul kontroluje pro nové zprávy pouze kořenovou složku př
     <message>
         <source>This plugin allows you to play gomoku with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Gomoku game</source>
@@ -5840,7 +5830,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>HistoryDlg</name>
     <message>
         <source>HistoryDlg</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Refresh history</source>
@@ -5956,7 +5946,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi+ is closed.
 You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5972,7 +5962,7 @@ You can select or deselect a contact for history removal from the context menu o
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -5984,9 +5974,9 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Import Psi profile</source>
@@ -5996,9 +5986,9 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Import Psi profile and remove it</source>
@@ -6008,9 +5998,9 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Create new profile</source>
@@ -6108,7 +6098,7 @@ p, li { white-space: pre-wrap; }
     <name>IconsetActivity</name>
     <message>
         <source>IconsetActivityUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Activity iconsets</source>
@@ -6123,7 +6113,7 @@ p, li { white-space: pre-wrap; }
     <name>IconsetAffiliation</name>
     <message>
         <source>IconsetClientUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Affiliation iconsets</source>
@@ -6138,7 +6128,7 @@ p, li { white-space: pre-wrap; }
     <name>IconsetClient</name>
     <message>
         <source>IconsetClientUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Client iconsets</source>
@@ -6226,7 +6216,7 @@ p, li { white-space: pre-wrap; }
     <name>IconsetMood</name>
     <message>
         <source>IconsetMoodUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mood iconsets</source>
@@ -6329,14 +6319,14 @@ p, li { white-space: pre-wrap; }
         <source>Я Вам как Linux скажу, только Вы не обижайтесь. Этот человек, конечно, получит Ваше сообщение, но лучше бы Вам общаться с ним через Jabber. А то не ровен час - аська сдохнет, старушка своё отжила. Его JID: %1.
 
 Искренне Ваш, Debian Sid.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message utf8="true">
         <source>Я Вам как Linux скажу, только Вы не обижайтесь. Этот человек имел в виду всех пользователей аськи, поэтому если Вы до сих пор сидите в этой сети, то он не получит Ваше сообщение, поэтому Вам придётся общаться с ним через Jabber. Его JID: %1.
 
 Если Вы не знаете что такое Jabber, то есть Google - он всё знает и поможет любому, кто к нему обратится.
 Искренне Ваш, Debian Sid.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -6355,7 +6345,7 @@ The plugin has a number of simple settings that can help you:
 * set the max count of messages by contact
 * disable the message for the active window/tab
 * disable messages for contacts that are not in your roster</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6382,9 +6372,9 @@ The plugin has a number of simple settings that can help you:
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
-Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open file</source>
@@ -6865,7 +6855,7 @@ hře gomoku. Chce hrát za %2.</translation>
         <translation>Varování</translation>
     </message>
     <message>
-        <source>can&apos;t create folder %1 
+        <source>can't create folder %1 
 caching avatars will be not available</source>
         <translation>nelze vytvořit adresář %1
 vyrovnávací paměť avatarů nebude dostupná</translation>
@@ -6898,7 +6888,7 @@ Currently, the plugin is able to:
 * Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
 
 Note: To work correctly, the option options.html.chat.render	must be set to true. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Time stamp: %1</source>
@@ -7451,7 +7441,7 @@ Rusko, Tambov, 2005 (denis@silversoft.net)</translation>
     <message>
         <source>There was an error communicating with the XMPP server.
 Details: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7686,7 +7676,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>XMPP address completion</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7863,7 +7853,7 @@ Tagy: %1</translation>
     <name>OptAppearanceTheme</name>
     <message>
         <source>OptAppearanceThemeUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;a href=&quot;thememanager://showmore/&quot;&gt;More themes&lt;/a&gt;</source>
@@ -8052,7 +8042,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8161,7 +8151,7 @@ Tagy: %1</translation>
     <name>OptPopups</name>
     <message>
         <source>OptPopupsUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable popup notifications</source>
@@ -8260,7 +8250,7 @@ Tagy: %1</translation>
     <name>OptRoster</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished">OptApplicationUI</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Roster window always on top</source>
@@ -8654,9 +8644,9 @@ Tagy: %1</translation>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8705,10 +8695,6 @@ p, li { white-space: pre-wrap; }
         <translation>Psi: Editor voleb</translation>
     </message>
     <message>
-        <source>Psi: Edit Option %1</source>
-        <translation type="obsolete">Pri: Upravit volbu %1</translation>
-    </message>
-    <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
         <translation>Nemohu upravit tento typ nastasvení, sorry.</translation>
     </message>
@@ -8722,11 +8708,11 @@ Názvy voleb nemůžou být prázdné, končit &apos;.&apos; nebo obsahovat &apo
     </message>
     <message>
         <source>Option Editor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Edit Option %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9071,7 +9057,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Number of blocked stanzas:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>View Log</source>
@@ -9106,7 +9092,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Del</translation>
     </message>
     <message>
-        <source>Disable stopspam, if don&apos;t match any rule above
+        <source>Disable stopspam, if don't match any rule above
 (does not work for muc private messages)</source>
         <translation>Zakázat Stop spam, pokud žádné shora uvedené
 pravidlo neodpovídá (nefunguje pro soukromé
@@ -9886,7 +9872,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Tunes no-video filter and controllers switcher</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9989,11 +9975,11 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Caps node</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Caps version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable for:</source>
@@ -10145,19 +10131,19 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Response mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>allow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>not implemented</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ignore</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11334,7 +11320,7 @@ Detaily: %1</translation>
     </message>
     <message>
         <source>Version Query Information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Headline</source>
@@ -11372,11 +11358,11 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Feature Removed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11953,7 +11939,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
-        <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
+        <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
         <translation>Nastavit stav. STAV musí být jedno z `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</translation>
     </message>
     <message>
@@ -12009,7 +11995,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Psi - The Cross-Platform XMPP Client For Power Users</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12600,46 +12586,6 @@ Chceš aktivovat tuto relaci?</translation>
 <context>
     <name>PsiPopup</name>
     <message>
-        <source>Contact online</source>
-        <translation type="obsolete">Kontakt je online</translation>
-    </message>
-    <message>
-        <source>Contact offline</source>
-        <translation type="obsolete">Kontakt je offline</translation>
-    </message>
-    <message>
-        <source>Status change</source>
-        <translation type="obsolete">Změna stavu</translation>
-    </message>
-    <message>
-        <source>Incoming message</source>
-        <translation type="obsolete">Příchozí zpráva</translation>
-    </message>
-    <message>
-        <source>Typing notify</source>
-        <translation type="obsolete">Oznámení psaní</translation>
-    </message>
-    <message>
-        <source>Incoming chat message</source>
-        <translation type="obsolete">Příchozí zpráva rozhovoru</translation>
-    </message>
-    <message>
-        <source>Headline</source>
-        <translation type="obsolete">Titulek</translation>
-    </message>
-    <message>
-        <source>Incoming file</source>
-        <translation type="obsolete">Příchozí soubor</translation>
-    </message>
-    <message>
-        <source>Incoming call</source>
-        <translation type="obsolete">Příchozí hovor</translation>
-    </message>
-    <message>
-        <source>Groupchat highlight</source>
-        <translation type="obsolete">Zvýrazňování skupinového chatu</translation>
-    </message>
-    <message>
         <source>Subject:</source>
         <translation>Věc:</translation>
     </message>
@@ -12682,14 +12628,14 @@ Pokračovat?</translation>
     <name>PsiToolBar</name>
     <message>
         <source>&amp;Configure Toolbar...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>PsiWindowHeader</name>
     <message>
         <source>PsiWindowHeader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>...</source>
@@ -12812,7 +12758,7 @@ Pokračovat?</translation>
     </message>
     <message>
         <source>Doing Chores</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Buying Groceries</source>
@@ -12844,7 +12790,7 @@ Pokračovat?</translation>
     </message>
     <message>
         <source>Running An Errand</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Walking The Dog</source>
@@ -12904,7 +12850,7 @@ Pokračovat?</translation>
     </message>
     <message>
         <source>Jogging</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Playing Sports</source>
@@ -12924,11 +12870,11 @@ Pokračovat?</translation>
     </message>
     <message>
         <source>Working Out</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Grooming</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>At The Spa</source>
@@ -13008,7 +12954,7 @@ Pokračovat?</translation>
     </message>
     <message>
         <source>Going Out</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Partying</source>
@@ -13068,7 +13014,7 @@ Pokračovat?</translation>
     </message>
     <message>
         <source>Commuting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Driving</source>
@@ -13276,7 +13222,7 @@ Popis: </translation>
     </message>
     <message>
         <source>Amorous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Annoyed</source>
@@ -13324,7 +13270,7 @@ Popis: </translation>
     </message>
     <message>
         <source>Contemplative</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contented</source>
@@ -13348,7 +13294,7 @@ Popis: </translation>
     </message>
     <message>
         <source>Dejected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Depressed</source>
@@ -13364,7 +13310,7 @@ Popis: </translation>
     </message>
     <message>
         <source>Dismayed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distracted</source>
@@ -13488,7 +13434,7 @@ Popis: </translation>
     </message>
     <message>
         <source>Outraged</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Playful</source>
@@ -13692,35 +13638,19 @@ Popis: </translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
-        <translation>
-            <numerusform>%n den</numerusform>
-            <numerusform>%n dnů</numerusform>
-            <numerusform>%n dnů</numerusform>
-        </translation>
+        <translation><numerusform>%n den</numerusform><numerusform>%n dnů</numerusform><numerusform>%n dnů</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) </source>
-        <translation>
-            <numerusform>%n hodina </numerusform>
-            <numerusform>%n hodin </numerusform>
-            <numerusform>%n hodin </numerusform>
-        </translation>
+        <translation><numerusform>%n hodina </numerusform><numerusform>%n hodin </numerusform><numerusform>%n hodin </numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) </source>
-        <translation>
-            <numerusform>%n minuta </numerusform>
-            <numerusform>%n minut </numerusform>
-            <numerusform>%n minut </numerusform>
-        </translation>
+        <translation><numerusform>%n minuta </numerusform><numerusform>%n minut </numerusform><numerusform>%n minut </numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) </source>
-        <translation>
-            <numerusform>%n sekunda </numerusform>
-            <numerusform>%n sekund </numerusform>
-            <numerusform>%n sekund </numerusform>
-        </translation>
+        <translation><numerusform>%n sekunda </numerusform><numerusform>%n sekund </numerusform><numerusform>%n sekund </numerusform></translation>
     </message>
     <message>
         <source>Encrypting message to %1 failed.
@@ -13821,14 +13751,6 @@ Heslo: %5</translation>
         <translation>Zpráva skupinového chatu</translation>
     </message>
     <message>
-        <source>Classic</source>
-        <translation type="obsolete">Klasický</translation>
-    </message>
-    <message>
-        <source>DBus</source>
-        <translation type="obsolete">DBus</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -13858,11 +13780,11 @@ Heslo: %5</translation>
     </message>
     <message>
         <source>Presence-In,</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Presence-Out,</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Queries,</source>
@@ -14160,39 +14082,39 @@ Heslo: %5</translation>
     </message>
     <message>
         <source>Conversion Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contact online</source>
-        <translation type="unfinished">Kontakt je online</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation type="unfinished">Kontakt je offline</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Status change</source>
-        <translation type="unfinished">Změna stavu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Incoming message</source>
-        <translation type="unfinished">Příchozí zpráva</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation type="unfinished">Příchozí zpráva rozhovoru</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Incoming file</source>
-        <translation type="unfinished">Příchozí soubor</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Incoming call</source>
-        <translation type="unfinished">Příchozí hovor</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14288,14 +14210,10 @@ Zdůvodnění: %1</translation>
     <message numerus="yes">
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation>
-            <numerusform>slaví narozeniny za %n den
-</numerusform>
-            <numerusform>slaví narozeniny za %n dny
-</numerusform>
-            <numerusform>slaví narozeniny za %n dny
-</numerusform>
-        </translation>
+        <translation><numerusform>slaví narozeniny za %n den
+</numerusform><numerusform>slaví narozeniny za %n dny
+</numerusform><numerusform>slaví narozeniny za %n dny
+</numerusform></translation>
     </message>
     <message>
         <source>celebrates birthday yesterday.
@@ -14325,7 +14243,7 @@ Zdůvodnění: %1</translation>
     <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
 The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14574,7 +14492,7 @@ The plugin has the following settings:
 * Format -- the file format in which the screenshot will be stored (default: .jpg)
 * File Name -- format of the filename (default: pic-yyyyMMdd-hhmmss, where yyyyMMdd=YYYYMMDD, and hhmmss are current date in the format yearmonthday-hourminutesecond)
 The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>
@@ -14653,7 +14571,7 @@ Nastavení pro ověření některých hostingů lze nalézt zde: http://code.goo
     </message>
     <message>
         <source>XMPP Address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14692,11 +14610,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message numerus="yes">
         <source>Added %n users to your roster.</source>
-        <translation>
-            <numerusform>%n uživatel byl přidán do seznamu kontaktů.</numerusform>
-            <numerusform>%n uživatelé byli přidán do seznamu kontaktů.</numerusform>
-            <numerusform>%n uživatelů bylo přidáno do seznamu kontaktů.</numerusform>
-        </translation>
+        <translation><numerusform>%n uživatel byl přidán do seznamu kontaktů.</numerusform><numerusform>%n uživatelé byli přidán do seznamu kontaktů.</numerusform><numerusform>%n uživatelů bylo přidáno do seznamu kontaktů.</numerusform></translation>
     </message>
     <message>
         <source>Added %1 to your roster.</source>
@@ -15422,7 +15336,7 @@ In most cases, to be sure that the skin is applied correctly, you must perform a
 2. Restart the application
 3. Apply the same skin again
 This allows all settings (icons, toolbar layout) to be picked up correctly. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -15529,7 +15443,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     <name>StopSpam</name>
     <message>
         <source>Block stanza from </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Stop Spam Plugin</source>
@@ -15567,7 +15481,7 @@ When a user has passed, the test will send a re-authorization request. It should
 The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -15592,7 +15506,7 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi+ or Miranda IM.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -15674,7 +15588,7 @@ Currently supports:
   JEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Error</source>
@@ -15959,7 +15873,7 @@ Doufáme, že si jeho používání budete užívat stejně, jako si my užívá
         <source>You can type these special commands in chat and groupchat dialogs:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
+&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; '/me' is replaced by your nick&lt;/li&gt;
 &lt;/ul&gt;
 And these work only in groupchat dialog:
 &lt;ul&gt;
@@ -16011,25 +15925,25 @@ Následující funguje pouze v okně groupchatu:
     </message>
     <message>
         <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
 &lt;br&gt;&lt;br&gt;
 Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16260,7 +16174,7 @@ To work with VLC player you need to enable the option &quot;Control Interface D-
 To work with Kaffeine player you must have player version (&gt;= 1.0), additional configuration is not needed; 
 
 To work with GNOME MPlayer additional configuration is not needed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16515,7 +16429,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <message>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16662,7 +16576,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Whiteboard (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16854,7 +16768,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Conflict</source>
@@ -16862,7 +16776,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Feature not implemented</source>
@@ -16878,151 +16792,151 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>The requesting entity does not possess the required permissions to perform the action.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Gone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The recipient or server can no longer be contacted at this address.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Internal server error</source>
-        <translation type="unfinished">Vnitřní chyba serveru</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Item not found</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The addressed JID or item requested cannot be found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>JID malformed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Not acceptable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server (e.g., a local policy regarding acceptable words in messages).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Not allowed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The recipient or server does not allow any entity to perform the action.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Not authorized</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Payment required</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Recipient unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The intended recipient is temporarily unavailable.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Redirect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The recipient or server is redirecting requests for this information to another entity, usually temporarily.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Registration required</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remote server not found</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remote server timeout</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>A remote server or service specified as part or all of the JID of the intended recipient (or required to fulfill a request) could not be contacted within a reasonable amount of time.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Resource constraint</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The server or recipient lacks the system resources necessary to service the request.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Service unavailable</source>
-        <translation type="unfinished">Služba nedostupná</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The server or recipient does not currently provide the requested service.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Subscription required</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because a subscription is required.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Undefined condition</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The error condition is not one of those defined by the other conditions in this list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unexpected request</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17906,7 +17820,7 @@ Reathorization...</source>
 Opětovné ověření...</translation>
     </message>
     <message>
-        <source>Can&apos;t get files!
+        <source>Can't get files!
 Try remove cookies.</source>
         <translation>Nelze získat soubory!
 Zkus odebrat cookies.</translation>
@@ -17996,9 +17910,9 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%N - file name; %U - file URL; %S - file size</source>
