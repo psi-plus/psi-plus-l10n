@@ -8770,7 +8770,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Psi: Edit Option %1</source>
-        <translation>Psi: Редактировать опцию %1</translation>
+        <translation type="obsolete">Psi: Редактировать опцию %1</translation>
     </message>
     <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
@@ -8782,6 +8782,14 @@ p, li { white-space: pre-wrap; }
 Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</source>
         <translation>Пожалуйста введите название опции.
 Имя опции не может быть пустым, заканчиваться на  &apos;.&apos; или содержать &apos;..&apos;.</translation>
+    </message>
+    <message>
+        <source>Option Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Option %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12655,43 +12663,43 @@ Would you like to activate that session now?</source>
     <name>PsiPopup</name>
     <message>
         <source>Contact online</source>
-        <translation>Контакт вошёл в сеть</translation>
+        <translation type="obsolete">Контакт вошёл в сеть</translation>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation>Контакт отключился</translation>
+        <translation type="obsolete">Контакт отключился</translation>
     </message>
     <message>
         <source>Status change</source>
-        <translation>Смена статуса</translation>
+        <translation type="obsolete">Смена статуса</translation>
     </message>
     <message>
         <source>Incoming message</source>
-        <translation>Получено сообщение</translation>
+        <translation type="obsolete">Получено сообщение</translation>
     </message>
     <message>
         <source>Typing notify</source>
-        <translation>Печатает</translation>
+        <translation type="obsolete">Печатает</translation>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation>Сообщение в чате</translation>
+        <translation type="obsolete">Сообщение в чате</translation>
     </message>
     <message>
         <source>Headline</source>
-        <translation>Объявление</translation>
+        <translation type="obsolete">Объявление</translation>
     </message>
     <message>
         <source>Incoming file</source>
-        <translation>Входящий файл</translation>
+        <translation type="obsolete">Входящий файл</translation>
     </message>
     <message>
         <source>Incoming call</source>
-        <translation>Входящий звонок</translation>
+        <translation type="obsolete">Входящий звонок</translation>
     </message>
     <message>
         <source>Groupchat highlight</source>
-        <translation>Конференция</translation>
+        <translation type="obsolete">Конференция</translation>
     </message>
     <message>
         <source>Subject:</source>
@@ -13875,15 +13883,15 @@ URL: %4
     </message>
     <message>
         <source>Classic</source>
-        <translation>Классический</translation>
+        <translation type="obsolete">Классический</translation>
     </message>
     <message>
         <source>Growl</source>
-        <translation>Growl</translation>
+        <translation type="obsolete">Growl</translation>
     </message>
     <message>
         <source>DBus</source>
-        <translation>DBus</translation>
+        <translation type="obsolete">DBus</translation>
     </message>
     <message>
         <source>Error</source>
@@ -14222,6 +14230,34 @@ URL: %4
     <message>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
         <translation>Были обнаружены файлы настроек старой версии Psi, но сконвертировать их для использования с нынешней версией не удалось. Убедитесь, что у вас есть необходимые права доступа к файлам и что другая копия программы Psi не запущена. Затем попробуйте снова.</translation>
+    </message>
+    <message>
+        <source>Contact online</source>
+        <translation type="unfinished">Контакт вошёл в сеть</translation>
+    </message>
+    <message>
+        <source>Contact offline</source>
+        <translation type="unfinished">Контакт отключился</translation>
+    </message>
+    <message>
+        <source>Status change</source>
+        <translation type="unfinished">Смена статуса</translation>
+    </message>
+    <message>
+        <source>Incoming message</source>
+        <translation type="unfinished">Получено сообщение</translation>
+    </message>
+    <message>
+        <source>Incoming chat message</source>
+        <translation type="unfinished">Сообщение в чате</translation>
+    </message>
+    <message>
+        <source>Incoming file</source>
+        <translation type="unfinished">Входящий файл</translation>
+    </message>
+    <message>
+        <source>Incoming call</source>
+        <translation type="unfinished">Входящий звонок</translation>
     </message>
 </context>
 <context>
@@ -16754,6 +16790,10 @@ Do you still want to close the window?</source>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
         <translation>Векторные графики (*.svg)</translation>
+    </message>
+    <message>
+        <source>Whiteboard (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

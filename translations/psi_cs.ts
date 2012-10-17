@@ -8706,7 +8706,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Psi: Edit Option %1</source>
-        <translation>Pri: Upravit volbu %1</translation>
+        <translation type="obsolete">Pri: Upravit volbu %1</translation>
     </message>
     <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
@@ -8719,6 +8719,14 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Prosím vlož název volby.
 
 Názvy voleb nemůžou být prázdné, končit &apos;.&apos; nebo obsahovat &apos;..&apos;.</translation>
+    </message>
+    <message>
+        <source>Option Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Option %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12593,43 +12601,43 @@ Chceš aktivovat tuto relaci?</translation>
     <name>PsiPopup</name>
     <message>
         <source>Contact online</source>
-        <translation>Kontakt je online</translation>
+        <translation type="obsolete">Kontakt je online</translation>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation>Kontakt je offline</translation>
+        <translation type="obsolete">Kontakt je offline</translation>
     </message>
     <message>
         <source>Status change</source>
-        <translation>Změna stavu</translation>
+        <translation type="obsolete">Změna stavu</translation>
     </message>
     <message>
         <source>Incoming message</source>
-        <translation>Příchozí zpráva</translation>
+        <translation type="obsolete">Příchozí zpráva</translation>
     </message>
     <message>
         <source>Typing notify</source>
-        <translation>Oznámení psaní</translation>
+        <translation type="obsolete">Oznámení psaní</translation>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation>Příchozí zpráva rozhovoru</translation>
+        <translation type="obsolete">Příchozí zpráva rozhovoru</translation>
     </message>
     <message>
         <source>Headline</source>
-        <translation>Titulek</translation>
+        <translation type="obsolete">Titulek</translation>
     </message>
     <message>
         <source>Incoming file</source>
-        <translation>Příchozí soubor</translation>
+        <translation type="obsolete">Příchozí soubor</translation>
     </message>
     <message>
         <source>Incoming call</source>
-        <translation>Příchozí hovor</translation>
+        <translation type="obsolete">Příchozí hovor</translation>
     </message>
     <message>
         <source>Groupchat highlight</source>
-        <translation>Zvýrazňování skupinového chatu</translation>
+        <translation type="obsolete">Zvýrazňování skupinového chatu</translation>
     </message>
     <message>
         <source>Subject:</source>
@@ -13814,15 +13822,11 @@ Heslo: %5</translation>
     </message>
     <message>
         <source>Classic</source>
-        <translation>Klasický</translation>
-    </message>
-    <message>
-        <source>Growl</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Klasický</translation>
     </message>
     <message>
         <source>DBus</source>
-        <translation>DBus</translation>
+        <translation type="obsolete">DBus</translation>
     </message>
     <message>
         <source>Error</source>
@@ -14161,6 +14165,34 @@ Heslo: %5</translation>
     <message>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contact online</source>
+        <translation type="unfinished">Kontakt je online</translation>
+    </message>
+    <message>
+        <source>Contact offline</source>
+        <translation type="unfinished">Kontakt je offline</translation>
+    </message>
+    <message>
+        <source>Status change</source>
+        <translation type="unfinished">Změna stavu</translation>
+    </message>
+    <message>
+        <source>Incoming message</source>
+        <translation type="unfinished">Příchozí zpráva</translation>
+    </message>
+    <message>
+        <source>Incoming chat message</source>
+        <translation type="unfinished">Příchozí zpráva rozhovoru</translation>
+    </message>
+    <message>
+        <source>Incoming file</source>
+        <translation type="unfinished">Příchozí soubor</translation>
+    </message>
+    <message>
+        <source>Incoming call</source>
+        <translation type="unfinished">Příchozí hovor</translation>
     </message>
 </context>
 <context>
@@ -16627,6 +16659,10 @@ Opravdu zavřít okno?</translation>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
         <translation>Scalable Vector Graphics (*.svg)</translation>
+    </message>
+    <message>
+        <source>Whiteboard (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

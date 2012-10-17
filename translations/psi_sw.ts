@@ -8657,10 +8657,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi: Edit Option %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8668,6 +8664,14 @@ p, li { white-space: pre-wrap; }
         <source>Please enter option name.
 
 Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Option Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Option %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12515,43 +12519,27 @@ Would you like to activate that session now?</source>
     <name>PsiPopup</name>
     <message>
         <source>Contact online</source>
-        <translation>Rafiki yupo hewani</translation>
+        <translation type="obsolete">Rafiki yupo hewani</translation>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation>Rafiki hayupo hewani</translation>
+        <translation type="obsolete">Rafiki hayupo hewani</translation>
     </message>
     <message>
         <source>Status change</source>
-        <translation>Mabadiliko ya hali</translation>
+        <translation type="obsolete">Mabadiliko ya hali</translation>
     </message>
     <message>
         <source>Incoming message</source>
-        <translation>Ujumbe unaoingia</translation>
-    </message>
-    <message>
-        <source>Typing notify</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Ujumbe unaoingia</translation>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation>Ujumbe wa soga unaoingia</translation>
+        <translation type="obsolete">Ujumbe wa soga unaoingia</translation>
     </message>
     <message>
         <source>Headline</source>
-        <translation>Kichwa cha habari</translation>
-    </message>
-    <message>
-        <source>Incoming file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Incoming call</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Groupchat highlight</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Kichwa cha habari</translation>
     </message>
     <message>
         <source>Subject:</source>
@@ -13710,18 +13698,6 @@ Password: %5</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Classic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Growl</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DBus</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14057,6 +14033,34 @@ Password: %5</source>
     </message>
     <message>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contact online</source>
+        <translation type="unfinished">Rafiki yupo hewani</translation>
+    </message>
+    <message>
+        <source>Contact offline</source>
+        <translation type="unfinished">Rafiki hayupo hewani</translation>
+    </message>
+    <message>
+        <source>Status change</source>
+        <translation type="unfinished">Mabadiliko ya hali</translation>
+    </message>
+    <message>
+        <source>Incoming message</source>
+        <translation type="unfinished">Ujumbe unaoingia</translation>
+    </message>
+    <message>
+        <source>Incoming chat message</source>
+        <translation type="unfinished">Ujumbe wa soga unaoingia</translation>
+    </message>
+    <message>
+        <source>Incoming file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Incoming call</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16492,6 +16496,10 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whiteboard (%1)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

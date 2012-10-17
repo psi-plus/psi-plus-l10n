@@ -8665,7 +8665,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Psi: Edit Option %1</source>
-        <translation>Psi: %1 beállítás szerkesztése</translation>
+        <translation type="obsolete">Psi: %1 beállítás szerkesztése</translation>
     </message>
     <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
@@ -8678,6 +8678,14 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Írd be a beállítás nevét.
 
 A nevek nem lehetnek üresek, vagy végződhetnek pontra, nem tartalmazhatnak &apos;..&apos; sorozatot.</translation>
+    </message>
+    <message>
+        <source>Option Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Option %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12533,43 +12541,35 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     <name>PsiPopup</name>
     <message>
         <source>Contact online</source>
-        <translation>Partner elérhető</translation>
+        <translation type="obsolete">Partner elérhető</translation>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation>Partner nem elérhető</translation>
+        <translation type="obsolete">Partner nem elérhető</translation>
     </message>
     <message>
         <source>Status change</source>
-        <translation>Állapot váltása</translation>
+        <translation type="obsolete">Állapot váltása</translation>
     </message>
     <message>
         <source>Incoming message</source>
-        <translation>Bejövő üzenet</translation>
-    </message>
-    <message>
-        <source>Typing notify</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Bejövő üzenet</translation>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation>Bejövő chat üzenet</translation>
+        <translation type="obsolete">Bejövő chat üzenet</translation>
     </message>
     <message>
         <source>Headline</source>
-        <translation>Főcím</translation>
+        <translation type="obsolete">Főcím</translation>
     </message>
     <message>
         <source>Incoming file</source>
-        <translation>Bejövő fájl</translation>
+        <translation type="obsolete">Bejövő fájl</translation>
     </message>
     <message>
         <source>Incoming call</source>
-        <translation>Bejövő hívás</translation>
-    </message>
-    <message>
-        <source>Groupchat highlight</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Bejövő hívás</translation>
     </message>
     <message>
         <source>Subject:</source>
@@ -13724,18 +13724,6 @@ Password: %5</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Classic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Growl</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DBus</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Hiba</translation>
     </message>
@@ -14071,6 +14059,34 @@ Password: %5</source>
     <message>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contact online</source>
+        <translation type="unfinished">Partner elérhető</translation>
+    </message>
+    <message>
+        <source>Contact offline</source>
+        <translation type="unfinished">Partner nem elérhető</translation>
+    </message>
+    <message>
+        <source>Status change</source>
+        <translation type="unfinished">Állapot váltása</translation>
+    </message>
+    <message>
+        <source>Incoming message</source>
+        <translation type="unfinished">Bejövő üzenet</translation>
+    </message>
+    <message>
+        <source>Incoming chat message</source>
+        <translation type="unfinished">Bejövő chat üzenet</translation>
+    </message>
+    <message>
+        <source>Incoming file</source>
+        <translation type="unfinished">Bejövő fájl</translation>
+    </message>
+    <message>
+        <source>Incoming call</source>
+        <translation type="unfinished">Bejövő hívás</translation>
     </message>
 </context>
 <context>
@@ -16534,6 +16550,10 @@ Biztos bezárod az ablakot?</translation>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
         <translation>Scalable Vector Graphics (*.svg)</translation>
+    </message>
+    <message>
+        <source>Whiteboard (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

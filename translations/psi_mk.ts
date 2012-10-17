@@ -8662,7 +8662,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Psi: Edit Option %1</source>
-        <translation>Psi: уреди ја опцијата %1</translation>
+        <translation type="obsolete">Psi: уреди ја опцијата %1</translation>
     </message>
     <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
@@ -8675,6 +8675,14 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Внесете име на опција.
 
 Имињата не смее да се празно место, да завршуваат со „.“ или да содржат „..“.</translation>
+    </message>
+    <message>
+        <source>Option Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Option %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12523,43 +12531,35 @@ Would you like to activate that session now?</source>
     <name>PsiPopup</name>
     <message>
         <source>Contact online</source>
-        <translation>Контактот се вклучи</translation>
+        <translation type="obsolete">Контактот се вклучи</translation>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation>Контактот се исклучи</translation>
+        <translation type="obsolete">Контактот се исклучи</translation>
     </message>
     <message>
         <source>Status change</source>
-        <translation>Промена на статусот</translation>
+        <translation type="obsolete">Промена на статусот</translation>
     </message>
     <message>
         <source>Incoming message</source>
-        <translation>Нова порака</translation>
-    </message>
-    <message>
-        <source>Typing notify</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Нова порака</translation>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation>Нов разговор</translation>
+        <translation type="obsolete">Нов разговор</translation>
     </message>
     <message>
         <source>Headline</source>
-        <translation>Наслов</translation>
+        <translation type="obsolete">Наслов</translation>
     </message>
     <message>
         <source>Incoming file</source>
-        <translation>Доаѓа датотека</translation>
+        <translation type="obsolete">Доаѓа датотека</translation>
     </message>
     <message>
         <source>Incoming call</source>
-        <translation>Нов повик</translation>
-    </message>
-    <message>
-        <source>Groupchat highlight</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Нов повик</translation>
     </message>
     <message>
         <source>Subject:</source>
@@ -13722,18 +13722,6 @@ Password: %5</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Classic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Growl</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DBus</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Грешка</translation>
     </message>
@@ -14069,6 +14057,34 @@ Password: %5</source>
     <message>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contact online</source>
+        <translation type="unfinished">Контактот се вклучи</translation>
+    </message>
+    <message>
+        <source>Contact offline</source>
+        <translation type="unfinished">Контактот се исклучи</translation>
+    </message>
+    <message>
+        <source>Status change</source>
+        <translation type="unfinished">Промена на статусот</translation>
+    </message>
+    <message>
+        <source>Incoming message</source>
+        <translation type="unfinished">Нова порака</translation>
+    </message>
+    <message>
+        <source>Incoming chat message</source>
+        <translation type="unfinished">Нов разговор</translation>
+    </message>
+    <message>
+        <source>Incoming file</source>
+        <translation type="unfinished">Доаѓа датотека</translation>
+    </message>
+    <message>
+        <source>Incoming call</source>
+        <translation type="unfinished">Нов повик</translation>
     </message>
 </context>
 <context>
@@ -16526,6 +16542,10 @@ Do you still want to close the window?</source>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
         <translation>Scalable Vector Graphics (*.svg)</translation>
+    </message>
+    <message>
+        <source>Whiteboard (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -8721,7 +8721,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Psi: Edit Option %1</source>
-        <translation>Psi: Edycja ustawienia %1</translation>
+        <translation type="obsolete">Psi: Edycja ustawienia %1</translation>
     </message>
     <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
@@ -8733,6 +8733,14 @@ p, li { white-space: pre-wrap; }
 Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</source>
         <translation>Wprowadź nazwę nowego ustawienia.
 Nazwa nie może być pusta, zakończona &apos;.&apos; lub zawierać &apos;..&apos;.</translation>
+    </message>
+    <message>
+        <source>Option Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Option %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12591,43 +12599,35 @@ Czy chcesz teraz aktywować sesję?</translation>
     <name>PsiPopup</name>
     <message>
         <source>Contact online</source>
-        <translation>Kontakt dostępny</translation>
+        <translation type="obsolete">Kontakt dostępny</translation>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation>Kontakt rozłączony</translation>
+        <translation type="obsolete">Kontakt rozłączony</translation>
     </message>
     <message>
         <source>Status change</source>
-        <translation>Zmiana statusu</translation>
+        <translation type="obsolete">Zmiana statusu</translation>
     </message>
     <message>
         <source>Incoming message</source>
-        <translation>Przychodząca wiadomość</translation>
-    </message>
-    <message>
-        <source>Typing notify</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Przychodząca wiadomość</translation>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation>Przychodząca rozmowa</translation>
+        <translation type="obsolete">Przychodząca rozmowa</translation>
     </message>
     <message>
         <source>Headline</source>
-        <translation>Nagłówek</translation>
+        <translation type="obsolete">Nagłówek</translation>
     </message>
     <message>
         <source>Incoming file</source>
-        <translation>Przychodzący transfer pliku</translation>
+        <translation type="obsolete">Przychodzący transfer pliku</translation>
     </message>
     <message>
         <source>Incoming call</source>
-        <translation>Przychodzące rozmowa głosowa</translation>
-    </message>
-    <message>
-        <source>Groupchat highlight</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Przychodzące rozmowa głosowa</translation>
     </message>
     <message>
         <source>Subject:</source>
@@ -13790,18 +13790,6 @@ Password: %5</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Classic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Growl</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DBus</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
@@ -14137,6 +14125,34 @@ Password: %5</source>
     <message>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contact online</source>
+        <translation type="unfinished">Kontakt dostępny</translation>
+    </message>
+    <message>
+        <source>Contact offline</source>
+        <translation type="unfinished">Kontakt rozłączony</translation>
+    </message>
+    <message>
+        <source>Status change</source>
+        <translation type="unfinished">Zmiana statusu</translation>
+    </message>
+    <message>
+        <source>Incoming message</source>
+        <translation type="unfinished">Przychodząca wiadomość</translation>
+    </message>
+    <message>
+        <source>Incoming chat message</source>
+        <translation type="unfinished">Przychodząca rozmowa</translation>
+    </message>
+    <message>
+        <source>Incoming file</source>
+        <translation type="unfinished">Przychodzący transfer pliku</translation>
+    </message>
+    <message>
+        <source>Incoming call</source>
+        <translation type="unfinished">Przychodzące rozmowa głosowa</translation>
     </message>
 </context>
 <context>
@@ -16606,6 +16622,10 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
         <translation>Skalowalna Grafika Wektorowa (*.svg)</translation>
+    </message>
+    <message>
+        <source>Whiteboard (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

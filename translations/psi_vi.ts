@@ -8665,7 +8665,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Psi: Edit Option %1</source>
-        <translation>Psi: sửa tuỳ chọn %1</translation>
+        <translation type="obsolete">Psi: sửa tuỳ chọn %1</translation>
     </message>
     <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
@@ -8678,6 +8678,14 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Hãy gõ tên tuỳ chọn.
 
 Không cho phép gõ tên tuỳ chọn mà trống, kết thúc bằng « . » (dấu chấm) hay chứa « .. » (một cặp dấu chấm).</translation>
+    </message>
+    <message>
+        <source>Option Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Option %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12535,43 +12543,35 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     <name>PsiPopup</name>
     <message>
         <source>Contact online</source>
-        <translation>Liên lạc trực tuyến</translation>
+        <translation type="obsolete">Liên lạc trực tuyến</translation>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation>Liên lạc ngoại tuyến</translation>
+        <translation type="obsolete">Liên lạc ngoại tuyến</translation>
     </message>
     <message>
         <source>Status change</source>
-        <translation>Trạng thái thay đổi</translation>
+        <translation type="obsolete">Trạng thái thay đổi</translation>
     </message>
     <message>
         <source>Incoming message</source>
-        <translation>Tin nhẳn gửi đến</translation>
-    </message>
-    <message>
-        <source>Typing notify</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Tin nhẳn gửi đến</translation>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation>Tin nhẳn chát gửi đến</translation>
+        <translation type="obsolete">Tin nhẳn chát gửi đến</translation>
     </message>
     <message>
         <source>Headline</source>
-        <translation>Hàng đầu</translation>
+        <translation type="obsolete">Hàng đầu</translation>
     </message>
     <message>
         <source>Incoming file</source>
-        <translation>Tập tin gửi đến</translation>
+        <translation type="obsolete">Tập tin gửi đến</translation>
     </message>
     <message>
         <source>Incoming call</source>
-        <translation>Gọi đến</translation>
-    </message>
-    <message>
-        <source>Groupchat highlight</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Gọi đến</translation>
     </message>
     <message>
         <source>Subject:</source>
@@ -13726,18 +13726,6 @@ Password: %5</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Classic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Growl</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DBus</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Lỗi</translation>
     </message>
@@ -14073,6 +14061,34 @@ Password: %5</source>
     <message>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contact online</source>
+        <translation type="unfinished">Liên lạc trực tuyến</translation>
+    </message>
+    <message>
+        <source>Contact offline</source>
+        <translation type="unfinished">Liên lạc ngoại tuyến</translation>
+    </message>
+    <message>
+        <source>Status change</source>
+        <translation type="unfinished">Trạng thái thay đổi</translation>
+    </message>
+    <message>
+        <source>Incoming message</source>
+        <translation type="unfinished">Tin nhẳn gửi đến</translation>
+    </message>
+    <message>
+        <source>Incoming chat message</source>
+        <translation type="unfinished">Tin nhẳn chát gửi đến</translation>
+    </message>
+    <message>
+        <source>Incoming file</source>
+        <translation type="unfinished">Tập tin gửi đến</translation>
+    </message>
+    <message>
+        <source>Incoming call</source>
+        <translation type="unfinished">Gọi đến</translation>
     </message>
 </context>
 <context>
@@ -16536,6 +16552,10 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
         <translation>Đồ họa Véc-tơ Có Khả năng Co giãn (*.svg)</translation>
+    </message>
+    <message>
+        <source>Whiteboard (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

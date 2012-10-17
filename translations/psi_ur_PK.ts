@@ -8653,7 +8653,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Psi: Edit Option %1</source>
-        <translation>Psi: اختیار %1 تدوین کریں</translation>
+        <translation type="obsolete">Psi: اختیار %1 تدوین کریں</translation>
     </message>
     <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
@@ -8666,6 +8666,14 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>براہ مہربانی اختیار نام داخل کریں۔
 
 اختیار نام خالی نہیں ہو سکتے، &apos;.&apos; سے نہیں ختم ہو سکتے، اور ان میں &apos;..&apos; نہیں آ سکتے۔</translation>
+    </message>
+    <message>
+        <source>Option Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Option %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12516,43 +12524,35 @@ Would you like to activate that session now?</source>
     <name>PsiPopup</name>
     <message>
         <source>Contact online</source>
-        <translation>آن لائن رابطہ کریں</translation>
+        <translation type="obsolete">آن لائن رابطہ کریں</translation>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation>آف لائن رابطہ کریں</translation>
+        <translation type="obsolete">آف لائن رابطہ کریں</translation>
     </message>
     <message>
         <source>Status change</source>
-        <translation>حالت تبدیل کریں</translation>
+        <translation type="obsolete">حالت تبدیل کریں</translation>
     </message>
     <message>
         <source>Incoming message</source>
-        <translation>موصولہ پیغام</translation>
-    </message>
-    <message>
-        <source>Typing notify</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">موصولہ پیغام</translation>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation>موصولہ بات چیت پیغام</translation>
+        <translation type="obsolete">موصولہ بات چیت پیغام</translation>
     </message>
     <message>
         <source>Headline</source>
-        <translation>سرخی</translation>
+        <translation type="obsolete">سرخی</translation>
     </message>
     <message>
         <source>Incoming file</source>
-        <translation>موصولہ مسل</translation>
+        <translation type="obsolete">موصولہ مسل</translation>
     </message>
     <message>
         <source>Incoming call</source>
-        <translation>موصولہ کال</translation>
-    </message>
-    <message>
-        <source>Groupchat highlight</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">موصولہ کال</translation>
     </message>
     <message>
         <source>Subject:</source>
@@ -13709,18 +13709,6 @@ Password: %5</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Classic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Growl</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DBus</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>نقص</translation>
     </message>
@@ -14056,6 +14044,34 @@ Password: %5</source>
     <message>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contact online</source>
+        <translation type="unfinished">آن لائن رابطہ کریں</translation>
+    </message>
+    <message>
+        <source>Contact offline</source>
+        <translation type="unfinished">آف لائن رابطہ کریں</translation>
+    </message>
+    <message>
+        <source>Status change</source>
+        <translation type="unfinished">حالت تبدیل کریں</translation>
+    </message>
+    <message>
+        <source>Incoming message</source>
+        <translation type="unfinished">موصولہ پیغام</translation>
+    </message>
+    <message>
+        <source>Incoming chat message</source>
+        <translation type="unfinished">موصولہ بات چیت پیغام</translation>
+    </message>
+    <message>
+        <source>Incoming file</source>
+        <translation type="unfinished">موصولہ مسل</translation>
+    </message>
+    <message>
+        <source>Incoming call</source>
+        <translation type="unfinished">موصولہ کال</translation>
     </message>
 </context>
 <context>
@@ -16511,6 +16527,10 @@ Do you still want to close the window?</source>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
         <translation>توسیع پذیر سمتیہ نقوش (*.svg)</translation>
+    </message>
+    <message>
+        <source>Whiteboard (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

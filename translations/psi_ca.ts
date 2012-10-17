@@ -8652,10 +8652,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi: Edit Option %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8663,6 +8659,14 @@ p, li { white-space: pre-wrap; }
         <source>Please enter option name.
 
 Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Option Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Option %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12508,43 +12512,31 @@ Would you like to activate that session now?</source>
     <name>PsiPopup</name>
     <message>
         <source>Contact online</source>
-        <translation>Contacte connectat</translation>
+        <translation type="obsolete">Contacte connectat</translation>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation>Contacte desconnectat</translation>
+        <translation type="obsolete">Contacte desconnectat</translation>
     </message>
     <message>
         <source>Status change</source>
-        <translation>Canvi d&apos;estat</translation>
+        <translation type="obsolete">Canvi d&apos;estat</translation>
     </message>
     <message>
         <source>Incoming message</source>
-        <translation>Missatge entrant</translation>
-    </message>
-    <message>
-        <source>Typing notify</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Missatge entrant</translation>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation>Missatge de chat entrant</translation>
+        <translation type="obsolete">Missatge de chat entrant</translation>
     </message>
     <message>
         <source>Headline</source>
-        <translation>Titol</translation>
+        <translation type="obsolete">Titol</translation>
     </message>
     <message>
         <source>Incoming file</source>
-        <translation>Fitxer entrant</translation>
-    </message>
-    <message>
-        <source>Incoming call</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Groupchat highlight</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Fitxer entrant</translation>
     </message>
     <message>
         <source>Subject:</source>
@@ -13706,18 +13698,6 @@ Password: %5</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Classic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Growl</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DBus</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation type="unfinished">Error</translation>
     </message>
@@ -14052,6 +14032,34 @@ Password: %5</source>
     </message>
     <message>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contact online</source>
+        <translation type="unfinished">Contacte connectat</translation>
+    </message>
+    <message>
+        <source>Contact offline</source>
+        <translation type="unfinished">Contacte desconnectat</translation>
+    </message>
+    <message>
+        <source>Status change</source>
+        <translation type="unfinished">Canvi d&apos;estat</translation>
+    </message>
+    <message>
+        <source>Incoming message</source>
+        <translation type="unfinished">Missatge entrant</translation>
+    </message>
+    <message>
+        <source>Incoming chat message</source>
+        <translation type="unfinished">Missatge de chat entrant</translation>
+    </message>
+    <message>
+        <source>Incoming file</source>
+        <translation type="unfinished">Fitxer entrant</translation>
+    </message>
+    <message>
+        <source>Incoming call</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16488,6 +16496,10 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whiteboard (%1)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

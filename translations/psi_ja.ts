@@ -8657,7 +8657,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Psi: Edit Option %1</source>
-        <translation>Psi: オプション編集 %1</translation>
+        <translation type="obsolete">Psi: オプション編集 %1</translation>
     </message>
     <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
@@ -8670,6 +8670,14 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>オプション名を入力してください。
 
 オプション名は空でなく、&apos;.&apos;で終わるか&apos;..&apos;を含まなければなりません。</translation>
+    </message>
+    <message>
+        <source>Option Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Option %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12522,43 +12530,35 @@ Would you like to activate that session now?</source>
     <name>PsiPopup</name>
     <message>
         <source>Contact online</source>
-        <translation>コンタクトオンライン</translation>
+        <translation type="obsolete">コンタクトオンライン</translation>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation>コンタクトオフライン</translation>
+        <translation type="obsolete">コンタクトオフライン</translation>
     </message>
     <message>
         <source>Status change</source>
-        <translation>ステータスの変更</translation>
+        <translation type="obsolete">ステータスの変更</translation>
     </message>
     <message>
         <source>Incoming message</source>
-        <translation>到着メッセージ</translation>
-    </message>
-    <message>
-        <source>Typing notify</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">到着メッセージ</translation>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation>到着チャットメッセージ</translation>
+        <translation type="obsolete">到着チャットメッセージ</translation>
     </message>
     <message>
         <source>Headline</source>
-        <translation>見出し</translation>
+        <translation type="obsolete">見出し</translation>
     </message>
     <message>
         <source>Incoming file</source>
-        <translation>到着ファイル</translation>
+        <translation type="obsolete">到着ファイル</translation>
     </message>
     <message>
         <source>Incoming call</source>
-        <translation>着信</translation>
-    </message>
-    <message>
-        <source>Groupchat highlight</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">着信</translation>
     </message>
     <message>
         <source>Subject:</source>
@@ -13713,18 +13713,6 @@ Password: %5</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Classic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Growl</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DBus</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>エラー</translation>
     </message>
@@ -14060,6 +14048,34 @@ Password: %5</source>
     <message>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contact online</source>
+        <translation type="unfinished">コンタクトオンライン</translation>
+    </message>
+    <message>
+        <source>Contact offline</source>
+        <translation type="unfinished">コンタクトオフライン</translation>
+    </message>
+    <message>
+        <source>Status change</source>
+        <translation type="unfinished">ステータスの変更</translation>
+    </message>
+    <message>
+        <source>Incoming message</source>
+        <translation type="unfinished">到着メッセージ</translation>
+    </message>
+    <message>
+        <source>Incoming chat message</source>
+        <translation type="unfinished">到着チャットメッセージ</translation>
+    </message>
+    <message>
+        <source>Incoming file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Incoming call</source>
+        <translation type="unfinished">着信</translation>
     </message>
 </context>
 <context>
@@ -16514,6 +16530,10 @@ Do you still want to close the window?</source>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
         <translation>スケーラブルベクターグラフィック(*.svg)</translation>
+    </message>
+    <message>
+        <source>Whiteboard (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

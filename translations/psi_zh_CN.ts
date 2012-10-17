@@ -8640,7 +8640,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Psi: Edit Option %1</source>
-        <translation>Psi: 编辑选项 %1</translation>
+        <translation type="obsolete">Psi: 编辑选项 %1</translation>
     </message>
     <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
@@ -8652,6 +8652,14 @@ p, li { white-space: pre-wrap; }
 Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</source>
         <translation>请输入选项名.
 选项名不能为空,以&apos;.&apos;结束或者包含&apos;..&apos;.</translation>
+    </message>
+    <message>
+        <source>Option Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Option %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12492,46 +12500,6 @@ Would you like to activate that session now?</source>
 <context>
     <name>PsiPopup</name>
     <message>
-        <source>Contact online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Contact offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Status change</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Incoming message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Typing notify</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Incoming chat message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Headline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Incoming file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Incoming call</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Groupchat highlight</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Subject:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13682,18 +13650,6 @@ Password: %5</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Classic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Growl</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DBus</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -14028,6 +13984,34 @@ Password: %5</source>
     </message>
     <message>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contact online</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contact offline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status change</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Incoming message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Incoming chat message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Incoming file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Incoming call</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16455,6 +16439,10 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whiteboard (%1)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

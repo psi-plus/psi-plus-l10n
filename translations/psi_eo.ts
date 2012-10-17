@@ -8660,7 +8660,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Psi: Edit Option %1</source>
-        <translation>Psi: Redakti Opcion %1</translation>
+        <translation type="obsolete">Psi: Redakti Opcion %1</translation>
     </message>
     <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
@@ -8673,6 +8673,14 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Bonvolu enmeti la opcian nomon.
 
 Opciaj nomoj ne povas esti malplena, fini per &apos;.&apos; aŭ enhavi &apos;..&apos;.</translation>
+    </message>
+    <message>
+        <source>Option Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Option %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12519,43 +12527,31 @@ Would you like to activate that session now?</source>
     <name>PsiPopup</name>
     <message>
         <source>Contact online</source>
-        <translation>Kontaktulo konektitas</translation>
+        <translation type="obsolete">Kontaktulo konektitas</translation>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation>Kontaktulo senkonektiĝis</translation>
+        <translation type="obsolete">Kontaktulo senkonektiĝis</translation>
     </message>
     <message>
         <source>Status change</source>
-        <translation>Ŝanĝo de stato</translation>
+        <translation type="obsolete">Ŝanĝo de stato</translation>
     </message>
     <message>
         <source>Incoming message</source>
-        <translation>Envenanta mesaĝo</translation>
-    </message>
-    <message>
-        <source>Typing notify</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Envenanta mesaĝo</translation>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation>Envenanta babila mesaĝo</translation>
+        <translation type="obsolete">Envenanta babila mesaĝo</translation>
     </message>
     <message>
         <source>Headline</source>
-        <translation>Ĉeflinio</translation>
+        <translation type="obsolete">Ĉeflinio</translation>
     </message>
     <message>
         <source>Incoming file</source>
-        <translation>Envenanta dosiero</translation>
-    </message>
-    <message>
-        <source>Incoming call</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Groupchat highlight</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Envenanta dosiero</translation>
     </message>
     <message>
         <source>Subject:</source>
@@ -13710,18 +13706,6 @@ Password: %5</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Classic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Growl</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DBus</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Eraro</translation>
     </message>
@@ -14056,6 +14040,34 @@ Password: %5</source>
     </message>
     <message>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contact online</source>
+        <translation type="unfinished">Kontaktulo konektitas</translation>
+    </message>
+    <message>
+        <source>Contact offline</source>
+        <translation type="unfinished">Kontaktulo senkonektiĝis</translation>
+    </message>
+    <message>
+        <source>Status change</source>
+        <translation type="unfinished">Ŝanĝo de stato</translation>
+    </message>
+    <message>
+        <source>Incoming message</source>
+        <translation type="unfinished">Envenanta mesaĝo</translation>
+    </message>
+    <message>
+        <source>Incoming chat message</source>
+        <translation type="unfinished">Envenanta babila mesaĝo</translation>
+    </message>
+    <message>
+        <source>Incoming file</source>
+        <translation type="unfinished">Envenanta dosiero</translation>
+    </message>
+    <message>
+        <source>Incoming call</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16506,6 +16518,10 @@ Do you still want to close the window?</source>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
         <translation>Skalebla vektora grafiko (*.svg)</translation>
+    </message>
+    <message>
+        <source>Whiteboard (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

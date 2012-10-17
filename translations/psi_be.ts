@@ -8776,7 +8776,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Psi: Edit Option %1</source>
-        <translation>«Псі»: правіць можнасьць %1</translation>
+        <translation type="obsolete">«Псі»: правіць можнасьць %1</translation>
     </message>
     <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
@@ -8789,6 +8789,14 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Пазначце назву можнасьці.
 
 Назва мусіць не зьмяшчаць «..» і не заканчвацца кропкаю «.».</translation>
+    </message>
+    <message>
+        <source>Option Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Option %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12660,43 +12668,43 @@ Would you like to activate that session now?</source>
     <name>PsiPopup</name>
     <message>
         <source>Contact online</source>
-        <translation>Суразмоўца ў сетцы</translation>
+        <translation type="obsolete">Суразмоўца ў сетцы</translation>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation>Суразмоўца па-за сеткаю</translation>
+        <translation type="obsolete">Суразмоўца па-за сеткаю</translation>
     </message>
     <message>
         <source>Status change</source>
-        <translation>Зьмяніўся стан</translation>
+        <translation type="obsolete">Зьмяніўся стан</translation>
     </message>
     <message>
         <source>Incoming message</source>
-        <translation>Прыйшло паведамленьне</translation>
+        <translation type="obsolete">Прыйшло паведамленьне</translation>
     </message>
     <message>
         <source>Typing notify</source>
-        <translation>Суразмоўца друкуе</translation>
+        <translation type="obsolete">Суразмоўца друкуе</translation>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation>Прыйшло паведамленьне ў гутарцы</translation>
+        <translation type="obsolete">Прыйшло паведамленьне ў гутарцы</translation>
     </message>
     <message>
         <source>Headline</source>
-        <translation>Абвестка</translation>
+        <translation type="obsolete">Абвестка</translation>
     </message>
     <message>
         <source>Incoming file</source>
-        <translation>Прыйшоў файл</translation>
+        <translation type="obsolete">Прыйшоў файл</translation>
     </message>
     <message>
         <source>Incoming call</source>
-        <translation>Выклікаюць</translation>
+        <translation type="obsolete">Выклікаюць</translation>
     </message>
     <message>
         <source>Groupchat highlight</source>
-        <translation>Згадалі ў нарадзе</translation>
+        <translation type="obsolete">Згадалі ў нарадзе</translation>
     </message>
     <message>
         <source>Subject:</source>
@@ -13881,15 +13889,15 @@ Password: %5</source>
     </message>
     <message>
         <source>Classic</source>
-        <translation>Як у «Псі»</translation>
+        <translation type="obsolete">Як у «Псі»</translation>
     </message>
     <message>
         <source>Growl</source>
-        <translation>Як у «Mac OS X» (Growl)</translation>
+        <translation type="obsolete">Як у «Mac OS X» (Growl)</translation>
     </message>
     <message>
         <source>DBus</source>
-        <translation>Як у «Linux» (D-Bus)</translation>
+        <translation type="obsolete">Як у «Linux» (D-Bus)</translation>
     </message>
     <message>
         <source>Error</source>
@@ -14228,6 +14236,34 @@ Password: %5</source>
     <message>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
         <translation>Знайшлі настаўленьні да папярэдняе вэрсі «Псі», але ператварыць іх да цяперашняе вэрсіі немагчыма. Упэўніцеся, што маеце адпаведныя дазволы і што не працуе іншы асобнік «Псі», а пасьля паспрабуйце зноўку. </translation>
+    </message>
+    <message>
+        <source>Contact online</source>
+        <translation type="unfinished">Суразмоўца ў сетцы</translation>
+    </message>
+    <message>
+        <source>Contact offline</source>
+        <translation type="unfinished">Суразмоўца па-за сеткаю</translation>
+    </message>
+    <message>
+        <source>Status change</source>
+        <translation type="unfinished">Зьмяніўся стан</translation>
+    </message>
+    <message>
+        <source>Incoming message</source>
+        <translation type="unfinished">Прыйшло паведамленьне</translation>
+    </message>
+    <message>
+        <source>Incoming chat message</source>
+        <translation type="unfinished">Прыйшло паведамленьне ў гутарцы</translation>
+    </message>
+    <message>
+        <source>Incoming file</source>
+        <translation type="unfinished">Прыйшоў файл</translation>
+    </message>
+    <message>
+        <source>Incoming call</source>
+        <translation type="unfinished">Выклікаюць</translation>
     </message>
 </context>
 <context>
@@ -16752,6 +16788,10 @@ Do you still want to close the window?</source>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
         <translation>Вэктарныя малюнкі (*.svg)</translation>
+    </message>
+    <message>
+        <source>Whiteboard (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

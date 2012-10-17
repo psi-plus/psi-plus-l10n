@@ -8670,7 +8670,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Psi: Edit Option %1</source>
-        <translation>Psi: urejanje možnosti %1</translation>
+        <translation type="obsolete">Psi: urejanje možnosti %1</translation>
     </message>
     <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
@@ -8683,6 +8683,14 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Vnesite ime možnosti.
 
 Ime ne sme biti prazno, se ne sme končati s ».« ali vsebovati »..«.</translation>
+    </message>
+    <message>
+        <source>Option Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Option %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12539,43 +12547,35 @@ Ali želite aktivirati to sejo?</translation>
     <name>PsiPopup</name>
     <message>
         <source>Contact online</source>
-        <translation>Stik je na zvezi</translation>
+        <translation type="obsolete">Stik je na zvezi</translation>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation>Stik ni več na zvezi</translation>
+        <translation type="obsolete">Stik ni več na zvezi</translation>
     </message>
     <message>
         <source>Status change</source>
-        <translation>Sprememba stanja</translation>
+        <translation type="obsolete">Sprememba stanja</translation>
     </message>
     <message>
         <source>Incoming message</source>
-        <translation>Prihajajoče sporočilo</translation>
-    </message>
-    <message>
-        <source>Typing notify</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Prihajajoče sporočilo</translation>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation>Prihajajoč klepet</translation>
+        <translation type="obsolete">Prihajajoč klepet</translation>
     </message>
     <message>
         <source>Headline</source>
-        <translation>Naslov</translation>
+        <translation type="obsolete">Naslov</translation>
     </message>
     <message>
         <source>Incoming file</source>
-        <translation>Prihajajoča datoteka</translation>
+        <translation type="obsolete">Prihajajoča datoteka</translation>
     </message>
     <message>
         <source>Incoming call</source>
-        <translation>Prejeti klic</translation>
-    </message>
-    <message>
-        <source>Groupchat highlight</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Prejeti klic</translation>
     </message>
     <message>
         <source>Subject:</source>
@@ -13742,18 +13742,6 @@ Password: %5</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Classic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Growl</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>DBus</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Napaka</translation>
     </message>
@@ -14089,6 +14077,34 @@ Password: %5</source>
     <message>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contact online</source>
+        <translation type="unfinished">Stik je na zvezi</translation>
+    </message>
+    <message>
+        <source>Contact offline</source>
+        <translation type="unfinished">Stik ni več na zvezi</translation>
+    </message>
+    <message>
+        <source>Status change</source>
+        <translation type="unfinished">Sprememba stanja</translation>
+    </message>
+    <message>
+        <source>Incoming message</source>
+        <translation type="unfinished">Prihajajoče sporočilo</translation>
+    </message>
+    <message>
+        <source>Incoming chat message</source>
+        <translation type="unfinished">Prihajajoč klepet</translation>
+    </message>
+    <message>
+        <source>Incoming file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Incoming call</source>
+        <translation type="unfinished">Prejeti klic</translation>
     </message>
 </context>
 <context>
@@ -16558,6 +16574,10 @@ Ali še vedno želite zapreti okno?</translation>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
         <translation>Raztegljiva vektorska grafika (*.svg)</translation>
+    </message>
+    <message>
+        <source>Whiteboard (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

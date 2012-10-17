@@ -8769,10 +8769,6 @@ p, li { white-space: pre-wrap; }
         <translation>Psi: Option Editor</translation>
     </message>
     <message>
-        <source>Psi: Edit Option %1</source>
-        <translation>Psi: Edit Option %1</translation>
-    </message>
-    <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
         <translation>Can&apos;t edit this type of setting, sorry.</translation>
     </message>
@@ -8783,6 +8779,14 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Please enter option name.
 
 Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</translation>
+    </message>
+    <message>
+        <source>Option Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Option %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12653,46 +12657,6 @@ Would you like to activate that session now?</translation>
 <context>
     <name>PsiPopup</name>
     <message>
-        <source>Contact online</source>
-        <translation>Contact online</translation>
-    </message>
-    <message>
-        <source>Contact offline</source>
-        <translation>Contact offline</translation>
-    </message>
-    <message>
-        <source>Status change</source>
-        <translation>Status change</translation>
-    </message>
-    <message>
-        <source>Incoming message</source>
-        <translation>Incoming message</translation>
-    </message>
-    <message>
-        <source>Typing notify</source>
-        <translation>Typing notify</translation>
-    </message>
-    <message>
-        <source>Incoming chat message</source>
-        <translation>Incoming chat message</translation>
-    </message>
-    <message>
-        <source>Headline</source>
-        <translation>Headline</translation>
-    </message>
-    <message>
-        <source>Incoming file</source>
-        <translation>Incoming file</translation>
-    </message>
-    <message>
-        <source>Incoming call</source>
-        <translation>Incoming call</translation>
-    </message>
-    <message>
-        <source>Groupchat highlight</source>
-        <translation>Groupchat highlight</translation>
-    </message>
-    <message>
         <source>Subject:</source>
         <translation>Subject:</translation>
     </message>
@@ -13870,18 +13834,6 @@ Password: %5</translation>
         <translation>Groupchat Message</translation>
     </message>
     <message>
-        <source>Classic</source>
-        <translation>Classic</translation>
-    </message>
-    <message>
-        <source>Growl</source>
-        <translation>Growl</translation>
-    </message>
-    <message>
-        <source>DBus</source>
-        <translation>DBus</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -14218,6 +14170,34 @@ Password: %5</translation>
     <message>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
         <translation>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</translation>
+    </message>
+    <message>
+        <source>Contact online</source>
+        <translation type="unfinished">Contact online</translation>
+    </message>
+    <message>
+        <source>Contact offline</source>
+        <translation type="unfinished">Contact offline</translation>
+    </message>
+    <message>
+        <source>Status change</source>
+        <translation type="unfinished">Status change</translation>
+    </message>
+    <message>
+        <source>Incoming message</source>
+        <translation type="unfinished">Incoming message</translation>
+    </message>
+    <message>
+        <source>Incoming chat message</source>
+        <translation type="unfinished">Incoming chat message</translation>
+    </message>
+    <message>
+        <source>Incoming file</source>
+        <translation type="unfinished">Incoming file</translation>
+    </message>
+    <message>
+        <source>Incoming call</source>
+        <translation type="unfinished">Incoming call</translation>
     </message>
 </context>
 <context>
@@ -16739,6 +16719,10 @@ Do you still want to close the window?</translation>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
         <translation>Scalable Vector Graphics (*.svg)</translation>
+    </message>
+    <message>
+        <source>Whiteboard (%1)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
