@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2012-10-12
+# Updated: 2012-10-17
 # Version: N/A
 
 if [[ ${0} =~ ^/.+$ ]]; then
@@ -169,6 +169,11 @@ case "${1}" in
 
     cd "${MAIN_DIR}/psi-plus-l10n_transifex/"
     if [ -z "${2}" ]; then
+        echo "<arg> is not specified!"
+        exit 1
+    elif [ "${2}" = "src" ] ; then
+        tx push -s || exit 1
+    elif [ "${2}" = "all" ] ; then
         tx push -s -t || exit 1
     else
         tx push -t -l ${2} || exit 1
@@ -204,8 +209,13 @@ case "${1}" in
 
     echo "Usage:"
     echo "  up cm tag push make install tarball"
-    echo "  tr tr_up tr_cl tr_push tr_co tr_sync"
-    echo "  tr_push <LANG> (for example: tr_push ru)"
+    echo "  tr tr_up tr_cl tr_co tr_sync"
+    echo "  tr_push <arg> (arg: src, all or language)"
+    echo ;
+    echo "Examples:"
+    echo "  ./update-repo.sh tr_push src"
+    echo "  ./update-repo.sh tr_push all"
+    echo "  ./update-repo.sh tr_push ru"
 
 ;;
 esac
