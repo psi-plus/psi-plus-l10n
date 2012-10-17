@@ -15,11 +15,7 @@ fi
 export MAIN_DIR="${CUR_DIR}/.."
 export PSIPLUS_DIR="${MAIN_DIR}/psi-plus"
 
-# Test Internet connection:
-host github.com > /dev/null || exit 1
-
 cd "${CUR_DIR}" || exit 1
-git status || exit 1
 
 case "${1}" in
 "up")
@@ -88,6 +84,11 @@ case "${1}" in
 ;;
 "tr")
 
+    # Test Internet connection:
+    host transifex.net > /dev/null || exit 1
+
+    git status || exit 1
+
     LANG_DIR="${CUR_DIR}/translations"
 
     cd "${MAIN_DIR}/psi-plus-l10n_transifex" || exit 1
@@ -96,11 +97,13 @@ case "${1}" in
     cd "translations/psi-plus.full/" || exit 1
     cp *.ts "${LANG_DIR}/"
 
-    cd "${CUR_DIR}"
-    git status
+    cd "${CUR_DIR}" || exit 1
+    git status || exit 1
 
 ;;
 "tr_up")
+
+    git status || exit 1
 
     if [ -d "${PSIPLUS_DIR}" ]; then
         echo "Updating ${PSIPLUS_DIR}"
@@ -153,10 +156,16 @@ case "${1}" in
 
     lupdate -verbose ./translations.pro
 
+    git status || exit 1
+
 ;;
 "tr_cl")
 
+    git status || exit 1
+
     lupdate -verbose -no-obsolete ./translations.pro
+
+    git status || exit 1
 
 ;;
 "tr_push")
@@ -197,7 +206,6 @@ case "${1}" in
 "tr_sync")
 
     "${0}" tr > /dev/null || exit 1
-    git status || exit 1
 
     if [ "$(git status | grep 'translations/' | wc -l)" -gt 0 ]; then
         "${0}" cm || exit 1
