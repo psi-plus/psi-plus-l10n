@@ -242,7 +242,7 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
 &lt;a href=&quot;https://www.transifex.net/projects/p/psi-plus/r/all-resources/&quot;&gt;Transifex&lt;/a&gt;
  та тут: 
 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;
-&lt;br&gt;Дата поточного перекладу: 26.09.2012</translation>
+&lt;br&gt;Дата поточного перекладу: 18.10.2012</translation>
     </message>
 </context>
 <context>
@@ -8776,11 +8776,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     </message>
     <message>
         <source>Option Editor</source>
-        <translation type="unfinished"/>
+        <translation>Редактор опцій</translation>
     </message>
     <message>
         <source>Edit Option %1</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати опцію %1</translation>
     </message>
 </context>
 <context>
@@ -14154,31 +14154,31 @@ URL: %4
     </message>
     <message>
         <source>Contact online</source>
-        <translation type="unfinished"/>
+        <translation>Контакт в мережі</translation>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation type="unfinished"/>
+        <translation>Контакт поза мережею</translation>
     </message>
     <message>
         <source>Status change</source>
-        <translation type="unfinished"/>
+        <translation>Зміна статусу</translation>
     </message>
     <message>
         <source>Incoming message</source>
-        <translation type="unfinished"/>
+        <translation>Вхідне повідомлення</translation>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation type="unfinished"/>
+        <translation>Вхідне повідомлення чату</translation>
     </message>
     <message>
         <source>Incoming file</source>
-        <translation type="unfinished"/>
+        <translation>Вхідний файл</translation>
     </message>
     <message>
         <source>Incoming call</source>
-        <translation type="unfinished"/>
+        <translation>Вхідний дзвінок</translation>
     </message>
 </context>
 <context>
@@ -16699,7 +16699,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Whiteboard (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Дошка для малювання (%1)</translation>
     </message>
 </context>
 <context>
