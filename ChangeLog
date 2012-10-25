@@ -1,3 +1,31 @@
+2012-10-17:
+* Script was updated:
+  - new format of command line option tr_push
+  - fixed offline work
+
+2012-10-14:
+* Added non-translated localization file for Hebrew translation.
+
+2012-10-12:
+* Scripts was updated:
+  fixed determination of CUR_DIR variable when absolute path is used.
+
+2012-10-11:
+* Script was updated:
+  - added new command line option tr_sync
+  - test Internet connection
+
+2012-10-05:
+* Added non-translated localization file for Arabic translation.
+
+2012-09-26:
+* Script was updated:
+  - Git repo was moved to new location (https://github.com/psi-plus)
+  - psi-plus-i18n was renamed to psi-plus-l10n
+
+2012-08-24:
+* Script was updated: added new command line option tr_push.
+
 2012-06-27:
 * Jiri Slaby is now in Czech translation team.
 
