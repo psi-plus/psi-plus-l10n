@@ -138,7 +138,7 @@
     </message>
     <message>
         <source>Mac OS X Packager</source>
-        <translation>Супроводжуючий пакетів для Mac OS X</translation>
+        <translation type="obsolete">Супроводжуючий пакетів для Mac OS X</translation>
     </message>
     <message>
         <source>OpenSUSE Packager</source>
@@ -198,7 +198,7 @@
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer</source>
-        <translation>Провідний автор патчів та плагинів</translation>
+        <translation type="obsolete">Провідний автор патчів та плагинів</translation>
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
@@ -244,7 +244,15 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
 &lt;a href=&quot;https://www.transifex.net/projects/p/psi-plus/r/all-resources/&quot;&gt;Transifex&lt;/a&gt;
  та тут: 
 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;
-&lt;br&gt;Дата поточного перекладу: 18.10.2012</translation>
+&lt;br&gt;Дата поточного перекладу: 27.10.2012</translation>
+    </message>
+    <message>
+        <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
+        <translation>Провідний автор патчів та плагинів; супроводжуючий пакетів для Mac OS X</translation>
+    </message>
+    <message>
+        <source>Language coordinator</source>
+        <translation>Координатор перекладачів</translation>
     </message>
 </context>
 <context>

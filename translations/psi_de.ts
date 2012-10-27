@@ -138,7 +138,7 @@
     </message>
     <message>
         <source>Mac OS X Packager</source>
-        <translation>Mac OS X Packager</translation>
+        <translation type="obsolete">Mac OS X Packager</translation>
     </message>
     <message>
         <source>OpenSUSE Packager</source>
@@ -198,7 +198,7 @@
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer</source>
-        <translation>Hauptpatcher und Plugin Autor</translation>
+        <translation type="obsolete">Hauptpatcher und Plugin Autor</translation>
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
@@ -254,6 +254,14 @@ Erik-B. Ernst&lt;br&gt;
 Fehler gefunden oder Verbesserungsvorschläge?&lt;br&gt;
 Kontaktaufnahme zur deutschen Übersetzung per Mailingliste (bitte auf Englisch):&lt;br&gt;
 &lt;a href=&quot;mailto:psi-lang@lists.affinix.com&quot;&gt;psi-lang@lists.affinix.com&lt;/a&gt;.</translation>
+    </message>
+    <message>
+        <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language coordinator</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

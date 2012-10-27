@@ -138,7 +138,7 @@
     </message>
     <message>
         <source>Mac OS X Packager</source>
-        <translation>Стварае пакункі для «Mac OS X»</translation>
+        <translation type="obsolete">Стварае пакункі для «Mac OS X»</translation>
     </message>
     <message>
         <source>OpenSUSE Packager</source>
@@ -198,7 +198,7 @@
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer</source>
-        <translation>Галоўны стваральнік латак, піша ўбудовы</translation>
+        <translation type="obsolete">Галоўны стваральнік латак, піша ўбудовы</translation>
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
@@ -251,6 +251,14 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
 &amp;nbsp;&amp;nbsp;Узгадняе працу, забясьпечвае тэхнічную падтрымку&lt;br&gt;
 &lt;br&gt;
 Далучайцеся да каманды перакладу! За падрабязнасьцямі зьвяртайцеся да &lt;a href=&quot;mailto:yehekim@gmail.com&quot;&gt;yehekim@gmail.com&lt;/a&gt;.</translation>
+    </message>
+    <message>
+        <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language coordinator</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

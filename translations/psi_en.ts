@@ -138,7 +138,7 @@
     </message>
     <message>
         <source>Mac OS X Packager</source>
-        <translation>Mac OS X Packager</translation>
+        <translation type="obsolete">Mac OS X Packager</translation>
     </message>
     <message>
         <source>OpenSUSE Packager</source>
@@ -198,7 +198,7 @@
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer</source>
-        <translation>Lead Patcher and Plugins Writer</translation>
+        <translation type="obsolete">Lead Patcher and Plugins Writer</translation>
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
@@ -245,6 +245,14 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</translation>
+    </message>
+    <message>
+        <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language coordinator</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

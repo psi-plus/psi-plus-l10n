@@ -137,10 +137,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Mac OS X Packager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>OpenSUSE Packager</source>
         <translation type="unfinished"></translation>
     </message>
@@ -197,10 +193,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Lead Patcher and Plugins Writer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Patcher and Ubuntu Packager</source>
         <translation type="unfinished"></translation>
     </message>
@@ -233,6 +225,14 @@ Copyright © 2001-2012 The Psi Team.&lt;br&gt;
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Language coordinator</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
