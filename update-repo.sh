@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2012-10-17
+# Updated: 2012-11-12
 # Version: N/A
 
 if [[ ${0} =~ ^/.+$ ]]; then
@@ -193,7 +193,7 @@ case "${1}" in
 
     if [ -d "${MAIN_DIR}/psi-plus-l10n_transifex" ]; then
         echo "${MAIN_DIR}/psi-plus-l10n_transifex"
-        echo "directory is already exists!"
+        echo "directory already exists!"
     else
         echo "Creating ${MAIN_DIR}/psi-plus-l10n_transifex"
         mkdir -p "${MAIN_DIR}/psi-plus-l10n_transifex/.tx"
