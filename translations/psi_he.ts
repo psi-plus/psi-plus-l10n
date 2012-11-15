@@ -10310,7 +10310,7 @@ Please enter your passphrase below:</source>
     <name>PluginInfoDialog</name>
     <message>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>מידע</translation>
     </message>
     <message>
         <source>Close</source>
@@ -12777,7 +12777,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Gardening</source>
-        <translation type="unfinished"/>
+        <translation>מגנן</translation>
     </message>
     <message>
         <source>Running An Errand</source>
@@ -12785,23 +12785,23 @@ Proceed?</source>
     </message>
     <message>
         <source>Walking The Dog</source>
-        <translation type="unfinished"/>
+        <translation>מוליך את הכלב</translation>
     </message>
     <message>
         <source>Drinking</source>
-        <translation type="unfinished"/>
+        <translation>שותה</translation>
     </message>
     <message>
         <source>Having A Beer</source>
-        <translation type="unfinished"/>
+        <translation>שותה בירה</translation>
     </message>
     <message>
         <source>Having Coffee</source>
-        <translation type="unfinished"/>
+        <translation>שותה קפה</translation>
     </message>
     <message>
         <source>Having Tea</source>
-        <translation type="unfinished"/>
+        <translation>שותה תה</translation>
     </message>
     <message>
         <source>Eating</source>
@@ -12809,23 +12809,23 @@ Proceed?</source>
     </message>
     <message>
         <source>Having A Snack</source>
-        <translation type="unfinished"/>
+        <translation>אוכל חטיף</translation>
     </message>
     <message>
         <source>Having Breakfast</source>
-        <translation type="unfinished"/>
+        <translation>אוכל ארוחת בוקר</translation>
     </message>
     <message>
         <source>Having Lunch</source>
-        <translation type="unfinished"/>
+        <translation>אוכל ארוחת צהריים</translation>
     </message>
     <message>
         <source>Having Dinner</source>
-        <translation type="unfinished"/>
+        <translation>אוכל ארוחת ערב</translation>
     </message>
     <message>
         <source>Exercising</source>
-        <translation type="unfinished"/>
+        <translation>מתאמן</translation>
     </message>
     <message>
         <source>Cycling</source>
@@ -12893,7 +12893,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Having Appointment</source>
-        <translation type="unfinished"/>
+        <translation>יש לי פגישה</translation>
     </message>
     <message>
         <source>Inactive</source>
@@ -12945,19 +12945,19 @@ Proceed?</source>
     </message>
     <message>
         <source>Going Out</source>
-        <translation type="unfinished"/>
+        <translation>מסתובב בחוץ</translation>
     </message>
     <message>
         <source>Partying</source>
-        <translation type="unfinished"/>
+        <translation>חוגג</translation>
     </message>
     <message>
         <source>Reading</source>
-        <translation type="unfinished"/>
+        <translation>קורא</translation>
     </message>
     <message>
         <source>Rehearsing</source>
-        <translation type="unfinished"/>
+        <translation>מתרגל</translation>
     </message>
     <message>
         <source>Shopping</source>
@@ -12965,75 +12965,75 @@ Proceed?</source>
     </message>
     <message>
         <source>Smoking</source>
-        <translation type="unfinished"/>
+        <translation>מעשן</translation>
     </message>
     <message>
         <source>Socializing</source>
-        <translation type="unfinished"/>
+        <translation>מתגבש</translation>
     </message>
     <message>
         <source>Sunbathing</source>
-        <translation type="unfinished"/>
+        <translation>משתזף</translation>
     </message>
     <message>
         <source>Watching TV</source>
-        <translation type="unfinished"/>
+        <translation>צופה בטלוויזיה</translation>
     </message>
     <message>
         <source>Watching A Movie</source>
-        <translation type="unfinished"/>
+        <translation>צופה בסרט</translation>
     </message>
     <message>
         <source>Talking</source>
-        <translation type="unfinished"/>
+        <translation>משוחח</translation>
     </message>
     <message>
         <source>In Real Life</source>
-        <translation type="unfinished"/>
+        <translation>בחיים האמיתיים</translation>
     </message>
     <message>
         <source>On The Phone</source>
-        <translation type="unfinished"/>
+        <translation>בטלפון</translation>
     </message>
     <message>
         <source>On Video Phone</source>
-        <translation type="unfinished"/>
+        <translation>בוידאו־פון</translation>
     </message>
     <message>
         <source>Traveling</source>
-        <translation type="unfinished"/>
+        <translation>בנסיעה</translation>
     </message>
     <message>
         <source>Commuting</source>
-        <translation type="unfinished"/>
+        <translation>ביוממות</translation>
     </message>
     <message>
         <source>Driving</source>
-        <translation type="unfinished"/>
+        <translation>בנהיגה</translation>
     </message>
     <message>
         <source>In A Car</source>
-        <translation type="unfinished"/>
+        <translation>במכונית</translation>
     </message>
     <message>
         <source>On A Bus</source>
-        <translation type="unfinished"/>
+        <translation>באוטובוס</translation>
     </message>
     <message>
         <source>On A Plane</source>
-        <translation type="unfinished"/>
+        <translation>במטוס</translation>
     </message>
     <message>
         <source>On A Train</source>
-        <translation type="unfinished"/>
+        <translation>ברכבת</translation>
     </message>
     <message>
         <source>On A Trip</source>
-        <translation type="unfinished"/>
+        <translation>בטיול</translation>
     </message>
     <message>
         <source>Walking</source>
-        <translation type="unfinished"/>
+        <translation>הליכה</translation>
     </message>
     <message>
         <source>Working</source>
@@ -13041,19 +13041,19 @@ Proceed?</source>
     </message>
     <message>
         <source>Coding</source>
-        <translation type="unfinished"/>
+        <translation>מקודד</translation>
     </message>
     <message>
         <source>In A Meeting</source>
-        <translation type="unfinished"/>
+        <translation>בפגישה</translation>
     </message>
     <message>
         <source>Studying</source>
-        <translation type="unfinished"/>
+        <translation>לומד</translation>
     </message>
     <message>
         <source>Writing</source>
-        <translation type="unfinished"/>
+        <translation>כותב</translation>
     </message>
     <message>
         <source>Other</source>
