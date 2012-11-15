@@ -3733,7 +3733,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Pong from %1 after %2 secs</source>
-        <translation type="unfinished"/>
+        <translation>פונג מן %1 כעבור %2 שניות</translation>
     </message>
     <message>
         <source>Feature not implemented</source>
@@ -3793,7 +3793,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Copy Status Message</source>
-        <translation type="unfinished"/>
+        <translation>העתקת הודעת מצב</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -3888,11 +3888,11 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Avatar size:</source>
-        <translation type="unfinished"/>
+        <translation>ממדי אווטאר:</translation>
     </message>
     <message>
         <source>Default JID mode:</source>
-        <translation type="unfinished"/>
+        <translation>מצב JID משתמט:</translation>
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
@@ -3904,15 +3904,15 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Show status changes</source>
-        <translation type="unfinished"/>
+        <translation>הצגת שינויי מצב</translation>
     </message>
     <message>
         <source>Show status priority</source>
-        <translation type="unfinished"/>
+        <translation>הצגת עדיפות מצב</translation>
     </message>
     <message>
         <source>Chat window caption:</source>
-        <translation type="unfinished"/>
+        <translation>כותרת חלון שיחה:</translation>
     </message>
     <message>
         <source>Default JID mode ignore list:</source>
@@ -3920,7 +3920,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>כללי</translation>
     </message>
     <message>
         <source>Show joins</source>
@@ -12805,7 +12805,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Eating</source>
-        <translation type="unfinished"/>
+        <translation>אוכל</translation>
     </message>
     <message>
         <source>Having A Snack</source>
@@ -12829,11 +12829,11 @@ Proceed?</source>
     </message>
     <message>
         <source>Cycling</source>
-        <translation type="unfinished"/>
+        <translation>ברכיבה על אופניים</translation>
     </message>
     <message>
         <source>Dancing</source>
-        <translation type="unfinished"/>
+        <translation>רוקד</translation>
     </message>
     <message>
         <source>Hiking</source>
@@ -12925,7 +12925,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Sleeping</source>
-        <translation type="unfinished"/>
+        <translation>יושן</translation>
     </message>
     <message>
         <source>Thinking</source>
@@ -12961,7 +12961,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Shopping</source>
-        <translation type="unfinished"/>
+        <translation>בקניות</translation>
     </message>
     <message>
         <source>Smoking</source>
