@@ -12781,7 +12781,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Running An Errand</source>
-        <translation type="unfinished"/>
+        <translation>עושה שליחות קצרה</translation>
     </message>
     <message>
         <source>Walking The Dog</source>
@@ -12837,19 +12837,19 @@ Proceed?</source>
     </message>
     <message>
         <source>Hiking</source>
-        <translation type="unfinished"/>
+        <translation>הייקינג</translation>
     </message>
     <message>
         <source>Jogging</source>
-        <translation type="unfinished"/>
+        <translation>ג׳וגינג</translation>
     </message>
     <message>
         <source>Playing Sports</source>
-        <translation type="unfinished"/>
+        <translation>משחק בספורט</translation>
     </message>
     <message>
         <source>Running</source>
-        <translation type="unfinished"/>
+        <translation>ריצה</translation>
     </message>
     <message>
         <source>Skiing</source>
