@@ -14394,7 +14394,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>%1 Files (*.%2);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>קבצי %1 ‫(‪*.%2‬);;כל הקבצים (*)</translation>
     </message>
     <message>
         <source>%1.</source>
