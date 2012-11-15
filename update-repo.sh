@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2012-11-12
+# Updated: 2012-11-16
 # Version: N/A
 
 if [[ ${0} =~ ^/.+$ ]]; then
@@ -205,6 +205,7 @@ case "${1}" in
 ;;
 "tr_sync")
 
+    "${0}" up > /dev/null || exit 1
     "${0}" tr > /dev/null || exit 1
 
     if [ "$(git status | grep 'translations/' | wc -l)" -gt 0 ]; then
