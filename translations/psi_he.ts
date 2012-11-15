@@ -12420,7 +12420,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>I&apos;m in the shower.  You&apos;ll have to wait for me to get out.</source>
-        <translation>אני במקלחת.  עליך להמתין לי עד שאני אצא.</translation>
+        <translation>אני במקלחת.  יהיה עליך להמתין לי עד שאני אצא.</translation>
     </message>
     <message>
         <source>Eating</source>
@@ -12869,27 +12869,27 @@ Proceed?</source>
     </message>
     <message>
         <source>At The Spa</source>
-        <translation type="unfinished"/>
+        <translation>בספא</translation>
     </message>
     <message>
         <source>Brushing Teeth</source>
-        <translation type="unfinished"/>
+        <translation>מצחצח שיניים</translation>
     </message>
     <message>
         <source>Getting A Haircut</source>
-        <translation type="unfinished"/>
+        <translation>עושה תספורת</translation>
     </message>
     <message>
         <source>Shaving</source>
-        <translation type="unfinished"/>
+        <translation>מתגלח</translation>
     </message>
     <message>
         <source>Taking A Bath</source>
-        <translation type="unfinished"/>
+        <translation>מתרחץ</translation>
     </message>
     <message>
         <source>Taking A Shower</source>
-        <translation type="unfinished"/>
+        <translation>מתקלח</translation>
     </message>
     <message>
         <source>Having Appointment</source>
@@ -12901,27 +12901,27 @@ Proceed?</source>
     </message>
     <message>
         <source>Day Off</source>
-        <translation type="unfinished"/>
+        <translation>יום חופשה</translation>
     </message>
     <message>
         <source>Hanging Out</source>
-        <translation type="unfinished"/>
+        <translation>מבלה</translation>
     </message>
     <message>
         <source>Hiding</source>
-        <translation type="unfinished"/>
+        <translation>מסתתר</translation>
     </message>
     <message>
         <source>On Vacation</source>
-        <translation type="unfinished"/>
+        <translation>בחופשה</translation>
     </message>
     <message>
         <source>Praying</source>
-        <translation type="unfinished"/>
+        <translation>מתפלל</translation>
     </message>
     <message>
         <source>Scheduled Holiday</source>
-        <translation type="unfinished"/>
+        <translation>בפגרה מתוכננת</translation>
     </message>
     <message>
         <source>Sleeping</source>
@@ -12929,19 +12929,19 @@ Proceed?</source>
     </message>
     <message>
         <source>Thinking</source>
-        <translation type="unfinished"/>
+        <translation>חושב</translation>
     </message>
     <message>
         <source>Relaxing</source>
-        <translation type="unfinished"/>
+        <translation>נרגע</translation>
     </message>
     <message>
         <source>Fishing</source>
-        <translation type="unfinished"/>
+        <translation>דג</translation>
     </message>
     <message>
         <source>Gaming</source>
-        <translation type="unfinished"/>
+        <translation>משחק</translation>
     </message>
     <message>
         <source>Going Out</source>
