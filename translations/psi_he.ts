@@ -2128,7 +2128,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Clear &amp;Birthdays Cache</source>
-        <translation type="unfinished"/>
+        <translation>טיהור מטמון ימי הולדת</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -2200,11 +2200,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Clear Birthdays Cach</source>
-        <translation type="unfinished"/>
+        <translation>טיהור מטמון ימי הולדת</translation>
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
-        <translation type="unfinished"/>
+        <translation>טיהור מטמון ימי הולדת</translation>
     </message>
     <message>
         <source>Birthdays Cache Successfully Cleared</source>
@@ -8764,11 +8764,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
-        <translation type="unfinished"/>
+        <translation>טיהור מטמון ימי הולדת</translation>
     </message>
     <message>
         <source>Check Birthdays</source>
-        <translation type="unfinished"/>
+        <translation>בדיקת ימי הולדת</translation>
     </message>
     <message>
         <source>Start notifying</source>
@@ -8780,7 +8780,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Check birthdays every</source>
-        <translation type="unfinished"/>
+        <translation>בדיקת ימי הולדת כל</translation>
     </message>
     <message>
         <source>hours</source>
@@ -8800,7 +8800,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Check birthdays on startup</source>
-        <translation type="unfinished"/>
+        <translation>בדיקת ימי הולדת בהפעלה</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -12749,31 +12749,31 @@ Proceed?</source>
     </message>
     <message>
         <source>Doing Chores</source>
-        <translation type="unfinished"/>
+        <translation>עושה מטלות</translation>
     </message>
     <message>
         <source>Buying Groceries</source>
-        <translation type="unfinished"/>
+        <translation>קונה מצרכים</translation>
     </message>
     <message>
         <source>Cleaning</source>
-        <translation type="unfinished"/>
+        <translation>מנקה</translation>
     </message>
     <message>
         <source>Cooking</source>
-        <translation type="unfinished"/>
+        <translation>מבשל</translation>
     </message>
     <message>
         <source>Doing Maintenance</source>
-        <translation type="unfinished"/>
+        <translation>עושה תחזוקה</translation>
     </message>
     <message>
         <source>Doing The Dishes</source>
-        <translation type="unfinished"/>
+        <translation>עושה כלים</translation>
     </message>
     <message>
         <source>Doing The Laundry</source>
-        <translation type="unfinished"/>
+        <translation>עושה כביסה</translation>
     </message>
     <message>
         <source>Gardening</source>
@@ -17653,7 +17653,7 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Birthday:</source>
-        <translation type="unfinished"/>
+        <translation>יום הולדת:</translation>
     </message>
     <message>
         <source>E-Mail:</source>
