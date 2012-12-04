@@ -2007,28 +2007,29 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>ChessWindow</name>
     <message>
         <source>Chess Board</source>
-        <translation type="unfinished"/>
+        <translation>לוח שחמט</translation>
     </message>
     <message>
         <source>Moves:</source>
-        <translation type="unfinished"/>
+        <translation>תורות:</translation>
     </message>
     <message>
         <source>    White    Black
 </source>
-        <translation type="unfinished"/>
+        <translation>    לבן    שחור
+</translation>
     </message>
     <message>
         <source>Load game</source>
-        <translation type="unfinished"/>
+        <translation>טעינת משחק</translation>
     </message>
     <message>
         <source>Save game</source>
-        <translation type="unfinished"/>
+        <translation>שמירת משחק</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>יציאה</translation>
     </message>
     <message>
         <source>Resign</source>
@@ -2036,15 +2037,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Enable sound</source>
-        <translation type="unfinished"/>
+        <translation>אפשור צליל</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>קובץ</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="unfinished"/>
+        <translation>משחק</translation>
     </message>
     <message>
         <source>*.chs</source>
@@ -2053,7 +2054,8 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>  White     Black
 </source>
-        <translation type="unfinished"/>
+        <translation>  לבן     שחור
+</translation>
     </message>
 </context>
 <context>
@@ -2064,7 +2066,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished"/>
+        <translation>היסטוריה</translation>
     </message>
     <message>
         <source>vCards</source>
@@ -2072,15 +2074,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished"/>
+        <translation>אווטארים</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>אפשרויות</translation>
     </message>
     <message>
         <source>Filter:</source>
-        <translation type="unfinished"/>
+        <translation>סינון:</translation>
     </message>
     <message>
         <source>Select All Files</source>
@@ -2112,7 +2114,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>סגירה</translation>
     </message>
     <message>
         <source>Choose &amp;Profile</source>
@@ -2120,11 +2122,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>י&amp;ציאה</translation>
     </message>
     <message>
         <source>Clear &amp;Juick Cache</source>
-        <translation type="unfinished"/>
+        <translation>טיהור מטמון &amp;Juick</translation>
     </message>
     <message>
         <source>Clear &amp;Birthdays Cache</source>
@@ -2132,11 +2134,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"/>
+        <translation>&amp;קובץ</translation>
     </message>
     <message>
         <source>&amp;Actions</source>
-        <translation type="unfinished"/>
+        <translation>&amp;פעולות</translation>
     </message>
     <message>
         <source>History files: </source>
@@ -2148,11 +2150,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Avatars: </source>
-        <translation type="unfinished"/>
+        <translation>אווטארים:</translation>
     </message>
     <message>
         <source>Clear History</source>
-        <translation type="unfinished"/>
+        <translation>טיהור היסטוריה</translation>
     </message>
     <message>
         <source>Are You Sure?</source>
@@ -2160,15 +2162,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Clear vCards</source>
-        <translation type="unfinished"/>
+        <translation>טיהור vCards</translation>
     </message>
     <message>
         <source>Clear Avatars</source>
-        <translation type="unfinished"/>
+        <translation>טיהור אווטארים</translation>
     </message>
     <message>
         <source>Clear Options</source>
-        <translation type="unfinished"/>
+        <translation>טיהור אפשרויות</translation>
     </message>
     <message>
         <source>Not supported yet!</source>
@@ -2184,11 +2186,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Clear Juick Cache</source>
-        <translation type="unfinished"/>
+        <translation>טיהור מטמון Juick</translation>
     </message>
     <message>
         <source>Juick Cache Successfully Cleared</source>
-        <translation type="unfinished"/>
+        <translation>מטמון Juick טוהר בהצלחה</translation>
     </message>
     <message>
         <source>Something wrong!</source>
@@ -2196,7 +2198,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Cache Not Found!</source>
-        <translation type="unfinished"/>
+        <translation>מטמון לא נמצא!</translation>
     </message>
     <message>
         <source>Clear Birthdays Cach</source>
@@ -2239,34 +2241,34 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClearingAvatarModel</name>
     <message>
         <source>Avatar</source>
-        <translation type="unfinished"/>
+        <translation>אווטאר</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>מידה</translation>
     </message>
     <message>
         <source>Creation Date</source>
-        <translation type="unfinished"/>
+        <translation>תאריך יצירה</translation>
     </message>
 </context>
 <context>
     <name>ClearingModel</name>
     <message>
         <source>Nick</source>
-        <translation type="unfinished"/>
+        <translation>כינוי</translation>
     </message>
     <message>
         <source>Domain</source>
-        <translation type="unfinished"/>
+        <translation>מתחם</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>גודל</translation>
     </message>
     <message>
         <source>Creation Date</source>
-        <translation type="unfinished"/>
+        <translation>תאריך יצירה</translation>
     </message>
 </context>
 <context>
@@ -2284,7 +2286,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClearingTab</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>מן</translation>
     </message>
 </context>
 <context>
@@ -2339,7 +2341,7 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
     <message>
         <source>Conference History</source>
-        <translation type="unfinished"/>
+        <translation>היסטוריית ועידה</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -2369,7 +2371,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Activity</source>
-        <translation type="unfinished"/>
+        <translation>פעילות</translation>
     </message>
     <message>
         <source>GeoLocation</source>
@@ -3421,16 +3423,17 @@ Proceed?</source>
     </message>
     <message>
         <source>Text**</source>
-        <translation type="unfinished"/>
+        <translation>תמליל**</translation>
     </message>
     <message>
         <source>*Regular expressions can be used</source>
-        <translation type="unfinished"/>
+        <translation>*ביטויים רגולרים ניתנים לשימוש</translation>
     </message>
     <message>
         <source>**List of words can be used.
   Each word can use regular expression</source>
-        <translation type="unfinished"/>
+        <translation>**רשימה של מילים ניתנת לשימוש.
+  כל מילה יכולה לעשות שימוש בביטוי רגולרי</translation>
     </message>
     <message>
         <source>Use for</source>
@@ -3446,7 +3449,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Always play sound</source>
-        <translation type="unfinished"/>
+        <translation>השמע צליל תמיד</translation>
     </message>
     <message>
         <source>Sound:</source>
@@ -3469,22 +3472,22 @@ Proceed?</source>
     </message>
     <message>
         <source>Title:</source>
-        <translation type="unfinished"/>
+        <translation>כותרת:</translation>
     </message>
     <message>
         <source>Tags:</source>
-        <translation type="unfinished"/>
+        <translation>תגיות:</translation>
     </message>
 </context>
 <context>
     <name>EditServerDlg</name>
     <message>
         <source>Server Settings</source>
-        <translation type="unfinished"/>
+        <translation>הגדרות שרת</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"/>
+        <translation>שם:</translation>
     </message>
     <message>
         <source>Url:</source>
@@ -3492,11 +3495,11 @@ Proceed?</source>
     </message>
     <message>
         <source>User Name*:</source>
-        <translation type="unfinished"/>
+        <translation>שם משתמש*:</translation>
     </message>
     <message>
         <source>Password*:</source>
-        <translation type="unfinished"/>
+        <translation>סיסמה*:</translation>
     </message>
     <message>
         <source>PostData**:</source>
@@ -3504,7 +3507,7 @@ Proceed?</source>
     </message>
     <message>
         <source>File Input**:</source>
-        <translation type="unfinished"/>
+        <translation>פלט קובץ**:</translation>
     </message>
     <message>
         <source>RegExp**:</source>
@@ -3512,11 +3515,11 @@ Proceed?</source>
     </message>
     <message>
         <source>*for FTP servers only</source>
-        <translation type="unfinished"/>
+        <translation>*עבור שרתי FTP בלבד</translation>
     </message>
     <message>
         <source>**for HTTP servers only</source>
-        <translation type="unfinished"/>
+        <translation>**עבור שרתי HTTP בלבד</translation>
     </message>
     <message>
         <source>Use proxy server</source>
@@ -3741,23 +3744,23 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>%1 Last Activity</source>
-        <translation type="unfinished"/>
+        <translation>%1 פעילות אחרונה</translation>
     </message>
     <message>
         <source>%1 Last Activity was %2 ago</source>
-        <translation type="unfinished"/>
+        <translation>%1 פעילות אחרונה ארעה לפני %2</translation>
     </message>
     <message>
         <source>%1 went offline %2 ago</source>
-        <translation type="unfinished"/>
+        <translation>%1 לא מקוון מלפני %2</translation>
     </message>
     <message>
         <source>%1 uptime is %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 זמן פעילות %2</translation>
     </message>
     <message>
         <source>%1 is online!</source>
-        <translation type="unfinished"/>
+        <translation>%1 מקוון כעת!</translation>
     </message>
     <message>
         <source>Unknown error!</source>
@@ -3765,7 +3768,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Service unavailable</source>
-        <translation type="unfinished"/>
+        <translation>שירות לא זמין</translation>
     </message>
     <message>
         <source>You are not authorized to retrieve Last Activity information</source>
@@ -3773,11 +3776,11 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>%1 Time</source>
-        <translation type="unfinished"/>
+        <translation>%1 זמן</translation>
     </message>
     <message>
         <source>%1 time is %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 זמן %2</translation>
     </message>
     <message>
         <source>Extended Actions</source>
@@ -3852,7 +3855,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished"/>
+        <translation>שונות</translation>
     </message>
     <message>
         <source>Enable central toolbar</source>
