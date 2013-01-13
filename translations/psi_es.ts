@@ -14716,15 +14716,19 @@ Razón: %1</translation>
     </message>
     <message>
         <source>Redirect to protocol &apos;%1&apos; not supported</source>
-        <translation>La redirección al protocolo &apos;%1&apos; no está soportada</translation>
+        <translation type="obsolete">La redirección al protocolo &apos;%1&apos; no está soportada</translation>
     </message>
     <message>
         <source>Cannot redirect to empty host</source>
-        <translation>No se puede redirigir a un servidor vacío</translation>
+        <translation type="obsolete">No se puede redirigir a un servidor vacío</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
         <translation>Código de estado HTTP inesperado: %1</translation>
+    </message>
+    <message>
+        <source>Invalid redirect URL %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16797,14 +16801,6 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Payment required</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

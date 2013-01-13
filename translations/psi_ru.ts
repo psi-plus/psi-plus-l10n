@@ -138,7 +138,7 @@
     </message>
     <message>
         <source>Mac OS X Packager</source>
-        <translation>Сопровождающий пакета для Mac OS X</translation>
+        <translation type="obsolete">Сопровождающий пакета для Mac OS X</translation>
     </message>
     <message>
         <source>OpenSUSE Packager</source>
@@ -198,7 +198,7 @@
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer</source>
-        <translation>Главный автор патчей и разработчик плагинов</translation>
+        <translation type="obsolete">Главный автор патчей и разработчик плагинов</translation>
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
@@ -14885,15 +14885,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>Redirect to protocol &apos;%1&apos; not supported</source>
-        <translation>Перенаправление к протоколу &apos;%1&apos; не поддерживается</translation>
+        <translation type="obsolete">Перенаправление к протоколу &apos;%1&apos; не поддерживается</translation>
     </message>
     <message>
         <source>Cannot redirect to empty host</source>
-        <translation>Не удаётся перенаправить на пустой сервер</translation>
+        <translation type="obsolete">Не удаётся перенаправить на пустой сервер</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
         <translation>Неожиданный код состояния HTTP: %1</translation>
+    </message>
+    <message>
+        <source>Invalid redirect URL %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17029,11 +17033,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Payment required</source>
-        <translation>Требуется оплата</translation>
+        <translation type="obsolete">Требуется оплата</translation>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
-        <translation>Для доступа к запрашиваемому сервису требуется оплата.</translation>
+        <translation type="obsolete">Для доступа к запрашиваемому сервису требуется оплата.</translation>
     </message>
     <message>
         <source>Recipient unavailable</source>

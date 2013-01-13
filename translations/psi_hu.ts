@@ -14711,15 +14711,19 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Redirect to protocol &apos;%1&apos; not supported</source>
-        <translation>&apos;%1&apos; protokollra való átirányítás nem támogatott</translation>
+        <translation type="obsolete">&apos;%1&apos; protokollra való átirányítás nem támogatott</translation>
     </message>
     <message>
         <source>Cannot redirect to empty host</source>
-        <translation>Nem lehet átirányítani üres címre</translation>
+        <translation type="obsolete">Nem lehet átirányítani üres címre</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
         <translation>Nem várt HTTP állapot: %1</translation>
+    </message>
+    <message>
+        <source>Invalid redirect URL %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16801,14 +16805,6 @@ Biztos bezárod az ablakot?</translation>
     </message>
     <message>
         <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Payment required</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

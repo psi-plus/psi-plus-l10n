@@ -14889,15 +14889,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>Redirect to protocol &apos;%1&apos; not supported</source>
-        <translation>Нельга накіраваць да пратаколу «%1»: не падтрымваецца</translation>
+        <translation type="obsolete">Нельга накіраваць да пратаколу «%1»: не падтрымваецца</translation>
     </message>
     <message>
         <source>Cannot redirect to empty host</source>
-        <translation>Нельга накіраваць да пустое пляцоўкі</translation>
+        <translation type="obsolete">Нельга накіраваць да пустое пляцоўкі</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
         <translation>Нечаканы код стану HTTP: %1</translation>
+    </message>
+    <message>
+        <source>Invalid redirect URL %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17027,11 +17031,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Payment required</source>
-        <translation>Трэба заплаціць</translation>
+        <translation type="obsolete">Трэба заплаціць</translation>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
-        <translation>Не даюць доступу да запытанае службы, бо трэба заплаціць.</translation>
+        <translation type="obsolete">Не даюць доступу да запытанае службы, бо трэба заплаціць.</translation>
     </message>
     <message>
         <source>Recipient unavailable</source>

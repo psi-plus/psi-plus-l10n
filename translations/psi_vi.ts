@@ -14709,15 +14709,19 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Redirect to protocol &apos;%1&apos; not supported</source>
-        <translation>Chức năng chuyển tiếp tới giao thức « %1 » không được hỗ trợ</translation>
+        <translation type="obsolete">Chức năng chuyển tiếp tới giao thức « %1 » không được hỗ trợ</translation>
     </message>
     <message>
         <source>Cannot redirect to empty host</source>
-        <translation>Không thể chuyển tiếp tới máy chủ trống</translation>
+        <translation type="obsolete">Không thể chuyển tiếp tới máy chủ trống</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
         <translation>Gặp mã trạng thái HTTP bất thường: %1</translation>
+    </message>
+    <message>
+        <source>Invalid redirect URL %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16799,14 +16803,6 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
     </message>
     <message>
         <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Payment required</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

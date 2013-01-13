@@ -14876,15 +14876,19 @@ Reason: %1</translation>
     </message>
     <message>
         <source>Redirect to protocol &apos;%1&apos; not supported</source>
-        <translation>Redirect to protocol &apos;%1&apos; not supported</translation>
+        <translation type="obsolete">Redirect to protocol &apos;%1&apos; not supported</translation>
     </message>
     <message>
         <source>Cannot redirect to empty host</source>
-        <translation>Cannot redirect to empty host</translation>
+        <translation type="obsolete">Cannot redirect to empty host</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
         <translation>Unexpected HTTP status code: %1</translation>
+    </message>
+    <message>
+        <source>Invalid redirect URL %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17014,11 +17018,11 @@ Do you still want to close the window?</translation>
     </message>
     <message>
         <source>Payment required</source>
-        <translation>Payment required</translation>
+        <translation type="obsolete">Payment required</translation>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
-        <translation>The requesting entity is not authorized to access the requested service because payment is required.</translation>
+        <translation type="obsolete">The requesting entity is not authorized to access the requested service because payment is required.</translation>
     </message>
     <message>
         <source>Recipient unavailable</source>

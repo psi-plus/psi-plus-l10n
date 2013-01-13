@@ -14809,15 +14809,19 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Redirect to protocol &apos;%1&apos; not supported</source>
-        <translation>Weiterleitung auf Protokoll &apos;%1&apos; wird nicht unterstützt</translation>
+        <translation type="obsolete">Weiterleitung auf Protokoll &apos;%1&apos; wird nicht unterstützt</translation>
     </message>
     <message>
         <source>Cannot redirect to empty host</source>
-        <translation>Ohne Hostnamen kann keine Weiterleitung erfolgen</translation>
+        <translation type="obsolete">Ohne Hostnamen kann keine Weiterleitung erfolgen</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
         <translation>Unerwarteter HTTP-Statuscode: %1</translation>
+    </message>
+    <message>
+        <source>Invalid redirect URL %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16892,11 +16896,11 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
     <message>
         <source>Payment required</source>
-        <translation>Zahlung erforderlich</translation>
+        <translation type="obsolete">Zahlung erforderlich</translation>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
-        <translation>Der Anfragende ist nicht befugt den Dienst in Anspruch zu nehmen, da eine Zahlung erforderlich ist.</translation>
+        <translation type="obsolete">Der Anfragende ist nicht befugt den Dienst in Anspruch zu nehmen, da eine Zahlung erforderlich ist.</translation>
     </message>
     <message>
         <source>Recipient unavailable</source>

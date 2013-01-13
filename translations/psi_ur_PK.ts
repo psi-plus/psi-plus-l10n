@@ -14694,15 +14694,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>Redirect to protocol &apos;%1&apos; not supported</source>
-        <translation>پروٹوکول &apos;%1&apos; کی طرف سمت بدلنا معاونت شدہ نہیں ہے</translation>
+        <translation type="obsolete">پروٹوکول &apos;%1&apos; کی طرف سمت بدلنا معاونت شدہ نہیں ہے</translation>
     </message>
     <message>
         <source>Cannot redirect to empty host</source>
-        <translation>خالی میزبان کی طرف سمت نہیں بدل سکتا</translation>
+        <translation type="obsolete">خالی میزبان کی طرف سمت نہیں بدل سکتا</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
         <translation>غیر متوقع HTTP حالت ضابطہ:%1</translation>
+    </message>
+    <message>
+        <source>Invalid redirect URL %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16774,14 +16778,6 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Payment required</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

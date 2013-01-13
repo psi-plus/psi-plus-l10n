@@ -14709,15 +14709,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>Redirect to protocol &apos;%1&apos; not supported</source>
-        <translation>Протоколот за пренасочување „%1“ не е поддржан</translation>
+        <translation type="obsolete">Протоколот за пренасочување „%1“ не е поддржан</translation>
     </message>
     <message>
         <source>Cannot redirect to empty host</source>
-        <translation>Не може да се пренасочува кон празен домаќин</translation>
+        <translation type="obsolete">Не може да се пренасочува кон празен домаќин</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
         <translation>Неочекувам код на статусот на HTTP: %1</translation>
+    </message>
+    <message>
+        <source>Invalid redirect URL %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16789,14 +16793,6 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Payment required</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

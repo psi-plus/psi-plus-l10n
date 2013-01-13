@@ -14694,15 +14694,19 @@ Reason: %1</source>
     </message>
     <message>
         <source>Redirect to protocol &apos;%1&apos; not supported</source>
-        <translation>プロトコル &apos;%1&apos; へのリダイレクトはサポートされていません</translation>
+        <translation type="obsolete">プロトコル &apos;%1&apos; へのリダイレクトはサポートされていません</translation>
     </message>
     <message>
         <source>Cannot redirect to empty host</source>
-        <translation>空のホストへはリダイレクトできません</translation>
+        <translation type="obsolete">空のホストへはリダイレクトできません</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
         <translation>予期しない HTTPステータスコード: %1</translation>
+    </message>
+    <message>
+        <source>Invalid redirect URL %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16781,11 +16785,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Payment required</source>
-        <translation>支払いが要求されました</translation>
+        <translation type="obsolete">支払いが要求されました</translation>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
-        <translation>支払いが要求されている為、要求したエンティティがサービスにアクセスすることは承認されていません。</translation>
+        <translation type="obsolete">支払いが要求されている為、要求したエンティティがサービスにアクセスすることは承認されていません。</translation>
     </message>
     <message>
         <source>Recipient unavailable</source>

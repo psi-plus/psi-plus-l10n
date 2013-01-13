@@ -14782,15 +14782,19 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Redirect to protocol &apos;%1&apos; not supported</source>
-        <translation>Przekierowanie do protokołu &apos;%1&apos; nie jest obsługiwane</translation>
+        <translation type="obsolete">Przekierowanie do protokołu &apos;%1&apos; nie jest obsługiwane</translation>
     </message>
     <message>
         <source>Cannot redirect to empty host</source>
-        <translation>Nie można przekierować do niewypełnionego serwera</translation>
+        <translation type="obsolete">Nie można przekierować do niewypełnionego serwera</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
         <translation>Nieoczekiwany kod statusu HTTP: %1</translation>
+    </message>
+    <message>
+        <source>Invalid redirect URL %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16873,11 +16877,11 @@ Czy nadal chcesz zamknąć tablicę?</translation>
     </message>
     <message>
         <source>Payment required</source>
-        <translation>Wymagana opłata</translation>
+        <translation type="obsolete">Wymagana opłata</translation>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
-        <translation>Nadawca nie uzyskał dostępu do żądanego obiektu ponieważ wymagane jest wniesienie opłaty.</translation>
+        <translation type="obsolete">Nadawca nie uzyskał dostępu do żądanego obiektu ponieważ wymagane jest wniesienie opłaty.</translation>
     </message>
     <message>
         <source>Recipient unavailable</source>
