@@ -1,3 +1,9 @@
+2013-01-13:
+* Scripts was updated:
+  updated command line option 'tarball'; code.google.com will be used for
+  sharing precompiled localization files because github.com closed this
+  feature.
+
 2012-11-16:
 * Script was updated: small fix in tr_sync option.
 * Isratine Citizen is now in Hebrew translation team.
