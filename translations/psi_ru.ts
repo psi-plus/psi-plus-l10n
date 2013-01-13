@@ -138,7 +138,7 @@
     </message>
     <message>
         <source>Mac OS X Packager</source>
-        <translation type="obsolete">Сопровождающий пакета для Mac OS X</translation>
+        <translation></translation>
     </message>
     <message>
         <source>OpenSUSE Packager</source>
@@ -198,7 +198,7 @@
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer</source>
-        <translation type="obsolete">Главный автор патчей и разработчик плагинов</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
@@ -14885,11 +14885,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Redirect to protocol &apos;%1&apos; not supported</source>
-        <translation type="obsolete">Перенаправление к протоколу &apos;%1&apos; не поддерживается</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Cannot redirect to empty host</source>
-        <translation type="obsolete">Не удаётся перенаправить на пустой сервер</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
@@ -14897,7 +14897,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Invalid redirect URL %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Неверное перенаправление URL %1</translation>
     </message>
 </context>
 <context>
@@ -17033,11 +17033,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Payment required</source>
-        <translation type="obsolete">Требуется оплата</translation>
+        <translation></translation>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
-        <translation type="obsolete">Для доступа к запрашиваемому сервису требуется оплата.</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Recipient unavailable</source>
