@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2013-01-13
+# Updated: 2013-01-14
 # Version: N/A
 
 if [[ ${0} =~ ^/.+$ ]]; then
@@ -73,11 +73,11 @@ case "${1}" in
 
     CUR_TAG="$(git tag -l  | sort -r -V | head -n1)"
 
-    rm -rf psi-plus_translations_*
-    mkdir psi-plus_translations_${CUR_TAG} || exit 1
-    cp out/*.qm psi-plus_translations_${CUR_TAG} || exit 1
+    rm -rf psi-plus-translations-*
+    mkdir psi-plus-translations-${CUR_TAG} || exit 1
+    cp out/*.qm psi-plus-translations-${CUR_TAG} || exit 1
 
-    tar -cJf psi-plus_translations_${CUR_TAG}.tar.xz psi-plus_translations_${CUR_TAG} || exit 1
+    tar -cJf psi-plus-translations-${CUR_TAG}.tar.xz psi-plus-translations-${CUR_TAG} || exit 1
     echo "Tarball with precompiled translation files is ready for upload:"
     echo "https://code.google.com/p/psi-dev/downloads/list?q=label:Translations"
     echo "Summary:"
