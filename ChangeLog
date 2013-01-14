@@ -1,8 +1,10 @@
-2013-01-13:
-* Scripts was updated:
-  updated command line option 'tarball'; code.google.com will be used for
-  sharing precompiled localization files because github.com closed this
-  feature.
+2013-01-14:
+* Script was updated:
+  - updated command line option 'tarball'; code.google.com will be used for
+    sharing precompiled localization files because github.com closed this
+    feature
+  - changed name format for tarball with precompiled localization files
+    (see http://psi-plus.com/wiki/en:packagement_rules)
 
 2012-11-16:
 * Script was updated: small fix in tr_sync option.
@@ -20,7 +22,7 @@
 * Added non-translated localization file for Hebrew translation.
 
 2012-10-12:
-* Scripts was updated:
+* Script was updated:
   fixed determination of CUR_DIR variable when absolute path is used.
 
 2012-10-11:
