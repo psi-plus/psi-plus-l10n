@@ -213,7 +213,7 @@
 &lt;br&gt;
 Copyright © 2001-2012 The Psi Team.&lt;br&gt;
 </source>
-        <translation>Ein Plattformunabhängiger XMPP Client für Power-Nutzer.&lt;br&gt;
+        <translation type="obsolete">Ein Plattformunabhängiger XMPP Client für Power-Nutzer.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2012 The Psi Team.&lt;br&gt;</translation>
     </message>
@@ -259,8 +259,17 @@ Kontaktaufnahme zur deutschen Übersetzung per Mailingliste (bitte auf Englisch)
         <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
         <translation type="unfinished"></translation>
     </message>
+    <message utf8="true">
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2013 The Psi Team.&lt;br&gt;
+</source>
+        <translation type="unfinished">Ein Plattformunabhängiger XMPP Client für Power-Nutzer.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2012 The Psi Team.&lt;br&gt; {2001-2013 ?}</translation>
+    </message>
     <message>
-        <source>Language coordinator</source>
+        <source>Language coordinator; Debian Packager</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

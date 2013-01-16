@@ -205,7 +205,7 @@
 &lt;br&gt;
 Copyright © 2001-2012 The Psi Team.&lt;br&gt;
 </source>
-        <translation>לקוח XMPP חוצה פלטפורמות המעוצב עבור משתמים מיומנים.&lt;br&gt;
+        <translation type="obsolete">לקוח XMPP חוצה פלטפורמות המעוצב עבור משתמים מיומנים.&lt;br&gt;
 &lt;br&gt;
 זכויות יוצרים © 2001-2012 נבחרת ‫Psi.&lt;br&gt;
 </translation>
@@ -249,7 +249,21 @@ Isratine Citizen &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br
     </message>
     <message>
         <source>Language coordinator</source>
-        <translation>מתאם שפה</translation>
+        <translation type="obsolete">מתאם שפה</translation>
+    </message>
+    <message utf8="true">
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2013 The Psi Team.&lt;br&gt;
+</source>
+        <translation type="unfinished">לקוח XMPP חוצה פלטפורמות המעוצב עבור משתמים מיומנים.&lt;br&gt;
+&lt;br&gt;
+זכויות יוצרים © 2001-2012 נבחרת ‫Psi.&lt;br&gt;
+ {2001-2013 ?}</translation>
+    </message>
+    <message>
+        <source>Language coordinator; Debian Packager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

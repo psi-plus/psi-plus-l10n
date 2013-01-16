@@ -213,7 +213,7 @@
 &lt;br&gt;
 Copyright © 2001-2012 The Psi Team.&lt;br&gt;
 </source>
-        <translation>Крос-платформовий XMPP клієнт для досвідчених користувачів.&lt;br&gt;
+        <translation type="obsolete">Крос-платформовий XMPP клієнт для досвідчених користувачів.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2012 The Psi Team.&lt;br&gt; </translation>
     </message>
@@ -252,7 +252,20 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
     </message>
     <message>
         <source>Language coordinator</source>
-        <translation>Координатор перекладачів</translation>
+        <translation type="obsolete">Координатор перекладачів</translation>
+    </message>
+    <message utf8="true">
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2013 The Psi Team.&lt;br&gt;
+</source>
+        <translation type="unfinished">Крос-платформовий XMPP клієнт для досвідчених користувачів.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2012 The Psi Team.&lt;br&gt;  {2001-2013 ?}</translation>
+    </message>
+    <message>
+        <source>Language coordinator; Debian Packager</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

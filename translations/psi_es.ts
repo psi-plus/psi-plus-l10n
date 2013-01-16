@@ -205,13 +205,6 @@
         <source>Psimedia Patcher and Wiki English localization</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2012 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Sponsor</source>
         <translation type="unfinished"></translation>
@@ -236,8 +229,15 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
         <translation type="unfinished"></translation>
     </message>
+    <message utf8="true">
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2013 The Psi Team.&lt;br&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
-        <source>Language coordinator</source>
+        <source>Language coordinator; Debian Packager</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

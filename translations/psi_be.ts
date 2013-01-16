@@ -213,7 +213,7 @@
 &lt;br&gt;
 Copyright © 2001-2012 The Psi Team.&lt;br&gt;
 </source>
-        <translation>Міжплятформавы кліент XMPP для дасьведчаных карыстальнікаў.&lt;br&gt;
+        <translation type="obsolete">Міжплятформавы кліент XMPP для дасьведчаных карыстальнікаў.&lt;br&gt;
 &lt;br&gt;
 © Каманда «Псі», 2001–2012.&lt;br&gt;
 </translation>
@@ -256,8 +256,18 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
         <translation type="unfinished"></translation>
     </message>
+    <message utf8="true">
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2013 The Psi Team.&lt;br&gt;
+</source>
+        <translation type="unfinished">Міжплятформавы кліент XMPP для дасьведчаных карыстальнікаў.&lt;br&gt;
+&lt;br&gt;
+© Каманда «Псі», 2001–2012.&lt;br&gt;
+ {2001-2013 ?}</translation>
+    </message>
     <message>
-        <source>Language coordinator</source>
+        <source>Language coordinator; Debian Packager</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

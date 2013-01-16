@@ -137,10 +137,6 @@
         <translation>Patcher and Russian localization</translation>
     </message>
     <message>
-        <source>Mac OS X Packager</source>
-        <translation type="obsolete">Mac OS X Packager</translation>
-    </message>
-    <message>
         <source>OpenSUSE Packager</source>
         <translation>OpenSUSE Packager</translation>
     </message>
@@ -197,26 +193,12 @@
         <translation>Founder, Patcher and MS Windows Packager</translation>
     </message>
     <message>
-        <source>Lead Patcher and Plugins Writer</source>
-        <translation type="obsolete">Lead Patcher and Plugins Writer</translation>
-    </message>
-    <message>
         <source>Patcher and Ubuntu Packager</source>
         <translation>Patcher and Ubuntu Packager</translation>
     </message>
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
         <translation>Psimedia Patcher and Wiki English localization</translation>
-    </message>
-    <message utf8="true">
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2012 The Psi Team.&lt;br&gt;
-</source>
-        <translation>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2012 The Psi Team.&lt;br&gt;
-</translation>
     </message>
     <message>
         <source>Sponsor</source>
@@ -250,8 +232,18 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</translation>
         <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
         <translation type="unfinished"></translation>
     </message>
+    <message utf8="true">
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2013 The Psi Team.&lt;br&gt;
+</source>
+        <translation type="unfinished">A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2012 The Psi Team.&lt;br&gt;
+ {2001-2013 ?}</translation>
+    </message>
     <message>
-        <source>Language coordinator</source>
+        <source>Language coordinator; Debian Packager</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14875,14 +14867,6 @@ Reason: %1</translation>
         <translation>Maximum redirect count reached</translation>
     </message>
     <message>
-        <source>Redirect to protocol &apos;%1&apos; not supported</source>
-        <translation type="obsolete">Redirect to protocol &apos;%1&apos; not supported</translation>
-    </message>
-    <message>
-        <source>Cannot redirect to empty host</source>
-        <translation type="obsolete">Cannot redirect to empty host</translation>
-    </message>
-    <message>
         <source>Unexpected HTTP status code: %1</source>
         <translation>Unexpected HTTP status code: %1</translation>
     </message>
@@ -17015,14 +16999,6 @@ Do you still want to close the window?</translation>
     <message>
         <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
         <translation>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</translation>
-    </message>
-    <message>
-        <source>Payment required</source>
-        <translation type="obsolete">Payment required</translation>
-    </message>
-    <message>
-        <source>The requesting entity is not authorized to access the requested service because payment is required.</source>
-        <translation type="obsolete">The requesting entity is not authorized to access the requested service because payment is required.</translation>
     </message>
     <message>
         <source>Recipient unavailable</source>
