@@ -1036,6 +1036,81 @@ save the history for this contact.</translation>
     </message>
 </context>
 <context>
+    <name>AddKeyDlg</name>
+    <message>
+        <source>Generate a new key pair</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>E-mail address </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Length </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full name </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expiration date </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RSA and RSA (default)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DSA and Elgamal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DSA (sign only)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RSA (sign only)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Key type </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Key expires</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1024</source>
+        <translation type="unfinished">1024</translation>
+    </message>
+    <message>
+        <source>2048</source>
+        <translation type="unfinished">2048</translation>
+    </message>
+    <message>
+        <source>3072</source>
+        <translation type="unfinished">3072</translation>
+    </message>
+    <message>
+        <source>4098</source>
+        <translation type="unfinished">4098</translation>
+    </message>
+    <message>
+        <source>Passphrase </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeat </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AddUrl</name>
     <message>
         <source>Add URL</source>
@@ -7536,6 +7611,42 @@ Details: %1</translation>
         <source>Sounds (if empty default sound will be used)</source>
         <translation>Sounds (if empty default sound will be used)</translation>
     </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished">Type</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Name</translation>
+    </message>
+    <message>
+        <source>E-Mail</source>
+        <translation type="unfinished">E-Mail</translation>
+    </message>
+    <message>
+        <source>Created</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation type="unfinished">Comment</translation>
+    </message>
+    <message>
+        <source>Algorithm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Short ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation type="unfinished">Fingerprint</translation>
+    </message>
 </context>
 <context>
     <name>Mood</name>
@@ -9240,6 +9351,46 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Cookies are removed</source>
         <translation>Cookies are removed</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished">Remove</translation>
+    </message>
+    <message>
+        <source>Import</source>
+        <translation type="unfinished">Import</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished">Export</translation>
+    </message>
+    <message>
+        <source>Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Please wait.&lt;/b&gt;&lt;br/&gt;We need to generate a lot of random bytes. It is a good idea to perform&lt;br/&gt;some other action (type on the keyboard, move the mouse, utilize the&lt;br/&gt;disks) during the prime generation; this gives the random number&lt;br/&gt;generator a better chance to gain enough entropy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancel</translation>
+    </message>
+    <message>
+        <source>Key pair generating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ASCII (*.asc)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All files (*)</source>
+        <translation type="unfinished">All files (*)</translation>
+    </message>
+    <message>
+        <source>GnuPG info</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
