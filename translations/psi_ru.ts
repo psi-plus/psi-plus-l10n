@@ -1031,26 +1031,6 @@ save the history for this contact.</source>
         <translation>Генерировать новую пару ключей</translation>
     </message>
     <message>
-        <source>E-mail address </source>
-        <translation>E-mail </translation>
-    </message>
-    <message>
-        <source>Length </source>
-        <translation>Длина </translation>
-    </message>
-    <message>
-        <source>Comment </source>
-        <translation>Комментарий </translation>
-    </message>
-    <message>
-        <source>Full name </source>
-        <translation>ФИО </translation>
-    </message>
-    <message>
-        <source>Expiration date </source>
-        <translation>Дата истечения срока действия </translation>
-    </message>
-    <message>
         <source>RSA and RSA (default)</source>
         <translation>RSA и RSA (по умолчанию)</translation>
     </message>
@@ -1065,10 +1045,6 @@ save the history for this contact.</source>
     <message>
         <source>RSA (sign only)</source>
         <translation>RSA (только для подписи)</translation>
-    </message>
-    <message>
-        <source>Key type </source>
-        <translation>Тип ключа </translation>
     </message>
     <message>
         <source>Key expires</source>
@@ -1091,12 +1067,36 @@ save the history for this contact.</source>
         <translation>4098</translation>
     </message>
     <message>
-        <source>Passphrase </source>
-        <translation>Ключевая фраза </translation>
+        <source>E-mail address: </source>
+        <translation>E-mail: </translation>
     </message>
     <message>
-        <source>Repeat </source>
-        <translation>Повторить </translation>
+        <source>Length: </source>
+        <translation>Длина: </translation>
+    </message>
+    <message>
+        <source>Comment: </source>
+        <translation>Комментарий: </translation>
+    </message>
+    <message>
+        <source>Full name: </source>
+        <translation>ФИО: </translation>
+    </message>
+    <message>
+        <source>Expiration date: </source>
+        <translation>Действителен до: </translation>
+    </message>
+    <message>
+        <source>Key type: </source>
+        <translation>Тип ключа: </translation>
+    </message>
+    <message>
+        <source>Passphrase: </source>
+        <translation>Ключевая фраза: </translation>
+    </message>
+    <message>
+        <source>Repeat: </source>
+        <translation>Повтор: </translation>
     </message>
 </context>
 <context>

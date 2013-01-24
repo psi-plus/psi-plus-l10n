@@ -1050,26 +1050,6 @@ Chronik für diesen Kontakt speichern.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>E-mail address </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Length </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Comment </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Full name </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Expiration date </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>RSA and RSA (default)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1083,10 +1063,6 @@ Chronik für diesen Kontakt speichern.</translation>
     </message>
     <message>
         <source>RSA (sign only)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Key type </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1110,11 +1086,35 @@ Chronik für diesen Kontakt speichern.</translation>
         <translation type="unfinished">4098</translation>
     </message>
     <message>
-        <source>Passphrase </source>
+        <source>E-mail address: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Repeat </source>
+        <source>Length: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full name: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expiration date: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Key type: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Passphrase: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeat: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
