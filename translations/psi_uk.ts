@@ -1079,24 +1079,20 @@ save the history for this contact.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Key expires</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>1024</source>
-        <translation type="unfinished">1024</translation>
+        <translation type="obsolete">1024</translation>
     </message>
     <message>
         <source>2048</source>
-        <translation type="unfinished">2048</translation>
+        <translation type="obsolete">2048</translation>
     </message>
     <message>
         <source>3072</source>
-        <translation type="unfinished">3072</translation>
+        <translation type="obsolete">3072</translation>
     </message>
     <message>
         <source>4098</source>
-        <translation type="unfinished">4098</translation>
+        <translation type="obsolete">4098</translation>
     </message>
     <message>
         <source>E-mail address: </source>
@@ -3263,6 +3259,13 @@ Proceed?</source>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi+.</source>
         <translation>Цей плагін призначений для полегшення завантаження і установки пакетів з іконками та інших ресурсів для Psi +.</translation>
+    </message>
+</context>
+<context>
+    <name>DateWidget</name>
+    <message>
+        <source>never</source>
+        <translation type="unfinished">ніколи</translation>
     </message>
 </context>
 <context>
@@ -9414,6 +9417,22 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;b&gt;Please wait!&lt;/b&gt;&lt;br/&gt;We need to generate a lot of random bytes. It is a good idea to perform some other action (type on the keyboard, move the mouse, utilize the disks) during the prime generation; this gives the random number generator a better chance to gain enough entropy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>from file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>from clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>to file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>to clipboard</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
