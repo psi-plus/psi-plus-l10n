@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.0" language="he">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="he" version="2.0">
 <context>
     <name>@default</name>
     <message>
@@ -16,7 +14,7 @@
     </message>
     <message>
         <source>Finish</source>
-        <translation>סיום</translation>
+        <translation>סיים</translation>
     </message>
     <message>
         <source>Previous</source>
@@ -35,7 +33,7 @@
     </message>
     <message>
         <source>Command:</source>
-        <translation>פקודה</translation>
+        <translation>פקודה:</translation>
     </message>
     <message>
         <source>Execute</source>
@@ -50,7 +48,7 @@
     </message>
     <message>
         <source>psi/psiplus_logo</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>http://psi-im.org</source>
@@ -70,7 +68,7 @@
     </message>
     <message>
         <source>License</source>
-        <translation>רישיון</translation>
+        <translation>רשיון</translation>
     </message>
     <message>
         <source>About Psi+</source>
@@ -78,7 +76,7 @@
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>סגירה</translation>
+        <translation>&amp;סגור</translation>
     </message>
     <message>
         <source>Current Maintainer and Original Author</source>
@@ -220,13 +218,13 @@ Join the translation team today! Go to
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <translation>Eli Zaretskii &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://translationproject.org/team/he.html&quot;&gt;http://translationproject.org/team/he.html&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:eliz@gnu.org&quot;&gt;eliz@gnu.org&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;E-mail: &lt;a href=&quot;mailto:eliz@gnu.org&quot;&gt;eliz@gnu.org&lt;/a&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;מנחה (Translation Project)&lt;br&gt;
 &lt;br&gt;
 Isratine Citizen &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://xmpp.org&quot;&gt;http://xmpp.org&lt;/a&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:genghiskhan@gmx.ca&quot;&gt;genghiskhan@gmx.ca&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:genghiskhan@gmx.ca&quot;&gt;genghiskhan@gmx.ca&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;E-mail: &lt;a href=&quot;mailto:genghiskhan@gmx.ca&quot;&gt;genghiskhan@gmx.ca&lt;/a&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;מתרגם (Rahut)&lt;br&gt;
 &lt;br&gt;
 &lt;center&gt;-= מנשר =-&lt;/center&gt;
@@ -242,11 +240,11 @@ Isratine Citizen &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br
 &lt;br&gt;
 Copyright © 2001-2013 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Language coordinator; Debian Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>מתאם שפה, אורז Debian</translation>
     </message>
 </context>
 <context>
@@ -265,27 +263,27 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגירה</translation>
+        <translation>&amp;סגור</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;הוספה</translation>
+        <translation>&amp;הוסף</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished">psi/addContact</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
 &lt;br&gt;
 Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing XMPP account then leave this box unchecked.</source>
-        <translation>&lt;qt&gt;נא לבחור &lt;b&gt;שם&lt;/b&gt; ידידותי שביכולתו של Psi להפנות אל חשבון זה.&lt;br&gt;
+        <translation>&lt;qt&gt;אנא בחר &lt;b&gt;שם&lt;/b&gt; ידידותי שביכולתו של Psi להפנות אל חשבון זה.&lt;br&gt;
 &lt;br&gt;
-ניתן להקליק על תיבת הסימון &lt;b&gt;רישום חשבון חדש&lt;/b&gt; אם ברצונך מן Psi לנסות וליצור חשבון עבורך בשרת מרוחק.  היה ובכוונתך להוסיף חשבון XMPP קיים אז יש להשאיר את את תיבה זו ריקה.</translation>
+הקלק על תיבת הסימון &lt;b&gt;רישום חשבון חדש&lt;/b&gt; אם ברצונך מן Psi לנסות וליצור חשבון עבורך בשרת מרוחק.  היה ובכוונתך להוסיף חשבון XMPP קיים אז יש להשאיר את את תיבה זו ריקה.</translation>
     </message>
 </context>
 <context>
@@ -296,18 +294,18 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Check this option if you don&apos;t yet have an XMPP account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
-        <translation>ניתן לסמן את אפשרות זו במידה ואין ברשותך חשבון XMPP וברצונך לרשום אחד.  לתשומת לבך, פעולה זו תעבוד על שרתים שמתירים רישום אלמוני בלבד.</translation>
+        <translation>סמן את אפשרות זו במידה ואין ברשותך חשבון XMPP וברצונך לרשום אחד.  לתשומת לבך, פעולה זו תעבוד על שרתים שמתירים רישום אלמוני בלבד.</translation>
     </message>
 </context>
 <context>
     <name>AccountLoginPassword</name>
     <message>
         <source>Please enter the password for %1:</source>
-        <translation>נא להזין את הסיסמה עבור %1:</translation>
+        <translation>אנא הזן את הסיסמה עבור %1:</translation>
     </message>
     <message>
         <source>Please enter your password:</source>
-        <translation>נא להזין את סיסמתך:</translation>
+        <translation>אנא הזן את סיסמתך:</translation>
     </message>
     <message>
         <source>Need Password</source>
@@ -330,7 +328,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>הו&amp;ספה</translation>
+        <translation>הוס&amp;פה</translation>
     </message>
     <message>
         <source>psi/addContact</source>
@@ -346,11 +344,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>psi/remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XMPP Accounts</source>
-        <translation>חשבונות XMPP</translation>
+        <translation>חשבונות ‫XMPP</translation>
     </message>
 </context>
 <context>
@@ -369,11 +367,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Please disconnect before removing the account.</source>
-        <translation>נא להתנתק לפני הסרת החשבון.</translation>
+        <translation>אנא התנתק לפני הסרת החשבון.</translation>
     </message>
     <message>
         <source>&amp;Disconnect</source>
-        <translation>&amp;התנתקות</translation>
+        <translation>&amp;התנתק</translation>
     </message>
 </context>
 <context>
@@ -400,7 +398,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Change...</source>
-        <translation>שינוי</translation>
+        <translation>שנה...</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -408,11 +406,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Automatically connect on startup</source>
-        <translation>התחברות אוטומטית בעת הפעלה</translation>
+        <translation>התחבר אוטומטית בעת הפעלה</translation>
     </message>
     <message>
         <source>Automatically connect after sleep</source>
-        <translation>התחברות אוטומטית לאחר שינה</translation>
+        <translation>התחבר אוטומטית לאחר שינה</translation>
     </message>
     <message>
         <source>Restore last status</source>
@@ -420,11 +418,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Automatically reconnect if disconnected</source>
-        <translation>התחבר מחודש אוטומטית בעת התנתקות לא רצונית</translation>
+        <translation>התחבר מחדש אוטומטית בעת התנתקות לא רצונית</translation>
     </message>
     <message>
         <source>Log message history</source>
-        <translation>רישום היסטוריית הודעה</translation>
+        <translation>רשום היסטוריית הודעה</translation>
     </message>
     <message>
         <source>Details</source>
@@ -440,19 +438,19 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Edit Personal &amp;Details...</source>
-        <translation>עריכת &amp;פרטים אישיים...</translation>
+        <translation>ערוך &amp;פרטים אישיים...</translation>
     </message>
     <message>
         <source>OpenPGP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>placeholder2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select &amp;Key...</source>
-        <translation>בחירת &amp;מפתח...</translation>
+        <translation>בחר &amp;מפתח...</translation>
     </message>
     <message>
         <source>Use None</source>
@@ -468,11 +466,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Add</source>
-        <translation>הוספה</translation>
+        <translation>הוסף</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>הסרה</translation>
+        <translation>הסר</translation>
     </message>
     <message>
         <source>You are using advanced settings. This list may not be accurate.</source>
@@ -492,19 +490,19 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>proxychooser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Compress traffic (if possible)</source>
-        <translation>דחיסת תעבורה (במידה וניתן)</translation>
+        <translation>דחוס תעבורה (כאשר אפשר)</translation>
     </message>
     <message>
         <source>Send &quot;keep-alive&quot; packets (to prevent timeouts)</source>
-        <translation>שליחת חבילות &quot;keep-alive&quot; (כדי למנוע תפוגות זמן)</translation>
+        <translation>שלח חבילות &quot;keep-alive&quot; (כדי למנוע תפוגות זמן)</translation>
     </message>
     <message>
         <source>Manually Specify Server Host/Port:</source>
-        <translation>ציון ידני של מארח/פורט:</translation>
+        <translation>ציין מארח/פורט שרת ידנית:</translation>
     </message>
     <message>
         <source>Host:</source>
@@ -516,15 +514,15 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Encrypt connection:</source>
-        <translation>הצפנת חיבור:</translation>
+        <translation>הצפן חיבור:</translation>
     </message>
     <message>
         <source>Allow plaintext authentication:</source>
-        <translation>התרת אימות גלוי:</translation>
+        <translation>התר אימות גלוי:</translation>
     </message>
     <message>
         <source>Require mutual authentication</source>
-        <translation>דרישת אימות הדדי</translation>
+        <translation>דרוש אימות הדדי</translation>
     </message>
     <message>
         <source>SASL Security Level:</source>
@@ -556,7 +554,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>STUN/TURN</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Username:</source>
@@ -603,15 +601,15 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Use host name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Depends on status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>None</source>
@@ -623,19 +621,19 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Baseline</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>High</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Highest</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
-        <translation>התחברות אוטומטית אל חשבון זה בהפעלת Psi.  שימושית אם Psi משוגר באופן אוטומטי בעת איתור חיבור אינטרנט.</translation>
+        <translation>התחבר אוטומטית אל חשבון זה בעת הפעלת Psi.  שימושית אם Psi משוגר באופן אוטומטי בעת איתור חיבור אינטרנט.</translation>
     </message>
     <message>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
@@ -647,11 +645,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Keep a log of message history.  Disable this option if you want to conserve disk space or if you need maximum security.</source>
-        <translation>שמירת רישום של היסטוריית הודעה.  נטרל את אפשרות זו אם ברצונך לשמר מרחב כונן או אם יש לך הצורך למקסם אבטחה.</translation>
+        <translation>שמור רישום של היסטוריית הודעה.  נטרל את אפשרות זו אם ברצונך לשמר מרחב כונן או אם יש לך הצורך למקסם אבטחה.</translation>
     </message>
     <message>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
-        <translation>שליחת חבילות &quot;Keep-alive&quot; במחזוריות.  תפקודיות זו שימושית אם חיבורך מוגדר להתנתק אוטומטית לאחר משך זמן מסוים של חוסר פעילות (לדוגמא, על ידי ספקית האינטרנט שלך) וברצונך לשומרו באופן תמידי כל הזמן.</translation>
+        <translation>שולחת חבילות &quot;Keep-alive&quot; במחזוריות.  תפקודיות זו שימושית אם חיבורך מוגדר להתנתק אוטומטית לאחר משך זמן מסוים של חוסר פעילות (לדוגמא, על ידי ספקית האינטרנט שלך) וברצונך לשומרו באופן תמידי כל הזמן.</translation>
     </message>
     <message>
         <source>Username:</source>
@@ -691,7 +689,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>This account is currently active, so certain changes may not take effect until the next login.</source>
-        <translation>חשבון זה פעיל עתה, כך ששינויים מסוימים עשוים שלא להיכנס לתוקף עד ההתחברות הבאה.</translation>
+        <translation>חשבון זה פעיל עתה, כך ששינויים מסוימים עשוים שלא להיכנס לתוקף עד להתחברות הבאה.</translation>
     </message>
     <message>
         <source>Reconnect &amp;Later</source>
@@ -703,7 +701,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Block contact</source>
-        <translation>חסימת איש קשר</translation>
+        <translation>חסום איש קשר</translation>
     </message>
     <message>
         <source>Retrieving blocked contact list ...</source>
@@ -711,7 +709,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>You are not connected.</source>
-        <translation>אינך מחובר/ת.</translation>
+        <translation>אינך מחובר.</translation>
     </message>
     <message>
         <source>Your server does not support blocking.</source>
@@ -739,7 +737,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
-        <translation>אפשרות זו מגדירה את המשתמש (וגם תחום) שברצונך לאמתם באופן קפדני. אפשרות זו עוקפת כתובת XMPP עמה חיבורך מתבצע.</translation>
+        <translation>אפשרות זו קובעת את המשתמש (וגם את התחום) שברצונך לאמתו כמו. אפשרות זו עוקפת כתובת XMPP עמה חיבורך מתבצע.</translation>
     </message>
     <message>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
@@ -751,7 +749,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Enter the XMPP Address of the contact to block:</source>
-        <translation>נא להזין כתובת XMPP של איש קשר לחסימה:</translation>
+        <translation>הזן כתובת XMPP של איש קשר לחסימה:</translation>
     </message>
 </context>
 <context>
@@ -766,7 +764,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Please enter the name of the server you wish to register with:</source>
-        <translation>נא להזין את השם של השרת שעמו ברצונך להירשם:</translation>
+        <translation>אנא הזן את השם של השרת שעמו ברצונך להירשם:</translation>
     </message>
     <message>
         <source>Example: capulet.com</source>
@@ -778,7 +776,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Manually Specify Server Host/Port:</source>
-        <translation>ציון ידני של מארח/פורט:</translation>
+        <translation>ציין ידנית שרת מארח/פורט:</translation>
     </message>
     <message>
         <source>Host:</source>
@@ -798,7 +796,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>proxychooser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -829,7 +827,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Are you sure you want to cancel the registration?</source>
-        <translation>האם אכן ברצונך לבטל את הרישום?</translation>
+        <translation>האם אתה בטוח שברצונך לבטל את הרישום?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -869,7 +867,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Please provide the following information:</source>
-        <translation>נא לספק את המידע הבא:</translation>
+        <translation>אנא ספק את המידע הבא:</translation>
     </message>
     <message>
         <source>This server does not support registration</source>
@@ -882,7 +880,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <source>There was an error registering the account.
 Reason: %1</source>
-        <translation>אירעה שגיאה ברישום חשבון.
+        <translation>ארעה שגיאה ברישום חשבון.
 סיבה: %1</translation>
     </message>
     <message>
@@ -898,11 +896,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Remove account from Psi only.</source>
-        <translation>הסרת חשבון מן Psi בלבד.</translation>
+        <translation>הסר חשבון מן Psi בלבד.</translation>
     </message>
     <message>
         <source>Remove account and try to unregister it from the server.</source>
-        <translation>להסיר חשבון וגם לנסות להסיר את הרישום מן השרת.</translation>
+        <translation>הסר חשבון וגם לנסה להסיר את הרישום מן השרת.</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -921,7 +919,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Are you sure you want to cancel the unregistration?</source>
-        <translation>האם אכן ברצונך לבטל את הסרת הרישום?</translation>
+        <translation>האם אתה בטוח שברצונך לבטל את הסרת הרישום?</translation>
     </message>
     <message>
         <source>&amp;No</source>
@@ -937,11 +935,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Password does not match account.  Please try again.</source>
-        <translation>סיסמה לא תואמת חשבון.  נא לנסות שוב.</translation>
+        <translation>סיסמה לא תואמת חשבון.  אנא נסה שוב.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; ?</source>
-        <translation>האם אכן ברצונך להסיר את &lt;b&gt;%1&lt;/b&gt; ?</translation>
+        <translation>האם אתה בטוח שברצונך להסיר את &lt;b&gt;%1&lt;/b&gt; ?</translation>
     </message>
     <message>
         <source>Success</source>
@@ -970,15 +968,15 @@ Reason: %1</source>
     </message>
     <message>
         <source>Reconnect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ignore global actions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ignore all global actions for this account. For example, autostatus, mood, activity etc.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -987,14 +985,14 @@ Reason: %1</source>
         <source> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation>דיוקן psi זה כבר מורץ...&lt;br&gt;נא להמתין...</translation>
+        <translation>דיוקן psi זה כבר מורץ...&lt;br&gt;אנא המתן...</translation>
     </message>
 </context>
 <context>
@@ -1009,7 +1007,7 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>Specific:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Description:</source>
@@ -1039,71 +1037,71 @@ save the history for this contact.</source>
     <name>AddKeyDlg</name>
     <message>
         <source>Generate a new key pair</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>RSA and RSA (default)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DSA and Elgamal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DSA (sign only)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>RSA (sign only)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>1024</source>
-        <translation type="obsolete">1024</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>2048</source>
-        <translation type="obsolete">2048</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>3072</source>
-        <translation type="obsolete">3072</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>4098</source>
-        <translation type="obsolete">4098</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>E-mail address: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Length: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Comment: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Full name: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Expiration date: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Key type: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Passphrase: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Repeat: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1122,7 +1120,7 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגירה</translation>
+        <translation>&amp;סגור</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -1130,7 +1128,7 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1145,7 +1143,7 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>Service ID Translation</source>
-        <translation>תרגום זהות שירות</translation>
+        <translation>תרגום מזהה שירות</translation>
     </message>
     <message>
         <source>No description</source>
@@ -1153,7 +1151,7 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>psi/vCard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Group:</source>
@@ -1161,11 +1159,11 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>Resolve</source>
-        <translation>פתירה</translation>
+        <translation>פתור</translation>
     </message>
     <message>
         <source>Nickname (optional):</source>
-        <translation>כינוי (רשות):</translation>
+        <translation>שם כינוי (רשות):</translation>
     </message>
     <message>
         <source>Request authorization when adding</source>
@@ -1173,39 +1171,39 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>Close window after adding</source>
-        <translation>סגירת חלון עובר הוספה</translation>
+        <translation>סגור חלון עובר הוספה</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגירה</translation>
+        <translation>&amp;סגור</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;הוספה</translation>
+        <translation>&amp;הוסף</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished">psi/addContact</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>בכדי להוסיף משתמש &lt;b&gt;XMPP&lt;/b&gt;, עליך לציין כתובת XMPP (אפשרי גם כינוי וקבוצה) מתחת וללחוץ &lt;i&gt;הוספה&lt;/i&gt;.&lt;br /&gt;&lt;br /&gt;בכדי להוסיף איש קשר מן שירות &lt;b&gt;שאינו XMPP&lt;/b&gt;, עליך לוודא תחילה שחשבונך רשום עם השירות המבוקש (מציאת שירות תחת התפריט הראשי), ואז לבחור את השירות מן התיבה שלמעלה. נא לעקוב אחר ההנחיות בתוך תיבת &lt;i&gt;תרגום זהות שירות&lt;/i&gt; וללחוץ על &lt;i&gt;השגת כתובת XMPP&lt;/i&gt; כדי לחולל כתובת XMPP עבור אותו איש קשר.</translation>
+        <translation>בכדי להוסיף משתמש &lt;b&gt;XMPP&lt;/b&gt;, עליך לציין כתובת XMPP (אפשרי גם שם כינוי וקבוצה) מתחת וללחוץ על &lt;i&gt;הוסף&lt;/i&gt;.&lt;br /&gt;&lt;br /&gt;בכדי להוסיף איש קשר משירות &lt;b&gt;שאינו XMPP&lt;/b&gt;, עליך לוודא תחילה שחשבונך רשום עם השירות המבוקש (מציאת שירות תחת התפריט הראשי), ואז לבחור את השירות מן התיבה שלמעלה. אנא עקוב אחר ההנחיות בתוך תיבת &lt;i&gt;תרגום מזהה שירות&lt;/i&gt; ולחץ על &lt;i&gt;השג כתובת XMPP&lt;/i&gt; כדי לחולל כתובת XMPP עבור אותו איש קשר.</translation>
     </message>
     <message>
         <source>XMPP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Get XMPP Address</source>
-        <translation>השגת כתובת XMPP</translation>
+        <translation>השג כתובת XMPP</translation>
     </message>
     <message>
         <source>XMPP Address:</source>
@@ -1240,13 +1238,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Please fill in the XMPP address of the person you wish to add.</source>
-        <translation>נא למלא כתובת XMPP של האדם אותו ברצונך להוסיף.</translation>
+        <translation>אנא מלא כתובת XMPP של האדם אותו ברצונך להוסיף.</translation>
     </message>
     <message>
         <source>The XMPP address you entered is not valid!
 Make sure you enter a fully qualified XMPP address.</source>
         <translation>כתובת XMPP שהזנת אינה תקפה!
-נא לדאוג להזין כתובת XMPP אופיינית.</translation>
+דאג להזין כתובת XMPP כשירה במלואה.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;
@@ -1263,15 +1261,15 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Copy location</source>
-        <translation>העתקת מיקום</translation>
+        <translation>העתק מיקום</translation>
     </message>
     <message>
         <source>Join &amp;Groupchat...</source>
-        <translation>הצטרפות אל שיחת &amp;קבוצה...</translation>
+        <translation>הצטרף אל שיחת &amp;קבוצה...</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>הסרה</translation>
+        <translation>הסר</translation>
     </message>
 </context>
 <context>
@@ -1311,7 +1309,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1381,28 +1379,28 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>for JIDs and conferences:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You can also specify a part of JID
 (without any additional symbols)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disable for your accounts (specify your JIDs):</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Timeout to reset counter:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>min.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send maximum</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>times (-1=infinite)</source>
@@ -1432,7 +1430,7 @@ To work correctly, the plugin requires that the client of the other part support
 The list of exceptions for jids has two operating modes:
 * auto-responder is switched off for the list of exceptions, for the others is switched on (Disable mode)
 * auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1458,7 +1456,7 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Cannot call without selecting a device.  Do you have a microphone?  Check the Psi options.</source>
-        <translation>לא ניתן להתקשר ללא בחירת התקן.  האם יש לך מיקרופון?  נא לבדוק את אפשרויות Psi.</translation>
+        <translation>לא ניתן להתקשר ללא בחירת התקן.  האם יש לך מיקרופון?  בדוק את אפשרויות Psi.</translation>
     </message>
     <message>
         <source>An error occurred while trying to send:
@@ -1480,7 +1478,7 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Call negotiation failed.</source>
-        <translation>הסדרת שיחה נכשלה .</translation>
+        <translation>הסדרת שיחה נכשלה.</translation>
     </message>
 </context>
 <context>
@@ -1525,7 +1523,7 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>כינוי:</translation>
+        <translation>שם כינוי:</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -1533,7 +1531,7 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Auto-join</source>
-        <translation>הצטרפות אוטומטית</translation>
+        <translation>הצטרף אוטומטית</translation>
     </message>
     <message>
         <source>Import bookmarks from file</source>
@@ -1568,7 +1566,7 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Unnamed</source>
-        <translation>סימנייה בלי שם</translation>
+        <translation>חסרת שם</translation>
     </message>
     <message>
         <source>Import bookmarks</source>
@@ -1587,7 +1585,7 @@ The list of exceptions for jids has two operating modes:
     <name>Call</name>
     <message>
         <source>Dialog</source>
-        <translation>דו־שיח</translation>
+        <translation>דו שיח</translation>
     </message>
     <message>
         <source>To:</source>
@@ -1595,7 +1593,7 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Use video</source>
-        <translation>שימוש בוידאו</translation>
+        <translation>השתמש בוידאו</translation>
     </message>
     <message>
         <source>Sending bandwidth:</source>
@@ -1607,11 +1605,11 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>&amp;Reject</source>
-        <translation>&amp;דחיה</translation>
+        <translation>&amp;דחה</translation>
     </message>
     <message>
         <source>&amp;Accept</source>
-        <translation>&amp;קבלה</translation>
+        <translation>&amp;קבל</translation>
     </message>
 </context>
 <context>
@@ -1634,11 +1632,11 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגירה</translation>
+        <translation>&amp;סגור</translation>
     </message>
     <message>
         <source>C&amp;all</source>
-        <translation>&amp;חיוג</translation>
+        <translation>&amp;חייג</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -1650,7 +1648,7 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Accept call?</source>
-        <translation>קבלת שיחה?</translation>
+        <translation>קבל שיחה?</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -1681,7 +1679,7 @@ The list of exceptions for jids has two operating modes:
     <name>CaptchaDialog</name>
     <message>
         <source>CAPTCHA</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Loading data...</source>
@@ -1712,14 +1710,14 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>CertificateDisplay</name>
     <message>
         <source>Certificate Information</source>
-        <translation>מידע אודות תעודה</translation>
+        <translation>מידע תעודה</translation>
     </message>
     <message>
         <source>Certificate Validation:</source>
@@ -1739,7 +1737,7 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Close</source>
-        <translation>סגירה</translation>
+        <translation>סגור</translation>
     </message>
 </context>
 <context>
@@ -1805,11 +1803,11 @@ The list of exceptions for jids has two operating modes:
     <name>ChangePassword</name>
     <message>
         <source>Change Password</source>
-        <translation>שינוי סיסמה</translation>
+        <translation>שנה סיסמה</translation>
     </message>
     <message>
         <source>Confirm new password:</source>
-        <translation>אימות סיסמה חדשה:</translation>
+        <translation>וודא סיסמה חדשה:</translation>
     </message>
     <message>
         <source>Current password:</source>
@@ -1832,11 +1830,11 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>You entered your old password incorrectly.  Try again.</source>
-        <translation>הזנת את סיסמתך הישנה באופן לא מדויק.  נא לנסות שוב.</translation>
+        <translation>הזנת את סיסמתך הישנה באופן לא מדויק.  נסה שוב.</translation>
     </message>
     <message>
         <source>New password and confirmation do not match.  Please enter them again.</source>
-        <translation>סיסמה חדשה ואימות לא תואמים.  נא להזינם שוב.</translation>
+        <translation>סיסמה חדשה ואימות לא תואמים.  אנא הזן אותם שוב.</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1849,7 +1847,7 @@ The list of exceptions for jids has two operating modes:
     <message>
         <source>There was an error when trying to set the password.
 Reason: %1</source>
-        <translation>ארעה שגיאה בעת ניסיון הגדרת הסיסמה.
+        <translation>ארעה שגיאה בעת ניסיון קביעת הסיסמה.
 סיבה: %1</translation>
     </message>
 </context>
@@ -1865,11 +1863,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Voice Call</source>
@@ -1877,11 +1875,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>הפעלת הצפנה</translation>
+        <translation>אפשר/נטרל הצפנה</translation>
     </message>
     <message>
         <source>Select icon</source>
-        <translation>בחירת רגשון</translation>
+        <translation>בחר רגשון</translation>
     </message>
     <message>
         <source>Actions</source>
@@ -1907,11 +1905,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Close</source>
-        <translation>סגירה</translation>
+        <translation>סגור</translation>
     </message>
     <message>
         <source>%1 (Composing ...)</source>
-        <translation>%1 (הלחנה ...)</translation>
+        <translation>%1 (כותב/ת כעת ...)</translation>
     </message>
     <message>
         <source>%1 (Inactive)</source>
@@ -1919,7 +1917,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
-        <translation>&lt;p&gt;הצפנה נוטרלה לאחרונה על ידי איש קשר מרוחק.  האם אכן ברצונך לשלוח את הודעה זו ללא הצפנה?&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;הצפנה נוטרלה לאחרונה על ידי איש קשר מרוחק.  האם אתה בטוח שברצונך לשלוח את הודעה זו ללא הצפנה?&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -1950,7 +1948,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Add to dictionary</source>
-        <translation>הוספה למילון</translation>
+        <translation>הוסף למילון</translation>
     </message>
 </context>
 <context>
@@ -1961,11 +1959,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 says:</source>
-        <translation type="unfinished">%1 אומר/ת:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Subject:</source>
@@ -1973,7 +1971,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>URL:</source>
-        <translation type="unfinished">:URL</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Desc:</source>
@@ -2007,16 +2005,16 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The game was rejected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You Lose.</source>
@@ -2040,7 +2038,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>You are allready playing!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -2062,7 +2060,7 @@ Do you still want to close the window?</source>
         <source>This plugin allows you to play chess with your friends.
 The plugin is compatible with a similar plugin for Tkabber.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2095,7 +2093,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Resign</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable sound</source>
@@ -2111,7 +2109,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>*.chs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>  White     Black
@@ -2124,7 +2122,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CleanerMainWindow</name>
     <message>
         <source>Psi+ Cleaner</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>History</source>
@@ -2132,7 +2130,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>vCards</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Avatars</source>
@@ -2148,39 +2146,39 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Select All Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unselect All Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> files selected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete selected files</source>
-        <translation>מחיקת קבצים נבחרים</translation>
+        <translation>מחק קבצים נבחרים</translation>
     </message>
     <message>
         <source>Delete selected</source>
-        <translation type="unfinished"></translation>
+        <translation>מחק בחירה</translation>
     </message>
     <message>
         <source>Close Psi Cleaner</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close</source>
-        <translation>סגירה</translation>
+        <translation>סגור</translation>
     </message>
     <message>
         <source>Choose &amp;Profile</source>
-        <translation>בחירת &amp;דיוקן</translation>
+        <translation>בחר &amp;דיוקן</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
@@ -2188,11 +2186,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Clear &amp;Juick Cache</source>
-        <translation>טיהור מטמון &amp;Juick</translation>
+        <translation>טהר מטמון &amp;Juick</translation>
     </message>
     <message>
         <source>Clear &amp;Birthdays Cache</source>
-        <translation>טיהור מטמון ימי הולדת</translation>
+        <translation>טהר מטמון ימי הול&amp;דת</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -2208,7 +2206,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>vCards: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Avatars: </source>
@@ -2216,27 +2214,27 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Clear History</source>
-        <translation>טיהור היסטוריה</translation>
+        <translation>טהר היסטוריה</translation>
     </message>
     <message>
         <source>Are You Sure?</source>
-        <translation>האם הינך בטוח?</translation>
+        <translation>האם אתה בטוח?</translation>
     </message>
     <message>
         <source>Clear vCards</source>
-        <translation>טיהור vCards</translation>
+        <translation>טהר vCards</translation>
     </message>
     <message>
         <source>Clear Avatars</source>
-        <translation>טיהור אווטארים</translation>
+        <translation>טהר אווטארים</translation>
     </message>
     <message>
         <source>Clear Options</source>
-        <translation>טיהור אפשרויות</translation>
+        <translation>טהר אפשרויות</translation>
     </message>
     <message>
         <source>Not supported yet!</source>
-        <translation type="unfinished"></translation>
+        <translation>לא נתמכת עדיין!</translation>
     </message>
     <message>
         <source>Choose profile</source>
@@ -2256,7 +2254,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Something wrong!</source>
-        <translation type="unfinished"></translation>
+        <translation>משהו לא בסדר!</translation>
     </message>
     <message>
         <source>Cache Not Found!</source>
@@ -2272,14 +2270,14 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Birthdays Cache Successfully Cleared</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>CleanerPlugin</name>
     <message>
         <source>Launch Cleaner</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2296,7 +2294,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2355,22 +2353,22 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClearingViewer</name>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>%1 has requested your version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Authors: </source>
@@ -2380,22 +2378,22 @@ You can preview items before deleting them from your hard drive.</source>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
 You can specify the version of the client and OS or to select them from the preset list.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>ConferenceLogger</name>
     <message>
         <source>You can find your logs here:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Logs:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>View Log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2418,7 +2416,7 @@ You can specify the version of the client and OS or to select them from the pres
 Conferences logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with conference.
 
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2441,19 +2439,19 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Set Avatar</source>
-        <translation>הגדרת אווטאר</translation>
+        <translation>קבע אווטאר</translation>
     </message>
     <message>
         <source>Unset Avatar</source>
-        <translation>איפוס אווטאר</translation>
+        <translation>אפס אווטאר</translation>
     </message>
     <message>
         <source>&amp;Contacts Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>מנהל אישי &amp;קשר</translation>
     </message>
     <message>
         <source>Manage Bookmarks</source>
-        <translation type="unfinished">ניהול סימניות</translation>
+        <translation>ניהול סימניות</translation>
     </message>
     <message>
         <source>Join Groupchat</source>
@@ -2461,7 +2459,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>&amp;Add a Contact</source>
-        <translation>&amp;הוספת איש קשר</translation>
+        <translation>&amp;הוסף איש קשר</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
@@ -2481,7 +2479,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>&amp;Modify Account...</source>
-        <translation>&amp;התאמת חשבון...</translation>
+        <translation>&amp;התאם חשבון...</translation>
     </message>
     <message>
         <source>Online Users</source>
@@ -2489,19 +2487,19 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Send Server Message</source>
-        <translation>שליחת הודעת שרת</translation>
+        <translation>שלח הודעת שרת</translation>
     </message>
     <message>
         <source>Set MOTD</source>
-        <translation>הגדרת MOTD</translation>
+        <translation>קבע MOTD</translation>
     </message>
     <message>
         <source>Update MOTD</source>
-        <translation>עדכון MOTD</translation>
+        <translation>עדכן MOTD</translation>
     </message>
     <message>
         <source>Delete MOTD</source>
-        <translation>מחיקת MOTD</translation>
+        <translation>מחק MOTD</translation>
     </message>
     <message>
         <source>Avatar</source>
@@ -2521,14 +2519,14 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Join %1</source>
-        <translation>הצטרפות אל %1</translation>
+        <translation>הצטרף אל %1</translation>
     </message>
 </context>
 <context>
     <name>ContactListGroupMenu::Private</name>
     <message>
         <source>Re&amp;name</source>
-        <translation>&amp;שינוי שם</translation>
+        <translation>&amp;שנה שם</translation>
     </message>
     <message>
         <source>Resend Authorization to Group</source>
@@ -2548,35 +2546,35 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Remove Group and Contacts</source>
-        <translation>הסרת קבוצה וגם אישי קשר</translation>
+        <translation>הסר קבוצה וגם אישי קשר</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>&amp;הסרה</translation>
+        <translation>&amp;הסר</translation>
     </message>
     <message>
         <source>Remove Group</source>
-        <translation>הסרת קבוצה</translation>
+        <translation>הסר קבוצה</translation>
     </message>
     <message>
         <source>Send Message to Group</source>
-        <translation>שליחת הודעה אל קבוצה</translation>
+        <translation>שלח הודעה אל קבוצה</translation>
     </message>
     <message>
         <source>&amp;Add group...</source>
-        <translation>&amp;הוספת קבוצה...</translation>
+        <translation>&amp;הוסף קבוצה...</translation>
     </message>
     <message>
         <source>Hide All</source>
-        <translation>הסתרה מלאה</translation>
+        <translation>הסתר הכל</translation>
     </message>
     <message>
         <source>Show All</source>
-        <translation>הצגה מוחלטת</translation>
+        <translation>הצג הכל</translation>
     </message>
     <message>
         <source>Leave All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hidden</source>
@@ -2595,7 +2593,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>You can&apos;t set a blank group name.</source>
-        <translation>אין ביכולתך לציין שם קבוצה ריק.</translation>
+        <translation>אין ביכולתך לקבוע שם קבוצה ריק.</translation>
     </message>
 </context>
 <context>
@@ -2618,60 +2616,54 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Conferences</source>
-        <translation type="unfinished">ועידות</translation>
+        <translation>ועידות</translation>
     </message>
 </context>
 <context>
     <name>ContactListUtil</name>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation>פעולה זו תסיר לצמיתות את&lt;br&gt;%1&lt;br&gt;מן רשימת קשריך.</translation>
+        <translation>פעולה זו תסיר לצמיתות את&lt;br&gt;%1&lt;br&gt;מן רשימת הקשר שלך.</translation>
     </message>
     <message numerus="yes">
         <source>and %n contacts </source>
-        <translation>
-            <numerusform>וגם איש קשר %n </numerusform>
-            <numerusform>וגם %n אישי קשר </numerusform>
-        </translation>
+        <translation><numerusform>וגם איש קשר %n </numerusform><numerusform>וגם %n אישי קשר </numerusform></translation>
     </message>
     <message numerus="yes">
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation>
-            <numerusform>פעולה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2וגם קבוצה %n מן רשימת קשריך.</numerusform>
-            <numerusform>פעולה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2וגם %n קבוצות מן רשימת קשריך.</numerusform>
-        </translation>
+        <translation><numerusform>פעולה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2וגם קבוצה %n מן רשימת הקשר שלך.</numerusform><numerusform>פעולה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2וגם %n קבוצות מן רשימת הקשר שלך.</numerusform></translation>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
-        <translation>פעולה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2וגם את קבוצה &quot;%3&quot; מן רשימת קשריך.</translation>
+        <translation>פעולה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2וגם את קבוצה &quot;%3&quot; מן רשימת הקשר שלך.</translation>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2from your contact list.</source>
-        <translation>פעולה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2מן רשימת קשריך.</translation>
+        <translation>פעולה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2מן רשימת הקשר שלך.</translation>
     </message>
     <message>
         <source>This is a system group and can&apos;t be removed. Permanently remove all its contacts from your contact list?</source>
-        <translation>זוהי קבוצת מערכת ולא ניתן להסירה. האם להסיר לצמיתות את כל אישי הקשר שלה מן רשימת קשריך?</translation>
+        <translation>זוהי קבוצת מערכת ולא ניתן להסירה. האם להסיר לצמיתות את כל אישי הקשר שלה מן רשימת הקשר שלך?</translation>
     </message>
     <message>
         <source>Clear Group</source>
-        <translation>טיהור קבוצה</translation>
+        <translation>טהר קבוצה</translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;group and all its contacts from your contact list.</source>
-        <translation>פעולה זו תסיר לצמיתות את קבוצה&lt;br&gt;%1&lt;br&gt;ואת כל אישי הקשר שלה מן רשימת קשריך.</translation>
+        <translation>פעולה זו תסיר לצמיתות את קבוצה&lt;br&gt;%1&lt;br&gt;ואת כל אישי הקשר שלה מן רשימת הקשר שלך.</translation>
     </message>
     <message>
         <source>This will permanently remove %1 from your contact list. You could block it in order to avoid further messages.</source>
-        <translation>פעולה זו תסיר לצמיתות את %1 מן רשימת קשריך. ביכולתך לחסומה על מנת להימנע מן הודעות נוספות.</translation>
+        <translation>פעולה זו תסיר לצמיתות את %1 מן רשימת הקשר שלך. ביכולתך לחסומה על מנת להימנע מן הודעות נוספות.</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>מחיקה</translation>
+        <translation>מחק</translation>
     </message>
     <message>
         <source>Block</source>
-        <translation>חסימה</translation>
+        <translation>חסום</translation>
     </message>
     <message>
         <source>This will remove %1 from &quot;%2&quot; group. You could also remove it from all groups.</source>
@@ -2679,7 +2671,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Delete From All Groups</source>
-        <translation>מחיקה מכל הקבוצות</translation>
+        <translation>מחק מכל הקבוצות</translation>
     </message>
     <message>
         <source>Deleting contacts</source>
@@ -2687,14 +2679,14 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>ContactManagerDlg</name>
     <message>
         <source>Contacts Manager</source>
-        <translation>מהנל אישי קשר</translation>
+        <translation>מנהל אישי קשר</translation>
     </message>
     <message>
         <source>Field</source>
@@ -2706,7 +2698,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Execute</source>
-        <translation type="unfinished">ביצוע</translation>
+        <translation>בצע</translation>
     </message>
     <message>
         <source>Message</source>
@@ -2714,15 +2706,15 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">הסרה</translation>
+        <translation>הסר</translation>
     </message>
     <message>
         <source>Auth request</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Auth grant</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change domain</source>
@@ -2738,19 +2730,19 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>ייצוא</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>ייבוא</translation>
     </message>
     <message>
         <source>Simple</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>RegExp</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Removal confirmation</source>
@@ -2762,15 +2754,15 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This action is not supported atm</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please fill parameter field with new domain name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Roster file</source>
@@ -2798,7 +2790,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Nothing to do..</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No contacts found in file %1</source>
@@ -2840,15 +2832,15 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ContactManagerView</name>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2875,19 +2867,19 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Send Server Message</source>
-        <translation>שליחת הודעת שרת</translation>
+        <translation>שלח הודעת שרת</translation>
     </message>
     <message>
         <source>Set MOTD</source>
-        <translation>הגדרת MOTD</translation>
+        <translation>קבע MOTD</translation>
     </message>
     <message>
         <source>Update MOTD</source>
-        <translation>עדכון MOTD</translation>
+        <translation>עדכן MOTD</translation>
     </message>
     <message>
         <source>Delete MOTD</source>
-        <translation>מחיקת MOTD</translation>
+        <translation>מחק MOTD</translation>
     </message>
     <message>
         <source>&amp;Status</source>
@@ -2903,11 +2895,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Set Avatar</source>
-        <translation>הגדרת אווטאר</translation>
+        <translation>קבע אווטאר</translation>
     </message>
     <message>
         <source>Unset Avatar</source>
-        <translation>איפוס אווטאר</translation>
+        <translation>אפס אווטאר</translation>
     </message>
     <message>
         <source>Avatar</source>
@@ -2915,11 +2907,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Manage...</source>
-        <translation>ניהול...</translation>
+        <translation>נהל...</translation>
     </message>
     <message>
         <source>Join %1</source>
-        <translation>הצטרפות אל %1</translation>
+        <translation>הצטרף אל %1</translation>
     </message>
     <message>
         <source>Bookmarks</source>
@@ -2927,7 +2919,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>&amp;Add a Contact</source>
-        <translation>&amp;הוספת איש קשר</translation>
+        <translation>&amp;הוסף איש קשר</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
@@ -2943,7 +2935,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>&amp;Modify Account...</source>
-        <translation>&amp;התאמת חשבון...</translation>
+        <translation>&amp;התאם חשבון...</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
@@ -2951,7 +2943,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Send Message to Group</source>
-        <translation>שליחת הודעה אל קבוצה</translation>
+        <translation>שלח הודעה אל קבוצה</translation>
     </message>
     <message>
         <source>Remove Group</source>
@@ -2963,7 +2955,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Hide</source>
-        <translation>הסתרה</translation>
+        <translation>הסתר</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
@@ -2991,23 +2983,23 @@ Proceed?</source>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
-        <translation>הוספה/אישור אל רשימת קשר</translation>
+        <translation>הוסף/אשר אל רשימת קשר</translation>
     </message>
     <message>
         <source>Send Message To</source>
-        <translation>שליחת הודעה אל</translation>
+        <translation>שלח הודעה אל</translation>
     </message>
     <message>
         <source>Open Chat To</source>
-        <translation>פתיחת שיחה עם</translation>
+        <translation>פתח שיחה עם</translation>
     </message>
     <message>
         <source>Open a Whiteboard To</source>
-        <translation>פתיחת לוח לבן אל</translation>
+        <translation>פתח לוח לבן אל</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation>ה&amp;רצת פקודה</translation>
+        <translation>ה&amp;רץ פקודה</translation>
     </message>
     <message>
         <source>Active Chats</source>
@@ -3019,15 +3011,15 @@ Proceed?</source>
     </message>
     <message>
         <source>Send &amp;File</source>
-        <translation>שליחת &amp;קובץ</translation>
+        <translation>שלח &amp;קובץ</translation>
     </message>
     <message>
         <source>Invite To</source>
-        <translation>הזמנה אל</translation>
+        <translation>הזמן אל</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="unfinished">&amp;ללא קבוצה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Create New...</source>
@@ -3039,19 +3031,19 @@ Proceed?</source>
     </message>
     <message>
         <source>Log Off</source>
-        <translation>התנתקות</translation>
+        <translation>התנתק</translation>
     </message>
     <message>
         <source>Resend Authorization To</source>
-        <translation>שליחה מחודשת של הרשאה אל</translation>
+        <translation>שלח מחדש הרשאה אל</translation>
     </message>
     <message>
         <source>Rerequest Authorization From</source>
-        <translation>בקשת הרשאה מן</translation>
+        <translation>בקש הרשאה מן</translation>
     </message>
     <message>
         <source>Remove Authorization From</source>
-        <translation>הסרת הרשאה מן</translation>
+        <translation>הסר הרשאה מן</translation>
     </message>
     <message>
         <source>Authorization</source>
@@ -3063,15 +3055,15 @@ Proceed?</source>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation>הקצאת מפתח Open&amp;PGP</translation>
+        <translation>הקצה מפתח Open&amp;PGP</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation>אי הקצאת מפתח Open&amp;PGP</translation>
+        <translation>אל תקצה מפתח Open&amp;PGP</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation>אישור</translation>
+        <translation>אשר</translation>
     </message>
     <message>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
@@ -3079,19 +3071,19 @@ Proceed?</source>
     </message>
     <message>
         <source>Create New Group</source>
-        <translation>יצירת קבוצה חדשה</translation>
+        <translation>צור קבוצה חדשה</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation>נא להזין את שם הקבוצה החדשה:</translation>
+        <translation>הזן את שם הקבוצה החדשה:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>הוספה</translation>
+        <translation>הוסף</translation>
     </message>
     <message>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation>הוסף/אושר &lt;b&gt;%1&lt;/b&gt; אל רשימת הקשר.</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt; הוסף/אושר אל רשימת הקשר.</translation>
     </message>
     <message>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
@@ -3099,11 +3091,11 @@ Proceed?</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation>הסרה</translation>
+        <translation>הסר</translation>
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation>האם אכן ברצונך להסיר הרשאה מן &lt;b&gt;%1&lt;/b&gt;?</translation>
+        <translation>האם אתה בטוח שברצונך להסיר הרשאה מן &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
         <source>Invitation</source>
@@ -3115,7 +3107,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
-        <translation>האם אכן ברצונך להסיר את &lt;b&gt;%1&lt;/b&gt; מן רשימת קשריך?</translation>
+        <translation>האם אתה בטוח שברצונך להסיר את &lt;b&gt;%1&lt;/b&gt; מן רשימת הקשר שלך?</translation>
     </message>
     <message>
         <source>Error</source>
@@ -3123,15 +3115,15 @@ Proceed?</source>
     </message>
     <message>
         <source>You cannot set a blank name.</source>
-        <translation>אין ביכולתך ליצור שם ריק.</translation>
+        <translation>אין ביכולתך לקבוע שם ריק.</translation>
     </message>
     <message>
         <source>You cannot set a blank group name.</source>
-        <translation>אין ביכולתך ליצור שם קבוצה ריק.</translation>
+        <translation>אין ביכולתך לקבוע שם קבוצה ריק.</translation>
     </message>
     <message>
         <source>You already have a group with that name.</source>
-        <translation>כבר קיימת קבוצה עם שם זה.</translation>
+        <translation>כבר קיימת קבוצה עם השם הזה.</translation>
     </message>
 </context>
 <context>
@@ -3142,27 +3134,27 @@ Proceed?</source>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation>שליחת &amp;הודעה</translation>
+        <translation>שלח &amp;הודעה</translation>
     </message>
     <message>
         <source>Re&amp;name</source>
-        <translation>שינוי &amp;שם</translation>
+        <translation>שנה &amp;שם</translation>
     </message>
     <message>
         <source>&amp;Assign Custom Picture</source>
-        <translation>&amp;הקצאת תמונה מותאמת</translation>
+        <translation>&amp;הקצה תמונה מותאמת</translation>
     </message>
     <message>
         <source>&amp;Clear Custom Picture</source>
-        <translation>&amp;טיהור תמונה מותאמת</translation>
+        <translation>&amp;טהר תמונה מותאמת</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation>פתיחת &amp;חלון שיחה</translation>
+        <translation>פתח &amp;חלון שיחה</translation>
     </message>
     <message>
         <source>Open a &amp;Whiteboard</source>
-        <translation>פתיחת &amp;לוח לבן</translation>
+        <translation>פתח &amp;לוח לבן</translation>
     </message>
     <message>
         <source>&amp;History</source>
@@ -3170,15 +3162,15 @@ Proceed?</source>
     </message>
     <message>
         <source>&amp;Log on</source>
-        <translation>הת&amp;חברות</translation>
+        <translation>הת&amp;חבר</translation>
     </message>
     <message>
         <source>&amp;Receive Incoming Event</source>
-        <translation>&amp;קבלת אירוע נכנס</translation>
+        <translation>&amp;קבל אירוע נכנס</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation>&amp;הסרה</translation>
+        <translation>&amp;הסר</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -3205,14 +3197,14 @@ Proceed?</source>
     </message>
     <message>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi+.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>DateWidget</name>
     <message>
         <source>never</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3223,7 +3215,7 @@ Proceed?</source>
     </message>
     <message>
         <source>ToolBar will be placed here</source>
-        <comment>Don&apos;t translate this string</comment>
+        <comment>Don't translate this string</comment>
         <translation>סרגל כלים יושם כאן</translation>
     </message>
     <message>
@@ -3240,19 +3232,19 @@ Proceed?</source>
     </message>
     <message>
         <source>Filter by JID:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Auto-browse into objects</source>
-        <translation>עיון אוטומטי אל תוך אובייקטים</translation>
+        <translation>עיין אל תוך אובייקטים אוטומטית</translation>
     </message>
     <message>
         <source>Automatically get item information</source>
-        <translation>השגת מידע פריט באופן אוטומטי</translation>
+        <translation>השג מידע פריט אוטומטית</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגירה</translation>
+        <translation>&amp;סגור</translation>
     </message>
 </context>
 <context>
@@ -3287,19 +3279,19 @@ Proceed?</source>
     </message>
     <message>
         <source>Refresh Item</source>
-        <translation>רענון פריט</translation>
+        <translation>רענן פריט</translation>
     </message>
     <message>
         <source>&amp;Refresh Item</source>
-        <translation>&amp;רענון פריט</translation>
+        <translation>&amp;רענן פריט</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation>הפסקה</translation>
+        <translation>הפסק</translation>
     </message>
     <message>
         <source>Sto&amp;p</source>
-        <translation>ה&amp;פסקה</translation>
+        <translation>ה&amp;פסק</translation>
     </message>
     <message>
         <source>Back</source>
@@ -3319,27 +3311,27 @@ Proceed?</source>
     </message>
     <message>
         <source>Register</source>
-        <translation>רישום</translation>
+        <translation>רשום</translation>
     </message>
     <message>
         <source>&amp;Register</source>
-        <translation>&amp;רישום</translation>
+        <translation>&amp;רשום</translation>
     </message>
     <message>
         <source>Unregister</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Unregister</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Search</source>
-        <translation>חיפוש</translation>
+        <translation>חפש</translation>
     </message>
     <message>
         <source>&amp;Search</source>
-        <translation>&amp;חיפוש</translation>
+        <translation>&amp;חפש</translation>
     </message>
     <message>
         <source>Join</source>
@@ -3347,7 +3339,7 @@ Proceed?</source>
     </message>
     <message>
         <source>&amp;Join</source>
-        <translation>&amp;הצטרפות</translation>
+        <translation>&amp;הצטרף</translation>
     </message>
     <message>
         <source>Execute command</source>
@@ -3355,15 +3347,15 @@ Proceed?</source>
     </message>
     <message>
         <source>&amp;Execute command</source>
-        <translation>&amp;הרצת פקודה</translation>
+        <translation>&amp;הרץ פקודה</translation>
     </message>
     <message>
         <source>vCard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;vCard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add to roster</source>
@@ -3371,15 +3363,15 @@ Proceed?</source>
     </message>
     <message>
         <source>&amp;Add to roster</source>
-        <translation>&amp;הוספה לרשימה</translation>
+        <translation>&amp;הוסף לרשימה</translation>
     </message>
     <message>
         <source>Query version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Query version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Service Discovery toolbar</source>
@@ -3421,7 +3413,7 @@ Proceed?</source>
     </message>
     <message>
         <source>JID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Node</source>
@@ -3452,19 +3444,19 @@ Proceed?</source>
     <name>Drawer</name>
     <message>
         <source>Error moving</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You cannot move this figure because the king is in check</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>To castle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Do you want to castle?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Yes</source>
@@ -3490,11 +3482,11 @@ Proceed?</source>
     <name>EditItemDlg</name>
     <message>
         <source>Watch For...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>JID*</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text**</source>
@@ -3512,7 +3504,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Use for</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Chats</source>
@@ -3543,7 +3535,7 @@ Proceed?</source>
     <name>EditNote</name>
     <message>
         <source>Edit Note</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Title:</source>
@@ -3566,7 +3558,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Url:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User Name*:</source>
@@ -3578,7 +3570,7 @@ Proceed?</source>
     </message>
     <message>
         <source>PostData**:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File Input**:</source>
@@ -3586,7 +3578,7 @@ Proceed?</source>
     </message>
     <message>
         <source>RegExp**:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>*for FTP servers only</source>
@@ -3598,7 +3590,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Use proxy server</source>
-        <translation>שימוש בשרת פרוקסי</translation>
+        <translation>השתמש בשרת פרוקסי</translation>
     </message>
 </context>
 <context>
@@ -3633,7 +3625,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Select icon</source>
-        <translation>בחירת רגשון</translation>
+        <translation>בחר רגשון</translation>
     </message>
     <message>
         <source>Message length</source>
@@ -3641,11 +3633,11 @@ Proceed?</source>
     </message>
     <message>
         <source>Toggle encryption</source>
-        <translation>הצפנה</translation>
+        <translation>אפשר/נטרל הצפנה</translation>
     </message>
     <message>
         <source>Add URL</source>
-        <translation>הוספת URL</translation>
+        <translation>הוסף URL</translation>
     </message>
     <message>
         <source>User info</source>
@@ -3661,11 +3653,11 @@ Proceed?</source>
     </message>
     <message>
         <source>Transaction &amp;identifier:</source>
-        <translation>מזהה &amp;הסדרה:</translation>
+        <translation>מזהה &amp;טרנזקציה:</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגירה</translation>
+        <translation>&amp;סגור</translation>
     </message>
     <message>
         <source>&amp;Next</source>
@@ -3681,11 +3673,11 @@ Proceed?</source>
     </message>
     <message>
         <source>&amp;Add/Auth</source>
-        <translation>הוסף/אשר</translation>
+        <translation>&amp;הוסף/אשר</translation>
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation>&amp;שליחה</translation>
+        <translation>&amp;שלח</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
@@ -3697,11 +3689,11 @@ Proceed?</source>
     </message>
     <message>
         <source>C&amp;onfirm</source>
-        <translation>אי&amp;שור</translation>
+        <translation>א&amp;מת</translation>
     </message>
     <message>
         <source>&amp;Submit</source>
-        <translation>&amp;שליחה</translation>
+        <translation>&amp;שלח</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -3717,7 +3709,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Please type in a message first.</source>
-        <translation>נא להקליד הודעה תחילה.</translation>
+        <translation>אנא הקלד הודעה תחילה.</translation>
     </message>
     <message>
         <source>No recipients have been specified!</source>
@@ -3725,11 +3717,11 @@ Proceed?</source>
     </message>
     <message>
         <source>Please type in a transaction identifier first.</source>
-        <translation>נא להזין תחילה מזהה הסדרה.</translation>
+        <translation>אנא הקלד תחילה מזהה טרנזקציה.</translation>
     </message>
     <message>
         <source>Please complete all required fields (marked with a &apos;*&apos;).</source>
-        <translation>נא למלא את כל השדות הנדרשים (מסומנים עם &apos;*&apos;).</translation>
+        <translation>אנא השלם את כל השדות הנדרשים (מסומנים עם &apos;*&apos;).</translation>
     </message>
     <message>
         <source>Someone (maybe you) has requested access to the following resource:
@@ -3745,19 +3737,19 @@ Method: %2
         <source>
 If you wish to confirm this request, please provide transaction identifier and press Confirm button. Otherwise press Deny button.</source>
         <translation>
-אם ברצונך לאשר את בקשה זו, נא לספק מזהה הסדרה וללחוץ על כפתור אישור. אחרת לחץ/י על כפתור אסירה.</translation>
+אם ברצונך לאשר את בקשה זו, אנא ספק מזהה טרנזקציה וללחוץ על כפתור אישור. אחרת לחץ על כפתור אסירה.</translation>
     </message>
     <message>
         <source>Transaction identifier: %1
 
 If you wish to confirm this request, please press Confirm button. Otherwise press Deny button.</source>
-        <translation>מזהה הסדרה: %1
+        <translation>מזהה טרנזקציה: %1
 
-אם ברצונך לאשר את בקשה זו, נא ללחוץ על כפתור אישור. אחרת לחץ/י על כפתור אסירה.</translation>
+אם ברצונך לאשר את בקשה זו, אנא לחץ על כפתור אישור. אחרת לחץ על כפתור אסירה.</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to subscribe to your presence.  Click the button labelled &quot;Add/Auth&quot; to authorize the subscription.  This will also add the person to your contact list if it is not already there.</source>
-        <translation>&lt;big&gt;[הודעת מערכת]&lt;/big&gt;&lt;br&gt;משתמש זה רוצה להירשם אל נוכחותך.  לחץ/י על הלחצן המתויג בשם &quot;הוספה/אישור&quot; כדי לאשר את ההרשמה.  פעולה זו גם תוסיף את האיש אל רשימת קשריך במידה וזה אינו מצוי שם כבר.</translation>
+        <translation>&lt;big&gt;[הודעת מערכת]&lt;/big&gt;&lt;br&gt;משתמש זה רוצה להירשם אל נוכחותך.  לחץ על הלחצן המתויג בשם &quot;הוסף/אשר&quot; כדי לאשר את ההרשמה.  פעולה זו גם תוסיף את האיש אל רשימת הקשר שלך במידה וזה אינו מצוי שם כבר.</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
@@ -3793,7 +3785,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to modify your roster (%1). Click the button labelled &quot;Add/Auth&quot; to authorize the modification.</source>
-        <translation>&lt;big&gt;[הודעת מערכת]&lt;/big&gt;&lt;br&gt;משתמש זה מעוניין לשנות את רשימתך (%1). לחץ/י על הלחצן המתויג בשם &quot;הוספה/אישור&quot; כדי לאשר את השינויים.</translation>
+        <translation>&lt;big&gt;[הודעת מערכת]&lt;/big&gt;&lt;br&gt;משתמש זה מעוניין לשנות את רשימתך (%1). לחץ על הלחצן המתויג בשם &quot;הוסף/אשר&quot; כדי לאשר את השינויים.</translation>
     </message>
 </context>
 <context>
@@ -3815,7 +3807,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Feature not implemented</source>
-        <translation type="unfinished">תכונה לא מיושמת</translation>
+        <translation>תכונה לא מיושמת</translation>
     </message>
     <message>
         <source>%1 Last Activity</source>
@@ -3847,7 +3839,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>You are not authorized to retrieve Last Activity information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 Time</source>
@@ -3859,19 +3851,19 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Extended Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>פעולות מורחבות</translation>
     </message>
     <message>
         <source>Copy JID</source>
-        <translation>העתקת JID</translation>
+        <translation>העתק JID</translation>
     </message>
     <message>
         <source>Copy Nick</source>
-        <translation>העתקת כינוי</translation>
+        <translation>העתק כינוי</translation>
     </message>
     <message>
         <source>Copy Status Message</source>
-        <translation>העתקת הודעת מצב</translation>
+        <translation>העתק הודעת מצב</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -3922,11 +3914,11 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Look</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>CSS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Misc</source>
@@ -3942,27 +3934,27 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Enable icons in chat</source>
-        <translation>אפשור צלמיות בשיחה</translation>
+        <translation>אפשר צלמיות בשיחה</translation>
     </message>
     <message>
         <source>Scaled message icons</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Avatar</source>
-        <translation>הצגת אווטאר</translation>
+        <translation>הצג אווטאר</translation>
     </message>
     <message>
         <source>Disable &quot;Paste and Send&quot; button</source>
-        <translation>נטרול לחצן &quot;הדבק ושלח&quot;</translation>
+        <translation>נטרל לחצן &quot;הדבק ושלח&quot;</translation>
     </message>
     <message>
         <source>Enable &quot;Says style&quot;</source>
-        <translation>אפשור &quot;סגנון אמירה&quot;</translation>
+        <translation>אפשר &quot;סגנון אמירה&quot;</translation>
     </message>
     <message>
         <source>Hide &quot;Send&quot; button</source>
-        <translation>הסתרת לחצן &quot;שליחה&quot;</translation>
+        <translation>הסתר לחצן &quot;שליחה&quot;</translation>
     </message>
     <message>
         <source>Avatar size:</source>
@@ -3974,19 +3966,19 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation>הפיכה אוטומטית של האות הראשונה במשפט לאות עילית</translation>
+        <translation>הפוך אוטומטית את האות הראשונה במשפט לאות עילית</translation>
     </message>
     <message>
         <source>Automatically scroll down the log when a message was sent</source>
-        <translation>גלילה אוטומטית של רשומת שיחה כאשר הודעה חדשה נשלחה</translation>
+        <translation>גלול אוטומטית רשומת שיחה כאשר הודעה חדשה נשלחה</translation>
     </message>
     <message>
         <source>Show status changes</source>
-        <translation>הצגת שינויי מצב</translation>
+        <translation>הצג שינויי מצב</translation>
     </message>
     <message>
         <source>Show status priority</source>
-        <translation>הצגת עדיפות מצב</translation>
+        <translation>הצג עדיפות מצב</translation>
     </message>
     <message>
         <source>Chat window caption:</source>
@@ -3994,7 +3986,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Default JID mode ignore list:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>General</source>
@@ -4002,27 +3994,27 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Show joins</source>
-        <translation>הצגת כניסות</translation>
+        <translation>הצג כניסות</translation>
     </message>
     <message>
         <source>Show initial joins</source>
-        <translation>הצגת כניסות ראשוניות</translation>
+        <translation>הצג כניסות ראשוניות</translation>
     </message>
     <message>
         <source>Show status with priority</source>
-        <translation>הצגת מצב עם עדיפות</translation>
+        <translation>הצג מצב עם עדיפות</translation>
     </message>
     <message>
         <source>Show roles and affiliations changes</source>
-        <translation>הצגת שינויי תפקיד וסינוף</translation>
+        <translation>הצג שינויי תפקיד וסינוף</translation>
     </message>
     <message>
         <source>Enable autojoin for bookmarked conferences</source>
-        <translation>אפשור כניסה אוטומטית עבור ועידות מסומנות</translation>
+        <translation>אפשר כניסה אוטומטית עבור ועידות מסומנות</translation>
     </message>
     <message>
         <source>Enable HTML rendering in MUC chat window</source>
-        <translation>אפשור ציור HTML בתוך שיחת שמ״מ</translation>
+        <translation>אפשר ציור HTML בתוך שיחת שמ״מ</translation>
     </message>
     <message>
         <source>Automatically accept the default room configuration</source>
@@ -4045,7 +4037,7 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <source>Disable autojoin to folowing conferences:
 (specify JIDs)</source>
-        <translation>נטרול הצטרפות אוטומטית לוועידות הבאות:
+        <translation>נטרל הצטרפות אוטומטית לוועידות הבאות:
 (ציון JID־ים)</translation>
     </message>
     <message>
@@ -4054,39 +4046,39 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Place MUC roster at left</source>
-        <translation>השמת רשימת שממ בימין</translation>
+        <translation>השם רשימת שמ״מ בימין</translation>
     </message>
     <message>
         <source>Show groups</source>
-        <translation>הצגת קבוצות</translation>
+        <translation>הצג קבוצות</translation>
     </message>
     <message>
         <source>Use slim group heading</source>
-        <translation>שימוש בכותרות קבוצה רזות</translation>
+        <translation>השתמש בכותרות קבוצה רזות</translation>
     </message>
     <message>
         <source>Show status icons</source>
-        <translation>הצגת צלמיות מצב</translation>
+        <translation>הצג צלמיות מצב</translation>
     </message>
     <message>
         <source>Show affiliation icons</source>
-        <translation>הצגת צלמיות סינוף</translation>
+        <translation>הצג צלמיות סינוף</translation>
     </message>
     <message>
         <source>Show client icons</source>
-        <translation>הצגת צלמית לקוח</translation>
+        <translation>הצג צלמית לקוח</translation>
     </message>
     <message>
         <source>Show avatars</source>
-        <translation>הצגת אווטארים</translation>
+        <translation>הצג אווטארים</translation>
     </message>
     <message>
         <source>Place avatars at left</source>
-        <translation>השמת אווטארים בימין</translation>
+        <translation>השם אווטארים בימין</translation>
     </message>
     <message>
         <source>Sort style for contacts:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Avatars size:</source>
@@ -4102,15 +4094,15 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Lockdown roster</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contact name and status message in a row</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>If contact does not have avatar, use default avatar</source>
@@ -4118,75 +4110,75 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation>השמת צלמית מצב על אווטאר</translation>
+        <translation>השם צלמית מצב על אווטאר</translation>
     </message>
     <message>
         <source>Automatically remove temporary contacts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Tooltips:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show avatar</source>
-        <translation>הצגת אווטאר</translation>
+        <translation>הצג אווטאר</translation>
     </message>
     <message>
         <source>Show last status</source>
-        <translation>הצגת מצב אחרון</translation>
+        <translation>הצג מצב אחרון</translation>
     </message>
     <message>
         <source>Show PGP</source>
-        <translation>הצגת PGP</translation>
+        <translation>הצג PGP</translation>
     </message>
     <message>
         <source>Show client version</source>
-        <translation>הצגת גירסת לקוח</translation>
+        <translation>הצג גירסת לקוח</translation>
     </message>
     <message>
         <source>Show geolocation</source>
-        <translation>הצגת מיקום גאוגרפי</translation>
+        <translation>הצג מיקום גאוגרפי</translation>
     </message>
     <message>
         <source>Show &quot;Admin&quot; option in account menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show &quot;Active Chats&quot; option in contact menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show &quot;Picture&quot; option in contact menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show &quot;Change Profile&quot; option in main menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show &quot;Chat&quot; option in status menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show &quot;Invisible&quot; option in status menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show &quot;XA&quot; option in status menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable single messages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Popup border color:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Link color:</source>
@@ -4214,27 +4206,27 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>MUC roster coloring:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ToolTip text color:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ToolTip background color:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ToolTip coloring:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text color for &quot;composing&quot; events on tabs:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text color for &quot;unread&quot; events on tabs:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Colors:</source>
@@ -4242,11 +4234,11 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Popup</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Tooltip</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
@@ -4254,47 +4246,47 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Disable wheel scroll</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Put tabs at bottom of chat window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Close Button on tabs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show status icons on tabs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Action for mouse middle click on tabs:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Action for mouse double click on tabs:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable windows flashing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable &quot;Single Account&quot; mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable XML-console on login</source>
-        <translation>אפשור מסוף-XML בעת התחברות</translation>
+        <translation>אפשר מסוף-XML בעת התחברות</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -4313,45 +4305,45 @@ This option only has effect if accept-defaults is false.</source>
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
 Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable last activity server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable sound notifications for every MUC message</source>
-        <translation>אפשור התראות צליל עבור כל הודעת שממ</translation>
+        <translation>אפשר התראות צליל עבור כל הודעת שממ</translation>
     </message>
     <message>
         <source>Disable popup notifications if status is DND</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disable popup notifications if status is Away</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Notifications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hide conference on auto-join</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>
     <message>
         <source>Close</source>
-        <translation>סגירה</translation>
+        <translation>סגור</translation>
     </message>
 </context>
 <context>
     <name>FigureDialog</name>
     <message>
         <source>What figure should I set?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4373,11 +4365,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation>&amp;שליחה</translation>
+        <translation>&amp;שלח</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגירה</translation>
+        <translation>&amp;סגור</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -4401,7 +4393,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>From:</source>
-        <translation>מאת:</translation>
+        <translation>מן:</translation>
     </message>
     <message>
         <source>Receive File</source>
@@ -4409,11 +4401,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Accept</source>
-        <translation>&amp;קבלה</translation>
+        <translation>&amp;קבל</translation>
     </message>
     <message>
         <source>&amp;Reject</source>
-        <translation>&amp;דחייה</translation>
+        <translation>&amp;דחה</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -4421,7 +4413,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Are you sure you want to cancel the transfer?</source>
-        <translation>האם אכן ברצונך לבטל את ההעברה?</translation>
+        <translation>האם אתה בטוח שברצונך לבטל את ההעברה?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -4441,7 +4433,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>The file specified does not exist.  Choose a correct file name before sending.</source>
-        <translation>הקובץ המצוין לא קיים.  בחר/י שם קובץ מדויק לפני שליחה.</translation>
+        <translation>הקובץ המצוין לא קיים.  בחר שם קובץ מדויק לפני שליחה.</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -4453,7 +4445,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Save As</source>
-        <translation>שמירה בשם</translation>
+        <translation>שמור בשם</translation>
     </message>
     <message>
         <source>This file is being transferred already!</source>
@@ -4485,7 +4477,7 @@ contact is offline.</source>
         <source>Unable to connect to peer for data transfer.
 
 Ensure that your Data Transfer settings are proper.  If you are behind
-a NAT router or firewall then you&apos;ll need to open the proper TCP port
+a NAT router or firewall then you'll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>לא ניתן להתחבר אל עמית עבור מסירת נתונים.
 
@@ -4497,7 +4489,7 @@ or specify a Data Transfer Proxy in your account settings.</source>
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
 
 This means that the Proxy service is either not functioning or it is
-unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
+unreachable.  If you are behind a firewall, then you'll need to ensure
 that outgoing TCP connections are allowed.</source>
         <translation>כשל בהתחברות אל, או בשפעול, פרוקסי מסירת נתונים.
 
@@ -4515,18 +4507,18 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>The XMPP address specified is not valid.  Correct this and try again.</source>
-        <translation>כתובת XMPP שצוינה אינה תקפה.  תקן/י זאת ונסה שוב.</translation>
+        <translation>כתובת XMPP שצוינה אינה תקפה.  תקן זאת ונסה שוב.</translation>
     </message>
 </context>
 <context>
     <name>FileTrans</name>
     <message>
         <source>Form1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>accountlabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>To:</source>
@@ -4538,7 +4530,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>psi/browse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Size:</source>
@@ -4561,7 +4553,7 @@ that outgoing TCP connections are allowed.</source>
     <name>FileTransDlg</name>
     <message>
         <source>N/A</source>
-        <translation>לא זמין</translation>
+        <translation>ל/ז</translation>
     </message>
     <message>
         <source>[Done]</source>
@@ -4577,7 +4569,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>%1%2/s</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1h%2m%3s remaining</source>
@@ -4601,7 +4593,7 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>%1h%2m%3s</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Filename</source>
@@ -4641,11 +4633,11 @@ that outgoing TCP connections are allowed.</source>
     </message>
     <message>
         <source>Clear &amp;Finished</source>
-        <translation>טיהור &amp;גמורות</translation>
+        <translation>טהר &amp;גמורות</translation>
     </message>
     <message>
         <source>&amp;Hide</source>
-        <translation>&amp;הסתרה</translation>
+        <translation>&amp;הסתר</translation>
     </message>
     <message>
         <source>Transfer Error</source>
@@ -4659,7 +4651,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>File I/O error (%1)</source>
-        <translation>שגיאת קובץ I/O (%1)</translation>
+        <translation>שגיאת קובץ I/O ‏(%1)</translation>
     </message>
 </context>
 <context>
@@ -4670,11 +4662,11 @@ Reason: %3</source>
     </message>
     <message>
         <source>&amp;Open Containing Folder</source>
-        <translation>&amp;פתיחת תיקייה מכילה</translation>
+        <translation>&amp;פתח תיקייה מכילה</translation>
     </message>
     <message>
         <source>Cl&amp;ear</source>
-        <translation>&amp;טיהור</translation>
+        <translation>&amp;טהר</translation>
     </message>
 </context>
 <context>
@@ -4689,7 +4681,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Proxy query failed!</source>
-        <translation>שאילתת פרוקסי נכשלה.</translation>
+        <translation>שאילתת פרוקסי נכשלה!</translation>
     </message>
     <message>
         <source>Requesting data transfer channel...</source>
@@ -4751,7 +4743,7 @@ Reason: %3</source>
     <name>FontLabel</name>
     <message>
         <source>%1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4788,19 +4780,19 @@ Reason: %3</source>
     </message>
     <message>
         <source>Find:</source>
-        <translation>מציאה:</translation>
+        <translation>מצא:</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגירה</translation>
+        <translation>&amp;סגור</translation>
     </message>
     <message>
         <source>&amp;Find</source>
-        <translation>&amp;מציאה</translation>
+        <translation>&amp;מצא</translation>
     </message>
     <message>
         <source>Search string &apos;%1&apos; not found.</source>
-        <translation>חיפוש מחרוזת &apos;%1&apos; לא נמצאה.</translation>
+        <translation>מחרוזת חיפוש &apos;%1&apos; לא נמצאה.</translation>
     </message>
 </context>
 <context>
@@ -4811,7 +4803,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Clear Chat Window</source>
-        <translation>טיהור חלון שיחה</translation>
+        <translation>טהר חלון שיחה</translation>
     </message>
     <message>
         <source>Find</source>
@@ -4819,7 +4811,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>&amp;Find</source>
-        <translation>&amp;מציאה</translation>
+        <translation>&amp;מצא</translation>
     </message>
     <message>
         <source>Configure Room</source>
@@ -4827,7 +4819,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>&amp;Configure Room</source>
-        <translation>&amp;הגדרת חדר</translation>
+        <translation>&amp;הגדר חדר</translation>
     </message>
     <message>
         <source>Set Text Format</source>
@@ -4835,15 +4827,15 @@ Reason: %3</source>
     </message>
     <message>
         <source>Select Icon</source>
-        <translation>בחירת רגשון</translation>
+        <translation>בחר רגשון</translation>
     </message>
     <message>
         <source>Change Nickname...</source>
-        <translation>שינוי כינוי...</translation>
+        <translation>שנה שם כינוי...</translation>
     </message>
     <message>
         <source>Enter Command...</source>
-        <translation>הזנת פקודה...</translation>
+        <translation>הזן פקודה...</translation>
     </message>
     <message>
         <source>Paste and Send</source>
@@ -4886,8 +4878,8 @@ Reason: %1</source>
     <message>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
-        <translation>האם אכן ברצונך לטהר את חלון השיחה?
-(הערה: לא משפיעה על היסטורייה שמורה)</translation>
+        <translation>האם אתה בטוח שברצונך לטהר את חלון השיחה?
+(הערה: פעולה זו לא משפיעה על היסטוריה שמורה)</translation>
     </message>
     <message>
         <source>Disconnected.</source>
@@ -4911,7 +4903,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Please choose a different nickname</source>
-        <translation>נא לבחור כינוי אחר</translation>
+        <translation>אנא בחר שם כינוי אחר</translation>
     </message>
     <message>
         <source>An error occurred (errorcode: %1)</source>
@@ -4935,7 +4927,7 @@ Reason: %1</source>
     </message>
     <message>
         <source> and now is %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 is now %2 and %3</source>
@@ -4963,11 +4955,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Room Destroyed</source>
-        <translation>החדר הוחרב</translation>
+        <translation>חדר הוחרב</translation>
     </message>
     <message>
         <source>Banned</source>
-        <translation>נאסר/ת</translation>
+        <translation>נאסרת</translation>
     </message>
     <message>
         <source>You have been banned from the room</source>
@@ -4987,7 +4979,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Kicked</source>
-        <translation>נבעט/ת</translation>
+        <translation>נבעט/ה</translation>
     </message>
     <message>
         <source>You have been kicked from the room</source>
@@ -5121,11 +5113,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation>שליחת &amp;הודעה</translation>
+        <translation>שלח &amp;הודעה</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation>פתיחת &amp;חלון שיחה</translation>
+        <translation>פתח &amp;חלון שיחה</translation>
     </message>
     <message>
         <source>Voice Call</source>
@@ -5137,7 +5129,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation>&amp;בעיטה</translation>
+        <translation>&amp;בעט</translation>
     </message>
     <message>
         <source>No reason</source>
@@ -5149,11 +5141,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation>&amp;אסירה</translation>
+        <translation>&amp;אסור</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation>שינוי תפקיד</translation>
+        <translation>שנה תפקיד</translation>
     </message>
     <message>
         <source>Visitor</source>
@@ -5204,11 +5196,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>game with</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Game chat</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>History</source>
@@ -5216,11 +5208,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Looking up the host</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Accepted a new connection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The host found</source>
@@ -5236,56 +5228,56 @@ Reason: %1</source>
     </message>
     <message>
         <source>You have a socket error number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>game from</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Accepted the</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Your move...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Waiting a move...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>End the game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Yes, end</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No, continue</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>B</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>K</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>C</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Q</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Error!</source>
@@ -5293,7 +5285,7 @@ You will lose it</source>
     </message>
     <message>
         <source>Lookup Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The host</source>
@@ -5305,7 +5297,7 @@ You will lose it</source>
     </message>
     <message>
         <source>Save image</source>
-        <translation>שמירת תמונה</translation>
+        <translation>שמור תמונה</translation>
     </message>
     <message>
         <source>Do you want to save the image?</source>
@@ -5321,27 +5313,27 @@ You will lose it</source>
     </message>
     <message>
         <source>Game over</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You scored the game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You have a mate.
 You lost the game.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You have a stalemate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>GameModel</name>
     <message>
         <source>The first turn can be only H8.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5352,30 +5344,30 @@ You lost the game.</source>
     </message>
     <message>
         <source>Incorrect parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You are allready playing!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;Game error.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>GeneralGroupchat</name>
     <message>
         <source>GeneralGroupchatUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable word highlighting</source>
-        <translation>אפשור הדגשת מילה</translation>
+        <translation>אפשר הדגשת מילה</translation>
     </message>
     <message>
         <source>Highlight lines and alert the user if this text is included in chat</source>
@@ -5395,7 +5387,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Type a new word here and press &quot;Add Word&quot; for it to be added to the highlight list</source>
-        <translation>הקלד/י כאן מילה חדשה ולחץ/י &quot;הוספת מילה&quot; כדי שזו תוסף אל הרשימה המודגשת</translation>
+        <translation>הקלד כאן מילה חדשה ולחץ &quot;הוסף מילה&quot; כדי שזו תוסף אל הרשימה המודגשת</translation>
     </message>
     <message>
         <source>Adds the new word to the list</source>
@@ -5415,11 +5407,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>Enable nick coloring</source>
-        <translation>אפשור צביעת כינוי</translation>
+        <translation>אפשר צביעת כינוי</translation>
     </message>
     <message>
         <source>Enable hash nick coloring</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Nick coloring</source>
@@ -5435,7 +5427,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Type a colourcode here, or press the palette to the right</source>
-        <translation>הקלד/י כאן קוד צבע, או לחץ/י על צלחת הצבעים מימין</translation>
+        <translation>הקלד כאן קוד צבע, או לחץ על צלחת הצבעים מימין</translation>
     </message>
     <message>
         <source>Adds the color to the list</source>
@@ -5640,7 +5632,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Version: </source>
-        <translation>גירסה: </translation>
+        <translation>גרסא: </translation>
     </message>
     <message>
         <source>OK</source>
@@ -5655,7 +5647,7 @@ You lost the game.</source>
     <name>GetTextDlg</name>
     <message>
         <source>Enter text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Font</source>
@@ -5666,19 +5658,19 @@ You lost the game.</source>
     <name>GmailNotifyPlugin</name>
     <message>
         <source>No-save state for contact %1 is changed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Settings for an account %1 are changed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shared Status for an account %1 is updated</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Attributes for contact %1 are changed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
@@ -5707,7 +5699,7 @@ You lost the game.</source>
     <message>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5718,7 +5710,7 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
     <message>
         <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5742,15 +5734,15 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <message>
         <source>This plugin allows you to play gomoku with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Gomoku game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Gomoku game!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5775,7 +5767,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Set Keys</source>
-        <translation>הגדרת מקשים</translation>
+        <translation>קבע מקשים</translation>
     </message>
     <message>
         <source>New Shortcut</source>
@@ -5783,7 +5775,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Press shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5817,11 +5809,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>AccountLabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select icon</source>
-        <translation>בחירת רגשון</translation>
+        <translation>בחר רגשון</translation>
     </message>
     <message>
         <source>Actions</source>
@@ -5855,7 +5847,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Create New...</source>
-        <translation>&amp;צור חדש...</translation>
+        <translation>&amp;צור חדשה...</translation>
     </message>
     <message>
         <source>Create New Group</source>
@@ -5863,7 +5855,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation>הזנת שם קבוצה חדש:</translation>
+        <translation>הזן שם קבוצה חדש:</translation>
     </message>
 </context>
 <context>
@@ -5916,7 +5908,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>HistoryDlg</name>
     <message>
         <source>HistoryDlg</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Refresh history</source>
@@ -5924,7 +5916,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation>&amp;רענון</translation>
+        <translation>&amp;רענן</translation>
     </message>
     <message>
         <source>&amp;Earliest</source>
@@ -5948,7 +5940,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Are you sure you want to completely remove history for a contact %1?</source>
-        <translation>האם אכן ברצונך להסיר לחלוטין היסטוריה עבור איש קשר %1?</translation>
+        <translation>האם אתה בטוח שברצונך להסיר לחלוטין היסטוריה עבור איש קשר %1?</translation>
     </message>
     <message>
         <source>Export message history</source>
@@ -5964,11 +5956,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Error writing to file.</source>
-        <translation>שגיאה בכתיבה אל קובץ.</translation>
+        <translation>שגיאת כתיבה אל קובץ.</translation>
     </message>
     <message>
         <source>&amp;Open chat</source>
-        <translation>&amp;פתיחת שיחה</translation>
+        <translation>&amp;פתח שיחה</translation>
     </message>
     <message>
         <source>&amp;Export history</source>
@@ -5976,7 +5968,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Delete history</source>
-        <translation>&amp;מחיקת היסטוריה</translation>
+        <translation>&amp;מחק היסטוריה</translation>
     </message>
     <message>
         <source>History</source>
@@ -5984,23 +5976,23 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Copy</source>
-        <translation>העתקה</translation>
+        <translation>העתק</translation>
     </message>
     <message>
         <source>Copy link to the clipboard</source>
-        <translation>העתקת קישור אל לוח גזירים</translation>
+        <translation>העתק קישור אל לוח גזירים</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>פתיחה</translation>
+        <translation>פתח</translation>
     </message>
     <message>
         <source>Open link in browser</source>
-        <translation>פתיחת קישור בדפדפן</translation>
+        <translation>פתח קישור בדפדפן</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>סגירה</translation>
+        <translation>סגור</translation>
     </message>
     <message>
         <source>Close history</source>
@@ -6032,14 +6024,14 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi+ is closed.
 You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>HistoryView</name>
     <message>
         <source>Close</source>
-        <translation>סגירה</translation>
+        <translation>סגור</translation>
     </message>
 </context>
 <context>
@@ -6048,7 +6040,7 @@ You can select or deselect a contact for history removal from the context menu o
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -6060,7 +6052,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -6076,13 +6068,13 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;הזזת הדיוקן המקורי את המדור החדש. הדיוקן הישן יוסר אוטומטית בעת סיום.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;הזז הדיוקן המקורי את המדור החדש. הדיוקן הישן יוסר אוטומטית בעת סיום.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Import Psi profile and remove it</source>
@@ -6092,7 +6084,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -6196,7 +6188,7 @@ p, li { white-space: pre-wrap; }
     <name>IconsetActivity</name>
     <message>
         <source>IconsetActivityUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Activity iconsets</source>
@@ -6204,14 +6196,14 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation>ה&amp;צגת פרטים</translation>
+        <translation>ה&amp;צג פרטים</translation>
     </message>
 </context>
 <context>
     <name>IconsetAffiliation</name>
     <message>
         <source>IconsetClientUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Affiliation iconsets</source>
@@ -6219,14 +6211,14 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation>ה&amp;צגת פרטים</translation>
+        <translation>ה&amp;צג פרטים</translation>
     </message>
 </context>
 <context>
     <name>IconsetClient</name>
     <message>
         <source>IconsetClientUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Client iconsets</source>
@@ -6234,18 +6226,18 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation>ה&amp;צגת פרטים</translation>
+        <translation>ה&amp;צג פרטים</translation>
     </message>
 </context>
 <context>
     <name>IconsetDetailsDlg</name>
     <message>
         <source>Iconset Details: %1</source>
-        <translation>פרטי מערך צלמיות: %1</translation>
+        <translation>פרטי מערך צלמית: %1</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Description:</source>
@@ -6261,7 +6253,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Version:</source>
-        <translation>גירסה:</translation>
+        <translation>גרסא:</translation>
     </message>
     <message>
         <source>Home URL:</source>
@@ -6269,7 +6261,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>XXX</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name:</source>
@@ -6287,11 +6279,11 @@ p, li { white-space: pre-wrap; }
     <name>IconsetEmo</name>
     <message>
         <source>IconsetEmoUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable emoticons</source>
-        <translation>אפשור רגשונים</translation>
+        <translation>אפשר רגשונים</translation>
     </message>
     <message>
         <source>Emoticon iconsets</source>
@@ -6299,22 +6291,22 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>psi/arrowDown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>psi/arrowUp</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Show details</source>
-        <translation>&amp;הצגת פרטים</translation>
+        <translation>&amp;הצג פרטים</translation>
     </message>
 </context>
 <context>
     <name>IconsetMood</name>
     <message>
         <source>IconsetMoodUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mood iconsets</source>
@@ -6322,14 +6314,14 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation>ה&amp;צגת פרטים</translation>
+        <translation>ה&amp;צג פרטים</translation>
     </message>
 </context>
 <context>
     <name>IconsetRoster</name>
     <message>
         <source>IconsetRosterUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default</source>
@@ -6341,7 +6333,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Show details</source>
-        <translation>&amp;הצגת פרטים</translation>
+        <translation>&amp;הצג פרטים</translation>
     </message>
     <message>
         <source>Services</source>
@@ -6349,7 +6341,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Use transport specific icons for contacts</source>
-        <translation>שימוש בצלמיות מוביל סגוליות עבור אישי קשר</translation>
+        <translation>השתמש בצלמיות מוביל סגוליות עבור אישי קשר</translation>
     </message>
     <message>
         <source>Service</source>
@@ -6361,7 +6353,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Service iconsets:</source>
-        <translation>מערכי צלמיות שירות</translation>
+        <translation>מערכי צלמיות שירות:</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -6377,15 +6369,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;הוספה</translation>
+        <translation>&amp;הוסף</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;מחיקה</translation>
+        <translation>&amp;מחק</translation>
     </message>
     <message>
         <source>RegExp</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Custom iconsets:</source>
@@ -6396,7 +6388,7 @@ p, li { white-space: pre-wrap; }
     <name>IconsetSystem</name>
     <message>
         <source>IconsetSystemUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>System iconset:</source>
@@ -6404,11 +6396,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Show details</source>
-        <translation>הצגת &amp;פרטים</translation>
+        <translation>הצג &amp;פרטים</translation>
     </message>
     <message>
         <source>Alt+S</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6417,14 +6409,14 @@ p, li { white-space: pre-wrap; }
         <source>Я Вам как Linux скажу, только Вы не обижайтесь. Этот человек, конечно, получит Ваше сообщение, но лучше бы Вам общаться с ним через Jabber. А то не ровен час - аська сдохнет, старушка своё отжила. Его JID: %1.
 
 Искренне Ваш, Debian Sid.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message utf8="true">
         <source>Я Вам как Linux скажу, только Вы не обижайтесь. Этот человек имел в виду всех пользователей аськи, поэтому если Вы до сих пор сидите в этой сети, то он не получит Ваше сообщение, поэтому Вам придётся общаться с ним через Jabber. Его JID: %1.
 
 Если Вы не знаете что такое Jabber, то есть Google - он всё знает и поможет любому, кто к нему обратится.
 Искренне Ваш, Debian Sid.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -6443,7 +6435,7 @@ The plugin has a number of simple settings that can help you:
 * set the max count of messages by contact
 * disable the message for the active window/tab
 * disable messages for contacts that are not in your roster</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6470,9 +6462,9 @@ The plugin has a number of simple settings that can help you:
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
-Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open file</source>
@@ -6480,19 +6472,19 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>From clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Image size must be less than 60 kb</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Image %1 bytes received.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Authors: </source>
@@ -6519,27 +6511,27 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Alt+V</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>View in real size</source>
-        <translation>צפיה בגודל אמיתי</translation>
+        <translation>צפה בגודל אמיתי</translation>
     </message>
     <message>
         <source>&amp;Open...</source>
-        <translation>&amp;פתיחה...</translation>
+        <translation>&amp;פתח...</translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Clear</source>
-        <translation>&amp;טיהור</translation>
+        <translation>&amp;טהר</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Full Name:</source>
@@ -6555,7 +6547,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>כינוי:</translation>
+        <translation>שם כינוי:</translation>
     </message>
     <message>
         <source>Work</source>
@@ -6611,31 +6603,31 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Alt+D</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>psi/disco</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Publish</source>
-        <translation>&amp;פרסום</translation>
+        <translation>&amp;פרסם</translation>
     </message>
     <message>
         <source>&amp;Retrieve</source>
-        <translation>&amp;אחזור</translation>
+        <translation>&amp;אחזר</translation>
     </message>
     <message>
         <source>psi/reload</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגירה</translation>
+        <translation>&amp;סגור</translation>
     </message>
     <message>
         <source>psi/close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6662,7 +6654,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Open web browser</source>
-        <translation>פתיחת דפדפן רשת</translation>
+        <translation>פתח דפדפן רשת</translation>
     </message>
     <message>
         <source>No date</source>
@@ -6670,7 +6662,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Edit birthday</source>
-        <translation>עריכת יום הולדת</translation>
+        <translation>ערוך יום הולדת</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -6680,15 +6672,15 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
         <translation>לא פרסמת את שינויי מידע חשבונך.
-האם אכן ברצונך להשליכם?</translation>
+האם אתה בטוח שברצונך להשליכם?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>סגירה וסילוק</translation>
+        <translation>סגור וסלק</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>לא לסגור</translation>
+        <translation>אל תסגור</translation>
     </message>
     <message>
         <source>Success</source>
@@ -6721,7 +6713,7 @@ Reason: %1</source>
     <message>
         <source>Picture not
 available</source>
-        <translation>תמונה לא
+        <translation>אין תמונה
 זמינה</translation>
     </message>
     <message>
@@ -6733,7 +6725,7 @@ available</source>
     <name>InvateDialog</name>
     <message>
         <source>Gomoku Game Plugin - Invite</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Opponent:</source>
@@ -6745,11 +6737,11 @@ available</source>
     </message>
     <message>
         <source>Play Black</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Play White</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
@@ -6772,55 +6764,55 @@ available</source>
     </message>
     <message>
         <source>Gomoku Game Plugin - Invitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>white</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>black</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>InviteDialog</name>
     <message>
         <source>Invitation</source>
-        <translation type="unfinished">הזמנה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select resource:</source>
-        <translation type="unfinished">בחירת משאב:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Play White</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Play Black</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>JDMainWin</name>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>רענן</translation>
     </message>
     <message>
         <source>Clear log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send</source>
@@ -6832,23 +6824,23 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>&lt;b&gt;You:&lt;/b&gt; </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;b&gt;Disk:&lt;/b&gt; </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">הסרה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Make dir</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Get File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send File</source>
@@ -6856,7 +6848,7 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>Hash</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Link</source>
@@ -6868,7 +6860,7 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>Intro</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Statistics</source>
@@ -6876,31 +6868,31 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Move to...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove Item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation>האם הינך בטוח?</translation>
+        <translation>האם אתה בטוח?</translation>
     </message>
     <message>
         <source>Input Dir Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Input Full JID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Input New Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6922,7 +6914,7 @@ to play gomoku. He wants to play %2.</source>
     <name>JuickJidDialog</name>
     <message>
         <source>Set JIDs of Juick Bot</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add</source>
@@ -6941,7 +6933,7 @@ to play gomoku. He wants to play %2.</source>
     <name>JuickJidList</name>
     <message>
         <source>Input JID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6951,21 +6943,21 @@ to play gomoku. He wants to play %2.</source>
         <translation>אזהרה</translation>
     </message>
     <message>
-        <source>can&apos;t create folder %1 
+        <source>can't create folder %1 
 caching avatars will be not available</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> replied:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Subscribe to %1&apos;s blog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send personal message to %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete</source>
@@ -6973,7 +6965,7 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Add to favorites</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -6983,11 +6975,11 @@ Currently, the plugin is able to:
 * Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
 
 Note: To work correctly, the option options.html.chat.render	must be set to true. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Time stamp: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Authors: </source>
@@ -6998,7 +6990,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <name>LookFeelToolbars</name>
     <message>
         <source>LookFeelToolbarsUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Toolbar:</source>
@@ -7010,7 +7002,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -7018,7 +7010,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Alt+D</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name:</source>
@@ -7038,19 +7030,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>psi/arrowUp</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>psi/arrowDown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>psi/arrowRight</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>A&amp;vailable actions:</source>
@@ -7058,7 +7050,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>psi/arrowLeft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Curr&amp;ent actions:</source>
@@ -7069,7 +7061,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <name>MUCAffiliationsModel</name>
     <message>
         <source>JID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reason</source>
@@ -7124,15 +7116,15 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Destroy Room</source>
-        <translation>החרבת חדר</translation>
+        <translation>החרב חדר</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>החלה</translation>
+        <translation>החל</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>סגירה</translation>
+        <translation>סגור</translation>
     </message>
 </context>
 <context>
@@ -7147,11 +7139,11 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Add affiliation</source>
-        <translation>הוספת סינוף</translation>
+        <translation>הוסף סינוף</translation>
     </message>
     <message>
         <source>Enter the JID of the user:</source>
-        <translation>נא להזין כתובת JID של המשתמש:</translation>
+        <translation>הזן כתובת JID של המשתמש:</translation>
     </message>
     <message>
         <source>Error</source>
@@ -7163,7 +7155,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Destroy room</source>
-        <translation>החרבת חדר</translation>
+        <translation>החרב חדר</translation>
     </message>
     <message>
         <source>Are you absolutely certain you want to destroy this room?</source>
@@ -7187,7 +7179,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>There was an error setting modifying the affiliations.</source>
-        <translation>ארעה שגיאה בהגדרת התאמת השיוכים.</translation>
+        <translation>ארעה שגיאה בקביעת התאמת השיוכים.</translation>
     </message>
     <message>
         <source>There was an error destroying the room.</source>
@@ -7222,7 +7214,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>כינוי:</translation>
+        <translation>שם כינוי:</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -7230,7 +7222,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Request chat history</source>
-        <translation>בקשת היסטוריית שיחה</translation>
+        <translation>בקש היסטוריית שיחה</translation>
     </message>
     <message>
         <source>Bookmarks:</source>
@@ -7274,7 +7266,7 @@ Reason: %1</source>
     <name>MUCManager</name>
     <message>
         <source>You are not allowed to kick this user.</source>
-        <translation type="unfinished"></translation>
+        <translation>אינך מורשה לבעוט את משתמש זה.</translation>
     </message>
     <message>
         <source>You are not allowed to ban this user.</source>
@@ -7349,7 +7341,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">שמירה</translation>
+        <translation>שמירה</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -7420,11 +7412,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Un&amp;hide</source>
-        <translation>אי ה&amp;סתרה</translation>
+        <translation>&amp;הצג</translation>
     </message>
     <message>
         <source>&amp;Hide</source>
-        <translation>ה&amp;סתרה</translation>
+        <translation>&amp;הסתר</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -7432,21 +7424,21 @@ Reason: %1</source>
     </message>
     <message>
         <source>Active accounts:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>
 Active accounts:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Incoming event(s) from:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>
 Incoming event(s) from:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Connecting</source>
@@ -7465,7 +7457,7 @@ Incoming event(s) from:</source>
     <name>MainWin::Private</name>
     <message>
         <source>Diagnostics</source>
-        <translation type="unfinished">דיאגנוסטיקה</translation>
+        <translation>דיאגנוסטיקות</translation>
     </message>
 </context>
 <context>
@@ -7509,7 +7501,7 @@ You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7524,7 +7516,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
     <message>
         <source>The server does not support TLS encryption.</source>
-        <translation>השרת לא תומך הצפנת TLS</translation>
+        <translation>השרת לא תומך הצפנת TLS.</translation>
     </message>
     <message>
         <source>There was an error communicating with the XMPP server.
@@ -7541,11 +7533,11 @@ Details: %1</source>
     </message>
     <message>
         <source>JID (or part of JID)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Watch for JIDs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sounds (if empty default sound will be used)</source>
@@ -7553,46 +7545,46 @@ Details: %1</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">טיפוס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">שם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation type="unfinished">דוא״ל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Created</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Length</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished">הערה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Short ID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">טביעת אצבע</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>Mood</name>
     <message>
         <source>Set Mood</source>
-        <translation>הגדרת מצב רוח</translation>
+        <translation>קבע מצב רוח</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -7615,26 +7607,26 @@ Details: %1</source>
     <name>MoodDlg</name>
     <message>
         <source>&lt;unset&gt;</source>
-        <translation>&lt;לא מוגדר&gt;</translation>
+        <translation>&lt;לא נקבע&gt;</translation>
     </message>
 </context>
 <context>
     <name>MyHeaderViewWidget</name>
     <message>
         <source>Flat</source>
-        <translation type="unfinished">תצוגה שטוחה</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>NoteModel</name>
     <message>
         <source>Title: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>
 Tags: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7645,7 +7637,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Add note</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Edit note</source>
@@ -7661,7 +7653,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save notes</source>
@@ -7689,7 +7681,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Error! Perhaps the function is not implemented on the server.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Storage Notes Plugin</source>
@@ -7704,15 +7696,15 @@ Tags: %1</source>
     <name>OptAdvanced</name>
     <message>
         <source>OptAdvancedUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable &quot;Contact is typing ...&quot; events</source>
-        <translation>אפשור אירועי &quot;איש קשר מקליד כעת ...&quot;</translation>
+        <translation>אפשר אירועי &quot;איש קשר מקליד כעת ...&quot;</translation>
     </message>
     <message>
         <source>Enable &quot;Inactivity&quot; events (end/suspend conversation)</source>
-        <translation>אפשור אירועי &quot;חוסר פעילות&quot; (סוף/התליית דיון)</translation>
+        <translation>אפשר אירועי &quot;חוסר פעילות&quot; (סוף/התליית דיון)</translation>
     </message>
     <message>
         <source>Disables the sending of message events such as &quot;Contact is Typing...&quot;</source>
@@ -7724,23 +7716,23 @@ Tags: %1</source>
     </message>
     <message>
         <source>Request receipts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send receipts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable remote controlling from other locations</source>
-        <translation>אפשור שליטה מרוחקת ממקומות אחרים</translation>
+        <translation>אפשר שליטה מרוחקת ממקומות אחרים</translation>
     </message>
     <message>
         <source>Check spelling</source>
-        <translation>בדיקת איות</translation>
+        <translation>בדוק איות</translation>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
-        <translation>שימוש בעיצוב הודעה של איש קשר</translation>
+        <translation>השתמש בעיצוב הודעה של איש קשר</translation>
     </message>
     <message>
         <source>Single-click triggers default action</source>
@@ -7748,35 +7740,35 @@ Tags: %1</source>
     </message>
     <message>
         <source>Automatically copy selected text to clipboard</source>
-        <translation>העתקת תמליל נבחר את לוח גזירה באופן אוטומטי</translation>
+        <translation>העתק תמליל נבחר את לוח גזירה באופן אוטומטי</translation>
     </message>
     <message>
         <source>Grab URLs from clipboard</source>
-        <translation>תפיסת כתובות URL מלוח גזירה</translation>
+        <translation>תפוס כתובות URL מלוח גזירה</translation>
     </message>
     <message>
         <source>Show subject line in events</source>
-        <translation>הצגת שורת נושא באירועים</translation>
+        <translation>הצג שורת נושא באירועים</translation>
     </message>
     <message>
         <source>Show character counter</source>
-        <translation>הצגת מונה תווים</translation>
+        <translation>הצג מונה תווים</translation>
     </message>
     <message>
         <source>Automatically get vCard when becoming online</source>
-        <translation>השגת vCard באופן אוטומטי כאשר אני במצב מקוון</translation>
+        <translation>השג vCard באופן אוטומטי כאשר אני במצב מקוון</translation>
     </message>
     <message>
         <source>Animate the roster when a contact comes online</source>
-        <translation>הנפשת רשימה כאשר איש קשר נהפך למקוון</translation>
+        <translation>הנפש רשימה כאשר איש קשר נהפך למקוון</translation>
     </message>
     <message>
         <source>Scroll roster to contact on event</source>
-        <translation>גלילת רשימה אל איש קשר באירוע</translation>
+        <translation>גלול רשימה אל איש קשר בעת אירוע</translation>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>התעלמות מן אירועי &quot;כותרת&quot; (למשל התראות MSN)</translation>
+        <translation>התעלם מן אירועי &quot;כותרת&quot; (למשל התראות MSN)</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
@@ -7807,7 +7799,7 @@ Tags: %1</source>
     <name>OptAppearance</name>
     <message>
         <source>OptAppearanceUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Colors</source>
@@ -7815,7 +7807,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Account heading foreground:</source>
-        <translation>צבע קדמי של כותרת חשבון:</translation>
+        <translation>רקע קדמי של כותרת חשבון:</translation>
     </message>
     <message>
         <source>Specifies the background color for an account name in the main window.</source>
@@ -7823,11 +7815,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Account heading background:</source>
-        <translation>צבע אחורי של כותרת חשבון:</translation>
+        <translation>רקע אחורי של כותרת חשבון:</translation>
     </message>
     <message>
         <source>Group heading foreground:</source>
-        <translation>צבע קדמי של כותרת קבוצה:</translation>
+        <translation>רקע קדמי של כותרת קבוצה:</translation>
     </message>
     <message>
         <source>Specifies the background color for a group name in the main window.</source>
@@ -7835,7 +7827,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Group heading background:</source>
-        <translation>צבע אחורי של כותרת קבוצה:</translation>
+        <translation>רקע אחורי של כותרת קבוצה:</translation>
     </message>
     <message>
         <source>Specifies the foreground animation color for nicks.</source>
@@ -7843,7 +7835,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Nick animation foreground:</source>
-        <translation>רקע קדמי של צבע הנפשת כינוי</translation>
+        <translation>רקע קדמי של צבע הנפשת כינוי:</translation>
     </message>
     <message>
         <source>Specifies the background animation color for nicks.</source>
@@ -7851,7 +7843,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Nick animation background:</source>
-        <translation>רקע אחורי של צבע הנפשת כינוי</translation>
+        <translation>רקע אחורי של צבע הנפשת כינוי:</translation>
     </message>
     <message>
         <source>Specifies the color for sent messages in chat and history windows.</source>
@@ -7907,11 +7899,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Specifies the color for additional text of system messages. MUC topic for example.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Additional message text:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fonts</source>
@@ -7927,7 +7919,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Choose...</source>
-        <translation>בחירה...</translation>
+        <translation>בחר...</translation>
     </message>
     <message>
         <source>Roster:</source>
@@ -7942,7 +7934,7 @@ Tags: %1</source>
     <name>OptAppearanceMisc</name>
     <message>
         <source>OptAppearanceMiscUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Headings</source>
@@ -7970,37 +7962,37 @@ Tags: %1</source>
     </message>
     <message>
         <source>Chat dialog opacity:</source>
-        <translation>עמימות דו־שיח של שיחה:</translation>
+        <translation>עמימות דו שיח שיחה:</translation>
     </message>
 </context>
 <context>
     <name>OptAppearanceTheme</name>
     <message>
         <source>OptAppearanceThemeUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;a href=&quot;thememanager://showmore/&quot;&gt;More themes&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>OptApplication</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Automatically launch application when OS starts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable docklet</source>
-        <translation>אפשור רציפון</translation>
+        <translation>אפשר רציפון</translation>
     </message>
     <message>
         <source>Decorate windows</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Docklet</source>
@@ -8008,23 +8000,23 @@ Tags: %1</source>
     </message>
     <message>
         <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation>שימוש בסגנון של &quot;הקלקה-כפולה&quot; (כמו ICQ)</translation>
+        <translation>השתמש בסגנון של &quot;הקלקה-כפולה&quot; (כמו ICQ)</translation>
     </message>
     <message>
         <source>Start minimized</source>
-        <translation>הפעלה במצב ממוזער</translation>
+        <translation>התחל ממוזער</translation>
     </message>
     <message>
         <source>Make roster window a &quot;tool window&quot;</source>
-        <translation>הפיכת חלון רשימה אל &quot;חלון  כלים&quot;</translation>
+        <translation>הפוך חלון רשימה אל &quot;חלון  כלים&quot;</translation>
     </message>
     <message>
         <source>Check for updates on startup</source>
-        <translation>בדיקה עבור עדכונים בעת הפעלה</translation>
+        <translation>בדוק עבור עדכונים בעת הפעלה</translation>
     </message>
     <message>
         <source>Quit when closing the roster window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Data transfer base port:</source>
@@ -8032,7 +8024,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>99999; </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>(1 TCP, 4 UDP)</source>
@@ -8048,7 +8040,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8071,18 +8063,18 @@ Tags: %1</source>
     </message>
     <message>
         <source>Video support:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>OptChat</name>
     <message>
         <source>OptChatUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enter key sends chat messages</source>
-        <translation>מקש Enter שולח הודעת  שיחה</translation>
+        <translation>מקש Enter שולח הודעת שיחה</translation>
     </message>
     <message>
         <source>Alert chat messages even if chat window is open</source>
@@ -8090,15 +8082,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Raise chat window on receiving new messages</source>
-        <translation>הגבהת חלון שיחה בעת קבלת הודעות חדשות</translation>
+        <translation>הגבהה חלון שיחה בעת קבלת הודעות חדשות</translation>
     </message>
     <message>
         <source>Open chats in compact mode</source>
-        <translation>פתיחת שיחות במצב צפוף</translation>
+        <translation>פתח שיחות במצב צפוף</translation>
     </message>
     <message>
         <source>Use tabbed mode:</source>
-        <translation>שימוש במצב לשונית:</translation>
+        <translation>השתמש במצב כרטיסיות:</translation>
     </message>
     <message>
         <source>for chats only</source>
@@ -8118,7 +8110,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>[customized]</source>
@@ -8126,11 +8118,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Auto-resize text input field</source>
-        <translation>שינוי מידה אוטומטי של שדה קלט תמליל</translation>
+        <translation>שנה מידת שדה קלט תמליל אוטומטית</translation>
     </message>
     <message>
         <source>Default action</source>
@@ -8146,7 +8138,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Delete chat window contents</source>
-        <translation>מחיקת תכני חלון שיחה</translation>
+        <translation>מחק תכני חלון שיחה</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
@@ -8166,46 +8158,46 @@ Tags: %1</source>
     </message>
     <message>
         <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation>אפשור קיצורי דרך לשונית Alt-[0-9]</translation>
+        <translation>אפשר קיצורי דרך כרטיסייה Alt-[0-9‪]</translation>
     </message>
 </context>
 <context>
     <name>OptEvents</name>
     <message>
         <source>OptEventsUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Auto-open new messages</source>
-        <translation>פתיחה אוטומטית של הודעות חדשות</translation>
+        <translation>פתח הודעות חדשות אוטומטית</translation>
     </message>
     <message>
         <source>Auto-open new headlines</source>
-        <translation>פתיחה אוטומטית של כותרות חדשות</translation>
+        <translation>פתח כותרות חדשות אוטומטית</translation>
     </message>
     <message>
         <source>Auto-open new files</source>
-        <translation>פתיחה אוטומטית של קבצים חדשים</translation>
+        <translation>פתח קבצים חדשים אוטומטית</translation>
     </message>
     <message>
         <source>Allow auto-open even when Away/XA</source>
-        <translation>התרת פתיחה אוטומטית אפילו בזמן של חוסר הימצאות</translation>
+        <translation>התר פתיחה אוטומטית של אירועים אפילו בזמן חוסר הימצאות</translation>
     </message>
     <message>
         <source>Allow auto-open even from unlisted users</source>
-        <translation>התרת פתיחה אוטומטית מן משתמשים שלא מנויים</translation>
+        <translation>התר פתיחה אוטומטית של אירועים אפילו מן משתמשים לא מנויים</translation>
     </message>
     <message>
         <source>Raise roster window on new event</source>
-        <translation>הגבהת חלון רשימה באירוע חדש</translation>
+        <translation>הגבהה חלון רשימה בעת אירוע חדש</translation>
     </message>
     <message>
         <source>Ignore events from contacts not already in your roster</source>
-        <translation>התעלמות מן אירועים מאת אישי קשר שלא מצויים כבר ברשימתך</translation>
+        <translation>התעלם מן אירועים מאת אישי קשר שלא מצויים כבר ברשימתך</translation>
     </message>
     <message>
         <source>Auto-authorize contacts</source>
-        <translation>אישור אוטומטי של אישי קשר</translation>
+        <translation>אשר אישי קשר אוטומטית</translation>
     </message>
     <message>
         <source>Notify when authorization was received</source>
@@ -8213,7 +8205,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Bounce dock:</source>
-        <translation>הקפצת רציף:</translation>
+        <translation>הקפץ רציף:</translation>
     </message>
     <message>
         <source>Never</source>
@@ -8233,22 +8225,22 @@ Tags: %1</source>
     </message>
     <message>
         <source>No animation</source>
-        <translation>לא להנפיש</translation>
+        <translation>אל תנפיש</translation>
     </message>
     <message>
         <source>Blink</source>
-        <translation>להבהב</translation>
+        <translation>הבהב</translation>
     </message>
     <message>
         <source>Animate</source>
-        <translation>להנפיש</translation>
+        <translation>הנפש</translation>
     </message>
 </context>
 <context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Plugin Name:</source>
@@ -8256,11 +8248,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Version: 0</source>
-        <translation type="unfinished"></translation>
+        <translation>גרסא: 0</translation>
     </message>
     <message>
         <source>Load this plugin</source>
-        <translation>טעינת תוספת זו</translation>
+        <translation>טען תוספת זו</translation>
     </message>
     <message>
         <source>Plugin Location:</source>
@@ -8275,110 +8267,110 @@ Tags: %1</source>
     <name>OptPopups</name>
     <message>
         <source>OptPopupsUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable popup notifications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Notifications type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">כללי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Popup notifications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>On incoming message event</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show incoming message on popup</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>On incoming headline event</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>On incoming file event</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>When a contact begins typing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>When a contact becomes available</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>When a contact becomes unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>When a contact changes status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable popup notifications for every muc message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Limitations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Maximum JID length:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Maximum text length:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Maximum status length:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Popup location</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show popups from top to bottom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Place popups at left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished">שונות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Avatar size:</source>
-        <translation type="unfinished">ממדי אווטאר:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Durations, sec.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>OptRoster</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Roster window always on top</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Auto-resize contact list</source>
@@ -8386,11 +8378,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show menubar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
@@ -8402,23 +8394,23 @@ Tags: %1</source>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable roster avatar frame</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Autohide roster after</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished">צלמיות</translation>
+        <translation>צלמיות</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
@@ -8458,11 +8450,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Now playing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clients</source>
@@ -8470,11 +8462,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>all client icons</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>only highest priority client icon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Avatar settings</source>
@@ -8497,7 +8489,7 @@ Tags: %1</source>
     <name>OptShortcuts</name>
     <message>
         <source>OptShortcutsUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Description</source>
@@ -8509,26 +8501,26 @@ Tags: %1</source>
     </message>
     <message>
         <source>Add...</source>
-        <translation>הוספה...</translation>
+        <translation>הוסף...</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>הסרה</translation>
+        <translation>הסר</translation>
     </message>
     <message>
         <source>Edit...</source>
-        <translation>עריכה...</translation>
+        <translation>ערוך...</translation>
     </message>
     <message>
         <source>Restore defaults</source>
-        <translation>שחזור ברירות מחדל</translation>
+        <translation>שחזר ברירות מחדל</translation>
     </message>
 </context>
 <context>
     <name>OptSound</name>
     <message>
         <source>OptSoundUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Player:</source>
@@ -8536,15 +8528,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Play sounds when away/XA</source>
-        <translation>ניגון צלילים אפילו בזמן של חוסר הימצאות</translation>
+        <translation>נגן צלילים אפילו בזמן של חוסר הימצאות</translation>
     </message>
     <message>
         <source>Play sounds for all messages in groupchat</source>
-        <translation>ניגון צלילים עבור כל ההודעות בשיחת קבוצה</translation>
+        <translation>נגן צלילים עבור כל ההודעות בשיחת קבוצה</translation>
     </message>
     <message>
         <source>Enter a filename or !beep for a system beep</source>
-        <translation type="unfinished"></translation>
+        <translation>הזן שם קובץ או ‎!beep עבור ביפ מערכת</translation>
     </message>
     <message>
         <source>Headline:</source>
@@ -8572,7 +8564,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>File transfer complete:</source>
-        <translation>סיום העברת קובץ:</translation>
+        <translation>העברת קובץ סוימה:</translation>
     </message>
     <message>
         <source>Receive next chat:</source>
@@ -8599,11 +8591,11 @@ Tags: %1</source>
     <name>OptStatusAuto</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Auto status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> minutes</source>
@@ -8694,23 +8686,23 @@ Tags: %1</source>
     </message>
     <message>
         <source>Status menus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show presets in menus:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>As submenu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>With standard statuses</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished">לא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hide Free for Chat, Away, Not Available and Do not Disturb</source>
@@ -8718,23 +8710,23 @@ Tags: %1</source>
     </message>
     <message>
         <source>Hide standard statuses (Chat, Away, XA, DND)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show &quot;Edit presets...&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show &quot;Choose...&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show &quot;Reconnect&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished">ערוכות מראש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add</source>
@@ -8750,7 +8742,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Selected preset</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name:</source>
@@ -8768,16 +8760,16 @@ Tags: %1</source>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>OptStatusPep</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Tunes</source>
@@ -8785,15 +8777,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add extensions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ignored media file extensions on psi tunes sending</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Tune Controllers</source>
@@ -8826,7 +8818,7 @@ p, li { white-space: pre-wrap; }
         <source>Please enter option name.
 
 Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</source>
-        <translation>נא להזין שם אפשרות.
+        <translation>אנא הזן שם אפשרות.
 
 אין אפשרות ששם אפשרות יהיה ריק, יסתיים בתו &apos;.&apos; או יכיל &apos;..&apos;.</translation>
     </message>
@@ -8843,27 +8835,27 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <name>Options</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Allow receiving one Attention from the same contact every</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Don&apos;t hide popup if status is Away or XA</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disable notifications if status is DND</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Play sound:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -8872,11 +8864,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts
 is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Update Birthdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
@@ -8888,11 +8880,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Start notifying</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>days in advance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Check birthdays every</source>
@@ -8900,19 +8892,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>hours</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Update birthdays every</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>days (0 - automatic update disabled)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remind for contacts from active accounts only</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Check birthdays on startup</source>
@@ -8924,15 +8916,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished">אפשרויות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Auto-popup Captcha dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Use proxy settings from account</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -8940,11 +8932,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Contact menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Toolbar action</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -8952,20 +8944,20 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Supported accounts:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>There is no supported accounts!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Account Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will send
  notifications of unread email.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mail notifications</source>
@@ -8976,46 +8968,46 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
  Google Talk chats on the server;
  if set to &quot;false&quot;, no conversations
  will be logged.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Message archiving</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will
  automatically add people emailed
  often to the user&apos;s roster.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Auto-accept suggestions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> Enable multiple applications signed in
  as the same user to report the same
  status message. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable Shared Statuses</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> Google Talk server disables server-side
  logging of individual conversations and
  sends notifications.
  Enable &quot;Message archiving&quot; option for use!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable Off the Record Chats</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mail Notifications Settings</source>
@@ -9023,15 +9015,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Show all unread messages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show new messages only</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start program:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9039,11 +9031,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">הוספה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">מחיקה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9051,23 +9043,23 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Per contact delay between the popup notifications of the same events</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delay between popups</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disable popups if status is DND</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable notifications for:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Tune</source>
@@ -9095,67 +9087,67 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Main</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Question:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Answer:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Congratulation:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>MUC</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable Stop Spam for private messages in MUC</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable Stop Spam for affiliations:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished">בעלים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Admin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Member</source>
-        <translation type="unfinished">חבר</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">ללא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable Stop Spam for roles:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="unfinished">אחראי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="unfinished">משתתף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="unfinished">מבקר</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Block all private messages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send message:</source>
@@ -9163,48 +9155,48 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished">שונות</translation>
+        <translation>שונות</translation>
     </message>
     <message>
         <source>Number of blocked stanzas:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>View Log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished">איפוס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send maximum</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>times</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Timeout to reset counter:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>min.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Log blocked messages to contact&apos;s history</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Del</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Disable stopspam, if don&apos;t match any rule above
+        <source>Disable stopspam, if don't match any rule above
 (does not work for muc private messages)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9212,31 +9204,31 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">מצב</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete selected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add row</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default sound: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Messages</source>
-        <translation type="unfinished">הודעות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">עריכה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disable sound if chat window is active</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9244,19 +9236,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Authorizing...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Authorizing OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Authorization failed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Canceled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose file</source>
@@ -9264,7 +9256,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Uploading</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Error! %1</source>
@@ -9272,63 +9264,63 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Cookies are removed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">הסרה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Key pair generating</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ASCII (*.asc)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished">כל הקבצים (*)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;b&gt;Please wait!&lt;/b&gt;&lt;br/&gt;We need to generate a lot of random bytes. It is a good idea to perform some other action (type on the keyboard, move the mouse, utilize the disks) during the prime generation; this gives the random number generator a better chance to gain enough entropy.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>from file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>from clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>to file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9358,19 +9350,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Request receipts from contacts on each message.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send receipts to contacts by request.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enables remote controlling your client from other locations</source>
-        <translation>אפשור שליטה מרחוק על הלקוח שלך ממקומות אחרים</translation>
+        <translation>מאפשרת שליטה מרחוק על הלקוח שלך ממקומות אחרים</translation>
     </message>
     <message>
         <source>Check this option if you want your spelling to be checked</source>
-        <translation>ניתן לסמן את אפשרות זו אם ברצונך שאיות ייבדק</translation>
+        <translation>סמן את אפשרות זו אם ברצונך שאיות ייבדק</translation>
     </message>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
@@ -9378,7 +9370,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
-        <translation>ניתן לסמן את אפשרות זו אם ברצונך שתמליל נבחר בהודעות נכנסות וביומני שיחות יועתק אוטומטית אל לוח גזירות</translation>
+        <translation>סמן את אפשרות זו אם ברצונך שתמליל נבחר בהודעות נכנסות וביומני שיחות יועתק אוטומטית אל לוח גזירות</translation>
     </message>
     <message>
         <source>Normally, a double-click on a contact will invoke the default action.  Check this option if you&apos;d rather invoke with a single-click.</source>
@@ -9386,11 +9378,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enables as-you-type JID autocompletion in message dialog.</source>
-        <translation>מאפשרת השלמת כתובת JID באופן אוטומטי בדו־שיח הודעה בזמן הקלדה.</translation>
+        <translation>מאפשרת השלמת כתובת JID באופן אוטומטי בדו שיח הודעה בזמן הקלדה.</translation>
     </message>
     <message>
         <source>Automatically attaches URLs from clipboard to the messages when enabled</source>
-        <translation>במידה ואפשרות זו מאופשרת, זו תספח כתובות URL מן לוח גזירה באופן אוטומטי אל ההודעות</translation>
+        <translation>מספחת כתובות URL מן לוח גזירה באופן אוטומטי אל ההודעות כאשר זו מאופשרת</translation>
     </message>
     <message>
         <source>&lt;P&gt;Specifies how to treat incoming events:&lt;/P&gt;&lt;P&gt;&lt;B&gt;Normal&lt;/B&gt; - messages come as messages, chats come as chats.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Messages&lt;/B&gt; - All messages/chats come as messages, no matter what their original form was.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Chats&lt;/B&gt; - All messages/chats come as chats, no matter what their original form was.&lt;/P&gt;</source>
@@ -9414,7 +9406,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi scroll the main window automatically so you can see new incoming events.</source>
-        <translation>במידה ואפשרות זו מסומנת, Psi יגולל את החלון הראשי אוטומטית כך שתהיה לך היכולת לראות אירועים נכנסים חדשים</translation>
+        <translation>במידה ואפשרות זו מסומנת, Psi יגולל את החלון הראשי אוטומטית כך שתהיה לך היכולת לראות אירועים נכנסים חדשים.</translation>
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
@@ -9444,31 +9436,31 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Specifies the font style for the main window.</source>
-        <translation>ציון סגנון הגופנים עבור החלון הראשי.</translation>
+        <translation>ציון הסגנון של גופנים עבור החלון הראשי.</translation>
     </message>
     <message>
         <source>Specifies the font style for message windows.</source>
-        <translation>ציון סגנון הגופנים עבור חלונות הודעה.</translation>
+        <translation>ציון הסגנון של גופנים עבור חלונות הודעה.</translation>
     </message>
     <message>
         <source>Specifies the font style for chat windows.</source>
-        <translation>ציון סגנון הגופנים עבור חלונות שיחה.</translation>
+        <translation>ציון הסגנון של גופנים עבור חלונות שיחה.</translation>
     </message>
     <message>
         <source>Specifies the font style for popup windows.</source>
-        <translation>ציון סגנון הגופנים עבור חלונות מוקפצים.</translation>
+        <translation>ציון הסגנון של גופנים עבור חלונות מוקפצים.</translation>
     </message>
     <message>
         <source>Selects a font for the roster window using the font selection dialog.</source>
-        <translation>בחירת גופן עבור חלון הרשימה באמצעות דו־שיח בחירת גופן.</translation>
+        <translation>בחירת גופן עבור חלון הרשימה באמצעות דו שיח בחירת גופן.</translation>
     </message>
     <message>
         <source>Selects a font for message windows using the font selection dialog.</source>
-        <translation>בחירת גופן עבור חלון הודעה באמצעות דו־שיח בחירת גופן.</translation>
+        <translation>בחירת גופן עבור חלון הודעה באמצעות דו שיח בחירת גופן.</translation>
     </message>
     <message>
         <source>Selects a font for chat windows using the font selection dialog.</source>
-        <translation>בחירת גופן עבור חלון שיחה באמצעות דו־שיח בחירת גופן.</translation>
+        <translation>בחירת גופן עבור חלון שיחה באמצעות דו שיח בחירת גופן.</translation>
     </message>
     <message>
         <source>Specifies the text color for a contact name in the main window when that user is &quot;%1&quot;.</source>
@@ -9529,7 +9521,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Set or remove window decorations for roster and chats. For chats there are special header with close, hide and maximize buttons</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Makes Psi use a docklet icon, also known as system tray icon.</source>
@@ -9541,7 +9533,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Starts Psi with only the docklet icon visible.</source>
-        <translation>הפעלת Psi רק עם צלמית הרציפון נראית.</translation>
+        <translation>התחלת Psi רק עם צלמית הרציפון נראית.</translation>
     </message>
     <message>
         <source>Prevents Psi from taking up a slot on the taskbar and makes the main window use a small titlebar.</source>
@@ -9553,11 +9545,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Some of the options you changed will only have full effect upon restart.</source>
-        <translation type="unfinished">כמה מן האפשרויות ששינית ייכנסו לתוקף מלא רק לאחר אתחול.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>(TCP: Disabled, UDP: Auto)</source>
@@ -9565,7 +9557,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>(TCP: %1, UDP: %1-%2)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9591,7 +9583,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Configure the chat dialog</source>
-        <translation>הגדרת דו־שיח של שיחה</translation>
+        <translation>הגדר דו שיח של שיחה</translation>
     </message>
     <message>
         <source>Make the default action open a normal message window.</source>
@@ -9619,7 +9611,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi open chats in a tabbed window.</source>
-        <translation>במידה ואפשרות זו מסומנת, Psi יפתח שיחות בחלון בעל לשוניות.</translation>
+        <translation>במידה ואפשרות זו מסומנת, Psi יפתח שיחות בחלון בעל כרטיסיות.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
@@ -9650,7 +9642,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>The events behaviour</source>
-        <translation>התנהגות אירועים</translation>
+        <translation>התנהגות האירועים</translation>
     </message>
     <message>
         <source>Makes new incoming message windows pop up automatically when received.</source>
@@ -9666,11 +9658,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Normally, Psi will not autopopup events when you are away.  Set this option if you want them to popup anyway.</source>
-        <translation>באופן רגיל, Psi לא יקפיץ אוטומטית אירועים כאשר הינך נעדר/ת.  ניתן להגדיר את אפשרתו זו אם ברצונך שאלו יוקפצו בכל מקרה.</translation>
+        <translation>באופן רגיל, Psi לא יקפיץ אוטומטית אירועים כאשר הינך נעדר.  ניתן לקבוע את אפשרתו זו אם ברצונך שאלו יוקפצו בכל מקרה.</translation>
     </message>
     <message>
         <source>Normally, Psi will not autopopup events from users not in your roster.  Set this option if you want them to popup anyway.</source>
-        <translation>באופן רגיל, Psi לא יקפיץ אוטומטית אירועים מן אישי קשר שאינם ברשימתך.  ניתן להגדיר את אפשרתו זו אם ברצונך שאלו יוקפצו בכל מקרה.</translation>
+        <translation>באופן רגיל, Psi לא יקפיץ אוטומטית אירועים מן אישי קשר שאינם ברשימתך.  ניתן לקבוע את אפשרתו זו אם ברצונך שאלו יוקפצו בכל מקרה.</translation>
     </message>
     <message>
         <source>Makes new incoming events bring the main window to the foreground.</source>
@@ -9701,7 +9693,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Configure the groupchat</source>
-        <translation>הגדרת קבוצת השיחה</translation>
+        <translation>הגדר שיחת קבוצה</translation>
     </message>
 </context>
 <context>
@@ -9752,7 +9744,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Select your emoticon iconsets</source>
-        <translation>בחירת מערך צלמיות הרגשונים שלך</translation>
+        <translation>בחר את מערך צלמיות הרגשונים שלך</translation>
     </message>
     <message>
         <source>&lt;P&gt;Emoticons are short sequences of characters that are used to convey an emotion or idea.&lt;/P&gt;&lt;P&gt;Enable this option if you want Psi to replace common emoticons with a graphical image.&lt;/P&gt;&lt;P&gt;For example, &lt;B&gt;:-)&lt;/B&gt; would be replaced by &lt;icon name=&quot;psi/smile&quot;&gt;&lt;/P&gt;</source>
@@ -9778,7 +9770,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Select iconsets for your roster</source>
-        <translation>בחירת מערך צלמיות עבור רשימתך</translation>
+        <translation>בחר מערך צלמיות עבור רשימתך</translation>
     </message>
     <message>
         <source>Transport</source>
@@ -9786,7 +9778,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>vk.com</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Weather</source>
@@ -9794,7 +9786,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Toggles use of transport icons to the contacts, that use that transports.</source>
-        <translation>שימוש בצלמיות של מוביל לאישי הקשר, שעושים שימוש במובילים נתונים.</translation>
+        <translation>משתמשת בצלמיות של מוביל לאישי הקשר, שעושים שימוש במובילים נתונים.</translation>
     </message>
 </context>
 <context>
@@ -9805,7 +9797,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Select the system iconset</source>
-        <translation>בחירת סט צלמיות המערכת</translation>
+        <translation>בחר את מערך צלמיות המערכת</translation>
     </message>
 </context>
 <context>
@@ -9824,18 +9816,18 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Version: </source>
-        <translation>גירסה: </translation>
+        <translation>גרסא: </translation>
     </message>
 </context>
 <context>
     <name>OptionsTabPopups</name>
     <message>
         <source>Popups</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The popups behaviour</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9858,11 +9850,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9885,11 +9877,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Restore default shortcuts</source>
-        <translation>שחזור קיצורי דרך משתמטים</translation>
+        <translation>שחזר קיצורי דרך משתמטים</translation>
     </message>
     <message>
         <source>Are you sure you would like to restore the default shortcuts?</source>
-        <translation>האם אכן ברצונך לשחזר את קיצורי הדרך המשתמטים?</translation>
+        <translation>האם אתה בטוח שברצונך לשחזר את קיצורי הדרך המשתמטים?</translation>
     </message>
 </context>
 <context>
@@ -9993,11 +9985,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Press this button to create a new status message preset.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Press this button to delete a status message preset.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You may edit the message here for the currently selected status message preset in the list to the above.</source>
@@ -10005,11 +9997,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Use this to choose the status that will be assigned to this preset</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fill in the priority that will be assigned to this preset. If no priority is given, the default account priority will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
@@ -10032,11 +10024,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabStatusPep</name>
     <message>
         <source>PEP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Tunes no-video filter and controllers switcher</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10062,7 +10054,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Please note: This editor will change the options directly. Pressing Cancel will not revert these changes.</source>
-        <translation>לצומת לבך: עורך זה ישנה אפשרויות באופן ישיר. לחיצה על ביטול לא תחזיר את שינויים אלו.</translation>
+        <translation>לצומת לבך: עורך זה ישנה את האפשרויות באופן ישיר. לחיצה על ביטול לא תחזיר את שינויים אלו.</translation>
     </message>
 </context>
 <context>
@@ -10111,11 +10103,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Deny iq time request</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Template</source>
@@ -10123,7 +10115,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>OS name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Client</source>
@@ -10147,7 +10139,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable for:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contacts</source>
@@ -10159,31 +10151,31 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Show popup at version iq</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>never</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>if iq replaced</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>always</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save queryes to log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Logs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>View log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -10191,71 +10183,71 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Shortcut:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Modify hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default action</source>
-        <translation type="unfinished">פעולה משתמטת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Capture the desktop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Capture active window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select capture area</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Servers:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>*to specify the order of servers, use the drag-n-drop </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add new server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">הוספה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete current server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">מחיקה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Edit current server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">עריכה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -10263,11 +10255,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enable for players:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Detect full screen applications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set status:</source>
@@ -10279,15 +10271,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Restore old status if player stops</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delay before setting status, sec</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delay before restoring status, sec</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -10295,19 +10287,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Response mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>allow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>not implemented</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ignore</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10325,11 +10317,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Key ID</source>
-        <translation>ID מפתח</translation>
+        <translation>מזהה מפתח</translation>
     </message>
     <message>
         <source>User ID</source>
-        <translation>זהות משתמש</translation>
+        <translation>מזהה משתמש</translation>
     </message>
     <message>
         <source>Error</source>
@@ -10337,7 +10329,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Please select a key.</source>
-        <translation>נא לברור מפתח.</translation>
+        <translation>אנא בחר מפתח.</translation>
     </message>
     <message>
         <source>Key Storage Diagnostic Text</source>
@@ -10369,7 +10361,7 @@ Reason: %1.</source>
     <name>PassDialog</name>
     <message>
         <source>Wrong Account Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save Password</source>
@@ -10398,7 +10390,7 @@ Reason: %1.</source>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
         <translation>מימרת־סיסמתך נדרשת כדי לעשות שימוש באבטחת OpenPGP.
-נא להזין את מימרת־סיסמתך מטה:</translation>
+אנא הזן את מימרת־סיסמתך מטה:</translation>
     </message>
     <message>
         <source>Remember passphrase</source>
@@ -10428,11 +10420,11 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Mood changed to &quot;%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Activity changed to &quot;%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -10452,30 +10444,30 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>PixmapWidget</name>
     <message>
         <source>Input radius</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Radius</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">העתקה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Blur</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10486,81 +10478,81 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">סגירה</translation>
+        <translation>סגור</translation>
     </message>
 </context>
 <context>
     <name>PluginManager</name>
     <message>
         <source>This plugin has no user configurable options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>PluginWindow</name>
     <message>
         <source>Gomoku Game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Opponent:</source>
-        <translation type="unfinished">יריב:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">מצב:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Game</source>
-        <translation type="unfinished">משחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Skin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">קובץ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Load game</source>
-        <translation type="unfinished">טעינת משחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save game</source>
-        <translation type="unfinished">שמירת משחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">יציאה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Resign</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Switch color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Yellow wood</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Waiting for opponent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Waiting for accept</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Your turn</source>
@@ -10568,7 +10560,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>End of game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Error</source>
@@ -10576,33 +10568,33 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Win!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Lose.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Draw.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Opp</source>
         <comment>Opponent</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1: %2 - swch</source>
         <comment>Switch color</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Gomoku Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Game Error!</source>
@@ -10611,54 +10603,54 @@ Please enter your passphrase below:</source>
     <message>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You want to switch color?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You Lose.</source>
-        <translation type="unfinished">הפסדת.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You Win!</source>
-        <translation type="unfinished">ניצחת!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You really want to begin new game?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You really want to begin loaded game?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>@username</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>#post_id</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>* tag</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&gt; quote</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>message</source>
-        <translation type="unfinished">הודעה</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10681,19 +10673,19 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Version: </source>
-        <translation>גירסה: </translation>
+        <translation>גרסא: </translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished">החלה</translation>
+        <translation>החל</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">סגירה</translation>
+        <translation>סגור</translation>
     </message>
     <message>
         <source>Skin is not valid!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10724,15 +10716,15 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Rename List</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete List</source>
-        <translation>מחיקת רשימה</translation>
+        <translation>מחק רשימה</translation>
     </message>
     <message>
         <source>Automatically activate this list on connect</source>
-        <translation>שפעול אוטומטי של רשימה זו בעת התחברות</translation>
+        <translation>שפעול רשימה זו אוטומטית בעת התחברות</translation>
     </message>
     <message>
         <source>Rules</source>
@@ -10756,11 +10748,11 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Edit ...</source>
-        <translation>עריכה ...</translation>
+        <translation>ערוך ...</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>החלה</translation>
+        <translation>החל</translation>
     </message>
 </context>
 <context>
@@ -10779,7 +10771,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Enter the name of the new list:</source>
-        <translation>הזנת השם החדש של הרשימה:</translation>
+        <translation>הזן את השם של הרשימה החדשה:</translation>
     </message>
     <message>
         <source>Error</source>
@@ -10791,11 +10783,11 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Rename List</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Input new name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10841,15 +10833,15 @@ Please enter your passphrase below:</source>
     <name>PrivacyRuleDlg</name>
     <message>
         <source>Deny</source>
-        <translation>לאסור</translation>
+        <translation>אסור</translation>
     </message>
     <message>
         <source>Allow</source>
-        <translation>להתיר</translation>
+        <translation>התר</translation>
     </message>
     <message>
         <source>JID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Group</source>
@@ -10861,7 +10853,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>*</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>None</source>
@@ -10892,11 +10884,11 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished">psi/addContact</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation>&amp;שינוי שם</translation>
+        <translation>&amp;שנה שם</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
@@ -10904,28 +10896,28 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>psi/remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>ProfileManageDlg</name>
     <message>
         <source>Rename Profile</source>
-        <translation>שינוי שם דיוקן</translation>
+        <translation>שנה שם דיוקן</translation>
     </message>
     <message>
         <source>Please enter a new name for the profile.  Keep it simple.
 Only use letters or numbers.  No punctuation or spaces.</source>
-        <translation>נא להזין שם חדש עבור הדיוקן.  נא להשאירו פשוט.
-שימוש באותיות או במספרים בלבד.  בלי פיסוק או רווחים.</translation>
+        <translation>אנא הזן שם חדש עבור הדיוקן.  השאר אותו פשוט.
+השתמש באותיות או במספרים בלבד.  בלי פיסוק או רווחים.</translation>
     </message>
     <message>
         <source>There is already another profile with this name.  Please choose another.</source>
-        <translation>כבר קיים דיוקן אחר עם שם זה.  נא לבחור אחר.</translation>
+        <translation>כבר קיים דיוקן אחר עם שם זה.  אנא בחר אחר.</translation>
     </message>
     <message>
         <source>Unable to rename the profile.  Please do not use any special characters.</source>
-        <translation>לא ניתן לשנות שם דיוקן.  נא לא לעשות שימוש בתווים מיוחדים.</translation>
+        <translation>לא ניתן לשנות את שם הדיוקן.  אנא אל תשתמש בתווים מיוחדים.</translation>
     </message>
     <message>
         <source>Delete Profile</source>
@@ -10933,7 +10925,7 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     </message>
     <message>
         <source>&lt;qt&gt;Are you sure you want to delete the &quot;&lt;b&gt;%1&lt;/b&gt;&quot; profile?  This will delete all of the profile&apos;s message history as well as associated settings!&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;האם אכן ברצונך למחוק את הדיוקן &quot;&lt;b&gt;%1&lt;/b&gt;&quot;?  פעולה זו תמחק את כל הודעת ההיסטוריה של הדיוקן וכמו כן גם הגדרות שקשורות אליו!&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;האם אתה בטוח שברצונך למחוק את הדיוקן &quot;&lt;b&gt;%1&lt;/b&gt;&quot;?  פעולה זו תמחק את כל הודעת ההיסטוריה של הדיוקן וכמו כן גם הגדרות שקשורות אליו!&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>No, I changed my mind</source>
@@ -10947,7 +10939,7 @@ Only use letters or numbers.  No punctuation or spaces.</source>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
-        <translation>&lt;qt&gt;כאמצעי זהירות, הינך נשאל/ת פעם אחת אחרונה אם זו אכן מה שברצונך לעשות.  התיקייה הבאה תימחק!&lt;br&gt;&lt;br&gt;
+        <translation>&lt;qt&gt;כאמצעי זהירות, הינך נשאל פעם אחת אחרונה אם זו אכן מה שברצונך לעשות.  התיקייה הבאה תימחק!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 להמשיך?</translation>
     </message>
@@ -11000,23 +10992,23 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Enable Emoticons</source>
-        <translation>אפשור רגשונים</translation>
+        <translation>אפשר רגשונים</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגירה</translation>
+        <translation>&amp;סגור</translation>
     </message>
     <message>
         <source>&amp;Create</source>
-        <translation>&amp;יצירה</translation>
+        <translation>י&amp;צירה</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished">psi/addContact</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11027,11 +11019,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>There is already an existing profile with this name.  Please choose another.</source>
-        <translation>כבר יש דיוקן קיים עם שם זה.  נא לברור אחר.</translation>
+        <translation>כבר יש דיוקן קיים עם שם זה.  אנא בחר אחר.</translation>
     </message>
     <message>
         <source>Unable to create the profile.  Please do not use any special characters.</source>
-        <translation>לא ניתן ליצור דיוקן.  נא לא לעשות שימוש בתווים מיוחדים.</translation>
+        <translation>לא ניתן ליצור את הדיוקן.  אנא אל תשתמש בתווים מיוחדים.</translation>
     </message>
 </context>
 <context>
@@ -11058,7 +11050,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>&amp;Automatically open on startup</source>
-        <translation>פתיחה &amp;אוטומטית בעת הפעלה</translation>
+        <translation>פתח &amp;אוטומטית בעת הפעלה</translation>
     </message>
     <message>
         <source>Language:</source>
@@ -11070,7 +11062,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>psi/quit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Profiles...</source>
@@ -11078,7 +11070,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>psi/profile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Open</source>
@@ -11086,14 +11078,14 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>psi/logo_16</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>ProfileOpenDlg</name>
     <message>
         <source>Select a profile to open from this list.</source>
-        <translation>בחירת דיוקן לפתיחה מן רשימה זו.</translation>
+        <translation>בחר דיוקן לפתיחה מן רשימה זו.</translation>
     </message>
     <message>
         <source>Select a language you would like Psi to use from this list.  You can download extra language packs from the Psi homepage.</source>
@@ -11101,7 +11093,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Automatically open this profile when Psi is started.  Useful if you only have one profile.</source>
-        <translation>פתיחה אוטומטית של דיוקן זה כאשר Psi הינו מופעל.  שימושי אם ברשותך רק דיוקן אחד.</translation>
+        <translation>פתח את דיוקן זה אוטומטית כאשר Psi הינו מופעל.  שימושי אם ברשותך רק דיוקן אחד.</translation>
     </message>
 </context>
 <context>
@@ -11116,7 +11108,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished">psi/addContact</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rem&amp;ove</source>
@@ -11124,7 +11116,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>psi/remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Type:</source>
@@ -11140,11 +11132,11 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Polling URL:</source>
-        <translation>כתובת לקבלה (Polling):</translation>
+        <translation>:Polling URL</translation>
     </message>
     <message>
         <source>Use authentication</source>
-        <translation>שימוש באימות</translation>
+        <translation>השתמש באימות</translation>
     </message>
     <message>
         <source>Username:</source>
@@ -11159,7 +11151,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>ProxyChooser</name>
     <message>
         <source>Edit...</source>
-        <translation>עריכה...</translation>
+        <translation>ערוך...</translation>
     </message>
     <message>
         <source>None</source>
@@ -11170,61 +11162,61 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>ProxyDlg</name>
     <message>
         <source>Enter the hostname and port of your proxy server.</source>
-        <translation>הזנת שם מארח ופורט של שרת הפרוקסי שלך.</translation>
+        <translation>הזן את שם המארח ופורט של שרת הפרוקסי שלך.</translation>
     </message>
     <message>
         <source>Consult your network administrator if necessary.</source>
-        <translation>באם קיים הצורך, נא להוועץ עם מנהל רשת העבודה שלך.</translation>
+        <translation>הוועץ עם מנהל רשת העבודה שלך, באם קיים הצורך.</translation>
     </message>
     <message>
         <source>Enter your proxy server login (username) or leave this field blank if the proxy server does not require it.</source>
-        <translation>הזנת שם התחברות שרת פרוקסי (שם משתמש) או הנחת שדה זה ריק במידה ושרת הפרוקסי לא מצריכו.</translation>
+        <translation>הזן שם התחברות שרת פרוקסי (שם משתמש) או הנח את שדה זה ריק במידה ושרת הפרוקסי לא מצריכו.</translation>
     </message>
     <message>
         <source>Enter your proxy server password or leave this field blank if the proxy server does not require it.</source>
-        <translation>הזנת סיסמת שרת פרוקסי או הנחת שדה זה ריק במידה ושרת הפרוקסי לא מצריכה.</translation>
+        <translation>הזן סיסמת שרת פרוקסי או הנח את שדה זה ריק במידה ושרת הפרוקסי לא מצריכה.</translation>
     </message>
     <message>
         <source>If you require a proxy server to connect, select the type of proxy here.</source>
-        <translation>אם קיים צורך בשרת פרוקסי כדי להתחבר, ניתן לבחור כאן טיפוס פרוקסי.</translation>
+        <translation>אם קיים צורך בשרת פרוקסי כדי להתחבר, ניתן לבחור טיפוס פרוקסי כאן.</translation>
     </message>
 </context>
 <context>
     <name>ProxyDlg::Private</name>
     <message>
         <source>Unnamed</source>
-        <translation>אין שם</translation>
+        <translation>חסר שם</translation>
     </message>
 </context>
 <context>
     <name>ProxySettingsDlg</name>
     <message>
         <source>Proxy Server Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished">טיפוס:</translation>
+        <translation>טיפוס:</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="unfinished">מארח:</translation>
+        <translation>מארח:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="unfinished">פורט:</translation>
+        <translation>פורט:</translation>
     </message>
     <message>
         <source>99999; </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User:</source>
-        <translation type="unfinished"></translation>
+        <translation>משתמש:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">סיסמה:</translation>
+        <translation>סיסמה:</translation>
     </message>
 </context>
 <context>
@@ -11239,7 +11231,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Disable Account</source>
-        <translation>נטרול חשבון</translation>
+        <translation>נטרל חשבון</translation>
     </message>
     <message>
         <source>The account is currently active.
@@ -11249,7 +11241,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Reconnecting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Encryption Error</source>
@@ -11333,7 +11325,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Error during proxy negotiation</source>
-        <translation>שגיאה במהלך משא ומתן פרוקסי</translation>
+        <translation>שגיאה במהלך הסדרת פרוקסי</translation>
     </message>
     <message>
         <source>Proxy authentication failed</source>
@@ -11361,11 +11353,11 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>See other host: %1</source>
-        <translation>נא לנסות את מארח זה במקום: %1</translation>
+        <translation>נסה את מארח זה במקום: %1</translation>
     </message>
     <message>
         <source>Server does not support proper XMPP version</source>
-        <translation>שרת לא תומך בגירסת XMPP מתאימה</translation>
+        <translation>שרת לא תומך בגרסת XMPP מתאימה</translation>
     </message>
     <message>
         <source>Stream Negotiation Error: %1</source>
@@ -11389,7 +11381,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>No appropriate mechanism available for given security settings (e.g. SASL library too weak, or plaintext authentication not enabled)</source>
-        <translation>אין מנגנון הולם זמין עבור הגדרות האבטחה הנתונות (למשל ספריית SASL רפויה מידי, או שאימות גלוי מאופשר)</translation>
+        <translation>אין מנגנון הולם זמין עבור הגדרות האבטחה הנתונות (למשל ספריית SASL רפויה מדי, או שאימות גלוי לא אופשר)</translation>
     </message>
     <message>
         <source>Bad server response</source>
@@ -11421,7 +11413,7 @@ Do you want to log out ?</source>
     </message>
     <message>
         <source>Wrong Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Temporary auth failure</source>
@@ -11451,48 +11443,49 @@ Details: %1</source>
     </message>
     <message>
         <source>Do you want to accept %1 (%2 kb) from %3?</source>
-        <translation>האם ברצונך לקבל %1 (%2 kb) מן %3?</translation>
+        <translation>האם ברצונך לקבל %1 (%2 ק״ב) מן %3?</translation>
     </message>
     <message>
         <source>Logged out</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You must be connected to the server in order to do this.</source>
-        <translation>עליך להיות מחובר/ת כדי לעשות זאת.</translation>
+        <translation>עליך להיות מחובר על מנת לעשות זאת.</translation>
     </message>
     <message>
         <source>Unregister from %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation>האם הינך בטוח?</translation>
+        <translation>האם אתה בטוח?</translation>
     </message>
     <message>
         <source>Name:	</source>
-        <translation type="unfinished"></translation>
+        <translation>שם: </translation>
     </message>
     <message>
         <source>Version:	</source>
-        <translation type="unfinished"></translation>
+        <translation>גרסא:</translation>
     </message>
     <message>
         <source>Os:	</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Version Query Information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Headline</source>
-        <translation type="unfinished">כותרת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>ארעה שגיאה בניסיון לחתום את מצבך.
+סיבה: %1.</translation>
     </message>
     <message>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
@@ -11504,15 +11497,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Psi לא יכול היה לאתר מפתח OpenPGP לשימוש עבור &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;זה יכול לקרות אם אין ברשותך את המפתח שאיש הקשר מפרסם באמצעות נוכחות חתומה, או אם איש הקשר אינו מפרסם איזשהו מפתח כלל.&lt;/p&gt;</translation>
+        <translation>&lt;p dir=&quot;rtl&quot;&gt;Psi לא יכול היה לאתר מפתח OpenPGP לשימוש עבור &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;זה יכול לקרות אם אין ברשותך את המפתח שאיש הקשר מפרסם באמצעות נוכחות חתומה, או אם איש הקשר אינו מפרסם איזשהו מפתח כלל.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation>&amp;בחירת מפתח באופן ידני</translation>
+        <translation>&amp;בחר מפתח באופן ידני</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation>לא לעשות &amp;דבר</translation>
+        <translation>&amp;אל תעשה דבר</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -11524,11 +11517,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation>חשבון זה הוגדר לעשות שימוש בתכונה &quot;בדיקת הנחלת SSL port&quot;, אך תכונה זו איננה נתמכת עוד. אלא אם כן שרת XMPP נתון הינו מיושן ביותר, שינוי זה לא צריך להשפיע עליך. אם יש לך צרה בהתחברות, נא לבחון את נכונות הגדרות חשבונך או לחילופין ניתן ליצור קשר עם מנהלן שרת XMPP זה.</translation>
+        <translation>חשבון זה הוגדר לעשות שימוש בתכונה &quot;בדיקת פורט הנחלת SSL&quot;, אך תכונה זו איננה נתמכת עוד. אלא אם כן שרת XMPP נתון הינו מיושן ביותר, שינוי זה לא צריך להשפיע עליך. אם יש לך צרה בהתחברות, אנא בחן את נכונות הגדרות חשבונך או צור קשר עם מנהלן שרת XMPP זה.</translation>
     </message>
     <message>
         <source>Whiteboard invitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11539,15 +11532,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>View Groups</source>
-        <translation>הצגת קבוצות</translation>
+        <translation>הצג קבוצות</translation>
     </message>
     <message>
         <source>Toggle visibility of special roster groups</source>
-        <translation>החלפת ראות של קבוצות רשימה מיוחדות</translation>
+        <translation>החלף ראות של קבוצות רשימה מיוחדות</translation>
     </message>
     <message>
         <source>Show Roster Groups</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable/disable groups in roster</source>
@@ -11555,7 +11548,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation>הצגת אישי קשר לא מקוונים</translation>
+        <translation>הצג אישי קשר לא מקוונים</translation>
     </message>
     <message>
         <source>Toggles visibility of offline contacts in roster</source>
@@ -11563,7 +11556,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
-        <translation>הצגת אישי קשר חבויים</translation>
+        <translation>הצג אישי קשר חבויים</translation>
     </message>
     <message>
         <source>Toggles visibility of hidden contacts in roster</source>
@@ -11571,7 +11564,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show Agents/Transports</source>
-        <translation>הצגת סוכנים/מובילים</translation>
+        <translation>הצג סוכנים/מובילים</translation>
     </message>
     <message>
         <source>Toggles visibility of agents/transports in roster</source>
@@ -11579,7 +11572,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show Self Contact</source>
-        <translation>הצגת איש קשר עצמי</translation>
+        <translation>הצג איש קשר עצמי</translation>
     </message>
     <message>
         <source>Toggles visibility of self contact in roster</source>
@@ -11587,7 +11580,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show Status Messages</source>
-        <translation>הצגת הודעות מצב</translation>
+        <translation>הצג הודעות מצב</translation>
     </message>
     <message>
         <source>Toggles visibility of status messages of contacts</source>
@@ -11595,15 +11588,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show Contacts</source>
-        <translation>הצגת אישי קשר</translation>
+        <translation>הצג אישי קשר</translation>
     </message>
     <message>
         <source>&amp;Psi</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The main Psi button, that provides access to many actions</source>
-        <translation>לחצן Psi הראשי, שמספק גישה אל פעולות רבות</translation>
+        <translation>לחצן Psi העיקרי, שמספק גישה אל פעולות רבות</translation>
     </message>
     <message>
         <source>&amp;Status</source>
@@ -11611,7 +11604,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Provides a convenient way to change and to get information about current status</source>
-        <translation>מספקת דרך נוחה לשנות ולהשיג מידע אודות מצב עכשווי</translation>
+        <translation>מספק דרך נוחה לשנות ולהשיג מידע אודות מצב עכשווי</translation>
     </message>
     <message>
         <source>Special item that displays number of pending events</source>
@@ -11619,11 +11612,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Active contacts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Simple way to find contacts with opened chats</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Buttons</source>
@@ -11631,7 +11624,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;Add a Contact</source>
-        <translation>&amp;הוספת איש קשר</translation>
+        <translation>&amp;הוסף איש קשר</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
@@ -11639,7 +11632,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
-        <translation>מציאת שירות</translation>
+        <translation>מציאת &amp;שירות</translation>
     </message>
     <message>
         <source>New Blank Message</source>
@@ -11651,7 +11644,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Join Groupchat</source>
-        <translation>הצטרפות אל שיחת קבוצה</translation>
+        <translation>הצטרף אל שיחת קבוצה</translation>
     </message>
     <message>
         <source>Join &amp;Groupchat</source>
@@ -11659,11 +11652,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation>הגדרת חשבון</translation>
+        <translation>הבניית חשבון</translation>
     </message>
     <message>
         <source>Acc&amp;ount Setup</source>
-        <translation>הגדרת &amp;חשבון</translation>
+        <translation>הבניית &amp;חשבון</translation>
     </message>
     <message>
         <source>Options</source>
@@ -11679,7 +11672,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Configure Tool&amp;bars</source>
-        <translation>תצורת סרגלי &amp;כלים</translation>
+        <translation>הגדר סרגלי &amp;כלים</translation>
     </message>
     <message>
         <source>Change Profile</source>
@@ -11687,7 +11680,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;Change Profile</source>
-        <translation>&amp;שינוי דיוקן</translation>
+        <translation>&amp;שנה דיוקן</translation>
     </message>
     <message>
         <source>Play Sounds</source>
@@ -11695,7 +11688,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Play &amp;Sounds</source>
-        <translation>ניגון &amp;צלילים</translation>
+        <translation>נגן &amp;צלילים</translation>
     </message>
     <message>
         <source>Toggles whether sound should be played or not</source>
@@ -11723,7 +11716,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>See many useful tips</source>
-        <translation>הצגת עצות שימושיות רבות</translation>
+        <translation>ראה עצות שימושיות רבות</translation>
     </message>
     <message>
         <source>Transfer Manager</source>
@@ -11731,11 +11724,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Trans&amp;fer Manager</source>
-        <translation>ניהול ה&amp;עברות</translation>
+        <translation>מנהל ה&amp;עברות</translation>
     </message>
     <message>
         <source>Opens the transfer manager dialog</source>
-        <translation>פתיחת דו־שיח מנהל העברות</translation>
+        <translation>פתיחת דו שיח מנהל העברות</translation>
     </message>
     <message>
         <source>Menu Items</source>
@@ -11747,7 +11740,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Publish &amp;Tune</source>
-        <translation>פרסום &amp;לחן</translation>
+        <translation>פרסם &amp;לחן</translation>
     </message>
     <message>
         <source>Toggles whether the currently playing tune should be published or not</source>
@@ -11763,7 +11756,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Set Activity</source>
-        <translation type="unfinished">הגדרת פעילות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set Activity for all active accounts</source>
@@ -11783,7 +11776,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Set Status</source>
-        <translation>הגדרת מצב</translation>
+        <translation>קבע מצב</translation>
     </message>
     <message>
         <source>Smaller alternative to the Status button</source>
@@ -11791,7 +11784,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Changes your global status to &apos;%1&apos;</source>
-        <translation>שינוי מצבך הגלובלי אל &apos;%1&apos;</translation>
+        <translation>משנה את מצבך הגלובלי אל &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Online</source>
@@ -11823,15 +11816,15 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Show dialog to set your status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reconnect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reconnect all active accounts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invisible</source>
@@ -11851,11 +11844,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;ReadMe</source>
-        <translation>&amp;מידע</translation>
+        <translation>&amp;מידע ReadMe</translation>
     </message>
     <message>
         <source>Show ReadMe file</source>
-        <translation>הצגת קובץ ReadMe</translation>
+        <translation>הצג קובץ ReadMe</translation>
     </message>
     <message>
         <source>User Guide (Online)</source>
@@ -11863,7 +11856,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;User Guide (Online)</source>
-        <translation>&amp;מדריך משתמש (מקוון)</translation>
+        <translation>מ&amp;דריך משתמש (מקוון)</translation>
     </message>
     <message>
         <source>Wiki (Online)</source>
@@ -11879,7 +11872,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>&amp;Home Page (Online)</source>
-        <translation>&amp;דף בית (מקוון)</translation>
+        <translation>דף &amp;בית (מקוון)</translation>
     </message>
     <message>
         <source>Psi+ Forum (Online)</source>
@@ -11899,11 +11892,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Report a Bug (Online)</source>
-        <translation>דיווח על תקלה (מקוון)</translation>
+        <translation>דווח על תקלה (מקוון)</translation>
     </message>
     <message>
         <source>Report a &amp;Bug (Online)</source>
-        <translation>דיווח על &amp;תקלה (מקוון)</translation>
+        <translation>דווח על &amp;תקלה (מקוון)</translation>
     </message>
     <message>
         <source>About</source>
@@ -11935,7 +11928,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Security &amp;Plugins</source>
-        <translation>תוספות &amp;אבטחה</translation>
+        <translation>&amp;תוספות אבטחה</translation>
     </message>
     <message>
         <source>Key Storage</source>
@@ -11951,11 +11944,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Check for Updates...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Check for Updates...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11966,35 +11959,35 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Find toolbar</source>
-        <translation type="unfinished">סרגל כלים מציאה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear Chat Window</source>
-        <translation>טיהור חלון שיחה</translation>
+        <translation>טהר חלון שיחה</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished">מציאה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Find</source>
-        <translation type="unfinished">&amp;מציאה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set Text Format</source>
-        <translation type="unfinished">הגדרת פורמט תמליל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add Contact To Roster</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="unfinished">הוספת איש קשר</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Icon</source>
-        <translation>בחירת רגשון</translation>
+        <translation>בחר צלמית</translation>
     </message>
     <message>
         <source>Voice Call</source>
@@ -12002,11 +11995,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Send File</source>
-        <translation>שליחת קובץ</translation>
+        <translation>שלח קובץ</translation>
     </message>
     <message>
         <source>Toggle Encryption</source>
-        <translation>הצפנה</translation>
+        <translation>אפשר/נטרל הצפנה</translation>
     </message>
     <message>
         <source>User Info</source>
@@ -12018,7 +12011,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Toggle Compact/Full Size</source>
-        <translation>החלפת גודל צפוף/מלא</translation>
+        <translation>החלף גודל צפוף/מלא</translation>
     </message>
     <message>
         <source>Paste and Send</source>
@@ -12026,11 +12019,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished">תבניות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Active contacts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Chat Toolbar</source>
@@ -12038,7 +12031,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Contact has been switched: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Warning</source>
@@ -12047,8 +12040,8 @@ Reason: %1.</source>
     <message>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
-        <translation>האם אכן ברצונך לטהר את חלון השיחה?
-(הערה: לא משפיעה על היסטוריה שמורה)</translation>
+        <translation>האם אתה בטוח שברצונך לטהר את חלון השיחה?
+(הערה: פעולה זו לא משפיעה על היסטוריה שמורה)</translation>
     </message>
     <message>
         <source>Error: Can not parse command: </source>
@@ -12060,11 +12053,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>turn off autojid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>turn on autojid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12072,96 +12065,96 @@ Reason: %1.</source>
     <message>
         <source>PROFILE</source>
         <comment>translate in UPPER_CASE with no spaces</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Activate program instance running specified profile. Otherwise, open new instance using this profile (unless used together with --remote).</source>
         <comment>do not translate --remote</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Force remote-control mode. If there is no running instance, or --profile was specified but there is no instance using it, exit without doing anything. Cannot be used with --choose-profile.</source>
         <comment>do not translate --profile, --choose-profile</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Display Choose Profile dialog on startup. Cannot be used together with --remote.</source>
         <comment>do not translate --remote</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>URI</source>
         <comment>translate in UPPER_CASE with no spaces</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open XMPP URI. (e.g. xmpp:someone@example.org?chat) For security reasons, this must be the last option.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>STATUS</source>
         <comment>translate in UPPER_CASE with no spaces</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
-        <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
-        <translation type="unfinished"></translation>
+        <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>MSG</source>
         <comment>translate in UPPER_CASE with no spaces</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set status message. Must be used together with --status.</source>
         <comment>do not translate --status</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show this help message and exit.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show version information and exit.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PROFILE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>STATUS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>MSG</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>URI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Go to &lt;http://psi-im.org/&gt; for more information about Psi.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Compiled with Qt %1</source>
         <comment>%1 will contain Qt version number</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Psi - The Cross-Platform XMPP Client For Power Users</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12172,7 +12165,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Unable to load iconset!  Please make sure Psi is properly installed.</source>
-        <translation>לא ניתן לטעון חוג צלמיות!  נא לוודא שהיישום Psi מותקן כראוי.</translation>
+        <translation>לא ניתן לטעון חוג צלמיות!  אנא ודא שהיישום Psi מותקן כראוי.</translation>
     </message>
     <message>
         <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
@@ -12180,11 +12173,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Please disconnect before changing the profile.</source>
-        <translation>עליך להתנתק לפני שינוי דיוקן.</translation>
+        <translation>אנא התנתק לפני שינוי הדיוקן.</translation>
     </message>
     <message>
         <source>&amp;Disconnect</source>
-        <translation>&amp;התנתקות</translation>
+        <translation>&amp;התנתק</translation>
     </message>
     <message>
         <source>Unsupported URI type</source>
@@ -12222,11 +12215,11 @@ Reason: %1.</source>
         <source>Unable to bind to port %1 for Data Transfer.
 This may mean you are already running another instance of Psi. You may experience problems sending and/or receiving files.</source>
         <translation>לא ניתן לקשור אל פורט %1 עבור מסירת נתונים.
-זה אומר שכבר קיים מאורע אחר של Psi שמורץ כעת. את/ה עשוי/ה לחוות בעיות שליחה ו/או קבלת קבצים.</translation>
+זה אומר שכבר קיים מאורע אחר של Psi שמורץ כעת. אתה עשויה לחוות בעיות שליחה ו/או קבלת קבצים.</translation>
     </message>
     <message>
         <source>Computer went to sleep</source>
-        <translation>המחשב הלך לישון</translation>
+        <translation>מחשב הלך לישון</translation>
     </message>
     <message>
         <source>Account setup</source>
@@ -12238,11 +12231,11 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Register new account</source>
-        <translation>רישום חשבון חדש</translation>
+        <translation>רשום חשבון חדש</translation>
     </message>
     <message>
         <source>Use existing account</source>
-        <translation>שימוש בחשבון חדש</translation>
+        <translation>השתמש בחשבון חדש</translation>
     </message>
 </context>
 <context>
@@ -12272,18 +12265,18 @@ This may mean you are already running another instance of Psi. You may experienc
     <name>PsiContactListViewDelegate</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>PsiContactMenu::Private</name>
     <message>
         <source>Re&amp;name</source>
-        <translation>שינוי &amp;שם</translation>
+        <translation>שנה &amp;שם</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>&amp;הסרה</translation>
+        <translation>&amp;הסר</translation>
     </message>
     <message>
         <source>&amp;Chat</source>
@@ -12303,43 +12296,43 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Send &amp;E-mail</source>
-        <translation>שליחת &amp;דוא״ל</translation>
+        <translation>שלח &amp;דוא״ל</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;הוספה</translation>
+        <translation>&amp;הוסף</translation>
     </message>
     <message>
         <source>A&amp;uth</source>
-        <translation>&amp;אישור</translation>
+        <translation>&amp;אשר</translation>
     </message>
     <message>
         <source>&amp;Block</source>
-        <translation>&amp;חסימה</translation>
+        <translation>&amp;חסום</translation>
     </message>
     <message>
         <source>Disable mood notifications</source>
-        <translation>נטרול התראות מצב רוח</translation>
+        <translation>נטרל התראות מצב רוח</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
-        <translation>הוספה/אישור אל רשימת קשר</translation>
+        <translation>הוסף/אשר אל רשימת קשר</translation>
     </message>
     <message>
         <source>&amp;Receive Incoming Event</source>
-        <translation>&amp;קבלת אירוע נכנס</translation>
+        <translation>&amp;קבל אירוע נכנס</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation>שליחת &amp;הודעה</translation>
+        <translation>שלח &amp;הודעה</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation>פתיחת חלון &amp;שיחה</translation>
+        <translation>פתח חלון &amp;שיחה</translation>
     </message>
     <message>
         <source>Open a &amp;Whiteboard</source>
-        <translation>פתיחת &amp;לוח לבן</translation>
+        <translation>פתח &amp;לוח לבן</translation>
     </message>
     <message>
         <source>Voice Call</source>
@@ -12347,47 +12340,47 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Send &amp;File</source>
-        <translation>שליחת &amp;קובץ</translation>
+        <translation>פתח &amp;קובץ</translation>
     </message>
     <message>
         <source>&amp;Log on</source>
-        <translation>הת&amp;חברות</translation>
+        <translation>הת&amp;חבר</translation>
     </message>
     <message>
         <source>Log Off</source>
-        <translation>התנתקות</translation>
+        <translation>התנתק</translation>
     </message>
     <message>
         <source>Resend Authorization To</source>
-        <translation>שליחה מחודשת של הרשאה אל</translation>
+        <translation>פתח מחדש הרשאה אל</translation>
     </message>
     <message>
         <source>Rerequest Authorization From</source>
-        <translation>בקשת הרשאה מן</translation>
+        <translation>בקש הרשאה מן</translation>
     </message>
     <message>
         <source>Remove Authorization From</source>
-        <translation>הסרת הרשאה מן</translation>
+        <translation>הסר הרשאה מן</translation>
     </message>
     <message>
         <source>Sen&amp;d Status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Assign Custom Picture</source>
-        <translation>&amp;הקצאת תמונה מותאמת</translation>
+        <translation>&amp;הקצה תמונה מותאמת</translation>
     </message>
     <message>
         <source>&amp;Clear Custom Picture</source>
-        <translation>&amp;טיהור תמונה מותאמת</translation>
+        <translation>&amp;טהר תמונה מותאמת</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation>הקצאת מפתח Open&amp;PGP</translation>
+        <translation>הקצה מפתח Open&amp;PGP</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation>אי הקצאת מפתח Open&amp;PGP</translation>
+        <translation>אל תקצה מפתח Open&amp;PGP</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -12395,7 +12388,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Invite To</source>
-        <translation>הזמנה אל</translation>
+        <translation>הזמן אל</translation>
     </message>
     <message>
         <source>&amp;Group</source>
@@ -12403,19 +12396,19 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Send Message To</source>
-        <translation>שליחת הודעה אל</translation>
+        <translation>שלח הודעה אל</translation>
     </message>
     <message>
         <source>Open Chat To</source>
-        <translation>פתיחת שיחה עם</translation>
+        <translation>פתח שיחה עם</translation>
     </message>
     <message>
         <source>Open a Whiteboard To</source>
-        <translation>פתיחת לוח לבן אל</translation>
+        <translation>פתח לוח לבן עם</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation>הרצת &amp;פקודה</translation>
+        <translation>הרץ &amp;פקודה</translation>
     </message>
     <message>
         <source>Active Chats</source>
@@ -12423,23 +12416,23 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished">הסתרה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Leave</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Block</source>
-        <translation type="unfinished">חסימה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Always Visible</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Authorization</source>
@@ -12451,7 +12444,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>&amp;Unblock</source>
-        <translation>&amp;הסרת חסימה</translation>
+        <translation>&amp;הסר חסימה</translation>
     </message>
     <message>
         <source>Invitation</source>
@@ -12467,11 +12460,11 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation>הוסף/אושר &lt;b&gt;%1&lt;/b&gt; אל רשימת הקשר.</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt; הוסף/אושר אל רשימת הקשר.</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation>אישור</translation>
+        <translation>אשר</translation>
     </message>
     <message>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
@@ -12487,7 +12480,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation>האם אכן ברצונך להסיר הרשאה מן &lt;b&gt;%1&lt;/b&gt;?</translation>
+        <translation>האם אתה בטוח שברצונך להסיר הרשאה מן &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -12507,7 +12500,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Unblock</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12519,25 +12512,24 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <source>Unable to join groupchat.
 Reason: %1</source>
-        <translation type="unfinished">לא ניתן להצטרף אל שיחת קבוצה.
-סיבה: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unable to create groupchat.
 Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unable to destroy groupchat.
 Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>PsiGroupChatBrowseWindow::Private</name>
     <message>
         <source>Destroy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Create Groupchat</source>
@@ -12545,7 +12537,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Choose a name for the groupchat you want to create:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12570,11 +12562,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Activate</source>
-        <translation>הפעלה</translation>
+        <translation>הפעל</translation>
     </message>
     <message>
         <source>Cannot open this profile - it is already running, but not responding</source>
-        <translation>לא ניתן לפתוח את דיוקן זה - הוא כבר מורץ, אך לא מגיב</translation>
+        <translation>לא ניתן לפתוח את דיוקן זה - זה כבר מורץ, אך לא מגיב</translation>
     </message>
 </context>
 <context>
@@ -12585,7 +12577,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>I am away from my desk.  Leave a message.</source>
-        <translation>אני נעדר מן שולחני.  נא להשאיר לי הודעה.</translation>
+        <translation>אני נעדר מן שולחני.  השאירו לי הודעה.</translation>
     </message>
     <message>
         <source>Showering</source>
@@ -12665,7 +12657,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Show contacts</source>
-        <translation>הצגת אישי קשר</translation>
+        <translation>הצג אישי קשר</translation>
     </message>
     <message>
         <source>Event notifier</source>
@@ -12673,7 +12665,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Auto Status (idle)</source>
-        <translation>מצב אוטומטי (‮עצל)‬</translation>
+        <translation>‫מצב אוטומטי (עצל)‬</translation>
     </message>
 </context>
 <context>
@@ -12692,31 +12684,31 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Display all options as a flat list.</source>
-        <translation>הצגת כל האפשרויות כרשימה שטוחה.</translation>
+        <translation>הצג את כל האפשרויות כרשימה שטוחה.</translation>
     </message>
     <message>
         <source>Delete...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reset...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Edit...</source>
-        <translation>עריכה...</translation>
+        <translation>ערוך...</translation>
     </message>
     <message>
         <source>Add...</source>
-        <translation>הוספה...</translation>
+        <translation>הוסף...</translation>
     </message>
     <message>
         <source>Open a detached option editor window.</source>
-        <translation>פתיחת חלון עורך אפשרויות בנפרד</translation>
+        <translation>פתח חלון עורך אפשרויות בנפרד.</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished">מתקדם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>(internal node)</source>
@@ -12724,7 +12716,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Type:</source>
-        <translation>טיפוס:</translation>
+        <translation>‪טיפוס:</translation>
     </message>
     <message>
         <source>Really delete options %1?</source>
@@ -12740,11 +12732,11 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Really reset options %1 to default value?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Really reset all options starting with %1. to default value?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12755,14 +12747,14 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source> is typing...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>PsiRosterWidget</name>
     <message>
         <source>Remove Group</source>
-        <translation>הסרת קבוצה</translation>
+        <translation>הסר קבוצה</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
@@ -12785,25 +12777,25 @@ Proceed?</source>
     <name>PsiThemeViewDelegate</name>
     <message>
         <source>No Image</source>
-        <translation type="unfinished"></translation>
+        <translation>אין תמונה</translation>
     </message>
 </context>
 <context>
     <name>PsiToolBar</name>
     <message>
         <source>&amp;Configure Toolbar...</source>
-        <translation>&amp;הגדרת סרגל כלים...</translation>
+        <translation>&amp;הגדר סרגל כלים...</translation>
     </message>
 </context>
 <context>
     <name>PsiWindowHeader</name>
     <message>
         <source>PsiWindowHeader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12858,7 +12850,7 @@ Proceed?</source>
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Date</source>
@@ -12870,15 +12862,15 @@ Proceed?</source>
     </message>
     <message>
         <source>No certificate presented.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hostname mismatch.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invalid Certificate.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>General validation error.</source>
@@ -12918,7 +12910,7 @@ Proceed?</source>
     </message>
     <message>
         <source>General certificate validation error.</source>
-        <translation>שגיאת מתן תוקף לתעודה כללית.</translation>
+        <translation>שגיאה כללית של מתן תוקף לתעודה.</translation>
     </message>
     <message>
         <source>Doing Chores</source>
@@ -13358,19 +13350,19 @@ Description: </source>
     </message>
     <message>
         <source>Warning: %1 is deprecated and will be removed in the future</source>
-        <translation>אזהרה: ‭%1‬ הינה מסוייגת ותוסר בעתיד</translation>
+        <translation>אזהרה: ‭%1‬ הינה מסויגת ותוסר בעתיד</translation>
     </message>
     <message>
         <source>Please set a shortcut for &apos;Change to quick command mode&apos;, use that shortcut and enter &apos;%1&apos;.</source>
-        <translation>נא להגדיר קיצור דרך עבור &apos;שנה אל מצב מהיר של פקודה&apos;, השתמש בקיצור דרך זה והזן &apos;%1&apos;.</translation>
+        <translation>אנא קבע קיצור דרך עבור &apos;שנה אל מצב מהיר של פקודה&apos;, השתמש בקיצור דרך זה והזן &apos;%1&apos;.</translation>
     </message>
     <message>
         <source>Please instead press %1 and enter &apos;%2&apos;.</source>
-        <translation>במקום זאת ניתן ללחוץ %1 ולהזין &apos;%2&apos;.</translation>
+        <translation>אנא לחץ במקום זאת %1 והזן &apos;%2&apos;.</translation>
     </message>
     <message>
         <source>%1 is now %2</source>
-        <translation type="unfinished">ההוויה של %1 שונתה אל %2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Afraid</source>
@@ -13790,7 +13782,7 @@ Description: </source>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>שגיאה לא ידועה</translation>
+        <translation>שגיאה לא מוכרת</translation>
     </message>
     <message>
         <source>Socket Error</source>
@@ -13798,65 +13790,53 @@ Description: </source>
     </message>
     <message>
         <source>Cannot create a server socket!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>Encrypting message to %1 failed.
 The message was not sent.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>plaintext</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>finished</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Generating keys for account &quot;%1&quot;.
 This may take a while.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please wait...</source>
@@ -13869,22 +13849,21 @@ This may take a while.</source>
     <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
 The OTR Plugin will not work.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;:
 %2</source>
-        <translation type="unfinished">טביעת אצבע עבור חשבון &quot;%1&quot;:
-%2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You have received a new fingerprint from %1:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All Tags</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name: %1
@@ -13892,7 +13871,7 @@ Size: %2
 Date prolongate: %3
 URL: %4
 Password: %5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Yes</source>
@@ -13932,11 +13911,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Deny</source>
-        <translation>לאסור</translation>
+        <translation>אסור</translation>
     </message>
     <message>
         <source>Allow</source>
-        <translation>להתיר</translation>
+        <translation>התר</translation>
     </message>
     <message>
         <source>All</source>
@@ -13984,7 +13963,7 @@ Password: %5</source>
     </message>
     <message>
         <source> is typing...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 says:</source>
@@ -14004,11 +13983,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Contact becomes Available</source>
-        <translation>איש קשר הופך להיות זמין</translation>
+        <translation>איש קשר נהיה זמין</translation>
     </message>
     <message>
         <source>Contact becomes Unavailable</source>
-        <translation>איש קשר הופך להיות לא זמין</translation>
+        <translation>איש קשר נהיה לא זמין</translation>
     </message>
     <message>
         <source>Contact changes Status</source>
@@ -14028,11 +14007,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Typing notify</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Groupchat highlight</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Incoming Call</source>
@@ -14040,7 +14019,7 @@ Password: %5</source>
     </message>
     <message>
         <source>[Typing notify]</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>[Incoming Message]</source>
@@ -14056,19 +14035,19 @@ Password: %5</source>
     </message>
     <message>
         <source>[Groupchat highlight]</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>[Incoming Call]</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set Status</source>
-        <translation>הגדרת מצב</translation>
+        <translation>קבע מצב</translation>
     </message>
     <message>
         <source>Choose the status and status message</source>
-        <translation>בחירת מצב והודעת מצב</translation>
+        <translation>בחר מצב והודעת מצב</translation>
     </message>
     <message>
         <source>Chat</source>
@@ -14100,35 +14079,35 @@ Password: %5</source>
     </message>
     <message>
         <source>Set Options</source>
-        <translation>הגדרת אפשרויות</translation>
+        <translation>קבע אפשרויות</translation>
     </message>
     <message>
         <source>Set the desired options</source>
-        <translation>הגדרת האפשרויות הרצויות</translation>
+        <translation>קבע את האפשרויות הרצויות</translation>
     </message>
     <message>
         <source>Play sounds</source>
-        <translation>ניגון צלילים</translation>
+        <translation>נגן צלילים</translation>
     </message>
     <message>
         <source>Automatically go offline when idle</source>
-        <translation>מעבר אוטומטי אל מצב בלתי מקוון כאשר עצל</translation>
+        <translation>עבור אל מצב בלתי מקוון כאשר עצל אוטומטית</translation>
     </message>
     <message>
         <source>Auto-authorize contacts</source>
-        <translation>אישור אוטומטי של אישי קשר</translation>
+        <translation>אשר אישי קשר אוטומטית</translation>
     </message>
     <message>
         <source>Auto-open new messages</source>
-        <translation>פתיחה אוטומטית של הודעות חדשות</translation>
+        <translation>פתח הודעות חדשות אוטומטית</translation>
     </message>
     <message>
         <source>Leave All Conferences</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unnamed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Subscription</source>
@@ -14136,7 +14115,7 @@ Password: %5</source>
     </message>
     <message>
         <source>OpenPGP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mood</source>
@@ -14164,11 +14143,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Using</source>
-        <translation type="unfinished"></translation>
+        <translation>‎פרטי מערכת</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Role: %1</source>
@@ -14200,7 +14179,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">אזהרה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cannot write to file %1:
@@ -14210,43 +14189,43 @@ Password: %5</source>
     </message>
     <message>
         <source>Recommended by @%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reply posted.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New message posted.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> recommended your post </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show all messages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reply</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show %1&apos;s info and last 10 messages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Subscribe</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show last 10 messages with tag %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unsubscribe</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Conversion Error</source>
@@ -14254,7 +14233,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
-        <translation>נתוני תצורה של גירסה קודמת של Psi לא נמצאו, אך זה לא היה אפשרי להמיר אותם לעבוד עם הגירסה הנוכחית. וודא שיש לך את ההרשאה המתאימה ושעותק אחר של Psi אינו מורץ, ונסה שוב.</translation>
+        <translation>נתוני תצורה של גרסא קודמת של Psi לא נמצאו, אך זה לא היה אפשרי להמיר אותם לעבוד עם הגרסא הנוכחית. וודא שיש לך את ההרשאה המתאימה ושעותק אחר של Psi אינו מורץ, ונסה שוב.</translation>
     </message>
     <message>
         <source>Contact online</source>
@@ -14266,7 +14245,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Status change</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Incoming message</source>
@@ -14301,7 +14280,7 @@ Password: %5</source>
     </message>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14316,7 +14295,7 @@ Password: %5</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגירה</translation>
+        <translation>&amp;סגור</translation>
     </message>
     <message>
         <source>Busy</source>
@@ -14372,24 +14351,21 @@ Reason: %1</source>
     <message>
         <source>celebrates birthday today!
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <source>celebrates birthday yesterday.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Birthday Reminder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -14410,7 +14386,7 @@ Reason: %1</source>
     <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
 The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14443,18 +14419,18 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Auto-join</source>
-        <translation type="unfinished">הצטרפות אוטומטית</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>RosterAvatarFrame</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Nick</source>
-        <translation type="unfinished">כינוי</translation>
+        <translation>כינוי</translation>
     </message>
     <message>
         <source>Set Mood for all active accounts</source>
@@ -14470,7 +14446,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Status Message</source>
-        <translation type="unfinished">הודעת מצב</translation>
+        <translation>הודעת מצב</translation>
     </message>
 </context>
 <context>
@@ -14484,83 +14460,83 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>Screenshot</name>
     <message>
         <source>Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel uploading</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Upload to server:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Upload Screenshot to selected server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save Screenshot to Local Drive</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Print Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open image from Local Drive</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">קובץ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">הגדרות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">עזרה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished">פתיחה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">שמירה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="unfinished">הגדרות פרוקסי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished">אפשרויות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished">היסטוריה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>About Qt</source>
@@ -14568,19 +14544,19 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Home page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished">העלאה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Size: %1x%2px; %3 bytes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open Image</source>
-        <translation type="unfinished">פתיחת תמונה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
@@ -14588,11 +14564,11 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>/%1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished">שמירה בשם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 Files (*.%2);;All Files (*)</source>
@@ -14600,53 +14576,53 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>%1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Can&apos;t parse URL (Reply URL: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation>האם הינך בטוח?</translation>
+        <translation>האם אתה בטוח?</translation>
     </message>
 </context>
 <context>
     <name>ScreenshotOptions</name>
     <message>
         <source>New Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Capture the desktop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Capture current window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select capture area</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Capture after</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>ScreenshotPlugin</name>
     <message>
         <source>Upload Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Authors: </source>
@@ -14659,13 +14635,13 @@ The plugin has the following settings:
 * Format -- the file format in which the screenshot will be stored (default: .jpg)
 * File Name -- format of the filename (default: pic-yyyyMMdd-hhmmss, where yyyyMMdd=YYYYMMDD, and hhmmss are current date in the format yearmonthday-hourminutesecond)
 The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>
 
 Settings for authorization on some hostings can be found here: http://code.google.com/p/qscreenshot/wiki/Authorization</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14680,7 +14656,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
     </message>
     <message>
         <source>Instructions go here.</source>
-        <translation type="unfinished"></translation>
+        <translation>הוראות הולכות לכאן.</translation>
     </message>
     <message>
         <source>&amp;Search</source>
@@ -14688,19 +14664,19 @@ Settings for authorization on some hostings can be found here: http://code.googl
     </message>
     <message>
         <source>psi/search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation>&amp;הפסקה</translation>
+        <translation>&amp;הפסק</translation>
     </message>
     <message>
         <source>psi/stop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Nickname</source>
-        <translation>כינוי</translation>
+        <translation>שם כינוי</translation>
     </message>
     <message>
         <source>First Name</source>
@@ -14716,11 +14692,11 @@ Settings for authorization on some hostings can be found here: http://code.googl
     </message>
     <message>
         <source>&amp;Add Contact</source>
-        <translation>הוספת &amp;איש קשר</translation>
+        <translation>הוסף &amp;איש קשר</translation>
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished">psi/addContact</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -14728,11 +14704,11 @@ Settings for authorization on some hostings can be found here: http://code.googl
     </message>
     <message>
         <source>psi/vCard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגירה</translation>
+        <translation>&amp;סגור</translation>
     </message>
     <message>
         <source>XMPP Address</source>
@@ -14775,10 +14751,7 @@ Reason: %1</source>
     </message>
     <message numerus="yes">
         <source>Added %n users to your roster.</source>
-        <translation>
-            <numerusform>התווסף משתמש %n אל רשימתך.</numerusform>
-            <numerusform>התווספו %n משתמשים אל רשימתך.</numerusform>
-        </translation>
+        <translation><numerusform>התווסף משתמש %n אל רשימתך.</numerusform><numerusform>התווספו %n משתמשים אל רשימתך.</numerusform></translation>
     </message>
     <message>
         <source>Added %1 to your roster.</source>
@@ -14789,23 +14762,23 @@ Reason: %1</source>
     <name>SelectGame</name>
     <message>
         <source>New game with...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>To play with </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose your game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>White game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Black game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Play!</source>
@@ -14903,7 +14876,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
-        <translation>&amp;עריכת תבניות</translation>
+        <translation>&amp;ערוך תבניות</translation>
     </message>
     <message>
         <source>Only &amp;Paste</source>
@@ -14929,7 +14902,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Maximum redirect count reached</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
@@ -14937,26 +14910,26 @@ Reason: %1</source>
     </message>
     <message>
         <source>Invalid redirect URL %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>Shortcuts</name>
     <message>
         <source>Action List</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="unfinished">מציאת שירות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="unfinished">הוספת איש קשר</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Join Group Chat</source>
@@ -14964,23 +14937,23 @@ Reason: %1</source>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation type="unfinished">הגדרת חשבון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished">אפשרויות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File Transfer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="unfinished">סרגלי כלים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XML Console</source>
-        <translation type="unfinished">מסוף XML</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change Profile</source>
@@ -14988,15 +14961,15 @@ Reason: %1</source>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation type="unfinished">ניגון צלילים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">יציאה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">מצב</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable Groups</source>
@@ -15004,7 +14977,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>View Groups</source>
@@ -15012,11 +14985,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation type="unfinished">הצגת אישי קשר לא מקוונים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Away Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
@@ -15024,15 +14997,15 @@ Reason: %1</source>
     </message>
     <message>
         <source>Show Agents</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Self</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Status Message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Publish Tune</source>
@@ -15040,43 +15013,43 @@ Reason: %1</source>
     </message>
     <message>
         <source>Active contacts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Status All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Status Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Status Chat</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Status Online</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Status Away</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Status XA</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Status DND</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Status Invisible</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Status Offline</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose status</source>
@@ -15084,7 +15057,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Reconnect all accounts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set Mood</source>
@@ -15100,7 +15073,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>README</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Tips</source>
@@ -15124,7 +15097,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Help Psi MUC</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Report Bug</source>
@@ -15144,35 +15117,35 @@ Reason: %1</source>
     </message>
     <message>
         <source>QCA plugin diag</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>QCA key store diag</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shortcuts in the chat dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Switch to the next tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Switch to the previous tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Find text next</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Find text previous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Find text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sends the message</source>
@@ -15180,35 +15153,35 @@ Reason: %1</source>
     </message>
     <message>
         <source>Clear the text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change to quick command mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show last message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show first message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show next message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show prev message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change case of letters in the chat edit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Minimize active chat window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shortcuts in the contactlist</source>
@@ -15216,39 +15189,39 @@ Reason: %1</source>
     </message>
     <message>
         <source>Assign a custom avatar to the selected contact</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove custom avatar from the selected contact</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete the selected contact</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open a chat to the selected contact</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send a message to the selected contact</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Receive incoming event</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rename the selected contact</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Log on to the selected transport</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Common actions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scroll up</source>
@@ -15260,27 +15233,27 @@ Reason: %1</source>
     </message>
     <message>
         <source>Close the current window/tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hide the current window/tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open the message history</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show the user info of the contact</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shortcuts available from outside of the application</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show/hide the application</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bring the application to front</source>
@@ -15292,11 +15265,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Hide all active windows</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shortcuts in the message dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send the message</source>
@@ -15304,15 +15277,15 @@ Reason: %1</source>
     </message>
     <message>
         <source>Shortcuts in the status dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set the status message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shortcuts in the service discovery dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -15323,30 +15296,30 @@ Reason: %1</source>
     </message>
     <message>
         <source>Open download page?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>ShowPhotoDlg</name>
     <message>
         <source>Photo Preview: %1</source>
-        <translation>תצוגה מקדימה של תמונה: %1</translation>
+        <translation>תצוגה מקדימה של תצלום: %1</translation>
     </message>
     <message>
         <source>&amp;Save As...</source>
-        <translation>&amp;שמירה בשם...</translation>
+        <translation>&amp;שמור בשם...</translation>
     </message>
     <message>
         <source>&amp;Restore Size</source>
-        <translation>&amp;שחזור מידה</translation>
+        <translation>&amp;שחזר מידה</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation>שמירה בשם</translation>
+        <translation>שמור בשם</translation>
     </message>
     <message>
         <source>photo.png</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PNG File (*.png);;JPEG File (*.jpeg);;BMP File (*.bmp);;PPM File (*.ppm);;All Files (*)</source>
@@ -15357,7 +15330,7 @@ Reason: %1</source>
     <name>ShowTextDlg</name>
     <message>
         <source>&amp;OK</source>
-        <translation>אישור</translation>
+        <translation>&amp;אישור</translation>
     </message>
 </context>
 <context>
@@ -15380,7 +15353,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Apply selected skin</source>
@@ -15388,7 +15361,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Apply</source>
-        <translation>החלה</translation>
+        <translation>החל</translation>
     </message>
     <message>
         <source>Open skin file</source>
@@ -15436,7 +15409,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>*.skn</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Create Skin</source>
@@ -15468,7 +15441,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Are You Sure?</source>
-        <translation>האם הינך בטוח?</translation>
+        <translation>האם אתה בטוח?</translation>
     </message>
     <message>
         <source>Overwrite Skin</source>
@@ -15500,7 +15473,7 @@ In most cases, to be sure that the skin is applied correctly, you must perform a
 2. Restart the application
 3. Apply the same skin again
 This allows all settings (icons, toolbar layout) to be picked up correctly. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -15522,18 +15495,18 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source>Edit presets...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>StatusSetDlg</name>
     <message>
         <source>Set Status: All accounts</source>
-        <translation>הגדרת מצב: כל החשבונות</translation>
+        <translation>קבע מצב: כל החשבונות</translation>
     </message>
     <message>
         <source>Set Status: %1</source>
-        <translation>הגדרת מצב: %1</translation>
+        <translation>קבע מצב: %1</translation>
     </message>
     <message>
         <source>Set Status for %1</source>
@@ -15561,7 +15534,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source>&amp;Set</source>
-        <translation>ה&amp;שמה</translation>
+        <translation>&amp;קבע</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -15569,7 +15542,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source>Sa&amp;ve as Preset</source>
-        <translation>שמירה &amp;כמצב ערוך מראש</translation>
+        <translation>שמור &amp;כמצב ערוך מראש</translation>
     </message>
     <message>
         <source>New Status Preset</source>
@@ -15577,7 +15550,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source>Please enter a name for the new status preset:</source>
-        <translation>נא להזין שם עבור המצב החדש הערוך מראש:</translation>
+        <translation>אנא הזן שם עבור המצב החדש הערוך מראש:</translation>
     </message>
     <message>
         <source>Error</source>
@@ -15589,14 +15562,14 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source>You already have a preset with that name!</source>
-        <translation>כבר יש לך מצב ערוך מראש עם שם זה!</translation>
+        <translation>כבר יש לך מצב ערוך מראש עם השם הזה!</translation>
     </message>
 </context>
 <context>
     <name>StatusShowDlg</name>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגירה</translation>
+        <translation>&amp;סגור</translation>
     </message>
     <message>
         <source>Status for %1</source>
@@ -15615,7 +15588,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source> pass the test</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Author: </source>
@@ -15645,7 +15618,7 @@ When a user has passed, the test will send a re-authorization request. It should
 The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -15656,7 +15629,7 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     </message>
     <message>
         <source>Storage Notes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Author: </source>
@@ -15670,46 +15643,46 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi+ or Miranda IM.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>TabDlg</name>
     <message>
         <source>Hide Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>הסתר כרטיסייה</translation>
     </message>
     <message>
         <source>Detach Tab</source>
-        <translation>הפרדת לשונית</translation>
+        <translation>הפרד כרטיסייה</translation>
     </message>
     <message>
         <source>Close Tab</source>
-        <translation>סגירת לשונית</translation>
+        <translation>סגור כרטיסייה</translation>
     </message>
     <message>
         <source>Send Tab To</source>
-        <translation>שליחת לשונית אל</translation>
+        <translation>שלח כרטיסייה אל</translation>
     </message>
     <message>
         <source>Hide Current Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>הסתר כרטיסייה נוכחית</translation>
     </message>
     <message>
         <source>Hide All Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>הסתר את כל הכרטיסיות</translation>
     </message>
     <message>
         <source>Detach Current Tab</source>
-        <translation>הפרדת לשונית נוכחית</translation>
+        <translation>הפרד כרטיסייה נוכחית</translation>
     </message>
     <message>
         <source>Close Current Tab</source>
-        <translation>סגירת לשונית נוכחית</translation>
+        <translation>סגור כרטיסייה נוכחית</translation>
     </message>
     <message>
         <source>Send Current Tab To</source>
-        <translation>שליחת לשונית נוכחית אל</translation>
+        <translation>שלח כרטיסייה נוכחית אל</translation>
     </message>
     <message>
         <source>Use for New Chats</source>
@@ -15732,11 +15705,11 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <name>TestDlg</name>
     <message>
         <source>XMPP Test</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Connect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>About %1</source>
@@ -15752,7 +15725,7 @@ Currently supports:
   JEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Error</source>
@@ -15760,48 +15733,48 @@ Copyright (C) 2003 Justin Karneges</source>
     </message>
     <message>
         <source>Please enter the Full JID to connect with.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You must specify a host:port for the proxy.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You must at least enter a URL to use http poll.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please enter the proxy host in the form &apos;host:port&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please enter the host in the form &apos;host:port&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Error: SSF Min is greater than SSF Max.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Error: TLS not available.  Disable any TLS options.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Disconnect</source>
-        <translation type="unfinished">&amp;התנתקות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bad XML input (%1,%2): %3
 Please correct and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bad Stanza &apos;%1&apos;.  Must be &apos;message&apos;, &apos;presence&apos;, or &apos;iq&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You must enter at least one stanza!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Password</source>
@@ -15816,7 +15789,7 @@ Please correct and try again.</source>
     <name>TestUI</name>
     <message>
         <source>Form1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Core</source>
@@ -15840,23 +15813,23 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>SSL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">ללא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>HTTP(S)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SOCKS5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>HTTP Polling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Host:Port:</source>
@@ -15880,11 +15853,11 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>/</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Polling URL:</source>
-        <translation>כתובת לקבלה (Polling):</translation>
+        <translation>:Polling URL</translation>
     </message>
     <message>
         <source>Security Settings</source>
@@ -15896,19 +15869,19 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Require mutual authentication</source>
-        <translation type="unfinished">דרישת אימות הדדי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SASL SSF min/max:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Connect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;About</source>
@@ -15916,35 +15889,35 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Quick XML &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>To:</source>
-        <translation type="unfinished">אל:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;IM Session</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>IQ &amp;Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>IM</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation>&amp;שליחה</translation>
+        <translation>&amp;שלח</translation>
     </message>
     <message>
         <source>Alt+S</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -15955,11 +15928,11 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>psi/logo_128</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show tips at startup</source>
-        <translation>הצגת עצות בעת הפעלה</translation>
+        <translation>הצג עצות בעת הפעלה</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
@@ -15967,31 +15940,31 @@ Please correct and try again.</source>
     </message>
     <message>
         <source>Alt+P</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>psi/arrowLeft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation>ה&amp;בא</translation>
+        <translation>ה&amp;באה</translation>
     </message>
     <message>
         <source>Alt+N</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>psi/arrowRight</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגירה</translation>
+        <translation>&amp;סגור</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16004,13 +15977,13 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
         <translation>שלום! תודה לך על שהורדת את Psi!
 אנו תקוה שתהיה לך את האפשרות להפיק הנאה מן יישום זה כשם שאנחנו נהננו להכינו!
-&lt;br&gt;&lt;br&gt;היה וברצונך להוריד שפת תרגום, מערך צלמיות או גירסה חדשה של Psi, ניתן לבקר את &lt;a href=&quot;http://psi-im.org&quot;&gt;עמוד הבית של Psi&lt;/a&gt;.
+&lt;br&gt;&lt;br&gt;היה וברצונך להוריד שפת תרגום, מערך צלמיות או גרסא חדשה של Psi, ניתן לבקר את &lt;a href=&quot;http://psi-im.org&quot;&gt;עמוד הבית של Psi&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;במידה ומצאת תקלה או אם ברצונך לשוחח עם משתמשי Psi אחרים, ניתן לבקר &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;בפורומים של Psi&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;נבחרת Psi&lt;/i&gt;&lt;/div&gt;</translation>
     </message>
     <message>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation>ביכולתך לבחור רגשונים ומערכי צלמיות רבים, ולהקצות להם עדיפויות באמצעות דו־שיח אפשרויות.</translation>
+        <translation>ביכולתך לבחור רגשונים ומערכי צלמיות רבים, ולהקצות להם עדיפויות באמצעות דו שיח אפשרויות.</translation>
     </message>
     <message>
         <source>You can use multiple useful shortcuts while typing chat messages:&lt;br&gt;
@@ -16026,7 +15999,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;ul&gt;
 &lt;li&gt;‏Ctrl+Enter כדי לשלוח הודעות&lt;/li&gt;
 &lt;li&gt;‏Ctrl+M כדי להוסיף תו שורה חדשה&lt;/li&gt;
-&lt;li&gt;‏Ctrl+H כדי להציג דו־שיח הודעת שיחה&lt;/li&gt;
+&lt;li&gt;‏Ctrl+H כדי להציג דו שיח הודעת שיחה&lt;/li&gt;
 &lt;li&gt;‏Alt+S כדי לשלוח הודעה&lt;/li&gt;
 &lt;li&gt;‏Ctrl+U כדי לטהר מאגר עריכה&lt;/li&gt;
 &lt;li&gt;‏Ctrl+PgUp/PgDn כדי לגולל תצוגת שיחה&lt;/li&gt;
@@ -16036,25 +16009,25 @@ We hope that you will enjoy using it as we have enjoyed making it!
         <source>You can type these special commands in chat and groupchat dialogs:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
+&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; '/me' is replaced by your nick&lt;/li&gt;
 &lt;/ul&gt;
 And these work only in groupchat dialog:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>ביכולתך להקליד פקודות מיוחדות אלו בדו־שיח של שיחה ושל שיחת קבוצה:
+        <translation>ביכולתך להקליד פקודות מיוחדות אלו בדו שיח של שיחה ושל שיחת קבוצה:
 &lt;ul&gt;
 &lt;li&gt;&quot;‏‭/clear‬&quot; כדי לטהר תצוגת שיחה&lt;/li&gt;
 &lt;li&gt;&quot;&amp;lt;הודעה&amp;gt; ‭/me‬&quot; &apos;‭/me‬&apos; מוחלפת בכינויך&lt;/li&gt;
 &lt;/ul&gt;
-ואלו עובדות רק בדו־שיח של שיחת קבוצה:
+ואלו עובדות רק בדו שיח של שיחת קבוצה:
 &lt;ul&gt;
 &lt;li&gt;&quot;&amp;lt;שם_כינוי_חדש&amp;gt; ‭/nick‬&quot; כדי לשנות את שם כינויך&lt;/li&gt;
 &lt;/ul&gt;</translation>
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation>הידעת שביכולתך לעשות שימוש בתיבות סימון בדו־שיח הבניית חשבון כדי לאפשר/לנטרל חשבונות? זה עשוי להועיל במקרה וקיים חשבון בו הינך עושה שימוש לעתים נדירות, כך שזה לא יסרבל את רשימתך.</translation>
+        <translation>הידעת שביכולתך לעשות שימוש בתיבות סימון בדו שיח הבניית חשבון כדי לאפשר/לנטרל חשבונות? זה עשוי להועיל במקרה וקיים חשבון בו הינך עושה שימוש לעתים נדירות, כך שזה לא יסרבל את רשימתך.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
@@ -16062,7 +16035,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
-        <translation>האם המרת מן Gadu-Gadu או Trillian וקיימת אצלך תחושת געגועים לרגשונים המגניבים?  אל פחד, כבר דאגנו להמיר אותך!  ניתן לבדוק את &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; עבור טונות של &quot;ערכות צלמיות&quot; הניתנות להוספה אל Psi כדי לגרום לו להיראות באופן אותו אתם אוהבים!</translation>
+        <translation>האם המרתם מן Gadu-Gadu או Trillian וקיימת אצלכם תחושת געגועים לרגשונים המגניבים?  אל חשש, כבר דאגנו להמיר אותכם!  ניתן לבדוק את העמוד &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; עבור טונות של &quot;ערכות צלמיות&quot; הניתנות להוספה אל Psi כדי לגרום לו להיראות באופן אותו אתם אוהבים!</translation>
     </message>
     <message>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
@@ -16080,11 +16053,11 @@ And these work only in groupchat dialog:
         <source>This is the last tip.
 &lt;br&gt;&lt;br&gt;If you want to contribute your own &quot;tip of the day&quot;, please publish it on the &lt;a href=&quot;http://forum.psi-im.org&quot;&gt;Psi Forums&lt;/a&gt; (or mail it to the one of the developers), and we&apos;ll be happy to integrate it for the next release.</source>
         <translation>זוהי העצה האחרונה.
-&lt;br&gt;&lt;br&gt;אם ברצונך לתרום את &quot;עצת היום&quot; שלך, נא לפרסמה אצל &lt;a href=&quot;http://forum.psi-im.org&quot;&gt;הפורומים של Psi&lt;/a&gt; (או לדוור אותה אל אחד מן המפתחים), ואנחנו נשמח לשלבה בשחרור הבא.</translation>
+&lt;br&gt;&lt;br&gt;אם ברצונכם לתרום את &quot;עצת היום&quot; שלכם, אנא פרסמו אותה אצל &lt;a href=&quot;http://forum.psi-im.org&quot;&gt;הפורומים של Psi&lt;/a&gt; (או דוורו אותה אל אחד מן המפתחים), ואנחנו נשמח לשלבה בשחרור הבא.</translation>
     </message>
     <message>
         <source>Contributed by</source>
-        <translation>עצה נתרמה על ידי</translation>
+        <translation>עצה זו נתרמה על ידי</translation>
     </message>
     <message>
         <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
@@ -16096,7 +16069,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation>הידעת שהתכנית Psi הינה לקוח Jabber מן הבודדים שמעניקים לך את האפשרות להתחבר אל שרתים מרובים בו זמנית?  ביכולתך להזדהות בזהות &quot;mrcool@xmpp.org&quot; בפני ידידייך, ולהזדהות בשם &quot;John.J.Smith_the_fourth@mycompany.com&quot; בפני שותפייך לעסק.</translation>
+        <translation>הידעת שהתכנית Psi הינה לקוח XMPP מן הבודדים שמעניקים לך את האפשרות להתחבר אל שרתים מרובים בו זמנית?  ביכולתך להזדהות בזהות &quot;mrcool@jabber.org&quot; בפני ידידייך, ולהזדהות בשם &quot;John.J.Smith_the_fourth@mycompany.com&quot; בפני שותפייך לעסק.</translation>
     </message>
     <message>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
@@ -16106,7 +16079,7 @@ And these work only in groupchat dialog:
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
 &lt;br&gt;&lt;br&gt;
 Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation>מחפשים עבור מוביל או חדר שיחה, אולם שרתך לא מספק משהו הולם? ניתן לעשות שימוש בתפריט Psi -&gt; מציאת שירות כדי להסתכל על &lt;i&gt;כל&lt;/i&gt; שרת XMPP עבור שירותים רצויים על ידי הקלקת המתחם שלו בשדה הכתובת.
+        <translation>מחפשים עבור מוביל או חדר שיחה, אולם שרתך לא מספק משהו הולם? ניתן לעשות שימוש בתפריט Psi -&gt; מציאת שירות כדי להסתכל על &lt;i&gt;כל&lt;/i&gt; שרת XMPP עבור שירותים רצויים על ידי הקלדת המתחם שלו בשדה הכתובת.
 &lt;br&gt;&lt;br&gt;
 הערה: שרתים מסוימים עשויים לנטרל רישום מוביל עבור משתמשים מן שרתים אחרים, אולם זה לא שכיח עדיין.</translation>
     </message>
@@ -16115,82 +16088,82 @@ Note: Some server may disable transport registration to users from different ser
     <name>ToolBar</name>
     <message>
         <source>Line Width:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Line width</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pen</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished">בחירה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">העתקה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished">סיבוב</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>TranslatePlugin</name>
     <message>
         <source>from</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">הוספה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">מחיקה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ShortCut:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Modify</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Not translating &quot;Nickname:&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Restore Defaults Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Author: </source>
@@ -16199,7 +16172,7 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <source>This plugin allows you to convert selected text into another language.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16213,66 +16186,66 @@ Note: Some server may disable transport registration to users from different ser
     <name>TypeAheadFindBar</name>
     <message>
         <source>Search: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>First page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Previous page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Next page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Last page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">חיפוש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Find next</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Find previous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>URLLabel</name>
     <message>
         <source>Open</source>
-        <translation>פתיחה</translation>
+        <translation>פתח</translation>
     </message>
     <message>
         <source>Open mail composer</source>
-        <translation>פתיחת מלחין דואר</translation>
+        <translation>פתח מלחין דואר</translation>
     </message>
     <message>
         <source>Open web browser</source>
-        <translation>פתיחה בדפדפן רשת</translation>
+        <translation>פתח דפדפן רשת</translation>
     </message>
     <message>
         <source>Add to Roster</source>
-        <translation>הוספה לרשימה</translation>
+        <translation>הוסף לרשימה</translation>
     </message>
     <message>
         <source>Send message to</source>
-        <translation>שליחת הודעה אל</translation>
+        <translation>שלח הודעה אל</translation>
     </message>
     <message>
         <source>Chat with</source>
-        <translation>שיחה עם</translation>
+        <translation>שיח עם</translation>
     </message>
     <message>
         <source>Join groupchat</source>
@@ -16280,26 +16253,26 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Copy location</source>
-        <translation>העתקת מיקום</translation>
+        <translation>העתק מיקום</translation>
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished">מידע משתמש</translation>
+        <translation>מידע משתמש</translation>
     </message>
 </context>
 <context>
     <name>UploadManager</name>
     <message>
         <source>Getting storage...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Can&apos;t get storage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Starting upload...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Error opening file!</source>
@@ -16307,15 +16280,15 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Verifying...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Uploaded successfully</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Verifying failed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16338,46 +16311,46 @@ To work with VLC player you need to enable the option &quot;Control Interface D-
 To work with Kaffeine player you must have player version (&gt;= 1.0), additional configuration is not needed; 
 
 To work with GNOME MPlayer additional configuration is not needed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>ViewLog</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished">מציאה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">סגירה</translation>
+        <translation>סגור</translation>
     </message>
     <message>
         <source>Save Changes</source>
-        <translation type="unfinished">שמירת שינויים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete Log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Update Log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete log file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation>האם הינך בטוח?</translation>
+        <translation>האם אתה בטוח?</translation>
     </message>
     <message>
         <source>Save log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
@@ -16451,43 +16424,43 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Delete Log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Update Log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete log file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation>האם הינך בטוח?</translation>
+        <translation>האם אתה בטוח?</translation>
     </message>
     <message>
         <source>Save log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
-        <translation type="unfinished">האם ברצונך לשמור את השינויים שלך?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Uncheck</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16498,15 +16471,15 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Accept</source>
-        <translation>קבלה</translation>
+        <translation>קבל</translation>
     </message>
     <message>
         <source>Reject</source>
-        <translation>דחיה</translation>
+        <translation>דחה</translation>
     </message>
     <message>
         <source>Hang Up</source>
-        <translation>ניתוק</translation>
+        <translation>נתק</translation>
     </message>
 </context>
 <context>
@@ -16560,7 +16533,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source> change status to </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -16572,15 +16545,15 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>&lt;br&gt;Status Message: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Watcher Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Watch for JID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Author: </source>
@@ -16593,30 +16566,30 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <message>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>WbDlg</name>
     <message>
         <source>Save session</source>
-        <translation>שמירת סשן</translation>
+        <translation>שמור סשן</translation>
     </message>
     <message>
         <source>Save the contents of the whiteboard</source>
-        <translation>שמירת התכולה של הלוח הלבן</translation>
+        <translation>שמור את התכולה של הלוח הלבן</translation>
     </message>
     <message>
         <source>Change the geometry</source>
-        <translation>שינוי גיאומטריה</translation>
+        <translation>שנה את הגיאומטריה</translation>
     </message>
     <message>
         <source>End session</source>
-        <translation>סיום סשן</translation>
+        <translation>סיים סשן</translation>
     </message>
     <message>
         <source>Clear the whiteboard</source>
-        <translation>טיהור הלוח הלבן</translation>
+        <translation>טהר את הלוח הלבן</translation>
     </message>
     <message>
         <source>Stroke color</source>
@@ -16648,15 +16621,15 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Select</source>
-        <translation>בחירה</translation>
+        <translation>בחר</translation>
     </message>
     <message>
         <source>Translate</source>
-        <translation>תרגום</translation>
+        <translation>תרגם</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation>סיבוב</translation>
+        <translation>סובב</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -16664,7 +16637,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Erase</source>
-        <translation>מחיקה</translation>
+        <translation>מחק</translation>
     </message>
     <message>
         <source>Scroll view</source>
@@ -16672,15 +16645,15 @@ On the first tab set up a list of contacts for the status of which is monitored.
     </message>
     <message>
         <source>Scroll</source>
-        <translation>גלילה</translation>
+        <translation>גלול</translation>
     </message>
     <message>
         <source>Draw paths</source>
-        <translation>שרטוט שבילים</translation>
+        <translation>שרטט שבילים</translation>
     </message>
     <message>
         <source>Add images</source>
-        <translation>הוספת תמונות</translation>
+        <translation>הוסף תמונות</translation>
     </message>
     <message>
         <source>Whiteboard toolbar</source>
@@ -16697,7 +16670,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     <message>
         <source>Are you sure you want to end the session?
 The contents of the whiteboard will be lost.</source>
-        <translation>האם אכן ברצונך לסיים את הסשן?
+        <translation>האם אתה בטוח שברצונךלסיים את הסשן?
 התכולה של הלוח הלבן תאובד.</translation>
     </message>
     <message>
@@ -16716,7 +16689,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Set new width:</source>
-        <translation>הגדרת רוחב חדש:</translation>
+        <translation>קבע רוחב חדש:</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -16724,7 +16697,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Set new height:</source>
-        <translation>הגדרת גובה חדש:</translation>
+        <translation>קבע גובה חדש:</translation>
     </message>
     <message>
         <source>Height:</source>
@@ -16732,11 +16705,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Save Whitebaord</source>
-        <translation>שמירת לוח לבן</translation>
+        <translation>שמור לוח לבן</translation>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Whiteboard (%1)</source>
@@ -16782,7 +16755,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Open Existing SVG?</source>
-        <translation>פתיחת SVG קיים?</translation>
+        <translation>פתח SVG קיים?</translation>
     </message>
     <message>
         <source>Would you like to open an existing SVG document in the whitebaord?</source>
@@ -16794,11 +16767,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Whiteboarding Invitation?</source>
-        <translation>התחלת לוח לבן?</translation>
+        <translation>הזמנת לוח לבן?</translation>
     </message>
     <message>
         <source>%1 has invited you to a whiteboarding session. Would you like to join?</source>
@@ -16809,11 +16782,11 @@ Do you still want to close the window?</source>
     <name>WebView</name>
     <message>
         <source>Quote</source>
-        <translation type="unfinished">ציטוט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16836,7 +16809,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>IQ</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>JID:</source>
@@ -16844,15 +16817,15 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Enable</source>
-        <translation>אפשור</translation>
+        <translation>אפשר</translation>
     </message>
     <message>
         <source>Dump Ringbuf</source>
-        <translation>הטלת Ringbuf</translation>
+        <translation>הטל Ringbuf</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>טיהור</translation>
+        <translation>טהר</translation>
     </message>
     <message>
         <source>XML Input...</source>
@@ -16860,7 +16833,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Close</source>
-        <translation>סגירה</translation>
+        <translation>סגור</translation>
     </message>
 </context>
 <context>
@@ -16878,7 +16851,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">ללא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Register</source>
@@ -16902,19 +16875,19 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>VCard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Execute command</source>
-        <translation>הרצת פקודה</translation>
+        <translation>הרץ פקודה</translation>
     </message>
     <message>
         <source>Query version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add to roster</source>
-        <translation>הוספה לרשימה</translation>
+        <translation>הוסף לרשימה</translation>
     </message>
 </context>
 <context>
@@ -16932,7 +16905,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
-        <translation>הממען שלח XML פגום או שאינו יכול להתעבד.</translation>
+        <translation>הממען שלח XML שהינו פגום או שאינו יכול להתעבד.</translation>
     </message>
     <message>
         <source>Conflict</source>
@@ -16960,7 +16933,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Gone</source>
-        <translation type="unfinished"></translation>
+        <translation>עזב</translation>
     </message>
     <message>
         <source>The recipient or server can no longer be contacted at this address.</source>
@@ -16988,7 +16961,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
-        <translation>הישות הממענת סיפקה או תקשרה כתובת XMPP (למשל, ערך של המאפיין &apos;אל&apos;) או היבט מזו (למשל, מזהה מקור) שלא נסרך אל התחביר המוגדר בסכימת מיעון.</translation>
+        <translation>הישות הממענת סיפקה או תקשרה כתובת XMPP (למשל, ערך של המאפיין &apos;אל&apos;) או היבט מזו (למשל, מזהה משאב) שלא נסרך אל התחביר המוגדר בסכימת מיעון.</translation>
     </message>
     <message>
         <source>Not acceptable</source>
@@ -17012,7 +16985,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
-        <translation>על השולח לספק נתוני התחברות מתאימים לפני שזה יותר להוציא את הפעולה אל הפועל, או שזה סיפק נתוני התחברות שאינם מתאימים.</translation>
+        <translation>על הממען לספק נתוני התחברות מתאימים לפני שזה יותר להוציא את הפעולה אל הפועל, או שזה סיפק נתוני התחברות שאינם מתאימים.</translation>
     </message>
     <message>
         <source>Recipient unavailable</source>
@@ -17117,11 +17090,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>&amp;Transmit</source>
-        <translation>&amp;שידור</translation>
+        <translation>&amp;שדר</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגירה</translation>
+        <translation>&amp;סגור</translation>
     </message>
     <message>
         <source>Malformed XML</source>
@@ -17129,7 +17102,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>You have entered malformed XML input. Are you sure you want to send this ?</source>
-        <translation>הזנת קלט XML פגום. האם אכן ברצונך לשלוחו ?</translation>
+        <translation>הזנת קלט XML פגום. האם אתה בטוח שברצונך לשלוחו ?</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -17144,7 +17117,7 @@ Do you still want to close the window?</source>
     <name>options</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Sounds:</source>
@@ -17152,11 +17125,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Game started:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Game finished:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Your turn:</source>
@@ -17168,27 +17141,27 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>If checked, the sound will always enabled (or disabled)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Override default sound settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disable invitations if status is DND</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disable invitations from conference</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save window height and width</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save window position</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
@@ -17196,11 +17169,11 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Auto Reply Message If Recv:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Auto Reply Message If No Recv:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Custom options:
@@ -17210,23 +17183,23 @@ Do you still want to close the window?</source>
 [-+!]other - default
 [-+!]nil - not in list
 # - comment to end line</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pause for next Recv message:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>min.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Max messages to contact:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation type="unfinished">נטרל אם חלון שיחה הינו פעיל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Transports:</source>
@@ -17241,47 +17214,47 @@ Do you still want to close the window?</source>
     <name>psiotr::AuthenticationDialog</name>
     <message>
         <source>Authenticate %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>To authenticate via question and answer, ask a question whose answer is only known to you and %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>To authenticate manually, exchange your fingerprints over an authenticated channel and compare each other&apos;s fingerprint with the one listed beneath.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Authenticate to %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 wants to authenticate you. To authenticate, answer the question asked below.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Question and answer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fingerprint verification</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Question:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>A&amp;nswer:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Authenticate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This contact is already authenticated.</source>
@@ -17289,146 +17262,146 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>No private key for account &quot;%1&quot;</source>
-        <translation type="unfinished">אין מפתח פרטי עבור חשבון &quot;%1&quot;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Your fingerprint:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished">חשבון: </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished">טביעת אצבע: </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 has canceled the authentication process.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>An error occured during the authentication process.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Authentication successful.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You have been successfully authenticated.
 
 You should authenticate %1 as well by asking your own question.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>To authenticate via shared secret, enter a secret only known to you and %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 wants to authenticate you. To authenticate, enter your shared secret below.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shared secret</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Shared Secret:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1&apos;s fingerprint:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
         <source>Known fingerprints</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>My private keys</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
     <message>
         <source>OTR Policy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disable private messaging</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Manually start private messaging</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Automatically start private messaging</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Require private messaging</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>End session when contact goes offline</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>psiotr::FingerprintWidget</name>
     <message>
         <source>Delete fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Verify fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">חשבון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished">טביעת אצבע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Verified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">מצב</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Are you sure you want to delete the following fingerprint?</source>
@@ -17436,46 +17409,46 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished">חשבון: </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished">טביעת אצבע: </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">מחיקה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">העתקת טביעת אצבע</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>psiotr::PrivKeyWidget</name>
     <message>
         <source>Generate new key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished">חשבון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fingerprint</source>
@@ -17495,7 +17468,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Are you sure you want to overwrite the following key?</source>
@@ -17503,7 +17476,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">מחיקה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -17518,11 +17491,11 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Session ID between account &quot;%1&quot; and %2:&lt;br/&gt;%3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No private key for account &quot;%1&quot;</source>
@@ -17536,31 +17509,31 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>unverified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OTR Messaging [%1]</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Refre&amp;sh private conversation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Start private conversation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;End private conversation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Authenticate contact</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show secure session &amp;ID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
@@ -17571,7 +17544,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Off-the-Record Messaging plugin for Psi+</source>
@@ -17583,39 +17556,39 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No one else can read your instant messages.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You are assured the correspondent is who you think it is.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Deniability</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>If you lose control of your private keys, no previous conversation is compromised.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>For further information, see &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</source>
@@ -17623,39 +17596,39 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Attempting to start a private conversation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Private conversation started</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unverified conversation started</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Private conversation lost</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Private conversation closed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 has ended the private conversation with you; you should do the same.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Private conversation refreshed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unverified conversation refreshed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contact authenticated</source>
@@ -17670,11 +17643,11 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>requestAuthDialogClass</name>
     <message>
         <source>Authorization</source>
-        <translation type="unfinished">הרשאה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Login:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Password:</source>
@@ -17686,75 +17659,75 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Captcha:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>settings</name>
     <message>
         <source>settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Edit JIDs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>bold</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>italic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>underline</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>@username</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>*tag</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>#message id</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&gt;quote</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>http://link</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Use message Id as resource</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Photo</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Avatars</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Replaces message id with a link
 to this message in juick@conference.jabber.ru</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear avatar cache</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -17781,15 +17754,15 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source> kb/sec</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Upload completed. Waiting for verification.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close</source>
@@ -17866,11 +17839,11 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Delete file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation>האם הינך בטוח?</translation>
+        <translation>האם אתה בטוח?</translation>
     </message>
     <message>
         <source>Set password</source>
@@ -17878,22 +17851,22 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Remove password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copy URL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Prolongate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>yandexnarodManageClass</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Get Filelist</source>
@@ -17901,28 +17874,28 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Upload File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Actions:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copy URL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Prolongate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>line1
 line2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Files list:</source>
@@ -17930,19 +17903,19 @@ line2</source>
     </message>
     <message>
         <source>New Item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear Cookies</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open Browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">סגירה</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17957,17 +17930,17 @@ line2</source>
     </message>
     <message>
         <source>Prolongate files...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cookies are obsolete!
 Reathorization...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Can&apos;t get files!
+        <source>Can't get files!
 Try remove cookies.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Filelist downloaded
@@ -17977,26 +17950,26 @@ Try remove cookies.</source>
     </message>
     <message>
         <source>File(s) deleted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File(s) prolongated</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Password is set</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Password is deleted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>yandexnarodPlugin</name>
     <message>
         <source>Open Yandex Narod Manager</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send file via Yandex Narod</source>
@@ -18004,57 +17977,57 @@ Try remove cookies.</source>
     </message>
     <message>
         <source>File sent to %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Yandex Narod Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ported from QutIM Yandex.Narod plugin
 http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>yandexnarodSettingsClass</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">הגדרות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">סיסמה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Test Authorization</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start Manager</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send file template</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%N - file name; %U - file URL; %S - file size</source>
@@ -18062,7 +18035,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Clear Cookies</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
