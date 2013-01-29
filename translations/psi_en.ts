@@ -12149,6 +12149,10 @@ Reason: %1.</translation>
         <source>turn on autojid</source>
         <translation>turn on autojid</translation>
     </message>
+    <message>
+        <source>Copy user JID</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiCli</name>

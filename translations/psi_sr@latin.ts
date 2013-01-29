@@ -11989,6 +11989,10 @@ Reason: %1.</source>
         <source>turn on autojid</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Copy user JID</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiCli</name>

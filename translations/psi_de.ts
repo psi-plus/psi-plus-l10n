@@ -12092,6 +12092,10 @@ Grund: %1.</translation>
         <source>turn on autojid</source>
         <translation>AutoJID aktivieren</translation>
     </message>
+    <message>
+        <source>Copy user JID</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiCli</name>
