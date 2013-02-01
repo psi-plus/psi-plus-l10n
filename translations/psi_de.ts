@@ -759,6 +759,14 @@ der Inaktivität getrennt wird (z. B. von Ihrem Provider oder durch Ihren Router
         <source>Enter the XMPP Address of the contact to block:</source>
         <translation>XMPP Adresse des zu blockierenden Kontaktes eingeben:</translation>
     </message>
+    <message>
+        <source>Delete current host from the list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;don&apos;t use&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountReg</name>

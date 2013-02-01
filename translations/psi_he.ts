@@ -756,6 +756,14 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <source>Enter the XMPP Address of the contact to block:</source>
         <translation>הזן כתובת XMPP של איש קשר לחסימה:</translation>
     </message>
+    <message>
+        <source>Delete current host from the list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;don&apos;t use&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountReg</name>
