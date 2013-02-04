@@ -5819,99 +5819,99 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation type="unfinished"/>
+        <translation>Izgled poruke grupnog razovora</translation>
     </message>
     <message>
         <source>Configure your groupchat theme here</source>
-        <translation type="unfinished"/>
+        <translation>Konfiguriši tvoju temu grupnog razgovora</translation>
     </message>
 </context>
 <context>
     <name>GroupMenu</name>
     <message>
         <source>&amp;None</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bez</translation>
     </message>
     <message>
         <source>&amp;Hidden</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sakriven</translation>
     </message>
     <message>
         <source>&amp;Create New...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kreraj novo...</translation>
     </message>
     <message>
         <source>Create New Group</source>
-        <translation type="unfinished"/>
+        <translation>Kreiraj novu grupu</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation type="unfinished"/>
+        <translation>Unesi novo ime grupe:</translation>
     </message>
 </context>
 <context>
     <name>GroupchatTopicDlg</name>
     <message>
         <source>Set Groupchat Topic</source>
-        <translation type="unfinished"/>
+        <translation>Postavi temu</translation>
     </message>
     <message>
         <source>Text of topic</source>
-        <translation type="unfinished"/>
+        <translation>Tekst teme</translation>
     </message>
 </context>
 <context>
     <name>HTMLTextMenu</name>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"/>
+        <translation>Podebljano</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"/>
+        <translation>Iskošeno</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"/>
+        <translation>Podvučeno</translation>
     </message>
     <message>
         <source>Strike Out</source>
-        <translation type="unfinished"/>
+        <translation>Izbrisati</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation type="unfinished"/>
+        <translation>Boja teksta</translation>
     </message>
     <message>
         <source>Background Color</source>
-        <translation type="unfinished"/>
+        <translation>Boja pozadine</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"/>
+        <translation>Font</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Resetovanje</translation>
     </message>
 </context>
 <context>
     <name>HistoryDlg</name>
     <message>
         <source>HistoryDlg</source>
-        <translation type="unfinished"/>
+        <translation>IstorijaDlg</translation>
     </message>
     <message>
         <source>Refresh history</source>
-        <translation type="unfinished"/>
+        <translation>Obnovi istoriju</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Osveži</translation>
     </message>
     <message>
         <source>&amp;Earliest</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Najranije</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
@@ -5923,15 +5923,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Lastest</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Najkasnije</translation>
     </message>
     <message>
         <source>Remove history</source>
-        <translation type="unfinished"/>
+        <translation>Ukloni istoriju</translation>
     </message>
     <message>
         <source>Are you sure you want to completely remove history for a contact %1?</source>
-        <translation type="unfinished"/>
+        <translation>Da li ste sigurni da želite kompletno ukloniti istoriju za kontakte %1?</translation>
     </message>
     <message>
         <source>Export message history</source>
@@ -5951,66 +5951,66 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Open chat</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Otvori razgovor</translation>
     </message>
     <message>
         <source>&amp;Export history</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Izvezi istoriju</translation>
     </message>
     <message>
         <source>&amp;Delete history</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Obriši istoriju</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished"/>
+        <translation>Istorija</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>Kopiraj</translation>
     </message>
     <message>
         <source>Copy link to the clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Kopiraj link u klipbord</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Otvori</translation>
     </message>
     <message>
         <source>Open link in browser</source>
-        <translation type="unfinished"/>
+        <translation>Otvori link u čitaču</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zatvori</translation>
     </message>
     <message>
         <source>Close history</source>
-        <translation type="unfinished"/>
+        <translation>Zatvori istoriju</translation>
     </message>
 </context>
 <context>
     <name>HistoryKeeperPlugin</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Remove history for contacts:</source>
-        <translation type="unfinished"/>
+        <translation>Obriši istoriju za konatkte:</translation>
     </message>
     <message>
         <source>Clear history on exit</source>
-        <translation type="unfinished"/>
+        <translation>Očisti istoriju na izlazu</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-pošta:</translation>
     </message>
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi+ is closed.
@@ -6022,7 +6022,7 @@ You can select or deselect a contact for history removal from the context menu o
     <name>HistoryView</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Zatvori</translation>
     </message>
 </context>
 <context>
@@ -6558,43 +6558,43 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Role:</source>
-        <translation type="unfinished"/>
+        <translation>Uloga:</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"/>
+        <translation>Lokacija:</translation>
     </message>
     <message>
         <source>Country:</source>
-        <translation type="unfinished"/>
+        <translation>Država:</translation>
     </message>
     <message>
         <source>Postal Code:</source>
-        <translation type="unfinished"/>
+        <translation>Poštanski kod:</translation>
     </message>
     <message>
         <source>State:</source>
-        <translation type="unfinished"/>
+        <translation>Država:</translation>
     </message>
     <message>
         <source>City:</source>
-        <translation type="unfinished"/>
+        <translation>Grad:</translation>
     </message>
     <message>
         <source>Street:</source>
-        <translation type="unfinished"/>
+        <translation>Ulica:</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"/>
+        <translation>O</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Alt+D</source>
-        <translation type="unfinished"/>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <source>psi/disco</source>
@@ -6728,15 +6728,15 @@ na raspolaganju</translation>
     </message>
     <message>
         <source>Play Black</source>
-        <translation type="unfinished"/>
+        <translation>Reprodukuj crno</translation>
     </message>
     <message>
         <source>Play White</source>
-        <translation type="unfinished"/>
+        <translation>Reprodukuj belo</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Otkaži</translation>
     </message>
 </context>
 <context>
@@ -6788,18 +6788,18 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>Play White</source>
-        <translation type="unfinished"/>
+        <translation>Repridukuj belo</translation>
     </message>
     <message>
         <source>Play Black</source>
-        <translation type="unfinished"/>
+        <translation>Reprodukuj crno</translation>
     </message>
 </context>
 <context>
     <name>JDMainWin</name>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Osveži</translation>
     </message>
     <message>
         <source>Clear log</source>
@@ -6827,7 +6827,7 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>Make dir</source>
-        <translation type="unfinished"/>
+        <translation>Napravi direktorijum</translation>
     </message>
     <message>
         <source>Get File</source>
@@ -6871,15 +6871,15 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Da li ste sigurni?</translation>
     </message>
     <message>
         <source>Input Dir Name</source>
-        <translation type="unfinished"/>
+        <translation>Ulazno ime direktorijuma</translation>
     </message>
     <message>
         <source>Input Full JID</source>
-        <translation type="unfinished"/>
+        <translation>Ulazni  JID</translation>
     </message>
     <message>
         <source>Input New Name</source>
@@ -6890,15 +6890,15 @@ to play gomoku. He wants to play %2.</source>
     <name>JabberDiskPlugin</name>
     <message>
         <source>Jabber Disk</source>
-        <translation type="unfinished"/>
+        <translation>Jabber disk</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-pošta</translation>
     </message>
 </context>
 <context>
@@ -6909,29 +6909,29 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Ukloni</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>JuickJidList</name>
     <message>
         <source>Input JID</source>
-        <translation type="unfinished"/>
+        <translation>Ulazni JID</translation>
     </message>
 </context>
 <context>
     <name>JuickPlugin</name>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Upozorenje</translation>
     </message>
     <message>
         <source>can't create folder %1 
@@ -6948,15 +6948,15 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Send personal message to %1</source>
-        <translation type="unfinished"/>
+        <translation>Pošalji ličnu poruku za %1</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Ukloni</translation>
     </message>
     <message>
         <source>Add to favorites</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj u favorite</translation>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -6985,19 +6985,19 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Toolbar:</source>
-        <translation type="unfinished"/>
+        <translation>Traka sa alatkama</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dodaj</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished"/>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ukloni</translation>
     </message>
     <message>
         <source>Alt+D</source>
@@ -7315,38 +7315,38 @@ Reason: %1</source>
     <name>MUCReasonsEditor</name>
     <message>
         <source>Reason editor</source>
-        <translation type="unfinished"/>
+        <translation>Editor razloga</translation>
     </message>
     <message>
         <source>Reasons</source>
-        <translation type="unfinished"/>
+        <translation>Razlozi</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Obriši</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Sačuvaj</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Otkaži</translation>
     </message>
 </context>
 <context>
     <name>MainWin</name>
     <message>
         <source>Diagnostics</source>
-        <translation type="unfinished"/>
+        <translation>Dizagnoze</translation>
     </message>
     <message>
         <source>View</source>
@@ -7386,7 +7386,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>About GStreamer</source>
-        <translation type="unfinished"/>
+        <translation>O GStreamer</translation>
     </message>
     <message>
         <source>Security Plugins Diagnostic Text</source>
@@ -7780,11 +7780,11 @@ Tags: %1</source>
     </message>
     <message>
         <source>Chats</source>
-        <translation type="unfinished"/>
+        <translation>Razgovori</translation>
     </message>
     <message>
         <source>Messages (Chats if Chatting)</source>
-        <translation type="unfinished"/>
+        <translation>Poruke (razgovori)</translation>
     </message>
     <message>
         <source>XMPP address completion</source>
@@ -7795,11 +7795,11 @@ Tags: %1</source>
     <name>OptAppearance</name>
     <message>
         <source>OptAppearanceUI</source>
-        <translation type="unfinished"/>
+        <translation>OptAppearanceUI</translation>
     </message>
     <message>
         <source>Colors</source>
-        <translation type="unfinished"/>
+        <translation>Boje</translation>
     </message>
     <message>
         <source>Account heading foreground:</source>
@@ -7807,7 +7807,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Specifies the background color for an account name in the main window.</source>
-        <translation type="unfinished"/>
+        <translation>Izbor pozadinske boje za ime naloga u glavnom prozoru.</translation>
     </message>
     <message>
         <source>Account heading background:</source>
@@ -7875,23 +7875,23 @@ Tags: %1</source>
     </message>
     <message>
         <source>DND contacts:</source>
-        <translation type="unfinished"/>
+        <translation>DND kontakti:</translation>
     </message>
     <message>
         <source>Offline contacts:</source>
-        <translation type="unfinished"/>
+        <translation>Kontakti u odsustvu:</translation>
     </message>
     <message>
         <source>Specifies the background color for the main window.</source>
-        <translation type="unfinished"/>
+        <translation>Izbor pozadinske boje za glavni prozor.</translation>
     </message>
     <message>
         <source>Contact list background:</source>
-        <translation type="unfinished"/>
+        <translation>Pozadina kontakt liste:</translation>
     </message>
     <message>
         <source>Status messages:</source>
-        <translation type="unfinished"/>
+        <translation>Statusne poruke:</translation>
     </message>
     <message>
         <source>Specifies the color for additional text of system messages. MUC topic for example.</source>
@@ -8138,19 +8138,19 @@ Tags: %1</source>
     </message>
     <message>
         <source>When chat window is closed</source>
-        <translation type="unfinished"/>
+        <translation>Kad je prozor grupnog razgovora zatvoren</translation>
     </message>
     <message>
         <source>One hour after chat window was closed</source>
-        <translation type="unfinished"/>
+        <translation>Jedan sat od zatvaranja prozora za razgovor</translation>
     </message>
     <message>
         <source>One day after chat window was closed</source>
-        <translation type="unfinished"/>
+        <translation>Jedan dan od zatvaranja prozora za razgovor</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished"/>
+        <translation>Nikad</translation>
     </message>
     <message>
         <source>Enable Alt-[0-9] tab shortcuts</source>
@@ -8161,11 +8161,11 @@ Tags: %1</source>
     <name>OptEvents</name>
     <message>
         <source>OptEventsUI</source>
-        <translation type="unfinished"/>
+        <translation>OptEventsUI</translation>
     </message>
     <message>
         <source>Auto-open new messages</source>
-        <translation type="unfinished"/>
+        <translation>Auto otvaranje novih poruka</translation>
     </message>
     <message>
         <source>Auto-open new headlines</source>
@@ -8173,15 +8173,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Auto-open new files</source>
-        <translation type="unfinished"/>
+        <translation>Auto otvarenje novih fajlova</translation>
     </message>
     <message>
         <source>Allow auto-open even when Away/XA</source>
-        <translation type="unfinished"/>
+        <translation>Dozvoli automatsko otvaranje čak i kada sam Odsutan/Nedostupan</translation>
     </message>
     <message>
         <source>Allow auto-open even from unlisted users</source>
-        <translation type="unfinished"/>
+        <translation>Dozvoli automatsko otvaranje čak i za korisnike koji nisu na spisku</translation>
     </message>
     <message>
         <source>Raise roster window on new event</source>
@@ -8189,15 +8189,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Ignore events from contacts not already in your roster</source>
-        <translation type="unfinished"/>
+        <translation>Zanemari događaje koji dolaze od kontakata koji nisu na spisku</translation>
     </message>
     <message>
         <source>Auto-authorize contacts</source>
-        <translation type="unfinished"/>
+        <translation>Automatsko odobri kontakte</translation>
     </message>
     <message>
         <source>Notify when authorization was received</source>
-        <translation type="unfinished"/>
+        <translation>Obavesti po primanju odobrenja</translation>
     </message>
     <message>
         <source>Bounce dock:</source>
@@ -8205,89 +8205,89 @@ Tags: %1</source>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished"/>
+        <translation>Nikad</translation>
     </message>
     <message>
         <source>Once</source>
-        <translation type="unfinished"/>
+        <translation>Jednom</translation>
     </message>
     <message>
         <source>Forever</source>
-        <translation type="unfinished"/>
+        <translation>Zauvek</translation>
     </message>
     <message>
         <source>Animation:</source>
-        <translation type="unfinished"/>
+        <translation>Animacija:</translation>
     </message>
     <message>
         <source>No animation</source>
-        <translation type="unfinished"/>
+        <translation>Bez animacije</translation>
     </message>
     <message>
         <source>Blink</source>
-        <translation type="unfinished"/>
+        <translation>Treptanje</translation>
     </message>
     <message>
         <source>Animate</source>
-        <translation type="unfinished"/>
+        <translation>Animiraj</translation>
     </message>
 </context>
 <context>
     <name>OptPlugins</name>
     <message>
         <source>OptPluginsUI</source>
-        <translation type="unfinished"/>
+        <translation>OptPluginsUI</translation>
     </message>
     <message>
         <source>Plugin Name:</source>
-        <translation type="unfinished"/>
+        <translation>Ime priključka:</translation>
     </message>
     <message>
         <source>Version: 0</source>
-        <translation type="unfinished"/>
+        <translation>Verzija:0</translation>
     </message>
     <message>
         <source>Load this plugin</source>
-        <translation type="unfinished"/>
+        <translation>Učitaj ovaj priključak</translation>
     </message>
     <message>
         <source>Plugin Location:</source>
-        <translation type="unfinished"/>
+        <translation>Lokacija priključka:</translation>
     </message>
     <message>
         <source>No plugin selected</source>
-        <translation type="unfinished"/>
+        <translation>Bez odabranog priključka</translation>
     </message>
 </context>
 <context>
     <name>OptPopups</name>
     <message>
         <source>OptPopupsUI</source>
-        <translation type="unfinished"/>
+        <translation>OptPopupsUI</translation>
     </message>
     <message>
         <source>Enable popup notifications</source>
-        <translation type="unfinished"/>
+        <translation>Omogući iskačuće prozore sa obaveštenjima</translation>
     </message>
     <message>
         <source>Notifications type</source>
-        <translation type="unfinished"/>
+        <translation>Tip obaveštenja</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Opšte</translation>
     </message>
     <message>
         <source>Popup notifications</source>
-        <translation type="unfinished"/>
+        <translation>Iskačuća obaveštenja</translation>
     </message>
     <message>
         <source>On incoming message event</source>
-        <translation type="unfinished"/>
+        <translation>Na dolazne poruke o dogadjajima</translation>
     </message>
     <message>
         <source>Show incoming message on popup</source>
-        <translation type="unfinished"/>
+        <translation>Pokaži dolazne poruke kao iskačuće</translation>
     </message>
     <message>
         <source>On incoming headline event</source>
@@ -8319,7 +8319,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Limitations</source>
-        <translation type="unfinished"/>
+        <translation>Ograničenja</translation>
     </message>
     <message>
         <source>Maximum JID length:</source>
@@ -8347,7 +8347,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished"/>
+        <translation>Ostalo</translation>
     </message>
     <message>
         <source>Avatar size:</source>
@@ -8493,34 +8493,34 @@ Tags: %1</source>
     </message>
     <message>
         <source>Shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Prečice</translation>
     </message>
     <message>
         <source>Add...</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj...</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Ukloni</translation>
     </message>
     <message>
         <source>Edit...</source>
-        <translation type="unfinished"/>
+        <translation>Izmeni...</translation>
     </message>
     <message>
         <source>Restore defaults</source>
-        <translation type="unfinished"/>
+        <translation>Povrati podrazumevano</translation>
     </message>
 </context>
 <context>
     <name>OptSound</name>
     <message>
         <source>OptSoundUI</source>
-        <translation type="unfinished"/>
+        <translation>OptSoundUI</translation>
     </message>
     <message>
         <source>Player:</source>
-        <translation type="unfinished"/>
+        <translation>Plejer:</translation>
     </message>
     <message>
         <source>Play sounds when away/XA</source>
@@ -8544,113 +8544,113 @@ Tags: %1</source>
     </message>
     <message>
         <source>Receive message:</source>
-        <translation type="unfinished"/>
+        <translation>Primi poruku:</translation>
     </message>
     <message>
         <source>Send message:</source>
-        <translation type="unfinished"/>
+        <translation>Pošalji poruku:</translation>
     </message>
     <message>
         <source>System message:</source>
-        <translation type="unfinished"/>
+        <translation>Sistemska poruka:</translation>
     </message>
     <message>
         <source>Incoming file transfer:</source>
-        <translation type="unfinished"/>
+        <translation>Dolazni fajl transfer:</translation>
     </message>
     <message>
         <source>File transfer complete:</source>
-        <translation type="unfinished"/>
+        <translation>Kompletan fajl transfer:</translation>
     </message>
     <message>
         <source>Receive next chat:</source>
-        <translation type="unfinished"/>
+        <translation>Primi sledeći razgovor:</translation>
     </message>
     <message>
         <source>Receive first chat:</source>
-        <translation type="unfinished"/>
+        <translation>Primi prvi razgovor</translation>
     </message>
     <message>
         <source>Receive offline status:</source>
-        <translation type="unfinished"/>
+        <translation>Primi status odsutnosti:</translation>
     </message>
     <message>
         <source>Receive MUC message</source>
-        <translation type="unfinished"/>
+        <translation>Primi MUC poruku</translation>
     </message>
     <message>
         <source>Reset to defaults</source>
-        <translation type="unfinished"/>
+        <translation>Povrati na podrazumevano</translation>
     </message>
 </context>
 <context>
     <name>OptStatusAuto</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>Auto status</source>
-        <translation type="unfinished"/>
+        <translation>Auto status</translation>
     </message>
     <message>
         <source> minutes</source>
-        <translation type="unfinished"/>
+        <translation>minuti</translation>
     </message>
     <message>
         <source>Auto offline after:</source>
-        <translation type="unfinished"/>
+        <translation>Auto odsutan posle:</translation>
     </message>
     <message>
         <source>Auto XA after:</source>
-        <translation type="unfinished"/>
+        <translation>Auto XA posle:</translation>
     </message>
     <message>
         <source>Auto away after:</source>
-        <translation type="unfinished"/>
+        <translation>Auto odsutan posle:</translation>
     </message>
     <message>
         <source>Priority:</source>
-        <translation type="unfinished"/>
+        <translation>Prioriteti:</translation>
     </message>
     <message>
         <source>Status message:</source>
-        <translation type="unfinished"/>
+        <translation>Statusna poruka</translation>
     </message>
     <message>
         <source>Default priority</source>
-        <translation type="unfinished"/>
+        <translation>Podrazumevani prioritet</translation>
     </message>
     <message>
         <source>Online:</source>
-        <translation type="unfinished"/>
+        <translation>Na vezi:</translation>
     </message>
     <message>
         <source>Away:</source>
-        <translation type="unfinished"/>
+        <translation>Odsutan:</translation>
     </message>
     <message>
         <source>Free For Chat:</source>
-        <translation type="unfinished"/>
+        <translation>Slobodan za razgovor:</translation>
     </message>
     <message>
         <source>XA:</source>
-        <translation type="unfinished"/>
+        <translation>XA:</translation>
     </message>
     <message>
         <source>Do Not Disturb:</source>
-        <translation type="unfinished"/>
+        <translation>Do Not Disturb:</translation>
     </message>
     <message>
         <source>Invisible:</source>
-        <translation type="unfinished"/>
+        <translation>Nevidljiv:</translation>
     </message>
 </context>
 <context>
     <name>OptStatusGeneral</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>Prompt for status message when choosing</source>
@@ -8658,19 +8658,19 @@ Tags: %1</source>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished"/>
+        <translation>Na vezi</translation>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation type="unfinished"/>
+        <translation>Slobodan za razgovor</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Odsutan</translation>
     </message>
     <message>
         <source>Not Available</source>
-        <translation type="unfinished"/>
+        <translation>Nije dosupan</translation>
     </message>
     <message>
         <source>Do not Disturb</source>
@@ -8678,27 +8678,27 @@ Tags: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Nepovezan</translation>
     </message>
     <message>
         <source>Status menus</source>
-        <translation type="unfinished"/>
+        <translation>Statusni meniji</translation>
     </message>
     <message>
         <source>Show presets in menus:</source>
-        <translation type="unfinished"/>
+        <translation>Pokaži stanice u menijima:</translation>
     </message>
     <message>
         <source>As submenu</source>
-        <translation type="unfinished"/>
+        <translation>Kao podmeni</translation>
     </message>
     <message>
         <source>With standard statuses</source>
-        <translation type="unfinished"/>
+        <translation>Sa standardnim statusima</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Br</translation>
     </message>
     <message>
         <source>Hide Free for Chat, Away, Not Available and Do not Disturb</source>
