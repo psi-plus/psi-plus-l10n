@@ -9911,19 +9911,19 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="unfinished"/>
+        <translation>Fazer a janela principal do Psi estar estar afrente de outras janelas.</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation type="unfinished"/>
+        <translation>Faz a janela do Psi redimensionar automaticamente para caber todos os contatos.</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="unfinished"/>
+        <translation>Normalmente, o botão direito do mouse num contato ativará o menu de contexto. Marque esta opção se você preferir usar o botão esquerdo do mouse.</translation>
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation type="unfinished"/>
+        <translation>Mostra a barra de menu na janela do aplicativo.</translation>
     </message>
 </context>
 <context>
@@ -10007,93 +10007,93 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     <name>OptionsTabStatusAuto</name>
     <message>
         <source>Auto status and priority</source>
-        <translation type="unfinished"/>
+        <translation>Auto status e prioridade</translation>
     </message>
     <message>
         <source>Auto status and priority preferences</source>
-        <translation type="unfinished"/>
+        <translation>Auto status e preferencias de prioridade</translation>
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;away&quot; if your computer is idle for the specified amount of time.</source>
-        <translation type="unfinished"/>
+        <translation>Fazer automaticamente o Psi definir seu status para &quot;ausente&quot; se o seu computador estiver ocioso para o período de tempo especificado.</translation>
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;extended away&quot; if your computer is idle for the specified amount of time.</source>
-        <translation type="unfinished"/>
+        <translation>Fazer automaticamente o Psi definir seu status para &quot;ausente estendido&quot; se o seu computador estiver ocioso para o período de tempo especificado.</translation>
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation type="unfinished"/>
+        <translation>Fazer automaticamente o Psi definir seu status para &quot;offline se o seu computador estiver ocioso para o período de tempo especificado.  Isto desconectara você do servidor Jabber.</translation>
     </message>
     <message>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
-        <translation type="unfinished"/>
+        <translation>Especificar uma mensagem estendida para usar, se você permitir o Psi definir seu status automaticamente.  Veja as opções acima.</translation>
     </message>
     <message>
         <source>Specifies priority of auto-away status. If empty, Psi will use account&apos;s default priority.</source>
-        <translation type="unfinished"/>
+        <translation>Especificar prioridade de status auto-ausente. Se vazio, Psi usará sua conta padrão como prioridade.</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabStatusGeneral</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Geral</translation>
     </message>
     <message>
         <source>General status preferences</source>
-        <translation type="unfinished"/>
+        <translation>Preferências status geral</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Editar</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Remover</translation>
     </message>
     <message>
         <source>Press this button to create a new status message preset.</source>
-        <translation type="unfinished"/>
+        <translation>Pressione este botão para criar uma predefinição de nova mensagem de status.</translation>
     </message>
     <message>
         <source>Press this button to delete a status message preset.</source>
-        <translation type="unfinished"/>
+        <translation>Pressione este botão para remover uma predefinição de status de mensagem.</translation>
     </message>
     <message>
         <source>You may edit the message here for the currently selected status message preset in the list to the above.</source>
-        <translation type="unfinished"/>
+        <translation>Você pode editar a mensagem aqui para a mensagem de status atualmente selecionada na lista para o acima.</translation>
     </message>
     <message>
         <source>Use this to choose the status that will be assigned to this preset</source>
-        <translation type="unfinished"/>
+        <translation>Use-a para escolher o status que será atribuído a esta predefinição</translation>
     </message>
     <message>
         <source>Fill in the priority that will be assigned to this preset. If no priority is given, the default account priority will be used.</source>
-        <translation type="unfinished"/>
+        <translation>Preencha a prioridade que será atribuído a esta predefinição. Se nenhuma prioridade for dada, a prioridade padrão será usada.</translation>
     </message>
     <message>
         <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation type="unfinished"/>
+        <translation>Jabber permite que você coloque mensagens de status estendida em todos os tipos de status. Normalmente, o Psi não lhe pede uma mensagem adicional quando você definir seu status para &quot; online&quot;.  Marque esta opção se você quiser ter esse aviso.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>Can&apos;t create a blank preset!</source>
-        <translation type="unfinished"/>
+        <translation>Não é possível criar uma predefinição em branco!</translation>
     </message>
     <message>
         <source>You already have a preset with that name!</source>
-        <translation type="unfinished"/>
+        <translation>Você já tem uma predefinição com esse nome!</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabStatusPep</name>
     <message>
         <source>PEP</source>
-        <translation type="unfinished"/>
+        <translation>PEP</translation>
     </message>
     <message>
         <source>Tunes no-video filter and controllers switcher</source>
@@ -10156,95 +10156,95 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     <name>OptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Formulário</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Geral</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished"/>
+        <translation>Conta:</translation>
     </message>
     <message>
         <source>For all accounts</source>
-        <translation type="unfinished"/>
+        <translation>Para todas as contas</translation>
     </message>
     <message>
         <source>Deny iq time request</source>
-        <translation type="unfinished"/>
+        <translation>Negar pedido tempo iq</translation>
     </message>
     <message>
         <source>OS</source>
-        <translation type="unfinished"/>
+        <translation>Sistema Operacional</translation>
     </message>
     <message>
         <source>Template</source>
-        <translation type="unfinished"/>
+        <translation>Modelo</translation>
     </message>
     <message>
         <source>OS name</source>
-        <translation type="unfinished"/>
+        <translation>Nome do Sistema Operacional</translation>
     </message>
     <message>
         <source>Client</source>
-        <translation type="unfinished"/>
+        <translation>Cliente</translation>
     </message>
     <message>
         <source>Client name</source>
-        <translation type="unfinished"/>
+        <translation>Nome do cliente</translation>
     </message>
     <message>
         <source>Client version</source>
-        <translation type="unfinished"/>
+        <translation>Versão do cliente</translation>
     </message>
     <message>
         <source>Caps node</source>
-        <translation type="unfinished"/>
+        <translation>Nó caps</translation>
     </message>
     <message>
         <source>Caps version</source>
-        <translation type="unfinished"/>
+        <translation>Versão Caps</translation>
     </message>
     <message>
         <source>Enable for:</source>
-        <translation type="unfinished"/>
+        <translation>Ativar para:</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Contatos</translation>
     </message>
     <message>
         <source>Conferences</source>
-        <translation type="unfinished"/>
+        <translation>Conferências</translation>
     </message>
     <message>
         <source>Show popup at version iq</source>
-        <translation type="unfinished"/>
+        <translation>Exibir pop-up na versão iq</translation>
     </message>
     <message>
         <source>never</source>
-        <translation type="unfinished"/>
+        <translation>nunca</translation>
     </message>
     <message>
         <source>if iq replaced</source>
-        <translation type="unfinished"/>
+        <translation>se iq substituído</translation>
     </message>
     <message>
         <source>always</source>
-        <translation type="unfinished"/>
+        <translation>sempre</translation>
     </message>
     <message>
         <source>Save queryes to log</source>
-        <translation type="unfinished"/>
+        <translation>Salvar consultas no registro</translation>
     </message>
     <message>
         <source>Logs</source>
-        <translation type="unfinished"/>
+        <translation>Registros</translation>
     </message>
     <message>
         <source>View log</source>
-        <translation type="unfinished"/>
+        <translation>Ver registro</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -10884,7 +10884,7 @@ Você poderá salvar o jogo.</translation>
     </message>
     <message>
         <source>Incoming Presence</source>
-        <translation type="unfinished"/>
+        <translation>Presença de Entrada</translation>
     </message>
     <message>
         <source>If:</source>
@@ -11009,7 +11009,9 @@ Use apenas letras ou números. Sem pontuações ou espaços.</translation>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Como precaução, você está sendo solicitado pela última vez se é isso que você realmente quer.  A seguinte pasta será deletada!&lt;br&gt;&lt;br&gt;
+&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+Proceder?</translation>
     </message>
     <message>
         <source>&amp;No</source>
@@ -11260,31 +11262,31 @@ Marque a opção &lt;i&gt;Habilitar Emoticons&lt;/i&gt; se você deseja que text
     <name>ProxySettingsDlg</name>
     <message>
         <source>Proxy Server Settings</source>
-        <translation type="unfinished"/>
+        <translation>Configurações do Servidor Proxy</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"/>
+        <translation>Tipo:</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="unfinished"/>
+        <translation>Servidor:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="unfinished"/>
+        <translation>Porta:</translation>
     </message>
     <message>
         <source>99999; </source>
-        <translation type="unfinished"/>
+        <translation>99999; </translation>
     </message>
     <message>
         <source>User:</source>
-        <translation type="unfinished"/>
+        <translation>Usuário:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Senha:</translation>
     </message>
 </context>
 <context>
@@ -11309,7 +11311,7 @@ Você deseja desconectar?</translation>
     </message>
     <message>
         <source>Reconnecting</source>
-        <translation type="unfinished"/>
+        <translation>Reconectando</translation>
     </message>
     <message>
         <source>Encryption Error</source>
@@ -11481,7 +11483,7 @@ Você deseja desconectar?</translation>
     </message>
     <message>
         <source>Wrong Password</source>
-        <translation type="unfinished"/>
+        <translation>Senha Errada</translation>
     </message>
     <message>
         <source>Temporary auth failure</source>
@@ -11515,7 +11517,7 @@ Detalhes: %1</translation>
     </message>
     <message>
         <source>Logged out</source>
-        <translation type="unfinished"/>
+        <translation>Desconectado</translation>
     </message>
     <message>
         <source>You must be connected to the server in order to do this.</source>
@@ -11523,31 +11525,31 @@ Detalhes: %1</translation>
     </message>
     <message>
         <source>Unregister from %1</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar o registro de %1</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Você tem certeza?</translation>
     </message>
     <message>
         <source>Name:	</source>
-        <translation type="unfinished"/>
+        <translation>Nome:	</translation>
     </message>
     <message>
         <source>Version:	</source>
-        <translation type="unfinished"/>
+        <translation>Versão:	</translation>
     </message>
     <message>
         <source>Os:	</source>
-        <translation type="unfinished"/>
+        <translation>Sistema operacional:	</translation>
     </message>
     <message>
         <source>Version Query Information</source>
-        <translation type="unfinished"/>
+        <translation>Versão Informações de Consulta</translation>
     </message>
     <message>
         <source>Headline</source>
-        <translation type="unfinished"/>
+        <translation>Cabeçalho</translation>
     </message>
     <message>
         <source>There was an error trying to sign your status.
@@ -11608,11 +11610,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Show Roster Groups</source>
-        <translation type="unfinished"/>
+        <translation>Exibir Lista de Grupos</translation>
     </message>
     <message>
         <source>Enable/disable groups in roster</source>
-        <translation type="unfinished"/>
+        <translation>Habilitar/desabilitar lista em grupos</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
@@ -11680,11 +11682,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Active contacts</source>
-        <translation type="unfinished"/>
+        <translation>Contatos ativos</translation>
     </message>
     <message>
         <source>Simple way to find contacts with opened chats</source>
-        <translation type="unfinished"/>
+        <translation>Maneira simples de encontrar contatos com bate-papos abertos</translation>
     </message>
     <message>
         <source>Buttons</source>
@@ -11816,27 +11818,27 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Set Mood</source>
-        <translation type="unfinished"/>
+        <translation>Definir Humor</translation>
     </message>
     <message>
         <source>Set Mood for all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Definir Humor para todas as contas ativas</translation>
     </message>
     <message>
         <source>Set Activity</source>
-        <translation type="unfinished"/>
+        <translation>Definir Atividade</translation>
     </message>
     <message>
         <source>Set Activity for all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Definir Atividade para todas as contas ativas</translation>
     </message>
     <message>
         <source>Set Geolocation</source>
-        <translation type="unfinished"/>
+        <translation>Definir GeoLocalização</translation>
     </message>
     <message>
         <source>Set Geolocation for all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Definir GeoLocalização para todas as contas ativas</translation>
     </message>
     <message>
         <source>Publish</source>
@@ -11876,23 +11878,23 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Choose status...</source>
-        <translation type="unfinished"/>
+        <translation>Escolher status...</translation>
     </message>
     <message>
         <source>Choose...</source>
-        <translation type="unfinished"/>
+        <translation>Escolher...</translation>
     </message>
     <message>
         <source>Show dialog to set your status</source>
-        <translation type="unfinished"/>
+        <translation>Exibir caixa de dialogo para definir seu status</translation>
     </message>
     <message>
         <source>Reconnect</source>
-        <translation type="unfinished"/>
+        <translation>Reconectar</translation>
     </message>
     <message>
         <source>Reconnect all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Reconectar todas as contas ativas</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -11944,19 +11946,19 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Psi+ Forum (Online)</source>
-        <translation type="unfinished"/>
+        <translation>Fórum Psi+ (Online)</translation>
     </message>
     <message>
         <source>Psi+ &amp;Forum (Online)</source>
-        <translation type="unfinished"/>
+        <translation>Psi+ &amp;Fórum (Online)</translation>
     </message>
     <message>
         <source>Join Psi+ Discussion Room (Online)</source>
-        <translation type="unfinished"/>
+        <translation>Entrar em Sala de Discussão Psi+ (Online)</translation>
     </message>
     <message>
         <source>&amp;Join Psi+ Discussion Room (Online)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Entrar em Sala de Discussão Psi+ (Online)</translation>
     </message>
     <message>
         <source>Report a Bug (Online)</source>
@@ -12027,7 +12029,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Find toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Encontrar barra de ferramentas</translation>
     </message>
     <message>
         <source>Clear Chat Window</source>
@@ -12035,23 +12037,23 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Encontrar</translation>
     </message>
     <message>
         <source>&amp;Find</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Encontrar</translation>
     </message>
     <message>
         <source>Set Text Format</source>
-        <translation type="unfinished"/>
+        <translation>Definir Formato de Texto</translation>
     </message>
     <message>
         <source>Add Contact To Roster</source>
-        <translation type="unfinished"/>
+        <translation>Adicionar um Contata para a Lista</translation>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="unfinished"/>
+        <translation>Adicionar Contato</translation>
     </message>
     <message>
         <source>Select Icon</source>
@@ -12083,15 +12085,15 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished"/>
+        <translation>Colar e Enviar</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"/>
+        <translation>Modelos</translation>
     </message>
     <message>
         <source>Active contacts</source>
-        <translation type="unfinished"/>
+        <translation>Contatos ativos</translation>
     </message>
     <message>
         <source>Chat Toolbar</source>
@@ -14535,173 +14537,173 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>Screenshot</name>
     <message>
         <source>Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Captura de tela</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Copiar para a área de tranfêrencia</translation>
     </message>
     <message>
         <source>Cancel uploading</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar envio</translation>
     </message>
     <message>
         <source>Upload to server:</source>
-        <translation type="unfinished"/>
+        <translation>Enviar para o servidor:</translation>
     </message>
     <message>
         <source>Upload Screenshot to selected server</source>
-        <translation type="unfinished"/>
+        <translation>Enviar captura de tela para o servidor selecionado</translation>
     </message>
     <message>
         <source>Save Screenshot to Local Drive</source>
-        <translation type="unfinished"/>
+        <translation>Salvar captura de tela para o Disco Local</translation>
     </message>
     <message>
         <source>Print Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Imprimir Captura de Tela</translation>
     </message>
     <message>
         <source>Open image from Local Drive</source>
-        <translation type="unfinished"/>
+        <translation>Abrir imagem de um Disco Local</translation>
     </message>
     <message>
         <source>New Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Nova Captura de Tela</translation>
     </message>
     <message>
         <source>toolBar</source>
-        <translation type="unfinished"/>
+        <translation>Barra de Ferramentas</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>Arquivo</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Opçoẽs</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Ajuda</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Abrir</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Salvar</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Imprimir</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"/>
+        <translation>Sair</translation>
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="unfinished"/>
+        <translation>Configurações de Proxy</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Opções</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished"/>
+        <translation>Histórico</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="unfinished"/>
+        <translation>Sobre o Qt</translation>
     </message>
     <message>
         <source>Home page</source>
-        <translation type="unfinished"/>
+        <translation>Página inicial</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"/>
+        <translation>Enviar</translation>
     </message>
     <message>
         <source>Size: %1x%2px; %3 bytes</source>
-        <translation type="unfinished"/>
+        <translation>Tamanho: %1x%2px; %3 bytes</translation>
     </message>
     <message>
         <source>Open Image</source>
-        <translation type="unfinished"/>
+        <translation>Abrir Imagem</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
-        <translation type="unfinished"/>
+        <translation>Imagens (*.png *.gif *.jpg *.jpeg *.ico)</translation>
     </message>
     <message>
         <source>/%1.</source>
-        <translation type="unfinished"/>
+        <translation>/%1.</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"/>
+        <translation>Salvar Como</translation>
     </message>
     <message>
         <source>%1 Files (*.%2);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>%1 Arquivos (*.%2);;Todos os Arquivos (*)</translation>
     </message>
     <message>
         <source>%1.</source>
-        <translation type="unfinished"/>
+        <translation>%1.</translation>
     </message>
     <message>
         <source>Can&apos;t parse URL (Reply URL: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</source>
-        <translation type="unfinished"/>
+        <translation>Não foi possível analisar URL (Responder URL: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</translation>
     </message>
     <message>
         <source>Close Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Fechar Captura de Tela</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Você tem certeza?</translation>
     </message>
 </context>
 <context>
     <name>ScreenshotOptions</name>
     <message>
         <source>New Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Nova Captura de Tela</translation>
     </message>
     <message>
         <source>Capture the desktop</source>
-        <translation type="unfinished"/>
+        <translation>Capturar a Área de trabalho</translation>
     </message>
     <message>
         <source>Capture current window</source>
-        <translation type="unfinished"/>
+        <translation>Capturar a janela atual</translation>
     </message>
     <message>
         <source>Select capture area</source>
-        <translation type="unfinished"/>
+        <translation>Selecionar a área para capturar</translation>
     </message>
     <message>
         <source>Capture after</source>
-        <translation type="unfinished"/>
+        <translation>Capturar depois</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation>segundos</translation>
     </message>
 </context>
 <context>
     <name>ScreenshotPlugin</name>
     <message>
         <source>Upload Image</source>
-        <translation type="unfinished"/>
+        <translation>Enviar Imagem</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Autores: </translation>
     </message>
     <message>
         <source>This plugin allows you to make screenshots and save them to your hard drive or upload them to an FTP or HTTP server.
@@ -14868,43 +14870,43 @@ Motivo: %1</translation>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
-        <translation type="unfinished"/>
+        <translation>Editor de modelo</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"/>
+        <translation>Modelos</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Adcionar</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Editar</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Remover</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation type="unfinished"/>
+        <translation>Adicionar um modelo de texto</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation type="unfinished"/>
+        <translation>Adicionar um modelo de texto como submenu</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation type="unfinished"/>
+        <translation>Adicionar separdor</translation>
     </message>
     <message>
         <source>Add separator as submenu</source>
@@ -15172,43 +15174,43 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Help Psi MUC</source>
-        <translation type="unfinished"/>
+        <translation>Ajuda Psi MUC</translation>
     </message>
     <message>
         <source>Report Bug</source>
-        <translation type="unfinished"/>
+        <translation>Reportar Bug</translation>
     </message>
     <message>
         <source>About Psi</source>
-        <translation type="unfinished"/>
+        <translation>Sobre o Psi</translation>
     </message>
     <message>
         <source>About PsiMedia</source>
-        <translation type="unfinished"/>
+        <translation>Sobre PsiMedia</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="unfinished"/>
+        <translation>Sobre o QT</translation>
     </message>
     <message>
         <source>QCA plugin diag</source>
-        <translation type="unfinished"/>
+        <translation>Plugin diag QCA</translation>
     </message>
     <message>
         <source>QCA key store diag</source>
-        <translation type="unfinished"/>
+        <translation>Armazenamento diag chave QCA</translation>
     </message>
     <message>
         <source>Shortcuts in the chat dialog</source>
-        <translation type="unfinished"/>
+        <translation>Atalhos no diálogo de bate-papo</translation>
     </message>
     <message>
         <source>Switch to the next tab</source>
-        <translation type="unfinished"/>
+        <translation>Alternar para a próxima aba</translation>
     </message>
     <message>
         <source>Switch to the previous tab</source>
-        <translation type="unfinished"/>
+        <translation>Alternar para a aba anterior</translation>
     </message>
     <message>
         <source>Find text next</source>
@@ -16371,22 +16373,22 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Verifying...</source>
-        <translation type="unfinished"/>
+        <translation>Verificando....</translation>
     </message>
     <message>
         <source>Uploaded successfully</source>
-        <translation type="unfinished"/>
+        <translation>Enviado com sucesso</translation>
     </message>
     <message>
         <source>Verifying failed</source>
-        <translation type="unfinished"/>
+        <translation>Verificação falhou</translation>
     </message>
 </context>
 <context>
     <name>VideoStatusChanger</name>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Autores: </translation>
     </message>
     <message>
         <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
@@ -16409,35 +16411,35 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>ViewLog</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Encontrar</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Save Changes</source>
-        <translation type="unfinished"/>
+        <translation>Salvar Alterações</translation>
     </message>
     <message>
         <source>Delete Log</source>
-        <translation type="unfinished"/>
+        <translation>Remover Registro</translation>
     </message>
     <message>
         <source>Update Log</source>
-        <translation type="unfinished"/>
+        <translation>Atualizar Registro</translation>
     </message>
     <message>
         <source>Delete log file</source>
-        <translation type="unfinished"/>
+        <translation>Remover arquivo de registro</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Você tem certeza?</translation>
     </message>
     <message>
         <source>Save log</source>
-        <translation type="unfinished"/>
+        <translation>Salvar registro</translation>
     </message>
     <message>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
@@ -16445,93 +16447,93 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
-        <translation type="unfinished"/>
+        <translation>Você deseja salvar as alterações?</translation>
     </message>
 </context>
 <context>
     <name>ViewMailDlg</name>
     <message>
         <source>E-Mail</source>
-        <translation type="unfinished"/>
+        <translation>E-Mail</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation type="unfinished"/>
+        <translation>Formulário:</translation>
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="unfinished"/>
+        <translation>Assunto:</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished"/>
+        <translation>Conta:</translation>
     </message>
     <message>
         <source>Open mail in browser</source>
-        <translation type="unfinished"/>
+        <translation>Abrir e-mail no navegador</translation>
     </message>
     <message>
         <source>Open MailBox</source>
-        <translation type="unfinished"/>
+        <translation>Abrir MailBox</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"/>
+        <translation>Anterior</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"/>
+        <translation>Próximo</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Fechar</translation>
     </message>
     <message>
         <source>[%1/%2] E-Mail</source>
-        <translation type="unfinished"/>
+        <translation>[%1/%2] E-Mail</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation type="unfinished"/>
+        <translation>Abrir num navegador</translation>
     </message>
 </context>
 <context>
     <name>Viewer</name>
     <message>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Encontar</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Save Changes</source>
-        <translation type="unfinished"/>
+        <translation>Salvar Alterações</translation>
     </message>
     <message>
         <source>Delete Log</source>
-        <translation type="unfinished"/>
+        <translation>Remover Registro</translation>
     </message>
     <message>
         <source>Update Log</source>
-        <translation type="unfinished"/>
+        <translation>Atualizar Registro</translation>
     </message>
     <message>
         <source>Delete log file</source>
-        <translation type="unfinished"/>
+        <translation>Remover arquivo de registro</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Você tem certeza?</translation>
     </message>
     <message>
         <source>Save log</source>
-        <translation type="unfinished"/>
+        <translation>Salvar registro</translation>
     </message>
     <message>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
@@ -16539,19 +16541,19 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
-        <translation type="unfinished"/>
+        <translation>Você deseja salvar as alterações?</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"/>
+        <translation>Marcar</translation>
     </message>
     <message>
         <source>Uncheck</source>
-        <translation type="unfinished"/>
+        <translation>Desmarcar</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Inverter</translation>
     </message>
 </context>
 <context>
@@ -16620,23 +16622,23 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <name>Watcher</name>
     <message>
         <source>Empty item</source>
-        <translation type="unfinished"/>
+        <translation>Item vazio</translation>
     </message>
     <message>
         <source> change status to </source>
-        <translation type="unfinished"/>
+        <translation>alterar status para</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Escolher um arquivo de som</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Som (*.wav)</translation>
     </message>
     <message>
         <source>&lt;br&gt;Status Message: %1</source>
-        <translation type="unfinished"/>
+        <translation>&lt;br&gt;Mensagem de Status: %1</translation>
     </message>
     <message>
         <source>Watcher Plugin</source>
@@ -17337,59 +17339,59 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>A&amp;nswer:</source>
-        <translation type="unfinished"/>
+        <translation>R&amp;esponder:</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cancelar</translation>
     </message>
     <message>
         <source>&amp;Authenticate</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Autenticar</translation>
     </message>
     <message>
         <source>This contact is already authenticated.</source>
-        <translation type="unfinished"/>
+        <translation>Este contato já esta autenticado</translation>
     </message>
     <message>
         <source>No private key for account &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Nenhuma chave privada para esta conta &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Your fingerprint:</source>
-        <translation type="unfinished"/>
+        <translation>Sua impressão digital:</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished"/>
+        <translation>Conta:</translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished"/>
+        <translation>Usuário:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished"/>
+        <translation>Impressão digital:</translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
-        <translation type="unfinished"/>
+        <translation>Você verificou que este é de fato a impressão digital correta?</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>%1 has canceled the authentication process.</source>
-        <translation type="unfinished"/>
+        <translation>%1 cancelou o processo de autenticação.</translation>
     </message>
     <message>
         <source>An error occured during the authentication process.</source>
-        <translation type="unfinished"/>
+        <translation>Ocorreu um erro durante o processo de autenticação.</translation>
     </message>
     <message>
         <source>Authentication successful.</source>
-        <translation type="unfinished"/>
+        <translation>Autenticado com sucesso.</translation>
     </message>
     <message>
         <source>You have been successfully authenticated.
@@ -17399,7 +17401,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Authentication failed.</source>
-        <translation type="unfinished"/>
+        <translation>Autenticação falhou.</translation>
     </message>
     <message>
         <source>To authenticate via shared secret, enter a secret only known to you and %1.</source>
@@ -17426,215 +17428,216 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>psiotr::ConfigDialog</name>
     <message>
         <source>Known fingerprints</source>
-        <translation type="unfinished"/>
+        <translation>Impressões digitais conhecidas</translation>
     </message>
     <message>
         <source>My private keys</source>
-        <translation type="unfinished"/>
+        <translation>Minhas chaves privadas</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished"/>
+        <translation>Configuração</translation>
     </message>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
     <message>
         <source>OTR Policy</source>
-        <translation type="unfinished"/>
+        <translation>Política OTR</translation>
     </message>
     <message>
         <source>Disable private messaging</source>
-        <translation type="unfinished"/>
+        <translation>Desativar mensagem privada</translation>
     </message>
     <message>
         <source>Manually start private messaging</source>
-        <translation type="unfinished"/>
+        <translation>Iniciar manualmente mensagens privadas</translation>
     </message>
     <message>
         <source>Automatically start private messaging</source>
-        <translation type="unfinished"/>
+        <translation>Automaticamente inciar mensagens privadas</translation>
     </message>
     <message>
         <source>Require private messaging</source>
-        <translation type="unfinished"/>
+        <translation>Requerer mensagens privadas</translation>
     </message>
     <message>
         <source>End session when contact goes offline</source>
-        <translation type="unfinished"/>
+        <translation>Terminar sessão quando o contato ficar offline</translation>
     </message>
 </context>
 <context>
     <name>psiotr::FingerprintWidget</name>
     <message>
         <source>Delete fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Deletar impressão digital</translation>
     </message>
     <message>
         <source>Verify fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Verificar impressão digital</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"/>
+        <translation>Conta</translation>
     </message>
     <message>
         <source>User</source>
-        <translation type="unfinished"/>
+        <translation>Usuário</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Impressão digital</translation>
     </message>
     <message>
         <source>Verified</source>
-        <translation type="unfinished"/>
+        <translation>Verificado</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation type="unfinished"/>
+        <translation>Deseja deletar a impressão digital a seguir?</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished"/>
+        <translation>Conta:</translation>
     </message>
     <message>
         <source>User: </source>
-        <translation type="unfinished"/>
+        <translation>Usuário:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished"/>
+        <translation>Impressão Digitar:</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
-        <translation type="unfinished"/>
+        <translation>Verificou de fato que esta é a impressão digital correta?</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Remover</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Copiar impressão digital</translation>
     </message>
 </context>
 <context>
     <name>psiotr::PrivKeyWidget</name>
     <message>
         <source>Generate new key</source>
-        <translation type="unfinished"/>
+        <translation>Genara nova chave</translation>
     </message>
     <message>
         <source>Delete key</source>
-        <translation type="unfinished"/>
+        <translation>Remover chave</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"/>
+        <translation>Conta</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Impressão digital</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished"/>
+        <translation>Deseja remover a chave a seguir?</translation>
     </message>
     <message>
         <source>Account: </source>
-        <translation type="unfinished"/>
+        <translation>Conta:</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation type="unfinished"/>
+        <translation>Impressão digital:</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>Are you sure you want to overwrite the following key?</source>
-        <translation type="unfinished"/>
+        <translation>Deseja sobrescrever a chave a seguir?</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Remover</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Copiar impressão digital</translation>
     </message>
 </context>
 <context>
     <name>psiotr::PsiOtrClosure</name>
     <message>
         <source>No active encrypted session</source>
-        <translation type="unfinished"/>
+        <translation>Nenhum sessão criptografada ativa</translation>
     </message>
     <message>
         <source>Session ID between account &quot;%1&quot; and %2:&lt;br/&gt;%3</source>
-        <translation type="unfinished"/>
+        <translation>ID da sessão entra as contas &quot;%1&quot; e %2:&lt;br/&gt;%3</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>No private key for account &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Nenhuma chave privada para esta conta &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;:
 %2</source>
-        <translation type="unfinished"/>
+        <translation>Impressão digital para conta &quot;%1&quot;:
+%2</translation>
     </message>
     <message>
         <source>unverified</source>
-        <translation type="unfinished"/>
+        <translation>não verificado</translation>
     </message>
     <message>
         <source>OTR Messaging [%1]</source>
-        <translation type="unfinished"/>
+        <translation>Mensagens OTR [%1]</translation>
     </message>
     <message>
         <source>Refre&amp;sh private conversation</source>
-        <translation type="unfinished"/>
+        <translation>Atual&amp;izar conversa privada</translation>
     </message>
     <message>
         <source>&amp;Start private conversation</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Iniciar uma conversa privada</translation>
     </message>
     <message>
         <source>&amp;End private conversation</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Terminar uma conversa privada</translation>
     </message>
     <message>
         <source>&amp;Authenticate contact</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Autenticar contato</translation>
     </message>
     <message>
         <source>Show secure session &amp;ID</source>
-        <translation type="unfinished"/>
+        <translation>Exibir &amp;ID de sessão segura</translation>
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar &amp;impressão digital própria</translation>
     </message>
 </context>
 <context>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>Off-the-Record Messaging plugin for Psi+</source>
@@ -17733,23 +17736,23 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>requestAuthDialogClass</name>
     <message>
         <source>Authorization</source>
-        <translation type="unfinished"/>
+        <translation>Autorização</translation>
     </message>
     <message>
         <source>Login:</source>
-        <translation type="unfinished"/>
+        <translation>Login:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Senha:</translation>
     </message>
     <message>
         <source>Remember</source>
-        <translation type="unfinished"/>
+        <translation>Lembrar</translation>
     </message>
     <message>
         <source>Captcha:</source>
-        <translation type="unfinished"/>
+        <translation>Captcha:</translation>
     </message>
 </context>
 <context>
@@ -17828,135 +17831,135 @@ to this message in juick@conference.jabber.ru</source>
     <name>uploadDialog</name>
     <message>
         <source>File: </source>
-        <translation type="unfinished"/>
+        <translation>Arquivo: </translation>
     </message>
     <message>
         <source>Progress: </source>
-        <translation type="unfinished"/>
+        <translation>Progresso: </translation>
     </message>
     <message>
         <source>Elapsed time: </source>
-        <translation type="unfinished"/>
+        <translation>Tempo decorrido: </translation>
     </message>
     <message>
         <source>Speed: </source>
-        <translation type="unfinished"/>
+        <translation>Velocidade</translation>
     </message>
     <message>
         <source> kb/sec</source>
-        <translation type="unfinished"/>
+        <translation> kb/seg</translation>
     </message>
     <message>
         <source>Upload completed. Waiting for verification.</source>
-        <translation type="unfinished"/>
+        <translation>Envio completado. À espera de verificação.</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"/>
+        <translation>Feito</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Feito</translation>
     </message>
     <message>
         <source>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>uploadDialogClass</name>
     <message>
         <source>Uploading...</source>
-        <translation type="unfinished"/>
+        <translation>Enviando...</translation>
     </message>
     <message>
         <source>Upload started.</source>
-        <translation type="unfinished"/>
+        <translation>Envio iniciado.</translation>
     </message>
     <message>
         <source>File: </source>
-        <translation type="unfinished"/>
+        <translation>Arquivo: </translation>
     </message>
     <message>
         <source>Progress:</source>
-        <translation type="unfinished"/>
+        <translation>Progresso: </translation>
     </message>
     <message>
         <source>Elapsed time:</source>
-        <translation type="unfinished"/>
+        <translation>Tempo decorrido: </translation>
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="unfinished"/>
+        <translation>Velocidade: </translation>
     </message>
     <message>
         <source>Link: </source>
-        <translation type="unfinished"/>
+        <translation>Link: </translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
     <name>vCardView</name>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished"/>
+        <translation>Nome Completo:</translation>
     </message>
     <message>
         <source>Nick:</source>
-        <translation type="unfinished"/>
+        <translation>Apelido:</translation>
     </message>
     <message>
         <source>Birthday:</source>
-        <translation type="unfinished"/>
+        <translation>Aniversário:</translation>
     </message>
     <message>
         <source>E-Mail:</source>
-        <translation type="unfinished"/>
+        <translation>E-Mail:</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Fechar</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodManage</name>
     <message>
         <source>Yandex.Narod file manager</source>
-        <translation type="unfinished"/>
+        <translation>Gerenciador de arquivos Yandex.Narod</translation>
     </message>
     <message>
         <source>Delete file(s)</source>
-        <translation type="unfinished"/>
+        <translation>Remover arquivo(s)</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Tem certeza?</translation>
     </message>
     <message>
         <source>Set password</source>
-        <translation type="unfinished"/>
+        <translation>Definir senha</translation>
     </message>
     <message>
         <source>Remove password</source>
-        <translation type="unfinished"/>
+        <translation>Remover senha</translation>
     </message>
     <message>
         <source>Copy URL</source>
-        <translation type="unfinished"/>
+        <translation>Copiar URL</translation>
     </message>
     <message>
         <source>Prolongate</source>
-        <translation type="unfinished"/>
+        <translation>Alongar</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodManageClass</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Formulário </translation>
     </message>
     <message>
         <source>Get Filelist</source>
