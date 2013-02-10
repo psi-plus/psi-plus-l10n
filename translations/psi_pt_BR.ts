@@ -9896,18 +9896,18 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>The popups behaviour</source>
-        <translation type="unfinished"/>
+        <translation>Comportamento pop-ups</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabRoster</name>
     <message>
         <source>Roster</source>
-        <translation type="unfinished"/>
+        <translation>Lista</translation>
     </message>
     <message>
         <source>Roster window options</source>
-        <translation type="unfinished"/>
+        <translation>Opções lista de janelas</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
