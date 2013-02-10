@@ -4023,7 +4023,7 @@ Se você deseja confirmar esta solicitação, por favor pressione o botão Confi
     </message>
     <message>
         <source>Show roles and affiliations changes</source>
-        <translation>Mostrar papéis e mudanças nas filiações</translation>
+        <translation>Mostrar cargos e mudanças nas filiações</translation>
     </message>
     <message>
         <source>Enable autojoin for bookmarked conferences</source>
@@ -4071,187 +4071,187 @@ Esta opção terá efeito se o aceitar-padrão for falso.</translation>
     </message>
     <message>
         <source>Use slim group heading</source>
-        <translation type="unfinished"/>
+        <translation>Usar cabeçalho grupo slim</translation>
     </message>
     <message>
         <source>Show status icons</source>
-        <translation type="unfinished"/>
+        <translation>Exibir ícones de status</translation>
     </message>
     <message>
         <source>Show affiliation icons</source>
-        <translation type="unfinished"/>
+        <translation>Exibir ícones de afiliações</translation>
     </message>
     <message>
         <source>Show client icons</source>
-        <translation type="unfinished"/>
+        <translation>Exibir ícones de clientes</translation>
     </message>
     <message>
         <source>Show avatars</source>
-        <translation type="unfinished"/>
+        <translation>Exibir avatares</translation>
     </message>
     <message>
         <source>Place avatars at left</source>
-        <translation type="unfinished"/>
+        <translation>Colocar avatares a esquerda</translation>
     </message>
     <message>
         <source>Sort style for contacts:</source>
-        <translation type="unfinished"/>
+        <translation>Organizar estilos para contatos:</translation>
     </message>
     <message>
         <source>Avatars size:</source>
-        <translation type="unfinished"/>
+        <translation>Tamanho do avatar:</translation>
     </message>
     <message>
         <source>Avatars radius:</source>
-        <translation type="unfinished"/>
+        <translation>Raio do Avatar:</translation>
     </message>
     <message>
         <source>Resolve nicks on contact add</source>
-        <translation type="unfinished"/>
+        <translation>Arrumar apelidos em contatos adicionados</translation>
     </message>
     <message>
         <source>Lockdown roster</source>
-        <translation type="unfinished"/>
+        <translation>Lista de bloqueio</translation>
     </message>
     <message>
         <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
-        <translation type="unfinished"/>
+        <translation>Colocar lista na esquerda em modo &quot;todos-em-uma-janela&quot;</translation>
     </message>
     <message>
         <source>Contact name and status message in a row</source>
-        <translation type="unfinished"/>
+        <translation>Nome de contato e mensagem de status em uma linha</translation>
     </message>
     <message>
         <source>If contact does not have avatar, use default avatar</source>
-        <translation type="unfinished"/>
+        <translation>Se o contato não tem avatar, usar avatar padrão</translation>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="unfinished"/>
+        <translation>Colocar ícone de status sobre o avatar</translation>
     </message>
     <message>
         <source>Automatically remove temporary contacts</source>
-        <translation type="unfinished"/>
+        <translation>Automaticamente remover contatos temporários</translation>
     </message>
     <message>
         <source>Tooltips:</source>
-        <translation type="unfinished"/>
+        <translation>Dicas:</translation>
     </message>
     <message>
         <source>Show avatar</source>
-        <translation type="unfinished"/>
+        <translation>Exibir avatar</translation>
     </message>
     <message>
         <source>Show last status</source>
-        <translation type="unfinished"/>
+        <translation>Exibir último status</translation>
     </message>
     <message>
         <source>Show PGP</source>
-        <translation type="unfinished"/>
+        <translation>Exibir PGP</translation>
     </message>
     <message>
         <source>Show client version</source>
-        <translation type="unfinished"/>
+        <translation>Exibir versão do cliente</translation>
     </message>
     <message>
         <source>Show geolocation</source>
-        <translation type="unfinished"/>
+        <translation>Exibir geolocalização </translation>
     </message>
     <message>
         <source>Show &quot;Admin&quot; option in account menu</source>
-        <translation type="unfinished"/>
+        <translation>Exibir opções do &quot;Administrador&quot; no menu conta</translation>
     </message>
     <message>
         <source>Show &quot;Active Chats&quot; option in contact menu</source>
-        <translation type="unfinished"/>
+        <translation>Exibir opção &quot;Bate-Papo Ativo&quot; no menu de contato</translation>
     </message>
     <message>
         <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
-        <translation type="unfinished"/>
+        <translation>Exibir opção &quot;Assinar Chave OpenPGP&quot; em menu de contato</translation>
     </message>
     <message>
         <source>Show &quot;Picture&quot; option in contact menu</source>
-        <translation type="unfinished"/>
+        <translation>Exibir opção &quot;Imagem&quot; no menu de contato</translation>
     </message>
     <message>
         <source>Show &quot;Change Profile&quot; option in main menu</source>
-        <translation type="unfinished"/>
+        <translation>Exibir opção &quot;Mudar Perfil&quot; no menu principal</translation>
     </message>
     <message>
         <source>Show &quot;Chat&quot; option in status menu</source>
-        <translation type="unfinished"/>
+        <translation>Exibir opção &quot;Bate-Papo&quot; no menu de status</translation>
     </message>
     <message>
         <source>Show &quot;Invisible&quot; option in status menu</source>
-        <translation type="unfinished"/>
+        <translation>Exibir opção &quot;Invisível&quot; no menu de status</translation>
     </message>
     <message>
         <source>Show &quot;XA&quot; option in status menu</source>
-        <translation type="unfinished"/>
+        <translation>Exibir opção &quot;Distante&quot; no menu de status</translation>
     </message>
     <message>
         <source>Enable single messages</source>
-        <translation type="unfinished"/>
+        <translation>Ativar mensagens simples</translation>
     </message>
     <message>
         <source>Popup border color:</source>
-        <translation type="unfinished"/>
+        <translation>Cor de borda do pop-up:</translation>
     </message>
     <message>
         <source>Link color:</source>
-        <translation type="unfinished"/>
+        <translation>Cor do link:</translation>
     </message>
     <message>
         <source>Mailto color:</source>
-        <translation type="unfinished"/>
+        <translation>Cor do &quot;Email para&quot;:</translation>
     </message>
     <message>
         <source>Moderators color:</source>
-        <translation type="unfinished"/>
+        <translation>Cor dos Moderadores:</translation>
     </message>
     <message>
         <source>Participants color:</source>
-        <translation type="unfinished"/>
+        <translation>Cor dos participantes:</translation>
     </message>
     <message>
         <source>Visitors color:</source>
-        <translation type="unfinished"/>
+        <translation>Cor dos visitantes:</translation>
     </message>
     <message>
         <source>No Role color:</source>
-        <translation type="unfinished"/>
+        <translation>Cor dos sem cargo:</translation>
     </message>
     <message>
         <source>MUC roster coloring:</source>
-        <translation type="unfinished"/>
+        <translation>Lista de cores MUC:</translation>
     </message>
     <message>
         <source>ToolTip text color:</source>
-        <translation type="unfinished"/>
+        <translation>Cor de texto das dicas:</translation>
     </message>
     <message>
         <source>ToolTip background color:</source>
-        <translation type="unfinished"/>
+        <translation>Cor de fundo das dicas:</translation>
     </message>
     <message>
         <source>ToolTip coloring:</source>
-        <translation type="unfinished"/>
+        <translation>Coloração das dicas:</translation>
     </message>
     <message>
         <source>Text color for &quot;composing&quot; events on tabs:</source>
-        <translation type="unfinished"/>
+        <translation>Cor do texto do evento &quot;digitando&quot; nas abas:</translation>
     </message>
     <message>
         <source>Text color for &quot;unread&quot; events on tabs:</source>
-        <translation type="unfinished"/>
+        <translation>Cor de texto do evento &quot;não lido&quot; nas abas:</translation>
     </message>
     <message>
         <source>Colors:</source>
-        <translation type="unfinished"/>
+        <translation>Cores:</translation>
     </message>
     <message>
         <source>Popup</source>
-        <translation type="unfinished"/>
+        <translation>Pop-up</translation>
     </message>
     <message>
         <source>Tooltip</source>
@@ -5166,7 +5166,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation>Alterar Função</translation>
+        <translation>Alterar Cargo</translation>
     </message>
     <message>
         <source>Visitor</source>
@@ -5632,140 +5632,142 @@ Você perdeu o jogo.</translation>
     </message>
     <message>
         <source>Confirm password:</source>
-        <translation type="unfinished"/>
+        <translation>Confirmar senha:</translation>
     </message>
     <message>
         <source>Password does not match</source>
-        <translation type="unfinished"/>
+        <translation>Senha não corresponde</translation>
     </message>
 </context>
 <context>
     <name>GetSkinName</name>
     <message>
         <source>Get Skin Name</source>
-        <translation type="unfinished"/>
+        <translation>Obter Nome da Skin</translation>
     </message>
     <message>
         <source>Name: </source>
-        <translation type="unfinished"/>
+        <translation>Nome: </translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Version: </source>
-        <translation type="unfinished"/>
+        <translation>Versão: </translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
     <name>GetTextDlg</name>
     <message>
         <source>Enter text</source>
-        <translation type="unfinished"/>
+        <translation>Digite o texto</translation>
     </message>
     <message>
         <source>Select Font</source>
-        <translation type="unfinished"/>
+        <translation>Selecione a Fonte</translation>
     </message>
 </context>
 <context>
     <name>GmailNotifyPlugin</name>
     <message>
         <source>No-save state for contact %1 is changed</source>
-        <translation type="unfinished"/>
+        <translation>Não salvar o status para o contato %1 é alterado</translation>
     </message>
     <message>
         <source>Settings for an account %1 are changed</source>
-        <translation type="unfinished"/>
+        <translation>Configurações de uma conta %1 são alteradas</translation>
     </message>
     <message>
         <source>Shared Status for an account %1 is updated</source>
-        <translation type="unfinished"/>
+        <translation>Status compartilhado de um conta %1 é atualizada</translation>
     </message>
     <message>
         <source>Attributes for contact %1 are changed</source>
-        <translation type="unfinished"/>
+        <translation>Atributos do contato %1 foram alteradas</translation>
     </message>
     <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;mail.google.com - e-mails recebidos!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Escolha um arquivo de som</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Som (*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
-        <translation type="unfinished"/>
+        <translation>Escolha um programa</translation>
     </message>
     <message>
         <source>Block gmail contact</source>
-        <translation type="unfinished"/>
+        <translation>Bloquear contatos gmail</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Autores: </translation>
     </message>
     <message>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation type="unfinished"/>
+        <translation>Exibir notificações de novas mensagens do gmail em sua Gmailbox.
+Note: O plugin verifica apenas a raiz da sua pasta em sua caixa de entrada de seu Gmailbox para novas mensagens. Ao usar a filtragem do servidor de correio do lado, você não pode ser notificado sobre todas as novas mensagens.</translation>
     </message>
 </context>
 <context>
     <name>Gnome3StatusWatcher</name>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Autores: </translation>
     </message>
     <message>
         <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
-        <translation type="unfinished"/>
+        <translation>Este plugin foi projetado para adicionar suporte para o status de mudança de presença GNOME 3</translation>
     </message>
 </context>
 <context>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Escolha um arquivo de som</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Som (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-mail:</translation>
     </message>
     <message>
         <source>This plugin allows you to play gomoku with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"/>
+        <translation>Este plugin permite você jogar gomoku com seus amigos.
+Para o envio de comandos, mensagens normais serão utilizadas, por isso este plugin trabalhará onde você é capaz de se logar. Para convidar um amigo para o jogo, você poderá usar o menu contato na barra de ferramenta na janela de conversa.</translation>
     </message>
     <message>
         <source>Gomoku game</source>
-        <translation type="unfinished"/>
+        <translation>Jogo gomoku</translation>
     </message>
     <message>
         <source>Gomoku game!</source>
-        <translation type="unfinished"/>
+        <translation>Jogo gomoku!</translation>
     </message>
 </context>
 <context>
@@ -5779,7 +5781,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GrabAreaWidget</name>
     <message>
         <source>Select area</source>
-        <translation type="unfinished"/>
+        <translation>Selecione área</translation>
     </message>
 </context>
 <context>
@@ -5794,7 +5796,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>New Shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Novo Atalho</translation>
     </message>
     <message>
         <source>Press shortcut</source>
@@ -5844,18 +5846,18 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"/>
+        <translation>Enviar</translation>
     </message>
 </context>
 <context>
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation type="unfinished"/>
+        <translation>Estilo de Mensagem para Grupo de Bate-Papo</translation>
     </message>
     <message>
         <source>Configure your groupchat theme here</source>
-        <translation type="unfinished"/>
+        <translation>Configure seus tema de grupo de bate-papo aqui</translation>
     </message>
 </context>
 <context>
@@ -5866,7 +5868,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Hidden</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ocultar</translation>
     </message>
     <message>
         <source>&amp;Create New...</source>
@@ -5885,61 +5887,61 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GroupchatTopicDlg</name>
     <message>
         <source>Set Groupchat Topic</source>
-        <translation type="unfinished"/>
+        <translation>Definir Tópico no Grupo de Bate-Papo</translation>
     </message>
     <message>
         <source>Text of topic</source>
-        <translation type="unfinished"/>
+        <translation>Texto do tópico</translation>
     </message>
 </context>
 <context>
     <name>HTMLTextMenu</name>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"/>
+        <translation>Negrito</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"/>
+        <translation>Itálico</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"/>
+        <translation>Sublinhado</translation>
     </message>
     <message>
         <source>Strike Out</source>
-        <translation type="unfinished"/>
+        <translation>Riscado</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation type="unfinished"/>
+        <translation>Cor de Texto</translation>
     </message>
     <message>
         <source>Background Color</source>
-        <translation type="unfinished"/>
+        <translation>Cor de Fundo</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"/>
+        <translation>Fonte</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Resetar</translation>
     </message>
 </context>
 <context>
     <name>HistoryDlg</name>
     <message>
         <source>HistoryDlg</source>
-        <translation type="unfinished"/>
+        <translation>Histórico de Dialogo</translation>
     </message>
     <message>
         <source>Refresh history</source>
-        <translation type="unfinished"/>
+        <translation>Atualizar histórico</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Atualizar</translation>
     </message>
     <message>
         <source>&amp;Earliest</source>
@@ -6600,7 +6602,7 @@ Nota: Para funcionar corretamente, as opção options.ui.chat.central-toolbar de
     </message>
     <message>
         <source>Role:</source>
-        <translation>Função:</translation>
+        <translation>Cargo:</translation>
     </message>
     <message>
         <source>Location</source>
@@ -8449,91 +8451,91 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Enable roster avatar frame</source>
-        <translation type="unfinished"/>
+        <translation>Ativar quadro de lista do avatar</translation>
     </message>
     <message>
         <source>Autohide roster after</source>
-        <translation type="unfinished"/>
+        <translation>Auto-ocultar lista depois</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation>segundos</translation>
     </message>
     <message>
         <source>Icons</source>
-        <translation type="unfinished"/>
+        <translation>Ícones</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="unfinished"/>
+        <translation>Exibir avatar em lista</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation type="unfinished"/>
+        <translation>Avatars</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
-        <translation type="unfinished"/>
+        <translation>Exibir humor na lista</translation>
     </message>
     <message>
         <source>Moods</source>
-        <translation type="unfinished"/>
+        <translation>Humor</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
-        <translation type="unfinished"/>
+        <translation>Exibir atividades na lista</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished"/>
+        <translation>Atividades</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation type="unfinished"/>
+        <translation>Exibir geolocalização na lista</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation type="unfinished"/>
+        <translation>GeoLocalização</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation type="unfinished"/>
+        <translation>Exibir ícone quando o contato estiver ouvindo música</translation>
     </message>
     <message>
         <source>Now playing</source>
-        <translation type="unfinished"/>
+        <translation>Esta jogando</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="unfinished"/>
+        <translation>Exibir ícone de cliente do usuário</translation>
     </message>
     <message>
         <source>Clients</source>
-        <translation type="unfinished"/>
+        <translation>Clientes</translation>
     </message>
     <message>
         <source>all client icons</source>
-        <translation type="unfinished"/>
+        <translation>todos os ícones de clientes</translation>
     </message>
     <message>
         <source>only highest priority client icon</source>
-        <translation type="unfinished"/>
+        <translation>somente grande prioridade dos ícones de clientes</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished"/>
+        <translation>Configuração do Avatar</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <source>px</source>
-        <translation type="unfinished"/>
+        <translation>pixels</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="unfinished"/>
+        <translation>Raio dos cantos</translation>
     </message>
 </context>
 <context>
@@ -8631,7 +8633,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Receive MUC message</source>
-        <translation type="unfinished"/>
+        <translation>Receber mensagem MUC</translation>
     </message>
     <message>
         <source>Reset to defaults</source>
@@ -8642,118 +8644,118 @@ Tags: %1</translation>
     <name>OptStatusAuto</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Formulário</translation>
     </message>
     <message>
         <source>Auto status</source>
-        <translation type="unfinished"/>
+        <translation>Auto status</translation>
     </message>
     <message>
         <source> minutes</source>
-        <translation type="unfinished"/>
+        <translation>minutos</translation>
     </message>
     <message>
         <source>Auto offline after:</source>
-        <translation type="unfinished"/>
+        <translation>Auto offline depois:</translation>
     </message>
     <message>
         <source>Auto XA after:</source>
-        <translation type="unfinished"/>
+        <translation>Auto distante depois:</translation>
     </message>
     <message>
         <source>Auto away after:</source>
-        <translation type="unfinished"/>
+        <translation>Auto ausente depois:</translation>
     </message>
     <message>
         <source>Priority:</source>
-        <translation type="unfinished"/>
+        <translation>Prioridade:</translation>
     </message>
     <message>
         <source>Status message:</source>
-        <translation type="unfinished"/>
+        <translation>Mensagem de status:</translation>
     </message>
     <message>
         <source>Default priority</source>
-        <translation type="unfinished"/>
+        <translation>Prioridade padrão:</translation>
     </message>
     <message>
         <source>Online:</source>
-        <translation type="unfinished"/>
+        <translation>Online:</translation>
     </message>
     <message>
         <source>Away:</source>
-        <translation type="unfinished"/>
+        <translation>Ausente:</translation>
     </message>
     <message>
         <source>Free For Chat:</source>
-        <translation type="unfinished"/>
+        <translation>Livre para Bate-Papo:</translation>
     </message>
     <message>
         <source>XA:</source>
-        <translation type="unfinished"/>
+        <translation>Distante:</translation>
     </message>
     <message>
         <source>Do Not Disturb:</source>
-        <translation type="unfinished"/>
+        <translation>Ocupado:</translation>
     </message>
     <message>
         <source>Invisible:</source>
-        <translation type="unfinished"/>
+        <translation>Invisível: </translation>
     </message>
 </context>
 <context>
     <name>OptStatusGeneral</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Formulário</translation>
     </message>
     <message>
         <source>Prompt for status message when choosing</source>
-        <translation type="unfinished"/>
+        <translation>Solicitar mensagem de status ao escolher</translation>
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished"/>
+        <translation>Online</translation>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation type="unfinished"/>
+        <translation>Livre para Bate-Papo</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Ausente</translation>
     </message>
     <message>
         <source>Not Available</source>
-        <translation type="unfinished"/>
+        <translation>Não Disponível</translation>
     </message>
     <message>
         <source>Do not Disturb</source>
-        <translation type="unfinished"/>
+        <translation>Ocupado</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Status menus</source>
-        <translation type="unfinished"/>
+        <translation>Menus de Status</translation>
     </message>
     <message>
         <source>Show presets in menus:</source>
-        <translation type="unfinished"/>
+        <translation>Exibir predefinições em menus:</translation>
     </message>
     <message>
         <source>As submenu</source>
-        <translation type="unfinished"/>
+        <translation>Como submenu</translation>
     </message>
     <message>
         <source>With standard statuses</source>
-        <translation type="unfinished"/>
+        <translation>Com status padrão</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Não</translation>
     </message>
     <message>
         <source>Hide Free for Chat, Away, Not Available and Do not Disturb</source>
@@ -9197,7 +9199,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Enable Stop Spam for roles:</source>
-        <translation>Ativar o Parar Spam para os papéis:</translation>
+        <translation>Ativar o Parar Spam para os cargos:</translation>
     </message>
     <message>
         <source>Moderator</source>
@@ -9229,108 +9231,109 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>View Log</source>
-        <translation type="unfinished"/>
+        <translation>Ver Registro</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Resetar</translation>
     </message>
     <message>
         <source>Send maximum</source>
-        <translation type="unfinished"/>
+        <translation>Enviar máximo</translation>
     </message>
     <message>
         <source>times</source>
-        <translation type="unfinished"/>
+        <translation>horas</translation>
     </message>
     <message>
         <source>Timeout to reset counter:</source>
-        <translation type="unfinished"/>
+        <translation>Tempo de espera para zerar contador:</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation type="unfinished"/>
+        <translation>min.</translation>
     </message>
     <message>
         <source>Log blocked messages to contact&apos;s history</source>
-        <translation type="unfinished"/>
+        <translation>Registrar bloqueio de mensagens para o histórico de contatos</translation>
     </message>
     <message>
         <source>Del</source>
-        <translation type="unfinished"/>
+        <translation>Remover</translation>
     </message>
     <message>
         <source>Disable stopspam, if don't match any rule above
 (does not work for muc private messages)</source>
-        <translation type="unfinished"/>
+        <translation>Desativar parar o spam, se não corresponder a qualquer cargo acima
+(não funciona em mensagens privadas do muc)</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Delete selected</source>
-        <translation type="unfinished"/>
+        <translation>Remover selecionados</translation>
     </message>
     <message>
         <source>Add row</source>
-        <translation type="unfinished"/>
+        <translation>Adicionar linha</translation>
     </message>
     <message>
         <source>Default sound: </source>
-        <translation type="unfinished"/>
+        <translation>Som padrão:</translation>
     </message>
     <message>
         <source>Messages</source>
-        <translation type="unfinished"/>
+        <translation>Mensagens</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Editar</translation>
     </message>
     <message>
         <source>Disable sound if chat window is active</source>
-        <translation type="unfinished"/>
+        <translation>Desativar sons se a janela de conversa estiver ativa</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Authorizing...</source>
-        <translation type="unfinished"/>
+        <translation>Autorizando...</translation>
     </message>
     <message>
         <source>Authorizing OK</source>
-        <translation type="unfinished"/>
+        <translation>Autorizando OK.</translation>
     </message>
     <message>
         <source>Authorization failed</source>
-        <translation type="unfinished"/>
+        <translation>Autorizando falhou</translation>
     </message>
     <message>
         <source>Canceled</source>
-        <translation type="unfinished"/>
+        <translation>Cancelado</translation>
     </message>
     <message>
         <source>Choose file</source>
-        <translation type="unfinished"/>
+        <translation>Escolha o arquivo</translation>
     </message>
     <message>
         <source>Uploading</source>
-        <translation type="unfinished"/>
+        <translation>Enviando</translation>
     </message>
     <message>
         <source>Error! %1</source>
-        <translation type="unfinished"/>
+        <translation>Erro! %1</translation>
     </message>
     <message>
         <source>Cookies are removed</source>
-        <translation type="unfinished"/>
+        <translation>Os cookies foram removidos</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -9393,7 +9396,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     <name>OptionsDlg</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Configurações</translation>
     </message>
 </context>
 <context>
@@ -9416,11 +9419,11 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Request receipts from contacts on each message.</source>
-        <translation type="unfinished"/>
+        <translation>Pedir recibos de contatos em cada mensagem.</translation>
     </message>
     <message>
         <source>Send receipts to contacts by request.</source>
-        <translation type="unfinished"/>
+        <translation>Enviar recibos de contatos por pedido.</translation>
     </message>
     <message>
         <source>Enables remote controlling your client from other locations</source>
@@ -9568,11 +9571,11 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     <name>OptionsTabAppearanceThemes</name>
     <message>
         <source>Themes</source>
-        <translation type="unfinished"/>
+        <translation>Temas</translation>
     </message>
     <message>
         <source>Configure themes</source>
-        <translation type="unfinished"/>
+        <translation>Configurar temas</translation>
     </message>
 </context>
 <context>
@@ -9587,7 +9590,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Set or remove window decorations for roster and chats. For chats there are special header with close, hide and maximize buttons</source>
-        <translation type="unfinished"/>
+        <translation>Definir ou remover decorações de janelas para listas e bate-papos. Para bate-papos há cabeçalhos especiais como os botões fechar, esconder e maximizar</translation>
     </message>
     <message>
         <source>Makes Psi use a docklet icon, also known as system tray icon.</source>
@@ -9607,15 +9610,15 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Informações</translation>
     </message>
     <message>
         <source>Some of the options you changed will only have full effect upon restart.</source>
-        <translation type="unfinished"/>
+        <translation>Algumas das opções que você alterou só terão efeito quando reiniciar.</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Padrão</translation>
     </message>
     <message>
         <source>(TCP: Disabled, UDP: Auto)</source>
@@ -9766,40 +9769,40 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     <name>OptionsTabIconset</name>
     <message>
         <source>Icons</source>
-        <translation type="unfinished"/>
+        <translation>Ícones</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabIconsetActivity</name>
     <message>
         <source>Activity</source>
-        <translation type="unfinished"/>
+        <translation>Atividade</translation>
     </message>
     <message>
         <source>Select your activity iconset</source>
-        <translation type="unfinished"/>
+        <translation>Selecione sua atividade no conjunto de ícones</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabIconsetAffiliations</name>
     <message>
         <source>Affiliations</source>
-        <translation type="unfinished"/>
+        <translation>Afiliações</translation>
     </message>
     <message>
         <source>Select your affiliations iconset</source>
-        <translation type="unfinished"/>
+        <translation>Selecione sua afiliação no conjunto de ícones</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabIconsetClients</name>
     <message>
         <source>Clients</source>
-        <translation type="unfinished"/>
+        <translation>Clientes</translation>
     </message>
     <message>
         <source>Select your clients iconset</source>
-        <translation type="unfinished"/>
+        <translation>Selecione seu cliente no conjunto de ícones</translation>
     </message>
 </context>
 <context>
@@ -9821,11 +9824,11 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     <name>OptionsTabIconsetMoods</name>
     <message>
         <source>Moods</source>
-        <translation type="unfinished"/>
+        <translation>Humor</translation>
     </message>
     <message>
         <source>Select your mood iconset</source>
-        <translation type="unfinished"/>
+        <translation>Selecione seu humor no conjunto de ícones</translation>
     </message>
 </context>
 <context>
@@ -9844,11 +9847,11 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>vk.com</source>
-        <translation type="unfinished"/>
+        <translation>vk.com</translation>
     </message>
     <message>
         <source>Weather</source>
-        <translation type="unfinished"/>
+        <translation>Tempo</translation>
     </message>
     <message>
         <source>Toggles use of transport icons to the contacts, that use that transports.</source>
@@ -9882,14 +9885,14 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Version: </source>
-        <translation type="unfinished"/>
+        <translation>Versão: </translation>
     </message>
 </context>
 <context>
     <name>OptionsTabPopups</name>
     <message>
         <source>Popups</source>
-        <translation type="unfinished"/>
+        <translation>Pop-up</translation>
     </message>
     <message>
         <source>The popups behaviour</source>
@@ -12096,7 +12099,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Contact has been switched: %1</source>
-        <translation type="unfinished"/>
+        <translation>Contato modificou-se para: %1</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -12118,7 +12121,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>turn off autojid</source>
-        <translation type="unfinished"/>
+        <translation>desligar autojid</translation>
     </message>
     <message>
         <source>turn on autojid</source>
@@ -14224,7 +14227,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Role: %1</source>
-        <translation>Regra: %1</translation>
+        <translation>Cargo: %1</translation>
     </message>
     <message>
         <source>Affiliation: %1</source>
