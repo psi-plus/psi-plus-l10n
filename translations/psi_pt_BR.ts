@@ -196,15 +196,15 @@
     </message>
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
-        <translation type="unfinished"/>
+        <translation>Desenvolvedor Psimedia e Localização Wiki em Inglês</translation>
     </message>
     <message>
         <source>Sponsor</source>
-        <translation type="unfinished"/>
+        <translation>Patrocinador</translation>
     </message>
     <message>
         <source>Sponsor (Summer of Code)</source>
-        <translation type="unfinished"/>
+        <translation>Patrocinador (Summer of Code)</translation>
     </message>
     <message>
         <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
@@ -216,7 +216,15 @@
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation type="unfinished"/>
+        <translation>Mensageiro instantâneo anônimo &lt;note text=&quot;substituir com o seu nome verdadeiro&quot;&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://eu.com&quot;&gt;http://eu.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:eu@eu.com&quot;&gt;eu@eu.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:eu@eu.com&quot;&gt;eu@eu.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Tradutores&lt;br&gt;
+&lt;br&gt;
+Junte-se à equipe de tradução hoje! Ir para 
+&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
+http://forum.psi-im.org/forum/14&lt;/a&gt; para mais detalhes</translation>
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
@@ -268,7 +276,9 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;
         <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
 &lt;br&gt;
 Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing XMPP account then leave this box unchecked.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Por favor escolha um &lt;b&gt;Nome&lt;/b&gt; amigável para que o Psi possa usa-lo ao referir-se a esta conta.&lt;br&gt;
+&lt;br&gt;
+Clique clicar na caixa de seleção &lt;b&gt;Registrar uma nova conta&lt;/b&gt; do Psi para criar uma nova conta no servidor remoto.  Se você estiver adicionando uma conta existente XMPP, então deixe esta caixa desmarcada.</translation>
     </message>
 </context>
 <context>
@@ -279,7 +289,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Check this option if you don&apos;t yet have an XMPP account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
-        <translation type="unfinished"/>
+        <translation>Marque esta opção se você ainda não tem uma conta XMPP e você quer registrar uma.  Note que isto só irá funcionar em servidores que permitem registro anônimo.</translation>
     </message>
 </context>
 <context>
@@ -333,7 +343,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>XMPP Accounts</source>
-        <translation type="unfinished"/>
+        <translation>Contas XMPP</translation>
     </message>
 </context>
 <context>
@@ -555,7 +565,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>XMPP Address:</source>
-        <translation type="unfinished"/>
+        <translation>Endereço XMPP:</translation>
     </message>
 </context>
 <context>
@@ -702,7 +712,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
-        <translation type="unfinished"/>
+        <translation>Normalmente, Psi registra-se usando o método de autenticação &lt;i&gt;digest&lt;/i&gt;.  Marque esta caixa para forçar um login de texto simples para o servidor XMPP. Use esta opção somente se você tiver problemas de conexão com o procedimento normal de login, com isto faz a sua conexão potencialmente vulnerável a ataques.</translation>
     </message>
     <message>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
@@ -738,11 +748,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Delete current host from the list</source>
-        <translation type="unfinished"/>
+        <translation>Remover servidor atual da lista</translation>
     </message>
     <message>
         <source>&lt;don&apos;t use&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;não usar&gt;</translation>
     </message>
 </context>
 <context>
@@ -7025,11 +7035,11 @@ Nota: Para funcionar corretamente, a opção options.html.chat.render	deve ser d
     </message>
     <message>
         <source>Time stamp: %1</source>
-        <translation type="unfinished"/>
+        <translation>Data e Hora: %1</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Autores: </translation>
     </message>
 </context>
 <context>
@@ -12131,7 +12141,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Copy user JID</source>
-        <translation type="unfinished"/>
+        <translation>Copiar JID do usuário</translation>
     </message>
 </context>
 <context>
@@ -14265,52 +14275,53 @@ Senha: %5</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Aviso</translation>
     </message>
     <message>
         <source>Cannot write to file %1:
 %2.</source>
-        <translation type="unfinished"/>
+        <translation>Não foi possível escrever para o arquivo %1:
+%2.</translation>
     </message>
     <message>
         <source>Recommended by @%1</source>
-        <translation type="unfinished"/>
+        <translation>Recomendado por @%1</translation>
     </message>
     <message>
         <source>Reply posted.</source>
-        <translation type="unfinished"/>
+        <translation>Resposta postada.</translation>
     </message>
     <message>
         <source>New message posted.</source>
-        <translation type="unfinished"/>
+        <translation>Nenhuma mensagem postada.</translation>
     </message>
     <message>
         <source> recommended your post </source>
-        <translation type="unfinished"/>
+        <translation>recomendaram seu post</translation>
     </message>
     <message>
         <source>Show all messages</source>
-        <translation type="unfinished"/>
+        <translation>Exibir todas as mensagens</translation>
     </message>
     <message>
         <source>Reply</source>
-        <translation type="unfinished"/>
+        <translation>Responder</translation>
     </message>
     <message>
         <source>Show %1&apos;s info and last 10 messages</source>
-        <translation type="unfinished"/>
+        <translation>Exibir %1 de informações e ultimas 10 mensagens</translation>
     </message>
     <message>
         <source>Subscribe</source>
-        <translation type="unfinished"/>
+        <translation>Inscrever</translation>
     </message>
     <message>
         <source>Show last 10 messages with tag %1</source>
-        <translation type="unfinished"/>
+        <translation>Exibir últimas 10 mensagens com a tag %1</translation>
     </message>
     <message>
         <source>Unsubscribe</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar Registro</translation>
     </message>
     <message>
         <source>Conversion Error</source>
@@ -17742,55 +17753,55 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>If you lose control of your private keys, no previous conversation is compromised.</source>
-        <translation type="unfinished"/>
+        <translation>Se você perder o controle das suas chaves privadas, nenhuma conversa anterior será comprometida.</translation>
     </message>
     <message>
         <source>For further information, see &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Para mais informações, consulte &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</translation>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
-        <translation type="unfinished"/>
+        <translation>Tentando atualizar a conversa privada</translation>
     </message>
     <message>
         <source>Attempting to start a private conversation</source>
-        <translation type="unfinished"/>
+        <translation>Tentando iniciar uma conversa privada</translation>
     </message>
     <message>
         <source>Private conversation started</source>
-        <translation type="unfinished"/>
+        <translation>Conversa privada inciada</translation>
     </message>
     <message>
         <source>Unverified conversation started</source>
-        <translation type="unfinished"/>
+        <translation>Conversa não verificada começou</translation>
     </message>
     <message>
         <source>Private conversation lost</source>
-        <translation type="unfinished"/>
+        <translation>Conversa privada perdida</translation>
     </message>
     <message>
         <source>Private conversation closed</source>
-        <translation type="unfinished"/>
+        <translation>Conversa privada fechada</translation>
     </message>
     <message>
         <source>%1 has ended the private conversation with you; you should do the same.</source>
-        <translation type="unfinished"/>
+        <translation>%1 finalizou a conversa privada contigo; você deve fazer o mesmo.</translation>
     </message>
     <message>
         <source>Private conversation refreshed</source>
-        <translation type="unfinished"/>
+        <translation>Conversa privada atualizada</translation>
     </message>
     <message>
         <source>Unverified conversation refreshed</source>
-        <translation type="unfinished"/>
+        <translation>Conversa não verificada atualizada</translation>
     </message>
     <message>
         <source>Contact authenticated</source>
-        <translation type="unfinished"/>
+        <translation>Contato autenticado</translation>
     </message>
     <message>
         <source>Contact not authenticated</source>
-        <translation type="unfinished"/>
+        <translation>Contato não autenticado</translation>
     </message>
 </context>
 <context>
@@ -17820,72 +17831,73 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>settings</name>
     <message>
         <source>settings</source>
-        <translation type="unfinished"/>
+        <translation>configurações</translation>
     </message>
     <message>
         <source>Edit JIDs</source>
-        <translation type="unfinished"/>
+        <translation>Editar JIDs</translation>
     </message>
     <message>
         <source>bold</source>
-        <translation type="unfinished"/>
+        <translation>negrito</translation>
     </message>
     <message>
         <source>italic</source>
-        <translation type="unfinished"/>
+        <translation>itálico</translation>
     </message>
     <message>
         <source>underline</source>
-        <translation type="unfinished"/>
+        <translation>sublinhado</translation>
     </message>
     <message>
         <source>color</source>
-        <translation type="unfinished"/>
+        <translation>cores</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation type="unfinished"/>
+        <translation>@apelido</translation>
     </message>
     <message>
         <source>*tag</source>
-        <translation type="unfinished"/>
+        <translation>*tag</translation>
     </message>
     <message>
         <source>#message id</source>
-        <translation type="unfinished"/>
+        <translation>#id da mensagem</translation>
     </message>
     <message>
         <source>&gt;quote</source>
-        <translation type="unfinished"/>
+        <translation>&gt;citar</translation>
     </message>
     <message>
         <source>http://link</source>
-        <translation type="unfinished"/>
+        <translation>http://link</translation>
     </message>
     <message>
         <source>Use message Id as resource</source>
-        <translation type="unfinished"/>
+        <translation>Usar Id como recurso</translation>
     </message>
     <message>
         <source>Show Photo</source>
-        <translation type="unfinished"/>
+        <translation>Exibir Foto</translation>
     </message>
     <message>
         <source>Show Avatars</source>
-        <translation type="unfinished"/>
+        <translation>Exibir Avatars</translation>
     </message>
     <message>
         <source>Replaces message id with a link
 to this message in juick@conference.jabber.ru</source>
-        <translation type="unfinished"/>
+        <translation>Substituir id da mensagem com um link
+nesta mensagem em juick@conference.jabber.ru</translation>
     </message>
     <message>
         <source>Clear avatar cache</source>
-        <translation type="unfinished"/>
+        <translation>Limpar cache de avatar</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
