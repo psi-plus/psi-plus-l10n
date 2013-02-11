@@ -4329,7 +4329,7 @@ Importante: uma grande parte das opções são as configurações importantes do
     </message>
     <message>
         <source>Enable last activity server</source>
-        <translation type="unfinished"/>
+        <translation>Ativar última atividade do servidor</translation>
     </message>
     <message>
         <source>Enable sound notifications for every MUC message</source>
@@ -10097,7 +10097,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Tunes no-video filter and controllers switcher</source>
-        <translation type="unfinished"/>
+        <translation>Musicas, nenhum filtro de vídeo e comutador de controles</translation>
     </message>
 </context>
 <context>
@@ -12127,7 +12127,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>turn on autojid</source>
-        <translation type="unfinished"/>
+        <translation>ligar autojid</translation>
     </message>
     <message>
         <source>Copy user JID</source>
@@ -12243,7 +12243,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation type="unfinished"/>
+        <translation>Não foi possível carregar o tema! Por favor, certifique-se que o Psi esta instalado corretamente.</translation>
     </message>
     <message>
         <source>Please disconnect before changing the profile.</source>
@@ -12324,7 +12324,7 @@ Isso pode significar que você já está rodando outra instância do Psi. Você 
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"/>
+        <translation>Ocultado</translation>
     </message>
     <message>
         <source>Choose an image</source>
@@ -12438,7 +12438,7 @@ Isso pode significar que você já está rodando outra instância do Psi. Você 
     </message>
     <message>
         <source>Sen&amp;d Status</source>
-        <translation type="unfinished"/>
+        <translation>Env&amp;iar Status</translation>
     </message>
     <message>
         <source>&amp;Assign Custom Picture</source>
@@ -12490,23 +12490,23 @@ Isso pode significar que você já está rodando outra instância do Psi. Você 
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"/>
+        <translation>Ocultar</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"/>
+        <translation>Exibir</translation>
     </message>
     <message>
         <source>Leave</source>
-        <translation type="unfinished"/>
+        <translation>Deixar</translation>
     </message>
     <message>
         <source>Block</source>
-        <translation type="unfinished"/>
+        <translation>Bloquear</translation>
     </message>
     <message>
         <source>Always Visible</source>
-        <translation type="unfinished"/>
+        <translation>Sempre Visível</translation>
     </message>
     <message>
         <source>Authorization</source>
@@ -12574,7 +12574,7 @@ Isso pode significar que você já está rodando outra instância do Psi. Você 
     </message>
     <message>
         <source>Unblock</source>
-        <translation type="unfinished"/>
+        <translation>Desbloquear</translation>
     </message>
 </context>
 <context>
@@ -12765,11 +12765,11 @@ Gostaria de ativar a sessão agora?</translation>
     </message>
     <message>
         <source>Delete...</source>
-        <translation type="unfinished"/>
+        <translation>Remover...</translation>
     </message>
     <message>
         <source>Reset...</source>
-        <translation type="unfinished"/>
+        <translation>Redefinir...</translation>
     </message>
     <message>
         <source>Edit...</source>
@@ -12785,7 +12785,7 @@ Gostaria de ativar a sessão agora?</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"/>
+        <translation>Avançado</translation>
     </message>
     <message>
         <source>(internal node)</source>
@@ -12805,15 +12805,15 @@ Gostaria de ativar a sessão agora?</translation>
     </message>
     <message>
         <source>Psi+: Option Editor</source>
-        <translation type="unfinished"/>
+        <translation>Psi+: Editor de Opções</translation>
     </message>
     <message>
         <source>Really reset options %1 to default value?</source>
-        <translation type="unfinished"/>
+        <translation>Realmente redefinir opções %1 para os valores padrão?</translation>
     </message>
     <message>
         <source>Really reset all options starting with %1. to default value?</source>
-        <translation type="unfinished"/>
+        <translation>Realmente redefinir todas as opções começando com %1. para o valor padrão?</translation>
     </message>
 </context>
 <context>
@@ -12824,35 +12824,37 @@ Gostaria de ativar a sessão agora?</translation>
     </message>
     <message>
         <source> is typing...</source>
-        <translation type="unfinished"/>
+        <translation>esta digitando...</translation>
     </message>
 </context>
 <context>
     <name>PsiRosterWidget</name>
     <message>
         <source>Remove Group</source>
-        <translation type="unfinished"/>
+        <translation>Remover Grupo</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="unfinished"/>
+        <translation>Isto fará com que todos os contatos deste grupo a ser dissociado com ele.
+
+Proceder?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sim</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Não</translation>
     </message>
 </context>
 <context>
     <name>PsiThemeViewDelegate</name>
     <message>
         <source>No Image</source>
-        <translation type="unfinished"/>
+        <translation>Nenhuma Imagemk</translation>
     </message>
 </context>
 <context>
@@ -12866,11 +12868,11 @@ Proceed?</source>
     <name>PsiWindowHeader</name>
     <message>
         <source>PsiWindowHeader</source>
-        <translation type="unfinished"/>
+        <translation>Janela de cabeçalho do Psi</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -12989,111 +12991,111 @@ Proceed?</source>
     </message>
     <message>
         <source>Doing Chores</source>
-        <translation type="unfinished"/>
+        <translation>Fazendo Tarefas</translation>
     </message>
     <message>
         <source>Buying Groceries</source>
-        <translation type="unfinished"/>
+        <translation>Comprando Mantimentos</translation>
     </message>
     <message>
         <source>Cleaning</source>
-        <translation type="unfinished"/>
+        <translation>Limpado</translation>
     </message>
     <message>
         <source>Cooking</source>
-        <translation type="unfinished"/>
+        <translation>Cozinhando</translation>
     </message>
     <message>
         <source>Doing Maintenance</source>
-        <translation type="unfinished"/>
+        <translation>Fazendo Manutenção</translation>
     </message>
     <message>
         <source>Doing The Dishes</source>
-        <translation type="unfinished"/>
+        <translation>Fazendo um Prato</translation>
     </message>
     <message>
         <source>Doing The Laundry</source>
-        <translation type="unfinished"/>
+        <translation>Lavando Roupa</translation>
     </message>
     <message>
         <source>Gardening</source>
-        <translation type="unfinished"/>
+        <translation>Jardinagem</translation>
     </message>
     <message>
         <source>Running An Errand</source>
-        <translation type="unfinished"/>
+        <translation>Cumprindo Uma Tarefa</translation>
     </message>
     <message>
         <source>Walking The Dog</source>
-        <translation type="unfinished"/>
+        <translation>Passeando com o Cachorro</translation>
     </message>
     <message>
         <source>Drinking</source>
-        <translation type="unfinished"/>
+        <translation>Bebendo</translation>
     </message>
     <message>
         <source>Having A Beer</source>
-        <translation type="unfinished"/>
+        <translation>Tomando uma Cerveja</translation>
     </message>
     <message>
         <source>Having Coffee</source>
-        <translation type="unfinished"/>
+        <translation>Tomando um Café</translation>
     </message>
     <message>
         <source>Having Tea</source>
-        <translation type="unfinished"/>
+        <translation>Tomando um Chá</translation>
     </message>
     <message>
         <source>Eating</source>
-        <translation type="unfinished"/>
+        <translation>Alimentando-se</translation>
     </message>
     <message>
         <source>Having A Snack</source>
-        <translation type="unfinished"/>
+        <translation>Comendo um Lanche</translation>
     </message>
     <message>
         <source>Having Breakfast</source>
-        <translation type="unfinished"/>
+        <translation>Tomando um Café da Manha</translation>
     </message>
     <message>
         <source>Having Lunch</source>
-        <translation type="unfinished"/>
+        <translation>Almoçando</translation>
     </message>
     <message>
         <source>Having Dinner</source>
-        <translation type="unfinished"/>
+        <translation>Jantando</translation>
     </message>
     <message>
         <source>Exercising</source>
-        <translation type="unfinished"/>
+        <translation>Exercitando</translation>
     </message>
     <message>
         <source>Cycling</source>
-        <translation type="unfinished"/>
+        <translation>Andando de Bicicleta</translation>
     </message>
     <message>
         <source>Dancing</source>
-        <translation type="unfinished"/>
+        <translation>Dançando</translation>
     </message>
     <message>
         <source>Hiking</source>
-        <translation type="unfinished"/>
+        <translation>Fazendo Caminhada</translation>
     </message>
     <message>
         <source>Jogging</source>
-        <translation type="unfinished"/>
+        <translation>Jogando</translation>
     </message>
     <message>
         <source>Playing Sports</source>
-        <translation type="unfinished"/>
+        <translation>Praticando Esporte</translation>
     </message>
     <message>
         <source>Running</source>
-        <translation type="unfinished"/>
+        <translation>Correndo</translation>
     </message>
     <message>
         <source>Skiing</source>
-        <translation type="unfinished"/>
+        <translation>Equiando</translation>
     </message>
     <message>
         <source>Swimming</source>
@@ -13932,16 +13934,18 @@ O Plugin OTR não funcionará.</translation>
     <message>
         <source>Fingerprint for account &quot;%1&quot;:
 %2</source>
-        <translation type="unfinished"/>
+        <translation>Impressão digital para conta &quot;%1&quot;:
+%2</translation>
     </message>
     <message>
         <source>You have received a new fingerprint from %1:
 %2</source>
-        <translation type="unfinished"/>
+        <translation>Você recebeu uma nova impressão digital de %1:
+%2</translation>
     </message>
     <message>
         <source>All Tags</source>
-        <translation type="unfinished"/>
+        <translation>Todas as Tags</translation>
     </message>
     <message>
         <source>Name: %1
@@ -13949,15 +13953,19 @@ Size: %2
 Date prolongate: %3
 URL: %4
 Password: %5</source>
-        <translation type="unfinished"/>
+        <translation>Nome: %1
+Tamanho: %2
+Data prolongada: %3
+URL: %4
+Senha: %5</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Sim</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Não</translation>
     </message>
     <message>
         <source>Status</source>
@@ -13965,15 +13973,15 @@ Password: %5</source>
     </message>
     <message>
         <source>Headline</source>
-        <translation type="unfinished"/>
+        <translation>Cabeçalho</translation>
     </message>
     <message>
         <source>Chat Message</source>
-        <translation type="unfinished"/>
+        <translation>Mensagem de Bate-Papo</translation>
     </message>
     <message>
         <source>Groupchat Message</source>
-        <translation type="unfinished"/>
+        <translation>Mensagem de Bate-Papo em Grupo</translation>
     </message>
     <message>
         <source>Error</source>
@@ -14005,11 +14013,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Presence-In,</source>
-        <translation type="unfinished"/>
+        <translation>Entrada de presença,</translation>
     </message>
     <message>
         <source>Presence-Out,</source>
-        <translation type="unfinished"/>
+        <translation>Saída de presença,</translation>
     </message>
     <message>
         <source>Queries,</source>
@@ -14041,7 +14049,7 @@ Password: %5</source>
     </message>
     <message>
         <source> is typing...</source>
-        <translation type="unfinished"/>
+        <translation>esta digitando...</translation>
     </message>
     <message>
         <source>%1 says:</source>
@@ -14049,15 +14057,15 @@ Password: %5</source>
     </message>
     <message>
         <source>Headline from %1</source>
-        <translation type="unfinished"/>
+        <translation>Cabeçalho de %1</translation>
     </message>
     <message>
         <source>Incoming file from %1</source>
-        <translation type="unfinished"/>
+        <translation>Arquivo de entrada de %1</translation>
     </message>
     <message>
         <source>Incoming call from %1</source>
-        <translation type="unfinished"/>
+        <translation>Chamada de entrada de %1</translation>
     </message>
     <message>
         <source>Contact becomes Available</source>
@@ -14085,27 +14093,27 @@ Password: %5</source>
     </message>
     <message>
         <source>Typing notify</source>
-        <translation type="unfinished"/>
+        <translation>Notificação de digitação</translation>
     </message>
     <message>
         <source>Groupchat highlight</source>
-        <translation type="unfinished"/>
+        <translation>Realce de Bate-Papo em Grupo</translation>
     </message>
     <message>
         <source>Incoming Call</source>
-        <translation type="unfinished"/>
+        <translation>Chamada de Entrada</translation>
     </message>
     <message>
         <source>[Typing notify]</source>
-        <translation type="unfinished"/>
+        <translation>[Notificação de digitação]</translation>
     </message>
     <message>
         <source>[Incoming Message]</source>
-        <translation type="unfinished"/>
+        <translation>[Entrada de Mensagens]</translation>
     </message>
     <message>
         <source>[Incoming Headline]</source>
-        <translation type="unfinished"/>
+        <translation>[Entrada de Cabeçalhos]</translation>
     </message>
     <message>
         <source>[Incoming File]</source>
@@ -14113,11 +14121,11 @@ Password: %5</source>
     </message>
     <message>
         <source>[Groupchat highlight]</source>
-        <translation type="unfinished"/>
+        <translation>[Realce de Bate-Papo em Grupo]</translation>
     </message>
     <message>
         <source>[Incoming Call]</source>
-        <translation type="unfinished"/>
+        <translation>[Chamada de Entrada]</translation>
     </message>
     <message>
         <source>Set Status</source>
@@ -14181,11 +14189,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Leave All Conferences</source>
-        <translation type="unfinished"/>
+        <translation>Deixar Todas as Conferências</translation>
     </message>
     <message>
         <source>Unnamed</source>
-        <translation type="unfinished"/>
+        <translation>Não nomeado</translation>
     </message>
     <message>
         <source>Subscription</source>
@@ -14193,7 +14201,7 @@ Password: %5</source>
     </message>
     <message>
         <source>OpenPGP</source>
-        <translation type="unfinished"/>
+        <translation>OpenPGP</translation>
     </message>
     <message>
         <source>Mood</source>
@@ -14201,7 +14209,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Activity</source>
-        <translation type="unfinished"/>
+        <translation>Atividade</translation>
     </message>
     <message>
         <source>Listening to</source>
@@ -14225,7 +14233,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"/>
+        <translation>Hora</translation>
     </message>
     <message>
         <source>Role: %1</source>
@@ -14345,19 +14353,19 @@ Password: %5</source>
     <name>QipXStatuses</name>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
-        <translation type="unfinished"/>
+        <translation>Este plugin foi projetado para exibir x-statuses de contatos usando o QIP Infium cliente jabber.</translation>
     </message>
 </context>
 <context>
@@ -14428,42 +14436,48 @@ Motivo: %1</translation>
     <message>
         <source>celebrates birthday today!
 </source>
-        <translation type="unfinished"/>
+        <translation>comemora o aniversário hoje!
+</translation>
     </message>
     <message numerus="yes">
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>comemora o aniversário no dia %n
+</numerusform><numerusform>comemora o aniversário nos dias %n
+</numerusform></translation>
     </message>
     <message>
         <source>celebrates birthday yesterday.
 </source>
-        <translation type="unfinished"/>
+        <translation>comemorou o aniversário ontem.
+
+</translation>
     </message>
     <message>
         <source>Birthday Reminder</source>
-        <translation type="unfinished"/>
+        <translation>Lembrete de Aniversário</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Escolha um arquivo de som</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Som (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>Email: </translation>
     </message>
     <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
 The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
-        <translation type="unfinished"/>
+        <translation>Este plugin foi projetado para exibir lembretes de aniversários próximos.
+A primeira vez que você instalar este plugin, você precisa para fazer logon em todo o suas contas, vá para as configurações do plugin e clique em &quot;Atualizar Aniversários&quot;. O plugin coletará as informações dos aniversários de todos os usuários da sua lista, mas é quando a opção &apos;Usar cache vCards estiver selecionada, os usuários vCards que estarão no cache do seu HD serão usados.</translation>
     </message>
 </context>
 <context>
@@ -14503,27 +14517,27 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RosterAvatarFrame</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Formulário</translation>
     </message>
     <message>
         <source>Nick</source>
-        <translation type="unfinished"/>
+        <translation>Apelido</translation>
     </message>
     <message>
         <source>Set Mood for all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Definir Humor para todas as contas ativas</translation>
     </message>
     <message>
         <source>Set Activity for all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Definir Atividades para todas as contas ativas</translation>
     </message>
     <message>
         <source>Set Status for all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Definir Status para todas as contas ativas</translation>
     </message>
     <message>
         <source>Status Message</source>
-        <translation type="unfinished"/>
+        <translation>Mensagem de Status</translation>
     </message>
 </context>
 <context>
@@ -14712,13 +14726,20 @@ The plugin has the following settings:
 * Format -- the file format in which the screenshot will be stored (default: .jpg)
 * File Name -- format of the filename (default: pic-yyyyMMdd-hhmmss, where yyyyMMdd=YYYYMMDD, and hhmmss are current date in the format yearmonthday-hourminutesecond)
 The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</source>
-        <translation type="unfinished"/>
+        <translation>Este plugin permite você fazer capturas de tela e salva-los em seus hd ou enviar-los para um servidor FTP ou HTTP.
+O plugin tem  as configurações a seguir:
+* Atalho -- atalho para fazer a captura de tela (por padrão, Ctrl+Alt+P)
+* Formato -- o formato do arquivo no qual a imagem será armazenada (padrão: .jpg)
+* Nome do arquivo -- formato do nome do arquivo (padrão: pic-aaaaMMdd-hhmmss, onde aaaaMMdd=AAAAMMDD, e hhmmss são a data atual no formato anomêsdia-horasminutosegundos)
+O endereço do servidor FTP é especificado como ftp://ftp.dominio.tld/diretorio1/diretorio2</translation>
     </message>
     <message>
         <source>
 
 Settings for authorization on some hostings can be found here: http://code.google.com/p/qscreenshot/wiki/Authorization</source>
-        <translation type="unfinished"/>
+        <translation>
+
+Configurações de autorização em alguns hostings podem ser encontradas aqui: http://code.google.com/p/qscreenshot/wiki/Authorization</translation>
     </message>
 </context>
 <context>
@@ -15130,47 +15151,47 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Choose status</source>
-        <translation type="unfinished"/>
+        <translation>Escolher o status</translation>
     </message>
     <message>
         <source>Reconnect all accounts</source>
-        <translation type="unfinished"/>
+        <translation>Reconectar todas as contas</translation>
     </message>
     <message>
         <source>Set Mood</source>
-        <translation type="unfinished"/>
+        <translation>Definir Humor</translation>
     </message>
     <message>
         <source>Set Activity</source>
-        <translation type="unfinished"/>
+        <translation>Definir Atividade</translation>
     </message>
     <message>
         <source>Set Geolocation</source>
-        <translation type="unfinished"/>
+        <translation>Definir GeoLocalização</translation>
     </message>
     <message>
         <source>README</source>
-        <translation type="unfinished"/>
+        <translation>LEIA-ME</translation>
     </message>
     <message>
         <source>Tips</source>
-        <translation type="unfinished"/>
+        <translation>Dicas</translation>
     </message>
     <message>
         <source>Psi Forum (Online)</source>
-        <translation type="unfinished"/>
+        <translation>Fórum Psi (Online)</translation>
     </message>
     <message>
         <source>Open Help</source>
-        <translation type="unfinished"/>
+        <translation>Abrir Ajuda</translation>
     </message>
     <message>
         <source>Open Wiki</source>
-        <translation type="unfinished"/>
+        <translation>Ajuda Wiki</translation>
     </message>
     <message>
         <source>Open Home Page</source>
-        <translation type="unfinished"/>
+        <translation>Abrir Página Inicial</translation>
     </message>
     <message>
         <source>Help Psi MUC</source>
@@ -15703,7 +15724,26 @@ When a user has passed, the test will send a re-authorization request. It should
 The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
-        <translation type="unfinished"/>
+        <translation>Este plugin é projetado para bloquear mensagens de spam e outras informações indesejáveis ​​dos usuários Psi+. A funcionalidade do plugin é baseada no princípio de &quot; pergunta - resposta.
+Com as configurações plugin você pode:
+* Definir uma pergunta de segurança e resposta
+* Definir um conjunto de regras no para um contato
+* Definir as mensagens enviadas no caso de resposta correta
+* Ativar notificação através de pop-ups
+* Permitir salvamento de mensagens bloqueadas através do histórico do contato
+* Definir o numero de parcelas por assunto
+* Definir o intervalo de tempo para reiniciar o numero de questões que serão enviadas
+* Ativer bloqueio de mensagens privadas em conferências
+* Escolher para quais cargos e demais da conferencia, as mensagens de bloqueio serão desativadas
+* Ativar bloqueio nas mensagens privadas para os participantes que não se enquadram na lista de exceções para os cargos e demais que incluem no bloqueio.
+
+
+As regras são verificadas de cima para baixo. Se a regra ativada é - parar o spam é acionado, caso contrário - parar o spam não é acionado. No caso onde nenhuma das regras especificadas de parar spam na lista de mensagens, você poderá especificar se o plugin será ativado ou não. Para mensagens privadas da mesma conferência, funcionara perfeitamente.
+Pergunta e resposta, bem como uma lista de regras é comum para mensagens normais e para mensagens privadas em conferências.
+Quando um usuário passou no teste, será enviado um pedido de re-autorização. Deve-se notar nas mensagens que serão enviadas de volta na questão de segurança que foram corretamente respondidas.
+O plugin mantem um registro de mensagens bloqueadas, que você poder ver através das configurações do plugin. O botão &quot;Resetar&quot; remove o registro e reinicia o contator de mensagens bloqueadas.
+
+AVISO!!!  Antes de registrar um novo transporte, recomenda-se adicionar suas jids na lista de excepções. Isto é devido ao facto de, após o registo de transporte, pedidos de autorização para todos os contatos serão enviados e se o transporte não foi adicionado como uma exceção, o plugin bloqueará todos os pedidos.</translation>
     </message>
 </context>
 <context>
@@ -15728,7 +15768,9 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi+ or Miranda IM.</source>
-        <translation type="unfinished"/>
+        <translation>O plugin é uma implementação do XEP-0049: Armazenamento XML privado.
+O plugin é totalmente compatível com notas salvas usando Miranda IM.
+O plugin foi projetado para manter as notas no servidor jabber com a capacidade de acessá-los de qualquer lugar usando Psi ou Miranda IM.</translation>
     </message>
 </context>
 <context>
@@ -16404,7 +16446,19 @@ To work with VLC player you need to enable the option &quot;Control Interface D-
 To work with Kaffeine player you must have player version (&gt;= 1.0), additional configuration is not needed; 
 
 To work with GNOME MPlayer additional configuration is not needed.</source>
-        <translation type="unfinished"/>
+        <translation>Este plugin foi projetado para definir uma mensagem personalizada quando você assistir um vídeo nos players selecionados. 
+Nota: Este plugin foi projetado para funcionar na família Linux de sistemas operacionais e nos Sistemas Operacionais Windows. 
+
+Este plugin usa DBUS para funcionar com os players de vídeo e funções do X11 para detectar aplicativos em tela cheia. 
+No windows usa as funções WinAPI para detectar aplicativos em tela cheia. 
+
+Para funcionar com o player Totem é necessário ativar o plugin adequado neste player (Edit\Plugins\D-Bus);
+
+Para funcionar no player VLC você precisa ativar a opção &quot;Controlar Interface no D-Bus&quot; na aba Configurações Avançadas em &quot;Interface\Controle de Interface&quot; seção de configurações do player; 
+
+Para funcionar no player Kaffeine você deve ter a versão do player (&gt;= 1.0), configurações adicionais não serão necessárias; 
+
+Para funcionar no GNOME MPlayer configurações adicionais não serão necessárias.</translation>
     </message>
 </context>
 <context>
@@ -16443,7 +16497,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
-        <translation type="unfinished"/>
+        <translation>Novas mensagens foram adicionadas no registro. Se você salvar as suas alterações, você vai perde-las</translation>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
@@ -16537,7 +16591,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
-        <translation type="unfinished"/>
+        <translation>Novas mensagens foram adicionadas no registro. Se você salvar as suas alterações, você vai perde-las</translation>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
@@ -16642,19 +16696,19 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Watcher Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Plugin Observador</translation>
     </message>
     <message>
         <source>Watch for JID</source>
-        <translation type="unfinished"/>
+        <translation>Observar para JID</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
@@ -16875,11 +16929,11 @@ Realmente deseja fechar a janela?</translation>
     <name>WebView</name>
     <message>
         <source>Quote</source>
-        <translation type="unfinished"/>
+        <translation>Citar</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+S</translation>
     </message>
 </context>
 <context>
@@ -16933,124 +16987,124 @@ Realmente deseja fechar a janela?</translation>
     <name>XMPP::ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished"/>
+        <translation>Mecanismo Oferecidos: </translation>
     </message>
 </context>
 <context>
     <name>XMPP::Features::FeatureName</name>
     <message>
         <source>ERROR: Incorrect usage of Features class</source>
-        <translation type="unfinished"/>
+        <translation>Erro: Uso incorreto de recursos de classe</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation type="unfinished"/>
+        <translation>Registro</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Pesquisar</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"/>
+        <translation>Bate-Papo em Grupo</translation>
     </message>
     <message>
         <source>Gateway</source>
-        <translation type="unfinished"/>
+        <translation>Gateway</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="unfinished"/>
+        <translation>Descoberta de Serviços</translation>
     </message>
     <message>
         <source>VCard</source>
-        <translation type="unfinished"/>
+        <translation>VCard</translation>
     </message>
     <message>
         <source>Execute command</source>
-        <translation type="unfinished"/>
+        <translation>Executar comando</translation>
     </message>
     <message>
         <source>Query version</source>
-        <translation type="unfinished"/>
+        <translation>Consultar versão</translation>
     </message>
     <message>
         <source>Add to roster</source>
-        <translation type="unfinished"/>
+        <translation>Adicionar para lista</translation>
     </message>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation type="unfinished"/>
+        <translation>Nenhum VCard disponível</translation>
     </message>
 </context>
 <context>
     <name>XMPP::Stanza::Error::Private</name>
     <message>
         <source>Bad request</source>
-        <translation type="unfinished"/>
+        <translation>Solicitação ruim</translation>
     </message>
     <message>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
-        <translation type="unfinished"/>
+        <translation>O remetente enviou um XML malformado que não poderá ser processado.</translation>
     </message>
     <message>
         <source>Conflict</source>
-        <translation type="unfinished"/>
+        <translation>Conflito</translation>
     </message>
     <message>
         <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
-        <translation type="unfinished"/>
+        <translation>Acesso não pode ser concedido porque um recurso existente ou sessão existe esta com o mesmo nome ou endereço.</translation>
     </message>
     <message>
         <source>Feature not implemented</source>
-        <translation type="unfinished"/>
+        <translation>Recurso não implementado</translation>
     </message>
     <message>
         <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
-        <translation type="unfinished"/>
+        <translation>O recurso pedido não esta implementado pelo recipiente ou servidor, portando não poderá ser processada.</translation>
     </message>
     <message>
         <source>Forbidden</source>
-        <translation type="unfinished"/>
+        <translation>Proibido</translation>
     </message>
     <message>
         <source>The requesting entity does not possess the required permissions to perform the action.</source>
-        <translation type="unfinished"/>
+        <translation>A entidade requerente não possui as permissões necessárias para executar a ação.</translation>
     </message>
     <message>
         <source>Gone</source>
-        <translation type="unfinished"/>
+        <translation>Ido</translation>
     </message>
     <message>
         <source>The recipient or server can no longer be contacted at this address.</source>
-        <translation type="unfinished"/>
+        <translation>O destinatário ou servidor não pode mais ser contactado neste endereço.</translation>
     </message>
     <message>
         <source>Internal server error</source>
-        <translation type="unfinished"/>
+        <translation>Erro interno do servidor</translation>
     </message>
     <message>
         <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
-        <translation type="unfinished"/>
+        <translation>O servidor não pode processar a stanza por causa de um erro de configuração ou um erro indefinido interno do servidor.</translation>
     </message>
     <message>
         <source>Item not found</source>
-        <translation type="unfinished"/>
+        <translation>Item não encontrado</translation>
     </message>
     <message>
         <source>The addressed JID or item requested cannot be found.</source>
-        <translation type="unfinished"/>
+        <translation>O endereço JID ou item solicitado não pode ser encontrado.</translation>
     </message>
     <message>
         <source>JID malformed</source>
-        <translation type="unfinished"/>
+        <translation>JID mau formada</translation>
     </message>
     <message>
         <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
@@ -17058,7 +17112,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Not acceptable</source>
-        <translation type="unfinished"/>
+        <translation>Não aceitavel</translation>
     </message>
     <message>
         <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server (e.g., a local policy regarding acceptable words in messages).</source>
@@ -17066,7 +17120,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Not allowed</source>
-        <translation type="unfinished"/>
+        <translation>Não permitido</translation>
     </message>
     <message>
         <source>The recipient or server does not allow any entity to perform the action.</source>
@@ -17074,7 +17128,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Not authorized</source>
-        <translation type="unfinished"/>
+        <translation>Não autorizado</translation>
     </message>
     <message>
         <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
@@ -17082,15 +17136,15 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Recipient unavailable</source>
-        <translation type="unfinished"/>
+        <translation>Destinatário indisponível</translation>
     </message>
     <message>
         <source>The intended recipient is temporarily unavailable.</source>
-        <translation type="unfinished"/>
+        <translation>O destinatário da mensagem está temporariamente indisponível.</translation>
     </message>
     <message>
         <source>Redirect</source>
-        <translation type="unfinished"/>
+        <translation>Redirecionar</translation>
     </message>
     <message>
         <source>The recipient or server is redirecting requests for this information to another entity, usually temporarily.</source>
@@ -17098,7 +17152,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Registration required</source>
-        <translation type="unfinished"/>
+        <translation>Registro obrigatório</translation>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
@@ -17106,7 +17160,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Remote server not found</source>
-        <translation type="unfinished"/>
+        <translation>Servidor remoto não encontrado</translation>
     </message>
     <message>
         <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
@@ -17296,46 +17350,46 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Transports:</source>
-        <translation type="unfinished"/>
+        <translation>Transportes:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>psiotr::AuthenticationDialog</name>
     <message>
         <source>Authenticate %1</source>
-        <translation type="unfinished"/>
+        <translation>Autenticar %1</translation>
     </message>
     <message>
         <source>To authenticate via question and answer, ask a question whose answer is only known to you and %1.</source>
-        <translation type="unfinished"/>
+        <translation>Autenticar através de pergunta e resposta, fazer uma pergunta cuja resposta é conhecida apenas por você %1.</translation>
     </message>
     <message>
         <source>To authenticate manually, exchange your fingerprints over an authenticated channel and compare each other&apos;s fingerprint with the one listed beneath.</source>
-        <translation type="unfinished"/>
+        <translation>Para autenticação manual, trocar suas impressões digitais através de um canal autenticado e comparar um ao outro as impressões digitais como listado abaixo.</translation>
     </message>
     <message>
         <source>Authenticate to %1</source>
-        <translation type="unfinished"/>
+        <translation>Autenticar a %1</translation>
     </message>
     <message>
         <source>%1 wants to authenticate you. To authenticate, answer the question asked below.</source>
-        <translation type="unfinished"/>
+        <translation>%1 deseja autentica-lo. Para autenticar-se, responder a questão abaixo.</translation>
     </message>
     <message>
         <source>Question and answer</source>
-        <translation type="unfinished"/>
+        <translation>Pergunta e resposta</translation>
     </message>
     <message>
         <source>Fingerprint verification</source>
-        <translation type="unfinished"/>
+        <translation>Verificação de impressão digital</translation>
     </message>
     <message>
         <source>&amp;Question:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pergunta:</translation>
     </message>
     <message>
         <source>A&amp;nswer:</source>
@@ -17397,7 +17451,7 @@ Realmente deseja fechar a janela?</translation>
         <source>You have been successfully authenticated.
 
 You should authenticate %1 as well by asking your own question.</source>
-        <translation type="unfinished"/>
+        <translation>Você foi autenticado com sucesso. Você deve autenticar %1 fazendo sua própria pergunta.</translation>
     </message>
     <message>
         <source>Authentication failed.</source>
@@ -17963,155 +18017,162 @@ to this message in juick@conference.jabber.ru</source>
     </message>
     <message>
         <source>Get Filelist</source>
-        <translation type="unfinished"/>
+        <translation>Obter Lista de Arquivos</translation>
     </message>
     <message>
         <source>Upload File</source>
-        <translation type="unfinished"/>
+        <translation>Enviar Arquivo</translation>
     </message>
     <message>
         <source>Actions:</source>
-        <translation type="unfinished"/>
+        <translation>Ações:</translation>
     </message>
     <message>
         <source>Copy URL</source>
-        <translation type="unfinished"/>
+        <translation>Copiar URL</translation>
     </message>
     <message>
         <source>Prolongate</source>
-        <translation type="unfinished"/>
+        <translation>Alongar</translation>
     </message>
     <message>
         <source>Delete File(s)</source>
-        <translation type="unfinished"/>
+        <translation>Remover Arquivo(s)</translation>
     </message>
     <message>
         <source>line1
 line2</source>
-        <translation type="unfinished"/>
+        <translation>linha1
+linha2</translation>
     </message>
     <message>
         <source>Files list:</source>
-        <translation type="unfinished"/>
+        <translation>Lista de arquivos:</translation>
     </message>
     <message>
         <source>New Item</source>
-        <translation type="unfinished"/>
+        <translation>Novo Item</translation>
     </message>
     <message>
         <source>Clear Cookies</source>
-        <translation type="unfinished"/>
+        <translation>Limpar Cookies</translation>
     </message>
     <message>
         <source>Open Browser</source>
-        <translation type="unfinished"/>
+        <translation>Abrir Navegador</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Fechar</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodNetMan</name>
     <message>
         <source>Downloading filelist...</source>
-        <translation type="unfinished"/>
+        <translation>Baixando a lista de arquivos...</translation>
     </message>
     <message>
         <source>Deleting files...</source>
-        <translation type="unfinished"/>
+        <translation>Removendo arquivos...</translation>
     </message>
     <message>
         <source>Prolongate files...</source>
-        <translation type="unfinished"/>
+        <translation>Alongar arquivos...</translation>
     </message>
     <message>
         <source>Cookies are obsolete!
 Reathorization...</source>
-        <translation type="unfinished"/>
+        <translation>Cookies estão obsoletos!
+Reautorizando...</translation>
     </message>
     <message>
         <source>Can't get files!
 Try remove cookies.</source>
-        <translation type="unfinished"/>
+        <translation>Não foi possível obter arquivos!
+Tente remover os cookies.  </translation>
     </message>
     <message>
         <source>Filelist downloaded
 (%1 files)</source>
-        <translation type="unfinished"/>
+        <translation>Lista de aquivos baixada
+(%1 arquivos)</translation>
     </message>
     <message>
         <source>File(s) deleted</source>
-        <translation type="unfinished"/>
+        <translation>Arquivo(s) removido(s)</translation>
     </message>
     <message>
         <source>File(s) prolongated</source>
-        <translation type="unfinished"/>
+        <translation>Arquivo(s) alongado(s)</translation>
     </message>
     <message>
         <source>Password is set</source>
-        <translation type="unfinished"/>
+        <translation>Senha está definida</translation>
     </message>
     <message>
         <source>Password is deleted</source>
-        <translation type="unfinished"/>
+        <translation>Senha foi removida</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodPlugin</name>
     <message>
         <source>Open Yandex Narod Manager</source>
-        <translation type="unfinished"/>
+        <translation>Abrir Gerenciador Yandex Narod</translation>
     </message>
     <message>
         <source>Send file via Yandex Narod</source>
-        <translation type="unfinished"/>
+        <translation>Enviar arquivo via Yandex Narod</translation>
     </message>
     <message>
         <source>File sent to %1</source>
-        <translation type="unfinished"/>
+        <translation>Arquivo enviado para %1</translation>
     </message>
     <message>
         <source>Yandex Narod Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Plugin Yandex Narod</translation>
     </message>
     <message>
         <source>Ported from QutIM Yandex.Narod plugin
 http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
 
 </source>
-        <translation type="unfinished"/>
+        <translation>Plugin portado de QutIM Yandex.Narod
+http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
+
+</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodSettingsClass</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Configurações</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"/>
+        <translation>Login</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"/>
+        <translation>Senha</translation>
     </message>
     <message>
         <source>status</source>
-        <translation type="unfinished"/>
+        <translation>status</translation>
     </message>
     <message>
         <source>Test Authorization</source>
-        <translation type="unfinished"/>
+        <translation>Testar Autorização</translation>
     </message>
     <message>
         <source>Start Manager</source>
-        <translation type="unfinished"/>
+        <translation>Iniciar Gerenciador</translation>
     </message>
     <message>
         <source>Send file template</source>
-        <translation type="unfinished"/>
+        <translation>Enviar arquivo modelo</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -18123,15 +18184,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>%N - file name; %U - file URL; %S - file size</source>
-        <translation type="unfinished"/>
+        <translation>%N - nome do arquivo; %U - URL do arquivo; %S - tamanho do arquivo</translation>
     </message>
     <message>
         <source>Clear Cookies</source>
-        <translation type="unfinished"/>
+        <translation>Limpar Cookies</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</translation>
     </message>
 </context>
 </TS>
