@@ -192,7 +192,7 @@
     </message>
     <message>
         <source>Patcher and Ubuntu Packager</source>
-        <translation type="unfinished"/>
+        <translation>Desenvolvedor e Empacotador Ubuntu</translation>
     </message>
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
@@ -4333,19 +4333,19 @@ Importante: uma grande parte das opções são as configurações importantes do
     </message>
     <message>
         <source>Enable sound notifications for every MUC message</source>
-        <translation type="unfinished"/>
+        <translation>Habilitar notificações de som para cada mensagem MUC</translation>
     </message>
     <message>
         <source>Disable popup notifications if status is DND</source>
-        <translation type="unfinished"/>
+        <translation>Desativar notificações pop-up se o status é Ocupado</translation>
     </message>
     <message>
         <source>Disable popup notifications if status is Away</source>
-        <translation type="unfinished"/>
+        <translation>Desativar notificações pop-up se o status é Ausente</translation>
     </message>
     <message>
         <source>Notifications</source>
-        <translation type="unfinished"/>
+        <translation>Notificações</translation>
     </message>
     <message>
         <source>Hide conference on auto-join</source>
@@ -6124,7 +6124,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Import Wizard</source>
-        <translation type="unfinished"/>
+        <translation>Assistente de Importação</translation>
     </message>
 </context>
 <context>
@@ -6503,27 +6503,27 @@ Nota: Para funcionar corretamente, as opção options.ui.chat.central-toolbar de
     </message>
     <message>
         <source>Open file</source>
-        <translation type="unfinished"/>
+        <translation>Abrir arquivo</translation>
     </message>
     <message>
         <source>From clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Da área de transferencia</translation>
     </message>
     <message>
         <source>Image size must be less than 60 kb</source>
-        <translation type="unfinished"/>
+        <translation>Tamanho da imagem tem de ser inferior a 60 kb</translation>
     </message>
     <message>
         <source>Image %1 bytes received.</source>
-        <translation type="unfinished"/>
+        <translation>Imagem %1 bytes recebidos.</translation>
     </message>
     <message>
         <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
-        <translation type="unfinished"/>
+        <translation>Imagem %1 enviada &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Autores: </translation>
     </message>
 </context>
 <context>
@@ -7505,7 +7505,7 @@ Evento(s) de entrada de:</translation>
     <name>MainWin::Private</name>
     <message>
         <source>Diagnostics</source>
-        <translation type="unfinished"/>
+        <translation>Diagnóstico</translation>
     </message>
 </context>
 <context>
@@ -12014,11 +12014,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Check for Updates...</source>
-        <translation type="unfinished"/>
+        <translation>Verificar por Atualizações...</translation>
     </message>
     <message>
         <source>&amp;Check for Updates...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Verificar por Atualizações...</translation>
     </message>
 </context>
 <context>
@@ -15015,139 +15015,139 @@ Motivo: %1</translation>
     <name>Shortcuts</name>
     <message>
         <source>Action List</source>
-        <translation type="unfinished"/>
+        <translation>Lista de Ações</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="unfinished"/>
+        <translation>Descoberta de Serviços</translation>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="unfinished"/>
+        <translation>Adicionar Contato</translation>
     </message>
     <message>
         <source>New Message</source>
-        <translation type="unfinished"/>
+        <translation>Nova Mensagem</translation>
     </message>
     <message>
         <source>Join Group Chat</source>
-        <translation type="unfinished"/>
+        <translation>Entrar na Sala de Bate-Papo em Grupo</translation>
     </message>
     <message>
         <source>Account Setup</source>
-        <translation type="unfinished"/>
+        <translation>Configuração da Conta</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Opções</translation>
     </message>
     <message>
         <source>File Transfer</source>
-        <translation type="unfinished"/>
+        <translation>Transferência de Arquivo</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="unfinished"/>
+        <translation>Barra de Ferramentas</translation>
     </message>
     <message>
         <source>XML Console</source>
-        <translation type="unfinished"/>
+        <translation>Console XML</translation>
     </message>
     <message>
         <source>Change Profile</source>
-        <translation type="unfinished"/>
+        <translation>Mudar Perfil</translation>
     </message>
     <message>
         <source>Play Sounds</source>
-        <translation type="unfinished"/>
+        <translation>Reproduzir Sons</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Sair</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Enable Groups</source>
-        <translation type="unfinished"/>
+        <translation>Ativar Grupos</translation>
     </message>
     <message>
         <source>Event Notifier</source>
-        <translation type="unfinished"/>
+        <translation>Notificação de Eventos</translation>
     </message>
     <message>
         <source>View Groups</source>
-        <translation type="unfinished"/>
+        <translation>Ver Grupos</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Exibir Contatos Offline</translation>
     </message>
     <message>
         <source>Show Away Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Exibir Contatos Ausente</translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Exibir Contatos Ocultos</translation>
     </message>
     <message>
         <source>Show Agents</source>
-        <translation type="unfinished"/>
+        <translation>Exibir Agentes</translation>
     </message>
     <message>
         <source>Show Self</source>
-        <translation type="unfinished"/>
+        <translation>Exibir Eu</translation>
     </message>
     <message>
         <source>Show Status Message</source>
-        <translation type="unfinished"/>
+        <translation>Exibir Mensagem de Status</translation>
     </message>
     <message>
         <source>Publish Tune</source>
-        <translation type="unfinished"/>
+        <translation>Publicar Música</translation>
     </message>
     <message>
         <source>Active contacts</source>
-        <translation type="unfinished"/>
+        <translation>Contatos Ativos</translation>
     </message>
     <message>
         <source>Status All</source>
-        <translation type="unfinished"/>
+        <translation>Todos os Status</translation>
     </message>
     <message>
         <source>Status Group</source>
-        <translation type="unfinished"/>
+        <translation>Status do Grupo</translation>
     </message>
     <message>
         <source>Status Chat</source>
-        <translation type="unfinished"/>
+        <translation>Status de Bate-Papo</translation>
     </message>
     <message>
         <source>Status Online</source>
-        <translation type="unfinished"/>
+        <translation>Status Online</translation>
     </message>
     <message>
         <source>Status Away</source>
-        <translation type="unfinished"/>
+        <translation>Status Ausente</translation>
     </message>
     <message>
         <source>Status XA</source>
-        <translation type="unfinished"/>
+        <translation>Status Distante</translation>
     </message>
     <message>
         <source>Status DND</source>
-        <translation type="unfinished"/>
+        <translation>Status Ocupado</translation>
     </message>
     <message>
         <source>Status Invisible</source>
-        <translation type="unfinished"/>
+        <translation>Status Invisível</translation>
     </message>
     <message>
         <source>Status Offline</source>
-        <translation type="unfinished"/>
+        <translation>Status Offline</translation>
     </message>
     <message>
         <source>Choose status</source>
@@ -15235,155 +15235,155 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Find text next</source>
-        <translation type="unfinished"/>
+        <translation>Encontrar próximo texto</translation>
     </message>
     <message>
         <source>Find text previous</source>
-        <translation type="unfinished"/>
+        <translation>Encontrar texto anterior</translation>
     </message>
     <message>
         <source>Find text</source>
-        <translation type="unfinished"/>
+        <translation>Localizar texto</translation>
     </message>
     <message>
         <source>Sends the message</source>
-        <translation type="unfinished"/>
+        <translation>Envia a mensagem</translation>
     </message>
     <message>
         <source>Clear the text</source>
-        <translation type="unfinished"/>
+        <translation>Limpar texto</translation>
     </message>
     <message>
         <source>Change to quick command mode</source>
-        <translation type="unfinished"/>
+        <translation>Mudar para o modo de comando rápido</translation>
     </message>
     <message>
         <source>Show last message</source>
-        <translation type="unfinished"/>
+        <translation>Exibir última mensagem</translation>
     </message>
     <message>
         <source>Show first message</source>
-        <translation type="unfinished"/>
+        <translation>Exibir primeira mensagem</translation>
     </message>
     <message>
         <source>Show next message</source>
-        <translation type="unfinished"/>
+        <translation>Exibir próxima mensagem</translation>
     </message>
     <message>
         <source>Show prev message</source>
-        <translation type="unfinished"/>
+        <translation>Exibir mensagem anterior</translation>
     </message>
     <message>
         <source>Change case of letters in the chat edit</source>
-        <translation type="unfinished"/>
+        <translation>Mudar as letras na edição de bate-papo</translation>
     </message>
     <message>
         <source>Minimize active chat window</source>
-        <translation type="unfinished"/>
+        <translation>Minimizar janela de bate-papo ativa</translation>
     </message>
     <message>
         <source>Shortcuts in the contactlist</source>
-        <translation type="unfinished"/>
+        <translation>Atalhos na lista de contatos</translation>
     </message>
     <message>
         <source>Assign a custom avatar to the selected contact</source>
-        <translation type="unfinished"/>
+        <translation>Atribuir um avatar personalizado para o contato selecionado</translation>
     </message>
     <message>
         <source>Remove custom avatar from the selected contact</source>
-        <translation type="unfinished"/>
+        <translation>Remover avatar personalizado do contato selecionado</translation>
     </message>
     <message>
         <source>Delete the selected contact</source>
-        <translation type="unfinished"/>
+        <translation>Remover o contato selecionado</translation>
     </message>
     <message>
         <source>Open a chat to the selected contact</source>
-        <translation type="unfinished"/>
+        <translation>Abrir bate-papo no contato selecionado</translation>
     </message>
     <message>
         <source>Send a message to the selected contact</source>
-        <translation type="unfinished"/>
+        <translation>Enviar uma mensagem para o contato selecionado</translation>
     </message>
     <message>
         <source>Receive incoming event</source>
-        <translation type="unfinished"/>
+        <translation>Receber evento de entrada</translation>
     </message>
     <message>
         <source>Rename the selected contact</source>
-        <translation type="unfinished"/>
+        <translation>Renomear contato selecionado</translation>
     </message>
     <message>
         <source>Log on to the selected transport</source>
-        <translation type="unfinished"/>
+        <translation>Logar no transporte selecionado</translation>
     </message>
     <message>
         <source>Common actions</source>
-        <translation type="unfinished"/>
+        <translation>Ações comuns</translation>
     </message>
     <message>
         <source>Scroll up</source>
-        <translation type="unfinished"/>
+        <translation>Rolar para cima</translation>
     </message>
     <message>
         <source>Scroll down</source>
-        <translation type="unfinished"/>
+        <translation>Rolar para baixo</translation>
     </message>
     <message>
         <source>Close the current window/tab</source>
-        <translation type="unfinished"/>
+        <translation>Fechar a janela/aba atual</translation>
     </message>
     <message>
         <source>Hide the current window/tab</source>
-        <translation type="unfinished"/>
+        <translation>Ocultar a janela/aba atual</translation>
     </message>
     <message>
         <source>Open the message history</source>
-        <translation type="unfinished"/>
+        <translation>Abrir o histórico de mensagens</translation>
     </message>
     <message>
         <source>Show the user info of the contact</source>
-        <translation type="unfinished"/>
+        <translation>Exibir as informações de usuário deste contato</translation>
     </message>
     <message>
         <source>Shortcuts available from outside of the application</source>
-        <translation type="unfinished"/>
+        <translation>Atalhos disponíveis a partir do lado de fora da aplicação</translation>
     </message>
     <message>
         <source>Show/hide the application</source>
-        <translation type="unfinished"/>
+        <translation>Exibir/Ocultar o aplicativo</translation>
     </message>
     <message>
         <source>Bring the application to front</source>
-        <translation type="unfinished"/>
+        <translation>Trazer o aplicativo para frente</translation>
     </message>
     <message>
         <source>Send new message</source>
-        <translation type="unfinished"/>
+        <translation>Enviar nova mensagem</translation>
     </message>
     <message>
         <source>Hide all active windows</source>
-        <translation type="unfinished"/>
+        <translation>Ocultar todas as janelas ativas</translation>
     </message>
     <message>
         <source>Shortcuts in the message dialog</source>
-        <translation type="unfinished"/>
+        <translation>Atalhos nas mensagens de dialogo</translation>
     </message>
     <message>
         <source>Send the message</source>
-        <translation type="unfinished"/>
+        <translation>Enviar mensagem</translation>
     </message>
     <message>
         <source>Shortcuts in the status dialog</source>
-        <translation type="unfinished"/>
+        <translation>Atalhos no dialogo de status</translation>
     </message>
     <message>
         <source>Set the status message</source>
-        <translation type="unfinished"/>
+        <translation>Definir mensagem de status</translation>
     </message>
     <message>
         <source>Shortcuts in the service discovery dialog</source>
-        <translation type="unfinished"/>
+        <translation>Atalhos no dialogo de descoberta de serviços</translation>
     </message>
 </context>
 <context>
@@ -17317,7 +17317,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Auto Reply Message If Recv:</source>
-        <translation type="unfinished"/>
+        <translation>Mensagem de Resposta Automática Se Recebimento:</translation>
     </message>
     <message>
         <source>Auto Reply Message If No Recv:</source>
@@ -17466,23 +17466,23 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>To authenticate via shared secret, enter a secret only known to you and %1.</source>
-        <translation type="unfinished"/>
+        <translation>Para autenticar via segredo compartilhado, digite um segredo conhecido por você e %1.</translation>
     </message>
     <message>
         <source>%1 wants to authenticate you. To authenticate, enter your shared secret below.</source>
-        <translation type="unfinished"/>
+        <translation>%1 quer autentica-lo. Para autenticar-se, digite o segredo compartilhado abaixo.</translation>
     </message>
     <message>
         <source>Shared secret</source>
-        <translation type="unfinished"/>
+        <translation>Segredo compartilhado</translation>
     </message>
     <message>
         <source>&amp;Shared Secret:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Segredo Compartilhado:</translation>
     </message>
     <message>
         <source>%1&apos;s fingerprint:</source>
-        <translation type="unfinished"/>
+        <translation>%1 de impressão digital:</translation>
     </message>
 </context>
 <context>
@@ -17702,43 +17702,43 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Off-the-Record Messaging plugin for Psi+</source>
-        <translation type="unfinished"/>
+        <translation>Mensagens Off-the-Record plugin para Psi+</translation>
     </message>
     <message>
         <source>Authors: %1</source>
-        <translation type="unfinished"/>
+        <translation>Autores: %1</translation>
     </message>
     <message>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
-        <translation type="unfinished"/>
+        <translation>Mensagens Off-the-Record (OTR) lhe permitem ter conversas privadas ao longo de mensagens instantâneas, fornecendo:</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Criptografia</translation>
     </message>
     <message>
         <source>No one else can read your instant messages.</source>
-        <translation type="unfinished"/>
+        <translation>Ninguém poderá ler suas mensagens instantâneas.</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished"/>
+        <translation>Autenticação</translation>
     </message>
     <message>
         <source>You are assured the correspondent is who you think it is.</source>
-        <translation type="unfinished"/>
+        <translation>Você é assegurado ao correspondente que é a pessoa quem você pensa que é.</translation>
     </message>
     <message>
         <source>Deniability</source>
-        <translation type="unfinished"/>
+        <translation>Negação Plausível</translation>
     </message>
     <message>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
-        <translation type="unfinished"/>
+        <translation>As mensagens enviadas não têm assinaturas digitais que são verificáveis ​​por terceiros. Qualquer um pode forjar mensagens depois de uma conversa para fazê-los parecer que veio de você. No entanto, durante uma conversa, seu interlocutor é assegurado que as mensagens que ele vê são autênticas e não modificadas.</translation>
     </message>
     <message>
         <source>Perfect forward secrecy</source>
-        <translation type="unfinished"/>
+        <translation>Perfeita frente de sigilo</translation>
     </message>
     <message>
         <source>If you lose control of your private keys, no previous conversation is compromised.</source>
@@ -18187,7 +18187,11 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>%N - file name; %U - file URL; %S - file size</source>
