@@ -16713,7 +16713,8 @@ Para funcionar no GNOME MPlayer configurações adicionais não serão necessár
     <message>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
-        <translation type="unfinished"/>
+        <translation>Este plugin foi projetado para monitorar o status das listas de contatos específicas, bem como para a substituição de sons padrão das mensagens recebidas.
+Na primeira aba para definir a lista de contatos dos status monitorados. Quando o status dos contatos mudam, uma janela pop-up será exibida, e quando um status muda para online, um som personalizado será reproduzido. Na segunda aba, é configurada uma lista de itens, as mensagens serão monitoradas. Cada elemento pode conter uma expressões regulares para verificar partidas com a JID, a partir de qual mensagem chega, a lista de expressões regulares para verificar partidas com o texto de uma mensagem de entrada, o diretório de um arquivo de som que será reproduzido no caso de coincidência, bem como as configurações, se o som é reproduzido sempre, mesmo se os sons globais forem desativados.</translation>
     </message>
 </context>
 <context>
@@ -17108,7 +17109,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
-        <translation type="unfinished"/>
+        <translation>O entidade de envio forneceu um endereço ou comunicado XMPP (exemplo: um valor de um atributo &quot;para&quot;) ou de um aspecto (exemplo: um identificador de recurso) que não adere à sintaxe definida no esquema de endereçamento.</translation>
     </message>
     <message>
         <source>Not acceptable</source>
@@ -17116,7 +17117,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server (e.g., a local policy regarding acceptable words in messages).</source>
-        <translation type="unfinished"/>
+        <translation>O destinatário ou servidor entende o pedido, mas recusa-se a processá-lo porque ele não cumpre os critérios definidos pelo destinatário ou servidor (exemplo: uma política local sobre palavras aceitáveis ​​em mensagens).</translation>
     </message>
     <message>
         <source>Not allowed</source>
@@ -17124,7 +17125,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>The recipient or server does not allow any entity to perform the action.</source>
-        <translation type="unfinished"/>
+        <translation>O destinatário ou servidor não permite que qualquer entidade execute uma ação.</translation>
     </message>
     <message>
         <source>Not authorized</source>
@@ -17132,7 +17133,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
-        <translation type="unfinished"/>
+        <translation>O remetente deve ter fornecido credenciais adequadas antes de ter permissão para executar a ação, ou tenha fornecido credenciais impróprias.</translation>
     </message>
     <message>
         <source>Recipient unavailable</source>
@@ -17148,7 +17149,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>The recipient or server is redirecting requests for this information to another entity, usually temporarily.</source>
-        <translation type="unfinished"/>
+        <translation>O destinatário ou servidor está redirecionando pedidos de informações a outra entidade, geralmente temporariamente.</translation>
     </message>
     <message>
         <source>Registration required</source>
@@ -17156,7 +17157,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
-        <translation type="unfinished"/>
+        <translation>A entidade requerente não está autorizado a acessar o serviço solicitado porque o registro é necessário.</translation>
     </message>
     <message>
         <source>Remote server not found</source>
@@ -17164,62 +17165,62 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Um servidor remoto ou serviço especificado como parte ou a totalidade da JID do receptor pretendido não existe.</translation>
     </message>
     <message>
         <source>Remote server timeout</source>
-        <translation type="unfinished"/>
+        <translation>Tempo de limite do servidor remoto</translation>
     </message>
     <message>
         <source>A remote server or service specified as part or all of the JID of the intended recipient (or required to fulfill a request) could not be contacted within a reasonable amount of time.</source>
-        <translation type="unfinished"/>
+        <translation>Um servidor remoto ou serviço especificado como parte ou a totalidade da JID do destinatário pretendido (ou necessário para satisfazer um pedido) não puderam ser contactados num período de tempo razoável.</translation>
     </message>
     <message>
         <source>Resource constraint</source>
-        <translation type="unfinished"/>
+        <translation>Restrição de recursos</translation>
     </message>
     <message>
         <source>The server or recipient lacks the system resources necessary to service the request.</source>
-        <translation type="unfinished"/>
+        <translation>O servidor ou o beneficiário não tem os recursos de sistema necessários para atender à solicitação.</translation>
     </message>
     <message>
         <source>Service unavailable</source>
-        <translation type="unfinished"/>
+        <translation>Serviço indisponível</translation>
     </message>
     <message>
         <source>The server or recipient does not currently provide the requested service.</source>
-        <translation type="unfinished"/>
+        <translation>O servidor ou o destinatário não fornecem o serviço solicitado.</translation>
     </message>
     <message>
         <source>Subscription required</source>
-        <translation type="unfinished"/>
+        <translation>É necessário a inscrição</translation>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because a subscription is required.</source>
-        <translation type="unfinished"/>
+        <translation>A entidade requerente não está autorizado a acessar o serviço solicitado, porque é necessária uma subscrição.</translation>
     </message>
     <message>
         <source>Undefined condition</source>
-        <translation type="unfinished"/>
+        <translation>Condição indefinida</translation>
     </message>
     <message>
         <source>The error condition is not one of those defined by the other conditions in this list.</source>
-        <translation type="unfinished"/>
+        <translation>A condição de erro não é um daquelas definidas pelas outras condições nesta lista.</translation>
     </message>
     <message>
         <source>Unexpected request</source>
-        <translation type="unfinished"/>
+        <translation>Pedido inesperado</translation>
     </message>
     <message>
         <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
-        <translation type="unfinished"/>
+        <translation>O destinatário ou servidor entendeu o pedido, mas não estava esperando isso no momento (exemplo: o pedido estava fora de ordem).</translation>
     </message>
 </context>
 <context>
     <name>XMPP::Task</name>
     <message>
         <source>Disconnected</source>
-        <translation type="unfinished"/>
+        <translation>Desligado</translation>
     </message>
 </context>
 <context>
@@ -17264,55 +17265,55 @@ Realmente deseja fechar a janela?</translation>
     <name>options</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Formulário</translation>
     </message>
     <message>
         <source>Select Sounds:</source>
-        <translation type="unfinished"/>
+        <translation>Selecionar Sons:</translation>
     </message>
     <message>
         <source>Game started:</source>
-        <translation type="unfinished"/>
+        <translation>O jogo começou:</translation>
     </message>
     <message>
         <source>Game finished:</source>
-        <translation type="unfinished"/>
+        <translation>O jogo terminou:</translation>
     </message>
     <message>
         <source>Your turn:</source>
-        <translation type="unfinished"/>
+        <translation>Sua vez:</translation>
     </message>
     <message>
         <source>Error message:</source>
-        <translation type="unfinished"/>
+        <translation>Mensagem de erro:</translation>
     </message>
     <message>
         <source>If checked, the sound will always enabled (or disabled)</source>
-        <translation type="unfinished"/>
+        <translation>Se marcado, os sons serão ativados (ou desativados)</translation>
     </message>
     <message>
         <source>Override default sound settings</source>
-        <translation type="unfinished"/>
+        <translation>Substituir configurações de som padrão</translation>
     </message>
     <message>
         <source>Disable invitations if status is DND</source>
-        <translation type="unfinished"/>
+        <translation>Desativar convites se seu status é Ocupado</translation>
     </message>
     <message>
         <source>Disable invitations from conference</source>
-        <translation type="unfinished"/>
+        <translation>Desativar convites para conferências</translation>
     </message>
     <message>
         <source>Save window height and width</source>
-        <translation type="unfinished"/>
+        <translation>Salvar altura da janela e largura</translation>
     </message>
     <message>
         <source>Save window position</source>
-        <translation type="unfinished"/>
+        <translation>Salvar posição da janela</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Auto Reply Message If Recv:</source>
@@ -17320,7 +17321,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Auto Reply Message If No Recv:</source>
-        <translation type="unfinished"/>
+        <translation>Mensagem de Resposta Automática Se Não Recebimento:</translation>
     </message>
     <message>
         <source>Custom options:
@@ -17330,23 +17331,29 @@ Realmente deseja fechar a janela?</translation>
 [-+!]other - default
 [-+!]nil - not in list
 # - comment to end line</source>
-        <translation type="unfinished"/>
+        <translation>Opções personalizadas:
+-uin - não fazer nada
++uin - enviar repetição
+!uin -bloquear mensagem
+[-+!]outro- padrão
+[-+!]nil - não consta na lista
+# - comentar para terminar linha</translation>
     </message>
     <message>
         <source>Pause for next Recv message:</source>
-        <translation type="unfinished"/>
+        <translation>Pausa para recebimento de mensagem seguinte:</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation type="unfinished"/>
+        <translation>min.</translation>
     </message>
     <message>
         <source>Max messages to contact:</source>
-        <translation type="unfinished"/>
+        <translation>Máximo de mensagens para o contato:</translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation type="unfinished"/>
+        <translation>Desativar se janela de chat estiver ativa</translation>
     </message>
     <message>
         <source>Transports:</source>
