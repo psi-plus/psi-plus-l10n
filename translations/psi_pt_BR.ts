@@ -719,11 +719,11 @@ Clique clicar na caixa de seleção &lt;b&gt;Registrar uma nova conta&lt;/b&gt; 
     </message>
     <message>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation type="unfinished"/>
+        <translation>Marque esta opção para usar uma conexão SSL criptografada para o servidor XMPP. Você pode usar esta opção se o servidor suporta e se você tem o necessário qca-ossl plugin instalado.  Para mais informações, consulte a página inicial do Psi.</translation>
     </message>
     <message>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
-        <translation type="unfinished"/>
+        <translation>Marque esta opção para usar uma conexão de compressada para o servidor XMPP, se o servidor suporta.</translation>
     </message>
     <message>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
