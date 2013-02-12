@@ -228,18 +228,21 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; para mais detalhes</translation>
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
-        <translation type="unfinished"/>
+        <translation>Desenvolvedor Chefe a Escritores de Plugins; Empacotador Mac OS X</translation>
     </message>
     <message utf8="true">
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2013 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="unfinished"/>
+        <translation>Um cliente multiplataforma XMPP projetado para usuários avançados.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2012 A equipe Psi.&lt;br&gt;
+ {2001-2013 ?}</translation>
     </message>
     <message>
         <source>Language coordinator; Debian Packager</source>
-        <translation type="unfinished"/>
+        <translation>Condenador de idiomas; Empacotador Debian</translation>
     </message>
 </context>
 <context>
@@ -744,7 +747,7 @@ Clique clicar na caixa de seleção &lt;b&gt;Registrar uma nova conta&lt;/b&gt; 
     </message>
     <message>
         <source>Enter the XMPP Address of the contact to block:</source>
-        <translation type="unfinished"/>
+        <translation>Digite o endereço XMPP do contato para bloquear:</translation>
     </message>
     <message>
         <source>Delete current host from the list</source>
@@ -889,7 +892,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>You have successfully registered your account with XMPP address &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Você registrou a sua conta com o endereço XMPP &apos;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -1044,23 +1047,23 @@ salvará o histórico deste contato.</translation>
     <name>AddKeyDlg</name>
     <message>
         <source>Generate a new key pair</source>
-        <translation type="unfinished"/>
+        <translation>Gerar um novo par de chaves</translation>
     </message>
     <message>
         <source>RSA and RSA (default)</source>
-        <translation type="unfinished"/>
+        <translation>RSA e RSA (padrão)</translation>
     </message>
     <message>
         <source>DSA and Elgamal</source>
-        <translation type="unfinished"/>
+        <translation>DSA e Elgamal</translation>
     </message>
     <message>
         <source>DSA (sign only)</source>
-        <translation type="unfinished"/>
+        <translation>DSA (apenas assinatura)</translation>
     </message>
     <message>
         <source>RSA (sign only)</source>
-        <translation type="unfinished"/>
+        <translation>RSA (apenas assinatura)</translation>
     </message>
     <message>
         <source>1024</source>
@@ -1080,35 +1083,35 @@ salvará o histórico deste contato.</translation>
     </message>
     <message>
         <source>E-mail address: </source>
-        <translation type="unfinished"/>
+        <translation>Endereço de e-mail: </translation>
     </message>
     <message>
         <source>Length: </source>
-        <translation type="unfinished"/>
+        <translation>Comprimento: </translation>
     </message>
     <message>
         <source>Comment: </source>
-        <translation type="unfinished"/>
+        <translation>Comentário: </translation>
     </message>
     <message>
         <source>Full name: </source>
-        <translation type="unfinished"/>
+        <translation>Nome completo: </translation>
     </message>
     <message>
         <source>Expiration date: </source>
-        <translation type="unfinished"/>
+        <translation>Data de expiração:</translation>
     </message>
     <message>
         <source>Key type: </source>
-        <translation type="unfinished"/>
+        <translation>Tipo de chave: </translation>
     </message>
     <message>
         <source>Passphrase: </source>
-        <translation type="unfinished"/>
+        <translation>Senha: </translation>
     </message>
     <message>
         <source>Repeat: </source>
-        <translation type="unfinished"/>
+        <translation>Repetir: </translation>
     </message>
 </context>
 <context>
@@ -1206,15 +1209,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>XMPP</source>
-        <translation type="unfinished"/>
+        <translation>XMPP</translation>
     </message>
     <message>
         <source>Get XMPP Address</source>
-        <translation type="unfinished"/>
+        <translation>Obter Endereço XMPP</translation>
     </message>
     <message>
         <source>XMPP Address:</source>
-        <translation type="unfinished"/>
+        <translation>Endereço XMPP</translation>
     </message>
 </context>
 <context>
@@ -1245,12 +1248,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Please fill in the XMPP address of the person you wish to add.</source>
-        <translation type="unfinished"/>
+        <translation>Por favor, preencha o endereço XMPP da pessoa que você deseja adicionar.</translation>
     </message>
     <message>
         <source>The XMPP address you entered is not valid!
 Make sure you enter a fully qualified XMPP address.</source>
-        <translation type="unfinished"/>
+        <translation>O endereço XMPP digitado não é válido!
+Certifique-se de inserir um endereço XMPP totalmente qualificado.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;
@@ -3230,7 +3234,7 @@ Prosseguir?</translation>
     <name>DateWidget</name>
     <message>
         <source>never</source>
-        <translation type="unfinished"/>
+        <translation>nunca</translation>
     </message>
 </context>
 <context>
@@ -3428,7 +3432,7 @@ Prosseguir?</translation>
     </message>
     <message>
         <source>XMPP Service</source>
-        <translation type="unfinished"/>
+        <translation>Serviço XMPP</translation>
     </message>
 </context>
 <context>
@@ -4359,7 +4363,7 @@ Importante: uma grande parte das opções são as configurações importantes do
     </message>
     <message>
         <source>Hide conference on auto-join</source>
-        <translation type="unfinished"/>
+        <translation>Ocultar conferência em auto-entrar</translation>
     </message>
 </context>
 <context>
@@ -4537,7 +4541,7 @@ se certificar que conexões de saída TCP são permitidas.</translation>
     </message>
     <message>
         <source>The XMPP address specified is not valid.  Correct this and try again.</source>
-        <translation type="unfinished"/>
+        <translation>O endereço de XMPP especificado não é válido. Corrija isso e tente novamente.</translation>
     </message>
 </context>
 <context>
@@ -5810,7 +5814,7 @@ Para o envio de comandos, mensagens normais serão utilizadas, por isso este plu
     </message>
     <message>
         <source>Press shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Pressione o atalho</translation>
     </message>
 </context>
 <context>
@@ -7584,7 +7588,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     <message>
         <source>There was an error communicating with the XMPP server.
 Details: %1</source>
-        <translation type="unfinished"/>
+        <translation>Houve um erro de comunicação com o servidor XMPP. Detalhes: %1</translation>
     </message>
 </context>
 <context>
@@ -7607,39 +7611,39 @@ Details: %1</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Tipo</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Nome</translation>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation type="unfinished"/>
+        <translation>E-Mail</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="unfinished"/>
+        <translation>Criado</translation>
     </message>
     <message>
         <source>Length</source>
-        <translation type="unfinished"/>
+        <translation>Comprimento</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"/>
+        <translation>Comentário</translation>
     </message>
     <message>
         <source>Algorithm</source>
-        <translation type="unfinished"/>
+        <translation>Algorítimo </translation>
     </message>
     <message>
         <source>Short ID</source>
-        <translation type="unfinished"/>
+        <translation>Encurtar ID</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Impressão Digital</translation>
     </message>
 </context>
 <context>
@@ -7855,7 +7859,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>XMPP address completion</source>
-        <translation type="unfinished"/>
+        <translation>Conclusão de endereço XMPP</translation>
     </message>
 </context>
 <context>
@@ -8221,7 +8225,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>Ativar atalhos de abas Alt-[0-9]</translation>
     </message>
 </context>
 <context>
@@ -8891,11 +8895,11 @@ Nomes de opção não podem estar em branco, terminar com &apos;.&apos; ou conte
     </message>
     <message>
         <source>Option Editor</source>
-        <translation type="unfinished"/>
+        <translation>Abrir Editor</translation>
     </message>
     <message>
         <source>Edit Option %1</source>
-        <translation type="unfinished"/>
+        <translation>Editar Opções %1</translation>
     </message>
 </context>
 <context>
@@ -9347,39 +9351,39 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Remover</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"/>
+        <translation>Importar</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"/>
+        <translation>Exportar</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation type="unfinished"/>
+        <translation>Informações</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Key pair generating</source>
-        <translation type="unfinished"/>
+        <translation>Gerador de par de chaves</translation>
     </message>
     <message>
         <source>ASCII (*.asc)</source>
-        <translation type="unfinished"/>
+        <translation>ASCII (*.asc)</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Todos os arquivos (*)</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished"/>
+        <translation>Informações GnuPG</translation>
     </message>
     <message>
         <source>&lt;b&gt;Please wait!&lt;/b&gt;&lt;br/&gt;We need to generate a lot of random bytes. It is a good idea to perform some other action (type on the keyboard, move the mouse, utilize the disks) during the prime generation; this gives the random number generator a better chance to gain enough entropy.</source>
@@ -9387,19 +9391,19 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>from file</source>
-        <translation type="unfinished"/>
+        <translation>de um arquivo</translation>
     </message>
     <message>
         <source>from clipboard</source>
-        <translation type="unfinished"/>
+        <translation>da área de transferência</translation>
     </message>
     <message>
         <source>to file</source>
-        <translation type="unfinished"/>
+        <translation>de um arquivo</translation>
     </message>
     <message>
         <source>to clipboard</source>
-        <translation type="unfinished"/>
+        <translation>da área de transferência </translation>
     </message>
 </context>
 <context>
@@ -10366,19 +10370,19 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Response mode</source>
-        <translation type="unfinished"/>
+        <translation>Mode de resposta</translation>
     </message>
     <message>
         <source>allow</source>
-        <translation type="unfinished"/>
+        <translation>permitir</translation>
     </message>
     <message>
         <source>not implemented</source>
-        <translation type="unfinished"/>
+        <translation>não implementado</translation>
     </message>
     <message>
         <source>ignore</source>
-        <translation type="unfinished"/>
+        <translation>ignorar</translation>
     </message>
 </context>
 <context>
@@ -11593,7 +11597,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Feature Removed</source>
-        <translation type="unfinished"/>
+        <translation>Recurso Removido</translation>
     </message>
     <message>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
@@ -11601,7 +11605,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Whiteboard invitation</source>
-        <translation type="unfinished"/>
+        <translation>Convite quadro branco</translation>
     </message>
 </context>
 <context>
@@ -12238,7 +12242,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Psi - The Cross-Platform XMPP Client For Power Users</source>
-        <translation type="unfinished"/>
+        <translation>Psi - Um Cliente Multiplataforma XMMP para Usuários Avançados</translation>
     </message>
 </context>
 <context>
@@ -12871,7 +12875,7 @@ Proceder?</translation>
     <name>PsiToolBar</name>
     <message>
         <source>&amp;Configure Toolbar...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Configurar Barra de Tarefas...</translation>
     </message>
 </context>
 <context>
@@ -14325,7 +14329,7 @@ Senha: %5</translation>
     </message>
     <message>
         <source>Conversion Error</source>
-        <translation type="unfinished"/>
+        <translation>Erro de Conversão</translation>
     </message>
     <message>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
@@ -14333,31 +14337,31 @@ Senha: %5</translation>
     </message>
     <message>
         <source>Contact online</source>
-        <translation type="unfinished"/>
+        <translation>Contato online</translation>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation type="unfinished"/>
+        <translation>Contato offline</translation>
     </message>
     <message>
         <source>Status change</source>
-        <translation type="unfinished"/>
+        <translation>Mudança de status</translation>
     </message>
     <message>
         <source>Incoming message</source>
-        <translation type="unfinished"/>
+        <translation>Mensagem de entrada</translation>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation type="unfinished"/>
+        <translation>Mensagem de entrada bate-papo</translation>
     </message>
     <message>
         <source>Incoming file</source>
-        <translation type="unfinished"/>
+        <translation>Arquivo de entrada</translation>
     </message>
     <message>
         <source>Incoming call</source>
-        <translation type="unfinished"/>
+        <translation>Chamada recebida</translation>
     </message>
 </context>
 <context>
@@ -14821,7 +14825,7 @@ Configurações de autorização em alguns hostings podem ser encontradas aqui: 
     </message>
     <message>
         <source>XMPP Address</source>
-        <translation type="unfinished"/>
+        <translation>Endereço XMPP</translation>
     </message>
 </context>
 <context>
@@ -15019,7 +15023,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Invalid redirect URL %1</source>
-        <translation type="unfinished"/>
+        <translation>Redirecionamento inválido URL %1</translation>
     </message>
 </context>
 <context>
@@ -16872,7 +16876,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Whiteboard (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Tabuleiro Branco (%1)</translation>
     </message>
 </context>
 <context>
