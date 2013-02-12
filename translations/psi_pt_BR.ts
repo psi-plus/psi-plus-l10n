@@ -228,7 +228,7 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; para mais detalhes</translation>
     </message>
     <message>
         <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
-        <translation>Desenvolvedor Chefe a Escritores de Plugins; Empacotador Mac OS X</translation>
+        <translation>Desenvolvedor Chefe a Escritores de Plugins, Empacotador Mac OS X</translation>
     </message>
     <message utf8="true">
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
@@ -242,7 +242,7 @@ Copyright © 2001-2012 A equipe Psi.&lt;br&gt;
     </message>
     <message>
         <source>Language coordinator; Debian Packager</source>
-        <translation>Condenador de idiomas; Empacotador Debian</translation>
+        <translation>Condenador de idiomas, Empacotador Debian</translation>
     </message>
 </context>
 <context>
@@ -631,7 +631,7 @@ Clique clicar na caixa de seleção &lt;b&gt;Registrar uma nova conta&lt;/b&gt; 
     </message>
     <message>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
-        <translation>Automaticamente logar nesta conta quando o Psi iniciar. Útil quando o Psi automaticamente for carregado quando uma conexão com a internet for detectada.</translation>
+        <translation>Automaticamente logar nesta conta quando o Psi iniciar. Útil quando o Psi automaticamente for lançado quando uma conexão com a internet for detectada.</translation>
     </message>
     <message>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
@@ -727,23 +727,23 @@ Clique clicar na caixa de seleção &lt;b&gt;Registrar uma nova conta&lt;/b&gt; 
     </message>
     <message>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
-        <translation type="unfinished"/>
+        <translation>Use esta opção de configuração manual de seu host XMPP se não for o mesmo host para conectar-se.  Esta opção é útil se você tem algum tipo de proxy na sua máquina local (ou seja, você se conecta ao localhost), mas a sua conta está registrada em um servidor externo.</translation>
     </message>
     <message>
         <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
-        <translation type="unfinished"/>
+        <translation>Você poderá ter vários clientes conectados ao servidor XMPP com sua única conta.  Cada login é distinguido por um nome chamado de &quot;recurso&quot;, que você poderá especificar neste campo.</translation>
     </message>
     <message>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
-        <translation type="unfinished"/>
+        <translation>Esta opção define o usuário (e domínio) que deseja autenticar-se. Isso substitui o endereço XMPP você está logando-se.</translation>
     </message>
     <message>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Você poderá ter vários clientes conectados ao servidor XMPP com sua única conta.  Em cada situação, o cliente com a maior prioridade (que é especificada neste campo) será aquele que irá receber todos os eventos de entrada.&lt;/p&gt;&lt;p&gt;Por exemplo, se você tiver uma conexão permanente com a Internet no seu local de trabalho, e tem uma conexão discada em casa, você poderá ter seu cliente XMPP permanentemente executando no trabalho com uma baixa prioridade, e ainda poderá usar a mesma conta em casa, usando um cliente com maior prioridade para temporariamente &quot;desativado&quot; o cliente de menor prioridade no trabalho.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;i&gt;Endereço XMPP&lt;/i&gt; deve ser especificado no formato &lt;i&gt;usuario@dominio&lt;/i&gt;.</translation>
     </message>
     <message>
         <source>Enter the XMPP Address of the contact to block:</source>
@@ -1087,7 +1087,7 @@ salvará o histórico deste contato.</translation>
     </message>
     <message>
         <source>Length: </source>
-        <translation>Comprimento: </translation>
+        <translation>Quantidade: </translation>
     </message>
     <message>
         <source>Comment: </source>
@@ -1205,7 +1205,11 @@ salvará o histórico deste contato.</translation>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Para adicionar um &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; usuário XMPP, basta preencher o endereço XMPP (o apelido e grupo são opcionais) acima e clique em &lt;span style=&quot; font-style:italic;&quot;&gt;Adicionar&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;Para adicionar um contato de um serviço &lt;span style=&quot; font-weight:600;&quot;&gt;não XMPP&lt;/span&gt;, verifique se está primeiro registrado no serviço (veja Descoberta de Serviços no menu principal), e então selecionar o serviço caixa de dialogo. Siga as instruções no &lt;span style=&quot; font-style:italic;&quot;&gt;ID do Serviço de traduções&lt;/span&gt; e clique no botão &lt;span style=&quot; font-style:italic;&quot;&gt;Obter endereço XMPP&lt;/span&gt; para gerar um endereço XMPP neste contato.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>XMPP</source>
@@ -1259,7 +1263,8 @@ Certifique-se de inserir um endereço XMPP totalmente qualificado.</translation>
     <message>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;
+Houve um erro ao obter o ID do Serviço de Traduções de &quot;%1&quot;.&lt;br&gt;Motivo: %2&lt;br&gt;&lt;br&gt;O serviço pode não suportar este recurso.  Neste caso, você terá que digitar o endereço XMPP manualmente para o contato que você deseja adicionar.  Exemplos:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Usuarioxmpp@algumhost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;Usuarioaol@[Endereço XMPP do Transporte AIM]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[Endereço XMPP do Transporte ICQ]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[Endereço XMPP do Transporte MSN]&lt;br&gt;&amp;nbsp;&amp;nbsp;Usuarioyahoo@[Endereço XMPP do Transporte Yahoo]&lt;br&gt;&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
@@ -1365,7 +1370,7 @@ Para funcionar corretamente, o plugin requer que o cliente de outra parte suport
     </message>
     <message>
         <source>Dnd</source>
-        <translation>Não perturbe</translation>
+        <translation>Ocupado</translation>
     </message>
     <message>
         <source>XA</source>
@@ -1423,7 +1428,7 @@ Para funcionar corretamente, o plugin requer que o cliente de outra parte suport
     </message>
     <message>
         <source>Author: </source>
-        <translation>Autor:</translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
@@ -2378,11 +2383,11 @@ Você poderá pré-visualizar os itens antes de remove-los de seu hd.</translati
     <name>ClearingViewer</name>
     <message>
         <source>Check</source>
-        <translation>Checar</translation>
+        <translation>Marcar</translation>
     </message>
     <message>
         <source>Uncheck</source>
-        <translation>Não Checar</translation>
+        <translation>Desmarcar</translation>
     </message>
     <message>
         <source>Invert</source>
@@ -2862,7 +2867,7 @@ Nota: Para funcionar corretamente, a opção options.ui.chat.central-toolbar  de
     <name>ContactManagerView</name>
     <message>
         <source>Check</source>
-        <translation>Verificar</translation>
+        <translation>Marcar</translation>
     </message>
     <message>
         <source>Uncheck</source>
@@ -4041,7 +4046,7 @@ Se você deseja confirmar esta solicitação, por favor pressione o botão Confi
     </message>
     <message>
         <source>Enable autojoin for bookmarked conferences</source>
-        <translation>Ativar auto-juntar para conferências favoritadas</translation>
+        <translation>Ativar auto-entrar para conferências favoritadas</translation>
     </message>
     <message>
         <source>Enable HTML rendering in MUC chat window</source>
@@ -4068,7 +4073,7 @@ Esta opção terá efeito se o aceitar-padrão for falso.</translation>
     <message>
         <source>Disable autojoin to folowing conferences:
 (specify JIDs)</source>
-        <translation>Desativar auto-juntar nas seguintes conferências:
+        <translation>Desativar auto-entrar nas seguintes conferências:
 (especificar JIDs)</translation>
     </message>
     <message>
@@ -4205,7 +4210,7 @@ Esta opção terá efeito se o aceitar-padrão for falso.</translation>
     </message>
     <message>
         <source>Enable single messages</source>
-        <translation>Ativar mensagens simples</translation>
+        <translation>Ativar mensagens individuais</translation>
     </message>
     <message>
         <source>Popup border color:</source>
@@ -4639,7 +4644,7 @@ se certificar que conexões de saída TCP são permitidas.</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation>Upload</translation>
+        <translation>Enviar</translation>
     </message>
     <message>
         <source>Download</source>
@@ -4711,11 +4716,11 @@ Motivo: %3</translation>
     </message>
     <message>
         <source>Proxy query successful.</source>
-        <translation>Pesquisa de proxy bem sucedida.</translation>
+        <translation>Consulta de proxy bem sucedida.</translation>
     </message>
     <message>
         <source>Proxy query failed!</source>
-        <translation>Pesquisa de proxy falhou!</translation>
+        <translation>Consulta de proxy falhou!</translation>
     </message>
     <message>
         <source>Requesting data transfer channel...</source>
@@ -5547,7 +5552,7 @@ Você perdeu o jogo.</translation>
     </message>
     <message>
         <source>Horizontal GPS error in arc minutes; this element is deprecated in favor of &lt;accuracy/&gt;</source>
-        <translation>Erro GPS horizontal em minutos de arco; esse elemento é preterido em favor de &lt;accuracy/&gt;</translation>
+        <translation>Erro GPS horizontal em minutos de arco, esse elemento é preterido em favor de &lt;accuracy/&gt;</translation>
     </message>
     <message>
         <source>Floor:</source>
@@ -5623,7 +5628,7 @@ Você perdeu o jogo.</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation>Reset</translation>
+        <translation>Restaurar</translation>
     </message>
     <message>
         <source>OK</source>
@@ -5940,7 +5945,7 @@ Para o envio de comandos, mensagens normais serão utilizadas, por isso este plu
     </message>
     <message>
         <source>Reset</source>
-        <translation>Resetar</translation>
+        <translation>Restaurar</translation>
     </message>
 </context>
 <context>
@@ -5987,7 +5992,7 @@ Para o envio de comandos, mensagens normais serão utilizadas, por isso este plu
     </message>
     <message>
         <source>Text files (*.txt);;All files (*.*)</source>
-        <translation>Arquivos textos (*.txt);Todos os arquivos (*.*)</translation>
+        <translation>Arquivos textos (*.txt),Todos os arquivos (*.*)</translation>
     </message>
     <message>
         <source>Error</source>
@@ -7385,7 +7390,7 @@ Motivo: %1</translation>
     <name>MUCReasonsEditor</name>
     <message>
         <source>Reason editor</source>
-        <translation>Editor de razões</translation>
+        <translation>Editor de motivos</translation>
     </message>
     <message>
         <source>Reasons</source>
@@ -7452,7 +7457,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation>Esta aplicação usa GStreamer %1, uma extensa estrutura de desenvolvimento em código aberto e multi-plataforma. Para maiores informações, visite &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
+        <translation>Este aplicativo usa GStreamer %1, uma extensa estrutura de desenvolvimento em código aberto e multi-plataforma. Para maiores informações, visite &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
     </message>
     <message>
         <source>About GStreamer</source>
@@ -7627,7 +7632,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Length</source>
-        <translation>Comprimento</translation>
+        <translation>Quantidade</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -7803,7 +7808,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Single-click triggers default action</source>
-        <translation>Ativar ação padrão com clique simples</translation>
+        <translation>Ativar ação padrão com único clique</translation>
     </message>
     <message>
         <source>Automatically copy selected text to clipboard</source>
@@ -7946,7 +7951,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>DND contacts:</source>
-        <translation>Contatos em Não Perturbe:</translation>
+        <translation>Contatos Ocupados:</translation>
     </message>
     <message>
         <source>Offline contacts:</source>
@@ -8047,11 +8052,11 @@ Tags: %1</translation>
     <name>OptApplication</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation>UI Opções Aplicação</translation>
+        <translation>UI Opções do Aplicativo</translation>
     </message>
     <message>
         <source>Automatically launch application when OS starts</source>
-        <translation>Automaticamente lançar aplicação quando o Sistema Operacional iniciar</translation>
+        <translation>Automaticamente lançar o aplicativo quando o Sistema Operacional iniciar</translation>
     </message>
     <message>
         <source>Enable docklet</source>
@@ -8362,7 +8367,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>On incoming headline event</source>
-        <translation>No evento manchete de entrada</translation>
+        <translation>No evento Notícias de entrada</translation>
     </message>
     <message>
         <source>On incoming file event</source>
@@ -8394,15 +8399,15 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Maximum JID length:</source>
-        <translation>Duração máxima JID:</translation>
+        <translation>Quantidade máxima de JID:</translation>
     </message>
     <message>
         <source>Maximum text length:</source>
-        <translation>Duração máxima de texto:</translation>
+        <translation>Quantidade máxima de texto:</translation>
     </message>
     <message>
         <source>Maximum status length:</source>
-        <translation>Duração máxima de status:</translation>
+        <translation>Quantidade máxima de status:</translation>
     </message>
     <message>
         <source>Popup location</source>
@@ -8433,7 +8438,7 @@ Tags: %1</translation>
     <name>OptRoster</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation>UI Opções de Aplicação</translation>
+        <translation>UI Opções do Aplicativo</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
@@ -8453,7 +8458,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation>Desativar barra de rolagem nesta janela de aplicação</translation>
+        <translation>Desativar barra de rolagem nesta janela de aplicativo.</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
@@ -8773,11 +8778,11 @@ Tags: %1</translation>
     </message>
     <message>
         <source>Hide Free for Chat, Away, Not Available and Do not Disturb</source>
-        <translation>Oculte Livre para Bate-Papo, Ausente, Não Disponível e Não Perturbe</translation>
+        <translation>Oculte Livre para Bate-Papo, Ausente, Não Disponível e Ocupado</translation>
     </message>
     <message>
         <source>Hide standard statuses (Chat, Away, XA, DND)</source>
-        <translation>Ocultar status padrão (Bate-Papo, Ausente, Distante, Não Perturbe)</translation>
+        <translation>Ocultar status padrão (Bate-Papo, Ausente, Distante, Ocupado)</translation>
     </message>
     <message>
         <source>Show &quot;Edit presets...&quot;</source>
@@ -8922,7 +8927,7 @@ Nomes de opção não podem estar em branco, terminar com &apos;.&apos; ou conte
     </message>
     <message>
         <source>Disable notifications if status is DND</source>
-        <translation>Desativar notificações se o status é Não Perturbe</translation>
+        <translation>Desativar notificações se o status é Ocupado</translation>
     </message>
     <message>
         <source>Play sound:</source>
@@ -8947,7 +8952,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Check Birthdays</source>
-        <translation>Checar Aniversários</translation>
+        <translation>Verificar Aniversários</translation>
     </message>
     <message>
         <source>Start notifying</source>
@@ -9041,7 +9046,7 @@ notificações de e-mail não lido.</translation>
  if set to &quot;false&quot;, no conversations
  will be logged.</source>
         <translation>Se definido para &quot;verdadeiro, o servidor salvará
-Bate-Papos do Google Talk no servidor;
+Bate-Papos do Google Talk no servidor,
 se definido para &quot;falso&quot;, nenhuma conversa
 será registrada.</translation>
     </message>
@@ -9065,7 +9070,7 @@ a sua lista de usuário.</translation>
         <source> Enable multiple applications signed in
  as the same user to report the same
  status message. </source>
-        <translation>Permitir múltiplas aplicações, assinado
+        <translation>Permitir múltiplos aplicativos, assinado
 como um mesmo usuário para reportar o mesmo
 status de mensagem.</translation>
     </message>
@@ -9137,7 +9142,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Disable popups if status is DND</source>
-        <translation>Desabilitar pop-us se o status é Não Perturbe</translation>
+        <translation>Desabilitar pop-us se o status é Ocupado</translation>
     </message>
     <message>
         <source>Enable notifications for:</source>
@@ -9249,7 +9254,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation>Resetar</translation>
+        <translation>Restaurar</translation>
     </message>
     <message>
         <source>Send maximum</source>
@@ -9278,8 +9283,8 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     <message>
         <source>Disable stopspam, if don't match any rule above
 (does not work for muc private messages)</source>
-        <translation>Desativar parar o spam, se não corresponder a qualquer cargo acima
-(não funciona em mensagens privadas do muc)</translation>
+        <translation>Desativar parar o spam, se não corresponder a qualquer regra acima
+(não funcionará em mensagens privadas do muc)</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9387,7 +9392,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>&lt;b&gt;Please wait!&lt;/b&gt;&lt;br/&gt;We need to generate a lot of random bytes. It is a good idea to perform some other action (type on the keyboard, move the mouse, utilize the disks) during the prime generation; this gives the random number generator a better chance to gain enough entropy.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Por favor espere!&lt;/b&gt;&lt;br/&gt;Precisamos gerar um monte de bytes aleatórios. É uma boa ideia para executar alguma outra ação (digitar no teclado, mover o mouse, usar os discos) durante a geração privilegiada, isso dá ao gerador de números aleatórios uma chance melhor de conseguir entropia suficiente.</translation>
     </message>
     <message>
         <source>from file</source>
@@ -9457,7 +9462,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Normally, a double-click on a contact will invoke the default action.  Check this option if you&apos;d rather invoke with a single-click.</source>
-        <translation>Normalmente um clique duplo em um contato invocará a ação padrão. Marque esta opção se você deseja invocá-la com um clique simples.</translation>
+        <translation>Normalmente um clique duplo em um contato invocará a ação padrão. Marque esta opção se você deseja invocá-la com um único clique.</translation>
     </message>
     <message>
         <source>Enables as-you-type JID autocompletion in message dialog.</source>
@@ -9477,7 +9482,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation>Exibir o tamanho da mensagem. Marque esta opção se você deseja saber o tamanho da sua mensagem. Pode ser útil quando você estiver usando um transporte SMS.</translation>
+        <translation>Exibir a quantidade da mensagem. Marque esta opção se você deseja saber o tamanho da sua mensagem. Pode ser útil quando você estiver usando um transporte SMS.</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
@@ -9563,7 +9568,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>do not disturb</source>
-        <translation>não perturbe</translation>
+        <translation>ocupado</translation>
     </message>
     <message>
         <source>Status message</source>
@@ -9596,11 +9601,11 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     <name>OptionsTabApplication</name>
     <message>
         <source>Application</source>
-        <translation>Aplicação</translation>
+        <translation>Aplicativo</translation>
     </message>
     <message>
         <source>General application options</source>
-        <translation>Opções gerais da aplicação</translation>
+        <translation>Opções gerais do aplicativo</translation>
     </message>
     <message>
         <source>Set or remove window decorations for roster and chats. For chats there are special header with close, hide and maximize buttons</source>
@@ -9612,7 +9617,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Normally, single-clicking on the Psi docklet icon brings the main window to the foreground.  Check this option if you would rather use a double-click.</source>
-        <translation>Normalmente um clique simples no ícone de bandeja do sistema do Psi exibe a janela principal. Marque esta opção se você prefere usar o clique duplo.</translation>
+        <translation>Normalmente um único clique no ícone de bandeja do sistema do Psi exibe a janela principal. Marque esta opção se você prefere usar o clique duplo.</translation>
     </message>
     <message>
         <source>Starts Psi with only the docklet icon visible.</source>
@@ -9979,7 +9984,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>If your system supports multiple sound players, you may choose your preferred sound player application here.</source>
-        <translation>Se seu sistema suportar vários tocadores de som, você poderá escolher seu tocador preferido aqui.</translation>
+        <translation>Se seu sistema suportar vários tocadores de som, você poderá escolher seu player preferido aqui.</translation>
     </message>
     <message>
         <source>Enable this option if you wish to hear sound alerts when your status is &quot;away&quot; or &quot;extended away&quot;.</source>
@@ -10342,7 +10347,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Detect full screen applications</source>
-        <translation>Detectar aplicações em tela cheia</translation>
+        <translation>Detectar aplicativos em tela cheia</translation>
     </message>
     <message>
         <source>Set status:</source>
@@ -11052,7 +11057,7 @@ Proceder?</translation>
 The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
 &lt;br&gt;
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation>Use um &lt;i&gt;Nome de Perfil&lt;/i&gt; simples. Use uma simples palavra formada apenas por letras e números.&lt;br&gt;
+        <translation>Use um &lt;i&gt;Nome de Perfil&lt;/i&gt; simples. Use uma única palavra formada apenas por letras e números.&lt;br&gt;
 &lt;br&gt;
 A &lt;i&gt;Ação Padrão&lt;/i&gt; é o que ocorre quando você clica duas vezes em um contato na sua lista. As opções são &lt;b&gt;Mensagem&lt;/b&gt; (estilo ICQ) e &lt;b&gt;Bate-papo&lt;/b&gt; (estilo AIM). Você pode alterá-la depois no menu Opções.&lt;br&gt;
 &lt;br&gt;
@@ -11563,7 +11568,7 @@ Detalhes: %1</translation>
     </message>
     <message>
         <source>Headline</source>
-        <translation>Cabeçalho</translation>
+        <translation>Notícias</translation>
     </message>
     <message>
         <source>There was an error trying to sign your status.
@@ -11601,7 +11606,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation type="unfinished"/>
+        <translation>Esta conta foi configurada para usar o recurso &quot;Sonda legado porta SSL&quot;, mas esse recurso não é mais suportado. A menos que seu servidor XMPP é muito desatualizado, esta mudança não deve afetar você. Se você tiver problemas de conexão, reveja suas configurações de conta para correção ou contate o administrador do servidor XMPP.</translation>
     </message>
     <message>
         <source>Whiteboard invitation</source>
@@ -11888,7 +11893,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>DND</source>
-        <translation>Não perturbe</translation>
+        <translation>Ocupado</translation>
     </message>
     <message>
         <source>Choose status...</source>
@@ -12177,7 +12182,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Open XMPP URI. (e.g. xmpp:someone@example.org?chat) For security reasons, this must be the last option.</source>
-        <translation>Abrir URI XMPP (exemplo: xmpp:algo@exemplo.org?chat) Por razoes de segurança, esta deverá ser a última opção.</translation>
+        <translation>Abrir URI XMPP (exemplo: xmpp:algo@exemplo.org?chat) Por motivos de segurança, esta deverá ser a última opção.</translation>
     </message>
     <message>
         <source>STATUS</source>
@@ -12187,7 +12192,7 @@ Motivo: %1.</translation>
     <message>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
         <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
-        <translation>Definir status. STATUS deverá ser uma das opções: &apos;online&apos;, &apos;chat&apos;, &apos;away&apos;, &apos;xa&apos;, &apos;dnd&apos;, &apos;offline&apos;.</translation>
+        <translation>Definir status. STATUS deverá ser uma das opções: &apos;online&apos;, &apos;bate-papo&apos;, &apos;ausente&apos;, &apos;distante&apos;, &apos;ocupado&apos;, &apos;offline&apos;.</translation>
     </message>
     <message>
         <source>MSG</source>
@@ -12783,7 +12788,7 @@ Gostaria de ativar a sessão agora?</translation>
     </message>
     <message>
         <source>Reset...</source>
-        <translation>Redefinir...</translation>
+        <translation>Restaurar...</translation>
     </message>
     <message>
         <source>Edit...</source>
@@ -12823,11 +12828,11 @@ Gostaria de ativar a sessão agora?</translation>
     </message>
     <message>
         <source>Really reset options %1 to default value?</source>
-        <translation>Realmente redefinir opções %1 para os valores padrão?</translation>
+        <translation>Realmente restaurar opções %1 para os valores padrão?</translation>
     </message>
     <message>
         <source>Really reset all options starting with %1. to default value?</source>
-        <translation>Realmente redefinir todas as opções começando com %1. para o valor padrão?</translation>
+        <translation>Realmente restaurar todas as opções começando com %1. para o valor padrão?</translation>
     </message>
 </context>
 <context>
@@ -13341,7 +13346,7 @@ Proceder?</translation>
     </message>
     <message>
         <source>Do not Disturb</source>
-        <translation>Não Perturbe</translation>
+        <translation>Ocupado</translation>
     </message>
     <message>
         <source>Free for Chat</source>
@@ -13987,7 +13992,7 @@ Senha: %5</translation>
     </message>
     <message>
         <source>Headline</source>
-        <translation>Cabeçalho</translation>
+        <translation>Notícias</translation>
     </message>
     <message>
         <source>Chat Message</source>
@@ -14071,7 +14076,7 @@ Senha: %5</translation>
     </message>
     <message>
         <source>Headline from %1</source>
-        <translation>Cabeçalho de %1</translation>
+        <translation>Notícias de %1</translation>
     </message>
     <message>
         <source>Incoming file from %1</source>
@@ -14159,7 +14164,7 @@ Senha: %5</translation>
     </message>
     <message>
         <source>Do Not Disturb</source>
-        <translation>Não Perturbe</translation>
+        <translation>Ocupado</translation>
     </message>
     <message>
         <source>Priority</source>
@@ -14333,7 +14338,7 @@ Senha: %5</translation>
     </message>
     <message>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Dados de configuração para uma versão anterior do Psi foi encontrado, mas não foi possível convertê-lo para funcionar com a versão atual. Verifique se você tem permissão apropriada e que outra cópia do Psi não esteja sendo executada e tente novamente.</translation>
     </message>
     <message>
         <source>Contact online</source>
@@ -15362,7 +15367,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Shortcuts available from outside of the application</source>
-        <translation>Atalhos disponíveis a partir do lado de fora da aplicação</translation>
+        <translation>Atalhos disponíveis a partir do lado de fora do aplicativo</translation>
     </message>
     <message>
         <source>Show/hide the application</source>
@@ -15739,7 +15744,7 @@ When a user has passed, the test will send a re-authorization request. It should
 The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
-        <translation>Este plugin é projetado para bloquear mensagens de spam e outras informações indesejáveis ​​dos usuários Psi+. A funcionalidade do plugin é baseada no princípio de &quot; pergunta - resposta.
+        <translation>Este plugin é projetado para bloquear mensagens de spam e outras informações indesejáveis ​​dos usuários Psi+. A funcionalidade do plugin é baseada no princípio de &quot; pergunta - resposta&quot;.
 Com as configurações plugin você pode:
 * Definir uma pergunta de segurança e resposta
 * Definir um conjunto de regras no para um contato
@@ -16212,25 +16217,27 @@ E estes somente funcionam em janelas de bate-papo em grupo:
     </message>
     <message>
         <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="unfinished"/>
+        <translation>Você sabia que é possível registrar várias contas XMPP com Psi? Se você gosta de separar o seu trabalho a partir de sua conta pessoal, você pode. Se você é um usuário avançado que quer testar os mais recentes recursos XMPP em um servidor instável, você pode fazer isso -- sem executar um segundo cliente para se conectar ao seu servidor estável.</translation>
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Você sabia que poderá bater papo em redes de terceiros de mensagens instantâneas como AIM e ICQ? Tente ativar a opção &quot;ícones de transportes específicos&quot;. Isto irá permitir-lhe ver rapidamente de relance qual rede seu amigo está usando. Depois, você poderá convencê-lo a mudar para o XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</translation>
     </message>
     <message>
         <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="unfinished"/>
+        <translation>Você sabia que o Psi é um dos únicos clientes XMPP que permite que você se conecte a vários servidores ao mesmo tempo?  Você pode ser conhecido como &quot;mrcool@jabber.org&quot; para seus amigos, e &quot;John.J.Smith_the_fourth@minhaempresa.com&quot; para parceiros de negócios.</translation>
     </message>
     <message>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="unfinished"/>
+        <translation>A fim de adicionar contatos de redes de mensagens instantâneas diferentes, você precisará adicionar um agente correspondente do seu servidor XMPP. De uma olhada no Menu Psi -&gt; Descoberta de Serviços.</translation>
     </message>
     <message>
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
 &lt;br&gt;&lt;br&gt;
 Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation type="unfinished"/>
+        <translation>À procura de um transporte ou salas de bate-papo, mas o servidor não fornece nada adequado? Use o Menu Psi -&gt; Descoberta de Serviços para ver &lt;i&gt;qualquer&lt;/i&gt; servidor para bons serviços, digitando seu domínio no campo de endereço.
+&lt;br&gt;&lt;br&gt;
+Nota: Alguns servidores podem desativar o registro de transporte para usuários de servidores diferentes, mas isso não é comum ainda.</translation>
     </message>
 </context>
 <context>
@@ -16422,7 +16429,7 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Starting upload...</source>
-        <translation>Começando o upload...</translation>
+        <translation>Começando o envio...</translation>
     </message>
     <message>
         <source>Error opening file!</source>
@@ -16876,7 +16883,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Whiteboard (%1)</source>
-        <translation>Tabuleiro Branco (%1)</translation>
+        <translation>Quadro Branco (%1)</translation>
     </message>
 </context>
 <context>
@@ -17084,7 +17091,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
-        <translation>O recurso pedido não esta implementado pelo recipiente ou servidor, portando não poderá ser processada.</translation>
+        <translation>O recurso pedido não esta implementado pelo destinatário ou servidor, portando não poderá ser processada.</translation>
     </message>
     <message>
         <source>Forbidden</source>
@@ -17180,7 +17187,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
-        <translation>Um servidor remoto ou serviço especificado como parte ou a totalidade da JID do receptor pretendido não existe.</translation>
+        <translation>Um servidor remoto ou serviço especificado como parte ou a totalidade da JID do destinatário pretendido não existe.</translation>
     </message>
     <message>
         <source>Remote server timeout</source>
@@ -17196,7 +17203,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>The server or recipient lacks the system resources necessary to service the request.</source>
-        <translation>O servidor ou o beneficiário não tem os recursos de sistema necessários para atender à solicitação.</translation>
+        <translation>O servidor ou o destinatário não tem os recursos de sistema necessários para atender à solicitação.</translation>
     </message>
     <message>
         <source>Service unavailable</source>
