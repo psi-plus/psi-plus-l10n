@@ -6482,7 +6482,7 @@ p, li { white-space: pre-wrap; }
         <source>Я Вам как Linux скажу, только Вы не обижайтесь. Этот человек, конечно, получит Ваше сообщение, но лучше бы Вам общаться с ним через Jabber. А то не ровен час - аська сдохнет, старушка своё отжила. Его JID: %1.
 
 Искренне Ваш, Debian Sid.</source>
-        <translation>Я вам як Linux скажу — толькі не крыўдуйце. Гэты чалавек, вядома, атрымае вашае паведамленьне, але лепей было б, каб вы гутарылі зь ім праз джабэр (Jabber). Бо раптам здохне аська? — старая аджыла ўжо сваё. Ягоны адрас (JID): %1.
+        <translation type="obsolete">Я вам як Linux скажу — толькі не крыўдуйце. Гэты чалавек, вядома, атрымае вашае паведамленьне, але лепей было б, каб вы гутарылі зь ім праз джабэр (Jabber). Бо раптам здохне аська? — старая аджыла ўжо сваё. Ягоны адрас (JID): %1.
 
 Заўжды ваш, спадар Debian.</translation>
     </message>
@@ -6491,7 +6491,7 @@ p, li { white-space: pre-wrap; }
 
 Если Вы не знаете что такое Jabber, то есть Google - он всё знает и поможет любому, кто к нему обратится.
 Искренне Ваш, Debian Sid.</source>
-        <translation>Я вам як Linux скажу — толькі не крыўдуйце. Гэты чалавек не аматар аські, таму калі вы дагэтуль сядзіце ў гэтай сетцы, ён не атрымае вашага паведамленьня: вам прыйдзецца гутарыць зь ім праз джабэр (Jabber). Ягоны адрас (JID): %1.
+        <translation type="obsolete">Я вам як Linux скажу — толькі не крыўдуйце. Гэты чалавек не аматар аські, таму калі вы дагэтуль сядзіце ў гэтай сетцы, ён не атрымае вашага паведамленьня: вам прыйдзецца гутарыць зь ім праз джабэр (Jabber). Ягоны адрас (JID): %1.
 
 Калі вы ня ведаеце, што такое джабэр, дык на вашае шчасьце ёсьць Google: ён ведае ўсё ды дапаможа кожнаму, што да яго зьвернецца.
 Заўжды ваш, спадар Debian.</translation>
@@ -6521,6 +6521,19 @@ The plugin has a number of simple settings that can help you:
 • вызначыць, як шмат дасылаць паведамленьняў,
 • забараніць дасылаць у дзейную картку (вакно),
 • не дасылаць суразмоўцам, што па-за сьпісам.</translation>
+    </message>
+    <message>
+        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
+
+Sincerely yours, Debian Sid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
+
+If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
+Sincerely yours, Debian Sid.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
