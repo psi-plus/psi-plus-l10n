@@ -3,7 +3,7 @@
     <name>@default</name>
     <message>
         <source>language_name</source>
-        <translation>Nome do _Idioma </translation>
+        <translation>Português Brasileiro</translation>
     </message>
 </context>
 <context>
@@ -1209,7 +1209,7 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Para adicionar um &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; usuário XMPP, basta preencher o endereço XMPP (o apelido e grupo são opcionais) acima e clique em &lt;span style=&quot; font-style:italic;&quot;&gt;Adicionar&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;Para adicionar um contato de um serviço &lt;span style=&quot; font-weight:600;&quot;&gt;não XMPP&lt;/span&gt;, verifique se está primeiro registrado no serviço (veja Descoberta de Serviços no menu principal), e então selecionar o serviço caixa de dialogo. Siga as instruções no &lt;span style=&quot; font-style:italic;&quot;&gt;ID do Serviço de traduções&lt;/span&gt; e clique no botão &lt;span style=&quot; font-style:italic;&quot;&gt;Obter endereço XMPP&lt;/span&gt; para gerar um endereço XMPP neste contato.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Para adicionar um &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; usuário XMPP, basta preencher o endereço XMPP (o apelido e grupo são opcionais) acima e clique em &lt;span style=&quot; font-style:italic;&quot;&gt;Adicionar&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;Para adicionar um contato de um serviço &lt;span style=&quot; font-weight:600;&quot;&gt;não XMPP&lt;/span&gt;, verifique se está primeiro registrado no serviço (veja Descoberta de Serviços no menu principal), e então selecionar o serviço na caixa de dialogo. Siga as instruções no &lt;span style=&quot; font-style:italic;&quot;&gt;ID do Serviço de traduções&lt;/span&gt; e clique no botão &lt;span style=&quot; font-style:italic;&quot;&gt;Obter endereço XMPP&lt;/span&gt; para gerar um endereço XMPP neste contato.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>XMPP</source>
@@ -1318,12 +1318,12 @@ Houve um erro ao obter o ID do Serviço de Traduções de &quot;%1&quot;.&lt;br&
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-mail</translation>
+        <translation>E-mail </translation>
     </message>
     <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
-        <translation>Este plugin é projetado para rebeber e enviar mensagens especias, como de Atenções.
+        <translation>Este plugin foi projetado para rebeber e enviar mensagens especias, como de Atenções.
 Para funcionar corretamente, o plugin requer que o cliente de outra parte suporte o XEP-0224 (por exemplo: Pidgin, Miranda IM com plugin de Atenção).</translation>
     </message>
 </context>
@@ -1432,7 +1432,7 @@ Para funcionar corretamente, o plugin requer que o cliente de outra parte suport
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-mail</translation>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
@@ -1732,7 +1732,7 @@ A lista de exceções para as jids tem dois modos de funcionamento:
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-mail</translation>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
@@ -5772,7 +5772,7 @@ Note: O plugin verifica apenas a raiz da sua pasta em sua caixa de entrada de se
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-mail:</translation>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>This plugin allows you to play gomoku with your friends.
@@ -7624,7 +7624,7 @@ Details: %1</source>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation>E-Mail</translation>
+        <translation>E-Mail </translation>
     </message>
     <message>
         <source>Created</source>
@@ -9777,7 +9777,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     <name>OptionsTabGroupchat</name>
     <message>
         <source>Groupchat</source>
-        <translation>Bate-papo em grupo</translation>
+        <translation>Bate-papo em Grupo</translation>
     </message>
     <message>
         <source>Configure the groupchat</source>
@@ -10528,7 +10528,7 @@ Por favor informe sua frase de segurança abaixo:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation>E-mail</translation>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
@@ -12922,7 +12922,7 @@ Proceder?</translation>
     </message>
     <message>
         <source>E-mail</source>
-        <translation>E-mail</translation>
+        <translation>E-mail </translation>
     </message>
     <message>
         <source>Address</source>
@@ -16530,7 +16530,7 @@ Para funcionar no GNOME MPlayer configurações adicionais não serão necessár
     <name>ViewMailDlg</name>
     <message>
         <source>E-Mail</source>
-        <translation>E-Mail</translation>
+        <translation>E-Mail </translation>
     </message>
     <message>
         <source>From:</source>
