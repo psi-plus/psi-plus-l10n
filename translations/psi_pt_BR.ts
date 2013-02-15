@@ -760,7 +760,7 @@ Clique clicar na caixa de seleção &lt;b&gt;Registrar uma nova conta&lt;/b&gt; 
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="135"/>
         <source>Fixed</source>
-        <translation>Corrigido</translation>
+        <translation>Fixo</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="136"/>
@@ -4824,7 +4824,7 @@ Se você deseja confirmar esta solicitação, por favor pressione o botão Confi
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="381"/>
         <source>%1 is online!</source>
-        <translation>%1 esta offline!</translation>
+        <translation>%1 está offline!</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="388"/>
@@ -5661,7 +5661,7 @@ o contato estiver offline.</translation>
 Ensure that your Data Transfer settings are proper.  If you are behind
 a NAT router or firewall then you'll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
-        <translation>Não foi possível conectar ao par para trarnsferir dados.
+        <translation>Não foi possível conectar ao par para transferir dados.
 
 Certifique-se que suas configurações de Transferência de Dados estão corretas. Se você estiver usando
 um roteador NAT ou firewall então você precisará abrir a porta correta
@@ -6213,13 +6213,13 @@ Motivo: %1</translation>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1516"/>
         <source>%1 is now %2 and %3</source>
-        <translation>%1 agora é %2 e %3</translation>
+        <translation>%1 agora está %2 e %3</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1519"/>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1524"/>
         <source>%1 is now %2</source>
-        <translation>%1 agora é %2</translation>
+        <translation>%1 agora está %2</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1529"/>
@@ -16950,7 +16950,7 @@ Descrição: </translation>
     <message>
         <location filename="../../psi-plus/src/messageview.cpp" line="77"/>
         <source>%1 is now %2</source>
-        <translation>%1 é agora %2</translation>
+        <translation>%1 agora está %2</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="69"/>
@@ -20549,7 +20549,7 @@ Nota: Alguns servidores podem desativar o registro de transporte para usuários 
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="109"/>
         <location filename="../../psi-plus/src/widgets/typeaheadfind.cpp" line="167"/>
         <source>&amp;Case sensitive</source>
-        <translation>&amp; Maiúsculas de Minusculas</translation>
+        <translation>&amp;Maiúsculas de Minusculas</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/typeaheadfind.cpp" line="116"/>
