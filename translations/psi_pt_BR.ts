@@ -1091,7 +1091,7 @@ Clique clicar na caixa de seleção &lt;b&gt;Registrar uma nova conta&lt;/b&gt; 
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="171"/>
         <source>Reason: </source>
-        <translation>Motivo:</translation>
+        <translation>Motivo: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="192"/>
@@ -1281,7 +1281,7 @@ salvará o histórico deste contato.</translation>
     <message>
         <location filename="../../psi-plus/src/activity.ui" line="31"/>
         <source>Specific:</source>
-        <translation>Especifico: </translation>
+        <translation>Especifico:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activity.ui" line="41"/>
@@ -1336,7 +1336,7 @@ salvará o histórico deste contato.</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="34"/>
         <source>Expiration date: </source>
-        <translation>Data de expiração:</translation>
+        <translation>Data de expiração: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="98"/>
@@ -1632,12 +1632,12 @@ Houve um erro ao obter o ID do Serviço de Traduções de &quot;%1&quot;.&lt;br&
     <message>
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="531"/>
         <source>Author: </source>
-        <translation>Autor:</translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="532"/>
         <source>Email: </source>
-        <translation>E-mail </translation>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="533"/>
@@ -2135,7 +2135,7 @@ A lista de exceções para as jids tem dois modos de funcionamento:
     <message>
         <location filename="../../psi-plus/src/plugins/generic/captchaformsplugin/captchaformsplugin.cpp" line="449"/>
         <source>Author: </source>
-        <translation>Autor:</translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/captchaformsplugin/captchaformsplugin.cpp" line="450"/>
@@ -2768,7 +2768,7 @@ Para o envio de comandos, mensagens normais serão utilizadas, por isso este plu
     <message>
         <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/cleaner.cpp" line="97"/>
         <source>History files: </source>
-        <translation>Arquivos de histórico:</translation>
+        <translation>Arquivos de histórico: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/cleaner.cpp" line="98"/>
@@ -5493,7 +5493,7 @@ Importante: uma grande parte das opções são as configurações importantes do
         <location filename="../../psi-plus/src/filetransdlg.cpp" line="563"/>
         <location filename="../../psi-plus/src/filetransdlg.cpp" line="650"/>
         <source>Identity: </source>
-        <translation>Identidade:</translation>
+        <translation>Identidade: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/filetransdlg.cpp" line="581"/>
@@ -6134,7 +6134,7 @@ Motivo: %1</translation>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1135"/>
         <source>Error: Cannot parse command: </source>
-        <translation>Erro: Não foi possível interpretar o comando:</translation>
+        <translation>Erro: Não foi possível interpretar o comando: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1245"/>
@@ -9212,7 +9212,7 @@ Motivo: %1</translation>
     <message>
         <location filename="../../psi-plus/src/mucmanager.cpp" line="579"/>
         <source>Failed to perform operation: </source>
-        <translation>Falha ao realizar operação:</translation>
+        <translation>Falha ao realizar operação: </translation>
     </message>
 </context>
 <context>
@@ -9513,7 +9513,7 @@ Details: %1</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/model.cpp" line="117"/>
         <source>E-Mail</source>
-        <translation>E-Mail </translation>
+        <translation>E-Mail</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/model.cpp" line="118"/>
@@ -10910,7 +10910,7 @@ Tags: %1</translation>
     <message>
         <location filename="../../psi-plus/src/options/opt_statusauto.ui" line="359"/>
         <source>Invisible:</source>
-        <translation>Invisível: </translation>
+        <translation>Invisível:</translation>
     </message>
 </context>
 <context>
@@ -11107,7 +11107,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/optioneditor.ui" line="66"/>
         <source>Value: </source>
-        <translation>Valor:</translation>
+        <translation>Valor: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psioptionseditor.cpp" line="53"/>
@@ -11665,7 +11665,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="73"/>
         <source>Default sound: </source>
-        <translation>Som padrão:</translation>
+        <translation>Som padrão: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="100"/>
@@ -13125,7 +13125,7 @@ Por favor informe sua frase de segurança abaixo:</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/pepchangenotifyplugin/pepchangenotifyplugin.cpp" line="281"/>
         <source>Now listening: </source>
-        <translation>Escutar agora:</translation>
+        <translation>Escutar agora: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/pepchangenotifyplugin/pepchangenotifyplugin.cpp" line="310"/>
@@ -16270,7 +16270,7 @@ Proceder?</translation>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2854"/>
         <source>E-mail</source>
-        <translation>E-mail </translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2855"/>
@@ -16846,7 +16846,7 @@ Proceder?</translation>
     <message>
         <location filename="../../psi-plus/src/geolocation.cpp" line="379"/>
         <source>Latitude/Longitude/Altitude: </source>
-        <translation>Latitude/Longitude/Altitude:</translation>
+        <translation>Latitude/Longitude/Altitude: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/geolocation.cpp" line="399"/>
@@ -19850,7 +19850,7 @@ AVISO!!!  Antes de registrar um novo transporte, recomenda-se adicionar suas jid
     <message>
         <location filename="../../psi-plus/src/plugins/generic/storagenotesplugin/storagenotesplugin.cpp" line="174"/>
         <source>Email: </source>
-        <translation>E-mail:</translation>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/storagenotesplugin/storagenotesplugin.cpp" line="175"/>
@@ -20516,7 +20516,7 @@ Nota: Alguns servidores podem desativar o registro de transporte para usuários 
     <message>
         <location filename="../../psi-plus/src/plugins/generic/translateplugin/translateplugin.cpp" line="578"/>
         <source>Author: </source>
-        <translation>Autor:</translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/translateplugin/translateplugin.cpp" line="579"/>
@@ -20780,7 +20780,7 @@ Para funcionar no GNOME MPlayer configurações adicionais não serão necessár
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/viewmaildlg.ui" line="20"/>
         <source>E-Mail</source>
-        <translation>E-Mail </translation>
+        <translation>E-Mail</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/viewmaildlg.ui" line="28"/>
@@ -21875,7 +21875,7 @@ Realmente deseja fechar a janela?</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="68"/>
         <source>To authenticate via question and answer, ask a question whose answer is only known to you and %1.</source>
-        <translation>Autenticar através de pergunta e resposta, fazer uma pergunta cuja resposta é conhecida apenas por você %1.</translation>
+        <translation>Autenticar através de pergunta e resposta, faça uma pergunta cuja resposta é conhecida apenas por você e %1.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="71"/>
@@ -21895,7 +21895,7 @@ Realmente deseja fechar a janela?</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="82"/>
         <source>%1 wants to authenticate you. To authenticate, answer the question asked below.</source>
-        <translation>%1 deseja autentica-lo. Para autenticar-se, responder a questão abaixo.</translation>
+        <translation>%1 deseja autentica-lo. Para autenticar-se, responda a questão abaixo.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="85"/>
@@ -21925,7 +21925,7 @@ Realmente deseja fechar a janela?</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="109"/>
         <source>A&amp;nswer:</source>
-        <translation>R&amp;esponder:</translation>
+        <translation>R&amp;esposta:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="112"/>
@@ -21960,12 +21960,12 @@ Realmente deseja fechar a janela?</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="168"/>
         <source>%1&apos;s fingerprint:</source>
-        <translation>%1 de impressão digital:</translation>
+        <translation>Impressão digital de %1:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="368"/>
         <source>Account: </source>
-        <translation>Conta:</translation>
+        <translation>Conta: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="369"/>
@@ -21975,7 +21975,7 @@ Realmente deseja fechar a janela?</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="370"/>
         <source>Fingerprint: </source>
-        <translation>Impressão digital:</translation>
+        <translation>Impressão digital: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="371"/>
@@ -22114,7 +22114,7 @@ You should authenticate %1 as well by asking your own question.</source>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="248"/>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="277"/>
         <source>Account: </source>
-        <translation>Conta:</translation>
+        <translation>Conta: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="249"/>
@@ -22181,13 +22181,13 @@ You should authenticate %1 as well by asking your own question.</source>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="434"/>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="466"/>
         <source>Account: </source>
-        <translation>Conta:</translation>
+        <translation>Conta: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="435"/>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="467"/>
         <source>Fingerprint: </source>
-        <translation>Impressão digital:</translation>
+        <translation>Impressão digital: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="437"/>
@@ -22543,7 +22543,7 @@ nesta mensagem em juick@conference.jabber.ru</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploaddialog.cpp" line="79"/>
         <source>Speed: </source>
-        <translation>Velocidade</translation>
+        <translation>Velocidade: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploaddialog.cpp" line="79"/>
@@ -22591,17 +22591,17 @@ nesta mensagem em juick@conference.jabber.ru</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploaddialog.ui" line="62"/>
         <source>Progress:</source>
-        <translation>Progresso: </translation>
+        <translation>Progresso:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploaddialog.ui" line="69"/>
         <source>Elapsed time:</source>
-        <translation>Tempo decorrido: </translation>
+        <translation>Tempo decorrido:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploaddialog.ui" line="76"/>
         <source>Speed:</source>
-        <translation>Velocidade: </translation>
+        <translation>Velocidade:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploaddialog.ui" line="89"/>
@@ -22634,7 +22634,7 @@ nesta mensagem em juick@conference.jabber.ru</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/common.cpp" line="89"/>
         <source>E-Mail:</source>
-        <translation>E-Mail:</translation>
+        <translation>E-Mail: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/common.cpp" line="107"/>
