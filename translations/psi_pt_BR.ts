@@ -11167,7 +11167,7 @@ Nomes de opção não podem estar em branco, terminar com &apos;.&apos; ou conte
     <message>
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/options.ui" line="54"/>
         <source>Don&apos;t hide popup if status is Away or XA</source>
-        <translation>Não oculte pop-up is o status é Ausente ou Distante</translation>
+        <translation>Não oculte pop-up se o status é Ausente ou Distante</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/options.ui" line="61"/>
@@ -13561,7 +13561,7 @@ Você poderá salvar o jogo.</translation>
     <message>
         <location filename="../../psi-plus/src/privacy/privacydlg.cpp" line="37"/>
         <source>%1: Privacy Lists</source>
-        <translation>%1: Listas Privadas</translation>
+        <translation>%1: Listas de Privacidade</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/privacy/privacydlg.cpp" line="154"/>
@@ -16526,7 +16526,7 @@ Proceder?</translation>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="110"/>
         <source>Grooming</source>
-        <translation>Aliciamento</translation>
+        <translation>Arrumando-se</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="111"/>
@@ -16676,7 +16676,7 @@ Proceder?</translation>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="144"/>
         <source>Talking</source>
-        <translation>Expressivo</translation>
+        <translation>Conversando</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="145"/>
@@ -16696,7 +16696,7 @@ Proceder?</translation>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="149"/>
         <source>Traveling</source>
-        <translation>Viagens</translation>
+        <translation>Viajando</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="150"/>
@@ -16741,7 +16741,7 @@ Proceder?</translation>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="160"/>
         <source>Working</source>
-        <translation>Trabalhano</translation>
+        <translation>Trabalhando</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="161"/>
