@@ -161,7 +161,7 @@ Copyright © 2001-2012 A equipe Psi.&lt;br&gt;
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="90"/>
         <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
-        <translation>Desenvolvedor Chefe a Escritores de Plugins, Empacotador Mac OS X</translation>
+        <translation>Desenvolvedor Lider e Escritor de Plugins, Empacotador Mac OS X</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="93"/>
@@ -171,13 +171,13 @@ Copyright © 2001-2012 A equipe Psi.&lt;br&gt;
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="96"/>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
-        <translation>Desenvolvedor, Escritores de Plugins e Pacote Fedora</translation>
+        <translation>Desenvolvedor, Escritor de Plugins e Pacote Fedora</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="99"/>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="117"/>
         <source>Patcher and Plugins Writer</source>
-        <translation>Desenvolvedor e Escritores de Plugins</translation>
+        <translation>Desenvolvedor e Escritor de Plugins</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="102"/>
@@ -11261,7 +11261,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/captchaformsplugin/options.ui" line="20"/>
         <source>Auto-popup Captcha dialog</source>
-        <translation>Pop-up automático de caixa de dialogo de Captcha</translation>
+        <translation>Pop-up automático da caixa de dialogo de Captcha</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/captchaformsplugin/options.ui" line="27"/>
@@ -22021,7 +22021,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="67"/>
         <source>Known fingerprints</source>
-        <translation>Impressões digitais conhecidas</translation>
+        <translation>Impressões digitais públicas</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="70"/>
