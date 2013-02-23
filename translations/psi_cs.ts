@@ -8182,6 +8182,10 @@ Tagy: %1</translation>
         <source>Enable Alt-[0-9] tab shortcuts</source>
         <translation>Povolit Alt-[0-9] zkratky pro záložky</translation>
     </message>
+    <message>
+        <source>Switch tab on receiving new messages</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptEvents</name>
@@ -9670,6 +9674,10 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;Tato volba uchovává záznamy chatu navždy.&lt;/P&gt;</translation>
+    </message>
+    <message>
+        <source>Makes Psi switch tab on active tabbed window when you receive a new message. It does not take the keyboard focus, so it will not interfere with your work.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

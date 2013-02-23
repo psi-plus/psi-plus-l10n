@@ -8195,6 +8195,10 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
         <source>Enable Alt-[0-9] tab shortcuts</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Switch tab on receiving new messages</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptEvents</name>
@@ -9668,6 +9672,10 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation>&lt;P&gt;Ta opcja powoduje, że historia rozmowy będzie zachowana na stałe.&lt;/P&gt;</translation>
+    </message>
+    <message>
+        <source>Makes Psi switch tab on active tabbed window when you receive a new message. It does not take the keyboard focus, so it will not interfere with your work.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

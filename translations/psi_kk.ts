@@ -8088,6 +8088,10 @@ Tags: %1</source>
         <source>Enable Alt-[0-9] tab shortcuts</source>
         <translation>Alt-[0-9] беттерге қатынау жарлықтарын іске қосу</translation>
     </message>
+    <message>
+        <source>Switch tab on receiving new messages</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OptEvents</name>
@@ -9557,6 +9561,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Makes Psi switch tab on active tabbed window when you receive a new message. It does not take the keyboard focus, so it will not interfere with your work.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

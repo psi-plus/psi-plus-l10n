@@ -2388,7 +2388,7 @@ Do you still want to close the window?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/chatdlg.cpp" line="1043"/>
+        <location filename="../../psi-plus/src/chatdlg.cpp" line="1044"/>
         <source>%1 ended the conversation</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10065,96 +10065,101 @@ Tags: %1</source>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_chat.ui" line="46"/>
+        <source>Switch tab on receiving new messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_chat.ui" line="53"/>
         <source>Open chats in compact mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_chat.ui" line="69"/>
+        <location filename="../../psi-plus/src/options/opt_chat.ui" line="76"/>
         <source>Use tabbed mode:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_chat.ui" line="77"/>
+        <location filename="../../psi-plus/src/options/opt_chat.ui" line="84"/>
         <source>for chats only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_chat.ui" line="82"/>
+        <location filename="../../psi-plus/src/options/opt_chat.ui" line="89"/>
         <source>for mucs only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_chat.ui" line="87"/>
+        <location filename="../../psi-plus/src/options/opt_chat.ui" line="94"/>
         <source>for chats and mucs separately</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_chat.ui" line="92"/>
+        <location filename="../../psi-plus/src/options/opt_chat.ui" line="99"/>
         <source>for mucs and chats in one window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_chat.ui" line="97"/>
+        <location filename="../../psi-plus/src/options/opt_chat.ui" line="104"/>
         <source>for mucs, chats and roster in one window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_chat.ui" line="102"/>
+        <location filename="../../psi-plus/src/options/opt_chat.ui" line="109"/>
         <source>[customized]</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_chat.ui" line="125"/>
+        <location filename="../../psi-plus/src/options/opt_chat.ui" line="132"/>
         <source>Show tab buttons</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_chat.ui" line="132"/>
+        <location filename="../../psi-plus/src/options/opt_chat.ui" line="139"/>
         <source>Auto-resize text input field</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_chat.ui" line="139"/>
+        <location filename="../../psi-plus/src/options/opt_chat.ui" line="146"/>
         <source>Enable Alt-[0-9] tab shortcuts</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_chat.ui" line="146"/>
+        <location filename="../../psi-plus/src/options/opt_chat.ui" line="153"/>
         <source>Default action</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_chat.ui" line="158"/>
+        <location filename="../../psi-plus/src/options/opt_chat.ui" line="165"/>
         <source>Message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_chat.ui" line="165"/>
+        <location filename="../../psi-plus/src/options/opt_chat.ui" line="172"/>
         <source>Chat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_chat.ui" line="175"/>
+        <location filename="../../psi-plus/src/options/opt_chat.ui" line="182"/>
         <source>Delete chat window contents</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_chat.ui" line="187"/>
+        <location filename="../../psi-plus/src/options/opt_chat.ui" line="194"/>
         <source>When chat window is closed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_chat.ui" line="194"/>
+        <location filename="../../psi-plus/src/options/opt_chat.ui" line="201"/>
         <source>One hour after chat window was closed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_chat.ui" line="201"/>
+        <location filename="../../psi-plus/src/options/opt_chat.ui" line="208"/>
         <source>One day after chat window was closed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_chat.ui" line="208"/>
+        <location filename="../../psi-plus/src/options/opt_chat.ui" line="215"/>
         <source>Never</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11975,36 +11980,41 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_chat.cpp" line="78"/>
-        <source>Makes Psi open chat windows in compact mode.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus/src/options/opt_chat.cpp" line="80"/>
-        <source>Makes Psi open chats in a tabbed window.</source>
+        <source>Makes Psi switch tab on active tabbed window when you receive a new message. It does not take the keyboard focus, so it will not interfere with your work.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_chat.cpp" line="81"/>
-        <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
+        <source>Makes Psi open chat windows in compact mode.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_chat.cpp" line="83"/>
+        <source>Makes Psi open chats in a tabbed window.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_chat.cpp" line="84"/>
+        <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/options/opt_chat.cpp" line="87"/>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_chat.cpp" line="86"/>
+        <location filename="../../psi-plus/src/options/opt_chat.cpp" line="89"/>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_chat.cpp" line="88"/>
+        <location filename="../../psi-plus/src/options/opt_chat.cpp" line="91"/>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_chat.cpp" line="90"/>
+        <location filename="../../psi-plus/src/options/opt_chat.cpp" line="93"/>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
         <translation type="unfinished"></translation>
     </message>
