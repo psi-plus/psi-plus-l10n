@@ -1935,12 +1935,12 @@ Do you still want to close the window?</source>
 <context>
     <name>ChatEdit</name>
     <message>
-        <source>Paste As Quotation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Add to dictionary</source>
         <translation>增加到字典</translation>
+    </message>
+    <message>
+        <source>Paste as Quotation</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4846,10 +4846,6 @@ Reason: %1</source>
 原因: %1</translation>
     </message>
     <message>
-        <source>Edit bookmark</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Add to bookmarks</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5071,6 +5067,10 @@ Reason: %1</source>
     </message>
     <message>
         <source>Bookmark conference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Bookmark</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

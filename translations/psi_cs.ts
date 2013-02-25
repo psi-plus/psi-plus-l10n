@@ -1952,11 +1952,15 @@ Opravdu zavřít toto okno?</translation>
     <name>ChatEdit</name>
     <message>
         <source>Paste As Quotation</source>
-        <translation>Vložit jako citaci</translation>
+        <translation type="obsolete">Vložit jako citaci</translation>
     </message>
     <message>
         <source>Add to dictionary</source>
         <translation>Přidat do slovníku</translation>
+    </message>
+    <message>
+        <source>Paste as Quotation</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4881,7 +4885,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message>
         <source>Edit bookmark</source>
-        <translation>Editovat záložku</translation>
+        <translation type="obsolete">Editovat záložku</translation>
     </message>
     <message>
         <source>Add to bookmarks</source>
@@ -5104,6 +5108,10 @@ Zdůvodnění: %1</translation>
     <message>
         <source>Bookmark conference</source>
         <translation>Zazáložkovat konferenci</translation>
+    </message>
+    <message>
+        <source>Edit Bookmark</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

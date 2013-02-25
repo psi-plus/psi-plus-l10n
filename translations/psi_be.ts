@@ -1994,11 +1994,15 @@ Do you still want to close the window?</source>
     <name>ChatEdit</name>
     <message>
         <source>Paste As Quotation</source>
-        <translation>Уставіць цытатаю</translation>
+        <translation type="obsolete">Уставіць цытатаю</translation>
     </message>
     <message>
         <source>Add to dictionary</source>
         <translation>Дадаць у слоўнік</translation>
+    </message>
+    <message>
+        <source>Paste as Quotation</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4929,7 +4933,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Edit bookmark</source>
-        <translation>Правіць закладку</translation>
+        <translation type="obsolete">Правіць закладку</translation>
     </message>
     <message>
         <source>Add to bookmarks</source>
@@ -5152,6 +5156,10 @@ Reason: %1</source>
     <message>
         <source>Bookmark conference</source>
         <translation>Закласьці нараду</translation>
+    </message>
+    <message>
+        <source>Edit Bookmark</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

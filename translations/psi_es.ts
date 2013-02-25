@@ -1949,11 +1949,15 @@ Do you still want to close the window?</source>
     <name>ChatEdit</name>
     <message>
         <source>Paste As Quotation</source>
-        <translation>Pegar citación</translation>
+        <translation type="obsolete">Pegar citación</translation>
     </message>
     <message>
         <source>Add to dictionary</source>
         <translation>Añadir al diccionario</translation>
+    </message>
+    <message>
+        <source>Paste as Quotation</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4864,7 +4868,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Edit bookmark</source>
-        <translation>Editar marcador</translation>
+        <translation type="obsolete">Editar marcador</translation>
     </message>
     <message>
         <source>Add to bookmarks</source>
@@ -5086,6 +5090,10 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Bookmark conference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Bookmark</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

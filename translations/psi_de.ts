@@ -1966,11 +1966,15 @@ Möchten Sie das Fenster trotzdem schließen?</translation>
     <name>ChatEdit</name>
     <message>
         <source>Paste As Quotation</source>
-        <translation>Als Zitat einfügen</translation>
+        <translation type="obsolete">Als Zitat einfügen</translation>
     </message>
     <message>
         <source>Add to dictionary</source>
         <translation>Zum Wörterbuch hinzufügen</translation>
+    </message>
+    <message>
+        <source>Paste as Quotation</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4893,7 +4897,7 @@ Grund: %1</translation>
     </message>
     <message>
         <source>Edit bookmark</source>
-        <translation>Lesezeichen bearbeiten</translation>
+        <translation type="obsolete">Lesezeichen bearbeiten</translation>
     </message>
     <message>
         <source>Add to bookmarks</source>
@@ -5116,6 +5120,10 @@ Grund: %1</translation>
     <message>
         <source>Bookmark conference</source>
         <translation>Lesezeichen für Konferenz erstellen</translation>
+    </message>
+    <message>
+        <source>Edit Bookmark</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

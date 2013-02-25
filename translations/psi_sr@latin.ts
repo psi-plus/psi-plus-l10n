@@ -1933,12 +1933,12 @@ Da li i dalje želite da zatvorite prozor?</translation>
 <context>
     <name>ChatEdit</name>
     <message>
-        <source>Paste As Quotation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Add to dictionary</source>
         <translation>Dodaj u rečnik</translation>
+    </message>
+    <message>
+        <source>Paste as Quotation</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4847,7 +4847,7 @@ Reason: %1</translation>
     </message>
     <message>
         <source>Edit bookmark</source>
-        <translation>Izmeni označeno</translation>
+        <translation type="obsolete">Izmeni označeno</translation>
     </message>
     <message>
         <source>Add to bookmarks</source>
@@ -5070,6 +5070,10 @@ Reason: %1</translation>
     <message>
         <source>Bookmark conference</source>
         <translation>Označeno konferencija</translation>
+    </message>
+    <message>
+        <source>Edit Bookmark</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

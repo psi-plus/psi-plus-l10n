@@ -2397,7 +2397,7 @@ Do you still want to close the window?</source>
     <name>ChatEdit</name>
     <message>
         <location filename="../../psi-plus/src/msgmle.cpp" line="226"/>
-        <source>Paste As Quotation</source>
+        <source>Paste as Quotation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6050,7 +6050,7 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1087"/>
-        <source>Edit bookmark</source>
+        <source>Edit Bookmark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

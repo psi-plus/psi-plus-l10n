@@ -1941,11 +1941,15 @@ Do you still want to close the window?</source>
     <name>ChatEdit</name>
     <message>
         <source>Paste As Quotation</source>
-        <translation>הדבק כציטטה</translation>
+        <translation type="obsolete">הדבק כציטטה</translation>
     </message>
     <message>
         <source>Add to dictionary</source>
         <translation>הוסף למילון</translation>
+    </message>
+    <message>
+        <source>Paste as Quotation</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4864,7 +4868,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Edit bookmark</source>
-        <translation>עריכת סימנייה</translation>
+        <translation type="obsolete">עריכת סימנייה</translation>
     </message>
     <message>
         <source>Add to bookmarks</source>
@@ -5087,6 +5091,10 @@ Reason: %1</source>
     <message>
         <source>Bookmark conference</source>
         <translation>סימון ועידה</translation>
+    </message>
+    <message>
+        <source>Edit Bookmark</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

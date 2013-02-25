@@ -1951,11 +1951,15 @@ Czy nadal chcesz zamknąć to okno?</translation>
     <name>ChatEdit</name>
     <message>
         <source>Paste As Quotation</source>
-        <translation>Wklej jako cytat</translation>
+        <translation type="obsolete">Wklej jako cytat</translation>
     </message>
     <message>
         <source>Add to dictionary</source>
         <translation>Dodaj do słownika</translation>
+    </message>
+    <message>
+        <source>Paste as Quotation</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4886,7 +4890,7 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <source>Edit bookmark</source>
-        <translation>Edytuj zakładkę</translation>
+        <translation type="obsolete">Edytuj zakładkę</translation>
     </message>
     <message>
         <source>Add to bookmarks</source>
@@ -5109,6 +5113,10 @@ Przyczyna: %1</translation>
     <message>
         <source>Bookmark conference</source>
         <translation>Zakładka konferencji</translation>
+    </message>
+    <message>
+        <source>Edit Bookmark</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

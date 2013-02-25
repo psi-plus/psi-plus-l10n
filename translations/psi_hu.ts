@@ -1940,11 +1940,15 @@ Biztos be akarod zárni az ablakot?</translation>
     <name>ChatEdit</name>
     <message>
         <source>Paste As Quotation</source>
-        <translation>Beillesztés idézetként</translation>
+        <translation type="obsolete">Beillesztés idézetként</translation>
     </message>
     <message>
         <source>Add to dictionary</source>
         <translation>Szótárhoz adás</translation>
+    </message>
+    <message>
+        <source>Paste as Quotation</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4855,7 +4859,7 @@ Ok: %1</translation>
     </message>
     <message>
         <source>Edit bookmark</source>
-        <translation>Könyvjelzők szerkesztése</translation>
+        <translation type="obsolete">Könyvjelzők szerkesztése</translation>
     </message>
     <message>
         <source>Add to bookmarks</source>
@@ -5077,6 +5081,10 @@ Ok: %1</translation>
     </message>
     <message>
         <source>Bookmark conference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Bookmark</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

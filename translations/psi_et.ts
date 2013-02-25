@@ -1919,11 +1919,11 @@ Kas oled kindel, et soovid akent sulgeda?</translation>
 <context>
     <name>ChatEdit</name>
     <message>
-        <source>Paste As Quotation</source>
+        <source>Add to dictionary</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Add to dictionary</source>
+        <source>Paste as Quotation</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4826,10 +4826,6 @@ Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Edit bookmark</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Add to bookmarks</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5049,6 +5045,10 @@ Reason: %1</source>
     </message>
     <message>
         <source>Bookmark conference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Bookmark</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

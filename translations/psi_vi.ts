@@ -1936,12 +1936,12 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
 <context>
     <name>ChatEdit</name>
     <message>
-        <source>Paste As Quotation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Add to dictionary</source>
         <translation>Thêm vào từ điển</translation>
+    </message>
+    <message>
+        <source>Paste as Quotation</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4852,10 +4852,6 @@ Reason: %1</source>
 Lý do : %1</translation>
     </message>
     <message>
-        <source>Edit bookmark</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Add to bookmarks</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5076,6 +5072,10 @@ Lý do : %1</translation>
     </message>
     <message>
         <source>Bookmark conference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Bookmark</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
