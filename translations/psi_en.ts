@@ -7125,6 +7125,24 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
 </context>
 <context>
+    <name>GnuPG</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="72"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="73"/>
+        <source>e-mail: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="74"/>
+        <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be ebough for your needs.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GomokuGamePlugin</name>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/gomokugameplugin.cpp" line="260"/>
@@ -7168,6 +7186,14 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus/src/googleftmanager.h" line="135"/>
         <source>Transferring %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GpgProcess</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gpgprocess.cpp" line="111"/>
+        <source>Can&apos;t start </source>
         <translation type="unfinished"></translation>
     </message>
 </context>

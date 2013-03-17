@@ -5683,6 +5683,21 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
 </context>
 <context>
+    <name>GnuPG</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>e-mail: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be ebough for your needs.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
@@ -5718,6 +5733,13 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>GoogleFileTransferProgressDialog</name>
     <message>
         <source>Transferring %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>GpgProcess</name>
+    <message>
+        <source>Can&apos;t start </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
