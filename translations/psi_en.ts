@@ -7127,18 +7127,28 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
 <context>
     <name>GnuPG</name>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="72"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="103"/>
         <source>Author: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="73"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="104"/>
         <source>e-mail: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="74"/>
-        <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be ebough for your needs.</source>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="105"/>
+        <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="172"/>
+        <source>Send GnuPG Public Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="266"/>
+        <source>Public key %1 sent</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11286,7 +11296,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="38"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="27"/>
+        <source>Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="51"/>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/options.ui" line="32"/>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="393"/>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="123"/>
@@ -11294,23 +11309,43 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="45"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="58"/>
         <source>Remove</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="52"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="65"/>
         <source>Import</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="59"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="72"/>
         <source>Export</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="79"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="92"/>
         <source>Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="102"/>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="108"/>
+        <source>Auto import a key from the message body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="115"/>
+        <source>Filter the message with a key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="122"/>
+        <source>Show Send Public Key button on chat toolbar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11587,33 +11622,33 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="137"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="151"/>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="139"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="153"/>
         <source>&lt;b&gt;Please wait!&lt;/b&gt;&lt;br/&gt;We need to generate a lot of random bytes. It is a good idea to perform some other action (type on the keyboard, move the mouse, utilize the disks) during the prime generation; this gives the random number generator a better chance to gain enough entropy.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="158"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="172"/>
         <source>Key pair generating</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="230"/>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="285"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="244"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="299"/>
         <source>ASCII (*.asc)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="231"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="245"/>
         <source>All files (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="384"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="398"/>
         <source>GnuPG info</source>
         <translation type="unfinished"></translation>
     </message>

@@ -5735,7 +5735,15 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
         <translation type="unfinished">דוא״ל: </translation>
     </message>
     <message>
-        <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be ebough for your needs.</source>
+        <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send GnuPG Public Key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Public key %1 sent</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9358,6 +9366,26 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>to clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished">הגדרות</translation>
+    </message>
+    <message>
+        <source>Auto import a key from the message body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter the message with a key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Send Public Key button on chat toolbar</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
