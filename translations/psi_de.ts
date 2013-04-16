@@ -579,6 +579,10 @@ Aktivieren Sie &lt;b&gt;Neues Konto registrieren&lt;/b&gt;, wenn Psi versuchen s
         <source>XMPP Address:</source>
         <translation>XMPP Adresse:</translation>
     </message>
+    <message>
+        <source>Store password as salted hash instead of plaintext when SCRAM-SHA-1 is available.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>

@@ -559,6 +559,10 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <source>XMPP Address:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Store password as salted hash instead of plaintext when SCRAM-SHA-1 is available.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>

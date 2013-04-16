@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="ru" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0" language="ru">
 <context>
     <name>@default</name>
     <message>
@@ -708,6 +710,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <source>Realm:</source>
         <translation>Полное имя:</translation>
     </message>
+    <message>
+        <location filename="../../psi-plus/src/accountmodify.ui" line="1034"/>
+        <source>Store password as salted hash instead of plaintext when SCRAM-SHA-1 is available.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
@@ -769,179 +776,179 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>&lt;не использовать&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="190"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="192"/>
         <source>None</source>
         <translation>Нет</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="191"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="193"/>
         <source>Integrity</source>
         <translation>Целостность</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="192"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="194"/>
         <source>Baseline</source>
         <translation>Базовый</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="193"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="195"/>
         <source>High</source>
         <translation>Высокий</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="194"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="196"/>
         <source>Highest</source>
         <translation>Высочайший</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="226"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="228"/>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
         <translation>Обычно Psi регистрируется в сети, используя режим аутентификации, при котором пароль не передаётся в открытом виде. Отметьте эту опцию, если хотите использовать базовую аутентификацию (пароль передаётся в открытом виде). Рекомендуется делать это только тогда, когда у вас возникают проблемы с обычной процедурой регистрации в сети, так как теоретически этот способ делает соединение уязвимым.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="233"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="235"/>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
         <translation>Автоматически регистрироваться в сети при запуске, используя этот аккаунт. Полезно, если Psi запускается самостоятельно при обнаружении соединения с Интернетом.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="237"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="239"/>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
         <translation>Заставит Psi подключиться когда компьютер выйдет из спящего режима.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="240"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="242"/>
         <source>Makes Psi try to reconnect if the connection was broken.  Useful, if you have an unstable connection and have to reconnect often.</source>
         <translation>Восстанавливать соединение при его разрыве. Полезно, когда соединение нестабильно и вам часто приходится подключаться снова.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="244"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="246"/>
         <source>Keep a log of message history.  Disable this option if you want to conserve disk space or if you need maximum security.</source>
         <translation>Хранить историю сообщений. Не включайте эту опцию, если хотите сохранить свободное место на жестком диске или если хотите обеспечить наибольшую безопасность.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="248"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="250"/>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
         <translation>Периодически отправлять пакеты для поддержания соединения. Полезно, если ваше соединение автоматически разрывается после определённого периода бездействия (например, вашим поставщиком услуг Интернета), а вы этого не хотите.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="254"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="256"/>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
         <translation>Включите эту опцию для использования зашифрованного SSL соединения к XMPP серверу.  Вы можете использовать эту опцию если ваш сервер это поддерживает и у вас установлен модуль QCA-OpenSSL.  Для дополнительной информации посетите домашнюю страницу проекта Psi+.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="260"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="262"/>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
         <translation>Включите эту опцию, если вам нужно сжатие передачи данных и если ваш XMPP сервер это поддерживает.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="263"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="265"/>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
         <translation>Используйте эту опцию для указания имени сервера XMPP вручную, если оно отличается от имени сервера, с которым устанавливается соединение. Это полезно, если вы подключаетесь через прокси-сервер на вашем компьютере (например, если вы подключаетесь к серверу localhost), а аккаунт зарегистрирован на внешнем сервере.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="269"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="271"/>
         <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
         <translation>У вас может быть несколько клиентов, подключённых к серверу XMPP и использующих один аккаунт. Клиент идентифицируется именем &quot;ресурса&quot;, которое можно указать здесь.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="273"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="275"/>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
         <translation>Эта опция устанавливает имя пользователя (и полное имя), которое вам нужно для аутентификации на сервере. Это устанавливает XMPP адрес, под которым вы будете входить на сервер.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="277"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="279"/>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
         <translation>&lt;p&gt;У вас может быть несколько клиентов, подключённых к серверу XMPP и использующих один аккаунт. Сообщения, для которых не указан &quot;ресурс-получатель&quot; будут доставляться ресурсу с наибольшим приоритетом (указываемом здесь).&lt;/p&gt;&lt;p&gt;Например, если у вас постоянное соединение с Интернетом на работе и модемное - дома, вы можете оставлять клиент XMPP на работе постоянно работающим с низким приоритетом. При этом вы сможете пользоваться тем же аккаунтом при работе дома с помощью клиента с более высоким приоритетом, чтобы временно перехватывать сообщения у клиента, запущенного на рабочем месте.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="297"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="299"/>
         <source>Username:</source>
         <translation>Имя пользователя:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="393"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="395"/>
         <source>No Key Selected</source>
         <translation>Ключ не выбран</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="423"/>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="515"/>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="518"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="425"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="517"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="520"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="423"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="425"/>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
         <translation>Традиционный SSL доступен только в комбинации с ручным выставлением адреса сервера и порта.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="431"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="433"/>
         <source>SSL error</source>
         <translation>Ошибка SSL</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="431"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="433"/>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
         <translation>Невозможно включить шифрование SSL/TLS. Модуль не найден.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="458"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="460"/>
         <source>Secret Key</source>
         <translation>Приватный ключ</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="515"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="517"/>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
         <translation>&lt;i&gt;Имя пользователя&lt;/i&gt; указано неправильно.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="518"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="520"/>
         <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
         <translation>&lt;i&gt;XMPP адрес&lt;/i&gt; должен быть указан в формате &lt;i&gt;user@host&lt;/i&gt;.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="592"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="596"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="593"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="597"/>
         <source>This account is currently active, so certain changes may not take effect until the next login.</source>
         <translation>Этот аккаунт сейчас активен, поэтому некоторые изменения  вступят в силу после переподключения.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="595"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="599"/>
         <source>Reconnect &amp;Later</source>
         <translation>Переподключиться &amp;позднее</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="596"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="600"/>
         <source>Reconnect &amp;Now</source>
         <translation>Переподключиться &amp;сейчас</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="626"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="630"/>
         <source>Block contact</source>
         <translation>Заблокировать контакт</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="626"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="630"/>
         <source>Enter the XMPP Address of the contact to block:</source>
         <translation>Введите XMPP адрес контакта для блокировки:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="657"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="661"/>
         <source>Retrieving blocked contact list ...</source>
         <translation>Получение списка заблокированных контактов...</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="666"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="670"/>
         <source>You are not connected.</source>
         <translation>Вы не присоединены к серверу.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="695"/>
+        <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="699"/>
         <source>Your server does not support blocking.</source>
         <translation>Ваш сервер не поддерживает блокировку контактов.</translation>
     </message>
@@ -1418,7 +1425,7 @@ save the history for this contact.</source>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -1571,22 +1578,22 @@ There was an error getting the Service ID translation information from &quot;%1&
 <context>
     <name>AttachView</name>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="375"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="341"/>
         <source>Go to &amp;URL...</source>
         <translation>Открыть &amp;URL...</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="376"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="342"/>
         <source>Copy location</source>
         <translation>Скопировать адрес</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="379"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="345"/>
         <source>Join &amp;Groupchat...</source>
         <translation>Войти в &amp;конференцию...</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="382"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="348"/>
         <source>Remove</source>
         <translation>Удалить</translation>
     </message>
@@ -3302,12 +3309,20 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message numerus="yes">
         <location filename="../../psi-plus/src/contactlistutil.cpp" line="87"/>
         <source>and %n contacts </source>
-        <translation><numerusform>и %n контакт </numerusform><numerusform>и %n контакта </numerusform><numerusform>и %n контактов </numerusform></translation>
+        <translation>
+            <numerusform>и %n контакт </numerusform>
+            <numerusform>и %n контакта </numerusform>
+            <numerusform>и %n контактов </numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus/src/contactlistutil.cpp" line="92"/>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation><numerusform>Это действие безвозвратно удалит группы:&lt;br&gt;%1&lt;br&gt;%2and %n из Вашего списка контактов.</numerusform><numerusform>Это действие безвозвратно удалит группы:&lt;br&gt;%1&lt;br&gt;%2and %n из Вашего списка контактов.</numerusform><numerusform>Это действие безвозвратно удалит группы:&lt;br&gt;%1&lt;br&gt;%2and %n из Вашего списка контактов.</numerusform></translation>
+        <translation>
+            <numerusform>Это действие безвозвратно удалит группы:&lt;br&gt;%1&lt;br&gt;%2and %n из Вашего списка контактов.</numerusform>
+            <numerusform>Это действие безвозвратно удалит группы:&lt;br&gt;%1&lt;br&gt;%2and %n из Вашего списка контактов.</numerusform>
+            <numerusform>Это действие безвозвратно удалит группы:&lt;br&gt;%1&lt;br&gt;%2and %n из Вашего списка контактов.</numerusform>
+        </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactlistutil.cpp" line="101"/>
@@ -3579,7 +3594,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>ContactProfile</name>
     <message>
         <location filename="../../psi-plus/src/contactview.cpp" line="262"/>
-        <location filename="../../psi-plus/src/psi_profiles.cpp" line="451"/>
+        <location filename="../../psi-plus/src/psi_profiles.cpp" line="460"/>
         <source>General</source>
         <translation>Общие</translation>
     </message>
@@ -3590,7 +3605,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <location filename="../../psi-plus/src/contactview.cpp" line="266"/>
-        <location filename="../../psi-plus/src/psi_profiles.cpp" line="452"/>
+        <location filename="../../psi-plus/src/psi_profiles.cpp" line="461"/>
         <source>Agents/Transports</source>
         <translation>Сервисы</translation>
     </message>
@@ -4052,7 +4067,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/disco.ui" line="28"/>
         <source>ToolBar will be placed here</source>
-        <comment>Don't translate this string</comment>
+        <comment>Don&apos;t translate this string</comment>
         <translation>ToolBar will be placed here</translation>
     </message>
     <message>
@@ -4524,174 +4539,174 @@ Proceed?</source>
 <context>
     <name>EventDlg</name>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="697"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="663"/>
         <source>Identity:</source>
         <translation>Аккаунт:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="730"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="696"/>
         <source>To:</source>
         <translation>Кому:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="740"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="706"/>
         <source>From:</source>
         <translation>От:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="749"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="715"/>
         <source>Type:</source>
         <translation>Тип:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="752"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="718"/>
         <source>Normal</source>
         <translation>Обычное</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="753"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="719"/>
         <source>Chat</source>
         <translation>Чат</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="757"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="723"/>
         <source>Time:</source>
         <translation>Время:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="773"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="739"/>
         <source>Select icon</source>
         <translation>Выбрать смайл</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="780"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="746"/>
         <source>Message length</source>
         <translation>Длина сообщения</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="789"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="755"/>
         <source>Toggle encryption</source>
         <translation>Переключить шифрование</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="800"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="766"/>
         <source>Add URL</source>
         <translation>Добавить URL</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="803"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="769"/>
         <source>User info</source>
         <translation>vCard</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="806"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="772"/>
         <source>Message history</source>
         <translation>История</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="824"/>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="1865"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="790"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="1831"/>
         <source>Subject:</source>
         <translation>Тема:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="890"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="856"/>
         <source>Transaction &amp;identifier:</source>
         <translation>&amp;Идентификатор транзакции:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="912"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="878"/>
         <source>&amp;Close</source>
         <translation>&amp;Закрыть</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="919"/>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="2045"/>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="2058"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="885"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="2011"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="2024"/>
         <source>&amp;Next</source>
         <translation>&amp;Следующее</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="925"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="891"/>
         <source>&amp;Quote</source>
         <translation>&amp;Цитировать</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="931"/>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="970"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="897"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="936"/>
         <source>&amp;Deny</source>
         <translation>От&amp;клонить</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="937"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="903"/>
         <source>&amp;Add/Auth</source>
         <translation>&amp;Разрешить</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="944"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="910"/>
         <source>&amp;Send</source>
         <translation>&amp;Отправить</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="950"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="916"/>
         <source>&amp;Chat</source>
         <translation>&amp;Чат</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="956"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="922"/>
         <source>&amp;Reply</source>
         <translation>&amp;Ответить</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="963"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="929"/>
         <source>C&amp;onfirm</source>
         <translation>По&amp;дтвердить</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="978"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="944"/>
         <source>&amp;Submit</source>
         <translation>&amp;Отправить</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="986"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="952"/>
         <source>&amp;Cancel</source>
         <translation>О&amp;тмена</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="1323"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="1289"/>
         <source>Send Message</source>
         <translation>Отправить сообщение</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="1444"/>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="1450"/>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="1585"/>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="1640"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="1410"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="1416"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="1551"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="1606"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="1444"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="1410"/>
         <source>Please type in a message first.</source>
         <translation>Введите текст сообщения.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="1450"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="1416"/>
         <source>No recipients have been specified!</source>
         <translation>Не указаны получатели!</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="1585"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="1551"/>
         <source>Please type in a transaction identifier first.</source>
         <translation>Введите идентификатор транзакции.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="1640"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="1606"/>
         <source>Please complete all required fields (marked with a &apos;*&apos;).</source>
         <translation>Заполните все необходимые поля (отмеченные &apos;*&apos;).</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="1808"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="1774"/>
         <source>Someone (maybe you) has requested access to the following resource:
 URL: %1
 Method: %2
@@ -4702,14 +4717,14 @@ URL: %1
 </translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="1814"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="1780"/>
         <source>
 If you wish to confirm this request, please provide transaction identifier and press Confirm button. Otherwise press Deny button.</source>
         <translation>
 Если вы подтверждаете этот запрос, укажите идентификатор транзакции и нажмите кнопку Подтвердить. Иначе нажмите кнопку Отклонить.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="1820"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="1786"/>
         <source>Transaction identifier: %1
 
 If you wish to confirm this request, please press Confirm button. Otherwise press Deny button.</source>
@@ -4718,52 +4733,52 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
 Если вы подтверждаете этот запрос, нажмите кнопку Подтвердить. Иначе нажмите кнопку Отклонить.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="1927"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="1893"/>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to subscribe to your presence.  Click the button labelled &quot;Add/Auth&quot; to authorize the subscription.  This will also add the person to your contact list if it is not already there.</source>
         <translation>&lt;big&gt;[Системное сообщение]&lt;/big&gt;&lt;br&gt;Запрос подписки на присутствие.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="1943"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="1909"/>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
         <translation>&lt;big&gt;[Системное сообщение]&lt;/big&gt;&lt;br&gt;Вы получили подписку.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="1955"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="1921"/>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
         <translation>&lt;big&gt;[Системное сообщение]&lt;/big&gt;&lt;br&gt;Ваша подписка была удалена!</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="1986"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="1952"/>
         <source>%1 additions</source>
         <translation>Добавлено: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="1988"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="1954"/>
         <source>1 addition</source>
         <translation>Добавлено: 1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="1994"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="1960"/>
         <source>%1 deletions</source>
         <translation>Удалено: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="1996"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="1962"/>
         <source>1 deletion</source>
         <translation>Удалено: 1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="2002"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="1968"/>
         <source>%1 modifications</source>
         <translation>Изменено: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="2004"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="1970"/>
         <source>1 modification</source>
         <translation>Изменено: 1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="2008"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="1974"/>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to modify your roster (%1). Click the button labelled &quot;Add/Auth&quot; to authorize the modification.</source>
         <translation>&lt;big&gt;[Системное сообщение]&lt;/big&gt;&lt;br&gt;Этот пользователь запрашивает изменение вашего ростера (%1).</translation>
     </message>
@@ -5652,7 +5667,7 @@ contact is offline.</source>
         <source>Unable to connect to peer for data transfer.
 
 Ensure that your Data Transfer settings are proper.  If you are behind
-a NAT router or firewall then you'll need to open the proper TCP port
+a NAT router or firewall then you&apos;ll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>Невозможно соединиться с удалённым компьютером для передачи данных.
 
@@ -5666,7 +5681,7 @@ or specify a Data Transfer Proxy in your account settings.</source>
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
 
 This means that the Proxy service is either not functioning or it is
-unreachable.  If you are behind a firewall, then you'll need to ensure
+unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
 that outgoing TCP connections are allowed.</source>
         <translation>Невозможно соединиться с прокси-сервером или использовать его.
 
@@ -7639,7 +7654,7 @@ You can select or deselect a contact for history removal from the context menu o
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -7652,7 +7667,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -7670,7 +7685,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -7688,7 +7703,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -8079,7 +8094,7 @@ p, li { white-space: pre-wrap; }
     <name>IcqDie</name>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="116"/>
-        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it's much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
+        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
         <translation>Я Вам как Linux скажу, только Вы не обижайтесь. Этот человек, конечно, получит Ваше сообщение, но лучше бы Вам общаться с ним через Jabber. А то не ровен час - аська сдохнет, старушка своё отжила. Его JID: %1.
@@ -8090,7 +8105,7 @@ Sincerely yours, Debian Sid.</source>
         <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="120"/>
         <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
 
-If you don't know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
+If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
         <translation>Я Вам как Linux скажу, только Вы не обижайтесь. Этот человек имел в виду всех пользователей аськи, поэтому если Вы до сих пор сидите в этой сети, то он не получит Ваше сообщение, поэтому Вам придётся общаться с ним через Jabber. Его JID: %1.
 
@@ -8187,7 +8202,7 @@ The plugin has a number of simple settings that can help you:
     <message>
         <location filename="../../psi-plus/src/plugins/generic/imageplugin/imageplugin.cpp" line="304"/>
         <source>This plugin is designed to send images to roster contacts.
-Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
         <translation>Данный плагин предназначен для отправки собеседнику графического изображения.
 Клиент собеседника должен поддерживать XEP-0071: XHTML-IM и поддерживать схему data:URI.
@@ -8763,7 +8778,7 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="233"/>
-        <source>can't create folder %1 
+        <source>can&apos;t create folder %1 
 caching avatars will be not available</source>
         <translation>невозможно создать папку%1 
 кэширование аватар будет недоступно</translation>
@@ -11084,7 +11099,7 @@ Tags: %1</source>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -11695,7 +11710,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="409"/>
-        <source>Disable stopspam, if don't match any rule above
+        <source>Disable stopspam, if don&apos;t match any rule above
 (does not work for muc private messages)</source>
         <translation>Отключить АнтиСпам, если не подошло ни одно перечисленное правило
 (не работает для приватных сообщений в конференциях)</translation>
@@ -14200,382 +14215,382 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>PsiAccount</name>
     <message>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="408"/>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="1467"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="1466"/>
         <source>Unable to disable the account, as it has pending events.</source>
         <translation>Невозможно отключить аккаунт, так как есть непросмотренные сообщения.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="1467"/>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="3407"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="1466"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="3412"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="1471"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="1470"/>
         <source>Disable Account</source>
         <translation>Отключить аккаунт</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="1471"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="1470"/>
         <source>The account is currently active.
 Do you want to log out ?</source>
         <translation>Этот аккаунт сейчас используется.
 Вы хотите отключиться?</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="1711"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="1710"/>
         <source>Reconnecting</source>
         <translation>Восстановление соединения</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="1735"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="1734"/>
         <source>Encryption Error</source>
         <translation>Ошибка шифрования</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="1736"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="1735"/>
         <source>Cannot connect: Encryption is enabled but no QCA2 SSL/TLS plugin is available.</source>
         <translation>Невозможно подключиться: Шифрование включено, но QCA2 SSL/TLS модуль недоступен.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="1752"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="1751"/>
         <source>Feature Removed</source>
         <translation>Возможность удалена</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="1753"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="1752"/>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
         <translation>В настройках этого аккаунта была указана опция &quot;Использовать стандартный порт SSL&quot;, но эта возможность больше не поддерживается. Удаление этой опции не затронет вас, если используемый вами XMPP сервер не слишком древний. Если проблемы с подключением все же возникли, проверьте настройки аккаунта или свяжитесь с администратором XMPP сервера.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="1901"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="1900"/>
         <source>Server Authentication</source>
         <translation>Аутентификация</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2057"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2062"/>
         <source>The server does not support TLS encryption.</source>
         <translation>Сервер не поддерживает шифрование TLS.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2062"/>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2313"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2067"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2318"/>
         <source>Server Error</source>
         <translation>Ошибка сервера</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2083"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2088"/>
         <source>Disconnected</source>
         <translation>Отключён</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2087"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2092"/>
         <source>XML Parsing Error</source>
         <translation>Ошибка обработки XML</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2091"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2096"/>
         <source>XMPP Protocol Error</source>
         <translation>Ошибка протокола XMPP</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2109"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2114"/>
         <source>Generic stream error</source>
         <translation>Общая ошибка потока</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2111"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2116"/>
         <source>Conflict (remote login replacing this one)</source>
         <translation>Конфликт (удалённое подключение заменило это подключение)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2116"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2121"/>
         <source>Timed out from inactivity</source>
         <translation>Таймаут из-за неактивности</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2118"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2123"/>
         <source>Internal server error</source>
         <translation>Внутренняя ошибка сервера</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2120"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2125"/>
         <source>Invalid XML</source>
         <translation>Неправильный XML</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2122"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2127"/>
         <source>Policy violation</source>
         <translation>Нарушение правил</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2126"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2131"/>
         <source>Server out of resources</source>
         <translation>Нехватка ресурсов сервера</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2130"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2135"/>
         <source>Server is shutting down</source>
         <translation>Сервер был остановлен</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2132"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2137"/>
         <source>XMPP Stream Error: %1</source>
         <translation>Ошибка потока XMPP: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2139"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2144"/>
         <source>Unable to connect to server</source>
         <translation>Невозможно соединиться с сервером</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2141"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2146"/>
         <source>Host not found</source>
         <translation>Сервер не найден</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2143"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2148"/>
         <source>Error connecting to proxy</source>
         <translation>Ошибка соединения с прокси-сервером</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2145"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2150"/>
         <source>Error during proxy negotiation</source>
         <translation>Ошибка согласования с прокси-сервером</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2147"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2152"/>
         <source>Proxy authentication failed</source>
         <translation>Не прошла аутентификация с прокси-сервером</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2152"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2157"/>
         <source>Socket/stream error</source>
         <translation>Ошибка сокета или потока</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2153"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2158"/>
         <source>Connection Error: %1</source>
         <translation>Ошибка соединения: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2160"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2165"/>
         <source>Host no longer hosted</source>
         <translation>Сервер больше не обслуживается</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2162"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2167"/>
         <source>Host unknown</source>
         <translation>Узел не найден</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2164"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2169"/>
         <source>A required remote connection failed</source>
         <translation>Необходимое удалённое соединение закрыто вследствие ошибки</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2168"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2173"/>
         <source>See other host: %1</source>
         <translation>См. другой сервер: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2170"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2175"/>
         <source>Server does not support proper XMPP version</source>
         <translation>Сервер не поддерживает нужную версию XMPP</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2171"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2176"/>
         <source>Stream Negotiation Error: %1</source>
         <translation>Ошибка согласования потока: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2177"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2182"/>
         <source>Server rejected STARTTLS</source>
         <translation>Сервер отверг STARTTLS</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2181"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2186"/>
         <source>TLS handshake error</source>
         <translation>Ошибка TLS handshake</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2183"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2188"/>
         <source>Broken security layer (TLS)</source>
         <translation>Нарушен слой защиты (TLS)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2191"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2196"/>
         <source>Unable to login</source>
         <translation>Невозможно войти</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2194"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2199"/>
         <source>No appropriate mechanism available for given security settings (e.g. SASL library too weak, or plaintext authentication not enabled)</source>
         <translation>Не доступен подходящий механизм для текущих настроек безопасности (проблема в библиотеке SASL или не включена аутентификация открытым текстом)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2197"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2202"/>
         <source>Bad server response</source>
         <translation>Неправильный ответ сервера</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2199"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2204"/>
         <source>Server failed mutual authentication</source>
         <translation>Сервер не прошёл взаимную аутентификацию</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2201"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2206"/>
         <source>Encryption required for chosen SASL mechanism</source>
         <translation>Шифрование необходимо для выбранного механизма SASL</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2203"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2208"/>
         <source>Invalid account information</source>
         <translation>Неправильная информация аккаунта</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2206"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2211"/>
         <source>Invalid SASL mechanism</source>
         <translation>Неправильный механизм SASL</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2208"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2213"/>
         <source>Invalid realm</source>
         <translation>Неправильный realm</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2210"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2215"/>
         <source>SASL mechanism too weak for this account</source>
         <translation>Механизм SASL слишком слаб для этого аккаунта</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2212"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2217"/>
         <source>Wrong Password</source>
         <translation>Неверный пароль</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2216"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2221"/>
         <source>Temporary auth failure</source>
         <translation>Временный сбой аутентификации</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2220"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2225"/>
         <source>Authentication error: %1</source>
         <translation>Ошибка аутентификации: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2223"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2228"/>
         <source>Broken security layer (SASL)</source>
         <translation>Нарушен слой защиты (SASL)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2226"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2231"/>
         <source>None</source>
         <translation>Нет</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2314"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2319"/>
         <source>There was an error communicating with the server.
 Details: %1</source>
         <translation>Ошибка обмена данными с сервером.
 Подробности: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2763"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2768"/>
         <source>Whiteboard invitation</source>
         <translation>Приглашение порисовать</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2930"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2935"/>
         <source>Incoming file</source>
         <translation>Входящий файл</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2930"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2935"/>
         <source>Do you want to accept %1 (%2 kb) from %3?</source>
         <translation>Вы подтверждаете приём %1 (%2 кб) от %3?</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2979"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2984"/>
         <source>Logged out</source>
         <translation>Отключён</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="3408"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="3413"/>
         <source>You must be connected to the server in order to do this.</source>
         <translation>Для выполнения операции необходимо сначала подключиться к серверу.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="3513"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="3518"/>
         <source>Unregister from %1</source>
         <translation>Отмена регистрации на %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="3514"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="3519"/>
         <source>Are you sure?</source>
         <translation>Вы уверены?</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="4092"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="4097"/>
         <source>Name:	</source>
         <translation>Название:	</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="4093"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="4098"/>
         <source>Version:	</source>
         <translation>Версия:	</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="4094"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="4099"/>
         <source>Os:	</source>
         <translation>ОС:	</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="4096"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="4101"/>
         <source>Version Query Information</source>
         <translation>Информация запроса версии</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="5321"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="5326"/>
         <source>Headline</source>
         <translation>Объявление</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6095"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6100"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
         <translation>Произошла ошибка установки вашего состояния.
 Причина: %1.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6205"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6210"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6529"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6534"/>
         <source>No key</source>
         <translation>Нет ключа</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6529"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6534"/>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Невозможно найти ключ OpenPGP для использования с &lt;b&gt;%1&lt;/b&gt;.
 &lt;br&gt;&lt;br&gt;
 Это могло произойти, если у вас нет ключа, который контакт указывает в своём &quot;подписанном присутствии&quot;, или он вообще не указывает ключа.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6534"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6539"/>
         <source>&amp;Choose key manually</source>
         <translation>&amp;Выбрать ключ вручную</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6534"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6539"/>
         <source>Do &amp;nothing</source>
         <translation>О&amp;тмена</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6541"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6546"/>
         <source>Public Key: %1</source>
         <translation>Публичный ключ: %1</translation>
     </message>
@@ -15422,7 +15437,7 @@ Reason: %1.</source>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="39"/>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
-        <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
+        <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
         <translation> Установить статус. Варианты: &apos;online&apos;, &apos;chat&apos;, &apos;away&apos;, &apos;xa&apos;, &apos;dnd&apos;, &apos;offline&apos;.</translation>
     </message>
     <message>
@@ -16899,12 +16914,12 @@ Proceed?</source>
         <translation>Доступен</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="311"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="277"/>
         <source>Invitation to %1 from %2</source>
         <translation>Приглашение в %1 от %2</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/eventdlg.cpp" line="313"/>
+        <location filename="../../psi-plus/src/eventdlg.cpp" line="279"/>
         <source>Invitation to %1</source>
         <translation>Приглашение в %1</translation>
     </message>
@@ -17555,22 +17570,38 @@ Description: </source>
     <message numerus="yes">
         <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="286"/>
         <source>%n day(s) </source>
-        <translation><numerusform>%n дня </numerusform><numerusform>%n дней </numerusform><numerusform>%n дней </numerusform></translation>
+        <translation>
+            <numerusform>%n дня </numerusform>
+            <numerusform>%n дней </numerusform>
+            <numerusform>%n дней </numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="289"/>
         <source>%n hour(s) </source>
-        <translation><numerusform>%n час </numerusform><numerusform>%n часов </numerusform><numerusform>%n часов </numerusform></translation>
+        <translation>
+            <numerusform>%n час </numerusform>
+            <numerusform>%n часов </numerusform>
+            <numerusform>%n часов </numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="292"/>
         <source>%n minute(s) </source>
-        <translation><numerusform>%n минута </numerusform><numerusform>%n минут </numerusform><numerusform>%n минут </numerusform></translation>
+        <translation>
+            <numerusform>%n минута </numerusform>
+            <numerusform>%n минут </numerusform>
+            <numerusform>%n минут </numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="295"/>
         <source>%n second(s) </source>
-        <translation><numerusform>%n секунда </numerusform><numerusform>%n секунд </numerusform><numerusform>%n секунд </numerusform></translation>
+        <translation>
+            <numerusform>%n секунда </numerusform>
+            <numerusform>%n секунд </numerusform>
+            <numerusform>%n секунд </numerusform>
+        </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickdownloader.cpp" line="43"/>
@@ -17827,12 +17858,12 @@ URL: %4
         <translation>Если подписка &apos;%1&apos; тогда %2 %3</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psi_profiles.cpp" line="774"/>
+        <location filename="../../psi-plus/src/psi_profiles.cpp" line="783"/>
         <source>%1 Proxy</source>
         <translation>%1 прокси-сервер</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psi_profiles.cpp" line="1198"/>
+        <location filename="../../psi-plus/src/psi_profiles.cpp" line="1207"/>
         <source>Event notifier</source>
         <translation>Обработка событий</translation>
     </message>
@@ -18273,10 +18304,14 @@ Reason: %1</source>
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="454"/>
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation><numerusform>отмечает день рождения через %n день
-</numerusform><numerusform>отмечает день рождения через %n дня
-</numerusform><numerusform>отмечает день рождения через %n дней
-</numerusform></translation>
+        <translation>
+            <numerusform>отмечает день рождения через %n день
+</numerusform>
+            <numerusform>отмечает день рождения через %n дня
+</numerusform>
+            <numerusform>отмечает день рождения через %n дней
+</numerusform>
+        </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="457"/>
@@ -18777,7 +18812,11 @@ Reason: %1</source>
     <message numerus="yes">
         <location filename="../../psi-plus/src/searchdlg.cpp" line="497"/>
         <source>Added %n users to your roster.</source>
-        <translation><numerusform>Добавлен %n пользователь в ваш список контактов.</numerusform><numerusform>Добавлено %n пользователя в ваш список контактов.</numerusform><numerusform>Добавлено %n пользователей в ваш список контактов.</numerusform></translation>
+        <translation>
+            <numerusform>Добавлен %n пользователь в ваш список контактов.</numerusform>
+            <numerusform>Добавлено %n пользователя в ваш список контактов.</numerusform>
+            <numerusform>Добавлено %n пользователей в ваш список контактов.</numerusform>
+        </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/searchdlg.cpp" line="502"/>
@@ -20393,7 +20432,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
         <source>You can type these special commands in chat and groupchat dialogs:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; '/me' is replaced by your nick&lt;/li&gt;
+&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
 &lt;/ul&gt;
 And these work only in groupchat dialog:
 &lt;ul&gt;
@@ -21463,7 +21502,7 @@ Do you still want to close the window?</source>
 <context>
     <name>XMPP::ClientStream</name>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/stream.cpp" line="783"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/stream.cpp" line="797"/>
         <source>Offered mechanisms: </source>
         <translation>Предлагаемые механизмы: </translation>
     </message>
@@ -22850,7 +22889,7 @@ Reathorization...</source>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodnetman.cpp" line="276"/>
-        <source>Can't get files!
+        <source>Can&apos;t get files!
 Try remove cookies.</source>
         <translation>Не удаётся получить файлы!
 Попробуйте удалить куки.</translation>
@@ -22959,7 +22998,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
