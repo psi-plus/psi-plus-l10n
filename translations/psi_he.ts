@@ -578,7 +578,13 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation>כתובת XMPP:</translation>
     </message>
     <message>
-        <source>Store password as salted hash instead of plaintext when SCRAM-SHA-1 is available.</source>
+        <source>&lt;b&gt;Attention!&lt;/b&gt;
+&lt;br/&gt;
+When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Store hash instead of plaintext password if server supports this feature.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
