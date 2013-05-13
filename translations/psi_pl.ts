@@ -143,7 +143,7 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="81"/>
         <source>Founder, Patcher and MS Windows Packager</source>
-        <translation type="unfinished"/>
+        <translation>Założyciel, twórca łatek oraz pakietów dla MS Windows</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="84"/>
@@ -153,7 +153,7 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="87"/>
         <source>Founder, Designer and Patcher</source>
-        <translation>Założyciel, Projektant i Programista naprawiający błędy</translation>
+        <translation>Założyciel, Projektant i Twórca łatek</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="90"/>
@@ -163,38 +163,38 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="93"/>
         <source>Designer and Patcher</source>
-        <translation type="unfinished"/>
+        <translation>Projektant i Twórca łatek</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="96"/>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
-        <translation type="unfinished"/>
+        <translation>Twórca łatek, wtyczek oraz pakietów Fedory</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="99"/>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="117"/>
         <source>Patcher and Plugins Writer</source>
-        <translation>Programista piszący wtyczki i naprawiający błędy</translation>
+        <translation>Twórca wtyczek i łatek</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="102"/>
         <source>Patcher and Ubuntu Packager</source>
-        <translation type="unfinished"/>
+        <translation>Twórca wtyczek oraz pakietów Ubuntu</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="105"/>
         <source>Ubuntu Packager</source>
-        <translation>Osoba tworząca pakiety dla Ubuntu</translation>
+        <translation>Twórca pakietów Ubuntu</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="108"/>
         <source>Mandriva Linux Packager</source>
-        <translation>Osoba tworząca pakiety dla Mandriva Linux</translation>
+        <translation>Twórca pakietów Mandriva Linux</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="111"/>
         <source>Patcher and Russian localization</source>
-        <translation type="unfinished"/>
+        <translation>Twórca łatek i tłumaczenia jęz. rosyjskiego</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="114"/>
@@ -204,7 +204,7 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="120"/>
         <source>OpenSUSE Packager</source>
-        <translation type="unfinished"/>
+        <translation>Twórca pakietów OpenSUSE</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="123"/>
@@ -605,7 +605,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus/src/accountmodify.ui" line="562"/>
         <source>proxychooser</source>
-        <translation type="unfinished"/>
+        <translation>Wybór proxy</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodify.ui" line="571"/>
@@ -1305,7 +1305,7 @@ zapisywał historii dla tego kontaktu.</translation>
         <location filename="../../psi-plus/src/activitydlg.cpp" line="98"/>
         <location filename="../../psi-plus/src/activitydlg.cpp" line="106"/>
         <source>&lt;unset&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;nie wybrany&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitydlg.cpp" line="89"/>
@@ -3440,7 +3440,7 @@ Uwaga: Do poprawnego działania, opcja: options.ui.chat.central-toolbar musi by�
     <message>
         <location filename="../../psi-plus/src/contactmanager/contactmanagerdlg.cpp" line="68"/>
         <source>RegExp</source>
-        <translation type="unfinished"/>
+        <translation>Wyrażenie regularne</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactmanager/contactmanagerdlg.cpp" line="119"/>
@@ -7051,22 +7051,22 @@ Przegrałeś.</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodnetman.cpp" line="53"/>
         <source>Set Password</source>
-        <translation type="unfinished"/>
+        <translation>Ustaw hasło</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodnetman.cpp" line="59"/>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Hasło:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodnetman.cpp" line="61"/>
         <source>Confirm password:</source>
-        <translation type="unfinished"/>
+        <translation>Potwierdź hasło:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodnetman.cpp" line="85"/>
         <source>Password does not match</source>
-        <translation type="unfinished"/>
+        <translation>Hasło nie pasuje</translation>
     </message>
 </context>
 <context>
@@ -7074,7 +7074,7 @@ Przegrałeś.</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/skinsplugin/getskinname.ui" line="23"/>
         <source>Get Skin Name</source>
-        <translation type="unfinished"/>
+        <translation>Pobierz nazwę skórki</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/skinsplugin/getskinname.ui" line="37"/>
@@ -7529,12 +7529,12 @@ Do wysyłania poleceń, wykorzystywane są zwykłe wiadomości, więc wtyczka  t
     <message>
         <location filename="../../psi-plus/src/historydlg.cpp" line="399"/>
         <source>&amp;Open chat</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Otwórz rozmowę</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/historydlg.cpp" line="400"/>
         <source>&amp;Export history</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Eksportuj historię</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/historydlg.cpp" line="401"/>
@@ -10583,22 +10583,22 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.ui" line="67"/>
         <source>Enables avatar frame at the top of roster</source>
-        <translation type="unfinished"/>
+        <translation>Pokazuje ramkę z własnym avatarem oraz polem zmiany statusu na górze listy kontaktów</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.ui" line="70"/>
         <source>Enable roster avatar frame</source>
-        <translation type="unfinished"/>
+        <translation>Pokazuj ramkę własnego avatara na liście kontaktów</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.ui" line="79"/>
         <source>Autohide roster after</source>
-        <translation type="unfinished"/>
+        <translation>Chowaj listę kontaktów po</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.ui" line="96"/>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation>sek.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.ui" line="118"/>
@@ -10608,27 +10608,27 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.ui" line="124"/>
         <source>Show avatars in roster</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż awatary na liście kontaktów</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.ui" line="127"/>
         <source>Avatars</source>
-        <translation type="unfinished"/>
+        <translation>Awatary</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.ui" line="134"/>
         <source>Show moods in roster</source>
-        <translation type="unfinished"/>
+        <translation>Pokazuj nastroje na liście kontaktów</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.ui" line="137"/>
         <source>Moods</source>
-        <translation type="unfinished"/>
+        <translation>Nastroje</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.ui" line="144"/>
         <source>Show activities in roster</source>
-        <translation type="unfinished"/>
+        <translation>Pokaż aktywność na liście kontaktów</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.ui" line="147"/>
@@ -10678,7 +10678,7 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.ui" line="208"/>
         <source>Avatar settings</source>
-        <translation type="unfinished"/>
+        <translation>Ustawienia awatara</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.ui" line="219"/>
@@ -11469,7 +11469,7 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     <message>
         <location filename="../../psi-plus/src/plugins/generic/pepchangenotifyplugin/options.ui" line="45"/>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation>sek.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/pepchangenotifyplugin/options.ui" line="67"/>
@@ -12323,7 +12323,7 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset.cpp" line="684"/>
         <source>Moods</source>
-        <translation type="unfinished"/>
+        <translation>Nastroje</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset.cpp" line="684"/>
@@ -14558,7 +14558,7 @@ Przyczyna: %1.</translation>
         <location filename="../tmp/psiactionlist.cpp" line="144"/>
         <location filename="../../psi-plus/src/psiactionlist.cpp" line="144"/>
         <source>Enable/disable groups in roster</source>
-        <translation type="unfinished"/>
+        <translation>Włącz/wyłącz grupy na liście kontaktów</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="146"/>
@@ -14882,13 +14882,13 @@ Przyczyna: %1.</translation>
         <location filename="../tmp/psiactionlist.cpp" line="285"/>
         <location filename="../../psi-plus/src/psiactionlist.cpp" line="285"/>
         <source>Set Activity</source>
-        <translation type="unfinished"/>
+        <translation>Ustaw aktywność</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="286"/>
         <location filename="../../psi-plus/src/psiactionlist.cpp" line="286"/>
         <source>Set Activity for all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Ustaw status dla aktywnych wszystkich kont</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="288"/>
@@ -18522,7 +18522,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshotoptions.ui" line="65"/>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation>sek.</translation>
     </message>
 </context>
 <context>
