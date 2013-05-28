@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2013-01-14
+# Updated: 2013-05-28
 # Version: N/A
 
 if [[ ${0} =~ ^/.+$ ]]; then
@@ -89,7 +89,7 @@ case "${1}" in
 "tr")
 
     # Test Internet connection:
-    host transifex.net > /dev/null || exit 1
+    host transifex.com > /dev/null || exit 1
 
     git status || exit 1
 
