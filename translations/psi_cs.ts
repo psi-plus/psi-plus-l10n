@@ -69,7 +69,9 @@
 &lt;br&gt;
 Copyright © 2001-2013 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="unfinished"/>
+        <translation>Multiplatformní XMPP klient navržený pro pokročilé.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2013 Tým Psi.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/about.ui" line="122"/>
@@ -209,7 +211,7 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="123"/>
         <source>Language coordinator; Debian Packager</source>
-        <translation type="unfinished"/>
+        <translation>Koordinátor překladu, balíkář pro Debian</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="130"/>
@@ -416,7 +418,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus/src/accountmanage.ui" line="81"/>
         <source>Rem&amp;ove</source>
-        <translation>&amp;Odebrat</translation>
+        <translation>&amp;Odstranit</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmanage.ui" line="84"/>
@@ -580,7 +582,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus/src/accountmodify.ui" line="465"/>
         <source>Remove</source>
-        <translation>Odebrat</translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodify.ui" line="498"/>
@@ -906,7 +908,7 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="520"/>
         <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;i&gt;XMPP adresa&lt;/i&gt; musí být udána ve formátu &lt;i&gt;uživatel@server&lt;/i&gt;.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="596"/>
@@ -1131,17 +1133,17 @@ Zdůvodnění: %1</translation>
         <location filename="../../psi-plus/src/accountremove.ui" line="14"/>
         <location filename="../../psi-plus/src/accountremove.ui" line="20"/>
         <source>Remove Account</source>
-        <translation>Odebrat účet</translation>
+        <translation>Odstranit účet</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountremove.ui" line="26"/>
         <source>Remove account from Psi only.</source>
-        <translation>Odebrat účet pouze z Psi.</translation>
+        <translation>Odstranit účet pouze z Psi.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountremove.ui" line="33"/>
         <source>Remove account and try to unregister it from the server.</source>
-        <translation>Odebrat účet z Psi a zkusit zrušit registraci na serveru.</translation>
+        <translation>Odstranit účet z Psi a zkusit zrušit registraci na serveru.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountremove.ui" line="42"/>
@@ -1155,7 +1157,7 @@ Zdůvodnění: %1</translation>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="110"/>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="181"/>
         <source>&amp;Remove</source>
-        <translation>Odeb&amp;rat</translation>
+        <translation>Odst&amp;ranit</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="143"/>
@@ -1192,7 +1194,7 @@ Zdůvodnění: %1</translation>
     <message>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="179"/>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; ?</source>
-        <translation>Jsi si jistý(á), že chceš odebrat &lt;b&gt;%1&lt;/b&gt; ?</translation>
+        <translation>Jsi si jistý(á), že chceš odstranit &lt;b&gt;%1&lt;/b&gt; ?</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="228"/>
@@ -1318,12 +1320,12 @@ ukládat historii pro tento kontakt.</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="14"/>
         <source>Generate a new key pair</source>
-        <translation type="unfinished"/>
+        <translation>Generovat nový pár klíčů</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="20"/>
         <source>Length: </source>
-        <translation type="unfinished"/>
+        <translation>Délka:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="27"/>
@@ -1333,27 +1335,27 @@ ukládat historii pro tento kontakt.</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="34"/>
         <source>Expiration date: </source>
-        <translation type="unfinished"/>
+        <translation>Datum expirace: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="98"/>
         <source>RSA and RSA (default)</source>
-        <translation type="unfinished"/>
+        <translation>RSA a RSA (výchozí)</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="103"/>
         <source>DSA and Elgamal</source>
-        <translation type="unfinished"/>
+        <translation>DSA a Elgamal</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="108"/>
         <source>DSA (sign only)</source>
-        <translation type="unfinished"/>
+        <translation>DSA (pouze na podepisování)</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="113"/>
         <source>RSA (sign only)</source>
-        <translation type="unfinished"/>
+        <translation>RSA (pouze na podepisování)</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="121"/>
@@ -1363,7 +1365,7 @@ ukládat historii pro tento kontakt.</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="128"/>
         <source>Passphrase: </source>
-        <translation type="unfinished"/>
+        <translation>Heslo:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="135"/>
@@ -1584,7 +1586,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <location filename="../../psi-plus/src/eventdlg.cpp" line="348"/>
         <source>Remove</source>
-        <translation>Odebrat</translation>
+        <translation>Odstranit</translation>
     </message>
 </context>
 <context>
@@ -1949,7 +1951,7 @@ Seznam vyjímek pro jidy má dva módy:
     <message>
         <location filename="../../psi-plus/src/bookmarkmanagedlg.cpp" line="59"/>
         <source>&amp;Remove</source>
-        <translation>Odeb&amp;rat</translation>
+        <translation>Odst&amp;ranit</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/bookmarkmanagedlg.cpp" line="60"/>
@@ -3198,17 +3200,17 @@ Poznámka: Aby vše fungovalo, volba options.ui.chat.central-toolbar musí být 
     <message>
         <location filename="../../psi-plus/src/contactlistgroupmenu.cpp" line="85"/>
         <source>Remove Group and Contacts</source>
-        <translation>Odebrat skupinu a kontakty</translation>
+        <translation>Odstranit skupinu a kontakty</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactlistgroupmenu.cpp" line="87"/>
         <source>&amp;Remove</source>
-        <translation>Odeb&amp;rat</translation>
+        <translation>Odst&amp;ranit</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactlistgroupmenu.cpp" line="92"/>
         <source>Remove Group</source>
-        <translation>Odebrat skupinu</translation>
+        <translation>Odstranit skupinu</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactlistgroupmenu.cpp" line="95"/>
@@ -3302,7 +3304,7 @@ Poznámka: Aby vše fungovalo, volba options.ui.chat.central-toolbar musí být 
     <message numerus="yes">
         <location filename="../../psi-plus/src/contactlistutil.cpp" line="92"/>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation><numerusform>Navždy odstranit:&lt;br&gt;%1&lt;br&gt;%2a %n skupinu ze seznamu kontaktů.</numerusform><numerusform>Navždy odstranit:&lt;br&gt;%1&lt;br&gt;%2a %n skupiny ze seznamu kontaktů.</numerusform><numerusform>Navždy odstranit:&lt;br&gt;%1&lt;br&gt;%2a %n skupin ze seznamu kontaktů.</numerusform></translation>
+        <translation><numerusform>Navždy odebere:&lt;br&gt;%1&lt;br&gt;%2a %n skupinu ze seznamu kontaktů.</numerusform><numerusform>Navždy odebere:&lt;br&gt;%1&lt;br&gt;%2a %n skupiny ze seznamu kontaktů.</numerusform><numerusform>Navždy odebere:&lt;br&gt;%1&lt;br&gt;%2a %n skupin ze seznamu kontaktů.</numerusform></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactlistutil.cpp" line="101"/>
@@ -3317,7 +3319,7 @@ Poznámka: Aby vše fungovalo, volba options.ui.chat.central-toolbar musí být 
     <message>
         <location filename="../../psi-plus/src/contactlistutil.cpp" line="119"/>
         <source>This is a system group and can&apos;t be removed. Permanently remove all its contacts from your contact list?</source>
-        <translation>Toto je systémová skupina kterou nelze odebrat. Navždy odebrat všechny obsažené kontakty ze seznamu?</translation>
+        <translation>Toto je systémová skupina kterou nelze odstranit. Navždy odstranit všechny obsažené kontakty ze seznamu?</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactlistutil.cpp" line="121"/>
@@ -3398,7 +3400,7 @@ Poznámka: Aby vše fungovalo, volba options.ui.chat.central-toolbar musí být 
     <message>
         <location filename="../../psi-plus/src/contactmanager/contactmanagerdlg.cpp" line="55"/>
         <source>Remove</source>
-        <translation>Odebrat</translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactmanager/contactmanagerdlg.cpp" line="56"/>
@@ -3995,7 +3997,7 @@ Provést?</translation>
     <message>
         <location filename="../../psi-plus/src/contactview.cpp" line="2061"/>
         <source>Rem&amp;ove</source>
-        <translation>&amp;Odebrat</translation>
+        <translation>&amp;Odstranit</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactview.cpp" line="2063"/>
@@ -5185,7 +5187,7 @@ Toto nastavení má účinek pouze je-li akceptovat-výchozí vypnuto.</translat
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="430"/>
         <source>Automatically remove temporary contacts</source>
-        <translation>Automaticky odebrat dočasné kontakty</translation>
+        <translation>Automaticky odstranit dočasné kontakty</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="433"/>
@@ -6286,7 +6288,7 @@ Zdůvodnění: %1</translation>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1605"/>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1613"/>
         <source>Removed</source>
-        <translation>Odstraněno</translation>
+        <translation>Odebráno</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1606"/>
@@ -6801,7 +6803,7 @@ Hra je prohraná.</translation>
         <location filename="../../psi-plus/src/options/opt_general_groupchat.ui" line="118"/>
         <location filename="../../psi-plus/src/options/opt_general_groupchat.ui" line="270"/>
         <source>Remove</source>
-        <translation>Odebrat</translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_general_groupchat.ui" line="156"/>
@@ -6848,7 +6850,7 @@ Hra je prohraná.</translation>
         <location filename="../../psi-plus/src/options/opt_general_groupchat.ui" line="264"/>
         <location filename="../../psi-plus/src/options/opt_general_groupchat.ui" line="267"/>
         <source>Removes the selected color from the list</source>
-        <translation>Odebrat vybranou barvu ze seznamu</translation>
+        <translation>Odstranit vybranou barvu ze seznamu</translation>
     </message>
 </context>
 <context>
@@ -7267,7 +7269,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gpgprocess.cpp" line="111"/>
         <source>Can&apos;t start </source>
-        <translation type="unfinished"/>
+        <translation>Nelze spustit</translation>
     </message>
 </context>
 <context>
@@ -7496,7 +7498,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus/src/historydlg.cpp" line="292"/>
         <source>Remove history</source>
-        <translation>Odebrat historii</translation>
+        <translation>Odstranit historii</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/historydlg.cpp" line="293"/>
@@ -7712,7 +7714,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httpconnect.cpp" line="325"/>
         <source>Invalid reply</source>
-        <translation>Chybná odpověď</translation>
+        <translation>Neplatná odpověď</translation>
     </message>
 </context>
 <context>
@@ -7740,7 +7742,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="999"/>
         <source>Invalid reply</source>
-        <translation>Chybná odpověď</translation>
+        <translation>Neplatná odpověď</translation>
     </message>
 </context>
 <context>
@@ -7768,7 +7770,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="716"/>
         <source>Invalid reply</source>
-        <translation>Chybná odpověď</translation>
+        <translation>Neplatná odpověď</translation>
     </message>
 </context>
 <context>
@@ -8590,7 +8592,7 @@ hře gomoku. Chce hrát za %2.</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="207"/>
         <source>Remove</source>
-        <translation>Odebrat</translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="208"/>
@@ -8928,7 +8930,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <location filename="../../psi-plus/src/mucconfig.ui" line="108"/>
         <source>Remove</source>
-        <translation>Odebrat</translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/mucconfig.ui" line="116"/>
@@ -9489,7 +9491,7 @@ Detaily: %1</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/model.cpp" line="115"/>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Typ</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/model.cpp" line="116"/>
@@ -9504,12 +9506,12 @@ Detaily: %1</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/model.cpp" line="118"/>
         <source>Created</source>
-        <translation type="unfinished"/>
+        <translation>Vytvořen</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/model.cpp" line="119"/>
         <source>Length</source>
-        <translation type="unfinished"/>
+        <translation>Délka</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/model.cpp" line="120"/>
@@ -9519,12 +9521,12 @@ Detaily: %1</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/model.cpp" line="121"/>
         <source>Algorithm</source>
-        <translation type="unfinished"/>
+        <translation>Algoritmus</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/model.cpp" line="122"/>
         <source>Short ID</source>
-        <translation type="unfinished"/>
+        <translation>Krátké ID</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/model.cpp" line="123"/>
@@ -10186,7 +10188,7 @@ Tagy: %1</translation>
     <message>
         <location filename="../../psi-plus/src/options/opt_chat.ui" line="46"/>
         <source>Switch tab on receiving new messages</source>
-        <translation type="unfinished"/>
+        <translation>Přepnout záložku při příchodu nových zpráv</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_chat.ui" line="53"/>
@@ -10712,7 +10714,7 @@ Tagy: %1</translation>
     <message>
         <location filename="../../psi-plus/src/options/opt_shortcuts.ui" line="75"/>
         <source>Remove</source>
-        <translation>Odebrat</translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_shortcuts.ui" line="82"/>
@@ -11398,7 +11400,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="27"/>
         <source>Manager</source>
-        <translation type="unfinished"/>
+        <translation>Manager</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="51"/>
@@ -11411,7 +11413,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="58"/>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="65"/>
@@ -11426,7 +11428,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="92"/>
         <source>Info</source>
-        <translation type="unfinished"/>
+        <translation>Info</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="102"/>
@@ -11436,17 +11438,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="108"/>
         <source>Auto import a key from the message body</source>
-        <translation type="unfinished"/>
+        <translation>Automaticky importovat klíč z těla zprávy</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="115"/>
         <source>Filter the message with a key</source>
-        <translation type="unfinished"/>
+        <translation>Filtrovat zprávu s klíčem</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="122"/>
         <source>Show Send Public Key button on chat toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Zobrazit tlačítko Poslat veřejný klíč na liště v chatu</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/options.ui" line="39"/>
@@ -11736,18 +11738,18 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="172"/>
         <source>Key pair generating</source>
-        <translation type="unfinished"/>
+        <translation>Generování páru klíčů</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="244"/>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="299"/>
         <source>ASCII (*.asc)</source>
-        <translation type="unfinished"/>
+        <translation>ASCII (*.asc)</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="245"/>
         <source>All files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Všechny soubory (*)</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="398"/>
@@ -12038,7 +12040,7 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <location filename="../../psi-plus/src/options/opt_application.cpp" line="55"/>
         <source>Set or remove window decorations for roster and chats. For chats there are special header with close, hide and maximize buttons</source>
-        <translation>Nastavit nebo odebrat dekorace oken pro seznam kontaktů a chaty. V chatech je speciální titulek okna s tlačítky pro zavření, skrytí a maximalizaci</translation>
+        <translation>Nastavit nebo odstranit dekorace oken pro seznam kontaktů a chaty. V chatech je speciální titulek okna s tlačítky pro zavření, skrytí a maximalizaci</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_application.cpp" line="59"/>
@@ -13554,7 +13556,7 @@ Prosím vlož svou heslovací frázi:</translation>
     <message>
         <location filename="../../psi-plus/src/privacy/privacy.ui" line="163"/>
         <source>Remove</source>
-        <translation>Odebrat</translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/privacy/privacy.ui" line="170"/>
@@ -13748,7 +13750,7 @@ Prosím vlož svou heslovací frázi:</translation>
     <message>
         <location filename="../../psi-plus/src/profilemanage.ui" line="47"/>
         <source>Rem&amp;ove</source>
-        <translation>&amp;Odebrat</translation>
+        <translation>&amp;Odstranit</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/profilemanage.ui" line="50"/>
@@ -14020,7 +14022,7 @@ Zatrhni pole &lt;i&gt;Zapnout Emotikony&lt;/i&gt; pro zobrazení text např. &lt
     <message>
         <location filename="../../psi-plus/src/proxy.ui" line="44"/>
         <source>Rem&amp;ove</source>
-        <translation>&amp;Odebrat</translation>
+        <translation>&amp;Odstranit</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/proxy.ui" line="47"/>
@@ -15196,7 +15198,7 @@ Důvod: %1.</translation>
     <message>
         <location filename="../../psi-plus/src/psichatdlg.cpp" line="227"/>
         <source>Copy user JID</source>
-        <translation type="unfinished"/>
+        <translation>Kopírovat uživatelské JID</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psichatdlg.cpp" line="281"/>
@@ -15600,7 +15602,7 @@ To možná znamená, že je již puštěna jiná instance Psi. To může způsob
     <message>
         <location filename="../../psi-plus/src/psicontactmenu.cpp" line="280"/>
         <source>&amp;Remove</source>
-        <translation>Odeb&amp;rat</translation>
+        <translation>Odst&amp;ranit</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicontactmenu.cpp" line="285"/>
@@ -15854,7 +15856,7 @@ To možná znamená, že je již puštěna jiná instance Psi. To může způsob
     <message>
         <location filename="../../psi-plus/src/psicontactmenu.cpp" line="766"/>
         <source>Remove</source>
-        <translation>Odebrat</translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicontactmenu.cpp" line="767"/>
@@ -18797,7 +18799,7 @@ Zdůvodnění: %1</translation>
         <location filename="../../psi-plus/src/sendbuttontemplateseditor.ui" line="160"/>
         <location filename="../../psi-plus/src/sendbuttonmenu.cpp" line="24"/>
         <source>Remove</source>
-        <translation>Odebrat</translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/sendbuttontemplateseditor.ui" line="193"/>
@@ -18918,7 +18920,7 @@ Zdůvodnění: %1</translation>
     <message>
         <location filename="../../psi-plus/src/serverlistquerier.cpp" line="90"/>
         <source>Invalid redirect URL %1</source>
-        <translation type="unfinished"/>
+        <translation>Neplatná URL pro přesměrováni %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/serverlistquerier.cpp" line="95"/>
@@ -19277,7 +19279,7 @@ Zdůvodnění: %1</translation>
     <message>
         <location filename="../tmp/option_translations.cpp" line="72"/>
         <source>Remove custom avatar from the selected contact</source>
-        <translation>Odebrat vlastní avatar ke zvolenému kontaktu</translation>
+        <translation>Odstranit vlastní avatar ke zvolenému kontaktu</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="73"/>
@@ -19501,12 +19503,12 @@ Zdůvodnění: %1</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/skinsplugin/skinsplugin.ui" line="83"/>
         <source>Remove selected skin</source>
-        <translation>Odebrat zvolený skin</translation>
+        <translation>Odstranit zvolený skin</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/skinsplugin/skinsplugin.ui" line="86"/>
         <source>Remove</source>
-        <translation>Odebrat</translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/skinsplugin/skinsplugin.ui" line="116"/>
@@ -20971,7 +20973,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="358"/>
         <source> change status to </source>
-        <translation> změnit stav na </translation>
+        <translation> mění stav na </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="475"/>
@@ -21509,7 +21511,7 @@ Opravdu zavřít okno?</translation>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="255"/>
         <source>Not acceptable</source>
-        <translation type="unfinished"/>
+        <translation>Nepřípustné</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="255"/>
@@ -21529,7 +21531,7 @@ Opravdu zavřít okno?</translation>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="257"/>
         <source>Not authorized</source>
-        <translation type="unfinished"/>
+        <translation>Neautorizovaný</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="257"/>
@@ -21579,7 +21581,7 @@ Opravdu zavřít okno?</translation>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="262"/>
         <source>Remote server timeout</source>
-        <translation type="unfinished"/>
+        <translation>Vypršel časový limit vzdáleného serveru</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="262"/>
@@ -21589,7 +21591,7 @@ Opravdu zavřít okno?</translation>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="263"/>
         <source>Resource constraint</source>
-        <translation type="unfinished"/>
+        <translation>Omezení zdroje</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="263"/>
@@ -21609,7 +21611,7 @@ Opravdu zavřít okno?</translation>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="265"/>
         <source>Subscription required</source>
-        <translation type="unfinished"/>
+        <translation>Vyžadována registrace</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="265"/>
@@ -21619,7 +21621,7 @@ Opravdu zavřít okno?</translation>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="266"/>
         <source>Undefined condition</source>
-        <translation type="unfinished"/>
+        <translation>Nedefinovaný stav</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="266"/>
@@ -22072,7 +22074,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="247"/>
         <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation>Opravdu odebrat následující otisk prstu?</translation>
+        <translation>Opravdu odstranit následující otisk prstu?</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="248"/>
@@ -22124,7 +22126,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="366"/>
         <source>Delete key</source>
-        <translation>Odebrat klíč</translation>
+        <translation>Smazat klíč</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="396"/>
@@ -22139,7 +22141,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="433"/>
         <source>Are you sure you want to delete the following key?</source>
-        <translation>Opravdu odebrat následující klíč?</translation>
+        <translation>Opravdu smazat následující klíč?</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="434"/>
@@ -22631,7 +22633,7 @@ zprávu v juick@conference.jabber.ru</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.cpp" line="360"/>
         <source>Remove password</source>
-        <translation>Odebrat heslo</translation>
+        <translation>Odstranit heslo</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.cpp" line="364"/>
@@ -22743,7 +22745,7 @@ Opětovné ověření...</translation>
         <source>Can't get files!
 Try remove cookies.</source>
         <translation>Nelze získat soubory!
-Zkus odebrat cookies.</translation>
+Zkus odstranit cookies.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodnetman.cpp" line="318"/>
