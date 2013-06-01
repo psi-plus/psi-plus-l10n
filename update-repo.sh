@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2013-05-28
+# Updated: 2013-06-01
 # Version: N/A
 
 if [[ ${0} =~ ^/.+$ ]]; then
@@ -36,6 +36,10 @@ case "${1}" in
     cd "${CUR_DIR}" || exit 1
     echo "git tag \"${CUR_TAG}\""
     git tag "${CUR_TAG}"
+
+    echo ;
+    echo "Last tags:"
+    git tag | sort -V | tail -n 10
 
 ;;
 "push")
