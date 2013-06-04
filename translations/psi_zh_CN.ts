@@ -56,7 +56,7 @@
         <location filename="../../psi-plus/src/about.ui" line="16"/>
         <location filename="../../psi-plus/src/about.ui" line="70"/>
         <source>About</source>
-        <translation type="unfinished"/>
+        <translation>关于</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/about.ui" line="42"/>
@@ -80,37 +80,37 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../../psi-plus/src/about.ui" line="149"/>
         <source>Authors</source>
-        <translation type="unfinished"/>
+        <translation>作者</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/about.ui" line="165"/>
         <source>Thanks To</source>
-        <translation type="unfinished"/>
+        <translation>致谢</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/about.ui" line="181"/>
         <source>Translation</source>
-        <translation type="unfinished"/>
+        <translation>翻译</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/about.ui" line="206"/>
         <source>License</source>
-        <translation type="unfinished"/>
+        <translation>许可证</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/about.ui" line="226"/>
         <source>About Psi+</source>
-        <translation type="unfinished"/>
+        <translation>关于 Psi+</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/about.ui" line="269"/>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>(&amp;C)关闭</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="50"/>
         <source>Current Maintainer and Original Author</source>
-        <translation type="unfinished"/>
+        <translation>现维护人员与原作者</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="53"/>
@@ -138,7 +138,7 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="78"/>
         <source>Active project members are presents below:</source>
-        <translation type="unfinished"/>
+        <translation>活跃的项目成员如下:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="81"/>
@@ -305,34 +305,36 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
     <message>
         <location filename="../../psi-plus/src/accountadd.ui" line="16"/>
         <source>Add Account</source>
-        <translation type="unfinished"/>
+        <translation>添加账号</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountadd.ui" line="48"/>
         <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
 &lt;br&gt;
 Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing XMPP account then leave this box unchecked.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;请选择一个易于辨别的&lt;b&gt;名字&lt;/b&gt;，Psi 将使用它代表本账号&lt;br&gt;
+&lt;br&gt;
+如果希望在服务器上建立一个新用户，请选中&lt;b&gt;注册新账号&lt;/b&gt;复选框.如果您希望使用的是已经存在的XMPP账户，则不要选中.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountadd.ui" line="73"/>
         <source>Name:</source>
-        <translation type="unfinished"/>
+        <translation>名字:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountadd.ui" line="85"/>
         <source>Register new account</source>
-        <translation type="unfinished"/>
+        <translation>注册新账号</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountadd.ui" line="139"/>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>(&amp;C)关闭</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountadd.ui" line="146"/>
         <source>&amp;Add</source>
-        <translation type="unfinished"/>
+        <translation>(&amp;A)添加</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountadd.ui" line="149"/>
@@ -363,7 +365,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus/src/accountloginpassword.cpp" line="44"/>
         <source>Please enter the password for %1:</source>
-        <translation type="unfinished"/>
+        <translation>请输入 %1 的密码:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountloginpassword.cpp" line="46"/>
