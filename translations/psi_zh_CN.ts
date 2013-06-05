@@ -69,7 +69,9 @@
 &lt;br&gt;
 Copyright © 2001-2013 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="unfinished"/>
+        <translation>为高端用户设计的跨平台 XMPP 客户端.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2013 The Psi Team.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/about.ui" line="122"/>
@@ -184,12 +186,12 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="105"/>
         <source>Ubuntu Packager</source>
-        <translation type="unfinished"/>
+        <translation>Ubuntu 安装包制作者</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="108"/>
         <source>Mandriva Linux Packager</source>
-        <translation type="unfinished"/>
+        <translation>Mandriva Linux 安装包制作者</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="111"/>
@@ -204,7 +206,7 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="120"/>
         <source>OpenSUSE Packager</source>
-        <translation type="unfinished"/>
+        <translation>OpenSUSE 安装包制作者</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="123"/>
@@ -727,38 +729,38 @@ When you enable this option you will not be able to find your password in config
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="107"/>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="114"/>
         <source>Always</source>
-        <translation type="unfinished"/>
+        <translation>必须使用</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="108"/>
         <source>When available</source>
-        <translation type="unfinished"/>
+        <translation>仅当可用时</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="109"/>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="116"/>
         <source>Never</source>
-        <translation type="unfinished"/>
+        <translation>不使用</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="110"/>
         <source>Legacy SSL</source>
-        <translation type="unfinished"/>
+        <translation>旧式 SSL</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="115"/>
         <source>Over encrypted connection</source>
-        <translation type="unfinished"/>
+        <translation>当使用加密连接时</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="131"/>
         <source>Manual</source>
-        <translation type="unfinished"/>
+        <translation>手动</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="132"/>
         <source>Use host name</source>
-        <translation type="unfinished"/>
+        <translation>使用主机名</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="135"/>
@@ -773,7 +775,7 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="160"/>
         <source>Delete current host from the list</source>
-        <translation type="unfinished"/>
+        <translation>从列表中删除当前主机</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="164"/>
@@ -818,42 +820,42 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="239"/>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
-        <translation type="unfinished"/>
+        <translation>Psi 尝试在系统从休眠状态唤醒之后重新连接</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="242"/>
         <source>Makes Psi try to reconnect if the connection was broken.  Useful, if you have an unstable connection and have to reconnect often.</source>
-        <translation type="unfinished"/>
+        <translation>Psi 在连接断开后尝试重新连接. 在您的网络连接不稳定或经常断开时很有用.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="246"/>
         <source>Keep a log of message history.  Disable this option if you want to conserve disk space or if you need maximum security.</source>
-        <translation type="unfinished"/>
+        <translation>保留大量聊天记录.如果您希望节省磁盘空间或者需要最大程度的安全性，则不要选中此项.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="250"/>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
-        <translation type="unfinished"/>
+        <translation>定期发送 &quot;保持在线&quot; 的数据包. 若您的连接在一定时间内没有交互操作就会被自动断开(例如:宽带提供商为节省资源所为)，或者希望一直在线，则此选项可以帮助您.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="256"/>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation type="unfinished"/>
+        <translation>选中此项，则使用加密的 SSL 通道连接到 XMPP 服务器. 如果您的服务器支持，或者已经安装了 qca-ossl 插件则可选中此项.更多信息请参考 Psi 主页.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="262"/>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
-        <translation type="unfinished"/>
+        <translation>选中此项，则在服务器支持时使用压缩通道连接到 XMPP 服务器.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="265"/>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
-        <translation type="unfinished"/>
+        <translation>如果您账号中的主机段与实际连接的 XMPP 主机不同，则选中此项手动配置主机信息.当您通过代理连接(例如连接到本机的代理软件)但实际上账号是在其他服务器上注册时，需要此设定.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="271"/>
         <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
-        <translation type="unfinished"/>
+        <translation>您可以使用不同客户端以一个账号登录到 XMPP 服务器. 每次登录必须通过不同的&quot;资源&quot;名称加以区分，您可在此指定此域值.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="275"/>
@@ -863,7 +865,7 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="279"/>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;您可以使用不同客户端以一个账号登录到 XMPP 服务器. 此时，高优先级的客户端(此域值指定的)将接收所有的消息.&lt;/p&gt;&lt;p&gt;比如您在办公地点有一个低优先级但一直连接的客户端，那么您在家上网时，就可以使用一个高优先级的连接来临时禁用办公地点的客户端.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="299"/>
@@ -885,17 +887,17 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="425"/>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="unfinished"/>
+        <translation>旧式 SSL 仅在手动设定主机/端口时可用.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="433"/>
         <source>SSL error</source>
-        <translation type="unfinished"/>
+        <translation>SSL 错误</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="433"/>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation type="unfinished"/>
+        <translation>无法启用 SSL/TLS. 相关插件未找到.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="460"/>
@@ -910,52 +912,52 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="520"/>
         <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;i&gt;XMPP 地址&lt;/i&gt; 必须符合 &lt;i&gt;用户名@主机&lt;/i&gt; 格式.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="596"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>警告</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="597"/>
         <source>This account is currently active, so certain changes may not take effect until the next login.</source>
-        <translation type="unfinished"/>
+        <translation>此账号当前已经连接，相关更改在下次登陆前可能不会生效.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="599"/>
         <source>Reconnect &amp;Later</source>
-        <translation type="unfinished"/>
+        <translation>(&amp;L)稍后重连</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="600"/>
         <source>Reconnect &amp;Now</source>
-        <translation type="unfinished"/>
+        <translation>(&amp;N)立即重连</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="630"/>
         <source>Block contact</source>
-        <translation type="unfinished"/>
+        <translation>屏蔽联系人</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="630"/>
         <source>Enter the XMPP Address of the contact to block:</source>
-        <translation type="unfinished"/>
+        <translation>输入希望屏蔽的 XMPP 联系人地址:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="661"/>
         <source>Retrieving blocked contact list ...</source>
-        <translation type="unfinished"/>
+        <translation>接收屏蔽联系人列表 ...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="670"/>
         <source>You are not connected.</source>
-        <translation type="unfinished"/>
+        <translation>您尚未连接.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="699"/>
         <source>Your server does not support blocking.</source>
-        <translation type="unfinished"/>
+        <translation>您的服务器不支持屏蔽联系人.</translation>
     </message>
 </context>
 <context>
@@ -963,52 +965,52 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus/src/accountreg.ui" line="13"/>
         <source>Register Account</source>
-        <translation type="unfinished"/>
+        <translation>注册账号</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountreg.ui" line="38"/>
         <source>Server</source>
-        <translation type="unfinished"/>
+        <translation>服务器</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountreg.ui" line="50"/>
         <source>Please enter the name of the server you wish to register with:</source>
-        <translation type="unfinished"/>
+        <translation>请输入您希望在此服务器上注册的用户名:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountreg.ui" line="76"/>
         <source>Example: capulet.com</source>
-        <translation type="unfinished"/>
+        <translation>例如: capulet.com</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountreg.ui" line="86"/>
         <source>Connection settings</source>
-        <translation type="unfinished"/>
+        <translation>连接设定</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountreg.ui" line="98"/>
         <source>Manually Specify Server Host/Port:</source>
-        <translation type="unfinished"/>
+        <translation>手动指定服务器主机/端口:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountreg.ui" line="113"/>
         <source>Host:</source>
-        <translation type="unfinished"/>
+        <translation>主机:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountreg.ui" line="123"/>
         <source>Port:</source>
-        <translation type="unfinished"/>
+        <translation>端口:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountreg.ui" line="156"/>
         <source>Encrypt connection:</source>
-        <translation type="unfinished"/>
+        <translation>加密连接:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountreg.ui" line="192"/>
         <source>Proxy:</source>
-        <translation type="unfinished"/>
+        <translation>代理:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountreg.ui" line="199"/>
@@ -1018,12 +1020,12 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus/src/accountreg.ui" line="269"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>(&amp;C)取消</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountreg.ui" line="276"/>
         <source>&amp;Next</source>
-        <translation type="unfinished"/>
+        <translation>(&amp;N)下一步</translation>
     </message>
 </context>
 <context>
@@ -1031,37 +1033,37 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="63"/>
         <source>Always</source>
-        <translation type="unfinished"/>
+        <translation>必须使用</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="64"/>
         <source>When available</source>
-        <translation type="unfinished"/>
+        <translation>仅当可用时</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="65"/>
         <source>Legacy SSL</source>
-        <translation type="unfinished"/>
+        <translation>旧式 SSL</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="107"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>警告</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="107"/>
         <source>Are you sure you want to cancel the registration?</source>
-        <translation type="unfinished"/>
+        <translation>是否确定放弃注册?</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="107"/>
         <source>&amp;Yes</source>
-        <translation type="unfinished"/>
+        <translation>(&amp;Y)是</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="107"/>
         <source>&amp;No</source>
-        <translation type="unfinished"/>
+        <translation>(&amp;N)否</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="121"/>
@@ -1069,27 +1071,27 @@ When you enable this option you will not be able to find your password in config
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="279"/>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="297"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="121"/>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation type="unfinished"/>
+        <translation>旧式 SSL 仅在手动设定主机/端口时可用.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="130"/>
         <source>SSL error</source>
-        <translation type="unfinished"/>
+        <translation>SSL 错误</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="130"/>
         <source>Cannot enable SSL/TLS. QCA2 Plugin not found.</source>
-        <translation type="unfinished"/>
+        <translation>无法启用 SSL/TLS. QCA2 插件未找到.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="169"/>
         <source>There was an error retrieving the server list</source>
-        <translation type="unfinished"/>
+        <translation>接收服务器列表时出错</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="171"/>
@@ -1099,33 +1101,33 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="192"/>
         <source>You have entered an invalid server name</source>
-        <translation type="unfinished"/>
+        <translation>您输入的服务器名称无效</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="271"/>
         <source>Please provide the following information:</source>
-        <translation type="unfinished"/>
+        <translation>请提供下列信息:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="279"/>
         <source>This server does not support registration</source>
-        <translation type="unfinished"/>
+        <translation>此服务器不支持注册</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="289"/>
         <source>Success</source>
-        <translation type="unfinished"/>
+        <translation>成功</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="289"/>
         <source>You have successfully registered your account with XMPP address &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>您已成功注册账号 &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="297"/>
         <source>There was an error registering the account.
 Reason: %1</source>
-        <translation type="unfinished"/>
+        <translation>注册账号时发生错误.原因:%1</translation>
     </message>
 </context>
 <context>
@@ -1134,22 +1136,22 @@ Reason: %1</source>
         <location filename="../../psi-plus/src/accountremove.ui" line="14"/>
         <location filename="../../psi-plus/src/accountremove.ui" line="20"/>
         <source>Remove Account</source>
-        <translation type="unfinished"/>
+        <translation>移除账户</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountremove.ui" line="26"/>
         <source>Remove account from Psi only.</source>
-        <translation type="unfinished"/>
+        <translation>仅从 Psi 中移除账号.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountremove.ui" line="33"/>
         <source>Remove account and try to unregister it from the server.</source>
-        <translation type="unfinished"/>
+        <translation>移除账号并尝试从服务器销号.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountremove.ui" line="42"/>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>密码:</translation>
     </message>
 </context>
 <context>
@@ -1158,62 +1160,62 @@ Reason: %1</source>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="110"/>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="181"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished"/>
+        <translation>(&amp;R)移除</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="143"/>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="179"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>警告</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="143"/>
         <source>Are you sure you want to cancel the unregistration?</source>
-        <translation type="unfinished"/>
+        <translation>是否确定放弃注册?</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="144"/>
         <source>&amp;No</source>
-        <translation type="unfinished"/>
+        <translation>(&amp;N)否</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="145"/>
         <source>&amp;Yes</source>
-        <translation type="unfinished"/>
+        <translation>(&amp;Y)是</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="173"/>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="235"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="173"/>
         <source>Password does not match account.  Please try again.</source>
-        <translation type="unfinished"/>
+        <translation>账号密码不匹配.请重试.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="179"/>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; ?</source>
-        <translation type="unfinished"/>
+        <translation>是否确定移除 &lt;b&gt;%1&lt;/b&gt; ?</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="228"/>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="243"/>
         <source>Success</source>
-        <translation type="unfinished"/>
+        <translation>成功</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="228"/>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="243"/>
         <source>The account was unregistered successfully.</source>
-        <translation type="unfinished"/>
+        <translation>账号成功注销.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="235"/>
         <source>There was an error unregistering the account.
 Reason: %1</source>
-        <translation type="unfinished"/>
+        <translation>注销账号时发生错误.原因:%1</translation>
     </message>
 </context>
 <context>
@@ -1221,17 +1223,17 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/accountstatusmenu.cpp" line="12"/>
         <source>Choose status...</source>
-        <translation type="unfinished"/>
+        <translation>选择状态...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountstatusmenu.cpp" line="12"/>
         <source>Choose...</source>
-        <translation type="unfinished"/>
+        <translation>选择...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountstatusmenu.cpp" line="25"/>
         <source>Reconnect</source>
-        <translation type="unfinished"/>
+        <translation>重连</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountstatusmenu.cpp" line="38"/>
@@ -1268,12 +1270,12 @@ save the history for this contact.</source>
     <message>
         <location filename="../../psi-plus/src/activity.ui" line="13"/>
         <source>User Activity</source>
-        <translation type="unfinished"/>
+        <translation>用户活动</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activity.ui" line="21"/>
         <source>General:</source>
-        <translation type="unfinished"/>
+        <translation>一般:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activity.ui" line="31"/>
@@ -1283,7 +1285,7 @@ save the history for this contact.</source>
     <message>
         <location filename="../../psi-plus/src/activity.ui" line="41"/>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>描述:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activity.ui" line="96"/>
@@ -1293,7 +1295,7 @@ save the history for this contact.</source>
     <message>
         <location filename="../../psi-plus/src/activity.ui" line="103"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -1318,67 +1320,67 @@ save the history for this contact.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="14"/>
         <source>Generate a new key pair</source>
-        <translation type="unfinished"/>
+        <translation>生成新的密钥对</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="20"/>
         <source>Length: </source>
-        <translation type="unfinished"/>
+        <translation>长度: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="27"/>
         <source>Comment: </source>
-        <translation type="unfinished"/>
+        <translation>注释: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="34"/>
         <source>Expiration date: </source>
-        <translation type="unfinished"/>
+        <translation>过期日期: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="98"/>
         <source>RSA and RSA (default)</source>
-        <translation type="unfinished"/>
+        <translation>RSA 和 RSA (默认)</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="103"/>
         <source>DSA and Elgamal</source>
-        <translation type="unfinished"/>
+        <translation>DSA 和 Elgamal</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="108"/>
         <source>DSA (sign only)</source>
-        <translation type="unfinished"/>
+        <translation>DSA (仅签名)</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="113"/>
         <source>RSA (sign only)</source>
-        <translation type="unfinished"/>
+        <translation>RSA (仅签名)</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="121"/>
         <source>Full name: </source>
-        <translation type="unfinished"/>
+        <translation>完整名称: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="128"/>
         <source>Passphrase: </source>
-        <translation type="unfinished"/>
+        <translation>密码: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="135"/>
         <source>E-mail address: </source>
-        <translation type="unfinished"/>
+        <translation>E-mail 地址: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="142"/>
         <source>Key type: </source>
-        <translation type="unfinished"/>
+        <translation>密钥类型: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="152"/>
         <source>Repeat: </source>
-        <translation type="unfinished"/>
+        <translation>重复: </translation>
     </message>
 </context>
 <context>
@@ -1386,22 +1388,22 @@ save the history for this contact.</source>
     <message>
         <location filename="../../psi-plus/src/addurl.ui" line="16"/>
         <source>Add URL</source>
-        <translation type="unfinished"/>
+        <translation>添加地址</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/addurl.ui" line="39"/>
         <source>URL:</source>
-        <translation type="unfinished"/>
+        <translation>地址:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/addurl.ui" line="46"/>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>描述:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/addurl.ui" line="95"/>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>(&amp;C)关闭</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/addurl.ui" line="102"/>
@@ -1419,7 +1421,7 @@ save the history for this contact.</source>
     <message>
         <location filename="../../psi-plus/src/adduser.ui" line="14"/>
         <source>Add Contact</source>
-        <translation type="unfinished"/>
+        <translation>添加好友</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduser.ui" line="38"/>
@@ -1433,7 +1435,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/adduser.ui" line="68"/>
         <source>Service:</source>
-        <translation type="unfinished"/>
+        <translation>服务:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduser.ui" line="76"/>
@@ -1448,12 +1450,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/adduser.ui" line="129"/>
         <source>No description</source>
-        <translation type="unfinished"/>
+        <translation>无描述</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduser.ui" line="147"/>
         <source>Get XMPP Address</source>
-        <translation type="unfinished"/>
+        <translation>获取 XMPP 地址</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduser.ui" line="181"/>
@@ -1463,7 +1465,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/adduser.ui" line="190"/>
         <source>Group:</source>
-        <translation type="unfinished"/>
+        <translation>组:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduser.ui" line="208"/>
@@ -1473,32 +1475,32 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/adduser.ui" line="217"/>
         <source>Nickname (optional):</source>
-        <translation type="unfinished"/>
+        <translation>昵称(可选):</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduser.ui" line="224"/>
         <source>XMPP Address:</source>
-        <translation type="unfinished"/>
+        <translation>XMPP 地址:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduser.ui" line="240"/>
         <source>Request authorization when adding</source>
-        <translation type="unfinished"/>
+        <translation>添加时需要认证</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduser.ui" line="263"/>
         <source>Close window after adding</source>
-        <translation type="unfinished"/>
+        <translation>添加后关闭窗口</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduser.ui" line="304"/>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>(&amp;C)关闭</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduser.ui" line="311"/>
         <source>&amp;Add</source>
-        <translation type="unfinished"/>
+        <translation>(&amp;A)添加</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduser.ui" line="314"/>
@@ -1522,39 +1524,39 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/adduserdlg.cpp" line="123"/>
         <source>Hidden</source>
-        <translation type="unfinished"/>
+        <translation>隐藏</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduserdlg.cpp" line="172"/>
         <location filename="../../psi-plus/src/adduserdlg.cpp" line="176"/>
         <source>Add User: Error</source>
-        <translation type="unfinished"/>
+        <translation>添加用户: 错误</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduserdlg.cpp" line="172"/>
         <source>Please fill in the XMPP address of the person you wish to add.</source>
-        <translation type="unfinished"/>
+        <translation>请填入您希望添加的好友的 XMPP 地址</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduserdlg.cpp" line="176"/>
         <source>The XMPP address you entered is not valid!
 Make sure you enter a fully qualified XMPP address.</source>
-        <translation type="unfinished"/>
+        <translation>您输入的 XMPP 地址无效!确定您输入的是完全限定的 XMPP 地址</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduserdlg.cpp" line="188"/>
         <source>Add User: Success</source>
-        <translation type="unfinished"/>
+        <translation>添加用户: 成功</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduserdlg.cpp" line="188"/>
         <source>Added %1 to your roster.</source>
-        <translation type="unfinished"/>
+        <translation>添加 %1 到您的好友列表中.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduserdlg.cpp" line="288"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>错误</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduserdlg.cpp" line="288"/>
@@ -1591,39 +1593,39 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="272"/>
         <source> sends Attention message to you!</source>
-        <translation type="unfinished"/>
+        <translation>发送&quot;来看看&quot;提醒给您!</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="411"/>
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="493"/>
         <source>Send Attention</source>
-        <translation type="unfinished"/>
+        <translation>发送&quot;来看看&quot;提醒</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="424"/>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>选择音效文件</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="424"/>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>音效 (*.wav)</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="436"/>
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="439"/>
         <source>Attention Plugin</source>
-        <translation type="unfinished"/>
+        <translation>&quot;来看看&quot;插件</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="451"/>
         <source>You sent Attention message to %1</source>
-        <translation type="unfinished"/>
+        <translation>您发送&quot;来看看&quot;消息给 %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="531"/>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>作者: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="532"/>
@@ -1634,7 +1636,7 @@ There was an error getting the Service ID translation information from &quot;%1&
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="533"/>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
-        <translation type="unfinished"/>
+        <translation>此插件用于发送和接收&quot;来看看&quot;等特殊消息.对方客户端必须支持扩展 XEP-0224 (例如: Pidgin,Miranda IM+Nudge 插件)才能正常工作.</translation>
     </message>
 </context>
 <context>
