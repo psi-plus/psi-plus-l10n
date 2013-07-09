@@ -5757,6 +5757,10 @@ For sending commands, normal messages are used, so this plugin will always work 
         <source>Can&apos;t start </source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>GnuPG program not found</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>GrabAreaWidget</name>
@@ -9330,6 +9334,14 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Show Send Public Key button on chat toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redirect to JID:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to delete the selected keys?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14268,6 +14280,14 @@ Password: %5</source>
         <source>Incoming call</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>&lt;b&gt;The following message received from %1 was &lt;i&gt;not&lt;/i&gt; encrypted:&lt;/b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your message was not sent. Either end your private conversation, or restart it.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -14285,6 +14305,21 @@ Password: %5</source>
     </message>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Redirector</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

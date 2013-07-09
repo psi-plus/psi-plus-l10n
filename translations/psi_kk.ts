@@ -4007,7 +4007,7 @@ Proceed?</source>
 <context>
     <name>DateWidget</name>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/datewidget.cpp" line="96"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/datewidget.cpp" line="97"/>
         <source>never</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7215,8 +7215,13 @@ For sending commands, normal messages are used, so this plugin will always work 
 <context>
     <name>GpgProcess</name>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gpgprocess.cpp" line="111"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gpgprocess.cpp" line="158"/>
         <source>Can&apos;t start </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gpgprocess.cpp" line="166"/>
+        <source>GnuPG program not found</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11057,6 +11062,7 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
 <context>
     <name>Options</name>
     <message>
+        <location filename="../../psi-plus/src/plugins/dev/redirectorplugin/options.ui" line="14"/>
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/options.ui" line="14"/>
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/options.ui" line="14"/>
         <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/options.ui" line="14"/>
@@ -11067,6 +11073,11 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="14"/>
         <source>Form</source>
         <translation type="unfinished">Форма</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/dev/redirectorplugin/options.ui" line="22"/>
+        <source>Redirect to JID:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/options.ui" line="22"/>
@@ -11364,6 +11375,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/options.ui" line="39"/>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="130"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="224"/>
         <source>Delete</source>
         <translation type="unfinished">Өшіру</translation>
     </message>
@@ -11650,18 +11662,23 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="244"/>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="299"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="224"/>
+        <source>Do you want to delete the selected keys?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="250"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="305"/>
         <source>ASCII (*.asc)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="245"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="251"/>
         <source>All files (*)</source>
         <translation type="unfinished">Барлық файлдар (*)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="398"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="412"/>
         <source>GnuPG info</source>
         <translation type="unfinished"></translation>
     </message>
@@ -16225,22 +16242,22 @@ Proceed?</source>
         <translation>Түрлі</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="86"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="106"/>
         <source>No certificate presented.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="91"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="111"/>
         <source>Hostname mismatch.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="94"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="114"/>
         <source>Invalid Certificate.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="123"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="143"/>
         <source>General validation error.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17481,67 +17498,77 @@ Description: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="143"/>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="160"/>
         <source>Encrypting message to %1 failed.
 The message was not sent.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="593"/>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="647"/>
         <source>plaintext</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="597"/>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="651"/>
         <source>encrypted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="601"/>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="655"/>
         <source>finished</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="604"/>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="658"/>
         <source>unknown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="771"/>
-        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="803"/>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="837"/>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="869"/>
         <source>Psi OTR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="772"/>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="838"/>
         <source>Generating keys for account &quot;%1&quot;.
 This may take a while.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="779"/>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="845"/>
         <source>Please wait...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="789"/>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="855"/>
         <source>Ok</source>
         <translation type="unfinished">ОК</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="795"/>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="861"/>
         <source>Fingerprint for account &quot;%1&quot;:
 %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="804"/>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="870"/>
         <source>Failed to generate keys for account &quot;%1&quot;.
 The OTR Plugin will not work.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="933"/>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="923"/>
+        <source>&lt;b&gt;The following message received from %1 was &lt;i&gt;not&lt;/i&gt; encrypted:&lt;/b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="931"/>
+        <source>Your message was not sent. Either end your private conversation, or restart it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="1044"/>
         <source>You have received a new fingerprint from %1:
 %2</source>
         <translation type="unfinished"></translation>
@@ -18016,6 +18043,24 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/qipxstatusesplugin/qipxstatusesplugin.cpp" line="344"/>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Redirector</name>
+    <message>
+        <location filename="../../psi-plus/src/plugins/dev/redirectorplugin/redirectplugin.cpp" line="122"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/dev/redirectorplugin/redirectplugin.cpp" line="123"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/dev/redirectorplugin/redirectplugin.cpp" line="124"/>
+        <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -19795,23 +19840,23 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
 <context>
     <name>TestDlg</name>
     <message>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="203"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="223"/>
         <source>XMPP Test</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="223"/>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="322"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="243"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="342"/>
         <source>&amp;Connect</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="290"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="310"/>
         <source>About %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="290"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="310"/>
         <source>%1 v1.0
 
 Utility to demonstrate the Iris XMPP library.
@@ -19824,82 +19869,82 @@ Copyright (C) 2003 Justin Karneges</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="336"/>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="346"/>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="350"/>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="358"/>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="383"/>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="393"/>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="398"/>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="478"/>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="492"/>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="500"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="356"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="366"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="370"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="378"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="403"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="413"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="418"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="498"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="512"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="520"/>
         <source>Error</source>
         <translation type="unfinished">Қате</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="336"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="356"/>
         <source>Please enter the Full JID to connect with.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="346"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="366"/>
         <source>You must specify a host:port for the proxy.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="350"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="370"/>
         <source>You must at least enter a URL to use http poll.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="358"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="378"/>
         <source>Please enter the proxy host in the form &apos;host:port&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="383"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="403"/>
         <source>Please enter the host in the form &apos;host:port&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="393"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="413"/>
         <source>Error: SSF Min is greater than SSF Max.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="398"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="418"/>
         <source>Error: TLS not available.  Disable any TLS options.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="423"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="443"/>
         <source>&amp;Disconnect</source>
         <translation type="unfinished">Байланысты ү&amp;зу</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="478"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="498"/>
         <source>Bad XML input (%1,%2): %3
 Please correct and try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="492"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="512"/>
         <source>Bad Stanza &apos;%1&apos;.  Must be &apos;message&apos;, &apos;presence&apos;, or &apos;iq&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="500"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="520"/>
         <source>You must enter at least one stanza!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="655"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="675"/>
         <source>Password</source>
         <translation type="unfinished">Пароль</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="655"/>
+        <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="675"/>
         <source>Enter the password for %1</source>
         <translation type="unfinished"></translation>
     </message>
