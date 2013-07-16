@@ -7,7 +7,7 @@
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="42"/>
         <location filename="../../psi-plus/src/translationmanager.cpp" line="161"/>
         <source>language_name</source>
-        <translation type="unfinished"></translation>
+        <translation>English</translation>
     </message>
 </context>
 <context>
@@ -3270,14 +3270,12 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>and %n contacts </source>
         <translation type="unfinished">
             <numerusform></numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus/src/contactlistutil.cpp" line="92"/>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -17407,14 +17405,12 @@ Description: </source>
         <source>%n day(s) </source>
         <translation type="unfinished">
             <numerusform></numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="289"/>
         <source>%n hour(s) </source>
         <translation type="unfinished">
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -17423,14 +17419,12 @@ Description: </source>
         <source>%n minute(s) </source>
         <translation type="unfinished">
             <numerusform></numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="295"/>
         <source>%n second(s) </source>
         <translation type="unfinished">
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -18152,7 +18146,6 @@ Reason: %1</source>
 </source>
         <translation type="unfinished">
             <numerusform></numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -18642,7 +18635,6 @@ Reason: %1</source>
         <location filename="../../psi-plus/src/searchdlg.cpp" line="497"/>
         <source>Added %n users to your roster.</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -20403,7 +20395,7 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../../psi-plus/src/translationmanager.cpp" line="35"/>
         <source>language_name</source>
-        <translation type="unfinished"></translation>
+        <translation>English</translation>
     </message>
 </context>
 <context>
