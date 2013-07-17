@@ -4985,12 +4985,12 @@ Ako želite da prihvtite ovaj zahtev, molimo pritisnite Confirm dugme. U suprotn
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="296"/>
         <source>Automatically capitalize the first letter in a sentence</source>
-        <translation type="unfinished"/>
+        <translation>Automatski prvo slovo u rečenici</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="297"/>
         <source>Automatically scroll down the log when a message was sent</source>
-        <translation type="unfinished"/>
+        <translation>Automatski pomera dole log kada je poslata poruka</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="298"/>
@@ -5072,7 +5072,8 @@ Ako želite da prihvtite ovaj zahtev, molimo pritisnite Confirm dugme. U suprotn
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="353"/>
         <source>Automatically open the configuration dialog when a new room is created.
 This option only has effect if accept-defaults is false.</source>
-        <translation type="unfinished"/>
+        <translation>Automatski otvara konfiguracioni dijalog kada je nova soba kreirana
+Ova opcija jedino ima efekta ako je podrazumevani pristup na false.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="370"/>
@@ -5317,7 +5318,7 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="573"/>
         <source>Text color for &quot;unread&quot; events on tabs:</source>
-        <translation type="unfinished"/>
+        <translation>Boja teksta za &quot;nepročitane&quot; događaje na karticama:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="591"/>
@@ -6207,7 +6208,7 @@ Reason: %1</translation>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1553"/>
         <source>This room has been destroyed.</source>
-        <translation type="unfinished"/>
+        <translation>Ova soba je uništena.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1557"/>
@@ -6223,7 +6224,7 @@ Reason: %1</translation>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1564"/>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1570"/>
         <source>Room Destroyed</source>
-        <translation type="unfinished"/>
+        <translation>Soba uništena</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1589"/>
@@ -6243,12 +6244,12 @@ Reason: %1</translation>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1591"/>
         <source>%1 has been banned</source>
-        <translation type="unfinished"/>
+        <translation>%1 je zabranjen</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1592"/>
         <source>%1 has been banned by %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 je zabranjeno od %2</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1597"/>
@@ -6334,7 +6335,7 @@ Reason: %1</translation>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1697"/>
         <source>The topic has been set to</source>
-        <translation type="unfinished"/>
+        <translation>Tema je postavljena na</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1700"/>
@@ -8099,7 +8100,14 @@ The plugin has a number of simple settings that can help you:
 * set the max count of messages by contact
 * disable the message for the active window/tab
 * disable messages for contacts that are not in your roster</source>
-        <translation type="unfinished"/>
+        <translation>Ovaj dodatak je dizajniran da pomogne transfer kontakata sa ICQ na Jabber.
+Ovaj dodatak ima jednostavna podešavanja da vam pomognu:
+* podešavanje posebne tekstualne poruke
+* isključjuje određene ICQ brojeve
+* podešava vremenski interval posle ćega će poruka biti ponovo poslata
+* podešava maksimalni broj poruka po kontaktu
+* onemogućuje poruku za aktivni prozor/karticu
+* onemogućuje poruke za kontakte koji nisu na vašem spisku</translation>
     </message>
 </context>
 <context>
@@ -8164,7 +8172,9 @@ The plugin has a number of simple settings that can help you:
         <source>This plugin is designed to send images to roster contacts.
 Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="unfinished"/>
+        <translation>Ovaj dodatak je dizajniran da šalje slike kontaktima sa spiska.
+Vaš klijent kontakata mora biti podržan od XEP-0071: XHTML-IM i podržava podatke:URI šema.
+Napomena: Da bi radili ispravno, opcija options.ui.chat.central-toolbar mora biti podešena na true.</translation>
     </message>
 </context>
 <context>
@@ -8531,13 +8541,15 @@ na raspolaganju</translation>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/invitedialog.cpp" line="83"/>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation type="unfinished"/>
+        <translation>Igrač %1 poziva vas 
+da igrate šah. On želi da igra %2.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/invatedialog.cpp" line="85"/>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation type="unfinished"/>
+        <translation>Igrač %1 poziva vas 
+da igrate gomoku. On želi da igra %2.</translation>
     </message>
 </context>
 <context>
@@ -8736,7 +8748,8 @@ to play gomoku. He wants to play %2.</source>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="233"/>
         <source>can't create folder %1 
 caching avatars will be not available</source>
-        <translation type="unfinished"/>
+        <translation>ne možete kreirati folder %1
+keširanje avatara neće biti dostupno</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="625"/>
@@ -8783,7 +8796,13 @@ Currently, the plugin is able to:
 * Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
 
 Note: To work correctly, the option options.html.chat.render	must be set to true. </source>
-        <translation type="unfinished"/>
+        <translation>Ovaj dodatak je dizajniran da radi efikasno i udobno sa Juick microblogging service.
+Trenutno, dodatak je u stanju da:
+* Bojenje @nadimak, *tag i #message_id u porukama sa  juick@juick.com bot
+* Otkrivanje &gt;citata u porukama
+* Omogućava klik na @nick, *tag, #message_id i druge kontrolne elemente da ih ubacite područje za kucanje
+⏎
+Napomena: Da bi radilo ispravno, opcija options.html.chat.render⇥mora biti podešena na true.</translation>
     </message>
 </context>
 <context>
@@ -9005,7 +9024,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <location filename="../../psi-plus/src/mucconfigdlg.cpp" line="210"/>
         <source>Are you absolutely certain you want to destroy this room?</source>
-        <translation type="unfinished"/>
+        <translation>Da li ste apsolutno sigurni da želite uništiti ovu sobu?</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/mucconfigdlg.cpp" line="210"/>
@@ -9020,12 +9039,12 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <location filename="../../psi-plus/src/mucconfigdlg.cpp" line="246"/>
         <source>There was an error retrieving the room configuration</source>
-        <translation type="unfinished"/>
+        <translation>Došlo je do greške kod preuzimanja sobne konfiguracije</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/mucconfigdlg.cpp" line="264"/>
         <source>There was an error changing the room configuration</source>
-        <translation type="unfinished"/>
+        <translation>Došlo je do greške pri promeni sobne konfiguracije</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/mucconfigdlg.cpp" line="308"/>
@@ -9035,7 +9054,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <location filename="../../psi-plus/src/mucconfigdlg.cpp" line="332"/>
         <source>There was an error destroying the room.</source>
-        <translation type="unfinished"/>
+        <translation>Došlo je do greške kod uništavanja sobe.</translation>
     </message>
 </context>
 <context>
@@ -9154,52 +9173,52 @@ Razlog: %1</translation>
     <message>
         <location filename="../../psi-plus/src/mucmanager.cpp" line="558"/>
         <source>You are not allowed to revoke voice from this user.</source>
-        <translation type="unfinished"/>
+        <translation>Nemate odobrenje za poništavanje glasa za ovog korisnika.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/mucmanager.cpp" line="560"/>
         <source>You are not allowed to grant membership to this user.</source>
-        <translation type="unfinished"/>
+        <translation>Nije vam dozvoljeno da odobrite članstvo ovog korisnika.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/mucmanager.cpp" line="562"/>
         <source>You are not allowed to revoke membership from this user.</source>
-        <translation type="unfinished"/>
+        <translation>Nije vam dozvoljeno da ukinete članstvo za ovog korisnika.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/mucmanager.cpp" line="564"/>
         <source>You are not allowed to grant moderator privileges to this user.</source>
-        <translation type="unfinished"/>
+        <translation>Nije vam dozvoljeno da odobrite moderatorske privilegije za ovog korisnika.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/mucmanager.cpp" line="566"/>
         <source>You are not allowed to revoke moderator privileges from this user.</source>
-        <translation type="unfinished"/>
+        <translation>Nije vam dozvoljeno da ukinete moderatorske privilegije za ovog korisnika.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/mucmanager.cpp" line="568"/>
         <source>You are not allowed to grant administrative privileges to this user.</source>
-        <translation type="unfinished"/>
+        <translation>Nije vam dozvoljeno da odobrite administrativne privilegije za ovog korisnika.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/mucmanager.cpp" line="570"/>
         <source>You are not allowed to revoke administrative privileges from this user.</source>
-        <translation type="unfinished"/>
+        <translation>Nije vam dozvoljeno da ukinete administrativne privilegije za ovog korisnika.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/mucmanager.cpp" line="572"/>
         <source>You are not allowed to grant ownership privileges to this user.</source>
-        <translation type="unfinished"/>
+        <translation>Nije vam omogućeno da odobrite privilegije vlasništva za ovog korisnika.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/mucmanager.cpp" line="574"/>
         <source>You are not allowed to revoke ownership privileges from this user.</source>
-        <translation type="unfinished"/>
+        <translation>Nije vam omogućeno da ukinete vlasničke privilegije za ovog korisnika.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/mucmanager.cpp" line="576"/>
         <source>You are not allowed to perform this operation.</source>
-        <translation type="unfinished"/>
+        <translation>Nije vam dozvoljeno da izvodite ovu operaciju.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/mucmanager.cpp" line="579"/>
@@ -9865,12 +9884,12 @@ Kartice: %1</translation>
     <message>
         <location filename="../../psi-plus/src/options/opt_appearance.ui" line="109"/>
         <source>Specifies the background color for a group name in the main window.</source>
-        <translation type="unfinished"/>
+        <translation>Izbor pozadinske boje za ime grupe u glavnom prozoru.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_appearance.ui" line="112"/>
         <source>Group heading background:</source>
-        <translation type="unfinished"/>
+        <translation>Pozadina naslova:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_appearance.ui" line="119"/>
