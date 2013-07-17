@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2013-06-01
+# Updated: 2013-07-17
 # Version: N/A
 
 if [[ ${0} =~ ^/.+$ ]]; then
@@ -59,7 +59,6 @@ case "${1}" in
 
     mkdir -p out
     mv translations/*.qm out/ || exit 1
-    rm out/psi_en.qm || exit 1
 
 ;;
 "install")
