@@ -1,3 +1,9 @@
+2013-07-17:
+* Script was updated:
+  - small cosmetic changes
+  - do not delete psi_en.qm:
+    English translation is required for some template strings
+
 2013-06-01:
 * Script was updated: more verbose for tag option.
 * comicfans44 is now in Chinese Simplified translation team.
