@@ -1824,7 +1824,7 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location filename="../../psi-plus/src/avcall/avcall.cpp" line="532"/>
         <source>Cannot call without selecting a device.  Do you have a microphone?  Check the Psi options.</source>
-        <translation type="unfinished"/>
+        <translation>Ne možete pozvati bez odabranog uređaja. Da li imate mikrofon? Proverite Psi podešavanja.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/avcall/avcall.cpp" line="695"/>
@@ -2576,7 +2576,9 @@ Da li i dalje želite da zatvorite prozor?</translation>
         <source>This plugin allows you to play chess with your friends.
 The plugin is compatible with a similar plugin for Tkabber.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"/>
+        <translation>Ovaj dodatak omogućava da igrate šah sa prijateljima.
+Ovaj dodatak je kompatibilan sa sličnim dodatkom za Tkabber.
+Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gde god da ste u mogućnosti za logovanje. Da primite prijatelja za igru, možete koristiti stavku kontakt menija ili dugme na traci alata na prozoru razgovora.</translation>
     </message>
 </context>
 <context>
@@ -2976,7 +2978,9 @@ You can preview items before deleting them from your hard drive.</translation>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
 You can specify the version of the client and OS or to select them from the preset list.
 </source>
-        <translation type="unfinished"/>
+        <translation>Ovaj dodatak je namenjen za .zamenu verzije klijenta, njegovo ime i tip operativnog sistema
+Možete navesti verziju klijenta i OS ili odabrati ih sa unapred spremljene liste.
+</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/clientswitcherplugin.cpp" line="999"/>
@@ -3027,7 +3031,10 @@ You can specify the version of the client and OS or to select them from the pres
 Conferences logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with conference.
 
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="unfinished"/>
+        <translation>Ovaj dodatak je dizajniran da sačuva logove konferencije u kojoj se nalazi Psi+ korisnik.
+Konferencijski logovi se mogu videti preko podešavanja dodatka ili klikom na dugme na traci alata u aktivnom prozoru/kartici sa konferencije.
+
+Napomena: Da bi radila ispravno, opcija options.ui.chat.central-toolbar mora biti podešena na true.</translation>
     </message>
 </context>
 <context>
@@ -5433,7 +5440,10 @@ This option only has effect if accept-defaults is false.</source>
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
 Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
-        <translation type="unfinished"/>
+        <translation>Ovaj dodatak je dizajniran da dozvoli laku konfiguraciju nekih naprednih opcija u  Psi+.
+Ovaj dodatak daje pristup za napredne opcije, koje nemaju na grafičkom interfejsu za korisnike.
+
+Važno: veliki deo opcija su važna sistemska podešavanja. One zahtevaju veliku pažnju i obazrivost prilikom promene opcija.</translation>
     </message>
 </context>
 <context>
@@ -6160,18 +6170,18 @@ Reason: %1</translation>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1478"/>
         <source>%1 has joined the room</source>
-        <translation type="unfinished"/>
+        <translation>%1 se pridružio u sobu</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1482"/>
         <source>%3 has joined the room as %1 and %2</source>
-        <translation type="unfinished"/>
+        <translation>%3 se pridružio u sobu kao %1 i %2</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1485"/>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1489"/>
         <source>%2 has joined the room as %1</source>
-        <translation type="unfinished"/>
+        <translation>%2 se pridružio u sobu kao %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1498"/>
@@ -6867,7 +6877,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus/src/geolocation.ui" line="63"/>
         <source>GPS bearing (direction in which the entity is heading to reach its next waypoint), measured in decimal degrees relative to true north</source>
-        <translation type="unfinished"/>
+        <translation>GPS pravac (pravac u kome entitet ide da dostigne svoju sledeću tačku), meren u decimalima u odnosu na pravi sever</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/geolocation.ui" line="70"/>
@@ -6907,7 +6917,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus/src/geolocation.ui" line="119"/>
         <source>A natural-language name for or description of the location</source>
-        <translation type="unfinished"/>
+        <translation>Ime prirodnog jezika za opis lokacije</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/geolocation.ui" line="126"/>
@@ -6937,7 +6947,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus/src/geolocation.ui" line="161"/>
         <source>Latitude in decimal degrees North</source>
-        <translation type="unfinished"/>
+        <translation>Širina u decimalnim stepenima Sever</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/geolocation.ui" line="168"/>
@@ -6947,7 +6957,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus/src/geolocation.ui" line="175"/>
         <source>A locality within the administrative region, such as a town or city</source>
-        <translation type="unfinished"/>
+        <translation>Lokalitet u okviru administrativne regije, kao što je varoš ili grad</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/geolocation.ui" line="182"/>
@@ -6957,7 +6967,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus/src/geolocation.ui" line="189"/>
         <source>Longitude in decimal degrees East</source>
-        <translation type="unfinished"/>
+        <translation>Dužina u decimalnim stepenima Istok</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/geolocation.ui" line="196"/>
@@ -6977,7 +6987,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus/src/geolocation.ui" line="217"/>
         <source>An administrative region of the nation, such as a state or province</source>
-        <translation type="unfinished"/>
+        <translation>Administrativni region nacije, kao što su država ili pokrajina</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/geolocation.ui" line="224"/>
@@ -6997,7 +7007,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus/src/geolocation.ui" line="245"/>
         <source>A thoroughfare within the locality, or a crossing of two thoroughfares</source>
-        <translation type="unfinished"/>
+        <translation>Saobraćajnica na lokalitetu ili ukrštanja dve saobraćajnice</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/geolocation.ui" line="252"/>
@@ -7007,7 +7017,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus/src/geolocation.ui" line="259"/>
         <source>A catch-all element that captures any other information about the location</source>
-        <translation type="unfinished"/>
+        <translation>Sveobuhvatni element koji sadrži bilo koju drugu informaciju o lokaciji</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/geolocation.ui" line="283"/>
@@ -7165,7 +7175,7 @@ Napomena: Ovaj dodatak provera  vaš Inbox folder u vašem Gmailbox-u za nove po
     <message>
         <location filename="../../psi-plus/src/plugins/unix/gnome3supportplugin/gnome3supportplugin.cpp" line="136"/>
         <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
-        <translation type="unfinished"/>
+        <translation>Ovaj dodatak  je dizajniran da doda podršku za GNOME 3 statusne promene</translation>
     </message>
 </context>
 <context>
@@ -7222,7 +7232,8 @@ Napomena: Ovaj dodatak provera  vaš Inbox folder u vašem Gmailbox-u za nove po
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/gomokugameplugin.cpp" line="291"/>
         <source>This plugin allows you to play gomoku with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"/>
+        <translation>Ovaj dodatak omogućava da igrate gomoku sa prijateljima.
+Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gde god da ste u mogućnosti za logovanje. Da primite prijatelja za igru, možete koristiti stavku kontakt menija ili dugme na traci alata na prozoru razgovora.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/gomokugameplugin.cpp" line="318"/>
@@ -7591,7 +7602,8 @@ For sending commands, normal messages are used, so this plugin will always work 
         <location filename="../../psi-plus/src/plugins/generic/historykeeperplugin/historykeeperplugin.cpp" line="287"/>
         <source>This plugin is designed to remove the history of selected contacts when the Psi+ is closed.
 You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
-        <translation type="unfinished"/>
+        <translation>Ovaj dodatak je dizajniran da ukloni istoriju odabranih kontakata kada je Psi+ zatvoren.
+Možete odabrati ili ukloniti kontakt za istoriju preko menija kontakata ili preko opcija dodatka.</translation>
     </message>
 </context>
 <context>
@@ -15524,7 +15536,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../../psi-plus/src/psicon.cpp" line="1931"/>
         <source>You need to set up an account to start. Would you like to register a new account, or use an existing account?</source>
-        <translation type="unfinished"/>
+        <translation>Potrebno je da podesite vaš nalog na početku. Da li želite da registrujete novi nalog ili da koristite postojeći?</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicon.cpp" line="1932"/>
