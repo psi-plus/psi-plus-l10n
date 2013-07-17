@@ -3,10 +3,8 @@
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2013-07-17
+# Updated: 2013-06-01
 # Version: N/A
-
-set -e
 
 if [[ ${0} =~ ^/.+$ ]]; then
     export CUR_DIR="$(dirname ${0})"
@@ -17,25 +15,25 @@ fi
 export MAIN_DIR="${CUR_DIR}/.."
 export PSIPLUS_DIR="${MAIN_DIR}/psi-plus"
 
-cd "${CUR_DIR}"
+cd "${CUR_DIR}" || exit 1
 
 case "${1}" in
 "up")
 
-    git pull --all
+    git pull --all || exit 1
 
 ;;
 "cm")
 
-    git commit -a -m 'Translations were updated from Transifex.'
+    git commit -a -m 'Translations were updated from Transifex.' || exit 1
 
 ;;
 "tag")
 
-    cd "${PSIPLUS_DIR}"
+    cd "${PSIPLUS_DIR}" || exit 1
     CUR_TAG="$(git tag -l  | sort -r -V | head -n1)"
 
-    cd "${CUR_DIR}"
+    cd "${CUR_DIR}" || exit 1
     echo "git tag \"${CUR_TAG}\""
     git tag "${CUR_TAG}"
 
@@ -46,8 +44,8 @@ case "${1}" in
 ;;
 "push")
 
-    git push
-    git push --tags
+    git push || exit 1
+    git push --tags || exit 1
 
 ;;
 "make")
@@ -60,7 +58,8 @@ case "${1}" in
     lrelease ./translations.pro
 
     mkdir -p out
-    mv translations/*.qm out/
+    mv translations/*.qm out/ || exit 1
+    rm out/psi_en.qm || exit 1
 
 ;;
 "install")
@@ -71,7 +70,7 @@ case "${1}" in
     fi
 
     mkdir -p /usr/share/psi-plus/translations/
-    cp out/*.qm /usr/share/psi-plus/translations/
+    cp out/*.qm /usr/share/psi-plus/translations/ || exit 1
 
 ;;
 "tarball")
@@ -79,10 +78,10 @@ case "${1}" in
     CUR_TAG="$(git tag -l  | sort -r -V | head -n1)"
 
     rm -rf psi-plus-translations-*
-    mkdir psi-plus-translations-${CUR_TAG}
-    cp out/*.qm psi-plus-translations-${CUR_TAG}
+    mkdir psi-plus-translations-${CUR_TAG} || exit 1
+    cp out/*.qm psi-plus-translations-${CUR_TAG} || exit 1
 
-    tar -cJf psi-plus-translations-${CUR_TAG}.tar.xz psi-plus-translations-${CUR_TAG}
+    tar -cJf psi-plus-translations-${CUR_TAG}.tar.xz psi-plus-translations-${CUR_TAG} || exit 1
     echo "Tarball with precompiled translation files is ready for upload:"
     echo "https://code.google.com/p/psi-dev/downloads/list?q=label:Translations"
     echo "Summary:"
@@ -94,35 +93,35 @@ case "${1}" in
 "tr")
 
     # Test Internet connection:
-    host transifex.com > /dev/null
+    host transifex.com > /dev/null || exit 1
 
-    git status
+    git status || exit 1
 
     LANG_DIR="${CUR_DIR}/translations"
 
-    cd "${MAIN_DIR}/psi-plus-l10n_transifex"
-    tx pull -a -s
+    cd "${MAIN_DIR}/psi-plus-l10n_transifex" || exit 1
+    tx pull -a -s || exit 1
 
-    cd "translations/psi-plus.full/"
+    cd "translations/psi-plus.full/" || exit 1
     cp *.ts "${LANG_DIR}/"
 
-    cd "${CUR_DIR}"
-    git status
+    cd "${CUR_DIR}" || exit 1
+    git status || exit 1
 
 ;;
 "tr_up")
 
-    git status
+    git status || exit 1
 
     if [ -d "${PSIPLUS_DIR}" ]; then
         echo "Updating ${PSIPLUS_DIR}"
         cd "${PSIPLUS_DIR}"
-        git pull --all
+        git pull --all || exit 1
         echo;
     else
         echo "Creating ${PSIPLUS_DIR}"
         cd "${MAIN_DIR}"
-        git clone git://github.com/tehnick/psi-plus.git
+        git clone git://github.com/tehnick/psi-plus.git || exit 1
         echo;
     fi
 
@@ -132,9 +131,9 @@ case "${1}" in
     mkdir tmp
     cd tmp/
 
-    cp "${PSIPLUS_DIR}/src/patches/mac/3030-psi-mac-sparkle.diff" ./
-    cp "${PSIPLUS_DIR}/src/psiactionlist.cpp" ./
-    cp "${PSIPLUS_DIR}/src/mainwin.cpp" ./
+    cp "${PSIPLUS_DIR}/src/patches/mac/3030-psi-mac-sparkle.diff" ./ || exit 1
+    cp "${PSIPLUS_DIR}/src/psiactionlist.cpp" ./ || exit 1
+    cp "${PSIPLUS_DIR}/src/mainwin.cpp" ./ || exit 1
     patch -f -p2 < 3030-psi-mac-sparkle.diff > /dev/null
 
     cd "${PSIPLUS_DIR}/src"
@@ -165,24 +164,24 @@ case "${1}" in
 
     lupdate -verbose ./translations.pro
 
-    git status
+    git status || exit 1
 
 ;;
 "tr_cl")
 
-    git status
+    git status || exit 1
 
     lupdate -verbose -no-obsolete ./translations.pro
 
-    git status
+    git status || exit 1
 
 ;;
 "tr_push")
 
     LANG_DIR="${MAIN_DIR}/psi-plus-l10n_transifex/translations/psi-plus.full"
-    cd "${LANG_DIR}"
+    cd "${LANG_DIR}" || exit 1
 
-    cd "${CUR_DIR}/translations/"
+    cd "${CUR_DIR}/translations/" || exit 1
     cp *.ts "${LANG_DIR}/"
 
     cd "${MAIN_DIR}/psi-plus-l10n_transifex/"
@@ -190,11 +189,11 @@ case "${1}" in
         echo "<arg> is not specified!"
         exit 1
     elif [ "${2}" = "src" ] ; then
-        tx push -s
+        tx push -s || exit 1
     elif [ "${2}" = "all" ] ; then
-        tx push -s -t
+        tx push -s -t || exit 1
     else
-        tx push -t -l ${2}
+        tx push -t -l ${2} || exit 1
     fi
 
 ;;
@@ -207,19 +206,19 @@ case "${1}" in
         echo "Creating ${MAIN_DIR}/psi-plus-l10n_transifex"
         mkdir -p "${MAIN_DIR}/psi-plus-l10n_transifex/.tx"
         cp "transifex.config" "${MAIN_DIR}/psi-plus-l10n_transifex/.tx/config"
-        cd "${MAIN_DIR}/psi-plus-l10n_transifex"
-        tx pull -a -s
+        cd "${MAIN_DIR}/psi-plus-l10n_transifex" || exit 1
+        tx pull -a -s || exit 1
     fi
 
 ;;
 "tr_sync")
 
-    "${0}" up > /dev/null
-    "${0}" tr > /dev/null
+    "${0}" up > /dev/null || exit 1
+    "${0}" tr > /dev/null || exit 1
 
     if [ "$(git status | grep 'translations/' | wc -l)" -gt 0 ]; then
-        "${0}" cm
-        "${0}" push
+        "${0}" cm || exit 1
+        "${0}" push || exit 1
     fi
     echo ;
 ;;
