@@ -279,7 +279,7 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="183"/>
         <source>Sponsor (Summer of Code)</source>
-        <translation type="unfinished"/>
+        <translation>Sponzor  (Summer of Code)</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="188"/>
@@ -1363,7 +1363,7 @@ save the history for this contact.</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="128"/>
         <source>Passphrase: </source>
-        <translation type="unfinished"/>
+        <translation>Lozinka:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="135"/>
@@ -6104,7 +6104,7 @@ Reason: %1</translation>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1087"/>
         <source>Edit Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Izmeni označeno</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1090"/>
@@ -7184,12 +7184,12 @@ Napomena: Ovaj dodatak provera  vaš Inbox folder u vašem Gmailbox-u za nove po
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="103"/>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="104"/>
         <source>e-mail: </source>
-        <translation type="unfinished"/>
+        <translation>e-pošta</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="105"/>
@@ -7199,7 +7199,7 @@ Napomena: Ovaj dodatak provera  vaš Inbox folder u vašem Gmailbox-u za nove po
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="172"/>
         <source>Send GnuPG Public Key</source>
-        <translation type="unfinished"/>
+        <translation>Pošalji GnuPG javni ključ</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="266"/>
@@ -7260,12 +7260,12 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gpgprocess.cpp" line="158"/>
         <source>Can&apos;t start </source>
-        <translation type="unfinished"/>
+        <translation>Ne mogu početi</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gpgprocess.cpp" line="166"/>
         <source>GnuPG program not found</source>
-        <translation type="unfinished"/>
+        <translation>GnuPG program nije pronađen</translation>
     </message>
 </context>
 <context>
@@ -8969,7 +8969,7 @@ Napomena: Da bi radilo ispravno, opcija options.html.chat.render⇥mora biti pod
     <message>
         <location filename="../../psi-plus/src/mucconfig.ui" line="206"/>
         <source>Destroy Room</source>
-        <translation type="unfinished"/>
+        <translation>Uništi sobu</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/mucconfig.ui" line="256"/>
@@ -9002,7 +9002,7 @@ Napomena: Da bi radilo ispravno, opcija options.html.chat.render⇥mora biti pod
     <message>
         <location filename="../../psi-plus/src/mucconfigdlg.cpp" line="160"/>
         <source>Enter the JID of the user:</source>
-        <translation type="unfinished"/>
+        <translation>Unesi JID korisnika:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/mucconfigdlg.cpp" line="185"/>
@@ -9019,7 +9019,7 @@ Napomena: Da bi radilo ispravno, opcija options.html.chat.render⇥mora biti pod
     <message>
         <location filename="../../psi-plus/src/mucconfigdlg.cpp" line="210"/>
         <source>Destroy room</source>
-        <translation type="unfinished"/>
+        <translation>Uništi sobu</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/mucconfigdlg.cpp" line="210"/>
@@ -9575,7 +9575,7 @@ Detalji: %1</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/model.cpp" line="30"/>
         <source>Sounds (if empty default sound will be used)</source>
-        <translation type="unfinished"/>
+        <translation>Zvuci (ako je prazno koristiće se podrazumevani zvuci)</translation>
     </message>
 </context>
 <context>
@@ -11419,7 +11419,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="27"/>
         <source>Manager</source>
-        <translation type="unfinished"/>
+        <translation>Menadžer</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="51"/>
@@ -11452,7 +11452,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="102"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Podešavanja</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="108"/>
@@ -11761,7 +11761,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="224"/>
         <source>Do you want to delete the selected keys?</source>
-        <translation type="unfinished"/>
+        <translation>Da li želite da uklonite odabrane ključeve?</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="250"/>
@@ -11848,7 +11848,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.cpp" line="53"/>
         <source>Enables the sending of events when you end or suspend a conversation</source>
-        <translation type="unfinished"/>
+        <translation>Omogućava slanje događaja kada prekinete ili suspendujete razgovor</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.cpp" line="56"/>
@@ -11873,7 +11873,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.cpp" line="64"/>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation type="unfinished"/>
+        <translation>Ako je omogućeno, Psi će prikazivati dolazne poruke oblikovane kako je odredio kontakt</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.cpp" line="66"/>
@@ -11979,7 +11979,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_appearance.cpp" line="224"/>
         <source>Selects a font for the roster window using the font selection dialog.</source>
-        <translation type="unfinished"/>
+        <translation>Izbor fonta za roster prozor putem dijaloga za izbor fonta.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_appearance.cpp" line="226"/>
@@ -12063,7 +12063,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_application.cpp" line="55"/>
         <source>Set or remove window decorations for roster and chats. For chats there are special header with close, hide and maximize buttons</source>
-        <translation type="unfinished"/>
+        <translation>Podesi ili ukloni dekoraciju prozora za roster i razgovore. Za razgovore postoji posebno zaglavlje sa zatvori, sakrij i maksimizuj.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_application.cpp" line="59"/>
@@ -12257,7 +12257,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_events.cpp" line="57"/>
         <source>What kind of animation should psi use for incoming event icons on the main window?</source>
-        <translation type="unfinished"/>
+        <translation>Kakvu vrstu animacije bi trebalo psi da koristi za ikonu dolaznih događaja na glavnom prozoru?</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_events.cpp" line="69"/>
@@ -12309,12 +12309,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset.cpp" line="978"/>
         <source>Affiliations</source>
-        <translation type="unfinished"/>
+        <translation>Pripadnosti</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset.cpp" line="978"/>
         <source>Select your affiliations iconset</source>
-        <translation type="unfinished"/>
+        <translation>Odaberi set ikona za pripadnosti</translation>
     </message>
 </context>
 <context>
@@ -12608,7 +12608,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_statusauto.cpp" line="88"/>
         <source>Specifies priority of auto-away status. If empty, Psi will use account&apos;s default priority.</source>
-        <translation type="unfinished"/>
+        <translation>Odredite prioritet za status odsutnosti. Ako je prazno, Psi će koristiti podrazumevani prioritet naloga.</translation>
     </message>
 </context>
 <context>
@@ -12721,7 +12721,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_tree.cpp" line="29"/>
         <source>Please note: This editor will change the options directly. Pressing Cancel will not revert these changes.</source>
-        <translation type="unfinished"/>
+        <translation>Napomena: Ovaj editor će menjati opcije direktno. Pritiskom na Cancel neće se vratiti ove promene.</translation>
     </message>
 </context>
 <context>
@@ -13139,7 +13139,8 @@ Razlog: %1</translation>
         <location filename="../../psi-plus/src/passphrase.ui" line="65"/>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation type="unfinished"/>
+        <translation>Vaša lozinka je potrebna za korišćenje OpenPGP security.
+Molimo unesite vašu lozinku u nastavku:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/passphrase.ui" line="80"/>
@@ -13205,7 +13206,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/pepchangenotifyplugin/pepchangenotifyplugin.cpp" line="565"/>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
-        <translation type="unfinished"/>
+        <translation>Ovaj dodatak pokazuje iskačuće obaveštenje kada korisnici sa vašeg spiska menjaju njihovo raspoloženje, melodiju ili aktivnosti.</translation>
     </message>
 </context>
 <context>
@@ -15324,7 +15325,8 @@ Reason: %1.</source>
         <location filename="../../psi-plus/src/psichatdlg.cpp" line="838"/>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
-        <translation type="unfinished"/>
+        <translation>Da li ste sigurni da želite da izbrišete prozor za razgovor?
+(napomena: ne utiče na sačuvanu istoriju)</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psichatdlg.cpp" line="939"/>
@@ -15359,7 +15361,7 @@ Reason: %1.</source>
         <location filename="../../psi-plus/src/psicli.h" line="16"/>
         <source>Activate program instance running specified profile. Otherwise, open new instance using this profile (unless used together with --remote).</source>
         <comment>do not translate --remote</comment>
-        <translation type="unfinished"/>
+        <translation>Akrivirajte primer pokrenut sa specifičnim profilom. U suprotnom, otvorite novi primer koristeći ovaj profil (osim ako se koristi zajedno sa --daljinskim).</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="22"/>
@@ -15371,7 +15373,7 @@ Reason: %1.</source>
         <location filename="../../psi-plus/src/psicli.h" line="30"/>
         <source>Display Choose Profile dialog on startup. Cannot be used together with --remote.</source>
         <comment>do not translate --remote</comment>
-        <translation type="unfinished"/>
+        <translation>Pokaži dijalog izbora profila na početku. Ne može biti korišćen zajedno sa --remote.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="34"/>
@@ -15416,7 +15418,7 @@ Reason: %1.</source>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="50"/>
         <source>Show version information and exit.</source>
-        <translation type="unfinished"/>
+        <translation>Pokaži informaciju o verziji i napusti.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="55"/>
@@ -17608,7 +17610,7 @@ The message was not sent.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="647"/>
         <source>plaintext</source>
-        <translation type="unfinished"/>
+        <translation>tekst</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="651"/>
@@ -17740,7 +17742,7 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus/src/privacy/privacylistitem.cpp" line="47"/>
         <source>Deny</source>
-        <translation type="unfinished"/>
+        <translation>Odbij</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/privacy/privacylistitem.cpp" line="49"/>
@@ -17770,7 +17772,7 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus/src/privacy/privacylistitem.cpp" line="62"/>
         <source>Queries,</source>
-        <translation type="unfinished"/>
+        <translation>Upiti,</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/privacy/privacylistitem.cpp" line="68"/>
@@ -18097,7 +18099,7 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus/src/userlist.cpp" line="933"/>
         <source>Affiliation: %1</source>
-        <translation type="unfinished"/>
+        <translation>Pripadnost: %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/userlist.cpp" line="939"/>
@@ -18153,12 +18155,12 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus/src/plugins/dev/redirectorplugin/redirectplugin.cpp" line="122"/>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/dev/redirectorplugin/redirectplugin.cpp" line="123"/>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-pošta:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/dev/redirectorplugin/redirectplugin.cpp" line="124"/>
@@ -18250,7 +18252,8 @@ Razlog: %1</translation>
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="451"/>
         <source>celebrates birthday today!
 </source>
-        <translation type="unfinished"/>
+        <translation>slavi rođendan danas!
+</translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="454"/>
@@ -18262,7 +18265,8 @@ Razlog: %1</translation>
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="457"/>
         <source>celebrates birthday yesterday.
 </source>
-        <translation type="unfinished"/>
+        <translation>slavljen rođendan juče.
+</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="493"/>
@@ -18430,7 +18434,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.ui" line="248"/>
         <source>toolBar</source>
-        <translation type="unfinished"/>
+        <translation>Traka alata</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.ui" line="271"/>
@@ -18500,7 +18504,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.cpp" line="322"/>
         <source>Size: %1x%2px; %3 bytes</source>
-        <translation type="unfinished"/>
+        <translation>Veličina: %1x%2px; %3 bajtova</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.cpp" line="373"/>
@@ -18602,7 +18606,12 @@ The plugin has the following settings:
 * Format -- the file format in which the screenshot will be stored (default: .jpg)
 * File Name -- format of the filename (default: pic-yyyyMMdd-hhmmss, where yyyyMMdd=YYYYMMDD, and hhmmss are current date in the format yearmonthday-hourminutesecond)
 The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</source>
-        <translation type="unfinished"/>
+        <translation>Ovaj dodatak dozvoljava da napravite snimke ekrana i sačuvate ih na hard disk ili otpremite na FTP ili HTTP server.
+Ovaj dodatak ima prateća podešavanja:
+* Prečica -- za pravljenje snimka ekrana (podrazumevano, Ctrl+Alt+P)
+* Format -- format fajla u kome će snimak ekrana biti sačuvan (podrazumevano: .jpg)
+* Ime fajla -- format imena fajla (podrazumevano: pic-yyyyMMdd-hhmmss, gde yyyyMMdd=YYYYMMDD, i hhmmss su trenutni datum u formatu godinamesecdan-satminutsekund)
+Adresa FTP servera određena kao ftp://ftp.domain.tld/path1/path2</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshotplugin.cpp" line="237"/>
@@ -19069,7 +19078,7 @@ Razlog: %1</translation>
     <message>
         <location filename="../tmp/option_translations.cpp" line="26"/>
         <source>Publish Tune</source>
-        <translation type="unfinished"/>
+        <translation>Objavi melodiju</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="27"/>
@@ -19320,7 +19329,7 @@ Razlog: %1</translation>
         <location filename="../tmp/option_translations.cpp" line="76"/>
         <location filename="../tmp/option_translations.cpp" line="87"/>
         <source>Receive incoming event</source>
-        <translation type="unfinished"/>
+        <translation>Primite dolazni događaj</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="77"/>
@@ -19879,7 +19888,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <message>
         <location filename="../../psi-plus/src/tabs/tabdlg.cpp" line="276"/>
         <source>Detach Tab</source>
-        <translation type="unfinished"/>
+        <translation>Otkačite tab</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/tabs/tabdlg.cpp" line="279"/>
@@ -19929,7 +19938,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <message>
         <location filename="../../psi-plus/src/tabs/tabdlg.cpp" line="575"/>
         <source>%1 Conversations</source>
-        <translation type="unfinished"/>
+        <translation>%1 Konverzacija</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/tabs/tabdlg.cpp" line="579"/>
@@ -19985,12 +19994,12 @@ Copyright (C) 2003 Justin Karneges</source>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="356"/>
         <source>Please enter the Full JID to connect with.</source>
-        <translation type="unfinished"/>
+        <translation>Molimo unesite Full JIP za povezivanje sa.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="366"/>
         <source>You must specify a host:port for the proxy.</source>
-        <translation type="unfinished"/>
+        <translation>Morate odrediti host:port za proksi.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="370"/>
@@ -20000,7 +20009,7 @@ Copyright (C) 2003 Justin Karneges</source>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="378"/>
         <source>Please enter the proxy host in the form &apos;host:port&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Molimo unesite poksi host u polje  &apos;host:port&apos;.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="403"/>
@@ -20089,7 +20098,7 @@ Please correct and try again.</source>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="108"/>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Bez</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="113"/>
@@ -20146,12 +20155,12 @@ Please correct and try again.</source>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="210"/>
         <source>Security Settings</source>
-        <translation type="unfinished"/>
+        <translation>Bezbedonosna podešavanja</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="216"/>
         <source>Allow plaintext login</source>
-        <translation type="unfinished"/>
+        <translation>Dozvoli tekstualno logovanje</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="223"/>
@@ -21248,7 +21257,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/src/whiteboarding/wbmanager.cpp" line="111"/>
         <source>Open Existing SVG?</source>
-        <translation type="unfinished"/>
+        <translation>Otvori postojeći SVG?</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/whiteboarding/wbmanager.cpp" line="112"/>
@@ -21263,7 +21272,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/src/whiteboarding/wbmanager.cpp" line="120"/>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="unfinished"/>
+        <translation>Vektoriska grafika (*.svg)</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/whiteboarding/wbmanager.cpp" line="201"/>
@@ -21309,7 +21318,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/src/xmlconsole.ui" line="50"/>
         <source>Presence</source>
-        <translation type="unfinished"/>
+        <translation>Prisustvo</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/xmlconsole.ui" line="60"/>
@@ -21365,7 +21374,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="191"/>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Bez</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="192"/>
@@ -21405,7 +21414,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="199"/>
         <source>Query version</source>
-        <translation type="unfinished"/>
+        <translation>Verzija upita</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="202"/>
@@ -21576,7 +21585,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="262"/>
         <source>Remote server timeout</source>
-        <translation type="unfinished"/>
+        <translation>Pauza udaljenog servera</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="262"/>
