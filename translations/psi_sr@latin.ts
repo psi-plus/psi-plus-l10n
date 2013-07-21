@@ -906,7 +906,7 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="520"/>
         <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;i&gt;XMMP adresa&lt;/i&gt; mora se definisati u formatu &lt;i&gt;korisnik@host&lt;/i&gt;.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="596"/>
@@ -936,7 +936,7 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="630"/>
         <source>Enter the XMPP Address of the contact to block:</source>
-        <translation type="unfinished"/>
+        <translation>Unesi XMPP adresu contakta za blokiranje:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="661"/>
@@ -1539,7 +1539,8 @@ p, li { white-space: pre-wrap; }
         <location filename="../../psi-plus/src/adduserdlg.cpp" line="176"/>
         <source>The XMPP address you entered is not valid!
 Make sure you enter a fully qualified XMPP address.</source>
-        <translation type="unfinished"/>
+        <translation>XMPP adresa koja je uneta nije ispravna!
+Proverite da li ste uneli ispravnu XMPP adresu.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduserdlg.cpp" line="188"/>
@@ -2426,7 +2427,7 @@ Da li i dalje želite da zatvorite prozor?</translation>
     <message>
         <location filename="../../psi-plus/src/msgmle.cpp" line="226"/>
         <source>Paste as Quotation</source>
-        <translation type="unfinished"/>
+        <translation>Nalepi kao citat</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/msgmle.cpp" line="363"/>
@@ -4638,12 +4639,12 @@ Da nastavim?</translation>
     <message>
         <location filename="../../psi-plus/src/eventdlg.cpp" line="929"/>
         <source>C&amp;onfirm</source>
-        <translation type="unfinished"/>
+        <translation>P&amp;otvrdi</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/eventdlg.cpp" line="944"/>
         <source>&amp;Submit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Podnesi</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/eventdlg.cpp" line="952"/>
@@ -8754,7 +8755,7 @@ keširanje avatara neće biti dostupno</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="625"/>
         <source>Time stamp: %1</source>
-        <translation type="unfinished"/>
+        <translation>Vreme: %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="692"/>
@@ -9766,7 +9767,7 @@ Kartice: %1</translation>
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.ui" line="70"/>
         <source>Check spelling</source>
-        <translation type="unfinished"/>
+        <translation>Provera pravopisa</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.ui" line="77"/>
@@ -10213,7 +10214,7 @@ Kartice: %1</translation>
     <message>
         <location filename="../../psi-plus/src/options/opt_chat.ui" line="46"/>
         <source>Switch tab on receiving new messages</source>
-        <translation type="unfinished"/>
+        <translation>Uključite karticu na prijemu nove poruke</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_chat.ui" line="53"/>
@@ -11736,7 +11737,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="68"/>
         <source>to file</source>
-        <translation type="unfinished"/>
+        <translation>za fajl</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="72"/>
@@ -13670,12 +13671,12 @@ Molimo unesite vašu lozinku u nastavku:</translation>
     <message>
         <location filename="../../psi-plus/src/privacy/privacyrule.ui" line="65"/>
         <source>Outgoing Presence</source>
-        <translation type="unfinished"/>
+        <translation>Odlazeće prisustvo</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/privacy/privacyrule.ui" line="72"/>
         <source>Incoming Presence</source>
-        <translation type="unfinished"/>
+        <translation>Dolazno prisustvo</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/privacy/privacyrule.ui" line="87"/>
@@ -14474,7 +14475,7 @@ Details: %1</source>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="2984"/>
         <source>Logged out</source>
-        <translation type="unfinished"/>
+        <translation>Odjavljen</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="3413"/>
@@ -15938,7 +15939,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/libpsi/widgets/groupchatbrowsewindow.cpp" line="196"/>
         <source>Destroy</source>
-        <translation type="unfinished"/>
+        <translation>Uništi</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/libpsi/widgets/groupchatbrowsewindow.cpp" line="251"/>
@@ -16031,7 +16032,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../../psi-plus/src/psioptions.cpp" line="160"/>
         <source>Work</source>
-        <translation type="unfinished"/>
+        <translation>Posao</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psioptions.cpp" line="161"/>
@@ -16378,7 +16379,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/Certificates/CertificateErrorDialog.cpp" line="21"/>
         <source>&amp;Connect anyway</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Poveži bilo kako</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/Certificates/CertificateErrorDialog.cpp" line="23"/>
@@ -16413,12 +16414,12 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="77"/>
         <source>Doing Chores</source>
-        <translation type="unfinished"/>
+        <translation>Kućni poslovi</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="78"/>
         <source>Buying Groceries</source>
-        <translation type="unfinished"/>
+        <translation>Kupovina namirnica</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="79"/>
@@ -16433,12 +16434,12 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="81"/>
         <source>Doing Maintenance</source>
-        <translation type="unfinished"/>
+        <translation>Održavanje</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="82"/>
         <source>Doing The Dishes</source>
-        <translation type="unfinished"/>
+        <translation>Pranje sudova</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="83"/>
@@ -16448,7 +16449,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="84"/>
         <source>Gardening</source>
-        <translation type="unfinished"/>
+        <translation>Baštovanstvo</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="85"/>
@@ -16488,7 +16489,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="94"/>
         <source>Having A Snack</source>
-        <translation type="unfinished"/>
+        <translation>Užinam</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="95"/>
@@ -16508,7 +16509,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="99"/>
         <source>Exercising</source>
-        <translation type="unfinished"/>
+        <translation>Vežbanje</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="100"/>
@@ -16524,7 +16525,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="102"/>
         <source>Hiking</source>
-        <translation type="unfinished"/>
+        <translation>Pešačenje</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="103"/>
@@ -16544,7 +16545,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="106"/>
         <source>Skiing</source>
-        <translation type="unfinished"/>
+        <translation>Skijanje</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="107"/>
@@ -16554,27 +16555,27 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="108"/>
         <source>Working Out</source>
-        <translation type="unfinished"/>
+        <translation>Rad napolju</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="110"/>
         <source>Grooming</source>
-        <translation type="unfinished"/>
+        <translation>Sređivanje</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="111"/>
         <source>At The Spa</source>
-        <translation type="unfinished"/>
+        <translation>U banji</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="112"/>
         <source>Brushing Teeth</source>
-        <translation type="unfinished"/>
+        <translation>Pranje zuba</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="113"/>
         <source>Getting A Haircut</source>
-        <translation type="unfinished"/>
+        <translation>Šišanje</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="114"/>
@@ -16584,37 +16585,37 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="115"/>
         <source>Taking A Bath</source>
-        <translation type="unfinished"/>
+        <translation>Kupanje</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="116"/>
         <source>Taking A Shower</source>
-        <translation type="unfinished"/>
+        <translation>Tuširanje</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="118"/>
         <source>Having Appointment</source>
-        <translation type="unfinished"/>
+        <translation>Na sastanku</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="120"/>
         <source>Inactive</source>
-        <translation type="unfinished"/>
+        <translation>Neaktivan</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="121"/>
         <source>Day Off</source>
-        <translation type="unfinished"/>
+        <translation>Slobodan dan</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="122"/>
         <source>Hanging Out</source>
-        <translation type="unfinished"/>
+        <translation>Druženje</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="123"/>
         <source>Hiding</source>
-        <translation type="unfinished"/>
+        <translation>Skrivanje</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="124"/>
@@ -16624,12 +16625,12 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="125"/>
         <source>Praying</source>
-        <translation type="unfinished"/>
+        <translation>Molitva</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="126"/>
         <source>Scheduled Holiday</source>
-        <translation type="unfinished"/>
+        <translation>Planiran odmor</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="127"/>
@@ -16639,7 +16640,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="128"/>
         <source>Thinking</source>
-        <translation type="unfinished"/>
+        <translation>Razmišljanje</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="130"/>
@@ -16659,7 +16660,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="133"/>
         <source>Going Out</source>
-        <translation type="unfinished"/>
+        <translation>Izlazak</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="134"/>
@@ -16674,7 +16675,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="136"/>
         <source>Rehearsing</source>
-        <translation type="unfinished"/>
+        <translation>Probe</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="137"/>
@@ -16694,7 +16695,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="140"/>
         <source>Sunbathing</source>
-        <translation type="unfinished"/>
+        <translation>Sunčanje</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="141"/>
@@ -16734,7 +16735,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="150"/>
         <source>Commuting</source>
-        <translation type="unfinished"/>
+        <translation>Razmena</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="152"/>
@@ -16784,12 +16785,12 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="162"/>
         <source>In A Meeting</source>
-        <translation type="unfinished"/>
+        <translation>Na sastanku</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="163"/>
         <source>Studying</source>
-        <translation type="unfinished"/>
+        <translation>Učenje</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="164"/>
@@ -16869,12 +16870,12 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/eventdlg.cpp" line="277"/>
         <source>Invitation to %1 from %2</source>
-        <translation type="unfinished"/>
+        <translation>Pozivanje za %1 od %2</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/eventdlg.cpp" line="279"/>
         <source>Invitation to %1</source>
-        <translation type="unfinished"/>
+        <translation>Pozivanje za %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/geolocation.cpp" line="379"/>
@@ -16987,117 +16988,117 @@ Opis: </translation>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="69"/>
         <source>Afraid</source>
-        <translation type="unfinished"/>
+        <translation>Uplašen</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="70"/>
         <source>Amazed</source>
-        <translation type="unfinished"/>
+        <translation>Zadivljen</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="71"/>
         <source>Angry</source>
-        <translation type="unfinished"/>
+        <translation>Ljut</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="72"/>
         <source>Amorous</source>
-        <translation type="unfinished"/>
+        <translation>Zaljubljen</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="73"/>
         <source>Annoyed</source>
-        <translation type="unfinished"/>
+        <translation>Uzbuđen</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="74"/>
         <source>Anxious</source>
-        <translation type="unfinished"/>
+        <translation>Zabrinut</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="75"/>
         <source>Aroused</source>
-        <translation type="unfinished"/>
+        <translation>Uzbuđen</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="76"/>
         <source>Ashamed</source>
-        <translation type="unfinished"/>
+        <translation>Posramljen</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="77"/>
         <source>Bored</source>
-        <translation type="unfinished"/>
+        <translation>Dosadan</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="78"/>
         <source>Brave</source>
-        <translation type="unfinished"/>
+        <translation>Hrabar</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="79"/>
         <source>Calm</source>
-        <translation type="unfinished"/>
+        <translation>Smiren</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="80"/>
         <source>Cautious</source>
-        <translation type="unfinished"/>
+        <translation>Obazriv</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="81"/>
         <source>Cold</source>
-        <translation type="unfinished"/>
+        <translation>Hladan</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="82"/>
         <source>Confident</source>
-        <translation type="unfinished"/>
+        <translation>Uveren</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="83"/>
         <source>Confused</source>
-        <translation type="unfinished"/>
+        <translation>Zbunjen</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="84"/>
         <source>Contemplative</source>
-        <translation type="unfinished"/>
+        <translation>Mislilački</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="85"/>
         <source>Contented</source>
-        <translation type="unfinished"/>
+        <translation>Zadovoljan</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="86"/>
         <source>Cranky</source>
-        <translation type="unfinished"/>
+        <translation>Mrzovoljan</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="87"/>
         <source>Crazy</source>
-        <translation type="unfinished"/>
+        <translation>Lud</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="88"/>
         <source>Creative</source>
-        <translation type="unfinished"/>
+        <translation>Kreativan</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="89"/>
         <source>Curious</source>
-        <translation type="unfinished"/>
+        <translation>Radoznao</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="90"/>
         <source>Dejected</source>
-        <translation type="unfinished"/>
+        <translation>Utučen</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="91"/>
         <source>Depressed</source>
-        <translation type="unfinished"/>
+        <translation>Potišten</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="92"/>
@@ -17117,27 +17118,27 @@ Opis: </translation>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="95"/>
         <source>Distracted</source>
-        <translation type="unfinished"/>
+        <translation>Rastrojen</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="96"/>
         <source>Embarrassed</source>
-        <translation type="unfinished"/>
+        <translation>Osramoćen</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="97"/>
         <source>Envious</source>
-        <translation type="unfinished"/>
+        <translation>Ljubomoran</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="98"/>
         <source>Excited</source>
-        <translation type="unfinished"/>
+        <translation>Uzbuđen</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="99"/>
         <source>Flirtatious</source>
-        <translation type="unfinished"/>
+        <translation>U flertu</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="100"/>
@@ -17147,12 +17148,12 @@ Opis: </translation>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="101"/>
         <source>Grumpy</source>
-        <translation type="unfinished"/>
+        <translation>Prgav</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="102"/>
         <source>Guilty</source>
-        <translation type="unfinished"/>
+        <translation>Kriv</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="103"/>
@@ -17162,22 +17163,22 @@ Opis: </translation>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="104"/>
         <source>Hopeful</source>
-        <translation type="unfinished"/>
+        <translation>Pun nade</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="105"/>
         <source>Hot</source>
-        <translation type="unfinished"/>
+        <translation>Vruć</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="106"/>
         <source>Humbled</source>
-        <translation type="unfinished"/>
+        <translation>Ponizan</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="107"/>
         <source>Humiliated</source>
-        <translation type="unfinished"/>
+        <translation>Ponižen</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="108"/>
@@ -17187,7 +17188,7 @@ Opis: </translation>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="109"/>
         <source>Hurt</source>
-        <translation type="unfinished"/>
+        <translation>Povređen</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="110"/>
@@ -17197,7 +17198,7 @@ Opis: </translation>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="111"/>
         <source>In Awe</source>
-        <translation type="unfinished"/>
+        <translation>Sa strahopoštovanjem</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="112"/>
@@ -17207,7 +17208,7 @@ Opis: </translation>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="113"/>
         <source>Indignant</source>
-        <translation type="unfinished"/>
+        <translation>Ogorčen</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="114"/>
@@ -17217,37 +17218,37 @@ Opis: </translation>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="115"/>
         <source>Intoxicated</source>
-        <translation type="unfinished"/>
+        <translation>Opijen</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="116"/>
         <source>Invincible</source>
-        <translation type="unfinished"/>
+        <translation>Nepobediv</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="117"/>
         <source>Jealous</source>
-        <translation type="unfinished"/>
+        <translation>Ljubomoran</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="118"/>
         <source>Lonely</source>
-        <translation type="unfinished"/>
+        <translation>Usamljen</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="119"/>
         <source>Lucky</source>
-        <translation type="unfinished"/>
+        <translation>Srećan</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="120"/>
         <source>Mean</source>
-        <translation type="unfinished"/>
+        <translation>Značajan</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="121"/>
         <source>Moody</source>
-        <translation type="unfinished"/>
+        <translation>Potišten</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="122"/>
@@ -17257,22 +17258,22 @@ Opis: </translation>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="123"/>
         <source>Neutral</source>
-        <translation type="unfinished"/>
+        <translation>Neutralan</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="124"/>
         <source>Offended</source>
-        <translation type="unfinished"/>
+        <translation>Uvređen</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="125"/>
         <source>Outraged</source>
-        <translation type="unfinished"/>
+        <translation>Pobesneo</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="126"/>
         <source>Playful</source>
-        <translation type="unfinished"/>
+        <translation>Razigran</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="127"/>
@@ -17287,17 +17288,17 @@ Opis: </translation>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="129"/>
         <source>Relieved</source>
-        <translation type="unfinished"/>
+        <translation>Olakšan</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="130"/>
         <source>Remorseful</source>
-        <translation type="unfinished"/>
+        <translation>Pokajnički</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="131"/>
         <source>Restless</source>
-        <translation type="unfinished"/>
+        <translation>Nemiran</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="132"/>
@@ -17327,7 +17328,7 @@ Opis: </translation>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="137"/>
         <source>Sick</source>
-        <translation type="unfinished"/>
+        <translation>Bolestan</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="138"/>
@@ -17342,7 +17343,7 @@ Opis: </translation>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="140"/>
         <source>Stressed</source>
-        <translation type="unfinished"/>
+        <translation>Pod pritiskom</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="141"/>
@@ -17762,12 +17763,12 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus/src/privacy/privacylistitem.cpp" line="58"/>
         <source>Presence-In,</source>
-        <translation type="unfinished"/>
+        <translation>Prisustvo-u,</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/privacy/privacylistitem.cpp" line="60"/>
         <source>Presence-Out,</source>
-        <translation type="unfinished"/>
+        <translation>Prisustvo-van,</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/privacy/privacylistitem.cpp" line="62"/>
@@ -17824,12 +17825,12 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus/src/psidbusnotifier.cpp" line="272"/>
         <source>Incoming file from %1</source>
-        <translation type="unfinished"/>
+        <translation>Dolazni fajl od %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psidbusnotifier.cpp" line="275"/>
         <source>Incoming call from %1</source>
-        <translation type="unfinished"/>
+        <translation>Dolazni poziv od %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psigrowlnotifier.cpp" line="69"/>
@@ -19807,7 +19808,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/stopspamplugin.cpp" line="729"/>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/stopspamplugin.cpp" line="733"/>
         <source>Stop Spam Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Zaustavi spam dodatak</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/stopspamplugin.cpp" line="732"/>
@@ -20633,12 +20634,12 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploadmanager.cpp" line="227"/>
         <source>Getting storage...</source>
-        <translation type="unfinished"/>
+        <translation>Dobijanje skladišta...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploadmanager.cpp" line="247"/>
         <source>Can&apos;t get storage</source>
-        <translation type="unfinished"/>
+        <translation>Ne mogu dobiti skladište</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploadmanager.cpp" line="261"/>
@@ -21045,7 +21046,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     <message>
         <location filename="../../psi-plus/src/whiteboarding/wbdlg.cpp" line="76"/>
         <source>Change the geometry</source>
-        <translation type="unfinished"/>
+        <translation>Menjanje geometrije</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/whiteboarding/wbdlg.cpp" line="77"/>
@@ -21066,7 +21067,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     <message>
         <location filename="../../psi-plus/src/whiteboarding/wbdlg.cpp" line="85"/>
         <source>Fill color</source>
-        <translation type="unfinished"/>
+        <translation>Popunite boju</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/whiteboarding/wbdlg.cpp" line="89"/>
@@ -21111,7 +21112,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     <message>
         <location filename="../../psi-plus/src/whiteboarding/wbdlg.cpp" line="130"/>
         <source>Scale</source>
-        <translation type="unfinished"/>
+        <translation>Skala</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/whiteboarding/wbdlg.cpp" line="133"/>
@@ -21131,7 +21132,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     <message>
         <location filename="../../psi-plus/src/whiteboarding/wbdlg.cpp" line="143"/>
         <source>Draw paths</source>
-        <translation type="unfinished"/>
+        <translation>Putanje crtanja</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/whiteboarding/wbdlg.cpp" line="162"/>
@@ -21146,7 +21147,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     <message>
         <location filename="../../psi-plus/src/whiteboarding/wbdlg.cpp" line="236"/>
         <source>%1 left (session: %2).</source>
-        <translation type="unfinished"/>
+        <translation>%1 ostaje (sesija: %2).</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/whiteboarding/wbdlg.cpp" line="241"/>
