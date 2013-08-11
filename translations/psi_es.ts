@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="es" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0" language="es">
 <context>
     <name>@default</name>
     <message>
@@ -45,7 +47,7 @@
         <translation>Comando:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/ahcommanddlg.cpp" line="128"/>
+        <location filename="../../psi-plus/src/ahcommanddlg.cpp" line="122"/>
         <source>Execute</source>
         <translation>Ejecutar</translation>
     </message>
@@ -300,7 +302,7 @@ Copyright © 2001-2013 Equipo Psi.&lt;br</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1435,7 +1437,7 @@ Si se selecciona, el servidor no guardará el historial para este contacto.</tra
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -1656,17 +1658,17 @@ Para que funcione correctamente, es necesario que el cliente del otro lado sopor
 <context>
     <name>AuthEvent</name>
     <message>
-        <location filename="../../psi-plus/src/psievent.cpp" line="475"/>
+        <location filename="../../psi-plus/src/psievent.cpp" line="474"/>
         <source>%1 wants to subscribe to your presence.</source>
         <translation>%1 desea subscribirse a tu presencia.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psievent.cpp" line="477"/>
+        <location filename="../../psi-plus/src/psievent.cpp" line="476"/>
         <source>%1 authorized you to view his status.</source>
         <translation>%1 te ha autorizado a ver su estado.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psievent.cpp" line="479"/>
+        <location filename="../../psi-plus/src/psievent.cpp" line="478"/>
         <source>%1 removed your authorization to view his status!</source>
         <translation>¡%1 ha eliminado tu autorización a ver su estado!</translation>
     </message>
@@ -1818,7 +1820,7 @@ La lista de excepciones por JID tiene dos modos de operación:
 <context>
     <name>AvCallEvent</name>
     <message>
-        <location filename="../../psi-plus/src/psievent.cpp" line="769"/>
+        <location filename="../../psi-plus/src/psievent.cpp" line="768"/>
         <source>The user is calling you.</source>
         <translation>El usuario te está llamando.</translation>
     </message>
@@ -3310,12 +3312,18 @@ Nota: Para su correcto funcionamiento, la opción options.ui.chat.central-toolba
     <message numerus="yes">
         <location filename="../../psi-plus/src/contactlistutil.cpp" line="87"/>
         <source>and %n contacts </source>
-        <translation><numerusform>y %n contacto  </numerusform><numerusform>y %n contactos </numerusform></translation>
+        <translation>
+            <numerusform>y %n contacto  </numerusform>
+            <numerusform>y %n contactos </numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus/src/contactlistutil.cpp" line="92"/>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation><numerusform>Esto eliminará permanentemente: &lt;br&gt;%1&lt;br&gt;%2 y %n grupo de tu lista de contactos.</numerusform><numerusform>Esto eliminará permanentemente: &lt;br&gt;%1&lt;br&gt;%2 y %n grupos de tu lista de contactos.</numerusform></translation>
+        <translation>
+            <numerusform>Esto eliminará permanentemente: &lt;br&gt;%1&lt;br&gt;%2 y %n grupo de tu lista de contactos.</numerusform>
+            <numerusform>Esto eliminará permanentemente: &lt;br&gt;%1&lt;br&gt;%2 y %n grupos de tu lista de contactos.</numerusform>
+        </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactlistutil.cpp" line="101"/>
@@ -3587,7 +3595,7 @@ Nota: Para su correcto funcionamiento, la opción options.ui.chat.central-toolba
     <name>ContactProfile</name>
     <message>
         <location filename="../../psi-plus/src/contactview.cpp" line="262"/>
-        <location filename="../../psi-plus/src/psi_profiles.cpp" line="460"/>
+        <location filename="../../psi-plus/src/psi_profiles.cpp" line="458"/>
         <source>General</source>
         <translation>General</translation>
     </message>
@@ -3598,7 +3606,7 @@ Nota: Para su correcto funcionamiento, la opción options.ui.chat.central-toolba
     </message>
     <message>
         <location filename="../../psi-plus/src/contactview.cpp" line="266"/>
-        <location filename="../../psi-plus/src/psi_profiles.cpp" line="461"/>
+        <location filename="../../psi-plus/src/psi_profiles.cpp" line="459"/>
         <source>Agents/Transports</source>
         <translation>Agentes/Transportes</translation>
     </message>
@@ -4062,7 +4070,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/disco.ui" line="28"/>
         <source>ToolBar will be placed here</source>
-        <comment>Don't translate this string</comment>
+        <comment>Don&apos;t translate this string</comment>
         <translation>La barra de herramientas se colocará aquí</translation>
     </message>
     <message>
@@ -5486,7 +5494,7 @@ Importante: una gran parte de las opciones son configuraciones importantes del s
 <context>
     <name>FileEvent</name>
     <message>
-        <location filename="../../psi-plus/src/psievent.cpp" line="537"/>
+        <location filename="../../psi-plus/src/psievent.cpp" line="536"/>
         <source>This user wants to send you a file.</source>
         <translation>Este usuario quiere enviarte un archivo.</translation>
     </message>
@@ -5494,161 +5502,161 @@ Importante: una gran parte de las opciones son configuraciones importantes del s
 <context>
     <name>FileRequestDlg</name>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="563"/>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="650"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="578"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="666"/>
         <source>Identity: </source>
         <translation>Identidad:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="581"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="596"/>
         <source>Send File</source>
         <translation>Enviar archivo</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="588"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="604"/>
         <source>&amp;Send</source>
         <translation>&amp;Enviar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="589"/>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="924"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="605"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="949"/>
         <source>&amp;Close</source>
         <translation>&amp;Cerrar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="595"/>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="692"/>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="925"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="611"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="717"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="950"/>
         <source>Ready</source>
         <translation>Preparado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="609"/>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="614"/>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="809"/>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="815"/>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="849"/>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="955"/>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="970"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="625"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="630"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="834"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="840"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="874"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="980"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="995"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="614"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="630"/>
         <source>Sending folders is not supported.</source>
         <translation>El envío de carpetas no está soportado.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="621"/>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="679"/>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="797"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="637"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="695"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="822"/>
         <source>%1 byte(s)</source>
         <translation>%1 byte(s)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="656"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="672"/>
         <source>Time:</source>
         <translation>Hora:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="671"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="687"/>
         <source>From:</source>
         <translation>De:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="672"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="688"/>
         <source>Receive File</source>
         <translation>Recibir archivo</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="682"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="698"/>
         <source>&amp;Accept</source>
         <translation>&amp;Aceptar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="683"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="699"/>
         <source>&amp;Reject</source>
         <translation>&amp;Rechazar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="711"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="736"/>
         <source>Warning</source>
         <translation>Advertencia</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="711"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="736"/>
         <source>Are you sure you want to cancel the transfer?</source>
         <translation>¿Estás seguro de que deseas cancelar la transferencia?</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="711"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="736"/>
         <source>&amp;Yes</source>
         <translation>&amp;Sí</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="711"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="736"/>
         <source>&amp;No</source>
         <translation>&amp;No</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="792"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="817"/>
         <source>Choose a file</source>
         <translation>Elige un archivo</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="793"/>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="841"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="818"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="866"/>
         <source>All files (*)</source>
         <translation>Todos los archivos (*)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="809"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="834"/>
         <source>The XMPP address specified is not valid.  Correct this and try again.</source>
         <translation>La dirección XMPP especificada no válida. Corrige esto y reintenta.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="815"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="840"/>
         <source>The file specified does not exist.  Choose a correct file name before sending.</source>
         <translation>El archivo especificado no existe. Elige un nombre de archivo correcto antes de enviar.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="821"/>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="866"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="846"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="891"/>
         <source>&amp;Cancel</source>
         <translation>&amp;Cancelar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="824"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="849"/>
         <source>Requesting...</source>
         <translation>Solicitando...</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="839"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="864"/>
         <source>Save As</source>
         <translation>Guardar como</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="849"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="874"/>
         <source>This file is being transferred already!</source>
         <translation>¡El archivo ya está siendo transferido!</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="869"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="894"/>
         <source>Accepting...</source>
         <translation>Aceptando...</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="884"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="909"/>
         <source>Accepted!</source>
         <translation>¡Aceptado!</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="930"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="955"/>
         <source>File was rejected by remote user.</source>
         <translation>El archivo fue rechazado por el otro usuario.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="933"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="958"/>
         <source>Unable to negotiate transfer.
 
 This can happen if the contact did not understand our request, or if the
@@ -5658,11 +5666,11 @@ contact is offline.</source>
 Esto puede ocurrir si el programa del contacto no entendió nuestra solicitud, o si el contacto está desconectado.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="939"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="964"/>
         <source>Unable to connect to peer for data transfer.
 
 Ensure that your Data Transfer settings are proper.  If you are behind
-a NAT router or firewall then you'll need to open the proper TCP port
+a NAT router or firewall then you&apos;ll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>No se puede conectar con el equipo del contacto para la transferencia de datos.
 
@@ -5670,11 +5678,11 @@ Asegúrate de que la configuración de la Transferencia de Datos es la adecuada.
 Si estás detrás de un router con NAT o un firewall, necesitarás abrir el puerto TCP adecuado o especificar un Proxy de Transferencia de Datos en las configuraciones de tu cuenta.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="946"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="971"/>
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
 
 This means that the Proxy service is either not functioning or it is
-unreachable.  If you are behind a firewall, then you'll need to ensure
+unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
 that outgoing TCP connections are allowed.</source>
         <translation>Fallo al conectar o activar el Proxy de Transferencia de Datos.
 
@@ -5682,12 +5690,12 @@ Esto significa que el servicio del proxy no está funcionando o es inalcanzable.
 de que las conexiones salientes TCP están permitidas.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="954"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="979"/>
         <source>File I/O error</source>
         <translation>Error de Entrada/Salida del archivo</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="969"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="994"/>
         <source>Unable to accept the file.  Perhaps the sender has cancelled the request.</source>
         <translation>No se puede aceptar el archivo. Quizás el remitente ha cancelado la solicitud.</translation>
     </message>
@@ -5695,47 +5703,47 @@ de que las conexiones salientes TCP están permitidas.</translation>
 <context>
     <name>FileTrans</name>
     <message>
-        <location filename="../../psi-plus/src/filetrans.ui" line="16"/>
+        <location filename="../../psi-plus/src/filetrans.ui" line="14"/>
         <source>Form1</source>
         <translation>Form1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetrans.ui" line="22"/>
+        <location filename="../../psi-plus/src/filetrans.ui" line="20"/>
         <source>accountlabel</source>
         <translation>accountlabel</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetrans.ui" line="34"/>
+        <location filename="../../psi-plus/src/filetrans.ui" line="32"/>
         <source>To:</source>
         <translation>Para:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetrans.ui" line="61"/>
+        <location filename="../../psi-plus/src/filetrans.ui" line="59"/>
         <source>File:</source>
         <translation>Archivo:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetrans.ui" line="71"/>
+        <location filename="../../psi-plus/src/filetrans.ui" line="69"/>
         <source>psi/browse</source>
         <translation>psi/browse</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetrans.ui" line="85"/>
+        <location filename="../../psi-plus/src/filetrans.ui" line="83"/>
         <source>Size:</source>
         <translation>Tamaño:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetrans.ui" line="101"/>
+        <location filename="../../psi-plus/src/filetrans.ui" line="99"/>
         <source>Description:</source>
         <translation>Descripción:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetrans.ui" line="152"/>
+        <location filename="../../psi-plus/src/filetrans.ui" line="157"/>
         <source>stop</source>
         <translation>Parar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetrans.ui" line="159"/>
+        <location filename="../../psi-plus/src/filetrans.ui" line="164"/>
         <source>start</source>
         <translation>Empezar</translation>
     </message>
@@ -5743,130 +5751,130 @@ de que las conexiones salientes TCP están permitidas.</translation>
 <context>
     <name>FileTransDlg</name>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1006"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1043"/>
         <source>N/A</source>
         <translation>N/A</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1088"/>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1328"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1125"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1365"/>
         <source>[Done]</source>
         <translation>[Hecho]</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1090"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1127"/>
         <source>[Error: %1]</source>
         <translation>[Error: %1]</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1095"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1132"/>
         <source>[Stalled]</source>
         <translation>[Atascado]</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1098"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1135"/>
         <source>%1%2/s</source>
         <translation>%1%2/s</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1102"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1139"/>
         <source>%1h%2m%3s remaining</source>
         <translation>Faltan %1h%2m%3s</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1288"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1325"/>
         <source>File</source>
         <translation>Archivo</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1289"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1326"/>
         <source>To</source>
         <translation>A</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1290"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1327"/>
         <source>From</source>
         <translation>De</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1302"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1339"/>
         <source>Status</source>
         <translation>Estado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1320"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1357"/>
         <source>%1h%2m%3s</source>
         <translation>%1h%2m%3s</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1323"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1360"/>
         <source>Filename</source>
         <translation>Nombre de archivo</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1324"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1361"/>
         <source>Type</source>
         <translation>Tipo</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1324"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1361"/>
         <source>Upload</source>
         <translation>Subida</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1324"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1361"/>
         <source>Download</source>
         <translation>Descarga</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1325"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1362"/>
         <source>Peer</source>
         <translation>Compañero</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1326"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1363"/>
         <source>Size</source>
         <translation>Tamaño</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1331"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1368"/>
         <source>Transferred</source>
         <translation>Transferido</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1333"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1370"/>
         <source>Time remaining</source>
         <translation>Tiempo restante</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1651"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1688"/>
         <source>Transfer Manager</source>
         <translation>Administrador de transferencias</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1667"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1704"/>
         <source>Clear &amp;Finished</source>
         <translation>Limpiar &amp;completados</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1670"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1707"/>
         <source>&amp;Hide</source>
         <translation>&amp;Ocultar ventana</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1750"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1787"/>
         <source>Transfer Error</source>
         <translation>Error de transferencia</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1750"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1787"/>
         <source>Transfer of %1 with %2 failed.
 Reason: %3</source>
         <translation>Transferencia de %1 a %2 fallida.
 Razón: %3</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1822"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1859"/>
         <source>File I/O error (%1)</source>
         <translation>Error de Entrada/Salida del archivo (%1)</translation>
     </message>
@@ -5874,17 +5882,17 @@ Razón: %3</translation>
 <context>
     <name>FileTransView</name>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1406"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1443"/>
         <source>&amp;Cancel</source>
         <translation>&amp;Cancelar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1408"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1445"/>
         <source>&amp;Open Containing Folder</source>
         <translation>&amp;Abrir carpeta contenedora</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1409"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="1446"/>
         <source>Cl&amp;ear</source>
         <translation>Li&amp;mpiar</translation>
     </message>
@@ -5892,62 +5900,62 @@ Razón: %3</translation>
 <context>
     <name>FileTransferHandler</name>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="284"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="299"/>
         <source>Querying proxy...</source>
         <translation>Consultando proxy...</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="290"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="305"/>
         <source>Proxy query successful.</source>
         <translation>Consulta al proxy con éxito.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="292"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="307"/>
         <source>Proxy query failed!</source>
         <translation>¡Consulta al proxy fallida!</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="297"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="312"/>
         <source>Requesting data transfer channel...</source>
         <translation>Solititando canal de transferencia de datos...</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="302"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="317"/>
         <source>Peer accepted request.</source>
         <translation>Solicitud del contacto aceptada.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="307"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="322"/>
         <source>Connecting to peer...</source>
         <translation>Conectando con el equipo del contacto...</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="312"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="327"/>
         <source>Connecting to proxy...</source>
         <translation>Conectando con proxy...</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="317"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="332"/>
         <source>Waiting for peer activation...</source>
         <translation>Esperando activación del equipo del contacto...</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="447"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="462"/>
         <source>Unable to negotiate transfer.</source>
         <translation>No se puede negociar transferencia.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="449"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="464"/>
         <source>Unable to connect to peer for data transfer.</source>
         <translation>No se puede conectar al equipo del contacto para la transferencia de datos.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="451"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="466"/>
         <source>Unable to connect to proxy for data transfer.</source>
         <translation>No se pudo conectar al proxy para la transferencia de datos.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/filetransdlg.cpp" line="453"/>
+        <location filename="../../psi-plus/src/filetransdlg.cpp" line="468"/>
         <source>Lost connection / Cancelled.</source>
         <translation>Conexión perdida / Cancelada.</translation>
     </message>
@@ -6001,7 +6009,7 @@ Razón: %3</translation>
         <translation>Descargar e instalar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/contentdownloaderplugin/form.ui" line="178"/>
+        <location filename="../../psi-plus/src/plugins/generic/contentdownloaderplugin/form.ui" line="181"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
@@ -6017,28 +6025,28 @@ Razón: %3</translation>
 <context>
     <name>GCFindDlg</name>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2279"/>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2325"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2278"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2324"/>
         <source>Find</source>
         <translation>Buscar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2284"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2283"/>
         <source>Find:</source>
         <translation>Buscar:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2299"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2298"/>
         <source>&amp;Close</source>
         <translation>&amp;Cerrar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2301"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2300"/>
         <source>&amp;Find</source>
         <translation>&amp;Buscar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2325"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2324"/>
         <source>Search string &apos;%1&apos; not found.</source>
         <translation>No se encontró la cadena &apos;%1&apos;.</translation>
     </message>
@@ -6046,366 +6054,366 @@ Razón: %3</translation>
 <context>
     <name>GCMainDlg</name>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="724"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="723"/>
         <source>Find toolbar</source>
         <translation>Buscar barra de herramientas</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="728"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="727"/>
         <source>Clear Chat Window</source>
         <translation>Limpiar la ventana de conversación</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="731"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="730"/>
         <source>Find</source>
         <translation>Buscar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="731"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="730"/>
         <source>&amp;Find</source>
         <translation>&amp;Buscar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="734"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="733"/>
         <source>Configure Room</source>
         <translation>Configurar la sala</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="734"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="733"/>
         <source>&amp;Configure Room</source>
         <translation>&amp;Configurar la sala</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="737"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="736"/>
         <source>Set Text Format</source>
         <translation>Establecer formato de texto</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="746"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="745"/>
         <source>Select Icon</source>
         <translation>Seleccionar icono</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="751"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="750"/>
         <source>Change Nickname...</source>
         <translation>Cambiar apodo...</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="755"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="754"/>
         <source>Enter Command...</source>
         <translation>Introduce comando...</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="763"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="762"/>
         <source>Paste and Send</source>
         <translation>Pegar y enviar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="766"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="765"/>
         <source>Templates</source>
         <translation>Plantillas</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="773"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="772"/>
         <source>Copy MUC JID</source>
         <translation>Copiar JID de la sala</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1044"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1043"/>
         <source> by %1</source>
         <translation>por %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1048"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1047"/>
         <source>
 Reason: %1</source>
         <translation>
 Motivo: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1087"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1086"/>
         <source>Edit Bookmark</source>
         <translation>Editar marca</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1090"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1089"/>
         <source>Add to bookmarks</source>
         <translation>Añadir a marcadores</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1135"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1134"/>
         <source>Error: Cannot parse command: </source>
         <translation>Error: No se puede analizar el comando: </translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1245"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1244"/>
         <source>Warning</source>
         <translation>Advertencia</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1246"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1245"/>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
         <translation>¿Estás seguro de que deseas limpiar la ventana de conversación?
 (nota: esto no afecta el historial guardado)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1303"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1302"/>
         <source>Disconnected.</source>
         <translation>Desconectado.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1331"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1330"/>
         <source>Reconnecting...</source>
         <translation>Reconectando...</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1338"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1337"/>
         <source>Error: You are in or joining this room already!</source>
         <translation>Error: ¡Ya estás dentro de esta sala, o entrando en ella!</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1393"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1392"/>
         <source>Unable to join groupchat.	Reason: %1</source>
         <translation>No se puede entrar a la sala de charla.
 Motivo: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1395"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1394"/>
         <source>Unexpected groupchat error: %1</source>
         <translation>Error inesperado en la sala: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1429"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1428"/>
         <source>Please choose a different nickname</source>
         <translation>Por favor, elige un apodo diferente</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1433"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1432"/>
         <source>An error occurred (errorcode: %1)</source>
         <translation>Ha ocurrido un error (código de error: %1)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1466"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1465"/>
         <source>New room created</source>
         <translation>Nueva sala creada</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1478"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1477"/>
         <source>%1 has joined the room</source>
         <translation>%1 ha entrado a la sala</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1482"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1481"/>
         <source>%3 has joined the room as %1 and %2</source>
         <translation>%3 ha entrado a la sala como %1 y %2</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1485"/>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1489"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1484"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1488"/>
         <source>%2 has joined the room as %1</source>
         <translation>%2 ha entrado a la sala como %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1498"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1497"/>
         <source> and now is %1</source>
         <translation> y ahora es %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1516"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1515"/>
         <source>%1 is now %2 and %3</source>
         <translation>%1 es ahora %2 y %3</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1519"/>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1524"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1518"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1523"/>
         <source>%1 is now %2</source>
         <translation>%1 esta ahora %2</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1529"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1528"/>
         <source> (Reason: %1)</source>
         <translation> (Razón: %1)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1553"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1552"/>
         <source>This room has been destroyed.</source>
         <translation>La sala ha sido destruida.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1557"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1556"/>
         <source>Reason: %1</source>
         <translation>Motivo: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1563"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1562"/>
         <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
         <translation>¿Quieres entrar al lugar alternativo &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1564"/>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1570"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1563"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1569"/>
         <source>Room Destroyed</source>
         <translation>Sala destruida</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1589"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1588"/>
         <source>Banned</source>
         <translation>Baneado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1589"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1588"/>
         <source>You have been banned from the room</source>
         <translation>Has sido baneado de la sala</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1590"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1589"/>
         <source>You have been banned from the room by %1</source>
         <translation>Has sido baneado de la sala por %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1591"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1590"/>
         <source>%1 has been banned</source>
         <translation>%1 ha sido baneado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1592"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1591"/>
         <source>%1 has been banned by %2</source>
         <translation>%1 ha sido baneado por %2</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1597"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1596"/>
         <source>Kicked</source>
         <translation>Expulsado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1597"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1596"/>
         <source>You have been kicked from the room</source>
         <translation>Has sido expulsado de la sala</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1598"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1597"/>
         <source>You have been kicked from the room by %1</source>
         <translation>Has sido expulsado de la sala por %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1599"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1598"/>
         <source>%1 has been kicked</source>
         <translation>%1 ha sido expulsado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1600"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1599"/>
         <source>%1 has been kicked by %2</source>
         <translation>%1 ha sido expulsado por %2</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1605"/>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1613"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1604"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1612"/>
         <source>Removed</source>
         <translation>Eliminado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1606"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1605"/>
         <source>You have been removed from the room due to an affiliation change</source>
         <translation>Has sido eliminado de la sala debido a un cambio de afiliación</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1607"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1606"/>
         <source>You have been removed from the room by %1 due to an affiliation change</source>
         <translation>Has sido eliminado de la sala por %1, debido a un cambio de afiliación</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1608"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1607"/>
         <source>%1 has been removed from the room due to an affilliation change</source>
         <translation>%1 ha sido eliminado de la sala por un cambio de afiliación</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1609"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1608"/>
         <source>%1 has been removed from the room by %2 due to an affilliation change</source>
         <translation>%1 ha sido eliminado de la sala por %2 por un cambio de afiliación</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1614"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1613"/>
         <source>You have been removed from the room because the room was made members only</source>
         <translation>Has sido eliminado de la sala porque la sala se hizo sólo para miembros</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1615"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1614"/>
         <source>You have been removed from the room by %1 because the room was made members only</source>
         <translation>Has sido eliminado de la sala por %1, porque la sala se hizo sólo para miembros</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1616"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1615"/>
         <source>%1 has been removed from the room because the room was made members-only</source>
         <translation>%1 ha sido eliminado de la sala porque la sala se creó sólo para miembros</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1617"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1616"/>
         <source>%1 has been removed from the room by %2 because the room was made members-only</source>
         <translation>%1 ha sido eliminado de la sala por %2 porque la sala se creó sólo para miembros</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1623"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1622"/>
         <source>%1 is now known as %2</source>
         <translation>%1 ahora se llama %2</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1627"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1626"/>
         <source>%1 has left the room</source>
         <translation>%1 ha salido de la sala</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1697"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1696"/>
         <source>The topic has been set to</source>
         <translation>El tema ha sido establecido a</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1700"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1699"/>
         <source> has unset the topic</source>
         <translation> ha quitado el tema</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1700"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1699"/>
         <source> has set the topic to</source>
         <translation> ha establecido el tema a</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1764"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1763"/>
         <source>Connected.</source>
         <translation>Conectado.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2158"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2157"/>
         <source>Save</source>
         <translation>Guardar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2159"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2158"/>
         <source>Delete</source>
         <translation>Borrar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2160"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2159"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2169"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2168"/>
         <source>&amp;Name:</source>
         <translation>&amp;Nombre:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2170"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2169"/>
         <source>N&amp;ick:</source>
         <translation>A&amp;podo:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2171"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2170"/>
         <source>&amp;Auto join:</source>
         <translation>Entrar &amp;automáticamente:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2182"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2181"/>
         <source>Bookmark conference</source>
         <translation>Marcar sala</translation>
     </message>
@@ -6413,13 +6421,13 @@ Motivo: %1</translation>
 <context>
     <name>GCMainDlg::Private</name>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="338"/>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="393"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="337"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="392"/>
         <source>new nick</source>
         <translation>nuevo apodo</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="361"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="360"/>
         <source>Command</source>
         <translation>Comando</translation>
     </message>
@@ -7289,7 +7297,7 @@ Para enviar órdenes, son usados los mensajes normales, por lo que este compleme
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gpgprocess.cpp" line="166"/>
         <source>GnuPG program not found</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7651,7 +7659,7 @@ Puedes marcar o desmarcar un contacto para la eliminación de su historial desde
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -7664,7 +7672,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -7682,7 +7690,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -7700,7 +7708,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -7717,7 +7725,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>HttpAuthEvent</name>
     <message>
-        <location filename="../../psi-plus/src/psievent.cpp" line="574"/>
+        <location filename="../../psi-plus/src/psievent.cpp" line="573"/>
         <source>HTTP Authentication Request</source>
         <translation>Peticion de autenticación HTTP</translation>
     </message>
@@ -7753,27 +7761,27 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>HttpProxyGetStream</name>
     <message>
-        <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="983"/>
+        <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="991"/>
         <source>Authentication failed</source>
         <translation>Fallo de autentificación</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="987"/>
+        <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="995"/>
         <source>Host not found</source>
         <translation>Servidor no encontrado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="991"/>
+        <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="999"/>
         <source>Access denied</source>
         <translation>Acceso denegado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="995"/>
+        <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="1003"/>
         <source>Connection refused</source>
         <translation>Conexión rechazada</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="999"/>
+        <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="1007"/>
         <source>Invalid reply</source>
         <translation>Respuesta no válida</translation>
     </message>
@@ -7781,27 +7789,27 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>HttpProxyPost</name>
     <message>
-        <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="700"/>
+        <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="709"/>
         <source>Authentication failed</source>
         <translation>Fallo de autentificación</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="704"/>
+        <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="713"/>
         <source>Host not found</source>
         <translation>Servidor no encontrado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="708"/>
+        <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="717"/>
         <source>Access denied</source>
         <translation>Acceso denegado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="712"/>
+        <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="721"/>
         <source>Connection refused</source>
         <translation>Conexión rechazada</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="716"/>
+        <location filename="../../psi-plus/iris/src/irisnet/noncore/cutestuff/httppoll.cpp" line="725"/>
         <source>Invalid reply</source>
         <translation>Respuesta no válida</translation>
     </message>
@@ -8091,18 +8099,18 @@ p, li { white-space: pre-wrap; }
     <name>IcqDie</name>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="116"/>
-        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it's much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
+        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="120"/>
         <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
 
-If you don't know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
+If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="265"/>
@@ -8194,7 +8202,7 @@ Tiene un número de pequeñas configuraciones que te ayudarán:
     <message>
         <location filename="../../psi-plus/src/plugins/generic/imageplugin/imageplugin.cpp" line="304"/>
         <source>This plugin is designed to send images to roster contacts.
-Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
         <translation>Este complemento ha sido diseñado para enviar imágenes a los contactos del listado.
 El cliente de tu contacto debe soportar XEP-0071: XHTML-IM y soportar el sistema de datos: URI.
@@ -8655,7 +8663,7 @@ a jugar gomoku. Quiere jugar %2.</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="211"/>
         <source>Hash</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="212"/>
@@ -8771,7 +8779,7 @@ a jugar gomoku. Quiere jugar %2.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="233"/>
-        <source>can't create folder %1 
+        <source>can&apos;t create folder %1 
 caching avatars will be not available</source>
         <translation>no se puede crear la carpeta %1 
 estará disponible la caché de avatares</translation>
@@ -8798,22 +8806,22 @@ estará disponible la caché de avatares</translation>
         <translation>Subscribirse al blog de %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="1035"/>
+        <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="1037"/>
         <source>Delete</source>
         <translation>Borrar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="1046"/>
+        <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="1048"/>
         <source>Add to favorites</source>
         <translation>Añadir a favoritos</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="1110"/>
+        <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="1112"/>
         <source>Authors: </source>
         <translation>Autores:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="1111"/>
+        <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="1113"/>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
 Currently, the plugin is able to: 
 * Coloring @nick, *tag and #message_id in messages from the juick@juick.com bot
@@ -9592,12 +9600,12 @@ Detalles: %1</translation>
         <translation>JID (o parte del JID)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/model.cpp" line="29"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/model.cpp" line="30"/>
         <source>Watch for JIDs</source>
         <translation>Velar por JIDs</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/model.cpp" line="30"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/model.cpp" line="31"/>
         <source>Sounds (if empty default sound will be used)</source>
         <translation>Sonidos (si se deja vacío se usará el sonido predeterminado)</translation>
     </message>
@@ -9762,22 +9770,22 @@ Etiquetas: %1</translation>
         <translation>Habilitar los eventos &apos;inactividad&apos; (terminar/ suspender conversación)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_advanced.ui" line="39"/>
+        <location filename="../../psi-plus/src/options/opt_advanced.ui" line="53"/>
         <source>Disables the sending of message events such as &quot;Contact is Typing...&quot;</source>
         <translation>Desactiva el envío de eventos del tipo: &quot;X está escribiendo&quot;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_advanced.ui" line="42"/>
+        <location filename="../../psi-plus/src/options/opt_advanced.ui" line="56"/>
         <source>Do not send composing events</source>
         <translation>No enviar eventos de redacción</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_advanced.ui" line="49"/>
+        <location filename="../../psi-plus/src/options/opt_advanced.ui" line="39"/>
         <source>Request receipts</source>
         <translation>Solicitar ingresos</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_advanced.ui" line="56"/>
+        <location filename="../../psi-plus/src/options/opt_advanced.ui" line="46"/>
         <source>Send receipts</source>
         <translation>Enviar ingresos</translation>
     </message>
@@ -10389,7 +10397,7 @@ Etiquetas: %1</translation>
     <message>
         <location filename="../../psi-plus/src/options/opt_events.ui" line="96"/>
         <source>Bounce dock:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_events.ui" line="110"/>
@@ -11091,7 +11099,7 @@ Etiquetas: %1</translation>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -11199,7 +11207,7 @@ Los nombres de opción no pueden estar vacios, acabar en &apos;.&apos; o contene
     <message>
         <location filename="../../psi-plus/src/plugins/dev/redirectorplugin/options.ui" line="22"/>
         <source>Redirect to JID:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/options.ui" line="22"/>
@@ -11383,7 +11391,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <source> If set to &quot;true&quot;, the server will
  automatically add people emailed
  often to the user&apos;s roster.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/options.ui" line="99"/>
@@ -11658,13 +11666,14 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="224"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="169"/>
         <source>Misc</source>
         <translation>Varios</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="232"/>
         <source>Number of blocked stanzas:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="261"/>
@@ -11708,7 +11717,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="409"/>
-        <source>Disable stopspam, if don't match any rule above
+        <source>Disable stopspam, if don&apos;t match any rule above
 (does not work for muc private messages)</source>
         <translation>Inhabilitar &apos;Detener spam&apos; si no coincide con ninguna de las reglas de arriba
 (no funciona para los mensajes privados de salas)</translation>
@@ -11754,7 +11763,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Inhabilitar sonido si la ventana de conversación está activa</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="172"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="175"/>
+        <source>Show Watch for JID button on chat toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="182"/>
+        <source>Show Watch for JID button in contact context menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="206"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
@@ -11796,7 +11815,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="224"/>
         <source>Do you want to delete the selected keys?</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="250"/>
@@ -12455,12 +12474,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Opciones para los plugins de Psi</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_plugins.cpp" line="129"/>
+        <location filename="../../psi-plus/src/options/opt_plugins.cpp" line="130"/>
         <source>No plugin selected.</source>
         <translation>Ningún plugin seleccionado.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/options/opt_plugins.cpp" line="141"/>
+        <location filename="../../psi-plus/src/options/opt_plugins.cpp" line="142"/>
         <source>Version: </source>
         <translation>Versión: </translation>
     </message>
@@ -12873,12 +12892,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="216"/>
         <source>Caps node</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="226"/>
         <source>Caps version</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="247"/>
@@ -12910,7 +12929,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="321"/>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="347"/>
         <source>if iq replaced</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="326"/>
@@ -13423,7 +13442,7 @@ Por favor inserta tu contraseña abajo:</translation>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="212"/>
         <source>%1: %2 - swch</source>
         <comment>Switch color</comment>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="284"/>
@@ -14126,12 +14145,12 @@ Selecciona la caja &lt;i&gt;Habilitar smileys&lt;/i&gt; si te gustaría que un t
 <context>
     <name>ProxyChooser</name>
     <message>
-        <location filename="../../psi-plus/src/proxy.cpp" line="364"/>
+        <location filename="../../psi-plus/src/proxy.cpp" line="363"/>
         <source>Edit...</source>
         <translation>Editar...</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/proxy.cpp" line="413"/>
+        <location filename="../../psi-plus/src/proxy.cpp" line="412"/>
         <source>None</source>
         <translation>Ninguno</translation>
     </message>
@@ -14217,380 +14236,380 @@ Selecciona la caja &lt;i&gt;Habilitar smileys&lt;/i&gt; si te gustaría que un t
     <name>PsiAccount</name>
     <message>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="408"/>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="1466"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="1462"/>
         <source>Unable to disable the account, as it has pending events.</source>
         <translation>No se pudo desactivar la cuenta ya que tiene eventos pendientes.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="1466"/>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="3412"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="1462"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="3408"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="1470"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="1466"/>
         <source>Disable Account</source>
         <translation>Desactivar cuenta</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="1470"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="1466"/>
         <source>The account is currently active.
 Do you want to log out ?</source>
         <translation>La cuenta está actualmente activa.
 ¿Quieres desconectar?</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="1710"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="1706"/>
         <source>Reconnecting</source>
         <translation>Reconectando</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="1734"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="1730"/>
         <source>Encryption Error</source>
         <translation>Error de cifrado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="1735"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="1731"/>
         <source>Cannot connect: Encryption is enabled but no QCA2 SSL/TLS plugin is available.</source>
         <translation>No se puede conectar: El cifrado está activado pero no hay soporte (plugin) QCA2 SSL/TLS disponible.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="1751"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="1747"/>
         <source>Feature Removed</source>
         <translation>Característica eliminada</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="1752"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="1748"/>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
         <translation>Esta cuenta fue configurada para usar la funcionalidad &apos;Búsqueda de puerto SSL antiguo&apos;, pero esta funcionalidad ya no está soportada. A menos que tu sevidor XMPP esté muy desactualizado, este cambio no debería afectarte. Si tienes problemas al conectarte, por favor revista las configuraciones de tu cuenta para corrección o contacta a tu administrador XMPP.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="1900"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="1896"/>
         <source>Server Authentication</source>
         <translation>Autenticación del Servidor</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2062"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2058"/>
         <source>The server does not support TLS encryption.</source>
         <translation>El servidor no soporta cifrado TLS.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2067"/>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2318"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2063"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2314"/>
         <source>Server Error</source>
         <translation>Error del Servidor</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2088"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2084"/>
         <source>Disconnected</source>
         <translation>Desconectado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2092"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2088"/>
         <source>XML Parsing Error</source>
         <translation>Error análisis XML</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2096"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2092"/>
         <source>XMPP Protocol Error</source>
         <translation>Error protocolo XMPP</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2114"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2110"/>
         <source>Generic stream error</source>
         <translation>Error genérico de flujo</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2116"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2112"/>
         <source>Conflict (remote login replacing this one)</source>
         <translation>Conflicto (conexión desde otro equipo reemplazando a ésta)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2121"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2117"/>
         <source>Timed out from inactivity</source>
         <translation>Fin del tiempo de inactividad</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2123"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2119"/>
         <source>Internal server error</source>
         <translation>Error interno del servidor</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2125"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2121"/>
         <source>Invalid XML</source>
         <translation>XML inválido</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2127"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2123"/>
         <source>Policy violation</source>
         <translation>Violación de política</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2131"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2127"/>
         <source>Server out of resources</source>
         <translation>El servidor no dispone de recursos</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2135"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2131"/>
         <source>Server is shutting down</source>
         <translation>El servidor está apagándose</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2137"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2133"/>
         <source>XMPP Stream Error: %1</source>
         <translation>Error de flujo XMPP: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2144"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2140"/>
         <source>Unable to connect to server</source>
         <translation>No se puede conectar al servidor</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2146"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2142"/>
         <source>Host not found</source>
         <translation>Servidor no encontrado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2148"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2144"/>
         <source>Error connecting to proxy</source>
         <translation>Error conectando al proxy</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2150"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2146"/>
         <source>Error during proxy negotiation</source>
         <translation>Error durante negociación con el proxy</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2152"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2148"/>
         <source>Proxy authentication failed</source>
         <translation>Autentificación del proxy fallida</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2157"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2153"/>
         <source>Socket/stream error</source>
         <translation>Error de socket/flujo</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2158"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2154"/>
         <source>Connection Error: %1</source>
         <translation>Error de conexión: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2165"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2161"/>
         <source>Host no longer hosted</source>
         <translation>El servidor ya no está hospedado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2167"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2163"/>
         <source>Host unknown</source>
         <translation>Servidor desconocido</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2169"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2165"/>
         <source>A required remote connection failed</source>
         <translation>Conexión remota requerida fallida</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2173"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2169"/>
         <source>See other host: %1</source>
         <translation>Vea otro servidor: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2175"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2171"/>
         <source>Server does not support proper XMPP version</source>
         <translation>El servidor no soporta adecuadamente la versión XMPP</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2176"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2172"/>
         <source>Stream Negotiation Error: %1</source>
         <translation>Error de Flujo de Negociación: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2182"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2178"/>
         <source>Server rejected STARTTLS</source>
         <translation>El servidor rechazó STARTTLS</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2186"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2182"/>
         <source>TLS handshake error</source>
         <translation>Error de negociación TLS</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2188"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2184"/>
         <source>Broken security layer (TLS)</source>
         <translation>Capa de seguridad rota (TLS)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2196"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2192"/>
         <source>Unable to login</source>
         <translation>No se puede conectar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2199"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2195"/>
         <source>No appropriate mechanism available for given security settings (e.g. SASL library too weak, or plaintext authentication not enabled)</source>
         <translation>No hay ningún mecanismo disponible para las configuraciones de seguridad dada (p.ej. biblioteca SASL demasiado débil, o autenticación de texto plando no habilitada)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2202"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2198"/>
         <source>Bad server response</source>
         <translation>Respuesta incorrecta del servidor</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2204"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2200"/>
         <source>Server failed mutual authentication</source>
         <translation>El servidor falló en la autentificación mútua</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2206"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2202"/>
         <source>Encryption required for chosen SASL mechanism</source>
         <translation>Cifrado requerido para el mecanismo SASL elegido</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2208"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2204"/>
         <source>Invalid account information</source>
         <translation>Cuenta de información inválida</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2211"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2207"/>
         <source>Invalid SASL mechanism</source>
         <translation>Mecanismo SASL inválido</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2213"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2209"/>
         <source>Invalid realm</source>
         <translation>Región inválida</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2215"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2211"/>
         <source>SASL mechanism too weak for this account</source>
         <translation>Mecanismo SASL demasiado débil para esta cuenta</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2217"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2213"/>
         <source>Wrong Password</source>
         <translation>Contraseña errónea</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2221"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2217"/>
         <source>Temporary auth failure</source>
         <translation>Fallo temporal de autentificación</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2225"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2221"/>
         <source>Authentication error: %1</source>
         <translation>Error de autentificación: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2228"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2224"/>
         <source>Broken security layer (SASL)</source>
         <translation>Capa de seguridad rota (SASL)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2231"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2227"/>
         <source>None</source>
         <translation>Ninguno</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2319"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2315"/>
         <source>There was an error communicating with the server.
 Details: %1</source>
         <translation>Ha ocurrido un error al comunicarse con el servidor.
 Detalles: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2768"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2764"/>
         <source>Whiteboard invitation</source>
         <translation>Invitación a la pizarra</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2935"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2931"/>
         <source>Incoming file</source>
         <translation>Archivo entrante</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2935"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2931"/>
         <source>Do you want to accept %1 (%2 kb) from %3?</source>
         <translation>¿Quieres aceptar %1 (%2 KB) de %3?</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="2984"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="2980"/>
         <source>Logged out</source>
         <translation>Sesión terminada</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="3413"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="3409"/>
         <source>You must be connected to the server in order to do this.</source>
         <translation>Debes estar conectado al servidor para realizar esto.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="3518"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="3514"/>
         <source>Unregister from %1</source>
         <translation>Eliminar registro de %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="3519"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="3515"/>
         <source>Are you sure?</source>
         <translation>¿Estás seguro?</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="4097"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="4092"/>
         <source>Name:	</source>
         <translation>Nombre:	</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="4098"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="4093"/>
         <source>Version:	</source>
         <translation>Versión:	</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="4099"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="4094"/>
         <source>Os:	</source>
         <translation>Sistema operativo:	</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="4101"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="4096"/>
         <source>Version Query Information</source>
         <translation>Información de la consulta de versión</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="5326"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="5321"/>
         <source>Headline</source>
         <translation>Titular</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6100"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6095"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
         <translation>Ha ocurrido un error al intentar firmar tu estado.
 Motivo: %1.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6210"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6205"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[ERROR: Este mensaje está cifrado, y no puedes descifrarlo.]</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6534"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6529"/>
         <source>No key</source>
         <translation>Sin clave</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6534"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6529"/>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Psi no pudo localizar una clave OpenPGP para uso con &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Ésto puede suceder si no tienes la clave pública indicada por la presencia firmada de tu contacto, o si éste no está indicando ninguna clave en su presencia.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6539"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6534"/>
         <source>&amp;Choose key manually</source>
         <translation>Es&amp;coger una clave manualmente</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6539"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6534"/>
         <source>Do &amp;nothing</source>
         <translation>No hacer &amp;nada</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6546"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6541"/>
         <source>Public Key: %1</source>
         <translation>Clave pública: %1</translation>
     </message>
@@ -15437,7 +15456,7 @@ Motivo: %1.</translation>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="39"/>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
-        <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
+        <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
         <translation>Establece estado. ESTADO debe ser uno de &apos;online&apos;, &apos;chat&apos;, &apos;away&apos;, &apos;xa&apos;, &apos;dnd&apos;, &apos;offline&apos;.</translation>
     </message>
     <message>
@@ -15627,7 +15646,7 @@ Puede significar que ya estás ejecutando otra instancia de Psi. Puede que exper
     </message>
     <message>
         <location filename="../../psi-plus/src/psicontact.cpp" line="403"/>
-        <location filename="../../psi-plus/src/userlist.cpp" line="671"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="675"/>
         <source>Hidden</source>
         <translation>Oculto</translation>
     </message>
@@ -16319,77 +16338,77 @@ Proceed?</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2848"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2902"/>
         <source>Username</source>
         <translation>Nombre de usuario</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2849"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2903"/>
         <source>Nickname</source>
         <translation>Apodo</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2850"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2904"/>
         <source>Password</source>
         <translation>Contraseña</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2851"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2905"/>
         <source>Name</source>
         <translation>Nombre</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2852"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2906"/>
         <source>First Name</source>
         <translation>Nombre</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2853"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2907"/>
         <source>Last Name</source>
         <translation>Apellido</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2854"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2908"/>
         <source>E-mail</source>
         <translation>Correo electrónico</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2855"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2909"/>
         <source>Address</source>
         <translation>Dirección</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2856"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2910"/>
         <source>City</source>
         <translation>Ciudad</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2857"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2911"/>
         <source>State</source>
         <translation>Estado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2858"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2912"/>
         <source>Zipcode</source>
         <translation>Código Postal</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2859"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2913"/>
         <source>Phone</source>
         <translation>Teléfono</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2860"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2914"/>
         <source>URL</source>
         <translation>URL</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2861"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2915"/>
         <source>Date</source>
         <translation>Fecha</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2862"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2916"/>
         <source>Misc</source>
         <translation>Misc</translation>
     </message>
@@ -17014,17 +17033,17 @@ Description: </source>
 Descripción: </translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1118"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1117"/>
         <source>Warning: %1 is deprecated and will be removed in the future</source>
         <translation>Advertencia: %1 está obsoleto y será eliminado en el futuro</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1121"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1120"/>
         <source>Please set a shortcut for &apos;Change to quick command mode&apos;, use that shortcut and enter &apos;%1&apos;.</source>
         <translation>Por favor, establece un atajo de teclado para &apos;Cambiar a modo de comando rápido&apos;, usa dicho atajo e introduce &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1123"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1122"/>
         <source>Please instead press %1 and enter &apos;%2&apos;.</source>
         <translation>Por favor, en lugar de esto, pulsa %1 e introduce &apos;%2&apos;.</translation>
     </message>
@@ -17571,22 +17590,34 @@ Descripción: </translation>
     <message numerus="yes">
         <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="286"/>
         <source>%n day(s) </source>
-        <translation><numerusform>%n día </numerusform><numerusform>%n días </numerusform></translation>
+        <translation>
+            <numerusform>%n día </numerusform>
+            <numerusform>%n días </numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="289"/>
         <source>%n hour(s) </source>
-        <translation><numerusform>%n hora </numerusform><numerusform>%n horas </numerusform></translation>
+        <translation>
+            <numerusform>%n hora </numerusform>
+            <numerusform>%n horas </numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="292"/>
         <source>%n minute(s) </source>
-        <translation><numerusform>%n minuto</numerusform><numerusform>%n minutos</numerusform></translation>
+        <translation>
+            <numerusform>%n minuto</numerusform>
+            <numerusform>%n minutos</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="295"/>
         <source>%n second(s) </source>
-        <translation><numerusform>%n segundo</numerusform><numerusform>%n segundos</numerusform></translation>
+        <translation>
+            <numerusform>%n segundo</numerusform>
+            <numerusform>%n segundos</numerusform>
+        </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickdownloader.cpp" line="43"/>
@@ -17717,12 +17748,12 @@ El complemento OTR no funcionará.</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="923"/>
         <source>&lt;b&gt;The following message received from %1 was &lt;i&gt;not&lt;/i&gt; encrypted:&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="931"/>
         <source>Your message was not sent. Either end your private conversation, or restart it.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="1044"/>
@@ -17853,12 +17884,12 @@ Contraseña: %5</translation>
         <translation>Si la Suscripción es &apos;%1&apos; entonces %2 %3</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psi_profiles.cpp" line="783"/>
+        <location filename="../../psi-plus/src/psi_profiles.cpp" line="777"/>
         <source>%1 Proxy</source>
         <translation>Proxy %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psi_profiles.cpp" line="1207"/>
+        <location filename="../../psi-plus/src/psi_profiles.cpp" line="1191"/>
         <source>Event notifier</source>
         <translation>Notificador de eventos</translation>
     </message>
@@ -17917,7 +17948,7 @@ Contraseña: %5</translation>
     <message>
         <location filename="../../psi-plus/src/psigrowlnotifier.cpp" line="73"/>
         <location filename="../../psi-plus/src/psigrowlnotifier.cpp" line="205"/>
-        <location filename="../../psi-plus/src/psigrowlnotifier.cpp" line="252"/>
+        <location filename="../../psi-plus/src/psigrowlnotifier.cpp" line="259"/>
         <source>Incoming Headline</source>
         <translation>Título entrante</translation>
     </message>
@@ -18099,88 +18130,88 @@ Contraseña: %5</translation>
         <translation>Sin nombre</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/userlist.cpp" line="800"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="804"/>
         <source>Subscription</source>
         <translation>Subscripción</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/userlist.cpp" line="803"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="807"/>
         <source>OpenPGP</source>
         <translation>OpenPGP</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/userlist.cpp" line="807"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="811"/>
         <source>Mood</source>
         <translation>Estado de ánimo</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/userlist.cpp" line="819"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="823"/>
         <source>Activity</source>
         <translation>Actividad</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/userlist.cpp" line="830"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="834"/>
         <source>Listening to</source>
         <translation>Escuchando</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/userlist.cpp" line="853"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="857"/>
         <source>[blank]</source>
         <translation>[vacío]</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/userlist.cpp" line="882"/>
         <location filename="../../psi-plus/src/userlist.cpp" line="886"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="890"/>
         <source>Signed</source>
         <translation>Firmado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/userlist.cpp" line="889"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="893"/>
         <source>Bad signature</source>
         <translation>Firma incorrecta</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/userlist.cpp" line="904"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="908"/>
         <source>Using</source>
         <translation>Usando</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/userlist.cpp" line="911"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="915"/>
         <source>Time</source>
         <translation>Tiempo</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/userlist.cpp" line="932"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="936"/>
         <source>Role: %1</source>
         <translation>Rol: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/userlist.cpp" line="933"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="937"/>
         <source>Affiliation: %1</source>
         <translation>Afiliación: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/userlist.cpp" line="939"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="943"/>
         <source>Last Status</source>
         <translation>Último cambio de estado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/userlist.cpp" line="945"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="949"/>
         <source>Status Message</source>
         <translation>Mensaje de estado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/userlist.cpp" line="966"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="970"/>
         <source>Last Available</source>
         <translation>Disponible por última vez</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/userlist.cpp" line="972"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="976"/>
         <source>Presence Error</source>
         <translation>Error de presencia</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/userlist.cpp" line="981"/>
+        <location filename="../../psi-plus/src/userlist.cpp" line="985"/>
         <source>Last Status Message</source>
         <translation>Ultimo mensaje de estado</translation>
     </message>
@@ -18213,17 +18244,17 @@ Contraseña: %5</translation>
     <message>
         <location filename="../../psi-plus/src/plugins/dev/redirectorplugin/redirectplugin.cpp" line="122"/>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/dev/redirectorplugin/redirectplugin.cpp" line="123"/>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/dev/redirectorplugin/redirectplugin.cpp" line="124"/>
         <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18316,7 +18347,10 @@ Razón: %1</translation>
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="454"/>
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation><numerusform>celebra su cumpleaños en %n día</numerusform><numerusform>celebra su cumpleaños en %n días</numerusform></translation>
+        <translation>
+            <numerusform>celebra su cumpleaños en %n día</numerusform>
+            <numerusform>celebra su cumpleaños en %n días</numerusform>
+        </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="457"/>
@@ -18435,7 +18469,7 @@ La primera vez que instales el complemento, necesitarás iniciar sesión en toda
 <context>
     <name>RosterExchangeEvent</name>
     <message>
-        <location filename="../../psi-plus/src/psievent.cpp" line="625"/>
+        <location filename="../../psi-plus/src/psievent.cpp" line="624"/>
         <source>This user wants to modify your roster.</source>
         <translation>Este usuario quiere modificar tu lista de contactos.</translation>
     </message>
@@ -18814,7 +18848,10 @@ Razón: %1</translation>
     <message numerus="yes">
         <location filename="../../psi-plus/src/searchdlg.cpp" line="497"/>
         <source>Added %n users to your roster.</source>
-        <translation><numerusform>Añadidos %n usuarios a tu lista de contactos.</numerusform><numerusform>Añadidos %n usuarios a tu lista de contactos.</numerusform></translation>
+        <translation>
+            <numerusform>Añadidos %n usuarios a tu lista de contactos.</numerusform>
+            <numerusform>Añadidos %n usuarios a tu lista de contactos.</numerusform>
+        </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/searchdlg.cpp" line="502"/>
@@ -19869,7 +19906,7 @@ Esto permite que todas las configuraciones (íconos, distribución de la barra d
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/stopspamplugin.cpp" line="728"/>
         <source>Block stanza from </source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/stopspamplugin.cpp" line="729"/>
@@ -19913,7 +19950,7 @@ When a user has passed, the test will send a re-authorization request. It should
 The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -20045,7 +20082,7 @@ Currently supports:
   JEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="356"/>
@@ -20111,12 +20148,12 @@ Por favor, corrige y reintenta.</translation>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="512"/>
         <source>Bad Stanza &apos;%1&apos;.  Must be &apos;message&apos;, &apos;presence&apos;, or &apos;iq&apos;</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="520"/>
         <source>You must enter at least one stanza!</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="675"/>
@@ -20403,7 +20440,7 @@ Esperamos que disfrute usándolo tanto como nosotros haciéndolo!
         <source>You can type these special commands in chat and groupchat dialogs:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; '/me' is replaced by your nick&lt;/li&gt;
+&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
 &lt;/ul&gt;
 And these work only in groupchat dialog:
 &lt;ul&gt;
@@ -20982,17 +21019,17 @@ Para que funcione con GNOME MPlayer no hay necesidad de configuración adicional
         <translation>¿Deseas guardar los cambios?</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/view.cpp" line="66"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/view.cpp" line="71"/>
         <source>Check</source>
         <translation>Seleccionar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/view.cpp" line="67"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/view.cpp" line="72"/>
         <source>Uncheck</source>
         <translation>Desmarcar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/view.cpp" line="68"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/view.cpp" line="73"/>
         <source>Invert</source>
         <translation>Invertir</translation>
     </message>
@@ -21076,56 +21113,63 @@ Para que funcione con GNOME MPlayer no hay necesidad de configuración adicional
 <context>
     <name>Watcher</name>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="206"/>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="575"/>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="611"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="231"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="671"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="707"/>
         <source>Empty item</source>
         <translation>Elemento vacío</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="358"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="412"/>
         <source> change status to </source>
         <translation> cambia estado a </translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="475"/>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="483"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="528"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="568"/>
+        <source>Don&apos;t watch for JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="588"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="596"/>
         <source>Choose a sound file</source>
         <translation>Elije un archivo de sonido</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="477"/>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="485"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="590"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="598"/>
         <source>Sound (*.wav)</source>
         <translation>Sonido (*.wav)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="510"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="623"/>
         <source>&lt;br&gt;Status Message: %1</source>
         <translation>&lt;br&gt;Mensaje de estado: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="512"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="625"/>
         <source>Watcher Plugin</source>
         <translation>Complemento Observador</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="537"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="532"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="562"/>
         <source>Watch for JID</source>
         <translation>Observar el JID</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="617"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="713"/>
         <source>Author: </source>
         <translation>Autor: </translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="618"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="714"/>
         <source>Email: </source>
         <translation>Correo: </translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="619"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="715"/>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
         <translation>Este complemento ha sido diseñado para monitorizar el estado de contactos específicos de la lista de contactos, así como la sustitución de sonidos estándares de mensajes entrantes.
@@ -21397,12 +21441,12 @@ Do you still want to close the window?</source>
 <context>
     <name>WebView</name>
     <message>
-        <location filename="../../psi-plus/src/webview.cpp" line="47"/>
+        <location filename="../../psi-plus/src/webview.cpp" line="48"/>
         <source>Quote</source>
         <translation>Cita</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/webview.cpp" line="48"/>
+        <location filename="../../psi-plus/src/webview.cpp" line="49"/>
         <source>Ctrl+S</source>
         <translation>Ctrl+S</translation>
     </message>
@@ -21447,7 +21491,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/src/xmlconsole.ui" line="124"/>
         <source>Dump Ringbuf</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/xmlconsole.ui" line="131"/>
@@ -21468,7 +21512,7 @@ Do you still want to close the window?</source>
 <context>
     <name>XMPP::ClientStream</name>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/stream.cpp" line="797"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/stream.cpp" line="798"/>
         <source>Offered mechanisms: </source>
         <translation>Mecanismos ofrecidos: </translation>
     </message>
@@ -21534,7 +21578,7 @@ Do you still want to close the window?</source>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1083"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1080"/>
         <source>No VCard available</source>
         <translation>No hay vCard disponible</translation>
     </message>
@@ -21599,7 +21643,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="252"/>
         <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="253"/>
@@ -21619,7 +21663,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="254"/>
         <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="255"/>
@@ -21887,12 +21931,12 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="22"/>
         <source>Auto Reply Message If Recv:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="42"/>
         <source>Auto Reply Message If No Recv:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="68"/>
@@ -21903,12 +21947,12 @@ Do you still want to close the window?</source>
 [-+!]other - default
 [-+!]nil - not in list
 # - comment to end line</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="97"/>
         <source>Pause for next Recv message:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="130"/>
@@ -22849,7 +22893,7 @@ Reautorización...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodnetman.cpp" line="276"/>
-        <source>Can't get files!
+        <source>Can&apos;t get files!
 Try remove cookies.</source>
         <translation>¡No se pueden obtener los archivos!
 Intente eliminar las cookies.</translation>
@@ -22956,7 +23000,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711</translation>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
