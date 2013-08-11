@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.0" language="he">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="he" version="2.0">
 <context>
     <name>@default</name>
     <message>
@@ -49,7 +47,7 @@
     <message>
         <location filename="../../psi-plus/src/ahcommanddlg.cpp" line="122"/>
         <source>Execute</source>
-        <translation>ביצוע</translation>
+        <translation>הרץ</translation>
     </message>
 </context>
 <context>
@@ -63,7 +61,7 @@
     <message>
         <location filename="../../psi-plus/src/about.ui" line="42"/>
         <source>psi/psiplus_logo</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message utf8="true">
         <location filename="../../psi-plus/src/about.ui" line="106"/>
@@ -234,7 +232,7 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="139"/>
         <source>Many icons are from his Crystal icon theme</source>
-        <translation>צלמיות רבות הינן מן מוטיב הצלמיות ‫Crystal שלו</translation>
+        <translation>צלמיות רבות הינן מתוך מוטיב הצלמיות &amp;#8235;Crystal שלו</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="142"/>
@@ -245,12 +243,12 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="148"/>
         <source>Original Mac Port</source>
-        <translation>פורט ‫Mac מקורי</translation>
+        <translation>פורט &amp;#8235;Mac מקורי</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="151"/>
         <source>Mac OS X Port</source>
-        <translation>פורט ‫Mac OS X</translation>
+        <translation>פורט &amp;#8235;Mac OS X</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="154"/>
@@ -284,7 +282,7 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="183"/>
         <source>Sponsor (Summer of Code)</source>
-        <translation>נותנת חסות (קיץ של קוד)</translation>
+        <translation>נותנת חסות (Summer of Code)</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/aboutdlg.cpp" line="188"/>
@@ -314,7 +312,7 @@ Isratine Citizen &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br
 &amp;nbsp;&amp;nbsp;מתרגם (Rahut)&lt;br&gt;
 &lt;br&gt;
 &lt;center&gt;-= מנשר =-&lt;/center&gt;
-קבוצות התרגום של Psi וגם Psi‪+‬ זקוקות למתרגם או למתרגמת חדשים להם תהיה האפשרות להמשיך את מלאכת התרגום של Psi ונגזרותיו באופן שוטף; האם ביכולתך לעזור? לפרטים ניתן להפנות הודעת Jabber/XMPP בעניין אל ראש צוות Jabber ישראל (XMPP IL) בכתובת
+קבוצות התרגום של Psi וגם Psi&amp;#8234;+‬ זקוקות למתרגם או למתרגמת חדשים להם תהיה האפשרות להמשיך את מלאכת התרגום של Psi ונגזרותיו באופן שוטף; האם ביכולתך לעזור? לפרטים ניתן להפנות הודעת Jabber/XMPP בעניין אל ראש צוות Jabber ישראל (XMPP IL) בכתובת
 &lt;a href=&quot;xmpp:israeli@failar.nu&quot;&gt;xmpp:israeli@failar.nu&lt;/a&gt;. רב תודות!</translation>
     </message>
 </context>
@@ -330,7 +328,7 @@ Isratine Citizen &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br
         <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
 &lt;br&gt;
 Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing XMPP account then leave this box unchecked.</source>
-        <translation>&lt;qt&gt;אנא בחר &lt;b&gt;שם&lt;/b&gt; ידידותי שביכולתו של Psi להפנות אל חשבון זה.&lt;br&gt;
+        <translation>&lt;qt&gt;אנא בחר &lt;b&gt;שם&lt;/b&gt; ידידותי אשר ביכולתו של Psi להפנות אל חשבון זה.&lt;br&gt;
 &lt;br&gt;
 הקלק על תיבת הסימון &lt;b&gt;רישום חשבון חדש&lt;/b&gt; אם ברצונך מן Psi לנסות וליצור חשבון עבורך בשרת מרוחק.  היה ובכוונתך להוסיף חשבון XMPP קיים אז יש להשאיר את את תיבה זו ריקה.</translation>
     </message>
@@ -352,17 +350,17 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus/src/accountadd.ui" line="146"/>
         <source>&amp;Add</source>
-        <translation>&amp;הוסף</translation>
+        <translation>הוס&amp;ף</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountadd.ui" line="149"/>
         <source>Alt+A</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountadd.ui" line="155"/>
         <source>psi/addContact</source>
-        <translation type="unfinished">psi/addContact</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -370,7 +368,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus/src/accountadddlg.cpp" line="46"/>
         <source>Check this option if you don&apos;t yet have an XMPP account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
-        <translation>סמן את אפשרות זו במידה ואין ברשותך חשבון XMPP וברצונך לרשום אחד.  לתשומת לבך, פעולה זו תעבוד על שרתים שמתירים רישום אלמוני בלבד.</translation>
+        <translation>סמן את אפשרות זו במידה ואין ברשותך חשבון XMPP וברצונך לרשום אחד.  לתשומת לבך, פעולה זו תעבוד על שרתים אשר מתירים רישום אלמוני בלבד.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountadddlg.cpp" line="50"/>
@@ -421,7 +419,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus/src/accountmanage.ui" line="64"/>
         <source>&amp;Add</source>
-        <translation>הוס&amp;פה</translation>
+        <translation>הוס&amp;ף</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmanage.ui" line="67"/>
@@ -431,17 +429,17 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus/src/accountmanage.ui" line="74"/>
         <source>&amp;Modify</source>
-        <translation>ה&amp;תאמה</translation>
+        <translation>ה&amp;תאם</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmanage.ui" line="81"/>
         <source>Rem&amp;ove</source>
-        <translation>הס&amp;רה</translation>
+        <translation>הס&amp;ר</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmanage.ui" line="84"/>
         <source>psi/remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -510,7 +508,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus/src/accountmodify.ui" line="117"/>
         <source>Change...</source>
-        <translation>שנה...</translation>
+        <translation>שינוי...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodify.ui" line="129"/>
@@ -555,27 +553,27 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus/src/accountmodify.ui" line="220"/>
         <source>&lt;qt&gt;Information about you is stored as a VCard on the server, which other people can retrieve at any time.&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;מידע אודותייך מאוחסן בתוך VCard על השרת, אותו אנשים יכולים לאחזר בכל זמן נתון.&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;מידע אודותייך מאוחסן בתור VCard על השרת, אותו אנשים יכולים לאחזר בכל זמן.&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodify.ui" line="254"/>
         <source>Edit Personal &amp;Details...</source>
-        <translation>ערוך &amp;פרטים אישיים...</translation>
+        <translation>עריכת &amp;פרטים אישיים...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodify.ui" line="266"/>
         <source>OpenPGP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodify.ui" line="295"/>
         <source>placeholder2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodify.ui" line="328"/>
         <source>Select &amp;Key...</source>
-        <translation>בחר &amp;מפתח...</translation>
+        <translation>בחירת &amp;מפתח...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodify.ui" line="335"/>
@@ -620,12 +618,12 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus/src/accountmodify.ui" line="555"/>
         <source>Connection proxy:</source>
-        <translation>התחברות פרוקסי:</translation>
+        <translation>התחברות Proxy:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodify.ui" line="562"/>
         <source>proxychooser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodify.ui" line="571"/>
@@ -701,12 +699,12 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus/src/accountmodify.ui" line="890"/>
         <source>Proxy:</source>
-        <translation>פרוקסי:</translation>
+        <translation>ציר:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodify.ui" line="905"/>
         <source>STUN/TURN</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodify.ui" line="940"/>
@@ -717,7 +715,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus/src/accountmodify.ui" line="973"/>
         <source>Authenticate as:</source>
-        <translation>התאמתות מחמירה:</translation>
+        <translation>התאמת בתור:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodify.ui" line="1014"/>
@@ -729,12 +727,12 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <source>&lt;b&gt;Attention!&lt;/b&gt;
 &lt;br/&gt;
 When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodify.ui" line="1041"/>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -789,12 +787,12 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="160"/>
         <source>Delete current host from the list</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="164"/>
         <source>&lt;don&apos;t use&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="192"/>
@@ -809,17 +807,17 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="194"/>
         <source>Baseline</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="195"/>
         <source>High</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="196"/>
         <source>Highest</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="228"/>
@@ -834,7 +832,7 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="239"/>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
-        <translation>במידה ואפשרות זו מסומנת, Psi ינסה להתחבר כאשר המחשב חוזר מן שינה.</translation>
+        <translation>במידה ואפשרות זו מסומנת, Psi ינסה להתחבר כאשר המחשב חוזר מתוך שינה.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="242"/>
@@ -864,22 +862,22 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="265"/>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
-        <translation>השתמש באפשרות זו לתצורה ידנית של מארח XMPP אם זה אינו זהה למארח אליו הינך מתחבר.  אפשרות זו שימושית בעיקר אם יש לך סוג מסוים של נתב פרוקסי במכונה המקומית שלך (דהיינו התחברות אל localhost), אך חשבונך הינו רשום על שרת חיצוני.</translation>
+        <translation>השתמש באפשרות זו לתצורה ידנית של מארח XMPP אם זה אינו זהה למארח אליו הינך מתחבר.  אפשרות זו שימושית בעיקר אם יש לך סוג מסוים של נתב ציר (proxy) במכונה המקומית שלך (דהיינו התחברות אל localhost), אך חשבונך הינו רשום על שרת חיצוני.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="271"/>
         <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
-        <translation>ביכולתך להתחבר עם לקוחות מרובים אל שרת XMPP עם חשבונך היחידי.  כל התחברות מובדלת על ידי שם &quot;משאב&quot;, שביכולתך להתוות בשדה זה.</translation>
+        <translation>באפשרותך להתחבר עם לקוחות מרובים אל שרת XMPP עם חשבונך היחידי.  כל התחברות מובדלת על ידי שם &quot;משאב&quot;, אשר באפשרותך להתוות בשדה זה.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="275"/>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
-        <translation>אפשרות זו קובעת את המשתמש (וגם את התחום) שברצונך לאמתו בזהות. אפשרות זו עוקפת כתובת XMPP עמה חיבורך מתבצע.</translation>
+        <translation>אפשרות זו קובעת את המשתמש (וגם תחום) אשר ברצונך לאמתו בזהות. אפשרות זו עוקפת כתובת XMPP עמה חיבורך מתבצע.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="279"/>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;ביכולתך להחזיק בלקוחות מרובים להתחברות אל שרת XMPP חשבונך היחידי.  בנסיבה שכזו, הלקוח עם העדיפות הגבוהה ביותר (שמצוינת בשדה זה) יהיה זה שיקבל את כל האירועים הנכנסים.&lt;/p&gt;&lt;p&gt;לדוגמא, אם עומד לרשותך חיבור קבוע אל המרשתת (אינטרנט) במקום עבודתך, ויש לך מודם חיוג (dial-up) בביתך, באפשרותך שיהיה לך לקוח XMPP מורץ באופן קבוע בעבודתך עם עדיפות נמוכה, ועדיין תעמוד לרשותך האפשרות לעשות שימוש באותו חשבון מביתך, בעושך שימוש בלקוח בעל עדיפות גבוהה יותר כדי &quot;לנטרל&quot; באופן זמני את הלקוח בעל העדיפות הנמוכה יותר בעבודתך.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;באפשרותך להחזיק בלקוחות מרובים להתחברות אל שרת XMPP חשבונך היחידי.  בנסיבה שכזו, הלקוח עם העדיפות הגבוהה ביותר (אשר מצוינת בשדה זה) יהיה זה שיקבל את כל האירועים הנכנסים.&lt;/p&gt;&lt;p&gt;לדוגמא, אם עומד לרשותך חיבור קבוע אל המרשתת (אינטרנט) במקום עבודתך, ויש לך מודם חיוג (dial-up) בביתך, באפשרותך שיהיה לך לקוח XMPP מורץ באופן קבוע בעבודתך עם עדיפות נמוכה, ועדיין תעמוד לרשותך האפשרות לעשות שימוש באותו חשבון מביתך, בעושך שימוש בלקוח בעל עדיפות גבוהה יותר כדי &quot;לנטרל&quot; באופן זמני את הלקוח בעל העדיפות הנמוכה יותר בעבודתך.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="299"/>
@@ -911,7 +909,7 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="433"/>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>לא ניתן לאפשר SSL/TLS.  תוספת לא נמצאה.</translation>
+        <translation>אין אפשרות לאפשר SSL/TLS.  תוספת לא נמצאה.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodifydlg.cpp" line="460"/>
@@ -1024,12 +1022,12 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus/src/accountreg.ui" line="192"/>
         <source>Proxy:</source>
-        <translation>פרוקסי:</translation>
+        <translation>ציר:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountreg.ui" line="199"/>
         <source>proxychooser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountreg.ui" line="269"/>
@@ -1067,7 +1065,7 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="107"/>
         <source>Are you sure you want to cancel the registration?</source>
-        <translation>האם אתה בטוח שברצונך לבטל את הרישום?</translation>
+        <translation>האם אתה בטוח כי ברצונך לבטל את הרישום?</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="107"/>
@@ -1100,7 +1098,7 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="130"/>
         <source>Cannot enable SSL/TLS. QCA2 Plugin not found.</source>
-        <translation>לא ניתן לאפשר SSL/TLS. תוספת QCA2 לא נמצאה.</translation>
+        <translation>אין אפשרות לאפשר SSL/TLS. תוספת QCA2 לא נמצאה.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountregdlg.cpp" line="169"/>
@@ -1156,12 +1154,12 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/accountremove.ui" line="26"/>
         <source>Remove account from Psi only.</source>
-        <translation>הסר חשבון מן Psi בלבד.</translation>
+        <translation>הסר חשבון מתוך Psi בלבד.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountremove.ui" line="33"/>
         <source>Remove account and try to unregister it from the server.</source>
-        <translation>הסר חשבון ונסה להסיר את רישומו מן השרת.</translation>
+        <translation>הסר חשבון ונסה להסיר את רישומו מתוך השרת.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountremove.ui" line="42"/>
@@ -1175,7 +1173,7 @@ Reason: %1</source>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="110"/>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="181"/>
         <source>&amp;Remove</source>
-        <translation>&amp;הסרה</translation>
+        <translation>הס&amp;ר</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="143"/>
@@ -1186,7 +1184,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="143"/>
         <source>Are you sure you want to cancel the unregistration?</source>
-        <translation>האם אתה בטוח שברצונך לבטל את הסרת הרישום?</translation>
+        <translation>האם אתה בטוח כי ברצונך לבטל את הסרת הרישום?</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="144"/>
@@ -1212,7 +1210,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="179"/>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; ?</source>
-        <translation>האם אתה בטוח שברצונך להסיר את &lt;b&gt;%1&lt;/b&gt; ?</translation>
+        <translation>האם אתה בטוח כי ברצונך להסיר את &lt;b&gt;%1&lt;/b&gt; ?</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="228"/>
@@ -1249,7 +1247,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/accountstatusmenu.cpp" line="25"/>
         <source>Reconnect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountstatusmenu.cpp" line="38"/>
@@ -1259,7 +1257,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/accountstatusmenu.cpp" line="41"/>
         <source>Ignore all global actions for this account. For example, autostatus, mood, activity etc.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1269,7 +1267,7 @@ Reason: %1</source>
         <source> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1336,42 +1334,42 @@ save the history for this contact.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="14"/>
         <source>Generate a new key pair</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="20"/>
         <source>Length: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="27"/>
         <source>Comment: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="34"/>
         <source>Expiration date: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="98"/>
         <source>RSA and RSA (default)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="103"/>
         <source>DSA and Elgamal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="108"/>
         <source>DSA (sign only)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="113"/>
         <source>RSA (sign only)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="121"/>
@@ -1381,7 +1379,7 @@ save the history for this contact.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="128"/>
         <source>Passphrase: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="135"/>
@@ -1396,7 +1394,7 @@ save the history for this contact.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="152"/>
         <source>Repeat: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1409,7 +1407,7 @@ save the history for this contact.</source>
     <message>
         <location filename="../../psi-plus/src/addurl.ui" line="39"/>
         <source>URL:</source>
-        <translation>:URL</translation>
+        <translation>‏URL‏:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/addurl.ui" line="46"/>
@@ -1429,7 +1427,7 @@ save the history for this contact.</source>
     <message>
         <location filename="../../psi-plus/src/addurl.ui" line="105"/>
         <source>Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1444,9 +1442,9 @@ save the history for this contact.</source>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>בכדי להוסיף משתמש &lt;b&gt;XMPP&lt;/b&gt;, עליך לציין כתובת XMPP (אפשרי גם שם כינוי וקבוצה) מתחת וללחוץ על &lt;i&gt;הוסף&lt;/i&gt;.&lt;br /&gt;&lt;br /&gt;בכדי להוסיף איש קשר משירות &lt;b&gt;שאינו XMPP&lt;/b&gt;, עליך לוודא תחילה שחשבונך רשום עם השירות המבוקש (מציאת שירות תחת התפריט הראשי), ואז לבחור את השירות מן התיבה שלמעלה. אנא עקוב אחר ההנחיות בתוך תיבת &lt;i&gt;תרגום מזהה שירות&lt;/i&gt; ולחץ על &lt;i&gt;השג כתובת XMPP&lt;/i&gt; כדי לחולל כתובת XMPP עבור אותו איש קשר.</translation>
+        <translation>בכדי להוסיף משתמש &lt;b&gt;XMPP&lt;/b&gt;, עליך לציין כתובת XMPP (אפשרי גם שם כינוי וקבוצה) מתחת וללחוץ על &lt;i&gt;הוסף&lt;/i&gt;.&lt;br /&gt;&lt;br /&gt;בכדי להוסיף איש קשר מתוך שירות &lt;b&gt;שאינו XMPP&lt;/b&gt;, עליך לוודא תחילה כי חשבונך רשום עם השירות המבוקש (מציאת שירות תחת התפריט הראשי), ואז לבחור את השירות מן התיבה שלמעלה. אנא עקוב אחר ההנחיות בתוך תיבת &lt;i&gt;תרגום מזהה שירות&lt;/i&gt; ולחץ על &lt;i&gt;השג כתובת XMPP&lt;/i&gt; כדי לחולל כתובת XMPP עבור אותו איש קשר.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduser.ui" line="68"/>
@@ -1456,7 +1454,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/adduser.ui" line="76"/>
         <source>XMPP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduser.ui" line="111"/>
@@ -1476,7 +1474,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/adduser.ui" line="181"/>
         <source>psi/vCard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduser.ui" line="190"/>
@@ -1516,17 +1514,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/adduser.ui" line="311"/>
         <source>&amp;Add</source>
-        <translation>&amp;הוסף</translation>
+        <translation>הוס&amp;ף</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduser.ui" line="314"/>
         <source>Alt+A</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduser.ui" line="320"/>
         <source>psi/addContact</source>
-        <translation type="unfinished">psi/addContact</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1551,7 +1549,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/adduserdlg.cpp" line="172"/>
         <source>Please fill in the XMPP address of the person you wish to add.</source>
-        <translation>אנא מלא כתובת XMPP של האדם אותו ברצונך להוסיף.</translation>
+        <translation>אנא מלא כתובת XMPP של האישיות אותה ברצונך להוסיף.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/adduserdlg.cpp" line="176"/>
@@ -1580,7 +1578,7 @@ Make sure you enter a fully qualified XMPP address.</source>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
         <translation>&lt;qt&gt;
-ארעה שגיאה בהשגת מידע תרגום של זהות השירות מן &quot;%1&quot;.&lt;br&gt;סיבה: %2&lt;br&gt;&lt;br&gt;אפשרי שהשירות לא תומך בתכונה זו.  במקרה שכזה עליך להזין כתובת XMPP באופן ידני עבור איש הקשר שברצונך להוסיף.  דוגמאות:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[כתובת XMPP של מוביל AIM]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[כתובת XMPP של מוביל ICQ]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[כתובת XMPP של מוביל MSN]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[כתובת XMPP של מוביל Yahoo]&lt;br&gt;&lt;/qt&gt;</translation>
+ארעה שגיאה בהשגת מידע תרגום של זהות השירות מתוך &quot;%1&quot;.&lt;br&gt;סיבה: %2&lt;br&gt;&lt;br&gt;אפשרי כי השירות לא תומך בתכונה זו.  במקרה שכזה עליך להזין כתובת XMPP באופן ידני עבור איש הקשר אשר ברצונך להוסיף.  דוגמאות:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[כתובת XMPP של מוביל AIM]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[כתובת XMPP של מוביל ICQ]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[כתובת XMPP של מוביל MSN]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[כתובת XMPP של מוביל Yahoo]&lt;br&gt;&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
@@ -1588,7 +1586,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <location filename="../../psi-plus/src/eventdlg.cpp" line="341"/>
         <source>Go to &amp;URL...</source>
-        <translation>מעבר אל &amp;URL...</translation>
+        <translation>עבור אל &amp;URL...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/eventdlg.cpp" line="342"/>
@@ -1654,7 +1652,7 @@ There was an error getting the Service ID translation information from &quot;%1&
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="533"/>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1740,33 +1738,33 @@ To work correctly, the plugin requires that the client of the other part support
     <message>
         <location filename="../../psi-plus/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="513"/>
         <source>for JIDs and conferences:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="514"/>
         <source>You can also specify a part of JID
 (without any additional symbols)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="522"/>
         <source>Disable for your accounts (specify your JIDs):</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="525"/>
         <source>Timeout to reset counter:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="527"/>
         <source>min.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="530"/>
         <source>Send maximum</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="532"/>
@@ -1801,7 +1799,7 @@ To work correctly, the plugin requires that the client of the other part support
 The list of exceptions for jids has two operating modes:
 * auto-responder is switched off for the list of exceptions, for the others is switched on (Disable mode)
 * auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1832,7 +1830,7 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location filename="../../psi-plus/src/avcall/avcall.cpp" line="532"/>
         <source>Cannot call without selecting a device.  Do you have a microphone?  Check the Psi options.</source>
-        <translation>לא ניתן להתקשר ללא בחירת התקן.  האם יש לך מיקרופון?  בדוק את אפשרויות Psi.</translation>
+        <translation>אין אפשרות להתקשר ללא בחירת התקן.  האם יש לך מיקרופון?  בדוק את אפשרויות Psi.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/avcall/avcall.cpp" line="695"/>
@@ -1854,7 +1852,7 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location filename="../../psi-plus/src/avcall/avcall.cpp" line="717"/>
         <source>Unable to establish peer-to-peer connection.</source>
-        <translation>לא ניתן לבסס חיבור עמית-אל-עמית.</translation>
+        <translation>אין אפשרות לבסס חיבור עמית-אל-עמית.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/avcall/avcall.cpp" line="722"/>
@@ -1951,17 +1949,17 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location filename="../../psi-plus/src/bookmarkmanagedlg.cpp" line="58"/>
         <source>&amp;Add</source>
-        <translation>הוס&amp;פה</translation>
+        <translation>הוס&amp;ף</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/bookmarkmanagedlg.cpp" line="59"/>
         <source>&amp;Remove</source>
-        <translation>הס&amp;רה</translation>
+        <translation>הס&amp;ר</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/bookmarkmanagedlg.cpp" line="60"/>
         <source>&amp;Join</source>
-        <translation>&amp;כניסה</translation>
+        <translation>&amp;הצטרף</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/bookmarkmanagedlg.cpp" line="140"/>
@@ -2106,7 +2104,7 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location filename="../../psi-plus/src/plugins/generic/captchaformsplugin/captchadialog.ui" line="14"/>
         <source>CAPTCHA</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/captchaformsplugin/captchadialog.ui" line="41"/>
@@ -2334,12 +2332,12 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/chatdlg.ui" line="143"/>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/chatdlg.ui" line="161"/>
         <source>AccountLabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/chatdlg.ui" line="168"/>
@@ -2402,7 +2400,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/src/chatdlg.cpp" line="721"/>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
-        <translation>&lt;p&gt;הצפנה נוטרלה לאחרונה על ידי איש קשר מרוחק.  האם אתה בטוח שברצונך לשלוח את הודעה זו ללא הצפנה?&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;הצפנה נוטרלה לאחרונה על ידי איש קשר מרוחק.  האם אתה בטוח כי ברצונך לשלוח את הודעה זו ללא הצפנה?&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/chatdlg.cpp" line="724"/>
@@ -2435,7 +2433,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/src/msgmle.cpp" line="226"/>
         <source>Paste as Quotation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/msgmle.cpp" line="363"/>
@@ -2453,12 +2451,12 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/src/chatview_te.cpp" line="66"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/chatview_te.cpp" line="386"/>
         <source>%1 says:</source>
-        <translation type="unfinished">%1 אומר/ת:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/chatview_te.cpp" line="416"/>
@@ -2468,7 +2466,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/src/chatview_te.cpp" line="435"/>
         <source>URL:</source>
-        <translation type="unfinished">:URL</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/chatview_te.cpp" line="437"/>
@@ -2517,13 +2515,13 @@ Do you still want to close the window?</source>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/chessplugin.cpp" line="383"/>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/chessplugin.cpp" line="412"/>
         <source>You are already playing!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/chessplugin.cpp" line="500"/>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/chessplugin.cpp" line="538"/>
@@ -2558,7 +2556,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/chessplugin.cpp" line="755"/>
         <source>You are allready playing!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/chessplugin.cpp" line="810"/>
@@ -2585,7 +2583,7 @@ Do you still want to close the window?</source>
         <source>This plugin allows you to play chess with your friends.
 The plugin is compatible with a similar plugin for Tkabber.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2627,7 +2625,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/mainwindow.cpp" line="191"/>
         <source>Resign</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/mainwindow.cpp" line="192"/>
@@ -2648,7 +2646,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/mainwindow.cpp" line="215"/>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/mainwindow.cpp" line="247"/>
         <source>*.chs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/mainwindow.cpp" line="230"/>
@@ -2664,7 +2662,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/cleaner.ui" line="20"/>
         <source>Psi+ Cleaner</source>
-        <translation type="unfinished"></translation>
+        <translation>מנקה Psi+‎</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/cleaner.ui" line="31"/>
@@ -2674,7 +2672,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/cleaner.ui" line="36"/>
         <source>vCards</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/cleaner.ui" line="41"/>
@@ -2704,12 +2702,12 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/cleaner.ui" line="123"/>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/cleaner.ui" line="133"/>
         <source> files selected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/cleaner.ui" line="144"/>
@@ -2724,7 +2722,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/cleaner.ui" line="167"/>
         <source>Close Psi Cleaner</source>
-        <translation type="unfinished"></translation>
+        <translation>סגור את מנקה Psi</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/cleaner.ui" line="170"/>
@@ -2769,7 +2767,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/cleaner.cpp" line="98"/>
         <source>vCards: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/cleaner.cpp" line="99"/>
@@ -2860,7 +2858,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/cleaner.cpp" line="395"/>
         <source>Birthdays Cache Successfully Cleared</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2868,7 +2866,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/cleanerplugin.cpp" line="85"/>
         <source>Launch Cleaner</source>
-        <translation type="unfinished"></translation>
+        <translation>שגר מנקה</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/cleanerplugin.cpp" line="90"/>
@@ -2889,7 +2887,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/cleanerplugin.cpp" line="143"/>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2969,7 +2967,7 @@ You can preview items before deleting them from your hard drive.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/cleanerplugin/viewers.cpp" line="67"/>
         <source>Invert</source>
-        <translation type="unfinished">הפוך</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2984,12 +2982,12 @@ You can preview items before deleting them from your hard drive.</source>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
 You can specify the version of the client and OS or to select them from the preset list.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/clientswitcherplugin.cpp" line="999"/>
         <source>%1 has requested your version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3035,7 +3033,7 @@ You can specify the version of the client and OS or to select them from the pres
 Conferences logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with conference.
 
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3113,7 +3111,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus/src/contactlistaccountmenu.cpp" line="133"/>
         <source>&amp;Modify Account...</source>
-        <translation>&amp;התאם חשבון...</translation>
+        <translation>&amp;התאמת חשבון...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactlistaccountmenu.cpp" line="136"/>
@@ -3216,7 +3214,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus/src/contactlistgroupmenu.cpp" line="99"/>
         <source>&amp;Add group...</source>
-        <translation>&amp;הוסף קבוצה...</translation>
+        <translation>&amp;הוספת קבוצה...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactlistgroupmenu.cpp" line="103"/>
@@ -3231,7 +3229,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus/src/contactlistgroupmenu.cpp" line="109"/>
         <source>Leave All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactlistgroupmenu.cpp" line="112"/>
@@ -3254,7 +3252,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus/src/contactlistmodel.cpp" line="649"/>
         <source>You can&apos;t set a blank group name.</source>
-        <translation>אין ביכולתך לקבוע שם קבוצה ריק.</translation>
+        <translation>אין באפשרותך לקבוע שם קבוצה ריק.</translation>
     </message>
 </context>
 <context>
@@ -3295,23 +3293,17 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message numerus="yes">
         <location filename="../../psi-plus/src/contactlistutil.cpp" line="87"/>
         <source>and %n contacts </source>
-        <translation>
-            <numerusform>וגם איש קשר %n </numerusform>
-            <numerusform>וגם %n אישי קשר </numerusform>
-        </translation>
+        <translation><numerusform>וגם איש קשר %n </numerusform><numerusform>וגם %n אישי קשר </numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus/src/contactlistutil.cpp" line="92"/>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation>
-            <numerusform>פעולה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2וגם קבוצה %n מן רשימת הקשר שלך.</numerusform>
-            <numerusform>פעולה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2וגם %n קבוצות מן רשימת הקשר שלך.</numerusform>
-        </translation>
+        <translation><numerusform>פעולה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2וגם קבוצה %n מתוך רשימת הקשר שלך.</numerusform><numerusform>פעולה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2וגם %n קבוצות מתוך רשימת הקשר שלך.</numerusform></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactlistutil.cpp" line="101"/>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
-        <translation>פעולה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2וגם את קבוצה &quot;%3&quot; מן רשימת הקשר שלך.</translation>
+        <translation>פעולה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2וגם את קבוצה &quot;%3&quot; מתוך רשימת הקשר שלך.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactlistutil.cpp" line="109"/>
@@ -3321,7 +3313,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus/src/contactlistutil.cpp" line="119"/>
         <source>This is a system group and can&apos;t be removed. Permanently remove all its contacts from your contact list?</source>
-        <translation>זוהי קבוצת מערכת ולא ניתן להסירה. האם להסיר לצמיתות את כל אישי הקשר שלה מן רשימת הקשר שלך?</translation>
+        <translation>זוהי קבוצת מערכת ואין אפשרות להסירה. האם להסיר לצמיתות את כל אישי הקשר שלה מתוך רשימת הקשר שלך?</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactlistutil.cpp" line="121"/>
@@ -3331,12 +3323,12 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus/src/contactlistutil.cpp" line="124"/>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;group and all its contacts from your contact list.</source>
-        <translation>פעולה זו תסיר לצמיתות את קבוצה&lt;br&gt;%1&lt;br&gt;ואת כל אישי הקשר שלה מן רשימת הקשר שלך.</translation>
+        <translation>פעולה זו תסיר לצמיתות את קבוצה&lt;br&gt;%1&lt;br&gt;ואת כל אישי הקשר שלה מתוך רשימת הקשר שלך.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactlistutil.cpp" line="141"/>
         <source>This will permanently remove %1 from your contact list. You could block it in order to avoid further messages.</source>
-        <translation>פעולה זו תסיר לצמיתות את %1 מן רשימת הקשר שלך. ביכולתך לחסומה על מנת להימנע מן הודעות נוספות.</translation>
+        <translation>פעולה זו תסיר לצמיתות את %1 מתוך רשימת הקשר שלך. באפשרותך לחסומה על מנת להימנע מן הודעות נוספות.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactlistutil.cpp" line="144"/>
@@ -3352,7 +3344,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus/src/contactlistutil.cpp" line="150"/>
         <source>This will remove %1 from &quot;%2&quot; group. You could also remove it from all groups.</source>
-        <translation>פעולה זו תסיר את %1 מן קבוצה &quot;%2&quot;. ביכולתך להסירו מכל הקבוצות.</translation>
+        <translation>פעולה זו תסיר את %1 מן קבוצה &quot;%2&quot;. באפשרותך להסירו מכל הקבוצות.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactlistutil.cpp" line="155"/>
@@ -3368,7 +3360,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus/src/contactlistutil.cpp" line="261"/>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3407,12 +3399,12 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus/src/contactmanager/contactmanagerdlg.cpp" line="56"/>
         <source>Auth request</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactmanager/contactmanagerdlg.cpp" line="57"/>
         <source>Auth grant</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactmanager/contactmanagerdlg.cpp" line="58"/>
@@ -3442,12 +3434,12 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus/src/contactmanager/contactmanagerdlg.cpp" line="67"/>
         <source>Simple</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactmanager/contactmanagerdlg.cpp" line="68"/>
         <source>RegExp</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactmanager/contactmanagerdlg.cpp" line="119"/>
@@ -3463,17 +3455,17 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <location filename="../../psi-plus/src/contactmanager/contactmanagerdlg.cpp" line="167"/>
         <location filename="../../psi-plus/src/contactmanager/contactmanagerdlg.cpp" line="204"/>
         <source>Invalid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactmanager/contactmanagerdlg.cpp" line="167"/>
         <source>This action is not supported atm</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactmanager/contactmanagerdlg.cpp" line="204"/>
         <source>Please fill parameter field with new domain name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactmanager/contactmanagerdlg.cpp" line="232"/>
@@ -3510,7 +3502,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus/src/contactmanager/contactmanagerdlg.cpp" line="275"/>
         <source>Nothing to do..</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactmanager/contactmanagerdlg.cpp" line="275"/>
@@ -3656,7 +3648,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus/src/contactview.cpp" line="968"/>
         <source>Manage...</source>
-        <translation>נהל...</translation>
+        <translation>ניהול...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactview.cpp" line="973"/>
@@ -3691,7 +3683,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus/src/contactview.cpp" line="991"/>
         <source>&amp;Modify Account...</source>
-        <translation>&amp;התאם חשבון...</translation>
+        <translation>&amp;התאמת חשבון...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactview.cpp" line="995"/>
@@ -3750,7 +3742,7 @@ Proceed?</source>
         <source>WARNING!  This will remove all contacts associated with this group!
 
 Proceed?</source>
-        <translation>אזהרה!  פעולה זו תסיר את כל אישי הקשר שקשורים עם קבוצה זו!
+        <translation>אזהרה!  פעולה זו תסיר את כל אישי הקשר אשר קשורים עם קבוצה זו!
 
 האם להמשיך?</translation>
     </message>
@@ -3802,7 +3794,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/contactview.cpp" line="1326"/>
         <source>&amp;None</source>
-        <translation type="unfinished">&amp;ללא קבוצה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactview.cpp" line="1355"/>
@@ -3899,7 +3891,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/contactview.cpp" line="1518"/>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation>האם אתה בטוח שברצונך להסיר הרשאה מן &lt;b&gt;%1&lt;/b&gt;?</translation>
+        <translation>האם אתה בטוח כי ברצונך להסיר הרשאה מן &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactview.cpp" line="1611"/>
@@ -3914,7 +3906,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/contactview.cpp" line="1743"/>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
-        <translation>האם אתה בטוח שברצונך להסיר את &lt;b&gt;%1&lt;/b&gt; מן רשימת הקשר שלך?</translation>
+        <translation>האם אתה בטוח כי ברצונך להסיר את &lt;b&gt;%1&lt;/b&gt; מתוך רשימת הקשר שלך?</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactview.cpp" line="1769"/>
@@ -3926,12 +3918,12 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/contactview.cpp" line="1769"/>
         <source>You cannot set a blank name.</source>
-        <translation>אין ביכולתך לקבוע שם ריק.</translation>
+        <translation>אין באפשרותך לקבוע שם ריק.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactview.cpp" line="1786"/>
         <source>You cannot set a blank group name.</source>
-        <translation>אין ביכולתך לקבוע שם קבוצה ריק.</translation>
+        <translation>אין באפשרותך לקבוע שם קבוצה ריק.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/contactview.cpp" line="1801"/>
@@ -4032,7 +4024,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/contentdownloaderplugin/contentdownloader.cpp" line="128"/>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi+.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4053,7 +4045,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/disco.ui" line="28"/>
         <source>ToolBar will be placed here</source>
-        <comment>Don&apos;t translate this string</comment>
+        <comment>Don't translate this string</comment>
         <translation>סרגל כלים יושם כאן</translation>
     </message>
     <message>
@@ -4182,12 +4174,12 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/discodlg.cpp" line="1027"/>
         <source>Unregister</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/discodlg.cpp" line="1027"/>
         <source>&amp;Unregister</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/discodlg.cpp" line="1030"/>
@@ -4222,12 +4214,12 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/discodlg.cpp" line="1039"/>
         <source>vCard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/discodlg.cpp" line="1039"/>
         <source>&amp;vCard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/discodlg.cpp" line="1042"/>
@@ -4242,12 +4234,12 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/discodlg.cpp" line="1045"/>
         <source>Query version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/discodlg.cpp" line="1045"/>
         <source>&amp;Query version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/discodlg.cpp" line="1050"/>
@@ -4301,7 +4293,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/discodlg.cpp" line="725"/>
         <source>JID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/discodlg.cpp" line="725"/>
@@ -4340,22 +4332,22 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="1651"/>
         <source>Error moving</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="1651"/>
         <source>You cannot move this figure because the king is in check</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="1813"/>
         <source>To castle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="1814"/>
         <source>Do you want to castle?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="1814"/>
@@ -4386,12 +4378,12 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/edititemdlg.ui" line="14"/>
         <source>Watch For...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/edititemdlg.ui" line="25"/>
         <source>JID*</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/edititemdlg.ui" line="38"/>
@@ -4413,7 +4405,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/edititemdlg.ui" line="81"/>
         <source>Use for</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/edititemdlg.ui" line="87"/>
@@ -4451,7 +4443,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/storagenotesplugin/editnote.ui" line="14"/>
         <source>Edit Note</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/storagenotesplugin/editnote.ui" line="22"/>
@@ -4494,7 +4486,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/editserverdlg.ui" line="99"/>
         <source>PostData**:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/editserverdlg.ui" line="116"/>
@@ -4504,7 +4496,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/editserverdlg.ui" line="133"/>
         <source>RegExp**:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/editserverdlg.ui" line="158"/>
@@ -4519,7 +4511,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/editserverdlg.ui" line="178"/>
         <source>Use proxy server</source>
-        <translation>השתמש בשרת פרוקסי</translation>
+        <translation>השתמש בשרת ציר</translation>
     </message>
 </context>
 <context>
@@ -4610,18 +4602,18 @@ Proceed?</source>
         <location filename="../../psi-plus/src/eventdlg.cpp" line="2011"/>
         <location filename="../../psi-plus/src/eventdlg.cpp" line="2024"/>
         <source>&amp;Next</source>
-        <translation>&amp;הבא</translation>
+        <translation>ה&amp;בא</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/eventdlg.cpp" line="891"/>
         <source>&amp;Quote</source>
-        <translation>&amp;ציטוט</translation>
+        <translation>&amp;צטט</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/eventdlg.cpp" line="897"/>
         <location filename="../../psi-plus/src/eventdlg.cpp" line="936"/>
         <source>&amp;Deny</source>
-        <translation>&amp;אסירה</translation>
+        <translation>&amp;אסור</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/eventdlg.cpp" line="903"/>
@@ -4641,7 +4633,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/eventdlg.cpp" line="922"/>
         <source>&amp;Reply</source>
-        <translation>&amp;מענה</translation>
+        <translation>&amp;השב</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/eventdlg.cpp" line="929"/>
@@ -4698,7 +4690,7 @@ URL: %1
 Method: %2
 </source>
         <translation>מישהו (ייתכן עצמך) ביקש לגשת אל המשאב הבא:
-‫URL: %1
+‫‏URL‏: %1
 שיטה: %2
 </translation>
     </message>
@@ -4721,7 +4713,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location filename="../../psi-plus/src/eventdlg.cpp" line="1893"/>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to subscribe to your presence.  Click the button labelled &quot;Add/Auth&quot; to authorize the subscription.  This will also add the person to your contact list if it is not already there.</source>
-        <translation>&lt;big&gt;[הודעת מערכת]&lt;/big&gt;&lt;br&gt;משתמש זה רוצה להירשם אל נוכחותך.  לחץ על הלחצן המתויג בשם &quot;הוסף/אשר&quot; כדי לאשר את ההרשמה.  פעולה זו גם תוסיף את האיש אל רשימת הקשר שלך במידה וזה אינו מצוי שם כבר.</translation>
+        <translation>&lt;big&gt;[הודעת מערכת]&lt;/big&gt;&lt;br&gt;משתמש זה רוצה להירשם אל נוכחותך.  לחץ על הלחצן המתויג בשם &quot;הוסף/אשר&quot; כדי לאשר את ההרשמה.  פעולה זו גם תוסיף את האישיות אל רשימת הקשר שלך במידה וזו אינה מצויה שם כבר.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/eventdlg.cpp" line="1909"/>
@@ -4834,7 +4826,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="398"/>
         <source>You are not authorized to retrieve Last Activity information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="410"/>
@@ -4931,12 +4923,12 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="264"/>
         <source>Look</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="265"/>
         <source>CSS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="266"/>
@@ -4961,7 +4953,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="276"/>
         <source>Scaled message icons</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="280"/>
@@ -5022,7 +5014,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="319"/>
         <source>Default JID mode ignore list:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="336"/>
@@ -5057,7 +5049,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="346"/>
         <source>Hide conference on auto-join</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="347"/>
@@ -5144,7 +5136,7 @@ This option only has effect if accept-defaults is false.</source>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="391"/>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="453"/>
         <source>Sort style for contacts:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="395"/>
@@ -5164,17 +5156,17 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="422"/>
         <source>Lockdown roster</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="423"/>
         <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="424"/>
         <source>Contact name and status message in a row</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="426"/>
@@ -5189,12 +5181,12 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="430"/>
         <source>Automatically remove temporary contacts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="433"/>
         <source>Tooltips:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="436"/>
@@ -5224,52 +5216,52 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="472"/>
         <source>Show &quot;Admin&quot; option in account menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="473"/>
         <source>Show &quot;Active Chats&quot; option in contact menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="474"/>
         <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="475"/>
         <source>Show &quot;Picture&quot; option in contact menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="476"/>
         <source>Show &quot;Change Profile&quot; option in main menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="477"/>
         <source>Show &quot;Chat&quot; option in status menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="478"/>
         <source>Show &quot;Invisible&quot; option in status menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="479"/>
         <source>Show &quot;XA&quot; option in status menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="480"/>
         <source>Enable single messages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="497"/>
         <source>Popup border color:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="503"/>
@@ -5304,32 +5296,32 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="537"/>
         <source>MUC roster coloring:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="548"/>
         <source>ToolTip text color:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="554"/>
         <source>ToolTip background color:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="558"/>
         <source>ToolTip coloring:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="567"/>
         <source>Text color for &quot;composing&quot; events on tabs:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="573"/>
         <source>Text color for &quot;unread&quot; events on tabs:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="591"/>
@@ -5339,12 +5331,12 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="621"/>
         <source>Popup</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="622"/>
         <source>Tooltip</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="624"/>
@@ -5354,52 +5346,52 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="632"/>
         <source>Disable wheel scroll</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="633"/>
         <source>Put tabs at bottom of chat window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="634"/>
         <source>Show Close Button on tabs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="635"/>
         <source>Show status icons on tabs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="636"/>
         <source>Hide tab when close chat window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="637"/>
         <source>Allow closing inactive tabs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="643"/>
         <source>Action for mouse middle click on tabs:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="653"/>
         <source>Action for mouse double click on tabs:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="669"/>
         <source>Enable windows flashing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="670"/>
         <source>Enable &quot;Single Account&quot; mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="671"/>
@@ -5409,7 +5401,7 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="672"/>
         <source>Enable last activity server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="673"/>
@@ -5419,17 +5411,17 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="674"/>
         <source>Disable popup notifications if status is DND</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="675"/>
         <source>Disable popup notifications if status is Away</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="677"/>
         <source>Notifications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="691"/>
@@ -5452,7 +5444,7 @@ This option only has effect if accept-defaults is false.</source>
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
 Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5468,7 +5460,7 @@ Importantly: a large part of the options are important system settings. These re
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="1831"/>
         <source>What figure should I set?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5566,7 +5558,7 @@ Importantly: a large part of the options are important system settings. These re
     <message>
         <location filename="../../psi-plus/src/filetransdlg.cpp" line="736"/>
         <source>Are you sure you want to cancel the transfer?</source>
-        <translation>האם אתה בטוח שברצונך לבטל את ההעברה?</translation>
+        <translation>האם אתה בטוח כי ברצונך לבטל את ההעברה?</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/filetransdlg.cpp" line="736"/>
@@ -5641,7 +5633,7 @@ Importantly: a large part of the options are important system settings. These re
 
 This can happen if the contact did not understand our request, or if the
 contact is offline.</source>
-        <translation>לא ניתן להסדיר העברה.
+        <translation>אין אפשרות להסדיר העברה.
 
 זה יכול לקרות אם איש הקשר לא הבין את הבקשה, או אם
 איש הקשר אינו מקוון.</translation>
@@ -5651,26 +5643,26 @@ contact is offline.</source>
         <source>Unable to connect to peer for data transfer.
 
 Ensure that your Data Transfer settings are proper.  If you are behind
-a NAT router or firewall then you&apos;ll need to open the proper TCP port
+a NAT router or firewall then you'll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
-        <translation>לא ניתן להתחבר אל עמית עבור מסירת נתונים.
+        <translation>אין אפשרות להתחבר אל עמית עבור מסירת נתונים.
 
-וודא שהגדרות מסירת נתונים שלך הינם מתאימים.  אם הינך מאחורי
-נתב NAT או חומת אש אז עליך לפתוח את הפורט מטיפוס TCP
-המתאים או לציין פרוקסי מסירת נתונים בהגדרות חשבונך.</translation>
+ודא כי הגדרות מסירת נתונים הינן מתאימות.  באם הינך מאחורי
+נתב NAT או חומת אש אז עליך לפתוח את הפורט המתאים
+מן טיפוס TCP או לציין ציר מסירת נתונים בהגדרות חשבונך.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/filetransdlg.cpp" line="971"/>
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
 
 This means that the Proxy service is either not functioning or it is
-unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
+unreachable.  If you are behind a firewall, then you'll need to ensure
 that outgoing TCP connections are allowed.</source>
-        <translation>כשל בהתחברות אל, או בשפעול, פרוקסי מסירת נתונים.
+        <translation>כשל בהתחברות אל, או בשפעול, ציר מסירת נתונים.
 
-זה אומר ששירות פרוקסי הינו לא מתפקד או שזה אינו
-בר השגה.  אם הינך מאחורי חומת אש, אז עליך לוודא
-שחיבורי TCP יוצאים הינם מותרים.</translation>
+זה אומר ששירות ציר אינו מתפקד או שזה אינו בר
+השגה.  אם הינך מאחורי חומת אש, אז עליך לוודא
+כי חיבורי TCP יוצאים הינם מותרים.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/filetransdlg.cpp" line="979"/>
@@ -5680,7 +5672,7 @@ that outgoing TCP connections are allowed.</source>
     <message>
         <location filename="../../psi-plus/src/filetransdlg.cpp" line="994"/>
         <source>Unable to accept the file.  Perhaps the sender has cancelled the request.</source>
-        <translation>לא ניתן לקבל את הקובץ.  אפשרי שהשולח ביטל את הבקשה.</translation>
+        <translation>אין אפשרות לקבל את הקובץ.  אפשרי שהשולח ביטל את הבקשה.</translation>
     </message>
 </context>
 <context>
@@ -5688,12 +5680,12 @@ that outgoing TCP connections are allowed.</source>
     <message>
         <location filename="../../psi-plus/src/filetrans.ui" line="14"/>
         <source>Form1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/filetrans.ui" line="20"/>
         <source>accountlabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/filetrans.ui" line="32"/>
@@ -5708,7 +5700,7 @@ that outgoing TCP connections are allowed.</source>
     <message>
         <location filename="../../psi-plus/src/filetrans.ui" line="69"/>
         <source>psi/browse</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/filetrans.ui" line="83"/>
@@ -5757,7 +5749,7 @@ that outgoing TCP connections are allowed.</source>
     <message>
         <location filename="../../psi-plus/src/filetransdlg.cpp" line="1135"/>
         <source>%1%2/s</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/filetransdlg.cpp" line="1139"/>
@@ -5787,7 +5779,7 @@ that outgoing TCP connections are allowed.</source>
     <message>
         <location filename="../../psi-plus/src/filetransdlg.cpp" line="1357"/>
         <source>%1h%2m%3s</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/filetransdlg.cpp" line="1360"/>
@@ -5885,17 +5877,17 @@ Reason: %3</source>
     <message>
         <location filename="../../psi-plus/src/filetransdlg.cpp" line="299"/>
         <source>Querying proxy...</source>
-        <translation>מתשאל כעת פרוקסי...</translation>
+        <translation>מתשאל כעת ציר...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/filetransdlg.cpp" line="305"/>
         <source>Proxy query successful.</source>
-        <translation>שאילתת פרוקסי צלחה.</translation>
+        <translation>שאילתת ציר צלחה.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/filetransdlg.cpp" line="307"/>
         <source>Proxy query failed!</source>
-        <translation>שאילתת פרוקסי נכשלה!</translation>
+        <translation>שאילתת ציר נכשלה!</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/filetransdlg.cpp" line="312"/>
@@ -5915,7 +5907,7 @@ Reason: %3</source>
     <message>
         <location filename="../../psi-plus/src/filetransdlg.cpp" line="327"/>
         <source>Connecting to proxy...</source>
-        <translation>מתחבר כעת אל פרוקסי...</translation>
+        <translation>מתחבר כעת אל ציר...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/filetransdlg.cpp" line="332"/>
@@ -5925,17 +5917,17 @@ Reason: %3</source>
     <message>
         <location filename="../../psi-plus/src/filetransdlg.cpp" line="462"/>
         <source>Unable to negotiate transfer.</source>
-        <translation>לא ניתן להסדיר העברה.</translation>
+        <translation>אין אפשרות להסדיר העברה.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/filetransdlg.cpp" line="464"/>
         <source>Unable to connect to peer for data transfer.</source>
-        <translation>לא ניתן להתחבר אל עמית עבור מסירת נתונים.</translation>
+        <translation>אין אפשרות להתחבר אל עמית עבור מסירת נתונים.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/filetransdlg.cpp" line="466"/>
         <source>Unable to connect to proxy for data transfer.</source>
-        <translation>לא ניתן להתחבר אל פרוקסי עבור מסירת נתונים.</translation>
+        <translation>אין אפשרות להתחבר אל ציר עבור מסירת נתונים.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/filetransdlg.cpp" line="468"/>
@@ -5971,7 +5963,7 @@ Reason: %3</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_appearance.cpp" line="62"/>
         <source>%1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5979,7 +5971,7 @@ Reason: %3</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/contentdownloaderplugin/form.ui" line="20"/>
         <source>Proxy Authentication Required</source>
-        <translation>נדרש אימות פרוקסי</translation>
+        <translation>נדרש אימות Proxy</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/contentdownloaderplugin/form.ui" line="44"/>
@@ -6079,12 +6071,12 @@ Reason: %3</source>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="750"/>
         <source>Change Nickname...</source>
-        <translation>שנה שם כינוי...</translation>
+        <translation>שינוי שם כינוי...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="754"/>
         <source>Enter Command...</source>
-        <translation>הזן פקודה...</translation>
+        <translation>הזנת פקודה...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="762"/>
@@ -6116,7 +6108,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1086"/>
         <source>Edit Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1089"/>
@@ -6126,7 +6118,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1134"/>
         <source>Error: Cannot parse command: </source>
-        <translation>שגיאה: לא ניתן לנתח פקודה: </translation>
+        <translation>שגיאה: אין אפשרות לנתח פקודה: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1244"/>
@@ -6137,7 +6129,7 @@ Reason: %1</source>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1245"/>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
-        <translation>האם אתה בטוח שברצונך לטהר את חלון השיחה?
+        <translation>האם אתה בטוח כי ברצונך לטהר את חלון השיחה?
 (הערה: פעולה זו לא משפיעה על היסטוריה שמורה)</translation>
     </message>
     <message>
@@ -6183,12 +6175,12 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1477"/>
         <source>%1 has joined the room</source>
-        <translation>‫%1 נכנס/ה אל החדר</translation>
+        <translation>%1 נכנס/ה אל החדר</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1481"/>
         <source>%3 has joined the room as %1 and %2</source>
-        <translation>‫%3 נכנס/ה אל החדר בתפקיד %1 ובסינוף של %2</translation>
+        <translation>%3 נכנס/ה אל החדר בתפקיד %1 ובסינוף של %2</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1484"/>
@@ -6199,7 +6191,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1497"/>
         <source> and now is %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1515"/>
@@ -6256,12 +6248,12 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1590"/>
         <source>%1 has been banned</source>
-        <translation>‫%1 נאסר/ה</translation>
+        <translation>%1 נאסר/ה</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1591"/>
         <source>%1 has been banned by %2</source>
-        <translation>‫%1 נאסר/ה על ידי %2</translation>
+        <translation>%1 נאסר/ה על ידי %2</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1596"/>
@@ -6271,22 +6263,22 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1596"/>
         <source>You have been kicked from the room</source>
-        <translation>נבעטת מן החדר</translation>
+        <translation>נבעטת מתוך החדר</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1597"/>
         <source>You have been kicked from the room by %1</source>
-        <translation>נבעטת מן החדר על ידי %1</translation>
+        <translation>נבעטת מתוך החדר על ידי %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1598"/>
         <source>%1 has been kicked</source>
-        <translation>‫%1 נבעט/ה</translation>
+        <translation>%1 נבעט/ה</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1599"/>
         <source>%1 has been kicked by %2</source>
-        <translation>‫%1 נבעט/ה על ידי %2</translation>
+        <translation>%1 נבעט/ה על ידי %2</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1604"/>
@@ -6297,52 +6289,52 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1605"/>
         <source>You have been removed from the room due to an affiliation change</source>
-        <translation>הוסרת מן החדר עקב שינוי סינוף</translation>
+        <translation>הוסרת מתוך החדר עקב שינוי סינוף</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1606"/>
         <source>You have been removed from the room by %1 due to an affiliation change</source>
-        <translation>הוסרת מן החדר על ידי %1 עקב שינוי סינוף</translation>
+        <translation>הוסרת מתוך החדר על ידי %1 עקב שינוי סינוף</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1607"/>
         <source>%1 has been removed from the room due to an affilliation change</source>
-        <translation>‫%1 הוסר/ה מן החדר עקב שינוי סינוף</translation>
+        <translation>%1 הוסר/ה מתוך החדר עקב שינוי סינוף</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1608"/>
         <source>%1 has been removed from the room by %2 due to an affilliation change</source>
-        <translation>‫%1 הוסר/ה מן החדר על ידי %2 עקב שינוי סינוף</translation>
+        <translation>%1 הוסר/ה מתוך החדר על ידי %2 עקב שינוי סינוף</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1613"/>
         <source>You have been removed from the room because the room was made members only</source>
-        <translation>הוסרת מן החדר משום שזה נהפך לחדר לחברים בלבד</translation>
+        <translation>הוסרת מתוך החדר משום שזה נהפך לחדר לחברים בלבד</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1614"/>
         <source>You have been removed from the room by %1 because the room was made members only</source>
-        <translation>הוסרת מן החדר על ידי %1 משום שזה נהפך לחדר לחברים בלבד</translation>
+        <translation>הוסרת מתוך החדר על ידי %1 משום שזה נהפך לחדר לחברים בלבד</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1615"/>
         <source>%1 has been removed from the room because the room was made members-only</source>
-        <translation>‫%1 הוסר/ה מן החדר משום שזה נהפך לחדר לחברים-בלבד</translation>
+        <translation>%1 הוסר/ה מתוך החדר משום שזה נהפך לחדר לחברים-בלבד</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1616"/>
         <source>%1 has been removed from the room by %2 because the room was made members-only</source>
-        <translation>‫%1 הוסר/ה מן החדר על ידי %2 משום שזה נהפך לחדר לחברים-בלבד</translation>
+        <translation>%1 הוסר/ה מתוך החדר על ידי %2 משום שזה נהפך לחדר לחברים-בלבד</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1622"/>
         <source>%1 is now known as %2</source>
-        <translation>‫%1 ידוע/ה כעת בשם %2</translation>
+        <translation>%1 ידוע/ה כעת בשם %2</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1626"/>
         <source>%1 has left the room</source>
-        <translation>‫%1 עזב/ה את החדר</translation>
+        <translation>%1 עזב/ה את החדר</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.cpp" line="1696"/>
@@ -6558,12 +6550,12 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="692"/>
         <source>Looking up the host</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="768"/>
         <source>Accepted a new connection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="940"/>
@@ -6583,7 +6575,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="983"/>
         <source>You have a socket error number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="1016"/>
@@ -6593,7 +6585,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="1017"/>
         <source>Accepted the</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="1039"/>
@@ -6608,43 +6600,43 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="1076"/>
         <source>End the game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="1077"/>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="1078"/>
         <source>Yes, end</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="1078"/>
         <source>No, continue</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="1146"/>
         <source>B</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="1149"/>
         <source>K</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="1152"/>
         <source>C</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="1155"/>
         <source>Q</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="1158"/>
@@ -6654,7 +6646,7 @@ You will lose it</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="1232"/>
         <source>Lookup Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="1233"/>
@@ -6689,12 +6681,12 @@ You will lose it</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="1263"/>
         <source>Game over</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="1267"/>
         <source>You scored the game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="1272"/>
@@ -6706,7 +6698,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/gameboard.cpp" line="1277"/>
         <source>You have a stalemate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6714,7 +6706,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/gamemodel.cpp" line="256"/>
         <source>The first turn can be only H8.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6727,23 +6719,23 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/gamesessions.cpp" line="205"/>
         <source>Incorrect parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/gamesessions.cpp" line="266"/>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/gamesessions.cpp" line="735"/>
         <source>You are allready playing!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/gamesessions.cpp" line="381"/>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/gamesessions.cpp" line="386"/>
         <source>From: %1&lt;br /&gt;Game error.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6751,7 +6743,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_general_groupchat.ui" line="13"/>
         <source>GeneralGroupchatUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_general_groupchat.ui" line="33"/>
@@ -6794,19 +6786,19 @@ You lost the game.</source>
         <location filename="../../psi-plus/src/options/opt_general_groupchat.ui" line="105"/>
         <location filename="../../psi-plus/src/options/opt_general_groupchat.ui" line="257"/>
         <source>Add</source>
-        <translation>הוספה</translation>
+        <translation>הוסף</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_general_groupchat.ui" line="112"/>
         <location filename="../../psi-plus/src/options/opt_general_groupchat.ui" line="115"/>
         <source>Removes the selected word from the highlight list</source>
-        <translation>הסרת מילה נבחרת מן רשימת הדגשה</translation>
+        <translation>הסרת מילה נבחרת מתוך רשימת הדגשה</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_general_groupchat.ui" line="118"/>
         <location filename="../../psi-plus/src/options/opt_general_groupchat.ui" line="270"/>
         <source>Remove</source>
-        <translation>הסרה</translation>
+        <translation>הסר</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_general_groupchat.ui" line="156"/>
@@ -6816,7 +6808,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_general_groupchat.ui" line="163"/>
         <source>Enable hash nick coloring</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_general_groupchat.ui" line="170"/>
@@ -6853,7 +6845,7 @@ You lost the game.</source>
         <location filename="../../psi-plus/src/options/opt_general_groupchat.ui" line="264"/>
         <location filename="../../psi-plus/src/options/opt_general_groupchat.ui" line="267"/>
         <source>Removes the selected color from the list</source>
-        <translation>הסרת הצבע הנבחר מן הרשימה</translation>
+        <translation>הסרת הצבע הנבחר מתוך הרשימה</translation>
     </message>
 </context>
 <context>
@@ -7110,7 +7102,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/pixmapwidget.cpp" line="39"/>
         <source>Enter text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/pixmapwidget.cpp" line="42"/>
@@ -7124,22 +7116,22 @@ You lost the game.</source>
         <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/gmailserviceplugin.cpp" line="312"/>
         <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/gmailserviceplugin.cpp" line="627"/>
         <source>No-save state for contact %1 is changed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/gmailserviceplugin.cpp" line="512"/>
         <source>Settings for an account %1 are changed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/gmailserviceplugin.cpp" line="578"/>
         <source>Shared Status for an account %1 is updated</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/gmailserviceplugin.cpp" line="679"/>
         <source>Attributes for contact %1 are changed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/gmailserviceplugin.cpp" line="884"/>
@@ -7175,7 +7167,7 @@ You lost the game.</source>
         <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/gmailserviceplugin.cpp" line="995"/>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7188,7 +7180,7 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <message>
         <location filename="../../psi-plus/src/plugins/unix/gnome3supportplugin/gnome3supportplugin.cpp" line="136"/>
         <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7196,27 +7188,27 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="103"/>
         <source>Author: </source>
-        <translation type="unfinished">מחבר: </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="104"/>
         <source>e-mail: </source>
-        <translation type="unfinished">דוא״ל: </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="105"/>
         <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="172"/>
         <source>Send GnuPG Public Key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="266"/>
         <source>Public key %1 sent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7245,17 +7237,17 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/gomokugameplugin.cpp" line="291"/>
         <source>This plugin allows you to play gomoku with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/gomokugameplugin.cpp" line="318"/>
         <source>Gomoku game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/gomokugameplugin.cpp" line="405"/>
         <source>Gomoku game!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7271,12 +7263,12 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gpgprocess.cpp" line="158"/>
         <source>Can&apos;t start </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gpgprocess.cpp" line="166"/>
         <source>GnuPG program not found</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7298,7 +7290,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus/src/libpsi/dialogs/grepshortcutkeydialog.cpp" line="30"/>
         <source>Press shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/libpsi/dialogs/grepshortcutkeydialog.cpp" line="57"/>
@@ -7350,7 +7342,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.ui" line="94"/>
         <source>AccountLabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/groupchatdlg.ui" line="101"/>
@@ -7406,7 +7398,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus/src/psicontactmenu.cpp" line="137"/>
         <source>Enter the new group name:</source>
-        <translation>הזן שם קבוצה חדש:</translation>
+        <translation>הזן את השם החדש של הקבוצה:</translation>
     </message>
 </context>
 <context>
@@ -7510,7 +7502,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus/src/historydlg.cpp" line="293"/>
         <source>Are you sure you want to completely remove history for a contact %1?</source>
-        <translation>האם אתה בטוח שברצונך להסיר לחלוטין היסטוריה עבור איש קשר %1?</translation>
+        <translation>האם אתה בטוח כי ברצונך להסיר לחלוטין היסטוריה עבור איש קשר %1?</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/historydlg.cpp" line="317"/>
@@ -7614,7 +7606,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <location filename="../../psi-plus/src/plugins/generic/historykeeperplugin/historykeeperplugin.cpp" line="287"/>
         <source>This plugin is designed to remove the history of selected contacts when the Psi+ is closed.
 You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7637,7 +7629,7 @@ You can select or deselect a contact for history removal from the context menu o
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -7650,7 +7642,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -7668,7 +7660,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -7686,7 +7678,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -7805,7 +7797,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset_activity.ui" line="14"/>
         <source>IconsetActivityUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset_activity.ui" line="26"/>
@@ -7823,7 +7815,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset_affiliation.ui" line="14"/>
         <source>IconsetClientUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset_affiliation.ui" line="26"/>
@@ -7841,7 +7833,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset_client.ui" line="14"/>
         <source>IconsetClientUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset_client.ui" line="26"/>
@@ -7864,7 +7856,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/options/ui_isdetails.ui" line="42"/>
         <source>&lt;a href=&quot;http://psi-im.org&quot;&gt;psi-im.org&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/ui_isdetails.ui" line="55"/>
@@ -7897,7 +7889,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../psi-plus/src/options/ui_isdetails.ui" line="168"/>
         <location filename="../../psi-plus/src/options/ui_isdetails.ui" line="200"/>
         <source>XXX</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/ui_isdetails.ui" line="187"/>
@@ -7918,7 +7910,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset_emo.ui" line="16"/>
         <source>IconsetEmoUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset_emo.ui" line="28"/>
@@ -7933,12 +7925,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset_emo.ui" line="53"/>
         <source>psi/arrowDown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset_emo.ui" line="66"/>
         <source>psi/arrowUp</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset_emo.ui" line="92"/>
@@ -7951,7 +7943,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset_mood.ui" line="14"/>
         <source>IconsetMoodUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset_mood.ui" line="26"/>
@@ -7969,7 +7961,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset_roster.ui" line="13"/>
         <source>IconsetRosterUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset_roster.ui" line="29"/>
@@ -8032,7 +8024,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset_roster.ui" line="274"/>
         <source>&amp;Add</source>
-        <translation>&amp;הוסף</translation>
+        <translation>הוס&amp;ף</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset_roster.ui" line="281"/>
@@ -8042,7 +8034,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset_roster.ui" line="298"/>
         <source>RegExp</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset_roster.ui" line="313"/>
@@ -8055,7 +8047,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset_system.ui" line="13"/>
         <source>IconsetSystemUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset_system.ui" line="28"/>
@@ -8070,25 +8062,25 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset_system.ui" line="45"/>
         <source>Alt+S</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>IcqDie</name>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="116"/>
-        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
+        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it's much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="120"/>
         <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
 
-If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
+If you don't know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="265"/>
@@ -8110,7 +8102,7 @@ The plugin has a number of simple settings that can help you:
 * set the max count of messages by contact
 * disable the message for the active window/tab
 * disable messages for contacts that are not in your roster</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8133,7 +8125,7 @@ The plugin has a number of simple settings that can help you:
     <message>
         <location filename="../../psi-plus/src/plugins/generic/imageplugin/imageplugin.cpp" line="227"/>
         <source>From clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/imageplugin/imageplugin.cpp" line="247"/>
@@ -8153,17 +8145,17 @@ The plugin has a number of simple settings that can help you:
     <message>
         <location filename="../../psi-plus/src/plugins/generic/imageplugin/imageplugin.cpp" line="273"/>
         <source>Image size must be less than 60 kb</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/imageplugin/imageplugin.cpp" line="276"/>
         <source>Image %1 bytes received.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/imageplugin/imageplugin.cpp" line="291"/>
         <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/imageplugin/imageplugin.cpp" line="303"/>
@@ -8173,9 +8165,9 @@ The plugin has a number of simple settings that can help you:
     <message>
         <location filename="../../psi-plus/src/plugins/generic/imageplugin/imageplugin.cpp" line="304"/>
         <source>This plugin is designed to send images to roster contacts.
-Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8203,7 +8195,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus/src/info.ui" line="95"/>
         <source>Alt+V</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/info.ui" line="98"/>
@@ -8213,12 +8205,12 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus/src/info.ui" line="136"/>
         <source>&amp;Open...</source>
-        <translation>&amp;פתח...</translation>
+        <translation>&amp;פתיחה...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/info.ui" line="139"/>
         <source>Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/info.ui" line="160"/>
@@ -8228,7 +8220,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus/src/info.ui" line="163"/>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/info.ui" line="180"/>
@@ -8318,12 +8310,12 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus/src/info.ui" line="458"/>
         <source>Alt+D</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/info.ui" line="461"/>
         <source>psi/disco</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/info.ui" line="468"/>
@@ -8338,7 +8330,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus/src/info.ui" line="478"/>
         <source>psi/reload</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/info.ui" line="485"/>
@@ -8348,7 +8340,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus/src/info.ui" line="488"/>
         <source>psi/close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8408,7 +8400,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
         <translation>לא פרסמת את שינויי מידע חשבונך.
-האם אתה בטוח שברצונך להשליכם?</translation>
+האם אתה בטוח כי ברצונך לסלק אותם?</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/infodlg.cpp" line="280"/>
@@ -8440,20 +8432,20 @@ Are you sure you want to discard them?</source>
     <message>
         <location filename="../../psi-plus/src/infodlg.cpp" line="332"/>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>לא ניתן לאחזר את מידע חשבונך.  ייתכן שלא הזנת פרטים עדיין.</translation>
+        <translation>אין אפשרות לאחזר את מידע חשבונך.  ייתכן כי לא הזנת פרטים עדיין.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/infodlg.cpp" line="334"/>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation>לא ניתן לאחזר מידע אודות איש קשר זה.
+        <translation>אין אפשרות לאחזר מידע אודות איש קשר זה.
 סיבה: %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/infodlg.cpp" line="337"/>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation>לא ניתן לפרסם את מידע חשבונך.
+        <translation>אין אפשרות לפרסם את מידע חשבונך.
 סיבה: %1</translation>
     </message>
     <message>
@@ -8474,7 +8466,7 @@ available</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/invatedialog.ui" line="14"/>
         <source>Gomoku Game Plugin - Invite</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/invatedialog.ui" line="22"/>
@@ -8489,12 +8481,12 @@ available</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/invatedialog.ui" line="89"/>
         <source>Play Black</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/invatedialog.ui" line="96"/>
         <source>Play White</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/invatedialog.ui" line="103"/>
@@ -8524,31 +8516,31 @@ available</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/invitationdialog.ui" line="20"/>
         <source>Gomoku Game Plugin - Invitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/invitedialog.cpp" line="79"/>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/invatedialog.cpp" line="81"/>
         <source>white</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/invitedialog.cpp" line="81"/>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/invatedialog.cpp" line="83"/>
         <source>black</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/invitedialog.cpp" line="83"/>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/invatedialog.cpp" line="85"/>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8556,22 +8548,22 @@ to play gomoku. He wants to play %2.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/invitedialog.ui" line="20"/>
         <source>Invitation</source>
-        <translation type="unfinished">הזמנה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/invitedialog.ui" line="28"/>
         <source>Select resource:</source>
-        <translation type="unfinished">בחירת משאב:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/invitedialog.ui" line="75"/>
         <source>Play White</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/invitedialog.ui" line="82"/>
         <source>Play Black</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8599,27 +8591,27 @@ to play gomoku. He wants to play %2.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="147"/>
         <source>&lt;b&gt;You:&lt;/b&gt; </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="149"/>
         <source>&lt;b&gt;Disk:&lt;/b&gt; </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="207"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="208"/>
         <source>Make dir</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="209"/>
         <source>Get File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="210"/>
@@ -8629,7 +8621,7 @@ to play gomoku. He wants to play %2.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="211"/>
         <source>Hash</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="212"/>
@@ -8644,7 +8636,7 @@ to play gomoku. He wants to play %2.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="214"/>
         <source>Intro</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="215"/>
@@ -8659,12 +8651,12 @@ to play gomoku. He wants to play %2.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="219"/>
         <source>Move to...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="241"/>
         <source>Remove Item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="241"/>
@@ -8674,17 +8666,17 @@ to play gomoku. He wants to play %2.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="249"/>
         <source>Input Dir Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="258"/>
         <source>Input Full JID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="272"/>
         <source>Input New Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8710,7 +8702,7 @@ to play gomoku. He wants to play %2.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickjidlist.ui" line="17"/>
         <source>Set JIDs of Juick Bot</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickjidlist.ui" line="28"/>
@@ -8733,7 +8725,7 @@ to play gomoku. He wants to play %2.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickjidlist.cpp" line="55"/>
         <source>Input JID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8745,19 +8737,19 @@ to play gomoku. He wants to play %2.</source>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="233"/>
-        <source>can&apos;t create folder %1 
+        <source>can't create folder %1 
 caching avatars will be not available</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="625"/>
         <source>Time stamp: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="692"/>
         <source> replied:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="783"/>
@@ -8794,7 +8786,7 @@ Currently, the plugin is able to:
 * Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
 
 Note: To work correctly, the option options.html.chat.render	must be set to true. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8802,7 +8794,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <location filename="../../psi-plus/src/options/opt_lookfeel_toolbars.ui" line="13"/>
         <source>LookFeelToolbarsUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_lookfeel_toolbars.ui" line="33"/>
@@ -8812,22 +8804,22 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <location filename="../../psi-plus/src/options/opt_lookfeel_toolbars.ui" line="68"/>
         <source>&amp;Add</source>
-        <translation>&amp;הוספה</translation>
+        <translation>הוס&amp;ף</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_lookfeel_toolbars.ui" line="71"/>
         <source>Alt+A</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_lookfeel_toolbars.ui" line="78"/>
         <source>&amp;Delete</source>
-        <translation>&amp;מחיקה</translation>
+        <translation>&amp;מחק</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_lookfeel_toolbars.ui" line="81"/>
         <source>Alt+D</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_lookfeel_toolbars.ui" line="111"/>
@@ -8855,22 +8847,22 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
         <location filename="../../psi-plus/src/options/opt_lookfeel_toolbars.ui" line="260"/>
         <location filename="../../psi-plus/src/options/opt_lookfeel_toolbars.ui" line="304"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_lookfeel_toolbars.ui" line="217"/>
         <source>psi/arrowUp</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_lookfeel_toolbars.ui" line="245"/>
         <source>psi/arrowDown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_lookfeel_toolbars.ui" line="263"/>
         <source>psi/arrowRight</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_lookfeel_toolbars.ui" line="286"/>
@@ -8880,7 +8872,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <location filename="../../psi-plus/src/options/opt_lookfeel_toolbars.ui" line="307"/>
         <source>psi/arrowLeft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_lookfeel_toolbars.ui" line="335"/>
@@ -8893,7 +8885,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <location filename="../../psi-plus/src/mucaffiliationsmodel.cpp" line="43"/>
         <source>JID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/mucaffiliationsmodel.cpp" line="43"/>
@@ -8941,12 +8933,12 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <location filename="../../psi-plus/src/mucconfig.ui" line="101"/>
         <source>Add</source>
-        <translation>הוספה</translation>
+        <translation>הוסף</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/mucconfig.ui" line="108"/>
         <source>Remove</source>
-        <translation>הסרה</translation>
+        <translation>הסר</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/mucconfig.ui" line="116"/>
@@ -9107,7 +9099,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <location filename="../../psi-plus/src/mucjoindlg.cpp" line="54"/>
         <source>&amp;Join</source>
-        <translation>&amp;כניסה</translation>
+        <translation>ה&amp;צטרף</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/mucjoindlg.cpp" line="71"/>
@@ -9141,7 +9133,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
         <location filename="../../psi-plus/src/mucjoindlg.cpp" line="276"/>
         <source>Unable to join groupchat.
 Reason: %1</source>
-        <translation>לא ניתן להצטרף אל שיחת קבוצה.
+        <translation>אין אפשרות להצטרף אל שיחת קבוצה.
 סיבה: %1</translation>
     </message>
 </context>
@@ -9233,12 +9225,12 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/mucreasonseditor.ui" line="55"/>
         <source>Add</source>
-        <translation>הוספה</translation>
+        <translation>הוסף</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/mucreasonseditor.ui" line="62"/>
         <source>Remove</source>
-        <translation>הסרה</translation>
+        <translation>הסר</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/mucreasonseditor.ui" line="82"/>
@@ -9381,14 +9373,14 @@ Active accounts:</source>
         <location filename="../tmp/mainwin.cpp" line="1391"/>
         <location filename="../../psi-plus/src/mainwin.cpp" line="1367"/>
         <source>Incoming event(s) from:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/mainwin.cpp" line="1392"/>
         <location filename="../../psi-plus/src/mainwin.cpp" line="1368"/>
         <source>
 Incoming event(s) from:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/mainwin.cpp" line="1418"/>
@@ -9467,7 +9459,7 @@ You can modify and redistribute the source code
 because it is under GPL.
 
 Russia, Tambov, 2005 (denis@silversoft.net)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9501,47 +9493,47 @@ Details: %1</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/model.cpp" line="115"/>
         <source>Type</source>
-        <translation type="unfinished">טיפוס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/model.cpp" line="116"/>
         <source>Name</source>
-        <translation type="unfinished">שם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/model.cpp" line="117"/>
         <source>E-Mail</source>
-        <translation type="unfinished">דוא״ל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/model.cpp" line="118"/>
         <source>Created</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/model.cpp" line="119"/>
         <source>Length</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/model.cpp" line="120"/>
         <source>Comment</source>
-        <translation type="unfinished">הערה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/model.cpp" line="121"/>
         <source>Algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/model.cpp" line="122"/>
         <source>Short ID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/model.cpp" line="123"/>
         <source>Fingerprint</source>
-        <translation type="unfinished">טביעת אצבע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/model.cpp" line="27"/>
@@ -9551,12 +9543,12 @@ Details: %1</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/model.cpp" line="27"/>
         <source>JID (or part of JID)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/model.cpp" line="30"/>
         <source>Watch for JIDs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/model.cpp" line="31"/>
@@ -9606,7 +9598,7 @@ Details: %1</source>
     <message>
         <location filename="../../psi-plus/src/tools/optionstree/optionstreeviewtest/optionstreeviewtest.cpp" line="27"/>
         <source>Flat</source>
-        <translation type="unfinished">תצוגה שטוחה</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9692,7 +9684,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/storagenotesplugin/notes.cpp" line="254"/>
         <source>Error! Perhaps the function is not implemented on the server.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/storagenotesplugin/notes.cpp" line="255"/>
@@ -9711,7 +9703,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.ui" line="13"/>
         <source>OptAdvancedUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.ui" line="25"/>
@@ -9736,12 +9728,12 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.ui" line="39"/>
         <source>Request receipts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.ui" line="46"/>
         <source>Send receipts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.ui" line="63"/>
@@ -9811,7 +9803,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.ui" line="162"/>
         <source>Treat incoming messages and chats as:</source>
-        <translation>התייחס אל הודעות נכנסות ושיחות כאל:</translation>
+        <translation>התייחס אל הודעות ושיחות נכנסות בתור:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.ui" line="170"/>
@@ -9839,7 +9831,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_appearance.ui" line="14"/>
         <source>OptAppearanceUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_appearance.ui" line="20"/>
@@ -9964,12 +9956,12 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_appearance.ui" line="461"/>
         <source>Specifies the color for additional text of system messages. MUC topic for example.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_appearance.ui" line="464"/>
         <source>Additional message text:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_appearance.ui" line="491"/>
@@ -9992,7 +9984,7 @@ Tags: %1</source>
         <location filename="../../psi-plus/src/options/opt_appearance.ui" line="537"/>
         <location filename="../../psi-plus/src/options/opt_appearance.ui" line="544"/>
         <source>Choose...</source>
-        <translation>בחר...</translation>
+        <translation>בחירה...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_appearance.ui" line="551"/>
@@ -10010,7 +10002,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_appearance_misc.ui" line="16"/>
         <source>OptAppearanceMiscUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_appearance_misc.ui" line="28"/>
@@ -10054,7 +10046,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_theme.ui" line="14"/>
         <source>OptAppearanceThemeUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_theme.ui" line="61"/>
@@ -10067,12 +10059,12 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_application.ui" line="13"/>
         <source>OptApplicationUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_application.ui" line="19"/>
         <source>Automatically launch application when OS starts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_application.ui" line="26"/>
@@ -10122,7 +10114,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_application.ui" line="123"/>
         <source>99999; </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_application.ui" line="139"/>
@@ -10137,12 +10129,12 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_application.ui" line="193"/>
         <source>Proxy Settings</source>
-        <translation>הגדרות פרוקסי</translation>
+        <translation>הגדרות Proxy</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_application.ui" line="203"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10178,7 +10170,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_chat.ui" line="13"/>
         <source>OptChatUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_chat.ui" line="25"/>
@@ -10198,7 +10190,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_chat.ui" line="46"/>
         <source>Switch tab on receiving new messages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_chat.ui" line="53"/>
@@ -10233,7 +10225,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_chat.ui" line="104"/>
         <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_chat.ui" line="109"/>
@@ -10301,7 +10293,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_events.ui" line="13"/>
         <source>OptEventsUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_events.ui" line="25"/>
@@ -10336,7 +10328,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_events.ui" line="67"/>
         <source>Ignore events from contacts not already in your roster</source>
-        <translation>התעלם מן אירועים מאת אישי קשר שלא מצויים כבר ברשימתך</translation>
+        <translation>התעלם מן אירועים מאת אישי קשר אשר לא מצויים כבר ברשימתך</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_events.ui" line="74"/>
@@ -10394,7 +10386,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_plugins.ui" line="14"/>
         <source>OptPluginsUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_plugins.ui" line="37"/>
@@ -10427,7 +10419,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_popups.ui" line="14"/>
         <source>OptPopupsUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_popups.ui" line="20"/>
@@ -10447,52 +10439,52 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_popups.ui" line="50"/>
         <source>Popup notifications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_popups.ui" line="56"/>
         <source>On incoming message event</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_popups.ui" line="63"/>
         <source>Show incoming message on popup</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_popups.ui" line="70"/>
         <source>On incoming headline event</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_popups.ui" line="77"/>
         <source>On incoming file event</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_popups.ui" line="84"/>
         <source>When a contact begins typing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_popups.ui" line="91"/>
         <source>When a contact becomes available</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_popups.ui" line="98"/>
         <source>When a contact becomes unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_popups.ui" line="105"/>
         <source>When a contact changes status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_popups.ui" line="112"/>
         <source>Enable popup notifications for every muc message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_popups.ui" line="124"/>
@@ -10502,32 +10494,32 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_popups.ui" line="130"/>
         <source>Maximum JID length:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_popups.ui" line="156"/>
         <source>Maximum text length:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_popups.ui" line="182"/>
         <source>Maximum status length:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_popups.ui" line="211"/>
         <source>Popup location</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_popups.ui" line="217"/>
         <source>Show popups from top to bottom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_popups.ui" line="224"/>
         <source>Place popups at left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_popups.ui" line="263"/>
@@ -10542,7 +10534,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_popups.ui" line="298"/>
         <source>Durations, sec.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10550,12 +10542,12 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.ui" line="14"/>
         <source>OptApplicationUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.ui" line="26"/>
         <source>Roster window always on top</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.ui" line="33"/>
@@ -10565,7 +10557,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.ui" line="43"/>
         <source>Use left-click for menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.ui" line="50"/>
@@ -10585,17 +10577,17 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.ui" line="67"/>
         <source>Enables avatar frame at the top of roster</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.ui" line="70"/>
         <source>Enable roster avatar frame</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.ui" line="79"/>
         <source>Autohide roster after</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.ui" line="96"/>
@@ -10675,7 +10667,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.ui" line="195"/>
         <source>only highest priority client icon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.ui" line="208"/>
@@ -10704,7 +10696,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_shortcuts.ui" line="19"/>
         <source>OptShortcutsUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_shortcuts.ui" line="47"/>
@@ -10719,7 +10711,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_shortcuts.ui" line="68"/>
         <source>Add...</source>
-        <translation>הוסף...</translation>
+        <translation>הוספה...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_shortcuts.ui" line="75"/>
@@ -10729,7 +10721,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_shortcuts.ui" line="82"/>
         <source>Edit...</source>
-        <translation>ערוך...</translation>
+        <translation>עריכה...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_shortcuts.ui" line="102"/>
@@ -10742,7 +10734,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_sound.ui" line="16"/>
         <source>OptSoundUI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_sound.ui" line="36"/>
@@ -10832,7 +10824,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_sound.ui" line="417"/>
         <source>Reset to defaults</source>
-        <translation>איפוס שינויים</translation>
+        <translation>אפס אל ברירות מחדל</translation>
     </message>
 </context>
 <context>
@@ -10840,12 +10832,12 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_statusauto.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_statusauto.ui" line="20"/>
         <source>Auto status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_statusauto.ui" line="37"/>
@@ -10961,27 +10953,27 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_statusgeneral.ui" line="103"/>
         <source>Status menus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_statusgeneral.ui" line="117"/>
         <source>Show presets in menus:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_statusgeneral.ui" line="143"/>
         <source>As submenu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_statusgeneral.ui" line="148"/>
         <source>With standard statuses</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_statusgeneral.ui" line="153"/>
         <source>No</source>
-        <translation type="unfinished">לא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_statusgeneral.ui" line="176"/>
@@ -10991,27 +10983,27 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_statusgeneral.ui" line="179"/>
         <source>Hide standard statuses (Chat, Away, XA, DND)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_statusgeneral.ui" line="191"/>
         <source>Show &quot;Edit presets...&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_statusgeneral.ui" line="218"/>
         <source>Show &quot;Choose...&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_statusgeneral.ui" line="225"/>
         <source>Show &quot;Reconnect&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_statusgeneral.ui" line="252"/>
         <source>Presets</source>
-        <translation type="unfinished">ערוכות מראש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_statusgeneral.ui" line="285"/>
@@ -11031,7 +11023,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus/src/options/opt_statusgeneral.ui" line="320"/>
         <source>Selected preset</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_statusgeneral.ui" line="328"/>
@@ -11053,9 +11045,9 @@ Tags: %1</source>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11063,7 +11055,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/options/opt_statuspep.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_statuspep.ui" line="29"/>
@@ -11073,7 +11065,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/options/opt_statuspep.ui" line="44"/>
         <source>Enter media file extensions to ignore them on tune sending</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_statuspep.ui" line="51"/>
@@ -11083,7 +11075,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/options/opt_statuspep.ui" line="54"/>
         <source>Ignored media file extensions on psi tunes sending</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_statuspep.ui" line="67"/>
@@ -11127,7 +11119,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/psioptionseditor.cpp" line="78"/>
         <source>Can&apos;t edit this type of setting, sorry.</source>
-        <translation>לא ניתן לערוך את טיפוס הגדרה זו, עמך הסליחה.</translation>
+        <translation>אין אפשרות לערוך את טיפוס הגדרה זו, עמך הסליחה.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psioptionseditor.cpp" line="91"/>
@@ -11152,39 +11144,39 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <location filename="../../psi-plus/src/plugins/generic/pepchangenotifyplugin/options.ui" line="14"/>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/dev/redirectorplugin/options.ui" line="22"/>
         <source>Redirect to JID:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/options.ui" line="22"/>
         <source>Allow receiving one Attention from the same contact every</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/options.ui" line="32"/>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/options.ui" line="54"/>
         <source>Don&apos;t hide popup if status is Away or XA</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/options.ui" line="61"/>
         <source>Disable notifications if status is DND</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/options.ui" line="70"/>
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/options.ui" line="161"/>
         <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/options.ui" line="178"/>
         <source>Play sound:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/attentionplugin/options.ui" line="109"/>
@@ -11195,12 +11187,12 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/options.ui" line="20"/>
         <source>If you use this plugin at first time, make sure that all your accounts
 is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/options.ui" line="30"/>
         <source>Update Birthdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/options.ui" line="37"/>
@@ -11215,12 +11207,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/options.ui" line="68"/>
         <source>Start notifying</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/options.ui" line="85"/>
         <source>days in advance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/options.ui" line="92"/>
@@ -11235,17 +11227,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/options.ui" line="113"/>
         <source>Update birthdays every</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/options.ui" line="123"/>
         <source>days (0 - automatic update disabled)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/options.ui" line="145"/>
         <source>Remind for contacts from active accounts only</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/options.ui" line="152"/>
@@ -11266,12 +11258,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/captchaformsplugin/options.ui" line="20"/>
         <source>Auto-popup Captcha dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/captchaformsplugin/options.ui" line="27"/>
         <source>Use proxy settings from account</source>
-        <translation type="unfinished"></translation>
+        <translation>השתמש בהגדרות ציר מתוך חשבון</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/captchaformsplugin/options.ui" line="64"/>
@@ -11286,7 +11278,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/options.ui" line="27"/>
         <source>Toolbar action</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/options.ui" line="47"/>
@@ -11312,7 +11304,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/options.ui" line="70"/>
         <source> If set to &quot;true&quot;, the server will send
  notifications of unread email.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/options.ui" line="74"/>
@@ -11325,36 +11317,36 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
  Google Talk chats on the server;
  if set to &quot;false&quot;, no conversations
  will be logged.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/options.ui" line="87"/>
         <source>Message archiving</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/options.ui" line="94"/>
         <source> If set to &quot;true&quot;, the server will
  automatically add people emailed
  often to the user&apos;s roster.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/options.ui" line="99"/>
         <source>Auto-accept suggestions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/options.ui" line="106"/>
         <source> Enable multiple applications signed in
  as the same user to report the same
  status message. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/options.ui" line="111"/>
         <source>Enable Shared Statuses</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/options.ui" line="118"/>
@@ -11362,17 +11354,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
  logging of individual conversations and
  sends notifications.
  Enable &quot;Message archiving&quot; option for use!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/options.ui" line="124"/>
         <source>Enable Off the Record Chats</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/options.ui" line="134"/>
         <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gmailserviceplugin/options.ui" line="137"/>
@@ -11402,7 +11394,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="27"/>
         <source>Manager</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="51"/>
@@ -11435,22 +11427,22 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="102"/>
         <source>Settings</source>
-        <translation type="unfinished">הגדרות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="108"/>
         <source>Auto import a key from the message body</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="115"/>
         <source>Filter the message with a key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="122"/>
         <source>Show Send Public Key button on chat toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/options.ui" line="39"/>
@@ -11467,12 +11459,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/pepchangenotifyplugin/options.ui" line="22"/>
         <source>Per contact delay between the popup notifications of the same events</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/pepchangenotifyplugin/options.ui" line="25"/>
         <source>Delay between popups</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/pepchangenotifyplugin/options.ui" line="45"/>
@@ -11483,12 +11475,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <location filename="../../psi-plus/src/plugins/generic/pepchangenotifyplugin/options.ui" line="67"/>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="64"/>
         <source>Disable popups if status is DND</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/pepchangenotifyplugin/options.ui" line="74"/>
         <source>Enable notifications for:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/pepchangenotifyplugin/options.ui" line="80"/>
@@ -11523,37 +11515,37 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="30"/>
         <source>Main</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="36"/>
         <source>Question:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="59"/>
         <source>Answer:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="69"/>
         <source>Congratulation:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="93"/>
         <source>MUC</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="99"/>
         <source>Enable Stop Spam for private messages in MUC</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="106"/>
         <source>Enable Stop Spam for affiliations:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="112"/>
@@ -11573,12 +11565,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="133"/>
         <source>None</source>
-        <translation type="unfinished">ללא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="156"/>
         <source>Enable Stop Spam for roles:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="162"/>
@@ -11598,7 +11590,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="199"/>
         <source>Block all private messages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="206"/>
@@ -11614,7 +11606,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="232"/>
         <source>Number of blocked stanzas:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="261"/>
@@ -11624,43 +11616,43 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="268"/>
         <source>Reset</source>
-        <translation type="unfinished">איפוס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="292"/>
         <source>Send maximum</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="312"/>
         <source>times</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="319"/>
         <source>Timeout to reset counter:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="339"/>
         <source>min.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="361"/>
         <source>Log blocked messages to contact&apos;s history</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="400"/>
         <source>Del</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="409"/>
-        <source>Disable stopspam, if don&apos;t match any rule above
+        <source>Disable stopspam, if don't match any rule above
 (does not work for muc private messages)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/options.ui" line="421"/>
@@ -11675,17 +11667,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="35"/>
         <source>Delete selected</source>
-        <translation type="unfinished">מחק בחירה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="55"/>
         <source>Add row</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="73"/>
         <source>Default sound: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="100"/>
@@ -11695,22 +11687,22 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="137"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="161"/>
         <source>Disable sound if chat window is active</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="175"/>
         <source>Show Watch for JID button on chat toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="182"/>
         <source>Show Watch for JID button in contact context menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="206"/>
@@ -11720,22 +11712,22 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="57"/>
         <source>from file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="60"/>
         <source>from clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="68"/>
         <source>to file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="72"/>
         <source>to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="151"/>
@@ -11745,23 +11737,23 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="153"/>
         <source>&lt;b&gt;Please wait!&lt;/b&gt;&lt;br/&gt;We need to generate a lot of random bytes. It is a good idea to perform some other action (type on the keyboard, move the mouse, utilize the disks) during the prime generation; this gives the random number generator a better chance to gain enough entropy.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="172"/>
         <source>Key pair generating</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="224"/>
         <source>Do you want to delete the selected keys?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="250"/>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="305"/>
         <source>ASCII (*.asc)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="251"/>
@@ -11771,27 +11763,27 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="412"/>
         <source>GnuPG info</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/options.cpp" line="141"/>
         <source>Authorizing...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/options.cpp" line="143"/>
         <source>Authorizing OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/options.cpp" line="145"/>
         <source>Authorization failed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/options.cpp" line="147"/>
         <source>Canceled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/options.cpp" line="149"/>
@@ -11801,7 +11793,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/options.cpp" line="151"/>
         <source>Uploading</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/options.cpp" line="153"/>
@@ -11811,7 +11803,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/options.cpp" line="155"/>
         <source>Cookies are removed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11847,12 +11839,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.cpp" line="56"/>
         <source>Request receipts from contacts on each message.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.cpp" line="58"/>
         <source>Send receipts to contacts by request.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.cpp" line="60"/>
@@ -11862,7 +11854,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.cpp" line="62"/>
         <source>Check this option if you want your spelling to be checked</source>
-        <translation>סמן את אפשרות זו אם ברצונך שאיות ייבדק</translation>
+        <translation>סמן את אפשרות זו אם ברצונך כי איות ייבדק</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.cpp" line="64"/>
@@ -11887,12 +11879,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.cpp" line="73"/>
         <source>Automatically attaches URLs from clipboard to the messages when enabled</source>
-        <translation>מספחת כתובות URL מן לוח גזירה באופן אוטומטי אל ההודעות כאשר זו מאופשרת</translation>
+        <translation>מספחת כתובות URL מתוך לוח גזירה באופן אוטומטי אל ההודעות כאשר זו מאופשרת</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.cpp" line="75"/>
         <source>&lt;P&gt;Specifies how to treat incoming events:&lt;/P&gt;&lt;P&gt;&lt;B&gt;Normal&lt;/B&gt; - messages come as messages, chats come as chats.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Messages&lt;/B&gt; - All messages/chats come as messages, no matter what their original form was.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Chats&lt;/B&gt; - All messages/chats come as chats, no matter what their original form was.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;מתווה כיצד להתייחס אל אירועים נכנסים:&lt;/P&gt;&lt;P&gt;&lt;B&gt;רגילה&lt;/B&gt; - הודעות מגיעות כהודעות, שיחות מגיעות כשיחות.&lt;/P&gt;&lt;P&gt;&lt;B&gt;הודעות&lt;/B&gt; - כל הודעה/שיחה מגיעה כהודעה, ללא חשיבות באשר למה צורתה המקורית היתה.&lt;/P&gt;&lt;P&gt;&lt;B&gt;שיחות&lt;/B&gt; - כל הודעה/שיחה מגיעות כשיחה, ללא חשיבות באשר למה צורתה המקורית היתה.&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;מתווה כיצד להתייחס אל אירועים נכנסים:&lt;/P&gt;&lt;P&gt;&lt;B&gt;רגילה&lt;/B&gt; - הודעות מגיעות בתור הודעות, שיחות מגיעות בתור שיחות.&lt;/P&gt;&lt;P&gt;&lt;B&gt;הודעות&lt;/B&gt; - כל הודעה/שיחה מגיעה כהודעה, ללא חשיבות באשר למה צורתה המקורית היתה.&lt;/P&gt;&lt;P&gt;&lt;B&gt;שיחות&lt;/B&gt; - כל הודעה/שיחה מגיעות בתור שיחה, ללא חשיבות באשר למה צורתה המקורית היתה.&lt;/P&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.cpp" line="85"/>
@@ -11907,7 +11899,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.cpp" line="89"/>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
-        <translation>באופן משתמט, Psi תמיד בודק כרטיס vCard בעת התחברות. אם ברצונך לחסוך תנועת מה, ביכולתך שלא לסמן את אפשרות זו.</translation>
+        <translation>באופן משתמט, Psi תמיד בודק כרטיס vCard בעת התחברות. אם ברצונך לחסוך תנועת מה, באפשרותך לא לסמן את אפשרות זו.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.cpp" line="91"/>
@@ -11917,7 +11909,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.cpp" line="93"/>
         <source>Makes Psi scroll the main window automatically so you can see new incoming events.</source>
-        <translation>במידה ואפשרות זו מסומנת, Psi יגולל את החלון הראשי אוטומטית כך שתהיה לך היכולת לראות אירועים נכנסים חדשים.</translation>
+        <translation>במידה ואפשרות זו מסומנת, Psi יגולל את החלון הראשי אוטומטית כך שתהיה לך האפשרות לראות אירועים נכנסים חדשים.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_advanced.cpp" line="95"/>
@@ -12057,12 +12049,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_application.cpp" line="55"/>
         <source>Set or remove window decorations for roster and chats. For chats there are special header with close, hide and maximize buttons</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_application.cpp" line="59"/>
         <source>Makes Psi use a docklet icon, also known as system tray icon.</source>
-        <translation>במידה ואפשרות זו מסומנת, Psi יעשה שימוש בצלמית רציפון, ידוע גם כן כסמל מגש מערכת.</translation>
+        <translation>במידה ואפשרות זו מסומנת, Psi יעשה שימוש בצלמית רציפון, ידוע גם כן בתור סמל מגש מערכת.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_application.cpp" line="61"/>
@@ -12087,12 +12079,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_application.cpp" line="134"/>
         <source>Some of the options you changed will only have full effect upon restart.</source>
-        <translation type="unfinished">כמה מן האפשרויות ששינית ייכנסו לתוקף מלא רק לאחר אתחול.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_application.cpp" line="188"/>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_application.cpp" line="241"/>
@@ -12102,7 +12094,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_application.cpp" line="244"/>
         <source>(TCP: %1, UDP: %1-%2)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12153,7 +12145,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_chat.cpp" line="71"/>
         <source>Normally, Psi will not alert you when a new chat message is received in a chat window that is already open.  Check this option if you want to receive these alerts anyway.</source>
-        <translation>באופן רגיל, Psi לא יתריעך כאשר הודעת שיחה חדשה מתקבלת בתוך חלון שיחה שכבר פתוח.  ניתן לסמן את אפשרות זו אם ברצונך לקבל את התראות אלו בכל מקרה.</translation>
+        <translation>באופן רגיל, Psi לא יתריעך כאשר הודעת שיחה חדשה מתקבלת בתוך חלון שיחה אשר כבר פתוח.  ניתן לסמן את אפשרות זו אם ברצונך לקבל את התראות אלו בכל מקרה.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_chat.cpp" line="75"/>
@@ -12163,7 +12155,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_chat.cpp" line="78"/>
         <source>Makes Psi switch tab on active tabbed window when you receive a new message. It does not take the keyboard focus, so it will not interfere with your work.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_chat.cpp" line="81"/>
@@ -12236,7 +12228,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_events.cpp" line="49"/>
         <source>Normally, Psi will not autopopup events from users not in your roster.  Set this option if you want them to popup anyway.</source>
-        <translation>באופן רגיל, Psi לא יקפיץ אוטומטית אירועים מן אישי קשר שאינם ברשימתך.  ניתן לקבוע את אפשרתו זו אם ברצונך שאלו יוקפצו בכל מקרה.</translation>
+        <translation>באופן רגיל, Psi לא יקפיץ אוטומטית אירועים מן אישי קשר אשר אינם ברשימתך.  ניתן לקבוע את אפשרתו זו אם ברצונך שאלו יוקפצו בכל מקרה.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_events.cpp" line="52"/>
@@ -12246,7 +12238,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_events.cpp" line="54"/>
         <source>Makes Psi ignore all incoming events from contacts not already in your list of contacts.</source>
-        <translation>במידה ואפשרות זו מסומנת, Psi יתעלם מן כל האירועים הנכנסים מן אישי קשר שלא מצויים כבר ברשימת אישי הקשר שלך.</translation>
+        <translation>במידה ואפשרות זו מסומנת, Psi יתעלם מן כל האירועים הנכנסים מן אישי קשר אשר לא מצויים כבר ברשימת אישי הקשר שלך.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_events.cpp" line="57"/>
@@ -12375,7 +12367,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset.cpp" line="1314"/>
         <source>vk.com</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset.cpp" line="1315"/>
@@ -12385,7 +12377,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_iconset.cpp" line="1339"/>
         <source>Toggles use of transport icons to the contacts, that use that transports.</source>
-        <translation>משתמשת בצלמיות של מוביל לאישי הקשר, שעושים שימוש במובילים נתונים.</translation>
+        <translation>משתמשת בצלמיות של מוביל לאישי הקשר, אשר עושים שימוש במובילים נתונים.</translation>
     </message>
 </context>
 <context>
@@ -12429,12 +12421,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_popups.cpp" line="37"/>
         <source>Popups</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_popups.cpp" line="37"/>
         <source>The popups behaviour</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12462,12 +12454,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.cpp" line="42"/>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_roster.cpp" line="45"/>
         <source>Shows the menubar in the application window.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12503,7 +12495,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_shortcuts.cpp" line="346"/>
         <source>Are you sure you would like to restore the default shortcuts?</source>
-        <translation>האם אתה בטוח שברצונך לשחזר את קיצורי הדרך המשתמטים?</translation>
+        <translation>האם אתה בטוח כי ברצונך לשחזר את קיצורי הדרך המשתמטים?</translation>
     </message>
 </context>
 <context>
@@ -12521,7 +12513,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_sound.cpp" line="120"/>
         <source>If your system supports multiple sound players, you may choose your preferred sound player application here.</source>
-        <translation>במידה ומערכתך תומכת בנגני שמע מרובים, ביכולתך לבחור כאן את נגן השמע המועדף עליך.</translation>
+        <translation>במידה ומערכתך תומכת בנגני שמע מרובים, באפשרותך לבחור כאן את נגן השמע המועדף עליך.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_sound.cpp" line="123"/>
@@ -12630,12 +12622,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_statusgeneral.cpp" line="74"/>
         <source>Press this button to create a new status message preset.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_statusgeneral.cpp" line="76"/>
         <source>Press this button to delete a status message preset.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_statusgeneral.cpp" line="82"/>
@@ -12645,12 +12637,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_statusgeneral.cpp" line="85"/>
         <source>Use this to choose the status that will be assigned to this preset</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_statusgeneral.cpp" line="87"/>
         <source>Fill in the priority that will be assigned to this preset. If no priority is given, the default account priority will be used.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_statusgeneral.cpp" line="91"/>
@@ -12679,12 +12671,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/options/opt_statuspep.cpp" line="19"/>
         <source>PEP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_statuspep.cpp" line="19"/>
         <source>Tunes no-video filter and controllers switcher</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12776,32 +12768,32 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="91"/>
         <source>Response mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="99"/>
         <source>allow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="104"/>
         <source>not implemented</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="109"/>
         <source>ignore</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="117"/>
         <source>Deny iq time request</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="145"/>
         <source>OS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="153"/>
@@ -12812,7 +12804,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="163"/>
         <source>OS name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="178"/>
@@ -12842,7 +12834,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="247"/>
         <source>Enable for:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="255"/>
@@ -12857,35 +12849,35 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="308"/>
         <source>Show popup at version iq</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="316"/>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="342"/>
         <source>never</source>
-        <translation type="unfinished">אף פעם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="321"/>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="347"/>
         <source>if iq replaced</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="326"/>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="352"/>
         <source>always</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="334"/>
         <source>Save queryes to log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="367"/>
         <source>Logs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/options.ui" line="385"/>
@@ -12915,12 +12907,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/optionswidget.ui" line="56"/>
         <source>Modify hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/optionswidget.ui" line="59"/>
         <source>Modify</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/optionswidget.ui" line="68"/>
@@ -12930,17 +12922,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/optionswidget.ui" line="74"/>
         <source>Capture the desktop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/optionswidget.ui" line="81"/>
         <source>Capture active window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/optionswidget.ui" line="88"/>
         <source>Select capture area</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/optionswidget.ui" line="100"/>
@@ -12950,7 +12942,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/optionswidget.ui" line="155"/>
         <source>*to specify the order of servers, use the drag-n-drop </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/optionswidget.ui" line="166"/>
@@ -12990,12 +12982,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/videostatusplugin/options.ui" line="20"/>
         <source>Enable for players:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/videostatusplugin/options.ui" line="28"/>
         <source>Detect full screen applications</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/videostatusplugin/options.ui" line="37"/>
@@ -13010,17 +13002,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus/src/plugins/generic/videostatusplugin/options.ui" line="89"/>
         <source>Restore old status if player stops</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/videostatusplugin/options.ui" line="101"/>
         <source>Delay before setting status, sec</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/videostatusplugin/options.ui" line="135"/>
         <source>Delay before restoring status, sec</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/videostatusplugin/options.ui" line="167"/>
@@ -13170,12 +13162,12 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/pepchangenotifyplugin/pepchangenotifyplugin.cpp" line="310"/>
         <source>Mood changed to &quot;%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/pepchangenotifyplugin/pepchangenotifyplugin.cpp" line="342"/>
         <source>Activity changed to &quot;%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/pepchangenotifyplugin/pepchangenotifyplugin.cpp" line="464"/>
@@ -13200,7 +13192,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/pepchangenotifyplugin/pepchangenotifyplugin.cpp" line="565"/>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13208,7 +13200,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/pixmapwidget.cpp" line="314"/>
         <source>Input radius</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/pixmapwidget.cpp" line="314"/>
@@ -13228,7 +13220,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/pixmapwidget.cpp" line="410"/>
         <source>Blur</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13249,7 +13241,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus/src/pluginmanager.cpp" line="327"/>
         <source>This plugin has no user configurable options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13257,7 +13249,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="14"/>
         <source>Gomoku Game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="23"/>
@@ -13309,22 +13301,22 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="293"/>
         <source>Resign</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="298"/>
         <source>Switch color</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="309"/>
         <source>Standard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="317"/>
         <source>Yellow wood</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="140"/>
@@ -13334,7 +13326,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="144"/>
         <source>Waiting for accept</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="147"/>
@@ -13359,30 +13351,30 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="161"/>
         <source>Lose.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="164"/>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="530"/>
         <source>Draw.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="206"/>
         <source>You</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="208"/>
         <source>Opp</source>
         <comment>Opponent</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="212"/>
         <source>%1: %2 - swch</source>
         <comment>Switch color</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="284"/>
@@ -13394,7 +13386,7 @@ Please enter your passphrase below:</source>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="470"/>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="529"/>
         <source>Gomoku Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="285"/>
@@ -13405,12 +13397,12 @@ Please enter your passphrase below:</source>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="301"/>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="326"/>
         <source>You want to switch color?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="349"/>
@@ -13425,12 +13417,12 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="397"/>
         <source>You really want to begin new game?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="471"/>
         <source>You really want to begin loaded game?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13438,32 +13430,32 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus/src/plugins/dev/pstoplugin/preferences.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/dev/pstoplugin/preferences.ui" line="24"/>
         <source>@username</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/dev/pstoplugin/preferences.ui" line="41"/>
         <source>#post_id</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/dev/pstoplugin/preferences.ui" line="58"/>
         <source>* tag</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/dev/pstoplugin/preferences.ui" line="75"/>
         <source>&gt; quote</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/dev/pstoplugin/preferences.ui" line="92"/>
         <source>message</source>
-        <translation type="unfinished">הודעה</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13509,7 +13501,7 @@ Please enter your passphrase below:</source>
         <location filename="../../psi-plus/src/plugins/generic/skinsplugin/skin.cpp" line="91"/>
         <location filename="../../psi-plus/src/plugins/generic/skinsplugin/skin.cpp" line="96"/>
         <source>Skin is not valid!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13547,7 +13539,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus/src/privacy/privacy.ui" line="122"/>
         <source>Rename List</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/privacy/privacy.ui" line="129"/>
@@ -13587,7 +13579,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus/src/privacy/privacy.ui" line="184"/>
         <source>Edit ...</source>
-        <translation>ערוך ...</translation>
+        <translation>עריכה ...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/privacy/privacy.ui" line="204"/>
@@ -13631,12 +13623,12 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus/src/privacy/privacydlg.cpp" line="364"/>
         <source>Rename List</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/privacy/privacydlg.cpp" line="364"/>
         <source>Input new name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13702,7 +13694,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus/src/privacy/privacyruledlg.cpp" line="31"/>
         <source>JID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/privacy/privacyruledlg.cpp" line="32"/>
@@ -13718,7 +13710,7 @@ Please enter your passphrase below:</source>
         <location filename="../../psi-plus/src/privacy/privacyruledlg.cpp" line="34"/>
         <location filename="../../psi-plus/src/privacy/privacyruledlg.cpp" line="105"/>
         <source>*</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/privacy/privacyruledlg.cpp" line="95"/>
@@ -13751,12 +13743,12 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus/src/profilemanage.ui" line="30"/>
         <source>&amp;Add</source>
-        <translation>הוס&amp;פה</translation>
+        <translation>הוס&amp;ף</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/profilemanage.ui" line="33"/>
         <source>psi/addContact</source>
-        <translation type="unfinished">psi/addContact</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/profilemanage.ui" line="40"/>
@@ -13766,12 +13758,12 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus/src/profilemanage.ui" line="47"/>
         <source>Rem&amp;ove</source>
-        <translation>הס&amp;רה</translation>
+        <translation>הס&amp;ר</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/profilemanage.ui" line="50"/>
         <source>psi/remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13798,7 +13790,7 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     <message>
         <location filename="../../psi-plus/src/profiledlg.cpp" line="248"/>
         <source>Unable to rename the profile.  Please do not use any special characters.</source>
-        <translation>לא ניתן לשנות את שם הדיוקן.  אנא אל תשתמש בתווים מיוחדים.</translation>
+        <translation>אין אפשרות לשנות את שם הדיוקן.  אנא אל תשתמש בתווים מיוחדים.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/profiledlg.cpp" line="275"/>
@@ -13809,7 +13801,7 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     <message>
         <location filename="../../psi-plus/src/profiledlg.cpp" line="276"/>
         <source>&lt;qt&gt;Are you sure you want to delete the &quot;&lt;b&gt;%1&lt;/b&gt;&quot; profile?  This will delete all of the profile&apos;s message history as well as associated settings!&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;האם אתה בטוח שברצונך למחוק את הדיוקן &quot;&lt;b&gt;%1&lt;/b&gt;&quot;?  פעולה זו תמחק את כל הודעת ההיסטוריה של הדיוקן וכמו כן גם הגדרות שקשורות אליו!&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;האם אתה בטוח כי ברצונך למחוק את הדיוקן &quot;&lt;b&gt;%1&lt;/b&gt;&quot;?  פעולה זו תמחק את כל הודעת ההיסטוריה של הדיוקן וכמו כן גם הגדרות שקשורות אליו!&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/profiledlg.cpp" line="280"/>
@@ -13826,7 +13818,7 @@ Only use letters or numbers.  No punctuation or spaces.</source>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
-        <translation>&lt;qt&gt;כאמצעי זהירות, הינך נשאל פעם אחת אחרונה אם זו אכן מה שברצונך לעשות.  התיקייה הבאה תימחק!&lt;br&gt;&lt;br&gt;
+        <translation>&lt;qt&gt;כאמצעי זהירות, הינך נשאל פעם אחת אחרונה אם זו אכן דבר אשר ברצונך לעשות.  התיקייה הבאה תימחק!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 להמשיך?</translation>
     </message>
@@ -13843,7 +13835,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/profiledlg.cpp" line="299"/>
         <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation>לא ניתן למחוק את התיקייה לחלוטין.  וודא שעומדות לרשותך ההרשאות המתאימות.</translation>
+        <translation>אין אפשרות למחוק את התיקייה לחלוטין.  ודא כי עומדות לרשותך ההרשאות המתאימות.</translation>
     </message>
 </context>
 <context>
@@ -13860,11 +13852,11 @@ Proceed?</source>
 The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a contact in your list. The choices are&lt;b&gt; Message&lt;/b&gt; (ICQ style) and&lt;b&gt; Chat&lt;/b&gt; (AIM style). You can change this later from the Options menu.&lt;br&gt;
 &lt;br&gt;
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
-        <translation>רצוי להשאיר את&lt;i&gt; שם דיוקן&lt;/i&gt; פשוט. זה צריך להיות מילה בודדת המכילה רק אותיות או מספרים.&lt;br&gt;
+        <translation>רצוי להשאיר את&lt;i&gt; שם דיוקן&lt;/i&gt; פשוט. זה צריך להיות מילה בודדת אשר מכילה רק אותיות או מספרים.&lt;br&gt;
 &lt;br&gt;
-&lt;i&gt;פעולה משתמטת&lt;/i&gt; היא מה שקורה כאשר מוקלקת לחיצה כפולה על איש קשר ברשימתך. הברירות הינן&lt;b&gt; הודעה&lt;/b&gt; (סגנון ICQ) וגם&lt;b&gt; שיחה&lt;/b&gt; (סגנון AIM). ביכולתך לשנות זאת מאוחר יותר מן התפריט אפשרויות.&lt;br&gt;
+&lt;i&gt;פעולה משתמטת&lt;/i&gt; היא מה שקורה כאשר נלחצת לחיצה כפולה על איש קשר ברשימתך. הברירות הינן&lt;b&gt; הודעה&lt;/b&gt; (סגנון ICQ) וגם&lt;b&gt; שיחה&lt;/b&gt; (סגנון AIM). באפשרותך לשנות זאת מאוחר יותר מתוך התפריט אפשרויות.&lt;br&gt;
 &lt;br&gt;
-אם ברצונך שתמליל כגון &lt;b&gt;:-)&lt;/b&gt; יהפוך אל תרשים שרטוטי כמו &lt;icon name=&quot;psi/smile&quot;&gt; קיים הכרח לסמן את תיבת הסימון &lt;i&gt;אפשור רגשונים&lt;/i&gt;.</translation>
+קיים הכרח לסמן את תיבת הסימון &lt;i&gt;אפשר רגשונים&lt;/i&gt; אם ברצונך שטקסט כגון &lt;b&gt;:-)&lt;/b&gt; יהפוך אל תרשים שרטוטי כמו &lt;icon name=&quot;psi/smile&quot;&gt;.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/profilenew.ui" line="75"/>
@@ -13899,17 +13891,17 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../../psi-plus/src/profilenew.ui" line="177"/>
         <source>&amp;Create</source>
-        <translation>י&amp;צירה</translation>
+        <translation>&amp;צור</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/profilenew.ui" line="180"/>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/profilenew.ui" line="189"/>
         <source>psi/addContact</source>
-        <translation type="unfinished">psi/addContact</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13928,7 +13920,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../../psi-plus/src/profiledlg.cpp" line="357"/>
         <source>Unable to create the profile.  Please do not use any special characters.</source>
-        <translation>לא ניתן ליצור את הדיוקן.  אנא אל תשתמש בתווים מיוחדים.</translation>
+        <translation>אין אפשרות ליצור את הדיוקן.  אנא אל תשתמש בתווים מיוחדים.</translation>
     </message>
 </context>
 <context>
@@ -13977,7 +13969,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../../psi-plus/src/profileopen.ui" line="162"/>
         <source>psi/quit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/profileopen.ui" line="185"/>
@@ -13987,17 +13979,17 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../../psi-plus/src/profileopen.ui" line="188"/>
         <source>psi/profile</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/profileopen.ui" line="195"/>
         <source>&amp;Open</source>
-        <translation>&amp;פתיחה</translation>
+        <translation>&amp;פתח</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/profileopen.ui" line="198"/>
         <source>psi/logo_16</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14005,12 +13997,12 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../../psi-plus/src/profiledlg.cpp" line="116"/>
         <source>Select a profile to open from this list.</source>
-        <translation>בחר דיוקן לפתיחה מן רשימה זו.</translation>
+        <translation>בחר דיוקן לפתיחה מתוך רשימה זו.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/profiledlg.cpp" line="118"/>
         <source>Select a language you would like Psi to use from this list.  You can download extra language packs from the Psi homepage.</source>
-        <translation>בחר שפה מן רשימה זו בה ברצונך לעשות שימוש יחד עם Psi.  ביכולתך להוריד חבילות שפה נוספות מן עמוד הבית של Psi.</translation>
+        <translation>בחר שפה מתוך רשימה זו בה ברצונך לעשות שימוש יחד עם Psi.  באפשרותך להוריד חבילות שפה נוספות מתוך עמוד הבית של Psi.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/profiledlg.cpp" line="121"/>
@@ -14023,7 +14015,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../../psi-plus/src/proxy.ui" line="14"/>
         <source>Proxy Profiles</source>
-        <translation>דיוקני פרוקסי</translation>
+        <translation>דיוקני ציר</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/proxy.ui" line="34"/>
@@ -14033,7 +14025,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../../psi-plus/src/proxy.ui" line="37"/>
         <source>psi/addContact</source>
-        <translation type="unfinished">psi/addContact</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/proxy.ui" line="44"/>
@@ -14043,7 +14035,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../../psi-plus/src/proxy.ui" line="47"/>
         <source>psi/remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/proxy.ui" line="62"/>
@@ -14063,7 +14055,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../../psi-plus/src/proxy.ui" line="126"/>
         <source>Polling URL:</source>
-        <translation>:Polling URL</translation>
+        <translation>‏Polling URL:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/proxy.ui" line="136"/>
@@ -14086,7 +14078,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../../psi-plus/src/proxy.cpp" line="363"/>
         <source>Edit...</source>
-        <translation>ערוך...</translation>
+        <translation>עריכה...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/proxy.cpp" line="412"/>
@@ -14099,7 +14091,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../../psi-plus/src/proxy.cpp" line="315"/>
         <source>Enter the hostname and port of your proxy server.</source>
-        <translation>הזן את שם המארח ופורט של שרת הפרוקסי שלך.</translation>
+        <translation>הזן את שם המארח ופורט של שרת הציר שלך.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/proxy.cpp" line="316"/>
@@ -14112,17 +14104,17 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../../psi-plus/src/proxy.cpp" line="319"/>
         <source>Enter your proxy server login (username) or leave this field blank if the proxy server does not require it.</source>
-        <translation>הזן שם התחברות שרת פרוקסי (שם משתמש) או הנח את שדה זה ריק במידה ושרת הפרוקסי לא מצריכו.</translation>
+        <translation>הזן שם התחברות שרת ציר (שם משתמש) או הנח את שדה זה ריק במידה ושרת הציר לא מצריכו.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/proxy.cpp" line="323"/>
         <source>Enter your proxy server password or leave this field blank if the proxy server does not require it.</source>
-        <translation>הזן סיסמת שרת פרוקסי או הנח את שדה זה ריק במידה ושרת הפרוקסי לא מצריכה.</translation>
+        <translation>הזן סיסמת שרת ציר או הנח את שדה זה ריק במידה ושרת הציר לא מצריכה.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/proxy.cpp" line="327"/>
         <source>If you require a proxy server to connect, select the type of proxy here.</source>
-        <translation>אם קיים צורך בשרת פרוקסי כדי להתחבר, ניתן לבחור טיפוס פרוקסי כאן.</translation>
+        <translation>אם קיים צורך בשרת ציר כדי להתחבר, ניתן לבחור טיפוס ציר כאן.</translation>
     </message>
 </context>
 <context>
@@ -14138,7 +14130,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/proxysettingsdlg.ui" line="32"/>
         <source>Proxy Server Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>הגדרות שרת ציר</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/proxysettingsdlg.ui" line="40"/>
@@ -14158,7 +14150,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/proxysettingsdlg.ui" line="80"/>
         <source>99999; </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/proxysettingsdlg.ui" line="87"/>
@@ -14177,7 +14169,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
         <location filename="../../psi-plus/src/accountmanagedlg.cpp" line="408"/>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="1462"/>
         <source>Unable to disable the account, as it has pending events.</source>
-        <translation>לא ניתן לנטרל את החשבון, מאחר ויש לו אירועים ממתינים.</translation>
+        <translation>אין אפשרות לנטרל את החשבון, מאחר ויש לו אירועים ממתינים.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="1462"/>
@@ -14200,7 +14192,7 @@ Do you want to log out ?</source>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="1706"/>
         <source>Reconnecting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="1730"/>
@@ -14210,7 +14202,7 @@ Do you want to log out ?</source>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="1731"/>
         <source>Cannot connect: Encryption is enabled but no QCA2 SSL/TLS plugin is available.</source>
-        <translation>לא ניתן להתחבר: הצפנה הינה מאופשרת אולם אין תוספת QCA2 SSL/TLS זמינה.</translation>
+        <translation>אין אפשרות להתחבר: הצפנה הינה מאופשרת אולם אין תוספת QCA2 SSL/TLS זמינה.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="1747"/>
@@ -14301,7 +14293,7 @@ Do you want to log out ?</source>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="2140"/>
         <source>Unable to connect to server</source>
-        <translation>לא ניתן להתחבר אל שרת</translation>
+        <translation>אין אפשרות להתחבר אל שרת</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="2142"/>
@@ -14311,17 +14303,17 @@ Do you want to log out ?</source>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="2144"/>
         <source>Error connecting to proxy</source>
-        <translation>שגיאה בהתחברות אל פרוקסי</translation>
+        <translation>שגיאה בהתחברות אל ציר</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="2146"/>
         <source>Error during proxy negotiation</source>
-        <translation>שגיאה במהלך הסדרת פרוקסי</translation>
+        <translation>שגיאה במהלך הסדרת ציר</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="2148"/>
         <source>Proxy authentication failed</source>
-        <translation>אימות פרוקסי נכשל</translation>
+        <translation>אימות ציר נכשל</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="2153"/>
@@ -14381,7 +14373,7 @@ Do you want to log out ?</source>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="2192"/>
         <source>Unable to login</source>
-        <translation>לא ניתן להתחבר</translation>
+        <translation>אין אפשרות להתחבר</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="2195"/>
@@ -14426,7 +14418,7 @@ Do you want to log out ?</source>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="2213"/>
         <source>Wrong Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="2217"/>
@@ -14458,7 +14450,7 @@ Details: %1</source>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="2764"/>
         <source>Whiteboard invitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="2931"/>
@@ -14473,7 +14465,7 @@ Details: %1</source>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="2980"/>
         <source>Logged out</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="3409"/>
@@ -14483,7 +14475,7 @@ Details: %1</source>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="3514"/>
         <source>Unregister from %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="3515"/>
@@ -14503,17 +14495,17 @@ Details: %1</source>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="4094"/>
         <source>Os:	</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="4096"/>
         <source>Version Query Information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="5321"/>
         <source>Headline</source>
-        <translation type="unfinished">כותרת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="6095"/>
@@ -14535,7 +14527,7 @@ Reason: %1.</source>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="6529"/>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
-        <translation>&lt;p dir=&quot;rtl&quot;&gt;Psi לא יכול היה לאתר מפתח OpenPGP לשימוש עבור &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;זה יכול לקרות אם אין ברשותך את המפתח שאיש הקשר מפרסם באמצעות נוכחות חתומה, או אם איש הקשר אינו מפרסם איזשהו מפתח כלל.&lt;/p&gt;</translation>
+        <translation>&lt;p dir=&quot;rtl&quot;&gt;Psi לא יכול היה לאתר מפתח OpenPGP לשימוש עבור &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;זה יכול לקרות אם אין ברשותך את המפתח אשר איש הקשר מפרסם באמצעות נוכחות חתומה, או אם איש הקשר אינו מפרסם איזשהו מפתח כלל.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psiaccount.cpp" line="6534"/>
@@ -14577,7 +14569,7 @@ Reason: %1.</source>
         <location filename="../tmp/psiactionlist.cpp" line="143"/>
         <location filename="../../psi-plus/src/psiactionlist.cpp" line="143"/>
         <source>Show Roster Groups</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="144"/>
@@ -14655,13 +14647,13 @@ Reason: %1.</source>
         <location filename="../tmp/psiactionlist.cpp" line="181"/>
         <location filename="../../psi-plus/src/psiactionlist.cpp" line="181"/>
         <source>&amp;Psi</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="182"/>
         <location filename="../../psi-plus/src/psiactionlist.cpp" line="182"/>
         <source>The main Psi button, that provides access to many actions</source>
-        <translation>לחצן Psi העיקרי, שמספק גישה אל פעולות רבות</translation>
+        <translation>לחצן Psi העיקרי, אשר מספק גישה אל פעולות רבות</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="186"/>
@@ -14679,19 +14671,19 @@ Reason: %1.</source>
         <location filename="../tmp/psiactionlist.cpp" line="191"/>
         <location filename="../../psi-plus/src/psiactionlist.cpp" line="191"/>
         <source>Special item that displays number of pending events</source>
-        <translation>פריט מיוחד שמציג את המספר של אירועים ממתינים</translation>
+        <translation>פריט מיוחד אשר מציג מספר של אירועים ממתינים</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="193"/>
         <location filename="../../psi-plus/src/psiactionlist.cpp" line="193"/>
         <source>Active contacts</source>
-        <translation type="unfinished">אישי קשר פעילים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="194"/>
         <location filename="../../psi-plus/src/psiactionlist.cpp" line="194"/>
         <source>Simple way to find contacts with opened chats</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="204"/>
@@ -14823,7 +14815,7 @@ Reason: %1.</source>
         <location filename="../tmp/psiactionlist.cpp" line="249"/>
         <location filename="../../psi-plus/src/psiactionlist.cpp" line="249"/>
         <source>Quits Psi</source>
-        <translation>יציאה מן Psi</translation>
+        <translation>יציאה מתוך Psi</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="251"/>
@@ -14907,7 +14899,7 @@ Reason: %1.</source>
         <location filename="../tmp/psiactionlist.cpp" line="285"/>
         <location filename="../../psi-plus/src/psiactionlist.cpp" line="285"/>
         <source>Set Activity</source>
-        <translation type="unfinished">הגדרת פעילות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="286"/>
@@ -14997,19 +14989,19 @@ Reason: %1.</source>
         <location filename="../tmp/psiactionlist.cpp" line="335"/>
         <location filename="../../psi-plus/src/psiactionlist.cpp" line="335"/>
         <source>Show dialog to set your status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="337"/>
         <location filename="../../psi-plus/src/psiactionlist.cpp" line="337"/>
         <source>Reconnect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="338"/>
         <location filename="../../psi-plus/src/psiactionlist.cpp" line="338"/>
         <source>Reconnect all active accounts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="343"/>
@@ -15121,12 +15113,12 @@ Reason: %1.</source>
         <location filename="../tmp/psiactionlist.cpp" line="390"/>
         <location filename="../tmp/psiactionlist.cpp" line="391"/>
         <source>Check for Updates...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="390"/>
         <source>&amp;Check for Updates...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="393"/>
@@ -15214,7 +15206,7 @@ Reason: %1.</source>
     <message>
         <location filename="../../psi-plus/src/psichatdlg.cpp" line="227"/>
         <source>Copy user JID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psichatdlg.cpp" line="281"/>
@@ -15224,7 +15216,7 @@ Reason: %1.</source>
     <message>
         <location filename="../../psi-plus/src/psichatdlg.cpp" line="450"/>
         <source>Find toolbar</source>
-        <translation type="unfinished">סרגל כלים מציאה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psichatdlg.cpp" line="455"/>
@@ -15244,7 +15236,7 @@ Reason: %1.</source>
     <message>
         <location filename="../../psi-plus/src/psichatdlg.cpp" line="463"/>
         <source>Set Text Format</source>
-        <translation type="unfinished">הגדרת פורמט תמליל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psichatdlg.cpp" line="466"/>
@@ -15299,7 +15291,7 @@ Reason: %1.</source>
     <message>
         <location filename="../../psi-plus/src/psichatdlg.cpp" line="498"/>
         <source>Templates</source>
-        <translation type="unfinished">תבניות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psichatdlg.cpp" line="501"/>
@@ -15314,7 +15306,7 @@ Reason: %1.</source>
     <message>
         <location filename="../../psi-plus/src/psichatdlg.cpp" line="656"/>
         <source>Contact has been switched: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psichatdlg.cpp" line="837"/>
@@ -15325,13 +15317,13 @@ Reason: %1.</source>
         <location filename="../../psi-plus/src/psichatdlg.cpp" line="838"/>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
-        <translation>האם אתה בטוח שברצונך לטהר את חלון השיחה?
+        <translation>האם אתה בטוח כי ברצונך לטהר את חלון השיחה?
 (הערה: פעולה זו לא משפיעה על היסטוריה שמורה)</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psichatdlg.cpp" line="939"/>
         <source>Error: Can not parse command: </source>
-        <translation>שגיאה: לא ניתן לנתח פקודה: </translation>
+        <translation>שגיאה: אין אפשרות לנתח פקודה: </translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psichatdlg.cpp" line="948"/>
@@ -15341,12 +15333,12 @@ Reason: %1.</source>
     <message>
         <location filename="../../psi-plus/src/psichatdlg.cpp" line="1071"/>
         <source>turn off autojid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psichatdlg.cpp" line="1074"/>
         <source>turn on autojid</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -15355,116 +15347,116 @@ Reason: %1.</source>
         <location filename="../../psi-plus/src/psicli.h" line="15"/>
         <source>PROFILE</source>
         <comment>translate in UPPER_CASE with no spaces</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="16"/>
         <source>Activate program instance running specified profile. Otherwise, open new instance using this profile (unless used together with --remote).</source>
         <comment>do not translate --remote</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="22"/>
         <source>Force remote-control mode. If there is no running instance, or --profile was specified but there is no instance using it, exit without doing anything. Cannot be used with --choose-profile.</source>
         <comment>do not translate --profile, --choose-profile</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="30"/>
         <source>Display Choose Profile dialog on startup. Cannot be used together with --remote.</source>
         <comment>do not translate --remote</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="34"/>
         <source>URI</source>
         <comment>translate in UPPER_CASE with no spaces</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="35"/>
         <source>Open XMPP URI. (e.g. xmpp:someone@example.org?chat) For security reasons, this must be the last option.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="38"/>
         <source>STATUS</source>
         <comment>translate in UPPER_CASE with no spaces</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="39"/>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
-        <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
-        <translation type="unfinished"></translation>
+        <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="42"/>
         <source>MSG</source>
         <comment>translate in UPPER_CASE with no spaces</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="43"/>
         <source>Set status message. Must be used together with --status.</source>
         <comment>do not translate --status</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="46"/>
         <source>Show this help message and exit.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="50"/>
         <source>Show version information and exit.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="55"/>
         <source>Usage:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="57"/>
         <source>PROFILE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="57"/>
         <source>STATUS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="57"/>
         <source>MSG</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="57"/>
         <source>URI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="61"/>
         <source>Psi - The Cross-Platform XMPP Client For Power Users</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="63"/>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="67"/>
         <source>Go to &lt;http://psi-im.org/&gt; for more information about Psi.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicli.h" line="75"/>
         <source>Compiled with Qt %1</source>
         <comment>%1 will contain Qt version number</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -15480,7 +15472,7 @@ Reason: %1.</source>
     <message>
         <location filename="../../psi-plus/src/psicon.cpp" line="523"/>
         <source>Unable to load iconset!  Please make sure Psi is properly installed.</source>
-        <translation>לא ניתן לטעון חוג צלמיות!  אנא ודא שהיישום Psi מותקן כראוי.</translation>
+        <translation>אין אפשרות לטעון חוג צלמיות!  אנא ודא כי היישום Psi מותקן כראוי.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicon.cpp" line="537"/>
@@ -15510,7 +15502,7 @@ Reason: %1.</source>
     <message>
         <location filename="../../psi-plus/src/psicon.cpp" line="1434"/>
         <source>Some of the options you changed will only have full effect upon restart.</source>
-        <translation>כמה מן האפשרויות ששינית ייכנסו לתוקף מלא רק לאחר אתחול.</translation>
+        <translation>כמה מן האפשרויות אשר שינית ייכנסו לתוקף מלא רק לאחר אתחול.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicon.cpp" line="1498"/>
@@ -15521,7 +15513,7 @@ Reason: %1.</source>
     <message>
         <location filename="../../psi-plus/src/psicon.cpp" line="1499"/>
         <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars &lt;i&gt;and&lt;/i&gt; the menubar. If you do so, you will be unable to enable them back, when you&apos;ll change your mind.</source>
-        <translation>אין ביכולתך לנטרל את &lt;i&gt;כל&lt;/i&gt; סרגלי הכלים &lt;i&gt;וגם&lt;/i&gt; את שורת התפריט. היה וכך יעשה, לא תהיה לך האפשרות לאפשרם בחזרה, כאשר דעתך תשונה.</translation>
+        <translation>אין באפשרותך לנטרל את &lt;i&gt;כל&lt;/i&gt; סרגלי הכלים &lt;i&gt;וגם&lt;/i&gt; את שורת התפריט. היה וכך יעשה, לא תהיה לך האפשרות לאפשרם בחזרה, כאשר דעתך תשונה.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicon.cpp" line="1500"/>
@@ -15542,8 +15534,8 @@ Reason: %1.</source>
         <location filename="../../psi-plus/src/psicon.cpp" line="1891"/>
         <source>Unable to bind to port %1 for Data Transfer.
 This may mean you are already running another instance of Psi. You may experience problems sending and/or receiving files.</source>
-        <translation>לא ניתן לקשור אל פורט %1 עבור מסירת נתונים.
-זה אומר שכבר קיים מאורע אחר של Psi שמורץ כעת. אתה עשויה לחוות בעיות שליחה ו/או קבלת קבצים.</translation>
+        <translation>אין אפשרות לקשור אל פורט %1 עבור מסירת נתונים.
+זה אומר שכבר קיים מאורע אחר של Psi אשר מורץ כעת. אתה עשוי לחוות בעיות שליחה ו/או קבלת קבצים.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicon.cpp" line="1898"/>
@@ -15605,7 +15597,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../../psi-plus/src/psicontactlistviewdelegate.cpp" line="274"/>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -15649,7 +15641,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../../psi-plus/src/psicontactmenu.cpp" line="300"/>
         <source>&amp;Add</source>
-        <translation>&amp;הוסף</translation>
+        <translation>הוס&amp;ף</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicontactmenu.cpp" line="303"/>
@@ -15730,7 +15722,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../../psi-plus/src/psicontactmenu.cpp" line="368"/>
         <source>Sen&amp;d Status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicontactmenu.cpp" line="371"/>
@@ -15805,18 +15797,18 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../../psi-plus/src/psicontactmenu.cpp" line="425"/>
         <source>Leave</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicontactmenu.cpp" line="429"/>
         <location filename="../../psi-plus/src/psicontactmenu.cpp" line="889"/>
         <source>Block</source>
-        <translation type="unfinished">חסום</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicontactmenu.cpp" line="432"/>
         <source>Always Visible</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicontactmenu.cpp" line="466"/>
@@ -15846,7 +15838,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../../psi-plus/src/psicontactmenu.cpp" line="681"/>
         <source>Add</source>
-        <translation>הוספה</translation>
+        <translation>הוסף</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicontactmenu.cpp" line="682"/>
@@ -15872,12 +15864,12 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../../psi-plus/src/psicontactmenu.cpp" line="766"/>
         <source>Remove</source>
-        <translation>הסרה</translation>
+        <translation>הסר</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicontactmenu.cpp" line="767"/>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation>האם אתה בטוח שברצונך להסיר הרשאה מן &lt;b&gt;%1&lt;/b&gt;?</translation>
+        <translation>האם אתה בטוח כי ברצונך להסיר הרשאה מן &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psicontactmenu.cpp" line="768"/>
@@ -15902,7 +15894,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../../psi-plus/src/psicontactmenu.cpp" line="889"/>
         <source>Unblock</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -15918,20 +15910,19 @@ This may mean you are already running another instance of Psi. You may experienc
         <location filename="../../psi-plus/src/libpsi/widgets/groupchatbrowsewindow.cpp" line="401"/>
         <source>Unable to join groupchat.
 Reason: %1</source>
-        <translation type="unfinished">לא ניתן להצטרף אל שיחת קבוצה.
-סיבה: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/libpsi/widgets/groupchatbrowsewindow.cpp" line="419"/>
         <source>Unable to create groupchat.
 Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/libpsi/widgets/groupchatbrowsewindow.cpp" line="433"/>
         <source>Unable to destroy groupchat.
 Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -15939,7 +15930,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/libpsi/widgets/groupchatbrowsewindow.cpp" line="196"/>
         <source>Destroy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/libpsi/widgets/groupchatbrowsewindow.cpp" line="251"/>
@@ -15949,7 +15940,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/libpsi/widgets/groupchatbrowsewindow.cpp" line="252"/>
         <source>Choose a name for the groupchat you want to create:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -15985,7 +15976,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../../psi-plus/src/main.cpp" line="284"/>
         <source>Cannot open this profile - it is already running, but not responding</source>
-        <translation>לא ניתן לפתוח את דיוקן זה - זה כבר מורץ, אך לא מגיב</translation>
+        <translation>אין אפשרות לפתוח את דיוקן זה - זה כבר מורץ, אך לא מגיב</translation>
     </message>
 </context>
 <context>
@@ -16131,27 +16122,27 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../../psi-plus/src/psioptionseditor.cpp" line="156"/>
         <source>Display all options as a flat list.</source>
-        <translation>הצג את כל האפשרויות כרשימה שטוחה.</translation>
+        <translation>הצג את כל האפשרויות בתור רשימה שטוחה.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psioptionseditor.cpp" line="163"/>
         <source>Delete...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psioptionseditor.cpp" line="167"/>
         <source>Reset...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psioptionseditor.cpp" line="171"/>
         <source>Edit...</source>
-        <translation>ערוך...</translation>
+        <translation>עריכה...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psioptionseditor.cpp" line="175"/>
         <source>Add...</source>
-        <translation>הוסף...</translation>
+        <translation>הוספה...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psioptionseditor.cpp" line="184"/>
@@ -16161,7 +16152,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../../psi-plus/src/psioptionseditor.cpp" line="189"/>
         <source>Advanced</source>
-        <translation type="unfinished">מתקדם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psioptionseditor.cpp" line="241"/>
@@ -16192,12 +16183,12 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../../psi-plus/src/psioptionseditor.cpp" line="293"/>
         <source>Really reset options %1 to default value?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psioptionseditor.cpp" line="296"/>
         <source>Really reset all options starting with %1. to default value?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16211,7 +16202,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../../psi-plus/src/psipopup.cpp" line="369"/>
         <source> is typing...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16254,7 +16245,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/psitoolbar.cpp" line="70"/>
         <source>&amp;Configure Toolbar...</source>
-        <translation>&amp;הגדר סרגל כלים...</translation>
+        <translation>&amp;הגדרת סרגל כלים...</translation>
     </message>
 </context>
 <context>
@@ -16262,14 +16253,14 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/widgets/psiwindowheader.ui" line="23"/>
         <source>PsiWindowHeader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/widgets/psiwindowheader.ui" line="76"/>
         <location filename="../../psi-plus/src/widgets/psiwindowheader.ui" line="86"/>
         <location filename="../../psi-plus/src/widgets/psiwindowheader.ui" line="102"/>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16337,7 +16328,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2914"/>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2915"/>
@@ -16352,17 +16343,17 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="106"/>
         <source>No certificate presented.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="111"/>
         <source>Hostname mismatch.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="114"/>
         <source>Invalid Certificate.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="143"/>
@@ -16427,7 +16418,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="79"/>
         <source>Cleaning</source>
-        <translation>מנקה</translation>
+        <translation>מנקה כעת</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/activitycatalog.cpp" line="80"/>
@@ -16829,7 +16820,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus/src/applicationinfo.cpp" line="290"/>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
-        <translation>נתוני תצורה של גרסא קודמת של Psi לא נמצאו, אך זה לא היה אפשרי להמיר אותם לעבוד עם הגרסא הנוכחית. וודא שיש לך את ההרשאה המתאימה ושעותק אחר של Psi אינו מורץ, ונסה שוב.</translation>
+        <translation>נתוני תצורה של גרסא קודמת של Psi לא נמצאו, אך זה לא היה אפשרי להמיר אותם לעבוד עם הגרסא הנוכחית. ודא כי יש לך את ההרשאה המתאימה ושעותק אחר של Psi אינו מורץ, ונסה שוב.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/common.cpp" line="173"/>
@@ -16987,7 +16978,7 @@ Description: </source>
     <message>
         <location filename="../../psi-plus/src/messageview.cpp" line="77"/>
         <source>%1 is now %2</source>
-        <translation type="unfinished">ההוויה של %1 שונתה אל %2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/moodcatalog.cpp" line="69"/>
@@ -17522,44 +17513,32 @@ Description: </source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/main.cpp" line="49"/>
         <source>Cannot create a server socket!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="286"/>
         <source>%n day(s) </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="289"/>
         <source>%n hour(s) </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="292"/>
         <source>%n minute(s) </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="295"/>
         <source>%n second(s) </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickdownloader.cpp" line="43"/>
         <source>Warning</source>
-        <translation type="unfinished">אזהרה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickdownloader.cpp" line="43"/>
@@ -17571,90 +17550,90 @@ Description: </source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickparser.cpp" line="80"/>
         <source>Recommended by @%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickparser.cpp" line="130"/>
         <source>Reply posted.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickparser.cpp" line="137"/>
         <source>New message posted.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickparser.cpp" line="166"/>
         <source> recommended your post </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="41"/>
         <source>Show all messages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="42"/>
         <source>Reply</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="43"/>
         <source>Show %1&apos;s info and last 10 messages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="44"/>
         <source>Subscribe</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="45"/>
         <source>Show last 10 messages with tag %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/juickplugin.cpp" line="46"/>
         <source>Unsubscribe</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="160"/>
         <source>Encrypting message to %1 failed.
 The message was not sent.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="647"/>
         <source>plaintext</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="651"/>
         <source>encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="655"/>
         <source>finished</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="658"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="837"/>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="869"/>
         <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="838"/>
         <source>Generating keys for account &quot;%1&quot;.
 This may take a while.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="845"/>
@@ -17670,35 +17649,34 @@ This may take a while.</source>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="861"/>
         <source>Fingerprint for account &quot;%1&quot;:
 %2</source>
-        <translation type="unfinished">טביעת אצבע עבור חשבון &quot;%1&quot;:
-%2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="870"/>
         <source>Failed to generate keys for account &quot;%1&quot;.
 The OTR Plugin will not work.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="923"/>
         <source>&lt;b&gt;The following message received from %1 was &lt;i&gt;not&lt;/i&gt; encrypted:&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="931"/>
         <source>Your message was not sent. Either end your private conversation, or restart it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="1044"/>
         <source>You have received a new fingerprint from %1:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/storagenotesplugin/tagsmodel.cpp" line="23"/>
         <source>All Tags</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.cpp" line="45"/>
@@ -17707,7 +17685,7 @@ Size: %2
 Date prolongate: %3
 URL: %4
 Password: %5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.cpp" line="50"/>
@@ -17815,7 +17793,7 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus/src/psi_profiles.cpp" line="777"/>
         <source>%1 Proxy</source>
-        <translation>%1 פרוקסי</translation>
+        <translation>%1 ציר</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/psi_profiles.cpp" line="1191"/>
@@ -17826,7 +17804,7 @@ Password: %5</source>
         <location filename="../../psi-plus/src/psidbusnotifier.cpp" line="247"/>
         <location filename="../../psi-plus/src/psigrowlnotifier.cpp" line="179"/>
         <source> is typing...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psidbusnotifier.cpp" line="254"/>
@@ -17892,14 +17870,14 @@ Password: %5</source>
         <location filename="../../psi-plus/src/psigrowlnotifier.cpp" line="178"/>
         <location filename="../../psi-plus/src/psipopupinterface.cpp" line="73"/>
         <source>Typing notify</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psigrowlnotifier.cpp" line="76"/>
         <location filename="../../psi-plus/src/psigrowlnotifier.cpp" line="222"/>
         <location filename="../../psi-plus/src/psipopupinterface.cpp" line="98"/>
         <source>Groupchat highlight</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psigrowlnotifier.cpp" line="77"/>
@@ -17910,7 +17888,7 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus/src/psigrowlnotifier.cpp" line="180"/>
         <source>[Typing notify]</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psigrowlnotifier.cpp" line="190"/>
@@ -17931,7 +17909,7 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus/src/psigrowlnotifier.cpp" line="227"/>
         <source>[Groupchat highlight]</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psigrowlnotifier.cpp" line="232"/>
@@ -17951,7 +17929,7 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus/src/psipopupinterface.cpp" line="63"/>
         <source>Status change</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/psipopupinterface.cpp" line="68"/>
@@ -18051,12 +18029,12 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus/src/rc.cpp" line="258"/>
         <source>Leave All Conferences</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/theme.cpp" line="48"/>
         <source>Unnamed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/userlist.cpp" line="804"/>
@@ -18066,7 +18044,7 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus/src/userlist.cpp" line="807"/>
         <source>OpenPGP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/userlist.cpp" line="811"/>
@@ -18102,12 +18080,12 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus/src/userlist.cpp" line="908"/>
         <source>Using</source>
-        <translation>‎פרטי מערכת</translation>
+        <translation>פרטי מערכת</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/userlist.cpp" line="915"/>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/userlist.cpp" line="936"/>
@@ -18165,7 +18143,7 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/qipxstatusesplugin/qipxstatusesplugin.cpp" line="344"/>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18173,17 +18151,17 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus/src/plugins/dev/redirectorplugin/redirectplugin.cpp" line="122"/>
         <source>Author: </source>
-        <translation type="unfinished">מחבר: </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/dev/redirectorplugin/redirectplugin.cpp" line="123"/>
         <source>Email: </source>
-        <translation type="unfinished">דוא״ל: </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/dev/redirectorplugin/redirectplugin.cpp" line="124"/>
         <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18253,7 +18231,7 @@ Password: %5</source>
         <location filename="../../psi-plus/src/registrationdlg.cpp" line="369"/>
         <source>Unable to retrieve registration form.
 Reason: %1</source>
-        <translation>לא ניתן לאחזר תבנית רישום.
+        <translation>אין אפשרות לאחזר תבנית רישום.
 סיבה: %1</translation>
     </message>
     <message>
@@ -18270,27 +18248,24 @@ Reason: %1</source>
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="451"/>
         <source>celebrates birthday today!
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="454"/>
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="457"/>
         <source>celebrates birthday yesterday.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="493"/>
         <source>Birthday Reminder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="520"/>
@@ -18316,7 +18291,7 @@ Reason: %1</source>
         <location filename="../../psi-plus/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="533"/>
         <source>This plugin is designed to show reminders of upcoming birthdays.
 The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18330,7 +18305,7 @@ The first time you install this plugin, you need to log on to all of your accoun
         <location filename="../../psi-plus/src/removeconfirmationmessagebox.cpp" line="84"/>
         <location filename="../../psi-plus/src/removeconfirmationmessagebox.cpp" line="228"/>
         <source>Delete</source>
-        <translation>מחיקה</translation>
+        <translation>מחק</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/removeconfirmationmessagebox.cpp" line="85"/>
@@ -18358,7 +18333,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <location filename="../../psi-plus/src/libpsi/widgets/groupchatbrowsewindow.cpp" line="55"/>
         <source>Auto-join</source>
-        <translation type="unfinished">הצטרף אוטומטית</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18366,7 +18341,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <location filename="../../psi-plus/src/rosteravatarframe.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/rosteravatarframe.ui" line="58"/>
@@ -18407,53 +18382,53 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.ui" line="20"/>
         <source>Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.ui" line="108"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.ui" line="136"/>
         <source>Cancel uploading</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.ui" line="157"/>
         <source>Upload to server:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.ui" line="170"/>
         <source>Upload Screenshot to selected server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.ui" line="183"/>
         <source>Save Screenshot to Local Drive</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.ui" line="196"/>
         <source>Print Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.ui" line="222"/>
         <source>Open image from Local Drive</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.ui" line="235"/>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.ui" line="320"/>
         <source>New Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.ui" line="248"/>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.ui" line="271"/>
@@ -18483,7 +18458,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.ui" line="315"/>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.ui" line="325"/>
@@ -18493,7 +18468,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.ui" line="330"/>
         <source>Proxy Settings</source>
-        <translation>הגדרות פרוקסי</translation>
+        <translation>הגדרות Proxy</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.ui" line="335"/>
@@ -18518,12 +18493,12 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.ui" line="355"/>
         <source>Upload</source>
-        <translation type="unfinished">העלאה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.cpp" line="322"/>
         <source>Size: %1x%2px; %3 bytes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.cpp" line="373"/>
@@ -18538,7 +18513,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.cpp" line="564"/>
         <source>/%1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.cpp" line="566"/>
@@ -18554,17 +18529,17 @@ The first time you install this plugin, you need to log on to all of your accoun
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.cpp" line="636"/>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.cpp" line="686"/>
         <source>%1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.cpp" line="820"/>
         <source>Can&apos;t parse URL (Reply URL: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.cpp" line="846"/>
         <source>Close Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshot.cpp" line="846"/>
@@ -18577,32 +18552,32 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshotoptions.ui" line="23"/>
         <source>New Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshotoptions.ui" line="29"/>
         <source>Capture the desktop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshotoptions.ui" line="39"/>
         <source>Capture current window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshotoptions.ui" line="46"/>
         <source>Select capture area</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshotoptions.ui" line="55"/>
         <source>Capture after</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshotoptions.ui" line="65"/>
         <source>seconds</source>
-        <translation type="unfinished">שניות</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18610,7 +18585,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshotplugin.cpp" line="194"/>
         <source>Upload Image</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshotplugin.cpp" line="230"/>
@@ -18625,14 +18600,14 @@ The plugin has the following settings:
 * Format -- the file format in which the screenshot will be stored (default: .jpg)
 * File Name -- format of the filename (default: pic-yyyyMMdd-hhmmss, where yyyyMMdd=YYYYMMDD, and hhmmss are current date in the format yearmonthday-hourminutesecond)
 The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/screenshotplugin.cpp" line="237"/>
         <source>
 
 Settings for authorization on some hostings can be found here: http://code.google.com/p/qscreenshot/wiki/Authorization</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18660,7 +18635,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
     <message>
         <location filename="../../psi-plus/src/search.ui" line="110"/>
         <source>psi/search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/search.ui" line="136"/>
@@ -18670,7 +18645,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
     <message>
         <location filename="../../psi-plus/src/search.ui" line="139"/>
         <source>psi/stop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/search.ui" line="183"/>
@@ -18705,7 +18680,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
     <message>
         <location filename="../../psi-plus/src/search.ui" line="235"/>
         <source>psi/addContact</source>
-        <translation type="unfinished">psi/addContact</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/search.ui" line="242"/>
@@ -18715,7 +18690,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
     <message>
         <location filename="../../psi-plus/src/search.ui" line="245"/>
         <source>psi/vCard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/search.ui" line="292"/>
@@ -18750,7 +18725,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
         <location filename="../../psi-plus/src/searchdlg.cpp" line="441"/>
         <source>Unable to retrieve search form.
 Reason: %1</source>
-        <translation>לא ניתן לאחזר תבנית חיפוש.
+        <translation>אין אפשרות לאחזר תבנית חיפוש.
 סיבה: %1</translation>
     </message>
     <message>
@@ -18769,10 +18744,7 @@ Reason: %1</source>
     <message numerus="yes">
         <location filename="../../psi-plus/src/searchdlg.cpp" line="497"/>
         <source>Added %n users to your roster.</source>
-        <translation>
-            <numerusform>התווסף משתמש %n אל רשימתך.</numerusform>
-            <numerusform>התווספו %n משתמשים אל רשימתך.</numerusform>
-        </translation>
+        <translation><numerusform>התווסף משתמש %n אל רשימתך.</numerusform><numerusform>התווספו %n משתמשים אל רשימתך.</numerusform></translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/searchdlg.cpp" line="502"/>
@@ -18785,27 +18757,27 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/mainwindow.cpp" line="167"/>
         <source>New game with...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/mainwindow.cpp" line="168"/>
         <source>To play with </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/mainwindow.cpp" line="172"/>
         <source>Choose your game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/mainwindow.cpp" line="173"/>
         <source>White game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/mainwindow.cpp" line="174"/>
         <source>Black game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chess/mainwindow.cpp" line="176"/>
@@ -18956,7 +18928,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/serverlistquerier.cpp" line="63"/>
         <source>Unable to parse server list</source>
-        <translation>לא ניתן לנתח רשימת שרת</translation>
+        <translation>אין אפשרות לנתח רשימת שרת</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/serverlistquerier.cpp" line="80"/>
@@ -18966,7 +18938,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/serverlistquerier.cpp" line="90"/>
         <source>Invalid redirect URL %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/serverlistquerier.cpp" line="95"/>
@@ -18979,22 +18951,22 @@ Reason: %1</source>
     <message>
         <location filename="../tmp/option_translations.cpp" line="2"/>
         <source>Action List</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="3"/>
         <source>Service Discovery</source>
-        <translation type="unfinished">מציאת שירות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="4"/>
         <source>Add Contact</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="5"/>
         <source>New Message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="6"/>
@@ -19004,28 +18976,28 @@ Reason: %1</source>
     <message>
         <location filename="../tmp/option_translations.cpp" line="7"/>
         <source>Account Setup</source>
-        <translation type="unfinished">הבניית חשבון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="8"/>
         <location filename="../tmp/option_translations.cpp" line="15"/>
         <source>Options</source>
-        <translation type="unfinished">אפשרויות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="9"/>
         <source>File Transfer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="10"/>
         <source>Toolbars</source>
-        <translation type="unfinished">סרגלי כלים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="11"/>
         <source>XML Console</source>
-        <translation type="unfinished">מסוף XML</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="12"/>
@@ -19035,17 +19007,17 @@ Reason: %1</source>
     <message>
         <location filename="../tmp/option_translations.cpp" line="13"/>
         <source>Play Sounds</source>
-        <translation type="unfinished">ניגון צלילים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="14"/>
         <source>Quit</source>
-        <translation type="unfinished">יציאה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="16"/>
         <source>Status</source>
-        <translation type="unfinished">מצב</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="17"/>
@@ -19055,7 +19027,7 @@ Reason: %1</source>
     <message>
         <location filename="../tmp/option_translations.cpp" line="18"/>
         <source>Event Notifier</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="19"/>
@@ -19065,12 +19037,12 @@ Reason: %1</source>
     <message>
         <location filename="../tmp/option_translations.cpp" line="20"/>
         <source>Show Offline Contacts</source>
-        <translation type="unfinished">הצג אישי קשר לא מקוונים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="21"/>
         <source>Show Away Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="22"/>
@@ -19080,17 +19052,17 @@ Reason: %1</source>
     <message>
         <location filename="../tmp/option_translations.cpp" line="23"/>
         <source>Show Agents</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="24"/>
         <source>Show Self</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="25"/>
         <source>Show Status Message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="26"/>
@@ -19100,52 +19072,52 @@ Reason: %1</source>
     <message>
         <location filename="../tmp/option_translations.cpp" line="27"/>
         <source>Active contacts</source>
-        <translation type="unfinished">אישי קשר פעילים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="28"/>
         <source>Status All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="29"/>
         <source>Status Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="30"/>
         <source>Status Chat</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="31"/>
         <source>Status Online</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="32"/>
         <source>Status Away</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="33"/>
         <source>Status XA</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="34"/>
         <source>Status DND</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="35"/>
         <source>Status Invisible</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="36"/>
         <source>Status Offline</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="37"/>
@@ -19155,7 +19127,7 @@ Reason: %1</source>
     <message>
         <location filename="../tmp/option_translations.cpp" line="38"/>
         <source>Reconnect all accounts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="39"/>
@@ -19175,7 +19147,7 @@ Reason: %1</source>
     <message>
         <location filename="../tmp/option_translations.cpp" line="42"/>
         <source>README</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="43"/>
@@ -19205,7 +19177,7 @@ Reason: %1</source>
     <message>
         <location filename="../tmp/option_translations.cpp" line="48"/>
         <source>Help Psi MUC</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="49"/>
@@ -19230,42 +19202,42 @@ Reason: %1</source>
     <message>
         <location filename="../tmp/option_translations.cpp" line="53"/>
         <source>QCA plugin diag</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="54"/>
         <source>QCA key store diag</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="55"/>
         <source>Shortcuts in the chat dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="56"/>
         <source>Switch to the next tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="57"/>
         <source>Switch to the previous tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="58"/>
         <source>Find text next</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="59"/>
         <source>Find text previous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="60"/>
         <source>Find text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="61"/>
@@ -19275,42 +19247,42 @@ Reason: %1</source>
     <message>
         <location filename="../tmp/option_translations.cpp" line="62"/>
         <source>Clear the text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="63"/>
         <source>Change to quick command mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="64"/>
         <source>Show last message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="65"/>
         <source>Show first message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="66"/>
         <source>Show next message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="67"/>
         <source>Show prev message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="68"/>
         <source>Change case of letters in the chat edit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="69"/>
         <source>Minimize active chat window</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="70"/>
@@ -19320,48 +19292,48 @@ Reason: %1</source>
     <message>
         <location filename="../tmp/option_translations.cpp" line="71"/>
         <source>Assign a custom avatar to the selected contact</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="72"/>
         <source>Remove custom avatar from the selected contact</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="73"/>
         <source>Delete the selected contact</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="74"/>
         <source>Open a chat to the selected contact</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="75"/>
         <source>Send a message to the selected contact</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="76"/>
         <location filename="../tmp/option_translations.cpp" line="87"/>
         <source>Receive incoming event</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="77"/>
         <source>Rename the selected contact</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="78"/>
         <source>Log on to the selected transport</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="79"/>
         <source>Common actions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="80"/>
@@ -19376,32 +19348,32 @@ Reason: %1</source>
     <message>
         <location filename="../tmp/option_translations.cpp" line="82"/>
         <source>Close the current window/tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="83"/>
         <source>Hide the current window/tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="84"/>
         <source>Open the message history</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="85"/>
         <source>Show the user info of the contact</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="86"/>
         <source>Shortcuts available from outside of the application</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="88"/>
         <source>Show/hide the application</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="89"/>
@@ -19416,12 +19388,12 @@ Reason: %1</source>
     <message>
         <location filename="../tmp/option_translations.cpp" line="91"/>
         <source>Hide all active windows</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="92"/>
         <source>Shortcuts in the message dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="93"/>
@@ -19431,17 +19403,17 @@ Reason: %1</source>
     <message>
         <location filename="../tmp/option_translations.cpp" line="94"/>
         <source>Shortcuts in the status dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="95"/>
         <source>Set the status message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="96"/>
         <source>Shortcuts in the service discovery dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19454,7 +19426,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/AutoUpdater/QDChangeLog.ui" line="51"/>
         <source>Open download page?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19467,7 +19439,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/vcardphotodlg.cpp" line="44"/>
         <source>&amp;Save As...</source>
-        <translation>&amp;שמור בשם...</translation>
+        <translation>&amp;שמירה בשם...</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/vcardphotodlg.cpp" line="47"/>
@@ -19482,7 +19454,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/vcardphotodlg.cpp" line="53"/>
         <source>photo.png</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/vcardphotodlg.cpp" line="54"/>
@@ -19524,7 +19496,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/skinsplugin/skinsplugin.ui" line="56"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/skinsplugin/skinsplugin.ui" line="63"/>
@@ -19595,7 +19567,7 @@ Reason: %1</source>
         <location filename="../../psi-plus/src/plugins/generic/skinsplugin/skinsplugin.cpp" line="224"/>
         <location filename="../../psi-plus/src/plugins/generic/skinsplugin/skinsplugin.cpp" line="281"/>
         <source>*.skn</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/skinsplugin/skinsplugin.cpp" line="272"/>
@@ -19686,7 +19658,7 @@ In most cases, to be sure that the skin is applied correctly, you must perform a
 2. Restart the application
 3. Apply the same skin again
 This allows all settings (icons, toolbar layout) to be picked up correctly. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19713,7 +19685,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     <message>
         <location filename="../../psi-plus/src/statusmenu.cpp" line="130"/>
         <source>Edit presets...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19751,7 +19723,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     <message>
         <location filename="../../psi-plus/src/statusdlg.cpp" line="179"/>
         <source>Preset:</source>
-        <translation>ערוך מראש:</translation>
+        <translation>מותאם:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/statusdlg.cpp" line="182"/>
@@ -19771,17 +19743,17 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     <message>
         <location filename="../../psi-plus/src/statusdlg.cpp" line="208"/>
         <source>Sa&amp;ve as Preset</source>
-        <translation>שמור &amp;כמצב ערוך מראש</translation>
+        <translation>שמור בתור &amp;מצב מותאם</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/statusdlg.cpp" line="254"/>
         <source>New Status Preset</source>
-        <translation>מצב חדש ערוך מראש</translation>
+        <translation>מצב מותאם חדש</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/statusdlg.cpp" line="255"/>
         <source>Please enter a name for the new status preset:</source>
-        <translation>אנא הזן שם עבור המצב החדש הערוך מראש:</translation>
+        <translation>אנא הזן שם עבור המצב המותאם החדש:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/statusdlg.cpp" line="262"/>
@@ -19792,12 +19764,12 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     <message>
         <location filename="../../psi-plus/src/statusdlg.cpp" line="263"/>
         <source>Can&apos;t create a blank preset!</source>
-        <translation>לא ניתן ליצור מצב ערוך מראש ריק!</translation>
+        <translation>אין אפשרות ליצור מצב מותאם ריק!</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/statusdlg.cpp" line="267"/>
         <source>You already have a preset with that name!</source>
-        <translation>כבר יש לך מצב ערוך מראש עם השם הזה!</translation>
+        <translation>כבר יש לך מצב מותאם עם השם הזה!</translation>
     </message>
 </context>
 <context>
@@ -19829,7 +19801,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/stopspamplugin.cpp" line="732"/>
         <source> pass the test</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/stopspamplugin.cpp" line="1006"/>
@@ -19862,7 +19834,7 @@ When a user has passed, the test will send a re-authorization request. It should
 The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19875,7 +19847,7 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     <message>
         <location filename="../../psi-plus/src/plugins/generic/storagenotesplugin/storagenotesplugin.cpp" line="159"/>
         <source>Storage Notes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/storagenotesplugin/storagenotesplugin.cpp" line="173"/>
@@ -19892,7 +19864,7 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi+ or Miranda IM.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19968,13 +19940,13 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="223"/>
         <source>XMPP Test</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="243"/>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="342"/>
         <source>&amp;Connect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="310"/>
@@ -19992,7 +19964,7 @@ Currently supports:
   JEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="356"/>
@@ -20011,58 +19983,58 @@ Copyright (C) 2003 Justin Karneges</source>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="356"/>
         <source>Please enter the Full JID to connect with.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="366"/>
         <source>You must specify a host:port for the proxy.</source>
-        <translation type="unfinished"></translation>
+        <translation>עליך לציין מארח:פורט עבור הציר.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="370"/>
         <source>You must at least enter a URL to use http poll.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="378"/>
         <source>Please enter the proxy host in the form &apos;host:port&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>אנא הזן את מארח הציר בצורה של &apos;מארח:פורט&apos;.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="403"/>
         <source>Please enter the host in the form &apos;host:port&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="413"/>
         <source>Error: SSF Min is greater than SSF Max.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="418"/>
         <source>Error: TLS not available.  Disable any TLS options.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="443"/>
         <source>&amp;Disconnect</source>
-        <translation type="unfinished">&amp;התנתק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="498"/>
         <source>Bad XML input (%1,%2): %3
 Please correct and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="512"/>
         <source>Bad Stanza &apos;%1&apos;.  Must be &apos;message&apos;, &apos;presence&apos;, or &apos;iq&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="520"/>
         <source>You must enter at least one stanza!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/xmpptest.cpp" line="675"/>
@@ -20080,7 +20052,7 @@ Please correct and try again.</source>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="13"/>
         <source>Form1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="28"/>
@@ -20110,27 +20082,27 @@ Please correct and try again.</source>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="100"/>
         <source>SSL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="108"/>
         <source>None</source>
-        <translation type="unfinished">ללא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="113"/>
         <source>HTTP(S)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="118"/>
         <source>SOCKS5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="123"/>
         <source>HTTP Polling</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="131"/>
@@ -20146,12 +20118,12 @@ Please correct and try again.</source>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="145"/>
         <source>Proxy:</source>
-        <translation>פרוקסי:</translation>
+        <translation>ציר:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="157"/>
         <source>Proxy Settings</source>
-        <translation>הגדרות פרוקסי</translation>
+        <translation>הגדרות Proxy</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="173"/>
@@ -20162,7 +20134,7 @@ Please correct and try again.</source>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="183"/>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="245"/>
         <source>/</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="197"/>
@@ -20182,22 +20154,22 @@ Please correct and try again.</source>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="223"/>
         <source>Require mutual authentication</source>
-        <translation type="unfinished">דרוש אימות הדדי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="235"/>
         <source>SASL SSF min/max:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="268"/>
         <source>&amp;Connect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="271"/>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="294"/>
@@ -20207,32 +20179,32 @@ Please correct and try again.</source>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="319"/>
         <source>Quick XML &gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="330"/>
         <source>To:</source>
-        <translation type="unfinished">אל:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="347"/>
         <source>&amp;IM Session</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="354"/>
         <source>&amp;Message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="361"/>
         <source>IQ &amp;Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="382"/>
         <source>IM</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="439"/>
@@ -20242,7 +20214,7 @@ Please correct and try again.</source>
     <message>
         <location filename="../../psi-plus/iris/tools/xmpptest/test.ui" line="442"/>
         <source>Alt+S</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -20255,7 +20227,7 @@ Please correct and try again.</source>
     <message>
         <location filename="../../psi-plus/src/tip.ui" line="59"/>
         <source>psi/logo_128</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/tip.ui" line="189"/>
@@ -20270,12 +20242,12 @@ Please correct and try again.</source>
     <message>
         <location filename="../../psi-plus/src/tip.ui" line="215"/>
         <source>Alt+P</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/tip.ui" line="218"/>
         <source>psi/arrowLeft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/tip.ui" line="225"/>
@@ -20285,12 +20257,12 @@ Please correct and try again.</source>
     <message>
         <location filename="../../psi-plus/src/tip.ui" line="228"/>
         <source>Alt+N</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/tip.ui" line="231"/>
         <source>psi/arrowRight</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/tip.ui" line="238"/>
@@ -20300,7 +20272,7 @@ Please correct and try again.</source>
     <message>
         <location filename="../../psi-plus/src/tip.ui" line="241"/>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -20313,7 +20285,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;br&gt;&lt;br&gt;If you think, that you have found a bug or you just want to chat with other Psi users, then visit the &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;Psi Forums&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;the Psi Team&lt;/i&gt;&lt;/div&gt;</source>
         <translation>שלום! תודה לך על שהורדת את Psi!
-אנו תקוה שתהיה לך את האפשרות להפיק הנאה מן יישום זה כשם שאנחנו נהננו להכינו!
+אנו תקוה כי תהיה לך את האפשרות להפיק הנאה מן יישום זה כשם שאנחנו נהננו להכינו!
 &lt;br&gt;&lt;br&gt;היה וברצונך להוריד שפת תרגום, מערך צלמיות או גרסא חדשה של Psi, ניתן לבקר את &lt;a href=&quot;http://psi-im.org&quot;&gt;עמוד הבית של Psi&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;במידה ומצאת תקלה או אם ברצונך לשוחח עם משתמשי Psi אחרים, ניתן לבקר &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;בפורומים של Psi&lt;/a&gt;.
 &lt;br&gt;&lt;br&gt;&lt;div align=&quot;right&quot;&gt;&lt;i&gt;נבחרת Psi&lt;/i&gt;&lt;/div&gt;</translation>
@@ -20321,7 +20293,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
     <message>
         <location filename="../../psi-plus/src/tipdlg.cpp" line="69"/>
         <source>You can select multiple emoticon iconsets, and assign them priorities using the options dialog.</source>
-        <translation>ביכולתך לבחור רגשונים ומערכי צלמיות רבים, ולהקצות להם עדיפויות באמצעות דו שיח אפשרויות.</translation>
+        <translation>באפשרותך לבחור רגשונים ומערכי צלמיות רבים, ולהקצות להם עדיפויות באמצעות דו שיח אפשרויות.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/tipdlg.cpp" line="70"/>
@@ -20334,7 +20306,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
 &lt;li&gt;Ctrl+U to clear edit buffer&lt;/li&gt;
 &lt;li&gt;Ctrl+PgUp/PgDn to scroll chat view&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>ביכולתך לעשות שימוש בקיצורי דרך שימושיים רבים בעת הקלדת הודעות שיחה:&lt;br&gt;
+        <translation>באפשרותך לעשות שימוש בקיצורי דרך שימושיים רבים בעת הקלדת הודעות שיחה:&lt;br&gt;
 &lt;ul&gt;
 &lt;li&gt;‏Ctrl+Enter כדי לשלוח הודעות&lt;/li&gt;
 &lt;li&gt;‏Ctrl+M כדי להוסיף תו שורה חדשה&lt;/li&gt;
@@ -20349,13 +20321,13 @@ We hope that you will enjoy using it as we have enjoyed making it!
         <source>You can type these special commands in chat and groupchat dialogs:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
+&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; '/me' is replaced by your nick&lt;/li&gt;
 &lt;/ul&gt;
 And these work only in groupchat dialog:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>ביכולתך להקליד פקודות מיוחדות אלו בדו שיח של שיחה ושל שיחת קבוצה:
+        <translation>באפשרותך להקליד פקודות מיוחדות אלו בדו שיח של שיחה ושל שיחת קבוצה:
 &lt;ul&gt;
 &lt;li&gt;&quot;‏‭/clear‬&quot; כדי לטהר תצוגת שיחה&lt;/li&gt;
 &lt;li&gt;&quot;&amp;lt;הודעה&amp;gt; ‭/me‬&quot; &apos;‭/me‬&apos; מוחלפת בכינויך&lt;/li&gt;
@@ -20368,7 +20340,7 @@ And these work only in groupchat dialog:
     <message>
         <location filename="../../psi-plus/src/tipdlg.cpp" line="88"/>
         <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation>הידעת שביכולתך לרשום חשבונות XMPP מרובים בעזרת Psi? אם הינך מעוניין להפריד את עבודתך מן חשבונך האישי, אתה יכול.  אם אתה משתמש מיומן שרוצה לבחון את התכונות החדשות ביותר של XMPP על שרת לא יציב, ביכולתך לעשות כן -- ללא הרצת לקוח שני כדי להתחבר אל שרתך הקבוע.  פשוט הקלק על הוספה במרקע הבניית חשבון.</translation>
+        <translation>הידעת כי באפשרותך לרשום חשבונות XMPP מרובים בעזרת Psi? אם הינך מעוניין להפריד את עבודתך מתוך חשבונך האישי, אתה יכול.  אם אתה משתמש מיומן שרוצה לבחון את התכונות החדשות ביותר של XMPP על שרת לא יציב, ביכולתך לעשות כן -- ללא הרצת לקוח שני כדי להתחבר אל שרתך הקבוע.  פשוט הקלק על הוסף במרקע הבניית חשבון.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/tipdlg.cpp" line="90"/>
@@ -20378,17 +20350,17 @@ And these work only in groupchat dialog:
     <message>
         <location filename="../../psi-plus/src/tipdlg.cpp" line="92"/>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation>הידעת שביכולתך לעשות שימוש בתיבות סימון בדו שיח הבניית חשבון כדי לאפשר/לנטרל חשבונות? זה עשוי להועיל במקרה וקיים חשבון בו הינך עושה שימוש לעתים נדירות, כך שזה לא יסרבל את רשימתך.</translation>
+        <translation>הידעת כי באפשרותך לעשות שימוש בתיבות סימון בדו שיח הבניית חשבון כדי לאפשר/לנטרל חשבונות? זה עשוי להועיל במקרה וקיים חשבון בו הינך עושה שימוש לעתים נדירות, כך שזה לא יסרבל את רשימתך.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/tipdlg.cpp" line="94"/>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation>אינך מרוצה מן הלחצנים במקומותיהם הנוכחיים?  רוצה לחצן קיצור דרך לשנות את מצבך אל נעדר?  לרשותך עומד החלון תצורת סרגלי כלים, זה זמין דרך תפריט ההקשר של סרגל הכלים.  ביכולתך אפילו ליצור סרגל כלים צף!</translation>
+        <translation>אינך מרוצה מן הלחצנים במקומותיהם הנוכחיים?  רוצה לחצן קיצור דרך לשנות את מצבך אל נעדר?  לרשותך עומד החלון תצורת סרגלי כלים, זה זמין דרך תפריט ההקשר של סרגל הכלים.  באפשרותך אפילו ליצור סרגל כלים צף!</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/tipdlg.cpp" line="96"/>
         <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation>הידעת שהתכנית Psi הינה לקוח XMPP מן הבודדים שמעניקים לך את האפשרות להתחבר אל שרתים מרובים בו זמנית?  ביכולתך להזדהות בזהות &quot;mrcool@jabber.org&quot; בפני ידידייך, ולהזדהות בשם &quot;John.J.Smith_the_fourth@mycompany.com&quot; בפני שותפייך לעסק.</translation>
+        <translation>הידעת כי התכנית Psi הינה לקוח XMPP מן הבודדים שמעניקים לך את האפשרות להתחבר אל שרתים מרובים בו זמנית?  באפשרותך להזדהות בזהות &quot;mrcool@jabber.org&quot; בפני ידידייך, ולהזדהות בתור &quot;John.J.Smith_the_fourth@mycompany.com&quot; בפני שותפייך לעסק.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/tipdlg.cpp" line="98"/>
@@ -20398,17 +20370,17 @@ And these work only in groupchat dialog:
     <message>
         <location filename="../../psi-plus/src/tipdlg.cpp" line="100"/>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation>הידעת שהקלקה-אמצעית (לחצן עכבר אמצעי על עכבר בעל 3-לחצנים) יבצע את &quot;הפעולה המשתמטת&quot; על אובייקטים רבים בתוך Psi?  נסו הקלקה-אמצעית על איש קשר או חלון קופץ.</translation>
+        <translation>הידעת כי הקלקה-אמצעית (לחצן עכבר אמצעי על עכבר בעל 3-לחצנים) יבצע את &quot;הפעולה המשתמטת&quot; על אובייקטים רבים בתוך Psi?  נסו הקלקה-אמצעית על איש קשר או חלון קופץ.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/tipdlg.cpp" line="102"/>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation>על מנת להוסיף אישי קשר מן רשתות מסרים מידיים שונות, עליך להוסיף סוכן מקביל מן שרת XMPP. קחו מבט בתפריט Psi -&gt; מציאת שירות.</translation>
+        <translation>על מנת להוסיף אישי קשר מתוך רשתות מסרים מידיים שונות, עליך להוסיף סוכן מקביל מתוך שרת XMPP. קחו מבט בתפריט Psi -&gt; מציאת שירות.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/tipdlg.cpp" line="104"/>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation>ביכולתך לעשות שימוש בהקלקה ימנית על שרת ברשימתך כדי להוציא אל הפועל מספר פעולות שונות.  ביכולתך לשנות מצב, להתאים הגדרות חשבון, להוציא אל הפועל פעולות מנהליות (במידה ויש לך הרשאות), ועוד.</translation>
+        <translation>באפשרותך לעשות שימוש בהקלקה ימנית על שרת ברשימתך כדי להוציא אל הפועל מספר פעולות שונות.  באפשרותך לשנות מצב, להתאים הגדרות חשבון, להוציא אל הפועל פעולות מנהליות (במידה ויש לך הרשאות), ועוד.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/tipdlg.cpp" line="106"/>
@@ -20417,12 +20389,12 @@ And these work only in groupchat dialog:
 Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
         <translation>מחפשים עבור מוביל או חדר שיחה, אולם שרתך לא מספק משהו הולם? ניתן לעשות שימוש בתפריט Psi -&gt; מציאת שירות כדי להסתכל על &lt;i&gt;כל&lt;/i&gt; שרת XMPP עבור שירותים רצויים על ידי הקלדת המתחם שלו בשדה הכתובת.
 &lt;br&gt;&lt;br&gt;
-הערה: שרתים מסוימים עשויים לנטרל רישום מוביל עבור משתמשים מן שרתים אחרים, אולם זה לא שכיח עדיין.</translation>
+הערה: שרתים מסוימים עשויים לנטרל רישום מוביל עבור משתמשים מתוך שרתים אחרים, אולם זה לא שכיח עדיין.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/tipdlg.cpp" line="108"/>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation>היה ואתה משוחח בשיחות קבוצה לעתים די קרובות, השלמת כינוי הינה תכונה חיונית. קיצור הדרך השימושי ביותר הינו &lt;tt&gt;Tab-Tab&lt;/tt&gt;; כאשר זה בשימוש בתחילת שורה או אחרי מדרגה זה משבץ את שם הכינוי של האדם האחרון שפנה אליך ישירות. באותה עת ביכולתך להמשיך לללחוץ &lt;tt&gt;Tab&lt;/tt&gt; וזה ימשיך להעביר את הכינויים של כל האנשים שבחדר באופן לולאתי.&lt;br/&gt;&lt;br/&gt;לתרחיש מורכב יותר: המשתמשים &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; וגם &lt;tt&gt;mbl-revolution&lt;/tt&gt; נמצאים באותו חדר. אם אתה רושם &lt;tt&gt;m&lt;/tt&gt; ולוחץ &lt;tt&gt;Tab&lt;/tt&gt; זו לא תניב שום פעולה הניתנת להבחנה. זאת משום שקיימים כינויים מרובים שמתחילים עם &lt;tt&gt;m&lt;/tt&gt;, וביכולתך לבחור בין אם להמשיך לללחוץ &lt;tt&gt;Tab&lt;/tt&gt; כדי לעבור דרך כל הכינויים שמתחילים עם &lt;tt&gt;m&lt;/tt&gt; או בין אם להדפיס עוד אותיות עד להשלמה ייחודית. כאשר אתה לוחץ את הלחצן &lt;tt&gt;b&lt;/tt&gt;, ואז לוחץ &lt;tt&gt;Tab&lt;/tt&gt; זו תושלם אל &lt;tt&gt;mbl&lt;/tt&gt;. ככל שאתה תעשה שימוש יותר נרחב בתכונה זו, סביר יותר שאתה תחפוץ אותה יותר ותסתמוך עליה יותר. נסה השלמת כינוי על מישהו ואתה תבין כמה אפשרות זו יעילה.</translation>
+        <translation>היה ואתה משוחח בשיחות קבוצה לעתים די קרובות, השלמת כינוי הינה תכונה חיונית. קיצור הדרך השימושי ביותר הינו &lt;tt&gt;Tab-Tab&lt;/tt&gt;; כאשר זה מצוי בשימוש בתחילת שורה או אחרי מדרגה זה משבץ את שם הכינוי של האדם האחרון אשר פנה אליך ישירות. באותה עת באפשרותך להמשיך לללחוץ &lt;tt&gt;Tab&lt;/tt&gt; וזה ימשיך להעביר את הכינויים של כל האנשים אשר נוכחים בחדר באופן לולאתי.&lt;br/&gt;&lt;br/&gt;לתרחיש מורכב יותר: המשתמשים &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; וגם &lt;tt&gt;mbl-revolution&lt;/tt&gt; נמצאים באותו חדר. אם אתה רושם &lt;tt&gt;m&lt;/tt&gt; ולוחץ &lt;tt&gt;Tab&lt;/tt&gt; זו לא תניב שום פעולה הניתנת להבחנה. זאת משום שקיימים כינויים מרובים אשר מתחילים עם &lt;tt&gt;m&lt;/tt&gt;, ובאפשרותך לבחור בין אם להמשיך ללחוץ &lt;tt&gt;Tab&lt;/tt&gt; כדי לעבור דרך כל הכינויים אשר מתחילים עם &lt;tt&gt;m&lt;/tt&gt; או בין אם להדפיס עוד אותיות עד להשלמה ייחודית. כאשר אתה לוחץ את הלחצן &lt;tt&gt;b&lt;/tt&gt;, ואז לוחץ &lt;tt&gt;Tab&lt;/tt&gt; זו תושלם אל &lt;tt&gt;mbl&lt;/tt&gt;. ככל שאתה תעשה שימוש יותר נרחב בתכונה זו, סביר יותר כי אתה תחפוץ אותה יותר ותסתמוך עליה יותר. נסה השלמת כינוי על מישהו ואתה תבין כמה אפשרות זו יעילה.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/tipdlg.cpp" line="112"/>
@@ -20442,12 +20414,12 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/toolbar.cpp" line="71"/>
         <source>Line Width:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/toolbar.cpp" line="75"/>
         <source>Line width</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/toolbar.cpp" line="82"/>
@@ -20457,7 +20429,7 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/toolbar.cpp" line="83"/>
         <source>Pen</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/toolbar.cpp" line="84"/>
@@ -20482,17 +20454,17 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/toolbar.cpp" line="94"/>
         <source>Rotate</source>
-        <translation type="unfinished">סובב</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/toolbar.cpp" line="95"/>
         <source>Insert Text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/screenshotplugin/toolbar.cpp" line="96"/>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -20500,42 +20472,42 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../../psi-plus/src/plugins/generic/translateplugin/translateplugin.cpp" line="224"/>
         <source>from</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/translateplugin/translateplugin.cpp" line="224"/>
         <source>to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/translateplugin/translateplugin.cpp" line="242"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/translateplugin/translateplugin.cpp" line="243"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/translateplugin/translateplugin.cpp" line="249"/>
         <source>ShortCut:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/translateplugin/translateplugin.cpp" line="255"/>
         <source>Modify</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/translateplugin/translateplugin.cpp" line="259"/>
         <source>Not translating &quot;Nickname:&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/translateplugin/translateplugin.cpp" line="263"/>
         <source>Restore Defaults Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/translateplugin/translateplugin.cpp" line="578"/>
@@ -20546,7 +20518,7 @@ Note: Some server may disable transport registration to users from different ser
         <location filename="../../psi-plus/src/plugins/generic/translateplugin/translateplugin.cpp" line="579"/>
         <source>This plugin allows you to convert selected text into another language.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -20572,7 +20544,7 @@ Note: Some server may disable transport registration to users from different ser
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="109"/>
         <location filename="../../psi-plus/src/widgets/typeaheadfind.cpp" line="167"/>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/typeaheadfind.cpp" line="116"/>
@@ -20673,17 +20645,17 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploadmanager.cpp" line="227"/>
         <source>Getting storage...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploadmanager.cpp" line="247"/>
         <source>Can&apos;t get storage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploadmanager.cpp" line="261"/>
         <source>Starting upload...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploadmanager.cpp" line="265"/>
@@ -20693,17 +20665,17 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploadmanager.cpp" line="284"/>
         <source>Verifying...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploadmanager.cpp" line="308"/>
         <source>Uploaded successfully</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploadmanager.cpp" line="313"/>
         <source>Verifying failed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -20728,7 +20700,7 @@ To work with VLC player you need to enable the option &quot;Control Interface D-
 To work with Kaffeine player you must have player version (&gt;= 1.0), additional configuration is not needed; 
 
 To work with GNOME MPlayer additional configuration is not needed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -20736,7 +20708,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/viewer.cpp" line="41"/>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/viewer.cpp" line="42"/>
@@ -20746,22 +20718,22 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/viewer.cpp" line="43"/>
         <source>Save Changes</source>
-        <translation type="unfinished">שמור שינויים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/viewer.cpp" line="44"/>
         <source>Delete Log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/viewer.cpp" line="45"/>
         <source>Update Log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/viewer.cpp" line="73"/>
         <source>Delete log file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/viewer.cpp" line="74"/>
@@ -20773,12 +20745,12 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/viewer.cpp" line="89"/>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/viewer.cpp" line="99"/>
         <source>Save log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/viewer.cpp" line="90"/>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/stopspamplugin/viewer.cpp" line="91"/>
@@ -20873,19 +20845,19 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/viewer.cpp" line="48"/>
         <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="48"/>
         <source>Delete Log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/viewer.cpp" line="49"/>
         <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="49"/>
         <source>Update Log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/viewer.cpp" line="77"/>
         <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="77"/>
         <source>Delete log file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/viewer.cpp" line="78"/>
@@ -20901,34 +20873,34 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
         <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="93"/>
         <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="103"/>
         <source>Save log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/viewer.cpp" line="94"/>
         <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="94"/>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/clientswitcherplugin/viewer.cpp" line="95"/>
         <location filename="../../psi-plus/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="95"/>
         <source>Do you want to save your changes?</source>
-        <translation type="unfinished">האם ברצונך לשמור את השינויים שלך?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/view.cpp" line="71"/>
         <source>Check</source>
-        <translation type="unfinished">סמן</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/view.cpp" line="72"/>
         <source>Uncheck</source>
-        <translation type="unfinished">בטל סימון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/view.cpp" line="73"/>
         <source>Invert</source>
-        <translation type="unfinished">הפוך</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -21019,13 +20991,13 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="412"/>
         <source> change status to </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="528"/>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="568"/>
         <source>Don&apos;t watch for JID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="588"/>
@@ -21042,18 +21014,18 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="623"/>
         <source>&lt;br&gt;Status Message: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="625"/>
         <source>Watcher Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="532"/>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="562"/>
         <source>Watch for JID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="713"/>
@@ -21069,7 +21041,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="715"/>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -21205,7 +21177,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
         <location filename="../../psi-plus/src/whiteboarding/wbdlg.cpp" line="241"/>
         <source>Are you sure you want to end the session?
 The contents of the whiteboard will be lost.</source>
-        <translation>האם אתה בטוח שברצונךלסיים את הסשן?
+        <translation>האם אתה בטוח כי ברצונך לסיים את הסשן?
 התכולה של הלוח הלבן תאובד.</translation>
     </message>
     <message>
@@ -21255,7 +21227,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/src/whiteboarding/wbdlg.cpp" line="373"/>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -21321,7 +21293,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/src/whiteboarding/wbmanager.cpp" line="120"/>
         <source>Scalable Vector Graphics (*.svg)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/whiteboarding/wbmanager.cpp" line="201"/>
@@ -21339,12 +21311,12 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/src/webview.cpp" line="48"/>
         <source>Quote</source>
-        <translation type="unfinished">ציטוט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/webview.cpp" line="49"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -21372,12 +21344,12 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/src/xmlconsole.ui" line="60"/>
         <source>IQ</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/xmlconsole.ui" line="83"/>
         <source>JID:</source>
-        <translation>:JID</translation>
+        <translation>‏JID‏:</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/xmlconsole.ui" line="104"/>
@@ -21423,7 +21395,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="191"/>
         <source>None</source>
-        <translation type="unfinished">ללא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="192"/>
@@ -21453,7 +21425,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="197"/>
         <source>VCard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="198"/>
@@ -21463,7 +21435,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="199"/>
         <source>Query version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="202"/>
@@ -21489,7 +21461,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="247"/>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
-        <translation>הממען שלח XML שהינו פגום או שאינו יכול להתעבד.</translation>
+        <translation>הממען שלח XML אשר הינו פגום או אשר אינו יכול להתעבד.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="248"/>
@@ -21499,7 +21471,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="248"/>
         <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
-        <translation>לא ניתן להעניק גישה משום שקיים משאב או סשן עם אותו השם או כתובת.</translation>
+        <translation>אין אפשרות להעניק גישה משום שקיים משאב או סשן עם אותו שם או כתובת.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="249"/>
@@ -21509,7 +21481,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="249"/>
         <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
-        <translation>התכונה המבוקשת אינה מיושמת על ידי המקבל או השרת ולכן לא ניתן לעבדה.</translation>
+        <translation>התכונה המבוקשת אינה מיושמת על ידי המקבל או השרת ולכן אין אפשרות לעבדה.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="250"/>
@@ -21559,7 +21531,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="254"/>
         <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
-        <translation>הישות הממענת סיפקה או תקשרה כתובת XMPP (למשל, ערך של המאפיין &apos;אל&apos;) או היבט מזו (למשל, מזהה משאב) שלא נסרך אל התחביר המוגדר בסכימת מיעון.</translation>
+        <translation>הישות הממענת סיפקה או תקשרה כתובת XMPP (למשל, ערך של המאפיין &apos;אל&apos;) או היבט מזו (למשל, מזהה משאב) אשר לא נסרך אל התחביר המוגדר בסכימת מיעון.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="255"/>
@@ -21589,7 +21561,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="257"/>
         <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
-        <translation>על הממען לספק נתוני התחברות מתאימים לפני שזה יותר להוציא את הפעולה אל הפועל, או שזה סיפק נתוני התחברות שאינם מתאימים.</translation>
+        <translation>על הממען לספק נתוני התחברות מתאימים לפני שזה יותר להוציא את הפעולה אל הפועל, או שזה סיפק נתוני התחברות אשר אינם מתאימים.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="258"/>
@@ -21629,7 +21601,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="261"/>
         <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
-        <translation>שרת מרוחק או שירות שצוין כחלק או מכל כתובת JID של המקבל המיועד לא קיים.</translation>
+        <translation>שרת מרוחק או שירות אשר צוין בתור חלק או מכל כתובת JID של המקבל המיועד לא קיים.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="262"/>
@@ -21639,7 +21611,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="262"/>
         <source>A remote server or service specified as part or all of the JID of the intended recipient (or required to fulfill a request) could not be contacted within a reasonable amount of time.</source>
-        <translation>שרת מרוחק או שירות שצוין כחלק או מכל כתובת JID של המקבל המיועד (או הנדרש להגשים בקשה) לא יכול היה להתקשר בתוך כמות זמן סבירה.</translation>
+        <translation>שרת מרוחק או שירות אשר צוין בתור חלק או מכל כתובת JID של המקבל המיועד (או הנדרש להגשים בקשה) לא יכול היה להתקשר בתוך כמות זמן סבירה.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="263"/>
@@ -21679,7 +21651,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="266"/>
         <source>The error condition is not one of those defined by the other conditions in this list.</source>
-        <translation>מצב השגיאה אינו אחד מן אלו שתוחמו אצל המצבים האחרים ברשימה זו.</translation>
+        <translation>מצב השגיאה אינו אחד מן אלו אשר תוחמו אצל המצבים האחרים ברשימה זו.</translation>
     </message>
     <message>
         <location filename="../../psi-plus/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="267"/>
@@ -21734,7 +21706,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/src/xmlconsole.cpp" line="216"/>
         <source>You have entered malformed XML input. Are you sure you want to send this ?</source>
-        <translation>הזנת קלט XML פגום. האם אתה בטוח שברצונך לשלוחו ?</translation>
+        <translation>הזנת קלט XML פגום. האם אתה בטוח כי ברצונך לשלוחו ?</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/xmlconsole.cpp" line="216"/>
@@ -21754,7 +21726,7 @@ Do you still want to close the window?</source>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="14"/>
         <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/options.ui" line="20"/>
@@ -21766,13 +21738,13 @@ Do you still want to close the window?</source>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/options.ui" line="31"/>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="31"/>
         <source>Game started:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/options.ui" line="38"/>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="38"/>
         <source>Game finished:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/options.ui" line="45"/>
@@ -21790,34 +21762,34 @@ Do you still want to close the window?</source>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/options.ui" line="211"/>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="211"/>
         <source>If checked, the sound will always enabled (or disabled)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/options.ui" line="214"/>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="214"/>
         <source>Override default sound settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/chessplugin/options.ui" line="221"/>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="221"/>
         <source>Disable invitations if status is DND</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="228"/>
         <source>Disable invitations from conference</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="235"/>
         <source>Save window height and width</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="242"/>
         <source>Save window position</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/gomokugameplugin/options.ui" line="252"/>
@@ -21827,12 +21799,12 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="22"/>
         <source>Auto Reply Message If Recv:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="42"/>
         <source>Auto Reply Message If No Recv:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="68"/>
@@ -21843,27 +21815,27 @@ Do you still want to close the window?</source>
 [-+!]other - default
 [-+!]nil - not in list
 # - comment to end line</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="97"/>
         <source>Pause for next Recv message:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="130"/>
         <source>min.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="141"/>
         <source>Max messages to contact:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="173"/>
         <source>Disable if chat window is active</source>
-        <translation type="unfinished">נטרל אם חלון שיחה הינו פעיל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="193"/>
@@ -21881,67 +21853,67 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="67"/>
         <source>Authenticate %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="68"/>
         <source>To authenticate via question and answer, ask a question whose answer is only known to you and %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="71"/>
         <source>To authenticate via shared secret, enter a secret only known to you and %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="74"/>
         <source>To authenticate manually, exchange your fingerprints over an authenticated channel and compare each other&apos;s fingerprint with the one listed beneath.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="81"/>
         <source>Authenticate to %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="82"/>
         <source>%1 wants to authenticate you. To authenticate, answer the question asked below.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="85"/>
         <source>%1 wants to authenticate you. To authenticate, enter your shared secret below.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="93"/>
         <source>Question and answer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="94"/>
         <source>Shared secret</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="95"/>
         <source>Fingerprint verification</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="106"/>
         <source>&amp;Question:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="109"/>
         <source>A&amp;nswer:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="112"/>
         <source>&amp;Shared Secret:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="117"/>
@@ -21951,7 +21923,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="118"/>
         <source>&amp;Authenticate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="152"/>
@@ -21961,17 +21933,17 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="158"/>
         <source>No private key for account &quot;%1&quot;</source>
-        <translation type="unfinished">אין מפתח פרטי עבור חשבון &quot;%1&quot;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="166"/>
         <source>Your fingerprint:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="168"/>
         <source>%1&apos;s fingerprint:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="368"/>
@@ -21986,45 +21958,45 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="370"/>
         <source>Fingerprint: </source>
-        <translation type="unfinished">טביעת אצבע: </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="371"/>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="373"/>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="460"/>
         <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="394"/>
         <source>%1 has canceled the authentication process.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="400"/>
         <source>An error occured during the authentication process.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="429"/>
         <source>Authentication successful.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="434"/>
         <source>You have been successfully authenticated.
 
 You should authenticate %1 as well by asking your own question.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="442"/>
         <source>Authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -22055,27 +22027,27 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="95"/>
         <source>Disable private messaging</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="96"/>
         <source>Manually start private messaging</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="97"/>
         <source>Automatically start private messaging</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="98"/>
         <source>Require private messaging</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="100"/>
         <source>End session when contact goes offline</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -22083,13 +22055,13 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="177"/>
         <source>Delete fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="178"/>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="327"/>
         <source>Verify fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="201"/>
@@ -22109,7 +22081,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="203"/>
         <source>Verified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="203"/>
@@ -22143,12 +22115,12 @@ You should authenticate %1 as well by asking your own question.</source>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="252"/>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="281"/>
         <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="276"/>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="326"/>
@@ -22158,7 +22130,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="328"/>
         <source>Copy fingerprint</source>
-        <translation type="unfinished">העתקת טביעת אצבע</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -22166,17 +22138,17 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="356"/>
         <source>Generate new key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="366"/>
         <source>Delete key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="396"/>
         <source>Account</source>
-        <translation type="unfinished">חשבון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="397"/>
@@ -22204,7 +22176,7 @@ You should authenticate %1 as well by asking your own question.</source>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="437"/>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="469"/>
         <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="465"/>
@@ -22214,7 +22186,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="517"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="518"/>
@@ -22232,13 +22204,13 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="579"/>
         <source>Session ID between account &quot;%1&quot; and %2:&lt;br/&gt;%3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="585"/>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="612"/>
         <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="607"/>
@@ -22255,37 +22227,37 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="640"/>
         <source>unverified</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="648"/>
         <source>OTR Messaging [%1]</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="652"/>
         <source>Refre&amp;sh private conversation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="659"/>
         <source>&amp;Start private conversation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="695"/>
         <source>&amp;End private conversation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="701"/>
         <source>&amp;Authenticate contact</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="705"/>
         <source>Show secure session &amp;ID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="709"/>
@@ -22308,47 +22280,47 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="240"/>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="242"/>
         <source>Encryption</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="243"/>
         <source>No one else can read your instant messages.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="244"/>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="245"/>
         <source>You are assured the correspondent is who you think it is.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="246"/>
         <source>Deniability</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="247"/>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="252"/>
         <source>Perfect forward secrecy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="253"/>
         <source>If you lose control of your private keys, no previous conversation is compromised.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="255"/>
@@ -22358,52 +22330,52 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="626"/>
         <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="662"/>
         <source>Attempting to refresh the private conversation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="663"/>
         <source>Attempting to start a private conversation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="667"/>
         <source>Private conversation started</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="668"/>
         <source>Unverified conversation started</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="674"/>
         <source>Private conversation lost</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="679"/>
         <source>Private conversation closed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="684"/>
         <source>%1 has ended the private conversation with you; you should do the same.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="691"/>
         <source>Private conversation refreshed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="692"/>
         <source>Unverified conversation refreshed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="698"/>
@@ -22421,12 +22393,12 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/requestauthdialog.ui" line="26"/>
         <source>Authorization</source>
-        <translation type="unfinished">הרשאה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/requestauthdialog.ui" line="38"/>
         <source>Login:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/requestauthdialog.ui" line="55"/>
@@ -22441,7 +22413,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/requestauthdialog.ui" line="109"/>
         <source>Captcha:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -22454,7 +22426,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/settings.ui" line="35"/>
         <source>Edit JIDs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/settings.ui" line="65"/>
@@ -22479,32 +22451,32 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/settings.ui" line="115"/>
         <source>@username</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/settings.ui" line="243"/>
         <source>*tag</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/settings.ui" line="371"/>
         <source>#message id</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/settings.ui" line="499"/>
         <source>&gt;quote</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/settings.ui" line="627"/>
         <source>http://link</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/settings.ui" line="761"/>
         <source>Use message Id as resource</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/settings.ui" line="768"/>
@@ -22520,7 +22492,7 @@ You should authenticate %1 as well by asking your own question.</source>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/settings.ui" line="782"/>
         <source>Replaces message id with a link
 to this message in juick@conference.jabber.ru</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/juickplugin/settings.ui" line="807"/>
@@ -22558,17 +22530,17 @@ to this message in juick@conference.jabber.ru</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploaddialog.cpp" line="79"/>
         <source> kb/sec</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploaddialog.cpp" line="82"/>
         <source>Upload completed. Waiting for verification.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploaddialog.cpp" line="88"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/uploaddialog.cpp" line="90"/>
@@ -22662,7 +22634,7 @@ to this message in juick@conference.jabber.ru</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.cpp" line="258"/>
         <source>Delete file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.cpp" line="258"/>
@@ -22677,17 +22649,17 @@ to this message in juick@conference.jabber.ru</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.cpp" line="360"/>
         <source>Remove password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.cpp" line="364"/>
         <source>Copy URL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.cpp" line="367"/>
         <source>Prolongate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -22695,7 +22667,7 @@ to this message in juick@conference.jabber.ru</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.ui" line="49"/>
@@ -22705,33 +22677,33 @@ to this message in juick@conference.jabber.ru</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.ui" line="78"/>
         <source>Upload File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.ui" line="125"/>
         <source>Actions:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.ui" line="144"/>
         <source>Copy URL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.ui" line="164"/>
         <source>Prolongate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.ui" line="193"/>
         <source>Delete File(s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.ui" line="263"/>
         <source>line1
 line2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.ui" line="292"/>
@@ -22741,22 +22713,22 @@ line2</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.ui" line="321"/>
         <source>New Item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.ui" line="333"/>
         <source>Clear Cookies</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.ui" line="344"/>
         <source>Open Browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodmanage.ui" line="370"/>
         <source>Close</source>
-        <translation type="unfinished">סגור</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -22774,19 +22746,19 @@ line2</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodnetman.cpp" line="205"/>
         <source>Prolongate files...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodnetman.cpp" line="268"/>
         <source>Cookies are obsolete!
 Reathorization...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodnetman.cpp" line="276"/>
-        <source>Can&apos;t get files!
+        <source>Can't get files!
 Try remove cookies.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodnetman.cpp" line="318"/>
@@ -22798,22 +22770,22 @@ Try remove cookies.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodnetman.cpp" line="328"/>
         <source>File(s) deleted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodnetman.cpp" line="335"/>
         <source>File(s) prolongated</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodnetman.cpp" line="342"/>
         <source>Password is set</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodnetman.cpp" line="349"/>
         <source>Password is deleted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -22821,7 +22793,7 @@ Try remove cookies.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarod.cpp" line="149"/>
         <source>Open Yandex Narod Manager</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarod.cpp" line="162"/>
@@ -22831,12 +22803,12 @@ Try remove cookies.</source>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarod.cpp" line="226"/>
         <source>File sent to %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarod.cpp" line="236"/>
         <source>Yandex Narod Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarod.cpp" line="242"/>
@@ -22844,7 +22816,7 @@ Try remove cookies.</source>
 http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -22852,46 +22824,46 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodsettings.ui" line="14"/>
         <source>Settings</source>
-        <translation type="unfinished">הגדרות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodsettings.ui" line="20"/>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodsettings.ui" line="37"/>
         <source>Password</source>
-        <translation type="unfinished">סיסמה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodsettings.ui" line="57"/>
         <source>status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodsettings.ui" line="67"/>
         <source>Test Authorization</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodsettings.ui" line="74"/>
         <source>Start Manager</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodsettings.ui" line="81"/>
         <source>Send file template</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodsettings.ui" line="88"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodsettings.ui" line="105"/>
@@ -22901,7 +22873,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodsettings.ui" line="112"/>
         <source>Clear Cookies</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/yandexnarodplugin/yandexnarodsettings.ui" line="119"/>
