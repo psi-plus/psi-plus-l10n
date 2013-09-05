@@ -301,7 +301,7 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@mail.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;https://www.transifex.net/projects/p/psi-plus/r/all-resources/&quot;&gt;Transifex&lt;/a&gt; и здесь: &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 03.09.2013</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@mail.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;https://www.transifex.net/projects/p/psi-plus/r/all-resources/&quot;&gt;Transifex&lt;/a&gt; и здесь: &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 06.09.2013</translation>
     </message>
 </context>
 <context>
@@ -1266,7 +1266,7 @@ save the history for this contact.</source>
     <name>ActiveProfiles</name>
     <message>
         <location filename="../../psi-plus/src/activeprofiles_dbus.cpp" line="230"/>
-        <location filename="../../psi-plus/src/activeprofiles_win.cpp" line="325"/>
+        <location filename="../../psi-plus/src/activeprofiles_win.cpp" line="328"/>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
         <translation>Этот профиль уже используется...&lt;br&gt;пожалуйста, ждите...</translation>
     </message>
@@ -6024,28 +6024,28 @@ Reason: %3</source>
 <context>
     <name>GCFindDlg</name>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2332"/>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2378"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2337"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2383"/>
         <source>Find</source>
         <translation>Поиск</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2337"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2342"/>
         <source>Find:</source>
         <translation>Найти:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2352"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2357"/>
         <source>&amp;Close</source>
         <translation>&amp;Закрыть</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2354"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2359"/>
         <source>&amp;Find</source>
         <translation>&amp;Найти</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2378"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2383"/>
         <source>Search string &apos;%1&apos; not found.</source>
         <translation>Строка &quot;%1&quot; не найдена.</translation>
     </message>
@@ -6336,37 +6336,37 @@ Reason: %1</source>
         <translation>Соединение установлено.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2211"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2216"/>
         <source>Save</source>
         <translation>Сохранить</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2212"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2217"/>
         <source>Delete</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2213"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2218"/>
         <source>Cancel</source>
         <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2222"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2227"/>
         <source>&amp;Name:</source>
         <translation>&amp;Название:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2223"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2228"/>
         <source>N&amp;ick:</source>
         <translation>Н&amp;ик:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2224"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2229"/>
         <source>&amp;Auto join:</source>
         <translation>&amp;Авто-вход:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2235"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2240"/>
         <source>Bookmark conference</source>
         <translation>Закладка конференции</translation>
     </message>
@@ -12721,13 +12721,21 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_toolbars.cpp" line="226"/>
-        <source>Chat Toolbar</source>
-        <translation>Панель инструментов чата</translation>
+        <source>Chat</source>
+        <translation>Чаты</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_toolbars.cpp" line="227"/>
+        <source>Groupchat</source>
+        <translation>Конференции</translation>
+    </message>
+    <message>
+        <source>Chat Toolbar</source>
+        <translation type="obsolete">Панель инструментов чата</translation>
+    </message>
+    <message>
         <source>Groupchat Toolbar</source>
-        <translation>Панель инструментов конференций</translation>
+        <translation type="obsolete">Панель инструментов конференций</translation>
     </message>
 </context>
 <context>
@@ -14548,41 +14556,41 @@ Details: %1</source>
         <translation>Объявление</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6095"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6101"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
         <translation>Произошла ошибка установки вашего состояния.
 Причина: %1.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6205"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6211"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6530"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6536"/>
         <source>No key</source>
         <translation>Нет ключа</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6530"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6536"/>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Невозможно найти ключ OpenPGP для использования с &lt;b&gt;%1&lt;/b&gt;.
 &lt;br&gt;&lt;br&gt;
 Это могло произойти, если у вас нет ключа, который контакт указывает в своём &quot;подписанном присутствии&quot;, или он вообще не указывает ключа.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6535"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6541"/>
         <source>&amp;Choose key manually</source>
         <translation>&amp;Выбрать ключ вручную</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6535"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6541"/>
         <source>Do &amp;nothing</source>
         <translation>О&amp;тмена</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6542"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6548"/>
         <source>Public Key: %1</source>
         <translation>Публичный ключ: %1</translation>
     </message>
@@ -15413,22 +15421,22 @@ Reason: %1.</source>
 Примечание: это никак не отразится на истории сообщений</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psichatdlg.cpp" line="977"/>
+        <location filename="../../psi-plus/src/psichatdlg.cpp" line="976"/>
         <source>Error: Can not parse command: </source>
         <translation>Ошибка: Невозможно разобрать команду: </translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psichatdlg.cpp" line="986"/>
+        <location filename="../../psi-plus/src/psichatdlg.cpp" line="985"/>
         <source>Command&gt;</source>
         <translation>Команда&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psichatdlg.cpp" line="1109"/>
+        <location filename="../../psi-plus/src/psichatdlg.cpp" line="1108"/>
         <source>turn off autojid</source>
         <translation>Выключить autojid</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psichatdlg.cpp" line="1112"/>
+        <location filename="../../psi-plus/src/psichatdlg.cpp" line="1111"/>
         <source>turn on autojid</source>
         <translation>Включить autojid</translation>
     </message>
@@ -16360,77 +16368,77 @@ Proceed?</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2902"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2908"/>
         <source>Username</source>
         <translation>Имя пользователя</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2903"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2909"/>
         <source>Nickname</source>
         <translation>Ник</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2904"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2910"/>
         <source>Password</source>
         <translation>Пароль</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2905"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2911"/>
         <source>Name</source>
         <translation>Имя</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2906"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2912"/>
         <source>First Name</source>
         <translation>Имя</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2907"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2913"/>
         <source>Last Name</source>
         <translation>Фамилия</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2908"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2914"/>
         <source>E-mail</source>
         <translation>E-mail</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2909"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2915"/>
         <source>Address</source>
         <translation>Адрес</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2910"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2916"/>
         <source>City</source>
         <translation>Город</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2911"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2917"/>
         <source>State</source>
         <translation>Регион</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2912"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2918"/>
         <source>Zipcode</source>
         <translation>Почтовый индекс</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2913"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2919"/>
         <source>Phone</source>
         <translation>Номер телефона</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2914"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2920"/>
         <source>URL</source>
         <translation>URL</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2915"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2921"/>
         <source>Date</source>
         <translation>Дата</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2916"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2922"/>
         <source>Misc</source>
         <translation>Разное</translation>
     </message>
@@ -16907,12 +16915,12 @@ Proceed?</source>
         <translation>Файл</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/applicationinfo.cpp" line="290"/>
+        <location filename="../../psi-plus/src/applicationinfo.cpp" line="297"/>
         <source>Conversion Error</source>
         <translation>Ошибка преобразования</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/applicationinfo.cpp" line="290"/>
+        <location filename="../../psi-plus/src/applicationinfo.cpp" line="297"/>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
         <translation>Были обнаружены файлы настроек старой версии Psi, но сконвертировать их для использования с нынешней версией не удалось. Убедитесь, что у вас есть необходимые права доступа к файлам и что другая копия программы Psi не запущена. Затем попробуйте снова.</translation>
     </message>
@@ -21645,7 +21653,7 @@ Do you still want to close the window?</source>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1080"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1082"/>
         <source>No VCard available</source>
         <translation>vCard недоступен</translation>
     </message>

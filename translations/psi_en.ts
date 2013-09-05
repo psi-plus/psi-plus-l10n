@@ -1275,7 +1275,7 @@ save the history for this contact.</translation>
     <name>ActiveProfiles</name>
     <message>
         <location filename="../../psi-plus/src/activeprofiles_dbus.cpp" line="230"/>
-        <location filename="../../psi-plus/src/activeprofiles_win.cpp" line="325"/>
+        <location filename="../../psi-plus/src/activeprofiles_win.cpp" line="328"/>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
         <translation>This psi profile is already running...&lt;br&gt;please wait...</translation>
     </message>
@@ -6081,28 +6081,28 @@ Reason: %3</translation>
 <context>
     <name>GCFindDlg</name>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2332"/>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2378"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2337"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2383"/>
         <source>Find</source>
         <translation>Find</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2337"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2342"/>
         <source>Find:</source>
         <translation>Find:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2352"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2357"/>
         <source>&amp;Close</source>
         <translation>&amp;Close</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2354"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2359"/>
         <source>&amp;Find</source>
         <translation>&amp;Find</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2378"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2383"/>
         <source>Search string &apos;%1&apos; not found.</source>
         <translation>Search string &apos;%1&apos; not found.</translation>
     </message>
@@ -6433,37 +6433,37 @@ Reason: %1</translation>
         <translation>Connected.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2211"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2216"/>
         <source>Save</source>
         <translation>Save</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2212"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2217"/>
         <source>Delete</source>
         <translation>Delete</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2213"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2218"/>
         <source>Cancel</source>
         <translation>Cancel</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2222"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2227"/>
         <source>&amp;Name:</source>
         <translation>&amp;Name:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2223"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2228"/>
         <source>N&amp;ick:</source>
         <translation>N&amp;ick:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2224"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2229"/>
         <source>&amp;Auto join:</source>
         <translation>&amp;Auto join:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2235"/>
+        <location filename="../../psi-plus/src/groupchatdlg.cpp" line="2240"/>
         <source>Bookmark conference</source>
         <translation>Bookmark conference</translation>
     </message>
@@ -12827,13 +12827,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_toolbars.cpp" line="226"/>
-        <source>Chat Toolbar</source>
-        <translation type="unfinished">Chat Toolbar</translation>
+        <source>Chat</source>
+        <translation type="unfinished">Chat</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/options/opt_toolbars.cpp" line="227"/>
-        <source>Groupchat Toolbar</source>
-        <translation type="unfinished"></translation>
+        <source>Groupchat</source>
+        <translation type="unfinished">Groupchat</translation>
+    </message>
+    <message>
+        <source>Chat Toolbar</source>
+        <translation type="obsolete">Chat Toolbar</translation>
     </message>
 </context>
 <context>
@@ -14657,39 +14661,39 @@ Details: %1</translation>
         <translation>Headline</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6095"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6101"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
         <translation>There was an error trying to sign your status.
 Reason: %1.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6205"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6211"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[ERROR: This message is encrypted, and you are unable to decrypt it.]</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6530"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6536"/>
         <source>No key</source>
         <translation>No key</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6530"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6536"/>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6535"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6541"/>
         <source>&amp;Choose key manually</source>
         <translation>&amp;Choose key manually</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6535"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6541"/>
         <source>Do &amp;nothing</source>
         <translation>Do &amp;nothing</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psiaccount.cpp" line="6542"/>
+        <location filename="../../psi-plus/src/psiaccount.cpp" line="6548"/>
         <source>Public Key: %1</source>
         <translation>Public Key: %1</translation>
     </message>
@@ -15584,22 +15588,22 @@ Reason: %1.</translation>
 (note: does not affect saved history)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psichatdlg.cpp" line="977"/>
+        <location filename="../../psi-plus/src/psichatdlg.cpp" line="976"/>
         <source>Error: Can not parse command: </source>
         <translation>Error: Can not parse command: </translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psichatdlg.cpp" line="986"/>
+        <location filename="../../psi-plus/src/psichatdlg.cpp" line="985"/>
         <source>Command&gt;</source>
         <translation>Command&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psichatdlg.cpp" line="1109"/>
+        <location filename="../../psi-plus/src/psichatdlg.cpp" line="1108"/>
         <source>turn off autojid</source>
         <translation>turn off autojid</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/psichatdlg.cpp" line="1112"/>
+        <location filename="../../psi-plus/src/psichatdlg.cpp" line="1111"/>
         <source>turn on autojid</source>
         <translation>turn on autojid</translation>
     </message>
@@ -16532,77 +16536,77 @@ Proceed?</translation>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2902"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2908"/>
         <source>Username</source>
         <translation>Username</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2903"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2909"/>
         <source>Nickname</source>
         <translation>Nickname</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2904"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2910"/>
         <source>Password</source>
         <translation>Password</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2905"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2911"/>
         <source>Name</source>
         <translation>Name</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2906"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2912"/>
         <source>First Name</source>
         <translation>First Name</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2907"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2913"/>
         <source>Last Name</source>
         <translation>Last Name</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2908"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2914"/>
         <source>E-mail</source>
         <translation>E-mail</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2909"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2915"/>
         <source>Address</source>
         <translation>Address</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2910"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2916"/>
         <source>City</source>
         <translation>City</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2911"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2917"/>
         <source>State</source>
         <translation>State</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2912"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2918"/>
         <source>Zipcode</source>
         <translation>Zipcode</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2913"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2919"/>
         <source>Phone</source>
         <translation>Phone</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2914"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2920"/>
         <source>URL</source>
         <translation>URL</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2915"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2921"/>
         <source>Date</source>
         <translation>Date</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2916"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/types.cpp" line="2922"/>
         <source>Misc</source>
         <translation>Misc</translation>
     </message>
@@ -17079,12 +17083,12 @@ Proceed?</translation>
         <translation>File</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/applicationinfo.cpp" line="290"/>
+        <location filename="../../psi-plus/src/applicationinfo.cpp" line="297"/>
         <source>Conversion Error</source>
         <translation>Conversion Error</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/applicationinfo.cpp" line="290"/>
+        <location filename="../../psi-plus/src/applicationinfo.cpp" line="297"/>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
         <translation>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</translation>
     </message>
@@ -21824,7 +21828,7 @@ Do you still want to close the window?</translation>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
-        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1080"/>
+        <location filename="../../psi-plus/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1082"/>
         <source>No VCard available</source>
         <translation>No VCard available</translation>
     </message>
