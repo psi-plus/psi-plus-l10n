@@ -15261,7 +15261,13 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="489"/>
         <location filename="../../psi-plus/src/psiactionlist.cpp" line="485"/>
-        <source>Chat Core</source>
+        <source>Chat basic buttons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../tmp/psiactionlist.cpp" line="517"/>
+        <location filename="../../psi-plus/src/psiactionlist.cpp" line="513"/>
+        <source>Groupchat basic buttons</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15269,12 +15275,6 @@ To se lahko zgodi, če nimate ključa, ki ga stik oglaša prek podpisane prisotn
         <location filename="../../psi-plus/src/psiactionlist.cpp" line="497"/>
         <source>Configure Room</source>
         <translation type="unfinished">Nastavitev klepetalnice</translation>
-    </message>
-    <message>
-        <location filename="../tmp/psiactionlist.cpp" line="517"/>
-        <location filename="../../psi-plus/src/psiactionlist.cpp" line="513"/>
-        <source>Groupchat Core</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="528"/>

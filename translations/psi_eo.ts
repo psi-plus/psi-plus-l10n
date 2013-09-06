@@ -15232,7 +15232,13 @@ Kialo: %1.</translation>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="489"/>
         <location filename="../../psi-plus/src/psiactionlist.cpp" line="485"/>
-        <source>Chat Core</source>
+        <source>Chat basic buttons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../tmp/psiactionlist.cpp" line="517"/>
+        <location filename="../../psi-plus/src/psiactionlist.cpp" line="513"/>
+        <source>Groupchat basic buttons</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15240,12 +15246,6 @@ Kialo: %1.</translation>
         <location filename="../../psi-plus/src/psiactionlist.cpp" line="497"/>
         <source>Configure Room</source>
         <translation type="unfinished">Agordi la Babilejon</translation>
-    </message>
-    <message>
-        <location filename="../tmp/psiactionlist.cpp" line="517"/>
-        <location filename="../../psi-plus/src/psiactionlist.cpp" line="513"/>
-        <source>Groupchat Core</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="528"/>

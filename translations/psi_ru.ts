@@ -15359,8 +15359,18 @@ Reason: %1.</source>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="489"/>
         <location filename="../../psi-plus/src/psiactionlist.cpp" line="485"/>
+        <source>Chat basic buttons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../tmp/psiactionlist.cpp" line="517"/>
+        <location filename="../../psi-plus/src/psiactionlist.cpp" line="513"/>
+        <source>Groupchat basic buttons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Chat Core</source>
-        <translation>Ядро чата</translation>
+        <translation type="obsolete">Ядро чата</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="501"/>
@@ -15369,10 +15379,8 @@ Reason: %1.</source>
         <translation>Настроить комнату</translation>
     </message>
     <message>
-        <location filename="../tmp/psiactionlist.cpp" line="517"/>
-        <location filename="../../psi-plus/src/psiactionlist.cpp" line="513"/>
         <source>Groupchat Core</source>
-        <translation>Ядро конференции</translation>
+        <translation type="obsolete">Ядро конференции</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="528"/>
