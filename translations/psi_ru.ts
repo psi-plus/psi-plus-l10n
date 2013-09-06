@@ -12729,14 +12729,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <source>Groupchat</source>
         <translation>Конференции</translation>
     </message>
-    <message>
-        <source>Chat Toolbar</source>
-        <translation type="obsolete">Панель инструментов чата</translation>
-    </message>
-    <message>
-        <source>Groupchat Toolbar</source>
-        <translation type="obsolete">Панель инструментов конференций</translation>
-    </message>
 </context>
 <context>
     <name>OptionsTabTree</name>
@@ -15360,27 +15352,19 @@ Reason: %1.</source>
         <location filename="../tmp/psiactionlist.cpp" line="489"/>
         <location filename="../../psi-plus/src/psiactionlist.cpp" line="485"/>
         <source>Chat basic buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>Основные кнопки чата</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="517"/>
         <location filename="../../psi-plus/src/psiactionlist.cpp" line="513"/>
         <source>Groupchat basic buttons</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Chat Core</source>
-        <translation type="obsolete">Ядро чата</translation>
+        <translation>Основные кнопки конференции</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="501"/>
         <location filename="../../psi-plus/src/psiactionlist.cpp" line="497"/>
         <source>Configure Room</source>
         <translation>Настроить комнату</translation>
-    </message>
-    <message>
-        <source>Groupchat Core</source>
-        <translation type="obsolete">Ядро конференции</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="528"/>
@@ -19834,12 +19818,12 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
         <location filename="../../psi-plus/src/mainwin_p.cpp" line="493"/>
         <location filename="../../psi-plus/src/mainwin_p.cpp" line="494"/>
         <source>&lt;Spacer&gt;</source>
-        <translation>&lt;Разделитель&gt;</translation>
+        <translation>&lt;Распорка&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/mainwin_p.cpp" line="495"/>
         <source>Spacer provides spacing to separate actions</source>
-        <translation>Динамический разделитель</translation>
+        <translation>Динамическая распорка</translation>
     </message>
 </context>
 <context>
