@@ -308,7 +308,7 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
 &lt;a href=&quot;https://www.transifex.net/projects/p/psi-plus/r/all-resources/&quot;&gt;Transifex&lt;/a&gt;
  та тут: 
 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;
-&lt;br&gt;Дата поточного перекладу: 27.10.2012</translation>
+&lt;br&gt;Дата поточного перекладу: 06.09.2013</translation>
     </message>
 </context>
 <context>
