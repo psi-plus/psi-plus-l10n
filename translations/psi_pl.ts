@@ -676,7 +676,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus/src/accountmodify.ui" line="875"/>
         <source>In-Band only (slow)</source>
-        <translation type="unfinished"/>
+        <translation>Tylko &quot;In-Band&quot; (powolne)</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/accountmodify.ui" line="890"/>
