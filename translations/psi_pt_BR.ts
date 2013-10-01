@@ -7283,12 +7283,12 @@ Note: O plugin verifica apenas a raiz da sua pasta em sua caixa de entrada de se
         <translation>Gerenciador de Chaves GnuPG, pode criar, remover, exportar e importar chaves GnuPG. Ele pode fazer apenas as operações da base, mas eu espero que seja o suficiente para suas necessidades.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="177"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="176"/>
         <source>Send GnuPG Public Key</source>
         <translation>Enviar Chave Pública GnuPG</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="271"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/gnupg.cpp" line="269"/>
         <source>Public key %1 sent</source>
         <translation>Chave pública %1 enviada</translation>
     </message>
@@ -11569,14 +11569,13 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
         <translation>Filtrar a mensagem com uma chave</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.ui" line="122"/>
         <source>Show Send Public Key button on chat toolbar</source>
-        <translation>Exibir botão Enviar Chave Pública, na barra de ferramentas do bate-papo</translation>
+        <translation type="obsolete">Exibir botão Enviar Chave Pública, na barra de ferramentas do bate-papo</translation>
     </message>
     <message>
         <location filename="../../psi-plus/src/plugins/generic/jabberdiskplugin/options.ui" line="39"/>
         <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="130"/>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="224"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="222"/>
         <source>Delete</source>
         <translation>Remover</translation>
     </message>
@@ -11833,17 +11832,16 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
         <translation>Desativar sons se a janela de conversa estiver ativa</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="175"/>
         <source>Show Watch for JID button on chat toolbar</source>
-        <translation>Mostrar o botão Observar JID na  barra de ferramentas do bate-papo</translation>
+        <translation type="obsolete">Mostrar o botão Observar JID na  barra de ferramentas do bate-papo</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="182"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="175"/>
         <source>Show Watch for JID button in contact context menu</source>
         <translation>Mostrar o botão Observar JID em contato no menu de contexto</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="206"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/options.ui" line="199"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
@@ -11868,38 +11866,38 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
         <translation>da área de transferência </translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="151"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="149"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="153"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="151"/>
         <source>&lt;b&gt;Please wait!&lt;/b&gt;&lt;br/&gt;We need to generate a lot of random bytes. It is a good idea to perform some other action (type on the keyboard, move the mouse, utilize the disks) during the prime generation; this gives the random number generator a better chance to gain enough entropy.</source>
         <translation>&lt;b&gt;Por favor espere!&lt;/b&gt;&lt;br/&gt;Precisamos gerar um monte de bytes aleatórios. É uma boa ideia para executar alguma outra ação (digitar no teclado, mover o mouse, usar os discos) durante a geração privilegiada, isso dá ao gerador de números aleatórios uma chance melhor de conseguir entropia suficiente.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="172"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="170"/>
         <source>Key pair generating</source>
         <translation>Gerador de par de chaves</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="224"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="222"/>
         <source>Do you want to delete the selected keys?</source>
         <translation>Deseja remover as chaves selecionadas?</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="250"/>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="305"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="248"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="303"/>
         <source>ASCII (*.asc)</source>
         <translation>ASCII (*.asc)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="251"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="249"/>
         <source>All files (*)</source>
         <translation>Todos os arquivos (*)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="412"/>
+        <location filename="../../psi-plus/src/plugins/generic/gnupgplugin/options.cpp" line="410"/>
         <source>GnuPG info</source>
         <translation>Informações GnuPG</translation>
     </message>
@@ -21369,63 +21367,63 @@ Para funcionar no GNOME MPlayer configurações adicionais não serão necessár
 <context>
     <name>Watcher</name>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="233"/>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="681"/>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="717"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="231"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="675"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="711"/>
         <source>Empty item</source>
         <translation>Item vazio</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="422"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="416"/>
         <source> change status to </source>
         <translation>alterar status para</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="538"/>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="578"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="532"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="572"/>
         <source>Don&apos;t watch for JID</source>
         <translation>Não observar JID</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="598"/>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="606"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="592"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="600"/>
         <source>Choose a sound file</source>
         <translation>Escolher um arquivo de som</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="600"/>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="608"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="594"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="602"/>
         <source>Sound (*.wav)</source>
         <translation>Som (*.wav)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="633"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="627"/>
         <source>&lt;br&gt;Status Message: %1</source>
         <translation>&lt;br&gt;Mensagem de Status: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="635"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="629"/>
         <source>Watcher Plugin</source>
         <translation>Plugin Observador</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="542"/>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="572"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="536"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="566"/>
         <source>Watch for JID</source>
         <translation>Observar para JID</translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="723"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="717"/>
         <source>Author: </source>
         <translation>Autor: </translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="724"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="718"/>
         <source>Email: </source>
         <translation>E-mail: </translation>
     </message>
     <message>
-        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="725"/>
+        <location filename="../../psi-plus/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="719"/>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
         <translation>Este plugin foi projetado para monitorar o status das listas de contatos específicas, bem como para a substituição de sons padrão das mensagens recebidas.
