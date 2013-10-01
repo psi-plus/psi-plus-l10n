@@ -3275,7 +3275,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <source>and %n contacts </source>
         <translation type="unfinished">
             <numerusform></numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -17546,14 +17545,12 @@ Description: </source>
         <source>%n day(s) </source>
         <translation type="unfinished">
             <numerusform></numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="295"/>
         <source>%n hour(s) </source>
         <translation type="unfinished">
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -17562,14 +17559,12 @@ Description: </source>
         <source>%n minute(s) </source>
         <translation type="unfinished">
             <numerusform></numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="301"/>
         <source>%n second(s) </source>
         <translation type="unfinished">
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -18292,7 +18287,6 @@ Cause: %1</translation>
         <source>celebrates birthday in %n day(s)
 </source>
         <translation type="unfinished">
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -19975,7 +19969,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <message>
         <location filename="../../psi-plus/src/tabs/tabdlg.cpp" line="579"/>
         <source> is composing</source>
-        <translation>compose</translation>
+        <translation> compose</translation>
     </message>
 </context>
 <context>
