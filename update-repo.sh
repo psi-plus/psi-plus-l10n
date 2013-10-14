@@ -1,9 +1,9 @@
-#! /bin/bash
+#!/bin/bash
 
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2013-07-17
+# Updated: 2013-10-14
 # Version: N/A
 
 if [[ ${0} =~ ^/.+$ ]]; then
@@ -13,7 +13,7 @@ else
 fi
 
 export MAIN_DIR="${CUR_DIR}/.."
-export PSIPLUS_DIR="${MAIN_DIR}/psi-plus"
+export PSIPLUS_DIR="${MAIN_DIR}/psi-plus-snapshots"
 
 cd "${CUR_DIR}" || exit 1
 

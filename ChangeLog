@@ -1,3 +1,6 @@
+2013-10-14:
+* Script was updated: small fix due to changes in psi-plus-snapshots location.
+
 2013-07-17:
 * Script was updated: do not delete psi_en.qm
   (English translation is required for some template strings)
