@@ -11467,10 +11467,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Фильтровать сообщения с ключом</translation>
     </message>
     <message>
-        <source>Show Send Public Key button on chat toolbar</source>
-        <translation type="obsolete">Показывать кнопку отправки публичного ключа на панели чата</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/jabberdiskplugin/options.ui" line="39"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/options.ui" line="130"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.cpp" line="222"/>
@@ -11720,10 +11716,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/options.ui" line="161"/>
         <source>Disable sound if chat window is active</source>
         <translation>Отключать звук если открыто окно чата</translation>
-    </message>
-    <message>
-        <source>Show Watch for JID button on chat toolbar</source>
-        <translation type="obsolete">Показывать кнопку включения слежения за JID&apos;ом на панели чата</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/options.ui" line="175"/>
@@ -17782,7 +17774,7 @@ OTR плагин не будет работать.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="944"/>
         <source>Unreadable encrypted message was received.</source>
-        <translation type="unfinished"></translation>
+        <translation>Получено повреждённое зашифрованное сообщение.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="1056"/>
