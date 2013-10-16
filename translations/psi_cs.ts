@@ -3178,7 +3178,7 @@ Poznámka: Aby vše fungovalo, volba options.ui.chat.central-toolbar musí být 
         <translation>&amp;Admin</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/contactlistaccountmenu.cpp" line="221"/>
+        <location filename="../../psi-plus-snapshots/src/contactlistaccountmenu.cpp" line="222"/>
         <source>Join %1</source>
         <translation>Vejít do %1</translation>
     </message>
@@ -17886,12 +17886,12 @@ The OTR Plugin will not work.</source>
 Zásuvný modul OTR nebude pracovat správně.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="929"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="935"/>
         <source>&lt;b&gt;The following message received from %1 was &lt;i&gt;not&lt;/i&gt; encrypted:&lt;/b&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="937"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="940"/>
         <source>Your message was not sent. Either end your private conversation, or restart it.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17901,7 +17901,22 @@ Zásuvný modul OTR nebude pracovat správně.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="1056"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="947"/>
+        <source>Received an encrypted message but it cannot be read because no private connection is established yet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="952"/>
+        <source>Received message is unreadable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="955"/>
+        <source>Received message contains malformed data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="1072"/>
         <source>You have received a new fingerprint from %1:
 %2</source>
         <translation>Přijal jsi nový otisk prstu od %1:
