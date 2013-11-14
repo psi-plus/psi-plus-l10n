@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.0" language="pt_BR">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="pt_BR" version="2.0">
 <context>
     <name>@default</name>
     <message>
@@ -1445,7 +1443,7 @@ salvará o histórico deste contato.</translation>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -3040,7 +3038,7 @@ Você poderá especificar a versão do cliente e Sistema Operacional ou para a l
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="332"/>
         <source>Groupchat History</source>
-        <translation type="unfinished"></translation>
+        <translation>Histórico de Salas de Bate-Papo</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="343"/>
@@ -3048,11 +3046,11 @@ Você poderá especificar a versão do cliente e Sistema Operacional ou para a l
 Groupchats logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with groupchat.
 
 Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este plugin foi projetado para salvar histórico de bate-papo em grupo no Psi+. Registros de bate-papo em grupo podem ser vistos nas configurações do plugin ou clicando no botão da barra de tarefas do grupo de bate-papo. Note: Para funcionar corretamente, a barra de tarefas do bate-papo em grupo deve ser habilitada.</translation>
     </message>
     <message>
         <source>Conference History</source>
-        <translation type="obsolete">Histórico de Conferência</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="341"/>
@@ -3069,10 +3067,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
 Conferences logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with conference.
 
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="obsolete">Este plugin foi projetado para salvar os registro de conferências com o Psi+.
-Registros de conferências poderão ser visualizados a partir do plugin de configurações ou clicando no botão apropriado da barra de ferramentas na janela/aba ativa em conferência.
-
-Nota: Para funcionar corretamente, a opção options.ui.chat.central-toolbar  deve ser definida como verdadeiro.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3332,18 +3327,12 @@ Nota: Para funcionar corretamente, a opção options.ui.chat.central-toolbar  de
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/contactlistutil.cpp" line="87"/>
         <source>and %n contacts </source>
-        <translation>
-            <numerusform>e %n contatos </numerusform>
-            <numerusform>e %n contatos </numerusform>
-        </translation>
+        <translation><numerusform>e %n contatos </numerusform><numerusform>e %n contatos </numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/contactlistutil.cpp" line="92"/>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation>
-            <numerusform>&lt;br&gt;%1&lt;br&gt;%2 e %n grupos serão removidos permanentemente da sua lista de contados.</numerusform>
-            <numerusform>&lt;br&gt;%1&lt;br&gt;%2 e %n grupos serão removidos permanentemente da sua lista de contados.</numerusform>
-        </translation>
+        <translation><numerusform>&lt;br&gt;%1&lt;br&gt;%2 e %n grupos serão removidos permanentemente da sua lista de contados.</numerusform><numerusform>&lt;br&gt;%1&lt;br&gt;%2 e %n grupos serão removidos permanentemente da sua lista de contados.</numerusform></translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistutil.cpp" line="101"/>
@@ -4090,7 +4079,7 @@ Prosseguir?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/disco.ui" line="28"/>
         <source>ToolBar will be placed here</source>
-        <comment>Don&apos;t translate this string</comment>
+        <comment>Don't translate this string</comment>
         <translation>Barra de Ferramentes será colocada aqui</translation>
     </message>
     <message>
@@ -4946,7 +4935,7 @@ Se você deseja confirmar esta solicitação, por favor pressione o botão Confi
     </message>
     <message>
         <source>Conference</source>
-        <translation type="obsolete">Conferência</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="278"/>
@@ -4982,7 +4971,7 @@ Se você deseja confirmar esta solicitação, por favor pressione o botão Confi
     </message>
     <message>
         <source>Enable central toolbar</source>
-        <translation type="obsolete">Ativar barra de ferramentas central</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="290"/>
@@ -5006,7 +4995,7 @@ Se você deseja confirmar esta solicitação, por favor pressione o botão Confi
     </message>
     <message>
         <source>Disable &quot;Paste and Send&quot; button</source>
-        <translation type="obsolete">Desativar botão &quot;Colar e Enviar&quot;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="297"/>
@@ -5086,15 +5075,15 @@ Se você deseja confirmar esta solicitação, por favor pressione o botão Confi
     </message>
     <message>
         <source>Enable autojoin for bookmarked conferences</source>
-        <translation type="obsolete">Ativar auto-entrar para conferências favoritadas</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hide conference on auto-join</source>
-        <translation type="obsolete">Ocultar conferência em auto-entrar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable HTML rendering in MUC chat window</source>
-        <translation type="obsolete">Ativar renderização HTML em janela de conversa MUC</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="363"/>
@@ -5121,52 +5110,52 @@ Esta opção terá efeito se o aceitar-padrão for falso.</translation>
     <message>
         <source>Disable autojoin to folowing conferences:
 (specify JIDs)</source>
-        <translation type="obsolete">Desativar auto-entrar nas seguintes conferências:
-(especificar JIDs)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>MUC leave status message:</source>
-        <translation type="obsolete">MUC deixar mensagem de status:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Place MUC roster at left</source>
-        <translation type="obsolete">Colocar lista de MUC à esquerda</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="277"/>
         <source>Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Bate-papo em grupo</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="358"/>
         <source>Enable autojoin for bookmarked groupchats</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar entrada automática em bate-papos em grupos favoritados</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="359"/>
         <source>Hide groupchat on auto-join</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar bate-papo em grupo ao entrar automaticamente</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="360"/>
         <source>Enable HTML rendering in groupchat chat window</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar renderização HTML nesta janela de conversa do bate-papo em grupo</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="383"/>
         <source>Disable autojoin to folowing groupchats:
 (specify JIDs)</source>
-        <translation type="unfinished"></translation>
+        <translation>Desabilitar entrada automática para os bate-papo em grupo a seguir:
+(especificar JIDs)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="385"/>
         <source>Groupchat leave status message:</source>
-        <translation type="unfinished"></translation>
+        <translation>Deixar mensagem de status no bate-papo em grupo:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="390"/>
         <source>Place groupchat roster at left</source>
-        <translation type="unfinished"></translation>
+        <translation>Colocar lista de bate-papo em grupo à esquerda</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="391"/>
@@ -5369,16 +5358,16 @@ Esta opção terá efeito se o aceitar-padrão for falso.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="550"/>
         <source>Groupchat roster coloring:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor da lista de bate-papo em grupo:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="686"/>
         <source>Enable sound notifications for every groupchat message</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar mensagem de notificação para todas as mensagens do bate-papo em grupo</translation>
     </message>
     <message>
         <source>MUC roster coloring:</source>
-        <translation type="obsolete">Lista de cores MUC:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="561"/>
@@ -5487,7 +5476,7 @@ Esta opção terá efeito se o aceitar-padrão for falso.</translation>
     </message>
     <message>
         <source>Enable sound notifications for every MUC message</source>
-        <translation type="obsolete">Habilitar notificações de som para cada mensagem MUC</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="687"/>
@@ -5727,7 +5716,7 @@ o contato estiver offline.</translation>
         <source>Unable to connect to peer for data transfer.
 
 Ensure that your Data Transfer settings are proper.  If you are behind
-a NAT router or firewall then you&apos;ll need to open the proper TCP port
+a NAT router or firewall then you'll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>Não foi possível conectar ao par para transferir dados.
 
@@ -5740,7 +5729,7 @@ ou especificar um Proxy para Transferência de Dados nas configurações da sua 
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
 
 This means that the Proxy service is either not functioning or it is
-unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
+unreachable.  If you are behind a firewall, then you'll need to ensure
 that outgoing TCP connections are allowed.</source>
         <translation>Falha ao conectar, ou ativar, o Proxy para Transferência de Dados.
 
@@ -6119,31 +6108,31 @@ Motivo: %3</translation>
     </message>
     <message>
         <source>Clear Chat Window</source>
-        <translation type="obsolete">Limpar janela de bate-papo</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Find</source>
-        <translation type="obsolete">Procurar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Find</source>
-        <translation type="obsolete">&amp;Procurar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Configure Room</source>
-        <translation type="obsolete">Configurar Sala</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Configure Room</source>
-        <translation type="obsolete">&amp;Configurar Sala</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set Text Format</source>
-        <translation type="obsolete">Definir Formato de Texto</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Icon</source>
-        <translation type="obsolete">Selecionar ícone</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="787"/>
@@ -6157,20 +6146,20 @@ Motivo: %3</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="obsolete">Colar e Enviar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="obsolete">Modelos</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copy MUC JID</source>
-        <translation type="obsolete">Copiar MUC JID</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="803"/>
         <source>Copy Groupchat JID</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar JID do bate-papo em grupo</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1067"/>
@@ -7713,7 +7702,7 @@ Você pode marcar ou desmarcar um contato para a remoção de histórico a parti
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -7726,7 +7715,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -7744,7 +7733,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -7762,7 +7751,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -8153,7 +8142,7 @@ p, li { white-space: pre-wrap; }
     <name>IcqDie</name>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="122"/>
-        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
+        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it's much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
         <translation>Eu posso dizer-lhe como um Linux, mas não fique com raiva de mim. Certamente este humano irá receber esta mensagem. Mas é muito melhor conversar com ele via Jabber. Você está arriscando, nunca se sabe quando o ICQ pode morrer, vovó já sobreviveu a isso. Sua JID: %1.
@@ -8164,7 +8153,7 @@ Atenciosamente, Debian Sid.</translation>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="126"/>
         <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
 
-If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
+If you don't know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
         <translation>Eu posso dizer-lhe como um Linux, mas não fique com raiva de mim. Este humano não usa mais o ICQ, por isso, se você ainda usa aquela rede, ele não receberá a sua mensagem e você terá que conversar com ele via Jabber. Sua JID: %1.
 
@@ -8261,7 +8250,7 @@ O plugin tem um número de configurações simples que podem ajudá-lo:
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/imageplugin/imageplugin.cpp" line="310"/>
         <source>This plugin is designed to send images to roster contacts.
-Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
         <translation>Este plugin foi projetado para enviar imagens para a sua lista de contatos.
 Seus contatos deverão suportar XEP-0071: XHTML-IM e suporte a data:URI scheme.
@@ -8839,7 +8828,7 @@ Ele quer jogar de %2.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="235"/>
-        <source>can&apos;t create folder %1 
+        <source>can't create folder %1 
 caching avatars will be not available</source>
         <translation>não foi possível criar a pasta %1
 avatares de cache não estará disponível</translation>
@@ -11159,7 +11148,7 @@ Tags: %1</translation>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -11570,7 +11559,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Show Send Public Key button on chat toolbar</source>
-        <translation type="obsolete">Exibir botão Enviar Chave Pública, na barra de ferramentas do bate-papo</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/jabberdiskplugin/options.ui" line="39"/>
@@ -11662,21 +11651,21 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>MUC</source>
-        <translation type="obsolete">MUC</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable Stop Spam for private messages in MUC</source>
-        <translation type="obsolete">Ativar o Parar o Spam, para mensagens privadas em MUC</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="93"/>
         <source>Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Bate-papo em grupo</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="99"/>
         <source>Enable Stop Spam for private messages in groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar Parar o Spam para as mensagens privadas no bate-papo em grupo</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="106"/>
@@ -11786,7 +11775,7 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="409"/>
-        <source>Disable stopspam, if don&apos;t match any rule above
+        <source>Disable stopspam, if don't match any rule above
 (does not work for muc private messages)</source>
         <translation>Desativar parar o spam, se não corresponder a qualquer regra acima
 (não funcionará em mensagens privadas do muc)</translation>
@@ -11830,10 +11819,6 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/options.ui" line="161"/>
         <source>Disable sound if chat window is active</source>
         <translation>Desativar sons se a janela de conversa estiver ativa</translation>
-    </message>
-    <message>
-        <source>Show Watch for JID button on chat toolbar</source>
-        <translation type="obsolete">Mostrar o botão Observar JID na  barra de ferramentas do bate-papo</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/options.ui" line="175"/>
@@ -12830,16 +12815,16 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_toolbars.cpp" line="236"/>
         <source>Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Bate-papo</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_toolbars.cpp" line="237"/>
         <source>Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Bate-papo em  grupo</translation>
     </message>
     <message>
         <source>Chat Toolbar</source>
-        <translation type="obsolete">Barra de Ferramentas do Bate-Papo</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12994,11 +12979,11 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="278"/>
         <source>Groupchats</source>
-        <translation type="unfinished">Bate-Papo em Grupo</translation>
+        <translation>Bate-papos em grupos</translation>
     </message>
     <message>
         <source>Conferences</source>
-        <translation type="obsolete">Conferências</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="308"/>
@@ -15363,7 +15348,7 @@ Motivo: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="452"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="494"/>
         <source>Clear Chat Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar Janela de Conversa</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="457"/>
@@ -15371,7 +15356,7 @@ Motivo: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="453"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="495"/>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Encontrar</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="457"/>
@@ -15379,7 +15364,7 @@ Motivo: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="453"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="495"/>
         <source>&amp;Find</source>
-        <translation type="unfinished"></translation>
+        <translation>$Encontrar</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="458"/>
@@ -15387,19 +15372,19 @@ Motivo: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="454"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="496"/>
         <source>Set Text Format</source>
-        <translation type="unfinished">Definir Formato de Texto</translation>
+        <translation>Definir Formato de Texto</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="459"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="455"/>
         <source>Add Contact To Roster</source>
-        <translation type="unfinished">Adicionar um Contata para a Lista</translation>
+        <translation>Adicionar contato à Lista</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="459"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="455"/>
         <source>Add Contact</source>
-        <translation type="unfinished">Adicionar Contato</translation>
+        <translation>Adicionar Contato</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="460"/>
@@ -15407,43 +15392,43 @@ Motivo: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="456"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="498"/>
         <source>Select Icon</source>
-        <translation type="unfinished">Selecionar ícone</translation>
+        <translation>Selecionar Ícone </translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="461"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="457"/>
         <source>Voice Call</source>
-        <translation type="unfinished"></translation>
+        <translation>Chamada de Voz</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="462"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="458"/>
         <source>Send File</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar Arquivo</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="463"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="459"/>
         <source>Toggle Encryption</source>
-        <translation type="unfinished">Habilitar/Desabilitar Criptografia</translation>
+        <translation>Habilitar/Desabilitar Criptografia</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="464"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="460"/>
         <source>User Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Informação do Usuário</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="465"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="461"/>
         <source>Message History</source>
-        <translation type="unfinished">Histórico de Mensagens</translation>
+        <translation>Histórico de Conversa</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="466"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="462"/>
         <source>Toggle Compact/Full Size</source>
-        <translation type="unfinished">Habilitar/Desabilitar Tamanho Compacto/Completo</translation>
+        <translation>Habilitar/Desabilitar Compacto/Tamanho Completo</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="467"/>
@@ -15451,7 +15436,7 @@ Motivo: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="463"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="499"/>
         <source>Paste and Send</source>
-        <translation type="unfinished">Colar e Enviar</translation>
+        <translation>Colar e Enviar</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="468"/>
@@ -15459,31 +15444,31 @@ Motivo: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="464"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="500"/>
         <source>Templates</source>
-        <translation type="unfinished">Modelos</translation>
+        <translation>Modelos</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="489"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="485"/>
         <source>Chat basic buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>Botões básicos de bate-papo</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="517"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="513"/>
         <source>Groupchat basic buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>Botões básicos de bate-papo em grupo</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="501"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="497"/>
         <source>Configure Room</source>
-        <translation type="unfinished">Configurar Sala</translation>
+        <translation>Configurar Sala</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="528"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="524"/>
         <source>Plugins</source>
-        <translation type="unfinished">Plugins</translation>
+        <translation>Plugins</translation>
     </message>
 </context>
 <context>
@@ -15505,67 +15490,67 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Clear Chat Window</source>
-        <translation type="obsolete">Limpar Janela de Bate-Papo</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Find</source>
-        <translation type="obsolete">Encontrar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Find</source>
-        <translation type="obsolete">&amp;Encontrar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set Text Format</source>
-        <translation type="obsolete">Definir Formato de Texto</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add Contact To Roster</source>
-        <translation type="obsolete">Adicionar um Contata para a Lista</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="obsolete">Adicionar Contato</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Icon</source>
-        <translation type="obsolete">Selecionar ícone</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="obsolete">Chamada de Voz</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send File</source>
-        <translation type="obsolete">Enviar Arquivo</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Toggle Encryption</source>
-        <translation type="obsolete">Habilitar/Desabilitar Criptografia</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User Info</source>
-        <translation type="obsolete">Informação do Usuário</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Message History</source>
-        <translation type="obsolete">Histórico de Mensagens</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Toggle Compact/Full Size</source>
-        <translation type="obsolete">Habilitar/Desabilitar Tamanho Compacto/Completo</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="obsolete">Colar e Enviar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="obsolete">Modelos</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Active contacts</source>
-        <translation type="obsolete">Contatos ativos</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="570"/>
@@ -15656,7 +15641,7 @@ Motivo: %1.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicli.h" line="39"/>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
-        <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
+        <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
         <translation>Definir status. STATUS deverá ser uma das opções: &apos;online&apos;, &apos;bate-papo&apos;, &apos;ausente&apos;, &apos;distante&apos;, &apos;ocupado&apos;, &apos;offline&apos;.</translation>
     </message>
     <message>
@@ -17790,34 +17775,22 @@ Descrição: </translation>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="292"/>
         <source>%n day(s) </source>
-        <translation>
-            <numerusform>%n dia(s) </numerusform>
-            <numerusform>%n dia(s) </numerusform>
-        </translation>
+        <translation><numerusform>%n dia(s) </numerusform><numerusform>%n dia(s) </numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="295"/>
         <source>%n hour(s) </source>
-        <translation>
-            <numerusform>%n hora(s) </numerusform>
-            <numerusform>%n hora(s) </numerusform>
-        </translation>
+        <translation><numerusform>%n hora(s) </numerusform><numerusform>%n hora(s) </numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="298"/>
         <source>%n minute(s) </source>
-        <translation>
-            <numerusform>%n minuto(s) </numerusform>
-            <numerusform>%n minuto(s) </numerusform>
-        </translation>
+        <translation><numerusform>%n minuto(s) </numerusform><numerusform>%n minuto(s) </numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="301"/>
         <source>%n second(s) </source>
-        <translation>
-            <numerusform>%n segundo(s) </numerusform>
-            <numerusform>%n segundo(s) </numerusform>
-        </translation>
+        <translation><numerusform>%n segundo(s) </numerusform><numerusform>%n segundo(s) </numerusform></translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickdownloader.cpp" line="43"/>
@@ -17958,22 +17931,22 @@ O Plugin OTR não funcionará.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="944"/>
         <source>Unreadable encrypted message was received.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensagem criptografada ilegível foi recebida.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="947"/>
         <source>Received an encrypted message but it cannot be read because no private connection is established yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensagem criptografada recebida, mas ela não pode ser lida, pois nenhuma conversa privada foi estabelecida.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="952"/>
         <source>Received message is unreadable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensagem recebida é ilegivel</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="955"/>
         <source>Received message contains malformed data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensagem recebida contém dados malformados.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="1072"/>
@@ -18568,12 +18541,9 @@ Motivo: %1</translation>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="459"/>
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation>
-            <numerusform>comemora o aniversário no dia %n
-</numerusform>
-            <numerusform>comemora o aniversário nos dias %n
-</numerusform>
-        </translation>
+        <translation><numerusform>comemora o aniversário no dia %n
+</numerusform><numerusform>comemora o aniversário nos dias %n
+</numerusform></translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="462"/>
@@ -19073,10 +19043,7 @@ Motivo: %1</translation>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="497"/>
         <source>Added %n users to your roster.</source>
-        <translation>
-            <numerusform>%n usuário adicionado à sua lista.</numerusform>
-            <numerusform>%n usuários adicionados à sua lista.</numerusform>
-        </translation>
+        <translation><numerusform>%n usuário adicionado à sua lista.</numerusform><numerusform>%n usuários adicionados à sua lista.</numerusform></translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="502"/>
@@ -20174,7 +20141,7 @@ When a user has passed, the test will send a re-authorization request. It should
 The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This plugin is designed to block spam messages and other unwanted information from Psi+ users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
@@ -20196,26 +20163,7 @@ When a user has passed, the test will send a re-authorization request. It should
 The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
-        <translation type="obsolete">Este plugin é projetado para bloquear mensagens de spam e outras informações indesejáveis ​​dos usuários Psi+. A funcionalidade do plugin é baseada no princípio de &quot; pergunta - resposta&quot;.
-Com as configurações plugin você pode:
-* Definir uma pergunta de segurança e resposta
-* Definir um conjunto de regras no para um contato
-* Definir as mensagens enviadas no caso de resposta correta
-* Ativar notificação através de pop-ups
-* Permitir salvamento de mensagens bloqueadas através do histórico do contato
-* Definir o numero de parcelas por assunto
-* Definir o intervalo de tempo para reiniciar o numero de questões que serão enviadas
-* Ativer bloqueio de mensagens privadas em conferências
-* Escolher para quais cargos e demais da conferencia, as mensagens de bloqueio serão desativadas
-* Ativar bloqueio nas mensagens privadas para os participantes que não se enquadram na lista de exceções para os cargos e demais que incluem no bloqueio.
-
-
-As regras são verificadas de cima para baixo. Se a regra ativada é - parar o spam é acionado, caso contrário - parar o spam não é acionado. No caso onde nenhuma das regras especificadas de parar spam na lista de mensagens, você poderá especificar se o plugin será ativado ou não. Para mensagens privadas da mesma conferência, funcionara perfeitamente.
-Pergunta e resposta, bem como uma lista de regras é comum para mensagens normais e para mensagens privadas em conferências.
-Quando um usuário passou no teste, será enviado um pedido de re-autorização. Deve-se notar nas mensagens que serão enviadas de volta na questão de segurança que foram corretamente respondidas.
-O plugin mantem um registro de mensagens bloqueadas, que você poder ver através das configurações do plugin. O botão &quot;Resetar&quot; remove o registro e reinicia o contator de mensagens bloqueadas.
-
-AVISO!!!  Antes de registrar um novo transporte, recomenda-se adicionar suas jids na lista de excepções. Isto é devido ao facto de, após o registo de transporte, pedidos de autorização para todos os contatos serão enviados e se o transporte não foi adicionado como uma exceção, o plugin bloqueará todos os pedidos.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -20713,7 +20661,7 @@ Esperamos que você goste de usá-lo assim como nós gostamos de tê-lo feito!
         <source>You can type these special commands in chat and groupchat dialogs:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
+&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; '/me' is replaced by your nick&lt;/li&gt;
 &lt;/ul&gt;
 And these work only in groupchat dialog:
 &lt;ul&gt;
@@ -22184,12 +22132,12 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>Disable invitations from conference</source>
-        <translation type="obsolete">Desativar convites para conferências</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="228"/>
         <source>Disable invitations from groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Desativar convites nesta sala</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="235"/>
@@ -23175,7 +23123,7 @@ Reautorizando...</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodnetman.cpp" line="276"/>
-        <source>Can&apos;t get files!
+        <source>Can't get files!
 Try remove cookies.</source>
         <translation>Não foi possível obter arquivos!
 Tente remover os cookies.  </translation>
@@ -23284,7 +23232,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
