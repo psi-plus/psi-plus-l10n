@@ -16775,40 +16775,40 @@ Proceed?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="173"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="174"/>
         <location filename="../../psi-plus-snapshots/src/rc.cpp" line="98"/>
         <source>Offline</source>
         <translation>Изключен</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="174"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="175"/>
         <location filename="../../psi-plus-snapshots/src/rc.cpp" line="78"/>
         <source>Away</source>
         <translation>Отсъстващ</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="175"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="176"/>
         <source>Not Available</source>
         <translation>Недостъпен</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="176"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="177"/>
         <source>Do not Disturb</source>
         <translation>Зает</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="177"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="178"/>
         <source>Free for Chat</source>
         <translation>Свободен</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="178"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="179"/>
         <location filename="../../psi-plus-snapshots/src/rc.cpp" line="93"/>
         <source>Invisible</source>
         <translation>Невидим</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="181"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="182"/>
         <location filename="../../psi-plus-snapshots/src/rc.cpp" line="74"/>
         <source>Online</source>
         <translation>На линия</translation>

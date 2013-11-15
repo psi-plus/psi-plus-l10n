@@ -17080,40 +17080,40 @@ Proceder?</translation>
         <translation>Dados de configuração para uma versão anterior do Psi foi encontrado, mas não foi possível convertê-lo para funcionar com a versão atual. Verifique se você tem permissão apropriada e que outra cópia do Psi não esteja sendo executada e tente novamente.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="173"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="174"/>
         <location filename="../../psi-plus-snapshots/src/rc.cpp" line="98"/>
         <source>Offline</source>
         <translation>Offline</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="174"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="175"/>
         <location filename="../../psi-plus-snapshots/src/rc.cpp" line="78"/>
         <source>Away</source>
         <translation>Ausente</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="175"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="176"/>
         <source>Not Available</source>
         <translation>Não Disponível</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="176"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="177"/>
         <source>Do not Disturb</source>
         <translation>Ocupado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="177"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="178"/>
         <source>Free for Chat</source>
         <translation>Livre para Bate-Papo</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="178"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="179"/>
         <location filename="../../psi-plus-snapshots/src/rc.cpp" line="93"/>
         <source>Invisible</source>
         <translation>Invisível</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="181"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="182"/>
         <location filename="../../psi-plus-snapshots/src/rc.cpp" line="74"/>
         <source>Online</source>
         <translation>Online</translation>
@@ -20141,7 +20141,24 @@ When a user has passed, the test will send a re-authorization request. It should
 The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
-        <translation type="unfinished"/>
+        <translation>Este plugin foi projetado para bloquear mensagens de spam e outras informações não desejadas para os usuários Psi+. A funcionalidade deste plugin é baseada no princípio de &quot;pergunta - resposta&quot;.
+Com as configurações deste plugin você pode:
+* Definir uma pergunta e resposta de segurança
+* Definir o conjunto de regras que definem se o gatilho plug-in para um contato
+* Definir as mensagens de texto enviadas no caso da resposta correta
+* Ativar a notificação em pop-ups
+* Permitir a poupança de mensagens bloqueadas no histórico do contato
+* Definir o número de parcelas
+* Defina o intervalo de tempo após o qual a repor o número de quantas questões serão enviadas
+* Habilitar o bloqueio de mensagens privadas em bate-papos em grupo
+* Escolher quais cargos e regras dos participantes do bate-papo grupo bloquear mensagem quando for desativado.
+* Habilitar bloqueio em mensagens privadas para participantes onde não se enquadram na lista de exceções para os papéis e as fileiras que incluem bloqueio.
+
+As regras são checadas no botão do topo. Se a regra estiver habilitada - parar o spam é engatilhado, contudo - parar o spam não é engatilhado. No caso em que nenhuma das regras acionadas lista do parar spam para as mensagens, você pode especificar se o plugin irá ativar ou não. Para as mensagens privadas do mesmo bate-papo em grupo, ele vai trabalhar sempre.
+Pergunta e resposta, bem como uma lista de regras é comum para o cidadão comum as mensagens e mensagens particulares em bate-papos em grupo. Quando um usuário já passou, o teste vai enviar uma nova solicitação de autorização. Ele deve ser observado nas mensagens que são enviadas de volta à pergunta de segurança foi corretamente respondida.
+O plug-in mantém um log de mensagens bloqueadas, que você pode ver através das configurações do plugin. O botão &quot;Reset&quot; exclui o registro e zera o contador de mensagens bloqueadas.
+
+AVISO!!! Antes de registrar um novo transporte, recomenda-se adicionar o seu jid ao transporte as exceções. Isto é devido ao fato de que após o registo, pedidos de autorização para todos os contatos serão enviados e se o transporte não foi adicionada como uma exceção, o plugin irá bloquear todos os pedidos.</translation>
     </message>
     <message>
         <source>This plugin is designed to block spam messages and other unwanted information from Psi+ users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.

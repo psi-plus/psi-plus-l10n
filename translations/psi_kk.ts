@@ -16741,40 +16741,40 @@ Proceed?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="173"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="174"/>
         <location filename="../../psi-plus-snapshots/src/rc.cpp" line="98"/>
         <source>Offline</source>
         <translation>Желіде емес</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="174"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="175"/>
         <location filename="../../psi-plus-snapshots/src/rc.cpp" line="78"/>
         <source>Away</source>
         <translation>Кетіп қалған</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="175"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="176"/>
         <source>Not Available</source>
         <translation>Қол жетерлік емес</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="176"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="177"/>
         <source>Do not Disturb</source>
         <translation>Мазамды алмаңыз</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="177"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="178"/>
         <source>Free for Chat</source>
         <translation>Чатқа дайын</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="178"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="179"/>
         <location filename="../../psi-plus-snapshots/src/rc.cpp" line="93"/>
         <source>Invisible</source>
         <translation>Жасырын</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="181"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="182"/>
         <location filename="../../psi-plus-snapshots/src/rc.cpp" line="74"/>
         <source>Online</source>
         <translation>Желіде</translation>

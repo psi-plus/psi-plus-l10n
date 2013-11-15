@@ -16887,40 +16887,40 @@ Proceed?</source>
         <translation>Se ha encontrado una configuración previa del Psi pero no es posible convertirla para que funcione con la versión actual. Asegúrate de que tienes los permisos apropiados y no hay otra copia de Psi en ejecución e intenta de nuevo.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="173"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="174"/>
         <location filename="../../psi-plus-snapshots/src/rc.cpp" line="98"/>
         <source>Offline</source>
         <translation>Desconectado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="174"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="175"/>
         <location filename="../../psi-plus-snapshots/src/rc.cpp" line="78"/>
         <source>Away</source>
         <translation>Ausente</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="175"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="176"/>
         <source>Not Available</source>
         <translation>No disponible</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="176"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="177"/>
         <source>Do not Disturb</source>
         <translation>No molestar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="177"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="178"/>
         <source>Free for Chat</source>
         <translation>Disponible para conversar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="178"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="179"/>
         <location filename="../../psi-plus-snapshots/src/rc.cpp" line="93"/>
         <source>Invisible</source>
         <translation>Invisible</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/common.cpp" line="181"/>
+        <location filename="../../psi-plus-snapshots/src/common.cpp" line="182"/>
         <location filename="../../psi-plus-snapshots/src/rc.cpp" line="74"/>
         <source>Online</source>
         <translation>Conectado</translation>
