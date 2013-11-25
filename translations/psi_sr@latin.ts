@@ -65,7 +65,7 @@
         <source>psi/psiplus_logo</source>
         <translation>psi/psiplus_logo</translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="../../psi-plus-snapshots/src/about.ui" line="106"/>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
@@ -3027,10 +3027,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Conference History</source>
-        <translation type="obsolete">Istorija konferencija</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="341"/>
         <source>Author: </source>
         <translation>Autor:</translation>
@@ -3039,16 +3035,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="342"/>
         <source>Email: </source>
         <translation>E-pošta:</translation>
-    </message>
-    <message>
-        <source>This plugin is designed to save conference logs in which the Psi+ user sits.
-Conferences logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with conference.
-
-Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="obsolete">Ovaj dodatak je dizajniran da sačuva logove konferencije u kojoj se nalazi Psi+ korisnik.
-Konferencijski logovi se mogu videti preko podešavanja dodatka ili klikom na dugme na traci alata u aktivnom prozoru/kartici sa konferencije.
-
-Napomena: Da bi radila ispravno, opcija options.ui.chat.central-toolbar mora biti podešena na true.</translation>
     </message>
 </context>
 <context>
@@ -4918,10 +4904,6 @@ Ako želite da prihvtite ovaj zahtev, molimo pritisnite Confirm dugme. U suprotn
         <translation>Razgovor</translation>
     </message>
     <message>
-        <source>Conference</source>
-        <translation type="obsolete">Konferencija</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="278"/>
         <source>Tabs</source>
         <translation>Kartice</translation>
@@ -4954,10 +4936,6 @@ Ako želite da prihvtite ovaj zahtev, molimo pritisnite Confirm dugme. U suprotn
         <translation>Razno</translation>
     </message>
     <message>
-        <source>Enable central toolbar</source>
-        <translation type="obsolete">Omogući glavnu traku alatki</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="290"/>
         <source>Ask for confirmation before clearing chat window</source>
         <translation>Pitaj za potvrdu pre čišćenja prozora za razgovor</translation>
@@ -4976,10 +4954,6 @@ Ako želite da prihvtite ovaj zahtev, molimo pritisnite Confirm dugme. U suprotn
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="296"/>
         <source>Show Avatar</source>
         <translation>Pokaži avatar</translation>
-    </message>
-    <message>
-        <source>Disable &quot;Paste and Send&quot; button</source>
-        <translation type="obsolete">Onemogući &quot;nalepi i šalji&quot; dugme</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="297"/>
@@ -5058,18 +5032,6 @@ Ako želite da prihvtite ovaj zahtev, molimo pritisnite Confirm dugme. U suprotn
         <translation>Pokaži uloge i promene</translation>
     </message>
     <message>
-        <source>Enable autojoin for bookmarked conferences</source>
-        <translation type="obsolete">Omogući automatski pristup za označene konferencije</translation>
-    </message>
-    <message>
-        <source>Hide conference on auto-join</source>
-        <translation type="obsolete">Sakrij konferenciju na auto-pristupu</translation>
-    </message>
-    <message>
-        <source>Enable HTML rendering in MUC chat window</source>
-        <translation type="obsolete">Omogući HTML renderovanje u MUC prozoru za razgovor</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="363"/>
         <source>Automatically accept the default room configuration</source>
         <translation>Automatski prihvati podrazumevana podešavanja za sobu</translation>
@@ -5090,20 +5052,6 @@ Ako želite da prihvtite ovaj zahtev, molimo pritisnite Confirm dugme. U suprotn
 This option only has effect if accept-defaults is false.</source>
         <translation>Automatski otvara konfiguracioni dijalog kada je nova soba kreirana
 Ova opcija jedino ima efekta ako je podrazumevani pristup na false.</translation>
-    </message>
-    <message>
-        <source>Disable autojoin to folowing conferences:
-(specify JIDs)</source>
-        <translation type="obsolete">:
-(specify JIDs)</translation>
-    </message>
-    <message>
-        <source>MUC leave status message:</source>
-        <translation type="obsolete">MUX ostavlja statusnu poruku:</translation>
-    </message>
-    <message>
-        <source>Place MUC roster at left</source>
-        <translation type="obsolete">Postavi MUC spisak levo</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="277"/>
@@ -5350,10 +5298,6 @@ Ova opcija jedino ima efekta ako je podrazumevani pristup na false.</translation
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>MUC roster coloring:</source>
-        <translation type="obsolete">Boja MUC spiska:</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="561"/>
         <source>ToolTip text color:</source>
         <translation>Boja ToolTip teksta:</translation>
@@ -5457,10 +5401,6 @@ Ova opcija jedino ima efekta ako je podrazumevani pristup na false.</translation
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="685"/>
         <source>Enable last activity server</source>
         <translation>Omogući poslednji aktivni server</translation>
-    </message>
-    <message>
-        <source>Enable sound notifications for every MUC message</source>
-        <translation type="obsolete">Omogući zvučno obaveštenje za svaku MUC poruku</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="687"/>
@@ -6087,34 +6027,6 @@ Razlog: %3</translation>
         <translation>Nadji traku alata</translation>
     </message>
     <message>
-        <source>Clear Chat Window</source>
-        <translation type="obsolete">Očisti prozor razgovora</translation>
-    </message>
-    <message>
-        <source>Find</source>
-        <translation type="obsolete">Nađi</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="obsolete">&amp;Nađi</translation>
-    </message>
-    <message>
-        <source>Configure Room</source>
-        <translation type="obsolete">Konfiguriši sobu</translation>
-    </message>
-    <message>
-        <source>&amp;Configure Room</source>
-        <translation type="obsolete">&amp;Configuriši sobu</translation>
-    </message>
-    <message>
-        <source>Set Text Format</source>
-        <translation type="obsolete">Podesi format teksta</translation>
-    </message>
-    <message>
-        <source>Select Icon</source>
-        <translation type="obsolete">Odaberi ikonu</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="787"/>
         <source>Change Nickname...</source>
         <translation>Promeni korisničko ime...</translation>
@@ -6123,18 +6035,6 @@ Razlog: %3</translation>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="791"/>
         <source>Enter Command...</source>
         <translation>Unesi komandu...</translation>
-    </message>
-    <message>
-        <source>Paste and Send</source>
-        <translation type="obsolete">Nalepi i pošalji</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="obsolete">Šabloni</translation>
-    </message>
-    <message>
-        <source>Copy MUC JID</source>
-        <translation type="obsolete">Kopiraj MUC JID</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="803"/>
@@ -9319,153 +9219,155 @@ Razlog: %1</translation>
 <context>
     <name>MainWin</name>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="396"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="391"/>
+        <location filename="../tmp/mainwin.cpp" line="401"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="396"/>
         <source>View</source>
         <translation>Pogled</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="459"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="454"/>
+        <location filename="../tmp/mainwin.cpp" line="464"/>
+        <location filename="../tmp/mainwin.cpp" line="472"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="459"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="467"/>
         <source>Status</source>
         <translation>Stanje</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="464"/>
-        <location filename="../tmp/mainwin.cpp" line="506"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="459"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="501"/>
+        <location filename="../tmp/mainwin.cpp" line="479"/>
+        <location filename="../tmp/mainwin.cpp" line="524"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="474"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="519"/>
         <source>General</source>
         <translation>Opšte</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="498"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="493"/>
+        <location filename="../tmp/mainwin.cpp" line="516"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="511"/>
         <source>Menu</source>
         <translation>Meni</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="529"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="524"/>
+        <location filename="../tmp/mainwin.cpp" line="551"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="546"/>
         <source>Tools</source>
         <translation>Alati</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="533"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="528"/>
+        <location filename="../tmp/mainwin.cpp" line="555"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="550"/>
         <source>Help</source>
         <translation>Pomoć</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="547"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="280"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="539"/>
+        <location filename="../tmp/mainwin.cpp" line="569"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="285"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="561"/>
         <source>Diagnostics</source>
         <translation>Dizagnoze</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="974"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="963"/>
+        <location filename="../tmp/mainwin.cpp" line="1005"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="994"/>
         <source>&amp;Help</source>
         <translation>&amp;Pomoć</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1062"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1048"/>
+        <location filename="../tmp/mainwin.cpp" line="1093"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1079"/>
         <source>ReadMe</source>
         <translation>Pročitaj me</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1136"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1112"/>
+        <location filename="../tmp/mainwin.cpp" line="1167"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1143"/>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1148"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1124"/>
+        <location filename="../tmp/mainwin.cpp" line="1179"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1155"/>
         <source>About GStreamer</source>
         <translation>O GStreamer</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1181"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1157"/>
+        <location filename="../tmp/mainwin.cpp" line="1212"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1188"/>
         <source>Security Plugins Diagnostic Text</source>
         <translation>Dijagnostički tekst za bezbednost priključaka</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1190"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1166"/>
+        <location filename="../tmp/mainwin.cpp" line="1221"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1197"/>
         <source>Key Storage Diagnostic Text</source>
         <translation>Dijagnostički tekst za ključ skladišta</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1310"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1286"/>
+        <location filename="../tmp/mainwin.cpp" line="1341"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1317"/>
         <source>Receive next event</source>
         <translation>Primi sledeći odgađaj</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1315"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1291"/>
+        <location filename="../tmp/mainwin.cpp" line="1346"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1322"/>
         <source>Un&amp;hide</source>
         <translation>&amp;Prikaži</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1318"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1294"/>
+        <location filename="../tmp/mainwin.cpp" line="1349"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1325"/>
         <source>&amp;Hide</source>
         <translation>&amp;Sakrij</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1363"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1339"/>
+        <location filename="../tmp/mainwin.cpp" line="1394"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1370"/>
         <source>Status Message</source>
         <translation>Poruka o stanju</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1392"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1368"/>
+        <location filename="../tmp/mainwin.cpp" line="1423"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1399"/>
         <source>Active accounts:</source>
         <translation>Aktivni nalozi</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1393"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1369"/>
+        <location filename="../tmp/mainwin.cpp" line="1424"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1400"/>
         <source>
 Active accounts:</source>
         <translation>
 Active accounts:</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1397"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1373"/>
+        <location filename="../tmp/mainwin.cpp" line="1428"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1404"/>
         <source>Incoming event(s) from:</source>
         <translation>Dolazni dogadjaj(i) od:</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1398"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1374"/>
+        <location filename="../tmp/mainwin.cpp" line="1429"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1405"/>
         <source>
 Incoming event(s) from:</source>
         <translation>
 Dolazni dogadjaj(i) od:</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1424"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1400"/>
+        <location filename="../tmp/mainwin.cpp" line="1455"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1431"/>
         <source>Connecting</source>
         <translation>Povezivanje</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1749"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1725"/>
+        <location filename="../tmp/mainwin.cpp" line="1787"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1763"/>
         <source>1 event received</source>
         <translation>1 doađaj je primljen</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1752"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1728"/>
+        <location filename="../tmp/mainwin.cpp" line="1790"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1766"/>
         <source>%1 events received</source>
         <translation>Broj primljenih događaja: %1</translation>
     </message>
@@ -9473,7 +9375,7 @@ Dolazni dogadjaj(i) od:</translation>
 <context>
     <name>MainWin::Private</name>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="285"/>
+        <location filename="../tmp/mainwin.cpp" line="290"/>
         <source>Diagnostics</source>
         <translation>Dijagnostika</translation>
     </message>
@@ -11605,14 +11507,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Konfiguracija:</translation>
     </message>
     <message>
-        <source>MUC</source>
-        <translation type="obsolete">MUC</translation>
-    </message>
-    <message>
-        <source>Enable Stop Spam for private messages in MUC</source>
-        <translation type="obsolete">Omogući zaustavljanje spama za privatne poruke u MUC</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="93"/>
         <source>Groupchat</source>
         <translation type="unfinished">Grupni razgovor</translation>
@@ -12776,10 +12670,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <source>Groupchat</source>
         <translation type="unfinished">Grupni razgovor</translation>
     </message>
-    <message>
-        <source>Chat Toolbar</source>
-        <translation type="obsolete">Traka alata za razgovor</translation>
-    </message>
 </context>
 <context>
     <name>OptionsTabTree</name>
@@ -12934,10 +12824,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="278"/>
         <source>Groupchats</source>
         <translation type="unfinished">Grupni razgovor</translation>
-    </message>
-    <message>
-        <source>Conferences</source>
-        <translation type="obsolete">Konferencije</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="308"/>
@@ -15311,7 +15197,7 @@ Reason: %1.</source>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="453"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="495"/>
         <source>&amp;Find</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Nađi</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="458"/>
@@ -15319,13 +15205,13 @@ Reason: %1.</source>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="454"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="496"/>
         <source>Set Text Format</source>
-        <translation type="unfinished">Podesi format teksta</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="459"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="455"/>
         <source>Add Contact To Roster</source>
-        <translation type="unfinished">Dodaj kontakt u spisak</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="459"/>
@@ -15351,13 +15237,13 @@ Reason: %1.</source>
         <location filename="../tmp/psiactionlist.cpp" line="462"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="458"/>
         <source>Send File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pošalji datoteku</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="463"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="459"/>
         <source>Toggle Encryption</source>
-        <translation type="unfinished">Prekopčaj šifrovanje</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="464"/>
@@ -15369,13 +15255,13 @@ Reason: %1.</source>
         <location filename="../tmp/psiactionlist.cpp" line="465"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="461"/>
         <source>Message History</source>
-        <translation type="unfinished">Istorija poruka</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="466"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="462"/>
         <source>Toggle Compact/Full Size</source>
-        <translation type="unfinished">Smenjuj smanjenu/punu veličinu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="467"/>
@@ -15383,7 +15269,7 @@ Reason: %1.</source>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="463"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="499"/>
         <source>Paste and Send</source>
-        <translation type="unfinished">Nalepi i pošalji</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="468"/>
@@ -15409,7 +15295,7 @@ Reason: %1.</source>
         <location filename="../tmp/psiactionlist.cpp" line="501"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="497"/>
         <source>Configure Room</source>
-        <translation type="unfinished">Konfiguriši sobu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="528"/>
@@ -15434,70 +15320,6 @@ Reason: %1.</source>
         <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="498"/>
         <source>Find toolbar</source>
         <translation>Pronadji traku alata</translation>
-    </message>
-    <message>
-        <source>Clear Chat Window</source>
-        <translation type="obsolete">Očisti prozor za razgovor</translation>
-    </message>
-    <message>
-        <source>Find</source>
-        <translation type="obsolete">Pronadji</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="obsolete">&amp;Pronadji</translation>
-    </message>
-    <message>
-        <source>Set Text Format</source>
-        <translation type="obsolete">Podesi format teksta</translation>
-    </message>
-    <message>
-        <source>Add Contact To Roster</source>
-        <translation type="obsolete">Dodaj kontakt u spisak</translation>
-    </message>
-    <message>
-        <source>Add Contact</source>
-        <translation type="obsolete">Dodaj kontakt</translation>
-    </message>
-    <message>
-        <source>Select Icon</source>
-        <translation type="obsolete">Izaberi ikonu</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="obsolete">Glasovni poziv</translation>
-    </message>
-    <message>
-        <source>Send File</source>
-        <translation type="obsolete">Pošalji fajl</translation>
-    </message>
-    <message>
-        <source>Toggle Encryption</source>
-        <translation type="obsolete">Prekopčaj šifrovanje</translation>
-    </message>
-    <message>
-        <source>User Info</source>
-        <translation type="obsolete">Korisnički info</translation>
-    </message>
-    <message>
-        <source>Message History</source>
-        <translation type="obsolete">Istorija poruka</translation>
-    </message>
-    <message>
-        <source>Toggle Compact/Full Size</source>
-        <translation type="obsolete">Smenjuj smanjenu/punu veličinu</translation>
-    </message>
-    <message>
-        <source>Paste and Send</source>
-        <translation type="obsolete">Nalepi i pošalji</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="obsolete">Šabloni</translation>
-    </message>
-    <message>
-        <source>Active contacts</source>
-        <translation type="obsolete">Aktivni kontakti</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="570"/>

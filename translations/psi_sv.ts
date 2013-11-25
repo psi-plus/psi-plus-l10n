@@ -65,7 +65,7 @@
         <source>psi/psiplus_logo</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="../../psi-plus-snapshots/src/about.ui" line="106"/>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
@@ -6004,30 +6004,6 @@ Orsak: %3</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear Chat Window</source>
-        <translation type="obsolete">Rensa chattfönster</translation>
-    </message>
-    <message>
-        <source>Find</source>
-        <translation type="obsolete">Hitta</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="obsolete">&amp;Hitta</translation>
-    </message>
-    <message>
-        <source>Configure Room</source>
-        <translation type="obsolete">Konfigurera rum</translation>
-    </message>
-    <message>
-        <source>&amp;Configure Room</source>
-        <translation type="obsolete">&amp;Konfigurera rum</translation>
-    </message>
-    <message>
-        <source>Select Icon</source>
-        <translation type="obsolete">Välj ikon</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="787"/>
         <source>Change Nickname...</source>
         <translation>Ändra smeknamn...</translation>
@@ -9185,151 +9161,153 @@ Orsak: %1</translation>
 <context>
     <name>MainWin</name>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="396"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="391"/>
+        <location filename="../tmp/mainwin.cpp" line="401"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="396"/>
         <source>View</source>
         <translation>Vy</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="459"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="454"/>
+        <location filename="../tmp/mainwin.cpp" line="464"/>
+        <location filename="../tmp/mainwin.cpp" line="472"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="459"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="467"/>
         <source>Status</source>
         <translation>Status</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="464"/>
-        <location filename="../tmp/mainwin.cpp" line="506"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="459"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="501"/>
+        <location filename="../tmp/mainwin.cpp" line="479"/>
+        <location filename="../tmp/mainwin.cpp" line="524"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="474"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="519"/>
         <source>General</source>
         <translation>Allmänt</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="498"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="493"/>
+        <location filename="../tmp/mainwin.cpp" line="516"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="511"/>
         <source>Menu</source>
         <translation>Meny</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="529"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="524"/>
+        <location filename="../tmp/mainwin.cpp" line="551"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="546"/>
         <source>Tools</source>
         <translation>Verktyg</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="533"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="528"/>
+        <location filename="../tmp/mainwin.cpp" line="555"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="550"/>
         <source>Help</source>
         <translation>Hjälp</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="547"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="280"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="539"/>
+        <location filename="../tmp/mainwin.cpp" line="569"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="285"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="561"/>
         <source>Diagnostics</source>
         <translation>Diagnostik</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="974"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="963"/>
+        <location filename="../tmp/mainwin.cpp" line="1005"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="994"/>
         <source>&amp;Help</source>
         <translation>&amp;Hjälp</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1062"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1048"/>
+        <location filename="../tmp/mainwin.cpp" line="1093"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1079"/>
         <source>ReadMe</source>
         <translation>LäsMig</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1136"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1112"/>
+        <location filename="../tmp/mainwin.cpp" line="1167"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1143"/>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
         <translation>Denna applikation använder GStreamer %1, en omfattande multimedia plattform med öppen källkod och stöd för flera plattformar. För mer information, se &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1148"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1124"/>
+        <location filename="../tmp/mainwin.cpp" line="1179"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1155"/>
         <source>About GStreamer</source>
         <translation>Om GStreamer</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1181"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1157"/>
+        <location filename="../tmp/mainwin.cpp" line="1212"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1188"/>
         <source>Security Plugins Diagnostic Text</source>
         <translation>Diagnostiktext för säkerhetsinsticksprogram</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1190"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1166"/>
+        <location filename="../tmp/mainwin.cpp" line="1221"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1197"/>
         <source>Key Storage Diagnostic Text</source>
         <translation>Nyckellagringsdiagnostiktext</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1310"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1286"/>
+        <location filename="../tmp/mainwin.cpp" line="1341"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1317"/>
         <source>Receive next event</source>
         <translation>Ta emot nästa händelse</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1315"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1291"/>
+        <location filename="../tmp/mainwin.cpp" line="1346"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1322"/>
         <source>Un&amp;hide</source>
         <translation>&amp;Ta fram</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1318"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1294"/>
+        <location filename="../tmp/mainwin.cpp" line="1349"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1325"/>
         <source>&amp;Hide</source>
         <translation>&amp;Göm</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1363"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1339"/>
+        <location filename="../tmp/mainwin.cpp" line="1394"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1370"/>
         <source>Status Message</source>
         <translation type="unfinished">Statusmeddelande</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1392"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1368"/>
+        <location filename="../tmp/mainwin.cpp" line="1423"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1399"/>
         <source>Active accounts:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../tmp/mainwin.cpp" line="1393"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1369"/>
-        <source>
-Active accounts:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../tmp/mainwin.cpp" line="1397"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1373"/>
-        <source>Incoming event(s) from:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../tmp/mainwin.cpp" line="1398"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1374"/>
-        <source>
-Incoming event(s) from:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/mainwin.cpp" line="1424"/>
         <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1400"/>
+        <source>
+Active accounts:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../tmp/mainwin.cpp" line="1428"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1404"/>
+        <source>Incoming event(s) from:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../tmp/mainwin.cpp" line="1429"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1405"/>
+        <source>
+Incoming event(s) from:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../tmp/mainwin.cpp" line="1455"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1431"/>
         <source>Connecting</source>
         <translation>Ansluter</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1749"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1725"/>
+        <location filename="../tmp/mainwin.cpp" line="1787"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1763"/>
         <source>1 event received</source>
         <translation>1 händelse mottagen</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1752"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1728"/>
+        <location filename="../tmp/mainwin.cpp" line="1790"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1766"/>
         <source>%1 events received</source>
         <translation>%1 händelser mottagna</translation>
     </message>
@@ -9337,7 +9315,7 @@ Incoming event(s) from:</source>
 <context>
     <name>MainWin::Private</name>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="285"/>
+        <location filename="../tmp/mainwin.cpp" line="290"/>
         <source>Diagnostics</source>
         <translation type="unfinished">Diagnostik</translation>
     </message>
@@ -12627,10 +12605,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <source>Groupchat</source>
         <translation type="unfinished">Gruppchatt</translation>
     </message>
-    <message>
-        <source>Chat Toolbar</source>
-        <translation type="obsolete">Verktygsrad för chatt</translation>
-    </message>
 </context>
 <context>
     <name>OptionsTabTree</name>
@@ -15146,7 +15120,7 @@ Orsak: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="452"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="494"/>
         <source>Clear Chat Window</source>
-        <translation type="unfinished">Rensa chattfönster</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="457"/>
@@ -15190,7 +15164,7 @@ Orsak: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="456"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="498"/>
         <source>Select Icon</source>
-        <translation type="unfinished">Välj ikon</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="461"/>
@@ -15208,7 +15182,7 @@ Orsak: %1.</translation>
         <location filename="../tmp/psiactionlist.cpp" line="463"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="459"/>
         <source>Toggle Encryption</source>
-        <translation type="unfinished">Slå på/av kryptering</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="464"/>
@@ -15220,13 +15194,13 @@ Orsak: %1.</translation>
         <location filename="../tmp/psiactionlist.cpp" line="465"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="461"/>
         <source>Message History</source>
-        <translation type="unfinished">Meddelandehistorik</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="466"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="462"/>
         <source>Toggle Compact/Full Size</source>
-        <translation type="unfinished">Växla kompakt/full storlek</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="467"/>
@@ -15260,7 +15234,7 @@ Orsak: %1.</translation>
         <location filename="../tmp/psiactionlist.cpp" line="501"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="497"/>
         <source>Configure Room</source>
-        <translation type="unfinished">Konfigurera rum</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="528"/>
@@ -15285,50 +15259,6 @@ Orsak: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="498"/>
         <source>Find toolbar</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Chat Window</source>
-        <translation type="obsolete">Rensa chattfönster</translation>
-    </message>
-    <message>
-        <source>Find</source>
-        <translation type="obsolete">Hitta</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="obsolete">&amp;Hitta</translation>
-    </message>
-    <message>
-        <source>Add Contact</source>
-        <translation type="obsolete">Lägg till kontakt</translation>
-    </message>
-    <message>
-        <source>Select Icon</source>
-        <translation type="obsolete">Välj ikon</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="obsolete">Röstsamtal</translation>
-    </message>
-    <message>
-        <source>Send File</source>
-        <translation type="obsolete">Skicka fil</translation>
-    </message>
-    <message>
-        <source>Toggle Encryption</source>
-        <translation type="obsolete">Slå på/av kryptering</translation>
-    </message>
-    <message>
-        <source>User Info</source>
-        <translation type="obsolete">Användarinformation</translation>
-    </message>
-    <message>
-        <source>Message History</source>
-        <translation type="obsolete">Meddelandehistorik</translation>
-    </message>
-    <message>
-        <source>Toggle Compact/Full Size</source>
-        <translation type="obsolete">Växla kompakt/full storlek</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="570"/>

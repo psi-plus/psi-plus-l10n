@@ -65,7 +65,7 @@
         <source>psi/psiplus_logo</source>
         <translation type="unfinished"></translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="../../psi-plus-snapshots/src/about.ui" line="106"/>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
@@ -5999,30 +5999,6 @@ Reason: %3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear Chat Window</source>
-        <translation type="obsolete">بات چیت دریچہ صاف کریں</translation>
-    </message>
-    <message>
-        <source>Find</source>
-        <translation type="obsolete">ڈھونڈیں</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="obsolete">ڈھونڈیں</translation>
-    </message>
-    <message>
-        <source>Configure Room</source>
-        <translation type="obsolete">کمرہ تشکیل کریں</translation>
-    </message>
-    <message>
-        <source>&amp;Configure Room</source>
-        <translation type="obsolete">کمرہ تشکیل کریں</translation>
-    </message>
-    <message>
-        <source>Select Icon</source>
-        <translation type="obsolete">جذباتیہ منتخب کریں</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="787"/>
         <source>Change Nickname...</source>
         <translation>عرق تبدیل کریں:</translation>
@@ -9176,151 +9152,153 @@ Reason: %1</source>
 <context>
     <name>MainWin</name>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="396"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="391"/>
+        <location filename="../tmp/mainwin.cpp" line="401"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="396"/>
         <source>View</source>
         <translation>نظارہ</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="459"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="454"/>
+        <location filename="../tmp/mainwin.cpp" line="464"/>
+        <location filename="../tmp/mainwin.cpp" line="472"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="459"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="467"/>
         <source>Status</source>
         <translation>حالت</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="464"/>
-        <location filename="../tmp/mainwin.cpp" line="506"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="459"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="501"/>
+        <location filename="../tmp/mainwin.cpp" line="479"/>
+        <location filename="../tmp/mainwin.cpp" line="524"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="474"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="519"/>
         <source>General</source>
         <translation>عمومی</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="498"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="493"/>
+        <location filename="../tmp/mainwin.cpp" line="516"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="511"/>
         <source>Menu</source>
         <translation>مینیو</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="529"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="524"/>
+        <location filename="../tmp/mainwin.cpp" line="551"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="546"/>
         <source>Tools</source>
         <translation>ٹول</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="533"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="528"/>
+        <location filename="../tmp/mainwin.cpp" line="555"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="550"/>
         <source>Help</source>
         <translation>مدد</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="547"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="280"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="539"/>
+        <location filename="../tmp/mainwin.cpp" line="569"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="285"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="561"/>
         <source>Diagnostics</source>
         <translation>فن تشخیص</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="974"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="963"/>
+        <location filename="../tmp/mainwin.cpp" line="1005"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="994"/>
         <source>&amp;Help</source>
         <translation>مدد</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1062"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1048"/>
+        <location filename="../tmp/mainwin.cpp" line="1093"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1079"/>
         <source>ReadMe</source>
         <translation>مجھے پڑھیں</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1136"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1112"/>
+        <location filename="../tmp/mainwin.cpp" line="1167"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1143"/>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
         <translation>یہ ایپلیکیشن GStreamer %1 استعمال کرتی ہے، ایک مکمل، اوپن سورس اور کراس پلیٹفارم ملٹی میڈیا فریم ورک۔ مزید معلومات کے لیے &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt; دیکھیں۔</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1148"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1124"/>
+        <location filename="../tmp/mainwin.cpp" line="1179"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1155"/>
         <source>About GStreamer</source>
         <translation>GStreamer کے بارے میں</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1181"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1157"/>
+        <location filename="../tmp/mainwin.cpp" line="1212"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1188"/>
         <source>Security Plugins Diagnostic Text</source>
         <translation>سلامتی پلگ ان فن تشخیص متن</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1190"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1166"/>
+        <location filename="../tmp/mainwin.cpp" line="1221"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1197"/>
         <source>Key Storage Diagnostic Text</source>
         <translation>کلیدی ذخیرہ پلگ ان فن تشخیص متن</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1310"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1286"/>
+        <location filename="../tmp/mainwin.cpp" line="1341"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1317"/>
         <source>Receive next event</source>
         <translation>اگلا وقوعہ وصول کریں</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1315"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1291"/>
+        <location filename="../tmp/mainwin.cpp" line="1346"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1322"/>
         <source>Un&amp;hide</source>
         <translation>چھپانا ختم کریں</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1318"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1294"/>
+        <location filename="../tmp/mainwin.cpp" line="1349"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1325"/>
         <source>&amp;Hide</source>
         <translation>چھپائیں</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1363"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1339"/>
+        <location filename="../tmp/mainwin.cpp" line="1394"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1370"/>
         <source>Status Message</source>
         <translation type="unfinished">حالت پیغام</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1392"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1368"/>
+        <location filename="../tmp/mainwin.cpp" line="1423"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1399"/>
         <source>Active accounts:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../tmp/mainwin.cpp" line="1393"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1369"/>
-        <source>
-Active accounts:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../tmp/mainwin.cpp" line="1397"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1373"/>
-        <source>Incoming event(s) from:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../tmp/mainwin.cpp" line="1398"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1374"/>
-        <source>
-Incoming event(s) from:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/mainwin.cpp" line="1424"/>
         <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1400"/>
+        <source>
+Active accounts:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../tmp/mainwin.cpp" line="1428"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1404"/>
+        <source>Incoming event(s) from:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../tmp/mainwin.cpp" line="1429"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1405"/>
+        <source>
+Incoming event(s) from:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../tmp/mainwin.cpp" line="1455"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1431"/>
         <source>Connecting</source>
         <translation>جڑ رہا ہے</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1749"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1725"/>
+        <location filename="../tmp/mainwin.cpp" line="1787"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1763"/>
         <source>1 event received</source>
         <translation>1 وقوعہ موصولہ</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1752"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1728"/>
+        <location filename="../tmp/mainwin.cpp" line="1790"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1766"/>
         <source>%1 events received</source>
         <translation>‏%1 وقوعات موصولہ</translation>
     </message>
@@ -9328,7 +9306,7 @@ Incoming event(s) from:</source>
 <context>
     <name>MainWin::Private</name>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="285"/>
+        <location filename="../tmp/mainwin.cpp" line="290"/>
         <source>Diagnostics</source>
         <translation type="unfinished">فن تشخیص</translation>
     </message>
@@ -12613,10 +12591,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <source>Groupchat</source>
         <translation type="unfinished">گروپ بات چیت</translation>
     </message>
-    <message>
-        <source>Chat Toolbar</source>
-        <translation type="obsolete">بات چیت ٹول بار</translation>
-    </message>
 </context>
 <context>
     <name>OptionsTabTree</name>
@@ -15129,7 +15103,7 @@ Reason: %1.</source>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="452"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="494"/>
         <source>Clear Chat Window</source>
-        <translation type="unfinished">بات چیت دریچہ صاف کریں</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="457"/>
@@ -15173,7 +15147,7 @@ Reason: %1.</source>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="456"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="498"/>
         <source>Select Icon</source>
-        <translation type="unfinished">جذباتیہ منتخب کریں</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="461"/>
@@ -15191,7 +15165,7 @@ Reason: %1.</source>
         <location filename="../tmp/psiactionlist.cpp" line="463"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="459"/>
         <source>Toggle Encryption</source>
-        <translation type="unfinished">خفیہ کاری ٹوگل کریں</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="464"/>
@@ -15203,13 +15177,13 @@ Reason: %1.</source>
         <location filename="../tmp/psiactionlist.cpp" line="465"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="461"/>
         <source>Message History</source>
-        <translation type="unfinished">پیغام سابقات</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="466"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="462"/>
         <source>Toggle Compact/Full Size</source>
-        <translation type="unfinished">چھوٹے/پورے سائز کے درمیان ٹوگل کریں</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="467"/>
@@ -15243,7 +15217,7 @@ Reason: %1.</source>
         <location filename="../tmp/psiactionlist.cpp" line="501"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="497"/>
         <source>Configure Room</source>
-        <translation type="unfinished">کمرہ تشکیل کریں</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="528"/>
@@ -15268,50 +15242,6 @@ Reason: %1.</source>
         <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="498"/>
         <source>Find toolbar</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Chat Window</source>
-        <translation type="obsolete">بات چیت دریچہ صاف کریں</translation>
-    </message>
-    <message>
-        <source>Find</source>
-        <translation type="obsolete">ڈھونڈیں</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="obsolete">ڈھونڈیں</translation>
-    </message>
-    <message>
-        <source>Add Contact</source>
-        <translation type="obsolete">رابطہ اضافا کریں</translation>
-    </message>
-    <message>
-        <source>Select Icon</source>
-        <translation type="obsolete">جذباتیہ منتخب کریں</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="obsolete">آواز کال</translation>
-    </message>
-    <message>
-        <source>Send File</source>
-        <translation type="obsolete">مسل بھیجیں</translation>
-    </message>
-    <message>
-        <source>Toggle Encryption</source>
-        <translation type="obsolete">خفیہ کاری ٹوگل کریں</translation>
-    </message>
-    <message>
-        <source>User Info</source>
-        <translation type="obsolete">صارف معلومات</translation>
-    </message>
-    <message>
-        <source>Message History</source>
-        <translation type="obsolete">پیغام سابقات</translation>
-    </message>
-    <message>
-        <source>Toggle Compact/Full Size</source>
-        <translation type="obsolete">چھوٹے/پورے سائز کے درمیان ٹوگل کریں</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="570"/>

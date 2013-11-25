@@ -7,7 +7,7 @@
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="42"/>
         <location filename="../../psi-plus-snapshots/src/translationmanager.cpp" line="161"/>
         <source>language_name</source>
-        <translation>中文简体</translation>
+        <translation>中文简体(中华人民共和国)</translation>
     </message>
 </context>
 <context>
@@ -65,7 +65,7 @@
         <source>psi/psiplus_logo</source>
         <translation>psi/psi附加标识</translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="../../psi-plus-snapshots/src/about.ui" line="106"/>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
@@ -104,7 +104,7 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/about.ui" line="226"/>
         <source>About Psi+</source>
-        <translation>关于PSI +</translation>
+        <translation>关于Psi +</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/about.ui" line="269"/>
@@ -142,48 +142,48 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="78"/>
         <source>Active project members are presents below:</source>
-        <translation>活跃项目成员如下：</translation>
+        <translation>活跃项目成员如下:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="81"/>
         <source>Founder, Patcher and MS Windows Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>创办者，补丁和MS Windows 包 </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="84"/>
         <source>Founder and Lead Patcher</source>
-        <translation>创办者和补丁修复者</translation>
+        <translation>创办者和引导补丁</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="87"/>
         <source>Founder, Designer and Patcher</source>
-        <translation>创办者，设计师和补丁修复者</translation>
+        <translation>创办者，设计师和补丁</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="90"/>
         <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>引导补丁和插件撰写者的Mac OS X包</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="93"/>
         <source>Designer and Patcher</source>
-        <translation>设计师和补丁修复者</translation>
+        <translation>设计师和补丁</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="96"/>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
-        <translation>补丁修复包，插件作者和Fedora打包</translation>
+        <translation>补丁，插件作者和Fedora打包</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="99"/>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="117"/>
         <source>Patcher and Plugins Writer</source>
-        <translation>补丁修复者和插件作者</translation>
+        <translation>补丁和插件作者</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="102"/>
         <source>Patcher and Ubuntu Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>补丁和Ubuntu包</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="105"/>
@@ -198,32 +198,32 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="111"/>
         <source>Patcher and Russian localization</source>
-        <translation>补丁修复包和俄罗斯本地化</translation>
+        <translation>补丁和俄语本地化</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="114"/>
         <source>Psimedia Patcher and Wiki English localization</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi媒体补丁和Wiki英语本地化</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="120"/>
         <source>OpenSUSE Packager</source>
-        <translation>OpenSUSE 安装包制作者</translation>
+        <translation>打开SUSE 安装包</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="123"/>
         <source>Language coordinator; Debian Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>语言协调员; Debian包</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="130"/>
         <source>Language coordinator, miscellaneous assistance</source>
-        <translation>语言协调, 其它协助</translation>
+        <translation>语言协调员, 其它协助</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="133"/>
         <source>Former language coordinator, miscellaneous assistance</source>
-        <translation>先前的语言协调, 其它协助</translation>
+        <translation>前语言协调员, 其它协助</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="136"/>
@@ -233,18 +233,18 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="139"/>
         <source>Many icons are from his Crystal icon theme</source>
-        <translation>许多的图标来自他的 Crystal 图标主题</translation>
+        <translation>许多的图标来自他的水晶图标主题</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="142"/>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="145"/>
         <source>Graphics</source>
-        <translation>图片</translation>
+        <translation>图学</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="148"/>
         <source>Original Mac Port</source>
-        <translation>原始 Mac端口</translation>
+        <translation>原始Mac端口</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="151"/>
@@ -259,12 +259,12 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="157"/>
         <source>Webmaster, Marketing</source>
-        <translation>网站管理者, 营销</translation>
+        <translation>网站管理者,市场营销</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="160"/>
         <source>Bug Tracker Management</source>
-        <translation>臭虫追踪管理</translation>
+        <translation>窃听追踪管理</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="163"/>
@@ -278,12 +278,12 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;</translation>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="177"/>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="180"/>
         <source>Sponsor</source>
-        <translation type="unfinished"></translation>
+        <translation>赞助</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="183"/>
         <source>Sponsor (Summer of Code)</source>
-        <translation type="unfinished"></translation>
+        <translation>赞助 (代码之加法器)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="188"/>
@@ -301,7 +301,15 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation type="unfinished"></translation>
+        <translation>IM匿名&lt;note的您的真实name&quot;&gt; - text=&quot;replace
+&lt;a href=&quot;http://me.com&quot;&gt; http://me.com&lt;/ A&gt; - 
+XMPP:&lt;a href=&quot;xmpp:me@me.com&quot;&gt; me@me.com&lt;/ A&gt; - 
+&lt;a href=&quot;mailto:me@me.com&quot;&gt; me@me.com&lt;/ A&gt; - 
+翻译 - 
+- 
+今天加入翻译团队！到
+&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;的
+http://forum.psi-im.org/forum/14&lt;/ a&gt;的更多详情！</translation>
     </message>
 </context>
 <context>
@@ -318,7 +326,7 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
 Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing XMPP account then leave this box unchecked.</source>
         <translation>&lt;qt&gt;请选择一个易于辨别的&lt;b&gt;名字&lt;/b&gt;，Psi 将使用它代表本账号&lt;br&gt;
 &lt;br&gt;
-如果希望在服务器上建立一个新用户，请选中&lt;b&gt;注册新账号&lt;/b&gt;复选框.如果您希望使用的是已经存在的XMPP账户，则不要选中.</translation>
+如果希望在服务器上建立一个新用户，请选中&lt;b&gt;注册新账号&lt;/b&gt;复选框.如果您希望使用的是已经存在的XMPP账户，然后将选中此复选框。.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountadd.ui" line="73"/>
@@ -356,7 +364,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus-snapshots/src/accountadddlg.cpp" line="46"/>
         <source>Check this option if you don&apos;t yet have an XMPP account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
-        <translation>若您准备注册一个新账号则选中此项，注意，仅在支持匿名注册的服务器上才能正常工作.</translation>
+        <translation>若您准备注册一个新账号则选中此项，注意仅在支持匿名注册的服务器上才能正常工作.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountadddlg.cpp" line="50"/>
@@ -485,7 +493,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="83"/>
         <source>XMPP Address:</source>
-        <translation>XMPP 地址</translation>
+        <translation>XMPP 地址:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="103"/>
@@ -531,7 +539,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="196"/>
         <source>Details</source>
-        <translation>详细</translation>
+        <translation>详情</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="208"/>
@@ -541,7 +549,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="220"/>
         <source>&lt;qt&gt;Information about you is stored as a VCard on the server, which other people can retrieve at any time.&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;关于你的数据以虚拟名片的方式储存服务器, 其他人可以随时取得。&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;信息关于你的数据以虚拟名片的方式储存服务器, 其他人可以随时取得。&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="254"/>
@@ -576,7 +584,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="435"/>
         <source>Blocked Contacts</source>
-        <translation>被封锁的联系人</translation>
+        <translation>被阻止的联系人</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="458"/>
@@ -591,7 +599,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="498"/>
         <source>You are using advanced settings. This list may not be accurate.</source>
-        <translation>你正使用高级设置。这个清单可能会不正确。</translation>
+        <translation>你正使用高级设置。这个清单可能会不准确。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="521"/>
@@ -621,7 +629,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="578"/>
         <source>Send &quot;keep-alive&quot; packets (to prevent timeouts)</source>
-        <translation>发送 &quot;keep-alive&quot; 封包 (防止逾时)</translation>
+        <translation>发送 &quot;keep-alive&quot;包 (防止逾时)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="585"/>
@@ -637,7 +645,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="610"/>
         <source>Port:</source>
-        <translation>端口：</translation>
+        <translation>端口:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="643"/>
@@ -672,12 +680,12 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="835"/>
         <source>Default priority:</source>
-        <translation>默认优先级：</translation>
+        <translation>默认优先级:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="869"/>
         <source>Data Transfer</source>
-        <translation>资料发送</translation>
+        <translation>数据传输</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="875"/>
@@ -692,7 +700,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="905"/>
         <source>STUN/TURN</source>
-        <translation type="unfinished"></translation>
+        <translation>STUN/TURN</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="940"/>
@@ -772,7 +780,7 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="136"/>
         <source>Depends on status</source>
-        <translation>视状况而定</translation>
+        <translation>取决于状态</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="160"/>
@@ -782,7 +790,7 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="164"/>
         <source>&lt;don&apos;t use&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;不能用&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="192"/>
@@ -812,7 +820,7 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="228"/>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>通常情况下，PSI日志使用的&lt;i&gt;摘要&lt;/i&gt;身份验证方法。选中此复选框以强制一个纯文本登录到XMPP服务器。使用此选项只有当你有正常的登录程序连接的问题，因为它使您的连接可能容易受到攻击</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="235"/>
@@ -862,7 +870,7 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="275"/>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
-        <translation type="unfinished"></translation>
+        <translation>此选项设置(境界)，你想验证为用户。这将覆盖XMPP地址登录为。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="279"/>
@@ -1123,13 +1131,13 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus-snapshots/src/accountregdlg.cpp" line="289"/>
         <source>You have successfully registered your account with XMPP address &apos;%1&apos;</source>
-        <translation>您已成功注册账号 &apos;%1&apos;</translation>
+        <translation>您已成功注册账号在XMMP地址 &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountregdlg.cpp" line="297"/>
         <source>There was an error registering the account.
 Reason: %1</source>
-        <translation>注册账号时有一个错误。
+        <translation>有一个错误注册账户。
 原因: %1</translation>
     </message>
 </context>
@@ -1242,12 +1250,12 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountstatusmenu.cpp" line="38"/>
         <source>Ignore global actions</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略全球行动</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountstatusmenu.cpp" line="41"/>
         <source>Ignore all global actions for this account. For example, autostatus, mood, activity etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略此帐户的所有全球行动。例如，自动状态，情绪，活动等。</translation>
     </message>
 </context>
 <context>
@@ -1257,7 +1265,7 @@ Reason: %1</source>
         <source> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</source>
-        <translation>当检验时，不能启用聊天记录，服务器将不保存该联系人的历史记录</translation>
+        <translation>当检验时，不能启用聊天记录，服务器将不保存该联系人的历史记录。</translation>
     </message>
 </context>
 <context>
@@ -1266,7 +1274,7 @@ save the history for this contact.</source>
         <location filename="../../psi-plus-snapshots/src/activeprofiles_dbus.cpp" line="230"/>
         <location filename="../../psi-plus-snapshots/src/activeprofiles_win.cpp" line="328"/>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation>这个 Psi 个人配置已经在职行中...&lt;br&gt;请等待...</translation>
+        <translation>这个 Psi设置文件已经在运行中...&lt;br&gt;请等待...</translation>
     </message>
 </context>
 <context>
@@ -1279,12 +1287,12 @@ save the history for this contact.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/activity.ui" line="21"/>
         <source>General:</source>
-        <translation>通用：</translation>
+        <translation>通用:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activity.ui" line="31"/>
         <source>Specific:</source>
-        <translation>具体：</translation>
+        <translation>具体:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activity.ui" line="41"/>
@@ -1369,12 +1377,12 @@ save the history for this contact.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="128"/>
         <source>Passphrase: </source>
-        <translation>密码: </translation>
+        <translation>通过密语: </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="135"/>
         <source>E-mail address: </source>
-        <translation>E-mail 地址: </translation>
+        <translation>电子邮件地址: </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="142"/>
@@ -1434,7 +1442,11 @@ save the history for this contact.</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;！ DOCTYPE HTML PUBLIC “ - / / W3C / / DTD HTML 4.0 / / EN ”的“ http://www.w3.org/TR/REC-html40/strict.dtd ” &gt;
+&lt;HTML&gt; &lt;HEAD&gt; &lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt; &lt;style type=&quot;text/css&quot;&gt;
+P，李{空白:预包装;}
+&lt; / STYLE &gt; &lt;/ HEAD &gt; &lt;body style=&quot; font-family:&apos;Bitstream维拉Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;要添加&lt;跨度风格=“字体重量: 600; ” &gt; XMPP &lt;/ SPAN&gt;用户，只需填写XMPP地址(以及可选的昵称和组)的底部，然后按&lt;span style=&quot; font-style:italic;&quot;&gt; &lt;/ SPAN&gt; &lt;br /&gt; &lt;br /&gt;从一个&lt;span style=&quot;的font-weight:600;&quot;&gt;非XMPP &lt;/ SPAN&gt;服务要添加联系人，请确保您已注册的服务(见服务发现从主菜单) ，然后选择服务从包装盒的顶部。按照服务的&lt;span style=&quot; font-style:italic;&quot;&gt; ID翻译&lt;/ SPAN &gt;箱中的指示，按的&lt;span style=&quot; font-style:italic;&quot;&gt; XMPP地址&lt;/ SPAN&gt;按钮生成一个XMPP地址的联系人。 &lt;br /&gt; &lt; / P &gt; &lt;/ BODY &gt; &lt; / HTML &gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/adduser.ui" line="68"/>
@@ -1444,12 +1456,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus-snapshots/src/adduser.ui" line="76"/>
         <source>XMPP</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/adduser.ui" line="111"/>
         <source>Service ID Translation</source>
-        <translation>服务 ID 转换</translation>
+        <translation>服务ID转换</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/adduser.ui" line="129"/>
@@ -1464,7 +1476,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus-snapshots/src/adduser.ui" line="181"/>
         <source>psi/vCard</source>
-        <translation type="unfinished">psi/vCard</translation>
+        <translation>psi/电子名片</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/adduser.ui" line="190"/>
@@ -1484,7 +1496,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus-snapshots/src/adduser.ui" line="224"/>
         <source>XMPP Address:</source>
-        <translation>XMPP 地址:</translation>
+        <translation>XMPP地址:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/adduser.ui" line="240"/>
@@ -1545,17 +1557,17 @@ p, li { white-space: pre-wrap; }
         <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="176"/>
         <source>The XMPP address you entered is not valid!
 Make sure you enter a fully qualified XMPP address.</source>
-        <translation>您输入的 XMPP 地址无效!确定您输入的是完全限定的 XMPP 地址</translation>
+        <translation>您输入的XMPP地址无效!确定您输入的是完全限定的XMPP地址。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="188"/>
         <source>Add User: Success</source>
-        <translation>添加用户: 成功</translation>
+        <translation>添加用户:成功</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="188"/>
         <source>Added %1 to your roster.</source>
-        <translation>已添加 %1 到你的名单。</translation>
+        <translation>已添加%1到你的名单。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="288"/>
@@ -1566,7 +1578,8 @@ Make sure you enter a fully qualified XMPP address.</source>
         <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="288"/>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt;
+让服务从&quot;%1&quot;的ID转换信息时出现错误 - 原因:&lt;br&gt;%2&lt;br&gt;&lt;br&gt; 该服务可能不支持此功能。在这种情况下，你将需要输入你想添加的接触XMPP地址手动。例子:&lt;br&gt;&amp;nbsp;&amp;nbsp; xmppUser@somehost.com - aolUser[AIM运输的XMPP地址]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[ICQ运输的XMPP地址] &lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[MSN运输的XMPP地址] &lt;br&gt;&amp;nbsp;&amp;nbsp; yahooUser@[XMPP雅虎运输的地址]&lt;br&gt;&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
@@ -1597,7 +1610,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="277"/>
         <source> sends Attention message to you!</source>
-        <translation>给你发送关注信息</translation>
+        <translation>给你发送关注信息！</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="416"/>
@@ -1613,7 +1626,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="429"/>
         <source>Sound (*.wav)</source>
-        <translation>音频文件(*.wav)</translation>
+        <translation>声音 (*.wav)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="441"/>
@@ -1624,23 +1637,23 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="456"/>
         <source>You sent Attention message to %1</source>
-        <translation>您已发送关注信息至1%</translation>
+        <translation>您已发送关注信息至 %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="536"/>
         <source>Author: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="537"/>
         <source>Email: </source>
-        <translation>邮件</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="538"/>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
-        <translation>这个插件的目的是发送和接收特殊的消息，如关注等。要想正常工作，插件需要客户端的其他部分支持xep-0224（例如：Pidgin, Miranda IM with Nudge 插件）</translation>
+        <translation>这个插件的目的是发送和接收特殊的消息，如关注等。要想正常工作，插件需要客户端的其他部分支持xep-0224(例如:Pidgin, Miranda IM with Nudge 插件)。</translation>
     </message>
 </context>
 <context>
@@ -1648,7 +1661,7 @@ To work correctly, the plugin requires that the client of the other part support
     <message>
         <location filename="../../psi-plus-snapshots/src/psievent.cpp" line="474"/>
         <source>%1 wants to subscribe to your presence.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1希望订阅您的光临.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psievent.cpp" line="476"/>
@@ -1686,7 +1699,7 @@ To work correctly, the plugin requires that the client of the other part support
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="492"/>
         <source>Online</source>
-        <translation type="unfinished">在线</translation>
+        <translation>在线</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="494"/>
@@ -1711,38 +1724,38 @@ To work correctly, the plugin requires that the client of the other part support
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="502"/>
         <source>Invisible</source>
-        <translation type="unfinished">隐身</translation>
+        <translation>隐身</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="505"/>
         <source>Enable if status is:</source>
-        <translation>如果状态为……则启动</translation>
+        <translation>如果状态为……则启动:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="520"/>
         <source>Auto Reply Message:</source>
-        <translation>自动回复邮件</translation>
+        <translation>自动回复邮件:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="525"/>
         <source>for JIDs and conferences:</source>
-        <translation>为jids和会议</translation>
+        <translation>为JIDs和会议;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="526"/>
         <source>You can also specify a part of JID
 (without any additional symbols)</source>
-        <translation>你也可以指定JID的一部分（没有任何额外的符号）</translation>
+        <translation>你也可以指定JID的一部分(没有任何额外的符号)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="534"/>
         <source>Disable for your accounts (specify your JIDs):</source>
-        <translation>禁用您的账户（特指jids）</translation>
+        <translation>禁用您的账户(特指JIDs):</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="537"/>
         <source>Timeout to reset counter:</source>
-        <translation>超时计数器复位</translation>
+        <translation>超时计数器复位:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="539"/>
@@ -1757,22 +1770,22 @@ To work correctly, the plugin requires that the client of the other part support
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="544"/>
         <source>times (-1=infinite)</source>
-        <translation>倍（-1=无穷）</translation>
+        <translation>倍(-1=无穷)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="559"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="754"/>
         <source>Author: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="755"/>
         <source>Email: </source>
-        <translation type="unfinished">邮件</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="756"/>
@@ -1787,17 +1800,17 @@ To work correctly, the plugin requires that the client of the other part support
 The list of exceptions for jids has two operating modes:
 * auto-responder is switched off for the list of exceptions, for the others is switched on (Disable mode)
 * auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
-        <translation>这个插件可以充当一个自动应答机。它有一个简单的配置选项，您可以使用：
+        <translation>这个插件可以充当一个自动应答机。它有一个简单的配置选项，您可以使用:
 *设置一个文本消息自动应答
-*排除指定jids，包括会议，从对象的自动应答（如果JID会议设置，除了将包括所有的私人信息）
+*排除指定jids，包括会议，从对象的自动应答(如果JID会议设置，除了将包括所有的私人信息)
 *禁用自动应答的一些帐户
 *设置多个发送自动消息
 *设置时间间隔之后，一些自动邮件计数器将重置
 *禁用自动应答的主动标签
 *禁用自动急救员响应不在你的名单上的联系人
-例外的清单为jids双操作模式：
-*自动应答切换例外的清单，为别人打开（关闭模式）
-*自动应答开启的例外列表，为别人关闭（启用模式）
+例外的清单为jids双操作模式:
+*自动应答切换例外的清单，为别人打开(关闭模式)
+*自动应答开启的例外列表，为别人关闭(启用模式)
 </translation>
     </message>
 </context>
@@ -1929,7 +1942,7 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location filename="../../psi-plus-snapshots/src/bookmarkmanage.ui" line="136"/>
         <source>&amp;Import</source>
-        <translation>导入（&amp;I）</translation>
+        <translation>导入(&amp;I)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/bookmarkmanage.ui" line="143"/>
@@ -1939,7 +1952,7 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location filename="../../psi-plus-snapshots/src/bookmarkmanage.ui" line="146"/>
         <source>&amp;Export</source>
-        <translation>汇出（&amp;E）</translation>
+        <translation>汇出(&amp;E)</translation>
     </message>
 </context>
 <context>
@@ -2023,7 +2036,7 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location filename="../../psi-plus-snapshots/src/avcall/calldlg.cpp" line="66"/>
         <source>Voice Call</source>
-        <translation type="unfinished"></translation>
+        <translation>语音通话</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/avcall/calldlg.cpp" line="74"/>
@@ -2033,7 +2046,7 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location filename="../../psi-plus-snapshots/src/avcall/calldlg.cpp" line="75"/>
         <source>Average (400Kbps)</source>
-        <translation>普通 (400Kbps)</translation>
+        <translation>平均 (400Kbps)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/avcall/calldlg.cpp" line="76"/>
@@ -2130,12 +2143,12 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/captchaformsplugin/captchaformsplugin.cpp" line="454"/>
         <source>Author: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/captchaformsplugin/captchaformsplugin.cpp" line="455"/>
         <source>Email: </source>
-        <translation>邮件</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/captchaformsplugin/captchaformsplugin.cpp" line="456"/>
@@ -2246,7 +2259,7 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="86"/>
         <source>Email:</source>
-        <translation>电子邮箱l:</translation>
+        <translation>电子邮箱:</translation>
     </message>
 </context>
 <context>
@@ -2290,12 +2303,12 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="87"/>
         <source>You entered your old password incorrectly.  Try again.</source>
-        <translation>你输入了一个错误的旧密码。  请再试一次。</translation>
+        <translation>你输入了一个错误的旧密码。 请再试一次。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="94"/>
         <source>New password and confirmation do not match.  Please enter them again.</source>
-        <translation>新的密码和确认的字段元不符合。  请再输入它们一次。</translation>
+        <translation>新的密码和确认的字段元不符合。 请再输入它们一次。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="127"/>
@@ -2377,7 +2390,8 @@ Reason: %1</source>
         <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="253"/>
         <source>A new chat message was just received.
 Do you still want to close the window?</source>
-        <translation type="unfinished"></translation>
+        <translation>刚刚收到新的聊天消息。
+你仍然要关闭窗口吗？</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="256"/>
@@ -2430,7 +2444,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/msgmle.cpp" line="226"/>
         <source>Paste as Quotation</source>
-        <translation type="unfinished"></translation>
+        <translation>引文粘贴</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/msgmle.cpp" line="363"/>
@@ -2463,12 +2477,12 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/chatview_te.cpp" line="435"/>
         <source>URL:</source>
-        <translation>网址：</translation>
+        <translation>网址:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/chatview_te.cpp" line="437"/>
         <source>Desc:</source>
-        <translation>品名：</translation>
+        <translation>品名:</translation>
     </message>
 </context>
 <context>
@@ -2489,7 +2503,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="262"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="354"/>
@@ -2506,19 +2520,19 @@ Do you still want to close the window?</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="360"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="375"/>
         <source>Chess!</source>
-        <translation>国际象棋</translation>
+        <translation>国际象棋！</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="389"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="418"/>
         <source>You are already playing!</source>
-        <translation>你已在游戏中</translation>
+        <translation>你已在游戏中！</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="510"/>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation>你的对手已经关闭棋局；你依然可以保存游戏</translation>
+        <translation>你的对手已经关闭棋局！你依然可以保存游戏。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="548"/>
@@ -2528,32 +2542,32 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="598"/>
         <source>You Lose.</source>
-        <translation>你输了</translation>
+        <translation>你输了。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="608"/>
         <source>You Win!</source>
-        <translation>你赢了</translation>
+        <translation>你赢了！</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="623"/>
         <source>Draw!</source>
-        <translation>绘制</translation>
+        <translation>绘制！</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="631"/>
         <source>Unknown error!</source>
-        <translation>未知错误</translation>
+        <translation>未知错误！</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="669"/>
         <source>Chess Plugin: Invitation from %1</source>
-        <translation>国际象棋插件：% 1邀请</translation>
+        <translation>国际象棋插件从 %1邀请</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="770"/>
         <source>You are allready playing!</source>
-        <translation>你已在游戏中</translation>
+        <translation>你已在游戏中！</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="826"/>
@@ -2568,12 +2582,12 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="859"/>
         <source>Author: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="860"/>
         <source>Email: </source>
-        <translation>邮件</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="861"/>
@@ -2582,8 +2596,7 @@ The plugin is compatible with a similar plugin for Tkabber.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
         <translation>这个插件允许你和朋友下棋。
 该插件兼容的一个类似的插件tkabber。
-为了发送命令，一般信息可以使用，所以这个插件会一直工作在你可以登录的地方。为了邀请朋友参加游戏，你可以聊天窗口使用菜单项或工具栏上的按钮
-</translation>
+为了发送命令，一般信息可以使用，所以这个插件会一直工作在你可以登录的地方。为了邀请朋友参加游戏，你可以聊天窗口使用菜单项或工具栏上的按钮</translation>
     </message>
 </context>
 <context>
@@ -2596,7 +2609,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/mainwindow.ui" line="37"/>
         <source>Moves:</source>
-        <translation>移动</translation>
+        <translation>移动:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/mainwindow.cpp" line="110"/>
@@ -2660,7 +2673,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.ui" line="20"/>
         <source>Psi+ Cleaner</source>
-        <translation>PSI清道夫</translation>
+        <translation>Psi+清道夫</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.ui" line="31"/>
@@ -2685,7 +2698,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.ui" line="56"/>
         <source>Filter:</source>
-        <translation>过滤</translation>
+        <translation>过滤;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.ui" line="72"/>
@@ -2730,47 +2743,47 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="66"/>
         <source>Choose &amp;Profile</source>
-        <translation>选择与配置</translation>
+        <translation>选择与配置(&amp;P)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="67"/>
         <source>&amp;Quit</source>
-        <translation>退出</translation>
+        <translation>退出(&amp;Q)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="68"/>
         <source>Clear &amp;Juick Cache</source>
-        <translation>清除JUICK缓存</translation>
+        <translation>清除JUICK缓存(&amp;J)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="69"/>
         <source>Clear &amp;Birthdays Cache</source>
-        <translation>清除生日缓存</translation>
+        <translation>清除生日缓存(&amp;B)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="71"/>
         <source>&amp;File</source>
-        <translation>文件</translation>
+        <translation>文件(&amp;F)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="76"/>
         <source>&amp;Actions</source>
-        <translation>行动</translation>
+        <translation>行动(&amp;A)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="99"/>
         <source>History files: </source>
-        <translation>历史文件</translation>
+        <translation>历史文件;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="100"/>
         <source>vCards: </source>
-        <translation>电子名片</translation>
+        <translation>电子名片:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="101"/>
         <source>Avatars: </source>
-        <translation>头像</translation>
+        <translation>头像:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="270"/>
@@ -2784,7 +2797,7 @@ For sending commands, normal messages are used, so this plugin will always work 
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="364"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="389"/>
         <source>Are You Sure?</source>
-        <translation>你确定吗</translation>
+        <translation>你确定吗?</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="280"/>
@@ -2804,7 +2817,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="302"/>
         <source>Not supported yet!</source>
-        <translation>仍然没有支持</translation>
+        <translation>仍然没有支持!</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="338"/>
@@ -2814,7 +2827,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="338"/>
         <source>Profile:</source>
-        <translation>简介</translation>
+        <translation>简介:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="363"/>
@@ -2833,13 +2846,13 @@ For sending commands, normal messages are used, so this plugin will always work 
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="376"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="401"/>
         <source>Something wrong!</source>
-        <translation>故障</translation>
+        <translation>故障!</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="381"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="406"/>
         <source>Cache Not Found!</source>
-        <translation>没有发现缓存</translation>
+        <translation>没有发现缓存!</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="388"/>
@@ -2869,17 +2882,17 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleanerplugin.cpp" line="92"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleanerplugin.cpp" line="143"/>
         <source>Author: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleanerplugin.cpp" line="144"/>
         <source>Email: </source>
-        <translation>邮件</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleanerplugin.cpp" line="145"/>
@@ -2974,7 +2987,7 @@ You can preview items before deleting them from your hard drive.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/clientswitcherplugin.cpp" line="687"/>
         <source>Authors: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/clientswitcherplugin.cpp" line="688"/>
@@ -2987,7 +3000,7 @@ You can specify the version of the client and OS or to select them from the pres
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/clientswitcherplugin.cpp" line="1006"/>
         <source>%1 has requested your version</source>
-        <translation>需要% 1版本</translation>
+        <translation>%1需要版本</translation>
     </message>
 </context>
 <context>
@@ -2995,12 +3008,12 @@ You can specify the version of the client and OS or to select them from the pres
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="170"/>
         <source>You can find your logs here:</source>
-        <translation>这里可以查看你的日志</translation>
+        <translation>这里可以查看你的日志:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="187"/>
         <source>Logs:</source>
-        <translation>日志</translation>
+        <translation>日志:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="190"/>
@@ -3010,12 +3023,12 @@ You can specify the version of the client and OS or to select them from the pres
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="192"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="332"/>
         <source>Groupchat History</source>
-        <translation type="unfinished"></translation>
+        <translation>群聊历史</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="343"/>
@@ -3023,17 +3036,20 @@ You can specify the version of the client and OS or to select them from the pres
 Groupchats logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with groupchat.
 
 Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>这个插件设计PSI+用户坐在群聊记录保存。
+群聊日志可以查看从插件的设置，或通过点击工具栏上的相应按钮在活动窗口/标签与群聊。
+
+注意:要正常工作，必须启用的群聊工具栏。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="341"/>
         <source>Author: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="342"/>
         <source>Email: </source>
-        <translation>邮件</translation>
+        <translation>邮件:</translation>
     </message>
 </context>
 <context>
@@ -3071,7 +3087,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistaccountmenu.cpp" line="109"/>
         <source>&amp;Contacts Manager</source>
-        <translation>和联系人管理（&amp;C）</translation>
+        <translation>和联系人管理(&amp;C)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistaccountmenu.cpp" line="112"/>
@@ -3106,7 +3122,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistaccountmenu.cpp" line="130"/>
         <source>&amp;XML Console</source>
-        <translation>&amp;XML 终端机</translation>
+        <translation>XML 控制台(&amp;X)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistaccountmenu.cpp" line="133"/>
@@ -3317,7 +3333,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistutil.cpp" line="119"/>
         <source>This is a system group and can&apos;t be removed. Permanently remove all its contacts from your contact list?</source>
-        <translation>这是系统群组, 不能删除。永远从你的联络清单中删除这群组内的所有联系人吗?</translation>
+        <translation>这是系统群组,不能删除。永远从你的联络清单中删除这群组内的所有联系人吗?</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistutil.cpp" line="121"/>
@@ -3413,7 +3429,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactmanager/contactmanagerdlg.cpp" line="58"/>
         <source>Change domain</source>
-        <translation>更改域</translation>
+        <translation>更改域名</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactmanager/contactmanagerdlg.cpp" line="59"/>
@@ -3448,7 +3464,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactmanager/contactmanagerdlg.cpp" line="119"/>
         <source>Removal confirmation</source>
-        <translation>确认删除</translation>
+        <translation>删除确认</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactmanager/contactmanagerdlg.cpp" line="120"/>
@@ -3501,12 +3517,12 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactmanager/contactmanagerdlg.cpp" line="270"/>
         <source>File %1 is not xml file</source>
-        <translation>文档 %1 不是XML檔</translation>
+        <translation>文档 %1 不是XML文档</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactmanager/contactmanagerdlg.cpp" line="275"/>
         <source>Nothing to do..</source>
-        <translation>无事可做......</translation>
+        <translation>无事可做..</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactmanager/contactmanagerdlg.cpp" line="275"/>
@@ -3567,7 +3583,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactmanager/contactmanagerview.cpp" line="55"/>
         <source>Invert</source>
-        <translation>颠倒</translation>
+        <translation>倒置</translation>
     </message>
 </context>
 <context>
@@ -3682,7 +3698,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactview.cpp" line="989"/>
         <source>&amp;XML Console</source>
-        <translation>&amp;XML 终端机</translation>
+        <translation>XML 控制台(&amp;X)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactview.cpp" line="991"/>
@@ -3721,9 +3737,9 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="unfinished">这会取消所有在这个群组里的联系人的连结。
+        <translation>这将导致本组中的所有联系人与它关联。
 
-执行吗?</translation>
+要继续吗？</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactview.cpp" line="1113"/>
@@ -3746,7 +3762,9 @@ Proceed?</source>
         <source>WARNING!  This will remove all contacts associated with this group!
 
 Proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>警告!  这将删除所有与此组关联的联系人!
+
+要继续吗?</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactview.cpp" line="1167"/>
@@ -3948,7 +3966,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactview.cpp" line="2041"/>
         <source>Send &amp;Message</source>
-        <translation type="unfinished"></translation>
+        <translation>发送信息(&amp;M)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactview.cpp" line="2043"/>
@@ -4016,18 +4034,17 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/contentdownloaderplugin/contentdownloader.cpp" line="133"/>
         <source>Author: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/contentdownloaderplugin/contentdownloader.cpp" line="134"/>
         <source>e-mail: </source>
-        <translation>邮件</translation>
+        <translation>电子邮箱:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/contentdownloaderplugin/contentdownloader.cpp" line="135"/>
         <source>This plugin is designed to make it easy to download and install iconsets and other resources for Psi+.</source>
-        <translation>这个插件的目的是更容易下载并安装图片和其他PSI资源
-</translation>
+        <translation>这个插件的目的是更容易下载并安装图片和其他PSI资源</translation>
     </message>
 </context>
 <context>
@@ -4035,7 +4052,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/datewidget.cpp" line="97"/>
         <source>never</source>
-        <translation type="unfinished">从不</translation>
+        <translation>从不</translation>
     </message>
 </context>
 <context>
@@ -4069,7 +4086,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/disco.ui" line="127"/>
         <source>Filter by JID:</source>
-        <translation>由JID的筛选：</translation>
+        <translation>由JID的筛选:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/disco.ui" line="139"/>
@@ -4182,7 +4199,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/discodlg.cpp" line="1027"/>
         <source>&amp;Unregister</source>
-        <translation>注销（&amp;U）</translation>
+        <translation>注销(&amp;U)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/discodlg.cpp" line="1030"/>
@@ -4242,7 +4259,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/discodlg.cpp" line="1045"/>
         <source>&amp;Query version</source>
-        <translation>查询版本（&amp;Q）</translation>
+        <translation>查询版本(&amp;Q)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/discodlg.cpp" line="1050"/>
@@ -4273,7 +4290,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/discodlg.cpp" line="531"/>
         <source>XMPP Service</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP服务</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/discodlg.cpp" line="556"/>
@@ -4381,28 +4398,28 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/edititemdlg.ui" line="14"/>
         <source>Watch For...</source>
-        <translation type="unfinished"></translation>
+        <translation>注意...</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/edititemdlg.ui" line="25"/>
         <source>JID*</source>
-        <translation type="unfinished"></translation>
+        <translation>JID*</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/edititemdlg.ui" line="38"/>
         <source>Text**</source>
-        <translation>文本文件</translation>
+        <translation>文本**</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/edititemdlg.ui" line="60"/>
         <source>*Regular expressions can be used</source>
-        <translation>通常可用的表情</translation>
+        <translation>*通常可用的表情</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/edititemdlg.ui" line="73"/>
         <source>**List of words can be used.
   Each word can use regular expression</source>
-        <translation>*单词列表可用。每个词均可使用常用表情</translation>
+        <translation>**单词列表可用。每个词均可使用常用表情</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/edititemdlg.ui" line="81"/>
@@ -4427,7 +4444,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/edititemdlg.ui" line="116"/>
         <source>Sound:</source>
-        <translation>音频</translation>
+        <translation>音频;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/edititemdlg.cpp" line="66"/>
@@ -4450,12 +4467,12 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/editnote.ui" line="22"/>
         <source>Title:</source>
-        <translation>标题</translation>
+        <translation>标题:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/editnote.ui" line="36"/>
         <source>Tags:</source>
-        <translation>标签</translation>
+        <translation>标签:</translation>
     </message>
 </context>
 <context>
@@ -4468,47 +4485,47 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/editserverdlg.ui" line="28"/>
         <source>Name:</source>
-        <translation>名称</translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/editserverdlg.ui" line="45"/>
         <source>Url:</source>
-        <translation type="unfinished"></translation>
+        <translation>网址:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/editserverdlg.ui" line="62"/>
         <source>User Name*:</source>
-        <translation>用户名称</translation>
+        <translation>用户名称*:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/editserverdlg.ui" line="79"/>
         <source>Password*:</source>
-        <translation>密码</translation>
+        <translation>密码*:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/editserverdlg.ui" line="99"/>
         <source>PostData**:</source>
-        <translation>发送数据</translation>
+        <translation>发送数据**:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/editserverdlg.ui" line="116"/>
         <source>File Input**:</source>
-        <translation>文件导入</translation>
+        <translation>文件导入**:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/editserverdlg.ui" line="133"/>
         <source>RegExp**:</source>
-        <translation>通常可用的表情</translation>
+        <translation>通常可用的表情**:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/editserverdlg.ui" line="158"/>
         <source>*for FTP servers only</source>
-        <translation>仅限ftp服务器</translation>
+        <translation>*仅限ftp服务器</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/editserverdlg.ui" line="171"/>
         <source>**for HTTP servers only</source>
-        <translation>仅限http服务器</translation>
+        <translation>**仅限http服务器</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/editserverdlg.ui" line="178"/>
@@ -4592,7 +4609,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/eventdlg.cpp" line="856"/>
         <source>Transaction &amp;identifier:</source>
-        <translation>交易及标识（&amp;I）：</translation>
+        <translation>交易及标识(&amp;I):</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/eventdlg.cpp" line="878"/>
@@ -4708,7 +4725,7 @@ If you wish to confirm this request, please provide transaction identifier and p
         <source>Transaction identifier: %1
 
 If you wish to confirm this request, please press Confirm button. Otherwise press Deny button.</source>
-        <translation>交易标识符： %1
+        <translation>交易标识符: %1
 
 如果你想确认这一要求，请按确认按钮。否则，按“拒绝”按钮。</translation>
     </message>
@@ -4776,12 +4793,12 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="349"/>
         <source>Ping %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ping %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="352"/>
         <source>Pong from %1 after %2 secs</source>
-        <translation type="unfinished"></translation>
+        <translation>傍从%1到%2 秒后</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="358"/>
@@ -4798,22 +4815,22 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="376"/>
         <source>%1 Last Activity was %2 ago</source>
-        <translation>% 1的% 2前的最后一项活动是</translation>
+        <translation>%1最后一项活动是 %2以前</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="379"/>
         <source>%1 went offline %2 ago</source>
-        <translation type="unfinished"></translation>
+        <translation>%1下线 %2前</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="383"/>
         <source>%1 uptime is %2</source>
-        <translation>M% 1的正常运行时间是% 2</translation>
+        <translation>%1的正常运行时间是 %2</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="387"/>
         <source>%1 is online!</source>
-        <translation>% 1在线！</translation>
+        <translation>%1在线！</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="394"/>
@@ -4833,12 +4850,12 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="416"/>
         <source>%1 Time</source>
-        <translation>% 1时间</translation>
+        <translation>%1时间</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="422"/>
         <source>%1 time is %2</source>
-        <translation>% 1时间是%2</translation>
+        <translation>%1 时间是%2</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="468"/>
@@ -4864,7 +4881,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="518"/>
         <source>Ping</source>
-        <translation type="unfinished"></translation>
+        <translation>Ping</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="522"/>
@@ -4879,12 +4896,12 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="618"/>
         <source>Author: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="619"/>
         <source>Email: </source>
-        <translation>邮件</translation>
+        <translation>电子邮箱:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="620"/>
@@ -4925,7 +4942,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="282"/>
         <source>CSS</source>
-        <translation type="unfinished"></translation>
+        <translation>CSS</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="283"/>
@@ -4965,12 +4982,12 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="302"/>
         <source>Avatar size:</source>
-        <translation>头像尺寸</translation>
+        <translation>头像尺寸:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="307"/>
         <source>Default JID mode:</source>
-        <translation>默认JID模式</translation>
+        <translation>默认JID模式:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="311"/>
@@ -4996,12 +5013,12 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="321"/>
         <source>Chat window caption:</source>
-        <translation>聊天窗口标题</translation>
+        <translation>聊天窗口标题:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="332"/>
         <source>Default JID mode ignore list:</source>
-        <translation>默认忽略列表的JID模式</translation>
+        <translation>默认忽略列表的JID模式:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="349"/>
@@ -5053,38 +5070,38 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="277"/>
         <source>Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>群组</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="358"/>
         <source>Enable autojoin for bookmarked groupchats</source>
-        <translation type="unfinished"></translation>
+        <translation>启用自动联接书签群聊</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="359"/>
         <source>Hide groupchat on auto-join</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏自动加入群聊</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="360"/>
         <source>Enable HTML rendering in groupchat chat window</source>
-        <translation type="unfinished"></translation>
+        <translation>在群聊的聊天窗口启用HTML翻译</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="383"/>
         <source>Disable autojoin to folowing groupchats:
 (specify JIDs)</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用自动联接如下群聊:(指定JID的)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="385"/>
         <source>Groupchat leave status message:</source>
-        <translation type="unfinished"></translation>
+        <translation>群聊保留状态信息</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="390"/>
         <source>Place groupchat roster at left</source>
-        <translation type="unfinished"></translation>
+        <translation>放置群聊名单到左侧</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="391"/>
@@ -5127,17 +5144,17 @@ This option only has effect if accept-defaults is false.</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="404"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="466"/>
         <source>Sort style for contacts:</source>
-        <translation>排序方式接触</translation>
+        <translation>排序方式接触:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="408"/>
         <source>Avatars size:</source>
-        <translation>头像尺寸</translation>
+        <translation>头像尺寸:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="412"/>
         <source>Avatars radius:</source>
-        <translation>头像半径</translation>
+        <translation>头像半径:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="434"/>
@@ -5177,7 +5194,7 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="446"/>
         <source>Tooltips:</source>
-        <translation>工具提示</translation>
+        <translation>工具提示:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="449"/>
@@ -5252,12 +5269,12 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="510"/>
         <source>Popup border color:</source>
-        <translation>弹出边框颜色</translation>
+        <translation>弹出边框颜色:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="516"/>
         <source>Link color:</source>
-        <translation>链接颜色</translation>
+        <translation>链接颜色:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="522"/>
@@ -5267,62 +5284,62 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="528"/>
         <source>Moderators color:</source>
-        <translation>版主颜色</translation>
+        <translation>版主颜色:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="534"/>
         <source>Participants color:</source>
-        <translation>参与者颜色</translation>
+        <translation>参与者颜色:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="540"/>
         <source>Visitors color:</source>
-        <translation>游客颜色</translation>
+        <translation>游客颜色:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="546"/>
         <source>No Role color:</source>
-        <translation>无角色颜色</translation>
+        <translation>无角色颜色:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="550"/>
         <source>Groupchat roster coloring:</source>
-        <translation type="unfinished"></translation>
+        <translation>群聊名单着色:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="686"/>
         <source>Enable sound notifications for every groupchat message</source>
-        <translation type="unfinished"></translation>
+        <translation>启用声音通知为每一个群聊消息</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="561"/>
         <source>ToolTip text color:</source>
-        <translation>提示文本颜色</translation>
+        <translation>提示文本颜色:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="567"/>
         <source>ToolTip background color:</source>
-        <translation>提示背景颜色</translation>
+        <translation>提示背景颜色:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="571"/>
         <source>ToolTip coloring:</source>
-        <translation>提示着色</translation>
+        <translation>提示着色:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="580"/>
         <source>Text color for &quot;composing&quot; events on tabs:</source>
-        <translation>标签上“排版”项目的文本颜色</translation>
+        <translation>标签上“排版”项目的文本颜色:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="586"/>
         <source>Text color for &quot;unread&quot; events on tabs:</source>
-        <translation>标签上“未读”项目的文本颜色</translation>
+        <translation>标签上“未读”项目的文本颜色:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="604"/>
         <source>Colors:</source>
-        <translation>颜色</translation>
+        <translation>颜色:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="634"/>
@@ -5332,12 +5349,12 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="635"/>
         <source>Tooltip</source>
-        <translation type="unfinished"></translation>
+        <translation>工具提示</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="637"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="645"/>
@@ -5372,12 +5389,12 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="656"/>
         <source>Action for mouse middle click on tabs:</source>
-        <translation>在标签上单击鼠标中键的动作</translation>
+        <translation>在标签上单击鼠标中键的动作:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="666"/>
         <source>Action for mouse double click on tabs:</source>
-        <translation>在标签上双击鼠标中键的动作</translation>
+        <translation>在标签上双击鼠标中键的动作:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="682"/>
@@ -5417,17 +5434,17 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="704"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1060"/>
         <source>Author: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1061"/>
         <source>Email: </source>
-        <translation>邮件</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1062"/>
@@ -5437,7 +5454,7 @@ This plugin gives you access to advanced application options, which do not have 
 Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
         <translation>该插件允许对psi+中的高级选项进行轻松配置；
 该插件使得您能够进入没有图形用户界面的高级程序选项；
-更重要的是：大部分选项是重要的系统设置。这需要您对更改这些选项的结果有额外的关注和适当的理解。</translation>
+更重要的是:大部分选项是重要的系统设置。这需要您对更改这些选项的结果有额外的关注和适当的理解。</translation>
     </message>
 </context>
 <context>
@@ -5577,7 +5594,7 @@ Importantly: a large part of the options are important system settings. These re
     <message>
         <location filename="../../psi-plus-snapshots/src/filetransdlg.cpp" line="834"/>
         <source>The XMPP address specified is not valid.  Correct this and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>指定的XMPP地址是无效的。更正此问题，然后再试一次。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/filetransdlg.cpp" line="840"/>
@@ -5627,7 +5644,6 @@ Importantly: a large part of the options are important system settings. These re
 This can happen if the contact did not understand our request, or if the
 contact is offline.</source>
         <translation>无法协调发送。
-
 这可能发生你的联系人不了解我们的请求,
 或是联系人脱机。</translation>
     </message>
@@ -5639,7 +5655,6 @@ Ensure that your Data Transfer settings are proper.  If you are behind
 a NAT router or firewall then you&apos;ll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>无法连到 peer 来发送数据。
-
 确定你的档发送设置适当。  如果你在 NAT 路由器
 或是防火墙后面, 那你需要打开适当的 TCP 埠, 或是
 在你的账号设置里指定一个文件发送的代理服务器。</translation>
@@ -5795,7 +5810,7 @@ that outgoing TCP connections are allowed.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/filetransdlg.cpp" line="1362"/>
         <source>Peer</source>
-        <translation type="unfinished"></translation>
+        <translation>同行</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/filetransdlg.cpp" line="1363"/>
@@ -5855,7 +5870,7 @@ Reason: %3</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/filetransdlg.cpp" line="1445"/>
         <source>&amp;Open Containing Folder</source>
-        <translation>打开包含文件夹（&amp;O）</translation>
+        <translation>打开包含文件夹(&amp;O)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/filetransdlg.cpp" line="1446"/>
@@ -5946,7 +5961,7 @@ Reason: %3</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/fileutil.cpp" line="109"/>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
-        <translation>图片（*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG）</translation>
+        <translation>图片(*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
     </message>
 </context>
 <context>
@@ -5977,7 +5992,7 @@ Reason: %3</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/contentdownloaderplugin/form.ui" line="181"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -6037,7 +6052,7 @@ Reason: %3</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="803"/>
         <source>Copy Groupchat JID</source>
-        <translation type="unfinished"></translation>
+        <translation>复制群聊 JID</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1067"/>
@@ -6054,7 +6069,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1110"/>
         <source>Edit Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑书签</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1113"/>
@@ -6153,7 +6168,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1552"/>
         <source> (Reason: %1)</source>
-        <translation>（原因： %1）</translation>
+        <translation>(原因: %1)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1576"/>
@@ -6321,17 +6336,17 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2227"/>
         <source>&amp;Name:</source>
-        <translation>名称（&amp;N）：</translation>
+        <translation>名称(&amp;N):</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2228"/>
         <source>N&amp;ick:</source>
-        <translation>昵称（&amp;I）：</translation>
+        <translation>昵称(&amp;I):</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2229"/>
         <source>&amp;Auto join:</source>
-        <translation>自动加入：（&amp;A）</translation>
+        <translation>自动加入:(&amp;A)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2240"/>
@@ -6662,7 +6677,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gamesessions.cpp" line="95"/>
         <source>%1: Invitation from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1:邀请从 %2</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gamesessions.cpp" line="205"/>
@@ -6673,7 +6688,7 @@ You lost the game.</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gamesessions.cpp" line="266"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gamesessions.cpp" line="735"/>
         <source>You are allready playing!</source>
-        <translation>你们已经在玩了</translation>
+        <translation>你们已经在玩了!</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gamesessions.cpp" line="381"/>
@@ -6683,7 +6698,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gamesessions.cpp" line="386"/>
         <source>From: %1&lt;br /&gt;Game error.</source>
-        <translation>从: %1&lt;br /&gt;游戏错误</translation>
+        <translation>从: %1&lt;br /&gt;游戏错误.</translation>
     </message>
 </context>
 <context>
@@ -6756,7 +6771,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_general_groupchat.ui" line="163"/>
         <source>Enable hash nick coloring</source>
-        <translation>启用哈希昵称着色“</translation>
+        <translation>启用哈希昵称着色</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_general_groupchat.ui" line="170"/>
@@ -6806,7 +6821,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="28"/>
         <source>Altitude:</source>
-        <translation>海拔高度：</translation>
+        <translation>海拔高度:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="35"/>
@@ -6816,7 +6831,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="42"/>
         <source>Area:</source>
-        <translation>面积：</translation>
+        <translation>面积:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="49"/>
@@ -6826,17 +6841,17 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="56"/>
         <source>Bearing:</source>
-        <translation>轴承：</translation>
+        <translation>轴承:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="63"/>
         <source>GPS bearing (direction in which the entity is heading to reach its next waypoint), measured in decimal degrees relative to true north</source>
-        <translation>GPS轴承（实体标题，以达到其下一个航点的方向），在相对正北十进制度测量</translation>
+        <translation>GPS轴承(实体标题，以达到其下一个航点的方向)，在相对正北十进制度测量</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="70"/>
         <source>Building:</source>
-        <translation>建设：</translation>
+        <translation>建设:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="77"/>
@@ -6856,12 +6871,12 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="98"/>
         <source>Datum:</source>
-        <translation>基准面：</translation>
+        <translation>基准面:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="105"/>
         <source>GPS datum</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS基准</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="112"/>
@@ -6881,12 +6896,12 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="133"/>
         <source>Horizontal GPS error in arc minutes; this element is deprecated in favor of &lt;accuracy/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>在弧分卧式GPS错误；在利于&lt;accuracy/&gt;这个元素被废弃</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="140"/>
         <source>Floor:</source>
-        <translation>楼层：</translation>
+        <translation>楼层:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="147"/>
@@ -6896,7 +6911,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="154"/>
         <source>Latitude:</source>
-        <translation>纬度：</translation>
+        <translation>纬度:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="161"/>
@@ -6916,7 +6931,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="182"/>
         <source>Longitude:</source>
-        <translation>经度：</translation>
+        <translation>经度:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="189"/>
@@ -6926,7 +6941,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="196"/>
         <source>Postalcode:</source>
-        <translation>邮政编码：</translation>
+        <translation>邮政编码:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="203"/>
@@ -6936,7 +6951,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="210"/>
         <source>Region:</source>
-        <translation>地区：</translation>
+        <translation>地区:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="217"/>
@@ -6999,12 +7014,12 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodnetman.cpp" line="59"/>
         <source>Password:</source>
-        <translation>密码</translation>
+        <translation>密码:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodnetman.cpp" line="61"/>
         <source>Confirm password:</source>
-        <translation>确认密码</translation>
+        <translation>确认密码:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodnetman.cpp" line="85"/>
@@ -7022,17 +7037,17 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/skinsplugin/getskinname.ui" line="37"/>
         <source>Name: </source>
-        <translation>名称</translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/skinsplugin/getskinname.ui" line="44"/>
         <source>Author: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/skinsplugin/getskinname.ui" line="54"/>
         <source>Version: </source>
-        <translation>版本</translation>
+        <translation>版本:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/skinsplugin/getskinname.ui" line="84"/>
@@ -7084,7 +7099,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gmailserviceplugin/gmailserviceplugin.cpp" line="886"/>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;邮件.google.com - 来件!&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gmailserviceplugin/gmailserviceplugin.cpp" line="950"/>
@@ -7109,14 +7124,14 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gmailserviceplugin/gmailserviceplugin.cpp" line="996"/>
         <source>Authors: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gmailserviceplugin/gmailserviceplugin.cpp" line="997"/>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
         <translation>在您的gmailbox里显示新信息的通知。
-注：插件只检查您的gmailbox里的收件箱文件夹里的新邮件。当使用服务器端的邮件过滤时，可能不会通知您所有的新邮件</translation>
+注:插件只检查您的gmailbox里的收件箱文件夹里的新邮件。当使用服务器端的邮件过滤时，可能不会通知您所有的新邮件.</translation>
     </message>
 </context>
 <context>
@@ -7129,7 +7144,7 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/unix/gnome3supportplugin/gnome3supportplugin.cpp" line="148"/>
         <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
-        <translation type="unfinished"></translation>
+        <translation>这个插件添加支持的GNOME3的存在状态变化</translation>
     </message>
 </context>
 <context>
@@ -7137,27 +7152,27 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/gnupg.cpp" line="108"/>
         <source>Author: </source>
-        <translation type="unfinished">作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/gnupg.cpp" line="109"/>
         <source>e-mail: </source>
-        <translation type="unfinished">邮件</translation>
+        <translation>电子邮箱:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/gnupg.cpp" line="110"/>
         <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
-        <translation type="unfinished"></translation>
+        <translation>GnuPG密钥管理器可以创建，删除，导出和导入GnuPG密钥。它可以做的只有基本的操作，但我希望这将是足够满足您的需求。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/gnupg.cpp" line="176"/>
         <source>Send GnuPG Public Key</source>
-        <translation type="unfinished"></translation>
+        <translation>发送GnuPG公钥</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/gnupg.cpp" line="269"/>
         <source>Public key %1 sent</source>
-        <translation type="unfinished"></translation>
+        <translation>公钥: %1发送</translation>
     </message>
 </context>
 <context>
@@ -7175,12 +7190,12 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gomokugameplugin.cpp" line="297"/>
         <source>Author: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gomokugameplugin.cpp" line="298"/>
         <source>Email: </source>
-        <translation>邮件</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gomokugameplugin.cpp" line="299"/>
@@ -7196,7 +7211,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gomokugameplugin.cpp" line="413"/>
         <source>Gomoku game!</source>
-        <translation>五子棋游戏</translation>
+        <translation>五子棋游戏!</translation>
     </message>
 </context>
 <context>
@@ -7217,7 +7232,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/gpgprocess.cpp" line="166"/>
         <source>GnuPG program not found</source>
-        <translation type="unfinished"></translation>
+        <translation>找不到GunPG程序</translation>
     </message>
 </context>
 <context>
@@ -7239,7 +7254,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/libpsi/dialogs/grepshortcutkeydialog.cpp" line="30"/>
         <source>Press shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>按快捷键</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/libpsi/dialogs/grepshortcutkeydialog.cpp" line="57"/>
@@ -7332,7 +7347,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="95"/>
         <source>&amp;Hidden</source>
-        <translation>隐藏（&amp;H）</translation>
+        <translation>隐藏(&amp;H)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="98"/>
@@ -7421,12 +7436,12 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/history.ui" line="159"/>
         <source>&amp;Refresh</source>
-        <translation>刷新（&amp;R）</translation>
+        <translation>刷新(&amp;R)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/history.ui" line="177"/>
         <source>&amp;Earliest</source>
-        <translation>最早（&amp;E）</translation>
+        <translation>最早(&amp;E)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/history.ui" line="187"/>
@@ -7441,7 +7456,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/history.ui" line="229"/>
         <source>&amp;Lastest</source>
-        <translation>最新的（&amp;L）</translation>
+        <translation>最新的(&amp;L)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="292"/>
@@ -7476,17 +7491,17 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="399"/>
         <source>&amp;Open chat</source>
-        <translation>与开放聊天（&amp;O）</translation>
+        <translation>与开放聊天(&amp;O)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="400"/>
         <source>&amp;Export history</source>
-        <translation>汇出历史（&amp;E）</translation>
+        <translation>汇出历史(&amp;E)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="401"/>
         <source>&amp;Delete history</source>
-        <translation>删除历史记录（&amp;D）</translation>
+        <translation>删除历史记录(&amp;D)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.cpp" line="66"/>
@@ -7529,12 +7544,12 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/historykeeperplugin/historykeeperplugin.cpp" line="194"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#history_keeper_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/historykeeperplugin/historykeeperplugin.cpp" line="197"/>
         <source>Remove history for contacts:</source>
-        <translation type="unfinished"></translation>
+        <translation>删除联系人历史</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/historykeeperplugin/historykeeperplugin.cpp" line="280"/>
@@ -7544,12 +7559,12 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/historykeeperplugin/historykeeperplugin.cpp" line="291"/>
         <source>Author: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/historykeeperplugin/historykeeperplugin.cpp" line="292"/>
         <source>Email: </source>
-        <translation>邮件</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/historykeeperplugin/historykeeperplugin.cpp" line="293"/>
@@ -7572,7 +7587,7 @@ You can select or deselect a contact for history removal from the context menu o
     <message>
         <location filename="../../psi-plus-snapshots/src/homedirmigration.ui" line="14"/>
         <source>Import Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>导入向导</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/homedirmigration.ui" line="24"/>
@@ -7615,7 +7630,7 @@ p, li {
 &lt;/head&gt;
 &lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;现有的配置文件复制到新的目录，运行所需的PSI +。旧的个人资料将不会被删除。你可以手动将其删除。&lt;br/&gt;
-  &lt;/span&gt; （推荐）。&lt;/p&gt;
+  &lt;/span&gt; (推荐)。&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</translation>
     </message>
@@ -7631,18 +7646,18 @@ p, li {
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+        <translation>&lt;!DOCTYPE HTML 公共 &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;
+&lt;meta name=&quot;qrichtext&quot; 内容=&quot;1&quot; /&gt;
 &lt;style type=&quot;text/css&quot;&gt;
 p, li {
-	white-space: pre-wrap;
+	白色-空间: pre-wrap;
 }
 &lt;/style&gt;
 &lt;/head&gt;
-&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt; 现有的配置文件移动到新的目录。完成时，将被自动删除旧的配置文件。&lt;/p&gt;
+&lt;body 风格=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p 风格=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt; 现有的配置文件移动到新的目录。完成时，将被自动删除旧的配置文件。&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</translation>
     </message>
@@ -7670,7 +7685,7 @@ p, li {
 &lt;/head&gt;
 &lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt; 创建一个新的PSI +配置文件。旧的个人资料将不会被删除，但您将无法选择它。&lt;br/&gt;
-  &lt;/span&gt; （不推荐）。 &lt;/p&gt;
+  &lt;/span&gt; (不推荐)。 &lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</translation>
     </message>
@@ -7898,7 +7913,7 @@ p, li {
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_iconset_emo.ui" line="16"/>
         <source>IconsetEmoUI</source>
-        <translation type="unfinished"></translation>
+        <translation>图标集情绪接口</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_iconset_emo.ui" line="28"/>
@@ -7949,7 +7964,7 @@ p, li {
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_iconset_roster.ui" line="13"/>
         <source>IconsetRosterUI</source>
-        <translation>名单图表集UI</translation>
+        <translation>名单图表集接口</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_iconset_roster.ui" line="29"/>
@@ -8035,7 +8050,7 @@ p, li {
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_iconset_system.ui" line="13"/>
         <source>IconsetSystemUI</source>
-        <translation>图表及系统UI</translation>
+        <translation>图表及系统接口</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_iconset_system.ui" line="28"/>
@@ -8060,7 +8075,9 @@ p, li {
         <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
-        <translation type="unfinished"></translation>
+        <translation>我以Linux可以告诉你，但不要生我的气。当然这个人将会收到此消息。但是最好跟Jabber对话。你将冒着当ICQ消失了没有人知道，granny已经过时了。他的JID: %1.
+
+真诚的，Debian Sid.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="126"/>
@@ -8068,17 +8085,19 @@ Sincerely yours, Debian Sid.</source>
 
 If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
-        <translation type="unfinished"></translation>
+        <translation>我以Linux可以告诉你，但不要生我的气。当然这个人不再用ICQ。如果你在用这个软件的话他将不会在收到你的信息，请和Jabber进行对话。他的JID: %1.
+
+真诚的，Debian Sid.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="271"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="413"/>
         <source>Author: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="414"/>
@@ -8090,7 +8109,7 @@ The plugin has a number of simple settings that can help you:
 * set the max count of messages by contact
 * disable the message for the active window/tab
 * disable messages for contacts that are not in your roster</source>
-        <translation>这个插件的目的是帮助你从ICQ到JABBER传递尽可能多的联系人。插件有一些简单的设置可以帮助你：
+        <translation>这个插件的目的是帮助你从ICQ到JABBER传递尽可能多的联系人。插件有一些简单的设置可以帮助你:
 *设置一个特殊的消息文本
 *排除特定的ICQ网络号码
 *设置时间间隔后，该邮件将被重复
@@ -8104,7 +8123,7 @@ The plugin has a number of simple settings that can help you:
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/imageplugin/imageplugin.cpp" line="160"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#image_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/imageplugin/imageplugin.cpp" line="170"/>
@@ -8144,25 +8163,25 @@ The plugin has a number of simple settings that can help you:
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/imageplugin/imageplugin.cpp" line="282"/>
         <source>Image %1 bytes received.</source>
-        <translation>图像% 1收到的字节</translation>
+        <translation>图像%1收到的字节</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/imageplugin/imageplugin.cpp" line="297"/>
         <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
-        <translation>图像% 1发送 &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt;</translation>
+        <translation>图像%1发送 &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/imageplugin/imageplugin.cpp" line="309"/>
         <source>Authors: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/imageplugin/imageplugin.cpp" line="310"/>
         <source>This plugin is designed to send images to roster contacts.
 Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation>这个插件的目的是将图像发送到联系人名单。您的客户端必须支持xep-0071：xhtml-im和URL方案支持的数据
-注：要想正常工作，选择的选项.ui.聊天.中央工具栏必须设置为真。</translation>
+        <translation>这个插件的目的是将图像发送到联系人名单。您的客户端必须支持xep-0071:xhtml-im和URL方案支持的数据
+注:要想正常工作，选择的选项.ui.聊天.中央工具栏必须设置为真。</translation>
     </message>
 </context>
 <context>
@@ -8310,7 +8329,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus-snapshots/src/info.ui" line="461"/>
         <source>psi/disco</source>
-        <translation type="unfinished"></translation>
+        <translation>psi/迪斯科</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/info.ui" line="468"/>
@@ -8361,7 +8380,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="165"/>
         <source>Edit names</source>
-        <translation>编辑姓名</translation>
+        <translation>编辑名字</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="165"/>
@@ -8433,19 +8452,21 @@ Are you sure you want to discard them?</source>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="334"/>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法检索有关此联系人的信息。
+原因:%1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="337"/>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法发布您的帐户信息。
+原因:%1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="747"/>
         <source>Picture not
 available</source>
-        <translation type="unfinished"></translation>
+        <translation>图片不可用</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="777"/>
@@ -8463,12 +8484,12 @@ available</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/invatedialog.ui" line="22"/>
         <source>Opponent:</source>
-        <translation>对手</translation>
+        <translation>对手:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/invatedialog.ui" line="42"/>
         <source>Select resource:</source>
-        <translation>选择资源</translation>
+        <translation>选择资源:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/invatedialog.ui" line="89"/>
@@ -8526,13 +8547,13 @@ available</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/invitedialog.cpp" line="83"/>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>玩家 %1 邀请你下象棋. 他想玩 %2.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/invatedialog.cpp" line="85"/>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>玩家 %1 邀请你下五子棋. 他想玩 %2.</translation>
     </message>
 </context>
 <context>
@@ -8583,12 +8604,12 @@ to play gomoku. He wants to play %2.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="151"/>
         <source>&lt;b&gt;You:&lt;/b&gt; </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;你:&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="153"/>
         <source>&lt;b&gt;Disk:&lt;/b&gt; </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;光盘:&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="211"/>
@@ -8653,7 +8674,7 @@ to play gomoku. He wants to play %2.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="245"/>
         <source>Are you sure?</source>
-        <translation>你确定吗</translation>
+        <translation>你确定吗？</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/jabberdiskplugin/jd_mainwin.cpp" line="253"/>
@@ -8681,12 +8702,12 @@ to play gomoku. He wants to play %2.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/jabberdiskplugin/jabberdiskplugin.cpp" line="214"/>
         <source>Author: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/jabberdiskplugin/jabberdiskplugin.cpp" line="215"/>
         <source>Email: </source>
-        <translation>邮件</translation>
+        <translation>邮件:</translation>
     </message>
 </context>
 <context>
@@ -8731,12 +8752,12 @@ to play gomoku. He wants to play %2.</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="235"/>
         <source>can&apos;t create folder %1 
 caching avatars will be not available</source>
-        <translation type="unfinished"></translation>
+        <translation>不能创建文件夹%1缓存化身将不可用</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="632"/>
         <source>Time stamp: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>时间戳: %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="699"/>
@@ -8746,13 +8767,13 @@ caching avatars will be not available</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="790"/>
         <source>Send personal message to %1</source>
-        <translation>发送私人讯息给% 1</translation>
+        <translation>发送私人讯息给 %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="796"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="804"/>
         <source>Subscribe to %1&apos;s blog</source>
-        <translation>订阅% 1的博客</translation>
+        <translation>订阅 %1的博客</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="1044"/>
@@ -8767,7 +8788,7 @@ caching avatars will be not available</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="1117"/>
         <source>Authors: </source>
-        <translation type="unfinished"></translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="1118"/>
@@ -8778,7 +8799,12 @@ Currently, the plugin is able to:
 * Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
 
 Note: To work correctly, the option options.html.chat.render	must be set to true. </source>
-        <translation type="unfinished"></translation>
+        <translation>这个插件的设计工作，高效，舒适的服务。Juick微博，插件能够:
+*着色@尼克，*标记和消息中从juick@juick.com机器人＃MESSAGE_ID
+*检测&gt;报价信息
+*启用点击@尼克，*标签，＃的MESSAGE_ID和其他控制元件，将其插入到打字区
+注:要正常工作，的选项opions.html.chat.render必须被设置为true。
+</translation>
     </message>
 </context>
 <context>
@@ -8877,7 +8903,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <location filename="../../psi-plus-snapshots/src/mucaffiliationsmodel.cpp" line="43"/>
         <source>JID</source>
-        <translation type="unfinished">JID</translation>
+        <translation>JID</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/mucaffiliationsmodel.cpp" line="43"/>
@@ -9083,7 +9109,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <location filename="../../psi-plus-snapshots/src/mucjoin.ui" line="164"/>
         <source>Bookmarks:</source>
-        <translation>书签：</translation>
+        <translation>书签:</translation>
     </message>
 </context>
 <context>
@@ -9243,152 +9269,154 @@ Reason: %1</source>
 <context>
     <name>MainWin</name>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="396"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="391"/>
+        <location filename="../tmp/mainwin.cpp" line="401"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="396"/>
         <source>View</source>
         <translation>视图</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="459"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="454"/>
+        <location filename="../tmp/mainwin.cpp" line="464"/>
+        <location filename="../tmp/mainwin.cpp" line="472"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="459"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="467"/>
         <source>Status</source>
         <translation>状态</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="464"/>
-        <location filename="../tmp/mainwin.cpp" line="506"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="459"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="501"/>
+        <location filename="../tmp/mainwin.cpp" line="479"/>
+        <location filename="../tmp/mainwin.cpp" line="524"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="474"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="519"/>
         <source>General</source>
         <translation>通用</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="498"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="493"/>
+        <location filename="../tmp/mainwin.cpp" line="516"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="511"/>
         <source>Menu</source>
         <translation>菜单</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="529"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="524"/>
+        <location filename="../tmp/mainwin.cpp" line="551"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="546"/>
         <source>Tools</source>
         <translation>工具</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="533"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="528"/>
+        <location filename="../tmp/mainwin.cpp" line="555"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="550"/>
         <source>Help</source>
         <translation>帮助</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="547"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="280"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="539"/>
+        <location filename="../tmp/mainwin.cpp" line="569"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="285"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="561"/>
         <source>Diagnostics</source>
         <translation>诊断</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="974"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="963"/>
+        <location filename="../tmp/mainwin.cpp" line="1005"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="994"/>
         <source>&amp;Help</source>
         <translation>帮助(&amp;H)</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1062"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1048"/>
+        <location filename="../tmp/mainwin.cpp" line="1093"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1079"/>
         <source>ReadMe</source>
         <translation>读我</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1136"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1112"/>
+        <location filename="../tmp/mainwin.cpp" line="1167"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1143"/>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
         <translation>这个应用程序使用 GStreamer %1, 一个开放原始码及跨平台的多媒体框架。请参阅 &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt; 以获得更多资料</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1148"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1124"/>
+        <location filename="../tmp/mainwin.cpp" line="1179"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1155"/>
         <source>About GStreamer</source>
         <translation>关于 GStreamer</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1181"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1157"/>
+        <location filename="../tmp/mainwin.cpp" line="1212"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1188"/>
         <source>Security Plugins Diagnostic Text</source>
         <translation>安全插件诊断文字</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1190"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1166"/>
+        <location filename="../tmp/mainwin.cpp" line="1221"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1197"/>
         <source>Key Storage Diagnostic Text</source>
         <translation>Key以密文文本保存</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1310"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1286"/>
+        <location filename="../tmp/mainwin.cpp" line="1341"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1317"/>
         <source>Receive next event</source>
         <translation>接收下一个事件</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1315"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1291"/>
+        <location filename="../tmp/mainwin.cpp" line="1346"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1322"/>
         <source>Un&amp;hide</source>
         <translation>取消隐藏(&amp;H)</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1318"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1294"/>
+        <location filename="../tmp/mainwin.cpp" line="1349"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1325"/>
         <source>&amp;Hide</source>
         <translation>隐藏(&amp;H)</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1363"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1339"/>
+        <location filename="../tmp/mainwin.cpp" line="1394"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1370"/>
         <source>Status Message</source>
         <translation>状态信息</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1392"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1368"/>
+        <location filename="../tmp/mainwin.cpp" line="1423"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1399"/>
         <source>Active accounts:</source>
-        <translation>活跃账户：</translation>
-    </message>
-    <message>
-        <location filename="../tmp/mainwin.cpp" line="1393"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1369"/>
-        <source>
-Active accounts:</source>
-        <translation>
-活跃账户：</translation>
-    </message>
-    <message>
-        <location filename="../tmp/mainwin.cpp" line="1397"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1373"/>
-        <source>Incoming event(s) from:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../tmp/mainwin.cpp" line="1398"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1374"/>
-        <source>
-Incoming event(s) from:</source>
-        <translation type="unfinished"></translation>
+        <translation>活跃账户:</translation>
     </message>
     <message>
         <location filename="../tmp/mainwin.cpp" line="1424"/>
         <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1400"/>
+        <source>
+Active accounts:</source>
+        <translation>
+活跃账户:</translation>
+    </message>
+    <message>
+        <location filename="../tmp/mainwin.cpp" line="1428"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1404"/>
+        <source>Incoming event(s) from:</source>
+        <translation>传入事件:</translation>
+    </message>
+    <message>
+        <location filename="../tmp/mainwin.cpp" line="1429"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1405"/>
+        <source>
+Incoming event(s) from:</source>
+        <translation>传入事件:</translation>
+    </message>
+    <message>
+        <location filename="../tmp/mainwin.cpp" line="1455"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1431"/>
         <source>Connecting</source>
         <translation>正在连接中</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1749"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1725"/>
+        <location filename="../tmp/mainwin.cpp" line="1787"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1763"/>
         <source>1 event received</source>
         <translation>接收到 1 个事件</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1752"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1728"/>
+        <location filename="../tmp/mainwin.cpp" line="1790"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1766"/>
         <source>%1 events received</source>
         <translation>接收到 %1 个事件</translation>
     </message>
@@ -9396,7 +9424,7 @@ Incoming event(s) from:</source>
 <context>
     <name>MainWin::Private</name>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="285"/>
+        <location filename="../tmp/mainwin.cpp" line="290"/>
         <source>Diagnostics</source>
         <translation>诊断</translation>
     </message>
@@ -9481,7 +9509,8 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
         <location filename="../../psi-plus-snapshots/src/miniclient.cpp" line="269"/>
         <source>There was an error communicating with the XMPP server.
 Details: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>这是 XMPP 服务里的一个错误传达.
+详细信息: %1</translation>
     </message>
 </context>
 <context>
@@ -9489,47 +9518,47 @@ Details: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="115"/>
         <source>Type</source>
-        <translation type="unfinished">类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="116"/>
         <source>Name</source>
-        <translation type="unfinished">名称</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="117"/>
         <source>E-Mail</source>
-        <translation type="unfinished">邮件</translation>
+        <translation>邮件</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="118"/>
         <source>Created</source>
-        <translation type="unfinished"></translation>
+        <translation>创建</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="119"/>
         <source>Length</source>
-        <translation type="unfinished"></translation>
+        <translation>长度: </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="120"/>
         <source>Comment</source>
-        <translation type="unfinished">注解</translation>
+        <translation>注解</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="121"/>
         <source>Algorithm</source>
-        <translation type="unfinished"></translation>
+        <translation>算法</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="122"/>
         <source>Short ID</source>
-        <translation type="unfinished"></translation>
+        <translation>短ID</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="123"/>
         <source>Fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>指纹</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/model.cpp" line="27"/>
@@ -9539,7 +9568,7 @@ Details: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/model.cpp" line="27"/>
         <source>JID (or part of JID)</source>
-        <translation>JID(或部分JID）</translation>
+        <translation>JID(或部分JID)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/model.cpp" line="30"/>
@@ -9549,7 +9578,7 @@ Details: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/model.cpp" line="31"/>
         <source>Sounds (if empty default sound will be used)</source>
-        <translation>音效（如为空，将使用默认音效）</translation>
+        <translation>音效(如为空，将使用默认音效)</translation>
     </message>
 </context>
 <context>
@@ -9602,13 +9631,13 @@ Details: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/tagsmodel.cpp" line="171"/>
         <source>Title: %1</source>
-        <translation>标题：%1</translation>
+        <translation>标题:%1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/tagsmodel.cpp" line="173"/>
         <source>
 Tags: %1</source>
-        <translation>标签：%1</translation>
+        <translation>标签:%1</translation>
     </message>
 </context>
 <context>
@@ -9664,7 +9693,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/notes.ui" line="165"/>
         <source>Close</source>
-        <translation type="unfinished">关闭</translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/notes.cpp" line="84"/>
@@ -9698,7 +9727,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_advanced.ui" line="13"/>
         <source>OptAdvancedUI</source>
-        <translation type="unfinished"></translation>
+        <translation>选择高级接口</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_advanced.ui" line="25"/>
@@ -9718,7 +9747,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_advanced.ui" line="56"/>
         <source>Do not send composing events</source>
-        <translation type="unfinished"></translation>
+        <translation>不要发送构成的事件</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_advanced.ui" line="39"/>
@@ -9763,7 +9792,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_advanced.ui" line="105"/>
         <source>XMPP address completion</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP 地址完成</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_advanced.ui" line="112"/>
@@ -9826,7 +9855,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_appearance.ui" line="14"/>
         <source>OptAppearanceUI</source>
-        <translation type="unfinished"></translation>
+        <translation>选择外观接口</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_appearance.ui" line="20"/>
@@ -9956,7 +9985,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_appearance.ui" line="464"/>
         <source>Additional message text:</source>
-        <translation>额外的消息文本：</translation>
+        <translation>额外的消息文本:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_appearance.ui" line="491"/>
@@ -9997,7 +10026,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_appearance_misc.ui" line="16"/>
         <source>OptAppearanceMiscUI</source>
-        <translation type="unfinished"></translation>
+        <translation>选择外观杂项接口</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_appearance_misc.ui" line="28"/>
@@ -10079,7 +10108,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_application.ui" line="67"/>
         <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation>使用 &quot;双击&quot; 模式（像 ICQ）</translation>
+        <translation>使用 &quot;双击&quot; 模式(像 ICQ)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_application.ui" line="74"/>
@@ -10157,7 +10186,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_avcall.ui" line="71"/>
         <source>Video support:</source>
-        <translation>视频支持：</translation>
+        <translation>视频支持:</translation>
     </message>
 </context>
 <context>
@@ -10338,7 +10367,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_events.ui" line="96"/>
         <source>Bounce dock:</source>
-        <translation>反弹码头：</translation>
+        <translation>反弹码头:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_events.ui" line="110"/>
@@ -10381,7 +10410,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="14"/>
         <source>OptPluginsUI</source>
-        <translation>选择性插件UI</translation>
+        <translation>选择性插件接口</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="37"/>
@@ -10391,7 +10420,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="79"/>
         <source>Version: 0</source>
-        <translation>版本：0</translation>
+        <translation>版本:0</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="89"/>
@@ -10489,17 +10518,17 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_popups.ui" line="130"/>
         <source>Maximum JID length:</source>
-        <translation>JID的最大长度：</translation>
+        <translation>JID的最大长度:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_popups.ui" line="156"/>
         <source>Maximum text length:</source>
-        <translation>文字最大长度：</translation>
+        <translation>文字最大长度:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_popups.ui" line="182"/>
         <source>Maximum status length:</source>
-        <translation>地位的最大长度：</translation>
+        <translation>地位的最大长度:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_popups.ui" line="211"/>
@@ -10524,7 +10553,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_popups.ui" line="271"/>
         <source>Avatar size:</source>
-        <translation>头像大小：</translation>
+        <translation>头像大小:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_popups.ui" line="298"/>
@@ -10729,7 +10758,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_sound.ui" line="16"/>
         <source>OptSoundUI</source>
-        <translation>Opt声音UI</translation>
+        <translation>选择声音接口</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_sound.ui" line="36"/>
@@ -10875,32 +10904,32 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="179"/>
         <source>Online:</source>
-        <translation>在线：</translation>
+        <translation>在线:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="215"/>
         <source>Away:</source>
-        <translation>离开：</translation>
+        <translation>离开:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="251"/>
         <source>Free For Chat:</source>
-        <translation>免费聊天：</translation>
+        <translation>免费聊天:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="287"/>
         <source>XA:</source>
-        <translation>XA：</translation>
+        <translation>XA:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="323"/>
         <source>Do Not Disturb:</source>
-        <translation>请勿打扰：</translation>
+        <translation>请勿打扰:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="359"/>
         <source>Invisible:</source>
-        <translation>隐身：</translation>
+        <translation>隐身:</translation>
     </message>
 </context>
 <context>
@@ -10953,7 +10982,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.ui" line="117"/>
         <source>Show presets in menus:</source>
-        <translation>在菜单中显示的默认：</translation>
+        <translation>在菜单中显示的默认:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.ui" line="143"/>
@@ -10978,7 +11007,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.ui" line="179"/>
         <source>Hide standard statuses (Chat, Away, XA, DND)</source>
-        <translation>隐藏标准状态（聊天，离开，XA，DND）</translation>
+        <translation>隐藏标准状态(聊天，离开，XA，DND)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.ui" line="191"/>
@@ -11023,17 +11052,17 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.ui" line="328"/>
         <source>Name:</source>
-        <translation>名称：</translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.ui" line="348"/>
         <source>Status:</source>
-        <translation>状态：</translation>
+        <translation>状态:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.ui" line="371"/>
         <source>Priority:</source>
-        <translation>优先度：</translation>
+        <translation>优先度:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.ui" line="411"/>
@@ -11042,20 +11071,11 @@ Tags: %1</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;
-&lt;style type=&quot;text/css&quot;&gt;
-p, li {
-	white-space: pre-wrap;
-}
-&lt;/style&gt;
-&lt;/head&gt;
-&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;</translation>
+        <translation>&lt;!DOCTYPE HTML 公共 &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta 名字=&quot;qrichtext&quot; 内容=&quot;1&quot; /&gt;&lt;style 风格=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body 风格=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -11101,7 +11121,7 @@ p, li {
     <message>
         <location filename="../../psi-plus-snapshots/src/optioneditor.ui" line="53"/>
         <source>Type:</source>
-        <translation>类型：</translation>
+        <translation>类型:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/optioneditor.ui" line="66"/>
@@ -11111,12 +11131,12 @@ p, li {
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptionseditor.cpp" line="53"/>
         <source>Option Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>选项编辑器</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptionseditor.cpp" line="55"/>
         <source>Edit Option %1</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑选项 %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptionseditor.cpp" line="77"/>
@@ -11157,12 +11177,12 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/redirectorplugin/options.ui" line="22"/>
         <source>Redirect to JID:</source>
-        <translation type="unfinished"></translation>
+        <translation>重定向至JID:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/options.ui" line="22"/>
         <source>Allow receiving one Attention from the same contact every</source>
-        <translation>允许每次从相同的联系人处接受同一个attention</translation>
+        <translation>允许每次从相同的联系人处接受同一个关注</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/options.ui" line="32"/>
@@ -11184,12 +11204,12 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <location filename="../../psi-plus-snapshots/src/plugins/generic/birthdayreminderplugin/options.ui" line="161"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gmailserviceplugin/options.ui" line="178"/>
         <source>Play sound:</source>
-        <translation>播放音效</translation>
+        <translation>播放音效:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/options.ui" line="109"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>ref=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/birthdayreminderplugin/options.ui" line="20"/>
@@ -11240,7 +11260,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/birthdayreminderplugin/options.ui" line="123"/>
         <source>days (0 - automatic update disabled)</source>
-        <translation>天（0-禁用自动更新）</translation>
+        <translation>天(0-禁用自动更新)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/birthdayreminderplugin/options.ui" line="145"/>
@@ -11255,7 +11275,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/birthdayreminderplugin/options.ui" line="213"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/captchaformsplugin/options.ui" line="14"/>
@@ -11276,7 +11296,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/captchaformsplugin/options.ui" line="64"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/options.ui" line="20"/>
@@ -11291,12 +11311,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/options.ui" line="47"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gmailserviceplugin/options.ui" line="22"/>
         <source>Supported accounts:</source>
-        <translation>支持帐户</translation>
+        <translation>支持帐户:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gmailserviceplugin/options.ui" line="54"/>
@@ -11393,17 +11413,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gmailserviceplugin/options.ui" line="165"/>
         <source>Start program:</source>
-        <translation>启动程序</translation>
+        <translation>启动程序:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gmailserviceplugin/options.ui" line="230"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.ui" line="27"/>
         <source>Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>管理者</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.ui" line="51"/>
@@ -11416,37 +11436,37 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.ui" line="58"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>移除</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.ui" line="65"/>
         <source>Import</source>
-        <translation type="unfinished">导入</translation>
+        <translation>输入</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.ui" line="72"/>
         <source>Export</source>
-        <translation type="unfinished">输出</translation>
+        <translation>输出</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.ui" line="92"/>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation>信息</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.ui" line="102"/>
         <source>Settings</source>
-        <translation type="unfinished">设置</translation>
+        <translation>设置</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.ui" line="108"/>
         <source>Auto import a key from the message body</source>
-        <translation type="unfinished"></translation>
+        <translation>从信息本身自动一键输出</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.ui" line="115"/>
         <source>Filter the message with a key</source>
-        <translation type="unfinished"></translation>
+        <translation>用一键过滤信息</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/jabberdiskplugin/options.ui" line="39"/>
@@ -11458,7 +11478,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/jabberdiskplugin/options.ui" line="85"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/pepchangenotifyplugin/options.ui" line="22"/>
@@ -11489,7 +11509,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/pepchangenotifyplugin/options.ui" line="80"/>
         <source>Tune</source>
-        <translation type="unfinished"></translation>
+        <translation>曲调</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/pepchangenotifyplugin/options.ui" line="87"/>
@@ -11509,12 +11529,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/pepchangenotifyplugin/options.ui" line="113"/>
         <source>Sound:</source>
-        <translation>音频</translation>
+        <translation>音频:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/pepchangenotifyplugin/options.ui" line="152"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="30"/>
@@ -11524,32 +11544,32 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="36"/>
         <source>Question:</source>
-        <translation>问题</translation>
+        <translation>问题:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="59"/>
         <source>Answer:</source>
-        <translation>答复</translation>
+        <translation>答复:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="69"/>
         <source>Congratulation:</source>
-        <translation>祝贺的</translation>
+        <translation>祝贺:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="93"/>
         <source>Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>群聊</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="99"/>
         <source>Enable Stop Spam for private messages in groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>在群聊里为私人讯息启用阻止垃圾邮件</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="106"/>
         <source>Enable Stop Spam for affiliations:</source>
-        <translation>启用对affiliations的反垃圾处理</translation>
+        <translation>启用停止垃圾邮件归属:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="112"/>
@@ -11559,7 +11579,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="119"/>
         <source>Admin</source>
-        <translation type="unfinished"></translation>
+        <translation>管理员</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="126"/>
@@ -11574,7 +11594,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="156"/>
         <source>Enable Stop Spam for roles:</source>
-        <translation>启用对角色的反垃圾处理</translation>
+        <translation>启用对角色的反垃圾处理:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="162"/>
@@ -11599,7 +11619,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="206"/>
         <source>Send message:</source>
-        <translation>发送消息</translation>
+        <translation>发送消息:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="224"/>
@@ -11610,7 +11630,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="232"/>
         <source>Number of blocked stanzas:</source>
-        <translation>被屏蔽的局的数量</translation>
+        <translation>被屏蔽的局的数量:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="261"/>
@@ -11635,7 +11655,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="319"/>
         <source>Timeout to reset counter:</source>
-        <translation>超时计数器复位</translation>
+        <translation>超时计数器复位:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="339"/>
@@ -11656,12 +11676,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="409"/>
         <source>Disable stopspam, if don&apos;t match any rule above
 (does not work for muc private messages)</source>
-        <translation>如果不匹配任何上述规则，则禁用stopspam，（不为MUC私人信息工作）</translation>
+        <translation>如果不匹配任何上述规则，则禁用stopspam，(不为MUC私人信息工作)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="421"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/options.ui" line="24"/>
@@ -11681,7 +11701,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/options.ui" line="73"/>
         <source>Default sound: </source>
-        <translation>默认声音</translation>
+        <translation>默认声音:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/options.ui" line="100"/>
@@ -11701,73 +11721,73 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/options.ui" line="175"/>
         <source>Show Watch for JID button in contact context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>在联系上下文目录中给JID显示监视</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/options.ui" line="199"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.cpp" line="57"/>
         <source>from file</source>
-        <translation type="unfinished"></translation>
+        <translation>从文件</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.cpp" line="60"/>
         <source>from clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>从剪贴板</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.cpp" line="68"/>
         <source>to file</source>
-        <translation type="unfinished"></translation>
+        <translation>到文件</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.cpp" line="72"/>
         <source>to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>到剪切板</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.cpp" line="149"/>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.cpp" line="151"/>
         <source>&lt;b&gt;Please wait!&lt;/b&gt;&lt;br/&gt;We need to generate a lot of random bytes. It is a good idea to perform some other action (type on the keyboard, move the mouse, utilize the disks) during the prime generation; this gives the random number generator a better chance to gain enough entropy.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;请等待!&lt;/b&gt;&lt;br/&gt;我们需要生成大量的随机字节。这是一个以执行一些其他动作(在键盘上输入，移动鼠标，利用磁盘)好主意，在黄金一代，这给随机数发生器有更好的机会获得足够的熵。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.cpp" line="170"/>
         <source>Key pair generating</source>
-        <translation type="unfinished"></translation>
+        <translation>密钥对生成</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.cpp" line="222"/>
         <source>Do you want to delete the selected keys?</source>
-        <translation type="unfinished"></translation>
+        <translation>你真的要删除所选的密钥吗？</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.cpp" line="248"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.cpp" line="303"/>
         <source>ASCII (*.asc)</source>
-        <translation type="unfinished"></translation>
+        <translation>【计】 转换图 (*.asc)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.cpp" line="249"/>
         <source>All files (*)</source>
-        <translation type="unfinished">所有档案 (*)</translation>
+        <translation>所有档案 (*)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.cpp" line="410"/>
         <source>GnuPG info</source>
-        <translation type="unfinished"></translation>
+        <translation>GunPG信息</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/options.cpp" line="141"/>
         <source>Authorizing...</source>
-        <translation>授权</translation>
+        <translation>授权...</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/options.cpp" line="143"/>
@@ -11883,7 +11903,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_advanced.cpp" line="75"/>
         <source>&lt;P&gt;Specifies how to treat incoming events:&lt;/P&gt;&lt;P&gt;&lt;B&gt;Normal&lt;/B&gt; - messages come as messages, chats come as chats.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Messages&lt;/B&gt; - All messages/chats come as messages, no matter what their original form was.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Chats&lt;/B&gt; - All messages/chats come as chats, no matter what their original form was.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;指定如何处理传入的事件：&lt;/P&gt;&lt;P&gt;&lt;B&gt;正常&lt;/B&gt; - 消息来消息，聊天室来聊天。&lt;/P&gt;&lt;P&gt;&lt;B&gt;讯息&lt;/B&gt;- 所有消息/聊天来的消息，无论其原来的形式是什么&lt;/P&gt; &lt;P&gt;&lt;B&gt;聊天&lt;/B&gt; - 所有消息/聊天作为聊天，不管其原始形式是什么。&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;指定如何处理传入的事件:&lt;/P&gt;&lt;P&gt;&lt;B&gt;正常&lt;/B&gt; - 消息来消息，聊天室来聊天。&lt;/P&gt;&lt;P&gt;&lt;B&gt;讯息&lt;/B&gt;- 所有消息/聊天来的消息，无论其原来的形式是什么&lt;/P&gt; &lt;P&gt;&lt;B&gt;聊天&lt;/B&gt; - 所有消息/聊天作为聊天，不管其原始形式是什么。&lt;/P&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_advanced.cpp" line="85"/>
@@ -12093,7 +12113,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_application.cpp" line="244"/>
         <source>(TCP: %1, UDP: %1-%2)</source>
-        <translation>（TCP：%1, UDP：%1-%2）</translation>
+        <translation>(TCP:%1, UDP:%1-%2)</translation>
     </message>
 </context>
 <context>
@@ -12154,7 +12174,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_chat.cpp" line="78"/>
         <source>Makes Psi switch tab on active tabbed window when you receive a new message. It does not take the keyboard focus, so it will not interfere with your work.</source>
-        <translation type="unfinished"></translation>
+        <translation>当你收到新的消息使得PSI开关标签上活跃的选项卡式窗口。它并不需要键盘焦点，所以它不会干扰你的工作。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_chat.cpp" line="81"/>
@@ -12412,7 +12432,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="158"/>
         <source>Version: </source>
-        <translation>版本：</translation>
+        <translation>版本:</translation>
     </message>
 </context>
 <context>
@@ -12670,7 +12690,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statuspep.cpp" line="19"/>
         <source>PEP</source>
-        <translation type="unfinished"></translation>
+        <translation>PEP</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statuspep.cpp" line="19"/>
@@ -12693,12 +12713,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_toolbars.cpp" line="236"/>
         <source>Chat</source>
-        <translation type="unfinished">对话</translation>
+        <translation>对话</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_toolbars.cpp" line="237"/>
         <source>Groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>群聊</translation>
     </message>
 </context>
 <context>
@@ -12767,7 +12787,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="35"/>
         <source>Account:</source>
-        <translation>帐户</translation>
+        <translation>帐户:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="52"/>
@@ -12777,22 +12797,22 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="91"/>
         <source>Response mode</source>
-        <translation type="unfinished"></translation>
+        <translation>响应模式</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="99"/>
         <source>allow</source>
-        <translation type="unfinished"></translation>
+        <translation>允许</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="104"/>
         <source>not implemented</source>
-        <translation type="unfinished"></translation>
+        <translation>未实现</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="109"/>
         <source>ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>忽略</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="117"/>
@@ -12843,7 +12863,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="247"/>
         <source>Enable for:</source>
-        <translation>启用</translation>
+        <translation>启用:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="255"/>
@@ -12853,7 +12873,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="278"/>
         <source>Groupchats</source>
-        <translation type="unfinished">群聊</translation>
+        <translation>群聊</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="308"/>
@@ -12896,7 +12916,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="411"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#client_switcher_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/optionswidget.ui" line="22"/>
@@ -12986,7 +13006,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/optionswidget.ui" line="226"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/videostatusplugin/options.ui" line="20"/>
@@ -13026,7 +13046,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/videostatusplugin/options.ui" line="167"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -13171,12 +13191,12 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/pepchangenotifyplugin/pepchangenotifyplugin.cpp" line="318"/>
         <source>Mood changed to &quot;%1</source>
-        <translation>情绪更改为“% 1</translation>
+        <translation>情绪更改为&quot;%1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/pepchangenotifyplugin/pepchangenotifyplugin.cpp" line="350"/>
         <source>Activity changed to &quot;%1</source>
-        <translation>活动更改为“% 1</translation>
+        <translation>活动更改为&quot;%1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/pepchangenotifyplugin/pepchangenotifyplugin.cpp" line="472"/>
@@ -13191,12 +13211,12 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/pepchangenotifyplugin/pepchangenotifyplugin.cpp" line="575"/>
         <source>Author: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/pepchangenotifyplugin/pepchangenotifyplugin.cpp" line="576"/>
         <source>Email: </source>
-        <translation>邮件</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/pepchangenotifyplugin/pepchangenotifyplugin.cpp" line="577"/>
@@ -13263,12 +13283,12 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="23"/>
         <source>Opponent:</source>
-        <translation>对手</translation>
+        <translation>对手:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="66"/>
         <source>Status:</source>
-        <translation>状态</translation>
+        <translation>状态:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="244"/>
@@ -13355,18 +13375,18 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="158"/>
         <source>Win!</source>
-        <translation>赢了</translation>
+        <translation>赢了！</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="161"/>
         <source>Lose.</source>
-        <translation>输了</translation>
+        <translation>输了。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="164"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="530"/>
         <source>Draw.</source>
-        <translation>绘制</translation>
+        <translation>绘制。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="206"/>
@@ -13377,13 +13397,13 @@ Please enter your passphrase below:</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="208"/>
         <source>Opp</source>
         <comment>Opponent</comment>
-        <translation type="unfinished"></translation>
+        <translation>对手</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="212"/>
         <source>%1: %2 - swch</source>
         <comment>Switch color</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1: %2 - 开关 </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="284"/>
@@ -13400,7 +13420,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="285"/>
         <source>Game Error!</source>
-        <translation>游戏错误</translation>
+        <translation>游戏错误！</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="301"/>
@@ -13416,12 +13436,12 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="349"/>
         <source>You Lose.</source>
-        <translation>你输了</translation>
+        <translation>你输了。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="382"/>
         <source>You Win!</source>
-        <translation>你赢了</translation>
+        <translation>你赢了！</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="397"/>
@@ -13439,32 +13459,32 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/pstoplugin/preferences.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>窗体</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/pstoplugin/preferences.ui" line="24"/>
         <source>@username</source>
-        <translation type="unfinished"></translation>
+        <translation>@用户名称</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/pstoplugin/preferences.ui" line="41"/>
         <source>#post_id</source>
-        <translation type="unfinished"></translation>
+        <translation>#发布_身份</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/pstoplugin/preferences.ui" line="58"/>
         <source>* tag</source>
-        <translation type="unfinished"></translation>
+        <translation>*标签</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/pstoplugin/preferences.ui" line="75"/>
         <source>&gt; quote</source>
-        <translation type="unfinished"></translation>
+        <translation>&gt;引用</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/pstoplugin/preferences.ui" line="92"/>
         <source>message</source>
-        <translation type="unfinished">信息</translation>
+        <translation>信息</translation>
     </message>
 </context>
 <context>
@@ -13484,17 +13504,17 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/skinsplugin/previewer.ui" line="40"/>
         <source>Name: </source>
-        <translation>名称</translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/skinsplugin/previewer.ui" line="54"/>
         <source>Author: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/skinsplugin/previewer.ui" line="68"/>
         <source>Version: </source>
-        <translation>版本</translation>
+        <translation>版本:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/skinsplugin/previewer.ui" line="99"/>
@@ -14144,32 +14164,32 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/proxysettingsdlg.ui" line="40"/>
         <source>Type:</source>
-        <translation>类型</translation>
+        <translation>类型:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/proxysettingsdlg.ui" line="63"/>
         <source>Host:</source>
-        <translation>主机</translation>
+        <translation>主机:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/proxysettingsdlg.ui" line="73"/>
         <source>Port:</source>
-        <translation>端口</translation>
+        <translation>端口:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/proxysettingsdlg.ui" line="80"/>
         <source>99999; </source>
-        <translation type="unfinished">99999; </translation>
+        <translation>99999; </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/proxysettingsdlg.ui" line="87"/>
         <source>User:</source>
-        <translation>用户</translation>
+        <translation>用户:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/proxysettingsdlg.ui" line="97"/>
         <source>Password:</source>
-        <translation>密码</translation>
+        <translation>密码:</translation>
     </message>
 </context>
 <context>
@@ -14201,7 +14221,7 @@ Do you want to log out ?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="1706"/>
         <source>Reconnecting</source>
-        <translation type="unfinished"></translation>
+        <translation>重新连接中...</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="1730"/>
@@ -14216,12 +14236,12 @@ Do you want to log out ?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="1747"/>
         <source>Feature Removed</source>
-        <translation type="unfinished"></translation>
+        <translation>移除的功能</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="1748"/>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation type="unfinished"></translation>
+        <translation>此帐户被配置为使用“探头传统的SSL端口”功能，但不再支持此功能。除非您的XMPP服务器是非常过时的，这种变化应该不会影响到你。如果您无法连接，请检查您的帐户设置，正确性或联系您的XMPP服务器管理员。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="1896"/>
@@ -14427,7 +14447,7 @@ Do you want to log out ?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2213"/>
         <source>Wrong Password</source>
-        <translation type="unfinished"></translation>
+        <translation>密码不正确</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2217"/>
@@ -14459,7 +14479,7 @@ Details: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2764"/>
         <source>Whiteboard invitation</source>
-        <translation type="unfinished"></translation>
+        <translation>白板邀请</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2931"/>
@@ -14474,7 +14494,7 @@ Details: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2980"/>
         <source>Logged out</source>
-        <translation type="unfinished"></translation>
+        <translation>退出</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3409"/>
@@ -14484,37 +14504,37 @@ Details: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3514"/>
         <source>Unregister from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>注销从%1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3515"/>
         <source>Are you sure?</source>
-        <translation type="unfinished">你确定吗</translation>
+        <translation>你确定？</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4092"/>
         <source>Name:	</source>
-        <translation type="unfinished"></translation>
+        <translation>名称:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4093"/>
         <source>Version:	</source>
-        <translation type="unfinished"></translation>
+        <translation>版本:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4094"/>
         <source>Os:	</source>
-        <translation type="unfinished"></translation>
+        <translation>Os:	</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4096"/>
         <source>Version Query Information</source>
-        <translation type="unfinished"></translation>
+        <translation>版本查询信息</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="5321"/>
         <source>Headline</source>
-        <translation type="unfinished"></translation>
+        <translation>标题:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6101"/>
@@ -14578,13 +14598,13 @@ Reason: %1.</source>
         <location filename="../tmp/psiactionlist.cpp" line="148"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="148"/>
         <source>Show Roster Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>显示名册组</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="149"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="149"/>
         <source>Enable/disable groups in roster</source>
-        <translation type="unfinished"></translation>
+        <translation>启用/禁用团体名册</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="151"/>
@@ -14688,13 +14708,13 @@ Reason: %1.</source>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="198"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="465"/>
         <source>Active contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>激活联系人</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="199"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="199"/>
         <source>Simple way to find contacts with opened chats</source>
-        <translation type="unfinished"></translation>
+        <translation>用打开会话的简单方式找到联系人</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="209"/>
@@ -14712,7 +14732,7 @@ Reason: %1.</source>
         <location filename="../tmp/psiactionlist.cpp" line="218"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="218"/>
         <source>&amp;XML Console</source>
-        <translation>&amp;XML 终端机</translation>
+        <translation>XML 控制台(&amp;X)</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="222"/>
@@ -14898,37 +14918,37 @@ Reason: %1.</source>
         <location filename="../tmp/psiactionlist.cpp" line="287"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="287"/>
         <source>Set Mood</source>
-        <translation type="unfinished">设置心情</translation>
+        <translation>设置心情</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="288"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="288"/>
         <source>Set Mood for all active accounts</source>
-        <translation type="unfinished">为所有活跃账户的情绪</translation>
+        <translation>为所有活跃账户的情绪</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="290"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="290"/>
         <source>Set Activity</source>
-        <translation type="unfinished"></translation>
+        <translation>设置活动</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="291"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="291"/>
         <source>Set Activity for all active accounts</source>
-        <translation type="unfinished">为所有活跃账户活动</translation>
+        <translation>为所有活跃账户设置活动</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="293"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="293"/>
         <source>Set Geolocation</source>
-        <translation type="unfinished"></translation>
+        <translation>设置地理位置</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="294"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="294"/>
         <source>Set Geolocation for all active accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>为所有活跃账户设置地理位置</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="304"/>
@@ -14988,31 +15008,31 @@ Reason: %1.</source>
         <location filename="../tmp/psiactionlist.cpp" line="339"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="339"/>
         <source>Choose status...</source>
-        <translation type="unfinished">选择状态...</translation>
+        <translation>选择状态...</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="339"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="339"/>
         <source>Choose...</source>
-        <translation type="unfinished">选择...</translation>
+        <translation>选择...</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="340"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="340"/>
         <source>Show dialog to set your status</source>
-        <translation type="unfinished"></translation>
+        <translation>显示对话框来设置您的状态</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="342"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="342"/>
         <source>Reconnect</source>
-        <translation type="unfinished">重新连接</translation>
+        <translation>重新连接</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="343"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="343"/>
         <source>Reconnect all active accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>重新连接所有帐户</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="348"/>
@@ -15098,13 +15118,13 @@ Reason: %1.</source>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="389"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="390"/>
         <source>Psi+ Forum (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi+论坛(在线​​)</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="389"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="389"/>
         <source>Psi+ &amp;Forum (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi+论坛(&amp;F)(在线​​)</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="392"/>
@@ -15112,24 +15132,24 @@ Reason: %1.</source>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="392"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="393"/>
         <source>Join Psi+ Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>加入Psi+讨论室(在线)</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="392"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="392"/>
         <source>&amp;Join Psi+ Discussion Room (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>加入Psi+讨论室(在线)(&amp;J)</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="395"/>
         <location filename="../tmp/psiactionlist.cpp" line="396"/>
         <source>Check for Updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>检查升级...</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="395"/>
         <source>&amp;Check for Updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>检查升级(&amp;C)...</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="398"/>
@@ -15217,7 +15237,7 @@ Reason: %1.</source>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="452"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="494"/>
         <source>Clear Chat Window</source>
-        <translation type="unfinished"></translation>
+        <translation>清空聊天窗口</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="457"/>
@@ -15225,7 +15245,7 @@ Reason: %1.</source>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="453"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="495"/>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>查找:</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="457"/>
@@ -15233,7 +15253,7 @@ Reason: %1.</source>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="453"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="495"/>
         <source>&amp;Find</source>
-        <translation type="unfinished">查找(&amp;F)</translation>
+        <translation>查找(&amp;F)</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="458"/>
@@ -15241,19 +15261,19 @@ Reason: %1.</source>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="454"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="496"/>
         <source>Set Text Format</source>
-        <translation type="unfinished"></translation>
+        <translation>设置文本格式</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="459"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="455"/>
         <source>Add Contact To Roster</source>
-        <translation type="unfinished"></translation>
+        <translation>添加联系人到名册</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="459"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="455"/>
         <source>Add Contact</source>
-        <translation type="unfinished">添加联系人</translation>
+        <translation>添加联系人</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="460"/>
@@ -15261,43 +15281,43 @@ Reason: %1.</source>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="456"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="498"/>
         <source>Select Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>选择图标</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="461"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="457"/>
         <source>Voice Call</source>
-        <translation type="unfinished"></translation>
+        <translation>语音视频</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="462"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="458"/>
         <source>Send File</source>
-        <translation type="unfinished"></translation>
+        <translation>放送文件</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="463"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="459"/>
         <source>Toggle Encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>切换加密</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="464"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="460"/>
         <source>User Info</source>
-        <translation type="unfinished">用户信息</translation>
+        <translation>用户信息</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="465"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="461"/>
         <source>Message History</source>
-        <translation type="unfinished"></translation>
+        <translation>消息历史</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="466"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="462"/>
         <source>Toggle Compact/Full Size</source>
-        <translation type="unfinished"></translation>
+        <translation>切换紧凑型/全尺寸</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="467"/>
@@ -15305,7 +15325,7 @@ Reason: %1.</source>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="463"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="499"/>
         <source>Paste and Send</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴并发送</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="468"/>
@@ -15313,31 +15333,31 @@ Reason: %1.</source>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="464"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="500"/>
         <source>Templates</source>
-        <translation type="unfinished">范本</translation>
+        <translation>范本</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="489"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="485"/>
         <source>Chat basic buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>聊天基本按钮</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="517"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="513"/>
         <source>Groupchat basic buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>群聊基本按钮</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="501"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="497"/>
         <source>Configure Room</source>
-        <translation type="unfinished"></translation>
+        <translation>配置室</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="528"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="524"/>
         <source>Plugins</source>
-        <translation type="unfinished">插件</translation>
+        <translation>插件</translation>
     </message>
 </context>
 <context>
@@ -15345,7 +15365,7 @@ Reason: %1.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="232"/>
         <source>Copy user JID</source>
-        <translation type="unfinished"></translation>
+        <translation>复制用户JID</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="286"/>
@@ -15365,7 +15385,7 @@ Reason: %1.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="694"/>
         <source>Contact has been switched: %1</source>
-        <translation>联系已接通： %1</translation>
+        <translation>联系已接通: %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="875"/>
@@ -15412,13 +15432,13 @@ Reason: %1.</source>
         <location filename="../../psi-plus-snapshots/src/psicli.h" line="16"/>
         <source>Activate program instance running specified profile. Otherwise, open new instance using this profile (unless used together with --remote).</source>
         <comment>do not translate --remote</comment>
-        <translation type="unfinished"></translation>
+        <translation>激活程序实例运行指定的配置文件。否则，打开新的实例，使用此配置文件(除非 - 远程)一起使用。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicli.h" line="22"/>
         <source>Force remote-control mode. If there is no running instance, or --profile was specified but there is no instance using it, exit without doing anything. Cannot be used with --choose-profile.</source>
         <comment>do not translate --profile, --choose-profile</comment>
-        <translation type="unfinished"></translation>
+        <translation>强行远程控制模式。如果没有运行中的实例，或者 - 配置文件指定但没有使用它，而不做任何退出的实例。不能使用 - 请选择 - 个人资料。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicli.h" line="30"/>
@@ -15499,7 +15519,7 @@ Reason: %1.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicli.h" line="61"/>
         <source>Psi - The Cross-Platform XMPP Client For Power Users</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi - 对于超级用户跨平台的XMPP客户端</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicli.h" line="63"/>
@@ -15536,7 +15556,7 @@ Reason: %1.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="537"/>
         <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法加载题材！请确认Psi是正确安装。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="881"/>
@@ -15781,7 +15801,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="368"/>
         <source>Sen&amp;d Status</source>
-        <translation>发送状态（&amp;D）</translation>
+        <translation>发送状态(&amp;D)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="371"/>
@@ -16495,7 +16515,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="82"/>
         <source>Doing The Dishes</source>
-        <translation type="unfinished"></translation>
+        <translation>做菜</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="83"/>
@@ -16510,7 +16530,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="85"/>
         <source>Running An Errand</source>
-        <translation type="unfinished"></translation>
+        <translation>运作任务</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="86"/>
@@ -16540,12 +16560,12 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="93"/>
         <source>Eating</source>
-        <translation type="unfinished">吃饭中</translation>
+        <translation>吃饭中</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="94"/>
         <source>Having A Snack</source>
-        <translation type="unfinished"></translation>
+        <translation>吃小吃</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="95"/>
@@ -16586,7 +16606,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="103"/>
         <source>Jogging</source>
-        <translation type="unfinished"></translation>
+        <translation>慢跑</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="104"/>
@@ -16631,22 +16651,22 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="113"/>
         <source>Getting A Haircut</source>
-        <translation type="unfinished"></translation>
+        <translation>理发</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="114"/>
         <source>Shaving</source>
-        <translation type="unfinished"></translation>
+        <translation>分享</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="115"/>
         <source>Taking A Bath</source>
-        <translation type="unfinished"></translation>
+        <translation>洗澡</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="116"/>
         <source>Taking A Shower</source>
-        <translation type="unfinished"></translation>
+        <translation>淋浴</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="118"/>
@@ -16666,197 +16686,197 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="122"/>
         <source>Hanging Out</source>
-        <translation type="unfinished"></translation>
+        <translation>挂出</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="123"/>
         <source>Hiding</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="124"/>
         <source>On Vacation</source>
-        <translation type="unfinished"></translation>
+        <translation>度假</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="125"/>
         <source>Praying</source>
-        <translation type="unfinished"></translation>
+        <translation>祈祷</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="126"/>
         <source>Scheduled Holiday</source>
-        <translation type="unfinished"></translation>
+        <translation>规划假日</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="127"/>
         <source>Sleeping</source>
-        <translation type="unfinished"></translation>
+        <translation>睡觉</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="128"/>
         <source>Thinking</source>
-        <translation type="unfinished"></translation>
+        <translation>想</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="130"/>
         <source>Relaxing</source>
-        <translation type="unfinished"></translation>
+        <translation>放松</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="131"/>
         <source>Fishing</source>
-        <translation type="unfinished"></translation>
+        <translation>钓鱼</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="132"/>
         <source>Gaming</source>
-        <translation type="unfinished"></translation>
+        <translation>游戏</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="133"/>
         <source>Going Out</source>
-        <translation type="unfinished"></translation>
+        <translation>外出</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="134"/>
         <source>Partying</source>
-        <translation type="unfinished"></translation>
+        <translation>派对</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="135"/>
         <source>Reading</source>
-        <translation type="unfinished"></translation>
+        <translation>读书</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="136"/>
         <source>Rehearsing</source>
-        <translation type="unfinished"></translation>
+        <translation>排练</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="137"/>
         <source>Shopping</source>
-        <translation type="unfinished"></translation>
+        <translation>购物</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="138"/>
         <source>Smoking</source>
-        <translation type="unfinished"></translation>
+        <translation>吸烟</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="139"/>
         <source>Socializing</source>
-        <translation type="unfinished"></translation>
+        <translation>社交</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="140"/>
         <source>Sunbathing</source>
-        <translation type="unfinished"></translation>
+        <translation>日光浴</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="141"/>
         <source>Watching TV</source>
-        <translation type="unfinished"></translation>
+        <translation>看电视</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="142"/>
         <source>Watching A Movie</source>
-        <translation type="unfinished"></translation>
+        <translation>看电影</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="144"/>
         <source>Talking</source>
-        <translation type="unfinished"></translation>
+        <translation>说话</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="145"/>
         <source>In Real Life</source>
-        <translation type="unfinished"></translation>
+        <translation>在现实生活</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="146"/>
         <source>On The Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>电话中</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="147"/>
         <source>On Video Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>视频电话中</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="149"/>
         <source>Traveling</source>
-        <translation type="unfinished"></translation>
+        <translation>旅行</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="150"/>
         <source>Commuting</source>
-        <translation type="unfinished"></translation>
+        <translation>通勤</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="152"/>
         <source>Driving</source>
-        <translation type="unfinished"></translation>
+        <translation>驾驶</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="153"/>
         <source>In A Car</source>
-        <translation type="unfinished"></translation>
+        <translation>在车里</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="154"/>
         <source>On A Bus</source>
-        <translation type="unfinished"></translation>
+        <translation>在公车上</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="155"/>
         <source>On A Plane</source>
-        <translation type="unfinished"></translation>
+        <translation>在飞机上</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="156"/>
         <source>On A Train</source>
-        <translation type="unfinished"></translation>
+        <translation>在火车上</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="157"/>
         <source>On A Trip</source>
-        <translation type="unfinished"></translation>
+        <translation>在旅途中</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="158"/>
         <source>Walking</source>
-        <translation type="unfinished"></translation>
+        <translation>步行</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="160"/>
         <source>Working</source>
-        <translation type="unfinished"></translation>
+        <translation>工作</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="161"/>
         <source>Coding</source>
-        <translation type="unfinished"></translation>
+        <translation>编码</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="162"/>
         <source>In A Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>在一次会议上</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="163"/>
         <source>Studying</source>
-        <translation type="unfinished"></translation>
+        <translation>学习</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="164"/>
         <source>Writing</source>
-        <translation type="unfinished"></translation>
+        <translation>写作</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="167"/>
         <source>Other</source>
-        <translation type="unfinished">其他</translation>
+        <translation>其他</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/adhoc_fileserver.cpp" line="55"/>
@@ -16877,12 +16897,12 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/applicationinfo.cpp" line="297"/>
         <source>Conversion Error</source>
-        <translation type="unfinished"></translation>
+        <translation>转换错误</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/applicationinfo.cpp" line="297"/>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>配置数据为旧版本PSI被发现，但它是不可能的，将其转换为与当前版本。确保你有适当的权限，并没有运行的另一个副本幽，然后再试一次。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/common.cpp" line="174"/>
@@ -16936,79 +16956,79 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.cpp" line="379"/>
         <source>Latitude/Longitude/Altitude: </source>
-        <translation type="unfinished"></translation>
+        <translation>纬度/经度/高度:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.cpp" line="399"/>
         <source>
 Bearing: </source>
-        <translation type="unfinished"></translation>
+        <translation>轴承</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.cpp" line="402"/>
         <source>
 Error: </source>
-        <translation type="unfinished"></translation>
+        <translation>错误:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.cpp" line="405"/>
         <source>
 Datum: </source>
-        <translation type="unfinished"></translation>
+        <translation>基准面:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.cpp" line="408"/>
         <source>
 Country: </source>
-        <translation type="unfinished"></translation>
+        <translation>国家:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.cpp" line="411"/>
         <source>
 Postalcode: </source>
-        <translation type="unfinished"></translation>
+        <translation>邮政编码:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.cpp" line="414"/>
         <source>
 Region: </source>
-        <translation type="unfinished"></translation>
+        <translation>地区:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.cpp" line="417"/>
         <source>
 Locality: </source>
-        <translation type="unfinished"></translation>
+        <translation>位置:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.cpp" line="420"/>
         <source>
 Area: </source>
-        <translation type="unfinished"></translation>
+        <translation>面积:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.cpp" line="423"/>
         <source>
 Street: </source>
-        <translation type="unfinished"></translation>
+        <translation>街道:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.cpp" line="429"/>
         <source>
 Floor: </source>
-        <translation type="unfinished"></translation>
+        <translation>楼层:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.cpp" line="432"/>
         <source>
 Room: </source>
-        <translation type="unfinished"></translation>
+        <translation>房间</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.cpp" line="435"/>
         <source>
 Description: </source>
-        <translation type="unfinished"></translation>
+        <translation>描述:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1141"/>
@@ -17018,17 +17038,17 @@ Description: </source>
     <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1144"/>
         <source>Please set a shortcut for &apos;Change to quick command mode&apos;, use that shortcut and enter &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>租赁设置“更改快捷命令模式”的快捷方式，使用该快捷方式并输入&apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1146"/>
         <source>Please instead press %1 and enter &apos;%2&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>请代替按%1然后输入&apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/messageview.cpp" line="77"/>
         <source>%1 is now %2</source>
-        <translation type="unfinished">%1 现在是 %2</translation>
+        <translation>%1 是现在 %2</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/moodcatalog.cpp" line="69"/>
@@ -17596,159 +17616,162 @@ Description: </source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickdownloader.cpp" line="43"/>
         <source>Warning</source>
-        <translation type="unfinished">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickdownloader.cpp" line="43"/>
         <source>Cannot write to file %1:
 %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法写入文件%1:%2</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="80"/>
         <source>Recommended by @%1</source>
-        <translation type="unfinished"></translation>
+        <translation>推荐@%1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="130"/>
         <source>Reply posted.</source>
-        <translation type="unfinished"></translation>
+        <translation>回复发表</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="137"/>
         <source>New message posted.</source>
-        <translation type="unfinished"></translation>
+        <translation>新消息发表。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="166"/>
         <source> recommended your post </source>
-        <translation type="unfinished"></translation>
+        <translation>推荐你的发表</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="41"/>
         <source>Show all messages</source>
-        <translation type="unfinished"></translation>
+        <translation>显示全部消息</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="42"/>
         <source>Reply</source>
-        <translation type="unfinished"></translation>
+        <translation>回复</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="43"/>
         <source>Show %1&apos;s info and last 10 messages</source>
-        <translation type="unfinished"></translation>
+        <translation>显示 %1的信息和最后10条消息</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="44"/>
         <source>Subscribe</source>
-        <translation type="unfinished"></translation>
+        <translation>订阅</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="45"/>
         <source>Show last 10 messages with tag %1</source>
-        <translation type="unfinished"></translation>
+        <translation>显示最后10条信息标签%1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="46"/>
         <source>Unsubscribe</source>
-        <translation type="unfinished"></translation>
+        <translation>退订</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="160"/>
         <source>Encrypting message to %1 failed.
 The message was not sent.</source>
-        <translation type="unfinished"></translation>
+        <translation>加密消息%1失败。未发送的消息。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="653"/>
         <source>plaintext</source>
-        <translation type="unfinished"></translation>
+        <translation>明文</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="657"/>
         <source>encrypted</source>
-        <translation type="unfinished"></translation>
+        <translation>加密</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="661"/>
         <source>finished</source>
-        <translation type="unfinished"></translation>
+        <translation>完成</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="664"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>未知</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="843"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="875"/>
         <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="844"/>
         <source>Generating keys for account &quot;%1&quot;.
 This may take a while.</source>
-        <translation type="unfinished"></translation>
+        <translation>生成密钥帐户&quot;%1&quot;
+这可能需要一段时间。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="851"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>请等待...</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="861"/>
         <source>Ok</source>
-        <translation type="unfinished">确定</translation>
+        <translation>确定</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="867"/>
         <source>Fingerprint for account &quot;%1&quot;:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>指纹账户 &quot;%1&quot;:
+%2</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="876"/>
         <source>Failed to generate keys for account &quot;%1&quot;.
 The OTR Plugin will not work.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法生成键帐户&quot;%1&quot;
+OTR插件将无法工作。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="935"/>
         <source>&lt;b&gt;The following message received from %1 was &lt;i&gt;not&lt;/i&gt; encrypted:&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;根据收到的消息从 %1 是 &lt;i&gt;没有&lt;/i&gt; 加密的:&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="940"/>
         <source>Your message was not sent. Either end your private conversation, or restart it.</source>
-        <translation type="unfinished"></translation>
+        <translation>你的消息没有发送。除非结束你的私人会话或者重启。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="944"/>
         <source>Unreadable encrypted message was received.</source>
-        <translation type="unfinished"></translation>
+        <translation>不可读的加密消息被接收。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="947"/>
         <source>Received an encrypted message but it cannot be read because no private connection is established yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>收到的加密的消息，但它不能被读出，因为没有专用连接尚未建立。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="952"/>
         <source>Received message is unreadable.</source>
-        <translation type="unfinished"></translation>
+        <translation>接收到的消息不可读</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="955"/>
         <source>Received message contains malformed data.</source>
-        <translation type="unfinished"></translation>
+        <translation>接收到的消息含有异常数据。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="1072"/>
         <source>You have received a new fingerprint from %1:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>你接收到一个新指纹从%1:%2</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/tagsmodel.cpp" line="23"/>
@@ -17762,7 +17785,11 @@ Size: %2
 Date prolongate: %3
 URL: %4
 Password: %5</source>
-        <translation type="unfinished"></translation>
+        <translation>名称: %1
+大小: %2
+日期: %3
+网址: %4
+密码: %5</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodmanage.cpp" line="50"/>
@@ -17784,17 +17811,17 @@ Password: %5</source>
         <location filename="../../psi-plus-snapshots/src/popupmanager.cpp" line="126"/>
         <location filename="../../psi-plus-snapshots/src/psipopupinterface.cpp" line="83"/>
         <source>Headline</source>
-        <translation type="unfinished"></translation>
+        <translation>标题:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/popupmanager.cpp" line="130"/>
         <source>Chat Message</source>
-        <translation type="unfinished"></translation>
+        <translation>聊天消息</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/popupmanager.cpp" line="132"/>
         <source>Groupchat Message</source>
-        <translation type="unfinished"></translation>
+        <translation>群聊消息</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="293"/>
@@ -17835,12 +17862,12 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/privacy/privacylistitem.cpp" line="58"/>
         <source>Presence-In,</source>
-        <translation type="unfinished"></translation>
+        <translation>存在，</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/privacy/privacylistitem.cpp" line="60"/>
         <source>Presence-Out,</source>
-        <translation type="unfinished"></translation>
+        <translation>出现</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/privacy/privacylistitem.cpp" line="62"/>
@@ -17881,7 +17908,7 @@ Password: %5</source>
         <location filename="../../psi-plus-snapshots/src/psidbusnotifier.cpp" line="247"/>
         <location filename="../../psi-plus-snapshots/src/psigrowlnotifier.cpp" line="179"/>
         <source> is typing...</source>
-        <translation type="unfinished">正在输入...</translation>
+        <translation> 正在输入</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psidbusnotifier.cpp" line="254"/>
@@ -17892,17 +17919,17 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/psidbusnotifier.cpp" line="262"/>
         <source>Headline from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>标题从 %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psidbusnotifier.cpp" line="272"/>
         <source>Incoming file from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>进来文件从%1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psidbusnotifier.cpp" line="275"/>
         <source>Incoming call from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>进来的呼叫从%1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psigrowlnotifier.cpp" line="69"/>
@@ -17947,86 +17974,86 @@ Password: %5</source>
         <location filename="../../psi-plus-snapshots/src/psigrowlnotifier.cpp" line="178"/>
         <location filename="../../psi-plus-snapshots/src/psipopupinterface.cpp" line="73"/>
         <source>Typing notify</source>
-        <translation type="unfinished"></translation>
+        <translation>输入通知</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psigrowlnotifier.cpp" line="76"/>
         <location filename="../../psi-plus-snapshots/src/psigrowlnotifier.cpp" line="222"/>
         <location filename="../../psi-plus-snapshots/src/psipopupinterface.cpp" line="98"/>
         <source>Groupchat highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>群聊的亮点</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psigrowlnotifier.cpp" line="77"/>
         <location filename="../../psi-plus-snapshots/src/psigrowlnotifier.cpp" line="231"/>
         <source>Incoming Call</source>
-        <translation type="unfinished">进来的呼叫</translation>
+        <translation>进来的呼叫</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psigrowlnotifier.cpp" line="180"/>
         <source>[Typing notify]</source>
-        <translation type="unfinished"></translation>
+        <translation>【输入通知】</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psigrowlnotifier.cpp" line="190"/>
         <location filename="../../psi-plus-snapshots/src/psigrowlnotifier.cpp" line="200"/>
         <source>[Incoming Message]</source>
-        <translation type="unfinished"></translation>
+        <translation>【进来的信息】</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psigrowlnotifier.cpp" line="212"/>
         <source>[Incoming Headline]</source>
-        <translation type="unfinished"></translation>
+        <translation>【进来的标题】</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psigrowlnotifier.cpp" line="218"/>
         <source>[Incoming File]</source>
-        <translation type="unfinished"></translation>
+        <translation>【进来的档案】</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psigrowlnotifier.cpp" line="227"/>
         <source>[Groupchat highlight]</source>
-        <translation type="unfinished"></translation>
+        <translation>【群聊的亮点】</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psigrowlnotifier.cpp" line="232"/>
         <source>[Incoming Call]</source>
-        <translation type="unfinished"></translation>
+        <translation>【进来的呼叫】</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psipopupinterface.cpp" line="53"/>
         <source>Contact online</source>
-        <translation type="unfinished"></translation>
+        <translation>在线联系</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psipopupinterface.cpp" line="58"/>
         <source>Contact offline</source>
-        <translation type="unfinished"></translation>
+        <translation>脱机联系</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psipopupinterface.cpp" line="63"/>
         <source>Status change</source>
-        <translation type="unfinished"></translation>
+        <translation>状态变化</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psipopupinterface.cpp" line="68"/>
         <source>Incoming message</source>
-        <translation type="unfinished"></translation>
+        <translation>进来的信息</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psipopupinterface.cpp" line="78"/>
         <source>Incoming chat message</source>
-        <translation type="unfinished"></translation>
+        <translation>进来的聊天信息</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psipopupinterface.cpp" line="88"/>
         <source>Incoming file</source>
-        <translation type="unfinished">进来的档案</translation>
+        <translation>进来的档案</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psipopupinterface.cpp" line="93"/>
         <source>Incoming call</source>
-        <translation type="unfinished"></translation>
+        <translation>进来的呼叫</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/rc.cpp" line="48"/>
@@ -18106,12 +18133,12 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/rc.cpp" line="258"/>
         <source>Leave All Conferences</source>
-        <translation type="unfinished"></translation>
+        <translation>保留所有会议</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/theme.cpp" line="51"/>
         <source>Unnamed</source>
-        <translation type="unfinished">未命名</translation>
+        <translation>未命名</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/userlist.cpp" line="804"/>
@@ -18131,7 +18158,7 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/userlist.cpp" line="823"/>
         <source>Activity</source>
-        <translation type="unfinished">活动</translation>
+        <translation>活动</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/userlist.cpp" line="834"/>
@@ -18162,7 +18189,7 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/userlist.cpp" line="915"/>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>时间</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/userlist.cpp" line="936"/>
@@ -18192,7 +18219,7 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/userlist.cpp" line="976"/>
         <source>Presence Error</source>
-        <translation type="unfinished"></translation>
+        <translation>出现错误</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/userlist.cpp" line="985"/>
@@ -18205,17 +18232,17 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/qipxstatusesplugin/qipxstatusesplugin.cpp" line="107"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#qip_x-statuses_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/qipxstatusesplugin/qipxstatusesplugin.cpp" line="349"/>
         <source>Author: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/qipxstatusesplugin/qipxstatusesplugin.cpp" line="350"/>
         <source>Email: </source>
-        <translation>邮件</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/qipxstatusesplugin/qipxstatusesplugin.cpp" line="351"/>
@@ -18228,17 +18255,17 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/redirectorplugin/redirectplugin.cpp" line="126"/>
         <source>Author: </source>
-        <translation type="unfinished">作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/redirectorplugin/redirectplugin.cpp" line="127"/>
         <source>Email: </source>
-        <translation type="unfinished">邮件</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/redirectorplugin/redirectplugin.cpp" line="128"/>
         <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
-        <translation type="unfinished"></translation>
+        <translation>重新定向所有接收信息到一些jid和允许重定向信息还原</translation>
     </message>
 </context>
 <context>
@@ -18331,8 +18358,8 @@ Reason: %1</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="459"/>
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>庆祝生日%n天</numerusform>
         </translation>
     </message>
     <message>
@@ -18359,12 +18386,12 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="536"/>
         <source>Author: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="537"/>
         <source>Email: </source>
-        <translation>邮件</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="538"/>
@@ -18476,7 +18503,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="157"/>
         <source>Upload to server:</source>
-        <translation>上传到服务器</translation>
+        <translation>上传到服务器:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="170"/>
@@ -18577,7 +18604,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.cpp" line="322"/>
         <source>Size: %1x%2px; %3 bytes</source>
-        <translation>尺寸：: %1x%2px; %3 字节</translation>
+        <translation>尺寸:: %1x%2px; %3 字节</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.cpp" line="373"/>
@@ -18592,7 +18619,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.cpp" line="564"/>
         <source>/%1.</source>
-        <translation type="unfinished"></translation>
+        <translation>/%1.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.cpp" line="566"/>
@@ -18608,7 +18635,7 @@ The first time you install this plugin, you need to log on to all of your accoun
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.cpp" line="636"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.cpp" line="686"/>
         <source>%1.</source>
-        <translation type="unfinished">%1.</translation>
+        <translation>%1.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.cpp" line="820"/>
@@ -18623,7 +18650,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.cpp" line="846"/>
         <source>Are you sure?</source>
-        <translation>你确定吗</translation>
+        <translation>你确定吗?</translation>
     </message>
 </context>
 <context>
@@ -18669,7 +18696,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshotplugin.cpp" line="236"/>
         <source>Authors: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshotplugin.cpp" line="237"/>
@@ -18680,10 +18707,10 @@ The plugin has the following settings:
 * File Name -- format of the filename (default: pic-yyyyMMdd-hhmmss, where yyyyMMdd=YYYYMMDD, and hhmmss are current date in the format yearmonthday-hourminutesecond)
 The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</source>
         <translation>这个插件允许你截图并保存到您的硬盘驱动器或上传到网络或服务器。
-该插件具有以下设置：
-*捷径——快捷键（默认的屏幕截图，Ctrl+Alt+P）
-*格式——在其中的文件格式截图将存储（默认：jpg）
-*文件名——文件名格式（默认：pic-yyyymmdd-hhmmss，在yyyymmdd = yyyymmdd，和hhmmss是当前日期的格式yearmonthday-hourminutesecond）
+该插件具有以下设置:
+*捷径——快捷键(默认的屏幕截图，Ctrl+Alt+P)
+*格式——在其中的文件格式截图将存储(默认:jpg)
+*文件名——文件名格式(默认:pic-yyyymmdd-hhmmss，在yyyymmdd = yyyymmdd，和hhmmss是当前日期的格式yearmonthday-hourminutesecond)
 地址的服务器被指定为ftp://ftp.domain.tld/path1/path2</translation>
     </message>
     <message>
@@ -18719,7 +18746,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
     <message>
         <location filename="../../psi-plus-snapshots/src/search.ui" line="110"/>
         <source>psi/search</source>
-        <translation>psi/search</translation>
+        <translation>psi/搜索</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/search.ui" line="136"/>
@@ -18764,7 +18791,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
     <message>
         <location filename="../../psi-plus-snapshots/src/search.ui" line="235"/>
         <source>psi/addContact</source>
-        <translation>psi/addContact</translation>
+        <translation>psi/添加联系人</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/search.ui" line="242"/>
@@ -18774,7 +18801,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
     <message>
         <location filename="../../psi-plus-snapshots/src/search.ui" line="245"/>
         <source>psi/vCard</source>
-        <translation>psi/vCard</translation>
+        <translation>psi/电子名片</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/search.ui" line="292"/>
@@ -18983,17 +19010,17 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/sendbuttonmenu.cpp" line="393"/>
         <source>Paste and &amp;Send</source>
-        <translation>粘贴并发送（&amp;S）</translation>
+        <translation>粘贴并发送(&amp;S)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/sendbuttonmenu.cpp" line="399"/>
         <source>&amp;Edit Templates</source>
-        <translation>编辑范本（&amp;E）</translation>
+        <translation>编辑范本(&amp;E)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/sendbuttonmenu.cpp" line="403"/>
         <source>Only &amp;Paste</source>
-        <translation>只和粘贴（&amp;P）</translation>
+        <translation>只和粘贴(&amp;P)</translation>
     </message>
 </context>
 <context>
@@ -19024,7 +19051,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/serverlistquerier.cpp" line="90"/>
         <source>Invalid redirect URL %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的重定向 URL %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/serverlistquerier.cpp" line="95"/>
@@ -19037,53 +19064,53 @@ Reason: %1</source>
     <message>
         <location filename="../tmp/option_translations.cpp" line="2"/>
         <source>Action List</source>
-        <translation type="unfinished"></translation>
+        <translation>行动清单</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="3"/>
         <source>Service Discovery</source>
-        <translation type="unfinished">查找服务</translation>
+        <translation>查找服务</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="4"/>
         <source>Add Contact</source>
-        <translation type="unfinished">添加联系人</translation>
+        <translation>添加联系人</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="5"/>
         <source>New Message</source>
-        <translation type="unfinished"></translation>
+        <translation>新信息,</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="6"/>
         <source>Join Group Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>加入群聊</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="7"/>
         <source>Account Setup</source>
-        <translation type="unfinished">账号设置</translation>
+        <translation>账号设置</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="8"/>
         <location filename="../tmp/option_translations.cpp" line="15"/>
         <source>Options</source>
-        <translation type="unfinished">选项</translation>
+        <translation>选项</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="9"/>
         <source>File Transfer</source>
-        <translation type="unfinished"></translation>
+        <translation>文件传输</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="10"/>
         <source>Toolbars</source>
-        <translation type="unfinished">工具</translation>
+        <translation>工具</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="11"/>
         <source>XML Console</source>
-        <translation type="unfinished"></translation>
+        <translation>XML 控制台</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="12"/>
@@ -19093,207 +19120,207 @@ Reason: %1</source>
     <message>
         <location filename="../tmp/option_translations.cpp" line="13"/>
         <source>Play Sounds</source>
-        <translation type="unfinished">播放声音</translation>
+        <translation>播放声音</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="14"/>
         <source>Quit</source>
-        <translation type="unfinished">退出</translation>
+        <translation>退出</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="16"/>
         <source>Status</source>
-        <translation type="unfinished">状态</translation>
+        <translation>状态</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="17"/>
         <source>Enable Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>启动组群</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="18"/>
         <source>Event Notifier</source>
-        <translation type="unfinished"></translation>
+        <translation>事件提示器</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="19"/>
         <source>View Groups</source>
-        <translation type="unfinished">视图群组</translation>
+        <translation>视图群组</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="20"/>
         <source>Show Offline Contacts</source>
-        <translation type="unfinished">显示脱机的联系人</translation>
+        <translation>显示脱机的联系人</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="21"/>
         <source>Show Away Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>显示离开的联系人</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="22"/>
         <source>Show Hidden Contacts</source>
-        <translation type="unfinished">显示隐藏的联系人</translation>
+        <translation>显示隐藏的联系人</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="23"/>
         <source>Show Agents</source>
-        <translation type="unfinished"></translation>
+        <translation>显示代理</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="24"/>
         <source>Show Self</source>
-        <translation type="unfinished"></translation>
+        <translation>显示自己</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="25"/>
         <source>Show Status Message</source>
-        <translation type="unfinished"></translation>
+        <translation>显示状态信息</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="26"/>
         <source>Publish Tune</source>
-        <translation type="unfinished">发布音乐</translation>
+        <translation>发布音乐</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="27"/>
         <source>Active contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>激活联系人</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="28"/>
         <source>Status All</source>
-        <translation type="unfinished"></translation>
+        <translation>全部状态</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="29"/>
         <source>Status Group</source>
-        <translation type="unfinished"></translation>
+        <translation>群组状态</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="30"/>
         <source>Status Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>聊天状态</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="31"/>
         <source>Status Online</source>
-        <translation type="unfinished"></translation>
+        <translation>在线状态</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="32"/>
         <source>Status Away</source>
-        <translation type="unfinished"></translation>
+        <translation>离开状态</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="33"/>
         <source>Status XA</source>
-        <translation type="unfinished"></translation>
+        <translation>XA状态</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="34"/>
         <source>Status DND</source>
-        <translation type="unfinished"></translation>
+        <translation>DND状态</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="35"/>
         <source>Status Invisible</source>
-        <translation type="unfinished"></translation>
+        <translation>隐形状态</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="36"/>
         <source>Status Offline</source>
-        <translation type="unfinished"></translation>
+        <translation>离开状态</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="37"/>
         <source>Choose status</source>
-        <translation type="unfinished"></translation>
+        <translation>选择状态</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="38"/>
         <source>Reconnect all accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>重新连接所有帐户</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="39"/>
         <source>Set Mood</source>
-        <translation type="unfinished">设置心情</translation>
+        <translation>设置心情</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="40"/>
         <source>Set Activity</source>
-        <translation type="unfinished"></translation>
+        <translation>用户活动</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="41"/>
         <source>Set Geolocation</source>
-        <translation type="unfinished"></translation>
+        <translation>设置地理位置</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="42"/>
         <source>README</source>
-        <translation type="unfinished"></translation>
+        <translation>读我</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="43"/>
         <source>Tips</source>
-        <translation type="unfinished"></translation>
+        <translation>技巧</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="44"/>
         <source>Psi Forum (Online)</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi论坛(在线​​)</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="45"/>
         <source>Open Help</source>
-        <translation type="unfinished"></translation>
+        <translation>打开帮助</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="46"/>
         <source>Open Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>打开Wiki</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="47"/>
         <source>Open Home Page</source>
-        <translation type="unfinished"></translation>
+        <translation>打开首页</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="48"/>
         <source>Help Psi MUC</source>
-        <translation type="unfinished"></translation>
+        <translation>帮助Psi MUC</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="49"/>
         <source>Report Bug</source>
-        <translation type="unfinished"></translation>
+        <translation>报告错误</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="50"/>
         <source>About Psi</source>
-        <translation type="unfinished"></translation>
+        <translation>关于PSI</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="51"/>
         <source>About PsiMedia</source>
-        <translation type="unfinished"></translation>
+        <translation>关于PsiMedia</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="52"/>
         <source>About Qt</source>
-        <translation type="unfinished"></translation>
+        <translation>关于 Qt</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="53"/>
         <source>QCA plugin diag</source>
-        <translation type="unfinished"></translation>
+        <translation>QCA插件诊断</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="54"/>
         <source>QCA key store diag</source>
-        <translation type="unfinished"></translation>
+        <translation>QCA密钥存储诊断</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="55"/>
@@ -19313,12 +19340,12 @@ Reason: %1</source>
     <message>
         <location filename="../tmp/option_translations.cpp" line="58"/>
         <source>Find text next</source>
-        <translation type="unfinished"></translation>
+        <translation>查找下一个文字</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="59"/>
         <source>Find text previous</source>
-        <translation type="unfinished"></translation>
+        <translation>查找上一个文字</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="60"/>
@@ -19343,32 +19370,32 @@ Reason: %1</source>
     <message>
         <location filename="../tmp/option_translations.cpp" line="64"/>
         <source>Show last message</source>
-        <translation type="unfinished"></translation>
+        <translation>显示最后一个信息</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="65"/>
         <source>Show first message</source>
-        <translation type="unfinished"></translation>
+        <translation>显示第一个信息</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="66"/>
         <source>Show next message</source>
-        <translation type="unfinished"></translation>
+        <translation>显示下一个消息</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="67"/>
         <source>Show prev message</source>
-        <translation type="unfinished"></translation>
+        <translation>显示前一个消息</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="68"/>
         <source>Change case of letters in the chat edit</source>
-        <translation type="unfinished"></translation>
+        <translation>在聊天编辑更改大小写字母</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="69"/>
         <source>Minimize active chat window</source>
-        <translation type="unfinished"></translation>
+        <translation>最小化主动聊天窗口</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="70"/>
@@ -19439,7 +19466,7 @@ Reason: %1</source>
     <message>
         <location filename="../tmp/option_translations.cpp" line="83"/>
         <source>Hide the current window/tab</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏当前窗口/标签</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="84"/>
@@ -19474,7 +19501,7 @@ Reason: %1</source>
     <message>
         <location filename="../tmp/option_translations.cpp" line="91"/>
         <source>Hide all active windows</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏活动窗口</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="92"/>
@@ -19642,7 +19669,7 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/skinsplugin/skinsplugin.cpp" line="143"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#skins_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/skinsplugin/skinsplugin.cpp" line="230"/>
@@ -19653,7 +19680,7 @@ Reason: %1</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/skinsplugin/skinsplugin.cpp" line="230"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/skinsplugin/skinsplugin.cpp" line="287"/>
         <source>*.skn</source>
-        <translation type="unfinished"></translation>
+        <translation>*.skn</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/skinsplugin/skinsplugin.cpp" line="278"/>
@@ -19726,12 +19753,12 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/skinsplugin/skinsplugin.cpp" line="478"/>
         <source>Author: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/skinsplugin/skinsplugin.cpp" line="479"/>
         <source>Email: </source>
-        <translation>邮件</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/skinsplugin/skinsplugin.cpp" line="480"/>
@@ -19746,7 +19773,7 @@ In most cases, to be sure that the skin is applied correctly, you must perform a
 This allows all settings (icons, toolbar layout) to be picked up correctly. </source>
         <translation>这个插件的目的是创建，存储和应用PSI皮肤。皮肤一组自定义设置。
 下载一个新的皮肤，创建一个文件夹命名为皮肤的psidata目录放在新的皮肤。你也可以打开一个皮肤文件。每个皮肤必须在一个单独的目录。您还可以添加一个截图的皮肤文件。
-在大多数情况下，确保皮肤的应用是正确的，你必须执行一系列的行动：
+在大多数情况下，确保皮肤的应用是正确的，你必须执行一系列的行动:
 1。应用皮肤
 2。重新启动应用
 3。应用相同的皮肤
@@ -19882,7 +19909,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/stopspamplugin.cpp" line="739"/>
         <source>Block stanza from </source>
-        <translation type="unfinished"></translation>
+        <translation>阻止从结构</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/stopspamplugin.cpp" line="740"/>
@@ -19903,7 +19930,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/stopspamplugin.cpp" line="1018"/>
         <source>Email: </source>
-        <translation>邮件</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/stopspamplugin.cpp" line="1019"/>
@@ -19926,7 +19953,25 @@ When a user has passed, the test will send a re-authorization request. It should
 The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
-        <translation type="unfinished"></translation>
+        <translation>这个插件的目的是阻止垃圾邮件和其他有害信息，从PSI +的插件是基于用户使用的功能“的原则问题 - 答案” 。
+随着插件的设置，您可以:
+*定义安全提示问题和答案
+*定义一组规则定义是否触发插件接触
+*定义的正确答案的情况下发送短信
+*允许通过弹出窗口的通知
+*启用接触史节省封锁消息
+*定义的主题包裹数量
+*设置的时间间隔后，重置的数量多少的问题将被送到
+*启用阻止私人讯息groupchats
+*选择队伍和群聊参与者的角色，封锁消息将被禁用
+*启用与会者谁不落入例外列表中的角色和职级，其中包括阻止私人邮件中的死锁。
+
+这些规则是从顶部到底部检查。如果该规则已启用 - stopspam被触发，否则 - stopspam不会被触发。在没有规则的情况下触发stopspam名册消息，您可以指定该插件是否会激活或不。对于来自同一个群聊的私人讯息，它会一直工作。
+问题和答案，以及规则的列表是常见的普通消息和在groupchats私人讯息。
+当用户已经过去了，测试将发送一个重新授权请求。应注意的在被送回正确回答安全问题的消息。
+该插件使封锁消息的日志，其中您可以查看通过插件设置。 “复位”按钮删除日志和封锁消息的计数器复位。
+
+警告！注册一个新的运输之前，建议添加JID运输异常。这是由于这样的事实: ，运输登记后，所有联系人的授权请求将被发送，如果运输不作为例外，插件会阻止所有的请求。</translation>
     </message>
 </context>
 <context>
@@ -19934,7 +19979,7 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/storagenotesplugin.cpp" line="85"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#storage_notes_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/storagenotesplugin.cpp" line="159"/>
@@ -19944,19 +19989,19 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/storagenotesplugin.cpp" line="173"/>
         <source>Author: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/storagenotesplugin.cpp" line="174"/>
         <source>Email: </source>
-        <translation>邮件</translation>
+        <translation>邮件:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/storagenotesplugin.cpp" line="175"/>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi+ or Miranda IM.</source>
-        <translation>这个插件是xep-0049的一个工具：私人XML存储。
+        <translation>这个插件是xep-0049的一个工具:私人XML存储。
 该插件完全兼容用Miranda IM保存的笔记。
 该插件的目的是对jabber服务器进行记录，以使得在任何地方均可使用 Psi+ or Miranda IM进入。</translation>
     </message>
@@ -19966,7 +20011,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <message>
         <location filename="../../psi-plus-snapshots/src/tabs/tabdlg.cpp" line="274"/>
         <source>Hide Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏标签</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/tabs/tabdlg.cpp" line="276"/>
@@ -19986,12 +20031,12 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <message>
         <location filename="../../psi-plus-snapshots/src/tabs/tabdlg.cpp" line="317"/>
         <source>Hide Current Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏目前的标签</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/tabs/tabdlg.cpp" line="318"/>
         <source>Hide All Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>全部隐藏标签</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/tabs/tabdlg.cpp" line="319"/>
@@ -20132,12 +20177,12 @@ Please correct and try again.</source>
     <message>
         <location filename="../../psi-plus-snapshots/iris/tools/xmpptest/xmpptest.cpp" line="512"/>
         <source>Bad Stanza &apos;%1&apos;.  Must be &apos;message&apos;, &apos;presence&apos;, or &apos;iq&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>坏节&apos;%1&apos;。必须是&apos;消息&apos;，&apos;存在&apos;，或&apos;智商&apos;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/tools/xmpptest/xmpptest.cpp" line="520"/>
         <source>You must enter at least one stanza!</source>
-        <translation type="unfinished"></translation>
+        <translation>您必须输入至少一个节！</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/tools/xmpptest/xmpptest.cpp" line="675"/>
@@ -20211,7 +20256,7 @@ Please correct and try again.</source>
         <location filename="../../psi-plus-snapshots/iris/tools/xmpptest/test.ui" line="131"/>
         <location filename="../../psi-plus-snapshots/iris/tools/xmpptest/test.ui" line="163"/>
         <source>Host:Port:</source>
-        <translation>主机:埠:</translation>
+        <translation>主机:端口:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/tools/xmpptest/test.ui" line="138"/>
@@ -20441,12 +20486,12 @@ And these work only in groupchat dialog:
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="88"/>
         <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>你知道你可以注册多个XMPP账户与PSI吗？是否可以从你的个人账户分开工作，可以。如果你是一个超级用户，在不稳定的服务器上测试最新的一个XMPP特性，你可以做到 - 在没有第二个客户端连接到您的服务器稳定运行。只要在“帐户设置”屏幕中单击“添加”。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="90"/>
         <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>你想在第三方IM网络聊天，如AIM和ICQ？尝试启用“传输特定的图标”选项。这将允许你快速地看一眼你的好友正在使用哪个网络。然后你就可以说服他切换到XMPP。&lt;icon name=&quot;psi/smile&quot;&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="92"/>
@@ -20461,7 +20506,7 @@ And these work only in groupchat dialog:
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="96"/>
         <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="unfinished"></translation>
+        <translation>你知道Psi是一个唯一的XMPP客户端，可让您连接到多个服务器在同一时间？你应该知道“mrcool@jabber.org”给你的朋友，“John.J.Smith_the_fourth@ mycompany.com”业务联营。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="98"/>
@@ -20476,24 +20521,26 @@ And these work only in groupchat dialog:
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="102"/>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="unfinished"></translation>
+        <translation>为了从不同的IM网络添加联系人，你要从您的XMPP服务器添加相应的代理。看一下Psi菜单 - &gt;服务发现。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="104"/>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation type="unfinished"></translation>
+        <translation>您可以用鼠标右键单击服务器名称名册中执行不同的行动。您可以更改状态，修改帐户设置，执行管理选项(如果您有权限)，以及更多。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="106"/>
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
 &lt;br&gt;&lt;br&gt;
 Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>寻找一个运输或聊天室，但你的服务器提供没有适当的吗？使用PSI菜单 - &gt;服务发现看&lt;i&gt;a任何&lt;/i&gt; 的XMPP服务器很好的服务，通过在地址栏键入其领域。
+- 
+注:有些服务器可能会禁止车辆登记用户从不同的服务器上，但是这是不常见的。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="108"/>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果你在群聊里聊天缺口完成相当频繁，是一个非常宝贵的功能。最有用的快捷键为&lt;tt&gt;标签标签&lt; / tt&gt;的新线开始使用时，或后一步插入谁最后直接解决你的人的绰号。然后，您可以继续按&lt;TT&gt;标签&lt; / tt&gt;的，它会循环上所有的人都在房间里的刻痕时对于较复杂的方案: &lt;TT&gt; mblsha &lt; / TT &gt; ，即&lt;tt&gt;怪物&lt;/ TT &gt;和&lt;tt&gt; MBL革命&lt;/ tt&gt;的都坐在同一个房间里。如果你写入&lt;TT&gt;米&lt; / TT &gt;按&lt;TT&gt;标签&lt;/ tt&gt;中也不会造成任何明显的行动。这是因为有多个缺口，开始使用&lt;tt&gt; M &lt; / TT &gt; ，你可以继续为&lt;tt&gt;标签&lt; / tt&gt;的所有开始使用&lt;tt&gt;米的缺口，通过循环&lt;/ P &gt;写字母越多，直到有一个独特的完成。当你按在&lt;tt&gt; B &lt; / tt&gt;的按钮，然后按&lt;TT&gt;标签&lt;/ P &gt;完成到&lt;tt&gt; MBL &lt; / TT &gt;。越多，您使用此功能，你越有可能来喜欢它，依赖它。有人尝试缺口完成，你就会意识到它是多么强大。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="112"/>
@@ -20635,7 +20682,7 @@ Note: Some server may disable transport registration to users from different ser
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/typeaheadfind.cpp" line="88"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="88"/>
         <source>Search: </source>
-        <translation>仔细检查</translation>
+        <translation>搜索:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/typeaheadfind.cpp" line="109"/>
@@ -20643,7 +20690,7 @@ Note: Some server may disable transport registration to users from different ser
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="109"/>
         <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="167"/>
         <source>&amp;Case sensitive</source>
-        <translation>区分大小写（&amp;C）</translation>
+        <translation>区分大小写(&amp;C)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/typeaheadfind.cpp" line="116"/>
@@ -20744,7 +20791,7 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/uploadmanager.cpp" line="227"/>
         <source>Getting storage...</source>
-        <translation>进行存储</translation>
+        <translation>进行存储...</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/uploadmanager.cpp" line="247"/>
@@ -20754,17 +20801,17 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/uploadmanager.cpp" line="261"/>
         <source>Starting upload...</source>
-        <translation>开始缷载</translation>
+        <translation>开始缷载...</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/uploadmanager.cpp" line="265"/>
         <source>Error opening file!</source>
-        <translation>打开文件错误</translation>
+        <translation>打开文件错误！</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/uploadmanager.cpp" line="284"/>
         <source>Verifying...</source>
-        <translation>验证</translation>
+        <translation>验证...</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/uploadmanager.cpp" line="308"/>
@@ -20782,7 +20829,7 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/videostatusplugin/videostatusplugin.cpp" line="404"/>
         <source>Authors: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/videostatusplugin/videostatusplugin.cpp" line="405"/>
@@ -20799,7 +20846,19 @@ To work with VLC player you need to enable the option &quot;Control Interface D-
 To work with Kaffeine player you must have player version (&gt;= 1.0), additional configuration is not needed; 
 
 To work with GNOME MPlayer additional configuration is not needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>这个插件是专门为设置自定义状态，当您在选定的视频播放器观看视频。
+注:此插件的设计工作，家庭在Linux操作系统和Windows操作系统。
+
+在Linux插件使用DBUS与视频播放器和X11功能检测全屏应用程序。
+在Windows插件使用WINAPI功能来检测全屏应用程序。
+
+要与图腾的球员，你需要启用相应的插件，这个程序员(编辑\插件\的D-Bus);
+
+要使用VLC播放器，您需要启用选项“控制接口的D-Bus”，在“高级设置”选项卡上的“接口”\“控制接口”一节中的玩家设置;
+
+Kaffeine的球员，你必须有播放器版本(&gt; =1.0)，不需要额外的配置;
+
+GNOME M程序员的工作不需要额外的配置。</translation>
     </message>
 </context>
 <context>
@@ -20838,7 +20897,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/viewer.cpp" line="74"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/viewer.cpp" line="100"/>
         <source>Are you sure?</source>
-        <translation>你确定吗</translation>
+        <translation>你确定吗？</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/viewer.cpp" line="89"/>
@@ -20867,17 +20926,17 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gmailserviceplugin/viewmaildlg.ui" line="28"/>
         <source>From:</source>
-        <translation type="unfinished">从:</translation>
+        <translation>从:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gmailserviceplugin/viewmaildlg.ui" line="42"/>
         <source>Subject:</source>
-        <translation>主题</translation>
+        <translation>主题:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gmailserviceplugin/viewmaildlg.ui" line="63"/>
         <source>Account:</source>
-        <translation>帐户</translation>
+        <translation>帐户:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gmailserviceplugin/viewmaildlg.ui" line="87"/>
@@ -20912,7 +20971,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gmailserviceplugin/viewmaildlg.cpp" line="59"/>
         <source>[%1/%2] E-Mail</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1/%2]电子邮件</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gmailserviceplugin/viewmaildlg.cpp" line="124"/>
@@ -20964,7 +21023,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="78"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="104"/>
         <source>Are you sure?</source>
-        <translation>你确定吗</translation>
+        <translation>你确定吗？</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/viewer.cpp" line="93"/>
@@ -21096,7 +21155,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="538"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="578"/>
         <source>Don&apos;t watch for JID</source>
-        <translation type="unfinished"></translation>
+        <translation>不要监视JID</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="598"/>
@@ -21129,12 +21188,12 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="723"/>
         <source>Author: </source>
-        <translation>作者</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="724"/>
         <source>Email: </source>
-        <translation>邮件</translation>
+        <translation>电子邮箱:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="725"/>
@@ -21143,7 +21202,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
         <translation>这个插件的目的是监测具体名单联系人的状态，以替代标准传入音频信息。
 在第一个标签建立联系人列表的状态进行监测。
 当联系人的状态发生变化，一个弹出窗口将显示；并且在线的状态更改时，将播放自定义的音效。
-第二个标签是项目的配置列表，信息同样被监测。每个元素都包含一个通常的算式，以检查以下内容是否匹配：所收到的信息的jid、一个用来检查进入的信息文本是否匹配的通常算式列表、在某些巧合情况下所播放音效的文件路径、以及对于是否音效即使在全局音量关闭的情况下声音依然播放的设定。</translation>
+第二个标签是项目的配置列表，信息同样被监测。每个元素都包含一个通常的算式，以检查以下内容是否匹配:所收到的信息的jid、一个用来检查进入的信息文本是否匹配的通常算式列表、在某些巧合情况下所播放音效的文件路径、以及对于是否音效即使在全局音量关闭的情况下声音依然播放的设定。</translation>
     </message>
 </context>
 <context>
@@ -21151,7 +21210,7 @@ On the first tab set up a list of contacts for the status of which is monitored.
     <message>
         <location filename="../../psi-plus-snapshots/src/whiteboarding/wbdlg.cpp" line="52"/>
         <source>Whiteboard (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>白板(%1)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/whiteboarding/wbdlg.cpp" line="75"/>
@@ -21426,7 +21485,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/xmlconsole.ui" line="13"/>
         <source>XML Console</source>
-        <translation>XML 终端机</translation>
+        <translation>XML 控制台</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/xmlconsole.ui" line="28"/>
@@ -21461,7 +21520,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/xmlconsole.ui" line="124"/>
         <source>Dump Ringbuf</source>
-        <translation type="unfinished"></translation>
+        <translation>转储 Ringbuf</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/xmlconsole.ui" line="131"/>
@@ -21558,212 +21617,212 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="247"/>
         <source>Bad request</source>
-        <translation type="unfinished"></translation>
+        <translation>错误请求</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="247"/>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
-        <translation type="unfinished"></translation>
+        <translation>该发件人发送的XML格式不正确或无法处理。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="248"/>
         <source>Conflict</source>
-        <translation type="unfinished"></translation>
+        <translation>冲突</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="248"/>
         <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
-        <translation type="unfinished"></translation>
+        <translation>因为现有的资源或会话存在具有相同的名称或地址，不能被授予访问。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="249"/>
         <source>Feature not implemented</source>
-        <translation type="unfinished">功能未实现</translation>
+        <translation>未实现功能</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="249"/>
         <source>The feature requested is not implemented by the recipient or server and therefore cannot be processed.</source>
-        <translation type="unfinished"></translation>
+        <translation>由接收者或服务器所请求的功能还没有实现，因此不能被处理。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="250"/>
         <source>Forbidden</source>
-        <translation type="unfinished"></translation>
+        <translation>被禁止</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="250"/>
         <source>The requesting entity does not possess the required permissions to perform the action.</source>
-        <translation type="unfinished"></translation>
+        <translation>请求的实体不具备所需的权限来执行的行动。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="251"/>
         <source>Gone</source>
-        <translation type="unfinished"></translation>
+        <translation>离开</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="251"/>
         <source>The recipient or server can no longer be contacted at this address.</source>
-        <translation type="unfinished"></translation>
+        <translation>在这个地址的收件人或服务器可以不再联络。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="252"/>
         <source>Internal server error</source>
-        <translation type="unfinished">内部服务器错误</translation>
+        <translation>内部服务器错误</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="252"/>
         <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器无法处理的节，因为一个错误配置或其它未定义内部服务器错误。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="253"/>
         <source>Item not found</source>
-        <translation type="unfinished"></translation>
+        <translation>找不到项目</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="253"/>
         <source>The addressed JID or item requested cannot be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法找到解决的JID或项目要求。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="254"/>
         <source>JID malformed</source>
-        <translation type="unfinished"></translation>
+        <translation>JID异常</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="254"/>
         <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
-        <translation type="unfinished"></translation>
+        <translation>发送实体提供或传达一个XMPP地址(例如，&apos;to&apos;属性值)或它们的方面(例如，一个资源标识符)，不坚持在解决方案中定义的语法。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="255"/>
         <source>Not acceptable</source>
-        <translation type="unfinished"></translation>
+        <translation>不接受</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="255"/>
         <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server (e.g., a local policy regarding acceptable words in messages).</source>
-        <translation type="unfinished"></translation>
+        <translation>收件人或服务器理解请求，但拒绝处理它，因为它不符合收件人或服务器的标准定义(例如，一个当地的政策有关可接受的词语消息)。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="256"/>
         <source>Not allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>不允许</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="256"/>
         <source>The recipient or server does not allow any entity to perform the action.</source>
-        <translation type="unfinished"></translation>
+        <translation>收件人或服务器不允许任何实体来执行操作。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="257"/>
         <source>Not authorized</source>
-        <translation type="unfinished"></translation>
+        <translation>未授权</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="257"/>
         <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
-        <translation type="unfinished"></translation>
+        <translation>发送者必须提供正确的凭据，然后才允许执行该操作，或提供不当凭据。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="258"/>
         <source>Recipient unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>收件人不可用</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="258"/>
         <source>The intended recipient is temporarily unavailable.</source>
-        <translation type="unfinished"></translation>
+        <translation>预期的收件人是暂时不可用。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="259"/>
         <source>Redirect</source>
-        <translation type="unfinished"></translation>
+        <translation>重定向</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="259"/>
         <source>The recipient or server is redirecting requests for this information to another entity, usually temporarily.</source>
-        <translation type="unfinished"></translation>
+        <translation>收件人或服务器此信息的请求重定向到另一个实体，通常是暂时的。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="260"/>
         <source>Registration required</source>
-        <translation type="unfinished"></translation>
+        <translation>须注册</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="260"/>
         <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>请求实体未经授权访问所请求的服务，因为需要注册。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="261"/>
         <source>Remote server not found</source>
-        <translation type="unfinished"></translation>
+        <translation>远程服务器未找到</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="261"/>
         <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>部分或全部预期的收件人的JID的远程服务器或指定的服务不存在。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="262"/>
         <source>Remote server timeout</source>
-        <translation type="unfinished"></translation>
+        <translation>远程服务器超时</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="262"/>
         <source>A remote server or service specified as part or all of the JID of the intended recipient (or required to fulfill a request) could not be contacted within a reasonable amount of time.</source>
-        <translation type="unfinished"></translation>
+        <translation>一个合理的时间内，部分或全部预期的收件人(或须履行的请求)的JID指定远程服务器或服务无法联系。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="263"/>
         <source>Resource constraint</source>
-        <translation type="unfinished"></translation>
+        <translation>资源约束</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="263"/>
         <source>The server or recipient lacks the system resources necessary to service the request.</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器或收件人缺乏必要的系统资源，服务请求。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="264"/>
         <source>Service unavailable</source>
-        <translation type="unfinished">服务不可用</translation>
+        <translation>服务不可用</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="264"/>
         <source>The server or recipient does not currently provide the requested service.</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器或收件人目前不提供所要求的服务。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="265"/>
         <source>Subscription required</source>
-        <translation type="unfinished"></translation>
+        <translation>需要订阅</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="265"/>
         <source>The requesting entity is not authorized to access the requested service because a subscription is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>请求实体未经授权访问所请求的服务，因为需要一个订阅。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="266"/>
         <source>Undefined condition</source>
-        <translation type="unfinished"></translation>
+        <translation>不确定状态</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="266"/>
         <source>The error condition is not one of those defined by the other conditions in this list.</source>
-        <translation type="unfinished"></translation>
+        <translation>错误条件是不是在此列表中的其他条件所界定者之一。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="267"/>
         <source>Unexpected request</source>
-        <translation type="unfinished"></translation>
+        <translation>意外要求</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="267"/>
         <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
-        <translation type="unfinished"></translation>
+        <translation>收件人或服务器理解了请求，但没想到在这个时候(例如，请求的顺序)。</translation>
     </message>
 </context>
 <context>
@@ -21780,7 +21839,7 @@ Do you still want to close the window?</source>
         <location filename="../../psi-plus-snapshots/src/xmlconsole.cpp" line="87"/>
         <location filename="../../psi-plus-snapshots/src/xmlconsole.cpp" line="89"/>
         <source>XML Console</source>
-        <translation>XML 终端</translation>
+        <translation>XML 控制台</translation>
     </message>
 </context>
 <context>
@@ -21834,31 +21893,31 @@ Do you still want to close the window?</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/options.ui" line="20"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="20"/>
         <source>Select Sounds:</source>
-        <translation>选择声音</translation>
+        <translation>选择声音:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/options.ui" line="31"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="31"/>
         <source>Game started:</source>
-        <translation>游戏开始</translation>
+        <translation>游戏开始:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/options.ui" line="38"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="38"/>
         <source>Game finished:</source>
-        <translation>游戏结束</translation>
+        <translation>游戏结束:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/options.ui" line="45"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="45"/>
         <source>Your turn:</source>
-        <translation>轮到你了</translation>
+        <translation>轮到你了:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/options.ui" line="52"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="52"/>
         <source>Error message:</source>
-        <translation>错误信息</translation>
+        <translation>错误信息:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/options.ui" line="211"/>
@@ -21881,7 +21940,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="228"/>
         <source>Disable invitations from groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用群聊邀请</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="235"/>
@@ -21896,17 +21955,17 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="252"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="22"/>
         <source>Auto Reply Message If Recv:</source>
-        <translation>如果收到，则自动回复信息</translation>
+        <translation>如果收到，则自动回复信息:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="42"/>
         <source>Auto Reply Message If No Recv:</source>
-        <translation>如果没有收到，则自动回复信息</translation>
+        <translation>如果没有收到，则自动回复信息:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="68"/>
@@ -21917,7 +21976,7 @@ Do you still want to close the window?</source>
 [-+!]other - default
 [-+!]nil - not in list
 # - comment to end line</source>
-        <translation>自定义选项：
+        <translation>自定义选项:
 -uin - 什么也不做
 +uin - 重新发送
 !uin - 封锁消息
@@ -21928,17 +21987,17 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="97"/>
         <source>Pause for next Recv message:</source>
-        <translation>暂停下一条收到的消息</translation>
+        <translation>暂停下一条收到的消息:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="130"/>
         <source>min.</source>
-        <translation>最低限值</translation>
+        <translation>最低限值。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="141"/>
         <source>Max messages to contact:</source>
-        <translation>最大信息联系</translation>
+        <translation>最大信息联系:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="173"/>
@@ -21948,12 +22007,12 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="193"/>
         <source>Transports:</source>
-        <translation>传输</translation>
+        <translation>传输:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="217"/>
         <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -21961,150 +22020,152 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="67"/>
         <source>Authenticate %1</source>
-        <translation type="unfinished"></translation>
+        <translation>验证 %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="68"/>
         <source>To authenticate via question and answer, ask a question whose answer is only known to you and %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>要通过身份验证的问题和答案，问一个只有你自己知道答案的问题%1.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="71"/>
         <source>To authenticate via shared secret, enter a secret only known to you and %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>为了验证通过共享秘密，输入一个只有你知道的秘密%1.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="74"/>
         <source>To authenticate manually, exchange your fingerprints over an authenticated channel and compare each other&apos;s fingerprint with the one listed beneath.</source>
-        <translation type="unfinished"></translation>
+        <translation>要手动验证，通过验证通道和比较对方指纹和下面列出的其中一个交换你的指纹.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="81"/>
         <source>Authenticate to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>验证至 %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="82"/>
         <source>%1 wants to authenticate you. To authenticate, answer the question asked below.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1希望验证你，为了验证，回答下面所问问题。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="85"/>
         <source>%1 wants to authenticate you. To authenticate, enter your shared secret below.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1希望验证你.为了验证.在下面输入共享秘密。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="93"/>
         <source>Question and answer</source>
-        <translation type="unfinished"></translation>
+        <translation>问题和答案</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="94"/>
         <source>Shared secret</source>
-        <translation type="unfinished"></translation>
+        <translation>共享秘密</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="95"/>
         <source>Fingerprint verification</source>
-        <translation type="unfinished"></translation>
+        <translation>指纹验证</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="106"/>
         <source>&amp;Question:</source>
-        <translation type="unfinished"></translation>
+        <translation>问题(&amp;Q):</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="109"/>
         <source>A&amp;nswer:</source>
-        <translation type="unfinished"></translation>
+        <translation>答案(&amp;A):</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="112"/>
         <source>&amp;Shared Secret:</source>
-        <translation type="unfinished"></translation>
+        <translation>共享秘密(&amp;S):</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="117"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">取消(&amp;C)</translation>
+        <translation>取消(&amp;C)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="118"/>
         <source>&amp;Authenticate</source>
-        <translation type="unfinished"></translation>
+        <translation>认证(&amp;A)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="152"/>
         <source>This contact is already authenticated.</source>
-        <translation type="unfinished"></translation>
+        <translation>这个联系已经通过验证</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="158"/>
         <source>No private key for account &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>没有私钥帐户 &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="166"/>
         <source>Your fingerprint:</source>
-        <translation type="unfinished"></translation>
+        <translation>你的指纹:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="168"/>
         <source>%1&apos;s fingerprint:</source>
-        <translation type="unfinished"></translation>
+        <translation>%1&apos;s指纹:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="368"/>
         <source>Account: </source>
-        <translation type="unfinished"></translation>
+        <translation>账号;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="369"/>
         <source>User: </source>
-        <translation type="unfinished"></translation>
+        <translation>用户;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="370"/>
         <source>Fingerprint: </source>
-        <translation type="unfinished"></translation>
+        <translation>指纹;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="371"/>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
-        <translation type="unfinished"></translation>
+        <translation>你已经验证过这个是实际正确的指纹吗？</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="373"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="460"/>
         <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="394"/>
         <source>%1 has canceled the authentication process.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1已经取消认证过程.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="400"/>
         <source>An error occured during the authentication process.</source>
-        <translation type="unfinished"></translation>
+        <translation>在认证过程中发生错误。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="429"/>
         <source>Authentication successful.</source>
-        <translation type="unfinished"></translation>
+        <translation>认证成功</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="434"/>
         <source>You have been successfully authenticated.
 
 You should authenticate %1 as well by asking your own question.</source>
-        <translation type="unfinished"></translation>
+        <translation>您已经成功认证
+
+您应该认证%1以及问你自己的问题</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="442"/>
         <source>Authentication failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>认证已失败。</translation>
     </message>
 </context>
 <context>
@@ -22112,17 +22173,17 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="67"/>
         <source>Known fingerprints</source>
-        <translation type="unfinished"></translation>
+        <translation>已知手纹印</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="70"/>
         <source>My private keys</source>
-        <translation type="unfinished"></translation>
+        <translation>我的私钥</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="73"/>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>格局</translation>
     </message>
 </context>
 <context>
@@ -22130,32 +22191,32 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="90"/>
         <source>OTR Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>OTR原则</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="95"/>
         <source>Disable private messaging</source>
-        <translation type="unfinished"></translation>
+        <translation>禁止私人消息</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="96"/>
         <source>Manually start private messaging</source>
-        <translation type="unfinished"></translation>
+        <translation>手动启动私人消息</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="97"/>
         <source>Automatically start private messaging</source>
-        <translation type="unfinished"></translation>
+        <translation>自动启动私人消息</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="98"/>
         <source>Require private messaging</source>
-        <translation type="unfinished"></translation>
+        <translation>要求私人消息</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="100"/>
         <source>End session when contact goes offline</source>
-        <translation type="unfinished"></translation>
+        <translation>联络脱机时结束会话</translation>
     </message>
 </context>
 <context>
@@ -22163,82 +22224,82 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="177"/>
         <source>Delete fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>删除指纹</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="178"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="327"/>
         <source>Verify fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>验证指纹</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="201"/>
         <source>Account</source>
-        <translation type="unfinished">账号</translation>
+        <translation>账号</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="202"/>
         <source>User</source>
-        <translation type="unfinished"></translation>
+        <translation>用户</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="202"/>
         <source>Fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>指纹</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="203"/>
         <source>Verified</source>
-        <translation type="unfinished"></translation>
+        <translation>已验证</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="203"/>
         <source>Status</source>
-        <translation type="unfinished">状态</translation>
+        <translation>状态</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="247"/>
         <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation type="unfinished"></translation>
+        <translation>你确定要删除选定的指纹？</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="248"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="277"/>
         <source>Account: </source>
-        <translation type="unfinished"></translation>
+        <translation>帐户:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="249"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="278"/>
         <source>User: </source>
-        <translation type="unfinished"></translation>
+        <translation>用户:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="250"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="279"/>
         <source>Fingerprint: </source>
-        <translation type="unfinished"></translation>
+        <translation>指纹:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="252"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="281"/>
         <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="276"/>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
-        <translation type="unfinished"></translation>
+        <translation>你已经验证过这个是实际正确的指纹吗？</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="326"/>
         <source>Delete</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="328"/>
         <source>Copy fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>复制指纹</translation>
     </message>
 </context>
 <context>
@@ -22246,60 +22307,60 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="356"/>
         <source>Generate new key</source>
-        <translation type="unfinished"></translation>
+        <translation>生成新的密钥</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="366"/>
         <source>Delete key</source>
-        <translation type="unfinished"></translation>
+        <translation>删除密钥</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="396"/>
         <source>Account</source>
-        <translation type="unfinished">账号</translation>
+        <translation>账号</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="397"/>
         <source>Fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>手纹印</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="433"/>
         <source>Are you sure you want to delete the following key?</source>
-        <translation type="unfinished"></translation>
+        <translation>你确定要删除选定的密钥？</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="434"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="466"/>
         <source>Account: </source>
-        <translation type="unfinished"></translation>
+        <translation>帐户:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="435"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="467"/>
         <source>Fingerprint: </source>
-        <translation type="unfinished"></translation>
+        <translation>指纹:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="437"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="469"/>
         <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="465"/>
         <source>Are you sure you want to overwrite the following key?</source>
-        <translation type="unfinished"></translation>
+        <translation>你确定你要覆盖以下关键吗？</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="517"/>
         <source>Delete</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="518"/>
         <source>Copy fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>复制手纹印</translation>
     </message>
 </context>
 <context>
@@ -22307,69 +22368,70 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="575"/>
         <source>No active encrypted session</source>
-        <translation type="unfinished"></translation>
+        <translation>没有开通加密会话</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="579"/>
         <source>Session ID between account &quot;%1&quot; and %2:&lt;br/&gt;%3</source>
-        <translation type="unfinished"></translation>
+        <translation>会话身份在帐号&quot;%1&quot; 和 %2:&lt;br/&gt;%3</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="585"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="612"/>
         <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="607"/>
         <source>No private key for account &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>没有私钥账户 &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="610"/>
         <source>Fingerprint for account &quot;%1&quot;:
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>指纹账户 &quot;%1&quot;:
+%2</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="640"/>
         <source>unverified</source>
-        <translation type="unfinished"></translation>
+        <translation>未经证实的</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="648"/>
         <source>OTR Messaging [%1]</source>
-        <translation type="unfinished"></translation>
+        <translation>OTR 信息 [%1]</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="652"/>
         <source>Refre&amp;sh private conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>刷新私人对话(&amp;R)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="659"/>
         <source>&amp;Start private conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>开始私人会话(&amp;S)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="695"/>
         <source>&amp;End private conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>结束私人会话(&amp;E)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="701"/>
         <source>&amp;Authenticate contact</source>
-        <translation type="unfinished"></translation>
+        <translation>验证联系(&amp;A)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="705"/>
         <source>Show secure session &amp;ID</source>
-        <translation type="unfinished"></translation>
+        <translation>显示安全会话身份(&amp;ID)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="709"/>
         <source>Show own &amp;fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation>显示自己的指纹(&amp;F)</translation>
     </message>
 </context>
 <context>
@@ -22377,122 +22439,122 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="242"/>
         <source>Off-the-Record Messaging plugin for Psi+</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi+场外的记录通讯插件</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="243"/>
         <source>Authors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>作者: %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="245"/>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
-        <translation type="unfinished"></translation>
+        <translation>场外的记录(OTR)消息，可以让你有超过即时通讯提供的私人谈话:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="247"/>
         <source>Encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>加密</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="248"/>
         <source>No one else can read your instant messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>没有人可以读你的即时消息</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="249"/>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>认证</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="250"/>
         <source>You are assured the correspondent is who you think it is.</source>
-        <translation type="unfinished"></translation>
+        <translation>你认为谁是你放心的通信者</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="251"/>
         <source>Deniability</source>
-        <translation type="unfinished"></translation>
+        <translation>不可否认性</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="252"/>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
-        <translation type="unfinished"></translation>
+        <translation>您发送的消息不具有数字签名是由第三方检查的。任何人都可以伪造消息的谈话后，使它们看起来像他们来自你。然而，在对话过程中，记者是有保证的，他看到的消息是真实的和未修改的。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="257"/>
         <source>Perfect forward secrecy</source>
-        <translation type="unfinished"></translation>
+        <translation>完善的正向保密</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="258"/>
         <source>If you lose control of your private keys, no previous conversation is compromised.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果你的私人密钥失控，没有以前的谈话就会大打折扣</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="260"/>
         <source>For further information, see &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>如需进一步信息，请参阅&lt;http://www.cypherpunks.ca/otr/&gt;。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="638"/>
         <source>Psi OTR</source>
-        <translation type="unfinished"></translation>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="674"/>
         <source>Attempting to refresh the private conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>尝试刷新私人谈话</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="675"/>
         <source>Attempting to start a private conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>尝试启动一个私人谈话</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="679"/>
         <source>Private conversation started</source>
-        <translation type="unfinished"></translation>
+        <translation>私人会话已开始</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="680"/>
         <source>Unverified conversation started</source>
-        <translation type="unfinished"></translation>
+        <translation>未经证实的谈话开始</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="686"/>
         <source>Private conversation lost</source>
-        <translation type="unfinished"></translation>
+        <translation>私人会话已丢失</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="691"/>
         <source>Private conversation closed</source>
-        <translation type="unfinished"></translation>
+        <translation>私人会话已关闭</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="696"/>
         <source>%1 has ended the private conversation with you; you should do the same.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1已经结束了和你的私人会话;你应该做同样的.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="703"/>
         <source>Private conversation refreshed</source>
-        <translation type="unfinished"></translation>
+        <translation>私人谈话已刷新</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="704"/>
         <source>Unverified conversation refreshed</source>
-        <translation type="unfinished"></translation>
+        <translation>未经证实的谈话已刷新</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="710"/>
         <source>Contact authenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>联系身份验证</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="711"/>
         <source>Contact not authenticated</source>
-        <translation type="unfinished"></translation>
+        <translation>联系未身份验证</translation>
     </message>
 </context>
 <context>
@@ -22505,12 +22567,12 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/requestauthdialog.ui" line="38"/>
         <source>Login:</source>
-        <translation>登录进入系统</translation>
+        <translation>登录:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/requestauthdialog.ui" line="55"/>
         <source>Password:</source>
-        <translation>密码</translation>
+        <translation>密码:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/requestauthdialog.ui" line="75"/>
@@ -22520,7 +22582,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/requestauthdialog.ui" line="109"/>
         <source>Captcha:</source>
-        <translation>验证码</translation>
+        <translation>验证码:</translation>
     </message>
 </context>
 <context>
@@ -22558,37 +22620,37 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/settings.ui" line="115"/>
         <source>@username</source>
-        <translation type="unfinished"></translation>
+        <translation>@用户名称</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/settings.ui" line="243"/>
         <source>*tag</source>
-        <translation type="unfinished"></translation>
+        <translation>*标签</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/settings.ui" line="371"/>
         <source>#message id</source>
-        <translation type="unfinished"></translation>
+        <translation>#信息 ID</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/settings.ui" line="499"/>
         <source>&gt;quote</source>
-        <translation type="unfinished"></translation>
+        <translation>&gt;引用</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/settings.ui" line="627"/>
         <source>http://link</source>
-        <translation type="unfinished"></translation>
+        <translation>http://链接</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/settings.ui" line="761"/>
         <source>Use message Id as resource</source>
-        <translation type="unfinished"></translation>
+        <translation>作为资源使用消息ID</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/settings.ui" line="768"/>
         <source>Show Photo</source>
-        <translation type="unfinished"></translation>
+        <translation>显示照片</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/settings.ui" line="775"/>
@@ -22599,7 +22661,8 @@ You should authenticate %1 as well by asking your own question.</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/settings.ui" line="782"/>
         <source>Replaces message id with a link
 to this message in juick@conference.jabber.ru</source>
-        <translation type="unfinished"></translation>
+        <translation>用链接来替换消息ID到
+此消息在juick@conference.jabber.ru</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/settings.ui" line="807"/>
@@ -22609,7 +22672,7 @@ to this message in juick@conference.jabber.ru</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/settings.ui" line="818"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#juick_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -22617,22 +22680,22 @@ to this message in juick@conference.jabber.ru</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/uploaddialog.cpp" line="48"/>
         <source>File: </source>
-        <translation>文件</translation>
+        <translation>文件:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/uploaddialog.cpp" line="66"/>
         <source>Progress: </source>
-        <translation>程序</translation>
+        <translation>程序:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/uploaddialog.cpp" line="75"/>
         <source>Elapsed time: </source>
-        <translation>经过的时间</translation>
+        <translation>经过的时间:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/uploaddialog.cpp" line="79"/>
         <source>Speed: </source>
-        <translation>速度</translation>
+        <translation>速度:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/uploaddialog.cpp" line="79"/>
@@ -22665,7 +22728,7 @@ to this message in juick@conference.jabber.ru</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/uploaddialog.ui" line="32"/>
         <source>Uploading...</source>
-        <translation>上传中</translation>
+        <translation>上传中...</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/uploaddialog.ui" line="42"/>
@@ -22675,27 +22738,27 @@ to this message in juick@conference.jabber.ru</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/uploaddialog.ui" line="52"/>
         <source>File: </source>
-        <translation>文件</translation>
+        <translation>文件:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/uploaddialog.ui" line="62"/>
         <source>Progress:</source>
-        <translation>程序</translation>
+        <translation>程序:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/uploaddialog.ui" line="69"/>
         <source>Elapsed time:</source>
-        <translation>经过的时间</translation>
+        <translation>经过的时间:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/uploaddialog.ui" line="76"/>
         <source>Speed:</source>
-        <translation>速度</translation>
+        <translation>速度:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/uploaddialog.ui" line="89"/>
         <source>Link: </source>
-        <translation>链接</translation>
+        <translation>链接:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/uploaddialog.ui" line="146"/>
@@ -22708,22 +22771,22 @@ to this message in juick@conference.jabber.ru</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/common.cpp" line="89"/>
         <source>Full Name:</source>
-        <translation>全名</translation>
+        <translation>全名:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/common.cpp" line="91"/>
         <source>Nick:</source>
-        <translation>绰号</translation>
+        <translation>绰号:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/common.cpp" line="93"/>
         <source>Birthday:</source>
-        <translation>生日</translation>
+        <translation>生日:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/common.cpp" line="95"/>
         <source>E-Mail:</source>
-        <translation>邮件</translation>
+        <translation>电子邮箱:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/common.cpp" line="113"/>
@@ -22746,7 +22809,7 @@ to this message in juick@conference.jabber.ru</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodmanage.cpp" line="258"/>
         <source>Are you sure?</source>
-        <translation>你确定吗</translation>
+        <translation>你确定吗？</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodmanage.cpp" line="356"/>
@@ -22789,7 +22852,7 @@ to this message in juick@conference.jabber.ru</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodmanage.ui" line="125"/>
         <source>Actions:</source>
-        <translation>行动</translation>
+        <translation>行动:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodmanage.ui" line="144"/>
@@ -22815,7 +22878,7 @@ line2</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodmanage.ui" line="292"/>
         <source>Files list:</source>
-        <translation>文件列表</translation>
+        <translation>文件列表:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodmanage.ui" line="321"/>
@@ -22848,18 +22911,19 @@ line2</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodnetman.cpp" line="205"/>
         <source>Deleting files...</source>
-        <translation>删除文件</translation>
+        <translation>删除文件...</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodnetman.cpp" line="205"/>
         <source>Prolongate files...</source>
-        <translation>延长文件</translation>
+        <translation>延长文件...</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodnetman.cpp" line="268"/>
         <source>Cookies are obsolete!
 Reathorization...</source>
-        <translation type="unfinished"></translation>
+        <translation>浏览数据过时！
+重新授权</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodnetman.cpp" line="276"/>
@@ -22871,7 +22935,7 @@ Try remove cookies.</source>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodnetman.cpp" line="318"/>
         <source>Filelist downloaded
 (%1 files)</source>
-        <translation>文件列表下载（%1文件）</translation>
+        <translation>文件列表下载(%1文件)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodnetman.cpp" line="328"/>
@@ -22969,12 +23033,16 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML 公共 &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta 名字=&quot;qrichtext&quot; 内容=&quot;1&quot; /&gt;&lt;style 风格=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body 风格=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodsettings.ui" line="105"/>
         <source>%N - file name; %U - file URL; %S - file size</source>
-        <translation type="unfinished"></translation>
+        <translation>%N - 文件名; %U - 文件 URL; %S - 文件大小</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodsettings.ui" line="112"/>
@@ -22984,7 +23052,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodsettings.ui" line="119"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (在线)&lt;/a&gt;</translation>
     </message>
 </context>
 </TS>

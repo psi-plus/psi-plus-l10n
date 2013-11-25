@@ -65,7 +65,7 @@
         <source>psi/psiplus_logo</source>
         <translation>psi/psiplus_logo</translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="../../psi-plus-snapshots/src/about.ui" line="106"/>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
@@ -3038,7 +3038,7 @@ You can specify the version of the client and OS or to select them from the pres
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="332"/>
         <source>Groupchat History</source>
-        <translation type="unfinished"></translation>
+        <translation>Groupchat History</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="343"/>
@@ -3046,11 +3046,10 @@ You can specify the version of the client and OS or to select them from the pres
 Groupchats logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with groupchat.
 
 Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Conference History</source>
-        <translation type="obsolete">Conference History</translation>
+        <translation>This plugin is designed to save groupchat logs in which the Psi+ user sits.
+Groupchats logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with groupchat.
+
+Note: To work correctly, the the Groupchat Toolbar must be enabled.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="341"/>
@@ -3061,16 +3060,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="342"/>
         <source>Email: </source>
         <translation>Email: </translation>
-    </message>
-    <message>
-        <source>This plugin is designed to save conference logs in which the Psi+ user sits.
-Conferences logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with conference.
-
-Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="obsolete">This plugin is designed to save conference logs in which the Psi+ user sits.
-Conferences logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with conference.
-
-Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</translation>
     </message>
 </context>
 <context>
@@ -4942,10 +4931,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <translation>Chat</translation>
     </message>
     <message>
-        <source>Conference</source>
-        <translation type="obsolete">Conference</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="278"/>
         <source>Tabs</source>
         <translation>Tabs</translation>
@@ -4978,10 +4963,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <translation>Misc</translation>
     </message>
     <message>
-        <source>Enable central toolbar</source>
-        <translation type="obsolete">Enable central toolbar</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="290"/>
         <source>Ask for confirmation before clearing chat window</source>
         <translation>Ask for confirmation before clearing chat window</translation>
@@ -5000,10 +4981,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="296"/>
         <source>Show Avatar</source>
         <translation>Show Avatar</translation>
-    </message>
-    <message>
-        <source>Disable &quot;Paste and Send&quot; button</source>
-        <translation type="obsolete">Disable &quot;Paste and Send&quot; button</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="297"/>
@@ -5082,18 +5059,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <translation>Show roles and affiliations changes</translation>
     </message>
     <message>
-        <source>Enable autojoin for bookmarked conferences</source>
-        <translation type="obsolete">Enable autojoin for bookmarked conferences</translation>
-    </message>
-    <message>
-        <source>Hide conference on auto-join</source>
-        <translation type="obsolete">Hide conference on auto-join</translation>
-    </message>
-    <message>
-        <source>Enable HTML rendering in MUC chat window</source>
-        <translation type="obsolete">Enable HTML rendering in MUC chat window</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="363"/>
         <source>Automatically accept the default room configuration</source>
         <translation>Automatically accept the default room configuration</translation>
@@ -5116,54 +5081,41 @@ This option only has effect if accept-defaults is false.</source>
 This option only has effect if accept-defaults is false.</translation>
     </message>
     <message>
-        <source>Disable autojoin to folowing conferences:
-(specify JIDs)</source>
-        <translation type="obsolete">Disable autojoin to folowing conferences:
-(specify JIDs)</translation>
-    </message>
-    <message>
-        <source>MUC leave status message:</source>
-        <translation type="obsolete">MUC leave status message:</translation>
-    </message>
-    <message>
-        <source>Place MUC roster at left</source>
-        <translation type="obsolete">Place MUC roster at left</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="277"/>
         <source>Groupchat</source>
-        <translation type="unfinished">Groupchat</translation>
+        <translation>Groupchat</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="358"/>
         <source>Enable autojoin for bookmarked groupchats</source>
-        <translation type="unfinished"></translation>
+        <translation>Enable autojoin for bookmarked groupchats</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="359"/>
         <source>Hide groupchat on auto-join</source>
-        <translation type="unfinished"></translation>
+        <translation>Hide groupchat on auto-join</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="360"/>
         <source>Enable HTML rendering in groupchat chat window</source>
-        <translation type="unfinished"></translation>
+        <translation>Enable HTML rendering in groupchat chat window</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="383"/>
         <source>Disable autojoin to folowing groupchats:
 (specify JIDs)</source>
-        <translation type="unfinished"></translation>
+        <translation>Disable autojoin to folowing groupchats:
+(specify JIDs)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="385"/>
         <source>Groupchat leave status message:</source>
-        <translation type="unfinished"></translation>
+        <translation>Groupchat leave status message:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="390"/>
         <source>Place groupchat roster at left</source>
-        <translation type="unfinished"></translation>
+        <translation>Place groupchat roster at left</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="391"/>
@@ -5366,16 +5318,12 @@ This option only has effect if accept-defaults is false.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="550"/>
         <source>Groupchat roster coloring:</source>
-        <translation type="unfinished"></translation>
+        <translation>Groupchat roster coloring:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="686"/>
         <source>Enable sound notifications for every groupchat message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>MUC roster coloring:</source>
-        <translation type="obsolete">MUC roster coloring:</translation>
+        <translation>Enable sound notifications for every groupchat message</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="561"/>
@@ -5481,10 +5429,6 @@ This option only has effect if accept-defaults is false.</translation>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="685"/>
         <source>Enable last activity server</source>
         <translation>Enable last activity server</translation>
-    </message>
-    <message>
-        <source>Enable sound notifications for every MUC message</source>
-        <translation type="obsolete">Enable sound notifications for every MUC message</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="687"/>
@@ -6115,34 +6059,6 @@ Reason: %3</translation>
         <translation>Find toolbar</translation>
     </message>
     <message>
-        <source>Clear Chat Window</source>
-        <translation type="obsolete">Clear Chat Window</translation>
-    </message>
-    <message>
-        <source>Find</source>
-        <translation type="obsolete">Find</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="obsolete">&amp;Find</translation>
-    </message>
-    <message>
-        <source>Configure Room</source>
-        <translation type="obsolete">Configure Room</translation>
-    </message>
-    <message>
-        <source>&amp;Configure Room</source>
-        <translation type="obsolete">&amp;Configure Room</translation>
-    </message>
-    <message>
-        <source>Set Text Format</source>
-        <translation type="obsolete">Set Text Format</translation>
-    </message>
-    <message>
-        <source>Select Icon</source>
-        <translation type="obsolete">Select Icon</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="787"/>
         <source>Change Nickname...</source>
         <translation>Change Nickname...</translation>
@@ -6153,21 +6069,9 @@ Reason: %3</translation>
         <translation>Enter Command...</translation>
     </message>
     <message>
-        <source>Paste and Send</source>
-        <translation type="obsolete">Paste and Send</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="obsolete">Templates</translation>
-    </message>
-    <message>
-        <source>Copy MUC JID</source>
-        <translation type="obsolete">Copy MUC JID</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="803"/>
         <source>Copy Groupchat JID</source>
-        <translation type="unfinished"></translation>
+        <translation>Copy Groupchat JID</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1067"/>
@@ -9354,153 +9258,155 @@ Reason: %1</translation>
 <context>
     <name>MainWin</name>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="396"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="391"/>
+        <location filename="../tmp/mainwin.cpp" line="401"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="396"/>
         <source>View</source>
         <translation>View</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="459"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="454"/>
+        <location filename="../tmp/mainwin.cpp" line="464"/>
+        <location filename="../tmp/mainwin.cpp" line="472"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="459"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="467"/>
         <source>Status</source>
         <translation>Status</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="464"/>
-        <location filename="../tmp/mainwin.cpp" line="506"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="459"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="501"/>
+        <location filename="../tmp/mainwin.cpp" line="479"/>
+        <location filename="../tmp/mainwin.cpp" line="524"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="474"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="519"/>
         <source>General</source>
         <translation>General</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="498"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="493"/>
+        <location filename="../tmp/mainwin.cpp" line="516"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="511"/>
         <source>Menu</source>
         <translation>Menu</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="529"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="524"/>
+        <location filename="../tmp/mainwin.cpp" line="551"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="546"/>
         <source>Tools</source>
         <translation>Tools</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="533"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="528"/>
+        <location filename="../tmp/mainwin.cpp" line="555"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="550"/>
         <source>Help</source>
         <translation>Help</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="547"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="280"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="539"/>
+        <location filename="../tmp/mainwin.cpp" line="569"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="285"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="561"/>
         <source>Diagnostics</source>
         <translation>Diagnostics</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="974"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="963"/>
+        <location filename="../tmp/mainwin.cpp" line="1005"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="994"/>
         <source>&amp;Help</source>
         <translation>&amp;Help</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1062"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1048"/>
+        <location filename="../tmp/mainwin.cpp" line="1093"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1079"/>
         <source>ReadMe</source>
         <translation>ReadMe</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1136"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1112"/>
+        <location filename="../tmp/mainwin.cpp" line="1167"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1143"/>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
         <translation>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1148"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1124"/>
+        <location filename="../tmp/mainwin.cpp" line="1179"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1155"/>
         <source>About GStreamer</source>
         <translation>About GStreamer</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1181"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1157"/>
+        <location filename="../tmp/mainwin.cpp" line="1212"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1188"/>
         <source>Security Plugins Diagnostic Text</source>
         <translation>Security Plugins Diagnostic Text</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1190"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1166"/>
+        <location filename="../tmp/mainwin.cpp" line="1221"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1197"/>
         <source>Key Storage Diagnostic Text</source>
         <translation>Key Storage Diagnostic Text</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1310"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1286"/>
+        <location filename="../tmp/mainwin.cpp" line="1341"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1317"/>
         <source>Receive next event</source>
         <translation>Receive next event</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1315"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1291"/>
+        <location filename="../tmp/mainwin.cpp" line="1346"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1322"/>
         <source>Un&amp;hide</source>
         <translation>Un&amp;hide</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1318"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1294"/>
+        <location filename="../tmp/mainwin.cpp" line="1349"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1325"/>
         <source>&amp;Hide</source>
         <translation>&amp;Hide</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1363"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1339"/>
+        <location filename="../tmp/mainwin.cpp" line="1394"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1370"/>
         <source>Status Message</source>
         <translation>Status Message</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1392"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1368"/>
+        <location filename="../tmp/mainwin.cpp" line="1423"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1399"/>
         <source>Active accounts:</source>
         <translation>Active accounts:</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1393"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1369"/>
+        <location filename="../tmp/mainwin.cpp" line="1424"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1400"/>
         <source>
 Active accounts:</source>
         <translation>
 Active accounts:</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1397"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1373"/>
+        <location filename="../tmp/mainwin.cpp" line="1428"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1404"/>
         <source>Incoming event(s) from:</source>
         <translation>Incoming event(s) from:</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1398"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1374"/>
+        <location filename="../tmp/mainwin.cpp" line="1429"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1405"/>
         <source>
 Incoming event(s) from:</source>
         <translation>
 Incoming event(s) from:</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1424"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1400"/>
+        <location filename="../tmp/mainwin.cpp" line="1455"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1431"/>
         <source>Connecting</source>
         <translation>Connecting</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1749"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1725"/>
+        <location filename="../tmp/mainwin.cpp" line="1787"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1763"/>
         <source>1 event received</source>
         <translation>1 event received</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1752"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1728"/>
+        <location filename="../tmp/mainwin.cpp" line="1790"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1766"/>
         <source>%1 events received</source>
         <translation>%1 events received</translation>
     </message>
@@ -9508,7 +9414,7 @@ Incoming event(s) from:</translation>
 <context>
     <name>MainWin::Private</name>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="285"/>
+        <location filename="../tmp/mainwin.cpp" line="290"/>
         <source>Diagnostics</source>
         <translation>Diagnostics</translation>
     </message>
@@ -11565,10 +11471,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Filter the message with a key</translation>
     </message>
     <message>
-        <source>Show Send Public Key button on chat toolbar</source>
-        <translation type="obsolete">Show Send Public Key button on chat toolbar</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/jabberdiskplugin/options.ui" line="39"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/options.ui" line="130"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.cpp" line="222"/>
@@ -11657,22 +11559,14 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Congratulation:</translation>
     </message>
     <message>
-        <source>MUC</source>
-        <translation type="obsolete">MUC</translation>
-    </message>
-    <message>
-        <source>Enable Stop Spam for private messages in MUC</source>
-        <translation type="obsolete">Enable Stop Spam for private messages in MUC</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="93"/>
         <source>Groupchat</source>
-        <translation type="unfinished">Groupchat</translation>
+        <translation>Groupchat</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="99"/>
         <source>Enable Stop Spam for private messages in groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Enable Stop Spam for private messages in groupchat</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="106"/>
@@ -11830,7 +11724,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/options.ui" line="175"/>
         <source>Show Watch for JID button in contact context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Show Watch for JID button in contact context menu</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/options.ui" line="199"/>
@@ -12822,16 +12716,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_toolbars.cpp" line="236"/>
         <source>Chat</source>
-        <translation type="unfinished">Chat</translation>
+        <translation>Chat</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_toolbars.cpp" line="237"/>
         <source>Groupchat</source>
-        <translation type="unfinished">Groupchat</translation>
-    </message>
-    <message>
-        <source>Chat Toolbar</source>
-        <translation type="obsolete">Chat Toolbar</translation>
+        <translation>Groupchat</translation>
     </message>
 </context>
 <context>
@@ -12986,11 +12876,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="278"/>
         <source>Groupchats</source>
-        <translation type="unfinished">Groupchats</translation>
-    </message>
-    <message>
-        <source>Conferences</source>
-        <translation type="obsolete">Conferences</translation>
+        <translation>Groupchats</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="308"/>
@@ -15355,7 +15241,7 @@ Reason: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="452"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="494"/>
         <source>Clear Chat Window</source>
-        <translation type="unfinished">Clear Chat Window</translation>
+        <translation>Clear Chat Window</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="457"/>
@@ -15363,7 +15249,7 @@ Reason: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="453"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="495"/>
         <source>Find</source>
-        <translation type="unfinished">Find</translation>
+        <translation>Find</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="457"/>
@@ -15371,7 +15257,7 @@ Reason: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="453"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="495"/>
         <source>&amp;Find</source>
-        <translation type="unfinished">&amp;Find</translation>
+        <translation>&amp;Find</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="458"/>
@@ -15379,19 +15265,19 @@ Reason: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="454"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="496"/>
         <source>Set Text Format</source>
-        <translation type="unfinished">Set Text Format</translation>
+        <translation>Set Text Format</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="459"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="455"/>
         <source>Add Contact To Roster</source>
-        <translation type="unfinished">Add Contact To Roster</translation>
+        <translation>Add Contact To Roster</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="459"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="455"/>
         <source>Add Contact</source>
-        <translation type="unfinished">Add Contact</translation>
+        <translation>Add Contact</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="460"/>
@@ -15399,43 +15285,43 @@ Reason: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="456"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="498"/>
         <source>Select Icon</source>
-        <translation type="unfinished">Select Icon</translation>
+        <translation>Select Icon</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="461"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="457"/>
         <source>Voice Call</source>
-        <translation type="unfinished">Voice Call</translation>
+        <translation>Voice Call</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="462"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="458"/>
         <source>Send File</source>
-        <translation type="unfinished">Send File</translation>
+        <translation>Send File</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="463"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="459"/>
         <source>Toggle Encryption</source>
-        <translation type="unfinished">Toggle Encryption</translation>
+        <translation>Toggle Encryption</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="464"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="460"/>
         <source>User Info</source>
-        <translation type="unfinished">User Info</translation>
+        <translation>User Info</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="465"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="461"/>
         <source>Message History</source>
-        <translation type="unfinished">Message History</translation>
+        <translation>Message History</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="466"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="462"/>
         <source>Toggle Compact/Full Size</source>
-        <translation type="unfinished">Toggle Compact/Full Size</translation>
+        <translation>Toggle Compact/Full Size</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="467"/>
@@ -15443,7 +15329,7 @@ Reason: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="463"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="499"/>
         <source>Paste and Send</source>
-        <translation type="unfinished">Paste and Send</translation>
+        <translation>Paste and Send</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="468"/>
@@ -15451,31 +15337,31 @@ Reason: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="464"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="500"/>
         <source>Templates</source>
-        <translation type="unfinished">Templates</translation>
+        <translation>Templates</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="489"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="485"/>
         <source>Chat basic buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>Chat basic buttons</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="517"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="513"/>
         <source>Groupchat basic buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>Groupchat basic buttons</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="501"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="497"/>
         <source>Configure Room</source>
-        <translation type="unfinished">Configure Room</translation>
+        <translation>Configure Room</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="528"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="524"/>
         <source>Plugins</source>
-        <translation type="unfinished">Plugins</translation>
+        <translation>Plugins</translation>
     </message>
 </context>
 <context>
@@ -15494,70 +15380,6 @@ Reason: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="498"/>
         <source>Find toolbar</source>
         <translation>Find toolbar</translation>
-    </message>
-    <message>
-        <source>Clear Chat Window</source>
-        <translation type="obsolete">Clear Chat Window</translation>
-    </message>
-    <message>
-        <source>Find</source>
-        <translation type="obsolete">Find</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="obsolete">&amp;Find</translation>
-    </message>
-    <message>
-        <source>Set Text Format</source>
-        <translation type="obsolete">Set Text Format</translation>
-    </message>
-    <message>
-        <source>Add Contact To Roster</source>
-        <translation type="obsolete">Add Contact To Roster</translation>
-    </message>
-    <message>
-        <source>Add Contact</source>
-        <translation type="obsolete">Add Contact</translation>
-    </message>
-    <message>
-        <source>Select Icon</source>
-        <translation type="obsolete">Select Icon</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="obsolete">Voice Call</translation>
-    </message>
-    <message>
-        <source>Send File</source>
-        <translation type="obsolete">Send File</translation>
-    </message>
-    <message>
-        <source>Toggle Encryption</source>
-        <translation type="obsolete">Toggle Encryption</translation>
-    </message>
-    <message>
-        <source>User Info</source>
-        <translation type="obsolete">User Info</translation>
-    </message>
-    <message>
-        <source>Message History</source>
-        <translation type="obsolete">Message History</translation>
-    </message>
-    <message>
-        <source>Toggle Compact/Full Size</source>
-        <translation type="obsolete">Toggle Compact/Full Size</translation>
-    </message>
-    <message>
-        <source>Paste and Send</source>
-        <translation type="obsolete">Paste and Send</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="obsolete">Templates</translation>
-    </message>
-    <message>
-        <source>Active contacts</source>
-        <translation type="obsolete">Active contacts</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="570"/>
@@ -17950,22 +17772,22 @@ The OTR Plugin will not work.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="944"/>
         <source>Unreadable encrypted message was received.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unreadable encrypted message was received.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="947"/>
         <source>Received an encrypted message but it cannot be read because no private connection is established yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Received an encrypted message but it cannot be read because no private connection is established yet.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="952"/>
         <source>Received message is unreadable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Received message is unreadable.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="955"/>
         <source>Received message contains malformed data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Received message contains malformed data.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="1072"/>
@@ -20165,10 +19987,7 @@ When a user has passed, the test will send a re-authorization request. It should
 The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This plugin is designed to block spam messages and other unwanted information from Psi+ users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
+        <translation>This plugin is designed to block spam messages and other unwanted information from Psi+ users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
 With the plugin settings you can:
 * Define a security question and the answer
 * Define the set of rules that define whether to the trigger plugin for a contact
@@ -20177,31 +19996,12 @@ With the plugin settings you can:
 * Enable the saving of blocked messages in the history of the contact
 * Define the number of subject parcels
 * Set the time interval after which to reset the number of how many questions will be sent
-* Enable blocking of private messages in conferences
-* Choose for which ranks and roles of conference participants blocking messages will be disabled
+* Enable blocking of private messages in groupchats
+* Choose for which ranks and roles of groupchat participants blocking messages will be disabled
 * Enable deadlocks in private messages to participants who do not fall into the exceptions list for the roles and ranks which include blocking.
 
-The rules are checked from top to bottom. If the rule is Enabled - stopspam is triggered, otherwise - stopspam is not triggered. In the case where none of the rules triggered stopspam for roster messages, you can specify whether the plugin will activate or not. For private messages from the same conference, it will always work.
-Question and answer as well as a list of rules is common for ordinary messages and for private messages in conferences.
-When a user has passed, the test will send a re-authorization request. It should be noted in the messages that are sent back the security question was correctly answered.
-The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
-
-WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
-        <translation type="obsolete">This plugin is designed to block spam messages and other unwanted information from Psi+ users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
-With the plugin settings you can:
-* Define a security question and the answer
-* Define the set of rules that define whether to the trigger plugin for a contact
-* Define the text messages sent in the case of the correct answer
-* Enable notification through popups
-* Enable the saving of blocked messages in the history of the contact
-* Define the number of subject parcels
-* Set the time interval after which to reset the number of how many questions will be sent
-* Enable blocking of private messages in conferences
-* Choose for which ranks and roles of conference participants blocking messages will be disabled
-* Enable deadlocks in private messages to participants who do not fall into the exceptions list for the roles and ranks which include blocking.
-
-The rules are checked from top to bottom. If the rule is Enabled - stopspam is triggered, otherwise - stopspam is not triggered. In the case where none of the rules triggered stopspam for roster messages, you can specify whether the plugin will activate or not. For private messages from the same conference, it will always work.
-Question and answer as well as a list of rules is common for ordinary messages and for private messages in conferences.
+The rules are checked from top to bottom. If the rule is Enabled - stopspam is triggered, otherwise - stopspam is not triggered. In the case where none of the rules triggered stopspam for roster messages, you can specify whether the plugin will activate or not. For private messages from the same groupchat, it will always work.
+Question and answer as well as a list of rules is common for ordinary messages and for private messages in groupchats.
 When a user has passed, the test will send a re-authorization request. It should be noted in the messages that are sent back the security question was correctly answered.
 The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
 
@@ -21392,7 +21192,7 @@ To work with GNOME MPlayer additional configuration is not needed.</translation>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="538"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="578"/>
         <source>Don&apos;t watch for JID</source>
-        <translation type="unfinished"></translation>
+        <translation>Don&apos;t watch for JID</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="598"/>
@@ -22173,13 +21973,9 @@ Do you still want to close the window?</translation>
         <translation>Disable invitations if status is DND</translation>
     </message>
     <message>
-        <source>Disable invitations from conference</source>
-        <translation type="obsolete">Disable invitations from conference</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="228"/>
         <source>Disable invitations from groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Disable invitations from groupchat</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="235"/>

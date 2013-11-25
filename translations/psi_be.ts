@@ -65,7 +65,7 @@
         <source>psi/psiplus_logo</source>
         <translation>psi/psiplus_logo</translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="../../psi-plus-snapshots/src/about.ui" line="106"/>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
@@ -3050,10 +3050,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Conference History</source>
-        <translation type="obsolete">Гісторыя нарады</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="341"/>
         <source>Author: </source>
         <translation>Аўтар: </translation>
@@ -3062,16 +3058,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="342"/>
         <source>Email: </source>
         <translation>Эл. пошта: </translation>
-    </message>
-    <message>
-        <source>This plugin is designed to save conference logs in which the Psi+ user sits.
-Conferences logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with conference.
-
-Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="obsolete">Убудова дазваляе захоўваць гісторыю размовы ў нарадах, у якіх сядзіць карыстальнік «Псі+».
-Гісторыі можна паглядзець праз налады ўбудовы ці пстрыкнуўшы па адпаведным значку на паліцы прыладаў вакна ці карткі нарады.
-
-Уважце: каб убудова працавала належным чынам, можнасьць «options.ui.chat.central-toolbar» мусіць мець значэньне «true».</translation>
     </message>
 </context>
 <context>
@@ -4945,10 +4931,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <translation>Гутарка</translation>
     </message>
     <message>
-        <source>Conference</source>
-        <translation type="obsolete">Нарада</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="278"/>
         <source>Tabs</source>
         <translation>Карткі</translation>
@@ -4981,10 +4963,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <translation>Іншае</translation>
     </message>
     <message>
-        <source>Enable central toolbar</source>
-        <translation type="obsolete">Паліца прыладаў пасярэдзіне</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="290"/>
         <source>Ask for confirmation before clearing chat window</source>
         <translation>Перапытвацца, калі ачышчаем вакно гутаркі</translation>
@@ -5003,10 +4981,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="296"/>
         <source>Show Avatar</source>
         <translation>Паказваць увасабленьне</translation>
-    </message>
-    <message>
-        <source>Disable &quot;Paste and Send&quot; button</source>
-        <translation type="obsolete">Забараніць кнопку «Ўставіць і даслаць»</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="297"/>
@@ -5085,14 +5059,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <translation>Паказваць, як зьмяняюцца ролі ды прыналежнасьці</translation>
     </message>
     <message>
-        <source>Enable autojoin for bookmarked conferences</source>
-        <translation type="obsolete">Далучацца да закладзеных нарадаў самарушна</translation>
-    </message>
-    <message>
-        <source>Enable HTML rendering in MUC chat window</source>
-        <translation type="obsolete">Разумець HTML у вакне нарады</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="363"/>
         <source>Automatically accept the default room configuration</source>
         <translation>Пагаджацца са звычайнымі настаўленьнямі пакою</translation>
@@ -5113,20 +5079,6 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
 This option only has effect if accept-defaults is false.</source>
         <translation>Самарушна адчыняць вакно настаўленьняў, калі ствараецца новы пакой.
 Працуе толькі тады, калі не абіралі, каб звычайныя настаўленьні прымаліся самарушна.</translation>
-    </message>
-    <message>
-        <source>Disable autojoin to folowing conferences:
-(specify JIDs)</source>
-        <translation type="obsolete">Не далучацца самарушна да наступных нарадаў:
-(пазначце адрасы)</translation>
-    </message>
-    <message>
-        <source>MUC leave status message:</source>
-        <translation type="obsolete">Пакідаць паведамленьне, калі выходзім з нарады:</translation>
-    </message>
-    <message>
-        <source>Place MUC roster at left</source>
-        <translation type="obsolete">Разьмяшчаць сьпіс удзельнікаў нарады леваруч</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="277"/>
@@ -5373,10 +5325,6 @@ This option only has effect if accept-defaults is false.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>MUC roster coloring:</source>
-        <translation type="obsolete">Колеры сьпісу ўдзельнікаў:</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="561"/>
         <source>ToolTip text color:</source>
         <translation>Колер тэксту падказкі:</translation>
@@ -5480,10 +5428,6 @@ This option only has effect if accept-defaults is false.</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="685"/>
         <source>Enable last activity server</source>
         <translation>Дазволіць паслужнік апошняе дзейнасьці</translation>
-    </message>
-    <message>
-        <source>Enable sound notifications for every MUC message</source>
-        <translation type="obsolete">Гучэць па кожным паведамленьні ў нарадзе</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="687"/>
@@ -6112,34 +6056,6 @@ Reason: %3</source>
         <translation>Паліца пошуку</translation>
     </message>
     <message>
-        <source>Clear Chat Window</source>
-        <translation type="obsolete">Ачысьціць вакно гутаркі</translation>
-    </message>
-    <message>
-        <source>Find</source>
-        <translation type="obsolete">Шукаць</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="obsolete">&amp;Шукаць</translation>
-    </message>
-    <message>
-        <source>Configure Room</source>
-        <translation type="obsolete">Наставіць пакой</translation>
-    </message>
-    <message>
-        <source>&amp;Configure Room</source>
-        <translation type="obsolete">&amp;Наставіць пакой</translation>
-    </message>
-    <message>
-        <source>Set Text Format</source>
-        <translation type="obsolete">Вызначыць выгляд тэксту</translation>
-    </message>
-    <message>
-        <source>Select Icon</source>
-        <translation type="obsolete">Абраць значак</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="787"/>
         <source>Change Nickname...</source>
         <translation>Зьмяніць мянушку…</translation>
@@ -6148,18 +6064,6 @@ Reason: %3</source>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="791"/>
         <source>Enter Command...</source>
         <translation>Набраць загад…</translation>
-    </message>
-    <message>
-        <source>Paste and Send</source>
-        <translation type="obsolete">Уставіць і даслаць</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="obsolete">Шаблёны</translation>
-    </message>
-    <message>
-        <source>Copy MUC JID</source>
-        <translation type="obsolete">Перапісаць адрас нарады</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="803"/>
@@ -9346,153 +9250,155 @@ Reason: %1</source>
 <context>
     <name>MainWin</name>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="396"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="391"/>
+        <location filename="../tmp/mainwin.cpp" line="401"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="396"/>
         <source>View</source>
         <translation>Выгляд</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="459"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="454"/>
+        <location filename="../tmp/mainwin.cpp" line="464"/>
+        <location filename="../tmp/mainwin.cpp" line="472"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="459"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="467"/>
         <source>Status</source>
         <translation>Стан</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="464"/>
-        <location filename="../tmp/mainwin.cpp" line="506"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="459"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="501"/>
+        <location filename="../tmp/mainwin.cpp" line="479"/>
+        <location filename="../tmp/mainwin.cpp" line="524"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="474"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="519"/>
         <source>General</source>
         <translation>Агульнае</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="498"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="493"/>
+        <location filename="../tmp/mainwin.cpp" line="516"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="511"/>
         <source>Menu</source>
         <translation>Мэню</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="529"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="524"/>
+        <location filename="../tmp/mainwin.cpp" line="551"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="546"/>
         <source>Tools</source>
         <translation>Прылады</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="533"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="528"/>
+        <location filename="../tmp/mainwin.cpp" line="555"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="550"/>
         <source>Help</source>
         <translation>Дапамога</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="547"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="280"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="539"/>
+        <location filename="../tmp/mainwin.cpp" line="569"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="285"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="561"/>
         <source>Diagnostics</source>
         <translation>Дыяґностыка</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="974"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="963"/>
+        <location filename="../tmp/mainwin.cpp" line="1005"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="994"/>
         <source>&amp;Help</source>
         <translation>&amp;Дапамога</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1062"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1048"/>
+        <location filename="../tmp/mainwin.cpp" line="1093"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1079"/>
         <source>ReadMe</source>
         <translation>Зьвесткі</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1136"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1112"/>
+        <location filename="../tmp/mainwin.cpp" line="1167"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1143"/>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
         <translation>Праґрама выкарыстоўвае «GStreamer %1», усебаковую міжплятформавую мультымэдыйную сыстэму з адкрытымі выточнымі кодамі.  Каб даведацца болей, зірніце &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1148"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1124"/>
+        <location filename="../tmp/mainwin.cpp" line="1179"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1155"/>
         <source>About GStreamer</source>
         <translation>Пра «GStreamer»</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1181"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1157"/>
+        <location filename="../tmp/mainwin.cpp" line="1212"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1188"/>
         <source>Security Plugins Diagnostic Text</source>
         <translation>Тэкст дыяґностыкі ўбудоваў бясьпекі</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1190"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1166"/>
+        <location filename="../tmp/mainwin.cpp" line="1221"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1197"/>
         <source>Key Storage Diagnostic Text</source>
         <translation>Тэкст дыяґностыкі сховішча ключоў</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1310"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1286"/>
+        <location filename="../tmp/mainwin.cpp" line="1341"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1317"/>
         <source>Receive next event</source>
         <translation>Паглядзець, што адбылося</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1315"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1291"/>
+        <location filename="../tmp/mainwin.cpp" line="1346"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1322"/>
         <source>Un&amp;hide</source>
         <translation>&amp;Паказаць</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1318"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1294"/>
+        <location filename="../tmp/mainwin.cpp" line="1349"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1325"/>
         <source>&amp;Hide</source>
         <translation>С&amp;хаваць</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1363"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1339"/>
+        <location filename="../tmp/mainwin.cpp" line="1394"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1370"/>
         <source>Status Message</source>
         <translation>Апісаньне стану</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1392"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1368"/>
+        <location filename="../tmp/mainwin.cpp" line="1423"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1399"/>
         <source>Active accounts:</source>
         <translation>Дзейныя рахункі:</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1393"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1369"/>
+        <location filename="../tmp/mainwin.cpp" line="1424"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1400"/>
         <source>
 Active accounts:</source>
         <translation>
 Дзейныя рахункі:</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1397"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1373"/>
+        <location filename="../tmp/mainwin.cpp" line="1428"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1404"/>
         <source>Incoming event(s) from:</source>
         <translation>Падзея (-і) ад:</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1398"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1374"/>
+        <location filename="../tmp/mainwin.cpp" line="1429"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1405"/>
         <source>
 Incoming event(s) from:</source>
         <translation>
 Падзея (-і) ад:</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1424"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1400"/>
+        <location filename="../tmp/mainwin.cpp" line="1455"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1431"/>
         <source>Connecting</source>
         <translation>Злучаемся</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1749"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1725"/>
+        <location filename="../tmp/mainwin.cpp" line="1787"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1763"/>
         <source>1 event received</source>
         <translation>Адно спавяшчэньне</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1752"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1728"/>
+        <location filename="../tmp/mainwin.cpp" line="1790"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1766"/>
         <source>%1 events received</source>
         <translation>Апавяшчэньняў: %1</translation>
     </message>
@@ -9500,7 +9406,7 @@ Incoming event(s) from:</source>
 <context>
     <name>MainWin::Private</name>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="285"/>
+        <location filename="../tmp/mainwin.cpp" line="290"/>
         <source>Diagnostics</source>
         <translation>Дыяґностыка</translation>
     </message>
@@ -11645,14 +11551,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Павіншаваць:</translation>
     </message>
     <message>
-        <source>MUC</source>
-        <translation type="obsolete">Нарада</translation>
-    </message>
-    <message>
-        <source>Enable Stop Spam for private messages in MUC</source>
-        <translation type="obsolete">Спыняць лухту ў асабістых паведамленьнях у нарадах</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="93"/>
         <source>Groupchat</source>
         <translation type="unfinished">Нарада</translation>
@@ -12817,10 +12715,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <source>Groupchat</source>
         <translation type="unfinished">Нарада</translation>
     </message>
-    <message>
-        <source>Chat Toolbar</source>
-        <translation type="obsolete">Паліца прыладаў гутаркі</translation>
-    </message>
 </context>
 <context>
     <name>OptionsTabTree</name>
@@ -12975,10 +12869,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="278"/>
         <source>Groupchats</source>
         <translation type="unfinished">нарадах</translation>
-    </message>
-    <message>
-        <source>Conferences</source>
-        <translation type="obsolete">нарадаў</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="308"/>
@@ -15343,7 +15233,7 @@ Reason: %1.</source>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="452"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="494"/>
         <source>Clear Chat Window</source>
-        <translation type="unfinished">Ачысьціць вакно гутаркі</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="457"/>
@@ -15367,13 +15257,13 @@ Reason: %1.</source>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="454"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="496"/>
         <source>Set Text Format</source>
-        <translation type="unfinished">Вызначыць выгляд тэксту</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="459"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="455"/>
         <source>Add Contact To Roster</source>
-        <translation type="unfinished">Дадаць суразмоўцу да сьпісу</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="459"/>
@@ -15387,7 +15277,7 @@ Reason: %1.</source>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="456"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="498"/>
         <source>Select Icon</source>
-        <translation type="unfinished">Абраць значак</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="461"/>
@@ -15405,7 +15295,7 @@ Reason: %1.</source>
         <location filename="../tmp/psiactionlist.cpp" line="463"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="459"/>
         <source>Toggle Encryption</source>
-        <translation type="unfinished">Шыфраваць</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="464"/>
@@ -15417,13 +15307,13 @@ Reason: %1.</source>
         <location filename="../tmp/psiactionlist.cpp" line="465"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="461"/>
         <source>Message History</source>
-        <translation type="unfinished">Гісторыя паведамленьняў</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="466"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="462"/>
         <source>Toggle Compact/Full Size</source>
-        <translation type="unfinished">Сьціслы ці поўны выгляд</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="467"/>
@@ -15431,7 +15321,7 @@ Reason: %1.</source>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="463"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="499"/>
         <source>Paste and Send</source>
-        <translation type="unfinished">Уставіць і даслаць</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="468"/>
@@ -15457,7 +15347,7 @@ Reason: %1.</source>
         <location filename="../tmp/psiactionlist.cpp" line="501"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="497"/>
         <source>Configure Room</source>
-        <translation type="unfinished">Наставіць пакой</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="528"/>
@@ -15482,70 +15372,6 @@ Reason: %1.</source>
         <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="498"/>
         <source>Find toolbar</source>
         <translation>Паліца пошуку</translation>
-    </message>
-    <message>
-        <source>Clear Chat Window</source>
-        <translation type="obsolete">Ачысьціць вакно гутаркі</translation>
-    </message>
-    <message>
-        <source>Find</source>
-        <translation type="obsolete">Шукаць</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="obsolete">&amp;Шукаць</translation>
-    </message>
-    <message>
-        <source>Set Text Format</source>
-        <translation type="obsolete">Вызначыць выгляд тэксту</translation>
-    </message>
-    <message>
-        <source>Add Contact To Roster</source>
-        <translation type="obsolete">Дадаць суразмоўцу да сьпісу</translation>
-    </message>
-    <message>
-        <source>Add Contact</source>
-        <translation type="obsolete">Дадаць суразмоўцу</translation>
-    </message>
-    <message>
-        <source>Select Icon</source>
-        <translation type="obsolete">Абраць значак</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="obsolete">Размаўляць голасам</translation>
-    </message>
-    <message>
-        <source>Send File</source>
-        <translation type="obsolete">Даслаць файл</translation>
-    </message>
-    <message>
-        <source>Toggle Encryption</source>
-        <translation type="obsolete">Шыфраваць</translation>
-    </message>
-    <message>
-        <source>User Info</source>
-        <translation type="obsolete">Пра карыстальніка</translation>
-    </message>
-    <message>
-        <source>Message History</source>
-        <translation type="obsolete">Гісторыя паведамленьняў</translation>
-    </message>
-    <message>
-        <source>Toggle Compact/Full Size</source>
-        <translation type="obsolete">Сьціслы ці поўны выгляд</translation>
-    </message>
-    <message>
-        <source>Paste and Send</source>
-        <translation type="obsolete">Уставіць і даслаць</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="obsolete">Шаблёны</translation>
-    </message>
-    <message>
-        <source>Active contacts</source>
-        <translation type="obsolete">Дзейныя суразмоўцы</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="570"/>
@@ -20162,46 +19988,6 @@ The plugin keeps a log of blocked messages, which you can view through the plugi
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>This plugin is designed to block spam messages and other unwanted information from Psi+ users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
-With the plugin settings you can:
-* Define a security question and the answer
-* Define the set of rules that define whether to the trigger plugin for a contact
-* Define the text messages sent in the case of the correct answer
-* Enable notification through popups
-* Enable the saving of blocked messages in the history of the contact
-* Define the number of subject parcels
-* Set the time interval after which to reset the number of how many questions will be sent
-* Enable blocking of private messages in conferences
-* Choose for which ranks and roles of conference participants blocking messages will be disabled
-* Enable deadlocks in private messages to participants who do not fall into the exceptions list for the roles and ranks which include blocking.
-
-The rules are checked from top to bottom. If the rule is Enabled - stopspam is triggered, otherwise - stopspam is not triggered. In the case where none of the rules triggered stopspam for roster messages, you can specify whether the plugin will activate or not. For private messages from the same conference, it will always work.
-Question and answer as well as a list of rules is common for ordinary messages and for private messages in conferences.
-When a user has passed, the test will send a re-authorization request. It should be noted in the messages that are sent back the security question was correctly answered.
-The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
-
-WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
-        <translation type="obsolete">Убудова дазваляе затрымваць лухту (спам) ці іншыя непажаданыя зьвесткі ад карыстальнікаў «Псі+». Убудова працуе па правіле «пытаньне — адказ».
-Налады убудовы дазваляюць вызначыць:
-• пытаньне і адказ, якія абароняць супраць лухты,
-• правілы, якія ўсталёўваюць, хто з суразмоўцаў трапляе пад дзеяньне ўбудовы,
-• паведамленьне, якое трэба дасылаць, калі атрымалі правільны адказ,
-• ці спавяшчаць вынырцамі,
-• ці захоўваць затрыманыя паведамленьні ў гісторыі размовы,
-• колькі разоў перапытвацца,
-• празь які адцінак часу скідваць лічыльнік дасланых пытаньняў,
-• ці затрымваць асабістыя паведамленьні ў нарадах,
-• ад удзельнікаў нарады зь якою роляю ды прыналежнасьцю не затрымваць паведамленьні,
-• цалкам затрымваць паведамленьні ад удзельнікаў, якія ня трапілі ў сьпіс выключэньняў.
-
-Правілы праглядаюцца зьверху ўніз. Калі правіла дзейнічае — убудова выклікаецца, калі не — не выклікаецца. Можна вызначыць, ці выклікаць убудову, калі паведамленьне не адпавядае ніводнаму правілу. Убудова заўжды будзе спрацоўваць на паведамленьнях адной нарады.
-Пытаньне, адказ і набор правілаў аднолькавыя як для звычайных паведамленьняў, так і для асабістых паведамленьняў у нарадзе.
-Калі карыстальнік прайшоў выпрабаваньне, яму трэба зноўку запытаюцца на зацьверджаньне. Гэта трэба адзначыць у паведамленьні, якое дасылаецца, калі атрымваем правільны адказ.
-У наладах убудовы можна зірнуць справаздачу — захаваныя затрыманыя паведамленьні. Кнопка «Скінуць» сьцірае гісторыю ды скідвае лічыльнік затрыманых паведамленьняў.
-
-&lt;b&gt;Перасьцярога!!!&lt;/b&gt; Перад тым, як запісвацца на транспарце, варта дадаць ягоны адрас да выключэньняў транспарту. Гэта трэба, каб убудова не затрымвала запыты зацьверджаньня, якія будуць дасылацца, калі вы запішацеся на транспарце.</translation>
-    </message>
 </context>
 <context>
     <name>StorageNotesPlugin</name>
@@ -22166,10 +21952,6 @@ Do you still want to close the window?</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="221"/>
         <source>Disable invitations if status is DND</source>
         <translation>Не дазваляць запрашаць, калі стан — «не турбаваць»</translation>
-    </message>
-    <message>
-        <source>Disable invitations from conference</source>
-        <translation type="obsolete">Не дазваляць запрашаць з нарады</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="228"/>

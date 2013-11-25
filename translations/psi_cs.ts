@@ -65,7 +65,7 @@
         <source>psi/psiplus_logo</source>
         <translation>psi/psiplus_logo</translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="../../psi-plus-snapshots/src/about.ui" line="106"/>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
@@ -3031,10 +3031,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Conference History</source>
-        <translation type="obsolete">Historie konference</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="341"/>
         <source>Author: </source>
         <translation>Autor: </translation>
@@ -3043,16 +3039,6 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="342"/>
         <source>Email: </source>
         <translation>E-mail: </translation>
-    </message>
-    <message>
-        <source>This plugin is designed to save conference logs in which the Psi+ user sits.
-Conferences logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with conference.
-
-Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="obsolete">Tento doplněk je určený k ukládání logů konferencí v kterých je Psi+ přihlášeno.
-Logy konferencí lze zobrazit z nastavení doplňku nebo po kliknutí na odpovídající tlačítko v nástrojové liště okna s otevřenou konferencí.
-
-Poznámka: Aby vše fungovalo, volba options.ui.chat.central-toolbar musí být nastavena na true.</translation>
     </message>
 </context>
 <context>
@@ -4926,10 +4912,6 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
         <translation>Chat</translation>
     </message>
     <message>
-        <source>Conference</source>
-        <translation type="obsolete">Konference</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="278"/>
         <source>Tabs</source>
         <translation>Záložky</translation>
@@ -4962,10 +4944,6 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
         <translation>Různé</translation>
     </message>
     <message>
-        <source>Enable central toolbar</source>
-        <translation type="obsolete">Zapnout prostřední panel nástrojů</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="290"/>
         <source>Ask for confirmation before clearing chat window</source>
         <translation>Ptát se na potvrzení před vyčištěním okna chatu</translation>
@@ -4984,10 +4962,6 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="296"/>
         <source>Show Avatar</source>
         <translation>Zobrazovat Avatar</translation>
-    </message>
-    <message>
-        <source>Disable &quot;Paste and Send&quot; button</source>
-        <translation type="obsolete">Vypnout tlačítko &quot;Vložit a odeslat&quot;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="297"/>
@@ -5066,18 +5040,6 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
         <translation>Zobrazit změny rolí a přiřazení</translation>
     </message>
     <message>
-        <source>Enable autojoin for bookmarked conferences</source>
-        <translation type="obsolete">Povolit automatické připojení pro konference v záložkách</translation>
-    </message>
-    <message>
-        <source>Hide conference on auto-join</source>
-        <translation type="obsolete">Skrýt konferenci při automatickém připojení</translation>
-    </message>
-    <message>
-        <source>Enable HTML rendering in MUC chat window</source>
-        <translation type="obsolete">Rendrovat HTML v okně MUC chatu</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="363"/>
         <source>Automatically accept the default room configuration</source>
         <translation>Automaticky přijmout výchozí nastavení místnosti</translation>
@@ -5098,20 +5060,6 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
 This option only has effect if accept-defaults is false.</source>
         <translation>Automaticky otevřít konfigurační dialog při vytvoření nové místnosti.
 Toto nastavení má účinek pouze je-li akceptovat-výchozí vypnuto.</translation>
-    </message>
-    <message>
-        <source>Disable autojoin to folowing conferences:
-(specify JIDs)</source>
-        <translation type="obsolete">Zakázat automatické připojení do následujících konferencí:
-(udej JIDy)</translation>
-    </message>
-    <message>
-        <source>MUC leave status message:</source>
-        <translation type="obsolete">Zpráva při opuštění chatu více osob:</translation>
-    </message>
-    <message>
-        <source>Place MUC roster at left</source>
-        <translation type="obsolete">Umístit roster MUCu nalevo</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="277"/>
@@ -5358,10 +5306,6 @@ Toto nastavení má účinek pouze je-li akceptovat-výchozí vypnuto.</translat
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>MUC roster coloring:</source>
-        <translation type="obsolete">Barvy kontaktů chatu více lidí:</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="561"/>
         <source>ToolTip text color:</source>
         <translation>Barva textu bublinkové nápovědy:</translation>
@@ -5465,10 +5409,6 @@ Toto nastavení má účinek pouze je-li akceptovat-výchozí vypnuto.</translat
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="685"/>
         <source>Enable last activity server</source>
         <translation>Povolit server poslední činnosti</translation>
-    </message>
-    <message>
-        <source>Enable sound notifications for every MUC message</source>
-        <translation type="obsolete">Povolit zvukové oznámení pro každou zprávu v chatu více lidí</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="687"/>
@@ -6094,34 +6034,6 @@ Zdůvodnění: %3</translation>
         <translation>Najít panel nástrojů</translation>
     </message>
     <message>
-        <source>Clear Chat Window</source>
-        <translation type="obsolete">Vyprázdnit Okno Chatu</translation>
-    </message>
-    <message>
-        <source>Find</source>
-        <translation type="obsolete">Hledání</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="obsolete">&amp;Hledat</translation>
-    </message>
-    <message>
-        <source>Configure Room</source>
-        <translation type="obsolete">Nastavit místnost</translation>
-    </message>
-    <message>
-        <source>&amp;Configure Room</source>
-        <translation type="obsolete">Nastavit &amp;místnost</translation>
-    </message>
-    <message>
-        <source>Set Text Format</source>
-        <translation type="obsolete">Nastavit formát textu</translation>
-    </message>
-    <message>
-        <source>Select Icon</source>
-        <translation type="obsolete">Vybrat Ikonu</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="787"/>
         <source>Change Nickname...</source>
         <translation>Změnit Přezdívku...</translation>
@@ -6130,18 +6042,6 @@ Zdůvodnění: %3</translation>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="791"/>
         <source>Enter Command...</source>
         <translation>Vložit Příkaz...</translation>
-    </message>
-    <message>
-        <source>Paste and Send</source>
-        <translation type="obsolete">Vložit a poslat</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="obsolete">Šablony</translation>
-    </message>
-    <message>
-        <source>Copy MUC JID</source>
-        <translation type="obsolete">Zkopírovat JID MUCu</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="803"/>
@@ -9299,153 +9199,155 @@ Zdůvodnění: %1</translation>
 <context>
     <name>MainWin</name>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="396"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="391"/>
+        <location filename="../tmp/mainwin.cpp" line="401"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="396"/>
         <source>View</source>
         <translation>Zobrazení</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="459"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="454"/>
+        <location filename="../tmp/mainwin.cpp" line="464"/>
+        <location filename="../tmp/mainwin.cpp" line="472"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="459"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="467"/>
         <source>Status</source>
         <translation>Stav</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="464"/>
-        <location filename="../tmp/mainwin.cpp" line="506"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="459"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="501"/>
+        <location filename="../tmp/mainwin.cpp" line="479"/>
+        <location filename="../tmp/mainwin.cpp" line="524"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="474"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="519"/>
         <source>General</source>
         <translation>Všeobecné</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="498"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="493"/>
+        <location filename="../tmp/mainwin.cpp" line="516"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="511"/>
         <source>Menu</source>
         <translation>Menu</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="529"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="524"/>
+        <location filename="../tmp/mainwin.cpp" line="551"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="546"/>
         <source>Tools</source>
         <translation>Nástoje</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="533"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="528"/>
+        <location filename="../tmp/mainwin.cpp" line="555"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="550"/>
         <source>Help</source>
         <translation>Nápověda</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="547"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="280"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="539"/>
+        <location filename="../tmp/mainwin.cpp" line="569"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="285"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="561"/>
         <source>Diagnostics</source>
         <translation>Diagnostika</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="974"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="963"/>
+        <location filename="../tmp/mainwin.cpp" line="1005"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="994"/>
         <source>&amp;Help</source>
         <translation>&amp;Nápověda</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1062"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1048"/>
+        <location filename="../tmp/mainwin.cpp" line="1093"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1079"/>
         <source>ReadMe</source>
         <translation>Čti mě</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1136"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1112"/>
+        <location filename="../tmp/mainwin.cpp" line="1167"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1143"/>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
         <translation>Tato aplikace používá GStreamer %1, rozsáhlý multiplatformní multimediální systém s otevřeným zdrojovým kódem.  Více informací lze nalézt na webu &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1148"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1124"/>
+        <location filename="../tmp/mainwin.cpp" line="1179"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1155"/>
         <source>About GStreamer</source>
         <translation>O systému GStreamer</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1181"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1157"/>
+        <location filename="../tmp/mainwin.cpp" line="1212"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1188"/>
         <source>Security Plugins Diagnostic Text</source>
         <translation>Diagnostický text bezpečnostního rozšíření</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1190"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1166"/>
+        <location filename="../tmp/mainwin.cpp" line="1221"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1197"/>
         <source>Key Storage Diagnostic Text</source>
         <translation>Diagnostický text uložiště klíčů</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1310"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1286"/>
+        <location filename="../tmp/mainwin.cpp" line="1341"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1317"/>
         <source>Receive next event</source>
         <translation>Přijmout další událost</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1315"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1291"/>
+        <location filename="../tmp/mainwin.cpp" line="1346"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1322"/>
         <source>Un&amp;hide</source>
         <translation>Z&amp;viditelnit</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1318"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1294"/>
+        <location filename="../tmp/mainwin.cpp" line="1349"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1325"/>
         <source>&amp;Hide</source>
         <translation>S&amp;krýt</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1363"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1339"/>
+        <location filename="../tmp/mainwin.cpp" line="1394"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1370"/>
         <source>Status Message</source>
         <translation>Stavová zpráva</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1392"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1368"/>
+        <location filename="../tmp/mainwin.cpp" line="1423"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1399"/>
         <source>Active accounts:</source>
         <translation>Aktivní účty:</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1393"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1369"/>
+        <location filename="../tmp/mainwin.cpp" line="1424"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1400"/>
         <source>
 Active accounts:</source>
         <translation>
 Aktivní účty:</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1397"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1373"/>
+        <location filename="../tmp/mainwin.cpp" line="1428"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1404"/>
         <source>Incoming event(s) from:</source>
         <translation>Příchozí událost(i) od:</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1398"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1374"/>
+        <location filename="../tmp/mainwin.cpp" line="1429"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1405"/>
         <source>
 Incoming event(s) from:</source>
         <translation>
 Příchozí událost(i) od:</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1424"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1400"/>
+        <location filename="../tmp/mainwin.cpp" line="1455"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1431"/>
         <source>Connecting</source>
         <translation>Připojování</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1749"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1725"/>
+        <location filename="../tmp/mainwin.cpp" line="1787"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1763"/>
         <source>1 event received</source>
         <translation>Přijata 1 událost</translation>
     </message>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="1752"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1728"/>
+        <location filename="../tmp/mainwin.cpp" line="1790"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1766"/>
         <source>%1 events received</source>
         <translation>Přijato událostí: %1</translation>
     </message>
@@ -9453,7 +9355,7 @@ Příchozí událost(i) od:</translation>
 <context>
     <name>MainWin::Private</name>
     <message>
-        <location filename="../tmp/mainwin.cpp" line="285"/>
+        <location filename="../tmp/mainwin.cpp" line="290"/>
         <source>Diagnostics</source>
         <translation>Diagnostika</translation>
     </message>
@@ -11508,10 +11410,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Filtrovat zprávu s klíčem</translation>
     </message>
     <message>
-        <source>Show Send Public Key button on chat toolbar</source>
-        <translation type="obsolete">Zobrazit tlačítko Poslat veřejný klíč na liště v chatu</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/jabberdiskplugin/options.ui" line="39"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/options.ui" line="130"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.cpp" line="222"/>
@@ -11598,14 +11496,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="69"/>
         <source>Congratulation:</source>
         <translation>Gratulace:</translation>
-    </message>
-    <message>
-        <source>MUC</source>
-        <translation type="obsolete">Chat více lidí</translation>
-    </message>
-    <message>
-        <source>Enable Stop Spam for private messages in MUC</source>
-        <translation type="obsolete">Povolit Stop spam pro soukromé zprávy v chatu více lidí</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="93"/>
@@ -12773,10 +12663,6 @@ zprávy v chatu víde lidí)</translation>
         <source>Groupchat</source>
         <translation type="unfinished">Skupinový chat</translation>
     </message>
-    <message>
-        <source>Chat Toolbar</source>
-        <translation type="obsolete">Panel nástrojů Chatu</translation>
-    </message>
 </context>
 <context>
     <name>OptionsTabTree</name>
@@ -12931,10 +12817,6 @@ zprávy v chatu víde lidí)</translation>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="278"/>
         <source>Groupchats</source>
         <translation type="unfinished">Skupinové chaty</translation>
-    </message>
-    <message>
-        <source>Conferences</source>
-        <translation type="obsolete">Konference</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="308"/>
@@ -15299,7 +15181,7 @@ Důvod: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="452"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="494"/>
         <source>Clear Chat Window</source>
-        <translation type="unfinished">Vyprázdnit Okno Chatu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="457"/>
@@ -15323,13 +15205,13 @@ Důvod: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="454"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="496"/>
         <source>Set Text Format</source>
-        <translation type="unfinished">Nastavit formát textu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="459"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="455"/>
         <source>Add Contact To Roster</source>
-        <translation type="unfinished">Přidat kontakt do seznamu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="459"/>
@@ -15343,7 +15225,7 @@ Důvod: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="456"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="498"/>
         <source>Select Icon</source>
-        <translation type="unfinished">Vybrat Ikonu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="461"/>
@@ -15361,7 +15243,7 @@ Důvod: %1.</translation>
         <location filename="../tmp/psiactionlist.cpp" line="463"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="459"/>
         <source>Toggle Encryption</source>
-        <translation type="unfinished">Přepnout Šifrování</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="464"/>
@@ -15373,13 +15255,13 @@ Důvod: %1.</translation>
         <location filename="../tmp/psiactionlist.cpp" line="465"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="461"/>
         <source>Message History</source>
-        <translation type="unfinished">Historie Zpráv</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="466"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="462"/>
         <source>Toggle Compact/Full Size</source>
-        <translation type="unfinished">Přepnout mezi Kompaktní nebo Plnou Velikostí</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="467"/>
@@ -15413,7 +15295,7 @@ Důvod: %1.</translation>
         <location filename="../tmp/psiactionlist.cpp" line="501"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="497"/>
         <source>Configure Room</source>
-        <translation type="unfinished">Nastavit místnost</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="528"/>
@@ -15438,70 +15320,6 @@ Důvod: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="498"/>
         <source>Find toolbar</source>
         <translation>Najít panel nástrojů</translation>
-    </message>
-    <message>
-        <source>Clear Chat Window</source>
-        <translation type="obsolete">Vyprázdnit Okno Chatu</translation>
-    </message>
-    <message>
-        <source>Find</source>
-        <translation type="obsolete">Hledat</translation>
-    </message>
-    <message>
-        <source>&amp;Find</source>
-        <translation type="obsolete">&amp;Hledat</translation>
-    </message>
-    <message>
-        <source>Set Text Format</source>
-        <translation type="obsolete">Nastavit formát textu</translation>
-    </message>
-    <message>
-        <source>Add Contact To Roster</source>
-        <translation type="obsolete">Přidat kontakt do seznamu</translation>
-    </message>
-    <message>
-        <source>Add Contact</source>
-        <translation type="obsolete">Přidat kontakt</translation>
-    </message>
-    <message>
-        <source>Select Icon</source>
-        <translation type="obsolete">Vybrat Ikonu</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="obsolete">Hlasový hovor</translation>
-    </message>
-    <message>
-        <source>Send File</source>
-        <translation type="obsolete">Poslat Soubor</translation>
-    </message>
-    <message>
-        <source>Toggle Encryption</source>
-        <translation type="obsolete">Přepnout Šifrování</translation>
-    </message>
-    <message>
-        <source>User Info</source>
-        <translation type="obsolete">Informace o Uživateli</translation>
-    </message>
-    <message>
-        <source>Message History</source>
-        <translation type="obsolete">Historie Zpráv</translation>
-    </message>
-    <message>
-        <source>Toggle Compact/Full Size</source>
-        <translation type="obsolete">Přepnout mezi Kompaktní nebo Plnou Velikostí</translation>
-    </message>
-    <message>
-        <source>Paste and Send</source>
-        <translation type="obsolete">Vložit a odeslat</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="obsolete">Šablony</translation>
-    </message>
-    <message>
-        <source>Active contacts</source>
-        <translation type="obsolete">Aktivní kontakty</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="570"/>
@@ -22042,10 +21860,6 @@ Opravdu zavřít okno?</translation>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="221"/>
         <source>Disable invitations if status is DND</source>
         <translation>Zakázat pozvánky, pokud je stav DND</translation>
-    </message>
-    <message>
-        <source>Disable invitations from conference</source>
-        <translation type="obsolete">Zakázat pozvánky z konference</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="228"/>
