@@ -102,7 +102,7 @@ Copyright © 2001-2013 Equipo Psi.&lt;br</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/about.ui" line="226"/>
         <source>About Psi+</source>
-        <translation>Sobre Psi+</translation>
+        <translation>Acerca de Psi+</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/about.ui" line="269"/>
@@ -300,7 +300,29 @@ Copyright © 2001-2013 Equipo Psi.&lt;br</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation type="unfinished"/>
+        <translation>Ernesto Avilés Vázquez&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:whippiii@gmail.com&quot;&gt;whippiii@gmail.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Traductor&lt;br&gt;
+&lt;br&gt;
+Guillermo Castellá&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:guilchu2@gmx.es&quot;&gt;guilchu2@gmx.es&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Traductor&lt;br&gt;
+&lt;br&gt;
+Jan Kusanagi&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:jankusanagi@gmail.com&quot;&gt;jankusanagi@gmail.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Traductor&lt;br&gt;
+&lt;br&gt;
+Alberto Rodríguez Lozano&lt;br&gt;
+&amp;nbsp;&amp;nbsp;XMPP:&lt;a href=&quot;xmpp:bastian@jabberes.org&quot;&gt;bastian@jabberes.org&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Traductor&lt;br&gt;
+&lt;br&gt;
+Francisco Pinto Oliver&lt;br&gt;
+&amp;nbsp;&amp;nbsp;XMPP:&lt;a href=&quot;xmpp:bpeople@jabber.org&quot;&gt;bpeople@jabber.org&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Traductor&lt;br&gt;
+&lt;br&gt;
+¡Únete ya al equipo de traducción! Para más detalles
+visita: &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
+http://forum.psi-im.org/forum/14&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
