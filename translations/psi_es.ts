@@ -170,13 +170,13 @@ Copyright © 2001-2013 Equipo Psi.&lt;br</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="96"/>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
-        <translation>Parcheador, Escritor de Plugins y Empaquetador de Fedora</translation>
+        <translation>Parcheador, Escritor de Complementos y Empaquetador de Fedora</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="99"/>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="117"/>
         <source>Patcher and Plugins Writer</source>
-        <translation>Parcheador y escritor de plugins</translation>
+        <translation>Parcheador y escritor de complementos</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="102"/>
@@ -287,7 +287,7 @@ Copyright © 2001-2013 Equipo Psi.&lt;br</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="188"/>
         <source>Security plugin: %1</source>
-        <translation>Plugin de seguridad: %1</translation>
+        <translation>Complemento de seguridad: %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="199"/>
@@ -864,7 +864,7 @@ Cuando habilites esta opción, no podrás encontrar tu contraseña en los archiv
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="256"/>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation>Selecciona esta opción para usar conexión cifrada con SSL con el servidor XMPP. Debes usar esta opción si tu servidor la soporta, es necesario que esté instalado el plugin qca-ossl. Para más información ir a la página principal de Psi.</translation>
+        <translation>Selecciona esta opción para usar conexión cifrada con SSL con el servidor XMPP. Debes usar esta opción si tu servidor la soporta, es necesario que esté instalado el complemento qca-ossl. Para más información ir a la página principal de Psi.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="262"/>
@@ -921,7 +921,7 @@ Cuando habilites esta opción, no podrás encontrar tu contraseña en los archiv
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="433"/>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>No puede activarse SSL/TLS.  Plugin no encontrado.</translation>
+        <translation>No puede activarse SSL/TLS.  Complemento no encontrado.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="460"/>
@@ -1110,7 +1110,7 @@ Cuando habilites esta opción, no podrás encontrar tu contraseña en los archiv
     <message>
         <location filename="../../psi-plus-snapshots/src/accountregdlg.cpp" line="130"/>
         <source>Cannot enable SSL/TLS. QCA2 Plugin not found.</source>
-        <translation>No se puede activar SSL/TLS. No se encuentra el plugin QCA2.</translation>
+        <translation>No se puede activar SSL/TLS. No se encuentra el complemento QCA2.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountregdlg.cpp" line="169"/>
@@ -1823,7 +1823,7 @@ Para que funcione correctamente, es necesario que el cliente del otro lado sopor
 The list of exceptions for jids has two operating modes:
 * auto-responder is switched off for the list of exceptions, for the others is switched on (Disable mode)
 * auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
-        <translation>Este componente actúa como una contestadora. Tiene un pequeño número de configuraciones que puedes usar:
+        <translation>Este complemento actúa como una contestadora. Tiene un pequeño número de configuraciones que puedes usar:
 * establecer el mensaje automático de respuesta
 * excluir JIDs, incluidas salas de conferencia, de los objetos de la contestadora (si se establece el JID para la sala de conferencia, la excepción incluirá todos los mensajes privados)
 * inhabilitar la contestadora para algunos de tus contactos
@@ -8061,7 +8061,9 @@ p, li { white-space: pre-wrap; }
         <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it's much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
-        <translation type="unfinished"/>
+        <translation>Te lo puedo decir como Linux, pero no te molestes. Ciertamente este humano recibirá este mensaje. Pero es mucho mejor charlar con él por Jabber. Te estás arriesgando, uno nunca sabe cuándo ICQ pueda morir, abuelita ya lo sobrevivió. Su JID: %1.
+
+Sinceramente, Debian Sid.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="126"/>
@@ -8069,7 +8071,10 @@ Sincerely yours, Debian Sid.</source>
 
 If you don't know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
-        <translation type="unfinished"/>
+        <translation>Te lo puedo decir como Linux, pero no te molestes. Este humano ya no usa ICQ, así que si todavía usas esa red no recibirá tus mensajes y tienes que comunicar con él vía Jabber. Su JID: %1.
+
+Si no conoces lo que es Jabber - usa Google. Él conoce todo y está listo para ayudar a todo el que le pregunte.
+Sinceramente, Debian Sid.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="271"/>
@@ -10358,7 +10363,7 @@ Etiquetas: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_events.ui" line="96"/>
         <source>Bounce dock:</source>
-        <translation type="unfinished"/>
+        <translation>Muelle de rebote:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_events.ui" line="110"/>
@@ -10406,7 +10411,7 @@ Etiquetas: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="37"/>
         <source>Plugin Name:</source>
-        <translation>Nombre del complemento:</translation>
+        <translation>Nombre del Complemento:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="79"/>
@@ -10426,7 +10431,7 @@ Etiquetas: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="123"/>
         <source>No plugin selected</source>
-        <translation>No se ha seleccionado ningún complemento</translation>
+        <translation>No hay un complemento seleccionado</translation>
     </message>
 </context>
 <context>
@@ -11206,7 +11211,7 @@ Los nombres de opción no pueden estar vacios, acabar en &apos;.&apos; o contene
         <location filename="../../psi-plus-snapshots/src/plugins/generic/birthdayreminderplugin/options.ui" line="20"/>
         <source>If you use this plugin at first time, make sure that all your accounts
 is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation>Si usas este complemento por primera vez, asegúrate de que todos tus contactos están conectados y presiona el botón &apos;Actualizar cumpleaños&apos;. Tomará un tiempo.</translation>
+        <translation>Si estás usando este complemento por primera vez, asegúrate de que todos tus contactos están conectados y presiona el botón «Actualizar cumpleaños». Tomará un tiempo.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/birthdayreminderplugin/options.ui" line="30"/>
@@ -11352,7 +11357,9 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <source> If set to &quot;true&quot;, the server will
  automatically add people emailed
  often to the user&apos;s roster.</source>
-        <translation type="unfinished"/>
+        <translation>Si se establece como «verdadero», el servidor
+añadirá automáticamente a la lista de contactos
+a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gmailserviceplugin/options.ui" line="99"/>
@@ -12422,12 +12429,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="27"/>
         <source>Options for Psi plugins</source>
-        <translation>Opciones para los plugins de Psi</translation>
+        <translation>Opciones para los complementos de Psi</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="146"/>
         <source>No plugin selected.</source>
-        <translation>Ningún plugin seleccionado.</translation>
+        <translation>Ningún complemento seleccionado.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="158"/>
@@ -12853,12 +12860,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="216"/>
         <source>Caps node</source>
-        <translation type="unfinished"/>
+        <translation>Nodo Caps</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="226"/>
         <source>Caps version</source>
-        <translation type="unfinished"/>
+        <translation>Versión Caps</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="247"/>
@@ -14232,7 +14239,7 @@ Do you want to log out ?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="1731"/>
         <source>Cannot connect: Encryption is enabled but no QCA2 SSL/TLS plugin is available.</source>
-        <translation>No se puede conectar: El cifrado está activado pero no hay soporte (plugin) QCA2 SSL/TLS disponible.</translation>
+        <translation>No se puede conectar: El cifrado está activado pero el complemento QCA2 SSL/TLS no está disponible.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="1747"/>
@@ -15206,13 +15213,13 @@ Motivo: %1.</translation>
         <location filename="../tmp/psiactionlist.cpp" line="411"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="408"/>
         <source>Security Plugins</source>
-        <translation>Plugins de seguridad</translation>
+        <translation>Complementos de seguridad</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="411"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="408"/>
         <source>Security &amp;Plugins</source>
-        <translation>&amp;Plugins de seguridad</translation>
+        <translation>&amp;Complementos de seguridad</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="413"/>
@@ -19963,7 +19970,25 @@ When a user has passed, the test will send a re-authorization request. It should
 The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
-        <translation type="unfinished"/>
+        <translation>Este complemento está diseñado para bloquear mensajes basura y demás información indeseada para usuarios de Psi+. El funcionamiento del mismo se basa en el principio «pregunta - respuesta».
+Con las configuraciones del complemento puedes:
+* Definir una pregunta y una respuesta de seguridad
+* Definir el conjunto de reglas que definen si se activa el complemento para un contacto
+* Definir los mensajes de texto enviados en caso de una respuesta correcta
+* Habilitar notificaciones mediante ventanas emergentes
+* Habilitar el almacenamiento en el historial del contacto de los mensajes bloqueados
+* Definir el número de grupos sometidos
+* Establecer el intervalo de tiempo tras el cual restablecer el número de preguntas a enviar
+* Habilitar el bloqueo de mensajes privados en salas
+* Elegir para cuáles rangos y roles de los participantes de las salas se inhabilitarán los bloqueos de mensajes
+* Habilitar puntos muertos en mensajes privados de participantes para los que no se aplican las listas de excepciones establecidas a los roles y rangos que incluyen bloqueo
+
+Las reglas son chequeadas de arriba hacia abajo. Si la regla está Habilitada el complemento se activará. En caso que ninguna regla disparara el complemento para mensajes de la lista de contactos, puedes especificar si se activará el complemento. Para mensajes privados de la misma sala, siempre funcionará.
+Preguntas y respuestas así como una lista de reglas es común para mensajes ordinarios y mensajes privados en salas.
+Cuando un usuario pasa la prueba, se reenviará una petición de autorización. Debe tenerse en cuenta para los mensajes que se envían que la pregunta de seguridad fue correctamente respondida.
+El complemento guarda una traza de los mensajes bloqueados, la cual puedes ver a través de las configuraciones del complemento. El botón «Restablecer» borra las trazas y reinicia el contador de mensajes bloqueados.
+
+¡Advertencia! Antes de registrar un nuevo transporte, se recomienda agregar su JID a las excepciones. Esto debido a que luego del registro del transporte, se enviarán peticiones de autorización para todos los contactos y si el transporte no está agregado como excepción, el complemento bloqueará esas peticiones.</translation>
     </message>
 </context>
 <context>
@@ -21511,7 +21536,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/xmlconsole.ui" line="124"/>
         <source>Dump Ringbuf</source>
-        <translation type="unfinished"/>
+        <translation>Descargar buffer</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/xmlconsole.ui" line="131"/>
