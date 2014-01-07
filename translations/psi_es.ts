@@ -71,7 +71,8 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;
 </source>
         <translation>Un cliente XMPP multiplataforma diseñado para el usuario avanzado.&lt;br&gt;
 &lt;br&gt;
-Copyright © 2001-2013 Equipo Psi.&lt;br</translation>
+Copyright © 2001-2013 Equipo Psi.&lt;br&gt;
+</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/about.ui" line="122"/>
