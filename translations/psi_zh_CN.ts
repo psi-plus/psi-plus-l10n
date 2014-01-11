@@ -17675,100 +17675,112 @@ Description: </source>
         <translation>退订</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="160"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="142"/>
         <source>Encrypting message to %1 failed.
 The message was not sent.</source>
         <translation>加密消息%1失败。未发送的消息。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="653"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="628"/>
         <source>plaintext</source>
         <translation>明文</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="657"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="632"/>
         <source>encrypted</source>
         <translation>加密</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="661"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="636"/>
         <source>finished</source>
         <translation>完成</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="664"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="639"/>
         <source>unknown</source>
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="843"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="875"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="817"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="857"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="870"/>
         <source>Psi OTR</source>
         <translation>Psi OTR</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="844"/>
         <source>Generating keys for account &quot;%1&quot;.
 This may take a while.</source>
-        <translation>生成密钥帐户&quot;%1&quot;
+        <translation type="obsolete">生成密钥帐户&quot;%1&quot;
 这可能需要一段时间。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="851"/>
         <source>Please wait...</source>
-        <translation>请等待...</translation>
+        <translation type="obsolete">请等待...</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="861"/>
         <source>Ok</source>
-        <translation>确定</translation>
+        <translation type="obsolete">确定</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="867"/>
         <source>Fingerprint for account &quot;%1&quot;:
 %2</source>
-        <translation>指纹账户 &quot;%1&quot;:
+        <translation type="obsolete">指纹账户 &quot;%1&quot;:
 %2</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="876"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="818"/>
+        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
+
+Do you want to generate keys now?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="858"/>
+        <source>Keys have been generated. Fingerprint for account &quot;%1&quot;:
+%2
+
+Thanks for your patience.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="871"/>
         <source>Failed to generate keys for account &quot;%1&quot;.
 The OTR Plugin will not work.</source>
         <translation>无法生成键帐户&quot;%1&quot;
 OTR插件将无法工作。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="935"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="927"/>
         <source>&lt;b&gt;The following message received from %1 was &lt;i&gt;not&lt;/i&gt; encrypted:&lt;/b&gt;</source>
         <translation>&lt;b&gt;根据收到的消息从 %1 是 &lt;i&gt;没有&lt;/i&gt; 加密的:&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="940"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="932"/>
         <source>Your message was not sent. Either end your private conversation, or restart it.</source>
         <translation>你的消息没有发送。除非结束你的私人会话或者重启。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="944"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="936"/>
         <source>Unreadable encrypted message was received.</source>
         <translation>不可读的加密消息被接收。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="947"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="939"/>
         <source>Received an encrypted message but it cannot be read because no private connection is established yet.</source>
         <translation>收到的加密的消息，但它不能被读出，因为没有专用连接尚未建立。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="952"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="944"/>
         <source>Received message is unreadable.</source>
         <translation>接收到的消息不可读</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="955"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="947"/>
         <source>Received message contains malformed data.</source>
         <translation>接收到的消息含有异常数据。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="1072"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="1070"/>
         <source>You have received a new fingerprint from %1:
 %2</source>
         <translation>你接收到一个新指纹从%1:%2</translation>
@@ -22018,143 +22030,143 @@ Do you still want to close the window?</source>
 <context>
     <name>psiotr::AuthenticationDialog</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="67"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="68"/>
         <source>Authenticate %1</source>
         <translation>验证 %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="68"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="69"/>
         <source>To authenticate via question and answer, ask a question whose answer is only known to you and %1.</source>
         <translation>要通过身份验证的问题和答案，问一个只有你自己知道答案的问题%1.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="71"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="72"/>
         <source>To authenticate via shared secret, enter a secret only known to you and %1.</source>
         <translation>为了验证通过共享秘密，输入一个只有你知道的秘密%1.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="74"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="75"/>
         <source>To authenticate manually, exchange your fingerprints over an authenticated channel and compare each other&apos;s fingerprint with the one listed beneath.</source>
         <translation>要手动验证，通过验证通道和比较对方指纹和下面列出的其中一个交换你的指纹.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="81"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="82"/>
         <source>Authenticate to %1</source>
         <translation>验证至 %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="82"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="83"/>
         <source>%1 wants to authenticate you. To authenticate, answer the question asked below.</source>
         <translation>%1希望验证你，为了验证，回答下面所问问题。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="85"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="86"/>
         <source>%1 wants to authenticate you. To authenticate, enter your shared secret below.</source>
         <translation>%1希望验证你.为了验证.在下面输入共享秘密。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="93"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="94"/>
         <source>Question and answer</source>
         <translation>问题和答案</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="94"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="95"/>
         <source>Shared secret</source>
         <translation>共享秘密</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="95"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="96"/>
         <source>Fingerprint verification</source>
         <translation>指纹验证</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="106"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="107"/>
         <source>&amp;Question:</source>
         <translation>问题(&amp;Q):</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="109"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="110"/>
         <source>A&amp;nswer:</source>
         <translation>答案(&amp;A):</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="112"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="113"/>
         <source>&amp;Shared Secret:</source>
         <translation>共享秘密(&amp;S):</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="117"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="118"/>
         <source>&amp;Cancel</source>
         <translation>取消(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="118"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="119"/>
         <source>&amp;Authenticate</source>
         <translation>认证(&amp;A)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="152"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="153"/>
         <source>This contact is already authenticated.</source>
         <translation>这个联系已经通过验证</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="158"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="159"/>
         <source>No private key for account &quot;%1&quot;</source>
         <translation>没有私钥帐户 &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="166"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="167"/>
         <source>Your fingerprint:</source>
         <translation>你的指纹:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="168"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="169"/>
         <source>%1&apos;s fingerprint:</source>
         <translation>%1&apos;s指纹:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="368"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="369"/>
         <source>Account: </source>
         <translation>账号;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="369"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="370"/>
         <source>User: </source>
         <translation>用户;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="370"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="371"/>
         <source>Fingerprint: </source>
         <translation>指纹;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="371"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="372"/>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
         <translation>你已经验证过这个是实际正确的指纹吗？</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="373"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="460"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="374"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="461"/>
         <source>Psi OTR</source>
         <translation>Psi OTR</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="394"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="395"/>
         <source>%1 has canceled the authentication process.</source>
         <translation>%1已经取消认证过程.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="400"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="401"/>
         <source>An error occured during the authentication process.</source>
         <translation>在认证过程中发生错误。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="429"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="430"/>
         <source>Authentication successful.</source>
         <translation>认证成功</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="434"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="435"/>
         <source>You have been successfully authenticated.
 
 You should authenticate %1 as well by asking your own question.</source>
@@ -22163,7 +22175,7 @@ You should authenticate %1 as well by asking your own question.</source>
 您应该认证%1以及问你自己的问题</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="442"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="443"/>
         <source>Authentication failed.</source>
         <translation>认证已失败。</translation>
     </message>
@@ -22366,70 +22378,76 @@ You should authenticate %1 as well by asking your own question.</source>
 <context>
     <name>psiotr::PsiOtrClosure</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="575"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="576"/>
         <source>No active encrypted session</source>
         <translation>没有开通加密会话</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="579"/>
         <source>Session ID between account &quot;%1&quot; and %2:&lt;br/&gt;%3</source>
-        <translation>会话身份在帐号&quot;%1&quot; 和 %2:&lt;br/&gt;%3</translation>
+        <translation type="obsolete">会话身份在帐号&quot;%1&quot; 和 %2:&lt;br/&gt;%3</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="585"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="612"/>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="obsolete">Psi OTR</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="607"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="604"/>
         <source>No private key for account &quot;%1&quot;</source>
         <translation>没有私钥账户 &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="610"/>
         <source>Fingerprint for account &quot;%1&quot;:
 %2</source>
-        <translation>指纹账户 &quot;%1&quot;:
+        <translation type="obsolete">指纹账户 &quot;%1&quot;:
 %2</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="640"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="580"/>
+        <source>Session ID between account &quot;%1&quot; and %2: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="607"/>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="634"/>
         <source>unverified</source>
         <translation>未经证实的</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="648"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="642"/>
         <source>OTR Messaging [%1]</source>
         <translation>OTR 信息 [%1]</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="652"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="646"/>
         <source>Refre&amp;sh private conversation</source>
         <translation>刷新私人对话(&amp;R)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="659"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="653"/>
         <source>&amp;Start private conversation</source>
         <translation>开始私人会话(&amp;S)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="695"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="689"/>
         <source>&amp;End private conversation</source>
         <translation>结束私人会话(&amp;E)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="701"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="695"/>
         <source>&amp;Authenticate contact</source>
         <translation>验证联系(&amp;A)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="705"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="699"/>
         <source>Show secure session &amp;ID</source>
         <translation>显示安全会话身份(&amp;ID)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="709"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="703"/>
         <source>Show own &amp;fingerprint</source>
         <translation>显示自己的指纹(&amp;F)</translation>
     </message>

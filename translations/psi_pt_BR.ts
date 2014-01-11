@@ -17697,101 +17697,113 @@ Descrição: </translation>
         <translation>Cancelar Registro</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="160"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="142"/>
         <source>Encrypting message to %1 failed.
 The message was not sent.</source>
         <translation>Mensagem criptografada para %1 falhou.
 A mensagem não foi enviada.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="653"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="628"/>
         <source>plaintext</source>
         <translation>texto puro</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="657"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="632"/>
         <source>encrypted</source>
         <translation>criptografado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="661"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="636"/>
         <source>finished</source>
         <translation>acabado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="664"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="639"/>
         <source>unknown</source>
         <translation>desconhecido</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="843"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="875"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="817"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="857"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="870"/>
         <source>Psi OTR</source>
         <translation>Psi OTR</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="844"/>
         <source>Generating keys for account &quot;%1&quot;.
 This may take a while.</source>
-        <translation>Gerando chaves para esta conta &quot;%1&quot;.
+        <translation type="obsolete">Gerando chaves para esta conta &quot;%1&quot;.
 Isto pode demorar um pouco.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="851"/>
         <source>Please wait...</source>
-        <translation>Por favor espere...</translation>
+        <translation type="obsolete">Por favor espere...</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="861"/>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="obsolete">Ok</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="867"/>
         <source>Fingerprint for account &quot;%1&quot;:
 %2</source>
-        <translation>Impressão digital para conta &quot;%1&quot;:
+        <translation type="obsolete">Impressão digital para conta &quot;%1&quot;:
 %2</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="876"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="818"/>
+        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
+
+Do you want to generate keys now?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="858"/>
+        <source>Keys have been generated. Fingerprint for account &quot;%1&quot;:
+%2
+
+Thanks for your patience.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="871"/>
         <source>Failed to generate keys for account &quot;%1&quot;.
 The OTR Plugin will not work.</source>
         <translation>Falha ao gerar chaves para esta conta &quot;%1&quot;.
 O Plugin OTR não funcionará.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="935"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="927"/>
         <source>&lt;b&gt;The following message received from %1 was &lt;i&gt;not&lt;/i&gt; encrypted:&lt;/b&gt;</source>
         <translation>&lt;b&gt;A seguinte mensagem recebida de %1 &lt;i&gt;não&lt;/i&gt; foi criptografada:&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="940"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="932"/>
         <source>Your message was not sent. Either end your private conversation, or restart it.</source>
         <translation>Sua mensagem não foi enviada. Termine sua conversa privada, ou reinicie-a.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="944"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="936"/>
         <source>Unreadable encrypted message was received.</source>
         <translation>Mensagem criptografada ilegível foi recebida.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="947"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="939"/>
         <source>Received an encrypted message but it cannot be read because no private connection is established yet.</source>
         <translation>Mensagem criptografada recebida, mas ela não pode ser lida, pois nenhuma conversa privada foi estabelecida.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="952"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="944"/>
         <source>Received message is unreadable.</source>
         <translation>Mensagem recebida é ilegivel</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="955"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="947"/>
         <source>Received message contains malformed data.</source>
         <translation>Mensagem recebida contém dados malformados.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="1072"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="1070"/>
         <source>You have received a new fingerprint from %1:
 %2</source>
         <translation>Você recebeu uma nova impressão digital de %1:
@@ -22054,150 +22066,150 @@ Realmente deseja fechar a janela?</translation>
 <context>
     <name>psiotr::AuthenticationDialog</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="67"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="68"/>
         <source>Authenticate %1</source>
         <translation>Autenticar %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="68"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="69"/>
         <source>To authenticate via question and answer, ask a question whose answer is only known to you and %1.</source>
         <translation>Autenticar através de pergunta e resposta, faça uma pergunta cuja resposta é conhecida apenas por você e %1.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="71"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="72"/>
         <source>To authenticate via shared secret, enter a secret only known to you and %1.</source>
         <translation>Para autenticar via segredo compartilhado, digite um segredo conhecido por você e %1.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="74"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="75"/>
         <source>To authenticate manually, exchange your fingerprints over an authenticated channel and compare each other&apos;s fingerprint with the one listed beneath.</source>
         <translation>Para autenticação manual, trocar suas impressões digitais através de um canal autenticado e comparar um ao outro as impressões digitais como listado abaixo.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="81"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="82"/>
         <source>Authenticate to %1</source>
         <translation>Autenticar a %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="82"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="83"/>
         <source>%1 wants to authenticate you. To authenticate, answer the question asked below.</source>
         <translation>%1 deseja autentica-lo. Para autenticar-se, responda a questão abaixo.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="85"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="86"/>
         <source>%1 wants to authenticate you. To authenticate, enter your shared secret below.</source>
         <translation>%1 quer autentica-lo. Para autenticar-se, digite o segredo compartilhado abaixo.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="93"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="94"/>
         <source>Question and answer</source>
         <translation>Pergunta e resposta</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="94"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="95"/>
         <source>Shared secret</source>
         <translation>Segredo compartilhado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="95"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="96"/>
         <source>Fingerprint verification</source>
         <translation>Verificação de impressão digital</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="106"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="107"/>
         <source>&amp;Question:</source>
         <translation>&amp;Pergunta:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="109"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="110"/>
         <source>A&amp;nswer:</source>
         <translation>R&amp;esposta:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="112"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="113"/>
         <source>&amp;Shared Secret:</source>
         <translation>&amp;Segredo Compartilhado:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="117"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="118"/>
         <source>&amp;Cancel</source>
         <translation>&amp;Cancelar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="118"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="119"/>
         <source>&amp;Authenticate</source>
         <translation>&amp;Autenticar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="152"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="153"/>
         <source>This contact is already authenticated.</source>
         <translation>Este contato já esta autenticado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="158"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="159"/>
         <source>No private key for account &quot;%1&quot;</source>
         <translation>Nenhuma chave privada para esta conta &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="166"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="167"/>
         <source>Your fingerprint:</source>
         <translation>Sua impressão digital:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="168"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="169"/>
         <source>%1&apos;s fingerprint:</source>
         <translation>Impressão digital de %1:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="368"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="369"/>
         <source>Account: </source>
         <translation>Conta: </translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="369"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="370"/>
         <source>User: </source>
         <translation>Usuário:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="370"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="371"/>
         <source>Fingerprint: </source>
         <translation>Impressão digital: </translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="371"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="372"/>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
         <translation>Você verificou que este é de fato a impressão digital correta?</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="373"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="460"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="374"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="461"/>
         <source>Psi OTR</source>
         <translation>Psi OTR</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="394"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="395"/>
         <source>%1 has canceled the authentication process.</source>
         <translation>%1 cancelou o processo de autenticação.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="400"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="401"/>
         <source>An error occured during the authentication process.</source>
         <translation>Ocorreu um erro durante o processo de autenticação.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="429"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="430"/>
         <source>Authentication successful.</source>
         <translation>Autenticado com sucesso.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="434"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="435"/>
         <source>You have been successfully authenticated.
 
 You should authenticate %1 as well by asking your own question.</source>
         <translation>Você foi autenticado com sucesso. Você deve autenticar %1 fazendo sua própria pergunta.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="442"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="443"/>
         <source>Authentication failed.</source>
         <translation>Autenticação falhou.</translation>
     </message>
@@ -22400,70 +22412,76 @@ You should authenticate %1 as well by asking your own question.</source>
 <context>
     <name>psiotr::PsiOtrClosure</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="575"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="576"/>
         <source>No active encrypted session</source>
         <translation>Nenhum sessão criptografada ativa</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="579"/>
         <source>Session ID between account &quot;%1&quot; and %2:&lt;br/&gt;%3</source>
-        <translation>ID da sessão entra as contas &quot;%1&quot; e %2:&lt;br/&gt;%3</translation>
+        <translation type="obsolete">ID da sessão entra as contas &quot;%1&quot; e %2:&lt;br/&gt;%3</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="585"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="612"/>
         <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
+        <translation type="obsolete">Psi OTR</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="607"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="604"/>
         <source>No private key for account &quot;%1&quot;</source>
         <translation>Nenhuma chave privada para esta conta &quot;%1&quot;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="610"/>
         <source>Fingerprint for account &quot;%1&quot;:
 %2</source>
-        <translation>Impressão digital para conta &quot;%1&quot;:
+        <translation type="obsolete">Impressão digital para conta &quot;%1&quot;:
 %2</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="640"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="580"/>
+        <source>Session ID between account &quot;%1&quot; and %2: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="607"/>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="634"/>
         <source>unverified</source>
         <translation>não verificado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="648"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="642"/>
         <source>OTR Messaging [%1]</source>
         <translation>Mensagens OTR [%1]</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="652"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="646"/>
         <source>Refre&amp;sh private conversation</source>
         <translation>Atual&amp;izar conversa privada</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="659"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="653"/>
         <source>&amp;Start private conversation</source>
         <translation>&amp;Iniciar uma conversa privada</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="695"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="689"/>
         <source>&amp;End private conversation</source>
         <translation>&amp;Terminar uma conversa privada</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="701"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="695"/>
         <source>&amp;Authenticate contact</source>
         <translation>&amp;Autenticar contato</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="705"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="699"/>
         <source>Show secure session &amp;ID</source>
         <translation>Exibir &amp;ID de sessão segura</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="709"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="703"/>
         <source>Show own &amp;fingerprint</source>
         <translation>Mostrar &amp;impressão digital própria</translation>
     </message>
