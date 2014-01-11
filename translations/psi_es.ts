@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.0" language="es">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="es" version="2.0">
 <context>
     <name>@default</name>
     <message>
@@ -120,12 +118,12 @@ Copyright © 2001-2013 Equipo Psi.&lt;br&gt;
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="53"/>
         <source>Past Lead Developer and Maintainer</source>
-        <translation>Anteriormente líder de desarrollo y mantenedor</translation>
+        <translation>Anterior líder de desarrollo y mantenedor</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="56"/>
         <source>Past Lead Developer</source>
-        <translation>Anteriormente líder de desarrollo</translation>
+        <translation>Anterior líder de desarrollo</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="59"/>
@@ -168,7 +166,7 @@ Copyright © 2001-2013 Equipo Psi.&lt;br&gt;
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="93"/>
         <source>Designer and Patcher</source>
-        <translation>Diseñador y Parchador</translation>
+        <translation>Diseñador y Parcheador</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="96"/>
@@ -220,17 +218,17 @@ Copyright © 2001-2013 Equipo Psi.&lt;br&gt;
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="130"/>
         <source>Language coordinator, miscellaneous assistance</source>
-        <translation>Coordinador de idiomas, asistencia en general</translation>
+        <translation>Coordinador de idiomas, asistencia general</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="133"/>
         <source>Former language coordinator, miscellaneous assistance</source>
-        <translation>Primer coordinador de idioma, asistencia de misceláneas</translation>
+        <translation>Antiguo coordinador de idioma, asistencia general</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="136"/>
         <source>Build setup, miscellaneous assistance</source>
-        <translation>Configuración de la compilación, asistencia general</translation>
+        <translation>Configuración de compilación, asistencia general</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="139"/>
@@ -256,7 +254,7 @@ Copyright © 2001-2013 Equipo Psi.&lt;br&gt;
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="154"/>
         <source>Original End User Documentation</source>
-        <translation>Documentación original para usuarios finales</translation>
+        <translation>Documentación original para el usuario final</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="157"/>
@@ -266,7 +264,7 @@ Copyright © 2001-2013 Equipo Psi.&lt;br&gt;
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="160"/>
         <source>Bug Tracker Management</source>
-        <translation>Gestor de seguimiento de bugs</translation>
+        <translation>Gestor de seguimiento de fallos</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="163"/>
@@ -373,7 +371,7 @@ Haz clic en la caja &lt;b&gt;Registrar nueva cuenta&lt;/b&gt; si deseas que Psi 
     <message>
         <location filename="../../psi-plus-snapshots/src/accountadd.ui" line="155"/>
         <source>psi/addContact</source>
-        <translation>psi/Añadir contacto</translation>
+        <translation>psi/addContact</translation>
     </message>
 </context>
 <context>
@@ -386,7 +384,7 @@ Haz clic en la caja &lt;b&gt;Registrar nueva cuenta&lt;/b&gt; si deseas que Psi 
     <message>
         <location filename="../../psi-plus-snapshots/src/accountadddlg.cpp" line="50"/>
         <source>Default</source>
-        <translation>Predeterminado</translation>
+        <translation>Por defecto</translation>
     </message>
 </context>
 <context>
@@ -394,12 +392,12 @@ Haz clic en la caja &lt;b&gt;Registrar nueva cuenta&lt;/b&gt; si deseas que Psi 
     <message>
         <location filename="../../psi-plus-snapshots/src/accountloginpassword.cpp" line="44"/>
         <source>Please enter the password for %1:</source>
-        <translation>Por favor, escriba la contraseña de%1:</translation>
+        <translation>Por favor, escribe la contraseña para %1:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountloginpassword.cpp" line="46"/>
         <source>Please enter your password:</source>
-        <translation>Por favor inserta tu contraseña:</translation>
+        <translation>Por favor escribe tu contraseña:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountloginpassword.cpp" line="52"/>
@@ -437,7 +435,7 @@ Haz clic en la caja &lt;b&gt;Registrar nueva cuenta&lt;/b&gt; si deseas que Psi 
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmanage.ui" line="67"/>
         <source>psi/addContact</source>
-        <translation>psi/Añadir contacto</translation>
+        <translation>psi/addContact</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmanage.ui" line="74"/>
@@ -452,7 +450,7 @@ Haz clic en la caja &lt;b&gt;Registrar nueva cuenta&lt;/b&gt; si deseas que Psi 
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmanage.ui" line="84"/>
         <source>psi/remove</source>
-        <translation>psi/eliminar</translation>
+        <translation>psi/remove</translation>
     </message>
 </context>
 <context>
@@ -476,7 +474,7 @@ Haz clic en la caja &lt;b&gt;Registrar nueva cuenta&lt;/b&gt; si deseas que Psi 
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="413"/>
         <source>Please disconnect before removing the account.</source>
-        <translation>Por favor, desconéctate antes de eliminar la cuenta.</translation>
+        <translation>Por favor, desconecta antes de eliminar la cuenta.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="415"/>
@@ -505,7 +503,7 @@ Haz clic en la caja &lt;b&gt;Registrar nueva cuenta&lt;/b&gt; si deseas que Psi 
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="76"/>
         <source>Example: juliet@capulet.com</source>
-        <translation>Ejemplo:juliet@capulet.com</translation>
+        <translation>Ejemplo: juliet@capulet.com</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="83"/>
@@ -541,7 +539,7 @@ Haz clic en la caja &lt;b&gt;Registrar nueva cuenta&lt;/b&gt; si deseas que Psi 
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="155"/>
         <source>Restore last status</source>
-        <translation>Restaurar el último estado</translation>
+        <translation>Restablecer el último estado</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="162"/>
@@ -551,7 +549,7 @@ Haz clic en la caja &lt;b&gt;Registrar nueva cuenta&lt;/b&gt; si deseas que Psi 
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="169"/>
         <source>Log message history</source>
-        <translation>Historial de mensajes del log</translation>
+        <translation>Guardar historial de los mensajes</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="196"/>
@@ -646,18 +644,18 @@ Haz clic en la caja &lt;b&gt;Registrar nueva cuenta&lt;/b&gt; si deseas que Psi 
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="578"/>
         <source>Send &quot;keep-alive&quot; packets (to prevent timeouts)</source>
-        <translation>Enviar paquetes &quot;keep-alive&quot; (para prevenir tiempos de espera)</translation>
+        <translation>Enviar paquetes «keep-alive» (para prevenir tiempos de espera agotados)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="585"/>
         <source>Manually Specify Server Host/Port:</source>
-        <translation>Especificar anfitrión/puerto del servidor manualmente:</translation>
+        <translation>Especifique manualmente la dirección y el puerto del servidor:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="600"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="913"/>
         <source>Host:</source>
-        <translation>Anfitrión:</translation>
+        <translation>Servidor:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="610"/>
@@ -667,12 +665,12 @@ Haz clic en la caja &lt;b&gt;Registrar nueva cuenta&lt;/b&gt; si deseas que Psi 
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="643"/>
         <source>Encrypt connection:</source>
-        <translation>Conexión cifrada:</translation>
+        <translation>Cifrar conexión:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="689"/>
         <source>Allow plaintext authentication:</source>
-        <translation>Permitir comprobación con texto plano:</translation>
+        <translation>Permitir autenticación en texto plano:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="727"/>
@@ -692,7 +690,7 @@ Haz clic en la caja &lt;b&gt;Registrar nueva cuenta&lt;/b&gt; si deseas que Psi 
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="805"/>
         <source>Resource:</source>
-        <translation>Recursos:</translation>
+        <translation>Recurso:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="835"/>
@@ -1460,7 +1458,7 @@ Si se selecciona, el servidor no guardará el historial para este contacto.</tra
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -3335,18 +3333,12 @@ Nota: Para su correcto funcionamiento, la barra de herramientas «Sala de chat»
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/contactlistutil.cpp" line="87"/>
         <source>and %n contacts </source>
-        <translation>
-            <numerusform>y %n contacto  </numerusform>
-            <numerusform>y %n contactos </numerusform>
-        </translation>
+        <translation><numerusform>y %n contacto  </numerusform><numerusform>y %n contactos </numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/contactlistutil.cpp" line="92"/>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation>
-            <numerusform>Esto eliminará permanentemente: &lt;br&gt;%1&lt;br&gt;%2 y %n grupo de tu lista de contactos.</numerusform>
-            <numerusform>Esto eliminará permanentemente: &lt;br&gt;%1&lt;br&gt;%2 y %n grupos de tu lista de contactos.</numerusform>
-        </translation>
+        <translation><numerusform>Esto eliminará permanentemente: &lt;br&gt;%1&lt;br&gt;%2 y %n grupo de tu lista de contactos.</numerusform><numerusform>Esto eliminará permanentemente: &lt;br&gt;%1&lt;br&gt;%2 y %n grupos de tu lista de contactos.</numerusform></translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistutil.cpp" line="101"/>
@@ -4093,7 +4085,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/disco.ui" line="28"/>
         <source>ToolBar will be placed here</source>
-        <comment>Don&apos;t translate this string</comment>
+        <comment>Don't translate this string</comment>
         <translation>La barra de herramientas se colocará aquí</translation>
     </message>
     <message>
@@ -5016,7 +5008,7 @@ Si deseas confirmar esta petición, pulsa el botón Confirmar.  En caso contrari
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="307"/>
         <source>Default JID mode:</source>
-        <translation>Modo JID predeterminado:</translation>
+        <translation>Modo JID por defecto:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="311"/>
@@ -5047,7 +5039,7 @@ Si deseas confirmar esta petición, pulsa el botón Confirmar.  En caso contrari
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="332"/>
         <source>Default JID mode ignore list:</source>
-        <translation>Modo JID predeterminado de la lista de ignorados:</translation>
+        <translation>Modo JID por defecto de la lista de ignorados:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="349"/>
@@ -5077,12 +5069,12 @@ Si deseas confirmar esta petición, pulsa el botón Confirmar.  En caso contrari
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="363"/>
         <source>Automatically accept the default room configuration</source>
-        <translation>Aceptar automáticamente la configuración predeterminada de la sala</translation>
+        <translation>Aceptar automáticamente la configuración por defecto de la sala</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="364"/>
         <source>Automatically accept the default room configuration when a new room is created</source>
-        <translation>Aceptar automáticamente la configuración predeterminada de la sala cuando se cree una sala nueva</translation>
+        <translation>Aceptar automáticamente la configuración por defecto de la sala al crearse una sala nueva</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="365"/>
@@ -5093,7 +5085,7 @@ Si deseas confirmar esta petición, pulsa el botón Confirmar.  En caso contrari
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="366"/>
         <source>Automatically open the configuration dialog when a new room is created.
 This option only has effect if accept-defaults is false.</source>
-        <translation>Abrir automáticamente la ventana de configuración cuando se cree una nueva sala.
+        <translation>Abrir automáticamente la ventana de configuración al crearse una nueva sala.
 Esta opción solo tiene efecto si accept-defaults está en falso.</translation>
     </message>
     <message>
@@ -5209,7 +5201,7 @@ Esta opción solo tiene efecto si accept-defaults está en falso.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="439"/>
         <source>If contact does not have avatar, use default avatar</source>
-        <translation>Si el contacto no tiene avatra, usar el avatar predeterminado</translation>
+        <translation>Si el contacto no tiene avatar, usar el avatar por defecto</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="441"/>
@@ -5683,7 +5675,7 @@ Esto puede ocurrir si el programa del contacto no entendió nuestra solicitud, o
         <source>Unable to connect to peer for data transfer.
 
 Ensure that your Data Transfer settings are proper.  If you are behind
-a NAT router or firewall then you&apos;ll need to open the proper TCP port
+a NAT router or firewall then you'll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>No se puede conectar con el equipo del contacto para la transferencia de datos.
 
@@ -5695,7 +5687,7 @@ Si estás detrás de un router con NAT o un firewall, necesitarás abrir el puer
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
 
 This means that the Proxy service is either not functioning or it is
-unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
+unreachable.  If you are behind a firewall, then you'll need to ensure
 that outgoing TCP connections are allowed.</source>
         <translation>Fallo al conectar o activar el Proxy de Transferencia de Datos.
 
@@ -7627,7 +7619,7 @@ Puedes marcar o desmarcar un contacto para la eliminación de su historial desde
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -7640,7 +7632,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -7658,7 +7650,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -7676,7 +7668,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -7964,12 +7956,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_iconset_roster.ui" line="29"/>
         <source>Default</source>
-        <translation>Predeterminado</translation>
+        <translation>Por defecto</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_iconset_roster.ui" line="41"/>
         <source>Default roster iconset:</source>
-        <translation>Iconos de lista de contactos personalizados:</translation>
+        <translation>Iconos de lista de contactos por defecto:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_iconset_roster.ui" line="48"/>
@@ -8067,7 +8059,7 @@ p, li { white-space: pre-wrap; }
     <name>IcqDie</name>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="122"/>
-        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
+        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it's much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
         <translation>Te lo puedo decir como Linux, pero no te molestes. Ciertamente este humano recibirá este mensaje. Pero es mucho mejor charlar con él por Jabber. Te estás arriesgando, uno nunca sabe cuándo ICQ pueda morir, abuelita ya lo sobrevivió. Su JID: %1.
@@ -8078,7 +8070,7 @@ Sinceramente, Debian Sid.</translation>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="126"/>
         <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
 
-If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
+If you don't know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
         <translation>Te lo puedo decir como Linux, pero no te molestes. Este humano ya no usa ICQ, así que si todavía usas esa red no recibirá tus mensajes y tienes que comunicar con él vía Jabber. Su JID: %1.
 
@@ -8175,7 +8167,7 @@ Tiene un número de pequeñas configuraciones que te ayudarán:
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/imageplugin/imageplugin.cpp" line="310"/>
         <source>This plugin is designed to send images to roster contacts.
-Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
         <translation>Este complemento ha sido diseñado para enviar imágenes a los contactos del listado.
 El cliente de tu contacto debe soportar XEP-0071: XHTML-IM y soportar el sistema de datos: URI.
@@ -8752,7 +8744,7 @@ a jugar gomoku. Quiere jugar %2.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="235"/>
-        <source>can&apos;t create folder %1 
+        <source>can't create folder %1 
 caching avatars will be not available</source>
         <translation>no se puede crear la carpeta %1 
 estará disponible la caché de avatares</translation>
@@ -9582,7 +9574,7 @@ Detalles: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/model.cpp" line="31"/>
         <source>Sounds (if empty default sound will be used)</source>
-        <translation>Sonidos (si se deja vacío se usará el sonido predeterminado)</translation>
+        <translation>Sonidos (si se deja vacío se usará el sonido por defecto)</translation>
     </message>
 </context>
 <context>
@@ -9782,7 +9774,7 @@ Etiquetas: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_advanced.ui" line="84"/>
         <source>Single-click triggers default action</source>
-        <translation>Un solo clic activa la acción perdeterminada</translation>
+        <translation>Un solo clic activa la acción por defecto</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_advanced.ui" line="91"/>
@@ -10279,7 +10271,7 @@ Etiquetas: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_chat.ui" line="153"/>
         <source>Default action</source>
-        <translation>Acción predeterminada</translation>
+        <translation>Acción por defecto</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_chat.ui" line="165"/>
@@ -10853,7 +10845,7 @@ Etiquetas: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_sound.ui" line="417"/>
         <source>Reset to defaults</source>
-        <translation>Restaurar a predeterminados</translation>
+        <translation>Restablecer a predeterminados</translation>
     </message>
 </context>
 <context>
@@ -10904,7 +10896,7 @@ Etiquetas: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="169"/>
         <source>Default priority</source>
-        <translation>Prioridad predeterminada</translation>
+        <translation>Prioridad por defecto</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="179"/>
@@ -11074,7 +11066,7 @@ Etiquetas: %1</translation>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -11689,7 +11681,7 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="409"/>
-        <source>Disable stopspam, if don&apos;t match any rule above
+        <source>Disable stopspam, if don't match any rule above
 (does not work for muc private messages)</source>
         <translation>Inhabilitar &apos;Detener spam&apos; si no coincide con ninguna de las reglas de arriba
 (no funciona para los mensajes privados de salas)</translation>
@@ -11717,7 +11709,7 @@ a las personas frecuentemente contactadas por email.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/options.ui" line="73"/>
         <source>Default sound: </source>
-        <translation>Sonido predeterminado:</translation>
+        <translation>Sonido por defecto:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/options.ui" line="100"/>
@@ -11904,7 +11896,7 @@ a las personas frecuentemente contactadas por email.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_advanced.cpp" line="68"/>
         <source>Normally, a double-click on a contact will invoke the default action.  Check this option if you&apos;d rather invoke with a single-click.</source>
-        <translation>Normalmente, al hacer doble click sobre un contacto se invoca la acción predeterminada. Marque esta opción si prefiere invocar con un único click.</translation>
+        <translation>Normalmente, al hacer doble clic sobre un contacto, se invoca la acción por defecto. Marca esta opción si prefiere invocar con un único clic.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_advanced.cpp" line="71"/>
@@ -12119,7 +12111,7 @@ a las personas frecuentemente contactadas por email.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_application.cpp" line="188"/>
         <source>Default</source>
-        <translation>Predeterminado</translation>
+        <translation>Por defecto</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_application.cpp" line="241"/>
@@ -12165,12 +12157,12 @@ a las personas frecuentemente contactadas por email.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_chat.cpp" line="63"/>
         <source>Make the default action open a normal message window.</source>
-        <translation>Hace que la acción predeterminada sea abrir una ventana normal de mensajes.</translation>
+        <translation>Hacer que la acción por defecto sea abrir una ventana normal de mensajes.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_chat.cpp" line="65"/>
         <source>Make the default action open a chat window.</source>
-        <translation>Hace que la acción predeterminada sea abrir una ventana de conversación.</translation>
+        <translation>Hacer que la acción por defecto sea abrir una ventana de conversación.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_chat.cpp" line="67"/>
@@ -12525,12 +12517,12 @@ a las personas frecuentemente contactadas por email.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_shortcuts.cpp" line="345"/>
         <source>Restore default shortcuts</source>
-        <translation>Restaurar atajos de teclado predeterminados</translation>
+        <translation>Restaurar atajos de teclado por defecto</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_shortcuts.cpp" line="346"/>
         <source>Are you sure you would like to restore the default shortcuts?</source>
-        <translation>Estas seguro de que deseas restaurar los atajos de teclado predeterminados?</translation>
+        <translation>¿Estás seguro de que deseas restaurar los atajos de teclado por defecto?</translation>
     </message>
 </context>
 <context>
@@ -12629,7 +12621,7 @@ a las personas frecuentemente contactadas por email.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.cpp" line="88"/>
         <source>Specifies priority of auto-away status. If empty, Psi will use account&apos;s default priority.</source>
-        <translation>Especifica la prioridad del estado de ausencia automático. Si se deja vacío, Psi usará la prioridad predeterminada de la cuenta.</translation>
+        <translation>Especifica la prioridad del estado de ausencia automático. Si se deja vacío, Psi usará la prioridad por defecto de la cuenta.</translation>
     </message>
 </context>
 <context>
@@ -12677,7 +12669,7 @@ a las personas frecuentemente contactadas por email.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.cpp" line="87"/>
         <source>Fill in the priority that will be assigned to this preset. If no priority is given, the default account priority will be used.</source>
-        <translation>Llenar con la prioridad que será asignada a este mensaje predeterminado. De no establecerse, se usará la prioridad predeterminada para la cuenta.</translation>
+        <translation>Llenar con la prioridad que será asignada a este mensaje por defecto. De no establecerse, se usará la prioridad por defecto para la cuenta.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.cpp" line="91"/>
@@ -12962,7 +12954,7 @@ a las personas frecuentemente contactadas por email.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/optionswidget.ui" line="68"/>
         <source>Default action</source>
-        <translation>Acción predeterminada</translation>
+        <translation>Acción por defecto</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/optionswidget.ui" line="74"/>
@@ -13560,7 +13552,7 @@ Todavía puedes guardar el juego.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/privacy/privacy.ui" line="56"/>
         <source>Default List (all sessions):</source>
-        <translation>Lista predeterminada (todas las sesiones):</translation>
+        <translation>Lista por defecto (todas las sesiones):</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/privacy/privacy.ui" line="63"/>
@@ -13900,7 +13892,7 @@ The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a co
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
         <translation>Mantén tu&lt;i&gt; Nombre de perfil&lt;/i&gt; simple. Debería ser una sola palabra comprendida solo por números o letras.&lt;br&gt;
 &lt;br&gt;
-La&lt;i&gt; Acción predeterminda&lt;/i&gt; es lo que se ejecuta una vez que se hace doble clic a un contacto de tu lista. Las opciones son &lt;b&gt; Mensaje&lt;/b&gt; (estilo ICQ) y&lt;b&gt; Conversación&lt;/b&gt; (estilo AIM). Luego puedes cambiar esto desde el menú Opciones.&lt;br&gt;
+La&lt;i&gt; Acción por defecto&lt;/i&gt; es lo que se ejecuta una vez que se hace doble clic a un contacto de tu lista. Las opciones son &lt;b&gt; Mensaje&lt;/b&gt; (estilo ICQ) y&lt;b&gt; Conversación&lt;/b&gt; (estilo AIM). Luego puedes cambiar esto desde el menú Opciones.&lt;br&gt;
 &lt;br&gt;
 Selecciona la caja &lt;i&gt;Habilitar smileys&lt;/i&gt; si te gustaría que un texto como &lt;b&gt;:-)&lt;/b&gt; sea convertido en imágenes como &lt;icon name=&quot;psi/smile&quot;&gt;.</translation>
     </message>
@@ -13912,7 +13904,7 @@ Selecciona la caja &lt;i&gt;Habilitar smileys&lt;/i&gt; si te gustaría que un t
     <message>
         <location filename="../../psi-plus-snapshots/src/profilenew.ui" line="87"/>
         <source>Default Action</source>
-        <translation>Acción predeterminada</translation>
+        <translation>Acción por defecto</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/profilenew.ui" line="99"/>
@@ -15483,7 +15475,7 @@ Motivo: %1.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicli.h" line="39"/>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
-        <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
+        <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
         <translation>Establece estado. ESTADO debe ser uno de &apos;online&apos;, &apos;chat&apos;, &apos;away&apos;, &apos;xa&apos;, &apos;dnd&apos;, &apos;offline&apos;.</translation>
     </message>
     <message>
@@ -16053,7 +16045,7 @@ Razón: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/main.cpp" line="202"/>
         <source>There was an error creating the default profile.</source>
-        <translation>Ha ocurrido un error creando el perfil predeterminado.</translation>
+        <translation>Ha ocurrido un error creando el perfil por defecto.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/main.cpp" line="244"/>
@@ -17617,34 +17609,22 @@ Descripción: </translation>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="292"/>
         <source>%n day(s) </source>
-        <translation>
-            <numerusform>%n día </numerusform>
-            <numerusform>%n días </numerusform>
-        </translation>
+        <translation><numerusform>%n día </numerusform><numerusform>%n días </numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="295"/>
         <source>%n hour(s) </source>
-        <translation>
-            <numerusform>%n hora </numerusform>
-            <numerusform>%n horas </numerusform>
-        </translation>
+        <translation><numerusform>%n hora </numerusform><numerusform>%n horas </numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="298"/>
         <source>%n minute(s) </source>
-        <translation>
-            <numerusform>%n minuto</numerusform>
-            <numerusform>%n minutos</numerusform>
-        </translation>
+        <translation><numerusform>%n minuto</numerusform><numerusform>%n minutos</numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="301"/>
         <source>%n second(s) </source>
-        <translation>
-            <numerusform>%n segundo</numerusform>
-            <numerusform>%n segundos</numerusform>
-        </translation>
+        <translation><numerusform>%n segundo</numerusform><numerusform>%n segundos</numerusform></translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickdownloader.cpp" line="43"/>
@@ -17745,29 +17725,29 @@ El mensaje no pudo ser enviado.</translation>
     <message>
         <source>Generating keys for account &quot;%1&quot;.
 This may take a while.</source>
-        <translation type="obsolete">Generando llaves para la cuenta &apos;%1&apos;.
-Esto puede tomar un tiempo.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="obsolete">Por favor espera...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="obsolete">Aceptar</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;:
 %2</source>
-        <translation type="obsolete">Huella para la cuenta &apos;%1&apos;:
-%2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="818"/>
         <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
 
 Do you want to generate keys now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Las llaves privadas para la cuenta «%1» necesitan ser generadas. Esto tomará algo de tiempo (desde unos pocos segundos hasta un par de minutos), mientras tanto puedes seguir usando el Psi+, todos los mensajes serán enviados sin cifrado hasta que las llaves sean generadas. Se te notificará cuando el proceso termine.
+
+¿Deseas generar las llaves ahora?</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="858"/>
@@ -17775,7 +17755,10 @@ Do you want to generate keys now?</source>
 %2
 
 Thanks for your patience.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se han generado las llaves. Huellas para la la cuenta «%1»:
+%2
+
+Gracias por tu paciencia.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="871"/>
@@ -18406,10 +18389,7 @@ Razón: %1</translation>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="459"/>
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation>
-            <numerusform>celebra su cumpleaños en %n día</numerusform>
-            <numerusform>celebra su cumpleaños en %n días</numerusform>
-        </translation>
+        <translation><numerusform>celebra su cumpleaños en %n día</numerusform><numerusform>celebra su cumpleaños en %n días</numerusform></translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="462"/>
@@ -18907,10 +18887,7 @@ Razón: %1</translation>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="497"/>
         <source>Added %n users to your roster.</source>
-        <translation>
-            <numerusform>Añadidos %n usuarios a tu lista de contactos.</numerusform>
-            <numerusform>Añadidos %n usuarios a tu lista de contactos.</numerusform>
-        </translation>
+        <translation><numerusform>Añadidos %n usuarios a tu lista de contactos.</numerusform><numerusform>Añadidos %n usuarios a tu lista de contactos.</numerusform></translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="502"/>
@@ -20524,7 +20501,7 @@ Esperamos que disfrute usándolo tanto como nosotros haciéndolo!
         <source>You can type these special commands in chat and groupchat dialogs:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
+&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; '/me' is replaced by your nick&lt;/li&gt;
 &lt;/ul&gt;
 And these work only in groupchat dialog:
 &lt;ul&gt;
@@ -22427,11 +22404,11 @@ Deberías autenticar a %1 del mismo modo haciéndole una pregunta.</translation>
     </message>
     <message>
         <source>Session ID between account &quot;%1&quot; and %2:&lt;br/&gt;%3</source>
-        <translation type="obsolete">Identificador de sesión con cuenta &apos;%1&apos; y %2:&lt;br/&gt;%3</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="obsolete">Psi OTR</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="604"/>
@@ -22441,18 +22418,17 @@ Deberías autenticar a %1 del mismo modo haciéndole una pregunta.</translation>
     <message>
         <source>Fingerprint for account &quot;%1&quot;:
 %2</source>
-        <translation type="obsolete">Huella para la cuenta &apos;%1&apos;:
-%2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="580"/>
         <source>Session ID between account &quot;%1&quot; and %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>ID de la sesión entre las cuentas «%1» y «%2»: %3</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="607"/>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Huella para la cuenta «%1»: %2</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="634"/>
@@ -22989,7 +22965,7 @@ Reautorización...</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodnetman.cpp" line="276"/>
-        <source>Can&apos;t get files!
+        <source>Can't get files!
 Try remove cookies.</source>
         <translation>¡No se pueden obtener los archivos!
 Intente eliminar las cookies.</translation>
@@ -23096,7 +23072,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711</translation>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
