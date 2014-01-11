@@ -298,7 +298,7 @@ Join the translation team today! Go to
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <translation>Deutsche Übersetzung&lt;br&gt;
-&lt;small&gt;Letzte Aktualisierung: 16.01.2013&lt;/small&gt;&lt;br&gt;
+&lt;small&gt;Letzte Aktualisierung: 09.01.2014&lt;/small&gt;&lt;br&gt;
 &lt;br&gt;
 M.Kiesel&lt;br&gt;
 Jaan Klatt&lt;br&gt;
@@ -311,6 +311,7 @@ Norman Den Rogers&lt;br&gt;
 Dennis Schridde&lt;br&gt;
 Frederik Schwarzer&lt;br&gt;
 Erik-B. Ernst&lt;br&gt;
+Florian Fieber&lt;br&gt;
 &lt;br&gt;
 &lt;a href=&quot;https://www.transifex.com/projects/p/psi-plus/&quot;&gt;Neue Transifex Projektseite&lt;/a&gt;&lt;br&gt;
 Fehler gefunden oder Verbesserungsvorschläge?&lt;br&gt;
@@ -769,7 +770,7 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="131"/>
         <source>Manual</source>
-        <translation type="unfinished"/>
+        <translation>Manuell</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="132"/>
@@ -3083,7 +3084,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistaccountmenu.cpp" line="109"/>
         <source>&amp;Contacts Manager</source>
-        <translation>&amp;Kontakt Verwaltung</translation>
+        <translation>&amp;Kontaktverwaltung</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistaccountmenu.cpp" line="112"/>
@@ -3113,7 +3114,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistaccountmenu.cpp" line="127"/>
         <source>Privacy Lists</source>
-        <translation>Privatsphäre Listen</translation>
+        <translation>Privatsphärelisten</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistaccountmenu.cpp" line="130"/>
@@ -3381,7 +3382,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <location filename="../../psi-plus-snapshots/src/contactmanager/contactmanagerdlg.ui" line="20"/>
         <location filename="../../psi-plus-snapshots/src/contactmanager/contactmanagerdlg.cpp" line="46"/>
         <source>Contacts Manager</source>
-        <translation>Kontakt Verwaltung</translation>
+        <translation>Kontaktverwaltung</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactmanager/contactmanagerdlg.ui" line="41"/>
@@ -3411,12 +3412,12 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactmanager/contactmanagerdlg.cpp" line="56"/>
         <source>Auth request</source>
-        <translation>Autorisierungs Anfrage</translation>
+        <translation>Autorisierung anfragen</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactmanager/contactmanagerdlg.cpp" line="57"/>
         <source>Auth grant</source>
-        <translation type="unfinished"/>
+        <translation>Autorisieren</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactmanager/contactmanagerdlg.cpp" line="58"/>
@@ -5036,7 +5037,7 @@ Wenn Sie die Anforderung zulassen möchten, drücken Sie bitte &lt;bestätigen&g
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="356"/>
         <source>Show roles and affiliations changes</source>
-        <translation type="unfinished"/>
+        <translation>Zeige Rollen- und Angliederungswechsel</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="363"/>
@@ -5063,33 +5064,34 @@ Diese Option zeigt nur Wirkung, wenn automatisches Akzeptieren der Vorgaben abge
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="277"/>
         <source>Groupchat</source>
-        <translation type="unfinished"/>
+        <translation>Gruppenchat</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="358"/>
         <source>Enable autojoin for bookmarked groupchats</source>
-        <translation type="unfinished"/>
+        <translation>Aktiviere automatisches Beitreten für gespeicherte Gruppenchats</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="359"/>
         <source>Hide groupchat on auto-join</source>
-        <translation type="unfinished"/>
+        <translation>Verstecke Gruppenchat bei automatischem Beitritt</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="360"/>
         <source>Enable HTML rendering in groupchat chat window</source>
-        <translation type="unfinished"/>
+        <translation>Aktiviere HTML-Rendering im Gruppenchatfenster</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="383"/>
         <source>Disable autojoin to folowing groupchats:
 (specify JIDs)</source>
-        <translation type="unfinished"/>
+        <translation>Deaktiviere automatisches Beitreten bei den 
+folgenden Gruppenchats (JIDs eingeben)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="385"/>
         <source>Groupchat leave status message:</source>
-        <translation type="unfinished"/>
+        <translation>Statusnachricht bei Verlassen eines Gruppenchats:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="390"/>
@@ -5104,7 +5106,7 @@ Diese Option zeigt nur Wirkung, wenn automatisches Akzeptieren der Vorgaben abge
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="392"/>
         <source>Use slim group heading</source>
-        <translation type="unfinished"/>
+        <translation>Verwende dünne Gruppen-Überschriften</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="393"/>
@@ -5115,7 +5117,7 @@ Diese Option zeigt nur Wirkung, wenn automatisches Akzeptieren der Vorgaben abge
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="394"/>
         <source>Show affiliation icons</source>
-        <translation type="unfinished"/>
+        <translation>Zeige Angliederungssymbole</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="395"/>
@@ -5157,7 +5159,7 @@ Diese Option zeigt nur Wirkung, wenn automatisches Akzeptieren der Vorgaben abge
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="435"/>
         <source>Lockdown roster</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktliste sperren</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="436"/>
@@ -5407,7 +5409,7 @@ Diese Option zeigt nur Wirkung, wenn automatisches Akzeptieren der Vorgaben abge
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="685"/>
         <source>Enable last activity server</source>
-        <translation type="unfinished"/>
+        <translation>Aktiviere &quot;Letzte Aktivität&quot;-Server</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="687"/>
@@ -6445,12 +6447,12 @@ Grund: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/gcuserview.cpp" line="689"/>
         <source>Change Affiliation</source>
-        <translation type="unfinished"/>
+        <translation>Angliederung wechseln</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/gcuserview.cpp" line="690"/>
         <source>Unaffiliated</source>
-        <translation type="unfinished"/>
+        <translation>Nicht angegliedert</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/gcuserview.cpp" line="696"/>
@@ -7748,7 +7750,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_iconset_activity.ui" line="26"/>
         <source>Activity iconsets</source>
-        <translation>Aktivitäten-Symbole</translation>
+        <translation>Aktivitätssymbole</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_iconset_activity.ui" line="54"/>
@@ -7766,7 +7768,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_iconset_affiliation.ui" line="26"/>
         <source>Affiliation iconsets</source>
-        <translation type="unfinished"/>
+        <translation>Angliederungssymbole</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_iconset_affiliation.ui" line="54"/>
@@ -7894,7 +7896,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_iconset_mood.ui" line="26"/>
         <source>Mood iconsets</source>
-        <translation>Stimmung-Symbole</translation>
+        <translation>Stimmungssymbole</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_iconset_mood.ui" line="54"/>
@@ -9679,7 +9681,7 @@ Tags: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_advanced.ui" line="56"/>
         <source>Do not send composing events</source>
-        <translation type="unfinished"/>
+        <translation>Sende keine &quot;Kontakt schreibt gerade...&quot;-Ereignisse</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_advanced.ui" line="39"/>
@@ -10030,7 +10032,7 @@ Tags: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_application.ui" line="36"/>
         <source>Decorate windows</source>
-        <translation type="unfinished"/>
+        <translation>Dekoriere Fenster</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_application.ui" line="46"/>
@@ -10810,7 +10812,7 @@ Tags: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="61"/>
         <source>Auto XA after:</source>
-        <translation type="unfinished"/>
+        <translation>Automatisches &quot;Nicht verfügbar&quot; nach:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="68"/>
@@ -10851,7 +10853,7 @@ Tags: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="287"/>
         <source>XA:</source>
-        <translation type="unfinished"/>
+        <translation>Nicht verfügbar:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="323"/>
@@ -10939,7 +10941,7 @@ Tags: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.ui" line="179"/>
         <source>Hide standard statuses (Chat, Away, XA, DND)</source>
-        <translation type="unfinished"/>
+        <translation>Verstecke Standardstatus (Bereit zum Chatten, Abwesend, Nicht verfügbar, Bitte nicht stören)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.ui" line="191"/>
@@ -12248,12 +12250,12 @@ online sind und drücken Sie dann &quot;Geburtstage aktualisieren&quot;. Dies da
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_iconset.cpp" line="978"/>
         <source>Affiliations</source>
-        <translation type="unfinished"/>
+        <translation>Angliederungen</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_iconset.cpp" line="978"/>
         <source>Select your affiliations iconset</source>
-        <translation type="unfinished"/>
+        <translation>Aktivitäts-Symbole wählen</translation>
     </message>
 </context>
 <context>
@@ -12535,7 +12537,7 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.cpp" line="47"/>
         <source>Makes Psi automatically set your status to &quot;extended away&quot; if your computer is idle for the specified amount of time.</source>
-        <translation type="unfinished"/>
+        <translation>Psi wechselt automatisch zu &quot;Nicht verfügbar&quot;, wenn Sie für die angegebene Zeit nicht am Rechner waren.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.cpp" line="51"/>
@@ -12545,7 +12547,7 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.cpp" line="85"/>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
-        <translation type="unfinished"/>
+        <translation>Legt die Status-Nachricht fest, die bei einem automatischen Status-Wechsel verwendet wird. Siehe obige Optionen.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.cpp" line="88"/>
@@ -12593,17 +12595,17 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.cpp" line="85"/>
         <source>Use this to choose the status that will be assigned to this preset</source>
-        <translation type="unfinished"/>
+        <translation>Verwenden Sie dies, um den Status zu wählen, der zu dieser Vorgabe gehört</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.cpp" line="87"/>
         <source>Fill in the priority that will be assigned to this preset. If no priority is given, the default account priority will be used.</source>
-        <translation type="unfinished"/>
+        <translation>Geben Sie die Priorität an, die bei dieser Vorgabe verwendet werden soll. Wenn Sie keine Priorität angegeben, wird die Standard-Priorität verwendet.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.cpp" line="91"/>
         <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation type="unfinished"/>
+        <translation>Jabber erlaubt es, ausführliche Status-Nachrichten für alle Status-Arten zu setzen. Normalerweise fragt Psi nicht nach einer Status-Nachricht, wenn Sie zu &quot;Online&quot; wechseln. Aktivieren Sie diese Option, wenn Sie auch dann eine Status-Nachricht eingeben möchten.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.cpp" line="346"/>
@@ -14440,7 +14442,7 @@ Details: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3514"/>
         <source>Unregister from %1</source>
-        <translation type="unfinished"/>
+        <translation>Abmelden von %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3515"/>
@@ -14470,7 +14472,7 @@ Details: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="5321"/>
         <source>Headline</source>
-        <translation type="unfinished"/>
+        <translation>Headline-Nachricht</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6101"/>
@@ -15311,7 +15313,7 @@ Grund: %1.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="498"/>
         <source>Find toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Suchleiste</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="570"/>
@@ -17682,12 +17684,12 @@ Das OTR Plugin wird nicht funktionieren.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="935"/>
         <source>&lt;b&gt;The following message received from %1 was &lt;i&gt;not&lt;/i&gt; encrypted:&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Die folgende Nachricht von %1 war &lt;i&gt;nicht&lt;/i&gt; verschlüsselt:&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="940"/>
         <source>Your message was not sent. Either end your private conversation, or restart it.</source>
-        <translation type="unfinished"/>
+        <translation>Ihre Nachricht wurde nicht gesendet. Beenden oder erneuern Sie die private Konversation.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="944"/>
@@ -17977,22 +17979,22 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/psipopupinterface.cpp" line="68"/>
         <source>Incoming message</source>
-        <translation type="unfinished"/>
+        <translation>Eingehende Nachricht</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psipopupinterface.cpp" line="78"/>
         <source>Incoming chat message</source>
-        <translation type="unfinished"/>
+        <translation>Eingehende Chatnachricht</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psipopupinterface.cpp" line="88"/>
         <source>Incoming file</source>
-        <translation type="unfinished"/>
+        <translation>Eingehende Datei</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psipopupinterface.cpp" line="93"/>
         <source>Incoming call</source>
-        <translation type="unfinished"/>
+        <translation>Eingehender Anruf</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/rc.cpp" line="48"/>
@@ -18889,12 +18891,12 @@ Grund: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/sendbuttonmenu.cpp" line="19"/>
         <source>Add separator</source>
-        <translation type="unfinished"/>
+        <translation>Trennelement hinzufügen</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/sendbuttonmenu.cpp" line="21"/>
         <source>Add separator as submenu</source>
-        <translation type="unfinished"/>
+        <translation>Trennelement als Untermenü hinzufügen</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/sendbuttonmenu.cpp" line="25"/>
@@ -18911,7 +18913,7 @@ Grund: %1</translation>
         <location filename="../../psi-plus-snapshots/src/sendbuttonmenu.cpp" line="113"/>
         <location filename="../../psi-plus-snapshots/src/sendbuttonmenu.cpp" line="122"/>
         <source>&lt;separator&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;Trennelement&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/sendbuttonmenu.cpp" line="142"/>
@@ -20587,7 +20589,7 @@ Note: Some server may disable transport registration to users from different ser
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="109"/>
         <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="167"/>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Groß-/Kleinschreibung</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/typeaheadfind.cpp" line="116"/>
@@ -20620,19 +20622,19 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="151"/>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Suchen</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="155"/>
         <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="157"/>
         <source>Find next</source>
-        <translation type="unfinished"/>
+        <translation>Nächstes suchen</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="161"/>
         <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="163"/>
         <source>Find previous</source>
-        <translation type="unfinished"/>
+        <translation>Vorheriges finden</translation>
     </message>
 </context>
 <context>
@@ -22067,7 +22069,7 @@ Sie sollten %1 ebenfalls authentifizieren, indem Sie Ihre eigene Frage stellen.<
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="90"/>
         <source>OTR Policy</source>
-        <translation type="unfinished"/>
+        <translation>OTR-Richtlinie</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrconfig.cpp" line="95"/>
@@ -22355,12 +22357,12 @@ Sie sollten %1 ebenfalls authentifizieren, indem Sie Ihre eigene Frage stellen.<
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="252"/>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
-        <translation type="unfinished"/>
+        <translation>Die von Ihnen gesendeten Nachrichten haben keine digitalen Signaturen, die von einem Außenstehenden überprüft werden können. Jeder kann Nachrichten nach einem Gespräch derart verfälschen, dass diese aussehen, als ob Sie sie versendet haben. Jedoch ist ihr Gesprächspartner während einer Konversation sicher, dass die Nachrichten authentisch und unverändert sind.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="257"/>
         <source>Perfect forward secrecy</source>
-        <translation type="unfinished"/>
+        <translation>Folgenlosigkeit</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="258"/>
