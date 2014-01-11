@@ -5324,7 +5324,7 @@ Esta opción solo tiene efecto si accept-defaults está en falso.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="550"/>
         <source>Groupchat roster coloring:</source>
-        <translation>Coloreado de la lista de contactos de la sala:</translation>
+        <translation>Coloreado de la lista de usuarios de la sala:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="686"/>
@@ -11569,7 +11569,7 @@ a las personas frecuentemente contactadas por email.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="99"/>
         <source>Enable Stop Spam for private messages in groupchat</source>
-        <translation>Habilitar &apos;Bloqueo de spam&apos; para los mensajes privados en las salas</translation>
+        <translation>Habilitar &quot;Bloqueo de spam&quot; para los mensajes privados en las salas</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="106"/>
@@ -12724,7 +12724,7 @@ a las personas frecuentemente contactadas por email.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_toolbars.cpp" line="237"/>
         <source>Groupchat</source>
-        <translation>Sala de chat</translation>
+        <translation>Sala de charla</translation>
     </message>
 </context>
 <context>
@@ -12879,7 +12879,7 @@ a las personas frecuentemente contactadas por email.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="278"/>
         <source>Groupchats</source>
-        <translation>Sala</translation>
+        <translation>Salas</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="308"/>
@@ -15352,7 +15352,7 @@ Motivo: %1.</translation>
         <location filename="../tmp/psiactionlist.cpp" line="517"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="513"/>
         <source>Groupchat basic buttons</source>
-        <translation>Botones básicos de salas de  chat</translation>
+        <translation>Botones básicos de sala de charla</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="501"/>
@@ -21601,7 +21601,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="194"/>
         <source>Groupchat</source>
-        <translation>Sala</translation>
+        <translation>Sala de charla</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_features.cpp" line="195"/>
@@ -21970,7 +21970,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="228"/>
         <source>Disable invitations from groupchat</source>
-        <translation>Inhabilitar invitaciones de salas de chat</translation>
+        <translation>Inhabilitar invitaciones de salas de charla</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="235"/>
