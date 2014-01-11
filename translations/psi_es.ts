@@ -644,7 +644,7 @@ Haz clic en la caja &lt;b&gt;Registrar nueva cuenta&lt;/b&gt; si deseas que Psi 
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="578"/>
         <source>Send &quot;keep-alive&quot; packets (to prevent timeouts)</source>
-        <translation>Enviar paquetes «keep-alive» (para prevenir tiempos de espera agotados)</translation>
+        <translation>Enviar paquetes &quot;keep-alive&quot; (para prevenir tiempos de espera agotados)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="585"/>
@@ -1370,7 +1370,7 @@ Si se selecciona, el servidor no guardará el historial para este contacto.</tra
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="98"/>
         <source>RSA and RSA (default)</source>
-        <translation>RSA y RSA (predeterminado)</translation>
+        <translation>RSA y RSA (por defecto)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="103"/>
@@ -1616,7 +1616,7 @@ Ha ocurrido un error obteniendo información de la traducción de identificador 
     <message>
         <location filename="../../psi-plus-snapshots/src/eventdlg.cpp" line="345"/>
         <source>Join &amp;Groupchat...</source>
-        <translation>Entrar a &amp;sala de charla...</translation>
+        <translation>Unirse a una &amp;sala de charla...</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/eventdlg.cpp" line="348"/>
@@ -1797,9 +1797,7 @@ Para que funcione correctamente, es necesario que el cliente del otro lado sopor
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="559"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (En linea)&lt;/a&gt;
-
-</translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="754"/>
@@ -2528,7 +2526,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="262"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (En linea)&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (En línea)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="354"/>
@@ -3060,10 +3058,10 @@ You can specify the version of the client and OS or to select them from the pres
 Groupchats logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with groupchat.
 
 Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
-        <translation>Este complemento está diseñado para guardar las trazas de las salas en las que los usuarios de Psi+ han estado.
-Las trazas de las salas pueden ser vistas desde las configuraciones del complemento o haciendo clic en el botón apropiado en la barra de herramientas de la ventana/pestaña con la sala.
+        <translation>Este complemento está diseñado para guardar las trazas de las salas de charla.
+Estas trazas pueden ser vistas desde las configuraciones del complemento o haciendo clic en el botón apropiado de la barra de herramientas de la ventana/pestaña con la sala.
 
-Nota: Para su correcto funcionamiento, la barra de herramientas «Sala de chat» debe estar habilitada.</translation>
+Nota: Para su correcto funcionamiento, la barra de herramientas &quot;Sala de chat&quot; debe estar habilitada.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="341"/>
@@ -3121,7 +3119,7 @@ Nota: Para su correcto funcionamiento, la barra de herramientas «Sala de chat»
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistaccountmenu.cpp" line="115"/>
         <source>Join Groupchat</source>
-        <translation>Unirse a Sala de Chat</translation>
+        <translation>Unirse a una sala de charla</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistaccountmenu.cpp" line="118"/>
@@ -3186,7 +3184,7 @@ Nota: Para su correcto funcionamiento, la barra de herramientas «Sala de chat»
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistaccountmenu.cpp" line="158"/>
         <source>Groupchat</source>
-        <translation>Chat de grupo</translation>
+        <translation>Sala de charla</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistaccountmenu.cpp" line="174"/>
@@ -3343,7 +3341,7 @@ Nota: Para su correcto funcionamiento, la barra de herramientas «Sala de chat»
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistutil.cpp" line="101"/>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
-        <translation>Esto eliminará permanentemente: &lt;br&gt;%1&lt;br&gt;%2 y el grupo &apos;%3&apos; de tu lista de contactos.</translation>
+        <translation>Esto eliminará permanentemente: &lt;br&gt;%1&lt;br&gt;%2 y el grupo &quot;%3&quot; de tu lista de contactos.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistutil.cpp" line="109"/>
@@ -3384,7 +3382,7 @@ Nota: Para su correcto funcionamiento, la barra de herramientas «Sala de chat»
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistutil.cpp" line="150"/>
         <source>This will remove %1 from &quot;%2&quot; group. You could also remove it from all groups.</source>
-        <translation>Esto eliminará a %1 del grupo %2. Puedes eliminarlo también de todos los grupos.</translation>
+        <translation>Esto eliminará a %1 del grupo &quot;%2&quot;. Puedes eliminarlo también de todos los grupos.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistutil.cpp" line="155"/>
@@ -3941,7 +3939,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactview.cpp" line="1612"/>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Enviada invitación de sala de charla a &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation>Enviada invitación para sala de charla a &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactview.cpp" line="1743"/>
@@ -4455,7 +4453,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/edititemdlg.ui" line="97"/>
         <source>Groupchats</source>
-        <translation>Converasciones de grupo</translation>
+        <translation>Salas de charla</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/edititemdlg.ui" line="107"/>
@@ -4753,7 +4751,7 @@ Si deseas confirmar esta petición, pulsa el botón Confirmar.  En caso contrari
     <message>
         <location filename="../../psi-plus-snapshots/src/eventdlg.cpp" line="1893"/>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to subscribe to your presence.  Click the button labelled &quot;Add/Auth&quot; to authorize the subscription.  This will also add the person to your contact list if it is not already there.</source>
-        <translation>&lt;big&gt;[Mensaje del sistema]&lt;/big&gt;&lt;br&gt;Este contacto desea suscribirse a tu presencia, añadiendote a su lista de contactos. Pulsa el botón etiquetado como &quot;Añadir/Autorizar&quot; para autorizar la suscripción. Esto también añadirá al contacto a tu lista de contactos si aún no está en ella.</translation>
+        <translation>&lt;big&gt;[Mensaje del sistema]&lt;/big&gt;&lt;br&gt;Este contacto desea suscribirse a tu presencia, añadiéndote a su lista de contactos. Pulsa el botón etiquetado como &quot;Añadir/Autorizar&quot; para autorizar la suscripción. Esto también añadirá al contacto a tu lista de contactos si aún no está en ella.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/eventdlg.cpp" line="1909"/>
@@ -4798,7 +4796,7 @@ Si deseas confirmar esta petición, pulsa el botón Confirmar.  En caso contrari
     <message>
         <location filename="../../psi-plus-snapshots/src/eventdlg.cpp" line="1974"/>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to modify your roster (%1). Click the button labelled &quot;Add/Auth&quot; to authorize the modification.</source>
-        <translation>&lt;big&gt;[Mensaje de sistema]&lt;/big&gt;&lt;br&gt;Este usuario quiere modificar tu lista de contactos (%1). Pulsa el botón &quot;Añadir/Autorizar&quot; para permitir la modificación.</translation>
+        <translation>&lt;big&gt;[Mensaje del sistema]&lt;/big&gt;&lt;br&gt;Este usuario desea modificar tu lista de contactos (%1). Pulsa el botón &quot;Añadir/Autorizar&quot; para permitir la modificación.</translation>
     </message>
 </context>
 <context>
@@ -4993,12 +4991,12 @@ Si deseas confirmar esta petición, pulsa el botón Confirmar.  En caso contrari
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="297"/>
         <source>Enable &quot;Says style&quot;</source>
-        <translation>Habilitar estilo &apos;dice&apos;</translation>
+        <translation>Habilitar estilo &quot;Dice&quot;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="298"/>
         <source>Hide &quot;Send&quot; button</source>
-        <translation>Ocultar botón &apos;Enviar&apos;</translation>
+        <translation>Ocultar el botón &quot;Enviar&quot;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="302"/>
@@ -5091,28 +5089,28 @@ Esta opción solo tiene efecto si accept-defaults está en falso.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="277"/>
         <source>Groupchat</source>
-        <translation>Sala</translation>
+        <translation>Sala de charla</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="358"/>
         <source>Enable autojoin for bookmarked groupchats</source>
-        <translation>Habilitar entrada automática para conferencias marcadas</translation>
+        <translation>Habilitar entrada automática para salas de charla marcadas</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="359"/>
         <source>Hide groupchat on auto-join</source>
-        <translation>Ocultar la sala de conferencia al entrar automáticamente</translation>
+        <translation>Ocultar la sala de chrala al entrar automáticamente</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="360"/>
         <source>Enable HTML rendering in groupchat chat window</source>
-        <translation>Habilitar procesamiento HTML en ventanas de conversación de salas</translation>
+        <translation>Habilitar procesamiento HTML en ventanas de salas de charla</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="383"/>
         <source>Disable autojoin to folowing groupchats:
 (specify JIDs)</source>
-        <translation>Eliminar entrada automática a las siguientes salas:
+        <translation>Inhabilitar entrada automática a las siguientes salas:
 (especificar los JID)</translation>
     </message>
     <message>
@@ -5191,7 +5189,7 @@ Esta opción solo tiene efecto si accept-defaults está en falso.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="436"/>
         <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
-        <translation>Ubicar lista de contactos a la izquierda en el modo &apos;todo en una ventana&apos;</translation>
+        <translation>Ubicar lista de contactos a la izquierda en el modo &quot;todo en una ventana&quot;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="437"/>
@@ -5246,12 +5244,12 @@ Esta opción solo tiene efecto si accept-defaults está en falso.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="485"/>
         <source>Show &quot;Admin&quot; option in account menu</source>
-        <translation>Mostrar la opción &apos;Admin&apos; en el menú de cuenta</translation>
+        <translation>Mostrar la opción &quot;Admin&quot; en el menú de la cuenta</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="486"/>
         <source>Show &quot;Active Chats&quot; option in contact menu</source>
-        <translation>Mostrar la opción &apos;Chats Activos&apos; en el menú de contactos</translation>
+        <translation>Mostrar la opción &quot;Conversaciones Activas&quot; en el menú de contactos</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="487"/>
@@ -6135,7 +6133,7 @@ Motivo: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1416"/>
         <source>Unable to join groupchat.	Reason: %1</source>
-        <translation>No se puede entrar a la sala de charla.
+        <translation>No se puede entrar a la sala.
 Motivo: %1</translation>
     </message>
     <message>
@@ -6805,7 +6803,7 @@ Perderás el juego.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_general_groupchat.ui" line="182"/>
         <source>Colors used for nicks in groupchat</source>
-        <translation>Colores usados para los apodos en las salas</translation>
+        <translation>Colores usados para los apodos en las salas de charla</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_general_groupchat.ui" line="185"/>
@@ -7298,7 +7296,7 @@ Para enviar órdenes, son usados los mensajes normales, por lo que este compleme
     <message>
         <location filename="../../psi-plus-snapshots/src/libpsi/widgets/groupchatbrowsewindow.ui" line="13"/>
         <source>Groupchat</source>
-        <translation>Sala</translation>
+        <translation>Sala de charla</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/libpsi/widgets/groupchatbrowsewindow.ui" line="21"/>
@@ -7359,7 +7357,7 @@ Para enviar órdenes, son usados los mensajes normales, por lo que este compleme
     <message>
         <location filename="../../psi-plus-snapshots/src/chatviewthemeprovider.h" line="67"/>
         <source>Configure your groupchat theme here</source>
-        <translation>Configura la apariencia de tu sala aquí</translation>
+        <translation>Configura la apariencia de la sala de charla aquí</translation>
     </message>
 </context>
 <context>
@@ -12288,12 +12286,12 @@ a las personas frecuentemente contactadas por email.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_groupchat.cpp" line="30"/>
         <source>Groupchat</source>
-        <translation>Salas de charla</translation>
+        <translation>Sala de charla</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_groupchat.cpp" line="30"/>
         <source>Configure the groupchat</source>
-        <translation>Configurar las salas de charla</translation>
+        <translation>Configurar la sala</translation>
     </message>
 </context>
 <context>
@@ -12550,7 +12548,7 @@ a las personas frecuentemente contactadas por email.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_sound.cpp" line="125"/>
         <source>Play sounds for all events in groupchat, not only for mentioning of your nick.</source>
-        <translation>Reproduce sonidos para todos los eventos en una sala de charla, no sólo cuando se menciona tu apodo.</translation>
+        <translation>Reproducir sonidos para todos los eventos en una sala de charla, no sólo cuando se menciona tu apodo.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_sound.cpp" line="170"/>
@@ -14765,13 +14763,13 @@ Motivo: %1.</translation>
         <location filename="../tmp/psiactionlist.cpp" line="240"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="240"/>
         <source>Join Groupchat</source>
-        <translation>Entrar a sala de charla</translation>
+        <translation>Unirse a sala de charla</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="240"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="240"/>
         <source>Join &amp;Groupchat</source>
-        <translation>Entrar a &amp;sala de charla</translation>
+        <translation>Unirse a &amp;sala de charla</translation>
     </message>
     <message>
         <location filename="../tmp/psiactionlist.cpp" line="241"/>
@@ -15921,7 +15919,7 @@ Puede significar que ya estás ejecutando otra instancia de Psi. Puede que exper
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="649"/>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Enviar invitación a la sala a &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation>Enviada invitación a sala de charla para &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="681"/>
@@ -16031,7 +16029,7 @@ Razón: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/libpsi/widgets/groupchatbrowsewindow.cpp" line="252"/>
         <source>Choose a name for the groupchat you want to create:</source>
-        <translation>Elije un nombre para la sala que deseas crear:</translation>
+        <translation>Elige un nombre para la sala que deseas crear:</translation>
     </message>
 </context>
 <context>
@@ -16274,12 +16272,12 @@ Quieres activar esa sesión ahora?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptionseditor.cpp" line="293"/>
         <source>Really reset options %1 to default value?</source>
-        <translation>¿Restablecer las opciones %1 a su valor predeterminado?</translation>
+        <translation>¿Restablecer las opciones %1 a su valor por defecto?</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptionseditor.cpp" line="296"/>
         <source>Really reset all options starting with %1. to default value?</source>
-        <translation>¿Restablecer todas las opciones iniciando con %1 a su valor predeterminado?</translation>
+        <translation>¿Restablecer todas las opciones que comienzan con %1 a su valor por defecto?</translation>
     </message>
 </context>
 <context>
@@ -18738,10 +18736,10 @@ The plugin has the following settings:
 The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</source>
         <translation>Este complemento permite tomar capturas de pantalla y guardarlas en el disco duro o subirlas a un servidor FTP o HTTP.
 Presenta las siguientes configuraciones:
-* Atajo -- combinación de teclas para realizar la captura de pantalla (Ctrl+Alt+P como predeterminado)
-* Formato -- el formato con el que será guardada la captura de pantalla (.jpg como predeterminado)
-* Nombre del archivo -- formato del nombre del archivo (pic-yyyyMMdd-hhmmss, donde yyyyMMdd=YYYYMMDD, y hhmmss es la fecha actual en el formato añomesdía-horaminutosegundo)
-La dirección del servidor FTP se especifica como ftp://ftp.dominio.tld/dir1/dir2</translation>
+* Atajo -- combinación de teclas para realizar la captura de pantalla (Ctrl+Alt+P por defecto)
+* Formato -- el formato con el que será guardada la captura de pantalla (.jpg por defecto)
+* Nombre del archivo -- formato del nombre del archivo (por defecto: pic-yyyyMMdd-hhmmss, donde yyyyMMdd=YYYYMMDD, y hhmmss es la fecha actual en el formato añomesdía-horaminutosegundo)
+La dirección del servidor FTP se especifica como ftp://ftp.domain.tld/path1/path2</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshotplugin.cpp" line="243"/>
@@ -20507,12 +20505,12 @@ And these work only in groupchat dialog:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;new_nickname&amp;gt;&quot; to change your nickname&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>Puede escribir estos comandos especiales en charlas o grupos de charla:
+        <translation>Puedes escribir estas órdenes especiales en charlas o salas de charla:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; para limpiar la vista de charla&lt;/li&gt;
 &lt;li&gt;&quot;/me &amp;lt;mensaje&amp;gt;&quot; &apos;/me&apos; es reemplazado por su apodo&lt;/li&gt;
 &lt;/ul&gt;
-Y, en grupos de charlas:
+Y, en salas de charla:
 &lt;ul&gt;
 &lt;li&gt;&quot;/nick &amp;lt;nuevo_apodo&amp;gt;&quot; para cambiar su apodo&lt;/li&gt;
 &lt;/ul&gt;</translation>
@@ -20550,7 +20548,7 @@ Y, en grupos de charlas:
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="100"/>
         <source>Did you know that a middle-click (the middle mouse button on a 3-button mouse) will &quot;perform the default action&quot; on many objects within Psi?  Try middle-clicking on a contact or a popup.</source>
-        <translation>¿Sabías que un click en el botón central del ratón (en un ratón con tres botones, o la rueda) ejecutará &quot;la acción por defecto&quot; en muchos objetos de Psi? Prueba haciendo click con el botón central sobre un contacto o una ventana emergente.</translation>
+        <translation>¿Sabías que un clic en el botón central del ratón (en un ratón con 3 botones, o la rueda) ejecutará «la acción por defecto» en muchos objetos de Psi? Prueba haciendo clic con el botón central sobre un contacto o una ventana emergente.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="102"/>
@@ -20574,7 +20572,7 @@ Nota: Algún servidor puede inhabilitar el registro de transportes para usuarios
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="108"/>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
-        <translation>Si charlas a menudo en conversaciones en grupo, el autocompletado de apodos es una característica de valor incalculable. El atajo más útil es &lt;tt&gt;Tabulador-Tabulador&lt;/tt&gt;; cuando se usa al principio de una nueva línea introduce el apodo de la última persona que se dirigió a tí directamente. Entonces puedes continuar pulsando &lt;tt&gt;Tabulador&lt;/tt&gt; y recorrerá los apodos de la gente de la sala. &lt;br/&gt;&lt;br/&gt;En una situación más complicada: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; y &lt;tt&gt;mbl-revolucion&lt;/tt&gt; están en la misma sala. Si escribe &lt;tt&gt;m&lt;/tt&gt; y pusla &lt;tt&gt;Tabulador&lt;/tt&gt; no sucederá nada. Esto es porque hay varios apodos que comienzan por &lt;tt&gt;m&lt;/tt&gt;. Puedes continuar pulsando &lt;tt&gt;Tabulador&lt;/tt&gt; para recorrer todos los apodos que comienzan por &lt;tt&gt;m&lt;/tt&gt; o escribir algunas letras más hasta que haya una única persona cuyo apodo comienze por esas  letras. En nuestro ejemplo, si pulsas la tecla &lt;tt&gt;b&lt;/tt&gt; y luego pulsas &lt;tt&gt;Tabulador&lt;/tt&gt; completará a &lt;tt&gt;mbl&lt;/tt&gt;. Cuanto más uses esta característica, más te gustará. Prueba el autocompletado de apodos con alguien y te darás cuenta de lo poderoso que es.</translation>
+        <translation>Si entras a menudo a salas de charla, el autocompletamiento de apodos es una característica de valor incalculable. El atajo más útil es &lt;tt&gt;Tabulador-Tabulador&lt;/tt&gt;; cuando se usa al principio de una nueva línea introduce el apodo de la última persona que se dirigió a ti directamente. Entonces puedes continuar pulsando &lt;tt&gt;Tabulador&lt;/tt&gt; y recorrerá los apodos de la gente de la sala. &lt;br/&gt;&lt;br/&gt;En una situación más complicada: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; y &lt;tt&gt;mbl-revolucion&lt;/tt&gt; están en la misma sala. Si escribe &lt;tt&gt;m&lt;/tt&gt; y pusla &lt;tt&gt;Tabulador&lt;/tt&gt; no sucederá nada. Esto es porque hay varios apodos que comienzan por &lt;tt&gt;m&lt;/tt&gt;. Puedes continuar pulsando &lt;tt&gt;Tabulador&lt;/tt&gt; para recorrer todos los apodos que comienzan por &lt;tt&gt;m&lt;/tt&gt; o escribir algunas letras más hasta que haya una única persona cuyo apodo comience por esas  letras. En nuestro ejemplo, si pulsas la tecla &lt;tt&gt;b&lt;/tt&gt; y luego pulsas &lt;tt&gt;Tabulador&lt;/tt&gt; completará a &lt;tt&gt;mbl&lt;/tt&gt;. Cuanto más uses esta característica, más te gustará. Prueba el autocompletamiento de apodos con alguien y te darás cuenta de lo poderoso que es.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="112"/>
@@ -20687,7 +20685,7 @@ Nota: Algún servidor puede inhabilitar el registro de transportes para usuarios
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/translateplugin/translateplugin.cpp" line="281"/>
         <source>Restore Defaults Settings</source>
-        <translation>Restablecer configuraciones predeterminadas</translation>
+        <translation>Restaurar configuraciones por defecto</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/translateplugin/translateplugin.cpp" line="592"/>
@@ -20807,7 +20805,7 @@ Nota: Algún servidor puede inhabilitar el registro de transportes para usuarios
     <message>
         <location filename="../../psi-plus-snapshots/src/widgets/urlobject.cpp" line="81"/>
         <source>Join groupchat</source>
-        <translation>Entrar a sala</translation>
+        <translation>Unirse a sala</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/widgets/urlobject.cpp" line="85"/>
@@ -21961,7 +21959,7 @@ Do you still want to close the window?</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/options.ui" line="214"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="214"/>
         <source>Override default sound settings</source>
-        <translation>Sobreescribir configuraciones predeterminadas de sonido</translation>
+        <translation>Sobrescribir configuraciones de sonido por defecto</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/options.ui" line="221"/>
@@ -22012,7 +22010,7 @@ Do you still want to close the window?</source>
 -uin - no hacer nada
 +uin - enviar respuesta
 !uin - bloquear mensaje
-[-+!]other - predeterminado
+[-+!]other - por defecto
 [-+!]nil - no está en la lista
 # - comentario para terminar la línea</translation>
     </message>
