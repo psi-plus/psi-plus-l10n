@@ -69,7 +69,10 @@
 &lt;br&gt;
 Copyright © 2001-2013 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="unfinished"/>
+        <translation>Ein plattformunabhängiger XMPP-Client für den Power-Nutzer.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2013 The Psi Team.&lt;br&gt;
+</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/about.ui" line="122"/>
@@ -790,7 +793,7 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="160"/>
         <source>Delete current host from the list</source>
-        <translation type="unfinished"/>
+        <translation>Lösche aktuellen Server von der Liste</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="164"/>
@@ -4804,12 +4807,12 @@ Wenn Sie die Anforderung zulassen möchten, drücken Sie bitte &lt;bestätigen&g
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="365"/>
         <source>%1 Last Activity</source>
-        <translation>%1 Letzte Aktivität</translation>
+        <translation>Letzte Aktivität von %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="376"/>
         <source>%1 Last Activity was %2 ago</source>
-        <translation>%1 Letzte Aktivität war vor %2</translation>
+        <translation>Letzte Aktivität von %1 war vor %2</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="379"/>
@@ -4880,7 +4883,7 @@ Wenn Sie die Anforderung zulassen möchten, drücken Sie bitte &lt;bestätigen&g
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="522"/>
         <source>Last Activity</source>
-        <translation>Letzte  Aktivität</translation>
+        <translation>Letzte Aktivität</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="526"/>
@@ -15303,7 +15306,7 @@ Grund: %1.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="232"/>
         <source>Copy user JID</source>
-        <translation type="unfinished"/>
+        <translation>Kopiere Benutzer-JID</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="286"/>
