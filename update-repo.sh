@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2013-10-14
+# Updated: 2014-01-18
 # Version: N/A
 
 if [[ ${0} =~ ^/.+$ ]]; then
@@ -83,6 +83,7 @@ case "${1}" in
     tar -cJf psi-plus-translations-${CUR_TAG}.tar.xz psi-plus-translations-${CUR_TAG} || exit 1
     echo "Tarball with precompiled translation files is ready for upload:"
     echo "https://code.google.com/p/psi-dev/downloads/list?q=label:Translations"
+    echo "https://sourceforge.net/projects/psiplus/files/Translations/"
     echo "Summary:"
     echo "Precompiled localization files for Psi+ >= ${CUR_TAG}"
     echo "Labels:"
