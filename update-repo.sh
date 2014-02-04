@@ -82,12 +82,7 @@ case "${1}" in
 
     tar -cJf psi-plus-translations-${CUR_TAG}.tar.xz psi-plus-translations-${CUR_TAG} || exit 1
     echo "Tarball with precompiled translation files is ready for upload:"
-    echo "https://code.google.com/p/psi-dev/downloads/list?q=label:Translations"
     echo "https://sourceforge.net/projects/psiplus/files/Translations/"
-    echo "Summary:"
-    echo "Precompiled localization files for Psi+ >= ${CUR_TAG}"
-    echo "Labels:"
-    echo "Archive Translations"
 
 ;;
 "tr")
