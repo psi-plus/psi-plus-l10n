@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ru">
+<TS version="2.1" language="ru">
 <context>
     <name>@default</name>
     <message>
@@ -70,7 +70,7 @@
 &lt;br&gt;
 Copyright © 2001-2013 The Psi Team.&lt;br&gt;
 </source>
-        <translation>Кросс-платформенный XMPP клиент для продвинутых пользователей.&lt;br&gt;
+        <translation type="vanished">Кросс-платформенный XMPP клиент для продвинутых пользователей.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2013 The Psi Team.&lt;br&gt;</translation>
     </message>
