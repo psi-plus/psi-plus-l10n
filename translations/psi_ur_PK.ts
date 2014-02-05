@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ur_PK">
+<TS version="2.1" language="ur_PK">
 <context>
     <name>@default</name>
     <message>
@@ -69,7 +69,7 @@
         <location filename="../../psi-plus-snapshots/src/about.ui" line="106"/>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
-Copyright © 2001-2013 The Psi Team.&lt;br&gt;
+Copyright © 2001-2014 The Psi Team.&lt;br&gt;
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -1640,17 +1640,17 @@ To work correctly, the plugin requires that the client of the other part support
 <context>
     <name>AuthEvent</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psievent.cpp" line="474"/>
+        <location filename="../../psi-plus-snapshots/src/psievent.cpp" line="478"/>
         <source>%1 wants to subscribe to your presence.</source>
         <translation>%1 آپ کی موجودگی سے رکنیت سازی کرنا چاہتا ہے۔</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psievent.cpp" line="476"/>
+        <location filename="../../psi-plus-snapshots/src/psievent.cpp" line="480"/>
         <source>%1 authorized you to view his status.</source>
         <translation>%1 نے اپنی حالت دیکھنے کے لیے آپ کو اختیار دیا ہے۔</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psievent.cpp" line="478"/>
+        <location filename="../../psi-plus-snapshots/src/psievent.cpp" line="482"/>
         <source>%1 removed your authorization to view his status!</source>
         <translation>%1 نے اپنی حالت دیکھنے کے لیے آپ کا اختیار ہٹا لیا ہے!</translation>
     </message>
@@ -1787,7 +1787,7 @@ The list of exceptions for jids has two operating modes:
 <context>
     <name>AvCallEvent</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psievent.cpp" line="768"/>
+        <location filename="../../psi-plus-snapshots/src/psievent.cpp" line="772"/>
         <source>The user is calling you.</source>
         <translation>صارف آپ کو کال کر رہا ہے۔</translation>
     </message>
@@ -2353,7 +2353,7 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="252"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="711"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="713"/>
         <source>Warning</source>
         <translation>تنبیہ</translation>
     </message>
@@ -2370,42 +2370,42 @@ Do you still want to close the window?</source>
         <translation>بند کریں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="656"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="658"/>
         <source>%1 (Composing ...)</source>
         <translation>%1‏(کمپوز کر رہا ہے...)‏</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="659"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="661"/>
         <source>%1 (Inactive)</source>
         <translation>%1(غیرفعال)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="711"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="713"/>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
         <translation>بعید رابطہ فرد نے حال میں خفیہ کاری نااہل بنائی تھی۔   کیا آپ یقیناً اس پیغام کو خفیہ کاری کے بغیر بھیجنا چاہتے ہیں؟</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="714"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="716"/>
         <source>&amp;Yes</source>
         <translation>ہاں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="714"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="716"/>
         <source>&amp;No</source>
         <translation>نہیں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="878"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="880"/>
         <source>Encryption Enabled</source>
         <translation> خفیہ کاری اہل بنائی گئی</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="879"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="881"/>
         <source>Encryption Disabled</source>
         <translation> خفیہ کاری نااہل بنائی گئی</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="1034"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="1036"/>
         <source>%1 ended the conversation</source>
         <translation>%1 نے تبادلہ خیال اختتام کیا</translation>
     </message>
@@ -5436,7 +5436,7 @@ Importantly: a large part of the options are important system settings. These re
 <context>
     <name>FileEvent</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psievent.cpp" line="536"/>
+        <location filename="../../psi-plus-snapshots/src/psievent.cpp" line="540"/>
         <source>This user wants to send you a file.</source>
         <translation>یہ صارف آپ کو ایک مسل بھیجنا چاہتا ہے۔</translation>
     </message>
@@ -5965,28 +5965,28 @@ Reason: %3</source>
 <context>
     <name>GCFindDlg</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2337"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2383"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2367"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2413"/>
         <source>Find</source>
         <translation>ڈھونڈیں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2342"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2372"/>
         <source>Find:</source>
         <translation>ڈھونڈیں:‏</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2357"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2387"/>
         <source>&amp;Close</source>
         <translation>&amp;بند کریں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2359"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2389"/>
         <source>&amp;Find</source>
         <translation>ڈھونڈیں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2383"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2413"/>
         <source>Search string &apos;%1&apos; not found.</source>
         <translation>&apos;%1&apos; تلاش سلک نہیں ملی۔</translation>
     </message>
@@ -5994,319 +5994,319 @@ Reason: %3</source>
 <context>
     <name>GCMainDlg</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="734"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="744"/>
         <source>Find toolbar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="787"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="797"/>
         <source>Change Nickname...</source>
         <translation>عرق تبدیل کریں:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="791"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="801"/>
         <source>Enter Command...</source>
         <translation>حکم داخل کریں...</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="803"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="813"/>
         <source>Copy Groupchat JID</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1067"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1092"/>
         <source> by %1</source>
         <translation> بمطابق %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1071"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1096"/>
         <source>
 Reason: %1</source>
         <translation>دلیل:‫ %1‬</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1110"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1135"/>
         <source>Edit Bookmark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1113"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1138"/>
         <source>Add to bookmarks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1158"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1183"/>
         <source>Error: Cannot parse command: </source>
         <translation>نقص: حکم کی نحوی جانچ نہیں کر سکتا:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1268"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1293"/>
         <source>Warning</source>
         <translation>تنبیہ</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1269"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1294"/>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
         <translation>کیا آپ یقیناً بات چیت دریچہ صاف کرنا چاہتے ہیں؟ 
  (نوٹ: محفوظ شدہ سابقات پر اثر نہیں کرتا)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1326"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1351"/>
         <source>Disconnected.</source>
         <translation>منقطع</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1354"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1379"/>
         <source>Reconnecting...</source>
         <translation>پھر جڑ رہا ہے...‏</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1361"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1386"/>
         <source>Error: You are in or joining this room already!</source>
         <translation>نقص: آپ پہلے ہی اس کمرے میں ہیں یا شامل ہو رہے ہیں!‏</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1416"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1441"/>
         <source>Unable to join groupchat.	Reason: %1</source>
         <translation>گروپ بات چیت میں شامل ہونے میں ناکام۔ دلیل‫: %1‏</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1418"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1443"/>
         <source>Unexpected groupchat error: %1</source>
         <translation>غیرمتوقع گروپ بات چیت نقص: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1452"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1477"/>
         <source>Please choose a different nickname</source>
         <translation>کوئی مختلف عرف انتخاب کریں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1456"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1481"/>
         <source>An error occurred (errorcode: %1)</source>
         <translation>ایک نقص واقعہ ہو۱۔ (نقص ضابطہ:%1)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1489"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1514"/>
         <source>New room created</source>
         <translation>نیا کمرہ بنا دیا گیا</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1501"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1526"/>
         <source>%1 has joined the room</source>
         <translation>‫%1 ‬کمرے میں شامل ہوا ہے</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1505"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1530"/>
         <source>%3 has joined the room as %1 and %2</source>
         <translation>‫%3 ‬کمرے میں بطور‫ %1 ‬اور‫ %2 ‬شامل ہوا ہے</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1508"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1512"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1533"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1537"/>
         <source>%2 has joined the room as %1</source>
         <translation>‫%2 ‬کمرے میں بطور‫ %1 ‬شامل ہوا ہے</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1521"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1546"/>
         <source> and now is %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1539"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1564"/>
         <source>%1 is now %2 and %3</source>
         <translation>‫%1 ‬اب‫ %2 ‬اور‫ %3 ‬ہے</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1542"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1547"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1567"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1572"/>
         <source>%1 is now %2</source>
         <translation>‫%1 ‬اب‫ %2 ‬ہے</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1552"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1577"/>
         <source> (Reason: %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1576"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1601"/>
         <source>This room has been destroyed.</source>
         <translation>یہ کمرہ تلف کر دیا گیا ہے۔</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1580"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1605"/>
         <source>Reason: %1</source>
         <translation>دلیل: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1586"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1611"/>
         <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
         <translation> کیا آپ متبادل‫ &apos;%1&apos; ‬جگہ میں شامل ہونا چاہتے ہیں؟ </translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1587"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1593"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1612"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1618"/>
         <source>Room Destroyed</source>
         <translation>کمرہ تلف کر دیا گیا</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1612"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1637"/>
         <source>Banned</source>
         <translation>روک دیا گیا</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1612"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1637"/>
         <source>You have been banned from the room</source>
         <translation>آپ کو اس کمرے سے روک دیا گیا ہے</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1613"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1638"/>
         <source>You have been banned from the room by %1</source>
         <translation>%1 نے آپ کو کمرے سے بین کر دیا ہے</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1614"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1639"/>
         <source>%1 has been banned</source>
         <translation>‫%1 کو روک دیا گیا ہے</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1615"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1640"/>
         <source>%1 has been banned by %2</source>
         <translation>‫%1 کو %2 ‬نے روک دیا ہے</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1620"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1645"/>
         <source>Kicked</source>
         <translation>باہر دھکیل دیا گیا</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1620"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1645"/>
         <source>You have been kicked from the room</source>
         <translation>آپ کو اس کمرے سے باہر دھکیل دیا گیا ہے</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1621"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1646"/>
         <source>You have been kicked from the room by %1</source>
         <translation>%1 نے آپ کو کمرے سے باہر نکال دیا ہے</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1622"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1647"/>
         <source>%1 has been kicked</source>
         <translation>‫%1 کو باہر دھکیل دیا گیا ہے</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1623"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1648"/>
         <source>%1 has been kicked by %2</source>
         <translation>‫%1 ‬کو ‫%2 ‬نے باہر دھکیل دیا ہے</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1628"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1636"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1653"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1661"/>
         <source>Removed</source>
         <translation>ہٹانا مکمل</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1629"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1654"/>
         <source>You have been removed from the room due to an affiliation change</source>
         <translation>تعلق داری تبدیل ہونے کی وجہ سے آپ کو اس کمرے میں سے ہٹا دیا گیا ہے</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1630"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1655"/>
         <source>You have been removed from the room by %1 due to an affiliation change</source>
         <translation>%1 نے آپ کو تعلق داری تبدیل ہونے کی وجہ سے کمرے سے باہر نکال دیا ہے</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1631"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1656"/>
         <source>%1 has been removed from the room due to an affilliation change</source>
         <translation>تعلق داری تبدیل ہونے کی وجہ سے‫ %1 ‬کو  اس کمرے میں سے ہٹا دیا گیا ہے</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1632"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1657"/>
         <source>%1 has been removed from the room by %2 due to an affilliation change</source>
         <translation>تعلق داری تبدیل ہونے کی وجہ سے‫ %1 ‬کو‫ %2 ‬نے اس کمرے میں سے ہٹا دیا ہے</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1637"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1662"/>
         <source>You have been removed from the room because the room was made members only</source>
         <translation>آپ کو کمرے میں سے ہٹا دیا گیا ہے کیونکہ کمرہ صرف ارکان کےلیے بنایا گیا تھا</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1638"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1663"/>
         <source>You have been removed from the room by %1 because the room was made members only</source>
         <translation>%1 نے آپ کو کمرے سے باہر نکال دیا ہے کیونکہ یہ کمرہ صرف ارکان کے لیے ہو گیا ہے</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1639"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1664"/>
         <source>%1 has been removed from the room because the room was made members-only</source>
         <translation>‫%1 ‬کو کمرے میں سے ہٹا دیا گیا ہے کیونکہ کمرہ صرف ارکان کےلیے بنایا گیا تھا</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1640"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1665"/>
         <source>%1 has been removed from the room by %2 because the room was made members-only</source>
         <translation>‫%1 ‬کو‫ %2 ‬نے کمرے میں سے ہٹا دیا ہے کیونکہ کمرہ صرف ارکان کےلیے بنایا گیا تھا</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1646"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1671"/>
         <source>%1 is now known as %2</source>
         <translation>‫%1 ‬اب بطور‫ %2 ‬جانا جاتا ہے</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1650"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1675"/>
         <source>%1 has left the room</source>
         <translation>‫%1 ‬کمرہ چھوڑ چکا ہے</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1720"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1745"/>
         <source>The topic has been set to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1723"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1748"/>
         <source> has unset the topic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1723"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1748"/>
         <source> has set the topic to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1787"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1812"/>
         <source>Connected.</source>
         <translation>جڑا ہوا</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2216"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2246"/>
         <source>Save</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2217"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2247"/>
         <source>Delete</source>
         <translation type="unfinished">حذف کریں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2218"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2248"/>
         <source>Cancel</source>
         <translation type="unfinished">منسوخ کریں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2227"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2257"/>
         <source>&amp;Name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2228"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2258"/>
         <source>N&amp;ick:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2229"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2259"/>
         <source>&amp;Auto join:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2240"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2270"/>
         <source>Bookmark conference</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6314,13 +6314,13 @@ Reason: %1</source>
 <context>
     <name>GCMainDlg::Private</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="347"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="402"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="349"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="404"/>
         <source>new nick</source>
         <translation>نیا عرف</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="370"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="372"/>
         <source>Command</source>
         <translation>حکم</translation>
     </message>
@@ -7413,47 +7413,47 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="292"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="309"/>
         <source>Remove history</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="293"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="310"/>
         <source>Are you sure you want to completely remove history for a contact %1?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="317"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="334"/>
         <source>Export message history</source>
         <translation>پیغام سابقات برآمد کریں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="319"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="336"/>
         <source>Text files (*.txt);;All files (*.*)</source>
         <translation>متن مسلیں‫ (*.txt);; ‬تمام مسلیں (*.*)‏</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="325"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="342"/>
         <source>Error</source>
         <translation>نقص</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="325"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="342"/>
         <source>Error writing to file.</source>
         <translation>مسل لکھنے میں نقص۔</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="399"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="416"/>
         <source>&amp;Open chat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="400"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="417"/>
         <source>&amp;Export history</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="401"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="418"/>
         <source>&amp;Delete history</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7597,7 +7597,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>HttpAuthEvent</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psievent.cpp" line="573"/>
+        <location filename="../../psi-plus-snapshots/src/psievent.cpp" line="577"/>
         <source>HTTP Authentication Request</source>
         <translation>HTTP توثیق کاری فرمائش</translation>
     </message>
@@ -14398,44 +14398,44 @@ Details: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="5321"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="5347"/>
         <source>Headline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6101"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6159"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
         <translation>آپ کی حالت کو دستخط کرنے کی کوشش کے دوران نقص واقع ہوا۔
 دلیل‫: %1۔</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6211"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6269"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[یہ پیغام خفیہ کردہ ہے، اور آپ اسے خفیہ کشاہ کرنے میں ناکام ہیں ۔]</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6536"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6594"/>
         <source>No key</source>
         <translation>کلید نہیں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6536"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6594"/>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>‫Psi &lt;b&gt;%1&lt;/b&gt; کے لیے کھولیں پی جی پی کلید کا محل وقوع  بتانے میں ناکام ہوا، &lt;br&gt;&lt;br&gt;یہ تب ہو سکتا ہے، جب آپ کے پاس وہ کلید نا ہو جو رابطہ فرد دستخط کے ذریعے تشہیر کر رہی ہو، یا رابطہ فرد کسی کلید کی تشہیر کر رہا ہو۔&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6541"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6599"/>
         <source>&amp;Choose key manually</source>
         <translation>دستی بہ کلید انتخاب کریں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6541"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6599"/>
         <source>Do &amp;nothing</source>
         <translation>کچھ مت کریں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6548"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6606"/>
         <source>Public Key: %1</source>
         <translation>ظاہر کلید‫: %1</translation>
     </message>
@@ -15407,103 +15407,103 @@ Reason: %1.</source>
 <context>
     <name>PsiCon</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="523"/>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="537"/>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="881"/>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1335"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="526"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="540"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="884"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1338"/>
         <source>Error</source>
         <translation>نقص</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="523"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="526"/>
         <source>Unable to load iconset!  Please make sure Psi is properly installed.</source>
         <translation>‫شبیہ لوڈ کرنے میں ناکام!   ہقین کر لیں کہ Psi صحیح طرح سے تنصیب شدہ ہے۔</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="537"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="540"/>
         <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="881"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="884"/>
         <source>Please disconnect before changing the profile.</source>
         <translation>پروفائل تبدیل کرنے سے ما قبل منقطع کریں۔</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="883"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="886"/>
         <source>&amp;Disconnect</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1319"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1322"/>
         <source>Unsupported URI type</source>
         <translation>غیرمتوقع URI قسم</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1434"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1437"/>
         <source>Information</source>
         <translation>معلومات</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1434"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1437"/>
         <source>Some of the options you changed will only have full effect upon restart.</source>
         <translation>کچھ اختیارات جو آپ تبدیل کرتے ہیں پھر شروع ہونے پر مکمل اثرات ڈالیں گے۔</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1498"/>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1891"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1501"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1917"/>
         <source>Warning</source>
         <translation>تنبیہ</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1499"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1502"/>
         <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars &lt;i&gt;and&lt;/i&gt; the menubar. If you do so, you will be unable to enable them back, when you&apos;ll change your mind.</source>
         <translation>آپ تمام ٹول باریں و منینیو بار نا اہل نہیں بنا سکتے۔  اگر آپ ایسا کرتے ہیں تو، آپ انھیں واپس اہل بنانے میں ناکام ہو جائیں گے، جب کبھی آپ بدلنا چاہیں۔</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1500"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1503"/>
         <source>I understand</source>
         <translation>میں سمجھتا ہوں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1739"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1742"/>
         <source>Call ended</source>
         <translation>کال ختم  ہو گئی ہے</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1739"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1742"/>
         <source>Other party canceled call.</source>
         <translation>دوسری طرف سے کال منسوخ کر دی گئی۔</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1891"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1917"/>
         <source>Unable to bind to port %1 for Data Transfer.
 This may mean you are already running another instance of Psi. You may experience problems sending and/or receiving files.</source>
         <translation>کوائف منتقل کرنے کے لیے دہانہ‫ %1 کی طرف باندھنے میں ناکام۔
 ‫اس کا شاید یہ مطلب ہے کہ آپ پہلے ہی Psi کی کسی اور صورت پر چلت کاری کر رہے ہیں‫  آپ کو شاید مسلیں بھیجنے اور وصول کرنے میں مسائل کا تجربہ ہو۔</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1898"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1924"/>
         <source>Computer went to sleep</source>
         <translation>کمپیوٹر نیم فعال ہو گیا</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1931"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1957"/>
         <source>Account setup</source>
         <translation>اکاؤنٹ سیٹ اپ</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1931"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1957"/>
         <source>You need to set up an account to start. Would you like to register a new account, or use an existing account?</source>
         <translation>آپ کو شروع کرنے کے لیے ایک اکاؤنٹ سیٹ اپ کرنے کی ضرورت ہے۔  کیا آپ نیا اکاؤنٹ رجسٹر کرنا چاہیں گے یا موجود اکاؤنٹ استعمال کریں گے؟</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1932"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1958"/>
         <source>Register new account</source>
         <translation>نیا اکاؤنٹ رجسٹر کریں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1933"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1959"/>
         <source>Use existing account</source>
         <translation>موجود اکاؤنٹ استعمال کریں</translation>
     </message>
@@ -16210,77 +16210,77 @@ Proceed?</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2908"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2910"/>
         <source>Username</source>
         <translation>نام صارف</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2909"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2911"/>
         <source>Nickname</source>
         <translation>عرف</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2910"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2912"/>
         <source>Password</source>
         <translation>پاس ورڈ</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2911"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2913"/>
         <source>Name</source>
         <translation>نام</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2912"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2914"/>
         <source>First Name</source>
         <translation>پہلا نام</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2913"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2915"/>
         <source>Last Name</source>
         <translation>خاندانی نام</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2914"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2916"/>
         <source>E-mail</source>
         <translation>ای میل</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2915"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2917"/>
         <source>Address</source>
         <translation>پتہ</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2916"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2918"/>
         <source>City</source>
         <translation>شہر</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2917"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2919"/>
         <source>State</source>
         <translation>ریاست</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2918"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2920"/>
         <source>Zipcode</source>
         <translation>زپ کوڈ</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2919"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2921"/>
         <source>Phone</source>
         <translation>فون</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2920"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2922"/>
         <source>URL</source>
         <translation>یو ار ایل</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2921"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2923"/>
         <source>Date</source>
         <translation>تاریخ</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2922"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2924"/>
         <source>Misc</source>
         <translation>متفرق</translation>
     </message>
@@ -16893,17 +16893,17 @@ Description: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1141"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1166"/>
         <source>Warning: %1 is deprecated and will be removed in the future</source>
         <translation>تنبیہ: %1 فرسودہ ہے اور مستقبل میں نکال دیا جائے گا</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1144"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1169"/>
         <source>Please set a shortcut for &apos;Change to quick command mode&apos;, use that shortcut and enter &apos;%1&apos;.</source>
         <translation>&quot;تیز حکم موڈ میں تبدیل کریں&quot; کے لیے تیز راہ سیٹ کریں، اس تیز راہ کو استعمال کریں اور %1 داخل کریں۔</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1146"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1171"/>
         <source>Please instead press %1 and enter &apos;%2&apos;.</source>
         <translation>اس کی بجائے %1 دبائیں اور &apos;%2&apos; داخل کریں۔</translation>
     </message>
@@ -18336,7 +18336,7 @@ The first time you install this plugin, you need to log on to all of your accoun
 <context>
     <name>RosterExchangeEvent</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psievent.cpp" line="624"/>
+        <location filename="../../psi-plus-snapshots/src/psievent.cpp" line="628"/>
         <source>This user wants to modify your roster.</source>
         <translation>یہ صارف آپ کی ترتیب وار فہرست میں ترمیم کرنا چاہتا ہے۔</translation>
     </message>
