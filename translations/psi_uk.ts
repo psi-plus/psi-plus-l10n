@@ -80,9 +80,9 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;</translation>
 &lt;br&gt;
 Copyright © 2001-2014 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="unfinished">Крос-платформовий XMPP клієнт для досвідчених користувачів.&lt;br&gt;
+        <translation>Крос-платформовий XMPP клієнт для досвідчених користувачів.&lt;br&gt;
 &lt;br&gt;
-Copyright © 2001-2013 The Psi Team.&lt;br&gt; {2001-2014 ?}</translation>
+Copyright © 2001-2014 The Psi Team.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/about.ui" line="122"/>
