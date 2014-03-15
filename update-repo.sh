@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2014-01-18
+# Updated: 2014-03-15
 # Version: N/A
 
 if [[ ${0} =~ ^/.+$ ]]; then
@@ -126,10 +126,13 @@ case "${1}" in
     mkdir tmp
     cd tmp/
 
-    cp "${PSIPLUS_DIR}/src/patches/mac/3030-psi-mac-sparkle.diff" ./ || exit 1
-    cp "${PSIPLUS_DIR}/src/psiactionlist.cpp" ./ || exit 1
-    cp "${PSIPLUS_DIR}/src/mainwin.cpp" ./ || exit 1
-    patch -f -p2 < 3030-psi-mac-sparkle.diff > /dev/null
+    cp "${PSIPLUS_DIR}/patches"/*/*.diff ./ || exit 1
+    cp "${PSIPLUS_DIR}/patches"/*/*.patch ./ || exit 1
+    FILES=$(ls *.diff *.patch)
+    for FILE in ${FILES} ; do
+        patch -f -p1 < "${FILE}" > applied_patches.log
+    done
+    rm ${FILES}
 
     cd "${PSIPLUS_DIR}/src"
     python ../admin/update_options_ts.py ../options/default.xml > \
@@ -140,17 +143,16 @@ case "${1}" in
     rm translations.pro
 
     echo "HEADERS = \\" >> translations.pro
-    find "${PSIPLUS_DIR}/iris" "${PSIPLUS_DIR}/src" -type f -name "*.h" | \
+    find "${PSIPLUS_DIR}/iris" "${PSIPLUS_DIR}/src" "${CUR_DIR}/tmp" -type f -name "*.h" | \
         while read var; do echo "  ${var} \\" >> translations.pro; done
-    echo "  ${CUR_DIR}/tmp/*.h" >> translations.pro
 
     echo "SOURCES = \\" >> translations.pro
-    find "${PSIPLUS_DIR}/iris" "${PSIPLUS_DIR}/src" -type f -name "*.cpp" | \
+    find "${PSIPLUS_DIR}/iris" "${PSIPLUS_DIR}/src" "${CUR_DIR}/tmp" -type f -name "*.cpp" | \
         while read var; do echo "  ${var} \\" >> translations.pro; done
     echo "  ${CUR_DIR}/tmp/*.cpp" >> translations.pro
 
     echo "FORMS = \\" >> translations.pro
-    find "${PSIPLUS_DIR}/iris" "${PSIPLUS_DIR}/src" -type f -name "*.ui" | \
+    find "${PSIPLUS_DIR}/iris" "${PSIPLUS_DIR}/src" "${CUR_DIR}/tmp" -type f -name "*.ui" | \
         while read var; do echo "  ${var} \\" >> translations.pro; done
     echo "  ${CUR_DIR}/tmp/*.ui" >> translations.pro
 
