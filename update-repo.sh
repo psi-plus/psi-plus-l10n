@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2014-03-15
+# Updated: 2014-03-17
 # Version: N/A
 
 if [[ ${0} =~ ^/.+$ ]]; then
@@ -128,11 +128,20 @@ case "${1}" in
 
     cp "${PSIPLUS_DIR}/patches"/*/*.diff ./ || exit 1
     cp "${PSIPLUS_DIR}/patches"/*/*.patch ./ || exit 1
-    FILES=$(ls *.diff *.patch)
-    for FILE in ${FILES} ; do
-        patch -f -p1 < "${FILE}" > applied_patches.log
+    PATCHES=$(ls *.diff *.patch)
+    FILES="$(grep '^--- a/' ${PATCHES} | sed -e 's|^.*:--- a/\(.*\)$|\1|' | sort -u)
+           $(grep '^--- psi.orig/' ${PATCHES} | sed -e 's|^.*:--- psi.orig/\(.*\)$|\1|' | sort -u)"
+    DIRS="$(dirname ${FILES} | sort -u | grep -v "^\.$")"
+    for DIR in ${DIRS} ; do
+        mkdir -p ${DIR}
     done
-    rm ${FILES}
+    for FILE in ${FILES} ; do
+        cp -f ${PSIPLUS_DIR}/${FILE} "${FILE}" 2>/dev/null
+    done
+    for PATCH in ${PATCHES} ; do
+        patch -f -p1 < "${PATCH}" > applied_patches.log
+    done
+    rm ${PATCHES}
 
     cd "${PSIPLUS_DIR}/src"
     python ../admin/update_options_ts.py ../options/default.xml > \
