@@ -5049,543 +5049,548 @@ Wenn Sie die Anforderung zulassen möchten, drücken Sie bitte &lt;bestätigen&g
 <context>
     <name>ExtendedOptions</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="276"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="632"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="280"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="638"/>
         <source>Chat</source>
         <translation>Chat</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="278"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="282"/>
         <source>Tabs</source>
         <translation>Tabs</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="279"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="350"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="633"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="283"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="354"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="639"/>
         <source>Roster</source>
         <translation>Kontaktliste</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="280"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="284"/>
         <source>Menu</source>
         <translation>Menü</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="281"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="285"/>
         <source>Look</source>
         <translation>Aussehen</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="282"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="286"/>
         <source>CSS</source>
         <translation>CSS</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="283"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="287"/>
         <source>Misc</source>
         <translation>Sonstiges</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="290"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="294"/>
         <source>Ask for confirmation before clearing chat window</source>
         <translation>Vor dem Leeren des Chat Fensters nachfragen</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="291"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="295"/>
         <source>Enable icons in chat</source>
         <translation>Aktiviere Icons/Grafiken im Chat</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="292"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="296"/>
         <source>Scaled message icons</source>
         <translation>Skalierte Nachrichtensymbole</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="296"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="300"/>
         <source>Show Avatar</source>
         <translation>Zeige Avatar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="297"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="301"/>
         <source>Enable &quot;Says style&quot;</source>
         <translation>Aktiviere &quot;Sagt Stil&quot;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="298"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="302"/>
         <source>Hide &quot;Send&quot; button</source>
         <translation>Verstecke &quot;Senden&quot; Schaltfläche</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="302"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="306"/>
         <source>Avatar size:</source>
         <translation>Avatar Größe:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="307"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="311"/>
         <source>Default JID mode:</source>
         <translation>Standard JID Modus:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="311"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="315"/>
         <source>Automatically capitalize the first letter in a sentence</source>
         <translation>Automatisch ersten Buchstaben im Satz groß schreiben</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="312"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="316"/>
         <source>Automatically scroll down the log when a message was sent</source>
         <translation>Automatisch den Log herunterscrollen, wenn eine Nachricht gesendet wurde</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="313"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="357"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="317"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="361"/>
         <source>Show status changes</source>
         <translation>Zeige Statusänderungen</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="314"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="318"/>
         <source>Show status priority</source>
         <translation>Zeige Status Priorität</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="321"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="325"/>
         <source>Chat window caption:</source>
         <translation>Chatfenster Titel:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="332"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="336"/>
         <source>Default JID mode ignore list:</source>
         <translation>Standard JID Modus Ignorierliste:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="349"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="353"/>
         <source>General</source>
         <translation>Allgemein</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="353"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="357"/>
         <source>Show joins</source>
         <translation>Zeige Beitritte</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="354"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="358"/>
         <source>Show initial joins</source>
         <translation>Zeige initiale Beitritte</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="355"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="359"/>
         <source>Show status with priority</source>
         <translation>Zeige Status mit Priorität</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="356"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="360"/>
         <source>Show roles and affiliations changes</source>
         <translation>Zeige Rollen- und Angliederungswechsel</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="363"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="368"/>
         <source>Automatically accept the default room configuration</source>
         <translation>Automatisch die vorgegebene Raumkonfiguration akzeptieren</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="364"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="369"/>
         <source>Automatically accept the default room configuration when a new room is created</source>
         <translation>Automatisch die vorgegebene Raumkonfiguration akzeptieren, wenn ein neuer Raum erstellt wurde</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="365"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="370"/>
         <source>Automatically open the configuration dialog when a new room is created</source>
         <translation>Automatisch den Raumkonfigurationsdialog öffnen, wenn ein neuer Raum erstellt wurde</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="366"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="371"/>
         <source>Automatically open the configuration dialog when a new room is created.
 This option only has effect if accept-defaults is false.</source>
         <translation>Automatisch den Raumkonfigurationsdialog öffnen, wenn ein neuer Raum erstellt wurde.
 Diese Option zeigt nur Wirkung, wenn automatisches Akzeptieren der Vorgaben abgewählt wurde.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="277"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="281"/>
         <source>Groupchat</source>
         <translation>Gruppenchat</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="358"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="362"/>
         <source>Enable autojoin for bookmarked groupchats</source>
         <translation>Aktiviere automatisches Beitreten für gespeicherte Gruppenchats</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="359"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="363"/>
         <source>Hide groupchat on auto-join</source>
         <translation>Verstecke Gruppenchat bei automatischem Beitritt</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="360"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="364"/>
         <source>Enable HTML rendering in groupchat chat window</source>
         <translation>Aktiviere HTML-Rendering im Gruppenchatfenster</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="383"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="365"/>
+        <source>Allow groupchat highlight events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="389"/>
         <source>Disable autojoin to folowing groupchats:
 (specify JIDs)</source>
         <translation>Deaktiviere automatisches Beitreten bei den 
 folgenden Gruppenchats (JIDs eingeben)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="385"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="391"/>
         <source>Groupchat leave status message:</source>
         <translation>Statusnachricht bei Verlassen eines Gruppenchats:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="390"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="396"/>
         <source>Place groupchat roster at left</source>
         <translation>Platziere Gruppenchatkontaktliste links</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="391"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="397"/>
         <source>Show groups</source>
         <translation>Zeige Gruppen</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="392"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="398"/>
         <source>Use slim group heading</source>
         <translation>Verwende dünne Gruppen-Überschriften</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="393"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="440"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="399"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="446"/>
         <source>Show status icons</source>
         <translation>Zeige Statussymbole</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="394"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="400"/>
         <source>Show affiliation icons</source>
         <translation>Zeige Angliederungssymbole</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="395"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="401"/>
         <source>Show client icons</source>
         <translation>Zeige Client Symbole</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="397"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="403"/>
         <source>Show avatars</source>
         <translation>Zeige Avatare</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="398"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="438"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="404"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="444"/>
         <source>Place avatars at left</source>
         <translation>Avatare links platzieren</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="404"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="466"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="410"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="472"/>
         <source>Sort style for contacts:</source>
         <translation>Sortierungsart für Kontakte:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="408"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="414"/>
         <source>Avatars size:</source>
         <translation>Avatar Größe:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="412"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="418"/>
         <source>Avatars radius:</source>
         <translation>Avatar-Radius:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="434"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="440"/>
         <source>Resolve nicks on contact add</source>
         <translation>Spitznamen beim Hinzufügen von Kontakten auflösen</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="435"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="441"/>
         <source>Lockdown roster</source>
         <translation>Kontaktliste sperren</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="436"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="442"/>
         <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
         <translation>Platziere Kontaktliste im &quot;Alles-in-einem-Fenster&quot;-Modus links</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="437"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="443"/>
         <source>Contact name and status message in a row</source>
         <translation>Kontaktname und Statusnachricht in einer Reihe</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="439"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="445"/>
         <source>If contact does not have avatar, use default avatar</source>
         <translation>Wenn Kontakt keinen Avatar hat, Standard-Avatar nutzen</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="441"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="447"/>
         <source>Place status icon over avatar</source>
         <translation>Platziere Statussymbol über Avatar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="443"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="449"/>
         <source>Automatically remove temporary contacts</source>
         <translation>Automatisch temporäre Kontakte entfernen</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="446"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="452"/>
         <source>Tooltips:</source>
         <translation>Tooltips:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="449"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="455"/>
         <source>Show avatar</source>
         <translation>Zeige Avatar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="450"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="456"/>
         <source>Show last status</source>
         <translation>Zeige letzten Status</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="451"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="457"/>
         <source>Show PGP</source>
         <translation>Zeige PGP</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="452"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="458"/>
         <source>Show client version</source>
         <translation>Zeige Client-Version</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="453"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="459"/>
         <source>Show geolocation</source>
         <translation>Zeige geographische Position</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="485"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="491"/>
         <source>Show &quot;Admin&quot; option in account menu</source>
         <translation>Zeige &quot;Admin&quot;-Option im Kontomenü</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="486"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="492"/>
         <source>Show &quot;Active Chats&quot; option in contact menu</source>
         <translation>Zeige &quot;Aktive Chats&quot;-Option im Kontaktmenü</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="487"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="493"/>
         <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
         <translation>Zeige &quot;OpenPGP Schlüssel zuweisen&quot;-Option im Kontaktmenü</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="488"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="494"/>
         <source>Show &quot;Picture&quot; option in contact menu</source>
         <translation>Zeige &quot;Bild&quot;-Option in Kontaktmenü</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="489"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="495"/>
         <source>Show &quot;Change Profile&quot; option in main menu</source>
         <translation>Zeige &quot;Konto Bearbeiten&quot;-Option im Hauptmenü</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="490"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="496"/>
         <source>Show &quot;Chat&quot; option in status menu</source>
         <translation>Zeige &quot;Chat&quot;-Option im Statusmenü</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="491"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="497"/>
         <source>Show &quot;Invisible&quot; option in status menu</source>
         <translation>Zeige &quot;Unsichtbar&quot;-Option im Statusmenü</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="492"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="498"/>
         <source>Show &quot;XA&quot; option in status menu</source>
         <translation>Zeige &quot;Nicht verfügbar&quot;-Option im Statusmenü</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="493"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="499"/>
         <source>Enable single messages</source>
         <translation>Aktiviere einzelne Nachrichten</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="510"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="516"/>
         <source>Popup border color:</source>
         <translation>Popup Rahmenfarbe:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="516"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="522"/>
         <source>Link color:</source>
         <translation>Link Farbe:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="522"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="528"/>
         <source>Mailto color:</source>
         <translation>Mailto Farbe:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="528"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="534"/>
         <source>Moderators color:</source>
         <translation>Moderator Farbe:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="534"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="540"/>
         <source>Participants color:</source>
         <translation>Teilnehmer Farbe:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="540"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="546"/>
         <source>Visitors color:</source>
         <translation>Besucher Farbe:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="546"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="552"/>
         <source>No Role color:</source>
         <translation>Keine Rolle Farbe:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="550"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="556"/>
         <source>Groupchat roster coloring:</source>
         <translation>Gruppenchatkontaktlisten-Färbung:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="686"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="694"/>
         <source>Enable sound notifications for every groupchat message</source>
         <translation>Aktiviere Klangbenachrichtigung für jede Gruppenchatnachricht</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="561"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="567"/>
         <source>ToolTip text color:</source>
         <translation>Tooltip Textfarbe:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="567"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="573"/>
         <source>ToolTip background color:</source>
         <translation>Tooltip Hintergrundfarbe:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="571"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="577"/>
         <source>ToolTip coloring:</source>
         <translation>Tooltip Farben:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="580"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="586"/>
         <source>Text color for &quot;composing&quot; events on tabs:</source>
         <translation>Textfarbe für &quot;schreibt gerade&quot; Ereignisse auf Tabs:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="586"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="592"/>
         <source>Text color for &quot;unread&quot; events on tabs:</source>
         <translation>Textfarbe für &quot;Ungelesene Nachricht&quot;-Ereignisse auf Tabs:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="604"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="610"/>
         <source>Colors:</source>
         <translation>Farben:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="634"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="640"/>
         <source>Popup</source>
         <translation>Popup</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="635"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="641"/>
         <source>Tooltip</source>
         <translation>Tooltip</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="637"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="643"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS für Psi+&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="645"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="651"/>
         <source>Disable wheel scroll</source>
         <translation>Deaktiviere Scrollrad</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="646"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="652"/>
         <source>Put tabs at bottom of chat window</source>
         <translation>Platziere Tabs am Boden des Chatfensters</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="647"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="653"/>
         <source>Show Close Button on tabs</source>
         <translation>Zeige Schließen-Schaltfläche auf Tabs</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="648"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="654"/>
         <source>Show status icons on tabs</source>
         <translation>Zeige Statussymbole auf Tabs</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="649"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="655"/>
         <source>Hide tab when close chat window</source>
         <translation>Verstecke Tab beim Schließen des Chatfensters</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="650"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="656"/>
         <source>Allow closing inactive tabs</source>
         <translation>Erlaube das Schließen nicht aktiver Tabs</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="656"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="664"/>
         <source>Action for mouse middle click on tabs:</source>
         <translation>Aktion für Mittelklick mit Maus auf Tabs:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="666"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="674"/>
         <source>Action for mouse double click on tabs:</source>
         <translation>Aktion für Doppelklick mit Maus auf Tabs:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="682"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="690"/>
         <source>Enable windows flashing</source>
         <translation>Aktiviere blinkende Fenster</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="683"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="691"/>
         <source>Enable &quot;Single Account&quot; mode</source>
         <translation>Aktiviere &quot;Ein Konto&quot;-Modus</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="684"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="692"/>
         <source>Enable XML-console on login</source>
         <translation>Aktiviere XML Konsole beim Einloggen</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="685"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="693"/>
         <source>Enable last activity server</source>
         <translation>Aktiviere &quot;Letzte Aktivität&quot;-Server</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="687"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="695"/>
         <source>Disable popup notifications if status is DND</source>
         <translation>Popup Benachrichtigungen deaktiveren wenn Status auf &quot;Bitte nicht stören&quot;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="688"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="696"/>
         <source>Disable popup notifications if status is Away</source>
         <translation>Popup Benachrichtigungen deaktiveren wenn Status auf &quot;Abwesend&quot;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="690"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="698"/>
         <source>Notifications</source>
         <translation>Benachrichtigungen</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="704"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="712"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1060"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1186"/>
         <source>Author: </source>
         <translation>Autor: </translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1061"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1187"/>
         <source>Email: </source>
         <translation>E-Mail: </translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1062"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1188"/>
         <source>This plugin is designed to allow easy configuration of some advanced options in Psi+.
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
@@ -6244,34 +6249,34 @@ Grund: %3</translation>
 <context>
     <name>GCFindDlg</name>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2372"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2418"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2372"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2418"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2359"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2405"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2359"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2405"/>
         <source>Find</source>
         <translation>Suchen</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2377"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2377"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2364"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2364"/>
         <source>Find:</source>
         <translation>Suche:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2392"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2392"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2379"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2379"/>
         <source>&amp;Close</source>
         <translation>Schl&amp;ießen</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2394"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2394"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2381"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2381"/>
         <source>&amp;Find</source>
         <translation>&amp;Suchen</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2418"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2418"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2405"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2405"/>
         <source>Search string &apos;%1&apos; not found.</source>
         <translation>Zeichenkette &apos;%1&apos; nicht gefunden.</translation>
     </message>
@@ -6303,362 +6308,362 @@ Grund: %3</translation>
         <translation>Gruppenchat-JID kopieren</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1092"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1092"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1079"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1079"/>
         <source> by %1</source>
         <translation> von %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1096"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1096"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1083"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1083"/>
         <source>
 Reason: %1</source>
         <translation>
 Grund: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1135"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1135"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1122"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1122"/>
         <source>Edit Bookmark</source>
         <translation>Lesezeichen bearbeiten</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1138"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1138"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1125"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1125"/>
         <source>Add to bookmarks</source>
         <translation>Zu Lesezeichen hinzufügen</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1183"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1183"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1170"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1170"/>
         <source>Error: Cannot parse command: </source>
         <translation>Fehler: Befehl kann nicht eingelesen werden: </translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1293"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1293"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1280"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1280"/>
         <source>Warning</source>
         <translation>Warnung</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1294"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1294"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1281"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1281"/>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
         <translation>Chatfenster wirklich leeren? 
 (Hinweis: Dies hat keinen Einfluss auf die Nachrichtenchronik)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1351"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1351"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1338"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1338"/>
         <source>Disconnected.</source>
         <translation>Getrennt.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1384"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1384"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1371"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1371"/>
         <source>Reconnecting...</source>
         <translation>Die Verbindung wird wieder hergestellt ...</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1391"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1391"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1378"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1378"/>
         <source>Error: You are in or joining this room already!</source>
         <translation>Fehler: Sie sind schon im Raum oder betreten ihn gerade!</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1446"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1446"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1433"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1433"/>
         <source>Unable to join groupchat.	Reason: %1</source>
         <translation>Chatraum kann nicht betreten werden.	Grund: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1448"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1448"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1435"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1435"/>
         <source>Unexpected groupchat error: %1</source>
         <translation>Unerwarteter Chat-Raum Fehler: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1482"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1482"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1469"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1469"/>
         <source>Please choose a different nickname</source>
         <translation>Wählen Sie bitte einen anderen Spitznamen</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1486"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1486"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1473"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1473"/>
         <source>An error occurred (errorcode: %1)</source>
         <translation>Es ist ein Fehler aufgetreten (Fehlercode: %1)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1519"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1519"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1506"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1506"/>
         <source>New room created</source>
         <translation>Neuer Raum erschaffen</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1531"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1531"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1518"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1518"/>
         <source>%1 has joined the room</source>
         <translation>%1 hat den Raum betreten</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1535"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1535"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1522"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1522"/>
         <source>%3 has joined the room as %1 and %2</source>
         <translation>%3 hat als %1 und %2 den Raum betreten</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1538"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1542"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1538"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1542"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1525"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1529"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1525"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1529"/>
         <source>%2 has joined the room as %1</source>
         <translation>%2 hat als %1 den Raum betreten</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1551"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1551"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1538"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1538"/>
         <source> and now is %1</source>
         <translation> und ist jetzt %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1569"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1569"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1556"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1556"/>
         <source>%1 is now %2 and %3</source>
         <translation>%1 ist jetzt %2 und %3</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1572"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1577"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1572"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1577"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1559"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1564"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1559"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1564"/>
         <source>%1 is now %2</source>
         <translation>%1 ist jetzt %2</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1582"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1582"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1569"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1569"/>
         <source> (Reason: %1)</source>
         <translation> (Grund: %1)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1606"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1606"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1593"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1593"/>
         <source>This room has been destroyed.</source>
         <translation>Dieser Raum wurde zerstört.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1610"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1610"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1597"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1597"/>
         <source>Reason: %1</source>
         <translation>Grund: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1616"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1616"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1603"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1603"/>
         <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
         <translation>Möchten Sie den alternativen Treffpunkt &apos;%1&apos; betreten?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1617"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1623"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1617"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1623"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1604"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1610"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1604"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1610"/>
         <source>Room Destroyed</source>
         <translation>Raum zerstört</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1642"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1642"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1629"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1629"/>
         <source>Banned</source>
         <translation>Gebannt</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1642"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1642"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1629"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1629"/>
         <source>You have been banned from the room</source>
         <translation>Sie wurden aus diesem Raum verbannt</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1643"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1643"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1630"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1630"/>
         <source>You have been banned from the room by %1</source>
         <translation>Sie wurden von %1 aus dem Raum verbannt</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1644"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1644"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1631"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1631"/>
         <source>%1 has been banned</source>
         <translation>%1 wurde verbannt</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1645"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1645"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1632"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1632"/>
         <source>%1 has been banned by %2</source>
         <translation>%1 wurde von %2 verbannt</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1650"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1650"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1637"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1637"/>
         <source>Kicked</source>
         <translation>Rausgeworfen</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1650"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1650"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1637"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1637"/>
         <source>You have been kicked from the room</source>
         <translation>Sie wurden aus diesem Raum rausgeworfen</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1651"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1651"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1638"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1638"/>
         <source>You have been kicked from the room by %1</source>
         <translation>Sie wurden von %1 aus dem Raum geworfen</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1652"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1652"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1639"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1639"/>
         <source>%1 has been kicked</source>
         <translation>%1 wurde rausgeworfen</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1653"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1653"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1640"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1640"/>
         <source>%1 has been kicked by %2</source>
         <translation>%1 wurde von %2 rausgeworfen</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1658"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1666"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1658"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1666"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1645"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1653"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1645"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1653"/>
         <source>Removed</source>
         <translation>Enfernt</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1659"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1659"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1646"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1646"/>
         <source>You have been removed from the room due to an affiliation change</source>
         <translation>Sie wurden aufgrund einer Mitgliedschaftsänderung aus diesem Raum entfernt</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1660"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1660"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1647"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1647"/>
         <source>You have been removed from the room by %1 due to an affiliation change</source>
         <translation>Sie wurden von %1 wegen einer Mitgliedschaftsänderung aus dem Raum entfernt</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1661"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1661"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1648"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1648"/>
         <source>%1 has been removed from the room due to an affilliation change</source>
         <translation>%1 wurde aufgrund einer Mitgliedschaftsänderung aus dem Raum entfernt</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1662"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1662"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1649"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1649"/>
         <source>%1 has been removed from the room by %2 due to an affilliation change</source>
         <translation>%1 wurde von %2 aufgrund einer Mitgliedschaftsänderung aus dem Raum entfernt</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1667"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1667"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1654"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1654"/>
         <source>You have been removed from the room because the room was made members only</source>
         <translation>Sie wurden aus diesem Raum entfernt, da dieser nur für Mitglieder erstellt wurde</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1668"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1668"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1655"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1655"/>
         <source>You have been removed from the room by %1 because the room was made members only</source>
         <translation>Sie wurden von %1 aus dem Raum entfernt, weil der Raumstatus auf &quot;Nur für Mitglieder&quot; gesetzt wurde</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1669"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1669"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1656"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1656"/>
         <source>%1 has been removed from the room because the room was made members-only</source>
         <translation>%1 wurde aus dem Raum entfernt, da dieser nur für Mitglieder erstellt wurde</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1670"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1670"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1657"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1657"/>
         <source>%1 has been removed from the room by %2 because the room was made members-only</source>
         <translation>%1 wurde von %2 aus dem Raum entfernt, da dieser nur für Mitglieder erstellt wurde</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1676"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1676"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1663"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1663"/>
         <source>%1 is now known as %2</source>
         <translation>%1 heißt jetzt %2</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1680"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1680"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1667"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1667"/>
         <source>%1 has left the room</source>
         <translation>%1 hat den Raum verlassen</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1750"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1750"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1737"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1737"/>
         <source>The topic has been set to</source>
         <translation>Das Thema wurde gesetzt auf</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1753"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1753"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1740"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1740"/>
         <source> has unset the topic</source>
         <translation> hat das Thema entfernt</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1753"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1753"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1740"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1740"/>
         <source> has set the topic to</source>
         <translation> setzte das Thema auf</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1817"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1817"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1804"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1804"/>
         <source>Connected.</source>
         <translation>Verbunden.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2251"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2251"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2238"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2238"/>
         <source>Save</source>
         <translation>Speichern</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2252"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2252"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2239"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2239"/>
         <source>Delete</source>
         <translation>Löschen</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2253"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2253"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2240"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2240"/>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2262"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2262"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2249"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2249"/>
         <source>&amp;Name:</source>
         <translation>&amp;Name:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2263"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2263"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2250"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2250"/>
         <source>N&amp;ick:</source>
         <translation>Sp&amp;itzname:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2264"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2264"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2251"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2251"/>
         <source>&amp;Auto join:</source>
         <translation>&amp;Autom. beitreten:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2275"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2275"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2262"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2262"/>
         <source>Bookmark conference</source>
         <translation>Lesezeichen für Konferenz erstellen</translation>
     </message>
@@ -9086,6 +9091,14 @@ ein. Er möchte %2 spielen.</translation>
     </message>
 </context>
 <context>
+    <name>JT_VCard</name>
+    <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1150"/>
+        <source>No VCard available</source>
+        <translation type="unfinished">Keine Visitenkarte verfügbar</translation>
+    </message>
+</context>
+<context>
     <name>JabberDiskPlugin</name>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/jabberdiskplugin/jabberdiskplugin.cpp" line="201"/>
@@ -9799,14 +9812,14 @@ Eingehende(s) Event(s) von:</translation>
         <translation>Verbindung wird hergestellt</translation>
     </message>
     <message>
-        <location filename="../tmp/src/mainwin.cpp" line="1787"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1763"/>
+        <location filename="../tmp/src/mainwin.cpp" line="1788"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1764"/>
         <source>1 event received</source>
         <translation>Nachricht empfangen</translation>
     </message>
     <message>
-        <location filename="../tmp/src/mainwin.cpp" line="1790"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1766"/>
+        <location filename="../tmp/src/mainwin.cpp" line="1791"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1767"/>
         <source>%1 events received</source>
         <translation>%1 Nachrichten empfangen</translation>
     </message>
@@ -15917,58 +15930,58 @@ Grund: %1.</translation>
         <translation>Befehl eingeben ...</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psichatdlg.cpp" line="498"/>
-        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="498"/>
+        <location filename="../tmp/src/psichatdlg.cpp" line="500"/>
+        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="500"/>
         <source>Find toolbar</source>
         <translation>Suchleiste</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psichatdlg.cpp" line="570"/>
-        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="570"/>
+        <location filename="../tmp/src/psichatdlg.cpp" line="572"/>
+        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="572"/>
         <source>Chat Toolbar</source>
         <translation>Chat-Werkzeugleiste</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psichatdlg.cpp" line="694"/>
-        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="694"/>
+        <location filename="../tmp/src/psichatdlg.cpp" line="696"/>
+        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="696"/>
         <source>Contact has been switched: %1</source>
         <translation>Kontakt gewechselt auf %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psichatdlg.cpp" line="875"/>
-        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="875"/>
+        <location filename="../tmp/src/psichatdlg.cpp" line="877"/>
+        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="877"/>
         <source>Warning</source>
         <translation>Warnung</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psichatdlg.cpp" line="876"/>
-        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="876"/>
+        <location filename="../tmp/src/psichatdlg.cpp" line="878"/>
+        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="878"/>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
         <translation>Chatfenster wirklich leeren? 
 (Hinweis: Dies hat keinen Einfluss auf die Nachrichtenchronik)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psichatdlg.cpp" line="976"/>
-        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="976"/>
+        <location filename="../tmp/src/psichatdlg.cpp" line="978"/>
+        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="978"/>
         <source>Error: Can not parse command: </source>
         <translation>Fehler: Befehl kann nicht eingelesen werden: </translation>
     </message>
     <message>
-        <location filename="../tmp/src/psichatdlg.cpp" line="985"/>
-        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="985"/>
+        <location filename="../tmp/src/psichatdlg.cpp" line="987"/>
+        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="987"/>
         <source>Command&gt;</source>
         <translation>Befehl&gt;</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psichatdlg.cpp" line="1108"/>
-        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="1108"/>
+        <location filename="../tmp/src/psichatdlg.cpp" line="1117"/>
+        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="1117"/>
         <source>turn off autojid</source>
         <translation>AutoJID deaktivieren</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psichatdlg.cpp" line="1111"/>
-        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="1111"/>
+        <location filename="../tmp/src/psichatdlg.cpp" line="1120"/>
+        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="1120"/>
         <source>turn on autojid</source>
         <translation>AutoJID aktivieren</translation>
     </message>
@@ -16842,17 +16855,17 @@ Möchten Sie die Sitzung jetzt aktivieren?</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptionseditor.cpp" line="282"/>
-        <location filename="../../psi-plus-snapshots/src/psioptionseditor.cpp" line="298"/>
+        <location filename="../../psi-plus-snapshots/src/psioptionseditor.cpp" line="296"/>
         <source>Psi+: Option Editor</source>
         <translation>Psi+: Optionen-Editor</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psioptionseditor.cpp" line="293"/>
+        <location filename="../../psi-plus-snapshots/src/psioptionseditor.cpp" line="292"/>
         <source>Really reset options %1 to default value?</source>
         <translation>Optionen %1 wirklich zurücksetzen?</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psioptionseditor.cpp" line="296"/>
+        <location filename="../../psi-plus-snapshots/src/psioptionseditor.cpp" line="294"/>
         <source>Really reset all options starting with %1. to default value?</source>
         <translation>Wirklich alle Optionen zurücksetzen, die mit %1. beginnen?</translation>
     </message>
@@ -16934,92 +16947,77 @@ Fortfahren?</translation>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2942"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2910"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2942"/>
         <source>Username</source>
         <translation>Benutzername</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2943"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2911"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2943"/>
         <source>Nickname</source>
         <translation>Spitzname</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2944"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2912"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2944"/>
         <source>Password</source>
         <translation>Kennwort</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2945"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2913"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2945"/>
         <source>Name</source>
         <translation>Name</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2946"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2914"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2946"/>
         <source>First Name</source>
         <translation>Vorname</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2947"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2915"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2947"/>
         <source>Last Name</source>
         <translation>Nachname</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2948"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2916"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2948"/>
         <source>E-mail</source>
         <translation>E-Mail</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2949"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2917"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2949"/>
         <source>Address</source>
         <translation>Adresse</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2950"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2918"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2950"/>
         <source>City</source>
         <translation>Ort</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2951"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2919"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2951"/>
         <source>State</source>
         <translation>Region</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2952"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2920"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2952"/>
         <source>Zipcode</source>
         <translation>PLZ</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2953"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2921"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2953"/>
         <source>Phone</source>
         <translation>Telefon</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2954"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2922"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2954"/>
         <source>URL</source>
         <translation>URL</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2955"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2923"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2955"/>
         <source>Date</source>
         <translation>Datum</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2956"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2924"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2956"/>
         <source>Misc</source>
         <translation>Sonstiges</translation>
     </message>
@@ -17648,20 +17646,20 @@ Description: </source>
 Beschreibung: </translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1166"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1166"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1153"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1153"/>
         <source>Warning: %1 is deprecated and will be removed in the future</source>
         <translation>Achtung: %1 ist veraltet und ist bald nicht mehr verfügbar</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1169"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1169"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1156"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1156"/>
         <source>Please set a shortcut for &apos;Change to quick command mode&apos;, use that shortcut and enter &apos;%1&apos;.</source>
         <translation>Erstellen Sie bitte ein Tastenkürzel für &quot;In den Kurzbefehlmodus wechseln&quot;, verwenden Sie das Tastenkürzel und geben Sie &quot;%1&quot; ein.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1171"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1171"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1158"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1158"/>
         <source>Please instead press %1 and enter &apos;%2&apos;.</source>
         <translation>Drücken Sie stattdessen bitte %1 und geben Sie &quot;%2&quot; ein.</translation>
     </message>
@@ -21328,7 +21326,7 @@ Note: Some server may disable transport registration to users from different ser
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/typeaheadfind.cpp" line="109"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/typeaheadfind.cpp" line="109"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="109"/>
-        <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="167"/>
+        <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="169"/>
         <source>&amp;Case sensitive</source>
         <translation>&amp;Groß-/Kleinschreibung</translation>
     </message>
@@ -21361,19 +21359,19 @@ Note: Some server may disable transport registration to users from different ser
         <translation>Letzte Seite</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="151"/>
+        <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="153"/>
         <source>Search</source>
         <translation>Suchen</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="155"/>
         <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="157"/>
+        <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="159"/>
         <source>Find next</source>
         <translation>Nächstes suchen</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="161"/>
         <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="163"/>
+        <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="165"/>
         <source>Find previous</source>
         <translation>Vorheriges finden</translation>
     </message>
@@ -21467,12 +21465,12 @@ Note: Some server may disable transport registration to users from different ser
 <context>
     <name>VideoStatusChanger</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/videostatusplugin/videostatusplugin.cpp" line="404"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/videostatusplugin/videostatusplugin.cpp" line="405"/>
         <source>Authors: </source>
         <translation>Autoren: </translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/videostatusplugin/videostatusplugin.cpp" line="405"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/videostatusplugin/videostatusplugin.cpp" line="406"/>
         <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
 Note: This plugin is designed to work in Linux family operating systems and in Windows OS. 
 
@@ -22273,8 +22271,7 @@ Möchten Sie dennoch das Fenster schließen?</translation>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1150"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1082"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1149"/>
         <source>No VCard available</source>
         <translation>Keine Visitenkarte verfügbar</translation>
     </message>

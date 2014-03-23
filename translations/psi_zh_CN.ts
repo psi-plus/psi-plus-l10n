@@ -5043,542 +5043,547 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
 <context>
     <name>ExtendedOptions</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="276"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="632"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="280"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="638"/>
         <source>Chat</source>
         <translation>对话</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="278"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="282"/>
         <source>Tabs</source>
         <translation>标签</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="279"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="350"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="633"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="283"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="354"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="639"/>
         <source>Roster</source>
         <translation>花名册</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="280"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="284"/>
         <source>Menu</source>
         <translation>菜单</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="281"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="285"/>
         <source>Look</source>
         <translation>查看</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="282"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="286"/>
         <source>CSS</source>
         <translation>CSS</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="283"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="287"/>
         <source>Misc</source>
         <translation>混杂的</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="290"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="294"/>
         <source>Ask for confirmation before clearing chat window</source>
         <translation>清除聊天窗口前请确认</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="291"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="295"/>
         <source>Enable icons in chat</source>
         <translation>启用聊天图标</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="292"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="296"/>
         <source>Scaled message icons</source>
         <translation>规模信息图标</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="296"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="300"/>
         <source>Show Avatar</source>
         <translation>显示头像</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="297"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="301"/>
         <source>Enable &quot;Says style&quot;</source>
         <translation>启用谈话风格</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="298"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="302"/>
         <source>Hide &quot;Send&quot; button</source>
         <translation>隐藏“发送”按纽</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="302"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="306"/>
         <source>Avatar size:</source>
         <translation>头像尺寸:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="307"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="311"/>
         <source>Default JID mode:</source>
         <translation>默认JID模式:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="311"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="315"/>
         <source>Automatically capitalize the first letter in a sentence</source>
         <translation>自动大写句子的第一个字母</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="312"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="316"/>
         <source>Automatically scroll down the log when a message was sent</source>
         <translation>当发送消息时，日志自动向下滚动</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="313"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="357"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="317"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="361"/>
         <source>Show status changes</source>
         <translation>显示状态的变化</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="314"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="318"/>
         <source>Show status priority</source>
         <translation>显示状态优先</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="321"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="325"/>
         <source>Chat window caption:</source>
         <translation>聊天窗口标题:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="332"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="336"/>
         <source>Default JID mode ignore list:</source>
         <translation>默认忽略列表的JID模式:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="349"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="353"/>
         <source>General</source>
         <translation>通常</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="353"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="357"/>
         <source>Show joins</source>
         <translation>显示加入</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="354"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="358"/>
         <source>Show initial joins</source>
         <translation>显示初始加入</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="355"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="359"/>
         <source>Show status with priority</source>
         <translation>显示优先状态</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="356"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="360"/>
         <source>Show roles and affiliations changes</source>
         <translation>显示角色和关系的变化</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="363"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="368"/>
         <source>Automatically accept the default room configuration</source>
         <translation>自动接受默认配置</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="364"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="369"/>
         <source>Automatically accept the default room configuration when a new room is created</source>
         <translation>当创建新的房间时，自动接受默认的房间配置</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="365"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="370"/>
         <source>Automatically open the configuration dialog when a new room is created</source>
         <translation>当创建一个新房间时，自动打开配置对话框</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="366"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="371"/>
         <source>Automatically open the configuration dialog when a new room is created.
 This option only has effect if accept-defaults is false.</source>
         <translation>当创建一个新房间时，自动打开配置对话框
 如果默认接受是假的，才影响该选项</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="277"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="281"/>
         <source>Groupchat</source>
         <translation>群组</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="358"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="362"/>
         <source>Enable autojoin for bookmarked groupchats</source>
         <translation>启用自动联接书签群聊</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="359"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="363"/>
         <source>Hide groupchat on auto-join</source>
         <translation>隐藏自动加入群聊</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="360"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="364"/>
         <source>Enable HTML rendering in groupchat chat window</source>
         <translation>在群聊的聊天窗口启用HTML翻译</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="383"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="365"/>
+        <source>Allow groupchat highlight events</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="389"/>
         <source>Disable autojoin to folowing groupchats:
 (specify JIDs)</source>
         <translation>禁用自动联接如下群聊:(指定JID的)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="385"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="391"/>
         <source>Groupchat leave status message:</source>
         <translation>群聊保留状态信息</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="390"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="396"/>
         <source>Place groupchat roster at left</source>
         <translation>放置群聊名单到左侧</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="391"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="397"/>
         <source>Show groups</source>
         <translation>显示组</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="392"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="398"/>
         <source>Use slim group heading</source>
         <translation>使用超薄组标题</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="393"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="440"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="399"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="446"/>
         <source>Show status icons</source>
         <translation>显示状态图标</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="394"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="400"/>
         <source>Show affiliation icons</source>
         <translation>显示加入图标</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="395"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="401"/>
         <source>Show client icons</source>
         <translation>显示客户端图标</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="397"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="403"/>
         <source>Show avatars</source>
         <translation>显示头像</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="398"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="438"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="404"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="444"/>
         <source>Place avatars at left</source>
         <translation>在左侧放置头像</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="404"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="466"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="410"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="472"/>
         <source>Sort style for contacts:</source>
         <translation>排序方式接触:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="408"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="414"/>
         <source>Avatars size:</source>
         <translation>头像尺寸:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="412"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="418"/>
         <source>Avatars radius:</source>
         <translation>头像半径:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="434"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="440"/>
         <source>Resolve nicks on contact add</source>
         <translation>解决造成的接触增加</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="435"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="441"/>
         <source>Lockdown roster</source>
         <translation>锁定名册</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="436"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="442"/>
         <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
         <translation>在左侧以&quot;all-in-one-window&quot;模式放置名册</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="437"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="443"/>
         <source>Contact name and status message in a row</source>
         <translation>联系人姓名和状态信息在一排</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="439"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="445"/>
         <source>If contact does not have avatar, use default avatar</source>
         <translation>如果联系人没有头像，则使用默认的头像</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="441"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="447"/>
         <source>Place status icon over avatar</source>
         <translation>在图像上方放置状态图标</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="443"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="449"/>
         <source>Automatically remove temporary contacts</source>
         <translation>自动删除临时联系人</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="446"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="452"/>
         <source>Tooltips:</source>
         <translation>工具提示:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="449"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="455"/>
         <source>Show avatar</source>
         <translation>显示头像</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="450"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="456"/>
         <source>Show last status</source>
         <translation>显示最后状态</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="451"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="457"/>
         <source>Show PGP</source>
         <translation>显示PGP</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="452"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="458"/>
         <source>Show client version</source>
         <translation>显示客户端版本</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="453"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="459"/>
         <source>Show geolocation</source>
         <translation>显示地理位置</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="485"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="491"/>
         <source>Show &quot;Admin&quot; option in account menu</source>
         <translation>在帐户菜单里显示“管理”选项</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="486"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="492"/>
         <source>Show &quot;Active Chats&quot; option in contact menu</source>
         <translation>在联系人菜单里显示“聊天活动”选项</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="487"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="493"/>
         <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
         <translation>在联系人菜单里显示“指定openpgp键”选项</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="488"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="494"/>
         <source>Show &quot;Picture&quot; option in contact menu</source>
         <translation>在联系人菜单里显示“图片”选项</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="489"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="495"/>
         <source>Show &quot;Change Profile&quot; option in main menu</source>
         <translation>在主菜单里显示“更改配置文件”选项</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="490"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="496"/>
         <source>Show &quot;Chat&quot; option in status menu</source>
         <translation>在统计菜单中显示对话选项</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="491"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="497"/>
         <source>Show &quot;Invisible&quot; option in status menu</source>
         <translation>在统计菜单中显示不可见的选项</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="492"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="498"/>
         <source>Show &quot;XA&quot; option in status menu</source>
         <translation>在统计菜单中显示xa选项</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="493"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="499"/>
         <source>Enable single messages</source>
         <translation>启用单一信息</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="510"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="516"/>
         <source>Popup border color:</source>
         <translation>弹出边框颜色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="516"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="522"/>
         <source>Link color:</source>
         <translation>链接颜色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="522"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="528"/>
         <source>Mailto color:</source>
         <translation>邮件颜色</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="528"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="534"/>
         <source>Moderators color:</source>
         <translation>版主颜色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="534"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="540"/>
         <source>Participants color:</source>
         <translation>参与者颜色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="540"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="546"/>
         <source>Visitors color:</source>
         <translation>游客颜色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="546"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="552"/>
         <source>No Role color:</source>
         <translation>无角色颜色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="550"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="556"/>
         <source>Groupchat roster coloring:</source>
         <translation>群聊名单着色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="686"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="694"/>
         <source>Enable sound notifications for every groupchat message</source>
         <translation>启用声音通知为每一个群聊消息</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="561"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="567"/>
         <source>ToolTip text color:</source>
         <translation>提示文本颜色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="567"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="573"/>
         <source>ToolTip background color:</source>
         <translation>提示背景颜色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="571"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="577"/>
         <source>ToolTip coloring:</source>
         <translation>提示着色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="580"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="586"/>
         <source>Text color for &quot;composing&quot; events on tabs:</source>
         <translation>标签上“排版”项目的文本颜色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="586"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="592"/>
         <source>Text color for &quot;unread&quot; events on tabs:</source>
         <translation>标签上“未读”项目的文本颜色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="604"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="610"/>
         <source>Colors:</source>
         <translation>颜色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="634"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="640"/>
         <source>Popup</source>
         <translation>弹出</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="635"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="641"/>
         <source>Tooltip</source>
         <translation>工具提示</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="637"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="643"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="645"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="651"/>
         <source>Disable wheel scroll</source>
         <translation>禁用轮滚动</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="646"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="652"/>
         <source>Put tabs at bottom of chat window</source>
         <translation>把标签放到聊天窗口的底部</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="647"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="653"/>
         <source>Show Close Button on tabs</source>
         <translation>显示关闭按钮上的标签</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="648"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="654"/>
         <source>Show status icons on tabs</source>
         <translation>显示状态图标标签</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="649"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="655"/>
         <source>Hide tab when close chat window</source>
         <translation>当关闭聊天窗口时，隐藏标签</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="650"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="656"/>
         <source>Allow closing inactive tabs</source>
         <translation>允许关闭无效的标签</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="656"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="664"/>
         <source>Action for mouse middle click on tabs:</source>
         <translation>在标签上单击鼠标中键的动作:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="666"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="674"/>
         <source>Action for mouse double click on tabs:</source>
         <translation>在标签上双击鼠标中键的动作:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="682"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="690"/>
         <source>Enable windows flashing</source>
         <translation>启用窗口闪烁</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="683"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="691"/>
         <source>Enable &quot;Single Account&quot; mode</source>
         <translation>启用“单一账户”模式</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="684"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="692"/>
         <source>Enable XML-console on login</source>
         <translation>启用“XML-控制台”模式登录</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="685"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="693"/>
         <source>Enable last activity server</source>
         <translation>启用服务器活动</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="687"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="695"/>
         <source>Disable popup notifications if status is DND</source>
         <translation>如果状态是DND，禁用弹出通知</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="688"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="696"/>
         <source>Disable popup notifications if status is Away</source>
         <translation>如果状态是离开，禁用弹出通知</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="690"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="698"/>
         <source>Notifications</source>
         <translation>通知</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="704"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="712"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (在线)&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1060"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1186"/>
         <source>Author: </source>
         <translation>作者:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1061"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1187"/>
         <source>Email: </source>
         <translation>邮件:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1062"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1188"/>
         <source>This plugin is designed to allow easy configuration of some advanced options in Psi+.
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
@@ -6234,34 +6239,34 @@ Reason: %3</source>
 <context>
     <name>GCFindDlg</name>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2372"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2418"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2372"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2418"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2359"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2405"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2359"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2405"/>
         <source>Find</source>
         <translation>查找</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2377"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2377"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2364"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2364"/>
         <source>Find:</source>
         <translation>查找:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2392"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2392"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2379"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2379"/>
         <source>&amp;Close</source>
         <translation>关闭(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2394"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2394"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2381"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2381"/>
         <source>&amp;Find</source>
         <translation>查找(&amp;F)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2418"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2418"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2405"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2405"/>
         <source>Search string &apos;%1&apos; not found.</source>
         <translation>找不到字符串 &apos;%1&apos; 。</translation>
     </message>
@@ -6293,363 +6298,363 @@ Reason: %3</source>
         <translation>复制群聊 JID</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1092"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1092"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1079"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1079"/>
         <source> by %1</source>
         <translation> 以 %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1096"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1096"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1083"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1083"/>
         <source>
 Reason: %1</source>
         <translation>
 原因: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1135"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1135"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1122"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1122"/>
         <source>Edit Bookmark</source>
         <translation>编辑书签</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1138"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1138"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1125"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1125"/>
         <source>Add to bookmarks</source>
         <translation>添加到书签</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1183"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1183"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1170"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1170"/>
         <source>Error: Cannot parse command: </source>
         <translation>错误: 无法分析指令: </translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1293"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1293"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1280"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1280"/>
         <source>Warning</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1294"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1294"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1281"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1281"/>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
         <translation>你确定要清除对话窗口吗?
 (注意: 这不会影响已储存的历史信息)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1351"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1351"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1338"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1338"/>
         <source>Disconnected.</source>
         <translation>已断线。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1384"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1384"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1371"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1371"/>
         <source>Reconnecting...</source>
         <translation>重新连接中...</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1391"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1391"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1378"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1378"/>
         <source>Error: You are in or joining this room already!</source>
         <translation>错误: 你已经在或正在加入这个聊天室!</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1446"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1446"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1433"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1433"/>
         <source>Unable to join groupchat.	Reason: %1</source>
         <translation>无法加入群组. 原因: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1448"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1448"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1435"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1435"/>
         <source>Unexpected groupchat error: %1</source>
         <translation>未预期的群组错误: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1482"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1482"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1469"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1469"/>
         <source>Please choose a different nickname</source>
         <translation>请选择一个不同的昵称</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1486"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1486"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1473"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1473"/>
         <source>An error occurred (errorcode: %1)</source>
         <translation>发生错误 (错误码: %1)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1519"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1519"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1506"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1506"/>
         <source>New room created</source>
         <translation>新聊天室已建立</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1531"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1531"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1518"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1518"/>
         <source>%1 has joined the room</source>
         <translation>%1 已经加入聊天室</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1535"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1535"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1522"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1522"/>
         <source>%3 has joined the room as %1 and %2</source>
         <translation>%3 已经以 %1 和 %2 加入聊天室</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1538"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1542"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1538"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1542"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1525"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1529"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1525"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1529"/>
         <source>%2 has joined the room as %1</source>
         <translation>%2 已经以 %1 加入聊天室</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1551"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1551"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1538"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1538"/>
         <source> and now is %1</source>
         <translation>现在是 %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1569"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1569"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1556"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1556"/>
         <source>%1 is now %2 and %3</source>
         <translation>%1 现在是 %2 和 %3</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1572"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1577"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1572"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1577"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1559"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1564"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1559"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1564"/>
         <source>%1 is now %2</source>
         <translation>%1 现在是 %2</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1582"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1582"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1569"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1569"/>
         <source> (Reason: %1)</source>
         <translation>(原因: %1)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1606"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1606"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1593"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1593"/>
         <source>This room has been destroyed.</source>
         <translation>聊天室已经被摧毁了。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1610"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1610"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1597"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1597"/>
         <source>Reason: %1</source>
         <translation>
 原因: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1616"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1616"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1603"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1603"/>
         <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
         <translation>你想要加入另外一方 &apos;%1&apos; 吗?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1617"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1623"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1617"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1623"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1604"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1610"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1604"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1610"/>
         <source>Room Destroyed</source>
         <translation>聊天室已被摧毁</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1642"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1642"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1629"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1629"/>
         <source>Banned</source>
         <translation>被封锁的</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1642"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1642"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1629"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1629"/>
         <source>You have been banned from the room</source>
         <translation>你已经被这个聊天室封锁了</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1643"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1643"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1630"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1630"/>
         <source>You have been banned from the room by %1</source>
         <translation>你已经被 %1 从这个聊天室封锁了</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1644"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1644"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1631"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1631"/>
         <source>%1 has been banned</source>
         <translation>%1 已经被封锁了</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1645"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1645"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1632"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1632"/>
         <source>%1 has been banned by %2</source>
         <translation>%1 已经被 %2 封锁了</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1650"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1650"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1637"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1637"/>
         <source>Kicked</source>
         <translation>已踢掉</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1650"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1650"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1637"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1637"/>
         <source>You have been kicked from the room</source>
         <translation>你已经被踢出聊天室了</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1651"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1651"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1638"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1638"/>
         <source>You have been kicked from the room by %1</source>
         <translation>你已经被 %1 踢出聊天室了</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1652"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1652"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1639"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1639"/>
         <source>%1 has been kicked</source>
         <translation>%1 已经被踢出了</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1653"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1653"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1640"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1640"/>
         <source>%1 has been kicked by %2</source>
         <translation>%1 已经被 %2 踢出了</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1658"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1666"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1658"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1666"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1645"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1653"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1645"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1653"/>
         <source>Removed</source>
         <translation>已删除</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1659"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1659"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1646"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1646"/>
         <source>You have been removed from the room due to an affiliation change</source>
         <translation>因为附属关系的改变你已经从聊天室被删除了</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1660"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1660"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1647"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1647"/>
         <source>You have been removed from the room by %1 due to an affiliation change</source>
         <translation>你因为附属关系的改变已经被 %1 从聊天室被删除了</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1661"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1661"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1648"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1648"/>
         <source>%1 has been removed from the room due to an affilliation change</source>
         <translation>%1 因为附属关系的改变已经从聊天室被删除了</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1662"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1662"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1649"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1649"/>
         <source>%1 has been removed from the room by %2 due to an affilliation change</source>
         <translation>%1 因为附属关系的改变已经被 %2 从聊天室被删除了</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1667"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1667"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1654"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1654"/>
         <source>You have been removed from the room because the room was made members only</source>
         <translation>你已经从这个聊天室被删除了, 因为这聊天室是限定成员的</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1668"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1668"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1655"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1655"/>
         <source>You have been removed from the room by %1 because the room was made members only</source>
         <translation>你已经被 %1 从聊天室中删除, 因为此聊天室为成员限定</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1669"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1669"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1656"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1656"/>
         <source>%1 has been removed from the room because the room was made members-only</source>
         <translation>%1 已经从这个聊天室被删除了, 因为这聊天室是限定成员的</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1670"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1670"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1657"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1657"/>
         <source>%1 has been removed from the room by %2 because the room was made members-only</source>
         <translation>%1 已经被 %2 从这个聊天室删除了, 因为这聊天室是限定成员的</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1676"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1676"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1663"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1663"/>
         <source>%1 is now known as %2</source>
         <translation>%1 现在叫做 %2</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1680"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1680"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1667"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1667"/>
         <source>%1 has left the room</source>
         <translation>%1 已经离开聊天室</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1750"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1750"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1737"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1737"/>
         <source>The topic has been set to</source>
         <translation>该主题已被设置为</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1753"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1753"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1740"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1740"/>
         <source> has unset the topic</source>
         <translation>已取消设置的话题</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1753"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1753"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1740"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1740"/>
         <source> has set the topic to</source>
         <translation>已成立的主题</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1817"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1817"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1804"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1804"/>
         <source>Connected.</source>
         <translation>已连接。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2251"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2251"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2238"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2238"/>
         <source>Save</source>
         <translation>保存</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2252"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2252"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2239"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2239"/>
         <source>Delete</source>
         <translation>删除</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2253"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2253"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2240"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2240"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2262"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2262"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2249"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2249"/>
         <source>&amp;Name:</source>
         <translation>名称(&amp;N):</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2263"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2263"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2250"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2250"/>
         <source>N&amp;ick:</source>
         <translation>昵称(&amp;I):</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2264"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2264"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2251"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2251"/>
         <source>&amp;Auto join:</source>
         <translation>自动加入:(&amp;A)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2275"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2275"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2262"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2262"/>
         <source>Bookmark conference</source>
         <translation>书签会议</translation>
     </message>
@@ -9137,6 +9142,14 @@ to play gomoku. He wants to play %2.</source>
     </message>
 </context>
 <context>
+    <name>JT_VCard</name>
+    <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1150"/>
+        <source>No VCard available</source>
+        <translation type="unfinished">没有可用的虚拟名片</translation>
+    </message>
+</context>
+<context>
     <name>JabberDiskPlugin</name>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/jabberdiskplugin/jabberdiskplugin.cpp" line="201"/>
@@ -9854,14 +9867,14 @@ Incoming event(s) from:</source>
         <translation>正在连接中</translation>
     </message>
     <message>
-        <location filename="../tmp/src/mainwin.cpp" line="1787"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1763"/>
+        <location filename="../tmp/src/mainwin.cpp" line="1788"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1764"/>
         <source>1 event received</source>
         <translation>接收到 1 个事件</translation>
     </message>
     <message>
-        <location filename="../tmp/src/mainwin.cpp" line="1790"/>
-        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1766"/>
+        <location filename="../tmp/src/mainwin.cpp" line="1791"/>
+        <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1767"/>
         <source>%1 events received</source>
         <translation>接收到 %1 个事件</translation>
     </message>
@@ -15967,58 +15980,58 @@ Reason: %1.</source>
         <translation>输入指令...</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psichatdlg.cpp" line="498"/>
-        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="498"/>
+        <location filename="../tmp/src/psichatdlg.cpp" line="500"/>
+        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="500"/>
         <source>Find toolbar</source>
         <translation>查找工具栏</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psichatdlg.cpp" line="570"/>
-        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="570"/>
+        <location filename="../tmp/src/psichatdlg.cpp" line="572"/>
+        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="572"/>
         <source>Chat Toolbar</source>
         <translation>对话工具</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psichatdlg.cpp" line="694"/>
-        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="694"/>
+        <location filename="../tmp/src/psichatdlg.cpp" line="696"/>
+        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="696"/>
         <source>Contact has been switched: %1</source>
         <translation>联系已接通: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psichatdlg.cpp" line="875"/>
-        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="875"/>
+        <location filename="../tmp/src/psichatdlg.cpp" line="877"/>
+        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="877"/>
         <source>Warning</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psichatdlg.cpp" line="876"/>
-        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="876"/>
+        <location filename="../tmp/src/psichatdlg.cpp" line="878"/>
+        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="878"/>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
         <translation>确定想要清除聊天窗口么?
 (注意: 不会影响保存的历史记录)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psichatdlg.cpp" line="976"/>
-        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="976"/>
+        <location filename="../tmp/src/psichatdlg.cpp" line="978"/>
+        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="978"/>
         <source>Error: Can not parse command: </source>
         <translation>错误: 无法分析指令: </translation>
     </message>
     <message>
-        <location filename="../tmp/src/psichatdlg.cpp" line="985"/>
-        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="985"/>
+        <location filename="../tmp/src/psichatdlg.cpp" line="987"/>
+        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="987"/>
         <source>Command&gt;</source>
         <translation>指令&gt;</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psichatdlg.cpp" line="1108"/>
-        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="1108"/>
+        <location filename="../tmp/src/psichatdlg.cpp" line="1117"/>
+        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="1117"/>
         <source>turn off autojid</source>
         <translation>自动关闭JID</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psichatdlg.cpp" line="1111"/>
-        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="1111"/>
+        <location filename="../tmp/src/psichatdlg.cpp" line="1120"/>
+        <location filename="../../psi-plus-snapshots/src/psichatdlg.cpp" line="1120"/>
         <source>turn on autojid</source>
         <translation>自动打开JID</translation>
     </message>
@@ -16892,17 +16905,17 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptionseditor.cpp" line="282"/>
-        <location filename="../../psi-plus-snapshots/src/psioptionseditor.cpp" line="298"/>
+        <location filename="../../psi-plus-snapshots/src/psioptionseditor.cpp" line="296"/>
         <source>Psi+: Option Editor</source>
         <translation>Psi+: 选项编辑器</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psioptionseditor.cpp" line="293"/>
+        <location filename="../../psi-plus-snapshots/src/psioptionseditor.cpp" line="292"/>
         <source>Really reset options %1 to default value?</source>
         <translation>确定重置选项 %1 为默认值?</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psioptionseditor.cpp" line="296"/>
+        <location filename="../../psi-plus-snapshots/src/psioptionseditor.cpp" line="294"/>
         <source>Really reset all options starting with %1. to default value?</source>
         <translation>确定重置所有开头为 %1 的选项到默认值?</translation>
     </message>
@@ -16984,92 +16997,77 @@ Proceed?</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2942"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2910"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2942"/>
         <source>Username</source>
         <translation>用户名称</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2943"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2911"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2943"/>
         <source>Nickname</source>
         <translation>昵称</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2944"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2912"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2944"/>
         <source>Password</source>
         <translation>密码</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2945"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2913"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2945"/>
         <source>Name</source>
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2946"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2914"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2946"/>
         <source>First Name</source>
         <translation>名</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2947"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2915"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2947"/>
         <source>Last Name</source>
         <translation>姓</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2948"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2916"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2948"/>
         <source>E-mail</source>
         <translation>E-Mail</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2949"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2917"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2949"/>
         <source>Address</source>
         <translation>地址</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2950"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2918"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2950"/>
         <source>City</source>
         <translation>城市</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2951"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2919"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2951"/>
         <source>State</source>
         <translation>州</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2952"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2920"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2952"/>
         <source>Zipcode</source>
         <translation>邮编</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2953"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2921"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2953"/>
         <source>Phone</source>
         <translation>电话</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2954"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2922"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2954"/>
         <source>URL</source>
         <translation>URL</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2955"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2923"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2955"/>
         <source>Date</source>
         <translation>日期</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2956"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2924"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2956"/>
         <source>Misc</source>
         <translation>其它</translation>
     </message>
@@ -17686,20 +17684,20 @@ Description: </source>
         <translation>描述:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1166"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1166"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1153"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1153"/>
         <source>Warning: %1 is deprecated and will be removed in the future</source>
         <translation>警告: %1 不适用且未来将会删除</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1169"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1169"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1156"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1156"/>
         <source>Please set a shortcut for &apos;Change to quick command mode&apos;, use that shortcut and enter &apos;%1&apos;.</source>
         <translation>租赁设置“更改快捷命令模式”的快捷方式，使用该快捷方式并输入&apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1171"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1171"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1158"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1158"/>
         <source>Please instead press %1 and enter &apos;%2&apos;.</source>
         <translation>请代替按%1然后输入&apos;%2&apos;</translation>
     </message>
@@ -21414,7 +21412,7 @@ Note: Some server may disable transport registration to users from different ser
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/typeaheadfind.cpp" line="109"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/typeaheadfind.cpp" line="109"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/typeaheadfind.cpp" line="109"/>
-        <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="167"/>
+        <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="169"/>
         <source>&amp;Case sensitive</source>
         <translation>区分大小写(&amp;C)</translation>
     </message>
@@ -21447,19 +21445,19 @@ Note: Some server may disable transport registration to users from different ser
         <translation>最后一页</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="151"/>
+        <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="153"/>
         <source>Search</source>
         <translation>搜索</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="155"/>
         <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="157"/>
+        <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="159"/>
         <source>Find next</source>
         <translation>查找下一个</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="161"/>
         <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="163"/>
+        <location filename="../../psi-plus-snapshots/src/widgets/typeaheadfind.cpp" line="165"/>
         <source>Find previous</source>
         <translation>查找上一个</translation>
     </message>
@@ -21553,12 +21551,12 @@ Note: Some server may disable transport registration to users from different ser
 <context>
     <name>VideoStatusChanger</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/videostatusplugin/videostatusplugin.cpp" line="404"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/videostatusplugin/videostatusplugin.cpp" line="405"/>
         <source>Authors: </source>
         <translation>作者:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/videostatusplugin/videostatusplugin.cpp" line="405"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/videostatusplugin/videostatusplugin.cpp" line="406"/>
         <source>This plugin is designed to set the custom status when you watching the video in selected video players. 
 Note: This plugin is designed to work in Linux family operating systems and in Windows OS. 
 
@@ -22374,8 +22372,7 @@ Do you still want to close the window?</source>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1150"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1082"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1149"/>
         <source>No VCard available</source>
         <translation>没有可用的虚拟名片</translation>
     </message>
