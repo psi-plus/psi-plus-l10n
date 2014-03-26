@@ -4242,27 +4242,27 @@ Proceed?</source>
     <message>
         <location filename="../tmp/src/creategroup.ui" line="14"/>
         <source>Create New Group</source>
-        <translation type="unfinished">Создание новой группы</translation>
+        <translation>Создание новой группы</translation>
     </message>
     <message>
         <location filename="../tmp/src/creategroup.ui" line="20"/>
         <source>Choose parent group: </source>
-        <translation type="unfinished"></translation>
+        <translation>Родительская группа: </translation>
     </message>
     <message>
         <location filename="../tmp/src/creategroup.ui" line="39"/>
         <source>Enter the new group name:</source>
-        <translation type="unfinished">Введите название новой группы:</translation>
+        <translation>Введите название новой группы:</translation>
     </message>
     <message>
         <location filename="../tmp/src/creategroup.ui" line="51"/>
         <source>Add</source>
-        <translation type="unfinished">Добавить</translation>
+        <translation>Добавить</translation>
     </message>
     <message>
         <location filename="../tmp/src/creategroupdlg.cpp" line="73"/>
         <source>&lt;None&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Нет&gt;</translation>
     </message>
 </context>
 <context>
