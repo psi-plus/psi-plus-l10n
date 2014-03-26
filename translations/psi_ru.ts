@@ -462,255 +462,310 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
 <context>
     <name>AccountModify</name>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="14"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="14"/>
         <source>Account Properties</source>
         <translation>Настройки аккаунта</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="22"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="22"/>
         <source>Name:</source>
         <translation>Имя:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="41"/>
+        <location filename="../tmp/src/accountmodify.ui" line="53"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="41"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="53"/>
         <source>Account</source>
         <translation>Аккаунт</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="76"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="76"/>
         <source>Example: juliet@capulet.com</source>
         <translation>Например: vika@jabber.ru</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="83"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="83"/>
         <source>XMPP Address:</source>
         <translation>XMPP адрес:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="103"/>
+        <location filename="../tmp/src/accountmodify.ui" line="954"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="103"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="954"/>
         <source>Password:</source>
         <translation>Пароль:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="117"/>
+        <location filename="../tmp/src/accountmodify.ui" line="1089"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="117"/>
         <source>Change...</source>
         <translation>Изменить...</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="129"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="129"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="141"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="141"/>
         <source>Automatically connect on startup</source>
         <translation>Автоматически входить в сеть при запуске</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="148"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="148"/>
         <source>Automatically connect after sleep</source>
         <translation>Автоматически входить после спящего режима</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="155"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="155"/>
         <source>Restore last status</source>
         <translation>Восстанавливать последний статус</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="162"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="162"/>
         <source>Automatically reconnect if disconnected</source>
         <translation>Автоматически восстанавливать соединение</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="169"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="169"/>
         <source>Log message history</source>
         <translation>Вести историю сообщений</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="196"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="196"/>
         <source>Details</source>
         <translation>Подробности</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="208"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="208"/>
         <source>Personal Information</source>
         <translation>Личная информация</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="220"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="220"/>
         <source>&lt;qt&gt;Information about you is stored as a VCard on the server, which other people can retrieve at any time.&lt;/qt&gt;</source>
         <translation>&lt;qt&gt;Информация хранится на сервере в виде визитной карточки vCard и каждый пользователь может посмотреть её в любой момент.&lt;/qt&gt;</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="254"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="254"/>
         <source>Edit Personal &amp;Details...</source>
         <translation>&amp;Изменить личную информацию...</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="266"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="266"/>
         <source>OpenPGP</source>
         <translation>OpenPGP</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="295"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="295"/>
         <source>placeholder2</source>
         <translation>placeholder2</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="328"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="328"/>
         <source>Select &amp;Key...</source>
         <translation>Выбрать &amp;ключ...</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="335"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="335"/>
         <source>Use None</source>
         <translation>Не использовать</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="364"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="364"/>
         <source>Privacy</source>
         <translation>Приватность</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="435"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="435"/>
         <source>Blocked Contacts</source>
         <translation>Заблокированные контакты</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="458"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="458"/>
         <source>Add</source>
         <translation>Добавить</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="465"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="465"/>
         <source>Remove</source>
         <translation>Удалить</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="498"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="498"/>
         <source>You are using advanced settings. This list may not be accurate.</source>
         <translation>Вы используете списки приватности. Эти списки могут быть не совсем корректны.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="521"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="521"/>
         <source>Advanced ...</source>
         <translation>Настройка</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="535"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="535"/>
         <source>Connection</source>
         <translation>Соединение</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="555"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="555"/>
         <source>Connection proxy:</source>
         <translation>Прокси-сервер:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="562"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="562"/>
         <source>proxychooser</source>
         <translation>proxychooser</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="571"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="571"/>
         <source>Compress traffic (if possible)</source>
         <translation>Сжимать трафик (если возможно)</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="578"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="578"/>
         <source>Send &quot;keep-alive&quot; packets (to prevent timeouts)</source>
         <translation>Отправлять &quot;keep-alive&quot; пакеты (для поддержания соединения)</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="585"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="585"/>
         <source>Manually Specify Server Host/Port:</source>
         <translation>Вручную указать адрес сервера и порт:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="600"/>
+        <location filename="../tmp/src/accountmodify.ui" line="913"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="600"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="913"/>
         <source>Host:</source>
         <translation>Сервер:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="610"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="610"/>
         <source>Port:</source>
         <translation>Порт:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="643"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="643"/>
         <source>Encrypt connection:</source>
         <translation>Шифровать соединение:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="689"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="689"/>
         <source>Allow plaintext authentication:</source>
         <translation>Аутентификация открытым текстом:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="727"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="727"/>
         <source>Require mutual authentication</source>
         <translation>Требовать взаимную аутентификацию</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="742"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="742"/>
         <source>SASL Security Level:</source>
         <translation>Уровень безопасности SASL:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="797"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="797"/>
         <source>Misc.</source>
         <translation>Другое</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="805"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="805"/>
         <source>Resource:</source>
         <translation>Ресурс:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="835"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="835"/>
         <source>Default priority:</source>
         <translation>Приоритет по умолчанию:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="869"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="869"/>
         <source>Data Transfer</source>
         <translation>Передача данных</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="875"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="875"/>
         <source>In-Band only (slow)</source>
         <translation>Только In-Band (медленно)</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="890"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="890"/>
         <source>Proxy:</source>
         <translation>Прокси-сервер:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="905"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="905"/>
         <source>STUN/TURN</source>
         <translation>STUN/TURN</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="940"/>
+        <location filename="../tmp/src/accountmodify.ui" line="991"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="940"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="991"/>
         <source>Username:</source>
         <translation>Имя пользователя:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="973"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="973"/>
         <source>Authenticate as:</source>
         <translation>Авторизоваться как:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="1014"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="1014"/>
         <source>Realm:</source>
         <translation>Полное имя:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="1036"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="1036"/>
         <source>&lt;b&gt;Attention!&lt;/b&gt;
 &lt;br/&gt;
@@ -720,166 +775,207 @@ When you enable this option you will not be able to find your password in config
 При включении этой опции вы не сможете найти свой пароль в конфигурационных файлах программы. Там будет лишь текст хэша. Поэтому, если вы забудете пароль, он будет утерян безвозвратно. Рекомендуется записать резервную копию пароля где-либо в другом месте.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="1041"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="1041"/>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
         <translation>Хранить хэш вместо текста пароля, если сервер поддерживает авторизацию по хэшу.</translation>
+    </message>
+    <message>
+        <location filename="../tmp/src/accountmodify.ui" line="1050"/>
+        <source>Nested groups delimiter: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="108"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="115"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="107"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="114"/>
         <source>Always</source>
         <translation>Всегда</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="109"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="108"/>
         <source>When available</source>
         <translation>Если возможно</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="110"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="117"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="109"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="116"/>
         <source>Never</source>
         <translation>Никогда</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="111"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="110"/>
         <source>Legacy SSL</source>
         <translation>Традиционный SSL</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="116"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="115"/>
         <source>Over encrypted connection</source>
         <translation>Если соединение шифруется</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="132"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="131"/>
         <source>Manual</source>
         <translation>Вручную</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="133"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="132"/>
         <source>Use host name</source>
         <translation>Использовать имя хоста</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="136"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="135"/>
         <source>Fixed</source>
         <translation>Фиксированно</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="137"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="136"/>
         <source>Depends on status</source>
         <translation>Зависит от статуса</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="161"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="160"/>
         <source>Delete current host from the list</source>
         <translation>Удалить адрес из списка</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="165"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="164"/>
         <source>&lt;don&apos;t use&gt;</source>
         <translation>&lt;не использовать&gt;</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="193"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="192"/>
         <source>None</source>
         <translation>Нет</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="194"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="193"/>
         <source>Integrity</source>
         <translation>Целостность</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="195"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="194"/>
         <source>Baseline</source>
         <translation>Базовый</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="196"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="195"/>
         <source>High</source>
         <translation>Высокий</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="197"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="196"/>
         <source>Highest</source>
         <translation>Высочайший</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="233"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="228"/>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
         <translation>Обычно Psi регистрируется в сети, используя режим аутентификации, при котором пароль не передаётся в открытом виде. Отметьте эту опцию, если хотите использовать базовую аутентификацию (пароль передаётся в открытом виде). Рекомендуется делать это только тогда, когда у вас возникают проблемы с обычной процедурой регистрации в сети, так как теоретически этот способ делает соединение уязвимым.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="240"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="235"/>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
         <translation>Автоматически регистрироваться в сети при запуске, используя этот аккаунт. Полезно, если Psi запускается самостоятельно при обнаружении соединения с Интернетом.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="244"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="239"/>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
         <translation>Заставит Psi подключиться когда компьютер выйдет из спящего режима.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="247"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="242"/>
         <source>Makes Psi try to reconnect if the connection was broken.  Useful, if you have an unstable connection and have to reconnect often.</source>
         <translation>Восстанавливать соединение при его разрыве. Полезно, когда соединение нестабильно и вам часто приходится подключаться снова.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="251"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="246"/>
         <source>Keep a log of message history.  Disable this option if you want to conserve disk space or if you need maximum security.</source>
         <translation>Хранить историю сообщений. Не включайте эту опцию, если хотите сохранить свободное место на жестком диске или если хотите обеспечить наибольшую безопасность.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="255"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="250"/>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
         <translation>Периодически отправлять пакеты для поддержания соединения. Полезно, если ваше соединение автоматически разрывается после определённого периода бездействия (например, вашим поставщиком услуг Интернета), а вы этого не хотите.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="261"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="256"/>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
         <translation>Включите эту опцию для использования зашифрованного SSL соединения к XMPP серверу.  Вы можете использовать эту опцию если ваш сервер это поддерживает и у вас установлен модуль QCA-OpenSSL.  Для дополнительной информации посетите домашнюю страницу проекта Psi+.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="267"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="262"/>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
         <translation>Включите эту опцию, если вам нужно сжатие передачи данных и если ваш XMPP сервер это поддерживает.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="270"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="265"/>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
         <translation>Используйте эту опцию для указания имени сервера XMPP вручную, если оно отличается от имени сервера, с которым устанавливается соединение. Это полезно, если вы подключаетесь через прокси-сервер на вашем компьютере (например, если вы подключаетесь к серверу localhost), а аккаунт зарегистрирован на внешнем сервере.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="276"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="271"/>
         <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
         <translation>У вас может быть несколько клиентов, подключённых к серверу XMPP и использующих один аккаунт. Клиент идентифицируется именем &quot;ресурса&quot;, которое можно указать здесь.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="280"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="275"/>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
         <translation>Эта опция устанавливает имя пользователя (и полное имя), которое вам нужно для аутентификации на сервере. Это устанавливает XMPP адрес, под которым вы будете входить на сервер.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="284"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="279"/>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
         <translation>&lt;p&gt;У вас может быть несколько клиентов, подключённых к серверу XMPP и использующих один аккаунт. Сообщения, для которых не указан &quot;ресурс-получатель&quot; будут доставляться ресурсу с наибольшим приоритетом (указываемом здесь).&lt;/p&gt;&lt;p&gt;Например, если у вас постоянное соединение с Интернетом на работе и модемное - дома, вы можете оставлять клиент XMPP на работе постоянно работающим с низким приоритетом. При этом вы сможете пользоваться тем же аккаунтом при работе дома с помощью клиента с более высоким приоритетом, чтобы временно перехватывать сообщения у клиента, запущенного на рабочем месте.&lt;/p&gt;</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="304"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="299"/>
         <source>Username:</source>
         <translation>Имя пользователя:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="400"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="395"/>
         <source>No Key Selected</source>
         <translation>Ключ не выбран</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="430"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="530"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="533"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="425"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="517"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="520"/>
@@ -887,76 +983,91 @@ When you enable this option you will not be able to find your password in config
         <translation>Ошибка</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="430"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="425"/>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
         <translation>Традиционный SSL доступен только в комбинации с ручным выставлением адреса сервера и порта.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="438"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="433"/>
         <source>SSL error</source>
         <translation>Ошибка SSL</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="438"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="433"/>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
         <translation>Невозможно включить шифрование SSL/TLS. Модуль не найден.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="465"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="460"/>
         <source>Secret Key</source>
         <translation>Приватный ключ</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="530"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="517"/>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
         <translation>&lt;i&gt;Имя пользователя&lt;/i&gt; указано неправильно.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="533"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="520"/>
         <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
         <translation>&lt;i&gt;XMPP адрес&lt;/i&gt; должен быть указан в формате &lt;i&gt;user@host&lt;/i&gt;.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="609"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="596"/>
         <source>Warning</source>
         <translation>Предупреждение</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="610"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="597"/>
         <source>This account is currently active, so certain changes may not take effect until the next login.</source>
         <translation>Этот аккаунт сейчас активен, поэтому некоторые изменения  вступят в силу после переподключения.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="612"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="599"/>
         <source>Reconnect &amp;Later</source>
         <translation>Переподключиться &amp;позднее</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="613"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="600"/>
         <source>Reconnect &amp;Now</source>
         <translation>Переподключиться &amp;сейчас</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="643"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="630"/>
         <source>Block contact</source>
         <translation>Заблокировать контакт</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="643"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="630"/>
         <source>Enter the XMPP Address of the contact to block:</source>
         <translation>Введите XMPP адрес контакта для блокировки:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="674"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="661"/>
         <source>Retrieving blocked contact list ...</source>
         <translation>Получение списка заблокированных контактов...</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="683"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="670"/>
         <source>You are not connected.</source>
         <translation>Вы не присоединены к серверу.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="712"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="699"/>
         <source>Your server does not support blocking.</source>
         <translation>Ваш сервер не поддерживает блокировку контактов.</translation>
@@ -15081,49 +15192,59 @@ Details: %1</source>
         <translation>Для выполнения операции необходимо сначала подключиться к серверу.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3524"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3511"/>
+        <source>Nested Groups Delimiter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../tmp/src/psiaccount.cpp" line="3512"/>
+        <source>Set a new delimiter of nested groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../tmp/src/psiaccount.cpp" line="3544"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3511"/>
         <source>Unregister from %1</source>
         <translation>Отмена регистрации на %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3525"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3545"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3512"/>
         <source>Are you sure?</source>
         <translation>Вы уверены?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4118"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4138"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4089"/>
         <source>Name:	</source>
         <translation>Название:	</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4119"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4139"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4090"/>
         <source>Version:	</source>
         <translation>Версия:	</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4120"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4140"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4091"/>
         <source>Os:	</source>
         <translation>ОС:	</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4122"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4142"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4093"/>
         <source>Version Query Information</source>
         <translation>Информация запроса версии</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="5375"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="5395"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="5344"/>
         <source>Headline</source>
         <translation>Объявление</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6187"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6207"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6154"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
@@ -15131,19 +15252,19 @@ Reason: %1.</source>
 Причина: %1.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6297"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6317"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6264"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[Ошибка: сообщение зашифровано, и невозможно его расшифровать.]</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6622"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6642"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6589"/>
         <source>No key</source>
         <translation>Нет ключа</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6622"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6642"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6589"/>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Невозможно найти ключ OpenPGP для использования с &lt;b&gt;%1&lt;/b&gt;.
@@ -15151,19 +15272,19 @@ Reason: %1.</source>
 Это могло произойти, если у вас нет ключа, который контакт указывает в своём &quot;подписанном присутствии&quot;, или он вообще не указывает ключа.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6627"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6647"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6594"/>
         <source>&amp;Choose key manually</source>
         <translation>&amp;Выбрать ключ вручную</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6627"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6647"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6594"/>
         <source>Do &amp;nothing</source>
         <translation>О&amp;тмена</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6634"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6654"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6601"/>
         <source>Public Key: %1</source>
         <translation>Публичный ключ: %1</translation>
@@ -23279,62 +23400,62 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>Psi+ OTR</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="651"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="652"/>
         <source>OTR Plugin: event from %1</source>
         <translation>OTR плагин: событие от %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="697"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="700"/>
         <source>Attempting to refresh the private conversation</source>
         <translation>Попытка возобновить личную переписку</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="698"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="701"/>
         <source>Attempting to start a private conversation</source>
         <translation>Попытка начать личную переписку</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="702"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="705"/>
         <source>Private conversation started</source>
         <translation>Личная переписка начата</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="703"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="706"/>
         <source>Unverified conversation started</source>
         <translation>Непроверенная переписка начата</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="709"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="712"/>
         <source>Private conversation lost</source>
         <translation>Личная переписка утеряна</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="714"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="717"/>
         <source>Private conversation closed</source>
         <translation>Личная переписка закрыта</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="719"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="722"/>
         <source>%1 has ended the private conversation with you; you should do the same.</source>
         <translation>%1 завершил личную переписку с вами, сделайте то же самое.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="726"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="729"/>
         <source>Private conversation refreshed</source>
         <translation>Личная переписка возобновлена</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="727"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="730"/>
         <source>Unverified conversation refreshed</source>
         <translation>Непроверенная переписка возобновлена</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="733"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="736"/>
         <source>Contact authenticated</source>
         <translation>Контакт аутентифицирован</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="734"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="737"/>
         <source>Contact not authenticated</source>
         <translation>Контакт не аутентифицирован</translation>
     </message>

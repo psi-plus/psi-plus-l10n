@@ -458,255 +458,310 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
 <context>
     <name>AccountModify</name>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="14"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="14"/>
         <source>Account Properties</source>
         <translation>Thuộc tính Tài khoản</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="22"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="22"/>
         <source>Name:</source>
         <translation>Tên:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="41"/>
+        <location filename="../tmp/src/accountmodify.ui" line="53"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="41"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="53"/>
         <source>Account</source>
         <translation>Tài khoản</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="76"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="76"/>
         <source>Example: juliet@capulet.com</source>
         <translation>Thí dụ : nguyenvan@vnoss.org</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="83"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="83"/>
         <source>XMPP Address:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="103"/>
+        <location filename="../tmp/src/accountmodify.ui" line="954"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="103"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="954"/>
         <source>Password:</source>
         <translation>Mật khẩu :</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="117"/>
+        <location filename="../tmp/src/accountmodify.ui" line="1089"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="117"/>
         <source>Change...</source>
         <translation>Đổi...</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="129"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="129"/>
         <source>Settings</source>
         <translation>Thiết lập</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="141"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="141"/>
         <source>Automatically connect on startup</source>
         <translation>Tự động kết nối khi khởi chạy</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="148"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="148"/>
         <source>Automatically connect after sleep</source>
         <translation>Tự động kết nối sau khi ngủ</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="155"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="155"/>
         <source>Restore last status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="162"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="162"/>
         <source>Automatically reconnect if disconnected</source>
         <translation>Tự động tái kết nối khi bị ngắt kết nối</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="169"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="169"/>
         <source>Log message history</source>
         <translation>Ghi lưu lược sử tin nhẳn</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="196"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="196"/>
         <source>Details</source>
         <translation>Chi tiết</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="208"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="208"/>
         <source>Personal Information</source>
         <translation>Thông tin cá nhân</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="220"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="220"/>
         <source>&lt;qt&gt;Information about you is stored as a VCard on the server, which other people can retrieve at any time.&lt;/qt&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="254"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="254"/>
         <source>Edit Personal &amp;Details...</source>
         <translation>Sửa ch&amp;i tiết cá nhân...</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="266"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="266"/>
         <source>OpenPGP</source>
         <translation>OpenPGP</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="295"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="295"/>
         <source>placeholder2</source>
         <translation>placeholder2</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="328"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="328"/>
         <source>Select &amp;Key...</source>
         <translation>Chọn &amp;khoá...</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="335"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="335"/>
         <source>Use None</source>
         <translation>Không dùng</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="364"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="364"/>
         <source>Privacy</source>
         <translation>Riêng tư</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="435"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="435"/>
         <source>Blocked Contacts</source>
         <translation>Liên lạc bị chăn</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="458"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="458"/>
         <source>Add</source>
         <translation>Thêm</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="465"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="465"/>
         <source>Remove</source>
         <translation>Bỏ</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="498"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="498"/>
         <source>You are using advanced settings. This list may not be accurate.</source>
         <translation>Bạn đang sử dụng thiết lập cấp cao. Có thể là danh sách này không phải chính xác.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="521"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="521"/>
         <source>Advanced ...</source>
         <translation>Cấp cao ...</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="535"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="535"/>
         <source>Connection</source>
         <translation>Kết nối</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="555"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="555"/>
         <source>Connection proxy:</source>
         <translation>Ủy nhiệm kết nối:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="562"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="562"/>
         <source>proxychooser</source>
         <translation>proxychooser</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="571"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="571"/>
         <source>Compress traffic (if possible)</source>
         <translation>Nén trọng tải (nếu có thể)</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="578"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="578"/>
         <source>Send &quot;keep-alive&quot; packets (to prevent timeouts)</source>
         <translation>Gửi gói tin « cứ hoạt động » để tránh bị quá hạn</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="585"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="585"/>
         <source>Manually Specify Server Host/Port:</source>
         <translation>Tự ghi rõ máy/cổng phục vụ :</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="600"/>
+        <location filename="../tmp/src/accountmodify.ui" line="913"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="600"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="913"/>
         <source>Host:</source>
         <translation>Máy:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="610"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="610"/>
         <source>Port:</source>
         <translation>Cổng:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="643"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="643"/>
         <source>Encrypt connection:</source>
         <translation>Mật mã hoá kết nối:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="689"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="689"/>
         <source>Allow plaintext authentication:</source>
         <translation>Cho phép xác thực nhập thô :</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="727"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="727"/>
         <source>Require mutual authentication</source>
         <translation>Cần thiết xác thực lẫn nhau</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="742"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="742"/>
         <source>SASL Security Level:</source>
         <translation>Cấp bảo mật SASL:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="797"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="797"/>
         <source>Misc.</source>
         <translation>Linh tinh</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="805"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="805"/>
         <source>Resource:</source>
         <translation>Tài nguyên:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="835"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="835"/>
         <source>Default priority:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="869"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="869"/>
         <source>Data Transfer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="875"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="875"/>
         <source>In-Band only (slow)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="890"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="890"/>
         <source>Proxy:</source>
         <translation type="unfinished">Ủy nhiệm:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="905"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="905"/>
         <source>STUN/TURN</source>
         <translation>STUN/TURN</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="940"/>
+        <location filename="../tmp/src/accountmodify.ui" line="991"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="940"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="991"/>
         <source>Username:</source>
         <translation>Tên người dùng:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="973"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="973"/>
         <source>Authenticate as:</source>
         <translation>Xác thực là:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="1014"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="1014"/>
         <source>Realm:</source>
         <translation>Miền:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="1036"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="1036"/>
         <source>&lt;b&gt;Attention!&lt;/b&gt;
 &lt;br/&gt;
@@ -714,166 +769,207 @@ When you enable this option you will not be able to find your password in config
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodify.ui" line="1041"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="1041"/>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../tmp/src/accountmodify.ui" line="1050"/>
+        <source>Nested groups delimiter: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="108"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="115"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="107"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="114"/>
         <source>Always</source>
         <translation>Luôn luôn</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="109"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="108"/>
         <source>When available</source>
         <translation>Khi sẵn sàng</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="110"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="117"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="109"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="116"/>
         <source>Never</source>
         <translation>Không bao giờ</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="111"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="110"/>
         <source>Legacy SSL</source>
         <translation>SSL thừa tự</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="116"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="115"/>
         <source>Over encrypted connection</source>
         <translation>Qua kết nối đã mật mã</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="132"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="131"/>
         <source>Manual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="133"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="132"/>
         <source>Use host name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="136"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="135"/>
         <source>Fixed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="137"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="136"/>
         <source>Depends on status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="161"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="160"/>
         <source>Delete current host from the list</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="165"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="164"/>
         <source>&lt;don&apos;t use&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="193"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="192"/>
         <source>None</source>
         <translation>Không có</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="194"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="193"/>
         <source>Integrity</source>
         <translation>Tính nguyên vẹn</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="195"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="194"/>
         <source>Baseline</source>
         <translation>Đường cơ bản</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="196"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="195"/>
         <source>High</source>
         <translation>Cao</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="197"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="196"/>
         <source>Highest</source>
         <translation>Cao nhất</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="233"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="228"/>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="240"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="235"/>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
         <translation>Tự động đăng nhập vào tài khoản này khi khởi chạy Psi.  Hữu ích nếu bạn lập Psi tự động khởi chạy khi phát hiện kết nối Mạng.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="244"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="239"/>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
         <translation>Làm cho Psi thử tái kết nối khi máy tính tiếp tục lại đằng sau một khoảng thời gian ngủ.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="247"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="242"/>
         <source>Makes Psi try to reconnect if the connection was broken.  Useful, if you have an unstable connection and have to reconnect often.</source>
         <translation>Làm cho Psi tự động thử đăng nhập lại nếu kết nối bị ngắt.  Có ích nếu bạn có kết nối Mạng dễ đổ nên phải tái kết nối nhiều lần.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="251"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="246"/>
         <source>Keep a log of message history.  Disable this option if you want to conserve disk space or if you need maximum security.</source>
         <translation>Ghi lưu lược sự các tin nhẳn.  Tắt tùy chọn này nếu bạn muốn bảo toàn sức chứa trên đĩa hoặc cần thiết bảo mật tối đa.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="255"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="250"/>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
         <translation>Gởi các gói tin gọi là « cứ hoạt động » theo định kỷ.  Có ích nếu kết nối tự động bị ngắt tự động sau một khoảng thời gian không hoạt động (v.d. do nhà cung cấp dịch vụ Mạng) còn bạn muốn kết nối luôn.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="261"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="256"/>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="267"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="262"/>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="270"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="265"/>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="276"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="271"/>
         <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="280"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="275"/>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="284"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="279"/>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="304"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="299"/>
         <source>Username:</source>
         <translation>Tên người dùng:</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="400"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="395"/>
         <source>No Key Selected</source>
         <translation>Chưa chọn khoá</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="430"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="530"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="533"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="425"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="517"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="520"/>
@@ -881,76 +977,91 @@ When you enable this option you will not be able to find your password in config
         <translation>Lỗi</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="430"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="425"/>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
         <translation>SSL thừa tự chỉ sẵn sàng cùng với máy/cổng được nhập bằng tay.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="438"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="433"/>
         <source>SSL error</source>
         <translation>Lỗi SSL</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="438"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="433"/>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
         <translation>Không thể bật SSL/TLS vì không tìm thấy bổ sung.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="465"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="460"/>
         <source>Secret Key</source>
         <translation>Khoá bí mật</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="530"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="517"/>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
         <translation>&lt;i&gt;Tên người dùng&lt;/i&gt; không hợp lệ.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="533"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="520"/>
         <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="609"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="596"/>
         <source>Warning</source>
         <translation>Cảnh báo</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="610"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="597"/>
         <source>This account is currently active, so certain changes may not take effect until the next login.</source>
         <translation>Tài khoản này đang hoạt động thì một số thay đổi có lẽ chỉ có tác động lần đăng nhập kế tiếp.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="612"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="599"/>
         <source>Reconnect &amp;Later</source>
         <translation>Tái kết nối &amp;sau</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="613"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="600"/>
         <source>Reconnect &amp;Now</source>
         <translation>Tái kết nối &amp;ngay</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="643"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="630"/>
         <source>Block contact</source>
         <translation>Chặn liên lạc</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="643"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="630"/>
         <source>Enter the XMPP Address of the contact to block:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="674"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="661"/>
         <source>Retrieving blocked contact list ...</source>
         <translation>Đang lấy danh sách liên lạc bị chặn ...</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="683"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="670"/>
         <source>You are not connected.</source>
         <translation>Không kết nối.</translation>
     </message>
     <message>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="712"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="699"/>
         <source>Your server does not support blocking.</source>
         <translation>Máy phục vụ không hỗ trợ khả năng chặn.</translation>
@@ -14966,49 +15077,59 @@ Chi tiết: %1</translation>
         <translation>Để hoạt động được thì phải kết nối tới máy phục vụ.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3524"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3511"/>
+        <source>Nested Groups Delimiter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../tmp/src/psiaccount.cpp" line="3512"/>
+        <source>Set a new delimiter of nested groups</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../tmp/src/psiaccount.cpp" line="3544"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3511"/>
         <source>Unregister from %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3525"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3545"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3512"/>
         <source>Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4118"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4138"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4089"/>
         <source>Name:	</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4119"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4139"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4090"/>
         <source>Version:	</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4120"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4140"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4091"/>
         <source>Os:	</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4122"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4142"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4093"/>
         <source>Version Query Information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="5375"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="5395"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="5344"/>
         <source>Headline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6187"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6207"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6154"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
@@ -15016,37 +15137,37 @@ Reason: %1.</source>
 Lý do : %1.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6297"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6317"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6264"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[LỖI: tin nhẳn này bị mật mã, bạn không có khả năng giải mã nó.]</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6622"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6642"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6589"/>
         <source>No key</source>
         <translation>Không có khoá</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6622"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6642"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6589"/>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Psi không thể tìm khoá OpenPGP cần sử dụng cho &lt;b&gt;%1&lt;/b&gt;. &lt;br&gt;&lt;br&gt;Có thể xảy ra nếu bạn không có khoá mà liên lạc đang quảng cáo qua sự có mặt đã ký, hoặc nếu liên lạc không quảng cáo khoá nào cả.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6627"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6647"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6594"/>
         <source>&amp;Choose key manually</source>
         <translation>Tự &amp;chọn khoá</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6627"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6647"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6594"/>
         <source>Do &amp;nothing</source>
         <translation>Đừ&amp;ng làm gì</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6634"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6654"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6601"/>
         <source>Public Key: %1</source>
         <translation>Khoá công: %1</translation>
@@ -23058,62 +23179,62 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="651"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="652"/>
         <source>OTR Plugin: event from %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="697"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="700"/>
         <source>Attempting to refresh the private conversation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="698"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="701"/>
         <source>Attempting to start a private conversation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="702"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="705"/>
         <source>Private conversation started</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="703"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="706"/>
         <source>Unverified conversation started</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="709"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="712"/>
         <source>Private conversation lost</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="714"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="717"/>
         <source>Private conversation closed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="719"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="722"/>
         <source>%1 has ended the private conversation with you; you should do the same.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="726"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="729"/>
         <source>Private conversation refreshed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="727"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="730"/>
         <source>Unverified conversation refreshed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="733"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="736"/>
         <source>Contact authenticated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="734"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="737"/>
         <source>Contact not authenticated</source>
         <translation type="unfinished"></translation>
     </message>
