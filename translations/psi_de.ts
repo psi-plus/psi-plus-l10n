@@ -4241,6 +4241,34 @@ Fortfahren?</translation>
     </message>
 </context>
 <context>
+    <name>CreateGroupDlg</name>
+    <message>
+        <location filename="../tmp/src/creategroup.ui" line="14"/>
+        <source>Create New Group</source>
+        <translation type="unfinished">Neue Gruppe erstellen</translation>
+    </message>
+    <message>
+        <location filename="../tmp/src/creategroup.ui" line="20"/>
+        <source>Choose parent group: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../tmp/src/creategroup.ui" line="39"/>
+        <source>Enter the new group name:</source>
+        <translation type="unfinished">Name der neuen Gruppe:</translation>
+    </message>
+    <message>
+        <location filename="../tmp/src/creategroup.ui" line="51"/>
+        <source>Add</source>
+        <translation type="unfinished">Hinzufügen</translation>
+    </message>
+    <message>
+        <location filename="../tmp/src/creategroupdlg.cpp" line="73"/>
+        <source>&lt;None&gt;</source>
+        <translation type="unfinished">&lt;Keine&gt;</translation>
+    </message>
+</context>
+<context>
     <name>DateWidget</name>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/datewidget.cpp" line="97"/>
@@ -7775,16 +7803,19 @@ For sending commands, normal messages are used, so this plugin will always work 
 <context>
     <name>GroupMenu</name>
     <message>
+        <location filename="../tmp/src/psicontactmenu.cpp" line="77"/>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="76"/>
         <source>&amp;None</source>
         <translation>&amp;Keine</translation>
     </message>
     <message>
+        <location filename="../tmp/src/psicontactmenu.cpp" line="96"/>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="95"/>
         <source>&amp;Hidden</source>
         <translation>&amp;Versteckt</translation>
     </message>
     <message>
+        <location filename="../tmp/src/psicontactmenu.cpp" line="99"/>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="98"/>
         <source>&amp;Create New...</source>
         <translation>&amp;Neu erstellen ...</translation>

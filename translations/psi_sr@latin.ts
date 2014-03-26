@@ -4216,6 +4216,34 @@ Da nastavim?</translation>
     </message>
 </context>
 <context>
+    <name>CreateGroupDlg</name>
+    <message>
+        <location filename="../tmp/src/creategroup.ui" line="14"/>
+        <source>Create New Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../tmp/src/creategroup.ui" line="20"/>
+        <source>Choose parent group: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../tmp/src/creategroup.ui" line="39"/>
+        <source>Enter the new group name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../tmp/src/creategroup.ui" line="51"/>
+        <source>Add</source>
+        <translation type="unfinished">Dodaj</translation>
+    </message>
+    <message>
+        <location filename="../tmp/src/creategroupdlg.cpp" line="73"/>
+        <source>&lt;None&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>DateWidget</name>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/datewidget.cpp" line="97"/>
@@ -7744,16 +7772,19 @@ Za slanje komandi, koriste se normalne poruke pa će ovaj dodatak uvek raditi gd
 <context>
     <name>GroupMenu</name>
     <message>
+        <location filename="../tmp/src/psicontactmenu.cpp" line="77"/>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="76"/>
         <source>&amp;None</source>
         <translation>&amp;Bez</translation>
     </message>
     <message>
+        <location filename="../tmp/src/psicontactmenu.cpp" line="96"/>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="95"/>
         <source>&amp;Hidden</source>
         <translation>&amp;Sakriven</translation>
     </message>
     <message>
+        <location filename="../tmp/src/psicontactmenu.cpp" line="99"/>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="98"/>
         <source>&amp;Create New...</source>
         <translation>&amp;Kreraj novo...</translation>
