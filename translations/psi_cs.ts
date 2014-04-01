@@ -790,6 +790,11 @@ When you enable this option you will not be able to find your password in config
         <source>Nested groups delimiter: </source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../tmp/src/accountmodify.ui" line="1096"/>
+        <source>Disable</source>
+        <translation type="unfinished">Vypnout</translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
@@ -894,93 +899,93 @@ When you enable this option you will not be able to find your password in config
         <translation>Nejvyšší</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="233"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="234"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="228"/>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="240"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="241"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="235"/>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
         <translation>Automatické přihlášení k tomuto účtu při startu Psi.  Užitečné, když je Psi spoustěno automaticky při zjistění připojení k Internetu.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="244"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="245"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="239"/>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
         <translation>Nastaví Psi tak, aby se zkoušelo připojit, když se počítač probudí ze spánku.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="247"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="248"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="242"/>
         <source>Makes Psi try to reconnect if the connection was broken.  Useful, if you have an unstable connection and have to reconnect often.</source>
         <translation>Psi se bude snažit znovu navazovat spojení pokud dojde k přerušení spojení.  To je užitečné u nestabilních spojení, kde je nutné časté opětovné připojování.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="251"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="252"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="246"/>
         <source>Keep a log of message history.  Disable this option if you want to conserve disk space or if you need maximum security.</source>
         <translation>Ukládání záznamu s historií zpráv.  Vypni tuto volbu pokud chceš šetřit místo na disku nebo pokud potřebuješ maximální bezpečí.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="255"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="256"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="250"/>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
         <translation>Posílá periodicky tzv. &quot;Keep-alive&quot; (zůstaň-aktivní) pakety.  Použitelné pokud sestavené spojení je automaticky uzavřeno během určité doby neaktivity (např. tvým ISP) a chceš spojení udržet po celou dobu.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="261"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="262"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="256"/>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="267"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="268"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="262"/>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="270"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="271"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="265"/>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="276"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="277"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="271"/>
         <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="280"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="281"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="275"/>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="284"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="285"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="279"/>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="304"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="305"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="299"/>
         <source>Username:</source>
         <translation>Uživatelské jméno:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="400"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="401"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="395"/>
         <source>No Key Selected</source>
         <translation>Není vybrán žádný klíč</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="430"/>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="530"/>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="533"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="431"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="539"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="542"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="425"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="517"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="520"/>
@@ -988,91 +993,91 @@ When you enable this option you will not be able to find your password in config
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="430"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="431"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="425"/>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
         <translation>Zastaralé SSL je dostupné pouze ve spojení s manuálním nastavením serveru/portu.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="438"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="439"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="433"/>
         <source>SSL error</source>
         <translation>Chyba SSL</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="438"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="439"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="433"/>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
         <translation>Není možné zapnout SSL/TLS.  Plugin nenalezen.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="465"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="466"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="460"/>
         <source>Secret Key</source>
         <translation>Tajný klíč</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="530"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="539"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="517"/>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
         <translation>&lt;i&gt;Uživatelské jméno&lt;/i&gt; je neplatné.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="533"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="542"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="520"/>
         <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
         <translation>&lt;i&gt;XMPP adresa&lt;/i&gt; musí být udána ve formátu &lt;i&gt;uživatel@server&lt;/i&gt;.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="609"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="618"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="596"/>
         <source>Warning</source>
         <translation>Varování</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="610"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="619"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="597"/>
         <source>This account is currently active, so certain changes may not take effect until the next login.</source>
         <translation>Tento účet je momentálně používán, takže určité změny se neprojeví dokud se znovu nepřihlásíte.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="612"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="621"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="599"/>
         <source>Reconnect &amp;Later</source>
         <translation>Znovu připojit poz&amp;ději</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="613"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="622"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="600"/>
         <source>Reconnect &amp;Now</source>
         <translation>Znovu připojit hn&amp;ed</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="643"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="652"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="630"/>
         <source>Block contact</source>
         <translation>Blokuj kontakt</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="643"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="652"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="630"/>
         <source>Enter the XMPP Address of the contact to block:</source>
         <translation>Zadejte XMPP adresu kontaktu jenž chcete blokovat:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="674"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="683"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="661"/>
         <source>Retrieving blocked contact list ...</source>
         <translation>Stahuji seznam blokovaných kontaktů...</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="683"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="692"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="670"/>
         <source>You are not connected.</source>
         <translation>Nejste připojen.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="712"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="721"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="699"/>
         <source>Your server does not support blocking.</source>
         <translation>Váš server nepodporuje blokování.</translation>
@@ -14818,7 +14823,7 @@ Zatrhni pole &lt;i&gt;Zapnout Emotikony&lt;/i&gt; pro zobrazení text např. &lt
     </message>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="1464"/>
-        <location filename="../tmp/src/psiaccount.cpp" line="3418"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3431"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="1462"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3405"/>
         <source>Error</source>
@@ -15149,89 +15154,89 @@ Details: %1</source>
 Detaily: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="2772"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="2785"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2764"/>
         <source>Whiteboard invitation</source>
         <translation>Pozvánka k tabuli</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="2936"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="2949"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2928"/>
         <source>Incoming file</source>
         <translation>Příchozí soubor</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="2936"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="2949"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2928"/>
         <source>Do you want to accept %1 (%2 kb) from %3?</source>
         <translation>Mám přijmout %1 (%2 kb) od %3?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="2985"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="2998"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2977"/>
         <source>Logged out</source>
         <translation>Odhlášen</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3419"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3432"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3406"/>
         <source>You must be connected to the server in order to do this.</source>
         <translation>Pro provedení této akce musíš být připojen(a) k serveru.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3511"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3524"/>
         <source>Nested Groups Delimiter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3512"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3525"/>
         <source>Set a new delimiter of nested groups</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3544"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3566"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3511"/>
         <source>Unregister from %1</source>
         <translation>Odhlásit z %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3545"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3567"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3512"/>
         <source>Are you sure?</source>
         <translation>Opravdu?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4138"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4154"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4089"/>
         <source>Name:	</source>
         <translation>Jméno:	</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4139"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4155"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4090"/>
         <source>Version:	</source>
         <translation>Verze:	</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4140"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4156"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4091"/>
         <source>Os:	</source>
         <translation>Os:	</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4142"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4158"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4093"/>
         <source>Version Query Information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="5395"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="5411"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="5344"/>
         <source>Headline</source>
         <translation>Titulek</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6207"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6223"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6154"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
@@ -15239,37 +15244,37 @@ Reason: %1.</source>
 Důvod: %1.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6317"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6333"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6264"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[CHYBA: Tato zpráva je zašifrovaná a ty ji nemůžeš dešifrovat.]</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6642"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6658"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6589"/>
         <source>No key</source>
         <translation>Žádný klíč</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6642"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6658"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6589"/>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Psi nemůže lokalizovat OpenPGP klíč pro použití &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;To se mohlo stát pokud nemáš klíč, který kontakt propaguje přes podepsaný výskyt nebo pokud kontakt nepropaguje žádný klíč.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6647"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6663"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6594"/>
         <source>&amp;Choose key manually</source>
         <translation>&amp;Vyber klíč ručně</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6647"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6663"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6594"/>
         <source>Do &amp;nothing</source>
         <translation>Nedělej &amp;nic</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6654"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6670"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6601"/>
         <source>Public Key: %1</source>
         <translation>Veřejný klíč: %1</translation>
@@ -23250,127 +23255,127 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
 <context>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="244"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="249"/>
         <source>Off-the-Record Messaging plugin for Psi+</source>
         <translation>Zásuvný modul pro zprávy mimo záznam (OTR) pro Psí+</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="245"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="250"/>
         <source>Authors: %1</source>
         <translation>Autoři: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="247"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="252"/>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
         <translation>Zprávy mimo záznam ti dovolují soukromě konverzovat přes IM díky:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="249"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="254"/>
         <source>Encryption</source>
         <translation>Šifrování</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="250"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="255"/>
         <source>No one else can read your instant messages.</source>
         <translation>Nikdo jiný nemůže číst tvoje zprávy.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="251"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="256"/>
         <source>Authentication</source>
         <translation>Ověření</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="252"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="257"/>
         <source>You are assured the correspondent is who you think it is.</source>
         <translation>Můžes si být jistý, že protějšek je ten, kdo si myslíš, že je.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="253"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="258"/>
         <source>Deniability</source>
         <translation>Popíratelnost</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="254"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="259"/>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
         <translation>Zprávy, které posíláš, nemají digitální podpisy zkontrolovatelné třetí stranou. Kdokoliv může podvrhnout zprávy po ukončení konverzace tak, aby vypadaly, že přichází od tebe. Nicméně, během konverzace si tvůj protějšek může být jistý, že zprávy jsou od tebe a nemodifikované.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="259"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="264"/>
         <source>Perfect forward secrecy</source>
         <translation>Perfektní dopředná bezpečnost</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="260"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="265"/>
         <source>If you lose control of your private keys, no previous conversation is compromised.</source>
         <translation>I pokud ztratíš kontrolu nad svými soukromými klíči, předchozí konverzace nebudou ohroženy.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="262"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="267"/>
         <source>For further information, see &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</source>
         <translation>Další informace hledej na &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="646"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="651"/>
         <source>Psi OTR</source>
         <translation>Psí OTR</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="652"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="657"/>
         <source>OTR Plugin: event from %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="700"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="705"/>
         <source>Attempting to refresh the private conversation</source>
         <translation>Pokus o obnovu soukromé konverzace</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="701"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="706"/>
         <source>Attempting to start a private conversation</source>
         <translation>Pokus o start soukromé konverzace</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="705"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="710"/>
         <source>Private conversation started</source>
         <translation>Soukromá konverzace začala</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="706"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="711"/>
         <source>Unverified conversation started</source>
         <translation>Neověřená konverzace začala</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="712"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="717"/>
         <source>Private conversation lost</source>
         <translation>Soukromá konverzace ztracena</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="717"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="722"/>
         <source>Private conversation closed</source>
         <translation>Soukromá konverzace zavřena</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="722"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="727"/>
         <source>%1 has ended the private conversation with you; you should do the same.</source>
         <translation>%1 ukončil soukromou konverzaci s tebou; měl bys uděla to stejné.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="729"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="734"/>
         <source>Private conversation refreshed</source>
         <translation>Soukromá konverzace obnovena</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="730"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="735"/>
         <source>Unverified conversation refreshed</source>
         <translation>Neověřená konverzace obnovena</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="736"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="741"/>
         <source>Contact authenticated</source>
         <translation>Kontakt ověřen</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="737"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="742"/>
         <source>Contact not authenticated</source>
         <translation>Kontakt neověřen</translation>
     </message>

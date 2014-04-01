@@ -802,6 +802,11 @@ When you enable this option you will not be able to find your password in config
         <source>Nested groups delimiter: </source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../tmp/src/accountmodify.ui" line="1096"/>
+        <source>Disable</source>
+        <translation type="unfinished">禁用</translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
@@ -906,93 +911,93 @@ When you enable this option you will not be able to find your password in config
         <translation>最高</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="233"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="234"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="228"/>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
         <translation>通常情況下，PSI日誌使用的&lt;i&gt;摘要&lt;/i&gt;身份驗證方法。選中此核取方塊以強制一個純文字登錄到XMPP伺服器。使用此選項只有當你有正常的登錄程式連接的問題，因為它使您的連接可能容易受到攻擊</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="240"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="241"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="235"/>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
         <translation>在 Psi 啟動時自動登入這個帳號。  這對你讓 Psi 偵測有網路連接時自動啟動滿有用的。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="244"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="245"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="239"/>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
         <translation>當電腦休眠醒後讓 Psi 嘗試連接。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="247"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="248"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="242"/>
         <source>Makes Psi try to reconnect if the connection was broken.  Useful, if you have an unstable connection and have to reconnect often.</source>
         <translation>在連接斷線時讓 Psi 自動重新連接。如果你的連接不穩定、時常斷線這滿有用的。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="251"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="252"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="246"/>
         <source>Keep a log of message history.  Disable this option if you want to conserve disk space or if you need maximum security.</source>
         <translation>保留資訊歷史的紀錄。  如果你想要節省硬碟空間或是你需要最大的安全性, 則取消這個選項。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="255"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="256"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="250"/>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
         <translation>定時發送所謂 &quot;Keep-alive&quot; 封包。  對你的連接在一段時間不活動之後會自動被斷線 (例如說被你的 ISP), 而你又想要一直保持連接, 那麼這個選項滿有用的。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="261"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="262"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="256"/>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
         <translation>選中此項，則使用加密的 SSL 通道連接到 XMPP 伺服器. 如果您的伺服器支持，或者已經安裝了 qca-ossl 外掛程式則可選中此項.更多資訊請參考 Psi 主頁.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="267"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="268"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="262"/>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
         <translation>選中此項，則在伺服器支援時使用壓縮通道連接到 XMPP 伺服器.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="270"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="271"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="265"/>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
         <translation>如果您帳號中的主機段與實際連接的 XMPP 主機不同，則選中此項手動配置主機資訊.當您通過代理連接(例如連接到本機的代理軟體)但實際上帳號是在其他伺服器上註冊時，需要此設定.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="276"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="277"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="271"/>
         <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
         <translation>您可以使用不同用戶端以一個帳號登錄到 XMPP 伺服器. 每次登錄必須通過不同的&quot;資源&quot;名稱加以區分，您可在此指定此域值.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="280"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="281"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="275"/>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
         <translation>此選項設置(境界)，你想驗證為用戶。這將覆蓋XMPP位址登錄為。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="284"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="285"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="279"/>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
         <translation>&lt;p&gt;您可以使用不同用戶端以一個帳號登錄到 XMPP 伺服器. 此時，高優先順序的用戶端(此域值指定的)將接收所有的消息.&lt;/p&gt;&lt;p&gt;比如您在辦公地點有一個低優先順序但一直連接的用戶端，那麼您在家上網時，就可以使用一個高優先順序的連接來臨時禁用辦公地點的用戶端.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="304"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="305"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="299"/>
         <source>Username:</source>
         <translation>用戶名:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="400"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="401"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="395"/>
         <source>No Key Selected</source>
         <translation>沒有被選擇鑰匙</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="430"/>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="530"/>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="533"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="431"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="539"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="542"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="425"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="517"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="520"/>
@@ -1000,91 +1005,91 @@ When you enable this option you will not be able to find your password in config
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="430"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="431"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="425"/>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
         <translation>舊式的 SSL 僅在手動指定主機/埠時可用。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="438"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="439"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="433"/>
         <source>SSL error</source>
         <translation>SSL 錯誤</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="438"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="439"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="433"/>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
         <translation>無法啟用 SSL/TLS。  找不到外掛程式。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="465"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="466"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="460"/>
         <source>Secret Key</source>
         <translation>秘密鑰匙</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="530"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="539"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="517"/>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
         <translation>&lt;i&gt;用戶名稱&lt;/i&gt;是無效的。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="533"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="542"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="520"/>
         <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
         <translation>&lt;i&gt;XMPP 地址&lt;/i&gt; 必須符合 &lt;i&gt;用戶名@主機&lt;/i&gt; 格式.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="609"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="618"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="596"/>
         <source>Warning</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="610"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="619"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="597"/>
         <source>This account is currently active, so certain changes may not take effect until the next login.</source>
         <translation>這個帳號目前啟用中, 所以某些改變只會在重新啟動後生效。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="612"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="621"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="599"/>
         <source>Reconnect &amp;Later</source>
         <translation>等一下重新連接(&amp;L)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="613"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="622"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="600"/>
         <source>Reconnect &amp;Now</source>
         <translation>現在重新連接(&amp;N)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="643"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="652"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="630"/>
         <source>Block contact</source>
         <translation>封鎖連絡人</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="643"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="652"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="630"/>
         <source>Enter the XMPP Address of the contact to block:</source>
         <translation>輸入希望遮罩的 XMPP 連絡人位址:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="674"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="683"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="661"/>
         <source>Retrieving blocked contact list ...</source>
         <translation>取回被封鎖的連絡人清單...</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="683"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="692"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="670"/>
         <source>You are not connected.</source>
         <translation>你沒有連接。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="712"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="721"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="699"/>
         <source>Your server does not support blocking.</source>
         <translation>你的伺服器不支援封鎖。</translation>
@@ -14874,7 +14879,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="1464"/>
-        <location filename="../tmp/src/psiaccount.cpp" line="3418"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3431"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="1462"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3405"/>
         <source>Error</source>
@@ -15205,89 +15210,89 @@ Details: %1</source>
 細節: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="2772"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="2785"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2764"/>
         <source>Whiteboard invitation</source>
         <translation>白板邀請</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="2936"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="2949"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2928"/>
         <source>Incoming file</source>
         <translation>進來的檔案</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="2936"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="2949"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2928"/>
         <source>Do you want to accept %1 (%2 kb) from %3?</source>
         <translation>你想要接受 %1 (%2 kb) 從 %3 嗎?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="2985"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="2998"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2977"/>
         <source>Logged out</source>
         <translation>退出</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3419"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3432"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3406"/>
         <source>You must be connected to the server in order to do this.</source>
         <translation>為了作這個你必須連接到伺服器。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3511"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3524"/>
         <source>Nested Groups Delimiter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3512"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3525"/>
         <source>Set a new delimiter of nested groups</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3544"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3566"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3511"/>
         <source>Unregister from %1</source>
         <translation>註銷從%1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3545"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3567"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3512"/>
         <source>Are you sure?</source>
         <translation>你確定？</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4138"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4154"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4089"/>
         <source>Name:	</source>
         <translation>名稱:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4139"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4155"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4090"/>
         <source>Version:	</source>
         <translation>版本:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4140"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4156"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4091"/>
         <source>Os:	</source>
         <translation>Os:	</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4142"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4158"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4093"/>
         <source>Version Query Information</source>
         <translation>版本查詢資訊</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="5395"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="5411"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="5344"/>
         <source>Headline</source>
         <translation>標題:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6207"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6223"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6154"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
@@ -15295,37 +15300,37 @@ Reason: %1.</source>
 原因: %1。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6317"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6333"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6264"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[錯誤: 這個資訊已被加密, 而你無法解密。]</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6642"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6658"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6589"/>
         <source>No key</source>
         <translation>沒有鑰匙</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6642"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6658"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6589"/>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Psi 無法定位 &lt;b&gt;%1&lt;/b&gt; 所使用的 OpenPGP 鑰匙。&lt;br&gt;&lt;br&gt;這可能是因為你沒有連絡人簽署發佈的鑰匙, 或是連絡人根本沒有發佈鑰匙。&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6647"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6663"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6594"/>
         <source>&amp;Choose key manually</source>
         <translation>手動選擇鑰匙(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6647"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6663"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6594"/>
         <source>Do &amp;nothing</source>
         <translation>什麼都不做(&amp;N)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6654"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6670"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6601"/>
         <source>Public Key: %1</source>
         <translation>公開金鑰: %1</translation>
@@ -23360,127 +23365,127 @@ You should authenticate %1 as well by asking your own question.</source>
 <context>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="244"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="249"/>
         <source>Off-the-Record Messaging plugin for Psi+</source>
         <translation>Psi+場外的記錄通訊外掛程式</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="245"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="250"/>
         <source>Authors: %1</source>
         <translation>作者: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="247"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="252"/>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
         <translation>場外的記錄(OTR)消息，可以讓你有超過即時通訊提供的私人談話:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="249"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="254"/>
         <source>Encryption</source>
         <translation>加密</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="250"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="255"/>
         <source>No one else can read your instant messages.</source>
         <translation>沒有人可以讀你的即時消息</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="251"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="256"/>
         <source>Authentication</source>
         <translation>認證</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="252"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="257"/>
         <source>You are assured the correspondent is who you think it is.</source>
         <translation>你認為誰是你放心的通信者</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="253"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="258"/>
         <source>Deniability</source>
         <translation>不可否認性</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="254"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="259"/>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
         <translation>您發送的消息不具有數位簽章是由協力廠商檢查的。任何人都可以偽造消息的談話後，使它們看起來像他們來自你。然而，在對話過程中，記者是有保證的，他看到的消息是真實的和未修改的。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="259"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="264"/>
         <source>Perfect forward secrecy</source>
         <translation>完善的正向保密</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="260"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="265"/>
         <source>If you lose control of your private keys, no previous conversation is compromised.</source>
         <translation>如果你的私人金鑰失控，沒有以前的談話就會大打折扣</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="262"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="267"/>
         <source>For further information, see &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</source>
         <translation>如需進一步資訊，請參閱&lt;http://www.cypherpunks.ca/otr/&gt;。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="646"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="651"/>
         <source>Psi OTR</source>
         <translation>Psi OTR</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="652"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="657"/>
         <source>OTR Plugin: event from %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="700"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="705"/>
         <source>Attempting to refresh the private conversation</source>
         <translation>嘗試刷新私人談話</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="701"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="706"/>
         <source>Attempting to start a private conversation</source>
         <translation>嘗試啟動一個私人談話</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="705"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="710"/>
         <source>Private conversation started</source>
         <translation>私人會話已開始</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="706"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="711"/>
         <source>Unverified conversation started</source>
         <translation>未經證實的談話開始</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="712"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="717"/>
         <source>Private conversation lost</source>
         <translation>私人會話已丟失</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="717"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="722"/>
         <source>Private conversation closed</source>
         <translation>私人會話已關閉</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="722"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="727"/>
         <source>%1 has ended the private conversation with you; you should do the same.</source>
         <translation>%1已經結束了和你的私人會話;你應該做同樣的.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="729"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="734"/>
         <source>Private conversation refreshed</source>
         <translation>私人談話已刷新</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="730"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="735"/>
         <source>Unverified conversation refreshed</source>
         <translation>未經證實的談話已刷新</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="736"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="741"/>
         <source>Contact authenticated</source>
         <translation>聯繫身份驗證</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="737"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="742"/>
         <source>Contact not authenticated</source>
         <translation>聯繫未身份驗證</translation>
     </message>

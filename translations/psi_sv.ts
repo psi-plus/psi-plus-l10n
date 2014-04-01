@@ -779,6 +779,11 @@ When you enable this option you will not be able to find your password in config
         <source>Nested groups delimiter: </source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../tmp/src/accountmodify.ui" line="1096"/>
+        <source>Disable</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
@@ -883,93 +888,93 @@ When you enable this option you will not be able to find your password in config
         <translation>Högsta</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="233"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="234"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="228"/>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="240"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="241"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="235"/>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
         <translation>Logga in med detta konto automatiskt när Psi startas. Användbart om du exempelvis startar Psi automatiskt när en nätanslutning upptäcks.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="244"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="245"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="239"/>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
         <translation>Gör så att Psi försöker ansluta när datorn väcks efter viloläge.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="247"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="248"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="242"/>
         <source>Makes Psi try to reconnect if the connection was broken.  Useful, if you have an unstable connection and have to reconnect often.</source>
         <translation>Gör så att Psi försöker återansluta om uppkopplingen gick ner. Användbart om du har en instabil anslutning och måste återansluta ofta.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="251"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="252"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="246"/>
         <source>Keep a log of message history.  Disable this option if you want to conserve disk space or if you need maximum security.</source>
         <translation>Spara en fil med meddelandehistorik. Stäng av detta om du vill spara diskutrymme eller behöver maximal säkerhet.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="255"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="256"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="250"/>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
         <translation>Skicka så kallade &quot;keep-alive&quot;-paket regelbundet. Det är användbart om din anslutning är inställd att kopplas ner efter en viss tids inaktivitet (exempelvis av din ISP) och du vill ha den uppe hela tiden.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="261"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="262"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="256"/>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="267"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="268"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="262"/>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="270"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="271"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="265"/>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="276"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="277"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="271"/>
         <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="280"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="281"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="275"/>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="284"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="285"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="279"/>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="304"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="305"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="299"/>
         <source>Username:</source>
         <translation>Användarnamn:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="400"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="401"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="395"/>
         <source>No Key Selected</source>
         <translation>Inga nyckel vald</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="430"/>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="530"/>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="533"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="431"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="539"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="542"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="425"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="517"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="520"/>
@@ -977,91 +982,91 @@ When you enable this option you will not be able to find your password in config
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="430"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="431"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="425"/>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
         <translation>Gammal SSL är bara tillgängligt tillsammans med manuellt angiven värd/port.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="438"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="439"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="433"/>
         <source>SSL error</source>
         <translation>SSL-fel</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="438"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="439"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="433"/>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
         <translation>Kunde inte använda SSL/TLS. Insticksprogram ej funnet.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="465"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="466"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="460"/>
         <source>Secret Key</source>
         <translation>Hemlig nyckel</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="530"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="539"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="517"/>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
         <translation>&lt;i&gt;Användarnamnet&lt;/i&gt; är ogiltigt.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="533"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="542"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="520"/>
         <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="609"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="618"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="596"/>
         <source>Warning</source>
         <translation>Varning</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="610"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="619"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="597"/>
         <source>This account is currently active, so certain changes may not take effect until the next login.</source>
         <translation>Kontot är aktivt för närvarande, så vissa ändringar har ingen effekt förrän vid nästa inloggning.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="612"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="621"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="599"/>
         <source>Reconnect &amp;Later</source>
         <translation>Återanslut &amp;senare</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="613"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="622"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="600"/>
         <source>Reconnect &amp;Now</source>
         <translation>Återanslut &amp;nu</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="643"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="652"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="630"/>
         <source>Block contact</source>
         <translation>Blockera kontakt</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="643"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="652"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="630"/>
         <source>Enter the XMPP Address of the contact to block:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="674"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="683"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="661"/>
         <source>Retrieving blocked contact list ...</source>
         <translation>Hämtar lista över blockerade kontakter...</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="683"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="692"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="670"/>
         <source>You are not connected.</source>
         <translation>Du är inte ansluten.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="712"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="721"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="699"/>
         <source>Your server does not support blocking.</source>
         <translation>Din server stöder inte blockering.</translation>
@@ -14748,7 +14753,7 @@ Klicka i &lt;i&gt;Slå på emotikoner&lt;/i&gt;-kryssrutan om du vill att text s
     </message>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="1464"/>
-        <location filename="../tmp/src/psiaccount.cpp" line="3418"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3431"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="1462"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3405"/>
         <source>Error</source>
@@ -15079,89 +15084,89 @@ Details: %1</source>
 Detaljer: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="2772"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="2785"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2764"/>
         <source>Whiteboard invitation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="2936"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="2949"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2928"/>
         <source>Incoming file</source>
         <translation>Inkommande fil</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="2936"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="2949"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2928"/>
         <source>Do you want to accept %1 (%2 kb) from %3?</source>
         <translation>Vill du ta emot %1 (%2 kb) från %3?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="2985"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="2998"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2977"/>
         <source>Logged out</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3419"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3432"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3406"/>
         <source>You must be connected to the server in order to do this.</source>
         <translation>Du måste vara ansluten till servern för att kunna göra detta.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3511"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3524"/>
         <source>Nested Groups Delimiter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3512"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3525"/>
         <source>Set a new delimiter of nested groups</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3544"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3566"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3511"/>
         <source>Unregister from %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3545"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3567"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3512"/>
         <source>Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4138"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4154"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4089"/>
         <source>Name:	</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4139"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4155"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4090"/>
         <source>Version:	</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4140"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4156"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4091"/>
         <source>Os:	</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4142"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4158"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4093"/>
         <source>Version Query Information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="5395"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="5411"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="5344"/>
         <source>Headline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6207"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6223"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6154"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
@@ -15169,37 +15174,37 @@ Reason: %1.</source>
 Orsak: %1.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6317"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6333"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6264"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[FEL: Detta meddelande är krypterat och du kan inte dekryptera det.]</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6642"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6658"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6589"/>
         <source>No key</source>
         <translation>Ingen nyckel</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6642"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6658"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6589"/>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Psi kunde inte hitta OpenPGP-nyckeln som ska användas för &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Detta kan hända om du inte har nyckeln som kontakten hänvisar till via signerad närvaro eller om kontakten inte hänvisar till sin nyckel alls.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6647"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6663"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6594"/>
         <source>&amp;Choose key manually</source>
         <translation>&amp;Välj nyckel manuellt</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6647"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6663"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6594"/>
         <source>Do &amp;nothing</source>
         <translation>Gör &amp;inget</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6654"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6670"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6601"/>
         <source>Public Key: %1</source>
         <translation>Publik nyckel: %1</translation>
@@ -23152,127 +23157,127 @@ You should authenticate %1 as well by asking your own question.</source>
 <context>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="244"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="249"/>
         <source>Off-the-Record Messaging plugin for Psi+</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="245"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="250"/>
         <source>Authors: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="247"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="252"/>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="249"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="254"/>
         <source>Encryption</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="250"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="255"/>
         <source>No one else can read your instant messages.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="251"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="256"/>
         <source>Authentication</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="252"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="257"/>
         <source>You are assured the correspondent is who you think it is.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="253"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="258"/>
         <source>Deniability</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="254"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="259"/>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="259"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="264"/>
         <source>Perfect forward secrecy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="260"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="265"/>
         <source>If you lose control of your private keys, no previous conversation is compromised.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="262"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="267"/>
         <source>For further information, see &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="646"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="651"/>
         <source>Psi OTR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="652"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="657"/>
         <source>OTR Plugin: event from %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="700"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="705"/>
         <source>Attempting to refresh the private conversation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="701"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="706"/>
         <source>Attempting to start a private conversation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="705"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="710"/>
         <source>Private conversation started</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="706"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="711"/>
         <source>Unverified conversation started</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="712"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="717"/>
         <source>Private conversation lost</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="717"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="722"/>
         <source>Private conversation closed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="722"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="727"/>
         <source>%1 has ended the private conversation with you; you should do the same.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="729"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="734"/>
         <source>Private conversation refreshed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="730"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="735"/>
         <source>Unverified conversation refreshed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="736"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="741"/>
         <source>Contact authenticated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="737"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="742"/>
         <source>Contact not authenticated</source>
         <translation type="unfinished"></translation>
     </message>

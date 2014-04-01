@@ -795,6 +795,11 @@ When you enable this option you will not be able to find your password in config
         <source>Nested groups delimiter: </source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../tmp/src/accountmodify.ui" line="1096"/>
+        <source>Disable</source>
+        <translation type="unfinished">Забараніць</translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
@@ -899,93 +904,93 @@ When you enable this option you will not be able to find your password in config
         <translation>Найвышэйшае</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="233"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="234"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="228"/>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
         <translation>Звычайна «Псі» апазнаецца такім чынам, што гасло &lt;i&gt;не перадаецца&lt;/i&gt; ў адкрытым выглядзе.  Каб прымусіць апазнавацца простым тэкстам, пастаўце тут птушачку. Выкарыстоўвайце гэта толькі тады, калі не атрымваецца ўвайсьці на паслужнік джабэру звычайным парадкам, бо ў такім разе злучэньне можа быць даступным для нападу.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="240"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="241"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="235"/>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
         <translation>Уваходзіць у гэты рахунак, калі запускаецца «Псі».  Карысна, калі «Псі» запускаецца самастойна, як толькі выявіцца злучэньне зь сецівам.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="244"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="245"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="239"/>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
         <translation>Прымушае «Псі» спрабаваць злучыцца, калі кампутар прачнуўся ад сну.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="247"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="248"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="242"/>
         <source>Makes Psi try to reconnect if the connection was broken.  Useful, if you have an unstable connection and have to reconnect often.</source>
         <translation>Прымушае «Псі» спрабаваць злучыцца, калі злучэньне перарвалася.  Карысна, калі злучэньне нетрывалае, што змушае часта злучацца нанова.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="251"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="252"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="246"/>
         <source>Keep a log of message history.  Disable this option if you want to conserve disk space or if you need maximum security.</source>
         <translation>Захоўваць гісторыю паведамленьняў.  Не ўжывайце гэта, калі жадаеце ашчаджаць прастору на дыску ці турбуецеся за бясьпеку.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="255"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="256"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="250"/>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
         <translation>Калі-нікалі дасылаць так званыя «праверачныя» пакеты.  Карысна, калі злучэньне самарушна адлучаецца пасьля пэўнага часу бязьдзеяньня (напрыклад, пастаўніком паслуг сеціва), а вы жадаеце трымаць злучэньне ўвесь час.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="261"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="262"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="256"/>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
         <translation>Абярыце гэта, каб карыстацца шыфраваным злучэньнем SSL з паслужніком XMPP.  Абраць гэта можна толькі тады, калі паслужнік падтрымлівае такое шыфраваньне, а вы ўсталявалі неабходную ўбудову «qca-ossl».  Каб даведацца болей, наведайце бачыну «Псі».</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="267"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="268"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="262"/>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
         <translation>Калі паслужнік XMPP дазваляе сьціскаць перадаванае, абярыце гэта, каб сьціскаліся тое, што перадаецца між праґрамаю ды паслужніком.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="270"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="271"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="265"/>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
         <translation>Абярыце гэта, каб самастойна вызначыць паслужнік XMPP, калі ён ня тоесны да паслужніку, зь якім вы злучаецеся.  Гэта будзе карысным, калі на кампутары наладжаныя нейкія шляхі пасродку: злучаецеся вы са сваім кампутарам (localhost), але ваш рахунак — на вонкавым паслужніку.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="276"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="277"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="271"/>
         <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
         <translation>Можна злучацца з паслужніком XMPP адначасова некалькімі кліентамі праз адзін рахунак.  Кліенты будуць адрозьнівацца назваю «крыніцы», якая й вызначаецца ў гэтым полі.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="280"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="281"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="275"/>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
         <translation>Тут можна абраць імя карыстальніка (і вузел), якімі жадаеце апазнавацца. Яны заменяць адрас XMPP, зь якім вы ўваходзіце.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="284"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="285"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="279"/>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Можна злучацца з паслужніком XMPP адначасова некалькімі кліентамі праз адзін рахунак.  У такім разе ўсе паведамленьні будуць прыходзіць толькі на той кліент, што мае найвышэйшае пяршынства (якое вызначаецца ў гэтым полі).&lt;/p&gt;&lt;p&gt;Прыкладам, калі на працы ў вас сталае злучэньне зь сецівам, а дома — праз злучар (мадэм), можна трымаць на працы ўвесь час запушчаным кліент зь нізкім пяршынствам, а дома, каб атрымоўваць паведамленьні замест таго кліента, што карыстае на працы такі самы рахунак, — кліент з вышэйшым пяршынствам.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="304"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="305"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="299"/>
         <source>Username:</source>
         <translation>Імя карыстальніка:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="400"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="401"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="395"/>
         <source>No Key Selected</source>
         <translation>Не абралі ключ</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="430"/>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="530"/>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="533"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="431"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="539"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="542"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="425"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="517"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="520"/>
@@ -993,91 +998,91 @@ When you enable this option you will not be able to find your password in config
         <translation>Далі хібу</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="430"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="431"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="425"/>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
         <translation>Звычайны SSL даступны толькі калі вузел і порт вызначаюцца карыстальнікам самастойна.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="438"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="439"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="433"/>
         <source>SSL error</source>
         <translation>SSL даў хібу</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="438"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="439"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="433"/>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
         <translation>Нельга шыфраваць праз SSL або TLS:  не знайшлі ўбудовы.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="465"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="466"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="460"/>
         <source>Secret Key</source>
         <translation>Таемны ключ</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="530"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="539"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="517"/>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
         <translation>Хібнае &lt;i&gt;Імя карыстальніка&lt;/i&gt;.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="533"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="542"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="520"/>
         <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
         <translation>&lt;i&gt;Адрас XMPP&lt;/i&gt; трэба падаваць як &lt;i&gt;карыстальнік@паслужнік&lt;/i&gt;.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="609"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="618"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="596"/>
         <source>Warning</source>
         <translation>Перасьцярога</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="610"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="619"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="597"/>
         <source>This account is currently active, so certain changes may not take effect until the next login.</source>
         <translation>Рахунак выкарыстоўваецца, таму пэўныя зьмены будуць дзейнічаць па наступным уваходзе.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="612"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="621"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="599"/>
         <source>Reconnect &amp;Later</source>
         <translation>Злучыцца нанова &amp;пазьней</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="613"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="622"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="600"/>
         <source>Reconnect &amp;Now</source>
         <translation>Злучыцца нанова &amp;зараз</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="643"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="652"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="630"/>
         <source>Block contact</source>
         <translation>Забараніць суразмоўцу</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="643"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="652"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="630"/>
         <source>Enter the XMPP Address of the contact to block:</source>
         <translation>Упішыце адрас XMPP суразмоўцы, якога трэба забараніць:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="674"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="683"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="661"/>
         <source>Retrieving blocked contact list ...</source>
         <translation>Атрымваем сьпіс забароненых суразмоўцаў…</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="683"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="692"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="670"/>
         <source>You are not connected.</source>
         <translation>Не злучыліся.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/accountmodifydlg.cpp" line="712"/>
+        <location filename="../tmp/src/accountmodifydlg.cpp" line="721"/>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="699"/>
         <source>Your server does not support blocking.</source>
         <translation>Паслужнік ня дазваляе забараняць суразмоўцаў.</translation>
@@ -14861,7 +14866,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="1464"/>
-        <location filename="../tmp/src/psiaccount.cpp" line="3418"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3431"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="1462"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3405"/>
         <source>Error</source>
@@ -15192,89 +15197,89 @@ Details: %1</source>
 Падрабязнасьці: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="2772"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="2785"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2764"/>
         <source>Whiteboard invitation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="2936"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="2949"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2928"/>
         <source>Incoming file</source>
         <translation>Прыйшоў файл</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="2936"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="2949"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2928"/>
         <source>Do you want to accept %1 (%2 kb) from %3?</source>
         <translation>Ці жадаеце прыняць %1 (%2 кБ) ад %3?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="2985"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="2998"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2977"/>
         <source>Logged out</source>
         <translation>Выйшлі з рахунку</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3419"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3432"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3406"/>
         <source>You must be connected to the server in order to do this.</source>
         <translation>Каб зрабіць гэта, трэба злучыцца з паслужніком.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3511"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3524"/>
         <source>Nested Groups Delimiter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3512"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3525"/>
         <source>Set a new delimiter of nested groups</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3544"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3566"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3511"/>
         <source>Unregister from %1</source>
         <translation>Скасаваць рахунак «%1»</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3545"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3567"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3512"/>
         <source>Are you sure?</source>
         <translation>Ці ўпэўненыя вы?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4138"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4154"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4089"/>
         <source>Name:	</source>
         <translation>Назва:	</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4139"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4155"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4090"/>
         <source>Version:	</source>
         <translation>Вэрсія:	</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4140"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4156"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4091"/>
         <source>Os:	</source>
         <translation>АС:	</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4142"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4158"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4093"/>
         <source>Version Query Information</source>
         <translation>Зьвесткі запыту вэрсіі</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="5395"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="5411"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="5344"/>
         <source>Headline</source>
         <translation>Абвестка</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6207"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6223"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6154"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
@@ -15282,37 +15287,37 @@ Reason: %1.</source>
 Падстава: %1.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6317"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6333"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6264"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[ПАМЫЛКА: гэта зашыфраванае паведамленьне, але яго немагчыма расшыфраваць.]</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6642"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6658"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6589"/>
         <source>No key</source>
         <translation>Няма ключа</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6642"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6658"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6589"/>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Не ўдаецца знайсьці ключ OpenPGP, каб ужываць яго для &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Такое можа здарыцца, калі няма ключа, што даваў суразмоўца праз падпіску на прысутнасьць, ці калі гэты суразмоўца наогул не даваў ключоў.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6647"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6663"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6594"/>
         <source>&amp;Choose key manually</source>
         <translation>&amp;Абраць ключ самастойна</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6647"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6663"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6594"/>
         <source>Do &amp;nothing</source>
         <translation>&amp;Нічога не рабіць</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6654"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6670"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6601"/>
         <source>Public Key: %1</source>
         <translation>Агульнадаступны ключ: %1</translation>
@@ -23367,127 +23372,127 @@ You should authenticate %1 as well by asking your own question.</source>
 <context>
     <name>psiotr::PsiOtrPlugin</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="244"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="249"/>
         <source>Off-the-Record Messaging plugin for Psi+</source>
         <translation>Убудова таемкі для «Псі+»</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="245"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="250"/>
         <source>Authors: %1</source>
         <translation>Аўтары: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="247"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="252"/>
         <source>Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing:</source>
         <translation>Таемныя паведамленьні («таемка») дазваляюць размаўляць асабістымі паведамленьнямі таемна, дзякуючы наступнаму:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="249"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="254"/>
         <source>Encryption</source>
         <translation>Шыфраваць</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="250"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="255"/>
         <source>No one else can read your instant messages.</source>
         <translation>Ніхто ня зможа прачытаць паведамленьні.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="251"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="256"/>
         <source>Authentication</source>
         <translation>Апазнаваць</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="252"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="257"/>
         <source>You are assured the correspondent is who you think it is.</source>
         <translation>Вы будзеце ўпэўненыя, што ваш суразмоўца — той, кім называецца.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="253"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="258"/>
         <source>Deniability</source>
         <translation>Адмаўляць</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="254"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="259"/>
         <source>The messages you send do not have digital signatures that are checkable by a third party. Anyone can forge messages after a conversation to make them look like they came from you. However, during a conversation, your correspondent is assured the messages he sees are authentic and unmodified.</source>
         <translation>Паведамленьні, якія вы дасылаеце, не падпісваюцца і ня спраўджваюцца кімсьці іншым. Кожны можа падрабіць гісторыю размовы і замяніць вашыя паведамленьні іншымі так, быццам іх дасылалі вы. Але калі вы гутарыце, суразмоўца будзе ўпэўненым, што паведамленьні, якія ён атрымвае, ідуць ад вас, і што яны не зьмяняліся.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="259"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="264"/>
         <source>Perfect forward secrecy</source>
         <translation>Дасканалая прамая таемнасьць</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="260"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="265"/>
         <source>If you lose control of your private keys, no previous conversation is compromised.</source>
         <translation>Калі ключы згубяцца, нельга будзе выкрыць папярэднія размовы.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="262"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="267"/>
         <source>For further information, see &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</source>
         <translation>Каб даведацца болей, зірніце &amp;lt;http://www.cypherpunks.ca/otr/&amp;gt;.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="646"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="651"/>
         <source>Psi OTR</source>
         <translation>Таемка «Псі»</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="652"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="657"/>
         <source>OTR Plugin: event from %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="700"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="705"/>
         <source>Attempting to refresh the private conversation</source>
         <translation>Спрабуем абнавіць таемную размову</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="701"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="706"/>
         <source>Attempting to start a private conversation</source>
         <translation>Спрабуем пачаць таемна размаўляць</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="705"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="710"/>
         <source>Private conversation started</source>
         <translation>Пачалі таемна размаўляць</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="706"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="711"/>
         <source>Unverified conversation started</source>
         <translation>Распачалі неправераную размову</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="712"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="717"/>
         <source>Private conversation lost</source>
         <translation>Страцілі таемную размову</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="717"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="722"/>
         <source>Private conversation closed</source>
         <translation>Зачынілі таемную размову</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="722"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="727"/>
         <source>%1 has ended the private conversation with you; you should do the same.</source>
         <translation>%1 скончыў таемна размаўляць з вамі; вы мусіце зрабіць тое самае.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="729"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="734"/>
         <source>Private conversation refreshed</source>
         <translation>Абнавілі таемную размову</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="730"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="735"/>
         <source>Unverified conversation refreshed</source>
         <translation>Абнавілі неправераную размову</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="736"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="741"/>
         <source>Contact authenticated</source>
         <translation>Суразмоўцу апазналі</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="737"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="742"/>
         <source>Contact not authenticated</source>
         <translation>Суразмоўцу не апазналі</translation>
     </message>
