@@ -206,10 +206,6 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;</translation>
         <translation>Автор патчей для Psimedia и английского перевода Wiki</translation>
     </message>
     <message>
-        <source>OpenSUSE Packager</source>
-        <translation type="obsolete">Сопровождающий пакета для OpenSUSE</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="120"/>
         <source>Language coordinator; Debian Packager</source>
         <translation>Координатор переводчиков; сопровождающий пакета для Debian</translation>
@@ -2140,10 +2136,6 @@ The list of exceptions for jids has two operating modes:
         <location filename="../../psi-plus-snapshots/src/avcall/calldlg.cpp" line="250"/>
         <source>Call duration: %1</source>
         <translation>Продолжительность разговора: %1</translation>
-    </message>
-    <message>
-        <source>Call ended</source>
-        <translation type="obsolete">Вызов завершён</translation>
     </message>
 </context>
 <context>
@@ -7738,14 +7730,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="99"/>
         <source>&amp;Create New...</source>
         <translation>&amp;Создать...</translation>
-    </message>
-    <message>
-        <source>Create New Group</source>
-        <translation type="obsolete">Создание новой группы</translation>
-    </message>
-    <message>
-        <source>Enter the new group name:</source>
-        <translation type="obsolete">Введите название новой группы:</translation>
     </message>
 </context>
 <context>
