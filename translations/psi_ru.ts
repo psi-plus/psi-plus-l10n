@@ -2134,12 +2134,12 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location filename="../../psi-plus-snapshots/src/avcall/calldlg.cpp" line="243"/>
         <source>Call is ended</source>
-        <translation type="unfinished"></translation>
+        <translation>Вызов завершён</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/avcall/calldlg.cpp" line="250"/>
         <source>Call duration: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Продолжительность разговора: %1</translation>
     </message>
     <message>
         <source>Call ended</source>
@@ -3355,17 +3355,17 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistmodel.cpp" line="656"/>
         <source>You can&apos;t use delimiter in the begin of group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нельзя использовать разделитель в начале имени группы.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistmodel.cpp" line="660"/>
         <source>You can&apos;t use delimiter in the end of group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нельзя использовать разделитель в конце имени группы.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistmodel.cpp" line="664"/>
         <source>You can&apos;t use repeating delimiter in the group name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нельзя использовать разделители подряд в имени группы.</translation>
     </message>
 </context>
 <context>
