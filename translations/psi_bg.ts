@@ -16417,7 +16417,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="407"/>
         <source>Show</source>
-        <translation type="unfinished"/>
+        <translation>Показване</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="411"/>
@@ -16428,7 +16428,7 @@ This may mean you are already running another instance of Psi. You may experienc
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="415"/>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="875"/>
         <source>Block</source>
-        <translation type="unfinished"/>
+        <translation>Блокиране</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="418"/>
@@ -16438,7 +16438,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="452"/>
         <source>Authorization</source>
-        <translation type="unfinished"/>
+        <translation>Оторизация</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="459"/>
@@ -16453,7 +16453,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="634"/>
         <source>Invitation</source>
-        <translation type="unfinished"/>
+        <translation>Покана</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="635"/>
@@ -16463,7 +16463,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="667"/>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Добавяне</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="668"/>
@@ -16474,7 +16474,7 @@ This may mean you are already running another instance of Psi. You may experienc
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="734"/>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="743"/>
         <source>Authorize</source>
-        <translation type="unfinished"/>
+        <translation>Оторизиране</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="735"/>
@@ -16595,7 +16595,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/main.cpp" line="247"/>
         <source>Activate</source>
-        <translation type="unfinished"/>
+        <translation>Активиране</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/main.cpp" line="284"/>
@@ -16608,102 +16608,102 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptions.cpp" line="145"/>
         <source>Away from desk</source>
-        <translation type="unfinished"/>
+        <translation>Няма ме наоколо</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptions.cpp" line="146"/>
         <source>I am away from my desk.  Leave a message.</source>
-        <translation type="unfinished"/>
+        <translation>Няма ме.  Оставете съобщение.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptions.cpp" line="149"/>
         <source>Showering</source>
-        <translation type="unfinished"/>
+        <translation>Вземам си душ</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptions.cpp" line="150"/>
         <source>I&apos;m in the shower.  You&apos;ll have to wait for me to get out.</source>
-        <translation type="unfinished"/>
+        <translation>Под душа съм. Ще трябва да ме изчакате.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptions.cpp" line="153"/>
         <source>Eating</source>
-        <translation type="unfinished"/>
+        <translation>Храня се</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptions.cpp" line="154"/>
         <source>Out eating.  Mmmm.. food.</source>
-        <translation type="unfinished"/>
+        <translation>Отидох да хапна.  Ммм.. храна.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptions.cpp" line="157"/>
         <source>Sleep</source>
-        <translation type="unfinished"/>
+        <translation>Спя</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptions.cpp" line="158"/>
         <source>Sleep is good.  Zzzzz</source>
-        <translation type="unfinished"/>
+        <translation>Сладка дрямка.  Хр-р-р</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptions.cpp" line="161"/>
         <source>Work</source>
-        <translation type="unfinished"/>
+        <translation>Работя</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptions.cpp" line="162"/>
         <source>Can&apos;t chat.  Gotta work.</source>
-        <translation type="unfinished"/>
+        <translation>Не мога да говоря.  Имам работа.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptions.cpp" line="165"/>
         <source>Air</source>
-        <translation type="unfinished"/>
+        <translation>На чист въздух</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptions.cpp" line="166"/>
         <source>Stepping out to get some fresh air.</source>
-        <translation type="unfinished"/>
+        <translation>Излязох да подишам чист въздух.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptions.cpp" line="169"/>
         <source>Movie</source>
-        <translation type="unfinished"/>
+        <translation>На кино</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptions.cpp" line="170"/>
         <source>Out to a movie.  Is that OK with you?</source>
-        <translation type="unfinished"/>
+        <translation>Отидох на кино. Нещо против?</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptions.cpp" line="173"/>
         <source>Secret</source>
-        <translation type="unfinished"/>
+        <translation>Тайна</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptions.cpp" line="174"/>
         <source>I&apos;m not available right now and that&apos;s all you need to know.</source>
-        <translation type="unfinished"/>
+        <translation>Няма ме в момента и друго не ви трябва да знаете.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptions.cpp" line="177"/>
         <source>Out for the night</source>
-        <translation type="unfinished"/>
+        <translation>Навън съм тази вечер</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptions.cpp" line="178"/>
         <source>Out for the night.</source>
-        <translation type="unfinished"/>
+        <translation>Навън съм тази вечер.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptions.cpp" line="181"/>
         <source>Greece</source>
-        <translation type="unfinished"/>
+        <translation>В Гърция</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptions.cpp" line="182"/>
         <source>I have gone to a far away place.  I will be back someday!</source>
-        <translation type="unfinished"/>
+        <translation>На далеко съм.  Някой ден ще се завърна!</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptions.cpp" line="212"/>
