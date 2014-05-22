@@ -9115,9 +9115,8 @@ da igrate gomoku. On želi da igra %2.</translation>
 <context>
     <name>JT_VCard</name>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1150"/>
         <source>No VCard available</source>
-        <translation type="unfinished">Nema vKartice</translation>
+        <translation type="obsolete">Nema vKartice</translation>
     </message>
 </context>
 <context>
@@ -9172,55 +9171,55 @@ da igrate gomoku. On želi da igra %2.</translation>
 <context>
     <name>JuickPlugin</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="235"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="236"/>
         <source>Warning</source>
         <translation>Upozorenje</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="235"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="236"/>
         <source>can&apos;t create folder %1 
 caching avatars will be not available</source>
         <translation>ne možete kreirati folder %1
 keširanje avatara neće biti dostupno</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="632"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="633"/>
         <source>Time stamp: %1</source>
         <translation>Vreme: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="699"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="700"/>
         <source> replied:</source>
         <translation> odgovoreno:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="790"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="791"/>
         <source>Send personal message to %1</source>
         <translation>Pošalji ličnu poruku za %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="796"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="804"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="797"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="805"/>
         <source>Subscribe to %1&apos;s blog</source>
         <translation>Pretplati za %1 blog</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="1044"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="1053"/>
         <source>Delete</source>
         <translation>Ukloni</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="1055"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="1064"/>
         <source>Add to favorites</source>
         <translation>Dodaj u favorite</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="1117"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="1126"/>
         <source>Authors: </source>
         <translation>Autori:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="1118"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="1127"/>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
 Currently, the plugin is able to: 
 * Coloring @nick, *tag and #message_id in messages from the juick@juick.com bot
@@ -16956,76 +16955,91 @@ Da nastavim?</translation>
 <context>
     <name>QObject</name>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2942"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2910"/>
         <source>Username</source>
         <translation>Korisničko ime</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2943"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2911"/>
         <source>Nickname</source>
         <translation>Nadimak</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2944"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2912"/>
         <source>Password</source>
         <translation>Lozinka</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2945"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2913"/>
         <source>Name</source>
         <translation>Ime</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2946"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2914"/>
         <source>First Name</source>
         <translation>Ime</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2947"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2915"/>
         <source>Last Name</source>
         <translation>Prezime</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2948"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2916"/>
         <source>E-mail</source>
         <translation>Elektronska pošta</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2949"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2917"/>
         <source>Address</source>
         <translation>Adresa</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2950"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2918"/>
         <source>City</source>
         <translation>Mesto</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2951"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2919"/>
         <source>State</source>
         <translation>Savezna država</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2952"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2920"/>
         <source>Zipcode</source>
         <translation>Poštanski broj</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2953"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2921"/>
         <source>Phone</source>
         <translation>Telefon</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2954"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2922"/>
         <source>URL</source>
         <translation>URL</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2955"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2923"/>
         <source>Date</source>
         <translation>Datum</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2956"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2924"/>
         <source>Misc</source>
         <translation>Razno</translation>
@@ -18262,22 +18276,22 @@ Opis: </translation>
 %2.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="80"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="81"/>
         <source>Recommended by @%1</source>
         <translation>Preporučeno od @%1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="130"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="131"/>
         <source>Reply posted.</source>
         <translation>Odgovor postovan.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="137"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="138"/>
         <source>New message posted.</source>
         <translation>Nova poruka postovana.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="166"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="167"/>
         <source> recommended your post </source>
         <translation>preporučen vaš post</translation>
     </message>
@@ -22255,6 +22269,7 @@ Do you still want to close the window?</source>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1150"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1082"/>
         <source>No VCard available</source>
         <translation>Nema vKartice</translation>
@@ -22476,6 +22491,7 @@ Do you still want to close the window?</source>
 <context>
     <name>XMPP::Task</name>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/xmpp_task.cpp" line="168"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_task.cpp" line="165"/>
         <source>Disconnected</source>
         <translation>Isključen</translation>

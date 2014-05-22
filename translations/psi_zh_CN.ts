@@ -9176,9 +9176,8 @@ to play gomoku. He wants to play %2.</source>
 <context>
     <name>JT_VCard</name>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1150"/>
         <source>No VCard available</source>
-        <translation type="unfinished">没有可用的虚拟名片</translation>
+        <translation type="obsolete">没有可用的虚拟名片</translation>
     </message>
 </context>
 <context>
@@ -9233,54 +9232,54 @@ to play gomoku. He wants to play %2.</source>
 <context>
     <name>JuickPlugin</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="235"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="236"/>
         <source>Warning</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="235"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="236"/>
         <source>can&apos;t create folder %1 
 caching avatars will be not available</source>
         <translation>不能创建文件夹%1缓存化身将不可用</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="632"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="633"/>
         <source>Time stamp: %1</source>
         <translation>时间戳: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="699"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="700"/>
         <source> replied:</source>
         <translation>回答</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="790"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="791"/>
         <source>Send personal message to %1</source>
         <translation>发送私人讯息给 %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="796"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="804"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="797"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="805"/>
         <source>Subscribe to %1&apos;s blog</source>
         <translation>订阅 %1的博客</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="1044"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="1053"/>
         <source>Delete</source>
         <translation>删除</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="1055"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="1064"/>
         <source>Add to favorites</source>
         <translation>添加到收藏夹</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="1117"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="1126"/>
         <source>Authors: </source>
         <translation>作者:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="1118"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="1127"/>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
 Currently, the plugin is able to: 
 * Coloring @nick, *tag and #message_id in messages from the juick@juick.com bot
@@ -17025,76 +17024,91 @@ Proceed?</source>
 <context>
     <name>QObject</name>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2942"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2910"/>
         <source>Username</source>
         <translation>用户名称</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2943"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2911"/>
         <source>Nickname</source>
         <translation>昵称</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2944"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2912"/>
         <source>Password</source>
         <translation>密码</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2945"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2913"/>
         <source>Name</source>
         <translation>名称</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2946"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2914"/>
         <source>First Name</source>
         <translation>名</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2947"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2915"/>
         <source>Last Name</source>
         <translation>姓</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2948"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2916"/>
         <source>E-mail</source>
         <translation>E-Mail</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2949"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2917"/>
         <source>Address</source>
         <translation>地址</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2950"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2918"/>
         <source>City</source>
         <translation>城市</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2951"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2919"/>
         <source>State</source>
         <translation>州</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2952"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2920"/>
         <source>Zipcode</source>
         <translation>邮编</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2953"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2921"/>
         <source>Phone</source>
         <translation>电话</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2954"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2922"/>
         <source>URL</source>
         <translation>URL</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2955"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2923"/>
         <source>Date</source>
         <translation>日期</translation>
     </message>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2956"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2924"/>
         <source>Misc</source>
         <translation>其它</translation>
@@ -18311,22 +18325,22 @@ Description: </source>
         <translation>无法写入文件%1:%2</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="80"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="81"/>
         <source>Recommended by @%1</source>
         <translation>推荐@%1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="130"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="131"/>
         <source>Reply posted.</source>
         <translation>回复发表</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="137"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="138"/>
         <source>New message posted.</source>
         <translation>新消息发表。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="166"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="167"/>
         <source> recommended your post </source>
         <translation>推荐你的发表</translation>
     </message>
@@ -22382,6 +22396,7 @@ Do you still want to close the window?</source>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1150"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1082"/>
         <source>No VCard available</source>
         <translation>没有可用的虚拟名片</translation>
@@ -22603,6 +22618,7 @@ Do you still want to close the window?</source>
 <context>
     <name>XMPP::Task</name>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/xmpp_task.cpp" line="168"/>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_task.cpp" line="165"/>
         <source>Disconnected</source>
         <translation>已断线</translation>
