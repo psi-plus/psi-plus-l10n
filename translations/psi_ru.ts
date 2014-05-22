@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ru">
+<TS version="2.0" language="ru">
 <context>
     <name>@default</name>
     <message>
@@ -166,7 +166,7 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;</translation>
     </message>
     <message>
         <source>Designer and Patcher</source>
-        <translation type="vanished">Дизайнер и автор патчей</translation>
+        <translation>Дизайнер и автор патчей</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="102"/>
@@ -9262,7 +9262,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
  * Распознавать &gt;цитаты в сообщениях
  * Кликабельные @ники, *тэги, #id_сообщений и другие управляющие элементы для подстановки их в строку ввода.
 
-Примечание: для корректной работы плагина опция &quot;options.html.chat.render&quot; должна быть установленна в &quot;true&quot;.</translation>
+Примечание: для корректной работы плагина опция &quot;options.html.chat.render&quot; должна быть установлена в &quot;true&quot;.</translation>
     </message>
 </context>
 <context>
