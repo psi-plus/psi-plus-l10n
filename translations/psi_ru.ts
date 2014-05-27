@@ -9143,8 +9143,9 @@ to play gomoku. He wants to play %2.</source>
 <context>
     <name>JT_VCard</name>
     <message>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1150"/>
         <source>No VCard available</source>
-        <translation type="vanished">vCard недоступен</translation>
+        <translation>vCard недоступен</translation>
     </message>
 </context>
 <context>
@@ -17001,92 +17002,77 @@ Proceed?</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2942"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2910"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2942"/>
         <source>Username</source>
         <translation>Имя пользователя</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2943"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2911"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2943"/>
         <source>Nickname</source>
         <translation>Ник</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2944"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2912"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2944"/>
         <source>Password</source>
         <translation>Пароль</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2945"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2913"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2945"/>
         <source>Name</source>
         <translation>Имя</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2946"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2914"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2946"/>
         <source>First Name</source>
         <translation>Имя</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2947"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2915"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2947"/>
         <source>Last Name</source>
         <translation>Фамилия</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2948"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2916"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2948"/>
         <source>E-mail</source>
         <translation>E-mail</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2949"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2917"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2949"/>
         <source>Address</source>
         <translation>Адрес</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2950"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2918"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2950"/>
         <source>City</source>
         <translation>Город</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2951"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2919"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2951"/>
         <source>State</source>
         <translation>Регион</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2952"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2920"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2952"/>
         <source>Zipcode</source>
         <translation>Почтовый индекс</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2953"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2921"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2953"/>
         <source>Phone</source>
         <translation>Номер телефона</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2954"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2922"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2954"/>
         <source>URL</source>
         <translation>URL</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2955"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2923"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2955"/>
         <source>Date</source>
         <translation>Дата</translation>
     </message>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/types.cpp" line="2956"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2924"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/types.cpp" line="2956"/>
         <source>Misc</source>
         <translation>Разное</translation>
     </message>
@@ -22404,8 +22390,7 @@ Do you still want to close the window?</source>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1150"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1082"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1149"/>
         <source>No VCard available</source>
         <translation>vCard недоступен</translation>
     </message>
@@ -22626,10 +22611,14 @@ Do you still want to close the window?</source>
 <context>
     <name>XMPP::Task</name>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/xmpp_task.cpp" line="168"/>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_task.cpp" line="165"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_task.cpp" line="183"/>
         <source>Disconnected</source>
         <translation>Отключён</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_task.cpp" line="195"/>
+        <source>Request timed out</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
