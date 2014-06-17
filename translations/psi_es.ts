@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="es" version="2.1">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="es">
 <context>
     <name>@default</name>
     <message>
@@ -62,13 +64,6 @@
         <location filename="../../psi-plus-snapshots/src/about.ui" line="42"/>
         <source>psi/psiplus_logo</source>
         <translation>psi/psiplus_logo</translation>
-    </message>
-    <message>
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2013 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/about.ui" line="106"/>
@@ -210,10 +205,6 @@ Copyright © 2001-2013 Equipo Psi.&lt;br&gt;
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="117"/>
         <source>Psimedia Patcher and Wiki English localization</source>
         <translation>Parcheador de Psimedia y localización de la wiki en inglés</translation>
-    </message>
-    <message>
-        <source>OpenSUSE Packager</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="96"/>
@@ -751,10 +742,6 @@ Cuando habilites esta opción, no podrás encontrar tu contraseña en los archiv
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="1041"/>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
         <translation>Almacenar la contraeña cifrada en vez de texto plano si el servidor soporta esta funcionalidad.</translation>
-    </message>
-    <message>
-        <source>Disable</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1467,7 +1454,7 @@ Si se selecciona, el servidor no guardará el historial para este contacto.</tra
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -2158,10 +2145,6 @@ La lista de excepciones por JID tiene dos modos de operación:
         <location filename="../../psi-plus-snapshots/src/avcall/calldlg.cpp" line="250"/>
         <source>Call duration: %1</source>
         <translation>Duración de la llamada: %1</translation>
-    </message>
-    <message>
-        <source>Call ended</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3400,12 +3383,18 @@ Nota: Para su correcto funcionamiento, la barra de herramientas &quot;Sala de ch
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/contactlistutil.cpp" line="87"/>
         <source>and %n contacts </source>
-        <translation><numerusform>y %n contacto  </numerusform><numerusform>y %n contactos </numerusform></translation>
+        <translation>
+            <numerusform>y %n contacto  </numerusform>
+            <numerusform>y %n contactos </numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/contactlistutil.cpp" line="92"/>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation><numerusform>Esto eliminará permanentemente: &lt;br&gt;%1&lt;br&gt;%2 y %n grupo de tu lista de contactos.</numerusform><numerusform>Esto eliminará permanentemente: &lt;br&gt;%1&lt;br&gt;%2 y %n grupos de tu lista de contactos.</numerusform></translation>
+        <translation>
+            <numerusform>Esto eliminará permanentemente: &lt;br&gt;%1&lt;br&gt;%2 y %n grupo de tu lista de contactos.</numerusform>
+            <numerusform>Esto eliminará permanentemente: &lt;br&gt;%1&lt;br&gt;%2 y %n grupos de tu lista de contactos.</numerusform>
+        </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistutil.cpp" line="101"/>
@@ -4190,7 +4179,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/disco.ui" line="28"/>
         <source>ToolBar will be placed here</source>
-        <comment>Don't translate this string</comment>
+        <comment>Don&apos;t translate this string</comment>
         <translation>La barra de herramientas se colocará aquí</translation>
     </message>
     <message>
@@ -5883,7 +5872,7 @@ Esto puede ocurrir si el programa del contacto no entendió nuestra solicitud, o
         <source>Unable to connect to peer for data transfer.
 
 Ensure that your Data Transfer settings are proper.  If you are behind
-a NAT router or firewall then you'll need to open the proper TCP port
+a NAT router or firewall then you&apos;ll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>No se puede conectar con el equipo del contacto para la transferencia de datos.
 
@@ -5896,7 +5885,7 @@ Si estás detrás de un router con NAT o un firewall, necesitarás abrir el puer
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
 
 This means that the Proxy service is either not functioning or it is
-unreachable.  If you are behind a firewall, then you'll need to ensure
+unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
 that outgoing TCP connections are allowed.</source>
         <translation>Fallo al conectar o activar el Proxy de Transferencia de Datos.
 
@@ -8069,7 +8058,7 @@ Puedes marcar o desmarcar un contacto para la eliminación de su historial desde
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -8082,7 +8071,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -8100,7 +8089,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -8118,7 +8107,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -8510,7 +8499,7 @@ p, li { white-space: pre-wrap; }
     <name>IcqDie</name>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="122"/>
-        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it's much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
+        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
         <translation>Te lo puedo decir como Linux, pero no te molestes. Ciertamente este humano recibirá este mensaje. Pero es mucho mejor charlar con él por Jabber. Te estás arriesgando, uno nunca sabe cuándo ICQ pueda morir, abuelita ya lo sobrevivió. Su JID: %1.
@@ -8521,7 +8510,7 @@ Sinceramente, Debian Sid.</translation>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="126"/>
         <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
 
-If you don't know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
+If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
         <translation>Te lo puedo decir como Linux, pero no te molestes. Este humano ya no usa ICQ, así que si todavía usas esa red no recibirá tus mensajes y tienes que comunicar con él vía Jabber. Su JID: %1.
 
@@ -8618,7 +8607,7 @@ Tiene un número de pequeñas configuraciones que te ayudarán:
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/imageplugin/imageplugin.cpp" line="310"/>
         <source>This plugin is designed to send images to roster contacts.
-Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
         <translation>Este complemento ha sido diseñado para enviar imágenes a los contactos del listado.
 El cliente de tu contacto debe soportar XEP-0071: XHTML-IM y soportar el sistema de datos: URI.
@@ -9230,7 +9219,7 @@ a jugar gomoku. Quiere jugar %2.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="236"/>
-        <source>can't create folder %1 
+        <source>can&apos;t create folder %1 
 caching avatars will be not available</source>
         <translation>no se puede crear la carpeta %1 
 estará disponible la caché de avatares</translation>
@@ -9903,13 +9892,6 @@ Evento(s) entrante(s) de:</translation>
         <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1767"/>
         <source>%1 events received</source>
         <translation>%1 eventos recibidos</translation>
-    </message>
-</context>
-<context>
-    <name>MainWin::Private</name>
-    <message>
-        <source>Diagnostics</source>
-        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11592,7 +11574,7 @@ Etiquetas: %1</translation>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -12207,7 +12189,7 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="409"/>
-        <source>Disable stopspam, if don't match any rule above
+        <source>Disable stopspam, if don&apos;t match any rule above
 (does not work for muc private messages)</source>
         <translation>Inhabilitar &apos;Detener spam&apos; si no coincide con ninguna de las reglas de arriba
 (no funciona para los mensajes privados de salas)</translation>
@@ -14762,9 +14744,9 @@ Selecciona la caja &lt;i&gt;Habilitar smileys&lt;/i&gt; si te gustaría que un t
     </message>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="1470"/>
-        <location filename="../tmp/src/psiaccount.cpp" line="3437"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3439"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="1462"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3405"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3407"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -15099,122 +15081,122 @@ Detalles: %1</translation>
         <translation>Invitación a la pizarra</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="2955"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2928"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="2957"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2930"/>
         <source>Incoming file</source>
         <translation>Archivo entrante</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="2955"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2928"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="2957"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2930"/>
         <source>Do you want to accept %1 (%2 kb) from %3?</source>
         <translation>¿Quieres aceptar %1 (%2 KB) de %3?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3004"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2977"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3006"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2979"/>
         <source>Logged out</source>
         <translation>Sesión terminada</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3438"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3406"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3440"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3408"/>
         <source>You must be connected to the server in order to do this.</source>
         <translation>Debes estar conectado al servidor para realizar esto.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3530"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3532"/>
         <source>Nested Groups Delimiter</source>
         <translation>Delimitador de Grupos Anidados</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3531"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3533"/>
         <source>Set a new delimiter of nested groups</source>
         <translation>Establecer un nuevo delimitador de grupos anidados</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3572"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3511"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3574"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3513"/>
         <source>Unregister from %1</source>
         <translation>Eliminar registro de %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3573"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3512"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3575"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3514"/>
         <source>Are you sure?</source>
         <translation>¿Estás seguro?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4158"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4089"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4160"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4091"/>
         <source>Name:	</source>
         <translation>Nombre:	</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4159"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4090"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4161"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4092"/>
         <source>Version:	</source>
         <translation>Versión:	</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4160"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4091"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4162"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4093"/>
         <source>Os:	</source>
         <translation>Sistema operativo:	</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4162"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4093"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4164"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4095"/>
         <source>Version Query Information</source>
         <translation>Información de la consulta de versión</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="5416"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="5347"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="5418"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="5349"/>
         <source>Headline</source>
         <translation>Titular</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6217"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6157"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6219"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6159"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
         <translation>Ha ocurrido un error al intentar firmar tu estado.
 Motivo: %1.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6327"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6267"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6337"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6277"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[ERROR: Este mensaje está cifrado, y no puedes descifrarlo.]</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6650"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6592"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6660"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6602"/>
         <source>No key</source>
         <translation>Sin clave</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6650"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6592"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6660"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6602"/>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Psi no pudo localizar una clave OpenPGP para uso con &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Ésto puede suceder si no tienes la clave pública indicada por la presencia firmada de tu contacto, o si éste no está indicando ninguna clave en su presencia.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6655"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6597"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6665"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6607"/>
         <source>&amp;Choose key manually</source>
         <translation>Es&amp;coger una clave manualmente</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6655"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6597"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6665"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6607"/>
         <source>Do &amp;nothing</source>
         <translation>No hacer &amp;nada</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6662"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6604"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6672"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6614"/>
         <source>Public Key: %1</source>
         <translation>Clave pública: %1</translation>
     </message>
@@ -16122,7 +16104,7 @@ Motivo: %1.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicli.h" line="39"/>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
-        <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
+        <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
         <translation>Establece estado. ESTADO debe ser uno de &apos;online&apos;, &apos;chat&apos;, &apos;away&apos;, &apos;xa&apos;, &apos;dnd&apos;, &apos;offline&apos;.</translation>
     </message>
     <message>
@@ -16363,296 +16345,346 @@ Puede significar que ya estás ejecutando otra instancia de Psi. Puede que exper
 <context>
     <name>PsiContactMenu::Private</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="276"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="278"/>
         <source>Re&amp;name</source>
         <translation>Re&amp;nombrar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="280"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="282"/>
         <source>&amp;Remove</source>
         <translation>&amp;Eliminar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="285"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="287"/>
         <source>&amp;Chat</source>
         <translation>&amp;Conversar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="288"/>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="389"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="290"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="391"/>
         <source>&amp;History</source>
         <translation>&amp;Historial</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="291"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="293"/>
         <source>Pro&amp;file</source>
         <translation>Per&amp;fil</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="294"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="296"/>
         <source>&amp;Photos</source>
         <translation>Fo&amp;tos</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="297"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="299"/>
         <source>Send &amp;E-mail</source>
         <translation>&amp;Enviar correo</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="300"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="302"/>
         <source>&amp;Add</source>
         <translation>&amp;Añadir</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="303"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="305"/>
         <source>A&amp;uth</source>
         <translation>A&amp;utenticar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="306"/>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="527"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="308"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="532"/>
         <source>&amp;Block</source>
         <translation>&amp;Bloquear</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="309"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="311"/>
         <source>Disable mood notifications</source>
         <translation>Inhabilitar notificaciones de estado de ánimo</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="328"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="330"/>
         <source>Add/Authorize to Contact List</source>
         <translation>Añadir/Autorizar a la lista de contactos</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="331"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="333"/>
+        <source>&amp;Log On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="337"/>
+        <source>Log &amp;Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="340"/>
         <source>&amp;Receive Incoming Event</source>
         <translation>&amp;Recibir evento entrante</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="335"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="344"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="445"/>
         <source>Send &amp;Message</source>
         <translation>Enviar &amp;mensaje</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="339"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="348"/>
         <source>Open &amp;Chat Window</source>
         <translation>Abrir ventana de &amp;conversación</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="343"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="352"/>
         <source>Open a &amp;Whiteboard</source>
         <translation>Abrir &amp;pizarra</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="346"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="355"/>
         <source>Voice Call</source>
         <translation>Llamada de voz</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="349"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="358"/>
         <source>Send &amp;File</source>
         <translation>Enviar arc&amp;hivo</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="352"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="361"/>
+        <source>Re&amp;send Authorization To</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="364"/>
+        <source>Re&amp;request Authorization From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="367"/>
+        <source>Re&amp;move Authorization From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="396"/>
+        <source>In&amp;vite To</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="404"/>
+        <source>Send Message T&amp;o</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="407"/>
+        <source>Open Chat &amp;To</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="410"/>
+        <source>Open a White&amp;board To</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="416"/>
+        <source>&amp;Active Chats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="466"/>
+        <source>Manage &amp;Contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="471"/>
+        <source>&amp;Authorization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;Log on</source>
-        <translation>Iniciar &amp;sesión</translation>
+        <translation type="vanished">Iniciar &amp;sesión</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="356"/>
         <source>Log Off</source>
-        <translation>Cerrar sesión</translation>
+        <translation type="vanished">Cerrar sesión</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="359"/>
         <source>Resend Authorization To</source>
-        <translation>Reenviar autorización a</translation>
+        <translation type="vanished">Reenviar autorización a</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="362"/>
         <source>Rerequest Authorization From</source>
-        <translation>Reenviar petición de autorización de</translation>
+        <translation type="vanished">Reenviar petición de autorización de</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="365"/>
         <source>Remove Authorization From</source>
-        <translation>Eliminar autorización de</translation>
+        <translation type="vanished">Eliminar autorización de</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="368"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="370"/>
         <source>Sen&amp;d Status</source>
         <translation>Enviar e&amp;stado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="371"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="373"/>
         <source>&amp;Assign Custom Picture</source>
         <translation>&amp;Asignar imagen personalizada</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="375"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="377"/>
         <source>&amp;Clear Custom Picture</source>
         <translation>&amp;Limpiar foto personalizada</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="379"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="381"/>
         <source>Assign Open&amp;PGP Key</source>
         <translation>Asignar llave Open&amp;PGP</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="382"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="384"/>
         <source>Unassign Open&amp;PGP Key</source>
         <translation>Quitar llave Open&amp;PGP</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="385"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="387"/>
         <source>User &amp;Info</source>
         <translation>&amp;Información del usuario</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="394"/>
         <source>Invite To</source>
-        <translation>Invitar a</translation>
+        <translation type="vanished">Invitar a</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="398"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="401"/>
         <source>&amp;Group</source>
         <translation>&amp;Grupo</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="401"/>
         <source>Send Message To</source>
-        <translation>Enviar mensaje a</translation>
+        <translation type="vanished">Enviar mensaje a</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="404"/>
         <source>Open Chat To</source>
-        <translation>Abrir conversación con</translation>
+        <translation type="vanished">Abrir conversación con</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="407"/>
         <source>Open a Whiteboard To</source>
-        <translation>Abrir pizarra con</translation>
+        <translation type="vanished">Abrir pizarra con</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="410"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="413"/>
         <source>E&amp;xecute Command</source>
         <translation>E&amp;jecutar comando</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="413"/>
         <source>Active Chats</source>
-        <translation>Conversaciones activas</translation>
+        <translation type="vanished">Conversaciones activas</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="417"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="420"/>
         <source>Hide</source>
         <translation>Ocultar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="421"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="424"/>
         <source>Show</source>
         <translation>Mostrar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="425"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="428"/>
         <source>Leave</source>
         <translation>Abandonar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="429"/>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="889"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="432"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="894"/>
         <source>Block</source>
         <translation>Bloquear</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="432"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="435"/>
         <source>Always Visible</source>
         <translation>Siempre visible</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="466"/>
         <source>Authorization</source>
-        <translation>Autorización</translation>
+        <translation type="vanished">Autorización</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="473"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="478"/>
         <source>&amp;Picture</source>
         <translation>Fo&amp;to</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="527"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="532"/>
         <source>&amp;Unblock</source>
         <translation>&amp;Desbloquear</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="648"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="653"/>
         <source>Invitation</source>
         <translation>Invitación</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="649"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="654"/>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
         <translation>Enviada invitación a sala de charla para &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="681"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="686"/>
         <source>Add</source>
         <translation>Añadir</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="682"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="687"/>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
         <translation>Añadido/Autorizado &lt;b&gt;%1&lt;/b&gt; a la lista de contactos.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="748"/>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="757"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="753"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="762"/>
         <source>Authorize</source>
         <translation>Autorizar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="749"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="754"/>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
         <translation>Enviar autorización a &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="758"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="763"/>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
         <translation>Reenviar petición de autorización a &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="766"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="771"/>
         <source>Remove</source>
         <translation>Eliminar</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="767"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="772"/>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
         <translation>¿Estás seguro que quieres eliminar la autorización de &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="768"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="773"/>
         <source>&amp;Yes</source>
         <translation>&amp;Sí</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="768"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="773"/>
         <source>&amp;No</source>
         <translation>&amp;No</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="796"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="801"/>
         <source>Choose an Image</source>
         <translation>Elegir una imagen</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="796"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="801"/>
         <source>All files (*.png *.jpg *.gif)</source>
         <translation>Todos los archivos (*.png *.jpg *.gif)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="889"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="894"/>
         <source>Unblock</source>
         <translation>Desbloquear</translation>
     </message>
@@ -18292,22 +18324,34 @@ Descripción: </translation>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="307"/>
         <source>%n day(s) </source>
-        <translation><numerusform>%n día </numerusform><numerusform>%n días </numerusform></translation>
+        <translation>
+            <numerusform>%n día </numerusform>
+            <numerusform>%n días </numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="310"/>
         <source>%n hour(s) </source>
-        <translation><numerusform>%n hora </numerusform><numerusform>%n horas </numerusform></translation>
+        <translation>
+            <numerusform>%n hora </numerusform>
+            <numerusform>%n horas </numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="313"/>
         <source>%n minute(s) </source>
-        <translation><numerusform>%n minuto</numerusform><numerusform>%n minutos</numerusform></translation>
+        <translation>
+            <numerusform>%n minuto</numerusform>
+            <numerusform>%n minutos</numerusform>
+        </translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="316"/>
         <source>%n second(s) </source>
-        <translation><numerusform>%n segundo</numerusform><numerusform>%n segundos</numerusform></translation>
+        <translation>
+            <numerusform>%n segundo</numerusform>
+            <numerusform>%n segundos</numerusform>
+        </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickdownloader.cpp" line="43"/>
@@ -18404,24 +18448,6 @@ El mensaje no pudo ser enviado.</translation>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="875"/>
         <source>Psi OTR</source>
         <translation>Psi OTR</translation>
-    </message>
-    <message>
-        <source>Generating keys for account &quot;%1&quot;.
-This may take a while.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Please wait...</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Fingerprint for account &quot;%1&quot;:
-%2</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="821"/>
@@ -19076,7 +19102,10 @@ Razón: %1</translation>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="459"/>
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation><numerusform>celebra su cumpleaños en %n día</numerusform><numerusform>celebra su cumpleaños en %n días</numerusform></translation>
+        <translation>
+            <numerusform>celebra su cumpleaños en %n día</numerusform>
+            <numerusform>celebra su cumpleaños en %n días</numerusform>
+        </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="462"/>
@@ -19574,7 +19603,10 @@ Razón: %1</translation>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="497"/>
         <source>Added %n users to your roster.</source>
-        <translation><numerusform>Añadidos %n usuarios a tu lista de contactos.</numerusform><numerusform>Añadidos %n usuarios a tu lista de contactos.</numerusform></translation>
+        <translation>
+            <numerusform>Añadidos %n usuarios a tu lista de contactos.</numerusform>
+            <numerusform>Añadidos %n usuarios a tu lista de contactos.</numerusform>
+        </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="502"/>
@@ -21220,7 +21252,7 @@ Esperamos que disfrute usándolo tanto como nosotros haciéndolo!
         <source>You can type these special commands in chat and groupchat dialogs:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; '/me' is replaced by your nick&lt;/li&gt;
+&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
 &lt;/ul&gt;
 And these work only in groupchat dialog:
 &lt;ul&gt;
@@ -23168,22 +23200,9 @@ Deberías autenticar a %1 del mismo modo haciéndole una pregunta.</translation>
         <translation>No hay sesión cifrada activa</translation>
     </message>
     <message>
-        <source>Session ID between account &quot;%1&quot; and %2:&lt;br/&gt;%3</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Psi OTR</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="604"/>
         <source>No private key for account &quot;%1&quot;</source>
         <translation>No hay llave privada para la cuenta &apos;%1&apos;</translation>
-    </message>
-    <message>
-        <source>Fingerprint for account &quot;%1&quot;:
-%2</source>
-        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="580"/>
@@ -23735,7 +23754,7 @@ Reautorización...</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodnetman.cpp" line="276"/>
-        <source>Can't get files!
+        <source>Can&apos;t get files!
 Try remove cookies.</source>
         <translation>¡No se pueden obtener los archivos!
 Intente eliminar las cookies.</translation>
@@ -23842,7 +23861,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711</translation>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;

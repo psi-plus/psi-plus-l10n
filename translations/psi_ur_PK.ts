@@ -14601,9 +14601,9 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="1470"/>
-        <location filename="../tmp/src/psiaccount.cpp" line="3437"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3439"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="1462"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3405"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3407"/>
         <source>Error</source>
         <translation>نقص</translation>
     </message>
@@ -14938,122 +14938,122 @@ Details: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="2955"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2928"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="2957"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2930"/>
         <source>Incoming file</source>
         <translation>موصولہ مسل</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="2955"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2928"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="2957"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2930"/>
         <source>Do you want to accept %1 (%2 kb) from %3?</source>
         <translation>کیا آپ‫ %3 سے %1 (%2 kb) کو قبول کرنا چاہتے ہیں؟</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3004"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2977"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3006"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2979"/>
         <source>Logged out</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3438"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3406"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3440"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3408"/>
         <source>You must be connected to the server in order to do this.</source>
         <translation>ایسا کرنے کے لیے آپ کو پیش کار سے لازماً جڑنا ہو گا۔</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3530"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3532"/>
         <source>Nested Groups Delimiter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3531"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3533"/>
         <source>Set a new delimiter of nested groups</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3572"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3511"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3574"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3513"/>
         <source>Unregister from %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3573"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3512"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3575"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3514"/>
         <source>Are you sure?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4158"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4089"/>
-        <source>Name:	</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4159"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4090"/>
-        <source>Version:	</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="4160"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4091"/>
-        <source>Os:	</source>
+        <source>Name:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../tmp/src/psiaccount.cpp" line="4161"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4092"/>
+        <source>Version:	</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="4162"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4093"/>
+        <source>Os:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../tmp/src/psiaccount.cpp" line="4164"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4095"/>
         <source>Version Query Information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="5416"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="5347"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="5418"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="5349"/>
         <source>Headline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6217"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6157"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6219"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6159"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
         <translation>آپ کی حالت کو دستخط کرنے کی کوشش کے دوران نقص واقع ہوا۔
 دلیل‫: %1۔</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6327"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6267"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6337"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6277"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[یہ پیغام خفیہ کردہ ہے، اور آپ اسے خفیہ کشاہ کرنے میں ناکام ہیں ۔]</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6650"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6592"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6660"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6602"/>
         <source>No key</source>
         <translation>کلید نہیں</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6650"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6592"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6660"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6602"/>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>‫Psi &lt;b&gt;%1&lt;/b&gt; کے لیے کھولیں پی جی پی کلید کا محل وقوع  بتانے میں ناکام ہوا، &lt;br&gt;&lt;br&gt;یہ تب ہو سکتا ہے، جب آپ کے پاس وہ کلید نا ہو جو رابطہ فرد دستخط کے ذریعے تشہیر کر رہی ہو، یا رابطہ فرد کسی کلید کی تشہیر کر رہا ہو۔&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6655"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6597"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6665"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6607"/>
         <source>&amp;Choose key manually</source>
         <translation>دستی بہ کلید انتخاب کریں</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6655"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6597"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6665"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6607"/>
         <source>Do &amp;nothing</source>
         <translation>کچھ مت کریں</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6662"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6604"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6672"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6614"/>
         <source>Public Key: %1</source>
         <translation>ظاہر کلید‫: %1</translation>
     </message>
@@ -16202,296 +16202,346 @@ This may mean you are already running another instance of Psi. You may experienc
 <context>
     <name>PsiContactMenu::Private</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="276"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="278"/>
         <source>Re&amp;name</source>
         <translation>نیا نام دیں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="280"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="282"/>
         <source>&amp;Remove</source>
         <translation>ہٹائیں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="285"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="287"/>
         <source>&amp;Chat</source>
         <translation>بات چیت کریں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="288"/>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="389"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="290"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="391"/>
         <source>&amp;History</source>
         <translation>سابقات</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="291"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="293"/>
         <source>Pro&amp;file</source>
         <translation>پروفائل</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="294"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="296"/>
         <source>&amp;Photos</source>
         <translation>تصویریں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="297"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="299"/>
         <source>Send &amp;E-mail</source>
         <translation>ای میل بھیجیں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="300"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="302"/>
         <source>&amp;Add</source>
         <translation>اضافہ کریں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="303"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="305"/>
         <source>A&amp;uth</source>
         <translation>اختیار دیں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="306"/>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="527"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="308"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="532"/>
         <source>&amp;Block</source>
         <translation>بلاک کریں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="309"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="311"/>
         <source>Disable mood notifications</source>
         <translation>موڈ اعلانات نااہل بنائیں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="328"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="330"/>
         <source>Add/Authorize to Contact List</source>
         <translation>رابطہ افراد فہرست میں ڈالے/اختیار دیں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="331"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="333"/>
+        <source>&amp;Log On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="337"/>
+        <source>Log &amp;Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="340"/>
         <source>&amp;Receive Incoming Event</source>
         <translation>موصولہ وقوعہ وصول کریں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="335"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="344"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="445"/>
         <source>Send &amp;Message</source>
         <translation>پیغام بھیجیں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="339"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="348"/>
         <source>Open &amp;Chat Window</source>
         <translation>بات چیت دریچہ کھولیں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="343"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="352"/>
         <source>Open a &amp;Whiteboard</source>
         <translation>سفید تختہ کھولیں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="346"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="355"/>
         <source>Voice Call</source>
         <translation>آواز کال</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="349"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="358"/>
         <source>Send &amp;File</source>
         <translation>مسل بھیجیں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="352"/>
-        <source>&amp;Log on</source>
-        <translation>لاگ آن کریں</translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="356"/>
-        <source>Log Off</source>
-        <translation>لاگ آف کریں</translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="359"/>
-        <source>Resend Authorization To</source>
-        <translation>اختیار دہی پھر بھیجیں بنام</translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="362"/>
-        <source>Rerequest Authorization From</source>
-        <translation>اختیار دہی فرمائش از</translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="365"/>
-        <source>Remove Authorization From</source>
-        <translation>اختیار دہی ہٹائیں از</translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="368"/>
-        <source>Sen&amp;d Status</source>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="361"/>
+        <source>Re&amp;send Authorization To</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="371"/>
-        <source>&amp;Assign Custom Picture</source>
-        <translation>مخصوص تصویر تفویض کریں</translation>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="364"/>
+        <source>Re&amp;request Authorization From</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="375"/>
-        <source>&amp;Clear Custom Picture</source>
-        <translation>مخصوص تصویر صاف کریں</translation>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="367"/>
+        <source>Re&amp;move Authorization From</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="379"/>
-        <source>Assign Open&amp;PGP Key</source>
-        <translation>OpenPGP کلید تفویض کریں</translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="382"/>
-        <source>Unassign Open&amp;PGP Key</source>
-        <translation>OpenPGP کلید غیر تفویض کریں</translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="385"/>
-        <source>User &amp;Info</source>
-        <translation>صارف معلومات</translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="394"/>
-        <source>Invite To</source>
-        <translation>دعوت دیں بنام</translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="398"/>
-        <source>&amp;Group</source>
-        <translation>گروپ</translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="401"/>
-        <source>Send Message To</source>
-        <translation>پیغام بھیجیں بنام</translation>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="396"/>
+        <source>In&amp;vite To</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="404"/>
-        <source>Open Chat To</source>
-        <translation>بات چیت دریچہ کھولیں بنام</translation>
+        <source>Send Message T&amp;o</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="407"/>
-        <source>Open a Whiteboard To</source>
-        <translation>سفید تختہ کھولیں بنام</translation>
+        <source>Open Chat &amp;To</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="410"/>
-        <source>E&amp;xecute Command</source>
-        <translation>حکم کا نفاذ کریں</translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="413"/>
-        <source>Active Chats</source>
-        <translation>زیر عمل بات چیت دریچے</translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="417"/>
-        <source>Hide</source>
-        <translation type="unfinished">چھپائیں</translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="421"/>
-        <source>Show</source>
+        <source>Open a White&amp;board To</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="425"/>
-        <source>Leave</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="429"/>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="889"/>
-        <source>Block</source>
-        <translation type="unfinished">بلاک کرِیں</translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="432"/>
-        <source>Always Visible</source>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="416"/>
+        <source>&amp;Active Chats</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="466"/>
-        <source>Authorization</source>
-        <translation>اختیار دہی</translation>
+        <source>Manage &amp;Contact</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="473"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="471"/>
+        <source>&amp;Authorization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Log on</source>
+        <translation type="vanished">لاگ آن کریں</translation>
+    </message>
+    <message>
+        <source>Log Off</source>
+        <translation type="vanished">لاگ آف کریں</translation>
+    </message>
+    <message>
+        <source>Resend Authorization To</source>
+        <translation type="vanished">اختیار دہی پھر بھیجیں بنام</translation>
+    </message>
+    <message>
+        <source>Rerequest Authorization From</source>
+        <translation type="vanished">اختیار دہی فرمائش از</translation>
+    </message>
+    <message>
+        <source>Remove Authorization From</source>
+        <translation type="vanished">اختیار دہی ہٹائیں از</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="370"/>
+        <source>Sen&amp;d Status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="373"/>
+        <source>&amp;Assign Custom Picture</source>
+        <translation>مخصوص تصویر تفویض کریں</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="377"/>
+        <source>&amp;Clear Custom Picture</source>
+        <translation>مخصوص تصویر صاف کریں</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="381"/>
+        <source>Assign Open&amp;PGP Key</source>
+        <translation>OpenPGP کلید تفویض کریں</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="384"/>
+        <source>Unassign Open&amp;PGP Key</source>
+        <translation>OpenPGP کلید غیر تفویض کریں</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="387"/>
+        <source>User &amp;Info</source>
+        <translation>صارف معلومات</translation>
+    </message>
+    <message>
+        <source>Invite To</source>
+        <translation type="vanished">دعوت دیں بنام</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="401"/>
+        <source>&amp;Group</source>
+        <translation>گروپ</translation>
+    </message>
+    <message>
+        <source>Send Message To</source>
+        <translation type="vanished">پیغام بھیجیں بنام</translation>
+    </message>
+    <message>
+        <source>Open Chat To</source>
+        <translation type="vanished">بات چیت دریچہ کھولیں بنام</translation>
+    </message>
+    <message>
+        <source>Open a Whiteboard To</source>
+        <translation type="vanished">سفید تختہ کھولیں بنام</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="413"/>
+        <source>E&amp;xecute Command</source>
+        <translation>حکم کا نفاذ کریں</translation>
+    </message>
+    <message>
+        <source>Active Chats</source>
+        <translation type="vanished">زیر عمل بات چیت دریچے</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="420"/>
+        <source>Hide</source>
+        <translation type="unfinished">چھپائیں</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="424"/>
+        <source>Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="428"/>
+        <source>Leave</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="432"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="894"/>
+        <source>Block</source>
+        <translation type="unfinished">بلاک کرِیں</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="435"/>
+        <source>Always Visible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authorization</source>
+        <translation type="vanished">اختیار دہی</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="478"/>
         <source>&amp;Picture</source>
         <translation>تصویر</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="527"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="532"/>
         <source>&amp;Unblock</source>
         <translation>ان بلاک کریں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="648"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="653"/>
         <source>Invitation</source>
         <translation>دعوت</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="649"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="654"/>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
         <translation>مرسلہ گروپ بات چیت دعوت بنام &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="681"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="686"/>
         <source>Add</source>
         <translation>اضافہ کریں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="682"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="687"/>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
         <translation>&lt;b&gt;%1&lt;/b&gt; کو رابطہ فرد فہرست میں ڈال دیا ہے، اختیار دے دیا ہے</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="748"/>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="757"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="753"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="762"/>
         <source>Authorize</source>
         <translation>اختیار دیں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="749"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="754"/>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
         <translation>&lt;b&gt;%1&lt;/b&gt; کو اختیار بھیج دیا گیا۔</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="758"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="763"/>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
         <translation>&lt;b&gt;%1&lt;/b&gt; سے اختیار دوبارہ فرمائیش کیا گیا۔</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="766"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="771"/>
         <source>Remove</source>
         <translation>ہٹائیں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="767"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="772"/>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
         <translation>کیا آپ یقیناً اختیار دہی ہٹانا چاہتے ہیں از‫ &lt;b&gt;%1&lt;/b&gt;‬؟</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="768"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="773"/>
         <source>&amp;Yes</source>
         <translation>ہاں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="768"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="773"/>
         <source>&amp;No</source>
         <translation>نہیں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="796"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="801"/>
         <source>Choose an Image</source>
         <translation>کوئی نقش انتخاب کریں</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="796"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="801"/>
         <source>All files (*.png *.jpg *.gif)</source>
         <translation>تمام مسلیں‫(*.png *.jpg *.gif)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="889"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="894"/>
         <source>Unblock</source>
         <translation type="unfinished"></translation>
     </message>

@@ -14756,9 +14756,9 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="1470"/>
-        <location filename="../tmp/src/psiaccount.cpp" line="3437"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3439"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="1462"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3405"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3407"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
@@ -15093,122 +15093,122 @@ Details: %1</source>
         <translation>白板邀請</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="2955"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2928"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="2957"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2930"/>
         <source>Incoming file</source>
         <translation>進來的檔案</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="2955"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2928"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="2957"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2930"/>
         <source>Do you want to accept %1 (%2 kb) from %3?</source>
         <translation>你想要接受 %1 (%2 kb) 從 %3 嗎?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3004"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2977"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3006"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2979"/>
         <source>Logged out</source>
         <translation>退出</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3438"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3406"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3440"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3408"/>
         <source>You must be connected to the server in order to do this.</source>
         <translation>為了作這個你必須連接到伺服器。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3530"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3532"/>
         <source>Nested Groups Delimiter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3531"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3533"/>
         <source>Set a new delimiter of nested groups</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3572"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3511"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3574"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3513"/>
         <source>Unregister from %1</source>
         <translation>註銷從%1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="3573"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3512"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="3575"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3514"/>
         <source>Are you sure?</source>
         <translation>你確定？</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4158"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4089"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4160"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4091"/>
         <source>Name:	</source>
         <translation>名稱:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4159"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4090"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4161"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4092"/>
         <source>Version:	</source>
         <translation>版本:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4160"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4091"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4162"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4093"/>
         <source>Os:	</source>
         <translation>Os:	</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="4162"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4093"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="4164"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4095"/>
         <source>Version Query Information</source>
         <translation>版本查詢資訊</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="5416"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="5347"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="5418"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="5349"/>
         <source>Headline</source>
         <translation>標題:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6217"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6157"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6219"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6159"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
         <translation>簽入你的狀態時發生錯誤。
 原因: %1。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6327"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6267"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6337"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6277"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[錯誤: 這個資訊已被加密, 而你無法解密。]</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6650"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6592"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6660"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6602"/>
         <source>No key</source>
         <translation>沒有鑰匙</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6650"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6592"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6660"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6602"/>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Psi 無法定位 &lt;b&gt;%1&lt;/b&gt; 所使用的 OpenPGP 鑰匙。&lt;br&gt;&lt;br&gt;這可能是因為你沒有連絡人簽署發佈的鑰匙, 或是連絡人根本沒有發佈鑰匙。&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6655"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6597"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6665"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6607"/>
         <source>&amp;Choose key manually</source>
         <translation>手動選擇鑰匙(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6655"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6597"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6665"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6607"/>
         <source>Do &amp;nothing</source>
         <translation>什麼都不做(&amp;N)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6662"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6604"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6672"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6614"/>
         <source>Public Key: %1</source>
         <translation>公開金鑰: %1</translation>
     </message>
@@ -16357,296 +16357,346 @@ This may mean you are already running another instance of Psi. You may experienc
 <context>
     <name>PsiContactMenu::Private</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="276"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="278"/>
         <source>Re&amp;name</source>
         <translation>重新命名(&amp;N)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="280"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="282"/>
         <source>&amp;Remove</source>
         <translation>刪除(&amp;R)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="285"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="287"/>
         <source>&amp;Chat</source>
         <translation>對話(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="288"/>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="389"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="290"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="391"/>
         <source>&amp;History</source>
         <translation>歷史(&amp;H)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="291"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="293"/>
         <source>Pro&amp;file</source>
         <translation>個人配置 (&amp;F)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="294"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="296"/>
         <source>&amp;Photos</source>
         <translation>照片(&amp;P)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="297"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="299"/>
         <source>Send &amp;E-mail</source>
         <translation>發送 &amp;E-mail</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="300"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="302"/>
         <source>&amp;Add</source>
         <translation>添加(&amp;A)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="303"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="305"/>
         <source>A&amp;uth</source>
         <translation>授權(&amp;U)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="306"/>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="527"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="308"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="532"/>
         <source>&amp;Block</source>
         <translation>封鎖(&amp;B)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="309"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="311"/>
         <source>Disable mood notifications</source>
         <translation>停用心情提醒</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="328"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="330"/>
         <source>Add/Authorize to Contact List</source>
         <translation>添加/授權到連絡人清單</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="331"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="333"/>
+        <source>&amp;Log On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="337"/>
+        <source>Log &amp;Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="340"/>
         <source>&amp;Receive Incoming Event</source>
         <translation>接收進來的事件(&amp;R)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="335"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="344"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="445"/>
         <source>Send &amp;Message</source>
         <translation>發送資訊(&amp;M)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="339"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="348"/>
         <source>Open &amp;Chat Window</source>
         <translation>打開對話視窗(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="343"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="352"/>
         <source>Open a &amp;Whiteboard</source>
         <translation>打開白板(&amp;W)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="346"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="355"/>
         <source>Voice Call</source>
         <translation>語音視頻</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="349"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="358"/>
         <source>Send &amp;File</source>
         <translation>發送檔案(&amp;F)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="352"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="361"/>
+        <source>Re&amp;send Authorization To</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="364"/>
+        <source>Re&amp;request Authorization From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="367"/>
+        <source>Re&amp;move Authorization From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="396"/>
+        <source>In&amp;vite To</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="404"/>
+        <source>Send Message T&amp;o</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="407"/>
+        <source>Open Chat &amp;To</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="410"/>
+        <source>Open a White&amp;board To</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="416"/>
+        <source>&amp;Active Chats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="466"/>
+        <source>Manage &amp;Contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="471"/>
+        <source>&amp;Authorization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;Log on</source>
-        <translation>登入(&amp;L)</translation>
+        <translation type="vanished">登入(&amp;L)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="356"/>
         <source>Log Off</source>
-        <translation>註銷</translation>
+        <translation type="vanished">註銷</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="359"/>
         <source>Resend Authorization To</source>
-        <translation>重發送授權到</translation>
+        <translation type="vanished">重發送授權到</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="362"/>
         <source>Rerequest Authorization From</source>
-        <translation>要求授權從</translation>
+        <translation type="vanished">要求授權從</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="365"/>
         <source>Remove Authorization From</source>
-        <translation>刪除授權從</translation>
+        <translation type="vanished">刪除授權從</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="368"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="370"/>
         <source>Sen&amp;d Status</source>
         <translation>發送狀態(&amp;D)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="371"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="373"/>
         <source>&amp;Assign Custom Picture</source>
         <translation>指定自定圖片(&amp;A)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="375"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="377"/>
         <source>&amp;Clear Custom Picture</source>
         <translation>清除自定圖片(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="379"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="381"/>
         <source>Assign Open&amp;PGP Key</source>
         <translation>指定 Open&amp;PGP 鑰匙</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="382"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="384"/>
         <source>Unassign Open&amp;PGP Key</source>
         <translation>取消指定 Open&amp;PGP 鑰匙</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="385"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="387"/>
         <source>User &amp;Info</source>
         <translation>使用者資訊(&amp;I)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="394"/>
         <source>Invite To</source>
-        <translation>邀請</translation>
+        <translation type="vanished">邀請</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="398"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="401"/>
         <source>&amp;Group</source>
         <translation>群組(&amp;G)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="401"/>
         <source>Send Message To</source>
-        <translation>發送資訊到</translation>
+        <translation type="vanished">發送資訊到</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="404"/>
         <source>Open Chat To</source>
-        <translation>打開對話到</translation>
+        <translation type="vanished">打開對話到</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="407"/>
         <source>Open a Whiteboard To</source>
-        <translation>打開白板到</translation>
+        <translation type="vanished">打開白板到</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="410"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="413"/>
         <source>E&amp;xecute Command</source>
         <translation>執行指令(&amp;X)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="413"/>
         <source>Active Chats</source>
-        <translation>活躍的對話</translation>
+        <translation type="vanished">活躍的對話</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="417"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="420"/>
         <source>Hide</source>
         <translation>隱藏</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="421"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="424"/>
         <source>Show</source>
         <translation>顯示</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="425"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="428"/>
         <source>Leave</source>
         <translation>離開</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="429"/>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="889"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="432"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="894"/>
         <source>Block</source>
         <translation>封鎖</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="432"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="435"/>
         <source>Always Visible</source>
         <translation>始終可見</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="466"/>
         <source>Authorization</source>
-        <translation>授權</translation>
+        <translation type="vanished">授權</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="473"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="478"/>
         <source>&amp;Picture</source>
         <translation>圖片(&amp;P)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="527"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="532"/>
         <source>&amp;Unblock</source>
         <translation>解除封鎖(&amp;U)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="648"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="653"/>
         <source>Invitation</source>
         <translation>邀請</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="649"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="654"/>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
         <translation>發送群組邀請給 &lt;b&gt;%1&lt;/b&gt;。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="681"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="686"/>
         <source>Add</source>
         <translation>添加</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="682"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="687"/>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
         <translation>已添加/已授權 &lt;b&gt;%1&lt;/b&gt; 到連絡人清單。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="748"/>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="757"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="753"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="762"/>
         <source>Authorize</source>
         <translation>授權</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="749"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="754"/>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
         <translation>發送授權到 &lt;b&gt;%1&lt;/b&gt;。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="758"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="763"/>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
         <translation>已從 &lt;b&gt;%1&lt;/b&gt; 要求授權。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="766"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="771"/>
         <source>Remove</source>
         <translation>刪除</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="767"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="772"/>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
         <translation>你確定要取消 &lt;b&gt;%1&lt;/b&gt; 的授權嗎?</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="768"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="773"/>
         <source>&amp;Yes</source>
         <translation>是(&amp;Y)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="768"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="773"/>
         <source>&amp;No</source>
         <translation>否(&amp;N)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="796"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="801"/>
         <source>Choose an Image</source>
         <translation>選擇一個圖片</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="796"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="801"/>
         <source>All files (*.png *.jpg *.gif)</source>
         <translation>所有檔案 (*.png *.jpg *.gif)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="889"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="894"/>
         <source>Unblock</source>
         <translation>解除封鎖</translation>
     </message>
