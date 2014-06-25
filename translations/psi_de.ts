@@ -695,7 +695,7 @@ Aktivieren Sie &lt;b&gt;Neues Konto registrieren&lt;/b&gt;, wenn Psi versuchen s
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="835"/>
         <source>Default priority:</source>
-        <translation>Standard Priorität:</translation>
+        <translation>Standardpriorität:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="869"/>
@@ -799,7 +799,7 @@ Wenn Sie diese Option aktivieren, können Sie Ihr Passwort nicht in den Konfigur
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="136"/>
         <source>Depends on status</source>
-        <translation>Vom Status abhängig</translation>
+        <translation>Statusabhängig</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="160"/>
@@ -1116,7 +1116,7 @@ der Inaktivität getrennt wird (z. B. von Ihrem Provider oder durch Ihren Router
     <message>
         <location filename="../../psi-plus-snapshots/src/accountregdlg.cpp" line="130"/>
         <source>Cannot enable SSL/TLS. QCA2 Plugin not found.</source>
-        <translation>SSL/TLS kann nicht aktiviert werden. QCA2-Plugin nicht vorhanden.</translation>
+        <translation>SSL/TLS kann nicht aktiviert werden. QCA2-Plugin nicht gefunden.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountregdlg.cpp" line="169"/>
@@ -1131,7 +1131,7 @@ der Inaktivität getrennt wird (z. B. von Ihrem Provider oder durch Ihren Router
     <message>
         <location filename="../../psi-plus-snapshots/src/accountregdlg.cpp" line="192"/>
         <source>You have entered an invalid server name</source>
-        <translation>Sie haben einen ungültigen Servernamen angegeben</translation>
+        <translation>Sie haben einen ungültigen Server-Namen angegeben</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountregdlg.cpp" line="271"/>
@@ -1761,7 +1761,7 @@ Um korrekt zu funktionieren, benötigt das Plugin einen Client auf der Gegenseit
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="520"/>
         <source>Auto Reply Message:</source>
-        <translation>Auto-Antwort Nachricht:</translation>
+        <translation>Auto-Antwort:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="525"/>
@@ -9814,7 +9814,7 @@ Grund: %1</translation>
         <location filename="../tmp/src/mainwin.cpp" line="1212"/>
         <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1188"/>
         <source>Security Plugins Diagnostic Text</source>
-        <translation>Diagnosetext für Sicherheits-Plugin</translation>
+        <translation>Diagnosetext der Sicherheits-Plugins</translation>
     </message>
     <message>
         <location filename="../tmp/src/mainwin.cpp" line="1221"/>
@@ -10472,7 +10472,7 @@ Tags: %1</translation>
         <location filename="../tmp/src/options/opt_appearance.ui" line="435"/>
         <location filename="../../psi-plus-snapshots/src/options/opt_appearance.ui" line="435"/>
         <source>Status messages:</source>
-        <translation>Status-Nachrichten:</translation>
+        <translation>Statusnachrichten:</translation>
     </message>
     <message>
         <location filename="../tmp/src/options/opt_appearance.ui" line="461"/>
@@ -10665,7 +10665,7 @@ Tags: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_application.ui" line="193"/>
         <source>Proxy Settings</source>
-        <translation>Sicherheits-Einstellungen</translation>
+        <translation>Proxy-Einstellungen</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_application.ui" line="203"/>
@@ -11040,7 +11040,7 @@ Tags: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_popups.ui" line="182"/>
         <source>Maximum status length:</source>
-        <translation>Maximale Status-Nachrichten Länge:</translation>
+        <translation>Maximale Statusnachrichten-Länge:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_popups.ui" line="211"/>
@@ -11380,12 +11380,12 @@ Tags: %1</translation>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="47"/>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="78"/>
         <source> minutes</source>
-        <translation>Minuten</translation>
+        <translation> Minuten</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="54"/>
         <source>Auto offline after:</source>
-        <translation>Auto offline nach:</translation>
+        <translation>Automatisches &quot;Offline&quot; nach:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="61"/>
@@ -11395,7 +11395,7 @@ Tags: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="68"/>
         <source>Auto away after:</source>
-        <translation>Auto Abwesenheit nach:</translation>
+        <translation>Automatisches &quot;Abwesend&quot; nach:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="127"/>
@@ -11411,7 +11411,7 @@ Tags: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="169"/>
         <source>Default priority</source>
-        <translation>Standard Priorität</translation>
+        <translation>Standardpriorität</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="179"/>
@@ -11489,7 +11489,7 @@ Tags: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.ui" line="103"/>
         <source>Status menus</source>
-        <translation>Status Menüs</translation>
+        <translation>Statusmenüs</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.ui" line="117"/>
@@ -11504,7 +11504,7 @@ Tags: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.ui" line="148"/>
         <source>With standard statuses</source>
-        <translation>Mit standard Status</translation>
+        <translation>Mit Standardstatus</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.ui" line="153"/>
@@ -12557,7 +12557,7 @@ Aktiviere die &quot;Nachrichtenarchivierung&quot;-Option zur Verwendung!</transl
         <location filename="../tmp/src/options/opt_appearance.cpp" line="244"/>
         <location filename="../../psi-plus-snapshots/src/options/opt_appearance.cpp" line="244"/>
         <source>Status message</source>
-        <translation>Status-Nachricht</translation>
+        <translation>Statusnachricht</translation>
     </message>
 </context>
 <context>
@@ -13118,7 +13118,7 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_status.cpp" line="7"/>
         <source>Status preferences</source>
-        <translation>Status-Anzeige konfigurieren</translation>
+        <translation>Statusanzeige konfigurieren</translation>
     </message>
 </context>
 <context>
@@ -13126,12 +13126,12 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.cpp" line="21"/>
         <source>Auto status and priority</source>
-        <translation>Auto Status und Priorität</translation>
+        <translation>Auto-Status und Priorität</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.cpp" line="21"/>
         <source>Auto status and priority preferences</source>
-        <translation>Auto Status- und Prioritätseinstellungen</translation>
+        <translation>Auto-Status- und Prioritätseinstellungen</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.cpp" line="43"/>
@@ -13151,7 +13151,7 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.cpp" line="85"/>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
-        <translation>Legt die Status-Nachricht fest, die bei einem automatischen Status-Wechsel verwendet wird. Siehe obige Optionen.</translation>
+        <translation>Legt die Statusnachricht fest, die bei einem automatischen Statuswechsel verwendet wird. Siehe obige Optionen.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.cpp" line="88"/>
@@ -13169,7 +13169,7 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.cpp" line="24"/>
         <source>General status preferences</source>
-        <translation>Allgemeine Status Einstellungen</translation>
+        <translation>Allgemeine Statuseinstellungen</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.cpp" line="54"/>
@@ -13209,7 +13209,7 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.cpp" line="91"/>
         <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
-        <translation>Jabber erlaubt es, ausführliche Status-Nachrichten für alle Status-Arten zu setzen. Normalerweise fragt Psi nicht nach einer Status-Nachricht, wenn Sie zu &quot;Online&quot; wechseln. Aktivieren Sie diese Option, wenn Sie auch dann eine Status-Nachricht eingeben möchten.</translation>
+        <translation>Jabber erlaubt es, ausführliche Statusnachrichten für alle Statusarten zu setzen. Normalerweise fragt Psi nicht nach einer Statusnachricht, wenn Sie zu &quot;Online&quot; wechseln. Aktivieren Sie diese Option, wenn Sie auch dann eine Statusnachricht eingeben möchten.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.cpp" line="346"/>
@@ -13220,12 +13220,12 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.cpp" line="346"/>
         <source>Can&apos;t create a blank preset!</source>
-        <translation>Sie können keine leere Status-Vorgabe erzeugen!</translation>
+        <translation>Sie können keine leere Statusvorgabe erzeugen!</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.cpp" line="350"/>
         <source>You already have a preset with that name!</source>
-        <translation>Es existiert bereits eine Status-Vorgabe mit diesem Namen.</translation>
+        <translation>Es existiert bereits eine Statusvorgabe mit diesem Namen.</translation>
     </message>
 </context>
 <context>
@@ -14664,7 +14664,7 @@ Aktivieren Sie die Option &quot;Emoticons verwenden&quot;, wenn Sie statt dem Te
     <message>
         <location filename="../../psi-plus-snapshots/src/proxy.cpp" line="315"/>
         <source>Enter the hostname and port of your proxy server.</source>
-        <translation>Geben Sie den Servernamen und den Port Ihres Proxy-Servers ein.</translation>
+        <translation>Geben Sie den Server-Namen und den Port Ihres Proxy-Servers ein.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/proxy.cpp" line="316"/>
@@ -15288,13 +15288,13 @@ Grund: %1.</translation>
         <location filename="../tmp/src/psiactionlist.cpp" line="167"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="167"/>
         <source>Show Status Messages</source>
-        <translation>Status-Nachrichten anzeigen</translation>
+        <translation>Statusnachrichten anzeigen</translation>
     </message>
     <message>
         <location filename="../tmp/src/psiactionlist.cpp" line="168"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="168"/>
         <source>Toggles visibility of status messages of contacts</source>
-        <translation>Bestimmt, ob die Status-Nachrichten der Kontake angezeigt werden sollen</translation>
+        <translation>Bestimmt, ob die Statusnachrichten der Kontake angezeigt werden sollen</translation>
     </message>
     <message>
         <location filename="../tmp/src/psiactionlist.cpp" line="182"/>
@@ -15596,7 +15596,7 @@ Grund: %1.</translation>
         <location filename="../tmp/src/psiactionlist.cpp" line="315"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="315"/>
         <source>Smaller alternative to the Status button</source>
-        <translation>Kleinere Alternative zum Status-Button</translation>
+        <translation>Kleinere Alternative zum Statusknopf</translation>
     </message>
     <message>
         <location filename="../tmp/src/psiactionlist.cpp" line="317"/>
@@ -18962,7 +18962,7 @@ Passwort: %5</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/userlist.cpp" line="1053"/>
         <source>Status Message</source>
-        <translation>Status-Nachricht</translation>
+        <translation>Statusnachricht</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/userlist.cpp" line="1074"/>
@@ -18977,7 +18977,7 @@ Passwort: %5</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/userlist.cpp" line="1089"/>
         <source>Last Status Message</source>
-        <translation>Letzte Status-Nachricht</translation>
+        <translation>Letzte Statusnachricht</translation>
     </message>
 </context>
 <context>
@@ -19931,7 +19931,7 @@ Grund: %1</translation>
     <message>
         <location filename="../tmp/option_translations.cpp" line="25"/>
         <source>Show Status Message</source>
-        <translation>Status-Nachricht anzeigen</translation>
+        <translation>Statusnachricht anzeigen</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="26"/>
@@ -20637,13 +20637,13 @@ Dies sorgt für das korrekte Anwenden aller Einstellungen (Symbole, Werkzeugleis
         <location filename="../tmp/src/statusdlg.cpp" line="254"/>
         <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="254"/>
         <source>New Status Preset</source>
-        <translation>Neue Status-Vorgabe</translation>
+        <translation>Neue Statusvorgabe</translation>
     </message>
     <message>
         <location filename="../tmp/src/statusdlg.cpp" line="255"/>
         <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="255"/>
         <source>Please enter a name for the new status preset:</source>
-        <translation>Bitte geben Sie einen Namen für die neue Status-Vorgabe ein:</translation>
+        <translation>Bitte geben Sie einen Namen für die neue Statusvorgabe ein:</translation>
     </message>
     <message>
         <location filename="../tmp/src/statusdlg.cpp" line="262"/>
@@ -20657,13 +20657,13 @@ Dies sorgt für das korrekte Anwenden aller Einstellungen (Symbole, Werkzeugleis
         <location filename="../tmp/src/statusdlg.cpp" line="263"/>
         <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="263"/>
         <source>Can&apos;t create a blank preset!</source>
-        <translation>Sie können keine leere Status-Vorgabe erzeugen!</translation>
+        <translation>Sie können keine leere Statusvorgabe erzeugen!</translation>
     </message>
     <message>
         <location filename="../tmp/src/statusdlg.cpp" line="267"/>
         <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="267"/>
         <source>You already have a preset with that name!</source>
-        <translation>Es existiert bereits eine Status-Vorgabe mit diesem Namen.</translation>
+        <translation>Es existiert bereits eine Statusvorgabe mit diesem Namen.</translation>
     </message>
 </context>
 <context>
@@ -21091,7 +21091,7 @@ Korrigieren Sie und versuchen Sie es erneut.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/iris/tools/xmpptest/test.ui" line="210"/>
         <source>Security Settings</source>
-        <translation>Sicherheits-Einstellungen</translation>
+        <translation>Sicherheitseinstellungen</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/tools/xmpptest/test.ui" line="216"/>
@@ -21285,7 +21285,7 @@ Und diese funktionieren nur in Chat-Räumen:
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="92"/>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
-        <translation>Wussten Sie, dass Sie im Benutzerkonten-Dialog mit einem Häkchen einzelne Benutzerkonten aktivieren/deaktivieren können? Das ist nützlich, wenn Sie einzelne Benutzerkonten nur selten verwenden. So nehmen sie keinen Platz in der Kontaktliste weg und reagieren auch nicht auf Status-Wechsel.</translation>
+        <translation>Wussten Sie, dass Sie im Benutzerkonten-Dialog mit einem Häkchen einzelne Benutzerkonten aktivieren/deaktivieren können? Das ist nützlich, wenn Sie einzelne Benutzerkonten nur selten verwenden. So nehmen sie keinen Platz in der Kontaktliste weg und reagieren auch nicht auf Statuswechsel.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="94"/>
@@ -21315,7 +21315,7 @@ Und diese funktionieren nur in Chat-Räumen:
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="104"/>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
-        <translation>Sie können mit einem Rechts-Klick auf den Servernamen in Ihrer Kontaktliste viele verschiedene Aktionen durchführen.  Sie können den Status ändern, die Benutzerkonto-Einstellungen ändern, administrative Aktionen durchführen (wenn Sie dazu berechtigt sind) und mehr.</translation>
+        <translation>Sie können mit einem Rechts-Klick auf den Server-Namen in Ihrer Kontaktliste viele verschiedene Aktionen durchführen.  Sie können den Status ändern, die Benutzerkonto-Einstellungen ändern, administrative Aktionen durchführen (wenn Sie dazu berechtigt sind) und mehr.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="106"/>
@@ -21958,7 +21958,7 @@ Um mit GNOME MPlayer zu funktionieren, wird keine zusätzliche Konfiguration ben
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="633"/>
         <source>&lt;br&gt;Status Message: %1</source>
-        <translation>&lt;br&gt;Status Nachricht: %1</translation>
+        <translation>&lt;br&gt;Statusnachricht: %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="635"/>
