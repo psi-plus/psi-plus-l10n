@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="cs">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="cs" version="2.1">
 <context>
     <name>@default</name>
     <message>
@@ -66,12 +64,21 @@
         <translation>psi/psiplus_logo</translation>
     </message>
     <message>
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2013 The Psi Team.&lt;br&gt;
+</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <location filename="../../psi-plus-snapshots/src/about.ui" line="106"/>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2014 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Platformně nezávislý XMPP klient zaměřený na pokročilé uživatele.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2014 Tým Psi.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/about.ui" line="122"/>
@@ -145,7 +152,7 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="81"/>
         <source>Founder, Patcher and MS Windows Packager</source>
-        <translation>Zakladatel, patcher a balíkář pro MS Windows</translation>
+        <translation>Zakladatel, záplatovač a balíkář pro MS Windows</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="84"/>
@@ -160,7 +167,7 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="90"/>
         <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavní správce záplat a autor zásuvných modulů; Balíkář pro Mac OS X</translation>
     </message>
     <message>
         <source>Designer and Patcher</source>
@@ -201,6 +208,10 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="117"/>
         <source>Psimedia Patcher and Wiki English localization</source>
         <translation>Patcher Psimedia a lokalizace anglické wiki</translation>
+    </message>
+    <message>
+        <source>OpenSUSE Packager</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="96"/>
@@ -293,7 +304,7 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -308,7 +319,9 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
 &lt;br&gt;
 Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing XMPP account then leave this box unchecked.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt;Vyberte si, prosím, &lt;b&gt;Jméno&lt;/b&gt;, které Psi může použít pro tento účet.&lt;br&gt;
+&lt;br&gt;
+Klikni na &lt;b&gt;Registrovat nový účet&lt;/b&gt;, pokud chceš, aby se Psi pokusilo vytvořit na vzdáleném serveru nový účet.  Pokud přidáváš již existující XMPP účet, nezaškrtávej toto pole.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountadd.ui" line="73"/>
@@ -672,7 +685,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="875"/>
         <source>In-Band only (slow)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="890"/>
@@ -705,16 +718,18 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <source>&lt;b&gt;Attention!&lt;/b&gt;
 &lt;br/&gt;
 When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Pozor!&lt;/b&gt;
+&lt;br/&gt;
+Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních souborech. Bude tam jen hash hesla. To znamená, že při zapomenutí hesla, nebude žádná možnost obnovit jej, pokud ho nemáš uložené někde jinde.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="1041"/>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uložit hash hesla namísto hesla, pokud to server dovoluje.</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="vanished">Vypnout</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -769,7 +784,7 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="160"/>
         <source>Delete current host from the list</source>
-        <translation type="unfinished"></translation>
+        <translation>Smazat ze seznamu zvolený server</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="164"/>
@@ -804,7 +819,7 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="228"/>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stadardně se Psi přihlašuje pomocí &lt;i&gt;digest&lt;/i&gt; algortimem.  Zaškrtni toto políčko, pro vynucení přihlášení na XMPP server pomocí hesla v textové podobě. Použij toto nastavení pouze v případě, že máš obtíže připojit se obvyklou metodou přihlášení. Toto nastavení totiž vystavuje spojení vůči potenciálním útokům.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="235"/>
@@ -834,32 +849,32 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="256"/>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="262"/>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="265"/>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="271"/>
         <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="275"/>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="279"/>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="299"/>
@@ -1426,9 +1441,9 @@ ukládat historii pro tento kontakt.</translation>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/adduser.ui" line="68"/>
@@ -1561,7 +1576,7 @@ Ujisti se, že zadáváš úplnou XMPP adresu.</translation>
         <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="288"/>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2104,12 +2119,16 @@ Seznam vyjímek pro jidy má dva módy:
     <message>
         <location filename="../../psi-plus-snapshots/src/avcall/calldlg.cpp" line="243"/>
         <source>Call is ended</source>
-        <translation type="unfinished"></translation>
+        <translation>Hovor je ukončen</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/avcall/calldlg.cpp" line="250"/>
         <source>Call duration: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Délka hovoru: %1</translation>
+    </message>
+    <message>
+        <source>Call ended</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3080,7 +3099,7 @@ Můžete nastavit vše ručně, nebo si vybrat některou z předdefinovaných mo
 Groupchats logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with groupchat.
 
 Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="341"/>
@@ -3350,20 +3369,12 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/contactlistutil.cpp" line="87"/>
         <source>and %n contacts </source>
-        <translation>
-            <numerusform>a %n kontakt </numerusform>
-            <numerusform>a %n kontakty </numerusform>
-            <numerusform>a %n kontaktů </numerusform>
-        </translation>
+        <translation><numerusform>a %n kontakt </numerusform><numerusform>a %n kontakty </numerusform><numerusform>a %n kontaktů </numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/contactlistutil.cpp" line="92"/>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation>
-            <numerusform>Navždy odebere:&lt;br&gt;%1&lt;br&gt;%2a %n skupinu ze seznamu kontaktů.</numerusform>
-            <numerusform>Navždy odebere:&lt;br&gt;%1&lt;br&gt;%2a %n skupiny ze seznamu kontaktů.</numerusform>
-            <numerusform>Navždy odebere:&lt;br&gt;%1&lt;br&gt;%2a %n skupin ze seznamu kontaktů.</numerusform>
-        </translation>
+        <translation><numerusform>Navždy odebere:&lt;br&gt;%1&lt;br&gt;%2a %n skupinu ze seznamu kontaktů.</numerusform><numerusform>Navždy odebere:&lt;br&gt;%1&lt;br&gt;%2a %n skupiny ze seznamu kontaktů.</numerusform><numerusform>Navždy odebere:&lt;br&gt;%1&lt;br&gt;%2a %n skupin ze seznamu kontaktů.</numerusform></translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactlistutil.cpp" line="101"/>
@@ -4099,7 +4110,7 @@ Provést?</translation>
     <message>
         <location filename="../tmp/src/tools/crash/crash_win32.h" line="51"/>
         <source>Crash handler log</source>
-        <translation type="unfinished"></translation>
+        <translation>Záznam obsluhy pádů</translation>
     </message>
 </context>
 <context>
@@ -4112,22 +4123,22 @@ Provést?</translation>
     <message>
         <location filename="../tmp/src/creategroup.ui" line="20"/>
         <source>Choose parent group: </source>
-        <translation type="unfinished"></translation>
+        <translation>Vyber si nadřazenou skupinu: </translation>
     </message>
     <message>
         <location filename="../tmp/src/creategroup.ui" line="39"/>
         <source>Enter the new group name:</source>
-        <translation type="unfinished">Zadej jméno nové skupiny:</translation>
+        <translation>Zadej jméno nové skupiny:</translation>
     </message>
     <message>
         <location filename="../tmp/src/creategroup.ui" line="51"/>
         <source>Add</source>
-        <translation type="unfinished">Přidat</translation>
+        <translation>Přidat</translation>
     </message>
     <message>
         <location filename="../tmp/src/creategroupdlg.cpp" line="73"/>
         <source>&lt;None&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Žádná&gt;</translation>
     </message>
 </context>
 <context>
@@ -4148,7 +4159,7 @@ Provést?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/disco.ui" line="28"/>
         <source>ToolBar will be placed here</source>
-        <comment>Don&apos;t translate this string</comment>
+        <comment>Don't translate this string</comment>
         <translation>Nástrojová lišta sem bude umístěna</translation>
     </message>
     <message>
@@ -4591,12 +4602,12 @@ Provést?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/editserverdlg.ui" line="99"/>
         <source>PostData**:</source>
-        <translation type="unfinished"></translation>
+        <translation>PostData**:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/editserverdlg.ui" line="116"/>
         <source>File Input**:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vstupní soubor**:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/editserverdlg.ui" line="133"/>
@@ -5213,38 +5224,39 @@ Toto nastavení má účinek pouze je-li akceptovat-výchozí vypnuto.</translat
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="362"/>
         <source>Enable autojoin for bookmarked groupchats</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolit automatické přihlášení do skupinových chatů v záložkách</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="363"/>
         <source>Hide groupchat on auto-join</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrýt skupinový chat při automatickém přihlášení</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="364"/>
         <source>Enable HTML rendering in groupchat chat window</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolit HTML v okně skupinového chatu</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="365"/>
         <source>Allow groupchat highlight events</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolit skupinovému chatu zvýrazňování událostí</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="389"/>
         <source>Disable autojoin to folowing groupchats:
 (specify JIDs)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakázat automatické přihlašování do následujících skupinových chatů:
+(zadejte JIDy)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="391"/>
         <source>Groupchat leave status message:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stavová zpráva při odchodu ze skupinového chatu</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="396"/>
         <source>Place groupchat roster at left</source>
-        <translation type="unfinished"></translation>
+        <translation>Umístit okno skupinového chatu vlevo</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="397"/>
@@ -5447,12 +5459,12 @@ Toto nastavení má účinek pouze je-li akceptovat-výchozí vypnuto.</translat
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="556"/>
         <source>Groupchat roster coloring:</source>
-        <translation type="unfinished"></translation>
+        <translation>Barvení okna skupinového chatu:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="694"/>
         <source>Enable sound notifications for every groupchat message</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolit zvukové oznamování pro každou zprávu skupinového chatu</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="567"/>
@@ -5595,7 +5607,7 @@ Toto nastavení má účinek pouze je-li akceptovat-výchozí vypnuto.</translat
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
 Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5838,7 +5850,7 @@ je kontakt offline.</translation>
         <source>Unable to connect to peer for data transfer.
 
 Ensure that your Data Transfer settings are proper.  If you are behind
-a NAT router or firewall then you&apos;ll need to open the proper TCP port
+a NAT router or firewall then you'll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>Nemohu se spojit s protějškem pro přenos souboru.
 
@@ -5851,7 +5863,7 @@ nebo specifikovat proxy pro přenos souborů.</translation>
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
 
 This means that the Proxy service is either not functioning or it is
-unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
+unreachable.  If you are behind a firewall, then you'll need to ensure
 that outgoing TCP connections are allowed.</source>
         <translation>Chyba při spojení nebo aktivaci proxy pro přenos dat.
 Tato chyba znamená, že proxy buď nepracuje a nebo je
@@ -7290,7 +7302,7 @@ Hra je prohraná.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="245"/>
         <source>A thoroughfare within the locality, or a crossing of two thoroughfares</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="252"/>
@@ -7476,7 +7488,7 @@ Pozn.: zásuvný modul kontroluje pro nové zprávy pouze kořenovou složku př
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/gnupg.cpp" line="110"/>
         <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/gnupg.cpp" line="176"/>
@@ -7515,7 +7527,7 @@ Pozn.: zásuvný modul kontroluje pro nové zprávy pouze kořenovou složku př
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gomokugameplugin.cpp" line="299"/>
         <source>This plugin allows you to play gomoku with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gomokugameplugin.cpp" line="326"/>
@@ -7680,12 +7692,12 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="136"/>
         <source>Create New Group</source>
-        <translation type="unfinished">Vytvořit novou skupinu</translation>
+        <translation>Vytvořit novou skupinu</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="137"/>
         <source>Enter the new group name:</source>
-        <translation type="unfinished">Zadej jméno nové skupiny:</translation>
+        <translation>Zadej jméno nové skupiny:</translation>
     </message>
 </context>
 <context>
@@ -7755,12 +7767,12 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../tmp/src/history.ui" line="73"/>
         <source>Roster contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Seznam kontaktů</translation>
     </message>
     <message>
         <location filename="../tmp/src/history.ui" line="107"/>
         <source>Not in roster</source>
-        <translation type="unfinished"></translation>
+        <translation>Není v seznamu</translation>
     </message>
     <message>
         <location filename="../tmp/src/history.ui" line="135"/>
@@ -7922,13 +7934,14 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../tmp/src/historyimp.cpp" line="226"/>
         <source>Psi+ Import history</source>
-        <translation type="unfinished"></translation>
+        <translation>Historie importů Psi+</translation>
     </message>
     <message>
         <location filename="../tmp/src/historyimp.cpp" line="234"/>
         <source>Found %1 files for import.
 Continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nalezeno %1 souborů pro import.
+Pokračovat?</translation>
     </message>
     <message>
         <location filename="../tmp/src/historyimp.cpp" line="241"/>
@@ -7953,7 +7966,7 @@ Continue?</source>
     <message>
         <location filename="../tmp/src/historyimp.cpp" line="277"/>
         <source>Counting records</source>
-        <translation type="unfinished"></translation>
+        <translation>Počítám záznamy</translation>
     </message>
     <message>
         <location filename="../tmp/src/historyimp.cpp" line="286"/>
@@ -7997,7 +8010,7 @@ Continue?</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/historykeeperplugin/historykeeperplugin.cpp" line="293"/>
         <source>This plugin is designed to remove the history of selected contacts when the Psi+ is closed.
 You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8020,7 +8033,7 @@ You can select or deselect a contact for history removal from the context menu o
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -8033,9 +8046,9 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/homedirmigration.ui" line="49"/>
@@ -8047,9 +8060,9 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/homedirmigration.ui" line="66"/>
@@ -8061,9 +8074,9 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/homedirmigration.ui" line="80"/>
@@ -8449,18 +8462,18 @@ p, li { white-space: pre-wrap; }
     <name>IcqDie</name>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="122"/>
-        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
+        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it's much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="126"/>
         <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
 
-If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
+If you don't know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="271"/>
@@ -8482,7 +8495,7 @@ The plugin has a number of simple settings that can help you:
 * set the max count of messages by contact
 * disable the message for the active window/tab
 * disable messages for contacts that are not in your roster</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8545,9 +8558,9 @@ The plugin has a number of simple settings that can help you:
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/imageplugin/imageplugin.cpp" line="310"/>
         <source>This plugin is designed to send images to roster contacts.
-Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9093,7 +9106,7 @@ hře gomoku. Chce hrát za %2.</translation>
     <message>
         <location filename="../tmp/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1150"/>
         <source>No VCard available</source>
-        <translation>VCard není dostupná</translation>
+        <translation>Není k dispozici žádná VCard</translation>
     </message>
 </context>
 <context>
@@ -9154,7 +9167,7 @@ hře gomoku. Chce hrát za %2.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickplugin.cpp" line="236"/>
-        <source>can&apos;t create folder %1 
+        <source>can't create folder %1 
 caching avatars will be not available</source>
         <translation>nelze vytvořit adresář %1
 vyrovnávací paměť avatarů nebude dostupná</translation>
@@ -9204,7 +9217,7 @@ Currently, the plugin is able to:
 * Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
 
 Note: To work correctly, the option options.html.chat.render	must be set to true. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9821,6 +9834,13 @@ Příchozí událost(i) od:</translation>
         <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1767"/>
         <source>%1 events received</source>
         <translation>Přijato událostí: %1</translation>
+    </message>
+</context>
+<context>
+    <name>MainWin::Private</name>
+    <message>
+        <source>Diagnostics</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11504,9 +11524,9 @@ Tagy: %1</translation>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12008,7 +12028,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="99"/>
         <source>Enable Stop Spam for private messages in groupchat</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolit Stop Spam pro soukromé zprávy ve skupinovém chatu</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="106"/>
@@ -12118,7 +12138,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="409"/>
-        <source>Disable stopspam, if don&apos;t match any rule above
+        <source>Disable stopspam, if don't match any rule above
 (does not work for muc private messages)</source>
         <translation>Zakázat Stop spam, pokud žádné shora uvedené
 pravidlo neodpovídá (nefunguje pro soukromé
@@ -12167,7 +12187,7 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/options.ui" line="175"/>
         <source>Show Watch for JID button in contact context menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit tlačítko Sledovat JID v kontextovém menu kontaktů</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/options.ui" line="199"/>
@@ -12202,7 +12222,7 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.cpp" line="151"/>
         <source>&lt;b&gt;Please wait!&lt;/b&gt;&lt;br/&gt;We need to generate a lot of random bytes. It is a good idea to perform some other action (type on the keyboard, move the mouse, utilize the disks) during the prime generation; this gives the random number generator a better chance to gain enough entropy.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/options.cpp" line="170"/>
@@ -12643,7 +12663,7 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_chat.cpp" line="78"/>
         <source>Makes Psi switch tab on active tabbed window when you receive a new message. It does not take the keyboard focus, so it will not interfere with your work.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_chat.cpp" line="81"/>
@@ -13165,7 +13185,7 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statuspep.cpp" line="19"/>
         <source>Tunes no-video filter and controllers switcher</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13323,12 +13343,12 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="216"/>
         <source>Caps node</source>
-        <translation type="unfinished"></translation>
+        <translation>Caps uzel</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="226"/>
         <source>Caps version</source>
-        <translation type="unfinished"></translation>
+        <translation>Caps verze</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="247"/>
@@ -14722,7 +14742,7 @@ Odhlásit se?</translation>
         <location filename="../tmp/src/psiaccount.cpp" line="1757"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="1748"/>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="1905"/>
@@ -15037,12 +15057,12 @@ Detaily: %1</translation>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="3532"/>
         <source>Nested Groups Delimiter</source>
-        <translation type="unfinished"></translation>
+        <translation>Oddělovač vnořených skupin</translation>
     </message>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="3533"/>
         <source>Set a new delimiter of nested groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastav nový oddělovač pro vnořené skupiny</translation>
     </message>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="3574"/>
@@ -15078,7 +15098,7 @@ Detaily: %1</translation>
         <location filename="../tmp/src/psiaccount.cpp" line="4164"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4095"/>
         <source>Version Query Information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="5418"/>
@@ -16034,7 +16054,7 @@ Důvod: %1.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicli.h" line="39"/>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
-        <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
+        <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
         <translation>Nastavit stav. STAV musí být jedno z `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</translation>
     </message>
     <message>
@@ -16339,12 +16359,12 @@ To možná znamená, že je již puštěna jiná instance Psi. To může způsob
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="333"/>
         <source>&amp;Log On</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Přihlásit se</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="337"/>
         <source>Log &amp;Off</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Odhlásit se</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="340"/>
@@ -16380,52 +16400,52 @@ To možná znamená, že je již puštěna jiná instance Psi. To může způsob
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="361"/>
         <source>Re&amp;send Authorization To</source>
-        <translation type="unfinished"></translation>
+        <translation>Znovu poslat oprávnění</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="364"/>
         <source>Re&amp;request Authorization From</source>
-        <translation type="unfinished"></translation>
+        <translation>Znovu vyžádat oprávnění</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="367"/>
         <source>Re&amp;move Authorization From</source>
-        <translation type="unfinished"></translation>
+        <translation>Odebrat oprávnění</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="396"/>
         <source>In&amp;vite To</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozvat do</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="404"/>
         <source>Send Message T&amp;o</source>
-        <translation type="unfinished"></translation>
+        <translation>Poslat zprávu</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="407"/>
         <source>Open Chat &amp;To</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít chat</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="410"/>
         <source>Open a White&amp;board To</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevřít tabuli (whiteboard)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="416"/>
         <source>&amp;Active Chats</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivní chaty</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="466"/>
         <source>Manage &amp;Contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Spravovat kontakt</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="471"/>
         <source>&amp;Authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>Oprávnění</translation>
     </message>
     <message>
         <source>&amp;Log on</source>
@@ -16980,7 +17000,7 @@ Pokračovat?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/widgets/psiwindowheader.ui" line="23"/>
         <source>PsiWindowHeader</source>
-        <translation type="unfinished"></translation>
+        <translation>PsiWindowHeader</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/widgets/psiwindowheader.ui" line="76"/>
@@ -17135,7 +17155,7 @@ Pokračovat?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="77"/>
         <source>Doing Chores</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="78"/>
@@ -17175,7 +17195,7 @@ Pokračovat?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="85"/>
         <source>Running An Errand</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="86"/>
@@ -17281,7 +17301,7 @@ Pokračovat?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="110"/>
         <source>Grooming</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="111"/>
@@ -17381,7 +17401,7 @@ Pokračovat?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="133"/>
         <source>Going Out</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="134"/>
@@ -17456,7 +17476,7 @@ Pokračovat?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="150"/>
         <source>Commuting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitycatalog.cpp" line="152"/>
@@ -17549,7 +17569,7 @@ Pokračovat?</translation>
         <location filename="../tmp/src/applicationinfo.cpp" line="297"/>
         <location filename="../../psi-plus-snapshots/src/applicationinfo.cpp" line="297"/>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/common.cpp" line="174"/>
@@ -17734,7 +17754,7 @@ Popis: </translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/moodcatalog.cpp" line="72"/>
         <source>Amorous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/moodcatalog.cpp" line="73"/>
@@ -17794,7 +17814,7 @@ Popis: </translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/moodcatalog.cpp" line="84"/>
         <source>Contemplative</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/moodcatalog.cpp" line="85"/>
@@ -17824,7 +17844,7 @@ Popis: </translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/moodcatalog.cpp" line="90"/>
         <source>Dejected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/moodcatalog.cpp" line="91"/>
@@ -17844,7 +17864,7 @@ Popis: </translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/moodcatalog.cpp" line="94"/>
         <source>Dismayed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/moodcatalog.cpp" line="95"/>
@@ -17999,7 +18019,7 @@ Popis: </translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/moodcatalog.cpp" line="125"/>
         <source>Outraged</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/moodcatalog.cpp" line="126"/>
@@ -18254,38 +18274,22 @@ Popis: </translation>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="307"/>
         <source>%n day(s) </source>
-        <translation>
-            <numerusform>%n den</numerusform>
-            <numerusform>%n dnů</numerusform>
-            <numerusform>%n dnů</numerusform>
-        </translation>
+        <translation><numerusform>%n den</numerusform><numerusform>%n dnů</numerusform><numerusform>%n dnů</numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="310"/>
         <source>%n hour(s) </source>
-        <translation>
-            <numerusform>%n hodina </numerusform>
-            <numerusform>%n hodin </numerusform>
-            <numerusform>%n hodin </numerusform>
-        </translation>
+        <translation><numerusform>%n hodina </numerusform><numerusform>%n hodin </numerusform><numerusform>%n hodin </numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="313"/>
         <source>%n minute(s) </source>
-        <translation>
-            <numerusform>%n minuta </numerusform>
-            <numerusform>%n minut </numerusform>
-            <numerusform>%n minut </numerusform>
-        </translation>
+        <translation><numerusform>%n minuta </numerusform><numerusform>%n minut </numerusform><numerusform>%n minut </numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="316"/>
         <source>%n second(s) </source>
-        <translation>
-            <numerusform>%n sekunda </numerusform>
-            <numerusform>%n sekund </numerusform>
-            <numerusform>%n sekund </numerusform>
-        </translation>
+        <translation><numerusform>%n sekunda </numerusform><numerusform>%n sekund </numerusform><numerusform>%n sekund </numerusform></translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickdownloader.cpp" line="43"/>
@@ -18384,11 +18388,29 @@ Zpráva nebyla odeslána.</translation>
         <translation>Psí mimo záznam</translation>
     </message>
     <message>
+        <source>Generating keys for account &quot;%1&quot;.
+This may take a while.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please wait...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;:
+%2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="821"/>
         <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
 
 Do you want to generate keys now?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="863"/>
@@ -18396,7 +18418,7 @@ Do you want to generate keys now?</source>
 %2
 
 Thanks for your patience.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="876"/>
@@ -18408,32 +18430,32 @@ Zásuvný modul OTR nebude pracovat správně.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="932"/>
         <source>&lt;b&gt;The following message received from %1 was &lt;i&gt;not&lt;/i&gt; encrypted:&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="937"/>
         <source>Your message was not sent. Either end your private conversation, or restart it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="941"/>
         <source>Unreadable encrypted message was received.</source>
-        <translation type="unfinished"></translation>
+        <translation>Byla přijata nečitelná zakódovaná zpráva.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="944"/>
         <source>Received an encrypted message but it cannot be read because no private connection is established yet.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="949"/>
         <source>Received message is unreadable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Přijatá zpráva je nečitelná.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="952"/>
         <source>Received message contains malformed data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Přijatá zpráva obsahuje chybná data.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/otrinternal.cpp" line="1080"/>
@@ -18531,12 +18553,12 @@ Heslo: %5</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/privacy/privacylistitem.cpp" line="58"/>
         <source>Presence-In,</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/privacy/privacylistitem.cpp" line="60"/>
         <source>Presence-Out,</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/privacy/privacylistitem.cpp" line="62"/>
@@ -18938,7 +18960,7 @@ Heslo: %5</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/redirectorplugin/redirectplugin.cpp" line="128"/>
         <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19032,14 +19054,10 @@ Zdůvodnění: %1</translation>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="459"/>
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation>
-            <numerusform>slaví narozeniny za %n den
-</numerusform>
-            <numerusform>slaví narozeniny za %n dny
-</numerusform>
-            <numerusform>slaví narozeniny za %n dny
-</numerusform>
-        </translation>
+        <translation><numerusform>slaví narozeniny za %n den
+</numerusform><numerusform>slaví narozeniny za %n dny
+</numerusform><numerusform>slaví narozeniny za %n dny
+</numerusform></translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="462"/>
@@ -19076,7 +19094,7 @@ Zdůvodnění: %1</translation>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="538"/>
         <source>This plugin is designed to show reminders of upcoming birthdays.
 The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19385,7 +19403,7 @@ The plugin has the following settings:
 * Format -- the file format in which the screenshot will be stored (default: .jpg)
 * File Name -- format of the filename (default: pic-yyyyMMdd-hhmmss, where yyyyMMdd=YYYYMMDD, and hhmmss are current date in the format yearmonthday-hourminutesecond)
 The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshotplugin.cpp" line="243"/>
@@ -19531,11 +19549,7 @@ Zdůvodnění: %1</translation>
     <message numerus="yes">
         <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="497"/>
         <source>Added %n users to your roster.</source>
-        <translation>
-            <numerusform>%n uživatel byl přidán do seznamu kontaktů.</numerusform>
-            <numerusform>%n uživatelé byli přidán do seznamu kontaktů.</numerusform>
-            <numerusform>%n uživatelů bylo přidáno do seznamu kontaktů.</numerusform>
-        </translation>
+        <translation><numerusform>%n uživatel byl přidán do seznamu kontaktů.</numerusform><numerusform>%n uživatelé byli přidán do seznamu kontaktů.</numerusform><numerusform>%n uživatelů bylo přidáno do seznamu kontaktů.</numerusform></translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="502"/>
@@ -20449,7 +20463,7 @@ In most cases, to be sure that the skin is applied correctly, you must perform a
 2. Restart the application
 3. Apply the same skin again
 This allows all settings (icons, toolbar layout) to be picked up correctly. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -20644,7 +20658,7 @@ When a user has passed, the test will send a re-authorization request. It should
 The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -20674,7 +20688,7 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi+ or Miranda IM.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -20787,7 +20801,7 @@ Currently supports:
   JEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/tools/xmpptest/xmpptest.cpp" line="356"/>
@@ -21145,7 +21159,7 @@ Doufáme, že si jeho používání budete užívat stejně, jako si my užívá
         <source>You can type these special commands in chat and groupchat dialogs:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
+&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; '/me' is replaced by your nick&lt;/li&gt;
 &lt;/ul&gt;
 And these work only in groupchat dialog:
 &lt;ul&gt;
@@ -21164,12 +21178,12 @@ Následující funguje pouze v okně groupchatu:
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="88"/>
         <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="90"/>
         <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="92"/>
@@ -21184,7 +21198,7 @@ Následující funguje pouze v okně groupchatu:
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="96"/>
         <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="98"/>
@@ -21199,7 +21213,7 @@ Následující funguje pouze v okně groupchatu:
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="102"/>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="104"/>
@@ -21211,7 +21225,7 @@ Následující funguje pouze v okně groupchatu:
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
 &lt;br&gt;&lt;br&gt;
 Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/tipdlg.cpp" line="108"/>
@@ -21523,7 +21537,7 @@ To work with VLC player you need to enable the option &quot;Control Interface D-
 To work with Kaffeine player you must have player version (&gt;= 1.0), additional configuration is not needed; 
 
 To work with GNOME MPlayer additional configuration is not needed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -21864,7 +21878,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="725"/>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -22325,7 +22339,7 @@ Opravdu zavřít okno?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="247"/>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="248"/>
@@ -22335,7 +22349,7 @@ Opravdu zavřít okno?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="248"/>
         <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="249"/>
@@ -22355,7 +22369,7 @@ Opravdu zavřít okno?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="250"/>
         <source>The requesting entity does not possess the required permissions to perform the action.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="251"/>
@@ -22365,7 +22379,7 @@ Opravdu zavřít okno?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="251"/>
         <source>The recipient or server can no longer be contacted at this address.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="252"/>
@@ -22375,7 +22389,7 @@ Opravdu zavřít okno?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="252"/>
         <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="253"/>
@@ -22385,7 +22399,7 @@ Opravdu zavřít okno?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="253"/>
         <source>The addressed JID or item requested cannot be found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="254"/>
@@ -22395,7 +22409,7 @@ Opravdu zavřít okno?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="254"/>
         <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="255"/>
@@ -22405,7 +22419,7 @@ Opravdu zavřít okno?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="255"/>
         <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server (e.g., a local policy regarding acceptable words in messages).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="256"/>
@@ -22415,7 +22429,7 @@ Opravdu zavřít okno?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="256"/>
         <source>The recipient or server does not allow any entity to perform the action.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="257"/>
@@ -22425,7 +22439,7 @@ Opravdu zavřít okno?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="257"/>
         <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="258"/>
@@ -22455,7 +22469,7 @@ Opravdu zavřít okno?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="260"/>
         <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="261"/>
@@ -22465,7 +22479,7 @@ Opravdu zavřít okno?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="261"/>
         <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="262"/>
@@ -22475,7 +22489,7 @@ Opravdu zavřít okno?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="262"/>
         <source>A remote server or service specified as part or all of the JID of the intended recipient (or required to fulfill a request) could not be contacted within a reasonable amount of time.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="263"/>
@@ -22485,7 +22499,7 @@ Opravdu zavřít okno?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="263"/>
         <source>The server or recipient lacks the system resources necessary to service the request.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="264"/>
@@ -22505,7 +22519,7 @@ Opravdu zavřít okno?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="265"/>
         <source>The requesting entity is not authorized to access the requested service because a subscription is required.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="266"/>
@@ -22515,7 +22529,7 @@ Opravdu zavřít okno?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="266"/>
         <source>The error condition is not one of those defined by the other conditions in this list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="267"/>
@@ -22525,7 +22539,7 @@ Opravdu zavřít okno?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-core/xmpp_stanza.cpp" line="267"/>
         <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -22538,7 +22552,7 @@ Opravdu zavřít okno?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_task.cpp" line="195"/>
         <source>Request timed out</source>
-        <translation type="unfinished"></translation>
+        <translation>Čas na požadavek vypršel</translation>
     </message>
 </context>
 <context>
@@ -23079,19 +23093,32 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
         <translation>Žádné aktivní šifrované sezení</translation>
     </message>
     <message>
+        <source>Session ID between account &quot;%1&quot; and %2:&lt;br/&gt;%3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Psi OTR</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="604"/>
         <source>No private key for account &quot;%1&quot;</source>
         <translation>Žádný soukromý klíč pro účet &quot;%1&quot;</translation>
     </message>
     <message>
+        <source>Fingerprint for account &quot;%1&quot;:
+%2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="580"/>
         <source>Session ID between account &quot;%1&quot; and %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="607"/>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrclosure.cpp" line="634"/>
@@ -23204,7 +23231,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="657"/>
         <source>OTR Plugin: event from %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/otrplugin/src/psiotrplugin.cpp" line="705"/>
@@ -23633,7 +23660,7 @@ Opětovné ověření...</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodnetman.cpp" line="276"/>
-        <source>Can&apos;t get files!
+        <source>Can't get files!
 Try remove cookies.</source>
         <translation>Nelze získat soubory!
 Zkus odstranit cookies.</translation>
@@ -23741,9 +23768,9 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodsettings.ui" line="105"/>
