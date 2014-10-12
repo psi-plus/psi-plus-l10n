@@ -3073,9 +3073,9 @@ You can specify the version of the client and OS or to select them from the pres
 <context>
     <name>CloseButton</name>
     <message>
-        <location filename="../tmp/src/widgets/tabbar.cpp" line="511"/>
+        <location filename="../tmp/src/widgets/tabbar.cpp" line="509"/>
         <source>Close Tab</source>
-        <translation type="unfinished">Закрити закладку</translation>
+        <translation>Закрити вкладку</translation>
     </message>
 </context>
 <context>
@@ -16410,12 +16410,12 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="333"/>
         <source>&amp;Log On</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Підключитися </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="337"/>
         <source>Log &amp;Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Відключити</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="340"/>
@@ -16451,52 +16451,52 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="361"/>
         <source>Re&amp;send Authorization To</source>
-        <translation type="unfinished"></translation>
+        <translation>Повторно відправити авторизацію</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="364"/>
         <source>Re&amp;request Authorization From</source>
-        <translation type="unfinished"></translation>
+        <translation>Повторно запросити авторизацію у</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="367"/>
         <source>Re&amp;move Authorization From</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити авторизацію у</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="396"/>
         <source>In&amp;vite To</source>
-        <translation type="unfinished"></translation>
+        <translation>Запросити до</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="404"/>
         <source>Send Message T&amp;o</source>
-        <translation type="unfinished"></translation>
+        <translation>Надіслати повідомлення</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="407"/>
         <source>Open Chat &amp;To</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити чат з</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="410"/>
         <source>Open a White&amp;board To</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити дошку для малювання з</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="416"/>
         <source>&amp;Active Chats</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Активні чати</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="466"/>
         <source>Manage &amp;Contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Керувати контактом</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="471"/>
         <source>&amp;Authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>Авторизація</translation>
     </message>
     <message>
         <source>&amp;Log on</source>
@@ -22672,7 +22672,7 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_task.cpp" line="194"/>
         <source>Request timed out</source>
-        <translation type="unfinished"></translation>
+        <translation>Час запиту минув</translation>
     </message>
 </context>
 <context>
