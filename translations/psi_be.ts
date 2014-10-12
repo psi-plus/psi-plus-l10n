@@ -2422,72 +2422,72 @@ Reason: %1</source>
         <translation>Увасабленьне</translation>
     </message>
     <message>
-        <location filename="../tmp/src/chatdlg.cpp" line="262"/>
-        <location filename="../tmp/src/chatdlg.cpp" line="759"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="248"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="709"/>
+        <location filename="../tmp/src/chatdlg.cpp" line="263"/>
+        <location filename="../tmp/src/chatdlg.cpp" line="760"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="249"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="710"/>
         <source>Warning</source>
         <translation>Перасьцярога</translation>
     </message>
     <message>
-        <location filename="../tmp/src/chatdlg.cpp" line="263"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="249"/>
+        <location filename="../tmp/src/chatdlg.cpp" line="264"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="250"/>
         <source>A new chat message was just received.
 Do you still want to close the window?</source>
         <translation>Толькі што атрымалі паведамленьне ў гутарцы.
 Ці жадаеце ўсё ж зачыніць вакно?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/chatdlg.cpp" line="266"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="252"/>
+        <location filename="../tmp/src/chatdlg.cpp" line="267"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="253"/>
         <source>Close</source>
         <translation>Зачыніць</translation>
     </message>
     <message>
-        <location filename="../tmp/src/chatdlg.cpp" line="704"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="654"/>
+        <location filename="../tmp/src/chatdlg.cpp" line="705"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="655"/>
         <source>%1 (Composing ...)</source>
         <translation>%1 (набірае…)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/chatdlg.cpp" line="707"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="657"/>
+        <location filename="../tmp/src/chatdlg.cpp" line="708"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="658"/>
         <source>%1 (Inactive)</source>
         <translation>%1 (бязьдзейнічае)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/chatdlg.cpp" line="759"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="709"/>
+        <location filename="../tmp/src/chatdlg.cpp" line="760"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="710"/>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
         <translation>&lt;p&gt;Адлеглы суразмоўца надоечы скасаваў шыфраваньне.  Ці ўпэўненыя вы, што жадаеце даслаць паведамленьне &lt;b&gt;без&lt;/b&gt; шыфраваньня?&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../tmp/src/chatdlg.cpp" line="762"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="712"/>
+        <location filename="../tmp/src/chatdlg.cpp" line="763"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="713"/>
         <source>&amp;Yes</source>
         <translation>&amp;Так</translation>
     </message>
     <message>
-        <location filename="../tmp/src/chatdlg.cpp" line="762"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="712"/>
+        <location filename="../tmp/src/chatdlg.cpp" line="763"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="713"/>
         <source>&amp;No</source>
         <translation>&amp;Не</translation>
     </message>
     <message>
-        <location filename="../tmp/src/chatdlg.cpp" line="930"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="876"/>
+        <location filename="../tmp/src/chatdlg.cpp" line="931"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="877"/>
         <source>Encryption Enabled</source>
         <translation>Дазволілі шыфраваць</translation>
     </message>
     <message>
-        <location filename="../tmp/src/chatdlg.cpp" line="931"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="877"/>
+        <location filename="../tmp/src/chatdlg.cpp" line="932"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="878"/>
         <source>Encryption Disabled</source>
         <translation>Забаранілі шыфраваць</translation>
     </message>
     <message>
-        <location filename="../tmp/src/chatdlg.cpp" line="1126"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="1032"/>
+        <location filename="../tmp/src/chatdlg.cpp" line="1127"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="1033"/>
         <source>%1 ended the conversation</source>
         <translation>%1 заканчвае размову</translation>
     </message>
@@ -3074,6 +3074,14 @@ You can specify the version of the client and OS or to select them from the pres
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/clientswitcherplugin.cpp" line="1006"/>
         <source>%1 has requested your version</source>
         <translation>%1 запытваецца на вэрсію</translation>
+    </message>
+</context>
+<context>
+    <name>CloseButton</name>
+    <message>
+        <location filename="../tmp/src/widgets/tabbar.cpp" line="511"/>
+        <source>Close Tab</source>
+        <translation type="unfinished">Зачыніць картку</translation>
     </message>
 </context>
 <context>
@@ -6278,34 +6286,34 @@ Reason: %3</source>
 <context>
     <name>GCFindDlg</name>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2351"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2397"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2349"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2395"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2352"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2398"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2350"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2396"/>
         <source>Find</source>
         <translation>Шукаць</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2356"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2354"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2357"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2355"/>
         <source>Find:</source>
         <translation>Шукаць:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2371"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2369"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2372"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2370"/>
         <source>&amp;Close</source>
         <translation>&amp;Зачыніць</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2373"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2371"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2374"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2372"/>
         <source>&amp;Find</source>
         <translation>&amp;Шукаць</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2397"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2395"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2398"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2396"/>
         <source>Search string &apos;%1&apos; not found.</source>
         <translation>Не знайшлі радок «%1».</translation>
     </message>
@@ -6337,362 +6345,362 @@ Reason: %3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1071"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1069"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1072"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1070"/>
         <source> by %1</source>
         <translation> %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1075"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1073"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1076"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1074"/>
         <source>
 Reason: %1</source>
         <translation>
 Падстава: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1114"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1112"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1115"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1113"/>
         <source>Edit Bookmark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1117"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1115"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1118"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1116"/>
         <source>Add to bookmarks</source>
         <translation>Закласьці</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1162"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1160"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1163"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1161"/>
         <source>Error: Cannot parse command: </source>
         <translation>Не ўдалося разабраць загад: </translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1272"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1270"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1273"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1271"/>
         <source>Warning</source>
         <translation>Перасьцярога</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1273"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1271"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1274"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1272"/>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
         <translation>Ці ўпэўненыя вы, што жадаеце ачысьціць вакно гутаркі?
 (Уважце: гэтае не закране захаваную гісторыю.)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1330"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1328"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1331"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1329"/>
         <source>Disconnected.</source>
         <translation>Адлучыліся.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1363"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1361"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1364"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1362"/>
         <source>Reconnecting...</source>
         <translation>Зноўку злучаемся…</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1370"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1368"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1371"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1369"/>
         <source>Error: You are in or joining this room already!</source>
         <translation>Вы ўжо ўвайшлі (ці ўваходзіце) ў гэты пакой!</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1425"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1423"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1426"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1424"/>
         <source>Unable to join groupchat.	Reason: %1</source>
         <translation>Немагчыма далучыцца да нарады.	Падстава: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1427"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1425"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1428"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1426"/>
         <source>Unexpected groupchat error: %1</source>
         <translation>Нечаканая памылка нарады: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1461"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1459"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1462"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1460"/>
         <source>Please choose a different nickname</source>
         <translation>Абярыце іншую мянушку</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1465"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1463"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1466"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1464"/>
         <source>An error occurred (errorcode: %1)</source>
         <translation>Далі хібу (код памылкі: %1)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1498"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1496"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1499"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1497"/>
         <source>New room created</source>
         <translation>Стварылі пакой</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1510"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1508"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1511"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1509"/>
         <source>%1 has joined the room</source>
         <translation>У пакой уваходзіць %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1514"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1512"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1515"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1513"/>
         <source>%3 has joined the room as %1 and %2</source>
         <translation>%3 уваходзіць у пакой як %1 і %2</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1517"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1521"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1515"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1519"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1518"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1522"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1516"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1520"/>
         <source>%2 has joined the room as %1</source>
         <translation>%2 уваходзіць у пакой як %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1530"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1528"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1531"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1529"/>
         <source> and now is %1</source>
         <translation> і цяпер %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1548"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1546"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1549"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1547"/>
         <source>%1 is now %2 and %3</source>
         <translation>%1 зараз %2 і %3</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1551"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1556"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1549"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1554"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1552"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1557"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1550"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1555"/>
         <source>%1 is now %2</source>
         <translation>%1 зараз у стане «%2»</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1561"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1559"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1562"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1560"/>
         <source> (Reason: %1)</source>
         <translation> (Падстава: %1)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1585"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1583"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1586"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1584"/>
         <source>This room has been destroyed.</source>
         <translation>Гэты пакой зьнішчылі.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1589"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1587"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1590"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1588"/>
         <source>Reason: %1</source>
         <translation>Падстава: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1595"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1593"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1596"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1594"/>
         <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
         <translation>Ці жадаеце перайсьці ў іншае месца («%1»)?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1596"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1602"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1594"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1600"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1597"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1603"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1595"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1601"/>
         <source>Room Destroyed</source>
         <translation>Пакой зьнішчылі</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1621"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1619"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1622"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1620"/>
         <source>Banned</source>
         <translation>Забаранілі</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1621"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1619"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1622"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1620"/>
         <source>You have been banned from the room</source>
         <translation>Вам забаранілі ўваходзіць у гэты пакой</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1622"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1620"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1623"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1621"/>
         <source>You have been banned from the room by %1</source>
         <translation>%1 забараняе вам уваходзіць у гэты пакой</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1623"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1621"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1624"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1622"/>
         <source>%1 has been banned</source>
         <translation>Карыстальніку %1 забаранілі сюды ўваходзіць</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1624"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1622"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1625"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1623"/>
         <source>%1 has been banned by %2</source>
         <translation>%2 забараняе ўваходзіць карыстальніку %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1629"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1627"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1630"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1628"/>
         <source>Kicked</source>
         <translation>Выкінулі</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1629"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1627"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1630"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1628"/>
         <source>You have been kicked from the room</source>
         <translation>Вас выкінулі</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1630"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1628"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1631"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1629"/>
         <source>You have been kicked from the room by %1</source>
         <translation>%1 выкідае вас з пакою</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1631"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1629"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1632"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1630"/>
         <source>%1 has been kicked</source>
         <translation>Карыстальніка %1 выкінулі</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1632"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1630"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1633"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1631"/>
         <source>%1 has been kicked by %2</source>
         <translation>%2 выкідае карыстальніка %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1637"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1645"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1635"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1643"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1638"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1646"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1636"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1644"/>
         <source>Removed</source>
         <translation>Прыбралі</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1638"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1636"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1639"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1637"/>
         <source>You have been removed from the room due to an affiliation change</source>
         <translation>Вас прыбралі з пакою: зьмянілася прыналежнасьць</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1639"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1637"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1640"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1638"/>
         <source>You have been removed from the room by %1 due to an affiliation change</source>
         <translation>%1 прыбірае вас з пакою: зьмянілася прыналежнасьць</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1640"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1638"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1641"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1639"/>
         <source>%1 has been removed from the room due to an affilliation change</source>
         <translation>%1 прыбралі з пакою: зьмянілася прыналежнасьць</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1641"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1639"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1642"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1640"/>
         <source>%1 has been removed from the room by %2 due to an affilliation change</source>
         <translation>%2 прыбірае з пакою %1: зьмянілася прыналежнасьць</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1646"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1644"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1647"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1645"/>
         <source>You have been removed from the room because the room was made members only</source>
         <translation>Вас прыбралі з пакою: гэты пакой толькі для чальцоў</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1647"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1645"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1648"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1646"/>
         <source>You have been removed from the room by %1 because the room was made members only</source>
         <translation>%1 прыбірае вас з пакою: гэты пакой толькі для чальцоў</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1648"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1646"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1649"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1647"/>
         <source>%1 has been removed from the room because the room was made members-only</source>
         <translation>%1 прыбралі з пакою: пакой толькі для чальцоў</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1649"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1647"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1650"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1648"/>
         <source>%1 has been removed from the room by %2 because the room was made members-only</source>
         <translation>%2 прыбірае з пакою карыстальніка %1: гэты пакой толькі для чальцоў</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1655"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1653"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1656"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1654"/>
         <source>%1 is now known as %2</source>
         <translation>%1 цяпер %2</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1659"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1657"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1660"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1658"/>
         <source>%1 has left the room</source>
         <translation>З пакою выходзіць %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1729"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1727"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1730"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1728"/>
         <source>The topic has been set to</source>
         <translation>Тэму зьмянілі на</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1732"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1730"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1733"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1731"/>
         <source> has unset the topic</source>
         <translation> прыбірае тэму</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1732"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1730"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1733"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1731"/>
         <source> has set the topic to</source>
         <translation> зьмяняе тэму на</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1796"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1794"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1797"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1795"/>
         <source>Connected.</source>
         <translation>Злучыліся.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2230"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2228"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2231"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2229"/>
         <source>Save</source>
         <translation>Захаваць</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2231"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2229"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2232"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2230"/>
         <source>Delete</source>
         <translation>Выдаліць</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2232"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2230"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2233"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2231"/>
         <source>Cancel</source>
         <translation>Скасаваць</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2241"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2239"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2242"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2240"/>
         <source>&amp;Name:</source>
         <translation>&amp;Імя:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2242"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2240"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2243"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2241"/>
         <source>N&amp;ick:</source>
         <translation>&amp;Мянушка:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2243"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2241"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2244"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2242"/>
         <source>&amp;Auto join:</source>
         <translation>&amp;Злучацца па запуску</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2254"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2252"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2255"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2253"/>
         <source>Bookmark conference</source>
         <translation>Закласьці нараду</translation>
     </message>
@@ -11400,37 +11408,37 @@ Tags: %1</source>
         <translation>Апісаньне стану:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="169"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="172"/>
         <source>Default priority</source>
         <translation>Звычайнае пяршынства</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="179"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="182"/>
         <source>Online:</source>
         <translation>У сетцы:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="215"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="218"/>
         <source>Away:</source>
         <translation>Адсутнічаю:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="251"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="254"/>
         <source>Free For Chat:</source>
         <translation>Жадаю пагутарыць:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="287"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="290"/>
         <source>XA:</source>
         <translation>Не дагрукацца:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="323"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="326"/>
         <source>Do Not Disturb:</source>
         <translation>Не турбаваць:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="359"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_statusauto.ui" line="362"/>
         <source>Invisible:</source>
         <translation>Хаваюся:</translation>
     </message>
@@ -11568,7 +11576,7 @@ Tags: %1</source>
         <translation>Пяршынства:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.ui" line="411"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.ui" line="414"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
@@ -17761,20 +17769,20 @@ Description: </source>
 Апісаньне: </translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1145"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1143"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1146"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1144"/>
         <source>Warning: %1 is deprecated and will be removed in the future</source>
         <translation>Перасьцярога: ня раіцца ўжываць загад %1, бо яго хутка выкінуць</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1148"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1146"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1149"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1147"/>
         <source>Please set a shortcut for &apos;Change to quick command mode&apos;, use that shortcut and enter &apos;%1&apos;.</source>
         <translation>Вызначце выклічнік на дзеяньне «Перайсьці да спосабу хуткіх загадаў»: націсьніце патрэбныя клявішы ды ўпішыце «%1».</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1150"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1148"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1151"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1149"/>
         <source>Please instead press %1 and enter &apos;%2&apos;.</source>
         <translation>Націсьніце «%1» і ўпішыце «%2».</translation>
     </message>
@@ -20586,100 +20594,100 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
 <context>
     <name>StatusSetDlg</name>
     <message>
-        <location filename="../tmp/src/statusdlg.cpp" line="115"/>
-        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="115"/>
+        <location filename="../tmp/src/statusdlg.cpp" line="116"/>
+        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="116"/>
         <source>Set Status: All accounts</source>
         <translation>Вызначыць стан усіх рахункаў</translation>
     </message>
     <message>
-        <location filename="../tmp/src/statusdlg.cpp" line="132"/>
-        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="132"/>
+        <location filename="../tmp/src/statusdlg.cpp" line="133"/>
+        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="133"/>
         <source>Set Status: %1</source>
         <translation>Вызначыць стан: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/statusdlg.cpp" line="141"/>
-        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="141"/>
+        <location filename="../tmp/src/statusdlg.cpp" line="142"/>
+        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="142"/>
         <source>Set Status for %1</source>
         <translation>Вызначыць стан для %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/statusdlg.cpp" line="148"/>
-        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="148"/>
+        <location filename="../tmp/src/statusdlg.cpp" line="149"/>
+        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="149"/>
         <source>Set Status for group</source>
         <translation>Вызначыць стан для суполкі</translation>
     </message>
     <message>
-        <location filename="../tmp/src/statusdlg.cpp" line="164"/>
-        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="164"/>
+        <location filename="../tmp/src/statusdlg.cpp" line="165"/>
+        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="165"/>
         <source>Status:</source>
         <translation>Стан:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/statusdlg.cpp" line="170"/>
-        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="170"/>
+        <location filename="../tmp/src/statusdlg.cpp" line="171"/>
+        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="171"/>
         <source>Priority:</source>
         <translation>Пяршынства:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/statusdlg.cpp" line="179"/>
-        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="179"/>
+        <location filename="../tmp/src/statusdlg.cpp" line="180"/>
+        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="180"/>
         <source>Preset:</source>
         <translation>Нарыхтоўка:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/statusdlg.cpp" line="182"/>
-        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="182"/>
+        <location filename="../tmp/src/statusdlg.cpp" line="183"/>
+        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="183"/>
         <source>&lt;None&gt;</source>
         <translation>&lt;Няма&gt;</translation>
     </message>
     <message>
-        <location filename="../tmp/src/statusdlg.cpp" line="205"/>
-        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="205"/>
+        <location filename="../tmp/src/statusdlg.cpp" line="204"/>
+        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="204"/>
         <source>&amp;Set</source>
         <translation>&amp;Вызначыць</translation>
     </message>
     <message>
-        <location filename="../tmp/src/statusdlg.cpp" line="206"/>
-        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="206"/>
+        <location filename="../tmp/src/statusdlg.cpp" line="205"/>
+        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="205"/>
         <source>&amp;Cancel</source>
         <translation>&amp;Скасаваць</translation>
     </message>
     <message>
-        <location filename="../tmp/src/statusdlg.cpp" line="208"/>
-        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="208"/>
+        <location filename="../tmp/src/statusdlg.cpp" line="207"/>
+        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="207"/>
         <source>Sa&amp;ve as Preset</source>
         <translation>Захаваць як на&amp;рыхтоўку</translation>
     </message>
     <message>
-        <location filename="../tmp/src/statusdlg.cpp" line="254"/>
-        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="254"/>
+        <location filename="../tmp/src/statusdlg.cpp" line="253"/>
+        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="253"/>
         <source>New Status Preset</source>
         <translation>Новая нарыхтоўка</translation>
     </message>
     <message>
-        <location filename="../tmp/src/statusdlg.cpp" line="255"/>
-        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="255"/>
+        <location filename="../tmp/src/statusdlg.cpp" line="254"/>
+        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="254"/>
         <source>Please enter a name for the new status preset:</source>
         <translation>Назавіце нарыхтоўку стану:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/statusdlg.cpp" line="262"/>
-        <location filename="../tmp/src/statusdlg.cpp" line="266"/>
-        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="262"/>
-        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="266"/>
+        <location filename="../tmp/src/statusdlg.cpp" line="261"/>
+        <location filename="../tmp/src/statusdlg.cpp" line="265"/>
+        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="261"/>
+        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="265"/>
         <source>Error</source>
         <translation>Далі хібу</translation>
     </message>
     <message>
-        <location filename="../tmp/src/statusdlg.cpp" line="263"/>
-        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="263"/>
+        <location filename="../tmp/src/statusdlg.cpp" line="262"/>
+        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="262"/>
         <source>Can&apos;t create a blank preset!</source>
         <translation>Нельга ствараць пустую нарыхтоўку!</translation>
     </message>
     <message>
-        <location filename="../tmp/src/statusdlg.cpp" line="267"/>
-        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="267"/>
+        <location filename="../tmp/src/statusdlg.cpp" line="266"/>
+        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="266"/>
         <source>You already have a preset with that name!</source>
         <translation>Нарыхтоўка з такою назваю ўжо існуе!</translation>
     </message>
@@ -20687,14 +20695,14 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
 <context>
     <name>StatusShowDlg</name>
     <message>
-        <location filename="../tmp/src/statusdlg.cpp" line="62"/>
-        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="62"/>
+        <location filename="../tmp/src/statusdlg.cpp" line="63"/>
+        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="63"/>
         <source>&amp;Close</source>
         <translation>&amp;Зачыніць</translation>
     </message>
     <message>
-        <location filename="../tmp/src/statusdlg.cpp" line="73"/>
-        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="73"/>
+        <location filename="../tmp/src/statusdlg.cpp" line="74"/>
+        <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="74"/>
         <source>Status for %1</source>
         <translation>Стан для «%1»</translation>
     </message>
