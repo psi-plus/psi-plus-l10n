@@ -12703,7 +12703,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_chat.cpp" line="75"/>
         <source>Makes Psi bring an open chat window to the front of your screen when you receive a new message. It does not take the keyboard focus, so it will not interfere with your work.</source>
-        <translation>Открывать автоматически окно чата поверх остальных окон, когда вы получаете новое сообщение. При этом оно не становится активным и не мешает вашей работе.</translation>
+        <translation>Показывать окно чата поверх остальных окон, когда вы получаете новое сообщение. Окно не захватывает фокус клавиатуры, поэтому оно не помешает вашей работе.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_chat.cpp" line="78"/>
