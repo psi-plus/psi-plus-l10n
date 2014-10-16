@@ -2400,15 +2400,15 @@ Przyczyna: %1</translation>
         <translation>Awatar</translation>
     </message>
     <message>
-        <location filename="../tmp/src/chatdlg.cpp" line="263"/>
-        <location filename="../tmp/src/chatdlg.cpp" line="760"/>
+        <location filename="../tmp/src/chatdlg.cpp" line="264"/>
+        <location filename="../tmp/src/chatdlg.cpp" line="761"/>
         <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="249"/>
         <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="710"/>
         <source>Warning</source>
         <translation>Uwaga</translation>
     </message>
     <message>
-        <location filename="../tmp/src/chatdlg.cpp" line="264"/>
+        <location filename="../tmp/src/chatdlg.cpp" line="265"/>
         <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="250"/>
         <source>A new chat message was just received.
 Do you still want to close the window?</source>
@@ -2416,55 +2416,55 @@ Do you still want to close the window?</source>
 Czy nadal chcesz zamknąć to okno?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/chatdlg.cpp" line="267"/>
+        <location filename="../tmp/src/chatdlg.cpp" line="268"/>
         <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="253"/>
         <source>Close</source>
         <translation>Zamknij</translation>
     </message>
     <message>
-        <location filename="../tmp/src/chatdlg.cpp" line="705"/>
+        <location filename="../tmp/src/chatdlg.cpp" line="706"/>
         <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="655"/>
         <source>%1 (Composing ...)</source>
         <translation>%1 (pisze...)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/chatdlg.cpp" line="708"/>
+        <location filename="../tmp/src/chatdlg.cpp" line="709"/>
         <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="658"/>
         <source>%1 (Inactive)</source>
         <translation>%1 (nieaktywny)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/chatdlg.cpp" line="760"/>
+        <location filename="../tmp/src/chatdlg.cpp" line="761"/>
         <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="710"/>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
         <translation>&lt;p&gt;Szyfrowanie zostało wyłączone przez rozmówcę. Czy na pewno chcesz wysłać tę wiadomość w postaci niezaszyfrowanej?&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../tmp/src/chatdlg.cpp" line="763"/>
+        <location filename="../tmp/src/chatdlg.cpp" line="764"/>
         <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="713"/>
         <source>&amp;Yes</source>
         <translation>&amp;Tak</translation>
     </message>
     <message>
-        <location filename="../tmp/src/chatdlg.cpp" line="763"/>
+        <location filename="../tmp/src/chatdlg.cpp" line="764"/>
         <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="713"/>
         <source>&amp;No</source>
         <translation>&amp;Nie</translation>
     </message>
     <message>
-        <location filename="../tmp/src/chatdlg.cpp" line="931"/>
+        <location filename="../tmp/src/chatdlg.cpp" line="932"/>
         <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="877"/>
         <source>Encryption Enabled</source>
         <translation>Szyfrowanie GnuPG włączone</translation>
     </message>
     <message>
-        <location filename="../tmp/src/chatdlg.cpp" line="932"/>
+        <location filename="../tmp/src/chatdlg.cpp" line="933"/>
         <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="878"/>
         <source>Encryption Disabled</source>
         <translation>Szyfrowanie GnuPG wyłączone</translation>
     </message>
     <message>
-        <location filename="../tmp/src/chatdlg.cpp" line="1127"/>
+        <location filename="../tmp/src/chatdlg.cpp" line="1128"/>
         <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="1033"/>
         <source>%1 ended the conversation</source>
         <translation>%1 zakończył rozmowę</translation>
@@ -3055,7 +3055,7 @@ Można ręcznie określić wersję klienta i systemu operacyjnego lub wybrać je
 <context>
     <name>CloseButton</name>
     <message>
-        <location filename="../tmp/src/widgets/tabbar.cpp" line="511"/>
+        <location filename="../../psi-plus-snapshots/src/widgets/tabbar.cpp" line="558"/>
         <source>Close Tab</source>
         <translation type="unfinished">Zamknij kartę</translation>
     </message>
@@ -4479,14 +4479,12 @@ Kontynuować?</translation>
 <context>
     <name>EDBFlatFile::File</name>
     <message>
-        <location filename="../tmp/src/eventdb.cpp" line="872"/>
-        <location filename="../../psi-plus-snapshots/src/eventdb.cpp" line="887"/>
+        <location filename="../../psi-plus-snapshots/src/eventdb.cpp" line="876"/>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
         <translation>&lt;big&gt;[Komunikat systemowy]&lt;/big&gt;&lt;br&gt;Udzielo Ci pozwolenia na subskrypcję obecności.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/eventdb.cpp" line="874"/>
-        <location filename="../../psi-plus-snapshots/src/eventdb.cpp" line="889"/>
+        <location filename="../../psi-plus-snapshots/src/eventdb.cpp" line="878"/>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
         <translation>&lt;big&gt;[Komunikat systemowy]&lt;/big&gt;&lt;br&gt;Cofnięto Ci pozwolenie na subskrypcję obecności!</translation>
     </message>
@@ -6264,34 +6262,34 @@ Przyczyna: %3</translation>
 <context>
     <name>GCFindDlg</name>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2352"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2398"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2350"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2396"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2351"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2397"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2348"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2394"/>
         <source>Find</source>
         <translation>Znajdź</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2357"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2355"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2356"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2353"/>
         <source>Find:</source>
         <translation>Znajdź:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2372"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2370"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2371"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2368"/>
         <source>&amp;Close</source>
         <translation>&amp;Zamknij</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2374"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2372"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2373"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2370"/>
         <source>&amp;Find</source>
         <translation>Z&amp;najdź</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2398"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2396"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2397"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2394"/>
         <source>Search string &apos;%1&apos; not found.</source>
         <translation>Szukany ciąg &apos;%1&apos; nie został znaleziony.</translation>
     </message>
@@ -6324,13 +6322,13 @@ Przyczyna: %3</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1072"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1070"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1069"/>
         <source> by %1</source>
         <translation> przez %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1076"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1074"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1073"/>
         <source>
 Reason: %1</source>
         <translation>
@@ -6338,31 +6336,31 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1115"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1113"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1112"/>
         <source>Edit Bookmark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1118"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1116"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1115"/>
         <source>Add to bookmarks</source>
         <translation>Dodaj do zakładek</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1163"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1161"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1160"/>
         <source>Error: Cannot parse command: </source>
         <translation>Błąd: Nie można przetworzyć polecenia: </translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1273"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1271"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1270"/>
         <source>Warning</source>
         <translation>Uwaga</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1274"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1272"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1271"/>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
         <translation>Czy na pewno chcesz wyczyścić okno rozmowy?
@@ -6370,315 +6368,315 @@ Przyczyna: %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1331"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1329"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1328"/>
         <source>Disconnected.</source>
         <translation>Rozłączony.</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1364"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1362"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1361"/>
         <source>Reconnecting...</source>
         <translation>Trwa ponowne łączenie...</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1371"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1369"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1368"/>
         <source>Error: You are in or joining this room already!</source>
         <translation>Błąd: Jesteś już w tym pokoju!</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1426"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1424"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1423"/>
         <source>Unable to join groupchat.	Reason: %1</source>
         <translation>Nie udałos się dołączyć do konferencji.	Przyczyna: %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1428"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1426"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1425"/>
         <source>Unexpected groupchat error: %1</source>
         <translation>Nieoczekiwany błąd konferencji: %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1462"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1460"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1459"/>
         <source>Please choose a different nickname</source>
         <translation>Proszę wybrać inny pseudonim</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1466"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1464"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1463"/>
         <source>An error occurred (errorcode: %1)</source>
         <translation>Wystąpił błąd (kod błędu %1)</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1499"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1497"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1496"/>
         <source>New room created</source>
         <translation>Utworzono nowy pokój</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1511"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1509"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1508"/>
         <source>%1 has joined the room</source>
         <translation>%1 dołączył do pokoju</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1515"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1513"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1512"/>
         <source>%3 has joined the room as %1 and %2</source>
         <translation>%3 dołączył do pokoju jako %1 i %2</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1518"/>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1522"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1516"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1520"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1515"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1519"/>
         <source>%2 has joined the room as %1</source>
         <translation>%2 dołączył do pokoju jako %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1531"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1529"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1528"/>
         <source> and now is %1</source>
         <translation>a teraz jest %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1549"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1547"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1546"/>
         <source>%1 is now %2 and %3</source>
         <translation>%1 jest teraz %2 i %3</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1552"/>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1557"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1550"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1555"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1549"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1554"/>
         <source>%1 is now %2</source>
         <translation>%1 jest teraz %2</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1562"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1560"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1559"/>
         <source> (Reason: %1)</source>
         <translation>(Przyczyna: %1)</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1586"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1584"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1583"/>
         <source>This room has been destroyed.</source>
         <translation>Pokój został usunięty.</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1590"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1588"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1587"/>
         <source>Reason: %1</source>
         <translation>Przyczyna: %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1596"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1594"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1593"/>
         <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
         <translation>Czy chcesz dołączyć do innej lokalizacji &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1597"/>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1603"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1595"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1601"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1594"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1600"/>
         <source>Room Destroyed</source>
         <translation>Pokój usunięty</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1622"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1620"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1619"/>
         <source>Banned</source>
         <translation>Zablokowany</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1622"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1620"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1619"/>
         <source>You have been banned from the room</source>
         <translation>Zostałeś zablokowany przy wejściu do pokoju</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1623"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1621"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1620"/>
         <source>You have been banned from the room by %1</source>
         <translation>Zostałeś zablokowany przy wejściu do pokoju przez %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1624"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1622"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1621"/>
         <source>%1 has been banned</source>
         <translation>%1 został zablokowany</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1625"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1623"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1622"/>
         <source>%1 has been banned by %2</source>
         <translation>%1 został zablokowany przez %2</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1630"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1628"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1627"/>
         <source>Kicked</source>
         <translation>Wyrzucony</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1630"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1628"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1627"/>
         <source>You have been kicked from the room</source>
         <translation>Zostałeś wyrzucony z pokoju</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1631"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1629"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1628"/>
         <source>You have been kicked from the room by %1</source>
         <translation>Zostałeś wyrzucony z pokoju przez %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1632"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1630"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1629"/>
         <source>%1 has been kicked</source>
         <translation>%1 został wyrzucony</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1633"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1631"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1630"/>
         <source>%1 has been kicked by %2</source>
         <translation>%1 został wyrzucony przez %2</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1638"/>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1646"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1636"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1644"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1635"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1643"/>
         <source>Removed</source>
         <translation>Usunięty</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1639"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1637"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1636"/>
         <source>You have been removed from the room due to an affiliation change</source>
         <translation>Zostałeś usunięty z pokoju ze względu na zmianę przynależności</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1640"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1638"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1637"/>
         <source>You have been removed from the room by %1 due to an affiliation change</source>
         <translation>Zostałeś usunięty z pokoju przez %1 ze względu na zmianę przynależności</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1641"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1639"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1638"/>
         <source>%1 has been removed from the room due to an affilliation change</source>
         <translation>%1 został usunięty z pokoju ze względu na zmianę przynależności</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1642"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1640"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1639"/>
         <source>%1 has been removed from the room by %2 due to an affilliation change</source>
         <translation>%1 został usunięty z pokoju przez %2 ze względu na zmianę przynależności</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1647"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1645"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1644"/>
         <source>You have been removed from the room because the room was made members only</source>
         <translation>Zostałeś usunięty z pokoju ponieważ pokój jest dostępny wyłącznie dla członków</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1648"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1646"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1645"/>
         <source>You have been removed from the room by %1 because the room was made members only</source>
         <translation>Zostałeś usunięty z pokoju przez %1 ponieważ pokój jest dostępny wyłącznie dla członków</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1649"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1647"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1646"/>
         <source>%1 has been removed from the room because the room was made members-only</source>
         <translation>%1 został usunięty z pokoju ponieważ pokój stał się dostępny wyłącznie dla członków</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1650"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1648"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1647"/>
         <source>%1 has been removed from the room by %2 because the room was made members-only</source>
         <translation>%1 został usunięty z pokoju przez %2 ponieważ pokój stał się dostępny wyłącznie dla członków</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1656"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1654"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1653"/>
         <source>%1 is now known as %2</source>
         <translation>%1 jest teraz znany jako %2</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1660"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1658"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1657"/>
         <source>%1 has left the room</source>
         <translation>%1 opuścił pokój</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1730"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1728"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1727"/>
         <source>The topic has been set to</source>
         <translation>Wątek został ustawiony na</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1733"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1731"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1730"/>
         <source> has unset the topic</source>
         <translation>wątek został usunięty</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1733"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1731"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1730"/>
         <source> has set the topic to</source>
         <translation>wątek ustawiono na</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1797"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1795"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1796"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1793"/>
         <source>Connected.</source>
         <translation>Połączony.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2231"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2229"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2230"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2227"/>
         <source>Save</source>
         <translation>Zapisz</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2232"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2230"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2231"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2228"/>
         <source>Delete</source>
         <translation>Usuń</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2233"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2231"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2232"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2229"/>
         <source>Cancel</source>
         <translation>Rezygnuj</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2242"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2240"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2241"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2238"/>
         <source>&amp;Name:</source>
         <translation>&amp;Nazwa:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2243"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2241"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2242"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2239"/>
         <source>N&amp;ick:</source>
         <translation>N&amp;ick:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2244"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2242"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2243"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2240"/>
         <source>&amp;Auto join:</source>
         <translation>&amp;Auto-dołączenie:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2255"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2253"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2254"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2251"/>
         <source>Bookmark conference</source>
         <translation>Zakładka konferencji</translation>
     </message>
@@ -7766,136 +7764,85 @@ Do wysyłania poleceń, wykorzystywane są zwykłe wiadomości, więc wtyczka  t
 <context>
     <name>HistoryDlg</name>
     <message>
-        <location filename="../tmp/src/history.ui" line="29"/>
         <location filename="../../psi-plus-snapshots/src/history.ui" line="29"/>
         <source>HistoryDlg</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/history.ui" line="73"/>
-        <source>Roster contacts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../tmp/src/history.ui" line="107"/>
-        <source>Not in roster</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../tmp/src/history.ui" line="135"/>
-        <source>Private</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../tmp/src/history.ui" line="163"/>
         <source>Advanced</source>
-        <translation type="unfinished">Zaawansowane</translation>
+        <translation type="obsolete">Zaawansowane</translation>
     </message>
     <message>
-        <location filename="../tmp/src/history.ui" line="229"/>
         <location filename="../../psi-plus-snapshots/src/history.ui" line="156"/>
         <source>Refresh history</source>
         <translation>Odśwież historię</translation>
     </message>
     <message>
-        <location filename="../tmp/src/history.ui" line="232"/>
         <location filename="../../psi-plus-snapshots/src/history.ui" line="159"/>
         <source>&amp;Refresh</source>
         <translation>&amp;Odśwież</translation>
     </message>
     <message>
-        <location filename="../tmp/src/history.ui" line="316"/>
         <location filename="../../psi-plus-snapshots/src/history.ui" line="177"/>
         <source>&amp;Earliest</source>
         <translation>&amp;Wczesniejsze</translation>
     </message>
     <message>
-        <location filename="../tmp/src/history.ui" line="326"/>
         <location filename="../../psi-plus-snapshots/src/history.ui" line="187"/>
         <source>&amp;Previous</source>
         <translation>&amp;Poprzednie</translation>
     </message>
     <message>
-        <location filename="../tmp/src/history.ui" line="355"/>
         <location filename="../../psi-plus-snapshots/src/history.ui" line="216"/>
         <source>&amp;Next</source>
         <translation>&amp;Następne</translation>
     </message>
     <message>
-        <location filename="../tmp/src/history.ui" line="368"/>
         <location filename="../../psi-plus-snapshots/src/history.ui" line="229"/>
         <source>&amp;Lastest</source>
         <translation>&amp;Późniejsze</translation>
     </message>
     <message>
-        <location filename="../tmp/src/historydlg.cpp" line="240"/>
-        <source>All accounts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../tmp/src/historydlg.cpp" line="340"/>
-        <location filename="../tmp/src/historydlg.cpp" line="341"/>
-        <location filename="../tmp/src/historydlg.cpp" line="395"/>
-        <source>All contacts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../tmp/src/historydlg.cpp" line="439"/>
         <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="309"/>
         <source>Remove history</source>
         <translation>Usuń historię</translation>
     </message>
     <message>
-        <location filename="../tmp/src/historydlg.cpp" line="440"/>
         <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="310"/>
         <source>Are you sure you want to completely remove history for a contact %1?</source>
         <translation>Czy na pewno chesz usunąć całą historię kontaktu %1?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/historydlg.cpp" line="467"/>
         <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="334"/>
         <source>Export message history</source>
         <translation>Zapis historii do pliku</translation>
     </message>
     <message>
-        <location filename="../tmp/src/historydlg.cpp" line="469"/>
         <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="336"/>
         <source>Text files (*.txt);;All files (*.*)</source>
         <translation>Pliki tekstowe (*.txt);;Wszystkie pliki (*.*)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/historydlg.cpp" line="475"/>
         <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="342"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
     <message>
-        <location filename="../tmp/src/historydlg.cpp" line="475"/>
         <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="342"/>
         <source>Error writing to file.</source>
         <translation>Błąd zapisu do pliku.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/historydlg.cpp" line="516"/>
-        <location filename="../tmp/src/historydlg.cpp" line="816"/>
-        <location filename="../tmp/src/historydlg.cpp" line="896"/>
-        <source>deleted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../tmp/src/historydlg.cpp" line="564"/>
         <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="416"/>
         <source>&amp;Open chat</source>
         <translation>&amp;Otwórz rozmowę</translation>
     </message>
     <message>
-        <location filename="../tmp/src/historydlg.cpp" line="565"/>
         <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="417"/>
         <source>&amp;Export history</source>
         <translation>&amp;Eksportuj historię</translation>
     </message>
     <message>
-        <location filename="../tmp/src/historydlg.cpp" line="567"/>
         <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="418"/>
         <source>&amp;Delete history</source>
         <translation type="unfinished"></translation>
@@ -15097,52 +15044,52 @@ Szczegóły: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="5453"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="5384"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="5445"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="5375"/>
         <source>Headline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6261"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6201"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6243"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6182"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
         <translation>Wystąpił błąd podczas podpisywania statusu.
 Przyczyna: %1.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6379"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6319"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6360"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6299"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[BŁĄD: Ta wiadomość jest zaszyfrowana a Ty nie jesteś w stanie jej odszyfrować.]</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6702"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6644"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6683"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6624"/>
         <source>No key</source>
         <translation>Brak klucza</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6702"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6644"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6683"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6624"/>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Psi nie mogło znaleźć klucza OpenPGP dla &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Mogło to być spowodowane tym, że nie posiadasz klucza, którego ta osoba użyła do podpisu statusu, albo tym że ta osoba w ogóle nie podpisuje statusu.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6707"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6649"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6688"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6629"/>
         <source>&amp;Choose key manually</source>
         <translation>&amp;Wybierz klucz ręcznie</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6707"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6649"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6688"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6629"/>
         <source>Do &amp;nothing</source>
         <translation>&amp;Anuluj</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6714"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6656"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6695"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6636"/>
         <source>Public Key: %1</source>
         <translation>Klucz publiczny: %1</translation>
     </message>
@@ -16182,9 +16129,9 @@ Przyczyna: %1.</translation>
     </message>
     <message>
         <location filename="../tmp/src/psicon.cpp" line="1518"/>
-        <location filename="../tmp/src/psicon.cpp" line="1919"/>
+        <location filename="../tmp/src/psicon.cpp" line="1913"/>
         <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1505"/>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1906"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1900"/>
         <source>Warning</source>
         <translation>Uwaga</translation>
     </message>
@@ -16201,52 +16148,52 @@ Przyczyna: %1.</translation>
         <translation>Rozumiem</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psicon.cpp" line="1759"/>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1746"/>
+        <location filename="../tmp/src/psicon.cpp" line="1755"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1742"/>
         <source>Call ended</source>
         <translation>Rozmowa zakończona</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psicon.cpp" line="1759"/>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1746"/>
+        <location filename="../tmp/src/psicon.cpp" line="1755"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1742"/>
         <source>Other party canceled call.</source>
         <translation>Druga strona przerwała rozmowę.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psicon.cpp" line="1919"/>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1906"/>
+        <location filename="../tmp/src/psicon.cpp" line="1913"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1900"/>
         <source>Unable to bind to port %1 for Data Transfer.
 This may mean you are already running another instance of Psi. You may experience problems sending and/or receiving files.</source>
         <translation>Nie można podłączyć się do portu %1 dla połączenia transferu danych.
 Może to oznaczać, że masz już uruchomioną inną kopię Psi. Może to powodować problemy przy wysyłaniu lub odbieraniu plików.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psicon.cpp" line="1926"/>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1913"/>
+        <location filename="../tmp/src/psicon.cpp" line="1920"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1907"/>
         <source>Computer went to sleep</source>
         <translation>Komputer został uśpiony</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psicon.cpp" line="1959"/>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1946"/>
+        <location filename="../tmp/src/psicon.cpp" line="1953"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1940"/>
         <source>Account setup</source>
         <translation>Ustawienia konta</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psicon.cpp" line="1959"/>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1946"/>
+        <location filename="../tmp/src/psicon.cpp" line="1953"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1940"/>
         <source>You need to set up an account to start. Would you like to register a new account, or use an existing account?</source>
         <translation>Potrzebujesz konta by móc pracować. Czy chcesz utworzyć nowe konto, czy też wykorzystać już istniejące?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psicon.cpp" line="1960"/>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1947"/>
+        <location filename="../tmp/src/psicon.cpp" line="1954"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1941"/>
         <source>Register new account</source>
         <translation>Utwórz nowe konto</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psicon.cpp" line="1961"/>
-        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1948"/>
+        <location filename="../tmp/src/psicon.cpp" line="1955"/>
+        <location filename="../../psi-plus-snapshots/src/psicon.cpp" line="1942"/>
         <source>Use existing account</source>
         <translation>Wykorzystaj istniejące konto</translation>
     </message>
@@ -16935,13 +16882,13 @@ Czy chcesz teraz aktywować sesję?</translation>
 <context>
     <name>PsiPopup</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psipopup.cpp" line="359"/>
-        <location filename="../../psi-plus-snapshots/src/psipopup.cpp" line="381"/>
+        <location filename="../../psi-plus-snapshots/src/psipopup.cpp" line="349"/>
+        <location filename="../../psi-plus-snapshots/src/psipopup.cpp" line="371"/>
         <source>Subject:</source>
         <translation>Temat:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psipopup.cpp" line="369"/>
+        <location filename="../../psi-plus-snapshots/src/psipopup.cpp" line="359"/>
         <source> is typing...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17697,19 +17644,19 @@ Description: </source>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1146"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1144"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1143"/>
         <source>Warning: %1 is deprecated and will be removed in the future</source>
         <translation>Uwaga: %1 jest przestarzały i zostanie w przyszłości usunięty</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1149"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1147"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1146"/>
         <source>Please set a shortcut for &apos;Change to quick command mode&apos;, use that shortcut and enter &apos;%1&apos;.</source>
         <translation>Proszę ustawić skrót funkcji &apos;Przełącz na tryb szybkich poleceń&apos;, użyć tego skrótu i wprowadzić &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1151"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1149"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1148"/>
         <source>Please instead press %1 and enter &apos;%2&apos;.</source>
         <translation>W zamian proszę nacisnąć %1 i wprowadzić &apos;%2&apos;.</translation>
     </message>
@@ -18576,29 +18523,29 @@ Password: %5</source>
         <translation>Wskaźnik zdarzeń</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psidbusnotifier.cpp" line="247"/>
+        <location filename="../../psi-plus-snapshots/src/psidbusnotifier.cpp" line="245"/>
         <location filename="../../psi-plus-snapshots/src/psigrowlnotifier.cpp" line="179"/>
         <source> is typing...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psidbusnotifier.cpp" line="254"/>
+        <location filename="../../psi-plus-snapshots/src/psidbusnotifier.cpp" line="252"/>
         <location filename="../../psi-plus-snapshots/src/psigrowlnotifier.cpp" line="185"/>
         <source>%1 says:</source>
         <translation>%1 mówi:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psidbusnotifier.cpp" line="262"/>
+        <location filename="../../psi-plus-snapshots/src/psidbusnotifier.cpp" line="260"/>
         <source>Headline from %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psidbusnotifier.cpp" line="272"/>
+        <location filename="../../psi-plus-snapshots/src/psidbusnotifier.cpp" line="270"/>
         <source>Incoming file from %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psidbusnotifier.cpp" line="275"/>
+        <location filename="../../psi-plus-snapshots/src/psidbusnotifier.cpp" line="273"/>
         <source>Incoming call from %1</source>
         <translation type="unfinished"></translation>
     </message>
