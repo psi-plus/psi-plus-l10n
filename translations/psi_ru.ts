@@ -9969,7 +9969,7 @@ Details: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="125"/>
         <source>Expiration</source>
-        <translation type="unfinished"></translation>
+        <translation>Истекает</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="126"/>
@@ -10443,7 +10443,7 @@ Tags: %1</source>
         <location filename="../tmp/src/options/opt_appearance.ui" line="461"/>
         <location filename="../../psi-plus-snapshots/src/options/opt_appearance.ui" line="461"/>
         <source>Highlight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Выделение:</translation>
     </message>
     <message>
         <location filename="../tmp/src/options/opt_appearance.ui" line="487"/>
