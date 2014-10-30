@@ -7782,22 +7782,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>История</translation>
     </message>
     <message>
-        <source>Roster contacts</source>
-        <translation type="vanished">Контакты из ростера</translation>
-    </message>
-    <message>
-        <source>Not in roster</source>
-        <translation type="vanished">Не из ростера</translation>
-    </message>
-    <message>
-        <source>Private</source>
-        <translation type="vanished">Личное</translation>
-    </message>
-    <message>
-        <source>Advanced</source>
-        <translation type="vanished">Дополнительно</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/history.ui" line="156"/>
         <source>Refresh history</source>
         <translation>Обновить историю</translation>
@@ -7828,14 +7812,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Пос&amp;леднее</translation>
     </message>
     <message>
-        <source>All accounts</source>
-        <translation type="vanished">Все аккаунты</translation>
-    </message>
-    <message>
-        <source>All contacts</source>
-        <translation type="vanished">Все контакты</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="309"/>
         <source>Remove history</source>
         <translation>Удалить историю</translation>
@@ -7864,10 +7840,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="342"/>
         <source>Error writing to file.</source>
         <translation>Ошибка записи в файл.</translation>
-    </message>
-    <message>
-        <source>deleted</source>
-        <translation type="vanished">удаленный</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="416"/>
