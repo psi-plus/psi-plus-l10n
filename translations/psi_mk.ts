@@ -340,12 +340,12 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
 <context>
     <name>AccountAddDlg</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountadddlg.cpp" line="46"/>
+        <location filename="../../psi-plus-snapshots/src/accountadddlg.cpp" line="44"/>
         <source>Check this option if you don&apos;t yet have an XMPP account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountadddlg.cpp" line="50"/>
+        <location filename="../../psi-plus-snapshots/src/accountadddlg.cpp" line="48"/>
         <source>Default</source>
         <translation>Основен</translation>
     </message>
@@ -419,28 +419,28 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
 <context>
     <name>AccountManageDlg</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="287"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="285"/>
         <source>Active</source>
         <translation>Активен</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="287"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="285"/>
         <source>Not active</source>
         <translation>Неактивен</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="408"/>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="413"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="406"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="411"/>
         <source>Error</source>
         <translation>Грешка</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="413"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="411"/>
         <source>Please disconnect before removing the account.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="415"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="413"/>
         <source>&amp;Disconnect</source>
         <translation type="unfinished"></translation>
     </message>
@@ -712,236 +712,236 @@ When you enable this option you will not be able to find your password in config
 <context>
     <name>AccountModifyDlg</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="107"/>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="114"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="105"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="112"/>
         <source>Always</source>
         <translation>Секогаш</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="108"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="106"/>
         <source>When available</source>
         <translation>Кога ќе бидам достапен</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="109"/>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="116"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="107"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="114"/>
         <source>Never</source>
         <translation>Никогаш</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="110"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="108"/>
         <source>Legacy SSL</source>
         <translation>Стар SSL</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="115"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="113"/>
         <source>Over encrypted connection</source>
         <translation>Преку шифрирана врска</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="131"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="129"/>
         <source>Manual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="132"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="130"/>
         <source>Use host name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="135"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="133"/>
         <source>Fixed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="136"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="134"/>
         <source>Depends on status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="160"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="158"/>
         <source>Delete current host from the list</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="164"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="162"/>
         <source>&lt;don&apos;t use&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="192"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="190"/>
         <source>None</source>
         <translation>Никој</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="193"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="191"/>
         <source>Integrity</source>
         <translation>Интегритет</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="194"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="192"/>
         <source>Baseline</source>
         <translation>Основна линија</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="195"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="193"/>
         <source>High</source>
         <translation>Висок</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="196"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="194"/>
         <source>Highest</source>
         <translation>Највисок</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="228"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="226"/>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="235"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="233"/>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
         <translation>Автоматски вклучи се на оваа сметка при стартувањето на Psi.  Корисно ако Psi автоматски се стартува при воспоставување на врска со Интернет.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="239"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="237"/>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
         <translation>Psi ќе се обиде да се поврзе кога компјутерот ќе се разбуди од спиење.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="242"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="240"/>
         <source>Makes Psi try to reconnect if the connection was broken.  Useful, if you have an unstable connection and have to reconnect often.</source>
         <translation>Со ова Psi се обидува повторно да се поврзе ако врската е прекината.  Корисно ако линијата често ви паѓа.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="246"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="244"/>
         <source>Keep a log of message history.  Disable this option if you want to conserve disk space or if you need maximum security.</source>
         <translation>Чувај дневник историјата на пораките.  Исклучете ја оваа опција ако сакате да штедите простор на дискот или ако ви треба максимална безбедност.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="250"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="248"/>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
         <translation>Испраќа „Жив сум“ пакети периодично. Корисно ако врската е поставена автоматски да се исклучи после одреден период на неактивност (од страна на Вашиот ИП) и ако сакате постојано да сте на линија.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="256"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="254"/>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="262"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="260"/>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="265"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="263"/>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="271"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="269"/>
         <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="275"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="273"/>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="279"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="277"/>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="299"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="297"/>
         <source>Username:</source>
         <translation>Корисничко име:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="395"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="393"/>
         <source>No Key Selected</source>
         <translation>Нема избран клуч</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="425"/>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="517"/>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="520"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="423"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="515"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="518"/>
         <source>Error</source>
         <translation>Грешка</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="425"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="423"/>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
         <translation>Стариот SSL може да се користи со рачно поставување на домаќин/порта.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="433"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="431"/>
         <source>SSL error</source>
         <translation>SSL грешка</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="433"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="431"/>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
         <translation>SSL/TLS не може да се овозможи.  Приклучокот не е пронајден.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="460"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="458"/>
         <source>Secret Key</source>
         <translation>Таен клуч</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="517"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="515"/>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
         <translation>&lt;i&gt;Корисничкото име&lt;/i&gt; не е валдино.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="520"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="518"/>
         <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="596"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="594"/>
         <source>Warning</source>
         <translation>Предупредување</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="597"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="595"/>
         <source>This account is currently active, so certain changes may not take effect until the next login.</source>
         <translation>Оваа сметка моментално е активна. Затоа одредени промени нема да се применат сѐ до следното вклучување.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="599"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="597"/>
         <source>Reconnect &amp;Later</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="600"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="598"/>
         <source>Reconnect &amp;Now</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="630"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="628"/>
         <source>Block contact</source>
         <translation>Блокирај го контактот</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="630"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="628"/>
         <source>Enter the XMPP Address of the contact to block:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="661"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="659"/>
         <source>Retrieving blocked contact list ...</source>
         <translation>Ја прибирам листата со блокирани контакти...</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="670"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="668"/>
         <source>You are not connected.</source>
         <translation>Не сте поврзани.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="699"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="697"/>
         <source>Your server does not support blocking.</source>
         <translation>Вашиот сервер не поддржува блокирање.</translation>
     </message>
@@ -1144,62 +1144,62 @@ Reason: %1</source>
 <context>
     <name>AccountRemoveDlg</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="110"/>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="181"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="108"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="179"/>
         <source>&amp;Remove</source>
         <translation type="unfinished">&amp;Отстрани</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="143"/>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="179"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="141"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="177"/>
         <source>Warning</source>
         <translation>Предупредување</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="143"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="141"/>
         <source>Are you sure you want to cancel the unregistration?</source>
         <translation>Сигурно сакате да ја откажете регистрацијата?</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="144"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="142"/>
         <source>&amp;No</source>
         <translation>&amp;Не</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="145"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="143"/>
         <source>&amp;Yes</source>
         <translation>&amp;Да</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="173"/>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="235"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="171"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="233"/>
         <source>Error</source>
         <translation>Грешка</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="173"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="171"/>
         <source>Password does not match account.  Please try again.</source>
         <translation>Лозинката не одговара на сметката.  Обидете се повторно.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="179"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="177"/>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; ?</source>
         <translation>Сигурно сакате да ја отстраните сметката &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="228"/>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="243"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="226"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="241"/>
         <source>Success</source>
         <translation>Успех</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="228"/>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="243"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="226"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="241"/>
         <source>The account was unregistered successfully.</source>
         <translation>Смеката е успешно одрегистрирана.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="235"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="233"/>
         <source>There was an error unregistering the account.
 Reason: %1</source>
         <translation>Имаше грешка при одрегистрирањето на сметката.
@@ -1504,50 +1504,50 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>AddUserDlg</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="118"/>
-        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="182"/>
+        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="116"/>
+        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="180"/>
         <source>&lt;None&gt;</source>
         <translation>&lt;Никоја&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="123"/>
+        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="121"/>
         <source>Hidden</source>
         <translation type="unfinished">Скриена</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="172"/>
-        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="176"/>
+        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="170"/>
+        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="174"/>
         <source>Add User: Error</source>
         <translation>Додај корисник: Грешка</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="172"/>
+        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="170"/>
         <source>Please fill in the XMPP address of the person you wish to add.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="176"/>
+        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="174"/>
         <source>The XMPP address you entered is not valid!
 Make sure you enter a fully qualified XMPP address.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="188"/>
+        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="186"/>
         <source>Add User: Success</source>
         <translation>Додај корисник: Успех</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="188"/>
+        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="186"/>
         <source>Added %1 to your roster.</source>
         <translation>%1 е додаден на Вашиот список.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="288"/>
+        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="286"/>
         <source>Error</source>
         <translation>Грешка</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="288"/>
+        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="286"/>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
         <translation type="unfinished"></translation>
@@ -1932,37 +1932,37 @@ The list of exceptions for jids has two operating modes:
 <context>
     <name>BookmarkManageDlg</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="58"/>
+        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="56"/>
         <source>&amp;Add</source>
         <translation>&amp;Додај</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="59"/>
+        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="57"/>
         <source>&amp;Remove</source>
         <translation>&amp;Отстрани</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="60"/>
+        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="58"/>
         <source>&amp;Join</source>
         <translation>&amp;Приклучи се</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="140"/>
+        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="138"/>
         <source>Unnamed</source>
         <translation>Неименуван</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="235"/>
+        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="233"/>
         <source>Import bookmarks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="262"/>
+        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="260"/>
         <source>Error!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="269"/>
+        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="267"/>
         <source>Export bookmarks</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2190,57 +2190,57 @@ The list of exceptions for jids has two operating modes:
         <translation>Причина: %1.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="63"/>
+        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="64"/>
         <source>Subject Details:</source>
         <translation>Детали за субјектот:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="64"/>
+        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="65"/>
         <source>Issuer Details:</source>
         <translation>Детали за издавачот:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="78"/>
+        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="79"/>
         <source>Organization:</source>
         <translation>Организација:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="79"/>
+        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="80"/>
         <source>Organizational unit:</source>
         <translation>Организациска единица:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="80"/>
+        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="81"/>
         <source>Locality:</source>
         <translation>Локалност:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="81"/>
+        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="82"/>
         <source>State:</source>
         <translation>Држава:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="82"/>
+        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="83"/>
         <source>Country:</source>
         <translation>Земја:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="83"/>
+        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="84"/>
         <source>Common name:</source>
         <translation>Вообичаено име:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="84"/>
+        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="85"/>
         <source>Domain name:</source>
         <translation>Име на домен:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="85"/>
+        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="86"/>
         <source>XMPP name:</source>
         <translation>XMPP име:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="86"/>
+        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="87"/>
         <source>Email:</source>
         <translation>Email:</translation>
     </message>
@@ -2271,40 +2271,40 @@ The list of exceptions for jids has two operating modes:
 <context>
     <name>ChangePasswordDlg</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="82"/>
-        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="87"/>
-        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="94"/>
-        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="135"/>
+        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="80"/>
+        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="85"/>
+        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="92"/>
+        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="133"/>
         <source>Error</source>
         <translation>Грешка</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="82"/>
+        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="80"/>
         <source>You must fill out the fields properly before you can proceed.</source>
         <translation>Пред да продолжите морате точно да ги пополните полињата.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="87"/>
+        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="85"/>
         <source>You entered your old password incorrectly.  Try again.</source>
         <translation>Погрешно ја внесовте старата лозинка.  Обидете се повторно.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="94"/>
+        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="92"/>
         <source>New password and confirmation do not match.  Please enter them again.</source>
         <translation>Новата лозинка и потврдата не се исти.  Внесете ги повторно.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="127"/>
+        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="125"/>
         <source>Success</source>
         <translation>Успех</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="127"/>
+        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="125"/>
         <source>Successfully changed password.</source>
         <translation>Лозинката е успешно променета.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="135"/>
+        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="133"/>
         <source>There was an error when trying to set the password.
 Reason: %1</source>
         <translation>Имаше грешка при поставувањето на лозинката.
@@ -2376,14 +2376,14 @@ Reason: %1</source>
     <message>
         <location filename="../tmp/src/chatdlg.cpp" line="264"/>
         <location filename="../tmp/src/chatdlg.cpp" line="761"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="249"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="710"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="250"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="711"/>
         <source>Warning</source>
         <translation>Предупредување</translation>
     </message>
     <message>
         <location filename="../tmp/src/chatdlg.cpp" line="265"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="250"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="251"/>
         <source>A new chat message was just received.
 Do you still want to close the window?</source>
         <translation>Само што примивте нова порака.
@@ -2391,55 +2391,55 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <location filename="../tmp/src/chatdlg.cpp" line="268"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="253"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="254"/>
         <source>Close</source>
         <translation>Затвори</translation>
     </message>
     <message>
         <location filename="../tmp/src/chatdlg.cpp" line="706"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="655"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="656"/>
         <source>%1 (Composing ...)</source>
         <translation>%1 (Пишува...)</translation>
     </message>
     <message>
         <location filename="../tmp/src/chatdlg.cpp" line="709"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="658"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="659"/>
         <source>%1 (Inactive)</source>
         <translation>%1 (Не е активен)</translation>
     </message>
     <message>
         <location filename="../tmp/src/chatdlg.cpp" line="761"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="710"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="711"/>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
         <translation>&lt;p&gt;Шифрирањето беше оневозможено од Вашиот контактот.  Сигурно сакате да ја пратите оваа порака без шифрирање?&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../tmp/src/chatdlg.cpp" line="764"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="713"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="714"/>
         <source>&amp;Yes</source>
         <translation>&amp;Да</translation>
     </message>
     <message>
         <location filename="../tmp/src/chatdlg.cpp" line="764"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="713"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="714"/>
         <source>&amp;No</source>
         <translation>&amp;Не</translation>
     </message>
     <message>
         <location filename="../tmp/src/chatdlg.cpp" line="932"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="877"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="878"/>
         <source>Encryption Enabled</source>
         <translation>Шифрирањето е вклучено</translation>
     </message>
     <message>
         <location filename="../tmp/src/chatdlg.cpp" line="933"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="878"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="879"/>
         <source>Encryption Disabled</source>
         <translation>Шифрирањето е исклучено</translation>
     </message>
     <message>
         <location filename="../tmp/src/chatdlg.cpp" line="1128"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="1033"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="1034"/>
         <source>%1 ended the conversation</source>
         <translation>%1 го заврши разговорот</translation>
     </message>
@@ -6223,34 +6223,34 @@ Reason: %3</source>
 <context>
     <name>GCFindDlg</name>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2352"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2398"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2351"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2397"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2350"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2396"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2350"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2396"/>
         <source>Find</source>
         <translation>Пронајди</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2357"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2356"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2355"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2355"/>
         <source>Find:</source>
         <translation>Пронајди:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2372"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2371"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2370"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2370"/>
         <source>&amp;Close</source>
         <translation>&amp;Затвори</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2374"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2373"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2372"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2372"/>
         <source>&amp;Find</source>
         <translation>&amp;Пронајди</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2398"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2397"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2396"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2396"/>
         <source>Search string &apos;%1&apos; not found.</source>
         <translation>Бараниот текст „%1“ не е пронајден.</translation>
     </message>
@@ -6283,13 +6283,13 @@ Reason: %3</source>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1074"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1073"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1074"/>
         <source> by %1</source>
         <translation> од %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1078"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1077"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1078"/>
         <source>
 Reason: %1</source>
         <translation>
@@ -6297,31 +6297,31 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1117"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1116"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1117"/>
         <source>Edit Bookmark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1120"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1119"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1120"/>
         <source>Add to bookmarks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1165"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1164"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1165"/>
         <source>Error: Cannot parse command: </source>
         <translation>Грешка: не може да се интерпретира наредбата: </translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1275"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1274"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1275"/>
         <source>Warning</source>
         <translation>Предупредување</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1276"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1275"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1276"/>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
         <translation>Сигурно сакате да го исчистите прозорецот?
@@ -6329,315 +6329,315 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1333"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1332"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1333"/>
         <source>Disconnected.</source>
         <translation>Исклучен.</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1366"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1365"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1366"/>
         <source>Reconnecting...</source>
         <translation>Повторно се поврзувам...</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1373"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1372"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1373"/>
         <source>Error: You are in or joining this room already!</source>
         <translation>Грешка: Веќе сте тука, не досаѓајте!</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1428"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1427"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1428"/>
         <source>Unable to join groupchat.	Reason: %1</source>
         <translation>Не може да се приклучите во групниот разговор.	Причина: %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1430"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1429"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1430"/>
         <source>Unexpected groupchat error: %1</source>
         <translation>Неочекувана грешка: %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1464"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1463"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1464"/>
         <source>Please choose a different nickname</source>
         <translation>Изберете друг прекар</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1468"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1467"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1468"/>
         <source>An error occurred (errorcode: %1)</source>
         <translation>Настана грешка (errorcode: %1)</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1501"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1500"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1501"/>
         <source>New room created</source>
         <translation>Создадена е нова соба</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1513"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1512"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1513"/>
         <source>%1 has joined the room</source>
         <translation>%1 дојде во собата</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1517"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1516"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1517"/>
         <source>%3 has joined the room as %1 and %2</source>
         <translation>%3 дојде во собата како %1 и %2</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1520"/>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1524"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1519"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1523"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1520"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1524"/>
         <source>%2 has joined the room as %1</source>
         <translation>%2 дојде во собата како %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1533"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1532"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1533"/>
         <source> and now is %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1551"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1550"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1551"/>
         <source>%1 is now %2 and %3</source>
         <translation>%1 сега е %2 и %3</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1554"/>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1559"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1553"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1558"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1554"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1559"/>
         <source>%1 is now %2</source>
         <translation>%1 сега е %2</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1564"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1563"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1564"/>
         <source> (Reason: %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1588"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1587"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1588"/>
         <source>This room has been destroyed.</source>
         <translation>Оваа соба е уништена.</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1592"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1591"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1592"/>
         <source>Reason: %1</source>
         <translation>Причина: %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1598"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1597"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1598"/>
         <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
         <translation>Дали сакате одите на алтернативното место „%1“?</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1599"/>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1605"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1598"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1604"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1599"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1605"/>
         <source>Room Destroyed</source>
         <translation>Собата е уништена</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1624"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1623"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1624"/>
         <source>Banned</source>
         <translation>Забранет</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1624"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1623"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1624"/>
         <source>You have been banned from the room</source>
         <translation>Ви забранија да одите во собата</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1625"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1624"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1625"/>
         <source>You have been banned from the room by %1</source>
         <translation>%1 Ви забрани да одите во собата</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1626"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1625"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1626"/>
         <source>%1 has been banned</source>
         <translation>%1 има забрана</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1627"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1626"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1627"/>
         <source>%1 has been banned by %2</source>
         <translation>%1 доби забрана од %2</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1632"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1631"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1632"/>
         <source>Kicked</source>
         <translation>Клоцнат</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1632"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1631"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1632"/>
         <source>You have been kicked from the room</source>
         <translation>Ве клоцнаа од собата</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1633"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1632"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1633"/>
         <source>You have been kicked from the room by %1</source>
         <translation>%1 Ве избрка од собата</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1634"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1633"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1634"/>
         <source>%1 has been kicked</source>
         <translation>%1 доби клоца</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1635"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1634"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1635"/>
         <source>%1 has been kicked by %2</source>
         <translation>%1 доби клоца од %2</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1640"/>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1648"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1639"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1647"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1640"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1648"/>
         <source>Removed</source>
         <translation>Отстранет</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1641"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1640"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1641"/>
         <source>You have been removed from the room due to an affiliation change</source>
         <translation>Отстранети сте од групата поради промена на припадност</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1642"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1641"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1642"/>
         <source>You have been removed from the room by %1 due to an affiliation change</source>
         <translation>%1 Ве отстрани од собата поради промена на припадност</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1643"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1642"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1643"/>
         <source>%1 has been removed from the room due to an affilliation change</source>
         <translation>%1 е остранет од групата поради промена на припадност</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1644"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1643"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1644"/>
         <source>%1 has been removed from the room by %2 due to an affilliation change</source>
         <translation>%2 го острани %1 од групата поради промена на припадност</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1649"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1648"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1649"/>
         <source>You have been removed from the room because the room was made members only</source>
         <translation>Ве отстранија од собата бидејќи собата е само за членови</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1650"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1649"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1650"/>
         <source>You have been removed from the room by %1 because the room was made members only</source>
         <translation>%1 Ве отстрани од собата бидејќи таа е само за членови</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1651"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1650"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1651"/>
         <source>%1 has been removed from the room because the room was made members-only</source>
         <translation>%1 е отстранет од собата бидејќи собата е само за членови</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1652"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1651"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1652"/>
         <source>%1 has been removed from the room by %2 because the room was made members-only</source>
         <translation>%2 го острани %1 од собата бидејќи собата е само за членови</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1658"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1657"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1658"/>
         <source>%1 is now known as %2</source>
         <translation>%1 сега е познат/а како %2</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1662"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1661"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1662"/>
         <source>%1 has left the room</source>
         <translation>%1 си замина од собата</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1732"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1731"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1732"/>
         <source>The topic has been set to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1735"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1734"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1735"/>
         <source> has unset the topic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1735"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1734"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1735"/>
         <source> has set the topic to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1797"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1796"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1797"/>
         <source>Connected.</source>
         <translation>Поврзан(а).</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="2231"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2230"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2231"/>
         <source>Save</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="2232"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2231"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2232"/>
         <source>Delete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="2233"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2232"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2233"/>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="2242"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2241"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2242"/>
         <source>&amp;Name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="2243"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2242"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2243"/>
         <source>N&amp;ick:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="2244"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2243"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2244"/>
         <source>&amp;Auto join:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="2255"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2254"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2255"/>
         <source>Bookmark conference</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7760,47 +7760,47 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="309"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="318"/>
         <source>Remove history</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="310"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="319"/>
         <source>Are you sure you want to completely remove history for a contact %1?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="334"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="343"/>
         <source>Export message history</source>
         <translation>Извези ја историјата на пораки</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="336"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="345"/>
         <source>Text files (*.txt);;All files (*.*)</source>
         <translation>Текстуални датотеки (*.txt);;Сите датотеки (*.*)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="342"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="351"/>
         <source>Error</source>
         <translation>Грешка</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="342"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="351"/>
         <source>Error writing to file.</source>
         <translation>Грешка при запишувањето на датотеката.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="416"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="425"/>
         <source>&amp;Open chat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="417"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="426"/>
         <source>&amp;Export history</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="418"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="427"/>
         <source>&amp;Delete history</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8645,143 +8645,143 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>InfoDlg</name>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="160"/>
-        <location filename="../tmp/src/infodlg.cpp" line="367"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="158"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="366"/>
+        <location filename="../tmp/src/infodlg.cpp" line="156"/>
+        <location filename="../tmp/src/infodlg.cpp" line="363"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="156"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="364"/>
         <source>First Name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="161"/>
-        <location filename="../tmp/src/infodlg.cpp" line="368"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="159"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="367"/>
+        <location filename="../tmp/src/infodlg.cpp" line="157"/>
+        <location filename="../tmp/src/infodlg.cpp" line="364"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="157"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="365"/>
         <source>Middle Name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="162"/>
-        <location filename="../tmp/src/infodlg.cpp" line="369"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="160"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="368"/>
+        <location filename="../tmp/src/infodlg.cpp" line="158"/>
+        <location filename="../tmp/src/infodlg.cpp" line="365"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="158"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="366"/>
         <source>Last Name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="167"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="165"/>
+        <location filename="../tmp/src/infodlg.cpp" line="163"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="163"/>
         <source>Edit names</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="167"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="165"/>
+        <location filename="../tmp/src/infodlg.cpp" line="163"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="163"/>
         <source>View names</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="170"/>
-        <location filename="../tmp/src/infodlg.cpp" line="171"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="168"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="169"/>
+        <location filename="../tmp/src/infodlg.cpp" line="166"/>
+        <location filename="../tmp/src/infodlg.cpp" line="167"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="166"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="167"/>
         <source>Open web browser</source>
         <translation type="unfinished">Отвори прелистувач</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="201"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="199"/>
+        <location filename="../tmp/src/infodlg.cpp" line="197"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="197"/>
         <source>No date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="207"/>
-        <location filename="../tmp/src/infodlg.cpp" line="208"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="205"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="206"/>
+        <location filename="../tmp/src/infodlg.cpp" line="203"/>
+        <location filename="../tmp/src/infodlg.cpp" line="204"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="203"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="204"/>
         <source>Edit birthday</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="281"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="280"/>
+        <location filename="../tmp/src/infodlg.cpp" line="277"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="278"/>
         <source>Warning</source>
         <translation>Предупредување</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="281"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="280"/>
+        <location filename="../tmp/src/infodlg.cpp" line="277"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="278"/>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
         <translation>Не ги објавивте променетите информации за Вашата сметка.
 Сакате да ги заборавите?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="281"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="280"/>
+        <location filename="../tmp/src/infodlg.cpp" line="277"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="278"/>
         <source>Close and discard</source>
         <translation>Затвори и отфрли</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="281"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="280"/>
+        <location filename="../tmp/src/infodlg.cpp" line="277"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="278"/>
         <source>Don&apos;t close</source>
         <translation>Не затворај</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="328"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="327"/>
+        <location filename="../tmp/src/infodlg.cpp" line="324"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="325"/>
         <source>Success</source>
         <translation>Успех</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="328"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="327"/>
+        <location filename="../tmp/src/infodlg.cpp" line="324"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="325"/>
         <source>Your account information has been published.</source>
         <translation>Информациите за Вашата сметка се објавени.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="333"/>
-        <location filename="../tmp/src/infodlg.cpp" line="335"/>
-        <location filename="../tmp/src/infodlg.cpp" line="338"/>
+        <location filename="../tmp/src/infodlg.cpp" line="329"/>
+        <location filename="../tmp/src/infodlg.cpp" line="331"/>
+        <location filename="../tmp/src/infodlg.cpp" line="334"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="330"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="332"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="334"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="337"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="335"/>
         <source>Error</source>
         <translation>Грешка</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="333"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="332"/>
+        <location filename="../tmp/src/infodlg.cpp" line="329"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="330"/>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
         <translation>Информациите за Вашата сметка не можат да се приберат.  Можеби немате внесено ништо.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="335"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="334"/>
+        <location filename="../tmp/src/infodlg.cpp" line="331"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="332"/>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
         <translation>Информациите за контактот не може да се приберат.
 Причина: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="338"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="337"/>
+        <location filename="../tmp/src/infodlg.cpp" line="334"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="335"/>
         <source>Unable to publish your account information.
 Reason: %1</source>
         <translation>Информаците за Вашата сметка не може да се објават.
 Причини: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="748"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="747"/>
+        <location filename="../tmp/src/infodlg.cpp" line="744"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="745"/>
         <source>Picture not
 available</source>
         <translation>Сликата не е достапна</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="778"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="777"/>
+        <location filename="../tmp/src/infodlg.cpp" line="774"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="775"/>
         <source>Status</source>
         <translation>Статус</translation>
     </message>
@@ -9430,40 +9430,40 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
 <context>
     <name>MUCJoinDlg</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="54"/>
+        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="52"/>
         <source>&amp;Join</source>
         <translation>&amp;Приклучи се</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="71"/>
+        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="69"/>
         <source>%1 on %2</source>
         <translation>%1 во %2</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="200"/>
-        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="206"/>
-        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="226"/>
-        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="278"/>
+        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="198"/>
+        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="204"/>
+        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="224"/>
+        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="276"/>
         <source>Error</source>
         <translation>Грешка</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="200"/>
+        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="198"/>
         <source>You must fill out the fields in order to join.</source>
         <translation>Мора да ги пополните полињата за да се приклучите.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="206"/>
+        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="204"/>
         <source>You entered an invalid room name.</source>
         <translation>Внесовте погрешно име на соба.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="226"/>
+        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="224"/>
         <source>You are in or joining this room already!</source>
         <translation>Веќе сте во оваа соба!</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="278"/>
+        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="276"/>
         <source>Unable to join groupchat.
 Reason: %1</source>
         <translation>Не може да се приклучите во групниот разговор.
@@ -9824,54 +9824,12 @@ Details: %1</source>
 <context>
     <name>Model</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="121"/>
-        <source>Type</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="122"/>
         <source>Name</source>
-        <translation type="unfinished">Име</translation>
+        <translation type="obsolete">Име</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="123"/>
-        <source>E-Mail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="124"/>
-        <source>Created</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="125"/>
-        <source>Expiration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="126"/>
-        <source>Length</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="127"/>
         <source>Comment</source>
-        <translation type="unfinished">Коментар</translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="128"/>
-        <source>Algorithm</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="129"/>
-        <source>Short ID</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="130"/>
-        <source>Fingerprint</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Коментар</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/model.cpp" line="27"/>
@@ -14001,38 +13959,38 @@ Please enter your passphrase below:</source>
         <translation>%1: Листи за приватност</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="154"/>
-        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="166"/>
+        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="152"/>
+        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="164"/>
         <source>&lt;None&gt;</source>
         <translation>&lt;Никоја&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="331"/>
+        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="329"/>
         <source>New List</source>
         <translation>Нова листа</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="331"/>
+        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="329"/>
         <source>Enter the name of the new list:</source>
         <translation>Внесете го името на новата листа:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="336"/>
+        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="334"/>
         <source>Error</source>
         <translation>Грешка</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="336"/>
+        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="334"/>
         <source>A list with this name already exists.</source>
         <translation>Веќе постои листа со ова име.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="364"/>
+        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="362"/>
         <source>Rename List</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="364"/>
+        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="362"/>
         <source>Input new name</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14567,7 +14525,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>PsiAccount</name>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="1481"/>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="408"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="406"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="1473"/>
         <source>Unable to disable the account, as it has pending events.</source>
         <translation>Сметката не може да се оневозможи бидејќи има нови настани.</translation>
@@ -16831,12 +16789,12 @@ Would you like to activate that session now?</source>
 <context>
     <name>PsiRosterWidget</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="265"/>
+        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="263"/>
         <source>Remove Group</source>
         <translation type="unfinished">Отстрани ја групата</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="266"/>
+        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="264"/>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
@@ -16845,12 +16803,12 @@ Proceed?</source>
 Ќе продолжите?</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="269"/>
+        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="267"/>
         <source>&amp;Yes</source>
         <translation type="unfinished">&amp;Да</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="269"/>
+        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="267"/>
         <source>&amp;No</source>
         <translation type="unfinished">&amp;Не</translation>
     </message>
@@ -17579,19 +17537,19 @@ Description: </source>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1148"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1147"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1148"/>
         <source>Warning: %1 is deprecated and will be removed in the future</source>
         <translation>Предупредување: %1 е застарено и ќе биде отстрането во иднина</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1151"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1150"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1151"/>
         <source>Please set a shortcut for &apos;Change to quick command mode&apos;, use that shortcut and enter &apos;%1&apos;.</source>
         <translation>Одберете кратенка за „Промени во брз команден режим“, користете ја таа кратенка и внесете „%1“.</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1153"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1152"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1153"/>
         <source>Please instead press %1 and enter &apos;%2&apos;.</source>
         <translation>Притиснете %1 и внесте „%2“.</translation>
     </message>
@@ -18371,18 +18329,18 @@ Password: %5</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="293"/>
-        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="306"/>
+        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="291"/>
+        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="304"/>
         <source>Error</source>
         <translation>Грешка</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="293"/>
+        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="291"/>
         <source>There was an error changing the list.</source>
         <translation>Имаше грешка во менувањето на листата.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="306"/>
+        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="304"/>
         <source>There was an error processing your request.</source>
         <translation>Имаше грешка во обработката на Вашето барање.</translation>
     </message>
@@ -19360,48 +19318,48 @@ Settings for authorization on some hostings can be found here: http://code.googl
 <context>
     <name>SearchDlg</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="255"/>
+        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="253"/>
         <source>&lt;qt&gt;Fetching search form for %1 ...&lt;/qt&gt;</source>
         <translation>&lt;qt&gt;Примам образец за пребарување за %1 ...&lt;/qt&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="388"/>
+        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="386"/>
         <source>Search Results</source>
         <translation>Резултати од пребарувањето</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="388"/>
+        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="386"/>
         <source>Search returned 0 results.</source>
         <translation>Резултати од пребарувањето - 0.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="441"/>
-        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="445"/>
+        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="439"/>
+        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="443"/>
         <source>Error</source>
         <translation>Грешка</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="441"/>
+        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="439"/>
         <source>Unable to retrieve search form.
 Reason: %1</source>
         <translation>Образецот за пребарување не може да се добие.
 Причина: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="445"/>
+        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="443"/>
         <source>Error retrieving search results.
 Reason: %1</source>
         <translation>Грешка при добивањето на резултатите од пребарувањето.
 Причина: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="496"/>
-        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="501"/>
+        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="494"/>
+        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="499"/>
         <source>Add User: Success</source>
         <translation>Додавање корисник: Успех</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="497"/>
+        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="495"/>
         <source>Added %n users to your roster.</source>
         <translation type="unfinished">
             <numerusform></numerusform>
@@ -19410,7 +19368,7 @@ Reason: %1</source>
         </translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="502"/>
+        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="500"/>
         <source>Added %1 to your roster.</source>
         <translation>%1 е додаден(а) на Вашиот список.</translation>
     </message>
@@ -20095,32 +20053,32 @@ Reason: %1</source>
 <context>
     <name>ShowPhotoDlg</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/vcardphotodlg.cpp" line="20"/>
+        <location filename="../../psi-plus-snapshots/src/vcardphotodlg.cpp" line="18"/>
         <source>Photo Preview: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/vcardphotodlg.cpp" line="44"/>
+        <location filename="../../psi-plus-snapshots/src/vcardphotodlg.cpp" line="42"/>
         <source>&amp;Save As...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/vcardphotodlg.cpp" line="47"/>
+        <location filename="../../psi-plus-snapshots/src/vcardphotodlg.cpp" line="45"/>
         <source>&amp;Restore Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/vcardphotodlg.cpp" line="53"/>
+        <location filename="../../psi-plus-snapshots/src/vcardphotodlg.cpp" line="51"/>
         <source>Save As</source>
         <translation type="unfinished">Сними како</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/vcardphotodlg.cpp" line="53"/>
+        <location filename="../../psi-plus-snapshots/src/vcardphotodlg.cpp" line="51"/>
         <source>photo.png</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/vcardphotodlg.cpp" line="54"/>
+        <location filename="../../psi-plus-snapshots/src/vcardphotodlg.cpp" line="52"/>
         <source>PNG File (*.png);;JPEG File (*.jpeg);;BMP File (*.bmp);;PPM File (*.ppm);;All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>

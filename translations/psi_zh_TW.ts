@@ -369,12 +369,12 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
 <context>
     <name>AccountAddDlg</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountadddlg.cpp" line="46"/>
+        <location filename="../../psi-plus-snapshots/src/accountadddlg.cpp" line="44"/>
         <source>Check this option if you don&apos;t yet have an XMPP account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
         <translation>若您準備註冊一個新帳號則選中此項，注意僅在支持匿名註冊的伺服器上才能正常工作.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountadddlg.cpp" line="50"/>
+        <location filename="../../psi-plus-snapshots/src/accountadddlg.cpp" line="48"/>
         <source>Default</source>
         <translation>默認</translation>
     </message>
@@ -448,28 +448,28 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
 <context>
     <name>AccountManageDlg</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="287"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="285"/>
         <source>Active</source>
         <translation>啟用的</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="287"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="285"/>
         <source>Not active</source>
         <translation>未啟用的</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="408"/>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="413"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="406"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="411"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="413"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="411"/>
         <source>Please disconnect before removing the account.</source>
         <translation>刪除帳戶之前，請斷開。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="415"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="413"/>
         <source>&amp;Disconnect</source>
         <translation>斷開(&amp;D)</translation>
     </message>
@@ -747,236 +747,236 @@ When you enable this option you will not be able to find your password in config
 <context>
     <name>AccountModifyDlg</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="107"/>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="114"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="105"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="112"/>
         <source>Always</source>
         <translation>總是</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="108"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="106"/>
         <source>When available</source>
         <translation>當可用時</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="109"/>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="116"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="107"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="114"/>
         <source>Never</source>
         <translation>從不</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="110"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="108"/>
         <source>Legacy SSL</source>
         <translation>舊式 SSL</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="115"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="113"/>
         <source>Over encrypted connection</source>
         <translation>當使用加密連接時</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="131"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="129"/>
         <source>Manual</source>
         <translation>手動</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="132"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="130"/>
         <source>Use host name</source>
         <translation>使用主機名稱</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="135"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="133"/>
         <source>Fixed</source>
         <translation>固定</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="136"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="134"/>
         <source>Depends on status</source>
         <translation>取決於狀態</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="160"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="158"/>
         <source>Delete current host from the list</source>
         <translation>從清單中刪除當前主機</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="164"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="162"/>
         <source>&lt;don&apos;t use&gt;</source>
         <translation>&lt;不能用&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="192"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="190"/>
         <source>None</source>
         <translation>無</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="193"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="191"/>
         <source>Integrity</source>
         <translation>中間級</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="194"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="192"/>
         <source>Baseline</source>
         <translation>基準</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="195"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="193"/>
         <source>High</source>
         <translation>高</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="196"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="194"/>
         <source>Highest</source>
         <translation>最高</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="228"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="226"/>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
         <translation>通常情況下，PSI日誌使用的&lt;i&gt;摘要&lt;/i&gt;身份驗證方法。選中此核取方塊以強制一個純文字登錄到XMPP伺服器。使用此選項只有當你有正常的登錄程式連接的問題，因為它使您的連接可能容易受到攻擊</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="235"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="233"/>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
         <translation>在 Psi 啟動時自動登入這個帳號。  這對你讓 Psi 偵測有網路連接時自動啟動滿有用的。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="239"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="237"/>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
         <translation>當電腦休眠醒後讓 Psi 嘗試連接。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="242"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="240"/>
         <source>Makes Psi try to reconnect if the connection was broken.  Useful, if you have an unstable connection and have to reconnect often.</source>
         <translation>在連接斷線時讓 Psi 自動重新連接。如果你的連接不穩定、時常斷線這滿有用的。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="246"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="244"/>
         <source>Keep a log of message history.  Disable this option if you want to conserve disk space or if you need maximum security.</source>
         <translation>保留資訊歷史的紀錄。  如果你想要節省硬碟空間或是你需要最大的安全性, 則取消這個選項。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="250"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="248"/>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
         <translation>定時發送所謂 &quot;Keep-alive&quot; 封包。  對你的連接在一段時間不活動之後會自動被斷線 (例如說被你的 ISP), 而你又想要一直保持連接, 那麼這個選項滿有用的。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="256"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="254"/>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
         <translation>選中此項，則使用加密的 SSL 通道連接到 XMPP 伺服器. 如果您的伺服器支持，或者已經安裝了 qca-ossl 外掛程式則可選中此項.更多資訊請參考 Psi 主頁.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="262"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="260"/>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
         <translation>選中此項，則在伺服器支援時使用壓縮通道連接到 XMPP 伺服器.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="265"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="263"/>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
         <translation>如果您帳號中的主機段與實際連接的 XMPP 主機不同，則選中此項手動配置主機資訊.當您通過代理連接(例如連接到本機的代理軟體)但實際上帳號是在其他伺服器上註冊時，需要此設定.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="271"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="269"/>
         <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
         <translation>您可以使用不同用戶端以一個帳號登錄到 XMPP 伺服器. 每次登錄必須通過不同的&quot;資源&quot;名稱加以區分，您可在此指定此域值.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="275"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="273"/>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
         <translation>此選項設置(境界)，你想驗證為用戶。這將覆蓋XMPP位址登錄為。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="279"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="277"/>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
         <translation>&lt;p&gt;您可以使用不同用戶端以一個帳號登錄到 XMPP 伺服器. 此時，高優先順序的用戶端(此域值指定的)將接收所有的消息.&lt;/p&gt;&lt;p&gt;比如您在辦公地點有一個低優先順序但一直連接的用戶端，那麼您在家上網時，就可以使用一個高優先順序的連接來臨時禁用辦公地點的用戶端.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="299"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="297"/>
         <source>Username:</source>
         <translation>用戶名:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="395"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="393"/>
         <source>No Key Selected</source>
         <translation>沒有被選擇鑰匙</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="425"/>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="517"/>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="520"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="423"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="515"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="518"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="425"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="423"/>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
         <translation>舊式的 SSL 僅在手動指定主機/埠時可用。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="433"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="431"/>
         <source>SSL error</source>
         <translation>SSL 錯誤</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="433"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="431"/>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
         <translation>無法啟用 SSL/TLS。  找不到外掛程式。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="460"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="458"/>
         <source>Secret Key</source>
         <translation>秘密鑰匙</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="517"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="515"/>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
         <translation>&lt;i&gt;用戶名稱&lt;/i&gt;是無效的。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="520"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="518"/>
         <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
         <translation>&lt;i&gt;XMPP 地址&lt;/i&gt; 必須符合 &lt;i&gt;用戶名@主機&lt;/i&gt; 格式.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="596"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="594"/>
         <source>Warning</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="597"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="595"/>
         <source>This account is currently active, so certain changes may not take effect until the next login.</source>
         <translation>這個帳號目前啟用中, 所以某些改變只會在重新啟動後生效。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="599"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="597"/>
         <source>Reconnect &amp;Later</source>
         <translation>等一下重新連接(&amp;L)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="600"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="598"/>
         <source>Reconnect &amp;Now</source>
         <translation>現在重新連接(&amp;N)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="630"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="628"/>
         <source>Block contact</source>
         <translation>封鎖連絡人</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="630"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="628"/>
         <source>Enter the XMPP Address of the contact to block:</source>
         <translation>輸入希望遮罩的 XMPP 連絡人位址:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="661"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="659"/>
         <source>Retrieving blocked contact list ...</source>
         <translation>取回被封鎖的連絡人清單...</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="670"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="668"/>
         <source>You are not connected.</source>
         <translation>你沒有連接。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="699"/>
+        <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="697"/>
         <source>Your server does not support blocking.</source>
         <translation>你的伺服器不支援封鎖。</translation>
     </message>
@@ -1179,62 +1179,62 @@ Reason: %1</source>
 <context>
     <name>AccountRemoveDlg</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="110"/>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="181"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="108"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="179"/>
         <source>&amp;Remove</source>
         <translation>刪除(&amp;R)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="143"/>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="179"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="141"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="177"/>
         <source>Warning</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="143"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="141"/>
         <source>Are you sure you want to cancel the unregistration?</source>
         <translation>你確定要取消 &quot;取消註冊&quot; 嗎?</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="144"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="142"/>
         <source>&amp;No</source>
         <translation>否(&amp;N)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="145"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="143"/>
         <source>&amp;Yes</source>
         <translation>是(&amp;Y)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="173"/>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="235"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="171"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="233"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="173"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="171"/>
         <source>Password does not match account.  Please try again.</source>
         <translation>密碼不符合這個帳號。  請再試一次。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="179"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="177"/>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; ?</source>
         <translation>你確定要刪除 &lt;b&gt;%1&lt;/b&gt; ?</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="228"/>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="243"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="226"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="241"/>
         <source>Success</source>
         <translation>成功</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="228"/>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="243"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="226"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="241"/>
         <source>The account was unregistered successfully.</source>
         <translation>帳號取消註冊成功。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="235"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="233"/>
         <source>There was an error unregistering the account.
 Reason: %1</source>
         <translation>取消註冊帳號時發生錯誤。
@@ -1543,50 +1543,50 @@ P，李{空白:預包裝;}
 <context>
     <name>AddUserDlg</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="118"/>
-        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="182"/>
+        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="116"/>
+        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="180"/>
         <source>&lt;None&gt;</source>
         <translation>&lt;無&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="123"/>
+        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="121"/>
         <source>Hidden</source>
         <translation>隱藏</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="172"/>
-        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="176"/>
+        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="170"/>
+        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="174"/>
         <source>Add User: Error</source>
         <translation>添加用戶: 錯誤</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="172"/>
+        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="170"/>
         <source>Please fill in the XMPP address of the person you wish to add.</source>
         <translation>請填入您希望添加的好友的 XMPP 位址</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="176"/>
+        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="174"/>
         <source>The XMPP address you entered is not valid!
 Make sure you enter a fully qualified XMPP address.</source>
         <translation>您輸入的XMPP位址無效!確定您輸入的是完全限定的XMPP位址。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="188"/>
+        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="186"/>
         <source>Add User: Success</source>
         <translation>添加用戶:成功</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="188"/>
+        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="186"/>
         <source>Added %1 to your roster.</source>
         <translation>已添加%1到你的名單。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="288"/>
+        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="286"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="288"/>
+        <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="286"/>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
         <translation>&lt;qt&gt;
@@ -1982,37 +1982,37 @@ The list of exceptions for jids has two operating modes:
 <context>
     <name>BookmarkManageDlg</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="58"/>
+        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="56"/>
         <source>&amp;Add</source>
         <translation>添加(&amp;A)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="59"/>
+        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="57"/>
         <source>&amp;Remove</source>
         <translation>刪除(&amp;R)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="60"/>
+        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="58"/>
         <source>&amp;Join</source>
         <translation>加入(&amp;J)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="140"/>
+        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="138"/>
         <source>Unnamed</source>
         <translation>未命名</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="235"/>
+        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="233"/>
         <source>Import bookmarks</source>
         <translation>導入書簽</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="262"/>
+        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="260"/>
         <source>Error!</source>
         <translation>錯誤!</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="269"/>
+        <location filename="../../psi-plus-snapshots/src/bookmarkmanagedlg.cpp" line="267"/>
         <source>Export bookmarks</source>
         <translation>匯出書簽</translation>
     </message>
@@ -2240,57 +2240,57 @@ The list of exceptions for jids has two operating modes:
         <translation>原因: %1。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="63"/>
+        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="64"/>
         <source>Subject Details:</source>
         <translation>主題細節:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="64"/>
+        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="65"/>
         <source>Issuer Details:</source>
         <translation>發佈者細節:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="78"/>
+        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="79"/>
         <source>Organization:</source>
         <translation>組織:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="79"/>
+        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="80"/>
         <source>Organizational unit:</source>
         <translation>組織單位:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="80"/>
+        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="81"/>
         <source>Locality:</source>
         <translation>位置:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="81"/>
+        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="82"/>
         <source>State:</source>
         <translation>州:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="82"/>
+        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="83"/>
         <source>Country:</source>
         <translation>國家:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="83"/>
+        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="84"/>
         <source>Common name:</source>
         <translation>公共名稱:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="84"/>
+        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="85"/>
         <source>Domain name:</source>
         <translation>功能變數名稱:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="85"/>
+        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="86"/>
         <source>XMPP name:</source>
         <translation>XMPP 名稱:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="86"/>
+        <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="87"/>
         <source>Email:</source>
         <translation>電子郵箱:</translation>
     </message>
@@ -2321,40 +2321,40 @@ The list of exceptions for jids has two operating modes:
 <context>
     <name>ChangePasswordDlg</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="82"/>
-        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="87"/>
-        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="94"/>
-        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="135"/>
+        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="80"/>
+        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="85"/>
+        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="92"/>
+        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="133"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="82"/>
+        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="80"/>
         <source>You must fill out the fields properly before you can proceed.</source>
         <translation>在你可以執行之前, 你必須先適當地填完這些欄位。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="87"/>
+        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="85"/>
         <source>You entered your old password incorrectly.  Try again.</source>
         <translation>你輸入了一個錯誤的舊密碼。 請再試一次。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="94"/>
+        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="92"/>
         <source>New password and confirmation do not match.  Please enter them again.</source>
         <translation>新的密碼和確認的欄位元不符合。 請再輸入它們一次。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="127"/>
+        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="125"/>
         <source>Success</source>
         <translation>成功</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="127"/>
+        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="125"/>
         <source>Successfully changed password.</source>
         <translation>更改密碼成功。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="135"/>
+        <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="133"/>
         <source>There was an error when trying to set the password.
 Reason: %1</source>
         <translation>當嘗試設置密碼時發生一個錯誤
@@ -2426,14 +2426,14 @@ Reason: %1</source>
     <message>
         <location filename="../tmp/src/chatdlg.cpp" line="264"/>
         <location filename="../tmp/src/chatdlg.cpp" line="761"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="249"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="710"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="250"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="711"/>
         <source>Warning</source>
         <translation>警告</translation>
     </message>
     <message>
         <location filename="../tmp/src/chatdlg.cpp" line="265"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="250"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="251"/>
         <source>A new chat message was just received.
 Do you still want to close the window?</source>
         <translation>剛剛收到新的聊天消息。
@@ -2441,55 +2441,55 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <location filename="../tmp/src/chatdlg.cpp" line="268"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="253"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="254"/>
         <source>Close</source>
         <translation>關閉</translation>
     </message>
     <message>
         <location filename="../tmp/src/chatdlg.cpp" line="706"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="655"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="656"/>
         <source>%1 (Composing ...)</source>
         <translation>%1 (正在輸入...)</translation>
     </message>
     <message>
         <location filename="../tmp/src/chatdlg.cpp" line="709"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="658"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="659"/>
         <source>%1 (Inactive)</source>
         <translation>%1 (不活躍)</translation>
     </message>
     <message>
         <location filename="../tmp/src/chatdlg.cpp" line="761"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="710"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="711"/>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
         <translation>&lt;p&gt;加密最近被遠程的連絡人停用了。你確定想要發送未加密的資訊嗎?&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../tmp/src/chatdlg.cpp" line="764"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="713"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="714"/>
         <source>&amp;Yes</source>
         <translation>是(&amp;Y)</translation>
     </message>
     <message>
         <location filename="../tmp/src/chatdlg.cpp" line="764"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="713"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="714"/>
         <source>&amp;No</source>
         <translation>否(&amp;N)</translation>
     </message>
     <message>
         <location filename="../tmp/src/chatdlg.cpp" line="932"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="877"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="878"/>
         <source>Encryption Enabled</source>
         <translation>加密已啟用</translation>
     </message>
     <message>
         <location filename="../tmp/src/chatdlg.cpp" line="933"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="878"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="879"/>
         <source>Encryption Disabled</source>
         <translation>加密已關閉</translation>
     </message>
     <message>
         <location filename="../tmp/src/chatdlg.cpp" line="1128"/>
-        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="1033"/>
+        <location filename="../../psi-plus-snapshots/src/chatdlg.cpp" line="1034"/>
         <source>%1 ended the conversation</source>
         <translation>%1 結束對話</translation>
     </message>
@@ -6277,34 +6277,34 @@ Reason: %3</source>
 <context>
     <name>GCFindDlg</name>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2352"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2398"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2351"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2397"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2350"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2396"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2350"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2396"/>
         <source>Find</source>
         <translation>查找</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2357"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2356"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2355"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2355"/>
         <source>Find:</source>
         <translation>查找:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2372"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2371"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2370"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2370"/>
         <source>&amp;Close</source>
         <translation>關閉(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2374"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2373"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2372"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2372"/>
         <source>&amp;Find</source>
         <translation>查找(&amp;F)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2398"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2397"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="2396"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2396"/>
         <source>Search string &apos;%1&apos; not found.</source>
         <translation>找不到字串 &apos;%1&apos; 。</translation>
     </message>
@@ -6337,13 +6337,13 @@ Reason: %3</source>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1074"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1073"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1074"/>
         <source> by %1</source>
         <translation> 以 %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1078"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1077"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1078"/>
         <source>
 Reason: %1</source>
         <translation>
@@ -6351,31 +6351,31 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1117"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1116"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1117"/>
         <source>Edit Bookmark</source>
         <translation>編輯書簽</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1120"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1119"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1120"/>
         <source>Add to bookmarks</source>
         <translation>添加到書簽</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1165"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1164"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1165"/>
         <source>Error: Cannot parse command: </source>
         <translation>錯誤: 無法分析指令: </translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1275"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1274"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1275"/>
         <source>Warning</source>
         <translation>警告</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1276"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1275"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1276"/>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
         <translation>你確定要清除對話視窗嗎?
@@ -6383,316 +6383,316 @@ Reason: %1</source>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1333"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1332"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1333"/>
         <source>Disconnected.</source>
         <translation>已斷線。</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1366"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1365"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1366"/>
         <source>Reconnecting...</source>
         <translation>重新連接中...</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1373"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1372"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1373"/>
         <source>Error: You are in or joining this room already!</source>
         <translation>錯誤: 你已經在或正在加入這個聊天室!</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1428"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1427"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1428"/>
         <source>Unable to join groupchat.	Reason: %1</source>
         <translation>無法加入群組. 原因: %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1430"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1429"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1430"/>
         <source>Unexpected groupchat error: %1</source>
         <translation>未預期的群組錯誤: %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1464"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1463"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1464"/>
         <source>Please choose a different nickname</source>
         <translation>請選擇一個不同的昵稱</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1468"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1467"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1468"/>
         <source>An error occurred (errorcode: %1)</source>
         <translation>發生錯誤 (錯誤碼: %1)</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1501"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1500"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1501"/>
         <source>New room created</source>
         <translation>新聊天室已建立</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1513"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1512"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1513"/>
         <source>%1 has joined the room</source>
         <translation>%1 已經加入聊天室</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1517"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1516"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1517"/>
         <source>%3 has joined the room as %1 and %2</source>
         <translation>%3 已經以 %1 和 %2 加入聊天室</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1520"/>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1524"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1519"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1523"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1520"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1524"/>
         <source>%2 has joined the room as %1</source>
         <translation>%2 已經以 %1 加入聊天室</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1533"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1532"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1533"/>
         <source> and now is %1</source>
         <translation>現在是 %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1551"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1550"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1551"/>
         <source>%1 is now %2 and %3</source>
         <translation>%1 現在是 %2 和 %3</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1554"/>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1559"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1553"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1558"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1554"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1559"/>
         <source>%1 is now %2</source>
         <translation>%1 現在是 %2</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1564"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1563"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1564"/>
         <source> (Reason: %1)</source>
         <translation>(原因: %1)</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1588"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1587"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1588"/>
         <source>This room has been destroyed.</source>
         <translation>聊天室已經被摧毀了。</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1592"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1591"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1592"/>
         <source>Reason: %1</source>
         <translation>
 原因: %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1598"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1597"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1598"/>
         <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
         <translation>你想要加入另外一方 &apos;%1&apos; 嗎?</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1599"/>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1605"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1598"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1604"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1599"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1605"/>
         <source>Room Destroyed</source>
         <translation>聊天室已被摧毀</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1624"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1623"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1624"/>
         <source>Banned</source>
         <translation>被封鎖的</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1624"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1623"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1624"/>
         <source>You have been banned from the room</source>
         <translation>你已經被這個聊天室封鎖了</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1625"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1624"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1625"/>
         <source>You have been banned from the room by %1</source>
         <translation>你已經被 %1 從這個聊天室封鎖了</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1626"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1625"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1626"/>
         <source>%1 has been banned</source>
         <translation>%1 已經被封鎖了</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1627"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1626"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1627"/>
         <source>%1 has been banned by %2</source>
         <translation>%1 已經被 %2 封鎖了</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1632"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1631"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1632"/>
         <source>Kicked</source>
         <translation>已踢掉</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1632"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1631"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1632"/>
         <source>You have been kicked from the room</source>
         <translation>你已經被踢出聊天室了</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1633"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1632"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1633"/>
         <source>You have been kicked from the room by %1</source>
         <translation>你已經被 %1 踢出聊天室了</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1634"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1633"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1634"/>
         <source>%1 has been kicked</source>
         <translation>%1 已經被踢出了</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1635"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1634"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1635"/>
         <source>%1 has been kicked by %2</source>
         <translation>%1 已經被 %2 踢出了</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1640"/>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1648"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1639"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1647"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1640"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1648"/>
         <source>Removed</source>
         <translation>已刪除</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1641"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1640"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1641"/>
         <source>You have been removed from the room due to an affiliation change</source>
         <translation>因為附屬關係的改變你已經從聊天室被刪除了</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1642"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1641"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1642"/>
         <source>You have been removed from the room by %1 due to an affiliation change</source>
         <translation>你因為附屬關係的改變已經被 %1 從聊天室被刪除了</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1643"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1642"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1643"/>
         <source>%1 has been removed from the room due to an affilliation change</source>
         <translation>%1 因為附屬關係的改變已經從聊天室被刪除了</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1644"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1643"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1644"/>
         <source>%1 has been removed from the room by %2 due to an affilliation change</source>
         <translation>%1 因為附屬關係的改變已經被 %2 從聊天室被刪除了</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1649"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1648"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1649"/>
         <source>You have been removed from the room because the room was made members only</source>
         <translation>你已經從這個聊天室被刪除了, 因為這聊天室是限定成員的</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1650"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1649"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1650"/>
         <source>You have been removed from the room by %1 because the room was made members only</source>
         <translation>你已經被 %1 從聊天室中刪除, 因為此聊天室為成員限定</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1651"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1650"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1651"/>
         <source>%1 has been removed from the room because the room was made members-only</source>
         <translation>%1 已經從這個聊天室被刪除了, 因為這聊天室是限定成員的</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1652"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1651"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1652"/>
         <source>%1 has been removed from the room by %2 because the room was made members-only</source>
         <translation>%1 已經被 %2 從這個聊天室刪除了, 因為這聊天室是限定成員的</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1658"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1657"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1658"/>
         <source>%1 is now known as %2</source>
         <translation>%1 現在叫做 %2</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1662"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1661"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1662"/>
         <source>%1 has left the room</source>
         <translation>%1 已經離開聊天室</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1732"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1731"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1732"/>
         <source>The topic has been set to</source>
         <translation>該主題已被設置為</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1735"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1734"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1735"/>
         <source> has unset the topic</source>
         <translation>已取消設置的話題</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1735"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1734"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1735"/>
         <source> has set the topic to</source>
         <translation>已成立的主題</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1797"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1796"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1797"/>
         <source>Connected.</source>
         <translation>已連接。</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="2231"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2230"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2231"/>
         <source>Save</source>
         <translation>保存</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="2232"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2231"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2232"/>
         <source>Delete</source>
         <translation>刪除</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="2233"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2232"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2233"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="2242"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2241"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2242"/>
         <source>&amp;Name:</source>
         <translation>名稱(&amp;N):</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="2243"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2242"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2243"/>
         <source>N&amp;ick:</source>
         <translation>昵稱(&amp;I):</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="2244"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2243"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2244"/>
         <source>&amp;Auto join:</source>
         <translation>自動加入:(&amp;A)</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="2255"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2254"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2255"/>
         <source>Bookmark conference</source>
         <translation>書簽會議</translation>
     </message>
@@ -7818,47 +7818,47 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>最新的(&amp;L)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="309"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="318"/>
         <source>Remove history</source>
         <translation>清除歷史</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="310"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="319"/>
         <source>Are you sure you want to completely remove history for a contact %1?</source>
         <translation>你確定你要完全消除觸點%1的歷史嗎？</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="334"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="343"/>
         <source>Export message history</source>
         <translation>匯出資訊歷史</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="336"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="345"/>
         <source>Text files (*.txt);;All files (*.*)</source>
         <translation>文字檔 (*.txt);;所有檔案 (*.*)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="342"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="351"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="342"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="351"/>
         <source>Error writing to file.</source>
         <translation>寫入到檔案錯誤。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="416"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="425"/>
         <source>&amp;Open chat</source>
         <translation>與開放聊天(&amp;O)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="417"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="426"/>
         <source>&amp;Export history</source>
         <translation>匯出歷史(&amp;E)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="418"/>
+        <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="427"/>
         <source>&amp;Delete history</source>
         <translation>刪除歷史記錄(&amp;D)</translation>
     </message>
@@ -8769,143 +8769,143 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>InfoDlg</name>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="160"/>
-        <location filename="../tmp/src/infodlg.cpp" line="367"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="158"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="366"/>
+        <location filename="../tmp/src/infodlg.cpp" line="156"/>
+        <location filename="../tmp/src/infodlg.cpp" line="363"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="156"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="364"/>
         <source>First Name:</source>
         <translation>名:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="161"/>
-        <location filename="../tmp/src/infodlg.cpp" line="368"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="159"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="367"/>
+        <location filename="../tmp/src/infodlg.cpp" line="157"/>
+        <location filename="../tmp/src/infodlg.cpp" line="364"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="157"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="365"/>
         <source>Middle Name:</source>
         <translation>中間名:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="162"/>
-        <location filename="../tmp/src/infodlg.cpp" line="369"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="160"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="368"/>
+        <location filename="../tmp/src/infodlg.cpp" line="158"/>
+        <location filename="../tmp/src/infodlg.cpp" line="365"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="158"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="366"/>
         <source>Last Name:</source>
         <translation>姓:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="167"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="165"/>
+        <location filename="../tmp/src/infodlg.cpp" line="163"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="163"/>
         <source>Edit names</source>
         <translation>編輯名字</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="167"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="165"/>
+        <location filename="../tmp/src/infodlg.cpp" line="163"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="163"/>
         <source>View names</source>
         <translation>視圖的名稱</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="170"/>
-        <location filename="../tmp/src/infodlg.cpp" line="171"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="168"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="169"/>
+        <location filename="../tmp/src/infodlg.cpp" line="166"/>
+        <location filename="../tmp/src/infodlg.cpp" line="167"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="166"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="167"/>
         <source>Open web browser</source>
         <translation>打開網路流覽器</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="201"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="199"/>
+        <location filename="../tmp/src/infodlg.cpp" line="197"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="197"/>
         <source>No date</source>
         <translation>沒有日期</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="207"/>
-        <location filename="../tmp/src/infodlg.cpp" line="208"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="205"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="206"/>
+        <location filename="../tmp/src/infodlg.cpp" line="203"/>
+        <location filename="../tmp/src/infodlg.cpp" line="204"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="203"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="204"/>
         <source>Edit birthday</source>
         <translation>編輯生日</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="281"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="280"/>
+        <location filename="../tmp/src/infodlg.cpp" line="277"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="278"/>
         <source>Warning</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="281"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="280"/>
+        <location filename="../tmp/src/infodlg.cpp" line="277"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="278"/>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
         <translation>你還沒有發佈你的帳號資料變更。
 你確定要忽視它們嗎?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="281"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="280"/>
+        <location filename="../tmp/src/infodlg.cpp" line="277"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="278"/>
         <source>Close and discard</source>
         <translation>關閉並忽視</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="281"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="280"/>
+        <location filename="../tmp/src/infodlg.cpp" line="277"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="278"/>
         <source>Don&apos;t close</source>
         <translation>不要關閉</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="328"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="327"/>
+        <location filename="../tmp/src/infodlg.cpp" line="324"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="325"/>
         <source>Success</source>
         <translation>成功</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="328"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="327"/>
+        <location filename="../tmp/src/infodlg.cpp" line="324"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="325"/>
         <source>Your account information has been published.</source>
         <translation>你的帳號資料已經發佈了。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="333"/>
-        <location filename="../tmp/src/infodlg.cpp" line="335"/>
-        <location filename="../tmp/src/infodlg.cpp" line="338"/>
+        <location filename="../tmp/src/infodlg.cpp" line="329"/>
+        <location filename="../tmp/src/infodlg.cpp" line="331"/>
+        <location filename="../tmp/src/infodlg.cpp" line="334"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="330"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="332"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="334"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="337"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="335"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="333"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="332"/>
+        <location filename="../tmp/src/infodlg.cpp" line="329"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="330"/>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
         <translation>無法取回你的帳號資料。  可能你還沒有輸入東西吧。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="335"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="334"/>
+        <location filename="../tmp/src/infodlg.cpp" line="331"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="332"/>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
         <translation>無法檢索有關此連絡人的資訊。
 原因:%1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="338"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="337"/>
+        <location filename="../tmp/src/infodlg.cpp" line="334"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="335"/>
         <source>Unable to publish your account information.
 Reason: %1</source>
         <translation>無法發佈您的帳號資訊。
 原因:%1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="748"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="747"/>
+        <location filename="../tmp/src/infodlg.cpp" line="744"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="745"/>
         <source>Picture not
 available</source>
         <translation>圖片不可用</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="778"/>
-        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="777"/>
+        <location filename="../tmp/src/infodlg.cpp" line="774"/>
+        <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="775"/>
         <source>Status</source>
         <translation>狀態</translation>
     </message>
@@ -9559,40 +9559,40 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
 <context>
     <name>MUCJoinDlg</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="54"/>
+        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="52"/>
         <source>&amp;Join</source>
         <translation>加入(&amp;J)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="71"/>
+        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="69"/>
         <source>%1 on %2</source>
         <translation>%1 在 %2</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="200"/>
-        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="206"/>
-        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="226"/>
-        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="278"/>
+        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="198"/>
+        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="204"/>
+        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="224"/>
+        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="276"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="200"/>
+        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="198"/>
         <source>You must fill out the fields in order to join.</source>
         <translation>為了加入你必須填寫以下欄位。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="206"/>
+        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="204"/>
         <source>You entered an invalid room name.</source>
         <translation>你輸入了一個無效的聊天室名稱。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="226"/>
+        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="224"/>
         <source>You are in or joining this room already!</source>
         <translation>你已經在或正在加入這個聊天室!</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="278"/>
+        <location filename="../../psi-plus-snapshots/src/mucjoindlg.cpp" line="276"/>
         <source>Unable to join groupchat.
 Reason: %1</source>
         <translation>無法加入群組。
@@ -9960,54 +9960,40 @@ Details: %1</source>
 <context>
     <name>Model</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="121"/>
         <source>Type</source>
-        <translation>類型</translation>
+        <translation type="vanished">類型</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="122"/>
         <source>Name</source>
-        <translation>名稱</translation>
+        <translation type="vanished">名稱</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="123"/>
         <source>E-Mail</source>
-        <translation>郵件</translation>
+        <translation type="vanished">郵件</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="124"/>
         <source>Created</source>
-        <translation>創建</translation>
+        <translation type="vanished">創建</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="125"/>
-        <source>Expiration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="126"/>
         <source>Length</source>
-        <translation>長度: </translation>
+        <translation type="vanished">長度: </translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="127"/>
         <source>Comment</source>
-        <translation>注解</translation>
+        <translation type="vanished">注解</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="128"/>
         <source>Algorithm</source>
-        <translation>演算法</translation>
+        <translation type="vanished">演算法</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="129"/>
         <source>Short ID</source>
-        <translation>短ID</translation>
+        <translation type="vanished">短ID</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/model.cpp" line="130"/>
         <source>Fingerprint</source>
-        <translation>指紋</translation>
+        <translation type="vanished">指紋</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/model.cpp" line="27"/>
@@ -14143,38 +14129,38 @@ Please enter your passphrase below:</source>
         <translation>%1: 隱私清單</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="154"/>
-        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="166"/>
+        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="152"/>
+        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="164"/>
         <source>&lt;None&gt;</source>
         <translation>&lt;無&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="331"/>
+        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="329"/>
         <source>New List</source>
         <translation>新清單</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="331"/>
+        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="329"/>
         <source>Enter the name of the new list:</source>
         <translation>輸入這個新清單的名稱:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="336"/>
+        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="334"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="336"/>
+        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="334"/>
         <source>A list with this name already exists.</source>
         <translation>已經有一個叫做那個名稱的清單。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="364"/>
+        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="362"/>
         <source>Rename List</source>
         <translation>重命名名單</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="364"/>
+        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="362"/>
         <source>Input new name</source>
         <translation>輸入新名稱</translation>
     </message>
@@ -14715,7 +14701,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     <name>PsiAccount</name>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="1481"/>
-        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="408"/>
+        <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="406"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="1473"/>
         <source>Unable to disable the account, as it has pending events.</source>
         <translation>無法停用這個帳號, 因為還有待處理的事件。</translation>
@@ -16981,12 +16967,12 @@ Would you like to activate that session now?</source>
 <context>
     <name>PsiRosterWidget</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="265"/>
+        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="263"/>
         <source>Remove Group</source>
         <translation>刪除群組</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="266"/>
+        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="264"/>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
@@ -16995,12 +16981,12 @@ Proceed?</source>
 執行嗎?</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="269"/>
+        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="267"/>
         <source>&amp;Yes</source>
         <translation>是(&amp;Y)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="269"/>
+        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="267"/>
         <source>&amp;No</source>
         <translation>否(&amp;N)</translation>
     </message>
@@ -17729,19 +17715,19 @@ Description: </source>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1148"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1147"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1148"/>
         <source>Warning: %1 is deprecated and will be removed in the future</source>
         <translation>警告: %1 不適用且未來將會刪除</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1151"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1150"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1151"/>
         <source>Please set a shortcut for &apos;Change to quick command mode&apos;, use that shortcut and enter &apos;%1&apos;.</source>
         <translation>租賃設置“更改快捷命令模式”的快捷方式，使用該快捷方式並輸入&apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1153"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1152"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1153"/>
         <source>Please instead press %1 and enter &apos;%2&apos;.</source>
         <translation>請代替按%1然後輸入&apos;%2&apos;</translation>
     </message>
@@ -18538,18 +18524,18 @@ Password: %5</source>
         <translation>群聊消息</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="293"/>
-        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="306"/>
+        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="291"/>
+        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="304"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="293"/>
+        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="291"/>
         <source>There was an error changing the list.</source>
         <translation>更改清單的時候發生錯誤。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="306"/>
+        <location filename="../../psi-plus-snapshots/src/privacy/privacydlg.cpp" line="304"/>
         <source>There was an error processing your request.</source>
         <translation>處理你的要求時發生錯誤。</translation>
     </message>
@@ -19530,55 +19516,55 @@ Settings for authorization on some hostings can be found here: http://code.googl
 <context>
     <name>SearchDlg</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="255"/>
+        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="253"/>
         <source>&lt;qt&gt;Fetching search form for %1 ...&lt;/qt&gt;</source>
         <translation>&lt;qt&gt;取得 %1 的搜索模式...&lt;/qt&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="388"/>
+        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="386"/>
         <source>Search Results</source>
         <translation>搜索結果</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="388"/>
+        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="386"/>
         <source>Search returned 0 results.</source>
         <translation>搜索到 0 個結果。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="441"/>
-        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="445"/>
+        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="439"/>
+        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="443"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="441"/>
+        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="439"/>
         <source>Unable to retrieve search form.
 Reason: %1</source>
         <translation>無法獲取搜索表格。
 原因: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="445"/>
+        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="443"/>
         <source>Error retrieving search results.
 Reason: %1</source>
         <translation>無法獲取搜索結果。
 原因: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="496"/>
-        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="501"/>
+        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="494"/>
+        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="499"/>
         <source>Add User: Success</source>
         <translation>添加用戶: 成功</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="497"/>
+        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="495"/>
         <source>Added %n users to your roster.</source>
         <translation>
             <numerusform>添加 %n 個用戶到你的名單。</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="502"/>
+        <location filename="../../psi-plus-snapshots/src/searchdlg.cpp" line="500"/>
         <source>Added %1 to your roster.</source>
         <translation>添加 %1 到你的名單。</translation>
     </message>
@@ -20263,32 +20249,32 @@ Reason: %1</source>
 <context>
     <name>ShowPhotoDlg</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/vcardphotodlg.cpp" line="20"/>
+        <location filename="../../psi-plus-snapshots/src/vcardphotodlg.cpp" line="18"/>
         <source>Photo Preview: %1</source>
         <translation>照片預覽: %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/vcardphotodlg.cpp" line="44"/>
+        <location filename="../../psi-plus-snapshots/src/vcardphotodlg.cpp" line="42"/>
         <source>&amp;Save As...</source>
         <translation>儲存為 (&amp;S)...</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/vcardphotodlg.cpp" line="47"/>
+        <location filename="../../psi-plus-snapshots/src/vcardphotodlg.cpp" line="45"/>
         <source>&amp;Restore Size</source>
         <translation>回復原大小 (&amp;R)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/vcardphotodlg.cpp" line="53"/>
+        <location filename="../../psi-plus-snapshots/src/vcardphotodlg.cpp" line="51"/>
         <source>Save As</source>
         <translation>儲存為</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/vcardphotodlg.cpp" line="53"/>
+        <location filename="../../psi-plus-snapshots/src/vcardphotodlg.cpp" line="51"/>
         <source>photo.png</source>
         <translation>photo.png</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/vcardphotodlg.cpp" line="54"/>
+        <location filename="../../psi-plus-snapshots/src/vcardphotodlg.cpp" line="52"/>
         <source>PNG File (*.png);;JPEG File (*.jpeg);;BMP File (*.bmp);;PPM File (*.ppm);;All Files (*)</source>
         <translation>PNG 檔案 (*.png);;JPEG 檔案 (*.jpeg);;BMP 檔案 (*.bmp);;PPM 檔案 (*.ppm);;所有檔案 (*)</translation>
     </message>
