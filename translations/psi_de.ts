@@ -10009,7 +10009,7 @@ Details: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/model.cpp" line="31"/>
         <source>Sounds (if empty default sound will be used)</source>
-        <translation>Klänge (wenn leer werden Standardklänge verwendet)</translation>
+        <translation>Klänge (falls leer, werden Standardklänge verwendet)</translation>
     </message>
 </context>
 <context>
