@@ -5481,7 +5481,7 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="658"/>
         <source>Enable multirow tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Увімкнути багаторядні вкладинки</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="697"/>
@@ -7793,22 +7793,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Історія</translation>
     </message>
     <message>
-        <source>Roster contacts</source>
-        <translation type="vanished">Контакти з ростера</translation>
-    </message>
-    <message>
-        <source>Not in roster</source>
-        <translation type="vanished">Не з ростера</translation>
-    </message>
-    <message>
-        <source>Private</source>
-        <translation type="vanished">Особисте</translation>
-    </message>
-    <message>
-        <source>Advanced</source>
-        <translation type="vanished">Додатково</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/history.ui" line="156"/>
         <source>Refresh history</source>
         <translation>Оновити історію</translation>
@@ -7839,14 +7823,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Оста&amp;ннє</translation>
     </message>
     <message>
-        <source>All accounts</source>
-        <translation type="vanished">Всі акаунти</translation>
-    </message>
-    <message>
-        <source>All contacts</source>
-        <translation type="vanished">Всі контакти</translation>
-    </message>
-    <message>
         <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="318"/>
         <source>Remove history</source>
         <translation>Видалити історію</translation>
@@ -7875,10 +7851,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="351"/>
         <source>Error writing to file.</source>
         <translation>Помилка запису у файл.</translation>
-    </message>
-    <message>
-        <source>deleted</source>
-        <translation type="vanished">видалений</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/historydlg.cpp" line="425"/>
