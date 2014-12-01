@@ -61,7 +61,7 @@
     <message>
         <location filename="../../psi-plus-snapshots/src/about.ui" line="42"/>
         <source>psi/psiplus_logo</source>
-        <translation type="unfinished"/>
+        <translation>psi/psiplus_logo</translation>
     </message>
     <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
@@ -76,7 +76,9 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2014 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="unfinished"/>
+        <translation>Un client XMPP multi-plateforme pour les utilisateurs avancés.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001 - 2014 L&apos;équipe Psi.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/about.ui" line="122"/>
@@ -122,17 +124,17 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="53"/>
         <source>Past Lead Developer and Maintainer</source>
-        <translation type="unfinished"/>
+        <translation>Ancien développeur principal et mainteneur</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="56"/>
         <source>Past Lead Developer</source>
-        <translation type="unfinished"/>
+        <translation>Ancien développeur principal</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="59"/>
         <source>Lead Widget Developer</source>
-        <translation>Développeur Principal de l&apos;interfaçage graphique</translation>
+        <translation>Développeur principal des gadgets graphiques</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="62"/>
@@ -145,47 +147,47 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="78"/>
         <source>Active project members are presents below:</source>
-        <translation type="unfinished"/>
+        <translation>Les membres actifs du projet sont listés ci-dessous :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="81"/>
         <source>Founder, Patcher and MS Windows Packager</source>
-        <translation type="unfinished"/>
+        <translation>Fondateur, contributeur et empaqueteur Windows</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="84"/>
         <source>Founder and Lead Patcher</source>
-        <translation type="unfinished"/>
+        <translation>Fondateur et contributeur principal</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="87"/>
         <source>Founder, Designer and Patcher</source>
-        <translation type="unfinished"/>
+        <translation>Fondateur, conepteur et contributeur</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="90"/>
         <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
-        <translation type="unfinished"/>
+        <translation>Contributeur principal, développeur de greffons et empaqueteur Mac OS X</translation>
     </message>
     <message>
         <source>Designer and Patcher</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Concepteur et contributeur</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="102"/>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
-        <translation type="unfinished"/>
+        <translation>Contributeur, développeur de greffons et empaqueteur Fedora</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="93"/>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="99"/>
         <source>Patcher and Plugins Writer</source>
-        <translation type="unfinished"/>
+        <translation>Contributeur et développeur de greffons</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="105"/>
         <source>Patcher and Ubuntu Packager</source>
-        <translation type="unfinished"/>
+        <translation>Contributeur et empaqueteur Ubuntu</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="108"/>
@@ -200,12 +202,12 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="114"/>
         <source>Patcher and Russian localization</source>
-        <translation type="unfinished"/>
+        <translation>Contributeur, version russe</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="117"/>
         <source>Psimedia Patcher and Wiki English localization</source>
-        <translation type="unfinished"/>
+        <translation>Contributeur Psimedia, version anglophone du Wiki</translation>
     </message>
     <message>
         <source>OpenSUSE Packager</source>
@@ -219,7 +221,7 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="124"/>
         <source>Language coordinator, miscellaneous assistance</source>
-        <translation>Coordinateur linguistique, aides diverses</translation>
+        <translation>Coordinateur linguistique, contributions diverses</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="127"/>
@@ -289,7 +291,7 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="182"/>
         <source>Security plugin: %1</source>
-        <translation>Plugin de sécurité: %1</translation>
+        <translation>Greffon de sécurité : %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="193"/>
@@ -302,7 +304,15 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation type="unfinished"/>
+        <translation>Anne O&apos;Nyme &lt;note text=&quot;renseignez votre nom&quot;&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://moi.com&quot;&gt;http://moi.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:moi@moi.com&quot;&gt;moi@moi.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:moi@moi.com&quot;&gt;moi@moi.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Traducteur&lt;br&gt;
+&lt;br&gt;
+Renjoignez l&apos;équipe de traduction dès maintenant ! Rendez-vous sur 
+&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
+http://forum.psi-im.org/forum/14 [EN]&lt;/a&gt; pour plus d&apos;informations !</translation>
     </message>
 </context>
 <context>
@@ -317,7 +327,9 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
         <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
 &lt;br&gt;
 Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing XMPP account then leave this box unchecked.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Choisissez le &lt;b&gt;Nom&lt;/b&gt; que Psi utilisera pour faire référence à ce compte.&lt;br&gt;
+&lt;br&gt;
+Cochez &lt;b&gt;Enregistrer un nouveau compte&lt;/b&gt; pour que Psi crée un nouveau compte sur un serveur distant.  Pour ajouter un compte XMPP existant, ne pas cocher cette case.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountadd.ui" line="73"/>
@@ -327,7 +339,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus-snapshots/src/accountadd.ui" line="85"/>
         <source>Register new account</source>
-        <translation>Enregistrer le nouveau compte</translation>
+        <translation>Enregistrer un nouveau compte</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountadd.ui" line="139"/>
@@ -355,7 +367,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus-snapshots/src/accountadddlg.cpp" line="44"/>
         <source>Check this option if you don&apos;t yet have an XMPP account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
-        <translation type="unfinished"/>
+        <translation>Sélectionnez cette options si vous n&apos;avez pas encore de compte XMPP et souhaitez en enregistrer un.  Note : cela fonctionnera uniquement sur les serveurs autorisant l&apos;enregistrement.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountadddlg.cpp" line="48"/>
@@ -368,12 +380,12 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus-snapshots/src/accountloginpassword.cpp" line="44"/>
         <source>Please enter the password for %1:</source>
-        <translation>Veuillez saisir le mot de passe pour %1:</translation>
+        <translation>Veuillez saisir le mot de passe pour %1 :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountloginpassword.cpp" line="46"/>
         <source>Please enter your password:</source>
-        <translation>SVP entrez votre mot de passe:</translation>
+        <translation>Veuillez saisir votre mot de passe :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountloginpassword.cpp" line="52"/>
@@ -450,12 +462,12 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="411"/>
         <source>Please disconnect before removing the account.</source>
-        <translation type="unfinished"/>
+        <translation>Veuillez vous déconnecter avant de supprimer le compte.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmanagedlg.cpp" line="413"/>
         <source>&amp;Disconnect</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Déconnexion</translation>
     </message>
 </context>
 <context>
@@ -484,13 +496,13 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="83"/>
         <source>XMPP Address:</source>
-        <translation type="unfinished"/>
+        <translation>Adresse XMPP :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="103"/>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="954"/>
         <source>Password:</source>
-        <translation>Mot de passe:</translation>
+        <translation>Mot de passe :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="117"/>
@@ -515,7 +527,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="155"/>
         <source>Restore last status</source>
-        <translation type="unfinished"/>
+        <translation>Restaurer le dernier message d&apos;état</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="162"/>
@@ -661,7 +673,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="797"/>
         <source>Misc.</source>
-        <translation>Divers</translation>
+        <translation>Divers.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="805"/>
@@ -671,22 +683,22 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="835"/>
         <source>Default priority:</source>
-        <translation type="unfinished"/>
+        <translation>Priorité par défaut :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="869"/>
         <source>Data Transfer</source>
-        <translation type="unfinished"/>
+        <translation>Transfert de données</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="875"/>
         <source>In-Band only (slow)</source>
-        <translation type="unfinished"/>
+        <translation>Uniquement en bande de base (lent)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="890"/>
         <source>Proxy:</source>
-        <translation type="unfinished"/>
+        <translation>Proxy :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="905"/>
@@ -714,12 +726,14 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <source>&lt;b&gt;Attention!&lt;/b&gt;
 &lt;br/&gt;
 When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Attention !&lt;/b&gt;
+&lt;br/&gt;
+En activant cette option, vous ne pourrez pas retrouver votre mot de passe dans les fichiers de configuration, mais uniquement la version hachée. Si vous l&apos;oubliez et ne l&apos;avez pas sauvegardé, il sera perdu.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="1041"/>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer le mot de passe haché (et non en clair) si le serveur le permet.</translation>
     </message>
     <message>
         <source>Disable</source>
@@ -758,32 +772,32 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="129"/>
         <source>Manual</source>
-        <translation type="unfinished"/>
+        <translation>Manuel</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="130"/>
         <source>Use host name</source>
-        <translation type="unfinished"/>
+        <translation>Utiliser le nom d&apos;hôte</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="133"/>
         <source>Fixed</source>
-        <translation type="unfinished"/>
+        <translation>Fixe</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="134"/>
         <source>Depends on status</source>
-        <translation type="unfinished"/>
+        <translation>Selon l&apos;état</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="158"/>
         <source>Delete current host from the list</source>
-        <translation type="unfinished"/>
+        <translation>Supprimer l&apos;hôte actif de la liste</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="162"/>
         <source>&lt;don&apos;t use&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;ne pas utiliser&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="190"/>
@@ -900,7 +914,7 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="431"/>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>Impossible d&apos;utiliser SSL/TLS. Plugin non trouvé.</translation>
+        <translation>Impossible d&apos;utiliser SSL/TLS. Greffon non trouvé.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="458"/>
@@ -915,7 +929,7 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="518"/>
         <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;i&gt;L&apos;adresse XMPP&lt;/i&gt; doit respecter le format &lt;i&gt;utilisateur@hôte&lt;/i&gt;.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="594"/>
@@ -945,7 +959,7 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="628"/>
         <source>Enter the XMPP Address of the contact to block:</source>
-        <translation type="unfinished"/>
+        <translation>Saisissez l&apos;adresse XMPP du contact à bloquer :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodifydlg.cpp" line="659"/>
@@ -1089,7 +1103,7 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus-snapshots/src/accountregdlg.cpp" line="130"/>
         <source>Cannot enable SSL/TLS. QCA2 Plugin not found.</source>
-        <translation>Impossible d&apos;activer SSL/TLS. Plugin QCA2 non trouvé.</translation>
+        <translation>Impossible d&apos;activer SSL/TLS. Greffon QCA2 non trouvé.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountregdlg.cpp" line="169"/>
@@ -1124,7 +1138,7 @@ When you enable this option you will not be able to find your password in config
     <message>
         <location filename="../../psi-plus-snapshots/src/accountregdlg.cpp" line="289"/>
         <source>You have successfully registered your account with XMPP address &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Votre compte a été enregistré avec succès avec l&apos;adresse XMPP &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountregdlg.cpp" line="297"/>
@@ -1155,7 +1169,7 @@ Cause: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountremove.ui" line="42"/>
         <source>Password:</source>
-        <translation>Mot de passe:</translation>
+        <translation>Mot de passe :</translation>
     </message>
 </context>
 <context>
@@ -1228,27 +1242,27 @@ Cause: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountstatusmenu.cpp" line="12"/>
         <source>Choose status...</source>
-        <translation type="unfinished"/>
+        <translation>Choisir le statut...</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountstatusmenu.cpp" line="12"/>
         <source>Choose...</source>
-        <translation type="unfinished"/>
+        <translation>Choisir...</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountstatusmenu.cpp" line="25"/>
         <source>Reconnect</source>
-        <translation type="unfinished"/>
+        <translation>Reconnexion</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountstatusmenu.cpp" line="38"/>
         <source>Ignore global actions</source>
-        <translation type="unfinished"/>
+        <translation>Ignorer les actions globales</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountstatusmenu.cpp" line="41"/>
         <source>Ignore all global actions for this account. For example, autostatus, mood, activity etc.</source>
-        <translation type="unfinished"/>
+        <translation>Ignore toutes les actions globales pour ce compte. Par exemple : message d&apos;état automatique, humeur, activité, etc.</translation>
     </message>
 </context>
 <context>
@@ -1258,7 +1272,9 @@ Cause: %1</translation>
         <source> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</source>
-        <translation type="unfinished"/>
+        <translation> Activer le mode confidentiel.
+Le serveur ne conservera pas
+l&apos;historique pour ce contact.</translation>
     </message>
 </context>
 <context>
@@ -1275,7 +1291,7 @@ save the history for this contact.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/activity.ui" line="13"/>
         <source>User Activity</source>
-        <translation type="unfinished"/>
+        <translation>Activité de l&apos;utilisateur</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activity.ui" line="21"/>
@@ -1312,7 +1328,7 @@ save the history for this contact.</source>
         <location filename="../../psi-plus-snapshots/src/activitydlg.cpp" line="98"/>
         <location filename="../../psi-plus-snapshots/src/activitydlg.cpp" line="106"/>
         <source>&lt;unset&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;non défini&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/activitydlg.cpp" line="89"/>
@@ -1335,57 +1351,57 @@ save the history for this contact.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="27"/>
         <source>Comment: </source>
-        <translation type="unfinished"/>
+        <translation>Commentaire : </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="34"/>
         <source>Expiration date: </source>
-        <translation type="unfinished"/>
+        <translation>Date d&apos;expiration : </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="98"/>
         <source>RSA and RSA (default)</source>
-        <translation type="unfinished"/>
+        <translation>RSA et RSA (défaut)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="103"/>
         <source>DSA and Elgamal</source>
-        <translation type="unfinished"/>
+        <translation>DSA et ElGamal</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="108"/>
         <source>DSA (sign only)</source>
-        <translation type="unfinished"/>
+        <translation>DSA (signature uniquement)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="113"/>
         <source>RSA (sign only)</source>
-        <translation type="unfinished"/>
+        <translation>RSA (signature uniquement)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="121"/>
         <source>Full name: </source>
-        <translation type="unfinished"/>
+        <translation>Nom complet : </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="128"/>
         <source>Passphrase: </source>
-        <translation type="unfinished"/>
+        <translation>Mot de passe : </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="135"/>
         <source>E-mail address: </source>
-        <translation type="unfinished"/>
+        <translation>Courriel : </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="142"/>
         <source>Key type: </source>
-        <translation type="unfinished"/>
+        <translation>Type de clés : </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/addkeydlg.ui" line="152"/>
         <source>Repeat: </source>
-        <translation type="unfinished"/>
+        <translation>Confirmation : </translation>
     </message>
 </context>
 <context>
@@ -1435,7 +1451,11 @@ save the history for this contact.</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Pour ajouter un contact &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt;, il suffit de renseigner son adresse XMPP (et, facultativement, un pseudo et un groupe) et de cliquer sur &lt;span style=&quot; font-style:italic;&quot;&gt;Ajouter&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;Pour ajouter un contact à partir d&apos;un service &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt;, vérifiez tout d&apos;abord que vous êtes enregistré auprès de ce service (menu Gestion des services), puis sélectionnez celui-ci dans la liste. Suivez les instructions de la section &lt;span style=&quot; font-style:italic;&quot;&gt;Service de correspondance d&apos;Identifiant&lt;/span&gt; et cliquez sur &lt;span style=&quot; font-style:italic;&quot;&gt;Obtenir l&apos;adresse XMPP&lt;/span&gt; pour générer une adresse XMPP pour ce contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/adduser.ui" line="68"/>
@@ -1460,7 +1480,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../psi-plus-snapshots/src/adduser.ui" line="147"/>
         <source>Get XMPP Address</source>
-        <translation type="unfinished"/>
+        <translation>Obtenir l&apos;adresse XMPP</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/adduser.ui" line="181"/>
@@ -1568,7 +1588,8 @@ Assurez-vous d&apos;utiliser une adresse XMPP complète.</translation>
         <location filename="../../psi-plus-snapshots/src/adduserdlg.cpp" line="286"/>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;
+Erreur lors de la demande d&apos;informations à partir de &quot;%1&quot;.&lt;br&gt;Cause : %2&lt;br&gt;&lt;br&gt;Le service peut ne pas supporter cette fonctionnalité.  Dans ce cas, vous devez manuellement saisir l&apos;adresse XMPP du contact que vous souhaitez ajouter.  Exemples :&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;utilisateur@hôte.com&lt;br&gt;&amp;nbsp;&amp;nbsp;utilisateurAOL@[serveur AIM]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[serveur ICQ]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[serveur MSN]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[serveur Yahoo]&lt;br&gt;&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
@@ -1603,34 +1624,34 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="277"/>
         <source> sends Attention message to you!</source>
-        <translation type="unfinished"/>
+        <translation> vous envoie un message d&apos;Attention !</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="416"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="498"/>
         <source>Send Attention</source>
-        <translation type="unfinished"/>
+        <translation>Envoyer un message d&apos;Attention</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="429"/>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Choisir un fichier audio</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="429"/>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Audio (*.wav)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="441"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="444"/>
         <source>Attention Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Greffon Attention</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="456"/>
         <source>You sent Attention message to %1</source>
-        <translation type="unfinished"/>
+        <translation>Vous avez envoyé un message d&apos;Attention à %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="536"/>
@@ -1646,7 +1667,8 @@ There was an error getting the Service ID translation information from &quot;%1&
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="538"/>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
-        <translation type="unfinished"/>
+        <translation>Ce greffon permet d&apos;envoyer et de recevoir des messages spéciaux, tels des Attentions.
+Afin de fonctionner correctement, le client du destinataire doit supporter XEP 0224 (par exemple : Pidgin, Miranda avec le greffon Nudge).</translation>
     </message>
 </context>
 <context>
@@ -1687,7 +1709,7 @@ To work correctly, the plugin requires that the client of the other part support
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="489"/>
         <source>Disable if contact isn&apos;t from your roster</source>
-        <translation type="unfinished"/>
+        <translation>Désactiver si le contact n&apos;est pas dans votre liste</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="492"/>
@@ -1722,53 +1744,54 @@ To work correctly, the plugin requires that the client of the other part support
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="505"/>
         <source>Enable if status is:</source>
-        <translation type="unfinished"/>
+        <translation>Activer pour l&apos;état :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="520"/>
         <source>Auto Reply Message:</source>
-        <translation type="unfinished"/>
+        <translation>Réponse automatique :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="525"/>
         <source>for JIDs and conferences:</source>
-        <translation type="unfinished"/>
+        <translation>pour les JIDs et les conférences :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="526"/>
         <source>You can also specify a part of JID
 (without any additional symbols)</source>
-        <translation type="unfinished"/>
+        <translation>Vous pouvez aussi spécifier un JID partiel
+(sans symboles additionnels)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="534"/>
         <source>Disable for your accounts (specify your JIDs):</source>
-        <translation type="unfinished"/>
+        <translation>Désactiver pour les comptes (spécifier les JIDs) :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="537"/>
         <source>Timeout to reset counter:</source>
-        <translation type="unfinished"/>
+        <translation>Délai avant de réinitialiser le compteur :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="539"/>
         <source>min.</source>
-        <translation type="unfinished"/>
+        <translation>min.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="542"/>
         <source>Send maximum</source>
-        <translation type="unfinished"/>
+        <translation>Envoyer au plus</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="544"/>
         <source>times (-1=infinite)</source>
-        <translation type="unfinished"/>
+        <translation>fois (-1 : illimité)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="559"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/en:plugins#autoreply_plugin&quot;&gt;Wiki (page web [EN])&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="754"/>
@@ -1793,7 +1816,17 @@ To work correctly, the plugin requires that the client of the other part support
 The list of exceptions for jids has two operating modes:
 * auto-responder is switched off for the list of exceptions, for the others is switched on (Disable mode)
 * auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
-        <translation type="unfinished"/>
+        <translation>Ce greffon sert de répondeur. Il dispose d&apos;un certain nombre d&apos;options de configuration, permettant de :
+* définir un message de réponse automatique,
+* exclure des JIDs spécifiques, y compris des salons de discussion, des réponses automatiques (dans le cas d&apos;un salon, l&apos;exception s&apos;étend à tous les messages privés),
+* désactiver la réponse automatique pour certains comptes,
+* définir le nombre de messages automatiques envoyés,
+* définir le délai avant réinitialisation du compteur de messages envoyés,
+* désactiver la réponse automatique pour l&apos;onglet actif,
+* désactiver la réponse automatique pour les utilisateurs ne faisant pas partie de la liste de contacts.
+La liste d&apos;exceptions pour les JIDs opère selon deux modes :
+* réponse automatique désactivée uniquement pour la liste définie (Désactivé),
+* réponse automatique activée uniquement pour la liste définie (Activé).</translation>
     </message>
 </context>
 <context>
@@ -1868,7 +1901,7 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/viewers.cpp" line="140"/>
         <source>Empty file</source>
-        <translation type="unfinished"/>
+        <translation>Fichier vide</translation>
     </message>
 </context>
 <context>
@@ -1919,7 +1952,7 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location filename="../../psi-plus-snapshots/src/bookmarkmanage.ui" line="78"/>
         <source>Password:</source>
-        <translation>Mot de passe:</translation>
+        <translation>Mot de passe :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/bookmarkmanage.ui" line="95"/>
@@ -2126,7 +2159,7 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/captchaformsplugin/captchadialog.ui" line="90"/>
         <source>Original message</source>
-        <translation type="unfinished"/>
+        <translation>Message d&apos;origine</translation>
     </message>
 </context>
 <context>
@@ -2134,12 +2167,12 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/captchaformsplugin/captchaformsplugin.cpp" line="223"/>
         <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation type="unfinished"/>
+        <translation>Greffon captcha : CAPTCHA par %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/captchaformsplugin/captchaformsplugin.cpp" line="293"/>
         <source>Error! Image can not be loaded.</source>
-        <translation type="unfinished"/>
+        <translation>Erreur ! Impossible de charger l&apos;image.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/captchaformsplugin/captchaformsplugin.cpp" line="454"/>
@@ -2154,7 +2187,7 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/captchaformsplugin/captchaformsplugin.cpp" line="456"/>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation type="unfinished"/>
+        <translation>Ce greffon permet de renseigner les captchas directement à partir de Psi+.</translation>
     </message>
 </context>
 <context>
@@ -2260,7 +2293,7 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="87"/>
         <source>Email:</source>
-        <translation>Courriel:</translation>
+        <translation>Courriel :</translation>
     </message>
 </context>
 <context>
@@ -2273,7 +2306,7 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location filename="../../psi-plus-snapshots/src/changepw.ui" line="36"/>
         <source>Confirm new password:</source>
-        <translation>Confirmez le nouveau mot de passe:</translation>
+        <translation>Confirmation du mot de passe :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/changepw.ui" line="43"/>
@@ -2283,7 +2316,7 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location filename="../../psi-plus-snapshots/src/changepw.ui" line="57"/>
         <source>New password:</source>
-        <translation>Nouveau mot de passe:</translation>
+        <translation>Nouveau mot de passe :</translation>
     </message>
 </context>
 <context>
@@ -2527,14 +2560,14 @@ Voulez-vous quand-même fermer la fenêtre ?</translation>
         <location filename="../tmp/src/chatviewthemeprovider.h" line="118"/>
         <location filename="../../psi-plus-snapshots/src/chatviewthemeprovider.h" line="44"/>
         <source>Chat Message Style</source>
-        <translation type="unfinished"/>
+        <translation>Style des messages</translation>
     </message>
     <message>
         <location filename="../tmp/src/chatviewthemeprovider.h" line="44"/>
         <location filename="../tmp/src/chatviewthemeprovider.h" line="119"/>
         <location filename="../../psi-plus-snapshots/src/chatviewthemeprovider.h" line="45"/>
         <source>Configure your chat theme here</source>
-        <translation type="unfinished"/>
+        <translation>Configurez le thème des discussions</translation>
     </message>
 </context>
 <context>
@@ -2542,7 +2575,7 @@ Voulez-vous quand-même fermer la fenêtre ?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="262"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#chess_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/en:plugins#chess_plugin&quot;&gt;Wiki (page web [EN])&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="354"/>
@@ -2553,70 +2586,71 @@ Voulez-vous quand-même fermer la fenêtre ?</translation>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="630"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="770"/>
         <source>Chess Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Greffon d&apos;Échecs</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="360"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="375"/>
         <source>Chess!</source>
-        <translation type="unfinished"/>
+        <translation>Échecs !</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="389"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="418"/>
         <source>You are already playing!</source>
-        <translation type="unfinished"/>
+        <translation>Vous êtes déjà en train de jouer !</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="510"/>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="unfinished"/>
+        <translation>Votre adversaire a quitté le plateau !
+Vous pouvez cependant sauvegarder la partie.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="548"/>
         <source>The game was rejected</source>
-        <translation type="unfinished"/>
+        <translation>La partie a été rejetée</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="598"/>
         <source>You Lose.</source>
-        <translation type="unfinished"/>
+        <translation>Vous avez perdu.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="608"/>
         <source>You Win!</source>
-        <translation type="unfinished"/>
+        <translation>Vous avez gagné !</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="623"/>
         <source>Draw!</source>
-        <translation type="unfinished"/>
+        <translation>Match nul !</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="631"/>
         <source>Unknown error!</source>
-        <translation type="unfinished"/>
+        <translation>Erreur inconnue !</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="669"/>
         <source>Chess Plugin: Invitation from %1</source>
-        <translation type="unfinished"/>
+        <translation>Greffon d&apos;Échecs : invitation de %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="770"/>
         <source>You are allready playing!</source>
-        <translation type="unfinished"/>
+        <translation>Vous êtes déjà en train de jouer !</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="826"/>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Choisir un fichier audio</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="826"/>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Audio (*.wav)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="859"/>
@@ -2633,7 +2667,9 @@ Voulez-vous quand-même fermer la fenêtre ?</translation>
         <source>This plugin allows you to play chess with your friends.
 The plugin is compatible with a similar plugin for Tkabber.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"/>
+        <translation>Ce greffon permet de jouer aux échecs avec vos amis.
+Il est compatible avec un greffon similaire pour Tkabber.
+Les messages sont utilisés pour envoyer des commandes, il suffit donc de pouvoir se connecter pour jouer. Pour inviter un ami à jouer, vous pouvez utiliser l&apos;entrée du menu de contacts, ou le bouton de la barre d&apos;outils de la fenêtre de discussion.</translation>
     </message>
 </context>
 <context>
@@ -2641,30 +2677,31 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/mainwindow.ui" line="26"/>
         <source>Chess Board</source>
-        <translation type="unfinished"/>
+        <translation>Plateau d&apos;échecs</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/mainwindow.ui" line="37"/>
         <source>Moves:</source>
-        <translation type="unfinished"/>
+        <translation>Mouvements :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/mainwindow.cpp" line="110"/>
         <source>    White    Black
 </source>
-        <translation type="unfinished"/>
+        <translation>    Blanc    Noir
+</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/mainwindow.cpp" line="188"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/mainwindow.cpp" line="215"/>
         <source>Load game</source>
-        <translation type="unfinished"/>
+        <translation>Charger une partie</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/mainwindow.cpp" line="189"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/mainwindow.cpp" line="247"/>
         <source>Save game</source>
-        <translation type="unfinished"/>
+        <translation>Sauver la partie</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/mainwindow.cpp" line="190"/>
@@ -2702,7 +2739,8 @@ For sending commands, normal messages are used, so this plugin will always work 
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/mainwindow.cpp" line="242"/>
         <source>  White     Black
 </source>
-        <translation type="unfinished"/>
+        <translation>  Blanc     Noir
+</translation>
     </message>
 </context>
 <context>
@@ -2710,7 +2748,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.ui" line="20"/>
         <source>Psi+ Cleaner</source>
-        <translation type="unfinished"/>
+        <translation>Assistant de nettoyage Psi+</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.ui" line="31"/>
@@ -2720,17 +2758,17 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.ui" line="36"/>
         <source>vCards</source>
-        <translation type="unfinished"/>
+        <translation>Cartes de visite</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.ui" line="41"/>
         <source>Avatars</source>
-        <translation type="unfinished"/>
+        <translation>Avatars</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.ui" line="46"/>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Options</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.ui" line="56"/>
@@ -2750,7 +2788,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.ui" line="123"/>
         <source>0</source>
-        <translation type="unfinished"/>
+        <translation>0</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.ui" line="133"/>
@@ -2770,7 +2808,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.ui" line="167"/>
         <source>Close Psi Cleaner</source>
-        <translation type="unfinished"/>
+        <translation>Fermer l&apos;assistant de nettoyage de Psi</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.ui" line="170"/>
@@ -2790,12 +2828,12 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="68"/>
         <source>Clear &amp;Juick Cache</source>
-        <translation type="unfinished"/>
+        <translation>Effacer le cache de &amp;Juick</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="69"/>
         <source>Clear &amp;Birthdays Cache</source>
-        <translation type="unfinished"/>
+        <translation>Effacer le cache des A&amp;nniversaires</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="71"/>
@@ -2810,22 +2848,22 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="99"/>
         <source>History files: </source>
-        <translation type="unfinished"/>
+        <translation>Fichiers récents :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="100"/>
         <source>vCards: </source>
-        <translation type="unfinished"/>
+        <translation>Cartes de visite : </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="101"/>
         <source>Avatars: </source>
-        <translation type="unfinished"/>
+        <translation>Avatars : </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="270"/>
         <source>Clear History</source>
-        <translation type="unfinished"/>
+        <translation>Effacer l&apos;historique</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="271"/>
@@ -2834,37 +2872,37 @@ For sending commands, normal messages are used, so this plugin will always work 
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="364"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="389"/>
         <source>Are You Sure?</source>
-        <translation type="unfinished"/>
+        <translation>Êtes-vous certain ?</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="280"/>
         <source>Clear vCards</source>
-        <translation type="unfinished"/>
+        <translation>Effacer les cartes de visite</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="290"/>
         <source>Clear Avatars</source>
-        <translation type="unfinished"/>
+        <translation>Effacer les avatars</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="301"/>
         <source>Clear Options</source>
-        <translation type="unfinished"/>
+        <translation>Effacer les options</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="302"/>
         <source>Not supported yet!</source>
-        <translation type="unfinished"/>
+        <translation>Non supporté actuellement !</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="338"/>
         <source>Choose profile</source>
-        <translation type="unfinished"/>
+        <translation>Sélectionner un profil</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="338"/>
         <source>Profile:</source>
-        <translation type="unfinished"/>
+        <translation>Profil :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="363"/>
@@ -2872,41 +2910,41 @@ For sending commands, normal messages are used, so this plugin will always work 
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="375"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="380"/>
         <source>Clear Juick Cache</source>
-        <translation type="unfinished"/>
+        <translation>Effacer le cache de Juick</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="372"/>
         <source>Juick Cache Successfully Cleared</source>
-        <translation type="unfinished"/>
+        <translation>Le cache de Juick a bien été effacé</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="376"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="401"/>
         <source>Something wrong!</source>
-        <translation type="unfinished"/>
+        <translation>Erreur !</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="381"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="406"/>
         <source>Cache Not Found!</source>
-        <translation type="unfinished"/>
+        <translation>Cache non trouvé !</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="388"/>
         <source>Clear Birthdays Cach</source>
-        <translation type="unfinished"/>
+        <translation>Effacer le cache des Anniversaires</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="396"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="400"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="405"/>
         <source>Clear Birthdays Cache</source>
-        <translation type="unfinished"/>
+        <translation>Effacer le cache des Anniversaires</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="397"/>
         <source>Birthdays Cache Successfully Cleared</source>
-        <translation type="unfinished"/>
+        <translation>Le cache des Anniversaires a bien été effacé</translation>
     </message>
 </context>
 <context>
@@ -2914,12 +2952,12 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleanerplugin.cpp" line="87"/>
         <source>Launch Cleaner</source>
-        <translation type="unfinished"/>
+        <translation>Démarrer l&apos;assistant de nettoyage</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleanerplugin.cpp" line="92"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/en:plugins#cleaner_plugin&quot;&gt;Wiki (page web [EN])&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleanerplugin.cpp" line="143"/>
@@ -2935,7 +2973,8 @@ For sending commands, normal messages are used, so this plugin will always work 
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleanerplugin.cpp" line="145"/>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
-        <translation type="unfinished"/>
+        <translation>Ce greffon permet de vider le cache des avatars, les copies locales de cartes de visite et l&apos;historique.
+Il est possible de prévisualiser les éléments avant de les supprimer.</translation>
     </message>
 </context>
 <context>
@@ -2997,7 +3036,7 @@ You can preview items before deleting them from your hard drive.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/clearingtab.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Formulaire</translation>
     </message>
 </context>
 <context>
@@ -3005,17 +3044,17 @@ You can preview items before deleting them from your hard drive.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/viewers.cpp" line="69"/>
         <source>Check</source>
-        <translation type="unfinished"/>
+        <translation>Sélectionner</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/viewers.cpp" line="70"/>
         <source>Uncheck</source>
-        <translation type="unfinished"/>
+        <translation>Désélectionner</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/viewers.cpp" line="71"/>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Inverser</translation>
     </message>
 </context>
 <context>
@@ -3030,12 +3069,13 @@ You can preview items before deleting them from your hard drive.</source>
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
 You can specify the version of the client and OS or to select them from the preset list.
 </source>
-        <translation type="unfinished"/>
+        <translation>Ce greffon sert à remplacer la version, le nom et le type de système d&apos;exploitation du client.
+Vous pouvez spécifier la version du client ou le système ou sélectionner une des valeurs prédéfinies.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/clientswitcherplugin.cpp" line="1006"/>
         <source>%1 has requested your version</source>
-        <translation type="unfinished"/>
+        <translation>%1 a demandé votre version</translation>
     </message>
 </context>
 <context>
@@ -3530,7 +3570,7 @@ Note : afin de fonctionner correctement, la barre d&apos;outils du salon doit ê
         <location filename="../../psi-plus-snapshots/src/contactmanager/contactmanagerdlg.cpp" line="232"/>
         <location filename="../../psi-plus-snapshots/src/contactmanager/contactmanagerdlg.cpp" line="261"/>
         <source>Roster file</source>
-        <translation type="unfinished"/>
+        <translation>Fichier de contacts</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactmanager/contactmanagerdlg.cpp" line="251"/>
@@ -4092,7 +4132,7 @@ Continuer ?</translation>
     <message>
         <location filename="../tmp/src/tools/crash/crash_win32.h" line="51"/>
         <source>Crash handler log</source>
-        <translation type="unfinished"/>
+        <translation>Log du gestionnaire de plantages</translation>
     </message>
 </context>
 <context>
@@ -4474,7 +4514,7 @@ Continuer ?</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/edititemdlg.ui" line="14"/>
         <source>Watch For...</source>
-        <translation type="unfinished"/>
+        <translation>Surveiller...</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/edititemdlg.ui" line="25"/>
@@ -5033,7 +5073,7 @@ Si vous souhaitez confirmer cette demande, cliquez sur le bouton de confirmation
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="662"/>
         <source>This plugin adds several additional commands into contacts context menu.</source>
-        <translation>Ce greffon ajoute plusieurs commandes au menu contextuel des contacts</translation>
+        <translation>Ce greffon ajoute plusieurs commandes au menu contextuel des contacts.</translation>
     </message>
 </context>
 <context>
@@ -5054,7 +5094,7 @@ Si vous souhaitez confirmer cette demande, cliquez sur le bouton de confirmation
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="354"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="639"/>
         <source>Roster</source>
-        <translation type="unfinished"/>
+        <translation>Liste de contacts</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="284"/>
@@ -5325,32 +5365,32 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="452"/>
         <source>Tooltips:</source>
-        <translation type="unfinished"/>
+        <translation>Infobulles :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="455"/>
         <source>Show avatar</source>
-        <translation type="unfinished"/>
+        <translation>Afficher l&apos;avatar</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="456"/>
         <source>Show last status</source>
-        <translation type="unfinished"/>
+        <translation>Voir le dernier état</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="457"/>
         <source>Show PGP</source>
-        <translation type="unfinished"/>
+        <translation>Voir la signature PGP</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="458"/>
         <source>Show client version</source>
-        <translation type="unfinished"/>
+        <translation>Voir la version du client</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="459"/>
         <source>Show geolocation</source>
-        <translation type="unfinished"/>
+        <translation>Voir la géolocalisation</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="491"/>
@@ -5470,7 +5510,7 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="610"/>
         <source>Colors:</source>
-        <translation type="unfinished"/>
+        <translation>Couleurs :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="640"/>
@@ -5490,42 +5530,42 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="651"/>
         <source>Disable wheel scroll</source>
-        <translation type="unfinished"/>
+        <translation>Désactiver le défilement à la molette</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="652"/>
         <source>Put tabs at bottom of chat window</source>
-        <translation type="unfinished"/>
+        <translation>Afficher les onglets en bas de la fenêtre de discussion</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="653"/>
         <source>Show Close Button on tabs</source>
-        <translation type="unfinished"/>
+        <translation>Afficher le bouton Fermer sur les onglets</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="654"/>
         <source>Show status icons on tabs</source>
-        <translation type="unfinished"/>
+        <translation>Afficher les icônes de statut sur les onglets</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="655"/>
         <source>Hide tab when close chat window</source>
-        <translation type="unfinished"/>
+        <translation>Cacher l&apos;onglet à la fermeture de la fenêtre de discussion</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="656"/>
         <source>Allow closing inactive tabs</source>
-        <translation type="unfinished"/>
+        <translation>Autoriser la fermeture des onglets inactifs</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="664"/>
         <source>Action for mouse middle click on tabs:</source>
-        <translation type="unfinished"/>
+        <translation>Action du clic milieu sur les onglets :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="674"/>
         <source>Action for mouse double click on tabs:</source>
-        <translation type="unfinished"/>
+        <translation>Action du double-clic sur les onglets :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="690"/>
@@ -5560,22 +5600,22 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="698"/>
         <source>Notifications</source>
-        <translation type="unfinished"/>
+        <translation>Notifications</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="712"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/en:plugins#extended_options_plugin&quot;&gt;Wiki (page web [EN])&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1186"/>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Auteur : </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1187"/>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>Courriel : </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1188"/>
@@ -5756,7 +5796,7 @@ Importantly: a large part of the options are important system settings. These re
         <location filename="../tmp/src/filetransdlg.cpp" line="835"/>
         <location filename="../../psi-plus-snapshots/src/filetransdlg.cpp" line="834"/>
         <source>The XMPP address specified is not valid.  Correct this and try again.</source>
-        <translation type="unfinished"/>
+        <translation>L&apos;adresse XMPP spécifiée est invalide. Veuillez la corriger et essayer à nouveau.</translation>
     </message>
     <message>
         <location filename="../tmp/src/filetransdlg.cpp" line="841"/>
@@ -6082,7 +6122,7 @@ Raison: %3</translation>
         <location filename="../tmp/src/filetransdlg.cpp" line="1520"/>
         <location filename="../../psi-plus-snapshots/src/filetransdlg.cpp" line="1519"/>
         <source>&amp;Open Containing Folder</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ouvrir le dossier parent</translation>
     </message>
     <message>
         <location filename="../tmp/src/filetransdlg.cpp" line="1521"/>
@@ -6097,19 +6137,19 @@ Raison: %3</translation>
         <location filename="../tmp/src/filetransdlg.cpp" line="300"/>
         <location filename="../../psi-plus-snapshots/src/filetransdlg.cpp" line="299"/>
         <source>Querying proxy...</source>
-        <translation type="unfinished"/>
+        <translation>Requête auprès du proxy...</translation>
     </message>
     <message>
         <location filename="../tmp/src/filetransdlg.cpp" line="306"/>
         <location filename="../../psi-plus-snapshots/src/filetransdlg.cpp" line="305"/>
         <source>Proxy query successful.</source>
-        <translation>Demande au proxy réussie.</translation>
+        <translation>Requête au proxy réussie.</translation>
     </message>
     <message>
         <location filename="../tmp/src/filetransdlg.cpp" line="308"/>
         <location filename="../../psi-plus-snapshots/src/filetransdlg.cpp" line="307"/>
         <source>Proxy query failed!</source>
-        <translation>Echec de la demande au proxy!</translation>
+        <translation>Echec de la requête au proxy !</translation>
     </message>
     <message>
         <location filename="../tmp/src/filetransdlg.cpp" line="313"/>
@@ -6186,7 +6226,7 @@ Raison: %3</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/fileutil.cpp" line="109"/>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
-        <translation type="unfinished"/>
+        <translation>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
     </message>
 </context>
 <context>
@@ -6203,22 +6243,22 @@ Raison: %3</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/contentdownloaderplugin/form.ui" line="20"/>
         <source>Proxy Authentication Required</source>
-        <translation type="unfinished"/>
+        <translation>Authentification requise par le proxy</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/contentdownloaderplugin/form.ui" line="44"/>
         <source>Load Content List</source>
-        <translation type="unfinished"/>
+        <translation>Charger la liste de contenus</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/contentdownloaderplugin/form.ui" line="124"/>
         <source>Download and Install</source>
-        <translation type="unfinished"/>
+        <translation>Télécharger et installer</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/contentdownloaderplugin/form.ui" line="181"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/en:plugins#content_downloader_plugin&quot;&gt;Wiki (page web [EN])&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -6226,7 +6266,7 @@ Raison: %3</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/widgets/fancypopup.ui" line="26"/>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>Cadre</translation>
     </message>
 </context>
 <context>
@@ -6270,7 +6310,7 @@ Raison: %3</translation>
         <location filename="../tmp/src/groupchatdlg.cpp" line="748"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="748"/>
         <source>Find toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Barre de recherche</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="801"/>
@@ -6288,7 +6328,7 @@ Raison: %3</translation>
         <location filename="../tmp/src/groupchatdlg.cpp" line="817"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="817"/>
         <source>Copy Groupchat JID</source>
-        <translation type="unfinished"/>
+        <translation>Copier le JID du salon</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1074"/>
@@ -6307,13 +6347,13 @@ Reason: %1</source>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1117"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1117"/>
         <source>Edit Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Éditer le favori</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1120"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1120"/>
         <source>Add to bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Ajouter aux favoris</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1165"/>
@@ -6387,7 +6427,7 @@ Reason: %1</source>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1513"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1513"/>
         <source>%1 has joined the room</source>
-        <translation>%1 a rejoint la salle</translation>
+        <translation>%1 a rejoint le salon</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1517"/>
@@ -6407,7 +6447,7 @@ Reason: %1</source>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1533"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1533"/>
         <source> and now is %1</source>
-        <translation type="unfinished"/>
+        <translation> et est désormais %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1551"/>
@@ -6427,7 +6467,7 @@ Reason: %1</source>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1564"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1564"/>
         <source> (Reason: %1)</source>
-        <translation type="unfinished"/>
+        <translation> (Raison : %1)</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1588"/>
@@ -6465,55 +6505,55 @@ Reason: %1</source>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1624"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1624"/>
         <source>You have been banned from the room</source>
-        <translation>Vous avez été banni de cette salle</translation>
+        <translation>Vous avez été banni(e) du salon</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1625"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1625"/>
         <source>You have been banned from the room by %1</source>
-        <translation>Vous avez été banni de cette salle par %1</translation>
+        <translation>Vous avez été banni(e) de cette salle par %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1626"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1626"/>
         <source>%1 has been banned</source>
-        <translation>%1 a été banni</translation>
+        <translation>%1 a été banni(e)</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1627"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1627"/>
         <source>%1 has been banned by %2</source>
-        <translation>%1 a été banni par %2</translation>
+        <translation>%1 a été banni(e) par %2</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1632"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1632"/>
         <source>Kicked</source>
-        <translation>Exclu</translation>
+        <translation>Exclu(e)</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1632"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1632"/>
         <source>You have been kicked from the room</source>
-        <translation>Vous avez été exclu de cette salle</translation>
+        <translation>Vous avez été exclu(e) de cette salle</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1633"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1633"/>
         <source>You have been kicked from the room by %1</source>
-        <translation>Vous avez été exclu de cette salle par %1</translation>
+        <translation>Vous avez été exclu(e) de cette salle par %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1634"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1634"/>
         <source>%1 has been kicked</source>
-        <translation>%1 a été exclu</translation>
+        <translation>%1 a été exclu(e)</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1635"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1635"/>
         <source>%1 has been kicked by %2</source>
-        <translation>%1 a été exclu par %2</translation>
+        <translation>%1 a été exclu(e) par %2</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1640"/>
@@ -6527,79 +6567,79 @@ Reason: %1</source>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1641"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1641"/>
         <source>You have been removed from the room due to an affiliation change</source>
-        <translation>Vous avez été enlevé de la salle à cause d&apos;un changement d&apos;affiliation</translation>
+        <translation>Vous avez été enlevé(e) de la salle à cause d&apos;un changement d&apos;affiliation</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1642"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1642"/>
         <source>You have been removed from the room by %1 due to an affiliation change</source>
-        <translation>Vous avez été enlevé de la salle à cause d&apos;un changement d&apos;affiliation par %1</translation>
+        <translation>Vous avez été enlevé(e) de la salle à cause d&apos;un changement d&apos;affiliation par %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1643"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1643"/>
         <source>%1 has been removed from the room due to an affilliation change</source>
-        <translation>%1 a été enlevé de la salle à cause d&apos;un changement d&apos;affiliation</translation>
+        <translation>%1 a été enlevé(e) de la salle à cause d&apos;un changement d&apos;affiliation</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1644"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1644"/>
         <source>%1 has been removed from the room by %2 due to an affilliation change</source>
-        <translation>%1 a été enlevé de la salle par %2 à cause d&apos;un changement d&apos;affiliation</translation>
+        <translation>%1 a été enlevé(e) de la salle par %2 à cause d&apos;un changement d&apos;affiliation</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1649"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1649"/>
         <source>You have been removed from the room because the room was made members only</source>
-        <translation>Vous avez été enlevé de la salle car celle-ci est devenue réservée uniquement aux membres</translation>
+        <translation>Vous avez été enlevé(e) de la salle car celle-ci est devenue réservée uniquement aux membres</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1650"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1650"/>
         <source>You have been removed from the room by %1 because the room was made members only</source>
-        <translation>Vous avez été enlevé de la salle car %1 l&apos;a réservée uniquement aux membres</translation>
+        <translation>Vous avez été enlevé(e) de la salle car %1 l&apos;a réservée uniquement aux membres</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1651"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1651"/>
         <source>%1 has been removed from the room because the room was made members-only</source>
-        <translation>%1 a été enlevé de la salle car celle-ci est devenue réservée uniquement aux membres</translation>
+        <translation>%1 a été enlevé(e) de la salle car celle-ci est devenue réservée uniquement aux membres</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1652"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1652"/>
         <source>%1 has been removed from the room by %2 because the room was made members-only</source>
-        <translation>%1 a été enlevé de la salle par %2 car celle-ci est devenue réservée uniquement aux membres</translation>
+        <translation>%1 a été enlevé(e) de la salle par %2 car celle-ci est devenue réservée uniquement aux membres</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1658"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1658"/>
         <source>%1 is now known as %2</source>
-        <translation>%1 est désormais connu sous %2</translation>
+        <translation>%1 est désormais connu(e) en tant que %2</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1662"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1662"/>
         <source>%1 has left the room</source>
-        <translation>%1 a quitté la salle</translation>
+        <translation>%1 a quitté le salon</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1732"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1732"/>
         <source>The topic has been set to</source>
-        <translation type="unfinished"/>
+        <translation>Le sujet du salon a été défini à</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1735"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1735"/>
         <source> has unset the topic</source>
-        <translation type="unfinished"/>
+        <translation> a effacé le sujet du salon</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1735"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1735"/>
         <source> has set the topic to</source>
-        <translation type="unfinished"/>
+        <translation> a défini le sujet du salon à</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1797"/>
@@ -6611,43 +6651,43 @@ Reason: %1</source>
         <location filename="../tmp/src/groupchatdlg.cpp" line="2231"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2231"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="2232"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2232"/>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Supprimer</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="2233"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2233"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="2242"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2242"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Nom :</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="2243"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2243"/>
         <source>N&amp;ick:</source>
-        <translation type="unfinished"/>
+        <translation>Pseu&amp;do :</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="2244"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2244"/>
         <source>&amp;Auto join:</source>
-        <translation type="unfinished"/>
+        <translation>Rejoindre &amp;automatiquement :</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="2255"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2255"/>
         <source>Bookmark conference</source>
-        <translation type="unfinished"/>
+        <translation>Ajouter la conférence aux favoris</translation>
     </message>
 </context>
 <context>
@@ -6697,12 +6737,12 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/gcuserview.cpp" line="612"/>
         <source>Voice Call</source>
-        <translation type="unfinished"/>
+        <translation>Appel vocal</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/gcuserview.cpp" line="617"/>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished"/>
+        <translation>E&amp;xécuter la commande</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/gcuserview.cpp" line="629"/>
@@ -6749,27 +6789,27 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/gcuserview.cpp" line="689"/>
         <source>Change Affiliation</source>
-        <translation type="unfinished"/>
+        <translation>Changer l&apos;affiliation</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/gcuserview.cpp" line="690"/>
         <source>Unaffiliated</source>
-        <translation type="unfinished"/>
+        <translation>Non affilié</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/gcuserview.cpp" line="696"/>
         <source>Member</source>
-        <translation type="unfinished"/>
+        <translation>Membre</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/gcuserview.cpp" line="702"/>
         <source>Administrator</source>
-        <translation type="unfinished"/>
+        <translation>Administrateur</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/gcuserview.cpp" line="708"/>
         <source>Owner</source>
-        <translation type="unfinished"/>
+        <translation>Propriétaire</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/gcuserview.cpp" line="720"/>
@@ -6968,7 +7008,7 @@ Vous avez perdu.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gamemodel.cpp" line="256"/>
         <source>The first turn can be only H8.</source>
-        <translation type="unfinished"/>
+        <translation>Le premier tour peut uniquement être H8.</translation>
     </message>
 </context>
 <context>
@@ -6976,28 +7016,28 @@ Vous avez perdu.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gamesessions.cpp" line="95"/>
         <source>%1: Invitation from %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 : invitation de %2</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gamesessions.cpp" line="205"/>
         <source>Incorrect parameters</source>
-        <translation type="unfinished"/>
+        <translation>Paramètres incorrects</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gamesessions.cpp" line="266"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gamesessions.cpp" line="735"/>
         <source>You are allready playing!</source>
-        <translation type="unfinished"/>
+        <translation>Vous êtes déjà en train de jouer !</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gamesessions.cpp" line="381"/>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
-        <translation type="unfinished"/>
+        <translation>De : %1&lt;br /&gt;La partie a été rejetée</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gamesessions.cpp" line="386"/>
         <source>From: %1&lt;br /&gt;Game error.</source>
-        <translation type="unfinished"/>
+        <translation>De : %1&lt;br /&gt;Erreur de jeu.</translation>
     </message>
 </context>
 <context>
@@ -7065,12 +7105,12 @@ Vous avez perdu.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_general_groupchat.ui" line="156"/>
         <source>Enable nick coloring</source>
-        <translation>Activer la coloration des surnoms</translation>
+        <translation>Activer la coloration des pseudos</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_general_groupchat.ui" line="163"/>
         <source>Enable hash nick coloring</source>
-        <translation type="unfinished"/>
+        <translation>Couleur des pseudos en fonction du hachage</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_general_groupchat.ui" line="170"/>
@@ -7091,7 +7131,7 @@ Vous avez perdu.</translation>
         <location filename="../../psi-plus-snapshots/src/options/opt_general_groupchat.ui" line="200"/>
         <location filename="../../psi-plus-snapshots/src/options/opt_general_groupchat.ui" line="203"/>
         <source>Type a colourcode here, or press the palette to the right</source>
-        <translation type="unfinished"/>
+        <translation>Saisir un code couleur, ou utiliser la palette à droite</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_general_groupchat.ui" line="251"/>
@@ -7115,82 +7155,82 @@ Vous avez perdu.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="20"/>
         <source>Set GeoLocation</source>
-        <translation type="unfinished"/>
+        <translation>Définir la GéoLocalisation</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="28"/>
         <source>Altitude:</source>
-        <translation type="unfinished"/>
+        <translation>Altitude :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="35"/>
         <source>Altitude in meters above or below sea level</source>
-        <translation type="unfinished"/>
+        <translation>Altitude en mètres au-dessus ou en-dessous du niveau de l&apos;océan</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="42"/>
         <source>Area:</source>
-        <translation type="unfinished"/>
+        <translation>Région :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="49"/>
         <source>A named area such as a campus or neighborhood</source>
-        <translation type="unfinished"/>
+        <translation>Un nom de région tel un campus ou un voisinage</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="56"/>
         <source>Bearing:</source>
-        <translation type="unfinished"/>
+        <translation>Azimuth :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="63"/>
         <source>GPS bearing (direction in which the entity is heading to reach its next waypoint), measured in decimal degrees relative to true north</source>
-        <translation type="unfinished"/>
+        <translation>Azimuth GPS, mesuré relativement au nord, en degrés</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="70"/>
         <source>Building:</source>
-        <translation type="unfinished"/>
+        <translation>Bâtiment :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="77"/>
         <source>A specific building on a street or in an area</source>
-        <translation type="unfinished"/>
+        <translation>Un bâtiment spécifique dans une rue ou une région</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="84"/>
         <source>Country:</source>
-        <translation type="unfinished"/>
+        <translation>Pays :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="91"/>
         <source>The nation where the user is located</source>
-        <translation type="unfinished"/>
+        <translation>Pays dans lequel se trouve l&apos;utilisateur</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="98"/>
         <source>Datum:</source>
-        <translation type="unfinished"/>
+        <translation>Coordonnées :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="105"/>
         <source>GPS datum</source>
-        <translation type="unfinished"/>
+        <translation>Coordonnées GPS</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="112"/>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Description :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="119"/>
         <source>A natural-language name for or description of the location</source>
-        <translation type="unfinished"/>
+        <translation>Nom ou description de l&apos;emplacement</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="126"/>
         <source>Error:</source>
-        <translation type="unfinished"/>
+        <translation>Erreur :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="133"/>
@@ -7200,107 +7240,107 @@ Vous avez perdu.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="140"/>
         <source>Floor:</source>
-        <translation type="unfinished"/>
+        <translation>Étage :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="147"/>
         <source>A particular floor in a building</source>
-        <translation type="unfinished"/>
+        <translation>Étage au sein du bâtiment</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="154"/>
         <source>Latitude:</source>
-        <translation type="unfinished"/>
+        <translation>Latitude :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="161"/>
         <source>Latitude in decimal degrees North</source>
-        <translation type="unfinished"/>
+        <translation>Latitude en degrés Nord</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="168"/>
         <source>Locality:</source>
-        <translation type="unfinished"/>
+        <translation>Localité :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="175"/>
         <source>A locality within the administrative region, such as a town or city</source>
-        <translation type="unfinished"/>
+        <translation>Localité dans la zone administrative, comme un village ou une ville</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="182"/>
         <source>Longitude:</source>
-        <translation type="unfinished"/>
+        <translation>Longitude :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="189"/>
         <source>Longitude in decimal degrees East</source>
-        <translation type="unfinished"/>
+        <translation>Longitude en degrés Est</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="196"/>
         <source>Postalcode:</source>
-        <translation type="unfinished"/>
+        <translation>Code postal :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="203"/>
         <source>A code used for postal delivery</source>
-        <translation type="unfinished"/>
+        <translation>Code postal de la localité</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="210"/>
         <source>Region:</source>
-        <translation type="unfinished"/>
+        <translation>Région :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="217"/>
         <source>An administrative region of the nation, such as a state or province</source>
-        <translation type="unfinished"/>
+        <translation>Zone administrative, comme une région ou un canton</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="224"/>
         <source>Room:</source>
-        <translation type="unfinished"/>
+        <translation>Pièce :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="231"/>
         <source>A particular room in a building</source>
-        <translation type="unfinished"/>
+        <translation>Une pièce spécifique dans un bâtiment</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="238"/>
         <source>Street:</source>
-        <translation type="unfinished"/>
+        <translation>Rue :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="245"/>
         <source>A thoroughfare within the locality, or a crossing of two thoroughfares</source>
-        <translation type="unfinished"/>
+        <translation>Une rue ou une intersection</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="252"/>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>Autres :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="259"/>
         <source>A catch-all element that captures any other information about the location</source>
-        <translation type="unfinished"/>
+        <translation>Permet de stocker toute autre information à propos de la localité</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="283"/>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Réinitialiser</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="303"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="310"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Annuler</translation>
     </message>
 </context>
 <context>
@@ -7308,22 +7348,22 @@ Vous avez perdu.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodnetman.cpp" line="53"/>
         <source>Set Password</source>
-        <translation type="unfinished"/>
+        <translation>Définition du mot de passe</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodnetman.cpp" line="59"/>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Mot de passe :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodnetman.cpp" line="61"/>
         <source>Confirm password:</source>
-        <translation type="unfinished"/>
+        <translation>Confirmation du mot de passe :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/deprecated/yandexnarodplugin/yandexnarodnetman.cpp" line="85"/>
         <source>Password does not match</source>
-        <translation type="unfinished"/>
+        <translation>Le mot de passe saisi est différent</translation>
     </message>
 </context>
 <context>
@@ -7450,27 +7490,27 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/gnupg.cpp" line="108"/>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Auteur : </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/gnupg.cpp" line="109"/>
         <source>e-mail: </source>
-        <translation type="unfinished"/>
+        <translation>Courriel : </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/gnupg.cpp" line="110"/>
         <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
-        <translation type="unfinished"/>
+        <translation>Le gestionnaire de clés GnuPG peut créer, supprimer, importer et exporter des clés GnuPG. Seules les opérations de base sont supportées, ce qui devrait couvrir la plupart des besoins.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/gnupg.cpp" line="176"/>
         <source>Send GnuPG Public Key</source>
-        <translation type="unfinished"/>
+        <translation>Envoyer la clé publique GnuPG</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/gnupg.cpp" line="269"/>
         <source>Public key %1 sent</source>
-        <translation type="unfinished"/>
+        <translation>Clé publique %1 envoyée</translation>
     </message>
 </context>
 <context>
@@ -7478,22 +7518,22 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gomokugameplugin.cpp" line="268"/>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Choisir un fichier audio</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gomokugameplugin.cpp" line="268"/>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Audio (*.wav)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gomokugameplugin.cpp" line="297"/>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Auteur : </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gomokugameplugin.cpp" line="298"/>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>Courriel : </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gomokugameplugin.cpp" line="299"/>
@@ -7938,7 +7978,7 @@ You can select or deselect a contact for history removal from the context menu o
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/common.cpp" line="56"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Fermer</translation>
     </message>
 </context>
 <context>
@@ -8424,59 +8464,61 @@ The plugin has a number of simple settings that can help you:
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/imageplugin/imageplugin.cpp" line="170"/>
         <source>Send Image</source>
-        <translation type="unfinished"/>
+        <translation>Envoyer l&apos;image</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/imageplugin/imageplugin.cpp" line="232"/>
         <source>Open file</source>
-        <translation type="unfinished"/>
+        <translation>Ouvrir le fichier</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/imageplugin/imageplugin.cpp" line="233"/>
         <source>From clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Copier à partir du presse-papiers</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/imageplugin/imageplugin.cpp" line="253"/>
         <source>Open Image</source>
-        <translation type="unfinished"/>
+        <translation>Ouvrir l&apos;image</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/imageplugin/imageplugin.cpp" line="253"/>
         <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
-        <translation type="unfinished"/>
+        <translation>Images (*.png *.gif *.jpg *.jpeg *.ico)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/imageplugin/imageplugin.cpp" line="279"/>
         <source>The image size is too large.</source>
-        <translation type="unfinished"/>
+        <translation>L&apos;image est trop grande.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/imageplugin/imageplugin.cpp" line="280"/>
         <source>Image size must be less than 60 kb</source>
-        <translation type="unfinished"/>
+        <translation>La taille de l&apos;image doit être de moins de 60 ko</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/imageplugin/imageplugin.cpp" line="283"/>
         <source>Image %1 bytes received.</source>
-        <translation type="unfinished"/>
+        <translation>Image : %1 octets reçus.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/imageplugin/imageplugin.cpp" line="298"/>
         <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
-        <translation type="unfinished"/>
+        <translation>Image %1 envoyée &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/imageplugin/imageplugin.cpp" line="310"/>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Auteurs :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/imageplugin/imageplugin.cpp" line="311"/>
         <source>This plugin is designed to send images to roster contacts.
 Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="unfinished"/>
+        <translation>Ce greffon permet d&apos;envoyer des images à vos contacts.
+Le client du destinataire  doit supporter XEP-0071 : XHTML-IM ainsi que le schéma data:URI.
+Note : Afin de fonctionner correctement, l&apos;option options.ui.chat.central-toolbar doit être définie à true.</translation>
     </message>
 </context>
 <context>
@@ -8494,7 +8536,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus-snapshots/src/info.ui" line="70"/>
         <source>E-Mail:</source>
-        <translation>Courriel:</translation>
+        <translation>Courriel :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/info.ui" line="80"/>
@@ -8534,22 +8576,22 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus-snapshots/src/info.ui" line="180"/>
         <source>Full Name:</source>
-        <translation>Nom complet:</translation>
+        <translation>Nom complet :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/info.ui" line="187"/>
         <source>Phone #:</source>
-        <translation>Téléphone:</translation>
+        <translation>Téléphone :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/info.ui" line="194"/>
         <source>Homepage:</source>
-        <translation>Page web:</translation>
+        <translation>Page web :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/info.ui" line="201"/>
         <source>Nickname:</source>
-        <translation>Surnom:</translation>
+        <translation>Pseudo :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/info.ui" line="225"/>
@@ -8559,22 +8601,22 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus-snapshots/src/info.ui" line="248"/>
         <source>Company:</source>
-        <translation>Entreprise:</translation>
+        <translation>Entreprise :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/info.ui" line="255"/>
         <source>Position:</source>
-        <translation>Poste:</translation>
+        <translation>Poste :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/info.ui" line="265"/>
         <source>Department:</source>
-        <translation>Equipe:</translation>
+        <translation>Equipe :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/info.ui" line="278"/>
         <source>Role:</source>
-        <translation>Rôle:</translation>
+        <translation>Rôle :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/info.ui" line="304"/>
@@ -8584,27 +8626,27 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus-snapshots/src/info.ui" line="324"/>
         <source>Country:</source>
-        <translation>Pays:</translation>
+        <translation>Pays :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/info.ui" line="331"/>
         <source>Postal Code:</source>
-        <translation>Code postal:</translation>
+        <translation>Code postal :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/info.ui" line="347"/>
         <source>State:</source>
-        <translation>Région:</translation>
+        <translation>Région :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/info.ui" line="354"/>
         <source>City:</source>
-        <translation>Ville:</translation>
+        <translation>Ville :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/info.ui" line="364"/>
         <source>Street:</source>
-        <translation>Rue:</translation>
+        <translation>Rue :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/info.ui" line="396"/>
@@ -8624,7 +8666,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus-snapshots/src/info.ui" line="461"/>
         <source>psi/disco</source>
-        <translation type="unfinished"/>
+        <translation>psi/disco</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/info.ui" line="468"/>
@@ -8660,7 +8702,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="156"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="364"/>
         <source>First Name:</source>
-        <translation>Prénom:</translation>
+        <translation>Prénom :</translation>
     </message>
     <message>
         <location filename="../tmp/src/infodlg.cpp" line="157"/>
@@ -8668,7 +8710,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="157"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="365"/>
         <source>Middle Name:</source>
-        <translation>2nd prénom:</translation>
+        <translation>Second prénom :</translation>
     </message>
     <message>
         <location filename="../tmp/src/infodlg.cpp" line="158"/>
@@ -8676,19 +8718,19 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="158"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="366"/>
         <source>Last Name:</source>
-        <translation>Nom de famille:</translation>
+        <translation>Nom de famille :</translation>
     </message>
     <message>
         <location filename="../tmp/src/infodlg.cpp" line="163"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="163"/>
         <source>Edit names</source>
-        <translation type="unfinished"/>
+        <translation>Éditer les noms</translation>
     </message>
     <message>
         <location filename="../tmp/src/infodlg.cpp" line="163"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="163"/>
         <source>View names</source>
-        <translation type="unfinished"/>
+        <translation>Voir les noms</translation>
     </message>
     <message>
         <location filename="../tmp/src/infodlg.cpp" line="166"/>
@@ -8696,7 +8738,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="166"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="167"/>
         <source>Open web browser</source>
-        <translation type="unfinished"/>
+        <translation>Ouvrir le navigateur</translation>
     </message>
     <message>
         <location filename="../tmp/src/infodlg.cpp" line="197"/>
@@ -8710,7 +8752,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="203"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="204"/>
         <source>Edit birthday</source>
-        <translation type="unfinished"/>
+        <translation>Éditer la date d&apos;anniversaire</translation>
     </message>
     <message>
         <location filename="../tmp/src/infodlg.cpp" line="277"/>
@@ -9229,12 +9271,12 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <location filename="../../psi-plus-snapshots/src/mucaffiliationsmodel.cpp" line="43"/>
         <source>JID</source>
-        <translation type="unfinished"/>
+        <translation>JID</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/mucaffiliationsmodel.cpp" line="43"/>
         <source>Reason</source>
-        <translation type="unfinished"/>
+        <translation>Raison</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/mucaffiliationsmodel.cpp" line="179"/>
@@ -9425,7 +9467,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <location filename="../../psi-plus-snapshots/src/mucjoin.ui" line="98"/>
         <source>Password:</source>
-        <translation>Mot de passe:</translation>
+        <translation>Mot de passe :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/mucjoin.ui" line="115"/>
@@ -9435,7 +9477,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <location filename="../../psi-plus-snapshots/src/mucjoin.ui" line="164"/>
         <source>Bookmarks:</source>
-        <translation type="unfinished"/>
+        <translation>Favoris :</translation>
     </message>
 </context>
 <context>
@@ -9579,7 +9621,7 @@ Cause: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/mucreasonseditor.ui" line="82"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/mucreasonseditor.ui" line="102"/>
@@ -9640,7 +9682,7 @@ Cause: %1</translation>
         <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="285"/>
         <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="561"/>
         <source>Diagnostics</source>
-        <translation>Diagnostiques</translation>
+        <translation>Diagnostics</translation>
     </message>
     <message>
         <location filename="../tmp/src/mainwin.cpp" line="1005"/>
@@ -9670,13 +9712,13 @@ Cause: %1</translation>
         <location filename="../tmp/src/mainwin.cpp" line="1212"/>
         <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1188"/>
         <source>Security Plugins Diagnostic Text</source>
-        <translation>Diagnostique des plugins de sécurité</translation>
+        <translation>Diagnostic des greffons de sécurité</translation>
     </message>
     <message>
         <location filename="../tmp/src/mainwin.cpp" line="1221"/>
         <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1197"/>
         <source>Key Storage Diagnostic Text</source>
-        <translation>Diagnostique de la clé de stockage</translation>
+        <translation>Diagnostic du stockage des clés</translation>
     </message>
     <message>
         <location filename="../tmp/src/mainwin.cpp" line="1341"/>
@@ -9700,33 +9742,35 @@ Cause: %1</translation>
         <location filename="../tmp/src/mainwin.cpp" line="1394"/>
         <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1370"/>
         <source>Status Message</source>
-        <translation type="unfinished"/>
+        <translation>Message d&apos;état</translation>
     </message>
     <message>
         <location filename="../tmp/src/mainwin.cpp" line="1423"/>
         <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1399"/>
         <source>Active accounts:</source>
-        <translation type="unfinished"/>
+        <translation>Comptes actifs :</translation>
     </message>
     <message>
         <location filename="../tmp/src/mainwin.cpp" line="1424"/>
         <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1400"/>
         <source>
 Active accounts:</source>
-        <translation type="unfinished"/>
+        <translation>
+Comptes actifs :</translation>
     </message>
     <message>
         <location filename="../tmp/src/mainwin.cpp" line="1428"/>
         <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1404"/>
         <source>Incoming event(s) from:</source>
-        <translation type="unfinished"/>
+        <translation>Évènement(s) en provenance de :</translation>
     </message>
     <message>
         <location filename="../tmp/src/mainwin.cpp" line="1429"/>
         <location filename="../../psi-plus-snapshots/src/mainwin.cpp" line="1405"/>
         <source>
 Incoming event(s) from:</source>
-        <translation type="unfinished"/>
+        <translation>
+Évènement(s) en provenance de :</translation>
     </message>
     <message>
         <location filename="../tmp/src/mainwin.cpp" line="1455"/>
@@ -9834,66 +9878,67 @@ Russie, Tambov, 2005 (denis@silversoft.net)</translation>
         <location filename="../../psi-plus-snapshots/src/miniclient.cpp" line="269"/>
         <source>There was an error communicating with the XMPP server.
 Details: %1</source>
-        <translation type="unfinished"/>
+        <translation>Erreur lors de la communication avec le serveur XMPP.
+Détails : %1</translation>
     </message>
 </context>
 <context>
     <name>Model</name>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Type</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Nom</translation>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Courriel</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Création</translation>
     </message>
     <message>
         <source>Length</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Longueur</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Commentaires</translation>
     </message>
     <message>
         <source>Algorithm</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Algorithme</translation>
     </message>
     <message>
         <source>Short ID</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Identifiant court</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Empreinte</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/model.cpp" line="27"/>
         <source>Enable/Disable</source>
-        <translation type="unfinished"/>
+        <translation>Activer / Désactiver</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/model.cpp" line="27"/>
         <source>JID (or part of JID)</source>
-        <translation type="unfinished"/>
+        <translation>JID (ou JID partiel)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/model.cpp" line="30"/>
         <source>Watch for JIDs</source>
-        <translation type="unfinished"/>
+        <translation>Surveiller les JIDs</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/model.cpp" line="31"/>
         <source>Sounds (if empty default sound will be used)</source>
-        <translation type="unfinished"/>
+        <translation>Sons (si laissé vide, utilisation des sons par défaut)</translation>
     </message>
 </context>
 <context>
@@ -9946,13 +9991,14 @@ Details: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/tagsmodel.cpp" line="171"/>
         <source>Title: %1</source>
-        <translation type="unfinished"/>
+        <translation>Titre : %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/tagsmodel.cpp" line="173"/>
         <source>
 Tags: %1</source>
-        <translation type="unfinished"/>
+        <translation>
+Labels : %1</translation>
     </message>
 </context>
 <context>
@@ -9963,78 +10009,78 @@ Tags: %1</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/notes.cpp" line="83"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/notes.cpp" line="214"/>
         <source>Notebook</source>
-        <translation type="unfinished"/>
+        <translation>Carnet de notes</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/notes.ui" line="70"/>
         <source>Add note</source>
-        <translation type="unfinished"/>
+        <translation>Ajouter une note</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/notes.ui" line="86"/>
         <source>Edit note</source>
-        <translation type="unfinished"/>
+        <translation>Éditer la note</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/notes.ui" line="102"/>
         <source>Delete note</source>
-        <translation type="unfinished"/>
+        <translation>Supprimer la note</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/notes.ui" line="142"/>
         <source>Load notes</source>
-        <translation type="unfinished"/>
+        <translation>Charger les notes</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/notes.ui" line="145"/>
         <source>Reload</source>
-        <translation type="unfinished"/>
+        <translation>Recharger</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/notes.ui" line="152"/>
         <source>Save notes</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer les notes</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/notes.ui" line="155"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/notes.ui" line="162"/>
         <source>Close window</source>
-        <translation type="unfinished"/>
+        <translation>Fermer la fenêtre</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/notes.ui" line="165"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Fermer</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/notes.cpp" line="84"/>
         <source>Some changes are not saved. Are you sure you want to quit?</source>
-        <translation type="unfinished"/>
+        <translation>Certains changements n&apos;ont pas été sauvegardés. Êtes-vous sûr(e) de vouloir quitter ?</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/notes.cpp" line="215"/>
         <source>Some changes are not saved. Are you sure you want to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Certains changements n&apos;ont pas été sauvegardés. Êtes-vous sûr(e) de vouloir continuer ?</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/notes.cpp" line="254"/>
         <source>Error! Perhaps the function is not implemented on the server.</source>
-        <translation type="unfinished"/>
+        <translation>Erreur ! La fonctionnalité n&apos;est peut-être pas implémentée sur le serveur.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/notes.cpp" line="255"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/notes.cpp" line="265"/>
         <source>Storage Notes Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Greffon de sauvegarde des Notes</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/notes.cpp" line="264"/>
         <source>Notes has been saved.</source>
-        <translation type="unfinished"/>
+        <translation>Les notes ont été enregistrées.</translation>
     </message>
 </context>
 <context>
@@ -10532,22 +10578,22 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_avcall.ui" line="20"/>
         <source>Audio output:</source>
-        <translation>Sortie audio:</translation>
+        <translation>Sortie audio :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_avcall.ui" line="37"/>
         <source>Audio input:</source>
-        <translation>Entrée audio:</translation>
+        <translation>Entrée audio :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_avcall.ui" line="54"/>
         <source>Video input:</source>
-        <translation>Entrée vidéo:</translation>
+        <translation>Entrée vidéo :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_avcall.ui" line="71"/>
         <source>Video support:</source>
-        <translation type="unfinished"/>
+        <translation>Support vidéo :</translation>
     </message>
 </context>
 <context>
@@ -10575,7 +10621,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_chat.ui" line="46"/>
         <source>Switch tab on receiving new messages</source>
-        <translation type="unfinished"/>
+        <translation>Changer d&apos;onglet à la réception d&apos;un nouveau message</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_chat.ui" line="53"/>
@@ -10610,7 +10656,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_chat.ui" line="104"/>
         <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"/>
+        <translation>pour les discussions, salons de discussion et liste de contacts en fenêtre unique</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_chat.ui" line="109"/>
@@ -10620,7 +10666,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_chat.ui" line="132"/>
         <source>Show tab buttons</source>
-        <translation type="unfinished"/>
+        <translation>Afficher les boutons d&apos;onglet</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_chat.ui" line="139"/>
@@ -10630,7 +10676,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_chat.ui" line="146"/>
         <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>Activer les raccourcis Alt-[0-9] pour changer d&apos;onglet</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_chat.ui" line="153"/>
@@ -10771,32 +10817,32 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="14"/>
         <source>OptPluginsUI</source>
-        <translation>Interface utilisateur pour les plugins</translation>
+        <translation>Interface utilisateur pour les greffons</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="37"/>
         <source>Plugin Name:</source>
-        <translation>Nom du plugin:</translation>
+        <translation>Nom du greffon :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="79"/>
         <source>Version: 0</source>
-        <translation type="unfinished"/>
+        <translation>Version : 0</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="89"/>
         <source>Load this plugin</source>
-        <translation>Charger ce plugin</translation>
+        <translation>Charger ce greffon</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="113"/>
         <source>Plugin Location:</source>
-        <translation>Emplacement du plugin:</translation>
+        <translation>Emplacement du greffon :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="123"/>
         <source>No plugin selected</source>
-        <translation>Aucun plugin sélectionné</translation>
+        <translation>Aucun greffon sélectionné</translation>
     </message>
 </context>
 <context>
@@ -11124,7 +11170,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_sound.ui" line="36"/>
         <source>Player:</source>
-        <translation>Programme:</translation>
+        <translation>Lecteur :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_sound.ui" line="48"/>
@@ -11154,57 +11200,57 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_sound.ui" line="97"/>
         <source>Headline:</source>
-        <translation>En-tête:</translation>
+        <translation>En-tête :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_sound.ui" line="111"/>
         <source>Receive online status:</source>
-        <translation>Réception d&apos;état &quot;En-ligne&quot;:</translation>
+        <translation>Réception d&apos;état &quot;En-ligne&quot; :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_sound.ui" line="146"/>
         <source>Receive message:</source>
-        <translation>Réception d&apos;un message:</translation>
+        <translation>Réception d&apos;un message :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_sound.ui" line="195"/>
         <source>Send message:</source>
-        <translation>Envoi d&apos;un message:</translation>
+        <translation>Envoi d&apos;un message :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_sound.ui" line="216"/>
         <source>System message:</source>
-        <translation>Message système:</translation>
+        <translation>Message système :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_sound.ui" line="286"/>
         <source>Incoming file transfer:</source>
-        <translation>Transfert de Fichier entrant:</translation>
+        <translation>Transfert de Fichier entrant :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_sound.ui" line="293"/>
         <source>File transfer complete:</source>
-        <translation>Fin du Transfert de Fichier:</translation>
+        <translation>Fin du Transfert de Fichier :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_sound.ui" line="328"/>
         <source>Receive next chat:</source>
-        <translation>Réception de la suite de la discussion:</translation>
+        <translation>Réception de la suite de la discussion :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_sound.ui" line="342"/>
         <source>Receive first chat:</source>
-        <translation>Réception du début de la discussion:</translation>
+        <translation>Réception du début de la discussion :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_sound.ui" line="356"/>
         <source>Receive offline status:</source>
-        <translation>Réception d&apos;état &quot;Hors-ligne&quot;:</translation>
+        <translation>Réception d&apos;état &quot;Hors-ligne&quot; :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_sound.ui" line="363"/>
         <source>Receive MUC message</source>
-        <translation type="unfinished"/>
+        <translation>Réception de message MUC</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_sound.ui" line="417"/>
@@ -12797,22 +12843,22 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="27"/>
         <source>Plugins</source>
-        <translation>Plugins</translation>
+        <translation>Greffons</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="27"/>
         <source>Options for Psi plugins</source>
-        <translation>Options pour les plugins de Psi</translation>
+        <translation>Options pour les greffons de Psi</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="146"/>
         <source>No plugin selected.</source>
-        <translation>Aucun plugin sélectionné.</translation>
+        <translation>Aucun greffon sélectionné.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="158"/>
         <source>Version: </source>
-        <translation type="unfinished"/>
+        <translation>Version : </translation>
     </message>
 </context>
 <context>
@@ -13442,7 +13488,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/pgpkeydlg.cpp" line="86"/>
         <source>&amp;Diagnostics</source>
-        <translation>&amp;Diagnostiques</translation>
+        <translation>&amp;Diagnostics</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/pgpkeydlg.cpp" line="90"/>
@@ -13467,7 +13513,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/pgpkeydlg.cpp" line="214"/>
         <source>Key Storage Diagnostic Text</source>
-        <translation>Diagnostique de la clé de stockage</translation>
+        <translation>Diagnostic du stockage des clés</translation>
     </message>
 </context>
 <context>
@@ -13480,12 +13526,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/pgputil.cpp" line="308"/>
         <source>Diagnostics</source>
-        <translation>Diagnostiques</translation>
+        <translation>Diagnostics</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/pgputil.cpp" line="312"/>
         <source>OpenPGP Diagnostic Text</source>
-        <translation>Diagnostique OpenPGP</translation>
+        <translation>Diagnostic OpenPGP</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/pgputil.cpp" line="326"/>
@@ -13500,27 +13546,27 @@ Cause: %1.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/passdialog.cpp" line="35"/>
         <source>Wrong Account Password</source>
-        <translation type="unfinished"/>
+        <translation>Mot de passe incorrect</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/passdialog.cpp" line="45"/>
         <source>Save Password</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer le mot de passe</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/passdialog.cpp" line="49"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/passdialog.cpp" line="53"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/passdialog.cpp" line="56"/>
         <source>Please enter your password for %1:</source>
-        <translation type="unfinished"/>
+        <translation>Veuillez saisir le mot de passe pour %1 :</translation>
     </message>
 </context>
 <context>
@@ -13534,13 +13580,13 @@ Cause: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/passphrase.ui" line="65"/>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>Votre phrase de passe est nécessaire pour utiliser la sécurité OpenPGP.
-SVP entrez votre phrase de passe ci-dessous:</translation>
+        <translation>Votre mot de passe est nécessaire pour utiliser la sécurité OpenPGP.
+Veuillez saisir votre mot de passe ci-dessous :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/passphrase.ui" line="80"/>
         <source>Remember passphrase</source>
-        <translation type="unfinished"/>
+        <translation>Retenir le mot de passe</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/passphrase.ui" line="112"/>
@@ -14477,7 +14523,7 @@ Cochez la case &lt;i&gt;Activer les émoticônes&lt;/i&gt; si vous voulez qu&apo
     <message>
         <location filename="../../psi-plus-snapshots/src/proxy.ui" line="155"/>
         <source>Password:</source>
-        <translation>Mot de passe:</translation>
+        <translation>Mot de passe :</translation>
     </message>
 </context>
 <context>
@@ -14537,37 +14583,37 @@ Cochez la case &lt;i&gt;Activer les émoticônes&lt;/i&gt; si vous voulez qu&apo
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/proxysettingsdlg.ui" line="32"/>
         <source>Proxy Server Settings</source>
-        <translation type="unfinished"/>
+        <translation>Paramètres du proxy</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/proxysettingsdlg.ui" line="40"/>
         <source>Type:</source>
-        <translation type="unfinished"/>
+        <translation>Type :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/proxysettingsdlg.ui" line="63"/>
         <source>Host:</source>
-        <translation type="unfinished"/>
+        <translation>Hôte :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/proxysettingsdlg.ui" line="73"/>
         <source>Port:</source>
-        <translation type="unfinished"/>
+        <translation>Port :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/proxysettingsdlg.ui" line="80"/>
         <source>99999; </source>
-        <translation type="unfinished"/>
+        <translation>99999; </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/proxysettingsdlg.ui" line="87"/>
         <source>User:</source>
-        <translation type="unfinished"/>
+        <translation>Utilisateur :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/proxysettingsdlg.ui" line="97"/>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Mot de passe :</translation>
     </message>
 </context>
 <context>
@@ -14605,7 +14651,7 @@ Voulez-vous vous déconnecter ?</translation>
         <location filename="../tmp/src/psiaccount.cpp" line="1726"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="1717"/>
         <source>Reconnecting</source>
-        <translation type="unfinished"/>
+        <translation>Reconnexion</translation>
     </message>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="1750"/>
@@ -14617,13 +14663,13 @@ Voulez-vous vous déconnecter ?</translation>
         <location filename="../tmp/src/psiaccount.cpp" line="1751"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="1742"/>
         <source>Cannot connect: Encryption is enabled but no QCA2 SSL/TLS plugin is available.</source>
-        <translation>Impossible de se connecter: le cryptage est activé mais aucun support (plugin) QCA2 SSL/TLS n&apos;est disponible.</translation>
+        <translation>Impossible de se connecter : le chiffrement est activé mais aucun support (greffon) QCA2 SSL/TLS n&apos;est disponible.</translation>
     </message>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="1767"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="1758"/>
         <source>Feature Removed</source>
-        <translation type="unfinished"/>
+        <translation>Fonctionnalité retirée</translation>
     </message>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="1768"/>
@@ -14877,7 +14923,7 @@ Voulez-vous vous déconnecter ?</translation>
         <location filename="../tmp/src/psiaccount.cpp" line="2243"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="2234"/>
         <source>Wrong Password</source>
-        <translation type="unfinished"/>
+        <translation>Mot de passe incorrect</translation>
     </message>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="2247"/>
@@ -14933,7 +14979,7 @@ Détails: %1</translation>
         <location filename="../tmp/src/psiaccount.cpp" line="3032"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="3005"/>
         <source>Logged out</source>
-        <translation type="unfinished"/>
+        <translation>Déconnecté</translation>
     </message>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="3466"/>
@@ -14967,19 +15013,19 @@ Détails: %1</translation>
         <location filename="../tmp/src/psiaccount.cpp" line="4186"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4117"/>
         <source>Name:	</source>
-        <translation type="unfinished"/>
+        <translation>Nom :	</translation>
     </message>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="4187"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4118"/>
         <source>Version:	</source>
-        <translation type="unfinished"/>
+        <translation>Version :	</translation>
     </message>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="4188"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="4119"/>
         <source>Os:	</source>
-        <translation type="unfinished"/>
+        <translation>Système :	</translation>
     </message>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="4190"/>
@@ -14991,7 +15037,7 @@ Détails: %1</translation>
         <location filename="../tmp/src/psiaccount.cpp" line="5445"/>
         <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="5375"/>
         <source>Headline</source>
-        <translation type="unfinished"/>
+        <translation>En-tête :</translation>
     </message>
     <message>
         <location filename="../tmp/src/psiaccount.cpp" line="6243"/>
@@ -15669,13 +15715,13 @@ Cause: %1.</translation>
         <location filename="../tmp/src/psiactionlist.cpp" line="411"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="408"/>
         <source>Security Plugins</source>
-        <translation>Plugins de sécurité</translation>
+        <translation>Greffons de sécurité</translation>
     </message>
     <message>
         <location filename="../tmp/src/psiactionlist.cpp" line="411"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="408"/>
         <source>Security &amp;Plugins</source>
-        <translation>&amp;Plugins de sécurité</translation>
+        <translation>&amp;Greffons de sécurité</translation>
     </message>
     <message>
         <location filename="../tmp/src/psiactionlist.cpp" line="413"/>
@@ -15701,7 +15747,7 @@ Cause: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="452"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="494"/>
         <source>Clear Chat Window</source>
-        <translation type="unfinished"/>
+        <translation>Effacer la fenêtre de discussion</translation>
     </message>
     <message>
         <location filename="../tmp/src/psiactionlist.cpp" line="457"/>
@@ -15709,7 +15755,7 @@ Cause: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="453"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="495"/>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Rechercher</translation>
     </message>
     <message>
         <location filename="../tmp/src/psiactionlist.cpp" line="457"/>
@@ -15717,7 +15763,7 @@ Cause: %1.</translation>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="453"/>
         <location filename="../../psi-plus-snapshots/src/psiactionlist.cpp" line="495"/>
         <source>&amp;Find</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Rechercher</translation>
     </message>
     <message>
         <location filename="../tmp/src/psiactionlist.cpp" line="458"/>
@@ -19004,32 +19050,32 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <location filename="../../psi-plus-snapshots/src/rosteravatarframe.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Formulaire</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/rosteravatarframe.ui" line="58"/>
         <source>Nick</source>
-        <translation type="unfinished"/>
+        <translation>Pseudo</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/rosteravatarframe.ui" line="83"/>
         <source>Set Mood for all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Définir l&apos;humeur pour tous les comptes actifs</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/rosteravatarframe.ui" line="105"/>
         <source>Set Activity for all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Définir l&apos;activité pour tous les comptes actifs</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/rosteravatarframe.ui" line="131"/>
         <source>Set Status for all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Définir le statut pour tous les comptes actifs</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/rosteravatarframe.ui" line="153"/>
         <source>Status Message</source>
-        <translation type="unfinished"/>
+        <translation>Message d&apos;état</translation>
     </message>
 </context>
 <context>
@@ -19045,169 +19091,169 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="20"/>
         <source>Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Capture d&apos;écran</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="108"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Copier vers le presse-papiers</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="136"/>
         <source>Cancel uploading</source>
-        <translation type="unfinished"/>
+        <translation>Annuler l&apos;envoi</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="157"/>
         <source>Upload to server:</source>
-        <translation type="unfinished"/>
+        <translation>Envoyer vers le serveur :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="170"/>
         <source>Upload Screenshot to selected server</source>
-        <translation type="unfinished"/>
+        <translation>Envoyer la capture vers le serveur sélectionné</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="183"/>
         <source>Save Screenshot to Local Drive</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer une copie de la capture</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="196"/>
         <source>Print Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Imprimer la capture</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="222"/>
         <source>Open image from Local Drive</source>
-        <translation type="unfinished"/>
+        <translation>Ouvrir une image</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="235"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="320"/>
         <source>New Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Nouvelle capture d&apos;écran</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="248"/>
         <source>toolBar</source>
-        <translation type="unfinished"/>
+        <translation>barre d&apos;outils</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="271"/>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>Fichier</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="286"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Paramètres</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="292"/>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Aide</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="305"/>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Ouvrir</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="310"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="315"/>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Imprimer</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="325"/>
         <source>Exit</source>
-        <translation type="unfinished"/>
+        <translation>Quitter</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="330"/>
         <source>Proxy Settings</source>
-        <translation type="unfinished"/>
+        <translation>Paramètres du proxy</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="335"/>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Options</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="340"/>
         <source>History</source>
-        <translation type="unfinished"/>
+        <translation>Historique</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="345"/>
         <source>About Qt</source>
-        <translation type="unfinished"/>
+        <translation>À propos de Qt</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="350"/>
         <source>Home page</source>
-        <translation type="unfinished"/>
+        <translation>Page d&apos;accueil</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.ui" line="355"/>
         <source>Upload</source>
-        <translation type="unfinished"/>
+        <translation>Envoyer</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.cpp" line="322"/>
         <source>Size: %1x%2px; %3 bytes</source>
-        <translation type="unfinished"/>
+        <translation>Taille : %1x%2px ; %3 octets</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.cpp" line="373"/>
         <source>Open Image</source>
-        <translation type="unfinished"/>
+        <translation>Ouvrir l&apos;image</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.cpp" line="373"/>
         <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
-        <translation type="unfinished"/>
+        <translation>Images (*.png *.gif *.jpg *.jpeg *.ico)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.cpp" line="564"/>
         <source>/%1.</source>
-        <translation type="unfinished"/>
+        <translation>/%1.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.cpp" line="566"/>
         <source>Save As</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer sous</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.cpp" line="568"/>
         <source>%1 Files (*.%2);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Fichiers %1 (*.%2);;Tous les fichiers (*)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.cpp" line="636"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.cpp" line="686"/>
         <source>%1.</source>
-        <translation type="unfinished"/>
+        <translation>%1.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.cpp" line="820"/>
         <source>Can&apos;t parse URL (Reply URL: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</source>
-        <translation type="unfinished"/>
+        <translation>Impossible de lire l&apos;URL (URL de réponse : &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.cpp" line="846"/>
         <source>Close Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Fermer</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshot.cpp" line="846"/>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Êtes-vous certain ?</translation>
     </message>
 </context>
 <context>
@@ -19215,32 +19261,32 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshotoptions.ui" line="23"/>
         <source>New Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Nouvelle capture d&apos;écran</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshotoptions.ui" line="29"/>
         <source>Capture the desktop</source>
-        <translation type="unfinished"/>
+        <translation>Capturer le bureau</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshotoptions.ui" line="39"/>
         <source>Capture current window</source>
-        <translation type="unfinished"/>
+        <translation>Capturer la fenêtre courante</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshotoptions.ui" line="46"/>
         <source>Select capture area</source>
-        <translation type="unfinished"/>
+        <translation>Sélectionner la zone de capture</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshotoptions.ui" line="55"/>
         <source>Capture after</source>
-        <translation type="unfinished"/>
+        <translation>Capturer après</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshotoptions.ui" line="65"/>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation>secondes</translation>
     </message>
 </context>
 <context>
@@ -19248,12 +19294,12 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshotplugin.cpp" line="200"/>
         <source>Upload Image</source>
-        <translation type="unfinished"/>
+        <translation>Envoyer l&apos;image</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshotplugin.cpp" line="236"/>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Auteurs : </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshotplugin.cpp" line="237"/>
@@ -19263,14 +19309,21 @@ The plugin has the following settings:
 * Format -- the file format in which the screenshot will be stored (default: .jpg)
 * File Name -- format of the filename (default: pic-yyyyMMdd-hhmmss, where yyyyMMdd=YYYYMMDD, and hhmmss are current date in the format yearmonthday-hourminutesecond)
 The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</source>
-        <translation type="unfinished"/>
+        <translation>Ce greffon permet de faire des captures d&apos;écran et de les enregistrer, ou de les envoyer sur un serveur FTP ou HTTP.
+Il dispose des paramètres suivants :
+* Raccourci -- combinaison de touches pour faire une capture (par défaut, Ctrl+Alt+P) ;
+* Format -- format utilisé pour enregistrer l&apos;image (par défaut, .jpg) ;
+* Nom -- format utilisé pour le nom de fichier (par défaut, pic-aaaaMMjj-hhmmss).
+L&apos;adresse du serveur FTP est spécifiée au format ftp://ftp.domaine.tld/chemin1/chemin2/</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/screenshotplugin/screenshotplugin.cpp" line="243"/>
         <source>
 
 Settings for authorization on some hostings can be found here: http://code.google.com/p/qscreenshot/wiki/Authorization</source>
-        <translation type="unfinished"/>
+        <translation>
+
+Les paramètres d&apos;autorisation de certains hébergeurs peuvent êtres trouvés sur http://code.google.com/p/qscreenshot/wiki/Authorization</translation>
     </message>
 </context>
 <context>
@@ -19333,7 +19386,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
     <message>
         <location filename="../../psi-plus-snapshots/src/search.ui" line="203"/>
         <source>XMPP Address</source>
-        <translation type="unfinished"/>
+        <translation>Adresse XMPP</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/search.ui" line="232"/>
@@ -19619,68 +19672,68 @@ Cause: %1</translation>
     <message>
         <location filename="../tmp/option_translations.cpp" line="3"/>
         <source>Service Discovery</source>
-        <translation type="unfinished"/>
+        <translation>Gestion des Services</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="4"/>
         <source>Add Contact</source>
-        <translation type="unfinished"/>
+        <translation>Ajouter un contact</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="5"/>
         <source>New Message</source>
-        <translation type="unfinished"/>
+        <translation>Nouveau message</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="6"/>
         <source>Join Group Chat</source>
-        <translation type="unfinished"/>
+        <translation>Rejoindre un salon de discussion</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="7"/>
         <source>Account Setup</source>
-        <translation type="unfinished"/>
+        <translation>Configuration du compte</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="8"/>
         <location filename="../tmp/option_translations.cpp" line="15"/>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Options</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="9"/>
         <source>File Transfer</source>
-        <translation type="unfinished"/>
+        <translation>Transfert de fichiers</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="10"/>
         <source>Toolbars</source>
-        <translation type="unfinished"/>
+        <translation>Barres d&apos;outils</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="11"/>
         <source>XML Console</source>
-        <translation type="unfinished"/>
+        <translation>Console XML</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="12"/>
         <source>Change Profile</source>
-        <translation type="unfinished"/>
+        <translation>Changer de profil</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="13"/>
         <source>Play Sounds</source>
-        <translation type="unfinished"/>
+        <translation>Jouer les sons</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="14"/>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Quitter</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="16"/>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>État</translation>
     </message>
     <message>
         <location filename="../tmp/option_translations.cpp" line="17"/>
@@ -20343,12 +20396,12 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     <message>
         <location filename="../../psi-plus-snapshots/src/statusmenu.cpp" line="70"/>
         <source>Presets</source>
-        <translation type="unfinished"/>
+        <translation>Préséléction</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/statusmenu.cpp" line="130"/>
         <source>Edit presets...</source>
-        <translation type="unfinished"/>
+        <translation>Éditer les présélections...</translation>
     </message>
 </context>
 <context>
@@ -20369,13 +20422,13 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
         <location filename="../tmp/src/statusdlg.cpp" line="142"/>
         <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="142"/>
         <source>Set Status for %1</source>
-        <translation type="unfinished"/>
+        <translation>Définir le statut pour %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/statusdlg.cpp" line="149"/>
         <location filename="../../psi-plus-snapshots/src/statusdlg.cpp" line="149"/>
         <source>Set Status for group</source>
-        <translation type="unfinished"/>
+        <translation>Définir le statut pour le groupe</translation>
     </message>
     <message>
         <location filename="../tmp/src/statusdlg.cpp" line="165"/>
@@ -20555,7 +20608,7 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
         <location filename="../tmp/src/tabs/tabdlg.cpp" line="279"/>
         <location filename="../../psi-plus-snapshots/src/tabs/tabdlg.cpp" line="274"/>
         <source>Hide Tab</source>
-        <translation type="unfinished"/>
+        <translation>Masquer l&apos;onglet</translation>
     </message>
     <message>
         <location filename="../tmp/src/tabs/tabdlg.cpp" line="281"/>
@@ -20579,13 +20632,13 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
         <location filename="../tmp/src/tabs/tabdlg.cpp" line="322"/>
         <location filename="../../psi-plus-snapshots/src/tabs/tabdlg.cpp" line="317"/>
         <source>Hide Current Tab</source>
-        <translation type="unfinished"/>
+        <translation>Masquer l&apos;onglet courant</translation>
     </message>
     <message>
         <location filename="../tmp/src/tabs/tabdlg.cpp" line="323"/>
         <location filename="../../psi-plus-snapshots/src/tabs/tabdlg.cpp" line="318"/>
         <source>Hide All Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Masquer tous les onglets</translation>
     </message>
     <message>
         <location filename="../tmp/src/tabs/tabdlg.cpp" line="324"/>
@@ -20778,7 +20831,7 @@ SVP corrigez et réessayez.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/iris/tools/xmpptest/test.ui" line="79"/>
         <source>Pass:</source>
-        <translation>Mot de Passe:</translation>
+        <translation>Mot de passe :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/tools/xmpptest/test.ui" line="100"/>
@@ -20829,7 +20882,7 @@ SVP corrigez et réessayez.</translation>
     <message>
         <location filename="../../psi-plus-snapshots/iris/tools/xmpptest/test.ui" line="173"/>
         <source>User/Pass:</source>
-        <translation>Utilisateur/Mot de passe:</translation>
+        <translation>Utilisateur / Mot de passe :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/iris/tools/xmpptest/test.ui" line="183"/>
@@ -21520,37 +21573,37 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/viewer.cpp" line="45"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="45"/>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Rechercher</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/viewer.cpp" line="46"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="46"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Fermer</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/viewer.cpp" line="47"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="47"/>
         <source>Save Changes</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer les modifications</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/viewer.cpp" line="48"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="48"/>
         <source>Delete Log</source>
-        <translation type="unfinished"/>
+        <translation>Effacer le log</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/viewer.cpp" line="49"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="49"/>
         <source>Update Log</source>
-        <translation type="unfinished"/>
+        <translation>Mettre à jour le log</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/viewer.cpp" line="77"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="77"/>
         <source>Delete log file</source>
-        <translation type="unfinished"/>
+        <translation>Supprimer le fichier de log</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/viewer.cpp" line="78"/>
@@ -21558,7 +21611,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="78"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="104"/>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Êtes-vous certain ?</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/viewer.cpp" line="93"/>
@@ -21566,34 +21619,34 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="93"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="103"/>
         <source>Save log</source>
-        <translation type="unfinished"/>
+        <translation>Enregistrer le log</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/viewer.cpp" line="94"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="94"/>
         <source>New messages has been added to log. If you save your changes, you will lose them</source>
-        <translation type="unfinished"/>
+        <translation>De nouveaux messages ont été ajoutés au log. Si vous sauvegardez vos modifications, ils seront perdus</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/viewer.cpp" line="95"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/viewer.cpp" line="95"/>
         <source>Do you want to save your changes?</source>
-        <translation type="unfinished"/>
+        <translation>Voulez-vous sauvegarder les modifications ?</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/view.cpp" line="71"/>
         <source>Check</source>
-        <translation type="unfinished"/>
+        <translation>Sélectionner</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/view.cpp" line="72"/>
         <source>Uncheck</source>
-        <translation type="unfinished"/>
+        <translation>Désélectionner</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/view.cpp" line="73"/>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Inverser</translation>
     </message>
 </context>
 <context>
@@ -21679,56 +21732,56 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="681"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="717"/>
         <source>Empty item</source>
-        <translation type="unfinished"/>
+        <translation>Élément vide</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="422"/>
         <source> change status to </source>
-        <translation type="unfinished"/>
+        <translation> redéfinir le statut à </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="538"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="578"/>
         <source>Don&apos;t watch for JID</source>
-        <translation type="unfinished"/>
+        <translation>Ne pas surveiller le JID</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="598"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="606"/>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Choisir un fichier audio</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="600"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="608"/>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Audio (*.wav)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="633"/>
         <source>&lt;br&gt;Status Message: %1</source>
-        <translation type="unfinished"/>
+        <translation>&lt;br&gt;Message d&apos;état : %1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="635"/>
         <source>Watcher Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Greffon de surveillance</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="542"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="572"/>
         <source>Watch for JID</source>
-        <translation type="unfinished"/>
+        <translation>Surveiller le JID</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="723"/>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Auteur :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="724"/>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>Courriel :</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="725"/>
