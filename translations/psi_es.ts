@@ -1935,6 +1935,45 @@ La lista de excepciones por JID tiene dos modos de operación:
     </message>
 </context>
 <context>
+    <name>BattleshipGamePlugin</name>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/battleshipgameplugin.cpp" line="268"/>
+        <source>Choose a sound file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/battleshipgameplugin.cpp" line="268"/>
+        <source>Sound (*.wav)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/battleshipgameplugin.cpp" line="299"/>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/battleshipgameplugin.cpp" line="300"/>
+        <source>Email: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/battleshipgameplugin.cpp" line="301"/>
+        <source>This plugin allows you to play battleship with your friends.
+For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/battleshipgameplugin.cpp" line="328"/>
+        <source>Battleship game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/battleshipgameplugin.cpp" line="415"/>
+        <source>Battleship game!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BookmarkManage</name>
     <message>
         <location filename="../../psi-plus-snapshots/src/bookmarkmanage.ui" line="13"/>
@@ -7033,6 +7072,22 @@ Perderás el juego.</translation>
     </message>
 </context>
 <context>
+    <name>GameSession</name>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/gamesessions.cpp" line="433"/>
+        <source>%1: Invitation from %2</source>
+        <translation type="unfinished">%1: invitación de %2</translation>
+    </message>
+</context>
+<context>
+    <name>GameSessionList</name>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/gamesessions.cpp" line="213"/>
+        <source>From: %1&lt;br /&gt;The game was rejected</source>
+        <translation type="unfinished">De: %1&lt;br /&gt;El juego fue rechazado</translation>
+    </message>
+</context>
+<context>
     <name>GameSessions</name>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gamesessions.cpp" line="95"/>
@@ -8930,18 +8985,21 @@ disponible</translation>
         <translation>Complemento Ajedrez - Invitación</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/invitationdialog.ui" line="48"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/invitationdialog.ui" line="48"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/invitationdialog.ui" line="48"/>
         <source>Accept</source>
         <translation>Aceptar</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/invitationdialog.ui" line="55"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/invitationdialog.ui" line="55"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/invitationdialog.ui" line="55"/>
         <source>Reject</source>
         <translation>Rechazar</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/invitationdialog.ui" line="20"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/invitationdialog.ui" line="20"/>
         <source>Gomoku Game Plugin - Invitation</source>
         <translation>Complemento Juego Gomoku - Invitación</translation>
@@ -8972,6 +9030,24 @@ to play gomoku. He wants to play %2.</source>
         <translation>El jugador %1 te ha invitado 
 a jugar gomoku. Quiere jugar %2.</translation>
     </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/invitedialog.cpp" line="79"/>
+        <source>second</source>
+        <comment>He wants to play second</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/invitedialog.cpp" line="81"/>
+        <source>first</source>
+        <comment>He wants to play first</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/invitedialog.cpp" line="83"/>
+        <source>Player %1 invites you 
+to play battleship. He wants to play %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InviteDialog</name>
@@ -8981,9 +9057,35 @@ a jugar gomoku. Quiere jugar %2.</translation>
         <translation>Invitación</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/invitedialog.ui" line="14"/>
+        <source>Battliship Game Plugin - Invite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/invitedialog.ui" line="22"/>
+        <source>Opponent:</source>
+        <translation type="unfinished">Oponente:</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/invitedialog.ui" line="42"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/invitedialog.ui" line="28"/>
         <source>Select resource:</source>
         <translation>Seleccione el recurso:</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/invitedialog.ui" line="89"/>
+        <source>I want to play first</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/invitedialog.ui" line="96"/>
+        <source>I want to play second</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/invitedialog.ui" line="103"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancelar</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/invitedialog.ui" line="75"/>
@@ -13774,19 +13876,72 @@ Por favor inserta tu contraseña abajo:</translation>
         <translation>Juego Gomoku</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="14"/>
+        <source>Battleship game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="29"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="23"/>
         <source>Opponent:</source>
         <translation>Oponente:</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="59"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="66"/>
         <source>Status:</source>
         <translation>Estado:</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="126"/>
+        <source>Freeze ships position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="136"/>
+        <source>Press button and make move if you want to propose draw</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="139"/>
+        <source>Propose a draw</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="152"/>
+        <source>Press button if you want to accept the draw proposal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="155"/>
+        <source>Accept the draw proposal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="165"/>
+        <source>Press button if you want to resign</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="168"/>
+        <source>Resign the game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="197"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="244"/>
         <source>Game</source>
         <translation>Juego</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="214"/>
+        <source>--</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="219"/>
+        <source>Exit</source>
+        <translation type="unfinished">Salir</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="248"/>
@@ -13794,11 +13949,13 @@ Por favor inserta tu contraseña abajo:</translation>
         <translation>Piel</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="189"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="259"/>
         <source>File</source>
         <translation>Archivo</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="209"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="273"/>
         <source>New game</source>
         <translation>Nuevo juego</translation>
@@ -13821,6 +13978,7 @@ Por favor inserta tu contraseña abajo:</translation>
         <translation>Salir</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="227"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="293"/>
         <source>Resign</source>
         <translation>Dimitir</translation>
@@ -13841,19 +13999,32 @@ Por favor inserta tu contraseña abajo:</translation>
         <translation>Madera amarilla</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.cpp" line="160"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="140"/>
         <source>Waiting for opponent</source>
         <translation>Esperando por el oponente</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.cpp" line="158"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="144"/>
         <source>Waiting for accept</source>
         <translation>Esperando por aceptación</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.cpp" line="153"/>
+        <source>Setting ships position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.cpp" line="156"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="147"/>
         <source>Your turn</source>
         <translation>Tu turno</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.cpp" line="166"/>
+        <source>Draw</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="152"/>
@@ -13861,6 +14032,7 @@ Por favor inserta tu contraseña abajo:</translation>
         <translation>Fin del juego</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.cpp" line="168"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="155"/>
         <source>Error</source>
         <translation>Error</translation>
@@ -13928,11 +14100,13 @@ Todavía puedes guardar el juego.</translation>
         <translation>¿Deseas cambiar de color?</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.cpp" line="164"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="349"/>
         <source>You Lose.</source>
         <translation>Has perdido.</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.cpp" line="162"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="382"/>
         <source>You Win!</source>
         <translation>¡Has ganado!</translation>
@@ -16290,7 +16464,7 @@ Puede significar que ya estás ejecutando otra instancia de Psi. Puede que exper
 <context>
     <name>PsiContactListViewDelegate</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psicontactlistviewdelegate.cpp" line="274"/>
+        <location filename="../../psi-plus-snapshots/src/psicontactlistviewdelegate.cpp" line="306"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
@@ -22665,6 +22839,7 @@ Do you still want to close the window?</source>
 <context>
     <name>options</name>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/options.ui" line="14"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/options.ui" line="14"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="14"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieoptions.ui" line="14"/>
@@ -22672,52 +22847,70 @@ Do you still want to close the window?</source>
         <translation>Form</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/options.ui" line="20"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/options.ui" line="20"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="20"/>
         <source>Select Sounds:</source>
         <translation>Seleccionar sonidos:</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/options.ui" line="31"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/options.ui" line="31"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="31"/>
         <source>Game started:</source>
         <translation>Juego iniciado:</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/options.ui" line="38"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/options.ui" line="38"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="38"/>
         <source>Game finished:</source>
         <translation>Juego terminado:</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/options.ui" line="45"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/options.ui" line="45"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="45"/>
         <source>Your turn:</source>
         <translation>Tu turno:</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/options.ui" line="52"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/options.ui" line="52"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="52"/>
         <source>Error message:</source>
         <translation>Mensaje de error:</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/options.ui" line="211"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/options.ui" line="211"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="211"/>
         <source>If checked, the sound will always enabled (or disabled)</source>
         <translation>Si se selecciona, el sonido siempre estará habilitado (o inhabilitado)</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/options.ui" line="214"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/options.ui" line="214"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="214"/>
         <source>Override default sound settings</source>
         <translation>Sobrescribir configuraciones de sonido por defecto</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/options.ui" line="221"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/options.ui" line="221"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="221"/>
         <source>Disable invitations if status is DND</source>
         <translation>Inhabilitar invitaciones si el estado es No molestar</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/options.ui" line="228"/>
+        <source>Disable invitations from conference</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/options.ui" line="252"/>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="228"/>
@@ -22725,11 +22918,13 @@ Do you still want to close the window?</source>
         <translation>Inhabilitar invitaciones de salas de charla</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/options.ui" line="235"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="235"/>
         <source>Save window height and width</source>
         <translation>Guardiar alto y ancho de la ventana</translation>
     </message>
     <message>
+        <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/options.ui" line="242"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="242"/>
         <source>Save window position</source>
         <translation>Guardar posición de la ventana</translation>
