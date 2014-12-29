@@ -295,7 +295,7 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@mail.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;https://www.transifex.com/projects/p/psi-plus/&quot;&gt;Transifex&lt;/a&gt; и здесь: &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 01.12.2014</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@mail.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;https://www.transifex.com/projects/p/psi-plus/&quot;&gt;Transifex&lt;/a&gt; и здесь: &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 29.12.2014</translation>
     </message>
 </context>
 <context>
@@ -1918,38 +1918,40 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/battleshipgameplugin.cpp" line="268"/>
         <source>Choose a sound file</source>
-        <translation type="unfinished">Выбрать звуковой файл</translation>
+        <translation>Выбрать звуковой файл</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/battleshipgameplugin.cpp" line="268"/>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished">Звуковой файл (*.wav)</translation>
+        <translation>Звуковой файл (*.wav)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/battleshipgameplugin.cpp" line="299"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Автор: </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/battleshipgameplugin.cpp" line="300"/>
         <source>Email: </source>
-        <translation type="unfinished">E-Mail: </translation>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/battleshipgameplugin.cpp" line="301"/>
         <source>This plugin allows you to play battleship with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данный плагин позволяет Вам играть в Морской бой с Вашими друзьями.
+Для отправки комманд используются обычные сообщения, поэтому он будет работать всегда, когда Вы можете авторизоваться на своём Jabber-сервере.
+Для того, чтобы пригласить друга в игру, Вы можете использовать пункт меню непосредственно на контакте или кнопку на панели окна чата.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/battleshipgameplugin.cpp" line="328"/>
         <source>Battleship game</source>
-        <translation type="unfinished"></translation>
+        <translation>Морской бой</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/battleshipgameplugin.cpp" line="415"/>
         <source>Battleship game!</source>
-        <translation type="unfinished"></translation>
+        <translation>Морской бой!</translation>
     </message>
 </context>
 <context>
@@ -7063,7 +7065,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/gamesessions.cpp" line="433"/>
         <source>%1: Invitation from %2</source>
-        <translation type="unfinished">%1: Приглашение от %2</translation>
+        <translation>%1: Приглашение от %2</translation>
     </message>
 </context>
 <context>
@@ -7071,7 +7073,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/gamesessions.cpp" line="213"/>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
-        <translation type="unfinished">От: %1&lt;br /&gt;Игра была отклонена</translation>
+        <translation>От: %1&lt;br /&gt;Игра была отклонена</translation>
     </message>
 </context>
 <context>
@@ -9021,19 +9023,20 @@ to play gomoku. He wants to play %2.</source>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/invitedialog.cpp" line="79"/>
         <source>second</source>
         <comment>He wants to play second</comment>
-        <translation type="unfinished"></translation>
+        <translation>вторым</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/invitedialog.cpp" line="81"/>
         <source>first</source>
         <comment>He wants to play first</comment>
-        <translation type="unfinished"></translation>
+        <translation>первым</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/invitedialog.cpp" line="83"/>
         <source>Player %1 invites you 
 to play battleship. He wants to play %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Игрок %1 приглашает 
+поиграть в Морской бой. И он хочет играть %2.</translation>
     </message>
 </context>
 <context>
@@ -9046,12 +9049,12 @@ to play battleship. He wants to play %2.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/invitedialog.ui" line="14"/>
         <source>Battliship Game Plugin - Invite</source>
-        <translation type="unfinished"></translation>
+        <translation>Приглашение поиграть в Морской бой</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/invitedialog.ui" line="22"/>
         <source>Opponent:</source>
-        <translation type="unfinished">Противник:</translation>
+        <translation>Противник:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/invitedialog.ui" line="42"/>
@@ -9062,17 +9065,17 @@ to play battleship. He wants to play %2.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/invitedialog.ui" line="89"/>
         <source>I want to play first</source>
-        <translation type="unfinished"></translation>
+        <translation>Хочу играть первым</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/invitedialog.ui" line="96"/>
         <source>I want to play second</source>
-        <translation type="unfinished"></translation>
+        <translation>Хочу играть вторым</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/invitedialog.ui" line="103"/>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/invitedialog.ui" line="75"/>
@@ -13865,7 +13868,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="14"/>
         <source>Battleship game</source>
-        <translation type="unfinished"></translation>
+        <translation>Морской бой</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="29"/>
@@ -13882,37 +13885,37 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="126"/>
         <source>Freeze ships position</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрепить позиции кораблей</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="136"/>
         <source>Press button and make move if you want to propose draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите кнопку и сделайте шаг, если вы хотите предложить ничью</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="139"/>
         <source>Propose a draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Предложить ничью</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="152"/>
         <source>Press button if you want to accept the draw proposal</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите кнопку, если вы согласны принять ничью</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="155"/>
         <source>Accept the draw proposal</source>
-        <translation type="unfinished"></translation>
+        <translation>Согласиться на ничью</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="165"/>
         <source>Press button if you want to resign</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите кнопку, если Вы хотите прекратить игру</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="168"/>
         <source>Resign the game</source>
-        <translation type="unfinished"></translation>
+        <translation>Прекратить игру</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="197"/>
@@ -13923,12 +13926,12 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="214"/>
         <source>--</source>
-        <translation type="unfinished"></translation>
+        <translation>--</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="219"/>
         <source>Exit</source>
-        <translation type="unfinished">Выход</translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="248"/>
@@ -14000,7 +14003,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.cpp" line="153"/>
         <source>Setting ships position</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроить позиции кораблей</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.cpp" line="156"/>
@@ -14011,7 +14014,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.cpp" line="166"/>
         <source>Draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Ничья</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="152"/>
@@ -22914,12 +22917,12 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/options.ui" line="228"/>
         <source>Disable invitations from conference</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить приглашения из конференций</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/options.ui" line="252"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/options.ui" line="228"/>
