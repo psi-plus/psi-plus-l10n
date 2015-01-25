@@ -227,7 +227,7 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="136"/>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="139"/>
         <source>Graphics</source>
-        <translation>Графики</translation>
+        <translation>Графика</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="142"/>
@@ -266,7 +266,7 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="171"/>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="174"/>
         <source>Sponsor</source>
-        <translation type="unfinished"></translation>
+        <translation>Спонсор</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="177"/>
@@ -297,7 +297,7 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountadd.ui" line="16"/>
         <source>Add Account</source>
-        <translation>Добавяне на сметка</translation>
+        <translation>Добавяне на профил</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountadd.ui" line="48"/>
@@ -2256,7 +2256,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="83"/>
         <source>Country:</source>
-        <translation type="unfinished"></translation>
+        <translation>Държава:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/Certificates/CertificateDisplayDialog.cpp" line="84"/>
@@ -2315,7 +2315,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="80"/>
         <source>You must fill out the fields properly before you can proceed.</source>
-        <translation>Трябва да попълните правилно полетата, преди да продължите.</translation>
+        <translation>За да продължите трябва да правилно да попълните полетата.</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/changepwdlg.cpp" line="85"/>
@@ -7195,7 +7195,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="84"/>
         <source>Country:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Държава:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/geolocation.ui" line="91"/>
@@ -8615,7 +8615,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <location filename="../../psi-plus-snapshots/src/info.ui" line="324"/>
         <source>Country:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Държава:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/info.ui" line="331"/>
@@ -9904,10 +9904,6 @@ Details: %1</source>
 </context>
 <context>
     <name>Model</name>
-    <message>
-        <source>Type</source>
-        <translation type="obsolete">Вид</translation>
-    </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/model.cpp" line="27"/>
         <source>Enable/Disable</source>
@@ -16427,10 +16423,6 @@ This may mean you are already running another instance of Psi. You may experienc
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="471"/>
         <source>&amp;Authorization</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Log on</source>
-        <translation type="obsolete">&amp;Включване</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psicontactmenu.cpp" line="370"/>
