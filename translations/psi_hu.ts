@@ -10849,29 +10849,49 @@ Tags: %1</source>
         <translation>OptPuginsUI</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="37"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="62"/>
+        <source>Plugin Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="65"/>
+        <source>Available plugins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="73"/>
+        <source>Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="81"/>
+        <source>A</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="86"/>
+        <source>S</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Plugin Name:</source>
-        <translation>Kiegészítő neve:</translation>
+        <translation type="vanished">Kiegészítő neve:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="79"/>
         <source>Version: 0</source>
-        <translation>Verzió: 0</translation>
+        <translation type="vanished">Verzió: 0</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="89"/>
         <source>Load this plugin</source>
-        <translation>Kiegészítő betöltése</translation>
+        <translation type="vanished">Kiegészítő betöltése</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="113"/>
         <source>Plugin Location:</source>
-        <translation>Kiegészítő helye:</translation>
+        <translation type="vanished">Kiegészítő helye:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="123"/>
         <source>No plugin selected</source>
-        <translation>Nincs kiegészítő kiválasztva</translation>
+        <translation type="vanished">Nincs kiegészítő kiválasztva</translation>
     </message>
 </context>
 <context>
@@ -12870,24 +12890,43 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
 <context>
     <name>OptionsTabPlugins</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="27"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="24"/>
         <source>Plugins</source>
         <translation>Kiegészítők</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="27"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="24"/>
         <source>Options for Psi plugins</source>
         <translation>Psi kiegészítők beállítása</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="146"/>
-        <source>No plugin selected.</source>
-        <translation>Nincs kiválasztva kiegészítő.</translation>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="83"/>
+        <source>Plugin Path:
+%1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="158"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="102"/>
+        <source>Show information about plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="110"/>
+        <source>Open plugin settings dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="193"/>
+        <source>Settings of %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No plugin selected.</source>
+        <translation type="vanished">Nincs kiválasztva kiegészítő.</translation>
+    </message>
+    <message>
         <source>Version: </source>
-        <translation type="unfinished">Verzió:</translation>
+        <translation type="obsolete">Verzió:</translation>
     </message>
 </context>
 <context>
@@ -13710,9 +13749,13 @@ Kérlek írd be a jelszavadat:</translation>
 <context>
     <name>PluginInfoDialog</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/plugininfodialog.ui" line="32"/>
         <source>Information</source>
-        <translation type="unfinished">Információ</translation>
+        <translation type="obsolete">Információ</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/plugininfodialog.ui" line="32"/>
+        <source>About</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/plugininfodialog.ui" line="69"/>
@@ -13725,6 +13768,14 @@ Kérlek írd be a jelszavadat:</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/pluginmanager.cpp" line="348"/>
         <source>This plugin has no user configurable options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PluginSettingsDialog</name>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/pluginsettsdialog.ui" line="17"/>
+        <source>SettingsDialog</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

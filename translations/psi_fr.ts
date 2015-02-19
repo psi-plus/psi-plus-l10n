@@ -10906,29 +10906,49 @@ Labels : %1</translation>
         <translation>Interface utilisateur pour les greffons</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="37"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="62"/>
+        <source>Plugin Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="65"/>
+        <source>Available plugins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="73"/>
+        <source>Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="81"/>
+        <source>A</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="86"/>
+        <source>S</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Plugin Name:</source>
-        <translation>Nom du greffon :</translation>
+        <translation type="vanished">Nom du greffon :</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="79"/>
         <source>Version: 0</source>
-        <translation>Version : 0</translation>
+        <translation type="vanished">Version : 0</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="89"/>
         <source>Load this plugin</source>
-        <translation>Charger ce greffon</translation>
+        <translation type="vanished">Charger ce greffon</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="113"/>
         <source>Plugin Location:</source>
-        <translation>Emplacement du greffon :</translation>
+        <translation type="vanished">Emplacement du greffon :</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="123"/>
         <source>No plugin selected</source>
-        <translation>Aucun greffon sélectionné</translation>
+        <translation type="vanished">Aucun greffon sélectionné</translation>
     </message>
 </context>
 <context>
@@ -12927,24 +12947,43 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
 <context>
     <name>OptionsTabPlugins</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="27"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="24"/>
         <source>Plugins</source>
         <translation>Greffons</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="27"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="24"/>
         <source>Options for Psi plugins</source>
         <translation>Options pour les greffons de Psi</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="146"/>
-        <source>No plugin selected.</source>
-        <translation>Aucun greffon sélectionné.</translation>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="83"/>
+        <source>Plugin Path:
+%1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="158"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="102"/>
+        <source>Show information about plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="110"/>
+        <source>Open plugin settings dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="193"/>
+        <source>Settings of %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No plugin selected.</source>
+        <translation type="vanished">Aucun greffon sélectionné.</translation>
+    </message>
+    <message>
         <source>Version: </source>
-        <translation>Version : </translation>
+        <translation type="vanished">Version : </translation>
     </message>
 </context>
 <context>
@@ -13767,9 +13806,13 @@ Veuillez saisir votre mot de passe ci-dessous :</translation>
 <context>
     <name>PluginInfoDialog</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/plugininfodialog.ui" line="32"/>
         <source>Information</source>
-        <translation type="unfinished">Information</translation>
+        <translation type="obsolete">Information</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/plugininfodialog.ui" line="32"/>
+        <source>About</source>
+        <translation type="unfinished">À propos</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/plugininfodialog.ui" line="69"/>
@@ -13782,6 +13825,14 @@ Veuillez saisir votre mot de passe ci-dessous :</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/pluginmanager.cpp" line="348"/>
         <source>This plugin has no user configurable options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PluginSettingsDialog</name>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/pluginsettsdialog.ui" line="17"/>
+        <source>SettingsDialog</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

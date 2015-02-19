@@ -11001,29 +11001,49 @@ Tags: %1</source>
         <translation>选择性插件接口</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="37"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="62"/>
+        <source>Plugin Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="65"/>
+        <source>Available plugins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="73"/>
+        <source>Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="81"/>
+        <source>A</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="86"/>
+        <source>S</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Plugin Name:</source>
-        <translation>插件名称:</translation>
+        <translation type="vanished">插件名称:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="79"/>
         <source>Version: 0</source>
-        <translation>版本:0</translation>
+        <translation type="vanished">版本:0</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="89"/>
         <source>Load this plugin</source>
-        <translation>载入这个插件</translation>
+        <translation type="vanished">载入这个插件</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="113"/>
         <source>Plugin Location:</source>
-        <translation>插件位置:</translation>
+        <translation type="vanished">插件位置:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="123"/>
         <source>No plugin selected</source>
-        <translation>没有插件被选择</translation>
+        <translation type="vanished">没有插件被选择</translation>
     </message>
 </context>
 <context>
@@ -13027,24 +13047,43 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
 <context>
     <name>OptionsTabPlugins</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="27"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="24"/>
         <source>Plugins</source>
         <translation>插件</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="27"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="24"/>
         <source>Options for Psi plugins</source>
         <translation>Psi 插件选项</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="146"/>
-        <source>No plugin selected.</source>
-        <translation>没有插件被选择。</translation>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="83"/>
+        <source>Plugin Path:
+%1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="158"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="102"/>
+        <source>Show information about plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="110"/>
+        <source>Open plugin settings dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="193"/>
+        <source>Settings of %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No plugin selected.</source>
+        <translation type="vanished">没有插件被选择。</translation>
+    </message>
+    <message>
         <source>Version: </source>
-        <translation>版本:</translation>
+        <translation type="vanished">版本:</translation>
     </message>
 </context>
 <context>
@@ -13867,9 +13906,13 @@ Please enter your passphrase below:</source>
 <context>
     <name>PluginInfoDialog</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/plugininfodialog.ui" line="32"/>
         <source>Information</source>
-        <translation>资料</translation>
+        <translation type="vanished">资料</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/plugininfodialog.ui" line="32"/>
+        <source>About</source>
+        <translation type="unfinished">关于</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/plugininfodialog.ui" line="69"/>
@@ -13883,6 +13926,14 @@ Please enter your passphrase below:</source>
         <location filename="../../psi-plus-snapshots/src/pluginmanager.cpp" line="348"/>
         <source>This plugin has no user configurable options</source>
         <translation>这个插件没有用户可以设置的选项</translation>
+    </message>
+</context>
+<context>
+    <name>PluginSettingsDialog</name>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/pluginsettsdialog.ui" line="17"/>
+        <source>SettingsDialog</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

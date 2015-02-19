@@ -10916,29 +10916,49 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="37"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="62"/>
+        <source>Plugin Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="65"/>
+        <source>Available plugins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="73"/>
+        <source>Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="81"/>
+        <source>A</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="86"/>
+        <source>S</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Plugin Name:</source>
-        <translation>שם תוספת:</translation>
+        <translation type="vanished">שם תוספת:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="79"/>
         <source>Version: 0</source>
-        <translation>גרסא: 0</translation>
+        <translation type="vanished">גרסא: 0</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="89"/>
         <source>Load this plugin</source>
-        <translation>טען תוספת זו</translation>
+        <translation type="vanished">טען תוספת זו</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="113"/>
         <source>Plugin Location:</source>
-        <translation>מיקום תוספת:</translation>
+        <translation type="vanished">מיקום תוספת:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="123"/>
         <source>No plugin selected</source>
-        <translation>לא נבחרה תוספת</translation>
+        <translation type="vanished">לא נבחרה תוספת</translation>
     </message>
 </context>
 <context>
@@ -12937,24 +12957,43 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
 <context>
     <name>OptionsTabPlugins</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="27"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="24"/>
         <source>Plugins</source>
         <translation>תוספות</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="27"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="24"/>
         <source>Options for Psi plugins</source>
         <translation>אפשרויות עבור תוספות Psi</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="146"/>
-        <source>No plugin selected.</source>
-        <translation>לא נבחרה תוספת.</translation>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="83"/>
+        <source>Plugin Path:
+%1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="158"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="102"/>
+        <source>Show information about plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="110"/>
+        <source>Open plugin settings dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="193"/>
+        <source>Settings of %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No plugin selected.</source>
+        <translation type="vanished">לא נבחרה תוספת.</translation>
+    </message>
+    <message>
         <source>Version: </source>
-        <translation>גרסא: </translation>
+        <translation type="vanished">גרסא: </translation>
     </message>
 </context>
 <context>
@@ -13777,9 +13816,13 @@ Please enter your passphrase below:</source>
 <context>
     <name>PluginInfoDialog</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/plugininfodialog.ui" line="32"/>
         <source>Information</source>
-        <translation>מידע</translation>
+        <translation type="vanished">מידע</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/plugininfodialog.ui" line="32"/>
+        <source>About</source>
+        <translation type="unfinished">אודות</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/plugininfodialog.ui" line="69"/>
@@ -13792,6 +13835,14 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/pluginmanager.cpp" line="348"/>
         <source>This plugin has no user configurable options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PluginSettingsDialog</name>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/pluginsettsdialog.ui" line="17"/>
+        <source>SettingsDialog</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

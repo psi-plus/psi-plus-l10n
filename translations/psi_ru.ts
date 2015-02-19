@@ -10964,29 +10964,49 @@ Tags: %1</source>
         <translation>OptPluginsUI</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="37"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="62"/>
+        <source>Plugin Name</source>
+        <translation>Название</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="65"/>
+        <source>Available plugins</source>
+        <translation>Доступные плагины</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="73"/>
+        <source>Version</source>
+        <translation>Версия</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="81"/>
+        <source>A</source>
+        <translation>A</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="86"/>
+        <source>S</source>
+        <translation>A</translation>
+    </message>
+    <message>
         <source>Plugin Name:</source>
-        <translation>Название:</translation>
+        <translation type="vanished">Название:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="79"/>
         <source>Version: 0</source>
-        <translation>Версия: 0</translation>
+        <translation type="vanished">Версия: 0</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="89"/>
         <source>Load this plugin</source>
-        <translation>Активировать</translation>
+        <translation type="vanished">Активировать</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="113"/>
         <source>Plugin Location:</source>
-        <translation>Расположение:</translation>
+        <translation type="vanished">Расположение:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="123"/>
         <source>No plugin selected</source>
-        <translation>Плагин не выбран</translation>
+        <translation type="vanished">Плагин не выбран</translation>
     </message>
 </context>
 <context>
@@ -13000,24 +13020,44 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
 <context>
     <name>OptionsTabPlugins</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="27"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="24"/>
         <source>Plugins</source>
         <translation>Плагины</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="27"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="24"/>
         <source>Options for Psi plugins</source>
         <translation>Настройка плагинов</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="146"/>
-        <source>No plugin selected.</source>
-        <translation>Плагин не выбран.</translation>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="83"/>
+        <source>Plugin Path:
+%1</source>
+        <translation>Расположение:
+%1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="158"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="102"/>
+        <source>Show information about plugin</source>
+        <translation>Показать информацию о плагине</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="110"/>
+        <source>Open plugin settings dialog</source>
+        <translation>Настройка плагина</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="193"/>
+        <source>Settings of %1</source>
+        <translation>Настройки %1</translation>
+    </message>
+    <message>
+        <source>No plugin selected.</source>
+        <translation type="vanished">Плагин не выбран.</translation>
+    </message>
+    <message>
         <source>Version: </source>
-        <translation>Версия: </translation>
+        <translation type="vanished">Версия: </translation>
     </message>
 </context>
 <context>
@@ -13840,9 +13880,13 @@ Please enter your passphrase below:</source>
 <context>
     <name>PluginInfoDialog</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/plugininfodialog.ui" line="32"/>
         <source>Information</source>
-        <translation>Информация</translation>
+        <translation type="vanished">Информация</translation>
+    </message>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/plugininfodialog.ui" line="32"/>
+        <source>About</source>
+        <translation>О программе</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/plugininfodialog.ui" line="69"/>
@@ -13856,6 +13900,14 @@ Please enter your passphrase below:</source>
         <location filename="../../psi-plus-snapshots/src/pluginmanager.cpp" line="348"/>
         <source>This plugin has no user configurable options</source>
         <translation>Данный плагин не имеет опций для настройки пользователем</translation>
+    </message>
+</context>
+<context>
+    <name>PluginSettingsDialog</name>
+    <message>
+        <location filename="../../psi-plus-snapshots/src/options/pluginsettsdialog.ui" line="17"/>
+        <source>SettingsDialog</source>
+        <translation>Диалог настроек</translation>
     </message>
 </context>
 <context>
