@@ -9982,7 +9982,7 @@ Incoming event(s) from:</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chess/mainwindow.cpp" line="129"/>
         <source>About</source>
-        <translation>О программе</translation>
+        <translation>О плагине</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chess/mainwindow.cpp" line="129"/>
@@ -13027,7 +13027,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="24"/>
         <source>Options for Psi plugins</source>
-        <translation>Настройка плагинов</translation>
+        <translation>Настройки плагинов</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="83"/>
@@ -13044,7 +13044,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="110"/>
         <source>Open plugin settings dialog</source>
-        <translation>Настройка плагина</translation>
+        <translation>Настройки плагина</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="195"/>
@@ -13886,7 +13886,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/plugininfodialog.ui" line="32"/>
         <source>About</source>
-        <translation>О программе</translation>
+        <translation>О плагине</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/plugininfodialog.ui" line="69"/>
@@ -14055,7 +14055,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.cpp" line="153"/>
         <source>Setting ships position</source>
-        <translation>Настроить позиции кораблей</translation>
+        <translation>Настройка позиций кораблей</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.cpp" line="156"/>
