@@ -5120,552 +5120,552 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
 <context>
     <name>ExtendedOptions</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="281"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="639"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="280"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="636"/>
         <source>Chat</source>
         <translation>對話</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="283"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="282"/>
         <source>Tabs</source>
         <translation>標籤</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="284"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="355"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="640"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="283"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="352"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="637"/>
         <source>Roster</source>
         <translation>花名冊</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="285"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="284"/>
         <source>Menu</source>
         <translation>菜單</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="286"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="285"/>
         <source>Look</source>
         <translation>查看</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="287"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="286"/>
         <source>CSS</source>
         <translation>CSS</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="288"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="287"/>
         <source>Misc</source>
         <translation>混雜的</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="295"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="292"/>
         <source>Ask for confirmation before clearing chat window</source>
         <translation>清除聊天窗口前請確認</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="296"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="293"/>
         <source>Enable icons in chat</source>
         <translation>啟用聊天圖示</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="297"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="294"/>
         <source>Scaled message icons</source>
         <translation>規模資訊圖示</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="301"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="298"/>
         <source>Show Avatar</source>
         <translation>顯示頭像</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="302"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="299"/>
         <source>Enable &quot;Says style&quot;</source>
         <translation>啟用談話風格</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="303"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="300"/>
         <source>Hide &quot;Send&quot; button</source>
         <translation>隱藏“發送”按紐</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="307"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="304"/>
         <source>Avatar size:</source>
         <translation>頭像尺寸:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="312"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="309"/>
         <source>Default JID mode:</source>
         <translation>預設JID模式:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="316"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="313"/>
         <source>Automatically capitalize the first letter in a sentence</source>
         <translation>自動大寫句子的第一個字母</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="317"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="314"/>
         <source>Automatically scroll down the log when a message was sent</source>
         <translation>當發送消息時，日誌自動向下滾動</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="318"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="362"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="315"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="359"/>
         <source>Show status changes</source>
         <translation>顯示狀態的變化</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="319"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="316"/>
         <source>Show status priority</source>
         <translation>顯示狀態優先</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="326"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="323"/>
         <source>Chat window caption:</source>
         <translation>聊天窗口標題:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="337"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="334"/>
         <source>Default JID mode ignore list:</source>
         <translation>預設忽略清單的JID模式:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="354"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="351"/>
         <source>General</source>
         <translation>通常</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="358"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="355"/>
         <source>Show joins</source>
         <translation>顯示加入</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="359"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="356"/>
         <source>Show initial joins</source>
         <translation>顯示初始加入</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="360"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="357"/>
         <source>Show status with priority</source>
         <translation>顯示優先狀態</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="361"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="358"/>
         <source>Show roles and affiliations changes</source>
         <translation>顯示角色和關係的變化</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="369"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="366"/>
         <source>Automatically accept the default room configuration</source>
         <translation>自動接受預設配置</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="370"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="367"/>
         <source>Automatically accept the default room configuration when a new room is created</source>
         <translation>當創建新的房間時，自動接受預設的房間配置</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="371"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="368"/>
         <source>Automatically open the configuration dialog when a new room is created</source>
         <translation>當創建一個新房間時，自動打開配置對話方塊</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="372"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="369"/>
         <source>Automatically open the configuration dialog when a new room is created.
 This option only has effect if accept-defaults is false.</source>
         <translation>當創建一個新房間時，自動打開配置對話方塊
 如果預設接受是假的，才影響該選項</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="282"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="281"/>
         <source>Groupchat</source>
         <translation>群組</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="363"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="360"/>
         <source>Enable autojoin for bookmarked groupchats</source>
         <translation>啟用自動聯接書簽群聊</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="364"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="361"/>
         <source>Hide groupchat on auto-join</source>
         <translation>隱藏自動加入群聊</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="365"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="362"/>
         <source>Enable HTML rendering in groupchat chat window</source>
         <translation>在群聊的聊天窗口啟用HTML翻譯</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="366"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="363"/>
         <source>Allow groupchat highlight events</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="390"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="387"/>
         <source>Disable autojoin to folowing groupchats:
 (specify JIDs)</source>
         <translation>禁用自動聯接如下群聊:(指定JID的)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="392"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="389"/>
         <source>Groupchat leave status message:</source>
         <translation>群聊保留狀態資訊</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="397"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="394"/>
         <source>Place groupchat roster at left</source>
         <translation>放置群聊名單到左側</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="398"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="395"/>
         <source>Show groups</source>
         <translation>顯示組</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="399"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="396"/>
         <source>Use slim group heading</source>
         <translation>使用超薄組標題</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="400"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="447"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="397"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="444"/>
         <source>Show status icons</source>
         <translation>顯示狀態圖示</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="401"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="398"/>
         <source>Show affiliation icons</source>
         <translation>顯示加入圖示</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="402"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="399"/>
         <source>Show client icons</source>
         <translation>顯示用戶端圖示</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="404"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="401"/>
         <source>Show avatars</source>
         <translation>顯示頭像</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="405"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="445"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="402"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="442"/>
         <source>Place avatars at left</source>
         <translation>在左側放置頭像</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="411"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="473"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="408"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="470"/>
         <source>Sort style for contacts:</source>
         <translation>排序方式接觸:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="415"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="412"/>
         <source>Avatars size:</source>
         <translation>頭像尺寸:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="419"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="416"/>
         <source>Avatars radius:</source>
         <translation>頭像半徑:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="441"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="438"/>
         <source>Resolve nicks on contact add</source>
         <translation>解決造成的接觸增加</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="442"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="439"/>
         <source>Lockdown roster</source>
         <translation>鎖定名冊</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="443"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="440"/>
         <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
         <translation>在左側以&quot;all-in-one-window&quot;模式放置名冊</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="444"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="441"/>
         <source>Contact name and status message in a row</source>
         <translation>連絡人姓名和狀態資訊在一排</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="446"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="443"/>
         <source>If contact does not have avatar, use default avatar</source>
         <translation>如果連絡人沒有頭像，則使用默認的頭像</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="448"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="445"/>
         <source>Place status icon over avatar</source>
         <translation>在圖像上方放置狀態圖示</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="450"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="447"/>
         <source>Automatically remove temporary contacts</source>
         <translation>自動刪除臨時連絡人</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="453"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="450"/>
         <source>Tooltips:</source>
         <translation>工具提示:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="456"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="453"/>
         <source>Show avatar</source>
         <translation>顯示頭像</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="457"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="454"/>
         <source>Show last status</source>
         <translation>顯示最後狀態</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="458"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="455"/>
         <source>Show PGP</source>
         <translation>顯示PGP</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="459"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="456"/>
         <source>Show client version</source>
         <translation>顯示用戶端版本</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="460"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="457"/>
         <source>Show geolocation</source>
         <translation>顯示地理位置</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="492"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="489"/>
         <source>Show &quot;Admin&quot; option in account menu</source>
         <translation>在帳戶功能表裡顯示“管理”選項</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="493"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="490"/>
         <source>Show &quot;Active Chats&quot; option in contact menu</source>
         <translation>在連絡人功能表裡顯示“聊天活動”選項</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="494"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="491"/>
         <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
         <translation>在連絡人功能表裡顯示“指定openpgp鍵”選項</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="495"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="492"/>
         <source>Show &quot;Picture&quot; option in contact menu</source>
         <translation>在連絡人功能表裡顯示“圖片”選項</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="496"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="493"/>
         <source>Show &quot;Change Profile&quot; option in main menu</source>
         <translation>在主功能表裡顯示“更改設定檔”選項</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="497"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="494"/>
         <source>Show &quot;Chat&quot; option in status menu</source>
         <translation>在統計功能表中顯示對話選項</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="498"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="495"/>
         <source>Show &quot;Invisible&quot; option in status menu</source>
         <translation>在統計功能表中顯示不可見的選項</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="499"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="496"/>
         <source>Show &quot;XA&quot; option in status menu</source>
         <translation>在統計功能表中顯示xa選項</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="500"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="497"/>
         <source>Enable single messages</source>
         <translation>啟用單一資訊</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="517"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="514"/>
         <source>Popup border color:</source>
         <translation>彈出邊框顏色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="523"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="520"/>
         <source>Link color:</source>
         <translation>連結顏色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="529"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="526"/>
         <source>Mailto color:</source>
         <translation>郵件顏色</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="535"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="532"/>
         <source>Moderators color:</source>
         <translation>版主顏色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="541"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="538"/>
         <source>Participants color:</source>
         <translation>參與者顏色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="547"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="544"/>
         <source>Visitors color:</source>
         <translation>遊客顏色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="553"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="550"/>
         <source>No Role color:</source>
         <translation>無角色顏色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="557"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="554"/>
         <source>Groupchat roster coloring:</source>
         <translation>群聊名單著色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="658"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="655"/>
         <source>Enable multirow tabs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="697"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="694"/>
         <source>Enable sound notifications for every groupchat message</source>
         <translation>啟用聲音通知為每一個群聊消息</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="568"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="565"/>
         <source>ToolTip text color:</source>
         <translation>提示文本顏色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="574"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="571"/>
         <source>ToolTip background color:</source>
         <translation>提示背景顏色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="578"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="575"/>
         <source>ToolTip coloring:</source>
         <translation>提示著色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="587"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="584"/>
         <source>Text color for &quot;composing&quot; events on tabs:</source>
         <translation>標籤上“排版”專案的文本顏色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="593"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="590"/>
         <source>Text color for &quot;unread&quot; events on tabs:</source>
         <translation>標籤上“未讀”專案的文本顏色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="611"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="608"/>
         <source>Colors:</source>
         <translation>顏色:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="641"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="638"/>
         <source>Popup</source>
         <translation>彈出</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="642"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="639"/>
         <source>Tooltip</source>
         <translation>工具提示</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="644"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="641"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="652"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="649"/>
         <source>Disable wheel scroll</source>
         <translation>禁用輪滾動</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="653"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="650"/>
         <source>Put tabs at bottom of chat window</source>
         <translation>把標籤放到聊天窗口的底部</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="654"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="651"/>
         <source>Show Close Button on tabs</source>
         <translation>顯示關閉按鈕上的標籤</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="655"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="652"/>
         <source>Show status icons on tabs</source>
         <translation>顯示狀態圖示標籤</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="656"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="653"/>
         <source>Hide tab when close chat window</source>
         <translation>當關閉聊天視窗時，隱藏標籤</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="657"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="654"/>
         <source>Allow closing inactive tabs</source>
         <translation>允許關閉無效的標籤</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="666"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="663"/>
         <source>Action for mouse middle click on tabs:</source>
         <translation>在標籤上按一下滑鼠中鍵的動作:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="676"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="673"/>
         <source>Action for mouse double click on tabs:</source>
         <translation>在標籤上按兩下滑鼠中鍵的動作:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="693"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="690"/>
         <source>Enable windows flashing</source>
         <translation>啟用窗口閃爍</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="694"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="691"/>
         <source>Enable &quot;Single Account&quot; mode</source>
         <translation>啟用“單一帳戶”模式</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="695"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="692"/>
         <source>Enable XML-console on login</source>
         <translation>啟用“XML-控制台”模式登錄</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="696"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="693"/>
         <source>Enable last activity server</source>
         <translation>啟用伺服器活動</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="698"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="695"/>
         <source>Disable popup notifications if status is DND</source>
         <translation>如果狀態是DND，禁用彈出通知</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="699"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="696"/>
         <source>Disable popup notifications if status is Away</source>
         <translation>如果狀態是離開，禁用彈出通知</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="701"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="698"/>
         <source>Notifications</source>
         <translation>通知</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="715"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="712"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (線上)&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1192"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1189"/>
         <source>Author: </source>
         <translation>作者:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1193"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1190"/>
         <source>Email: </source>
         <translation>郵件:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1194"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1191"/>
         <source>This plugin is designed to allow easy configuration of some advanced options in Psi+.
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
@@ -13073,7 +13073,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="193"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="195"/>
         <source>Settings of %1</source>
         <translation type="unfinished"></translation>
     </message>

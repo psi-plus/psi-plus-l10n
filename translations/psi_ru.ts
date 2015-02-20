@@ -5113,553 +5113,553 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
 <context>
     <name>ExtendedOptions</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="281"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="639"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="280"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="636"/>
         <source>Chat</source>
         <translation>Чаты</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="283"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="282"/>
         <source>Tabs</source>
         <translation>Вкладки</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="284"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="355"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="640"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="283"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="352"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="637"/>
         <source>Roster</source>
         <translation>Ростер</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="285"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="284"/>
         <source>Menu</source>
         <translation>Меню</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="286"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="285"/>
         <source>Look</source>
         <translation>Внешний вид</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="287"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="286"/>
         <source>CSS</source>
         <translation>CSS</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="288"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="287"/>
         <source>Misc</source>
         <translation>Разное</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="295"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="292"/>
         <source>Ask for confirmation before clearing chat window</source>
         <translation>Запрашивать подтверждение перед очисткой</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="296"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="293"/>
         <source>Enable icons in chat</source>
         <translation>Включить иконки в чате</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="297"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="294"/>
         <source>Scaled message icons</source>
         <translation>Масштабировать иконки в чате</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="301"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="298"/>
         <source>Show Avatar</source>
         <translation>Показывать аватар</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="302"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="299"/>
         <source>Enable &quot;Says style&quot;</source>
         <translation>Включить стиль &quot; ... говорит:&quot;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="303"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="300"/>
         <source>Hide &quot;Send&quot; button</source>
         <translation>Скрыть кнопку &quot;Отправить&quot;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="307"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="304"/>
         <source>Avatar size:</source>
         <translation>Размер аватара:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="312"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="309"/>
         <source>Default JID mode:</source>
         <translation>Вид JID по умолчанию:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="316"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="313"/>
         <source>Automatically capitalize the first letter in a sentence</source>
         <translation>Первую букву в предложении делать заглавной</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="317"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="314"/>
         <source>Automatically scroll down the log when a message was sent</source>
         <translation>Автопрокрутка лога сообщений после отправки</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="318"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="362"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="315"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="359"/>
         <source>Show status changes</source>
         <translation>Показывать смену статусов</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="319"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="316"/>
         <source>Show status priority</source>
         <translation>Показывать приоритет статусного сообщения</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="326"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="323"/>
         <source>Chat window caption:</source>
         <translation>Заголовок окна чата:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="337"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="334"/>
         <source>Default JID mode ignore list:</source>
         <translation>Игнор-лист вида JID по умолчанию:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="354"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="351"/>
         <source>General</source>
         <translation>Общие</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="358"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="355"/>
         <source>Show joins</source>
         <translation>Показывать сообщения о входах/выходах</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="359"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="356"/>
         <source>Show initial joins</source>
         <translation>Показывать изначально вошедших</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="360"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="357"/>
         <source>Show status with priority</source>
         <translation>Показывать статусное сообщение вместе с приоритетом</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="361"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="358"/>
         <source>Show roles and affiliations changes</source>
         <translation>Показывать смену ролей и рангов</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="369"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="366"/>
         <source>Automatically accept the default room configuration</source>
         <translation>Автоматически принимать конфигурацию комнаты по умолчанию</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="370"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="367"/>
         <source>Automatically accept the default room configuration when a new room is created</source>
         <translation>Автоматически принимать конфигурацию комнаты по умолчанию при создании новой комнаты</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="371"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="368"/>
         <source>Automatically open the configuration dialog when a new room is created</source>
         <translation>Автоматически открывать окно конфигурации комнаты при создании новой комнаты</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="372"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="369"/>
         <source>Automatically open the configuration dialog when a new room is created.
 This option only has effect if accept-defaults is false.</source>
         <translation>Автоматически открывать диалог настройки при создании новой комнаты.
 Эта опция дает эффект только если прием по умолчанию отключен.</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="282"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="281"/>
         <source>Groupchat</source>
         <translation>Конференции</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="363"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="360"/>
         <source>Enable autojoin for bookmarked groupchats</source>
         <translation>Включить автоподключение к закладкам</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="364"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="361"/>
         <source>Hide groupchat on auto-join</source>
         <translation>Скрывать автоматически подключаемые конференции</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="365"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="362"/>
         <source>Enable HTML rendering in groupchat chat window</source>
         <translation>Включить рендеринг HTML в конференциях</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="366"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="363"/>
         <source>Allow groupchat highlight events</source>
         <translation>Разрешить события выделения в конференции</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="390"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="387"/>
         <source>Disable autojoin to folowing groupchats:
 (specify JIDs)</source>
         <translation>Выключить автоподключение для следующих конференций:
 (укажите JID&apos;ы)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="392"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="389"/>
         <source>Groupchat leave status message:</source>
         <translation>Статусное сообщение при выходе из конференции:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="397"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="394"/>
         <source>Place groupchat roster at left</source>
         <translation>Разместить ростер конференции слева</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="398"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="395"/>
         <source>Show groups</source>
         <translation>Показывать группы</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="399"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="396"/>
         <source>Use slim group heading</source>
         <translation>Узкие заголовки группы</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="400"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="447"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="397"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="444"/>
         <source>Show status icons</source>
         <translation>Показывать статусные иконки</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="401"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="398"/>
         <source>Show affiliation icons</source>
         <translation>Показывать иконки рангов</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="402"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="399"/>
         <source>Show client icons</source>
         <translation>Показывать иконки клиентов</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="404"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="401"/>
         <source>Show avatars</source>
         <translation>Показывать аватары</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="405"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="445"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="402"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="442"/>
         <source>Place avatars at left</source>
         <translation>Разместить аватары слева</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="411"/>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="473"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="408"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="470"/>
         <source>Sort style for contacts:</source>
         <translation>Стиль сортировки для контактов:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="415"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="412"/>
         <source>Avatars size:</source>
         <translation>Размер аватара:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="419"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="416"/>
         <source>Avatars radius:</source>
         <translation>Радиус углов:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="441"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="438"/>
         <source>Resolve nicks on contact add</source>
         <translation>Определять ники при добавлении контактов</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="442"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="439"/>
         <source>Lockdown roster</source>
         <translation>Заблокировать ростер</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="443"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="440"/>
         <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
         <translation>Разместить ростер слева в режиме &quot;всё в одном окне&quot;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="444"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="441"/>
         <source>Contact name and status message in a row</source>
         <translation>Отображать статус контакта в той же строке</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="446"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="443"/>
         <source>If contact does not have avatar, use default avatar</source>
         <translation>Если у контакта нет аватара — использовать стандартный</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="448"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="445"/>
         <source>Place status icon over avatar</source>
         <translation>Разместить статусные иконки поверх аватара</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="450"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="447"/>
         <source>Automatically remove temporary contacts</source>
         <translation>Автоматически удалять временные контакты</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="453"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="450"/>
         <source>Tooltips:</source>
         <translation>Всплывающие подсказки:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="456"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="453"/>
         <source>Show avatar</source>
         <translation>Показывать аватар</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="457"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="454"/>
         <source>Show last status</source>
         <translation>Показывать последний статус</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="458"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="455"/>
         <source>Show PGP</source>
         <translation>Показывать наличие PGP</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="459"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="456"/>
         <source>Show client version</source>
         <translation>Показывать версию клиента</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="460"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="457"/>
         <source>Show geolocation</source>
         <translation>Показывать геолокацию</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="492"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="489"/>
         <source>Show &quot;Admin&quot; option in account menu</source>
         <translation>Показывать пункт для администраторов в меню аккаунта</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="493"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="490"/>
         <source>Show &quot;Active Chats&quot; option in contact menu</source>
         <translation>Показывать &quot;Активные чаты&quot; в меню контакта</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="494"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="491"/>
         <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
         <translation>Показывать &quot;Присвоить ключ OpenPGP&quot; в меню контакта</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="495"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="492"/>
         <source>Show &quot;Picture&quot; option in contact menu</source>
         <translation>Показывать &quot;Аватар&quot; в меню контакта</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="496"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="493"/>
         <source>Show &quot;Change Profile&quot; option in main menu</source>
         <translation>Показывать &quot;Сменить профиль&quot; в главном меню</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="497"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="494"/>
         <source>Show &quot;Chat&quot; option in status menu</source>
         <translation>Показывать &quot;Готов поболтать&quot; в статусном меню</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="498"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="495"/>
         <source>Show &quot;Invisible&quot; option in status menu</source>
         <translation>Показывать &quot;Невидимый&quot; в статусном меню</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="499"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="496"/>
         <source>Show &quot;XA&quot; option in status menu</source>
         <translation>Показывать &quot;Недоступен&quot; в статусном меню</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="500"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="497"/>
         <source>Enable single messages</source>
         <translation>Включить одиночные сообщения</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="517"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="514"/>
         <source>Popup border color:</source>
         <translation>Цвет рамки уведомления:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="523"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="520"/>
         <source>Link color:</source>
         <translation>Цвет ссылки:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="529"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="526"/>
         <source>Mailto color:</source>
         <translation>Цвет почтовой ссылки:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="535"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="532"/>
         <source>Moderators color:</source>
         <translation>Цвет модераторов:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="541"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="538"/>
         <source>Participants color:</source>
         <translation>Цвет участников:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="547"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="544"/>
         <source>Visitors color:</source>
         <translation>Цвет посетителей:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="553"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="550"/>
         <source>No Role color:</source>
         <translation>Цвет &quot;без роли&quot;:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="557"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="554"/>
         <source>Groupchat roster coloring:</source>
         <translation>Цвет ников в ростере конференции:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="658"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="655"/>
         <source>Enable multirow tabs</source>
         <translation>Многострочная панель табов</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="697"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="694"/>
         <source>Enable sound notifications for every groupchat message</source>
         <translation>Включить звуковые уведомления для всех сообщений конференции</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="568"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="565"/>
         <source>ToolTip text color:</source>
         <translation>Цвет текста на подсказке:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="574"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="571"/>
         <source>ToolTip background color:</source>
         <translation>Цвет фона подсказки:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="578"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="575"/>
         <source>ToolTip coloring:</source>
         <translation>Цвет подсказки:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="587"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="584"/>
         <source>Text color for &quot;composing&quot; events on tabs:</source>
         <translation>Цвет текста для события &quot;печатает&quot; на вкладках:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="593"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="590"/>
         <source>Text color for &quot;unread&quot; events on tabs:</source>
         <translation>Цвет текста для события &quot;непрочитанные&quot; на вкладках:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="611"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="608"/>
         <source>Colors:</source>
         <translation>Цвета:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="641"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="638"/>
         <source>Popup</source>
         <translation>Уведомления</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="642"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="639"/>
         <source>Tooltip</source>
         <translation>Подсказки</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="644"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="641"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS для Psi+&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="652"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="649"/>
         <source>Disable wheel scroll</source>
         <translation>Отключить колесо мыши</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="653"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="650"/>
         <source>Put tabs at bottom of chat window</source>
         <translation>Разместить вкладки снизу окна чата</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="654"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="651"/>
         <source>Show Close Button on tabs</source>
         <translation>Показывать кнопки закрытия на вкладках</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="655"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="652"/>
         <source>Show status icons on tabs</source>
         <translation>Показывать иконки статуса на вкладках</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="656"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="653"/>
         <source>Hide tab when close chat window</source>
         <translation>Скрывать вкладки при закрытии окна чата</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="657"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="654"/>
         <source>Allow closing inactive tabs</source>
         <translation>Разрешить закрытие неактивных вкладок</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="666"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="663"/>
         <source>Action for mouse middle click on tabs:</source>
         <translation>Эффект от нажатия колесом мыши на вкладке:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="676"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="673"/>
         <source>Action for mouse double click on tabs:</source>
         <translation>Эффект от двойного клика по вкладке:</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="693"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="690"/>
         <source>Enable windows flashing</source>
         <translation>Включить мигание окон</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="694"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="691"/>
         <source>Enable &quot;Single Account&quot; mode</source>
         <translation>Включить режим &quot;одного аккаунта&quot;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="695"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="692"/>
         <source>Enable XML-console on login</source>
         <translation>Включить консоль XML при входе</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="696"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="693"/>
         <source>Enable last activity server</source>
         <translation>Включение сервера последней активности</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="698"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="695"/>
         <source>Disable popup notifications if status is DND</source>
         <translation>Отключить уведомления, если статус &quot;Не беспокоить&quot;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="699"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="696"/>
         <source>Disable popup notifications if status is Away</source>
         <translation>Отключить уведомления, если статус &quot;Отсутствую&quot;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="701"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="698"/>
         <source>Notifications</source>
         <translation>Уведомления</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="715"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="712"/>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1192"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1189"/>
         <source>Author: </source>
         <translation>Автор: </translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1193"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1190"/>
         <source>Email: </source>
         <translation>E-Mail: </translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1194"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1191"/>
         <source>This plugin is designed to allow easy configuration of some advanced options in Psi+.
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
@@ -13047,7 +13047,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Настройка плагина</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="193"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="195"/>
         <source>Settings of %1</source>
         <translation>Настройки %1</translation>
     </message>
