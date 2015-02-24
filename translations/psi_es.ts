@@ -6508,13 +6508,13 @@ Motivo: %1</translation>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1533"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1533"/>
         <source> and now is %1</source>
-        <translation> y ahora es %1</translation>
+        <translation> y ahora está %1</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1551"/>
         <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1551"/>
         <source>%1 is now %2 and %3</source>
-        <translation>%1 es ahora %2 y %3</translation>
+        <translation>%1 está ahora %2 y %3</translation>
     </message>
     <message>
         <location filename="../tmp/src/groupchatdlg.cpp" line="1554"/>
@@ -10977,17 +10977,17 @@ Etiquetas: %1</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="62"/>
         <source>Plugin Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre del complemento</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="65"/>
         <source>Available plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Complementos disponibles</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="73"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versión</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.ui" line="81"/>
@@ -13045,22 +13045,23 @@ a las personas frecuentemente contactadas por email.</translation>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="83"/>
         <source>Plugin Path:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta del complemento:
+%1</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="102"/>
         <source>Show information about plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar información del complemento</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="110"/>
         <source>Open plugin settings dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir la ventana de ajustes del complemento</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="195"/>
         <source>Settings of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajuste de %1</translation>
     </message>
     <message>
         <source>No plugin selected.</source>
@@ -13897,7 +13898,7 @@ Por favor inserta tu contraseña abajo:</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/plugininfodialog.ui" line="32"/>
         <source>About</source>
-        <translation type="unfinished">Acerca de</translation>
+        <translation>Acerca de</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/plugininfodialog.ui" line="69"/>
@@ -13918,7 +13919,7 @@ Por favor inserta tu contraseña abajo:</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/pluginsettsdialog.ui" line="17"/>
         <source>SettingsDialog</source>
-        <translation type="unfinished"></translation>
+        <translation>SettingsDialog</translation>
     </message>
 </context>
 <context>
