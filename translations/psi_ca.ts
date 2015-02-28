@@ -12834,33 +12834,33 @@ Activi aquesta opció per a emergir-los de totes formes.</translation>
 <context>
     <name>OptionsTabPlugins</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="24"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="25"/>
         <source>Plugins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="24"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="25"/>
         <source>Options for Psi plugins</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="83"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="84"/>
         <source>Plugin Path:
 %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="102"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="103"/>
         <source>Show information about plugin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="110"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="111"/>
         <source>Open plugin settings dialog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="195"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="200"/>
         <source>Settings of %1</source>
         <translation type="unfinished"></translation>
     </message>

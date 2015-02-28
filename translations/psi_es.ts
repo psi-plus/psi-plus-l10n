@@ -13032,34 +13032,34 @@ a las personas frecuentemente contactadas por email.</translation>
 <context>
     <name>OptionsTabPlugins</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="24"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="25"/>
         <source>Plugins</source>
         <translation>Complementos</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="24"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="25"/>
         <source>Options for Psi plugins</source>
         <translation>Opciones para los complementos de Psi</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="83"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="84"/>
         <source>Plugin Path:
 %1</source>
         <translation>Ruta del complemento:
 %1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="102"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="103"/>
         <source>Show information about plugin</source>
         <translation>Mostrar información del complemento</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="110"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="111"/>
         <source>Open plugin settings dialog</source>
         <translation>Abrir la ventana de ajustes del complemento</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="195"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_plugins.cpp" line="200"/>
         <source>Settings of %1</source>
         <translation>Ajuste de %1</translation>
     </message>
