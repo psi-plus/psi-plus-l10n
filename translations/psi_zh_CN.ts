@@ -8829,71 +8829,71 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>InfoDlg</name>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="156"/>
-        <location filename="../tmp/src/infodlg.cpp" line="363"/>
+        <location filename="../tmp/src/infodlg.cpp" line="158"/>
+        <location filename="../tmp/src/infodlg.cpp" line="365"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="156"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="364"/>
         <source>First Name:</source>
         <translation>名:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="157"/>
-        <location filename="../tmp/src/infodlg.cpp" line="364"/>
+        <location filename="../tmp/src/infodlg.cpp" line="159"/>
+        <location filename="../tmp/src/infodlg.cpp" line="366"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="157"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="365"/>
         <source>Middle Name:</source>
         <translation>中间名:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="158"/>
-        <location filename="../tmp/src/infodlg.cpp" line="365"/>
+        <location filename="../tmp/src/infodlg.cpp" line="160"/>
+        <location filename="../tmp/src/infodlg.cpp" line="367"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="158"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="366"/>
         <source>Last Name:</source>
         <translation>姓:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="163"/>
+        <location filename="../tmp/src/infodlg.cpp" line="165"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="163"/>
         <source>Edit names</source>
         <translation>编辑名字</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="163"/>
+        <location filename="../tmp/src/infodlg.cpp" line="165"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="163"/>
         <source>View names</source>
         <translation>视图的名称</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="166"/>
-        <location filename="../tmp/src/infodlg.cpp" line="167"/>
+        <location filename="../tmp/src/infodlg.cpp" line="168"/>
+        <location filename="../tmp/src/infodlg.cpp" line="169"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="166"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="167"/>
         <source>Open web browser</source>
         <translation>打开网络浏览器</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="197"/>
+        <location filename="../tmp/src/infodlg.cpp" line="199"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="197"/>
         <source>No date</source>
         <translation>没有日期</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="203"/>
-        <location filename="../tmp/src/infodlg.cpp" line="204"/>
+        <location filename="../tmp/src/infodlg.cpp" line="205"/>
+        <location filename="../tmp/src/infodlg.cpp" line="206"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="203"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="204"/>
         <source>Edit birthday</source>
         <translation>编辑生日</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="277"/>
+        <location filename="../tmp/src/infodlg.cpp" line="279"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="278"/>
         <source>Warning</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="277"/>
+        <location filename="../tmp/src/infodlg.cpp" line="279"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="278"/>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
@@ -8901,33 +8901,33 @@ Are you sure you want to discard them?</source>
 你确定要忽视它们吗?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="277"/>
+        <location filename="../tmp/src/infodlg.cpp" line="279"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="278"/>
         <source>Close and discard</source>
         <translation>关闭并忽视</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="277"/>
+        <location filename="../tmp/src/infodlg.cpp" line="279"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="278"/>
         <source>Don&apos;t close</source>
         <translation>不要关闭</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="324"/>
+        <location filename="../tmp/src/infodlg.cpp" line="326"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="325"/>
         <source>Success</source>
         <translation>成功</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="324"/>
+        <location filename="../tmp/src/infodlg.cpp" line="326"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="325"/>
         <source>Your account information has been published.</source>
         <translation>你的账号数据已经发布了。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="329"/>
         <location filename="../tmp/src/infodlg.cpp" line="331"/>
-        <location filename="../tmp/src/infodlg.cpp" line="334"/>
+        <location filename="../tmp/src/infodlg.cpp" line="333"/>
+        <location filename="../tmp/src/infodlg.cpp" line="336"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="330"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="332"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="335"/>
@@ -8935,13 +8935,13 @@ Are you sure you want to discard them?</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="329"/>
+        <location filename="../tmp/src/infodlg.cpp" line="331"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="330"/>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
         <translation>无法取回你的账号数据。  可能你还没有输入东西吧。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="331"/>
+        <location filename="../tmp/src/infodlg.cpp" line="333"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="332"/>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
@@ -8949,7 +8949,7 @@ Reason: %1</source>
 原因:%1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="334"/>
+        <location filename="../tmp/src/infodlg.cpp" line="336"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="335"/>
         <source>Unable to publish your account information.
 Reason: %1</source>
@@ -8957,14 +8957,14 @@ Reason: %1</source>
 原因:%1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="744"/>
+        <location filename="../tmp/src/infodlg.cpp" line="746"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="745"/>
         <source>Picture not
 available</source>
         <translation>图片不可用</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="774"/>
+        <location filename="../tmp/src/infodlg.cpp" line="776"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="775"/>
         <source>Status</source>
         <translation>状态</translation>
@@ -13923,7 +13923,7 @@ Please enter your passphrase below:</source>
 <context>
     <name>PluginManager</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/pluginmanager.cpp" line="348"/>
+        <location filename="../../psi-plus-snapshots/src/pluginmanager.cpp" line="345"/>
         <source>This plugin has no user configurable options</source>
         <translation>这个插件没有用户可以设置的选项</translation>
     </message>
@@ -15345,52 +15345,52 @@ Details: %1</source>
         <translation>版本查询信息</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="5445"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="5375"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="5455"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="5385"/>
         <source>Headline</source>
         <translation>标题:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6243"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6182"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6251"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6190"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
         <translation>签入你的状态时发生错误。
 原因: %1。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6360"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6299"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6368"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6307"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[错误: 这个信息已被加密, 而你无法解密。]</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6683"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6624"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6691"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6632"/>
         <source>No key</source>
         <translation>没有钥匙</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6683"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6624"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6691"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6632"/>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Psi 无法定位 &lt;b&gt;%1&lt;/b&gt; 所使用的 OpenPGP 钥匙。&lt;br&gt;&lt;br&gt;这可能是因为你没有联系人签署发布的钥匙, 或是联系人根本没有发布钥匙。&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6688"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6629"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6696"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6637"/>
         <source>&amp;Choose key manually</source>
         <translation>手动选择钥匙(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6688"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6629"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6696"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6637"/>
         <source>Do &amp;nothing</source>
         <translation>什么都不做(&amp;N)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6695"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6636"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6703"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6644"/>
         <source>Public Key: %1</source>
         <translation>公钥: %1</translation>
     </message>
@@ -17197,12 +17197,12 @@ Would you like to activate that session now?</source>
 <context>
     <name>PsiRosterWidget</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="263"/>
+        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="264"/>
         <source>Remove Group</source>
         <translation>删除群组</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="264"/>
+        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="265"/>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
@@ -17211,12 +17211,12 @@ Proceed?</source>
 执行吗?</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="267"/>
+        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="268"/>
         <source>&amp;Yes</source>
         <translation>是(&amp;Y)</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="267"/>
+        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="268"/>
         <source>&amp;No</source>
         <translation>否(&amp;N)</translation>
     </message>
@@ -18543,22 +18543,22 @@ Description: </source>
         <translation>无法写入文件%1:%2</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="81"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="82"/>
         <source>Recommended by @%1</source>
         <translation>推荐@%1</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="131"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="132"/>
         <source>Reply posted.</source>
         <translation>回复发表</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="138"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="139"/>
         <source>New message posted.</source>
         <translation>新消息发表。</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="167"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="168"/>
         <source> recommended your post </source>
         <translation>推荐你的发表</translation>
     </message>

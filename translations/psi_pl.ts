@@ -8758,71 +8758,71 @@ Nota: Do poprawnej pracy opcja: options.ui.chat.central-toolbar musi mieć warto
 <context>
     <name>InfoDlg</name>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="156"/>
-        <location filename="../tmp/src/infodlg.cpp" line="363"/>
+        <location filename="../tmp/src/infodlg.cpp" line="158"/>
+        <location filename="../tmp/src/infodlg.cpp" line="365"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="156"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="364"/>
         <source>First Name:</source>
         <translation>Imię:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="157"/>
-        <location filename="../tmp/src/infodlg.cpp" line="364"/>
+        <location filename="../tmp/src/infodlg.cpp" line="159"/>
+        <location filename="../tmp/src/infodlg.cpp" line="366"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="157"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="365"/>
         <source>Middle Name:</source>
         <translation>Drugie imię:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="158"/>
-        <location filename="../tmp/src/infodlg.cpp" line="365"/>
+        <location filename="../tmp/src/infodlg.cpp" line="160"/>
+        <location filename="../tmp/src/infodlg.cpp" line="367"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="158"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="366"/>
         <source>Last Name:</source>
         <translation>Nazwisko:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="163"/>
+        <location filename="../tmp/src/infodlg.cpp" line="165"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="163"/>
         <source>Edit names</source>
         <translation>Edytuj nazwy</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="163"/>
+        <location filename="../tmp/src/infodlg.cpp" line="165"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="163"/>
         <source>View names</source>
         <translation>Wyświetl nazwy</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="166"/>
-        <location filename="../tmp/src/infodlg.cpp" line="167"/>
+        <location filename="../tmp/src/infodlg.cpp" line="168"/>
+        <location filename="../tmp/src/infodlg.cpp" line="169"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="166"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="167"/>
         <source>Open web browser</source>
         <translation>Otwórz przeglądarkę</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="197"/>
+        <location filename="../tmp/src/infodlg.cpp" line="199"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="197"/>
         <source>No date</source>
         <translation>Brak daty</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="203"/>
-        <location filename="../tmp/src/infodlg.cpp" line="204"/>
+        <location filename="../tmp/src/infodlg.cpp" line="205"/>
+        <location filename="../tmp/src/infodlg.cpp" line="206"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="203"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="204"/>
         <source>Edit birthday</source>
         <translation>Edytuj datę urodzin</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="277"/>
+        <location filename="../tmp/src/infodlg.cpp" line="279"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="278"/>
         <source>Warning</source>
         <translation>Uwaga</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="277"/>
+        <location filename="../tmp/src/infodlg.cpp" line="279"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="278"/>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
@@ -8830,33 +8830,33 @@ Are you sure you want to discard them?</source>
 Czy na pewno chcesz je porzucić?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="277"/>
+        <location filename="../tmp/src/infodlg.cpp" line="279"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="278"/>
         <source>Close and discard</source>
         <translation>Zamknij i porzuć</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="277"/>
+        <location filename="../tmp/src/infodlg.cpp" line="279"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="278"/>
         <source>Don&apos;t close</source>
         <translation>Nie zamykaj</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="324"/>
+        <location filename="../tmp/src/infodlg.cpp" line="326"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="325"/>
         <source>Success</source>
         <translation>OK</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="324"/>
+        <location filename="../tmp/src/infodlg.cpp" line="326"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="325"/>
         <source>Your account information has been published.</source>
         <translation>Twoje informacje o koncie zostały opublikowane.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="329"/>
         <location filename="../tmp/src/infodlg.cpp" line="331"/>
-        <location filename="../tmp/src/infodlg.cpp" line="334"/>
+        <location filename="../tmp/src/infodlg.cpp" line="333"/>
+        <location filename="../tmp/src/infodlg.cpp" line="336"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="330"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="332"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="335"/>
@@ -8864,13 +8864,13 @@ Czy na pewno chcesz je porzucić?</translation>
         <translation>Błąd</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="329"/>
+        <location filename="../tmp/src/infodlg.cpp" line="331"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="330"/>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
         <translation>Nie można pobrać informacji o Twoim koncie. Prawdopodobnie jeszcze ich nie wprowadzono.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="331"/>
+        <location filename="../tmp/src/infodlg.cpp" line="333"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="332"/>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
@@ -8878,7 +8878,7 @@ Reason: %1</source>
 Przyczyna: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="334"/>
+        <location filename="../tmp/src/infodlg.cpp" line="336"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="335"/>
         <source>Unable to publish your account information.
 Reason: %1</source>
@@ -8886,7 +8886,7 @@ Reason: %1</source>
 Przyczyna: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="744"/>
+        <location filename="../tmp/src/infodlg.cpp" line="746"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="745"/>
         <source>Picture not
 available</source>
@@ -8894,7 +8894,7 @@ available</source>
 dostępny</translation>
     </message>
     <message>
-        <location filename="../tmp/src/infodlg.cpp" line="774"/>
+        <location filename="../tmp/src/infodlg.cpp" line="776"/>
         <location filename="../../psi-plus-snapshots/src/infodlg.cpp" line="775"/>
         <source>Status</source>
         <translation>Status</translation>
@@ -13826,7 +13826,7 @@ Wprowadź hasło twojego klucza OpenPGP poniżej:</translation>
 <context>
     <name>PluginManager</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/pluginmanager.cpp" line="348"/>
+        <location filename="../../psi-plus-snapshots/src/pluginmanager.cpp" line="345"/>
         <source>This plugin has no user configurable options</source>
         <translation>Ta wtyczka nie posiada opcji konfigurowalnych przez użytkownika</translation>
     </message>
@@ -15247,52 +15247,52 @@ Szczegóły: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="5445"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="5375"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="5455"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="5385"/>
         <source>Headline</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6243"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6182"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6251"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6190"/>
         <source>There was an error trying to sign your status.
 Reason: %1.</source>
         <translation>Wystąpił błąd podczas podpisywania statusu.
 Przyczyna: %1.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6360"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6299"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6368"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6307"/>
         <source>[ERROR: This message is encrypted, and you are unable to decrypt it.]</source>
         <translation>[BŁĄD: Ta wiadomość jest zaszyfrowana a Ty nie jesteś w stanie jej odszyfrować.]</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6683"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6624"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6691"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6632"/>
         <source>No key</source>
         <translation>Brak klucza</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6683"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6624"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6691"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6632"/>
         <source>&lt;p&gt;Psi was unable to locate the OpenPGP key to use for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;This can happen if you do not have the key that the contact is advertising via signed presence, or if the contact is not advertising any key at all.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Psi nie mogło znaleźć klucza OpenPGP dla &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Mogło to być spowodowane tym, że nie posiadasz klucza, którego ta osoba użyła do podpisu statusu, albo tym że ta osoba w ogóle nie podpisuje statusu.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6688"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6629"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6696"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6637"/>
         <source>&amp;Choose key manually</source>
         <translation>&amp;Wybierz klucz ręcznie</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6688"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6629"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6696"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6637"/>
         <source>Do &amp;nothing</source>
         <translation>&amp;Anuluj</translation>
     </message>
     <message>
-        <location filename="../tmp/src/psiaccount.cpp" line="6695"/>
-        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6636"/>
+        <location filename="../tmp/src/psiaccount.cpp" line="6703"/>
+        <location filename="../../psi-plus-snapshots/src/psiaccount.cpp" line="6644"/>
         <source>Public Key: %1</source>
         <translation>Klucz publiczny: %1</translation>
     </message>
@@ -17099,12 +17099,12 @@ Czy chcesz teraz aktywować sesję?</translation>
 <context>
     <name>PsiRosterWidget</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="263"/>
+        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="264"/>
         <source>Remove Group</source>
         <translation>Usuń grupę</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="264"/>
+        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="265"/>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
@@ -17113,12 +17113,12 @@ Proceed?</source>
 Kontynuować?</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="267"/>
+        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="268"/>
         <source>&amp;Yes</source>
         <translation>&amp;Tak</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="267"/>
+        <location filename="../../psi-plus-snapshots/src/psirosterwidget.cpp" line="268"/>
         <source>&amp;No</source>
         <translation>&amp;Nie</translation>
     </message>
@@ -18453,22 +18453,22 @@ Description: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="81"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="82"/>
         <source>Recommended by @%1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="131"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="132"/>
         <source>Reply posted.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="138"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="139"/>
         <source>New message posted.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="167"/>
+        <location filename="../../psi-plus-snapshots/src/plugins/generic/juickplugin/juickparser.cpp" line="168"/>
         <source> recommended your post </source>
         <translation type="unfinished"></translation>
     </message>
