@@ -6374,8 +6374,8 @@ Reason: %3</source>
         <translation>輸入指令...</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="817"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="817"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="813"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="813"/>
         <source>Copy Groupchat JID</source>
         <translation>複製群聊 JID</translation>
     </message>
@@ -6426,317 +6426,317 @@ Reason: %1</source>
 (注意: 這不會影響已儲存的歷史資訊)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1333"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1333"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1404"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1404"/>
         <source>Disconnected.</source>
         <translation>已斷線。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1366"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1366"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1437"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1437"/>
         <source>Reconnecting...</source>
         <translation>重新連接中...</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1373"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1373"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1444"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1444"/>
         <source>Error: You are in or joining this room already!</source>
         <translation>錯誤: 你已經在或正在加入這個聊天室!</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1428"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1428"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1499"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1499"/>
         <source>Unable to join groupchat.	Reason: %1</source>
         <translation>無法加入群組. 原因: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1430"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1430"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1501"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1501"/>
         <source>Unexpected groupchat error: %1</source>
         <translation>未預期的群組錯誤: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1464"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1464"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1535"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1535"/>
         <source>Please choose a different nickname</source>
         <translation>請選擇一個不同的昵稱</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1468"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1468"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1539"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1539"/>
         <source>An error occurred (errorcode: %1)</source>
         <translation>發生錯誤 (錯誤碼: %1)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1501"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1501"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1572"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1572"/>
         <source>New room created</source>
         <translation>新聊天室已建立</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1513"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1513"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1584"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1584"/>
         <source>%1 has joined the room</source>
         <translation>%1 已經加入聊天室</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1517"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1517"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1588"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1588"/>
         <source>%3 has joined the room as %1 and %2</source>
         <translation>%3 已經以 %1 和 %2 加入聊天室</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1520"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1524"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1520"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1524"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1591"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1595"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1591"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1595"/>
         <source>%2 has joined the room as %1</source>
         <translation>%2 已經以 %1 加入聊天室</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1533"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1533"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1604"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1604"/>
         <source> and now is %1</source>
         <translation>現在是 %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1551"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1551"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1622"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1622"/>
         <source>%1 is now %2 and %3</source>
         <translation>%1 現在是 %2 和 %3</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1554"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1559"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1554"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1559"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1625"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1630"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1625"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1630"/>
         <source>%1 is now %2</source>
         <translation>%1 現在是 %2</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1564"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1564"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1635"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1635"/>
         <source> (Reason: %1)</source>
         <translation>(原因: %1)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1588"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1588"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1659"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1659"/>
         <source>This room has been destroyed.</source>
         <translation>聊天室已經被摧毀了。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1592"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1592"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1663"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1663"/>
         <source>Reason: %1</source>
         <translation>
 原因: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1598"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1598"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1669"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1669"/>
         <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
         <translation>你想要加入另外一方 &apos;%1&apos; 嗎?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1599"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1605"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1599"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1605"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1670"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1676"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1670"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1676"/>
         <source>Room Destroyed</source>
         <translation>聊天室已被摧毀</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1624"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1624"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1695"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1695"/>
         <source>Banned</source>
         <translation>被封鎖的</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1624"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1624"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1695"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1695"/>
         <source>You have been banned from the room</source>
         <translation>你已經被這個聊天室封鎖了</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1625"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1625"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1696"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1696"/>
         <source>You have been banned from the room by %1</source>
         <translation>你已經被 %1 從這個聊天室封鎖了</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1626"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1626"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1697"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1697"/>
         <source>%1 has been banned</source>
         <translation>%1 已經被封鎖了</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1627"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1627"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1698"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1698"/>
         <source>%1 has been banned by %2</source>
         <translation>%1 已經被 %2 封鎖了</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1632"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1632"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1703"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1703"/>
         <source>Kicked</source>
         <translation>已踢掉</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1632"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1632"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1703"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1703"/>
         <source>You have been kicked from the room</source>
         <translation>你已經被踢出聊天室了</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1633"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1633"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1704"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1704"/>
         <source>You have been kicked from the room by %1</source>
         <translation>你已經被 %1 踢出聊天室了</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1634"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1634"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1705"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1705"/>
         <source>%1 has been kicked</source>
         <translation>%1 已經被踢出了</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1635"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1635"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1706"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1706"/>
         <source>%1 has been kicked by %2</source>
         <translation>%1 已經被 %2 踢出了</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1640"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1648"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1640"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1648"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1711"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1719"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1711"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1719"/>
         <source>Removed</source>
         <translation>已刪除</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1641"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1641"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1712"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1712"/>
         <source>You have been removed from the room due to an affiliation change</source>
         <translation>因為附屬關係的改變你已經從聊天室被刪除了</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1642"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1642"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1713"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1713"/>
         <source>You have been removed from the room by %1 due to an affiliation change</source>
         <translation>你因為附屬關係的改變已經被 %1 從聊天室被刪除了</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1643"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1643"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1714"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1714"/>
         <source>%1 has been removed from the room due to an affilliation change</source>
         <translation>%1 因為附屬關係的改變已經從聊天室被刪除了</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1644"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1644"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1715"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1715"/>
         <source>%1 has been removed from the room by %2 due to an affilliation change</source>
         <translation>%1 因為附屬關係的改變已經被 %2 從聊天室被刪除了</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1649"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1649"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1720"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1720"/>
         <source>You have been removed from the room because the room was made members only</source>
         <translation>你已經從這個聊天室被刪除了, 因為這聊天室是限定成員的</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1650"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1650"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1721"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1721"/>
         <source>You have been removed from the room by %1 because the room was made members only</source>
         <translation>你已經被 %1 從聊天室中刪除, 因為此聊天室為成員限定</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1651"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1651"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1722"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1722"/>
         <source>%1 has been removed from the room because the room was made members-only</source>
         <translation>%1 已經從這個聊天室被刪除了, 因為這聊天室是限定成員的</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1652"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1652"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1723"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1723"/>
         <source>%1 has been removed from the room by %2 because the room was made members-only</source>
         <translation>%1 已經被 %2 從這個聊天室刪除了, 因為這聊天室是限定成員的</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1658"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1658"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1729"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1729"/>
         <source>%1 is now known as %2</source>
         <translation>%1 現在叫做 %2</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1662"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1662"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1733"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1733"/>
         <source>%1 has left the room</source>
         <translation>%1 已經離開聊天室</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1732"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1732"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1803"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1803"/>
         <source>The topic has been set to</source>
         <translation>該主題已被設置為</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1735"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1735"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1806"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1806"/>
         <source> has unset the topic</source>
         <translation>已取消設置的話題</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1735"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1735"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1806"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1806"/>
         <source> has set the topic to</source>
         <translation>已成立的主題</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1797"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1797"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1868"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1868"/>
         <source>Connected.</source>
         <translation>已連接。</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2231"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2231"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1315"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1315"/>
         <source>Save</source>
         <translation>保存</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2232"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2232"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1316"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1316"/>
         <source>Delete</source>
         <translation>刪除</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2233"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2233"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1317"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1317"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2242"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2242"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1326"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1326"/>
         <source>&amp;Name:</source>
         <translation>名稱(&amp;N):</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2243"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2243"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1327"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1327"/>
         <source>N&amp;ick:</source>
         <translation>昵稱(&amp;I):</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2244"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2244"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1328"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1328"/>
         <source>&amp;Auto join:</source>
         <translation>自動加入:(&amp;A)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2255"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2255"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1339"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1339"/>
         <source>Bookmark conference</source>
         <translation>書簽會議</translation>
     </message>

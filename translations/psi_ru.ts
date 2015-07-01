@@ -6373,8 +6373,8 @@ Reason: %3</source>
         <translation>Введите команду...</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="817"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="817"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="813"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="813"/>
         <source>Copy Groupchat JID</source>
         <translation>Копировать JID конференции</translation>
     </message>
@@ -6425,316 +6425,316 @@ Reason: %1</source>
 Примечание: это никак не отразится на истории сообщений</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1333"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1333"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1404"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1404"/>
         <source>Disconnected.</source>
         <translation>Произошло отключение.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1366"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1366"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1437"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1437"/>
         <source>Reconnecting...</source>
         <translation>Восстановление соединения...</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1373"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1373"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1444"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1444"/>
         <source>Error: You are in or joining this room already!</source>
         <translation>Ошибка: вы уже участвуете или входите в эту конференцию!</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1428"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1428"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1499"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1499"/>
         <source>Unable to join groupchat.	Reason: %1</source>
         <translation>Невозможно войти в конференцию. Причина: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1430"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1430"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1501"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1501"/>
         <source>Unexpected groupchat error: %1</source>
         <translation>Неожиданная ошибка конференции: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1464"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1464"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1535"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1535"/>
         <source>Please choose a different nickname</source>
         <translation>Укажите другой ник</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1468"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1468"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1539"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1539"/>
         <source>An error occurred (errorcode: %1)</source>
         <translation>Произошла ошибка (код ошибки: %1)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1501"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1501"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1572"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1572"/>
         <source>New room created</source>
         <translation>Новая комната создана</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1513"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1513"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1584"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1584"/>
         <source>%1 has joined the room</source>
         <translation>%1 заходит как</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1517"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1517"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1588"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1588"/>
         <source>%3 has joined the room as %1 and %2</source>
         <translation>%3 заходит как %1 и %2</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1520"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1524"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1520"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1524"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1591"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1595"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1591"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1595"/>
         <source>%2 has joined the room as %1</source>
         <translation>%2 заходит как %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1533"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1533"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1604"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1604"/>
         <source> and now is %1</source>
         <translation> и теперь %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1551"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1551"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1622"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1622"/>
         <source>%1 is now %2 and %3</source>
         <translation>%1 теперь %2 и %3</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1554"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1559"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1554"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1559"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1625"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1630"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1625"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1630"/>
         <source>%1 is now %2</source>
         <translation>%1 теперь %2</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1564"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1564"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1635"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1635"/>
         <source> (Reason: %1)</source>
         <translation>(Причина: %1)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1588"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1588"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1659"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1659"/>
         <source>This room has been destroyed.</source>
         <translation>Комнаты больше не существует.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1592"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1592"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1663"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1663"/>
         <source>Reason: %1</source>
         <translation>Причина: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1598"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1598"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1669"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1669"/>
         <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
         <translation>Вы хотите зайти в другое место &apos;%1&apos; ?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1599"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1605"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1599"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1605"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1670"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1676"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1670"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1676"/>
         <source>Room Destroyed</source>
         <translation>Комната уничтожена</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1624"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1624"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1695"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1695"/>
         <source>Banned</source>
         <translation>Блокирован</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1624"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1624"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1695"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1695"/>
         <source>You have been banned from the room</source>
         <translation>Вам запретили входить в данную конференцию</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1625"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1625"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1696"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1696"/>
         <source>You have been banned from the room by %1</source>
         <translation>Вам запретили входить в данную конференцию по причине: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1626"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1626"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1697"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1697"/>
         <source>%1 has been banned</source>
         <translation>%1 запретили входить в данную конференцию</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1627"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1627"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1698"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1698"/>
         <source>%1 has been banned by %2</source>
         <translation>%1 запретили входить в данную конференцию %2</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1632"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1632"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1703"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1703"/>
         <source>Kicked</source>
         <translation>Выкинут</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1632"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1632"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1703"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1703"/>
         <source>You have been kicked from the room</source>
         <translation>Вас выкинули из конференции</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1633"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1633"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1704"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1704"/>
         <source>You have been kicked from the room by %1</source>
         <translation>Вас выкинули из конференции по причине: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1634"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1634"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1705"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1705"/>
         <source>%1 has been kicked</source>
         <translation>%1 выгнали из конференции</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1635"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1635"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1706"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1706"/>
         <source>%1 has been kicked by %2</source>
         <translation>%1 выгнали из конференции %2</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1640"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1648"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1640"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1648"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1711"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1719"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1711"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1719"/>
         <source>Removed</source>
         <translation>Удалён</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1641"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1641"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1712"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1712"/>
         <source>You have been removed from the room due to an affiliation change</source>
         <translation>Вы удалены из конференции в связи с изменением ранга</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1642"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1642"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1713"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1713"/>
         <source>You have been removed from the room by %1 due to an affiliation change</source>
         <translation>Вы удалены из конференции в связи с изменением ранга: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1643"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1643"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1714"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1714"/>
         <source>%1 has been removed from the room due to an affilliation change</source>
         <translation>%1 выгнали из конференции в связи с изменением ранга</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1644"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1644"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1715"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1715"/>
         <source>%1 has been removed from the room by %2 due to an affilliation change</source>
         <translation>%1 выгнан из %2 в связи с изменением ранга</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1649"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1649"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1720"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1720"/>
         <source>You have been removed from the room because the room was made members only</source>
         <translation>Вы удалены. Теперь конференция доступна только для зарегистрированных пользователей</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1650"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1650"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1721"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1721"/>
         <source>You have been removed from the room by %1 because the room was made members only</source>
         <translation>Вы удалены. Теперь конференция доступна только для зарегистрированных пользователей: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1651"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1651"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1722"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1722"/>
         <source>%1 has been removed from the room because the room was made members-only</source>
         <translation>%1 выгнан, т.к. конференция только для зарегистрированных пользователей</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1652"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1652"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1723"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1723"/>
         <source>%1 has been removed from the room by %2 because the room was made members-only</source>
         <translation>%2 выгнан из %1 , т.к. конференция только для зарегистрированных пользователей</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1658"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1658"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1729"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1729"/>
         <source>%1 is now known as %2</source>
         <translation>%1 меняет ник на %2</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1662"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1662"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1733"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1733"/>
         <source>%1 has left the room</source>
         <translation>%1 выходит из конференции</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1732"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1732"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1803"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1803"/>
         <source>The topic has been set to</source>
         <translation>Установлена тема</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1735"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1735"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1806"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1806"/>
         <source> has unset the topic</source>
         <translation> убрал тему</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1735"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1735"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1806"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1806"/>
         <source> has set the topic to</source>
         <translation> меняет тему на</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1797"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1797"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1868"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1868"/>
         <source>Connected.</source>
         <translation>Соединение установлено.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2231"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2231"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1315"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1315"/>
         <source>Save</source>
         <translation>Сохранить</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2232"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2232"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1316"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1316"/>
         <source>Delete</source>
         <translation>Удалить</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2233"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2233"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1317"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1317"/>
         <source>Cancel</source>
         <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2242"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2242"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1326"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1326"/>
         <source>&amp;Name:</source>
         <translation>&amp;Название:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2243"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2243"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1327"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1327"/>
         <source>N&amp;ick:</source>
         <translation>Н&amp;ик:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2244"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2244"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1328"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1328"/>
         <source>&amp;Auto join:</source>
         <translation>&amp;Авто-вход:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2255"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2255"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1339"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1339"/>
         <source>Bookmark conference</source>
         <translation>Закладка конференции</translation>
     </message>

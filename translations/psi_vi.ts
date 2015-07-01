@@ -6318,8 +6318,8 @@ Lý do : %3</translation>
         <translation>Gõ lệnh...</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="817"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="817"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="813"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="813"/>
         <source>Copy Groupchat JID</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6370,317 +6370,317 @@ Lý do : %1</translation>
 (Ghi chú : không có tác động lược sử đã lưu.)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1333"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1333"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1404"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1404"/>
         <source>Disconnected.</source>
         <translation>Bị ngắt kết nối.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1366"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1366"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1437"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1437"/>
         <source>Reconnecting...</source>
         <translation>Đang tái kết nối...</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1373"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1373"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1444"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1444"/>
         <source>Error: You are in or joining this room already!</source>
         <translation>Lỗi: bạn ở hoăc đang vào phòng này !</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1428"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1428"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1499"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1499"/>
         <source>Unable to join groupchat.	Reason: %1</source>
         <translation>Không thể tham gia nhóm chát.	Lý do : %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1430"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1430"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1501"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1501"/>
         <source>Unexpected groupchat error: %1</source>
         <translation>Lỗi chát nhóm bất thường: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1464"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1464"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1535"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1535"/>
         <source>Please choose a different nickname</source>
         <translation>Hãy chọn tên hiệu khác</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1468"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1468"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1539"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1539"/>
         <source>An error occurred (errorcode: %1)</source>
         <translation>Một lỗi đã xảy ra (mã lỗi: %1)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1501"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1501"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1572"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1572"/>
         <source>New room created</source>
         <translation>Phòng mới đã được tạo</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1513"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1513"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1584"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1584"/>
         <source>%1 has joined the room</source>
         <translation>%1 đã vào phòng này</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1517"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1517"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1588"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1588"/>
         <source>%3 has joined the room as %1 and %2</source>
         <translation>%3 đã vào phòng này với tư cách %1 và %2</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1520"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1524"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1520"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1524"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1591"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1595"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1591"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1595"/>
         <source>%2 has joined the room as %1</source>
         <translation>%2 đã vào phòng này với tư cách %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1533"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1533"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1604"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1604"/>
         <source> and now is %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1551"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1551"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1622"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1622"/>
         <source>%1 is now %2 and %3</source>
         <translation>%1 giờ là %2 và %3</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1554"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1559"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1554"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1559"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1625"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1630"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1625"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1630"/>
         <source>%1 is now %2</source>
         <translation>%1 giờ là %2</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1564"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1564"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1635"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1635"/>
         <source> (Reason: %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1588"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1588"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1659"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1659"/>
         <source>This room has been destroyed.</source>
         <translation>Phòng này đã bị hủy.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1592"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1592"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1663"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1663"/>
         <source>Reason: %1</source>
         <translation>
 Lý do : %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1598"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1598"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1669"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1669"/>
         <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
         <translation>Bạn có muốn tham gia ở nơi gặp gỡ xen kẽ « %1 » không?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1599"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1605"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1599"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1605"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1670"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1676"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1670"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1676"/>
         <source>Room Destroyed</source>
         <translation>Phòng bị hủy</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1624"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1624"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1695"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1695"/>
         <source>Banned</source>
         <translation>Bị cấm</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1624"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1624"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1695"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1695"/>
         <source>You have been banned from the room</source>
         <translation>Bạn đã bị cấm ra phòng này</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1625"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1625"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1696"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1696"/>
         <source>You have been banned from the room by %1</source>
         <translation>Bạn đã bị %1 cấm ra phòng</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1626"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1626"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1697"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1697"/>
         <source>%1 has been banned</source>
         <translation>%1 đã bị cấm ra</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1627"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1627"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1698"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1698"/>
         <source>%1 has been banned by %2</source>
         <translation>%1 đã bị cấm ra bởi %2</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1632"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1632"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1703"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1703"/>
         <source>Kicked</source>
         <translation>Bị đã</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1632"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1632"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1703"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1703"/>
         <source>You have been kicked from the room</source>
         <translation>Bạn đã bị đá ra phòng này</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1633"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1633"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1704"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1704"/>
         <source>You have been kicked from the room by %1</source>
         <translation>Bạn đã bị %1 đá ra phòng</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1634"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1634"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1705"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1705"/>
         <source>%1 has been kicked</source>
         <translation>%1 đã bị đá ra</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1635"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1635"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1706"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1706"/>
         <source>%1 has been kicked by %2</source>
         <translation>%1 đã bị đá ra bởi %2</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1640"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1648"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1640"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1648"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1711"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1719"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1711"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1719"/>
         <source>Removed</source>
         <translation>Bị gỡ bỏ</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1641"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1641"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1712"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1712"/>
         <source>You have been removed from the room due to an affiliation change</source>
         <translation>Bạn đã bị gỡ bỏ ra phòng này do nhập hội đã thay đổi</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1642"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1642"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1713"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1713"/>
         <source>You have been removed from the room by %1 due to an affiliation change</source>
         <translation>Bạn đã bị %1 gỡ bỏ ra phòng do một thay đổi nhập đoàn</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1643"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1643"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1714"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1714"/>
         <source>%1 has been removed from the room due to an affilliation change</source>
         <translation>%1 đã bị gỡ bỏ ra phòng này do nhập hội đã thay đổi</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1644"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1644"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1715"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1715"/>
         <source>%1 has been removed from the room by %2 due to an affilliation change</source>
         <translation>%1 đã bị gỡ bỏ ra phòng này bởi %2 do nhập hội đã thay đổi</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1649"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1649"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1720"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1720"/>
         <source>You have been removed from the room because the room was made members only</source>
         <translation>Bạn đã bị gỡ bỏ ra phòng này vì phòng đã thay đổi tình trạng thành « chỉ thành viên »</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1650"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1650"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1721"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1721"/>
         <source>You have been removed from the room by %1 because the room was made members only</source>
         <translation>Bạn đã bị %1 gỡ bỏ ra một phòng không còn cho phép lại người nào không phải là thành viên</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1651"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1651"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1722"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1722"/>
         <source>%1 has been removed from the room because the room was made members-only</source>
         <translation>%1 đã bị gỡ bỏ ra phòng này vì phòng đã thay đổi tình trạng thành « chỉ thành viên »</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1652"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1652"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1723"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1723"/>
         <source>%1 has been removed from the room by %2 because the room was made members-only</source>
         <translation>%1 đã bị gỡ bỏ ra phòng này bởi %2 vì phòng đã thay đổi tình trạng thành « chỉ thành viên »</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1658"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1658"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1729"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1729"/>
         <source>%1 is now known as %2</source>
         <translation>%1 giờ được gọi là %2</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1662"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1662"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1733"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1733"/>
         <source>%1 has left the room</source>
         <translation>%1 đã rời phòng này</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1732"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1732"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1803"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1803"/>
         <source>The topic has been set to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1735"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1735"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1806"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1806"/>
         <source> has unset the topic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1735"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1735"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1806"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1806"/>
         <source> has set the topic to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1797"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1797"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1868"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1868"/>
         <source>Connected.</source>
         <translation>Có kết nối.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2231"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2231"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1315"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1315"/>
         <source>Save</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2232"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2232"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1316"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1316"/>
         <source>Delete</source>
         <translation type="unfinished">Xoá</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2233"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2233"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1317"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1317"/>
         <source>Cancel</source>
         <translation type="unfinished">Thôi</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2242"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2242"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1326"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1326"/>
         <source>&amp;Name:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2243"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2243"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1327"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1327"/>
         <source>N&amp;ick:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2244"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2244"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1328"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1328"/>
         <source>&amp;Auto join:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2255"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2255"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1339"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1339"/>
         <source>Bookmark conference</source>
         <translation type="unfinished"></translation>
     </message>

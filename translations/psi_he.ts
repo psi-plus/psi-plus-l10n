@@ -6366,8 +6366,8 @@ Reason: %3</source>
         <translation>הזנת פקודה...</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="817"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="817"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="813"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="813"/>
         <source>Copy Groupchat JID</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6418,316 +6418,316 @@ Reason: %1</source>
 (הערה: פעולה זו לא משפיעה על היסטוריה שמורה)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1333"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1333"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1404"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1404"/>
         <source>Disconnected.</source>
         <translation>מנותק.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1366"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1366"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1437"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1437"/>
         <source>Reconnecting...</source>
         <translation>מתחבר מחדש כעת...</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1373"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1373"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1444"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1444"/>
         <source>Error: You are in or joining this room already!</source>
         <translation>שגיאה: הינך כבר בתוך או בתהליך הצטרפות אל חדר זה!</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1428"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1428"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1499"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1499"/>
         <source>Unable to join groupchat.	Reason: %1</source>
         <translation>לא ניתן להצטרף אל שיחת קבוצה.	סיבה: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1430"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1430"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1501"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1501"/>
         <source>Unexpected groupchat error: %1</source>
         <translation>שגיאת שיחת קבוצה לא צפויה: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1464"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1464"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1535"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1535"/>
         <source>Please choose a different nickname</source>
         <translation>אנא בחר שם כינוי אחר</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1468"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1468"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1539"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1539"/>
         <source>An error occurred (errorcode: %1)</source>
         <translation>ארעה שגיאה (errorcode: %1)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1501"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1501"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1572"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1572"/>
         <source>New room created</source>
         <translation>חדר חדש נוצר</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1513"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1513"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1584"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1584"/>
         <source>%1 has joined the room</source>
         <translation>%1 נכנס/ה אל החדר</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1517"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1517"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1588"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1588"/>
         <source>%3 has joined the room as %1 and %2</source>
         <translation>%3 נכנס/ה אל החדר בתפקיד %1 ובסינוף של %2</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1520"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1524"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1520"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1524"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1591"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1595"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1591"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1595"/>
         <source>%2 has joined the room as %1</source>
         <translation>%2 נכנס/ה אל החדר בתפקיד %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1533"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1533"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1604"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1604"/>
         <source> and now is %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1551"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1551"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1622"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1622"/>
         <source>%1 is now %2 and %3</source>
         <translation>התפקיד של %1 שונה אל %2 והסינוף %3</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1554"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1559"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1554"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1559"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1625"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1630"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1625"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1630"/>
         <source>%1 is now %2</source>
         <translation>ההוויה של %1 שונתה אל %2</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1564"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1564"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1635"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1635"/>
         <source> (Reason: %1)</source>
         <translation> (סיבה: %1)</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1588"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1588"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1659"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1659"/>
         <source>This room has been destroyed.</source>
         <translation>חדר זה נהרס.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1592"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1592"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1663"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1663"/>
         <source>Reason: %1</source>
         <translation>סיבה: %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1598"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1598"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1669"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1669"/>
         <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
         <translation>האם ברצונך להצטרף אל הזירה החלופית &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1599"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1605"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1599"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1605"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1670"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1676"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1670"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1676"/>
         <source>Room Destroyed</source>
         <translation>חדר הוחרב</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1624"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1624"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1695"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1695"/>
         <source>Banned</source>
         <translation>נאסרת</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1624"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1624"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1695"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1695"/>
         <source>You have been banned from the room</source>
         <translation>נאסרת מן החדר</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1625"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1625"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1696"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1696"/>
         <source>You have been banned from the room by %1</source>
         <translation>נאסרת מן החדר על ידי %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1626"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1626"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1697"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1697"/>
         <source>%1 has been banned</source>
         <translation>%1 נאסר/ה</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1627"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1627"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1698"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1698"/>
         <source>%1 has been banned by %2</source>
         <translation>%1 נאסר/ה על ידי %2</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1632"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1632"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1703"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1703"/>
         <source>Kicked</source>
         <translation>נבעט/ה</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1632"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1632"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1703"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1703"/>
         <source>You have been kicked from the room</source>
         <translation>נבעטת מתוך החדר</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1633"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1633"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1704"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1704"/>
         <source>You have been kicked from the room by %1</source>
         <translation>נבעטת מתוך החדר על ידי %1</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1634"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1634"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1705"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1705"/>
         <source>%1 has been kicked</source>
         <translation>%1 נבעט/ה</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1635"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1635"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1706"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1706"/>
         <source>%1 has been kicked by %2</source>
         <translation>%1 נבעט/ה על ידי %2</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1640"/>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1648"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1640"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1648"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1711"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1719"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1711"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1719"/>
         <source>Removed</source>
         <translation>הוסר/ה</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1641"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1641"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1712"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1712"/>
         <source>You have been removed from the room due to an affiliation change</source>
         <translation>הוסרת מתוך החדר עקב שינוי סינוף</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1642"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1642"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1713"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1713"/>
         <source>You have been removed from the room by %1 due to an affiliation change</source>
         <translation>הוסרת מתוך החדר על ידי %1 עקב שינוי סינוף</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1643"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1643"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1714"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1714"/>
         <source>%1 has been removed from the room due to an affilliation change</source>
         <translation>%1 הוסר/ה מתוך החדר עקב שינוי סינוף</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1644"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1644"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1715"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1715"/>
         <source>%1 has been removed from the room by %2 due to an affilliation change</source>
         <translation>%1 הוסר/ה מתוך החדר על ידי %2 עקב שינוי סינוף</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1649"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1649"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1720"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1720"/>
         <source>You have been removed from the room because the room was made members only</source>
         <translation>הוסרת מתוך החדר משום שזה נהפך לחדר לחברים בלבד</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1650"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1650"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1721"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1721"/>
         <source>You have been removed from the room by %1 because the room was made members only</source>
         <translation>הוסרת מתוך החדר על ידי %1 משום שזה נהפך לחדר לחברים בלבד</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1651"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1651"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1722"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1722"/>
         <source>%1 has been removed from the room because the room was made members-only</source>
         <translation>%1 הוסר/ה מתוך החדר משום שזה נהפך לחדר לחברים-בלבד</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1652"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1652"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1723"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1723"/>
         <source>%1 has been removed from the room by %2 because the room was made members-only</source>
         <translation>%1 הוסר/ה מתוך החדר על ידי %2 משום שזה נהפך לחדר לחברים-בלבד</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1658"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1658"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1729"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1729"/>
         <source>%1 is now known as %2</source>
         <translation>%1 ידוע/ה כעת בשם %2</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1662"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1662"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1733"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1733"/>
         <source>%1 has left the room</source>
         <translation>%1 עזב/ה את החדר</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1732"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1732"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1803"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1803"/>
         <source>The topic has been set to</source>
         <translation>הנושא הוגדר אל</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1735"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1735"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1806"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1806"/>
         <source> has unset the topic</source>
         <translation>איפס/ה את הנושא</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1735"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1735"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1806"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1806"/>
         <source> has set the topic to</source>
         <translation>הגדיר/ה את הנושא אל</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="1797"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1797"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1868"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1868"/>
         <source>Connected.</source>
         <translation>מחובר.</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2231"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2231"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1315"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1315"/>
         <source>Save</source>
         <translation>שמור</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2232"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2232"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1316"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1316"/>
         <source>Delete</source>
         <translation>מחיקה</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2233"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2233"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1317"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1317"/>
         <source>Cancel</source>
         <translation>ביטול</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2242"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2242"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1326"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1326"/>
         <source>&amp;Name:</source>
         <translation>&amp;שם:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2243"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2243"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1327"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1327"/>
         <source>N&amp;ick:</source>
         <translation>&amp;כינוי:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2244"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2244"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1328"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1328"/>
         <source>&amp;Auto join:</source>
         <translation>&amp;הצטרפות אוטומטית:</translation>
     </message>
     <message>
-        <location filename="../tmp/src/groupchatdlg.cpp" line="2255"/>
-        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="2255"/>
+        <location filename="../tmp/src/groupchatdlg.cpp" line="1339"/>
+        <location filename="../../psi-plus-snapshots/src/groupchatdlg.cpp" line="1339"/>
         <source>Bookmark conference</source>
         <translation>סימון ועידה</translation>
     </message>
