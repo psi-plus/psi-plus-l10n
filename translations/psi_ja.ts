@@ -142,68 +142,72 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;</translation>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="78"/>
         <source>Active project members are presents below:</source>
-        <translation type="unfinished"></translation>
+        <translation>以下はアクティブなプロジェクトメンバーです:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="81"/>
         <source>Founder, Patcher and MS Windows Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>創立者、開発者、MS Windows向けパッケージング</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="84"/>
         <source>Founder and Lead Patcher</source>
-        <translation type="unfinished"></translation>
+        <translation>創立者、開発リーダー</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="87"/>
         <source>Founder, Designer and Patcher</source>
-        <translation type="unfinished"></translation>
+        <translation>創立者、デザイナー、開発者</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="90"/>
         <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>開発リーダー、プラグイン開発者、Mac OS X向けパッケージング</translation>
+    </message>
+    <message>
+        <source>Designer and Patcher</source>
+        <translation type="vanished">デザイナー、開発者</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="102"/>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>開発者、プラグイン開発者、Fedora向けパッケージング</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="93"/>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="99"/>
         <source>Patcher and Plugins Writer</source>
-        <translation type="unfinished"></translation>
+        <translation>開発者、プラグイン開発者</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="105"/>
         <source>Patcher and Ubuntu Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>開発者、Ubuntu向けパッケージング</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="108"/>
         <source>Ubuntu Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubuntu向けパッケージング</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="111"/>
         <source>Mandriva Linux Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>Mandriva Linux向けパッケージング</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="114"/>
         <source>Patcher and Russian localization</source>
-        <translation type="unfinished"></translation>
+        <translation>開発者、ロシア語翻訳</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="117"/>
         <source>Psimedia Patcher and Wiki English localization</source>
-        <translation type="unfinished"></translation>
+        <translation>Psimedia開発者、Wiki</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="96"/>
         <source>Language coordinator; Debian Packager</source>
-        <translation type="unfinished"></translation>
+        <translation>言語コーディネータ、Debian</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/aboutdlg.cpp" line="124"/>
@@ -714,12 +718,15 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <source>&lt;b&gt;Attention!&lt;/b&gt;
 &lt;br/&gt;
 When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;注意!&lt;/b&gt;
+&lt;br/&gt;
+この設定を有効にすると、設定ファイルに平文のパスワードではなくハッシュ化された文字列が記述されます。
+ですので、パスワードを忘れた時に困るかもしれません。</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/accountmodify.ui" line="1041"/>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>サーバーがサポートしていれば、パスワードを平文ではなくハッシュ文字列で保存する。</translation>
     </message>
 </context>
 <context>
@@ -1615,7 +1622,7 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="429"/>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"></translation>
+        <translation>サウンド(*.wav)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="441"/>
@@ -1631,12 +1638,12 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="536"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="537"/>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">メールアドレス:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/attentionplugin/attentionplugin.cpp" line="538"/>
@@ -1668,12 +1675,12 @@ To work correctly, the plugin requires that the client of the other part support
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="475"/>
         <source>Enable</source>
-        <translation type="unfinished">有効</translation>
+        <translation>有効</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="476"/>
         <source>Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>無効</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="487"/>
@@ -1769,12 +1776,12 @@ To work correctly, the plugin requires that the client of the other part support
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="754"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="755"/>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">メールアドレス:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/autoreplyplugin/autoreplyplugin.cpp" line="756"/>
@@ -1905,12 +1912,12 @@ The list of exceptions for jids has two operating modes:
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/battleshipgameplugin.cpp" line="299"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/battleshipgameplugin.cpp" line="300"/>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">メールアドレス:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/battleshipgameplugin.cpp" line="301"/>
@@ -2175,12 +2182,12 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/captchaformsplugin/captchaformsplugin.cpp" line="454"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/captchaformsplugin/captchaformsplugin.cpp" line="455"/>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">メールアドレス:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/captchaformsplugin/captchaformsplugin.cpp" line="456"/>
@@ -2647,17 +2654,17 @@ Do you still want to close the window?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="826"/>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"></translation>
+        <translation>サウンド(*.wav)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="859"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="860"/>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">メールアドレス:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/chessplugin.cpp" line="861"/>
@@ -2689,23 +2696,23 @@ For sending commands, normal messages are used, so this plugin will always work 
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/mainwindow.cpp" line="188"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/mainwindow.cpp" line="215"/>
         <source>Load game</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲームを開く</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/mainwindow.cpp" line="189"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/mainwindow.cpp" line="247"/>
         <source>Save game</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲームを保存</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/mainwindow.cpp" line="190"/>
         <source>Quit</source>
-        <translation type="unfinished">終了</translation>
+        <translation>終了</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/mainwindow.cpp" line="191"/>
         <source>Resign</source>
-        <translation type="unfinished"></translation>
+        <translation>降参</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/mainwindow.cpp" line="192"/>
@@ -2715,25 +2722,26 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/mainwindow.cpp" line="196"/>
         <source>File</source>
-        <translation type="unfinished">ファイル</translation>
+        <translation>ファイル</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/mainwindow.cpp" line="197"/>
         <source>Game</source>
-        <translation type="unfinished">ゲーム</translation>
+        <translation>ゲーム</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/mainwindow.cpp" line="215"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/mainwindow.cpp" line="247"/>
         <source>*.chs</source>
-        <translation type="unfinished"></translation>
+        <translation>*.chs</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/mainwindow.cpp" line="230"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/chessplugin/mainwindow.cpp" line="242"/>
         <source>  White     Black
 </source>
-        <translation type="unfinished"></translation>
+        <translation>白黒
+</translation>
     </message>
 </context>
 <context>
@@ -2746,37 +2754,37 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.ui" line="31"/>
         <source>History</source>
-        <translation type="unfinished">履歴</translation>
+        <translation>履歴</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.ui" line="36"/>
         <source>vCards</source>
-        <translation type="unfinished"></translation>
+        <translation>vCard</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.ui" line="41"/>
         <source>Avatars</source>
-        <translation type="unfinished"></translation>
+        <translation>アバター</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.ui" line="46"/>
         <source>Options</source>
-        <translation type="unfinished">オプション</translation>
+        <translation>オプション</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.ui" line="56"/>
         <source>Filter:</source>
-        <translation type="unfinished">フィルタ:</translation>
+        <translation>フィルタ:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.ui" line="72"/>
         <source>Select All Files</source>
-        <translation type="unfinished"></translation>
+        <translation>全てのファイルを選択</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.ui" line="88"/>
         <source>Unselect All Files</source>
-        <translation type="unfinished"></translation>
+        <translation>全てのファイルを解除</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.ui" line="123"/>
@@ -2806,7 +2814,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.ui" line="170"/>
         <source>Close</source>
-        <translation type="unfinished">閉じる</translation>
+        <translation>閉じる</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="66"/>
@@ -2816,7 +2824,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="67"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished">終了(&amp;Q)</translation>
+        <translation>終了(&amp;Q)</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="68"/>
@@ -2831,7 +2839,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="71"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイル</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="76"/>
@@ -2841,22 +2849,22 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="99"/>
         <source>History files: </source>
-        <translation type="unfinished"></translation>
+        <translation>履歴ファイル:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="100"/>
         <source>vCards: </source>
-        <translation type="unfinished"></translation>
+        <translation>vCards:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="101"/>
         <source>Avatars: </source>
-        <translation type="unfinished"></translation>
+        <translation>アバター:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="270"/>
         <source>Clear History</source>
-        <translation type="unfinished"></translation>
+        <translation>履歴をクリア</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="271"/>
@@ -2870,12 +2878,12 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="280"/>
         <source>Clear vCards</source>
-        <translation type="unfinished"></translation>
+        <translation>vCardsをクリア</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="290"/>
         <source>Clear Avatars</source>
-        <translation type="unfinished"></translation>
+        <translation>アバターをクリア</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleaner.cpp" line="301"/>
@@ -2955,12 +2963,12 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleanerplugin.cpp" line="143"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleanerplugin.cpp" line="144"/>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">メールアドレス:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/cleanerplugin.cpp" line="145"/>
@@ -2974,17 +2982,17 @@ You can preview items before deleting them from your hard drive.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/models.cpp" line="345"/>
         <source>Avatar</source>
-        <translation type="unfinished">アバター</translation>
+        <translation>アバター</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/models.cpp" line="346"/>
         <source>Size</source>
-        <translation type="unfinished">サイズ</translation>
+        <translation>サイズ</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/models.cpp" line="347"/>
         <source>Creation Date</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作成日時</translation>
     </message>
 </context>
 <context>
@@ -2992,22 +3000,22 @@ You can preview items before deleting them from your hard drive.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/models.cpp" line="223"/>
         <source>Nick</source>
-        <translation type="unfinished"></translation>
+        <translation>ニックネーム</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/models.cpp" line="224"/>
         <source>Domain</source>
-        <translation type="unfinished"></translation>
+        <translation>ドメイン</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/models.cpp" line="225"/>
         <source>Size</source>
-        <translation type="unfinished">サイズ</translation>
+        <translation>サイズ</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/models.cpp" line="226"/>
         <source>Creation Date</source>
-        <translation type="unfinished"></translation>
+        <translation>作成日時</translation>
     </message>
 </context>
 <context>
@@ -3015,12 +3023,12 @@ You can preview items before deleting them from your hard drive.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/models.cpp" line="398"/>
         <source>Options</source>
-        <translation type="unfinished">オプション</translation>
+        <translation>オプション</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/models.cpp" line="399"/>
         <source>Values</source>
-        <translation type="unfinished"></translation>
+        <translation>値</translation>
     </message>
 </context>
 <context>
@@ -3028,7 +3036,7 @@ You can preview items before deleting them from your hard drive.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/cleanerplugin/clearingtab.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>フォーム</translation>
     </message>
 </context>
 <context>
@@ -3074,7 +3082,7 @@ You can specify the version of the client and OS or to select them from the pres
     <message>
         <location filename="../../psi-plus-snapshots/src/widgets/tabbar.cpp" line="627"/>
         <source>Close Tab</source>
-        <translation type="unfinished">タブを閉じる</translation>
+        <translation>タブを閉じる</translation>
     </message>
 </context>
 <context>
@@ -3087,12 +3095,12 @@ You can specify the version of the client and OS or to select them from the pres
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="187"/>
         <source>Logs:</source>
-        <translation type="unfinished"></translation>
+        <translation>ログ:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="190"/>
         <source>View Log</source>
-        <translation type="unfinished"></translation>
+        <translation>ログを参照</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="192"/>
@@ -3115,12 +3123,12 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="341"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/conferenceloggerplugin/conferenceloggerplugin.cpp" line="342"/>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>メールアドレス:</translation>
     </message>
 </context>
 <context>
@@ -3616,7 +3624,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactmanager/contactmanagermodel.cpp" line="34"/>
         <source>Nick</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ニックネーム</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactmanager/contactmanagermodel.cpp" line="35"/>
@@ -3631,7 +3639,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactmanager/contactmanagermodel.cpp" line="37"/>
         <source>Domain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ドメイン</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/contactmanager/contactmanagermodel.cpp" line="38"/>
@@ -4107,7 +4115,7 @@ Proceed?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/contentdownloaderplugin/contentdownloader.cpp" line="133"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/contentdownloaderplugin/contentdownloader.cpp" line="134"/>
@@ -5057,12 +5065,12 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="660"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="661"/>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">メールアドレス:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedmenuplugin/extendedmenuplugin.cpp" line="662"/>
@@ -5609,12 +5617,12 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1189"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1190"/>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">メールアドレス:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/extendedoptionsplugin/extendedoptionsplugin.cpp" line="1191"/>
@@ -7393,7 +7401,7 @@ You lost the game.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/skinsplugin/getskinname.ui" line="44"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/skinsplugin/getskinname.ui" line="54"/>
@@ -7502,7 +7510,7 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/gnupg.cpp" line="108"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gnupgplugin/gnupg.cpp" line="109"/>
@@ -7540,12 +7548,12 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gomokugameplugin.cpp" line="297"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gomokugameplugin.cpp" line="298"/>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">メールアドレス:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/gomokugameplugin.cpp" line="299"/>
@@ -7967,12 +7975,12 @@ Continue?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/historykeeperplugin/historykeeperplugin.cpp" line="291"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/historykeeperplugin/historykeeperplugin.cpp" line="292"/>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">メールアドレス:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/historykeeperplugin/historykeeperplugin.cpp" line="293"/>
@@ -8447,7 +8455,7 @@ Sincerely yours, Debian Sid.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="413"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/icqdieplugin/icqdieplugin.cpp" line="414"/>
@@ -9127,12 +9135,12 @@ to play battleship. He wants to play %2.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/jabberdiskplugin/jabberdiskplugin.cpp" line="214"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/jabberdiskplugin/jabberdiskplugin.cpp" line="215"/>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">メールアドレス:</translation>
     </message>
 </context>
 <context>
@@ -11058,7 +11066,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_roster.ui" line="127"/>
         <source>Avatars</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">アバター</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_roster.ui" line="134"/>
@@ -11454,7 +11462,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.ui" line="252"/>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>プリセット</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.ui" line="285"/>
@@ -11474,7 +11482,7 @@ Tags: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.ui" line="320"/>
         <source>Selected preset</source>
-        <translation type="unfinished"></translation>
+        <translation>プリセットを選択</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.ui" line="328"/>
@@ -12057,7 +12065,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="261"/>
         <source>View Log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ログを参照</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/options.ui" line="268"/>
@@ -13138,12 +13146,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.cpp" line="346"/>
         <source>Can&apos;t create a blank preset!</source>
-        <translation type="unfinished">空のプリセットは作成出来ません!</translation>
+        <translation>空のプリセットを作成することはできません!</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/options/opt_statusgeneral.cpp" line="350"/>
         <source>You already have a preset with that name!</source>
-        <translation type="unfinished">既にその名前のプリセットが存在します!</translation>
+        <translation>同じ名前のプリセットが存在ます!</translation>
     </message>
 </context>
 <context>
@@ -13672,12 +13680,12 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/pepchangenotifyplugin/pepchangenotifyplugin.cpp" line="575"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/pepchangenotifyplugin/pepchangenotifyplugin.cpp" line="576"/>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">メールアドレス:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/pepchangenotifyplugin/pepchangenotifyplugin.cpp" line="577"/>
@@ -13838,13 +13846,13 @@ Please enter your passphrase below:</source>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="278"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="431"/>
         <source>Load game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ゲームを開く</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="283"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.cpp" line="412"/>
         <source>Save game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ゲームを保存</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="288"/>
@@ -13855,7 +13863,7 @@ Please enter your passphrase below:</source>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/battleshipgameplugin/pluginwindow.ui" line="227"/>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="293"/>
         <source>Resign</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">降参</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/gomokugameplugin/pluginwindow.ui" line="298"/>
@@ -14050,7 +14058,7 @@ Please enter your passphrase below:</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/skinsplugin/previewer.ui" line="54"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/skinsplugin/previewer.ui" line="68"/>
@@ -16866,7 +16874,7 @@ Would you like to activate that session now?</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptions.cpp" line="181"/>
         <source>Greece</source>
-        <translation>ギリシャ</translation>
+        <translation>シエスタ</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/psioptions.cpp" line="182"/>
@@ -18950,12 +18958,12 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/qipxstatusesplugin/qipxstatusesplugin.cpp" line="349"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/qipxstatusesplugin/qipxstatusesplugin.cpp" line="350"/>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">メールアドレス:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/qipxstatusesplugin/qipxstatusesplugin.cpp" line="351"/>
@@ -18968,12 +18976,12 @@ Password: %5</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/redirectorplugin/redirectplugin.cpp" line="126"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/redirectorplugin/redirectplugin.cpp" line="127"/>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">メールアドレス:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/dev/redirectorplugin/redirectplugin.cpp" line="128"/>
@@ -19098,12 +19106,12 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="536"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="537"/>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">メールアドレス:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/birthdayreminderplugin/birthdayreminderplugin.cpp" line="538"/>
@@ -19164,7 +19172,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     <message>
         <location filename="../../psi-plus-snapshots/src/rosteravatarframe.ui" line="58"/>
         <source>Nick</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ニックネーム</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/rosteravatarframe.ui" line="83"/>
@@ -20459,12 +20467,12 @@ Reason: %1</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/skinsplugin/skinsplugin.cpp" line="478"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/skinsplugin/skinsplugin.cpp" line="479"/>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">メールアドレス:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/skinsplugin/skinsplugin.cpp" line="480"/>
@@ -20499,12 +20507,12 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     <message>
         <location filename="../../psi-plus-snapshots/src/statusmenu.cpp" line="70"/>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>プリセット</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/statusmenu.cpp" line="130"/>
         <source>Edit presets...</source>
-        <translation type="unfinished"></translation>
+        <translation>プリセットを編集...</translation>
     </message>
 </context>
 <context>
@@ -20644,12 +20652,12 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/stopspamplugin.cpp" line="1017"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/stopspamplugin.cpp" line="1018"/>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">メールアドレス:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/stopspamplugin/stopspamplugin.cpp" line="1019"/>
@@ -20690,12 +20698,12 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/storagenotesplugin.cpp" line="173"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/storagenotesplugin.cpp" line="174"/>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">メールアドレス:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/storagenotesplugin/storagenotesplugin.cpp" line="175"/>
@@ -21363,7 +21371,7 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/translateplugin/translateplugin.cpp" line="592"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/translateplugin/translateplugin.cpp" line="593"/>
@@ -21881,12 +21889,12 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="723"/>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="724"/>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">メールアドレス:</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/watcherplugin/watcherplugin.cpp" line="725"/>
