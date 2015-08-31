@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2015-07-02
+# Updated: 2015-09-01
 # Version: N/A
 
 if [[ ${0} =~ ^/.+$ ]]; then
@@ -19,16 +19,19 @@ cd "${CUR_DIR}" || exit 1
 
 case "${1}" in
 "up")
+    # Pulling changes from GitHub repo.
 
     git pull --all || exit 1
 
 ;;
 "cm")
+    # Creating correct git commit.
 
     git commit -a -m 'Translations were updated from Transifex.' || exit 1
 
 ;;
 "tag")
+    # Creating correct git tag.
 
     cd "${PSIPLUS_DIR}" || exit 1
     CUR_TAG="$(git tag -l  | sort -r -V | head -n1)"
@@ -43,12 +46,14 @@ case "${1}" in
 
 ;;
 "push")
+    # Pushing changes into GitHub repo.
 
     git push || exit 1
     git push --tags || exit 1
 
 ;;
 "make")
+    # Making precompiled localization files.
 
     rm translations.pro
 
@@ -62,6 +67,7 @@ case "${1}" in
 
 ;;
 "install")
+    # Installing precompiled localization files into default directory.
 
     if [ ${USER} != "root" ]; then
         echo "You are not a root now!"
@@ -73,6 +79,7 @@ case "${1}" in
 
 ;;
 "tarball")
+    # Generating tarball with precompiled localization files.
 
     CUR_TAG="$(git tag -l  | sort -r -V | head -n1)"
 
@@ -87,6 +94,7 @@ case "${1}" in
 
 ;;
 "tr")
+    # Pulling changes from Transifex.
 
     # Test Internet connection:
     host transifex.com > /dev/null || exit 1
@@ -106,6 +114,7 @@ case "${1}" in
 
 ;;
 "tr_up")
+    # Full update of localization files.
 
     git status || exit 1
 
@@ -174,7 +183,18 @@ case "${1}" in
     git status || exit 1
 
 ;;
+"tr_fu")
+    # Fast update of localization files.
+
+    git status || exit 1
+
+    lupdate -verbose ./translations.pro
+
+    git status || exit 1
+
+;;
 "tr_cl")
+    # Cleaning update of localization files.
 
     git status || exit 1
 
@@ -184,6 +204,7 @@ case "${1}" in
 
 ;;
 "tr_push")
+    # Pushing changes to Transifex.
 
     LANG_DIR="${MAIN_DIR}/psi-plus-l10n_transifex/translations/psi-plus.full"
     cd "${LANG_DIR}" || exit 1
@@ -205,6 +226,7 @@ case "${1}" in
 
 ;;
 "tr_co")
+    # Cloning Transifex repo.
 
     if [ -d "${MAIN_DIR}/psi-plus-l10n_transifex" ]; then
         echo "${MAIN_DIR}/psi-plus-l10n_transifex"
@@ -219,6 +241,7 @@ case "${1}" in
 
 ;;
 "tr_sync")
+    # Syncing Transifex and Guthub repos.
 
     "${0}" up > /dev/null || exit 1
     "${0}" tr > /dev/null || exit 1
@@ -230,10 +253,11 @@ case "${1}" in
     echo ;
 ;;
 *)
+    # Help.
 
     echo "Usage:"
     echo "  up cm tag push make install tarball"
-    echo "  tr tr_up tr_cl tr_co tr_sync"
+    echo "  tr tr_up tr_fu tr_cl tr_co tr_sync"
     echo "  tr_push <arg> (arg: src, all or language)"
     echo ;
     echo "Examples:"
