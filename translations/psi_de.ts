@@ -3120,7 +3120,7 @@ Sie können die Version des Clients und des Betriebssystems selbst festlegen ode
 <context>
     <name>CloseButton</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/widgets/tabbar.cpp" line="627"/>
+        <location filename="../../psi-plus-snapshots/src/widgets/tabbar.cpp" line="634"/>
         <source>Close Tab</source>
         <translation>Tab schließen</translation>
     </message>
@@ -9204,7 +9204,7 @@ Schiffe versenken ein. Er möchte %2 spielen.</translation>
 <context>
     <name>JT_VCard</name>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1151"/>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1156"/>
         <source>No VCard available</source>
         <translation>Keine Visitenkarte verfügbar</translation>
     </message>
@@ -13522,8 +13522,12 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="334"/>
+        <source>Save queries to log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save queryes to log</source>
-        <translation>Speichere Abfragen im Log</translation>
+        <translation type="vanished">Speichere Abfragen im Log</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="367"/>
@@ -18428,7 +18432,7 @@ Beschreibung: </translation>
         <translation>Ungebunden</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_toolbars.cpp" line="279"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_toolbars.cpp" line="284"/>
         <source>&lt;unnamed%1&gt;</source>
         <translation>&lt;unbenannt%1&gt;</translation>
     </message>
@@ -22595,7 +22599,7 @@ Möchten Sie dennoch das Fenster schließen?</translation>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1150"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1155"/>
         <source>No VCard available</source>
         <translation>Keine Visitenkarte verfügbar</translation>
     </message>

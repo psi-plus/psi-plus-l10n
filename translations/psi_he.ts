@@ -13425,7 +13425,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="334"/>
-        <source>Save queryes to log</source>
+        <source>Save queries to log</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

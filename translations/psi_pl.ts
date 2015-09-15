@@ -3094,7 +3094,7 @@ Można ręcznie określić wersję klienta i systemu operacyjnego lub wybrać je
 <context>
     <name>CloseButton</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/widgets/tabbar.cpp" line="627"/>
+        <location filename="../../psi-plus-snapshots/src/widgets/tabbar.cpp" line="634"/>
         <source>Close Tab</source>
         <translation type="unfinished">Zamknij kartę</translation>
     </message>
@@ -9170,7 +9170,7 @@ to play battleship. He wants to play %2.</source>
 <context>
     <name>JT_VCard</name>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1151"/>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1156"/>
         <source>No VCard available</source>
         <translation type="unfinished">Nie znaleziono wizytówki</translation>
     </message>
@@ -13454,8 +13454,12 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="334"/>
+        <source>Save queries to log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save queryes to log</source>
-        <translation>Zapisz zapytanie do dziennika</translation>
+        <translation type="vanished">Zapisz zapytanie do dziennika</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="367"/>
@@ -18346,7 +18350,7 @@ Description: </source>
         <translation>brak przynależności</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_toolbars.cpp" line="279"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_toolbars.cpp" line="284"/>
         <source>&lt;unnamed%1&gt;</source>
         <translation>&lt;nienazwany%1&gt;</translation>
     </message>
@@ -22463,7 +22467,7 @@ Czy nadal chcesz zamknąć tablicę?</translation>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1150"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1155"/>
         <source>No VCard available</source>
         <translation>Nie znaleziono wizytówki</translation>
     </message>

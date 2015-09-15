@@ -3062,7 +3062,7 @@ You can specify the version of the client and OS or to select them from the pres
 <context>
     <name>CloseButton</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/widgets/tabbar.cpp" line="627"/>
+        <location filename="../../psi-plus-snapshots/src/widgets/tabbar.cpp" line="634"/>
         <source>Close Tab</source>
         <translation type="unfinished">Đóng thẻ</translation>
     </message>
@@ -9113,7 +9113,7 @@ to play battleship. He wants to play %2.</source>
 <context>
     <name>JT_VCard</name>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1151"/>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1156"/>
         <source>No VCard available</source>
         <translation type="unfinished">Không có vCard sẵn sàng</translation>
     </message>
@@ -13381,7 +13381,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="334"/>
-        <source>Save queryes to log</source>
+        <source>Save queries to log</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18274,7 +18274,7 @@ Description: </source>
         <translation>không có nhập hội</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_toolbars.cpp" line="279"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_toolbars.cpp" line="284"/>
         <source>&lt;unnamed%1&gt;</source>
         <translation>&lt;không_tên%1&gt;</translation>
     </message>
@@ -22377,7 +22377,7 @@ Bạn vẫn còn muốn đóng cửa sổ không?</translation>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1150"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1155"/>
         <source>No VCard available</source>
         <translation>Không có vCard sẵn sàng</translation>
     </message>

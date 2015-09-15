@@ -3105,7 +3105,7 @@ Você poderá especificar a versão do cliente e Sistema Operacional ou para a l
 <context>
     <name>CloseButton</name>
     <message>
-        <location filename="../../psi-plus-snapshots/src/widgets/tabbar.cpp" line="627"/>
+        <location filename="../../psi-plus-snapshots/src/widgets/tabbar.cpp" line="634"/>
         <source>Close Tab</source>
         <translation>Fechar Aba</translation>
     </message>
@@ -9202,7 +9202,7 @@ to play battleship. He wants to play %2.</source>
 <context>
     <name>JT_VCard</name>
     <message>
-        <location filename="../tmp/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1151"/>
+        <location filename="../tmp/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1156"/>
         <source>No VCard available</source>
         <translation>Nenhum VCard disponível</translation>
     </message>
@@ -13526,8 +13526,12 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="334"/>
+        <source>Save queries to log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save queryes to log</source>
-        <translation>Salvar consultas no registro</translation>
+        <translation type="vanished">Salvar consultas no registro</translation>
     </message>
     <message>
         <location filename="../../psi-plus-snapshots/src/plugins/generic/clientswitcherplugin/options.ui" line="367"/>
@@ -18432,7 +18436,7 @@ Descrição: </translation>
         <translation>não filiado</translation>
     </message>
     <message>
-        <location filename="../../psi-plus-snapshots/src/options/opt_toolbars.cpp" line="279"/>
+        <location filename="../../psi-plus-snapshots/src/options/opt_toolbars.cpp" line="284"/>
         <source>&lt;unnamed%1&gt;</source>
         <translation>&lt;sem nome %1&gt;</translation>
     </message>
@@ -22606,7 +22610,7 @@ Realmente deseja fechar a janela?</translation>
 <context>
     <name>XMPP::JT_VCard</name>
     <message>
-        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1150"/>
+        <location filename="../../psi-plus-snapshots/iris/src/xmpp/xmpp-im/xmpp_tasks.cpp" line="1155"/>
         <source>No VCard available</source>
         <translation>Nenhum VCard disponível</translation>
     </message>
