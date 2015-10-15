@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ru">
+<TS version="2.1" language="ru">
 <context>
     <name>@default</name>
     <message>
@@ -131,7 +131,7 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;</translation>
     </message>
     <message>
         <source>Designer and Patcher</source>
-        <translation>Дизайнер и автор патчей</translation>
+        <translation type="vanished">Дизайнер и автор патчей</translation>
     </message>
     <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
@@ -3291,10 +3291,6 @@ Proceed?</source>
         <translation>Создание новой группы</translation>
     </message>
     <message>
-        <source>Choose parent group: </source>
-        <translation>Родительская группа: </translation>
-    </message>
-    <message>
         <source>Enter the new group name:</source>
         <translation>Введите название новой группы:</translation>
     </message>
@@ -3305,6 +3301,10 @@ Proceed?</source>
     <message>
         <source>&lt;None&gt;</source>
         <translation>&lt;Нет&gt;</translation>
+    </message>
+    <message>
+        <source>Choose parent group: </source>
+        <translation>Родительская группа: </translation>
     </message>
 </context>
 <context>
@@ -4142,10 +4142,6 @@ This option only has effect if accept-defaults is false.</source>
         <translation>Включить рендеринг HTML в конференциях</translation>
     </message>
     <message>
-        <source>Allow groupchat highlight events</source>
-        <translation>Разрешить события выделения в конференции</translation>
-    </message>
-    <message>
         <source>Disable autojoin to folowing groupchats:
 (specify JIDs)</source>
         <translation>Выключить автоподключение для следующих конференций:
@@ -4320,10 +4316,6 @@ This option only has effect if accept-defaults is false.</source>
         <translation>Цвет ников в ростере конференции:</translation>
     </message>
     <message>
-        <source>Enable multirow tabs</source>
-        <translation>Многострочная панель табов</translation>
-    </message>
-    <message>
         <source>Enable sound notifications for every groupchat message</source>
         <translation>Включить звуковые уведомления для всех сообщений конференции</translation>
     </message>
@@ -4444,6 +4436,14 @@ Importantly: a large part of the options are important system settings. These re
 Данный плагин даёт Вам доступ к настройкам приложения, которые не имеют &quot;графического&quot; интерфейса в стандартной поставке.
 
 Важно: бОльшая часть настроек имеет системный характер и требует внимания и понимания смысла изменяемых функций.</translation>
+    </message>
+    <message>
+        <source>Allow groupchat highlight events</source>
+        <translation>Разрешить события выделения в конференции</translation>
+    </message>
+    <message>
+        <source>Enable multirow tabs</source>
+        <translation>Многострочная панель табов</translation>
     </message>
 </context>
 <context>
@@ -6133,16 +6133,6 @@ For sending commands, normal messages are used, so this plugin will always work 
 <context>
     <name>HistoryImport</name>
     <message>
-        <source>Psi+ Import history</source>
-        <translation>Импорт истории Psi+</translation>
-    </message>
-    <message>
-        <source>Found %1 files for import.
-Continue?</source>
-        <translation>Обнаружено %1 фалов для импорта.
-Продолжить?</translation>
-    </message>
-    <message>
         <source>Status:</source>
         <translation>Статус:</translation>
     </message>
@@ -6159,16 +6149,26 @@ Continue?</source>
         <translation>Выход</translation>
     </message>
     <message>
-        <source>Counting records</source>
-        <translation>Подсчёт записей</translation>
-    </message>
-    <message>
         <source>Import</source>
         <translation>Импорт</translation>
     </message>
     <message>
         <source>Error</source>
         <translation>Ошибка</translation>
+    </message>
+    <message>
+        <source>Psi+ Import history</source>
+        <translation>Импорт истории Psi+</translation>
+    </message>
+    <message>
+        <source>Found %1 files for import.
+Continue?</source>
+        <translation>Обнаружено %1 фалов для импорта.
+Продолжить?</translation>
+    </message>
+    <message>
+        <source>Counting records</source>
+        <translation>Подсчёт записей</translation>
     </message>
 </context>
 <context>
@@ -6997,24 +6997,12 @@ to play battleship. He wants to play %2.</source>
         <translation>Приглашение</translation>
     </message>
     <message>
-        <source>Battliship Game Plugin - Invite</source>
-        <translation>Приглашение поиграть в Морской бой</translation>
-    </message>
-    <message>
         <source>Opponent:</source>
         <translation>Противник:</translation>
     </message>
     <message>
         <source>Select resource:</source>
         <translation>Выбрать ресурс:</translation>
-    </message>
-    <message>
-        <source>I want to play first</source>
-        <translation>Хочу играть первым</translation>
-    </message>
-    <message>
-        <source>I want to play second</source>
-        <translation>Хочу играть вторым</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -7027,6 +7015,18 @@ to play battleship. He wants to play %2.</source>
     <message>
         <source>Play Black</source>
         <translation>Играть чёрными</translation>
+    </message>
+    <message>
+        <source>Battliship Game Plugin - Invite</source>
+        <translation>Приглашение поиграть в Морской бой</translation>
+    </message>
+    <message>
+        <source>I want to play first</source>
+        <translation>Хочу играть первым</translation>
+    </message>
+    <message>
+        <source>I want to play second</source>
+        <translation>Хочу играть вторым</translation>
     </message>
 </context>
 <context>
@@ -7768,39 +7768,39 @@ Details: %1</source>
     <name>Model</name>
     <message>
         <source>Type</source>
-        <translation>Тип</translation>
+        <translation type="vanished">Тип</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Имя</translation>
+        <translation type="vanished">Имя</translation>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation>E-Mail</translation>
+        <translation type="vanished">E-Mail</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation>Создан</translation>
+        <translation type="vanished">Создан</translation>
     </message>
     <message>
         <source>Length</source>
-        <translation>Длина</translation>
+        <translation type="vanished">Длина</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation>Комментарий</translation>
+        <translation type="vanished">Комментарий</translation>
     </message>
     <message>
         <source>Algorithm</source>
-        <translation>Алгоритм</translation>
+        <translation type="vanished">Алгоритм</translation>
     </message>
     <message>
         <source>Short ID</source>
-        <translation>Краткий ID</translation>
+        <translation type="vanished">Краткий ID</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation>Отпечаток</translation>
+        <translation type="vanished">Отпечаток</translation>
     </message>
     <message>
         <source>Enable/Disable</source>
@@ -8138,10 +8138,6 @@ Tags: %1</source>
         <translation>Статусное сообщение:</translation>
     </message>
     <message>
-        <source>Highlight:</source>
-        <translation>Выделение:</translation>
-    </message>
-    <message>
         <source>Specifies the color for additional text of system messages. MUC topic for example.</source>
         <translation>Цвет для дополнительного текста системных сообщений. Тема конференции, например.</translation>
     </message>
@@ -8172,6 +8168,10 @@ Tags: %1</source>
     <message>
         <source>Popup:</source>
         <translation>Всплывающее окно:</translation>
+    </message>
+    <message>
+        <source>Highlight:</source>
+        <translation>Выделение:</translation>
     </message>
 </context>
 <context>
@@ -8491,6 +8491,26 @@ Tags: %1</source>
         <translation>OptPluginsUI</translation>
     </message>
     <message>
+        <source>Plugin Name:</source>
+        <translation type="vanished">Название:</translation>
+    </message>
+    <message>
+        <source>Version: 0</source>
+        <translation type="vanished">Версия: 0</translation>
+    </message>
+    <message>
+        <source>Load this plugin</source>
+        <translation type="vanished">Активировать</translation>
+    </message>
+    <message>
+        <source>Plugin Location:</source>
+        <translation type="vanished">Расположение:</translation>
+    </message>
+    <message>
+        <source>No plugin selected</source>
+        <translation type="vanished">Плагин не выбран</translation>
+    </message>
+    <message>
         <source>Plugin Name</source>
         <translation>Название</translation>
     </message>
@@ -8509,26 +8529,6 @@ Tags: %1</source>
     <message>
         <source>S</source>
         <translation>A</translation>
-    </message>
-    <message>
-        <source>Plugin Name:</source>
-        <translation>Название:</translation>
-    </message>
-    <message>
-        <source>Version: 0</source>
-        <translation>Версия: 0</translation>
-    </message>
-    <message>
-        <source>Load this plugin</source>
-        <translation>Активировать</translation>
-    </message>
-    <message>
-        <source>Plugin Location:</source>
-        <translation>Расположение:</translation>
-    </message>
-    <message>
-        <source>No plugin selected</source>
-        <translation>Плагин не выбран</translation>
     </message>
 </context>
 <context>
@@ -10126,6 +10126,14 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Настройки плагинов</translation>
     </message>
     <message>
+        <source>No plugin selected.</source>
+        <translation type="vanished">Плагин не выбран.</translation>
+    </message>
+    <message>
+        <source>Version: </source>
+        <translation type="vanished">Версия: </translation>
+    </message>
+    <message>
         <source>Plugin Path:
 %1</source>
         <translation>Расположение:
@@ -10142,14 +10150,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Settings of %1</source>
         <translation>Настройки %1</translation>
-    </message>
-    <message>
-        <source>No plugin selected.</source>
-        <translation>Плагин не выбран.</translation>
-    </message>
-    <message>
-        <source>Version: </source>
-        <translation>Версия: </translation>
     </message>
 </context>
 <context>
@@ -10523,12 +10523,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>всегда</translation>
     </message>
     <message>
-        <source>Save queries to log</source>
-        <translation>Сохранять запросы в журнал</translation>
-    </message>
-    <message>
         <source>Save queryes to log</source>
-        <translation>Сохранять запросы в журнал</translation>
+        <translation type="vanished">Сохранять запросы в журнал</translation>
     </message>
     <message>
         <source>Logs</source>
@@ -10645,6 +10641,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Save queries to log</source>
+        <translation>Сохранять запросы в журнал</translation>
     </message>
 </context>
 <context>
@@ -10819,7 +10819,7 @@ Please enter your passphrase below:</source>
     <name>PluginInfoDialog</name>
     <message>
         <source>Information</source>
-        <translation>Информация</translation>
+        <translation type="vanished">Информация</translation>
     </message>
     <message>
         <source>About</source>
@@ -10851,10 +10851,6 @@ Please enter your passphrase below:</source>
         <translation>Игра Гомоку</translation>
     </message>
     <message>
-        <source>Battleship game</source>
-        <translation>Морской бой</translation>
-    </message>
-    <message>
         <source>Opponent:</source>
         <translation>Противник:</translation>
     </message>
@@ -10863,40 +10859,8 @@ Please enter your passphrase below:</source>
         <translation>Статус:</translation>
     </message>
     <message>
-        <source>Freeze ships position</source>
-        <translation>Закрепить позиции кораблей</translation>
-    </message>
-    <message>
-        <source>Press button and make move if you want to propose draw</source>
-        <translation>Нажмите кнопку и сделайте шаг, если вы хотите предложить ничью</translation>
-    </message>
-    <message>
-        <source>Propose a draw</source>
-        <translation>Предложить ничью</translation>
-    </message>
-    <message>
-        <source>Press button if you want to accept the draw proposal</source>
-        <translation>Нажмите кнопку, если вы согласны принять ничью</translation>
-    </message>
-    <message>
-        <source>Accept the draw proposal</source>
-        <translation>Согласиться на ничью</translation>
-    </message>
-    <message>
-        <source>Press button if you want to resign</source>
-        <translation>Нажмите кнопку, если Вы хотите прекратить игру</translation>
-    </message>
-    <message>
-        <source>Resign the game</source>
-        <translation>Прекратить игру</translation>
-    </message>
-    <message>
         <source>Game</source>
         <translation>Игра</translation>
-    </message>
-    <message>
-        <source>--</source>
-        <translation>--</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -10951,16 +10915,8 @@ Please enter your passphrase below:</source>
         <translation>В ожидании принятия</translation>
     </message>
     <message>
-        <source>Setting ships position</source>
-        <translation>Настройка позиций кораблей</translation>
-    </message>
-    <message>
         <source>Your turn</source>
         <translation>Ваш ход</translation>
-    </message>
-    <message>
-        <source>Draw</source>
-        <translation>Ничья</translation>
     </message>
     <message>
         <source>End of game</source>
@@ -11029,6 +10985,50 @@ Please enter your passphrase below:</source>
     <message>
         <source>You really want to begin loaded game?</source>
         <translation>Вы действительно хотите загрузить игру?</translation>
+    </message>
+    <message>
+        <source>Battleship game</source>
+        <translation>Морской бой</translation>
+    </message>
+    <message>
+        <source>Freeze ships position</source>
+        <translation>Закрепить позиции кораблей</translation>
+    </message>
+    <message>
+        <source>Press button and make move if you want to propose draw</source>
+        <translation>Нажмите кнопку и сделайте шаг, если вы хотите предложить ничью</translation>
+    </message>
+    <message>
+        <source>Propose a draw</source>
+        <translation>Предложить ничью</translation>
+    </message>
+    <message>
+        <source>Press button if you want to accept the draw proposal</source>
+        <translation>Нажмите кнопку, если вы согласны принять ничью</translation>
+    </message>
+    <message>
+        <source>Accept the draw proposal</source>
+        <translation>Согласиться на ничью</translation>
+    </message>
+    <message>
+        <source>Press button if you want to resign</source>
+        <translation>Нажмите кнопку, если Вы хотите прекратить игру</translation>
+    </message>
+    <message>
+        <source>Resign the game</source>
+        <translation>Прекратить игру</translation>
+    </message>
+    <message>
+        <source>--</source>
+        <translation>--</translation>
+    </message>
+    <message>
+        <source>Setting ships position</source>
+        <translation>Настройка позиций кораблей</translation>
+    </message>
+    <message>
+        <source>Draw</source>
+        <translation>Ничья</translation>
     </message>
 </context>
 <context>
@@ -11872,14 +11872,6 @@ Details: %1</source>
         <translation>Для выполнения операции необходимо сначала подключиться к серверу.</translation>
     </message>
     <message>
-        <source>Nested Groups Delimiter</source>
-        <translation>Разделитель вложенных групп</translation>
-    </message>
-    <message>
-        <source>Set a new delimiter of nested groups</source>
-        <translation>Установить новый разделитель вложенных групп</translation>
-    </message>
-    <message>
         <source>Unregister from %1</source>
         <translation>Отмена регистрации на %1</translation>
     </message>
@@ -11938,6 +11930,14 @@ Reason: %1.</source>
     <message>
         <source>Public Key: %1</source>
         <translation>Публичный ключ: %1</translation>
+    </message>
+    <message>
+        <source>Nested Groups Delimiter</source>
+        <translation>Разделитель вложенных групп</translation>
+    </message>
+    <message>
+        <source>Set a new delimiter of nested groups</source>
+        <translation>Установить новый разделитель вложенных групп</translation>
     </message>
 </context>
 <context>
@@ -12751,14 +12751,6 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation>Добавить в ростер и авторизовать</translation>
     </message>
     <message>
-        <source>&amp;Log On</source>
-        <translation>&amp;Подключить</translation>
-    </message>
-    <message>
-        <source>Log &amp;Off</source>
-        <translation>&amp;Отключить</translation>
-    </message>
-    <message>
         <source>&amp;Receive Incoming Event</source>
         <translation>&amp;Показать сообщение</translation>
     </message>
@@ -12783,64 +12775,24 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation>Отправить &amp;файл</translation>
     </message>
     <message>
-        <source>Re&amp;send Authorization To</source>
-        <translation>&amp;Разрешить подписку</translation>
-    </message>
-    <message>
-        <source>Re&amp;request Authorization From</source>
-        <translation>&amp;Запросить подписку</translation>
-    </message>
-    <message>
-        <source>Re&amp;move Authorization From</source>
-        <translation>&amp;Удалить подписку</translation>
-    </message>
-    <message>
-        <source>In&amp;vite To</source>
-        <translation>&amp;Пригласить в</translation>
-    </message>
-    <message>
-        <source>Send Message T&amp;o</source>
-        <translation>&amp;Отправить сообщение</translation>
-    </message>
-    <message>
-        <source>Open Chat &amp;To</source>
-        <translation>Открыть чат</translation>
-    </message>
-    <message>
-        <source>Open a White&amp;board To</source>
-        <translation>Открыть доску для рисования</translation>
-    </message>
-    <message>
-        <source>&amp;Active Chats</source>
-        <translation>Активные чаты</translation>
-    </message>
-    <message>
-        <source>Manage &amp;Contact</source>
-        <translation>Менеджер контактов</translation>
-    </message>
-    <message>
-        <source>&amp;Authorization</source>
-        <translation>Авторизация</translation>
-    </message>
-    <message>
         <source>&amp;Log on</source>
-        <translation>&amp;Подключить</translation>
+        <translation type="vanished">&amp;Подключить</translation>
     </message>
     <message>
         <source>Log Off</source>
-        <translation>Отключить</translation>
+        <translation type="vanished">Отключить</translation>
     </message>
     <message>
         <source>Resend Authorization To</source>
-        <translation>Разрешить подписку</translation>
+        <translation type="vanished">Разрешить подписку</translation>
     </message>
     <message>
         <source>Rerequest Authorization From</source>
-        <translation>Запросить подписку</translation>
+        <translation type="vanished">Запросить подписку</translation>
     </message>
     <message>
         <source>Remove Authorization From</source>
-        <translation>Удалить подписку</translation>
+        <translation type="vanished">Удалить подписку</translation>
     </message>
     <message>
         <source>Sen&amp;d Status</source>
@@ -12868,7 +12820,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Invite To</source>
-        <translation>Пригласить в</translation>
+        <translation type="vanished">Пригласить в</translation>
     </message>
     <message>
         <source>&amp;Group</source>
@@ -12876,15 +12828,15 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Send Message To</source>
-        <translation>Отправить сообщение</translation>
+        <translation type="vanished">Отправить сообщение</translation>
     </message>
     <message>
         <source>Open Chat To</source>
-        <translation>Открыть чат</translation>
+        <translation type="vanished">Открыть чат</translation>
     </message>
     <message>
         <source>Open a Whiteboard To</source>
-        <translation>Открыть доску для рисования</translation>
+        <translation type="vanished">Открыть доску для рисования</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -12892,7 +12844,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Active Chats</source>
-        <translation>Активные чаты</translation>
+        <translation type="vanished">Активные чаты</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -12916,7 +12868,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Authorization</source>
-        <translation>Подписка</translation>
+        <translation type="vanished">Подписка</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
@@ -12981,6 +12933,54 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <source>Unblock</source>
         <translation>Разблокировать</translation>
+    </message>
+    <message>
+        <source>&amp;Log On</source>
+        <translation>&amp;Подключить</translation>
+    </message>
+    <message>
+        <source>Log &amp;Off</source>
+        <translation>&amp;Отключить</translation>
+    </message>
+    <message>
+        <source>Re&amp;send Authorization To</source>
+        <translation>&amp;Разрешить подписку</translation>
+    </message>
+    <message>
+        <source>Re&amp;request Authorization From</source>
+        <translation>&amp;Запросить подписку</translation>
+    </message>
+    <message>
+        <source>Re&amp;move Authorization From</source>
+        <translation>&amp;Удалить подписку</translation>
+    </message>
+    <message>
+        <source>In&amp;vite To</source>
+        <translation>&amp;Пригласить в</translation>
+    </message>
+    <message>
+        <source>Send Message T&amp;o</source>
+        <translation>&amp;Отправить сообщение</translation>
+    </message>
+    <message>
+        <source>Open Chat &amp;To</source>
+        <translation>Открыть чат</translation>
+    </message>
+    <message>
+        <source>Open a White&amp;board To</source>
+        <translation>Открыть доску для рисования</translation>
+    </message>
+    <message>
+        <source>&amp;Active Chats</source>
+        <translation>Активные чаты</translation>
+    </message>
+    <message>
+        <source>Manage &amp;Contact</source>
+        <translation>Менеджер контактов</translation>
+    </message>
+    <message>
+        <source>&amp;Authorization</source>
+        <translation>Авторизация</translation>
     </message>
 </context>
 <context>
@@ -14391,24 +14391,6 @@ The message was not sent.</source>
         <translation>Psi+ OTR</translation>
     </message>
     <message>
-        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
-
-Do you want to generate keys now?</source>
-        <translation>Необходимо сгенерировать личные ключи для аккаунта &quot;%1&quot;. Это займет какое-то время (от пары секунд до нескольких минут). Вы сможете использовать Psi+ в это время, но все сообщения будут незашифрованными, пока ключи не сгенерируются.
-
-Сгенерировать ключи сейчас?</translation>
-    </message>
-    <message>
-        <source>Keys have been generated. Fingerprint for account &quot;%1&quot;:
-%2
-
-Thanks for your patience.</source>
-        <translation>Ключи успешно сгенерированы. Отпечаток ключа для аккаунта &quot;%1&quot;:
-%2
-
-Спасибо за терпение.</translation>
-    </message>
-    <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
 The OTR Plugin will not work.</source>
         <translation>Не удалось сгенерировать ключи для аккаунта &quot;%1&quot;.
@@ -14791,6 +14773,24 @@ URL: %4
     <message>
         <source>Last Status Message</source>
         <translation>Последний статус</translation>
+    </message>
+    <message>
+        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
+
+Do you want to generate keys now?</source>
+        <translation>Необходимо сгенерировать личные ключи для аккаунта &quot;%1&quot;. Это займет какое-то время (от пары секунд до нескольких минут). Вы сможете использовать Psi+ в это время, но все сообщения будут незашифрованными, пока ключи не сгенерируются.
+
+Сгенерировать ключи сейчас?</translation>
+    </message>
+    <message>
+        <source>Keys have been generated. Fingerprint for account &quot;%1&quot;:
+%2
+
+Thanks for your patience.</source>
+        <translation>Ключи успешно сгенерированы. Отпечаток ключа для аккаунта &quot;%1&quot;:
+%2
+
+Спасибо за терпение.</translation>
     </message>
 </context>
 <context>
@@ -17784,14 +17784,6 @@ Do you still want to close the window?</source>
         <translation>Отключить приглашения, если статус &quot;Не беспокоить&quot;</translation>
     </message>
     <message>
-        <source>Disable invitations from conference</source>
-        <translation>Отключить приглашения из конференций</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Disable invitations from groupchat</source>
         <translation>Отключить приглашения из конференции</translation>
     </message>
@@ -17854,6 +17846,14 @@ Do you still want to close the window?</source>
     <message>
         <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Disable invitations from conference</source>
+        <translation>Отключить приглашения из конференций</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Описание (в интернете)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -18142,14 +18142,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>Нет личного ключа для аккаунта &quot;%1&quot;</translation>
     </message>
     <message>
-        <source>Session ID between account &quot;%1&quot; and %2: %3</source>
-        <translation>ID сессии между аккаунтами &quot;%1&quot; и %2: %3</translation>
-    </message>
-    <message>
-        <source>Fingerprint for account &quot;%1&quot;: %2</source>
-        <translation>Отпечаток для аккаунта &quot;%1&quot;: %2</translation>
-    </message>
-    <message>
         <source>unverified</source>
         <translation>непроверенный</translation>
     </message>
@@ -18180,6 +18172,14 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Show own &amp;fingerprint</source>
         <translation>Показать свой отпечато&amp;к</translation>
+    </message>
+    <message>
+        <source>Session ID between account &quot;%1&quot; and %2: %3</source>
+        <translation>ID сессии между аккаунтами &quot;%1&quot; и %2: %3</translation>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation>Отпечаток для аккаунта &quot;%1&quot;: %2</translation>
     </message>
 </context>
 <context>
@@ -18237,10 +18237,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>Psi+ OTR</translation>
     </message>
     <message>
-        <source>OTR Plugin: event from %1</source>
-        <translation>OTR плагин: событие от %1</translation>
-    </message>
-    <message>
         <source>Attempting to refresh the private conversation</source>
         <translation>Попытка возобновить личную переписку</translation>
     </message>
@@ -18283,6 +18279,10 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Contact not authenticated</source>
         <translation>Контакт не аутентифицирован</translation>
+    </message>
+    <message>
+        <source>OTR Plugin: event from %1</source>
+        <translation>OTR плагин: событие от %1</translation>
     </message>
 </context>
 <context>
