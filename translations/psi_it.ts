@@ -3846,6 +3846,10 @@ Se vuoi confermare questa richeista, premi il tasto Conferma. Altrimenti premi i
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to modify your roster (%1). Click the button labelled &quot;Add/Auth&quot; to authorize the modification.</source>
         <translation>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Questo utente vuole modificare la tua lista dei contatti (%1). Premi il tasto &quot;Aggiungi\Autorizza&quot; per autorizzare la modifica.</translation>
     </message>
+    <message>
+        <source>For all</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EventNotifierAction</name>

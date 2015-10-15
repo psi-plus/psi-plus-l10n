@@ -3874,6 +3874,10 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to modify your roster (%1). Click the button labelled &quot;Add/Auth&quot; to authorize the modification.</source>
         <translation>&lt;big&gt;[הודעת מערכת]&lt;/big&gt;&lt;br&gt;משתמש זה מעוניין לשנות את רשימתך (%1). לחץ על הלחצן המתויג בשם &quot;הוסף/אשר&quot; כדי לאשר את השינויים.</translation>
     </message>
+    <message>
+        <source>For all</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EventNotifierAction</name>

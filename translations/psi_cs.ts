@@ -3878,6 +3878,10 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to modify your roster (%1). Click the button labelled &quot;Add/Auth&quot; to authorize the modification.</source>
         <translation>&lt;big&gt;[Systémová zpráva]&lt;/big&gt;&lt;br&gt;Tento uživatel chce upravit váš seznam kontaktů (%1). Stiskem tlačítka &quot;Přidat/Oprávnit&quot; můžete tento požadavek potvrdit.</translation>
     </message>
+    <message>
+        <source>For all</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EventNotifierAction</name>

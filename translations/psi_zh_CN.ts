@@ -3901,6 +3901,10 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to modify your roster (%1). Click the button labelled &quot;Add/Auth&quot; to authorize the modification.</source>
         <translation>&lt;big&gt;[系统信息]&lt;/big&gt;&lt;br&gt;这个用户想要修改你的名单 (%1)。单击 &quot;添加/授权&quot; 按钮来授权这个修改。</translation>
     </message>
+    <message>
+        <source>For all</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EventNotifierAction</name>

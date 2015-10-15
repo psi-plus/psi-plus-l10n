@@ -3844,6 +3844,10 @@ Om du vill bekräfta denna begäran, tryck på Bekräfta-knappen. Annars, tryck 
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to modify your roster (%1). Click the button labelled &quot;Add/Auth&quot; to authorize the modification.</source>
         <translation>&lt;big&gt;[Systemmeddelande]&lt;/big&gt;&lt;br&gt;Denna användare vill redigera din kontaktlista (%1). Klicka på knappen &quot;Lägg till/godkänn&quot; för att godta ändringen.</translation>
     </message>
+    <message>
+        <source>For all</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EventNotifierAction</name>

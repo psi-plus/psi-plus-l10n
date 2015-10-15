@@ -3843,6 +3843,10 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to modify your roster (%1). Click the button labelled &quot;Add/Auth&quot; to authorize the modification.</source>
         <translation>&lt;big&gt;[نظام کا پیغام]&lt;/big&gt;&lt;br&gt;یہ صارف آپ کی ترتیب وار فہرست ترمیم کرنا چاہتا ہے(%1)۔   ترمیم کا اختیار دینے کےلیے &apos;اضافہ کریں/اختیاردیں&apos; کا لیبل لگا بٹن دبائیں۔ </translation>
     </message>
+    <message>
+        <source>For all</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EventNotifierAction</name>

@@ -3908,6 +3908,10 @@ Wenn Sie die Anforderung zulassen möchten, drücken Sie bitte &lt;bestätigen&g
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to modify your roster (%1). Click the button labelled &quot;Add/Auth&quot; to authorize the modification.</source>
         <translation>&lt;big&gt;[Systemnachricht]&lt;/big&gt;&lt;br&gt;Dieser User möchte Ihre Kontaktliste modifizieren (%1). Drücken Sie den Button &quot;Hinzufügen/Autentifizieren&quot;, um die Modifikation zu erlauben.</translation>
     </message>
+    <message>
+        <source>For all</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EventNotifierAction</name>

@@ -3841,6 +3841,10 @@ Se vi volas konfirmi tiun demandon, bonvolu doni transakcian identigilon kaj pre
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to modify your roster (%1). Click the button labelled &quot;Add/Auth&quot; to authorize the modification.</source>
         <translation>&lt;big&gt;[Sistema Mesaĝo]&lt;/big&gt;&lt;br&gt;Tiu uzanto volas modifi vian kontaktoliston (%1). Klaku la butonon &quot;Aldoni/Rajtigi&quot; por rajtigi la modifaĵon.</translation>
     </message>
+    <message>
+        <source>For all</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EventNotifierAction</name>

@@ -3843,6 +3843,10 @@ Muốn xác nhận yêu cầu này thì bấm cái nút « Xác nhận ». Khôn
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to modify your roster (%1). Click the button labelled &quot;Add/Auth&quot; to authorize the modification.</source>
         <translation>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Người dùng này muốn sửa đổi bảng liệt kê của bạn (%1). Muốn cho phép thì nhấn vào cái nút « Thêm/Cho phép ».</translation>
     </message>
+    <message>
+        <source>For all</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EventNotifierAction</name>

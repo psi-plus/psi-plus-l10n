@@ -3891,6 +3891,10 @@ Se você deseja confirmar esta solicitação, por favor pressione o botão Confi
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to modify your roster (%1). Click the button labelled &quot;Add/Auth&quot; to authorize the modification.</source>
         <translation>&lt;big&gt;[Mensagem do Sistema]&lt;/big&gt;&lt;br&gt;Este usuário deseja alterar sua lista (%1). Clique no botão &quot;Adicionar/Autorizar&quot; para autorizar a alteração.</translation>
     </message>
+    <message>
+        <source>For all</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EventNotifierAction</name>

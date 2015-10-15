@@ -3881,6 +3881,10 @@ Jeśli chcesz potwierdzić te żądanie, naciśnij przycisk Potwierdź. W przeci
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to modify your roster (%1). Click the button labelled &quot;Add/Auth&quot; to authorize the modification.</source>
         <translation>&lt;big&gt;[Komunikat systemowy]&lt;/big&gt;&lt;br&gt;Ten użytkownik chce zmienić Twoją listę kontaktów (%1). Naciśnij przycisk &quot;Dodaj&quot; aby zatwierdzić zmianę.</translation>
     </message>
+    <message>
+        <source>For all</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EventNotifierAction</name>
