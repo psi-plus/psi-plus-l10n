@@ -3298,10 +3298,6 @@ Proceed?</source>
         <translation>Створення нової групи</translation>
     </message>
     <message>
-        <source>Choose parent group: </source>
-        <translation>Батьківська група: </translation>
-    </message>
-    <message>
         <source>Enter the new group name:</source>
         <translation>Введіть назву нової групи:</translation>
     </message>
@@ -3312,6 +3308,10 @@ Proceed?</source>
     <message>
         <source>&lt;None&gt;</source>
         <translation>&lt;Немає&gt;</translation>
+    </message>
+    <message>
+        <source>Choose parent group: </source>
+        <translation>Батьківська група: </translation>
     </message>
 </context>
 <context>
@@ -3901,7 +3901,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>For all</source>
-        <translation type="unfinished"></translation>
+        <translation>Для усіх</translation>
     </message>
 </context>
 <context>
@@ -4147,10 +4147,6 @@ This option only has effect if accept-defaults is false.</source>
         <translation>Увімкнути HTML рендерінг у вікні конференції</translation>
     </message>
     <message>
-        <source>Allow groupchat highlight events</source>
-        <translation>Дозволити події виділення в конференції</translation>
-    </message>
-    <message>
         <source>Disable autojoin to folowing groupchats:
 (specify JIDs)</source>
         <translation>Вимкнути авто-вхід до наступних конференцій:
@@ -4325,10 +4321,6 @@ This option only has effect if accept-defaults is false.</source>
         <translation>Колір ніков в ростері конференції:</translation>
     </message>
     <message>
-        <source>Enable multirow tabs</source>
-        <translation>Увімкнути багаторядні вкладинки</translation>
-    </message>
-    <message>
         <source>Enable sound notifications for every groupchat message</source>
         <translation>Включити звукові повідомлення для всіх повідомлень конференції</translation>
     </message>
@@ -4449,6 +4441,14 @@ Importantly: a large part of the options are important system settings. These re
 Плагін надає доступ до додаткових опцій, які не мають графічного інтерфейсу.
 
 Важливо: значна частка опцій є важливими системними. Будьте уважні та обережні а також впевнені в своїх діях при зміні цих опцій.</translation>
+    </message>
+    <message>
+        <source>Allow groupchat highlight events</source>
+        <translation>Дозволити події виділення в конференції</translation>
+    </message>
+    <message>
+        <source>Enable multirow tabs</source>
+        <translation>Увімкнути багаторядні вкладинки</translation>
     </message>
 </context>
 <context>
@@ -6138,16 +6138,6 @@ For sending commands, normal messages are used, so this plugin will always work 
 <context>
     <name>HistoryImport</name>
     <message>
-        <source>Psi+ Import history</source>
-        <translation>Імпорт історії Psi+</translation>
-    </message>
-    <message>
-        <source>Found %1 files for import.
-Continue?</source>
-        <translation>Знайдено %1 фалів для імпорту.
-Продовжити?</translation>
-    </message>
-    <message>
         <source>Status:</source>
         <translation>Статус:</translation>
     </message>
@@ -6164,16 +6154,26 @@ Continue?</source>
         <translation>Вихід</translation>
     </message>
     <message>
-        <source>Counting records</source>
-        <translation>Підрахунок записів</translation>
-    </message>
-    <message>
         <source>Import</source>
         <translation>Імпорт</translation>
     </message>
     <message>
         <source>Error</source>
         <translation>Помилка</translation>
+    </message>
+    <message>
+        <source>Psi+ Import history</source>
+        <translation>Імпорт історії Psi+</translation>
+    </message>
+    <message>
+        <source>Found %1 files for import.
+Continue?</source>
+        <translation>Знайдено %1 фалів для імпорту.
+Продовжити?</translation>
+    </message>
+    <message>
+        <source>Counting records</source>
+        <translation>Підрахунок записів</translation>
     </message>
 </context>
 <context>
@@ -7001,24 +7001,12 @@ to play battleship. He wants to play %2.</source>
         <translation>Запрошення</translation>
     </message>
     <message>
-        <source>Battliship Game Plugin - Invite</source>
-        <translation>Запрошення пограти у Морський бій</translation>
-    </message>
-    <message>
         <source>Opponent:</source>
         <translation>Супротивник:</translation>
     </message>
     <message>
         <source>Select resource:</source>
         <translation>Вибрати ресурс:</translation>
-    </message>
-    <message>
-        <source>I want to play first</source>
-        <translation>Я хочу грати першим</translation>
-    </message>
-    <message>
-        <source>I want to play second</source>
-        <translation>Я хочу грати другим</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -7031,6 +7019,18 @@ to play battleship. He wants to play %2.</source>
     <message>
         <source>Play Black</source>
         <translation>Грати чорними</translation>
+    </message>
+    <message>
+        <source>Battliship Game Plugin - Invite</source>
+        <translation>Запрошення пограти у Морський бій</translation>
+    </message>
+    <message>
+        <source>I want to play first</source>
+        <translation>Я хочу грати першим</translation>
+    </message>
+    <message>
+        <source>I want to play second</source>
+        <translation>Я хочу грати другим</translation>
     </message>
 </context>
 <context>
@@ -8142,10 +8142,6 @@ Tags: %1</source>
         <translation>Статусне повідомлення:</translation>
     </message>
     <message>
-        <source>Highlight:</source>
-        <translation>Виділення:</translation>
-    </message>
-    <message>
         <source>Specifies the color for additional text of system messages. MUC topic for example.</source>
         <translation>Колір для додаткового тексту системних повідомлень. Тема конференції, наприклад.</translation>
     </message>
@@ -8176,6 +8172,10 @@ Tags: %1</source>
     <message>
         <source>Popup:</source>
         <translation>Повідомлення:</translation>
+    </message>
+    <message>
+        <source>Highlight:</source>
+        <translation>Виділення:</translation>
     </message>
 </context>
 <context>
@@ -8495,26 +8495,6 @@ Tags: %1</source>
         <translation>OptPluginsUI</translation>
     </message>
     <message>
-        <source>Plugin Name</source>
-        <translation>Назва плагіну:</translation>
-    </message>
-    <message>
-        <source>Available plugins</source>
-        <translation>Доступні плагіни</translation>
-    </message>
-    <message>
-        <source>Version</source>
-        <translation>Версія</translation>
-    </message>
-    <message>
-        <source>A</source>
-        <translation>A</translation>
-    </message>
-    <message>
-        <source>S</source>
-        <translation>S</translation>
-    </message>
-    <message>
         <source>Plugin Name:</source>
         <translation type="vanished">Назва:</translation>
     </message>
@@ -8533,6 +8513,26 @@ Tags: %1</source>
     <message>
         <source>No plugin selected</source>
         <translation type="vanished">Плагін не вибрано</translation>
+    </message>
+    <message>
+        <source>Plugin Name</source>
+        <translation>Назва плагіну:</translation>
+    </message>
+    <message>
+        <source>Available plugins</source>
+        <translation>Доступні плагіни</translation>
+    </message>
+    <message>
+        <source>Version</source>
+        <translation>Версія</translation>
+    </message>
+    <message>
+        <source>A</source>
+        <translation>A</translation>
+    </message>
+    <message>
+        <source>S</source>
+        <translation>S</translation>
     </message>
 </context>
 <context>
@@ -10130,6 +10130,14 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Опції плагінів</translation>
     </message>
     <message>
+        <source>No plugin selected.</source>
+        <translation type="vanished">Плагін не обрано.</translation>
+    </message>
+    <message>
+        <source>Version: </source>
+        <translation type="vanished">Версія: </translation>
+    </message>
+    <message>
         <source>Plugin Path:
 %1</source>
         <translation>Розміщення плагіну:
@@ -10146,14 +10154,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Settings of %1</source>
         <translation>Налаштування %1</translation>
-    </message>
-    <message>
-        <source>No plugin selected.</source>
-        <translation type="vanished">Плагін не обрано.</translation>
-    </message>
-    <message>
-        <source>Version: </source>
-        <translation type="vanished">Версія: </translation>
     </message>
 </context>
 <context>
@@ -10527,10 +10527,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>завжди</translation>
     </message>
     <message>
-        <source>Save queries to log</source>
-        <translation>Зберігати запити до журналу</translation>
-    </message>
-    <message>
         <source>Save queryes to log</source>
         <translation type="vanished">Зберігати запити до журналу</translation>
     </message>
@@ -10649,6 +10645,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Опис (в інтернеті)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Save queries to log</source>
+        <translation>Зберігати запити до журналу</translation>
     </message>
 </context>
 <context>
@@ -10855,10 +10855,6 @@ Please enter your passphrase below:</source>
         <translation>Гра Гомоку</translation>
     </message>
     <message>
-        <source>Battleship game</source>
-        <translation>Морській бій</translation>
-    </message>
-    <message>
         <source>Opponent:</source>
         <translation>Супротивник:</translation>
     </message>
@@ -10867,40 +10863,8 @@ Please enter your passphrase below:</source>
         <translation>Статус:</translation>
     </message>
     <message>
-        <source>Freeze ships position</source>
-        <translation>Зафіксувати положення кораблів</translation>
-    </message>
-    <message>
-        <source>Press button and make move if you want to propose draw</source>
-        <translation>Натисніть кнопку та зробіть крок, якщо хочете запропонувати нічию</translation>
-    </message>
-    <message>
-        <source>Propose a draw</source>
-        <translation>Запропонувати нічию</translation>
-    </message>
-    <message>
-        <source>Press button if you want to accept the draw proposal</source>
-        <translation>Натисніть кнопку, якщо ви приймаєте нічию</translation>
-    </message>
-    <message>
-        <source>Accept the draw proposal</source>
-        <translation>Прийняти нічию</translation>
-    </message>
-    <message>
-        <source>Press button if you want to resign</source>
-        <translation>Натисніть кнопку, якщо ви хочете відмінити гру</translation>
-    </message>
-    <message>
-        <source>Resign the game</source>
-        <translation>Відмінити гру</translation>
-    </message>
-    <message>
         <source>Game</source>
         <translation>Гра</translation>
-    </message>
-    <message>
-        <source>--</source>
-        <translation>--</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -10955,16 +10919,8 @@ Please enter your passphrase below:</source>
         <translation>В очікуванні прийняття</translation>
     </message>
     <message>
-        <source>Setting ships position</source>
-        <translation>Задання позицій кораблів</translation>
-    </message>
-    <message>
         <source>Your turn</source>
         <translation>Ваш хід</translation>
-    </message>
-    <message>
-        <source>Draw</source>
-        <translation>Нічия</translation>
     </message>
     <message>
         <source>End of game</source>
@@ -11033,6 +10989,50 @@ Please enter your passphrase below:</source>
     <message>
         <source>You really want to begin loaded game?</source>
         <translation>Ви дійсно бажаєте завантажити гру?</translation>
+    </message>
+    <message>
+        <source>Battleship game</source>
+        <translation>Морській бій</translation>
+    </message>
+    <message>
+        <source>Freeze ships position</source>
+        <translation>Зафіксувати положення кораблів</translation>
+    </message>
+    <message>
+        <source>Press button and make move if you want to propose draw</source>
+        <translation>Натисніть кнопку та зробіть крок, якщо хочете запропонувати нічию</translation>
+    </message>
+    <message>
+        <source>Propose a draw</source>
+        <translation>Запропонувати нічию</translation>
+    </message>
+    <message>
+        <source>Press button if you want to accept the draw proposal</source>
+        <translation>Натисніть кнопку, якщо ви приймаєте нічию</translation>
+    </message>
+    <message>
+        <source>Accept the draw proposal</source>
+        <translation>Прийняти нічию</translation>
+    </message>
+    <message>
+        <source>Press button if you want to resign</source>
+        <translation>Натисніть кнопку, якщо ви хочете відмінити гру</translation>
+    </message>
+    <message>
+        <source>Resign the game</source>
+        <translation>Відмінити гру</translation>
+    </message>
+    <message>
+        <source>--</source>
+        <translation>--</translation>
+    </message>
+    <message>
+        <source>Setting ships position</source>
+        <translation>Задання позицій кораблів</translation>
+    </message>
+    <message>
+        <source>Draw</source>
+        <translation>Нічия</translation>
     </message>
 </context>
 <context>
@@ -11876,14 +11876,6 @@ Details: %1</source>
         <translation>Ви повинні бути з&apos;єднаними, якщо ви хочете зробити це.</translation>
     </message>
     <message>
-        <source>Nested Groups Delimiter</source>
-        <translation>Розділювач вкладених груп</translation>
-    </message>
-    <message>
-        <source>Set a new delimiter of nested groups</source>
-        <translation>Встановити новий розділювач вкладених груп</translation>
-    </message>
-    <message>
         <source>Unregister from %1</source>
         <translation>Скасувати реєстрацію на %1</translation>
     </message>
@@ -11940,6 +11932,14 @@ Reason: %1.</source>
     <message>
         <source>Public Key: %1</source>
         <translation>Відкритий ключ: %1</translation>
+    </message>
+    <message>
+        <source>Nested Groups Delimiter</source>
+        <translation>Розділювач вкладених груп</translation>
+    </message>
+    <message>
+        <source>Set a new delimiter of nested groups</source>
+        <translation>Встановити новий розділювач вкладених груп</translation>
     </message>
 </context>
 <context>
@@ -12753,14 +12753,6 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation>Додати до ростеру та авторизувати</translation>
     </message>
     <message>
-        <source>&amp;Log On</source>
-        <translation>&amp;Підключитися </translation>
-    </message>
-    <message>
-        <source>Log &amp;Off</source>
-        <translation>Відключити</translation>
-    </message>
-    <message>
         <source>&amp;Receive Incoming Event</source>
         <translation>&amp;Показати повідомлення</translation>
     </message>
@@ -12783,46 +12775,6 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <source>Send &amp;File</source>
         <translation>Надіслати &amp;файл</translation>
-    </message>
-    <message>
-        <source>Re&amp;send Authorization To</source>
-        <translation>Повторно відправити авторизацію</translation>
-    </message>
-    <message>
-        <source>Re&amp;request Authorization From</source>
-        <translation>Повторно запросити авторизацію у</translation>
-    </message>
-    <message>
-        <source>Re&amp;move Authorization From</source>
-        <translation>Видалити авторизацію у</translation>
-    </message>
-    <message>
-        <source>In&amp;vite To</source>
-        <translation>Запросити до</translation>
-    </message>
-    <message>
-        <source>Send Message T&amp;o</source>
-        <translation>Надіслати повідомлення</translation>
-    </message>
-    <message>
-        <source>Open Chat &amp;To</source>
-        <translation>Відкрити чат з</translation>
-    </message>
-    <message>
-        <source>Open a White&amp;board To</source>
-        <translation>Відкрити дошку для малювання з</translation>
-    </message>
-    <message>
-        <source>&amp;Active Chats</source>
-        <translation>&amp;Активні чати</translation>
-    </message>
-    <message>
-        <source>Manage &amp;Contact</source>
-        <translation>Керувати контактом</translation>
-    </message>
-    <message>
-        <source>&amp;Authorization</source>
-        <translation>Авторизація</translation>
     </message>
     <message>
         <source>&amp;Log on</source>
@@ -12983,6 +12935,54 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <source>Unblock</source>
         <translation>Разблокувати</translation>
+    </message>
+    <message>
+        <source>&amp;Log On</source>
+        <translation>&amp;Підключитися </translation>
+    </message>
+    <message>
+        <source>Log &amp;Off</source>
+        <translation>Відключити</translation>
+    </message>
+    <message>
+        <source>Re&amp;send Authorization To</source>
+        <translation>Повторно відправити авторизацію</translation>
+    </message>
+    <message>
+        <source>Re&amp;request Authorization From</source>
+        <translation>Повторно запросити авторизацію у</translation>
+    </message>
+    <message>
+        <source>Re&amp;move Authorization From</source>
+        <translation>Видалити авторизацію у</translation>
+    </message>
+    <message>
+        <source>In&amp;vite To</source>
+        <translation>Запросити до</translation>
+    </message>
+    <message>
+        <source>Send Message T&amp;o</source>
+        <translation>Надіслати повідомлення</translation>
+    </message>
+    <message>
+        <source>Open Chat &amp;To</source>
+        <translation>Відкрити чат з</translation>
+    </message>
+    <message>
+        <source>Open a White&amp;board To</source>
+        <translation>Відкрити дошку для малювання з</translation>
+    </message>
+    <message>
+        <source>&amp;Active Chats</source>
+        <translation>&amp;Активні чати</translation>
+    </message>
+    <message>
+        <source>Manage &amp;Contact</source>
+        <translation>Керувати контактом</translation>
+    </message>
+    <message>
+        <source>&amp;Authorization</source>
+        <translation>Авторизація</translation>
     </message>
 </context>
 <context>
@@ -14393,24 +14393,6 @@ The message was not sent.</source>
         <translation>Psi+ OTR</translation>
     </message>
     <message>
-        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
-
-Do you want to generate keys now?</source>
-        <translation>Необхідно згенерувати особисті ключі для аккаунта &quot;%1&quot;. Це займе деякий час (від пари секунд до декількох хвилин). Ви зможете використовувати Psi+ в цей час, але всі повідомлення будуть незашифрованими, доки ключі не буде згенеровано.
-
-Згенерувати ключі зараз?</translation>
-    </message>
-    <message>
-        <source>Keys have been generated. Fingerprint for account &quot;%1&quot;:
-%2
-
-Thanks for your patience.</source>
-        <translation>Ключі успішно згенеровані. Відбиток ключа для аккаунта &quot;%1&quot;:
-%2
-
-Дякуємо за терпіння.</translation>
-    </message>
-    <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
 The OTR Plugin will not work.</source>
         <translation>Не вдалося сгенерувати ключі для аккаунту &quot;%1&quot;.
@@ -14793,6 +14775,24 @@ URL: %4
     <message>
         <source>Last Status Message</source>
         <translation>Останнє статусне повідомлення</translation>
+    </message>
+    <message>
+        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
+
+Do you want to generate keys now?</source>
+        <translation>Необхідно згенерувати особисті ключі для аккаунта &quot;%1&quot;. Це займе деякий час (від пари секунд до декількох хвилин). Ви зможете використовувати Psi+ в цей час, але всі повідомлення будуть незашифрованими, доки ключі не буде згенеровано.
+
+Згенерувати ключі зараз?</translation>
+    </message>
+    <message>
+        <source>Keys have been generated. Fingerprint for account &quot;%1&quot;:
+%2
+
+Thanks for your patience.</source>
+        <translation>Ключі успішно згенеровані. Відбиток ключа для аккаунта &quot;%1&quot;:
+%2
+
+Дякуємо за терпіння.</translation>
     </message>
 </context>
 <context>
@@ -17779,14 +17779,6 @@ Do you still want to close the window?</source>
         <translation>Відключити запрошення, якщо статус &quot;Не турбувати&quot;</translation>
     </message>
     <message>
-        <source>Disable invitations from conference</source>
-        <translation>Відключити запрошення з конференції</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Опис (в інтернеті)&lt;/a&gt;</translation>
-    </message>
-    <message>
         <source>Disable invitations from groupchat</source>
         <translation>Відключити запрошення з конференції</translation>
     </message>
@@ -17849,6 +17841,14 @@ Do you still want to close the window?</source>
     <message>
         <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
         <translation>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Опис (в інтернеті)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Disable invitations from conference</source>
+        <translation>Відключити запрошення з конференції</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Опис (в інтернеті)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -18137,14 +18137,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>Немає особистого ключа для аккаунту &quot;%1&quot;</translation>
     </message>
     <message>
-        <source>Session ID between account &quot;%1&quot; and %2: %3</source>
-        <translation>ID сесії між аккаунтами &quot;%1&quot; та %2: %3</translation>
-    </message>
-    <message>
-        <source>Fingerprint for account &quot;%1&quot;: %2</source>
-        <translation>Відбиток для акаунту &quot;%1&quot;: %2</translation>
-    </message>
-    <message>
         <source>unverified</source>
         <translation>неперевірений</translation>
     </message>
@@ -18175,6 +18167,14 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Show own &amp;fingerprint</source>
         <translation>Показати свій відбито&amp;к</translation>
+    </message>
+    <message>
+        <source>Session ID between account &quot;%1&quot; and %2: %3</source>
+        <translation>ID сесії між аккаунтами &quot;%1&quot; та %2: %3</translation>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
+        <translation>Відбиток для акаунту &quot;%1&quot;: %2</translation>
     </message>
 </context>
 <context>
@@ -18232,10 +18232,6 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>Psi+ OTR</translation>
     </message>
     <message>
-        <source>OTR Plugin: event from %1</source>
-        <translation>OTR плагін: подія від %1</translation>
-    </message>
-    <message>
         <source>Attempting to refresh the private conversation</source>
         <translation>Спроба відновити приватне листування</translation>
     </message>
@@ -18278,6 +18274,10 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Contact not authenticated</source>
         <translation>Контакт не аутентифікований</translation>
+    </message>
+    <message>
+        <source>OTR Plugin: event from %1</source>
+        <translation>OTR плагін: подія від %1</translation>
     </message>
 </context>
 <context>
