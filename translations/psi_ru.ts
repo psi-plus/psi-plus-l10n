@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ru">
+<TS version="2.0" language="ru">
 <context>
     <name>@default</name>
     <message>
@@ -131,7 +131,7 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;</translation>
     </message>
     <message>
         <source>Designer and Patcher</source>
-        <translation type="vanished">Дизайнер и автор патчей</translation>
+        <translation>Дизайнер и автор патчей</translation>
     </message>
     <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
@@ -7747,11 +7747,11 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     <name>MessageFilter</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Автор: </translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation type="unfinished">E-Mail: </translation>
+        <translation>e-mail: </translation>
     </message>
 </context>
 <context>
@@ -7831,7 +7831,7 @@ Details: %1</source>
     </message>
     <message>
         <source>Expiration</source>
-        <translation type="unfinished"></translation>
+        <translation>Истекает</translation>
     </message>
 </context>
 <context>
@@ -8507,23 +8507,23 @@ Tags: %1</source>
     </message>
     <message>
         <source>Plugin Name:</source>
-        <translation type="vanished">Название:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <source>Version: 0</source>
-        <translation type="vanished">Версия: 0</translation>
+        <translation>Версия: 0</translation>
     </message>
     <message>
         <source>Load this plugin</source>
-        <translation type="vanished">Активировать</translation>
+        <translation>Активировать</translation>
     </message>
     <message>
         <source>Plugin Location:</source>
-        <translation type="vanished">Расположение:</translation>
+        <translation>Расположение:</translation>
     </message>
     <message>
         <source>No plugin selected</source>
-        <translation type="vanished">Плагин не выбран</translation>
+        <translation>Плагин не выбран</translation>
     </message>
     <message>
         <source>Plugin Name</source>
@@ -9650,23 +9650,23 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Rules</source>
-        <translation type="unfinished">Правила</translation>
+        <translation>Правила</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Имя</translation>
+        <translation>Имя</translation>
     </message>
     <message>
         <source>Conditions</source>
-        <translation type="unfinished"></translation>
+        <translation>Условия</translation>
     </message>
     <message>
         <source>Show message if it satisfies the rule</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать сообщение, если оно соответствует правилу</translation>
     </message>
 </context>
 <context>
@@ -10162,11 +10162,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>No plugin selected.</source>
-        <translation type="vanished">Плагин не выбран.</translation>
+        <translation>Плагин не выбран.</translation>
     </message>
     <message>
         <source>Version: </source>
-        <translation type="vanished">Версия: </translation>
+        <translation>Версия: </translation>
     </message>
     <message>
         <source>Plugin Path:
@@ -10559,7 +10559,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Save queryes to log</source>
-        <translation type="vanished">Сохранять запросы в журнал</translation>
+        <translation>Сохранять запросы в журнал</translation>
     </message>
     <message>
         <source>Logs</source>
@@ -10854,7 +10854,7 @@ Please enter your passphrase below:</source>
     <name>PluginInfoDialog</name>
     <message>
         <source>Information</source>
-        <translation type="vanished">Информация</translation>
+        <translation>Информация</translation>
     </message>
     <message>
         <source>About</source>
@@ -12811,23 +12811,23 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>&amp;Log on</source>
-        <translation type="vanished">&amp;Подключить</translation>
+        <translation>&amp;Подключить</translation>
     </message>
     <message>
         <source>Log Off</source>
-        <translation type="vanished">Отключить</translation>
+        <translation>Отключить</translation>
     </message>
     <message>
         <source>Resend Authorization To</source>
-        <translation type="vanished">Разрешить подписку</translation>
+        <translation>Разрешить подписку</translation>
     </message>
     <message>
         <source>Rerequest Authorization From</source>
-        <translation type="vanished">Запросить подписку</translation>
+        <translation>Запросить подписку</translation>
     </message>
     <message>
         <source>Remove Authorization From</source>
-        <translation type="vanished">Удалить подписку</translation>
+        <translation>Удалить подписку</translation>
     </message>
     <message>
         <source>Sen&amp;d Status</source>
@@ -12855,7 +12855,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Invite To</source>
-        <translation type="vanished">Пригласить в</translation>
+        <translation>Пригласить в</translation>
     </message>
     <message>
         <source>&amp;Group</source>
@@ -12863,15 +12863,15 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Send Message To</source>
-        <translation type="vanished">Отправить сообщение</translation>
+        <translation>Отправить сообщение</translation>
     </message>
     <message>
         <source>Open Chat To</source>
-        <translation type="vanished">Открыть чат</translation>
+        <translation>Открыть чат</translation>
     </message>
     <message>
         <source>Open a Whiteboard To</source>
-        <translation type="vanished">Открыть доску для рисования</translation>
+        <translation>Открыть доску для рисования</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -12879,7 +12879,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Active Chats</source>
-        <translation type="vanished">Активные чаты</translation>
+        <translation>Активные чаты</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -12903,7 +12903,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Authorization</source>
-        <translation type="vanished">Подписка</translation>
+        <translation>Подписка</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
