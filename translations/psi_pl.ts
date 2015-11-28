@@ -7712,6 +7712,17 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
 </context>
 <context>
+    <name>MessageFilter</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>e-mail: </source>
+        <translation type="unfinished">email:</translation>
+    </message>
+</context>
+<context>
     <name>MiniClient</name>
     <message>
         <source>Server Authentication</source>
@@ -7735,15 +7746,15 @@ Details: %1</source>
     <name>Model</name>
     <message>
         <source>Type</source>
-        <translation type="obsolete">Typ</translation>
+        <translation type="unfinished">Typ</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="obsolete">Nazwa</translation>
+        <translation type="unfinished">Nazwa</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="obsolete">Komentarz</translation>
+        <translation type="unfinished">Komentarz</translation>
     </message>
     <message>
         <source>Enable/Disable</source>
@@ -7760,6 +7771,34 @@ Details: %1</source>
     <message>
         <source>Sounds (if empty default sound will be used)</source>
         <translation>Dźwięki (jeśli puste, to dźwięk domyślny)</translation>
+    </message>
+    <message>
+        <source>E-Mail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Created</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expiration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Algorithm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Short ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9561,6 +9600,26 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>GnuPG info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rules</source>
+        <translation type="unfinished">Reguły</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Nazwa</translation>
+    </message>
+    <message>
+        <source>Conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

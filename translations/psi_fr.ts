@@ -7687,6 +7687,17 @@ Russie, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
 </context>
 <context>
+    <name>MessageFilter</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>e-mail: </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MiniClient</name>
     <message>
         <source>Server Authentication</source>
@@ -7711,39 +7722,39 @@ Détails : %1</translation>
     <name>Model</name>
     <message>
         <source>Type</source>
-        <translation type="vanished">Type</translation>
+        <translation>Type</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="vanished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation type="vanished">Courriel</translation>
+        <translation>Courriel</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="vanished">Création</translation>
+        <translation>Création</translation>
     </message>
     <message>
         <source>Length</source>
-        <translation type="vanished">Longueur</translation>
+        <translation>Longueur</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="vanished">Commentaires</translation>
+        <translation>Commentaires</translation>
     </message>
     <message>
         <source>Algorithm</source>
-        <translation type="vanished">Algorithme</translation>
+        <translation>Algorithme</translation>
     </message>
     <message>
         <source>Short ID</source>
-        <translation type="vanished">Identifiant court</translation>
+        <translation>Identifiant court</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="vanished">Empreinte</translation>
+        <translation>Empreinte</translation>
     </message>
     <message>
         <source>Enable/Disable</source>
@@ -7760,6 +7771,10 @@ Détails : %1</translation>
     <message>
         <source>Sounds (if empty default sound will be used)</source>
         <translation>Sons (si laissé vide, utilisation des sons par défaut)</translation>
+    </message>
+    <message>
+        <source>Expiration</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9559,6 +9574,26 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>GnuPG info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rules</source>
+        <translation type="unfinished">Règles</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Nom</translation>
+    </message>
+    <message>
+        <source>Conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

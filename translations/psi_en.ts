@@ -7773,6 +7773,17 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
 </context>
 <context>
+    <name>MessageFilter</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished">Author: </translation>
+    </message>
+    <message>
+        <source>e-mail: </source>
+        <translation type="unfinished">e-mail: </translation>
+    </message>
+</context>
+<context>
     <name>MiniClient</name>
     <message>
         <source>Server Authentication</source>
@@ -7797,39 +7808,39 @@ Details: %1</translation>
     <name>Model</name>
     <message>
         <source>Type</source>
-        <translation type="vanished">Type</translation>
+        <translation>Type</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="vanished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation type="vanished">E-Mail</translation>
+        <translation>E-Mail</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="vanished">Created</translation>
+        <translation>Created</translation>
     </message>
     <message>
         <source>Length</source>
-        <translation type="vanished">Length</translation>
+        <translation>Length</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="vanished">Comment</translation>
+        <translation>Comment</translation>
     </message>
     <message>
         <source>Algorithm</source>
-        <translation type="vanished">Algorithm</translation>
+        <translation>Algorithm</translation>
     </message>
     <message>
         <source>Short ID</source>
-        <translation type="vanished">Short ID</translation>
+        <translation>Short ID</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="vanished">Fingerprint</translation>
+        <translation>Fingerprint</translation>
     </message>
     <message>
         <source>Enable/Disable</source>
@@ -7846,6 +7857,10 @@ Details: %1</translation>
     <message>
         <source>Sounds (if empty default sound will be used)</source>
         <translation>Sounds (if empty default sound will be used)</translation>
+    </message>
+    <message>
+        <source>Expiration</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9663,6 +9678,26 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Cookies are removed</source>
         <translation>Cookies are removed</translation>
+    </message>
+    <message>
+        <source>Rules</source>
+        <translation type="unfinished">Rules</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Name</translation>
+    </message>
+    <message>
+        <source>Conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -7782,6 +7782,17 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
 </context>
 <context>
+    <name>MessageFilter</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>e-mail: </source>
+        <translation type="unfinished">电子邮箱:</translation>
+    </message>
+</context>
+<context>
     <name>MiniClient</name>
     <message>
         <source>Server Authentication</source>
@@ -7806,39 +7817,39 @@ Details: %1</source>
     <name>Model</name>
     <message>
         <source>Type</source>
-        <translation type="vanished">类型</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="vanished">名称</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation type="vanished">邮件</translation>
+        <translation>邮件</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="vanished">创建</translation>
+        <translation>创建</translation>
     </message>
     <message>
         <source>Length</source>
-        <translation type="vanished">长度: </translation>
+        <translation>长度: </translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="vanished">注解</translation>
+        <translation>注解</translation>
     </message>
     <message>
         <source>Algorithm</source>
-        <translation type="vanished">算法</translation>
+        <translation>算法</translation>
     </message>
     <message>
         <source>Short ID</source>
-        <translation type="vanished">短ID</translation>
+        <translation>短ID</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="vanished">指纹</translation>
+        <translation>指纹</translation>
     </message>
     <message>
         <source>Enable/Disable</source>
@@ -7855,6 +7866,10 @@ Details: %1</source>
     <message>
         <source>Sounds (if empty default sound will be used)</source>
         <translation>音效(如为空，将使用默认音效)</translation>
+    </message>
+    <message>
+        <source>Expiration</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9659,6 +9674,26 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Cookies are removed</source>
         <translation>Cookies被移除</translation>
+    </message>
+    <message>
+        <source>Rules</source>
+        <translation type="unfinished">规则</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">名称</translation>
+    </message>
+    <message>
+        <source>Conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -7621,6 +7621,17 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
 </context>
 <context>
+    <name>MessageFilter</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>e-mail: </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MiniClient</name>
     <message>
         <source>Server Authentication</source>
@@ -7656,6 +7667,46 @@ Details: %1</source>
     </message>
     <message>
         <source>Sounds (if empty default sound will be used)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished">Вид</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>E-Mail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Created</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expiration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Algorithm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Short ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9433,6 +9484,26 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>GnuPG info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rules</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -7755,6 +7755,17 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     </message>
 </context>
 <context>
+    <name>MessageFilter</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished">Аўтар: </translation>
+    </message>
+    <message>
+        <source>e-mail: </source>
+        <translation type="unfinished">Эл. пошта: </translation>
+    </message>
+</context>
+<context>
     <name>MiniClient</name>
     <message>
         <source>Server Authentication</source>
@@ -7779,19 +7790,19 @@ Details: %1</source>
     <name>Model</name>
     <message>
         <source>Type</source>
-        <translation type="obsolete">Від</translation>
+        <translation type="unfinished">Від</translation>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation type="obsolete">Эл. пошта</translation>
+        <translation type="unfinished">Эл. пошта</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="obsolete">Тлумачэньне</translation>
+        <translation type="unfinished">Тлумачэньне</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="obsolete">Адбітак</translation>
+        <translation type="unfinished">Адбітак</translation>
     </message>
     <message>
         <source>Enable/Disable</source>
@@ -7808,6 +7819,30 @@ Details: %1</source>
     <message>
         <source>Sounds (if empty default sound will be used)</source>
         <translation>Гукі (калі не пазначаць нічога, будуць звычайныя)</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Created</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expiration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Length</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Algorithm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Short ID</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9624,6 +9659,26 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>GnuPG info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rules</source>
+        <translation type="unfinished">Правілы</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">…</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -7724,6 +7724,17 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
 </context>
 <context>
+    <name>MessageFilter</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>e-mail: </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MiniClient</name>
     <message>
         <source>Server Authentication</source>
@@ -7748,39 +7759,39 @@ Detalji: %1</translation>
     <name>Model</name>
     <message>
         <source>Type</source>
-        <translation type="vanished">Tip</translation>
+        <translation>Tip</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="vanished">Ime</translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation type="vanished">E-pošta</translation>
+        <translation>E-pošta</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="vanished">Kreiran</translation>
+        <translation>Kreiran</translation>
     </message>
     <message>
         <source>Length</source>
-        <translation type="vanished">Dužina</translation>
+        <translation>Dužina</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="vanished">Komentar</translation>
+        <translation>Komentar</translation>
     </message>
     <message>
         <source>Algorithm</source>
-        <translation type="vanished">Algoritam</translation>
+        <translation>Algoritam</translation>
     </message>
     <message>
         <source>Short ID</source>
-        <translation type="vanished">Skraćeni ID</translation>
+        <translation>Skraćeni ID</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="vanished">Otisak</translation>
+        <translation>Otisak</translation>
     </message>
     <message>
         <source>Enable/Disable</source>
@@ -7796,6 +7807,10 @@ Detalji: %1</translation>
     </message>
     <message>
         <source>Watch for JIDs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expiration</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9599,6 +9614,26 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Key pair generating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rules</source>
+        <translation type="unfinished">Pravila</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Ime</translation>
+    </message>
+    <message>
+        <source>Conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

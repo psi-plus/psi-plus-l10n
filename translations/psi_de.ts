@@ -7744,6 +7744,17 @@ Russland, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
 </context>
 <context>
+    <name>MessageFilter</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>e-mail: </source>
+        <translation type="unfinished">E-Mail:</translation>
+    </message>
+</context>
+<context>
     <name>MiniClient</name>
     <message>
         <source>Server Authentication</source>
@@ -7768,39 +7779,39 @@ Details: %1</translation>
     <name>Model</name>
     <message>
         <source>Type</source>
-        <translation type="vanished">Typ</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="vanished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation type="vanished">E-Mail</translation>
+        <translation>E-Mail</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="vanished">Erstellt</translation>
+        <translation>Erstellt</translation>
     </message>
     <message>
         <source>Length</source>
-        <translation type="vanished">Länge</translation>
+        <translation>Länge</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="vanished">Kommentar</translation>
+        <translation>Kommentar</translation>
     </message>
     <message>
         <source>Algorithm</source>
-        <translation type="vanished">Algorithmus</translation>
+        <translation>Algorithmus</translation>
     </message>
     <message>
         <source>Short ID</source>
-        <translation type="vanished">Kurz-ID</translation>
+        <translation>Kurz-ID</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="vanished">Fingerabdruck</translation>
+        <translation>Fingerabdruck</translation>
     </message>
     <message>
         <source>Enable/Disable</source>
@@ -7817,6 +7828,10 @@ Details: %1</translation>
     <message>
         <source>Sounds (if empty default sound will be used)</source>
         <translation>Klänge (falls leer, werden Standardklänge verwendet)</translation>
+    </message>
+    <message>
+        <source>Expiration</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9620,6 +9635,26 @@ Aktiviere die &quot;Nachrichtenarchivierung&quot;-Option zur Verwendung!</transl
     <message>
         <source>Cookies are removed</source>
         <translation>Cookies sind entfernt</translation>
+    </message>
+    <message>
+        <source>Rules</source>
+        <translation type="unfinished">Regeln</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Name</translation>
+    </message>
+    <message>
+        <source>Conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

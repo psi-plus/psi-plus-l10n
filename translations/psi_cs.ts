@@ -7715,6 +7715,17 @@ Rusko, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
 </context>
 <context>
+    <name>MessageFilter</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished">Autor: </translation>
+    </message>
+    <message>
+        <source>e-mail: </source>
+        <translation type="unfinished">e-mail: </translation>
+    </message>
+</context>
+<context>
     <name>MiniClient</name>
     <message>
         <source>Server Authentication</source>
@@ -7739,39 +7750,39 @@ Detaily: %1</translation>
     <name>Model</name>
     <message>
         <source>Type</source>
-        <translation type="vanished">Typ</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="vanished">Jméno</translation>
+        <translation>Jméno</translation>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation type="vanished">E-mail</translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="vanished">Vytvořen</translation>
+        <translation>Vytvořen</translation>
     </message>
     <message>
         <source>Length</source>
-        <translation type="vanished">Délka</translation>
+        <translation>Délka</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="vanished">Komentář</translation>
+        <translation>Komentář</translation>
     </message>
     <message>
         <source>Algorithm</source>
-        <translation type="vanished">Algoritmus</translation>
+        <translation>Algoritmus</translation>
     </message>
     <message>
         <source>Short ID</source>
-        <translation type="vanished">Krátké ID</translation>
+        <translation>Krátké ID</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="vanished">Otisk</translation>
+        <translation>Otisk</translation>
     </message>
     <message>
         <source>Enable/Disable</source>
@@ -7788,6 +7799,10 @@ Detaily: %1</translation>
     <message>
         <source>Sounds (if empty default sound will be used)</source>
         <translation>Zvuky (nechej prázdné pro výchozí zvuky)</translation>
+    </message>
+    <message>
+        <source>Expiration</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9603,6 +9618,26 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>&lt;b&gt;Please wait!&lt;/b&gt;&lt;br/&gt;We need to generate a lot of random bytes. It is a good idea to perform some other action (type on the keyboard, move the mouse, utilize the disks) during the prime generation; this gives the random number generator a better chance to gain enough entropy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rules</source>
+        <translation type="unfinished">Pravidla</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Jméno</translation>
+    </message>
+    <message>
+        <source>Conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

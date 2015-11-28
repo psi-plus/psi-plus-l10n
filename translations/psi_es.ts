@@ -7755,6 +7755,17 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
 </context>
 <context>
+    <name>MessageFilter</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>e-mail: </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MiniClient</name>
     <message>
         <source>Server Authentication</source>
@@ -7779,39 +7790,39 @@ Detalles: %1</translation>
     <name>Model</name>
     <message>
         <source>Type</source>
-        <translation type="vanished">Tipo</translation>
+        <translation>Tipo</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="vanished">Nombre</translation>
+        <translation>Nombre</translation>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation type="vanished">Correo</translation>
+        <translation>Correo</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="vanished">Creado</translation>
+        <translation>Creado</translation>
     </message>
     <message>
         <source>Length</source>
-        <translation type="vanished">Longitud</translation>
+        <translation>Longitud</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="vanished">Comentario</translation>
+        <translation>Comentario</translation>
     </message>
     <message>
         <source>Algorithm</source>
-        <translation type="vanished">Algoritmo</translation>
+        <translation>Algoritmo</translation>
     </message>
     <message>
         <source>Short ID</source>
-        <translation type="vanished">Identificador corto</translation>
+        <translation>Identificador corto</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="vanished">Huella</translation>
+        <translation>Huella</translation>
     </message>
     <message>
         <source>Enable/Disable</source>
@@ -7828,6 +7839,10 @@ Detalles: %1</translation>
     <message>
         <source>Sounds (if empty default sound will be used)</source>
         <translation>Sonidos (si se deja vacío se usará el sonido por defecto)</translation>
+    </message>
+    <message>
+        <source>Expiration</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9644,6 +9659,26 @@ a las personas frecuentemente contactadas por email.</translation>
     <message>
         <source>Cookies are removed</source>
         <translation>Las cookies fueron eliminadas</translation>
+    </message>
+    <message>
+        <source>Rules</source>
+        <translation type="unfinished">Reglas</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Nombre</translation>
+    </message>
+    <message>
+        <source>Conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

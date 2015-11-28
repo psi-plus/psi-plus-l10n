@@ -7742,6 +7742,17 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
 </context>
 <context>
+    <name>MessageFilter</name>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished">Autor: </translation>
+    </message>
+    <message>
+        <source>e-mail: </source>
+        <translation type="unfinished">e-mail: </translation>
+    </message>
+</context>
+<context>
     <name>MiniClient</name>
     <message>
         <source>Server Authentication</source>
@@ -7765,43 +7776,43 @@ Details: %1</source>
     <name>Model</name>
     <message>
         <source>Type</source>
-        <translation type="vanished">Tipo</translation>
+        <translation>Tipo</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="vanished">Nome</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation type="vanished">E-Mail</translation>
+        <translation>E-Mail</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="vanished">Criado</translation>
+        <translation>Criado</translation>
     </message>
     <message>
         <source>Expiration</source>
-        <translation type="vanished">Expiração</translation>
+        <translation>Expiração</translation>
     </message>
     <message>
         <source>Length</source>
-        <translation type="vanished">Quantidade</translation>
+        <translation>Quantidade</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="vanished">Comentário</translation>
+        <translation>Comentário</translation>
     </message>
     <message>
         <source>Algorithm</source>
-        <translation type="vanished">Algorítimo </translation>
+        <translation>Algorítimo </translation>
     </message>
     <message>
         <source>Short ID</source>
-        <translation type="vanished">Encurtar ID</translation>
+        <translation>Encurtar ID</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="vanished">Impressão Digital</translation>
+        <translation>Impressão Digital</translation>
     </message>
     <message>
         <source>Enable/Disable</source>
@@ -9634,6 +9645,26 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     <message>
         <source>Cookies are removed</source>
         <translation>Os cookies foram removidos</translation>
+    </message>
+    <message>
+        <source>Rules</source>
+        <translation type="unfinished">Regras</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Nome</translation>
+    </message>
+    <message>
+        <source>Conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
