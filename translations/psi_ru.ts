@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ru">
+<TS version="2.1" language="ru">
 <context>
     <name>@default</name>
     <message>
@@ -131,7 +131,7 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;</translation>
     </message>
     <message>
         <source>Designer and Patcher</source>
-        <translation>Дизайнер и автор патчей</translation>
+        <translation type="vanished">Дизайнер и автор патчей</translation>
     </message>
     <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
@@ -8507,23 +8507,23 @@ Tags: %1</source>
     </message>
     <message>
         <source>Plugin Name:</source>
-        <translation>Название:</translation>
+        <translation type="vanished">Название:</translation>
     </message>
     <message>
         <source>Version: 0</source>
-        <translation>Версия: 0</translation>
+        <translation type="vanished">Версия: 0</translation>
     </message>
     <message>
         <source>Load this plugin</source>
-        <translation>Активировать</translation>
+        <translation type="vanished">Активировать</translation>
     </message>
     <message>
         <source>Plugin Location:</source>
-        <translation>Расположение:</translation>
+        <translation type="vanished">Расположение:</translation>
     </message>
     <message>
         <source>No plugin selected</source>
-        <translation>Плагин не выбран</translation>
+        <translation type="vanished">Плагин не выбран</translation>
     </message>
     <message>
         <source>Plugin Name</source>
@@ -10162,11 +10162,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>No plugin selected.</source>
-        <translation>Плагин не выбран.</translation>
+        <translation type="vanished">Плагин не выбран.</translation>
     </message>
     <message>
         <source>Version: </source>
-        <translation>Версия: </translation>
+        <translation type="vanished">Версия: </translation>
     </message>
     <message>
         <source>Plugin Path:
@@ -10559,7 +10559,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Save queryes to log</source>
-        <translation>Сохранять запросы в журнал</translation>
+        <translation type="vanished">Сохранять запросы в журнал</translation>
     </message>
     <message>
         <source>Logs</source>
@@ -10854,7 +10854,7 @@ Please enter your passphrase below:</source>
     <name>PluginInfoDialog</name>
     <message>
         <source>Information</source>
-        <translation>Информация</translation>
+        <translation type="vanished">Информация</translation>
     </message>
     <message>
         <source>About</source>
@@ -12811,23 +12811,23 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>&amp;Log on</source>
-        <translation>&amp;Подключить</translation>
+        <translation type="vanished">&amp;Подключить</translation>
     </message>
     <message>
         <source>Log Off</source>
-        <translation>Отключить</translation>
+        <translation type="vanished">Отключить</translation>
     </message>
     <message>
         <source>Resend Authorization To</source>
-        <translation>Разрешить подписку</translation>
+        <translation type="vanished">Разрешить подписку</translation>
     </message>
     <message>
         <source>Rerequest Authorization From</source>
-        <translation>Запросить подписку</translation>
+        <translation type="vanished">Запросить подписку</translation>
     </message>
     <message>
         <source>Remove Authorization From</source>
-        <translation>Удалить подписку</translation>
+        <translation type="vanished">Удалить подписку</translation>
     </message>
     <message>
         <source>Sen&amp;d Status</source>
@@ -12855,7 +12855,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Invite To</source>
-        <translation>Пригласить в</translation>
+        <translation type="vanished">Пригласить в</translation>
     </message>
     <message>
         <source>&amp;Group</source>
@@ -12863,15 +12863,15 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Send Message To</source>
-        <translation>Отправить сообщение</translation>
+        <translation type="vanished">Отправить сообщение</translation>
     </message>
     <message>
         <source>Open Chat To</source>
-        <translation>Открыть чат</translation>
+        <translation type="vanished">Открыть чат</translation>
     </message>
     <message>
         <source>Open a Whiteboard To</source>
-        <translation>Открыть доску для рисования</translation>
+        <translation type="vanished">Открыть доску для рисования</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -12879,7 +12879,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Active Chats</source>
-        <translation>Активные чаты</translation>
+        <translation type="vanished">Активные чаты</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -12903,7 +12903,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Authorization</source>
-        <translation>Подписка</translation>
+        <translation type="vanished">Подписка</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
