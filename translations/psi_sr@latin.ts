@@ -3688,6 +3688,17 @@ Da nastavim?</translation>
     </message>
 </context>
 <context>
+    <name>EnumMessagesPlugin</name>
+    <message>
+        <source>Missed messages: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EventDlg</name>
     <message>
         <source>Identity:</source>
