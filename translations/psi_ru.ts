@@ -3704,11 +3704,11 @@ Proceed?</source>
     <name>EnumMessagesPlugin</name>
     <message>
         <source>Missed messages: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Пропущенных сообщений: %1</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished">Авторы: </translation>
+        <translation>Авторы: </translation>
     </message>
 </context>
 <context>
