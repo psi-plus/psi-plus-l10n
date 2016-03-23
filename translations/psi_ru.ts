@@ -1581,7 +1581,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Auto-join</source>
-        <translation>Авто-вход</translation>
+        <translation type="vanished">Авто-вход</translation>
     </message>
     <message>
         <source>Import bookmarks from file</source>
@@ -1598,6 +1598,10 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>&amp;Export</source>
         <translation>&amp;Экспорт</translation>
+    </message>
+    <message>
+        <source>Auto-join:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3709,6 +3713,15 @@ Proceed?</source>
     <message>
         <source>Authors: </source>
         <translation>Авторы: </translation>
+    </message>
+    <message>
+        <source>Enum Messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
+Supports per contact on / off message enumeration via the buttons on the chats toolbar.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7135,7 +7148,7 @@ to play battleship. He wants to play %2.</source>
     <name>JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation>vCard недоступен</translation>
+        <translation type="vanished">vCard недоступен</translation>
     </message>
 </context>
 <context>
@@ -7959,6 +7972,17 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OAuth2SASLContext</name>
+    <message>
+        <source>Copy authorization code from opened web page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter authorization code</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptAdvanced</name>
     <message>
         <source>OptAdvancedUI</source>
@@ -8700,7 +8724,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>seconds</source>
-        <translation>секунд</translation>
+        <translation type="vanished">секунд</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -8777,6 +8801,10 @@ Tags: %1</source>
     <message>
         <source>Radius of corners</source>
         <translation>Радиус углов</translation>
+    </message>
+    <message>
+        <source>seconds (0 - never)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9678,6 +9706,26 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Show message if it satisfies the rule</source>
         <translation>Показать сообщение, если оно соответствует правилу</translation>
+    </message>
+    <message>
+        <source>Color for incomming messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for outgoing messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default plugin action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enabled</source>
+        <translation type="unfinished">Включена</translation>
     </message>
 </context>
 <context>
@@ -12466,11 +12514,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation>Вставить и отправить</translation>
+        <translation type="vanished">Вставить и отправить</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation>Шаблоны</translation>
+        <translation type="vanished">Шаблоны</translation>
     </message>
     <message>
         <source>Chat basic buttons</source>
@@ -14838,6 +14886,22 @@ Thanks for your patience.</source>
 
 Спасибо за терпение.</translation>
     </message>
+    <message>
+        <source>Never</source>
+        <translation type="unfinished">Никогда</translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation type="unfinished">Всегда</translation>
+    </message>
+    <message>
+        <source>This computer only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Except this computer</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15406,94 +15470,94 @@ Reason: %1</source>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
-        <translation>Редактор шаблонов</translation>
+        <translation type="vanished">Редактор шаблонов</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation>Шаблоны</translation>
+        <translation type="vanished">Шаблоны</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Добавить</translation>
+        <translation type="vanished">Добавить</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Изменить</translation>
+        <translation type="vanished">Изменить</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Удалить</translation>
+        <translation type="vanished">Удалить</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ок</translation>
+        <translation type="vanished">Ок</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Отмена</translation>
+        <translation type="vanished">Отмена</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation>Добавить строку шаблона</translation>
+        <translation type="vanished">Добавить строку шаблона</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation>Добавить строку шаблона как подменю</translation>
+        <translation type="vanished">Добавить строку шаблона как подменю</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation>Добавить разделитель</translation>
+        <translation type="vanished">Добавить разделитель</translation>
     </message>
     <message>
         <source>Add separator as submenu</source>
-        <translation>Добавить разделитель как подменю</translation>
+        <translation type="vanished">Добавить разделитель как подменю</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation>Выше</translation>
+        <translation type="vanished">Выше</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation>Ниже</translation>
+        <translation type="vanished">Ниже</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
-        <translation>&lt;разделитель&gt;</translation>
+        <translation type="vanished">&lt;разделитель&gt;</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation>Редактировать шаблон</translation>
+        <translation type="vanished">Редактировать шаблон</translation>
     </message>
     <message>
         <source>Input new template text</source>
-        <translation>Введите текст шаблона</translation>
+        <translation type="vanished">Введите текст шаблона</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation>Сохранить шаблоны</translation>
+        <translation type="vanished">Сохранить шаблоны</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation>Шаблон &quot;%1&quot; не был сохранён!</translation>
+        <translation type="vanished">Шаблон &quot;%1&quot; не был сохранён!</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation>Продолжить?</translation>
+        <translation type="vanished">Продолжить?</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
         <source>Paste and &amp;Send</source>
-        <translation>Вставить и &amp;отправить</translation>
+        <translation type="vanished">Вставить и &amp;отправить</translation>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
-        <translation>&amp;Редактировать шаблоны</translation>
+        <translation type="vanished">&amp;Редактировать шаблоны</translation>
     </message>
     <message>
         <source>Only &amp;Paste</source>
-        <translation>Только &amp;вставить</translation>
+        <translation type="vanished">Только &amp;вставить</translation>
     </message>
 </context>
 <context>

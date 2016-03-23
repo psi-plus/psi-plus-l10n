@@ -1568,7 +1568,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Auto-join</source>
-        <translation>Auto-pristup</translation>
+        <translation type="vanished">Auto-pristup</translation>
     </message>
     <message>
         <source>Import bookmarks from file</source>
@@ -1585,6 +1585,10 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>&amp;Export</source>
         <translation>&amp;Izvoz</translation>
+    </message>
+    <message>
+        <source>Auto-join:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3695,6 +3699,15 @@ Da nastavim?</translation>
     </message>
     <message>
         <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enum Messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
+Supports per contact on / off message enumeration via the buttons on the chats toolbar.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7108,7 +7121,7 @@ to play battleship. He wants to play %2.</source>
     <name>JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation type="unfinished">Nema vKartice</translation>
+        <translation type="obsolete">Nema vKartice</translation>
     </message>
 </context>
 <context>
@@ -7940,6 +7953,17 @@ Kartice: %1</translation>
     </message>
 </context>
 <context>
+    <name>OAuth2SASLContext</name>
+    <message>
+        <source>Copy authorization code from opened web page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter authorization code</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptAdvanced</name>
     <message>
         <source>OptAdvancedUI</source>
@@ -8681,7 +8705,7 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation>sekunde</translation>
+        <translation type="vanished">sekunde</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -8758,6 +8782,10 @@ Kartice: %1</translation>
     <message>
         <source>Radius of corners</source>
         <translation>Prečnik ugla</translation>
+    </message>
+    <message>
+        <source>seconds (0 - never)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9646,6 +9674,26 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Show message if it satisfies the rule</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for incomming messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for outgoing messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default plugin action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enabled</source>
+        <translation type="unfinished">Omogućeno</translation>
     </message>
 </context>
 <context>
@@ -12375,7 +12423,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished">Šabloni</translation>
+        <translation type="obsolete">Šabloni</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -12427,10 +12475,6 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Toggle Compact/Full Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Paste and Send</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14793,6 +14837,22 @@ The OTR Plugin will not work.</source>
         <source>Automatically go offline when idle</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Never</source>
+        <translation type="unfinished">Nikad</translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation type="unfinished">Uvek</translation>
+    </message>
+    <message>
+        <source>This computer only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Except this computer</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15353,94 +15413,94 @@ Razlog: %1</translation>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
-        <translation>Editor šablona</translation>
+        <translation type="vanished">Editor šablona</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation>Šabloni</translation>
+        <translation type="vanished">Šabloni</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Dodaj</translation>
+        <translation type="vanished">Dodaj</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Izmeni</translation>
+        <translation type="vanished">Izmeni</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Ukloni</translation>
+        <translation type="vanished">Ukloni</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Otkaži</translation>
+        <translation type="vanished">Otkaži</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation>Dodaj liniju šablona</translation>
+        <translation type="vanished">Dodaj liniju šablona</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation>Dodaj liniju šablona kao podmeni</translation>
+        <translation type="vanished">Dodaj liniju šablona kao podmeni</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation>Dodaj separator</translation>
+        <translation type="vanished">Dodaj separator</translation>
     </message>
     <message>
         <source>Add separator as submenu</source>
-        <translation>Dodaj separator kao podmeni</translation>
+        <translation type="vanished">Dodaj separator kao podmeni</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation>Gore</translation>
+        <translation type="vanished">Gore</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation>Dole</translation>
+        <translation type="vanished">Dole</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
-        <translation>&lt;separator&gt;</translation>
+        <translation type="vanished">&lt;separator&gt;</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation>Izmeni šablon</translation>
+        <translation type="vanished">Izmeni šablon</translation>
     </message>
     <message>
         <source>Input new template text</source>
-        <translation>Unesi novi tekst šablona</translation>
+        <translation type="vanished">Unesi novi tekst šablona</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation>Sačuvaj šablone</translation>
+        <translation type="vanished">Sačuvaj šablone</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation>Šablon &quot;%1&quot; nije začuvan!</translation>
+        <translation type="vanished">Šablon &quot;%1&quot; nije začuvan!</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation>Nastavi?</translation>
+        <translation type="vanished">Nastavi?</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
         <source>Paste and &amp;Send</source>
-        <translation>Nalepi i &amp;pošalji</translation>
+        <translation type="vanished">Nalepi i &amp;pošalji</translation>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
-        <translation>&amp;Izmeni šablone</translation>
+        <translation type="vanished">&amp;Izmeni šablone</translation>
     </message>
     <message>
         <source>Only &amp;Paste</source>
-        <translation>Samo &amp;Nalepi</translation>
+        <translation type="vanished">Samo &amp;Nalepi</translation>
     </message>
 </context>
 <context>

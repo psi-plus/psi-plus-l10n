@@ -1574,7 +1574,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Auto-join</source>
-        <translation>הצטרף אוטומטית</translation>
+        <translation type="vanished">הצטרף אוטומטית</translation>
     </message>
     <message>
         <source>Import bookmarks from file</source>
@@ -1591,6 +1591,10 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>&amp;Export</source>
         <translation>י&amp;צא</translation>
+    </message>
+    <message>
+        <source>Auto-join:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3692,6 +3696,15 @@ Proceed?</source>
     <message>
         <source>Authors: </source>
         <translation type="unfinished">מחברים: </translation>
+    </message>
+    <message>
+        <source>Enum Messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
+Supports per contact on / off message enumeration via the buttons on the chats toolbar.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7091,7 +7104,7 @@ to play battleship. He wants to play %2.</source>
     <name>JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation type="unfinished">אין VCard זמין</translation>
+        <translation type="obsolete">אין VCard זמין</translation>
     </message>
 </context>
 <context>
@@ -7902,6 +7915,17 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OAuth2SASLContext</name>
+    <message>
+        <source>Copy authorization code from opened web page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter authorization code</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptAdvanced</name>
     <message>
         <source>OptAdvancedUI</source>
@@ -8643,7 +8667,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>seconds</source>
-        <translation>שניות</translation>
+        <translation type="vanished">שניות</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -8720,6 +8744,10 @@ Tags: %1</source>
     <message>
         <source>Radius of corners</source>
         <translation>רדיוס של פינות</translation>
+    </message>
+    <message>
+        <source>seconds (0 - never)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9606,6 +9634,26 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Show message if it satisfies the rule</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for incomming messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for outgoing messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default plugin action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enabled</source>
+        <translation type="unfinished">מאופשר</translation>
     </message>
 </context>
 <context>
@@ -12384,12 +12432,8 @@ Reason: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Paste and Send</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Templates</source>
-        <translation type="unfinished">תבניות</translation>
+        <translation type="obsolete">תבניות</translation>
     </message>
     <message>
         <source>Chat basic buttons</source>
@@ -14740,6 +14784,22 @@ Do you want to generate keys now?</source>
 Thanks for your patience.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Never</source>
+        <translation type="unfinished">אף פעם</translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation type="unfinished">תמיד</translation>
+    </message>
+    <message>
+        <source>This computer only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Except this computer</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15291,94 +15351,94 @@ Reason: %1</source>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
-        <translation>עורך תבנית</translation>
+        <translation type="vanished">עורך תבנית</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation>תבניות</translation>
+        <translation type="vanished">תבניות</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>הוספה</translation>
+        <translation type="vanished">הוספה</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>עריכה</translation>
+        <translation type="vanished">עריכה</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>הסרה</translation>
+        <translation type="vanished">הסרה</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>אישור</translation>
+        <translation type="vanished">אישור</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>ביטול</translation>
+        <translation type="vanished">ביטול</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation>הוספת מחרוזת תבנית</translation>
+        <translation type="vanished">הוספת מחרוזת תבנית</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation>הוספת מחרוזת תבנית כתפריט משנה</translation>
+        <translation type="vanished">הוספת מחרוזת תבנית כתפריט משנה</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation>הוספת חוצץ</translation>
+        <translation type="vanished">הוספת חוצץ</translation>
     </message>
     <message>
         <source>Add separator as submenu</source>
-        <translation>הוספת חוצץ כתפריט משנה</translation>
+        <translation type="vanished">הוספת חוצץ כתפריט משנה</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation>מעלה</translation>
+        <translation type="vanished">מעלה</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation>מטה</translation>
+        <translation type="vanished">מטה</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
-        <translation>&lt;חוצץ&gt;</translation>
+        <translation type="vanished">&lt;חוצץ&gt;</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation>עריכת תבנית</translation>
+        <translation type="vanished">עריכת תבנית</translation>
     </message>
     <message>
         <source>Input new template text</source>
-        <translation>הזנת תמליל תבנית חדשה</translation>
+        <translation type="vanished">הזנת תמליל תבנית חדשה</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation>שמירת תבניות</translation>
+        <translation type="vanished">שמירת תבניות</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation>התבנית &quot;%1&quot; לא נשמרה!</translation>
+        <translation type="vanished">התבנית &quot;%1&quot; לא נשמרה!</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation>המשך?</translation>
+        <translation type="vanished">המשך?</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
         <source>Paste and &amp;Send</source>
-        <translation>הדבק ו&amp;שלח</translation>
+        <translation type="vanished">הדבק ו&amp;שלח</translation>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
-        <translation>&amp;ערוך תבניות</translation>
+        <translation type="vanished">&amp;ערוך תבניות</translation>
     </message>
     <message>
         <source>Only &amp;Paste</source>
-        <translation>ה&amp;דבק בלבד</translation>
+        <translation type="vanished">ה&amp;דבק בלבד</translation>
     </message>
 </context>
 <context>

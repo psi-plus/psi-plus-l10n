@@ -1568,7 +1568,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Auto-join</source>
-        <translation>Wejdź automatycznie</translation>
+        <translation type="vanished">Wejdź automatycznie</translation>
     </message>
     <message>
         <source>Import bookmarks from file</source>
@@ -1585,6 +1585,10 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>&amp;Export</source>
         <translation>&amp;Eksport</translation>
+    </message>
+    <message>
+        <source>Auto-join:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3696,6 +3700,15 @@ Każde słowo używa wyrażenia regularnego</translation>
     <message>
         <source>Authors: </source>
         <translation type="unfinished">Autorzy:</translation>
+    </message>
+    <message>
+        <source>Enum Messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
+Supports per contact on / off message enumeration via the buttons on the chats toolbar.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7101,7 +7114,7 @@ to play battleship. He wants to play %2.</source>
     <name>JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation type="unfinished">Nie znaleziono wizytówki</translation>
+        <translation type="obsolete">Nie znaleziono wizytówki</translation>
     </message>
 </context>
 <context>
@@ -7926,6 +7939,17 @@ Etykiety: %1</translation>
     </message>
 </context>
 <context>
+    <name>OAuth2SASLContext</name>
+    <message>
+        <source>Copy authorization code from opened web page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter authorization code</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptAdvanced</name>
     <message>
         <source>OptAdvancedUI</source>
@@ -8664,7 +8688,7 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation>sek.</translation>
+        <translation type="vanished">sek.</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
@@ -8744,6 +8768,10 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>Radius of corners</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>seconds (0 - never)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9632,6 +9660,26 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     <message>
         <source>Show message if it satisfies the rule</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for incomming messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for outgoing messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default plugin action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enabled</source>
+        <translation type="unfinished">Włączony</translation>
     </message>
 </context>
 <context>
@@ -12413,14 +12461,6 @@ Przyczyna: %1.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Paste and Send</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Chat basic buttons</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14766,6 +14806,22 @@ The OTR Plugin will not work.</source>
         <source>Time</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Never</source>
+        <translation type="unfinished">Nigdy</translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation type="unfinished">Zawsze</translation>
+    </message>
+    <message>
+        <source>This computer only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Except this computer</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15324,94 +15380,39 @@ Przyczyna: %1</translation>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Dodaj</translation>
+        <translation type="obsolete">Dodaj</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Edytuj</translation>
+        <translation type="obsolete">Edytuj</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Usuń</translation>
+        <translation type="obsolete">Usuń</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">OK</translation>
+        <translation type="obsolete">OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anuluj</translation>
+        <translation type="vanished">Anuluj</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished">W górę</translation>
+        <translation type="obsolete">W górę</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished">W dół</translation>
+        <translation type="obsolete">W dół</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation>Zapisz szablony</translation>
+        <translation type="vanished">Zapisz szablony</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation>Szablon &quot;%1&quot; nie został zapisany!</translation>
-    </message>
-    <message>
-        <source>Template editor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add template string</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add template string as submenu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add separator</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add separator as submenu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;separator&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit template</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Input new template text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Continue?</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesMenu</name>
-    <message>
-        <source>Paste and &amp;Send</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Edit Templates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Only &amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Szablon &quot;%1&quot; nie został zapisany!</translation>
     </message>
 </context>
 <context>

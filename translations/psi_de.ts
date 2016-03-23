@@ -1596,7 +1596,7 @@ Für das Versenden von Befehlen werden normale Nachrichten verwendet, so dass di
     </message>
     <message>
         <source>Auto-join</source>
-        <translation>Automatisch betreten</translation>
+        <translation type="vanished">Automatisch betreten</translation>
     </message>
     <message>
         <source>Import bookmarks from file</source>
@@ -1613,6 +1613,10 @@ Für das Versenden von Befehlen werden normale Nachrichten verwendet, so dass di
     <message>
         <source>&amp;Export</source>
         <translation>&amp;Exportieren</translation>
+    </message>
+    <message>
+        <source>Auto-join:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3722,6 +3726,15 @@ Fortfahren?</translation>
     </message>
     <message>
         <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enum Messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
+Supports per contact on / off message enumeration via the buttons on the chats toolbar.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7135,7 +7148,7 @@ Schiffe versenken ein. Er möchte %2 spielen.</translation>
     <name>JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation>Keine Visitenkarte verfügbar</translation>
+        <translation type="vanished">Keine Visitenkarte verfügbar</translation>
     </message>
 </context>
 <context>
@@ -7959,6 +7972,17 @@ Tags: %1</translation>
     </message>
 </context>
 <context>
+    <name>OAuth2SASLContext</name>
+    <message>
+        <source>Copy authorization code from opened web page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter authorization code</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptAdvanced</name>
     <message>
         <source>OptAdvancedUI</source>
@@ -8700,7 +8724,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation>Sekunden</translation>
+        <translation type="vanished">Sekunden</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -8777,6 +8801,10 @@ Tags: %1</translation>
     <message>
         <source>Radius of corners</source>
         <translation>Radius der Ecken</translation>
+    </message>
+    <message>
+        <source>seconds (0 - never)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9666,6 +9694,26 @@ Aktiviere die &quot;Nachrichtenarchivierung&quot;-Option zur Verwendung!</transl
     <message>
         <source>Show message if it satisfies the rule</source>
         <translation>Zeige Nachricht wenn sie eine Regel erfüllt</translation>
+    </message>
+    <message>
+        <source>Color for incomming messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for outgoing messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default plugin action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enabled</source>
+        <translation type="unfinished">Aktiviert</translation>
     </message>
 </context>
 <context>
@@ -12460,11 +12508,11 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation>Einfügen und Senden</translation>
+        <translation type="vanished">Einfügen und Senden</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation>Vorlagen</translation>
+        <translation type="vanished">Vorlagen</translation>
     </message>
     <message>
         <source>Chat basic buttons</source>
@@ -14829,6 +14877,22 @@ Thanks for your patience.</source>
 
 Vielen Dank für Ihre Geduld.</translation>
     </message>
+    <message>
+        <source>Never</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation type="unfinished">Immer</translation>
+    </message>
+    <message>
+        <source>This computer only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Except this computer</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15392,94 +15456,94 @@ Grund: %1</translation>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
-        <translation>Vorlageneditor</translation>
+        <translation type="vanished">Vorlageneditor</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation>Vorlagen</translation>
+        <translation type="vanished">Vorlagen</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Hinzufügen</translation>
+        <translation type="vanished">Hinzufügen</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Bearbeiten</translation>
+        <translation type="vanished">Bearbeiten</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Entfernen</translation>
+        <translation type="vanished">Entfernen</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>OK</translation>
+        <translation type="vanished">OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Abbrechen</translation>
+        <translation type="vanished">Abbrechen</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation>Als Vorlage hinzufügen</translation>
+        <translation type="vanished">Als Vorlage hinzufügen</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation>Als Untermenü hinzufügen</translation>
+        <translation type="vanished">Als Untermenü hinzufügen</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation>Trennelement hinzufügen</translation>
+        <translation type="vanished">Trennelement hinzufügen</translation>
     </message>
     <message>
         <source>Add separator as submenu</source>
-        <translation>Trennelement als Untermenü hinzufügen</translation>
+        <translation type="vanished">Trennelement als Untermenü hinzufügen</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation>Hoch</translation>
+        <translation type="vanished">Hoch</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation>Runter</translation>
+        <translation type="vanished">Runter</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
-        <translation>&lt;Trennelement&gt;</translation>
+        <translation type="vanished">&lt;Trennelement&gt;</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation>Vorlage bearbeiten</translation>
+        <translation type="vanished">Vorlage bearbeiten</translation>
     </message>
     <message>
         <source>Input new template text</source>
-        <translation>Neuen Vorlagentext eingeben</translation>
+        <translation type="vanished">Neuen Vorlagentext eingeben</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation>Vorlagen speichern</translation>
+        <translation type="vanished">Vorlagen speichern</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation>Die Vorlage &quot;%1&quot; wurde nicht gespeichert!</translation>
+        <translation type="vanished">Die Vorlage &quot;%1&quot; wurde nicht gespeichert!</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation>Fortsetzen?</translation>
+        <translation type="vanished">Fortsetzen?</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
         <source>Paste and &amp;Send</source>
-        <translation>Einfügen und &amp;Senden</translation>
+        <translation type="vanished">Einfügen und &amp;Senden</translation>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
-        <translation>Vorlagen &amp;bearbeiten</translation>
+        <translation type="vanished">Vorlagen &amp;bearbeiten</translation>
     </message>
     <message>
         <source>Only &amp;Paste</source>
-        <translation>Nur &amp;einfügen</translation>
+        <translation type="vanished">Nur &amp;einfügen</translation>
     </message>
 </context>
 <context>

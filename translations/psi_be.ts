@@ -1590,7 +1590,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Auto-join</source>
-        <translation>Далучацца самарушна</translation>
+        <translation type="vanished">Далучацца самарушна</translation>
     </message>
     <message>
         <source>Import bookmarks from file</source>
@@ -1607,6 +1607,10 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>&amp;Export</source>
         <translation>&amp;Выняць</translation>
+    </message>
+    <message>
+        <source>Auto-join:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3720,6 +3724,15 @@ Proceed?</source>
     <message>
         <source>Authors: </source>
         <translation type="unfinished">Аўтары: </translation>
+    </message>
+    <message>
+        <source>Enum Messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
+Supports per contact on / off message enumeration via the buttons on the chats toolbar.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7139,7 +7152,7 @@ to play battleship. He wants to play %2.</source>
     <name>JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation type="unfinished">Няма даступнае візытоўкі</translation>
+        <translation type="obsolete">Няма даступнае візытоўкі</translation>
     </message>
 </context>
 <context>
@@ -7970,6 +7983,17 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OAuth2SASLContext</name>
+    <message>
+        <source>Copy authorization code from opened web page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter authorization code</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptAdvanced</name>
     <message>
         <source>OptAdvancedUI</source>
@@ -8711,7 +8735,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>seconds</source>
-        <translation>сэк.</translation>
+        <translation type="vanished">сэк.</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -8788,6 +8812,10 @@ Tags: %1</source>
     <message>
         <source>Radius of corners</source>
         <translation>Радыюс вуглоў</translation>
+    </message>
+    <message>
+        <source>seconds (0 - never)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9691,6 +9719,26 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Show message if it satisfies the rule</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for incomming messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for outgoing messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default plugin action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enabled</source>
+        <translation type="unfinished">Дзейнічае</translation>
     </message>
 </context>
 <context>
@@ -12447,7 +12495,7 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished">Шаблёны</translation>
+        <translation type="obsolete">Шаблёны</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -12479,10 +12527,6 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Toggle Compact/Full Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Paste and Send</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14863,6 +14907,22 @@ Thanks for your patience.</source>
         <source>Incoming call</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Never</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation type="unfinished">Заўжды</translation>
+    </message>
+    <message>
+        <source>This computer only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Except this computer</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15429,94 +15489,94 @@ Reason: %1</source>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
-        <translation>Правіць шаблёны</translation>
+        <translation type="vanished">Правіць шаблёны</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation>Шаблёны</translation>
+        <translation type="vanished">Шаблёны</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Дадаць</translation>
+        <translation type="vanished">Дадаць</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Правіць</translation>
+        <translation type="vanished">Правіць</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Прыбраць</translation>
+        <translation type="vanished">Прыбраць</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Добра</translation>
+        <translation type="vanished">Добра</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Скасаваць</translation>
+        <translation type="vanished">Скасаваць</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation>Дадаць радок шаблёну</translation>
+        <translation type="vanished">Дадаць радок шаблёну</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation>Дадаць радок шаблёну як падмэню</translation>
+        <translation type="vanished">Дадаць радок шаблёну як падмэню</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation>Дадаць аддзяляльнік</translation>
+        <translation type="vanished">Дадаць аддзяляльнік</translation>
     </message>
     <message>
         <source>Add separator as submenu</source>
-        <translation>Дадаць аддзяляльнік як падмэню</translation>
+        <translation type="vanished">Дадаць аддзяляльнік як падмэню</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation>Дагары</translation>
+        <translation type="vanished">Дагары</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation>Долу</translation>
+        <translation type="vanished">Долу</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
-        <translation>&lt;аддзяляльнік&gt;</translation>
+        <translation type="vanished">&lt;аддзяляльнік&gt;</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation>Правіць шаблён</translation>
+        <translation type="vanished">Правіць шаблён</translation>
     </message>
     <message>
         <source>Input new template text</source>
-        <translation>Набярыце тэкст шаблёну</translation>
+        <translation type="vanished">Набярыце тэкст шаблёну</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation>Захаваць шаблёны</translation>
+        <translation type="vanished">Захаваць шаблёны</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation>Шаблён «%1» не захавалі!</translation>
+        <translation type="vanished">Шаблён «%1» не захавалі!</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation>Ці працягваць?</translation>
+        <translation type="vanished">Ці працягваць?</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
         <source>Paste and &amp;Send</source>
-        <translation>Уставіць і &amp;даслаць</translation>
+        <translation type="vanished">Уставіць і &amp;даслаць</translation>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
-        <translation>&amp;Правіць шаблёны</translation>
+        <translation type="vanished">&amp;Правіць шаблёны</translation>
     </message>
     <message>
         <source>Only &amp;Paste</source>
-        <translation>&amp;Толькі ўставіць</translation>
+        <translation type="vanished">&amp;Толькі ўставіць</translation>
     </message>
 </context>
 <context>

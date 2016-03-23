@@ -1550,7 +1550,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Auto-join</source>
-        <translation>Автокіру</translation>
+        <translation type="vanished">Автокіру</translation>
     </message>
     <message>
         <source>Import bookmarks from file</source>
@@ -1566,6 +1566,10 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto-join:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3662,6 +3666,15 @@ Proceed?</source>
     </message>
     <message>
         <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enum Messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
+Supports per contact on / off message enumeration via the buttons on the chats toolbar.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7022,13 +7035,6 @@ to play gomoku. He wants to play %2.</source>
     </message>
 </context>
 <context>
-    <name>JT_VCard</name>
-    <message>
-        <source>No VCard available</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>JabberDiskPlugin</name>
     <message>
         <source>Jabber Disk</source>
@@ -7839,6 +7845,17 @@ Tags: %1</source>
     </message>
 </context>
 <context>
+    <name>OAuth2SASLContext</name>
+    <message>
+        <source>Copy authorization code from opened web page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter authorization code</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptAdvanced</name>
     <message>
         <source>OptAdvancedUI</source>
@@ -8579,10 +8596,6 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>seconds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Icons</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8652,6 +8665,10 @@ Tags: %1</source>
     </message>
     <message>
         <source>Radius of corners</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>seconds (0 - never)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9537,6 +9554,26 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Show message if it satisfies the rule</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for incomming messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for outgoing messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default plugin action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enabled</source>
+        <translation type="unfinished">Іске қосулы</translation>
     </message>
 </context>
 <context>
@@ -12304,14 +12341,6 @@ Reason: %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Paste and Send</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Chat basic buttons</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14609,6 +14638,22 @@ The OTR Plugin will not work.</source>
         <source>Last Status Message</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Never</source>
+        <translation type="unfinished">Ешқашан</translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation type="unfinished">Әрқашан</translation>
+    </message>
+    <message>
+        <source>This computer only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Except this computer</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15156,94 +15201,27 @@ Reason: %1</source>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Қосу</translation>
+        <translation type="obsolete">Қосу</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Өшіру</translation>
+        <translation type="obsolete">Өшіру</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">ОК</translation>
+        <translation type="obsolete">ОК</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Бас тарту</translation>
+        <translation type="obsolete">Бас тарту</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished">Жоғары</translation>
+        <translation type="obsolete">Жоғары</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished">Төмен</translation>
-    </message>
-    <message>
-        <source>Template editor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add template string</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add template string as submenu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add separator</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add separator as submenu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;separator&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit template</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Input new template text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save templates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Continue?</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesMenu</name>
-    <message>
-        <source>Paste and &amp;Send</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Edit Templates</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Only &amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Төмен</translation>
     </message>
 </context>
 <context>

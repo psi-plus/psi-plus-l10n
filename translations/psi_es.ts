@@ -1601,7 +1601,7 @@ Para el envío de comandos, se usan mensajes normales, por lo que este complemen
     </message>
     <message>
         <source>Auto-join</source>
-        <translation>Auto unirse</translation>
+        <translation type="vanished">Auto unirse</translation>
     </message>
     <message>
         <source>Import bookmarks from file</source>
@@ -1618,6 +1618,10 @@ Para el envío de comandos, se usan mensajes normales, por lo que este complemen
     <message>
         <source>&amp;Export</source>
         <translation>&amp;Exportar</translation>
+    </message>
+    <message>
+        <source>Auto-join:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3722,6 +3726,15 @@ Proceed?</source>
     </message>
     <message>
         <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enum Messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
+Supports per contact on / off message enumeration via the buttons on the chats toolbar.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7147,7 +7160,7 @@ a jugar batalla naval. Quiere jugar %2.</translation>
     <name>JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation>No hay VCard disponible</translation>
+        <translation type="vanished">No hay VCard disponible</translation>
     </message>
 </context>
 <context>
@@ -7970,6 +7983,17 @@ Etiquetas: %1</translation>
     </message>
 </context>
 <context>
+    <name>OAuth2SASLContext</name>
+    <message>
+        <source>Copy authorization code from opened web page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter authorization code</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptAdvanced</name>
     <message>
         <source>OptAdvancedUI</source>
@@ -8711,7 +8735,7 @@ Etiquetas: %1</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation>segundos</translation>
+        <translation type="vanished">segundos</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -8788,6 +8812,10 @@ Etiquetas: %1</translation>
     <message>
         <source>Radius of corners</source>
         <translation>Radio en las esquinas</translation>
+    </message>
+    <message>
+        <source>seconds (0 - never)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9690,6 +9718,26 @@ a las personas frecuentemente contactadas por email.</translation>
     <message>
         <source>Show message if it satisfies the rule</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for incomming messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for outgoing messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default plugin action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enabled</source>
+        <translation type="unfinished">Habilitado</translation>
     </message>
 </context>
 <context>
@@ -12475,11 +12523,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation>Pegar y Enviar</translation>
+        <translation type="vanished">Pegar y Enviar</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation>Plantillas</translation>
+        <translation type="vanished">Plantillas</translation>
     </message>
     <message>
         <source>Chat basic buttons</source>
@@ -14844,6 +14892,22 @@ Thanks for your patience.</source>
 
 Gracias por tu paciencia.</translation>
     </message>
+    <message>
+        <source>Never</source>
+        <translation type="unfinished">Nunca</translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation type="unfinished">Siempre</translation>
+    </message>
+    <message>
+        <source>This computer only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Except this computer</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15403,94 +15467,94 @@ Razón: %1</translation>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
-        <translation>Editor de plantilla</translation>
+        <translation type="vanished">Editor de plantilla</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation>Plantillas</translation>
+        <translation type="vanished">Plantillas</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Añadir</translation>
+        <translation type="vanished">Añadir</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Editar</translation>
+        <translation type="vanished">Editar</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Eliminar</translation>
+        <translation type="vanished">Eliminar</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Aceptar</translation>
+        <translation type="vanished">Aceptar</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="vanished">Cancelar</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation>Añadir cadena de plantilla</translation>
+        <translation type="vanished">Añadir cadena de plantilla</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation>Añadir cadena de plantilla como submenú</translation>
+        <translation type="vanished">Añadir cadena de plantilla como submenú</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation>Añadir separador</translation>
+        <translation type="vanished">Añadir separador</translation>
     </message>
     <message>
         <source>Add separator as submenu</source>
-        <translation>Añadir separador como submenú</translation>
+        <translation type="vanished">Añadir separador como submenú</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation>Subir</translation>
+        <translation type="vanished">Subir</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation>Bajar</translation>
+        <translation type="vanished">Bajar</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
-        <translation>&lt;separador&gt;</translation>
+        <translation type="vanished">&lt;separador&gt;</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation>Editar plantilla</translation>
+        <translation type="vanished">Editar plantilla</translation>
     </message>
     <message>
         <source>Input new template text</source>
-        <translation>Insertar nuevo texto de plantilla</translation>
+        <translation type="vanished">Insertar nuevo texto de plantilla</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation>Guardar plantillas</translation>
+        <translation type="vanished">Guardar plantillas</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation>¡La plantilla &apos;%1&apos; no ha sido guardada!</translation>
+        <translation type="vanished">¡La plantilla &apos;%1&apos; no ha sido guardada!</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation>¿Continuar?</translation>
+        <translation type="vanished">¿Continuar?</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
         <source>Paste and &amp;Send</source>
-        <translation>Pegar y en&amp;viar</translation>
+        <translation type="vanished">Pegar y en&amp;viar</translation>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
-        <translation>&amp;Editar plantillas</translation>
+        <translation type="vanished">&amp;Editar plantillas</translation>
     </message>
     <message>
         <source>Only &amp;Paste</source>
-        <translation>Solo &amp;pegar</translation>
+        <translation type="vanished">Solo &amp;pegar</translation>
     </message>
 </context>
 <context>

@@ -1567,7 +1567,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Auto-join</source>
-        <translation>Automatické připojení</translation>
+        <translation type="vanished">Automatické připojení</translation>
     </message>
     <message>
         <source>Import bookmarks from file</source>
@@ -1584,6 +1584,10 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>&amp;Export</source>
         <translation>&amp;Export</translation>
+    </message>
+    <message>
+        <source>Auto-join:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3693,6 +3697,15 @@ Provést?</translation>
     <message>
         <source>Authors: </source>
         <translation type="unfinished">Autoři: </translation>
+    </message>
+    <message>
+        <source>Enum Messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
+Supports per contact on / off message enumeration via the buttons on the chats toolbar.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7112,7 +7125,7 @@ to play battleship. He wants to play %2.</source>
     <name>JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation>Není k dispozici žádná VCard</translation>
+        <translation type="vanished">Není k dispozici žádná VCard</translation>
     </message>
 </context>
 <context>
@@ -7930,6 +7943,17 @@ Tagy: %1</translation>
     </message>
 </context>
 <context>
+    <name>OAuth2SASLContext</name>
+    <message>
+        <source>Copy authorization code from opened web page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter authorization code</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptAdvanced</name>
     <message>
         <source>OptAdvancedUI</source>
@@ -8671,7 +8695,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation>vteřinách</translation>
+        <translation type="vanished">vteřinách</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -8748,6 +8772,10 @@ Tagy: %1</translation>
     <message>
         <source>Radius of corners</source>
         <translation>Poloměr rohů</translation>
+    </message>
+    <message>
+        <source>seconds (0 - never)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9650,6 +9678,26 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <source>Show message if it satisfies the rule</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for incomming messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for outgoing messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default plugin action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enabled</source>
+        <translation type="unfinished">Zapnout</translation>
     </message>
 </context>
 <context>
@@ -12434,11 +12482,11 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation>Vložit a poslat</translation>
+        <translation type="vanished">Vložit a poslat</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation>Šablony</translation>
+        <translation type="vanished">Šablony</translation>
     </message>
     <message>
         <source>Chat basic buttons</source>
@@ -14802,6 +14850,22 @@ Thanks for your patience.</source>
         <source>Presence-Out,</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Never</source>
+        <translation type="unfinished">Nikdy</translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation type="unfinished">Vždy</translation>
+    </message>
+    <message>
+        <source>This computer only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Except this computer</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15361,94 +15425,94 @@ Zdůvodnění: %1</translation>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
-        <translation>Editor šablon</translation>
+        <translation type="vanished">Editor šablon</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation>Šablony</translation>
+        <translation type="vanished">Šablony</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Přidat</translation>
+        <translation type="vanished">Přidat</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Upravit</translation>
+        <translation type="vanished">Upravit</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Odstranit</translation>
+        <translation type="vanished">Odstranit</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Zrušit</translation>
+        <translation type="vanished">Zrušit</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation>Přidat řětězec šablony</translation>
+        <translation type="vanished">Přidat řětězec šablony</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation>Přidat řětězec šablony jako podnabídku</translation>
+        <translation type="vanished">Přidat řětězec šablony jako podnabídku</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation>Přidat oddělovač</translation>
+        <translation type="vanished">Přidat oddělovač</translation>
     </message>
     <message>
         <source>Add separator as submenu</source>
-        <translation>Přidat oddělovač jako podnabídku</translation>
+        <translation type="vanished">Přidat oddělovač jako podnabídku</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation>Nahoru</translation>
+        <translation type="vanished">Nahoru</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation>Dolů</translation>
+        <translation type="vanished">Dolů</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
-        <translation>&lt;oddělovač&gt;</translation>
+        <translation type="vanished">&lt;oddělovač&gt;</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation>Upravit šablonu</translation>
+        <translation type="vanished">Upravit šablonu</translation>
     </message>
     <message>
         <source>Input new template text</source>
-        <translation>Vlož text nové šablony</translation>
+        <translation type="vanished">Vlož text nové šablony</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation>Uložit šablony</translation>
+        <translation type="vanished">Uložit šablony</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation>Šablona &quot;%1&quot; nebyla uložena!</translation>
+        <translation type="vanished">Šablona &quot;%1&quot; nebyla uložena!</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation>Pokračovat?</translation>
+        <translation type="vanished">Pokračovat?</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
         <source>Paste and &amp;Send</source>
-        <translation>Vložit a &amp;poslat</translation>
+        <translation type="vanished">Vložit a &amp;poslat</translation>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
-        <translation>&amp;Upravit šablony</translation>
+        <translation type="vanished">&amp;Upravit šablony</translation>
     </message>
     <message>
         <source>Only &amp;Paste</source>
-        <translation>Jenom &amp;Vložit</translation>
+        <translation type="vanished">Jenom &amp;Vložit</translation>
     </message>
 </context>
 <context>
