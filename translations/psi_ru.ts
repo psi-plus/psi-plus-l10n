@@ -1601,7 +1601,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Auto-join:</source>
-        <translation type="unfinished"></translation>
+        <translation>Авто-вход:</translation>
     </message>
 </context>
 <context>
@@ -3716,12 +3716,13 @@ Proceed?</source>
     </message>
     <message>
         <source>Enum Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Нумерованные сообщения</translation>
     </message>
     <message>
         <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
 Supports per contact on / off message enumeration via the buttons on the chats toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Данный плагин предназначен для перечисления сообщений, добавление номера сообщения в журналах чата и уведомления о пропущенных сообщениях.
+Поддерживается вкл / выкл перечисления сообщений для каждого контакта по отдельности с помощью кнопок на панели инструментов чата.</translation>
     </message>
 </context>
 <context>
@@ -7975,11 +7976,11 @@ Tags: %1</source>
     <name>OAuth2SASLContext</name>
     <message>
         <source>Copy authorization code from opened web page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопировать код авторизации из открытой веб-страницы.</translation>
     </message>
     <message>
         <source>Enter authorization code</source>
-        <translation type="unfinished"></translation>
+        <translation>Введите код авторизации</translation>
     </message>
 </context>
 <context>
@@ -8804,7 +8805,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>seconds (0 - never)</source>
-        <translation type="unfinished"></translation>
+        <translation>секунд (0 - никогда)</translation>
     </message>
 </context>
 <context>
@@ -9709,23 +9710,23 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Color for incomming messages numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет для номеров входящих сообщений</translation>
     </message>
     <message>
         <source>Color for outgoing messages numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет для номеров исходящих сообщений</translation>
     </message>
     <message>
         <source>Default plugin action</source>
-        <translation type="unfinished"></translation>
+        <translation>Действие по умолчанию</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключен</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="unfinished">Включена</translation>
+        <translation>Включен</translation>
     </message>
 </context>
 <context>
@@ -14888,19 +14889,19 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished">Никогда</translation>
+        <translation>Никогда</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished">Всегда</translation>
+        <translation>Всегда</translation>
     </message>
     <message>
         <source>This computer only</source>
-        <translation type="unfinished"></translation>
+        <translation>Только на данном компьютере</translation>
     </message>
     <message>
         <source>Except this computer</source>
-        <translation type="unfinished"></translation>
+        <translation>За исключением этого компьютера</translation>
     </message>
 </context>
 <context>
