@@ -1609,7 +1609,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Auto-join:</source>
-        <translation type="unfinished"></translation>
+        <translation>Авто-вхід:</translation>
     </message>
 </context>
 <context>
@@ -3723,12 +3723,13 @@ Proceed?</source>
     </message>
     <message>
         <source>Enum Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Підраховані повідомлення</translation>
     </message>
     <message>
         <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
 Supports per contact on / off message enumeration via the buttons on the chats toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Плагін призначений для перерахування повідомлень, додавання номера повідомлення в журналах чату і повідомлення про пропущені дзвінки.
+Підтримка вмк / вимк перерахування повідомлень для контакту за допомогою кнопок на панелі інструментів чатів.</translation>
     </message>
 </context>
 <context>
@@ -7149,13 +7150,6 @@ to play battleship. He wants to play %2.</source>
     </message>
 </context>
 <context>
-    <name>JT_VCard</name>
-    <message>
-        <source>No VCard available</source>
-        <translation type="vanished">vCard недоступний</translation>
-    </message>
-</context>
-<context>
     <name>JabberDiskPlugin</name>
     <message>
         <source>Jabber Disk</source>
@@ -7979,11 +7973,11 @@ Tags: %1</source>
     <name>OAuth2SASLContext</name>
     <message>
         <source>Copy authorization code from opened web page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Копіювати код авторизації з відкритої веб-сторінки</translation>
     </message>
     <message>
         <source>Enter authorization code</source>
-        <translation type="unfinished"></translation>
+        <translation>Ввести код авторизації</translation>
     </message>
 </context>
 <context>
@@ -8808,7 +8802,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>seconds (0 - never)</source>
-        <translation type="unfinished"></translation>
+        <translation>секунд (0 - ніколи)</translation>
     </message>
 </context>
 <context>
@@ -9713,23 +9707,23 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Color for incomming messages numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Колір для номерів вхідних повідомлень</translation>
     </message>
     <message>
         <source>Color for outgoing messages numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Колір для номерів вихідних повідомлень</translation>
     </message>
     <message>
         <source>Default plugin action</source>
-        <translation type="unfinished"></translation>
+        <translation>Дія плагіну за замовчуванням</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Вимкнено</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="unfinished">Включена</translation>
+        <translation>Увімкнено</translation>
     </message>
 </context>
 <context>
@@ -14890,19 +14884,19 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished">Ніколи</translation>
+        <translation>Ніколи</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished">Завжди</translation>
+        <translation>Завжди</translation>
     </message>
     <message>
         <source>This computer only</source>
-        <translation type="unfinished"></translation>
+        <translation>Тільки цей комп&apos;ютер</translation>
     </message>
     <message>
         <source>Except this computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Крім цього комп&apos;ютера</translation>
     </message>
 </context>
 <context>
