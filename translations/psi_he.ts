@@ -3275,11 +3275,11 @@ Proceed?</source>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
-        <translation type="unfinished"></translation>
+        <translation>יצירת קבוצה חדשה</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation type="unfinished"></translation>
+        <translation>הזן את השם החדש של הקבוצה:</translation>
     </message>
     <message>
         <source>Add</source>
@@ -7098,13 +7098,6 @@ to play battleship. He wants to play %2.</source>
     <message>
         <source>Input New Name</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>JT_VCard</name>
-    <message>
-        <source>No VCard available</source>
-        <translation type="obsolete">אין VCard זמין</translation>
     </message>
 </context>
 <context>
@@ -12430,10 +12423,6 @@ Reason: %1.</source>
     <message>
         <source>Toggle Compact/Full Size</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="obsolete">תבניות</translation>
     </message>
     <message>
         <source>Chat basic buttons</source>

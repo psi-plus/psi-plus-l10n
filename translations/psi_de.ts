@@ -1616,7 +1616,7 @@ Für das Versenden von Befehlen werden normale Nachrichten verwendet, so dass di
     </message>
     <message>
         <source>Auto-join:</source>
-        <translation type="unfinished"></translation>
+        <translation>Autom. beitreten:</translation>
     </message>
 </context>
 <context>
@@ -3722,15 +3722,15 @@ Fortfahren?</translation>
     <name>EnumMessagesPlugin</name>
     <message>
         <source>Missed messages: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Verpasste Nachrichten: %1</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"></translation>
+        <translation>Autoren: </translation>
     </message>
     <message>
         <source>Enum Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Enum Messages</translation>
     </message>
     <message>
         <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
@@ -7145,13 +7145,6 @@ Schiffe versenken ein. Er möchte %2 spielen.</translation>
     </message>
 </context>
 <context>
-    <name>JT_VCard</name>
-    <message>
-        <source>No VCard available</source>
-        <translation type="vanished">Keine Visitenkarte verfügbar</translation>
-    </message>
-</context>
-<context>
     <name>JabberDiskPlugin</name>
     <message>
         <source>Jabber Disk</source>
@@ -7975,11 +7968,11 @@ Tags: %1</translation>
     <name>OAuth2SASLContext</name>
     <message>
         <source>Copy authorization code from opened web page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorisierungs-Code von geöffneter Webseite kopieren.</translation>
     </message>
     <message>
         <source>Enter authorization code</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorisierungs-Code eingeben</translation>
     </message>
 </context>
 <context>
@@ -8804,7 +8797,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekunden (0 - niemals)</translation>
     </message>
 </context>
 <context>
@@ -9697,23 +9690,23 @@ Aktiviere die &quot;Nachrichtenarchivierung&quot;-Option zur Verwendung!</transl
     </message>
     <message>
         <source>Color for incomming messages numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbe für Nummern eingehender Nachrichten</translation>
     </message>
     <message>
         <source>Color for outgoing messages numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Farbe für Nummern ausgehender Nachrichten</translation>
     </message>
     <message>
         <source>Default plugin action</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard Plugin Verhalten</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktiviert</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="unfinished">Aktiviert</translation>
+        <translation>Aktiviert</translation>
     </message>
 </context>
 <context>
@@ -14879,19 +14872,19 @@ Vielen Dank für Ihre Geduld.</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished">Immer</translation>
+        <translation>Immer</translation>
     </message>
     <message>
         <source>This computer only</source>
-        <translation type="unfinished"></translation>
+        <translation>Nur an diesem Computer</translation>
     </message>
     <message>
         <source>Except this computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Außer an diesem Computer</translation>
     </message>
 </context>
 <context>

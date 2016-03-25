@@ -7143,13 +7143,6 @@ to play battleship. He wants to play %2.</source>
     </message>
 </context>
 <context>
-    <name>JT_VCard</name>
-    <message>
-        <source>No VCard available</source>
-        <translation type="vanished">Nenhum VCard disponível</translation>
-    </message>
-</context>
-<context>
     <name>JabberDiskPlugin</name>
     <message>
         <source>Jabber Disk</source>
@@ -10955,7 +10948,7 @@ Por favor informe sua frase de segurança abaixo:</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished">Sair</translation>
+        <translation>Sair</translation>
     </message>
     <message>
         <source>Skin</source>

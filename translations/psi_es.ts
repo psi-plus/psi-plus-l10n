@@ -7157,13 +7157,6 @@ a jugar batalla naval. Quiere jugar %2.</translation>
     </message>
 </context>
 <context>
-    <name>JT_VCard</name>
-    <message>
-        <source>No VCard available</source>
-        <translation type="vanished">No hay VCard disponible</translation>
-    </message>
-</context>
-<context>
     <name>JabberDiskPlugin</name>
     <message>
         <source>Jabber Disk</source>
@@ -7782,7 +7775,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
     <name>MessageFilter</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Autor:</translation>
     </message>
     <message>
         <source>e-mail: </source>
