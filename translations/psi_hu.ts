@@ -4968,11 +4968,11 @@ Ok: %1</translation>
     </message>
     <message>
         <source>%1 is now %2 and %3</source>
-        <translation>%1 mosmát úgy ismert mint %2 és %3</translation>
+        <translation>%1 jelenleg %2 és %3</translation>
     </message>
     <message>
         <source>%1 is now %2</source>
-        <translation>%1 mosmát úgy ismert mint %2</translation>
+        <translation>%1 jelenleg %2</translation>
     </message>
     <message>
         <source>This room has been destroyed.</source>
@@ -13430,7 +13430,7 @@ Folytatod?</translation>
     </message>
     <message>
         <source>%1 is now %2</source>
-        <translation type="unfinished">%1 mosmát úgy ismert mint %2</translation>
+        <translation type="unfinished">%1 jelenleg %2</translation>
     </message>
     <message>
         <source>Afraid</source>
