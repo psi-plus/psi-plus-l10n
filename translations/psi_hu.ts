@@ -559,7 +559,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>In-Band only (slow)</source>
-        <translation>Csak In-Band</translation>
+        <translation>Csak In-Band (lassú)</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt;
