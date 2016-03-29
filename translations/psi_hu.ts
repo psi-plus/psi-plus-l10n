@@ -70,7 +70,7 @@
     </message>
     <message>
         <source>License</source>
-        <translation>Licensz</translation>
+        <translation>Licenc</translation>
     </message>
     <message>
         <source>About Psi+</source>
@@ -146,7 +146,7 @@
     </message>
     <message>
         <source>Patches</source>
-        <translation>Program-foltozások</translation>
+        <translation>Javítások</translation>
     </message>
     <message>
         <source>Security plugin: %1</source>
@@ -260,13 +260,15 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation>psi/addContact</translation>
+        <translation>psi/újKapcsolat</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
 &lt;br&gt;
 Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to try and create an account for you on a remote server.  If you are adding an existing XMPP account then leave this box unchecked.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt;Kérlek válassz egy barátságos &lt;b&gt;nevet&lt;/b&gt;, hogy a Psi hozzárendelhesse ehhez a fiókhoz.&lt;br&gt;
+        &lt;br&gt;
+        Jelöld be az &lt;b&gt;Új Fiók Regisztrálása&lt;/b&gt; lehetőséget ha szeretnéd, hogy a Psi megpróbáljon neked egy fiókot regisztrálni az egyik szerveren. Ha egy létező XMPP fiókot adsz hozzá, akkor ne jelöld be ezt a lehetőséget.</translation>
     </message>
 </context>
 <context>
@@ -277,7 +279,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Check this option if you don&apos;t yet have an XMPP account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Válaszd ezt a lehetőséget ha még nincs XMPP fiókod és szeretnél egyet regisztrálni. Ne felejtsd, hogy csak azokon a szervereken működik, ahol engedélyezett a névtelen regisztráció. </translation>
     </message>
 </context>
 <context>
@@ -315,7 +317,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation>psi/addContact</translation>
+        <translation>psi/újKapcsolat</translation>
     </message>
     <message>
         <source>&amp;Modify</source>
@@ -327,11 +329,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>psi/remove</source>
-        <translation>psi/remove</translation>
+        <translation>psi/eltávolítás</translation>
     </message>
     <message>
         <source>XMPP Accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP Fiókok</translation>
     </message>
 </context>
 <context>
@@ -361,7 +363,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <name>AccountModify</name>
     <message>
         <source>Account Properties</source>
-        <translation>Fiók beállitások</translation>
+        <translation>Fiók Tulajdonságok</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -393,7 +395,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Automatically connect after sleep</source>
-        <translation>Automatikus csatlakozás újraindulás után</translation>
+        <translation>Automatikus csatlakozás alvás után</translation>
     </message>
     <message>
         <source>Restore last status</source>
@@ -417,11 +419,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>&lt;qt&gt;Information about you is stored as a VCard on the server, which other people can retrieve at any time.&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;Az információk rólad egy vCard-ként tárolódnak a szerveren amit bárki lehívhat ha kíváncsi rá.&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;Az információk rólad egy vCard-ként tárolódnak a szerveren, amit bárki lehívhat bármikor.&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Edit Personal &amp;Details...</source>
-        <translation>Személyes &amp;adatok szerkesztése...</translation>
+        <translation>Személyes &amp;Adatok Szerkesztése...</translation>
     </message>
     <message>
         <source>OpenPGP</source>
@@ -433,7 +435,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Use None</source>
-        <translation>Ne használj kulcsot</translation>
+        <translation>Ne használjon</translation>
     </message>
     <message>
         <source>Privacy</source>
@@ -441,7 +443,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Blocked Contacts</source>
-        <translation>Letiltott ismerősök</translation>
+        <translation>Letiltott Kapcsolatok</translation>
     </message>
     <message>
         <source>Add</source>
@@ -469,7 +471,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>proxychooser</source>
-        <translation>proxychooser</translation>
+        <translation>proxyválasztó</translation>
     </message>
     <message>
         <source>Compress traffic (if possible)</source>
@@ -541,11 +543,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Disable</source>
-        <translation type="obsolete">Letiltás</translation>
+        <translation>Letiltás</translation>
     </message>
     <message>
         <source>XMPP Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>XMPP cím</translation>
     </message>
     <message>
         <source>placeholder2</source>
@@ -553,28 +555,30 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Default priority:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alapértelmezett fontosság</translation>
     </message>
     <message>
         <source>In-Band only (slow)</source>
-        <translation type="unfinished"></translation>
+        <translation>Csak In-Band</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt;
 &lt;br/&gt;
 When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Figyelem!&lt;/b&gt;
+        &lt;br/&gt;
+        Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfigurációs fájlokban. Csak hash-szöveg lesz látható. Így ha elfelejted a jelszavad, az pótolhatatlan lesz, hacsak nem készítettél róla biztonsági másolatot.</translation>
     </message>
     <message>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jelszó tárolása hash-formában nyers-szöveg helyett,ha a szerver támogatja ezt a funkciót.</translation>
     </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
     <message>
         <source>Always</source>
-        <translation>Mindíg</translation>
+        <translation>Mindig</translation>
     </message>
     <message>
         <source>When available</source>
@@ -610,7 +614,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Baseline</source>
-        <translation>Alapvonal</translation>
+        <translation>Alapszintű</translation>
     </message>
     <message>
         <source>High</source>
@@ -622,7 +626,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
-        <translation>A fiók automatikus bejelentezése a Psi indításakor. Célszerű a Psi-t automatikusan futtatni, ha csatlakozol az internetre.</translation>
+        <translation>Automatikus bejelentezés ebbe a fiókba a Psi indításakor. Hasznos ha a Psi automatikusan elindul amikor Internet-kapcsolatot érzékel.</translation>
     </message>
     <message>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
@@ -630,7 +634,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Makes Psi try to reconnect if the connection was broken.  Useful, if you have an unstable connection and have to reconnect often.</source>
-        <translation>A Psi újra próbál csatlakozni, ha a kapcsolat megszakadt. Hasznos, ha nincs stabil kapcsolatod, és gyakran kell újracsatlakoznod.</translation>
+        <translation>A Psi megpróbál újracsatlakozni, ha a kapcsolat megszakad. Hasznos, ha instabil a kapcsolatod, és gyakran kell újracsatlakoznod.</translation>
     </message>
     <message>
         <source>Keep a log of message history.  Disable this option if you want to conserve disk space or if you need maximum security.</source>
@@ -638,7 +642,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
-        <translation>Egy ún. &quot;Keep-alive&quot; periódikus elküldésével fenntartja a kapcsolatot. Ez akkor lehet szükséges, ha automatikusan bontja a például a szolgáltatód a kapcsolatot üresjáratban.</translation>
+        <translation>Egy ún. &quot;Keep-alive&quot; csomagot küld rendszeresen. Ez akkor lehet hasznos, ha egy beállítás (pl.:szolgáltatód) automatikusan bontja a kapcsolatot üresjáratban.</translation>
     </message>
     <message>
         <source>Username:</source>
@@ -646,7 +650,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>No Key Selected</source>
-        <translation>Nincs kulcs kiválasztva</translation>
+        <translation>Nincs Kulcs Kiválasztva</translation>
     </message>
     <message>
         <source>Error</source>
@@ -662,15 +666,15 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>Nem lehet az SSL/TLS-t engedélyezni. Nem találom a plugint.</translation>
+        <translation>Nem lehet az SSL/TLS-t engedélyezni. Hiányzó Plugin.</translation>
     </message>
     <message>
         <source>Secret Key</source>
-        <translation>Titkos kulcs</translation>
+        <translation>Titkos Kulcs</translation>
     </message>
     <message>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
-        <translation>A&lt;i&gt;Felhasználónév&lt;/i&gt; nem érvényes.</translation>
+        <translation>&lt;i&gt;Felhasználónév&lt;/i&gt; érvénytelen.</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -682,15 +686,15 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Reconnect &amp;Later</source>
-        <translation>Újrakapcsolódás &amp;később</translation>
+        <translation>Újrakapcsolódás &amp;Később</translation>
     </message>
     <message>
         <source>Reconnect &amp;Now</source>
-        <translation>Újrakapcsolódás &amp;most</translation>
+        <translation>Újrakapcsolódás &amp;Most</translation>
     </message>
     <message>
         <source>Block contact</source>
-        <translation>Ismerős letiltása</translation>
+        <translation>Kapcsolat letiltása</translation>
     </message>
     <message>
         <source>Retrieving blocked contact list ...</source>
@@ -698,27 +702,27 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>You are not connected.</source>
-        <translation>Nem vagy csatlakozva a szerverhez.</translation>
+        <translation>Nem vagy csatlakozva.</translation>
     </message>
     <message>
         <source>Your server does not support blocking.</source>
-        <translation>A szerver nem támogatja a letiltást.</translation>
+        <translation>A szervered nem támogatja a letiltást.</translation>
     </message>
     <message>
         <source>Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Állandó</translation>
     </message>
     <message>
         <source>Depends on status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Státusztól függő</translation>
     </message>
     <message>
         <source>Delete current host from the list</source>
-        <translation type="unfinished"></translation>
+        <translation>Jelenlegi 'Host' törlése a listából.</translation>
     </message>
     <message>
         <source>&lt;don&apos;t use&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;ne használjon&gt;</translation>
     </message>
     <message>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
@@ -726,7 +730,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapcsold be ezt a lehetőséget, hogy titkosított SSL csatornán csatlakozz az XMPP szerverhez. Akkor használhatod ezt az opciót, ha a szerver támogatja ezt és a szükséges qca-ossl plugin  telepítve van. További információért látogasd meg a Psi kezdőoldalt.</translation>
     </message>
     <message>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
@@ -761,7 +765,7 @@ When you enable this option you will not be able to find your password in config
     <name>AccountReg</name>
     <message>
         <source>Register Account</source>
-        <translation>Új fiók regisztrálása</translation>
+        <translation>Új Fiók Regisztrálása</translation>
     </message>
     <message>
         <source>Server</source>
