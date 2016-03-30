@@ -260,7 +260,7 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation>psi/újKapcsolat</translation>
+        <translation>psi/addContact</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Please choose a friendly &lt;b&gt;Name&lt;/b&gt; that Psi can use to refer to this account.&lt;br&gt;
@@ -317,7 +317,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation>psi/újKapcsolat</translation>
+        <translation>psi/addContact</translation>
     </message>
     <message>
         <source>&amp;Modify</source>
