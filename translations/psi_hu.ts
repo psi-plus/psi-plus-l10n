@@ -631,7 +631,7 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>None</source>
-        <translation>Egyik sem</translation>
+        <translation>Nincs</translation>
     </message>
     <message>
         <source>Integrity</source>
@@ -683,19 +683,19 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
-        <translation type="unfinished"/>
+        <translation>Használd ezt az opciót az XMPP cím kézi beállításához, ha ez nem ugyanaz, mint a kiszolgáló amelyhez kapcsolódsz. Ez az opció leginkább akkor hasznos, ha valamilyen proxy útvonal van a helyi gépen (pl.: localhost-hoz csatlakozol), de a fiókod egy külső szerveren van regisztrálva.</translation>
     </message>
     <message>
         <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
-        <translation type="unfinished"/>
+        <translation>Több kliensről való csatlakozás az XMPP szerverhez egyetlen fiókkal. Mindegyik bejelentkezés megkülönböztetett egy &quot;erőforrás&quot; névvel, amit ebben a mezőben állíthatsz be.</translation>
     </message>
     <message>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
-        <translation type="unfinished"/>
+        <translation>Ez az opció beállítja a felhasználó (és tartomány) hitelesítését. Ez felülírja az XMPP címet amire bejelentkezel.</translation>
     </message>
     <message>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Több kliensről való csatlakozás az XMPP szerverhez egyetlen fiókkal. Ebben az esetben a legmagasabb prioritású kliens (ami ebben a mezőben beállított) lesz az egyetlen, ami fogadja az összes bejövő eseményt.&lt;/p&gt;&lt;p&gt;Például, ha munkahelyeden állandó internetkapcsolatod van, otthon pedig betárcsázós, akkor futtathatod az XMPP kliensed alacsony prioritással munkából és használhatod ugyanazt a fiókot otthonról magasabb prioritással, ideiglenesen kikapcsolva az alacsonyabb prioritású klienst a munkahelyen.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Username:</source>
@@ -703,7 +703,7 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>No Key Selected</source>
-        <translation>Nincs kulcs kiválasztva</translation>
+        <translation>Nincs Kulcs Kiválasztva</translation>
     </message>
     <message>
         <source>Error</source>
@@ -711,7 +711,7 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>Legacy SSL csak manuálisan beállított cím/port beállításokkal érhető el.</translation>
+        <translation>Örökölt SSL csak manuálisan beállított kiszolgáló/port beállításokkal érhető el.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -719,19 +719,19 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Cannot enable SSL/TLS.  Plugin not found.</source>
-        <translation>Nem lehet az SSL/TLS-t engedélyezni. Nem találom a plugint.</translation>
+        <translation>Nem lehet az SSL/TLS-t engedélyezni. Kiegészítő nem található.</translation>
     </message>
     <message>
         <source>Secret Key</source>
-        <translation>Titkos kulcs</translation>
+        <translation>Titkos Kulcs</translation>
     </message>
     <message>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
-        <translation>A&lt;i&gt;Felhasználónév&lt;/i&gt; nem érvényes.</translation>
+        <translation>&lt;i&gt;Felhasználónév&lt;/i&gt; érvénytelen.</translation>
     </message>
     <message>
         <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;i&gt;XMPP Címet&lt;/i&gt; ebben a formában kell megadni &lt;i&gt;felhasználó@kiszolgáló&lt;/i&gt;.</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -739,23 +739,23 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>This account is currently active, so certain changes may not take effect until the next login.</source>
-        <translation>Ez a fiók pillanatnyilag aktív, ezért bizonyos változtatások csak a következő belejentkezésnél lépnek érvénybe.</translation>
+        <translation>Ez a fiók jelenleg aktív, így bizonyos változtatások csak a következő bejelentkezésnél lépnek érvénybe.</translation>
     </message>
     <message>
         <source>Reconnect &amp;Later</source>
-        <translation>Újrakapcsolódás &amp;később</translation>
+        <translation>Újrakapcsolódás &amp;Később</translation>
     </message>
     <message>
         <source>Reconnect &amp;Now</source>
-        <translation>Újrakapcsolódás &amp;most</translation>
+        <translation>Újrakapcsolódás &amp;Most</translation>
     </message>
     <message>
         <source>Block contact</source>
-        <translation>Ismerős letiltása</translation>
+        <translation>Partner letiltása</translation>
     </message>
     <message>
         <source>Enter the XMPP Address of the contact to block:</source>
-        <translation type="unfinished"/>
+        <translation>Add meg a partner XMPP Címét a blokkoláshoz:</translation>
     </message>
     <message>
         <source>Retrieving blocked contact list ...</source>
@@ -763,18 +763,18 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>You are not connected.</source>
-        <translation>Nem vagy csatlakozva a szerverhez.</translation>
+        <translation>Nem vagy csatlakozva.</translation>
     </message>
     <message>
         <source>Your server does not support blocking.</source>
-        <translation>A szerver nem támogatja a letiltást.</translation>
+        <translation>A szervered nem támogatja a letiltást.</translation>
     </message>
 </context>
 <context>
     <name>AccountReg</name>
     <message>
         <source>Register Account</source>
-        <translation>Új fiók regisztrálása</translation>
+        <translation>Új Fiók Regisztrálása</translation>
     </message>
     <message>
         <source>Server</source>
@@ -782,7 +782,7 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Please enter the name of the server you wish to register with:</source>
-        <translation>Kérlek írd be annak a szervernek a nevét ahova regisztrálsz:</translation>
+        <translation>Kérlek add meg a szerver nevét, amivel regisztrálni szeretnél:</translation>
     </message>
     <message>
         <source>Example: capulet.com</source>
@@ -794,11 +794,11 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Manually Specify Server Host/Port:</source>
-        <translation>A szerver cím/port adatainak kézi megadása:</translation>
+        <translation>A Szerver Kiszolgáló/Port adatainak Kézi megadása:</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation>Cím:</translation>
+        <translation>Kiszolgáló:</translation>
     </message>
     <message>
         <source>Port:</source>
@@ -818,7 +818,7 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Mégse</translation>
+        <translation>&amp;Mégsem</translation>
     </message>
     <message>
         <source>&amp;Next</source>
@@ -829,7 +829,7 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     <name>AccountRegDlg</name>
     <message>
         <source>Always</source>
-        <translation>Mindíg</translation>
+        <translation>Mindig</translation>
     </message>
     <message>
         <source>When available</source>
@@ -861,7 +861,7 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Legacy SSL is only available in combination with manual host/port.</source>
-        <translation>Örökölt SSL csak manuálisan beállított gazda/port beállításokkal elérhető.</translation>
+        <translation>Örökölt SSL csak manuálisan beállított kiszolgáló/port kombinációban érhető el.</translation>
     </message>
     <message>
         <source>SSL error</source>
@@ -869,11 +869,11 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Cannot enable SSL/TLS. QCA2 Plugin not found.</source>
-        <translation>SSL/TLS nem bekapcsolható. QCA2 beépülőt nem találom.</translation>
+        <translation>SSL/TLS nem kapcsolható be. QCA2 kiegészítő nem található.</translation>
     </message>
     <message>
         <source>There was an error retrieving the server list</source>
-        <translation>Hiba történt a szerver lista lekérésekor</translation>
+        <translation>Hiba történt a szerverlista lekérésekor</translation>
     </message>
     <message>
         <source>Reason: </source>
@@ -881,7 +881,7 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>You have entered an invalid server name</source>
-        <translation>Nem megfelelő felhasználónevet adtál meg</translation>
+        <translation>Érvénytelen szervernevet adtál meg</translation>
     </message>
     <message>
         <source>Please provide the following information:</source>
@@ -889,7 +889,7 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>This server does not support registration</source>
-        <translation>Ez a szerver nem támogatja a regisztrálást</translation>
+        <translation>Ez a szerver nem támogat regisztrációt</translation>
     </message>
     <message>
         <source>Success</source>
@@ -897,28 +897,28 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>You have successfully registered your account with XMPP address &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Sikeresen regisztráltad a fiókod ezzel az XMPP címmel &apos;%1&apos;</translation>
     </message>
     <message>
         <source>There was an error registering the account.
 Reason: %1</source>
-        <translation>A következő probléma lépett fel a felhasználó regisztrálásánál:
-%1</translation>
+        <translation>Hiba a fiók regisztrálásakor.
+Indok: %1</translation>
     </message>
 </context>
 <context>
     <name>AccountRemove</name>
     <message>
         <source>Remove Account</source>
-        <translation>Fiók törlése</translation>
+        <translation>Fiók Eltávolítása</translation>
     </message>
     <message>
         <source>Remove account from Psi only.</source>
-        <translation>Fiók törlése csak a Psi-ből.</translation>
+        <translation>Fiók eltávolítása csak a Psi-ből.</translation>
     </message>
     <message>
         <source>Remove account and try to unregister it from the server.</source>
-        <translation>Fiók törlése a Psi-ből, és a szerverről is.</translation>
+        <translation>Fiók eltávolítása a Psi-ből, és a szerverről is ha lehet.</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -929,7 +929,7 @@ Reason: %1</source>
     <name>AccountRemoveDlg</name>
     <message>
         <source>&amp;Remove</source>
-        <translation>&amp;Töröl</translation>
+        <translation>&amp;Eltávolít</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -953,11 +953,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Password does not match account.  Please try again.</source>
-        <translation>A jelszó és a megerősítés nem eggyezik. Írd be úrja őket.</translation>
+        <translation>A jelszó nem egyezik a fiókkal. Kérlek próbáld újra.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; ?</source>
-        <translation>Biztosan törölni akarod: &lt;b&gt;%1&lt;/b&gt; ?</translation>
+        <translation>Biztosan eltávolítod: &lt;b&gt;%1&lt;/b&gt; ?</translation>
     </message>
     <message>
         <source>Success</source>
@@ -965,24 +965,24 @@ Reason: %1</source>
     </message>
     <message>
         <source>The account was unregistered successfully.</source>
-        <translation>A felhasználó sikeresen törölve a szerverről.</translation>
+        <translation>A fiók sikeresen törölve.</translation>
     </message>
     <message>
         <source>There was an error unregistering the account.
 Reason: %1</source>
-        <translation>A következő probléma lépett fel a felhasználó törlésénél:
-%1</translation>
+        <translation>Hiba a fiók törlésekor.
+Indok: %1</translation>
     </message>
 </context>
 <context>
     <name>AccountStatusMenu</name>
     <message>
         <source>Choose status...</source>
-        <translation>Állapot választása...</translation>
+        <translation>Válassz állapotot...</translation>
     </message>
     <message>
         <source>Choose...</source>
-        <translation>Választás...</translation>
+        <translation>Válassz...</translation>
     </message>
     <message>
         <source>Reconnect</source>
@@ -990,11 +990,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Ignore global actions</source>
-        <translation type="unfinished"/>
+        <translation>Globális események figyelmen kívül hagyása</translation>
     </message>
     <message>
         <source>Ignore all global actions for this account. For example, autostatus, mood, activity etc.</source>
-        <translation type="unfinished"/>
+        <translation>Minden globális esemény figyelmen kívül hagyása ennél a fióknál. Pl.: autoállapot,hangulat,tevékenység stb.</translation>
     </message>
 </context>
 <context>
@@ -1017,7 +1017,7 @@ save the history for this contact.</source>
     <name>Activity</name>
     <message>
         <source>User Activity</source>
-        <translation type="unfinished"/>
+        <translation>Felhasználói Tevékenység</translation>
     </message>
     <message>
         <source>General:</source>
@@ -1025,7 +1025,7 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>Specific:</source>
-        <translation type="unfinished"/>
+        <translation>Egyedi:</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -1063,54 +1063,54 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>Comment: </source>
-        <translation type="unfinished"/>
+        <translation>Megjegyzés:</translation>
     </message>
     <message>
         <source>Expiration date: </source>
-        <translation type="unfinished"/>
+        <translation>Lejárati idő:</translation>
     </message>
     <message>
         <source>RSA and RSA (default)</source>
-        <translation type="unfinished"/>
+        <translation>RSA és RSA (alapértelmezett)</translation>
     </message>
     <message>
         <source>DSA and Elgamal</source>
-        <translation type="unfinished"/>
+        <translation>DSA és Elgamal</translation>
     </message>
     <message>
         <source>DSA (sign only)</source>
-        <translation type="unfinished"/>
+        <translation>DSA (csak aláírás)</translation>
     </message>
     <message>
         <source>RSA (sign only)</source>
-        <translation type="unfinished"/>
+        <translation>RSA (csak aláírás)</translation>
     </message>
     <message>
         <source>Full name: </source>
-        <translation type="unfinished"/>
+        <translation>Teljes név:</translation>
     </message>
     <message>
         <source>Passphrase: </source>
-        <translation type="unfinished"/>
+        <translation>Jelszó:</translation>
     </message>
     <message>
         <source>E-mail address: </source>
-        <translation type="unfinished"/>
+        <translation>E-mail cím:</translation>
     </message>
     <message>
         <source>Key type: </source>
-        <translation type="unfinished"/>
+        <translation>Kulcs típusa:</translation>
     </message>
     <message>
         <source>Repeat: </source>
-        <translation type="unfinished"/>
+        <translation>Ismét:</translation>
     </message>
 </context>
 <context>
     <name>AddUrl</name>
     <message>
         <source>Add URL</source>
-        <translation>Cím hozzáadása</translation>
+        <translation>URL hozzáadása</translation>
     </message>
     <message>
         <source>URL:</source>
@@ -1137,7 +1137,7 @@ save the history for this contact.</source>
     <name>AddUser</name>
     <message>
         <source>Add Contact</source>
-        <translation>Ismerős hozzáadása</translation>
+        <translation>Partner hozzáadása</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -1145,7 +1145,11 @@ save the history for this contact.</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Ahhoz,hogy egy &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; felhasználót hozzáadj, töltsd ki az XMPP cím részt (becenév,csoport opcionális) majd kattints a &lt;span style=&quot; font-style:italic;&quot;&gt;Hozzáadásra&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;Kapcsolat hozzáadásához &lt;span style=&quot; font-weight:600;&quot;&gt;nem-XMPP&lt;/span&gt; szolgáltatásból, először győződj meg róla,hogy már regisztrálva vagy a szolgáltatással (tekintsd meg a Szolgáltatások Feltérképezése részt a főmenüben), és válaszd ki a szolgáltatást a legfelső részen. Kövesd az utasításokat a &lt;span style=&quot; font-style:italic;&quot;&gt;Szolgáltatás ID Átalakítása&lt;/span&gt; részben és kattints az &lt;span style=&quot; font-style:italic;&quot;&gt;XMPP Cím kérése&lt;/span&gt; gombra, hogy készíts egy XMPP címet a partnerhez.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Service:</source>
@@ -1153,7 +1157,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>XMPP</source>
-        <translation type="unfinished"/>
+        <translation>XMPP</translation>
     </message>
     <message>
         <source>Service ID Translation</source>
@@ -1165,7 +1169,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Get XMPP Address</source>
-        <translation type="unfinished"/>
+        <translation>XMPP Cím kérése</translation>
     </message>
     <message>
         <source>psi/vCard</source>
@@ -1185,7 +1189,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>XMPP Address:</source>
-        <translation type="unfinished"/>
+        <translation>XMPP Cím:</translation>
     </message>
     <message>
         <source>Request authorization when adding</source>
@@ -1228,12 +1232,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Please fill in the XMPP address of the person you wish to add.</source>
-        <translation type="unfinished"/>
+        <translation>Kérlek add meg a hozzáadni kívánt partner XMPP címét.</translation>
     </message>
     <message>
         <source>The XMPP address you entered is not valid!
 Make sure you enter a fully qualified XMPP address.</source>
-        <translation type="unfinished"/>
+        <translation>A megadott XMPP cím érvénytelen!
+Győződj meg róla, hogy biztosan érvényes XMPP címet adtál-e meg.</translation>
     </message>
     <message>
         <source>Add User: Success</source>
@@ -1250,7 +1255,9 @@ Make sure you enter a fully qualified XMPP address.</source>
     <message>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;
+Hiba a Szolgáltatás ID Átalakításakor &quot;%1&quot;.&lt;br&gt;Indok: %2&lt;br&gt;&lt;br&gt;A szolgáltatás valószínűleg nem támogatja ezt a funkciót. Ebben az esetben kézileg kell megadnod a hozzáadni kívánt partner XMPP címét. Pl.:
+&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppFelhasználó@kiszolgáló.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolFelhasználó@[AIM Átvitel XMPP címe]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[ICQ Átvitel XMPP címe]&lt;br&gt;&amp;nbsp;&amp;nbsp;joska%hotmail.com@[MSN Átvitel XMPP címe]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooFelhasználó@[Yahoo Átvitel XMPP címe]&lt;br&gt;&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
@@ -1265,22 +1272,22 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Join &amp;Groupchat...</source>
-        <translation>Belépés &amp;konferenciába...</translation>
+        <translation>Belépés &amp;Konferenciába...</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Töröl</translation>
+        <translation>Eltávolít</translation>
     </message>
 </context>
 <context>
     <name>AttentionPlugin</name>
     <message>
         <source> sends Attention message to you!</source>
-        <translation type="unfinished"/>
+        <translation>Figyelemfelhívó jelzést küld neked!</translation>
     </message>
     <message>
         <source>Send Attention</source>
-        <translation type="unfinished"/>
+        <translation>Figyelemfelhívás Küldése</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -1292,11 +1299,11 @@ There was an error getting the Service ID translation information from &quot;%1&
     </message>
     <message>
         <source>Attention Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Figyelemfelhívó Kiegészítő</translation>
     </message>
     <message>
         <source>You sent Attention message to %1</source>
-        <translation type="unfinished"/>
+        <translation>Figyelemfelhívó üzenetet küldtél ide: %1</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -1309,7 +1316,8 @@ There was an error getting the Service ID translation information from &quot;%1&
     <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
-        <translation type="unfinished"/>
+        <translation>Ez a beépülő különleges üzenetek küldésére és fogadására lett tervezve, mint a Figyelemfelhívások.
+A helyes működéshez szükséges a másik oldali kliensnek a XEP-0224 beépülő támogatása (pl.: Pidgin, Miranda IM Nudge beépülővel).</translation>
     </message>
 </context>
 <context>
@@ -1339,11 +1347,11 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation type="unfinished"/>
+        <translation>Letiltva, ha a csevegésablak aktív</translation>
     </message>
     <message>
         <source>Disable if contact isn&apos;t from your roster</source>
-        <translation type="unfinished"/>
+        <translation>Letiltva, ha a kapcsolat nem a listádból való</translation>
     </message>
     <message>
         <source>Online</source>
@@ -1359,7 +1367,7 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>XA</source>
-        <translation type="unfinished"/>
+        <translation>Tétlen</translation>
     </message>
     <message>
         <source>Chat</source>
@@ -1367,44 +1375,45 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Invisible</source>
-        <translation>Rejtett</translation>
+        <translation>Láthatatlan</translation>
     </message>
     <message>
         <source>Enable if status is:</source>
-        <translation type="unfinished"/>
+        <translation>Engedélyezve, ha az állapot:</translation>
     </message>
     <message>
         <source>Auto Reply Message:</source>
-        <translation>Automatikus válasz üzenet:</translation>
+        <translation>Automatikus válaszüzenet:</translation>
     </message>
     <message>
         <source>for JIDs and conferences:</source>
-        <translation type="unfinished"/>
+        <translation>JID-eknek és konferenciáknak:</translation>
     </message>
     <message>
         <source>You can also specify a part of JID
 (without any additional symbols)</source>
-        <translation type="unfinished"/>
+        <translation>Megadhatod a JID egy részét
+(hozzáadott szimbólumok nélkül)</translation>
     </message>
     <message>
         <source>Disable for your accounts (specify your JIDs):</source>
-        <translation type="unfinished"/>
+        <translation>Letiltva a fiókodhoz (állítsd be a JID-eket):</translation>
     </message>
     <message>
         <source>Timeout to reset counter:</source>
-        <translation type="unfinished"/>
+        <translation>Időkorlát a számláló visszaállítására:</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation type="unfinished"/>
+        <translation>min.</translation>
     </message>
     <message>
         <source>Send maximum</source>
-        <translation type="unfinished"/>
+        <translation>Maximum küldése</translation>
     </message>
     <message>
         <source>times (-1=infinite)</source>
-        <translation type="unfinished"/>
+        <translation>ismétlés (-1=végtelen)</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#autoreply_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -1430,7 +1439,17 @@ To work correctly, the plugin requires that the client of the other part support
 The list of exceptions for jids has two operating modes:
 * auto-responder is switched off for the list of exceptions, for the others is switched on (Disable mode)
 * auto-responder is switched on for the list of exceptions, for the others is switched off (Enable mode) </source>
-        <translation type="unfinished"/>
+        <translation>Ez a kiegészítő úgy viselkedik, mint egy automatikus válaszológép. Néhány egyszerű lehetőség, amiket használhatsz:
+* üzenet beállítása automatikus válaszhoz
+* kivéve megadott JID-ek, beleértve konferenciák elemeit automatikus válaszhoz(ha egy konferencia JID-je be van állítva, a kivétel magába foglal minden privát üzenetet)
+* kikapcsolja az automatikus válaszolót néhány fiókodhoz
+* beállítja a küldött automatikus üzenetek számát
+* megadja az intervallumot,ami után visszaállítja az automatikus üzenetszámlálót
+* kikapcsolja az automatikus választ aktív ablakoknál
+* kikapcsolja az automatikus választ azoknál a partnereknél,akik nincsenek a névsorodban
+A JID-ek kivétellistájának 2 beállítása van:
+* az automatikus válaszoló ki van kapcsolva a kivétellistához, a többieknek be (Kikapcsolt mód)
+* az automatikus válaszoló be van kapcsolva a kivétellistához, a többieknek ki (Bekapcsolt mód)</translation>
     </message>
 </context>
 <context>
@@ -1444,11 +1463,11 @@ The list of exceptions for jids has two operating modes:
     <name>AvCallPrivate</name>
     <message>
         <source>System error</source>
-        <translation>Rendszer hiba</translation>
+        <translation>Rendszerhiba</translation>
     </message>
     <message>
         <source>Codec error</source>
-        <translation>Kodek hiba</translation>
+        <translation>Kodekhiba</translation>
     </message>
     <message>
         <source>Generic error</source>
@@ -1456,29 +1475,29 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Cannot call without selecting a device.  Do you have a microphone?  Check the Psi options.</source>
-        <translation>Nem lehetséges eszköz nélkül hívást indítani. Van mikrofonod? Kukkantsd meg a beállításokat.</translation>
+        <translation>Eszköz kiválasztása nélkül nem lehet hívni. Van mikrofonod? Ellenőrizd a Psi-beállításokat.</translation>
     </message>
     <message>
         <source>An error occurred while trying to send:
 %1.</source>
-        <translation>Hibába ütköztem fájlküldés közben:
+        <translation>Hiba küldés közben:
 %1.</translation>
     </message>
     <message>
         <source>Call was rejected or terminated.</source>
-        <translation>A hívás el lett utasítva, vagy megszakadt.</translation>
+        <translation>A hívás el lett utasítva, vagy befejeződött.</translation>
     </message>
     <message>
         <source>Call negotiation timed out.</source>
-        <translation>Hívás egyeztetés túllépte az időkorlátot.</translation>
+        <translation>A hívásegyeztetés túllépte az időkorlátot.</translation>
     </message>
     <message>
         <source>Unable to establish peer-to-peer connection.</source>
-        <translation>Nem tudok peer-to-peer kapcsolatot létrehozni.</translation>
+        <translation>Nem lehet peer-to-peer kapcsolatot létrehozni.</translation>
     </message>
     <message>
         <source>Call negotiation failed.</source>
-        <translation>Hívás egyeztetés meghiúsult.</translation>
+        <translation>Hívásegyeztetés meghiúsult.</translation>
     </message>
 </context>
 <context>
@@ -1496,11 +1515,11 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Save Image</source>
-        <translation>Kép mentése</translation>
+        <translation>Kép Mentése</translation>
     </message>
     <message>
         <source>Save Avatar</source>
-        <translation>Avatar mentése</translation>
+        <translation>Avatar Mentése</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg)</source>
@@ -1511,43 +1530,44 @@ The list of exceptions for jids has two operating modes:
     <name>BattleshipGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Válassz egy hangfájlt</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Hang (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Szerző: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>This plugin allows you to play battleship with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"/>
+        <translation>Ezzel a kiegészítővel torpedót játszhattok a barátaiddal.
+Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni fog, akárhol jelentkezel is be.Hogy meghívj egy barátot játékra, használhatod a kapcsolatok menüt vagy a gombot az eszköztáron a beszélgetés ablakban.</translation>
     </message>
     <message>
         <source>Battleship game</source>
-        <translation type="unfinished"/>
+        <translation>Torpedó</translation>
     </message>
     <message>
         <source>Battleship game!</source>
-        <translation type="unfinished"/>
+        <translation>Torpedó!</translation>
     </message>
 </context>
 <context>
     <name>BookmarkManage</name>
     <message>
         <source>Manage Bookmarks</source>
-        <translation>Könyvjelzők szerkesztése</translation>
+        <translation>Könyvjelzők Szerkesztése</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation>Cím:</translation>
+        <translation>Kiszolgáló:</translation>
     </message>
     <message>
         <source>Room:</source>
@@ -1583,7 +1603,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Auto-join:</source>
-        <translation type="unfinished"/>
+        <translation>Automatikus csatlakozás:</translation>
     </message>
 </context>
 <context>
@@ -1594,11 +1614,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>&amp;Töröl</translation>
+        <translation>&amp;Eltávolít</translation>
     </message>
     <message>
         <source>&amp;Join</source>
-        <translation>&amp;Belép</translation>
+        <translation>&amp;Csatlakozás</translation>
     </message>
     <message>
         <source>Unnamed</source>
@@ -1688,7 +1708,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Mégse</translation>
+        <translation>&amp;Mégsem</translation>
     </message>
     <message>
         <source>Calling...</source>
@@ -1700,7 +1720,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Hang up</source>
-        <translation>&amp;Letenni</translation>
+        <translation>&amp;Letesz</translation>
     </message>
     <message>
         <source>Call active</source>
@@ -1712,11 +1732,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Call is ended</source>
-        <translation type="unfinished"/>
+        <translation>Hívás vége</translation>
     </message>
     <message>
         <source>Call duration: %1</source>
-        <translation type="unfinished"/>
+        <translation>Hívás Időtartama: %1</translation>
     </message>
 </context>
 <context>
@@ -1738,7 +1758,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaFormsPlugin</name>
     <message>
         <source>Captcha Plugin: CAPTCHA from %1</source>
-        <translation type="unfinished"/>
+        <translation>Captcha Kiegészítő: CAPTCHA innen %1</translation>
     </message>
     <message>
         <source>Error! Image can not be loaded.</source>
@@ -1754,7 +1774,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
-        <translation type="unfinished"/>
+        <translation>Ez a kiegészítő a captcha-hoz lett tervezve közvetlenül a Psi-ből.</translation>
     </message>
 </context>
 <context>
@@ -1788,15 +1808,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CertificateDisplayDialog</name>
     <message>
         <source>The certificate is valid.</source>
-        <translation>A bizonyítvány érvényes.</translation>
+        <translation>A tanúsítvány érvényes!</translation>
     </message>
     <message>
         <source>The certificate is NOT valid!</source>
-        <translation>A bizonyítvány NEM érvényes!</translation>
+        <translation>A tanúsítvány ÉRVÉNYTELEN!</translation>
     </message>
     <message>
         <source>Reason: %1.</source>
-        <translation>Ok: %1.</translation>
+        <translation>Indok: %1.</translation>
     </message>
     <message>
         <source>Subject Details:</source>
@@ -1840,7 +1860,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Email:</source>
-        <translation>Email:</translation>
+        <translation>E-mail: </translation>
     </message>
 </context>
 <context>
@@ -1878,7 +1898,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>New password and confirmation do not match.  Please enter them again.</source>
-        <translation>A jelszó és a megerősítés nem eggyezik. Írd be úrja őket.</translation>
+        <translation>Az új jelszó és a megerősítés nem egyezik. Írd be őket újra.</translation>
     </message>
     <message>
         <source>Success</source>
@@ -1891,7 +1911,8 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>There was an error when trying to set the password.
 Reason: %1</source>
-        <translation>Hiba lépett fel a jelszó módosítása közben: %1</translation>
+        <translation>Hiba a jelszó módosításakor.
+Indok: %1</translation>
     </message>
 </context>
 <context>
@@ -1960,7 +1981,7 @@ Biztos be akarod zárni az ablakot?</translation>
     </message>
     <message>
         <source>&lt;p&gt;Encryption was recently disabled by the remote contact.  Are you sure you want to send this message without encryption?&lt;/p&gt;</source>
-        <translation>&lt;p&gt;A titkosítás le van tiltva a másik félnél. El akarod küldeni az üzeneted titkosítás nélkül is?&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;A titkosítás le van tiltva a másik félnél. Biztosan el akarod küldeni ezt az üzenetet titkosítás nélkül?&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -1987,7 +2008,7 @@ Biztos be akarod zárni az ablakot?</translation>
     <name>ChatEdit</name>
     <message>
         <source>Paste as Quotation</source>
-        <translation type="unfinished"/>
+        <translation>Beillesztés idézetként</translation>
     </message>
     <message>
         <source>Add to dictionary</source>
@@ -2025,7 +2046,7 @@ Biztos be akarod zárni az ablakot?</translation>
     <name>ChatViewThemeProvider</name>
     <message>
         <source>Chat Message Style</source>
-        <translation type="unfinished"/>
+        <translation>Csevegő Üzenet Stílusa</translation>
     </message>
     <message>
         <source>Configure your chat theme here</source>
@@ -2040,52 +2061,53 @@ Biztos be akarod zárni az ablakot?</translation>
     </message>
     <message>
         <source>Chess Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Sakk Kiegészítő</translation>
     </message>
     <message>
         <source>Chess!</source>
-        <translation type="unfinished"/>
+        <translation>Sakk!</translation>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation>Már játszik!</translation>
+        <translation>Már játszol!</translation>
     </message>
     <message>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="unfinished"/>
+        <translation>Az ellenfeled kilépett!
+A játékot még elmentheted.</translation>
     </message>
     <message>
         <source>The game was rejected</source>
-        <translation type="unfinished"/>
+        <translation>Játék visszautasítva</translation>
     </message>
     <message>
         <source>You Lose.</source>
-        <translation>Vesztett</translation>
+        <translation>Vesztettél.</translation>
     </message>
     <message>
         <source>You Win!</source>
-        <translation>Győzött</translation>
+        <translation>Győztél!</translation>
     </message>
     <message>
         <source>Draw!</source>
-        <translation type="unfinished"/>
+        <translation>Döntetlen!</translation>
     </message>
     <message>
         <source>Unknown error!</source>
-        <translation>Ismeretlen hiba</translation>
+        <translation>Ismeretlen hiba!</translation>
     </message>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
-        <translation type="unfinished"/>
+        <translation>Sakk Kiegészítő: Meghívás tőle %1</translation>
     </message>
     <message>
         <source>You are allready playing!</source>
-        <translation>Már játszik!</translation>
+        <translation>Már játszol!</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Válassz egy hang fájlt</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
@@ -2114,12 +2136,13 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Moves:</source>
-        <translation type="unfinished"/>
+        <translation>Lépések:</translation>
     </message>
     <message>
         <source>    White    Black
 </source>
-        <translation type="unfinished"/>
+        <translation>Fehér Fekete
+</translation>
     </message>
     <message>
         <source>Load game</source>
@@ -2135,7 +2158,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Resign</source>
-        <translation type="unfinished"/>
+        <translation>Feladás</translation>
     </message>
     <message>
         <source>Enable sound</source>
@@ -2156,7 +2179,8 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>  White     Black
 </source>
-        <translation type="unfinished"/>
+        <translation>Fehér Fekete
+</translation>
     </message>
 </context>
 <context>
@@ -2171,7 +2195,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>vCards</source>
-        <translation type="unfinished"/>
+        <translation>vCards</translation>
     </message>
     <message>
         <source>Avatars</source>
@@ -2191,7 +2215,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Unselect All Files</source>
-        <translation type="unfinished"/>
+        <translation>Összes Kijelölés Megszüntetése</translation>
     </message>
     <message>
         <source>0</source>
@@ -2219,7 +2243,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Choose &amp;Profile</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Profil Választása</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
@@ -2227,11 +2251,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Clear &amp;Juick Cache</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Juick Cache Törlése</translation>
     </message>
     <message>
         <source>Clear &amp;Birthdays Cache</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Születésnapok Cache Törlése</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -2247,7 +2271,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>vCards: </source>
-        <translation type="unfinished"/>
+        <translation>vCard-ok:</translation>
     </message>
     <message>
         <source>Avatars: </source>
@@ -2255,23 +2279,23 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Clear History</source>
-        <translation>Előzmények törlése</translation>
+        <translation>Előzmények Törlése</translation>
     </message>
     <message>
         <source>Are You Sure?</source>
-        <translation>Biztos benne?</translation>
+        <translation>Biztos Benne?</translation>
     </message>
     <message>
         <source>Clear vCards</source>
-        <translation type="unfinished"/>
+        <translation>vCard-ok Törlése</translation>
     </message>
     <message>
         <source>Clear Avatars</source>
-        <translation type="unfinished"/>
+        <translation>Avatarok Törlése</translation>
     </message>
     <message>
         <source>Clear Options</source>
-        <translation>Beállítások törlése</translation>
+        <translation>Beállítások Törlése</translation>
     </message>
     <message>
         <source>Not supported yet!</source>
@@ -2287,38 +2311,38 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Clear Juick Cache</source>
-        <translation type="unfinished"/>
+        <translation>Juick Cache Törlése</translation>
     </message>
     <message>
         <source>Juick Cache Successfully Cleared</source>
-        <translation type="unfinished"/>
+        <translation>Juick Cache Sikeresen Törölve </translation>
     </message>
     <message>
         <source>Something wrong!</source>
-        <translation type="unfinished"/>
+        <translation>Valami rossz!</translation>
     </message>
     <message>
         <source>Cache Not Found!</source>
-        <translation type="unfinished"/>
+        <translation>Cache Nem Található!</translation>
     </message>
     <message>
         <source>Clear Birthdays Cach</source>
-        <translation type="unfinished"/>
+        <translation>Születésnapok Cache Törlése</translation>
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
-        <translation type="unfinished"/>
+        <translation>Születésnapok Cache Törlése</translation>
     </message>
     <message>
         <source>Birthdays Cache Successfully Cleared</source>
-        <translation type="unfinished"/>
+        <translation>Születésnapok Cache Sikeresen Törölve </translation>
     </message>
 </context>
 <context>
     <name>CleanerPlugin</name>
     <message>
         <source>Launch Cleaner</source>
-        <translation type="unfinished"/>
+        <translation>Takarító Indítása</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -4993,11 +5017,11 @@ Ok: %1</translation>
     </message>
     <message>
         <source>%1 is now %2 and %3</source>
-        <translation>%1 mosmát úgy ismert mint %2 és %3</translation>
+        <translation>%1 jelenleg %2 és %3</translation>
     </message>
     <message>
         <source>%1 is now %2</source>
-        <translation>%1 mosmát úgy ismert mint %2</translation>
+        <translation>%1 jelenleg %2</translation>
     </message>
     <message>
         <source> (Reason: %1)</source>
