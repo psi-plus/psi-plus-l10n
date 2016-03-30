@@ -1,39 +1,34 @@
 This is the special repository with translations for the Psi+ project:
-  http://code.google.com/p/psi-dev/
+  http://psi-plus.com/
 
-Translations are developing via web service Transifex:
-  https://www.transifex.com/projects/p/psi-plus/
-
-Full list of currently available translations and their status you can find
-here:
-  https://www.transifex.com/projects/p/psi-plus/r/all-resources/
+Translations are managed via Transifex web service:
+  https://www.transifex.com/tehnick/psi-plus/
 
 If you want to begin new translation or update an existing one you should simply
 register in Transifex and contact with us using message system of that web site.
-And we will give you permission to edit the translation in the project.
+And we will give you permission to edit chosen translation in the project.
 
 You are free to choose the way in which you want to update the translation:
-  http://help.transifex.com/intro/translating.html#translating
+  http://docs.transifex.com/
 
 For example:
-* you can edit translation via web interface of Transifex from everywhere
-* you can download translation files and edit them in any editor which you like 
+* you may edit translation file via Transifex web interface from everywhere
+* you may download translation file, edit it in any editor which you like
+  (we recommend Qt Linguist for this) and upload updated file back
 
-Transifex has excellent documentation: http://help.transifex.com/
+Transifex has quite good documentation: http://help.transifex.com/
 
-If you want use only web UI you do not need read anything because web UI is very
-simple and you could just begin to work.
+If you want use only web UI you do not need to read anything because web UI is
+very simple and you could just begin to work.
 
-But if you want to use more features you can read about API which allow download
-and upload translation files using console program curl. Or you can use special
-command-line program transifex-client. It has simple syntax very similar to git.
-Few links about this:
-  http://help.transifex.com/features/client/#for-translators
-  http://help.transifex.com/features/api/
+But if you want to use more features you may read about API which allow download
+and upload translation files using console program curl. Or you may use special
+command-line program transifex-client. It has simple syntax similar to git:
+  http://docs.transifex.com/client/
+  http://docs.transifex.com/api/
 
 This repo was created by Boris Pek <tehnick-8 |at| mail.ru>.
 Please contact me if you have any troubles with this repo.
 
-If you find typos in the program you should contact with developers:
-  http://code.google.com/p/psi-dev/wiki/issues?tm=3
+If you find typos in the program you may report bug here:
   https://github.com/psi-plus/main/issues
