@@ -671,15 +671,15 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Sends so called &quot;Keep-alive&quot; packets periodically.  It is useful if your connection is set to be automatically disconnected after a certain period of inactivity (for example, by your ISP) and you want to keep it up all the time.</source>
-        <translation>Egy ún. &quot;Keep-alive&quot; periódikus elküldésével fenntartja a kapcsolatot. Ez akkor lehet szükséges, ha automatikusan bontja a például a szolgáltatód a kapcsolatot üresjáratban.</translation>
+        <translation>Egy ún. &quot;Keep-alive&quot; csomagot küld rendszeresen. Ez akkor lehet hasznos, ha egy beállítás (pl.: szolgáltatódé) automatikusan bontja a kapcsolatot üresjáratban.</translation>
     </message>
     <message>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation type="unfinished"/>
+        <translation>Kapcsold be ezt a lehetőséget, hogy titkosított SSL csatornán csatlakozz az XMPP szerverhez. Akkor használhatod ezt az opciót, ha a szerver támogatja ezt és a szükséges qca-ossl kiegészítő telepítve van. További információért látogasd meg a Psi kezdőoldalt.</translation>
     </message>
     <message>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
-        <translation type="unfinished"/>
+        <translation>Engedélyezd ezt az opciót, hogy tömörített kapcsolatot használj az XMPP szerverrel, ha az támogatja.</translation>
     </message>
     <message>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
