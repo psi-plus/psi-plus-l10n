@@ -444,7 +444,7 @@ Jelöld be az &lt;b&gt;Új Fiók Regisztrálása&lt;/b&gt; lehetőséget ha szer
     </message>
     <message>
         <source>placeholder2</source>
-        <translation type="unfinished"/>
+        <translation>placeholder2</translation>
     </message>
     <message>
         <source>Select &amp;Key...</source>
@@ -1511,7 +1511,7 @@ A JID-ek kivétellistájának 2 beállítása van:
     <name>AvatarView</name>
     <message>
         <source>Avatar</source>
-        <translation>Avatar</translation>
+        <translation>Profilkép</translation>
     </message>
     <message>
         <source>Save Image</source>
@@ -1955,7 +1955,7 @@ Indok: %1</translation>
     </message>
     <message>
         <source>Avatar</source>
-        <translation>Igazolványkép</translation>
+        <translation>Profilkép</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -2050,7 +2050,7 @@ Biztos be akarod zárni az ablakot?</translation>
     </message>
     <message>
         <source>Configure your chat theme here</source>
-        <translation type="unfinished"/>
+        <translation>Állítsd be a csevegőablak kinézetét itt</translation>
     </message>
 </context>
 <context>
@@ -2199,7 +2199,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Avatars</source>
-        <translation>Avatarok</translation>
+        <translation>Profilképek</translation>
     </message>
     <message>
         <source>Options</source>
@@ -2275,7 +2275,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Avatars: </source>
-        <translation>Avatarok: </translation>
+        <translation>Profilképek:</translation>
     </message>
     <message>
         <source>Clear History</source>
@@ -2291,7 +2291,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Clear Avatars</source>
-        <translation>Avatarok Törlése</translation>
+        <translation>Profilképek Törlése</translation>
     </message>
     <message>
         <source>Clear Options</source>
@@ -2359,14 +2359,15 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
-        <translation type="unfinished"/>
+        <translation>Ez a kiegészítő az Avatar cach-ek, vCard-ok és előzménynaplók helyi másolatának törlésére lett tervezve.
+Az elemeket megtekintheted, mielőtt törlöd őket a merevlemezről.</translation>
     </message>
 </context>
 <context>
     <name>ClearingAvatarModel</name>
     <message>
         <source>Avatar</source>
-        <translation>Avatar</translation>
+        <translation>Profilkép</translation>
     </message>
     <message>
         <source>Size</source>
@@ -2385,7 +2386,7 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
     <message>
         <source>Domain</source>
-        <translation type="unfinished"/>
+        <translation>Domain</translation>
     </message>
     <message>
         <source>Size</source>
@@ -2393,7 +2394,7 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
     <message>
         <source>Creation Date</source>
-        <translation>Létrehozása dátuma</translation>
+        <translation>Létrehozás ideje</translation>
     </message>
 </context>
 <context>
@@ -2404,29 +2405,29 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
     <message>
         <source>Values</source>
-        <translation type="unfinished"/>
+        <translation>Értékek</translation>
     </message>
 </context>
 <context>
     <name>ClearingTab</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Űrlap</translation>
     </message>
 </context>
 <context>
     <name>ClearingViewer</name>
     <message>
         <source>Check</source>
-        <translation type="unfinished"/>
+        <translation>Jelöl</translation>
     </message>
     <message>
         <source>Uncheck</source>
-        <translation type="unfinished"/>
+        <translation>Jelölés törlése</translation>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"/>
+        <translation>Felcserélt</translation>
     </message>
 </context>
 <context>
@@ -2443,14 +2444,14 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
     <message>
         <source>%1 has requested your version</source>
-        <translation type="unfinished"/>
+        <translation>%1 elkérte a verziód</translation>
     </message>
 </context>
 <context>
     <name>CloseButton</name>
     <message>
         <source>Close Tab</source>
-        <translation type="unfinished"/>
+        <translation>Lap Bezárása</translation>
     </message>
 </context>
 <context>
@@ -2465,7 +2466,7 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
     <message>
         <source>View Log</source>
-        <translation>Napló megtekintése</translation>
+        <translation>Napló Megtekintése</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2473,7 +2474,7 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
     <message>
         <source>Groupchat History</source>
-        <translation type="unfinished"/>
+        <translation>Konferencia Története</translation>
     </message>
     <message>
         <source>This plugin is designed to save groupchat logs in which the Psi+ user sits.
@@ -2503,23 +2504,23 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Activity</source>
-        <translation type="unfinished"/>
+        <translation>Tevékenység</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation type="unfinished"/>
+        <translation>Földrajzi Helyzet</translation>
     </message>
     <message>
         <source>Set Avatar</source>
-        <translation>Igazolványkép beállítása</translation>
+        <translation>Profilkép Beállítása</translation>
     </message>
     <message>
         <source>Unset Avatar</source>
-        <translation>Igazolványkép levétele</translation>
+        <translation>Profilkép Levétele</translation>
     </message>
     <message>
         <source>&amp;Contacts Manager</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ismerősök Kezelője</translation>
     </message>
     <message>
         <source>Manage Bookmarks</source>
@@ -2527,7 +2528,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Join Groupchat</source>
-        <translation type="unfinished"/>
+        <translation>Csatlakozás Csoportos Beszélgetéshez</translation>
     </message>
     <message>
         <source>&amp;Add a Contact</source>
@@ -2543,7 +2544,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Privacy Lists</source>
-        <translation type="unfinished"/>
+        <translation>Adatvédelmi Listák</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
@@ -2575,7 +2576,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Avatar</source>
-        <translation>Igazolványkép</translation>
+        <translation>Profilkép</translation>
     </message>
     <message>
         <source>Groupchat</source>
@@ -2583,11 +2584,11 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Plugins</source>
-        <translation>Beépülők</translation>
+        <translation>Kiegészítők</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Admin</translation>
     </message>
     <message>
         <source>Join %1</source>
@@ -2602,31 +2603,31 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Resend Authorization to Group</source>
-        <translation type="unfinished"/>
+        <translation>Hitelesítés Újraküldése a Csoporthoz</translation>
     </message>
     <message>
         <source>Request Authorization from Group</source>
-        <translation type="unfinished"/>
+        <translation>Hitelesítés kérése a Csoporttól</translation>
     </message>
     <message>
         <source>Remove Authorization from Group</source>
-        <translation type="unfinished"/>
+        <translation>Hitelesítés Eltávolítása a Csoporttól</translation>
     </message>
     <message>
         <source>Send Status to Group</source>
-        <translation type="unfinished"/>
+        <translation>Állapot Küldése a Csoportnak</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
-        <translation>Csoport és partnerek törlése</translation>
+        <translation>Csoport és Ismerősök törlése</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>&amp;Töröl</translation>
+        <translation>&amp;Eltávolít</translation>
     </message>
     <message>
         <source>Remove Group</source>
-        <translation>Csoport törlése</translation>
+        <translation>Csoport eltávolítása</translation>
     </message>
     <message>
         <source>Send Message to Group</source>
@@ -2638,15 +2639,15 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Hide All</source>
-        <translation>Mind megjelenítése</translation>
-    </message>
-    <message>
-        <source>Show All</source>
         <translation>Mind elrejtése</translation>
     </message>
     <message>
+        <source>Show All</source>
+        <translation>Mind megjelenítése</translation>
+    </message>
+    <message>
         <source>Leave All</source>
-        <translation type="unfinished"/>
+        <translation>Kilépés mindből</translation>
     </message>
     <message>
         <source>Hidden</source>
@@ -2654,7 +2655,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Authorization</source>
-        <translation type="unfinished"/>
+        <translation>Hitelesítés</translation>
     </message>
 </context>
 <context>
@@ -2688,18 +2689,18 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Conferences</source>
-        <translation type="unfinished"/>
+        <translation>Konferenciák</translation>
     </message>
 </context>
 <context>
     <name>ContactListUtil</name>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation>Ez maradandóan törli &lt;br&gt;%1&lt;br&gt; felhasználót a címlistádról.</translation>
+        <translation>Ez véglegesen törli &lt;br&gt;%1&lt;br&gt; felhasználót a címlistádról.</translation>
     </message>
     <message numerus="yes">
         <source>and %n contacts </source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>és %n ismerősök</numerusform><numerusform>és %n ismerősök</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
@@ -2707,7 +2708,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
-        <translation>Ez maradandóan törli: &lt;br&gt;%1&lt;br&gt;%2 és &quot;%3&quot; csoportokat a címlistádról.</translation>
+        <translation>Ez véglegesen törli: &lt;br&gt;%1&lt;br&gt;%2 és &quot;%3&quot; csoportokat a címlistádról.</translation>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2from your contact list.</source>
@@ -2739,7 +2740,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>This will remove %1 from &quot;%2&quot; group. You could also remove it from all groups.</source>
-        <translation>Ez eltávolítja %1 felhasználót &quot;%2&quot; csoportból.</translation>
+        <translation>Ez eltávolítja %1 felhasználót &quot;%2&quot; csoportból. El is távolíthatod az összes csoportból.</translation>
     </message>
     <message>
         <source>Delete From All Groups</source>
@@ -2758,7 +2759,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <name>ContactManagerDlg</name>
     <message>
         <source>Contacts Manager</source>
-        <translation type="unfinished"/>
+        <translation>Ismerősök kezelője</translation>
     </message>
     <message>
         <source>Field</source>
@@ -2766,11 +2767,11 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished"/>
+        <translation>Tevékenység</translation>
     </message>
     <message>
         <source>Execute</source>
-        <translation type="unfinished"/>
+        <translation>Végrehajt</translation>
     </message>
     <message>
         <source>Message</source>
@@ -2782,7 +2783,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Auth request</source>
-        <translation type="unfinished"/>
+        <translation>Hitelesítéskérelem</translation>
     </message>
     <message>
         <source>Auth grant</source>
