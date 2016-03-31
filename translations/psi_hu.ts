@@ -460,7 +460,7 @@ Jelöld be az &lt;b&gt;Új Fiók Regisztrálása&lt;/b&gt; lehetőséget ha szer
     </message>
     <message>
         <source>Blocked Contacts</source>
-        <translation>Letiltott Partnerek</translation>
+        <translation>Letiltott ismerősök</translation>
     </message>
     <message>
         <source>Add</source>
@@ -751,15 +751,15 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Block contact</source>
-        <translation>Partner letiltása</translation>
+        <translation>Ismerős letiltása</translation>
     </message>
     <message>
         <source>Enter the XMPP Address of the contact to block:</source>
-        <translation>Add meg a partner XMPP Címét a blokkoláshoz:</translation>
+        <translation>Add meg az ismerős XMPP Címét a blokkoláshoz:</translation>
     </message>
     <message>
         <source>Retrieving blocked contact list ...</source>
-        <translation>Tiltott kapcsolatok listájának lekérdezése...</translation>
+        <translation>Letiltott ismerősök listájának lekérdezése...</translation>
     </message>
     <message>
         <source>You are not connected.</source>
@@ -1003,7 +1003,9 @@ Indok: %1</translation>
         <source> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</source>
-        <translation type="unfinished"/>
+        <translation>Off The Record csevegés bekapcsolása.
+Ha engedélyezett, a szerver nem
+naplóz ennél az ismerősnél.</translation>
     </message>
 </context>
 <context>
@@ -1137,7 +1139,7 @@ save the history for this contact.</source>
     <name>AddUser</name>
     <message>
         <source>Add Contact</source>
-        <translation>Partner hozzáadása</translation>
+        <translation>Ismerős hozzáadása</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -1149,7 +1151,7 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Ahhoz,hogy egy &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; felhasználót hozzáadj, töltsd ki az XMPP cím részt (becenév,csoport opcionális) majd kattints a &lt;span style=&quot; font-style:italic;&quot;&gt;Hozzáadásra&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;Kapcsolat hozzáadásához &lt;span style=&quot; font-weight:600;&quot;&gt;nem-XMPP&lt;/span&gt; szolgáltatásból, először győződj meg róla,hogy már regisztrálva vagy a szolgáltatással (tekintsd meg a Szolgáltatások Feltérképezése részt a főmenüben), és válaszd ki a szolgáltatást a legfelső részen. Kövesd az utasításokat a &lt;span style=&quot; font-style:italic;&quot;&gt;Szolgáltatás ID Átalakítása&lt;/span&gt; részben és kattints az &lt;span style=&quot; font-style:italic;&quot;&gt;XMPP Cím kérése&lt;/span&gt; gombra, hogy készíts egy XMPP címet a partnerhez.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Ahhoz,hogy egy &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; felhasználót hozzáadj, töltsd ki az XMPP cím részt (becenév,csoport opcionális) majd kattints a &lt;span style=&quot; font-style:italic;&quot;&gt;Hozzáadásra&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;Ismerős hozzáadásához &lt;span style=&quot; font-weight:600;&quot;&gt;nem-XMPP&lt;/span&gt; szolgáltatásból, először győződj meg róla,hogy már regisztrálva vagy a szolgáltatással (tekintsd meg a Szolgáltatások Feltérképezése részt a főmenüben), és válaszd ki a szolgáltatást a legfelső részen. Kövesd az utasításokat a &lt;span style=&quot; font-style:italic;&quot;&gt;Szolgáltatás ID Átalakítása&lt;/span&gt; részben és kattints az &lt;span style=&quot; font-style:italic;&quot;&gt;XMPP Cím kérése&lt;/span&gt; gombra, hogy készíts egy XMPP címet az ismerőshöz.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Service:</source>
@@ -1256,8 +1258,8 @@ Győződj meg róla, hogy biztosan érvényes XMPP címet adtál-e meg.</transla
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
         <translation>&lt;qt&gt;
-Hiba a Szolgáltatás ID Átalakításakor &quot;%1&quot;.&lt;br&gt;Indok: %2&lt;br&gt;&lt;br&gt;A szolgáltatás valószínűleg nem támogatja ezt a funkciót. Ebben az esetben kézileg kell megadnod a hozzáadni kívánt partner XMPP címét. Pl.:
-&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppFelhasználó@kiszolgáló.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolFelhasználó@[AIM Átvitel XMPP címe]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[ICQ Átvitel XMPP címe]&lt;br&gt;&amp;nbsp;&amp;nbsp;joska%hotmail.com@[MSN Átvitel XMPP címe]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooFelhasználó@[Yahoo Átvitel XMPP címe]&lt;br&gt;&lt;/qt&gt;</translation>
+Hiba a Szolgáltatás ID Átalakításakor &quot;%1&quot;.&lt;br&gt;Indok: %2&lt;br&gt;&lt;br&gt;A szolgáltatás valószínűleg nem támogatja ezt a funkciót. Ebben az esetben kézileg kell megadnod a hozzáadni kívánt ismerős XMPP címét. Pl.:
+&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppFelhasználó@egykiszolgáló.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolFelhasználó@[AIM Átjáró XMPP címe]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[ICQ Átjáró XMPP címe]&lt;br&gt;&amp;nbsp;&amp;nbsp;joska%hotmail.com@[MSN Átjáró XMPP címe]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooFelhasználó@[Yahoo Átjáró XMPP címe]&lt;br&gt;&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
@@ -1351,7 +1353,7 @@ A helyes működéshez szükséges a másik oldali kliensnek a XEP-0224 beépül
     </message>
     <message>
         <source>Disable if contact isn&apos;t from your roster</source>
-        <translation>Letiltva, ha a kapcsolat nem a listádból való</translation>
+        <translation>Letiltva, ha az ismerős nem a listádból való</translation>
     </message>
     <message>
         <source>Online</source>
@@ -1446,7 +1448,7 @@ The list of exceptions for jids has two operating modes:
 * beállítja a küldött automatikus üzenetek számát
 * megadja az intervallumot,ami után visszaállítja az automatikus üzenetszámlálót
 * kikapcsolja az automatikus választ aktív ablakoknál
-* kikapcsolja az automatikus választ azoknál a partnereknél,akik nincsenek a névsorodban
+* kikapcsolja az automatikus választ azoknál az ismerősöknél,akik nincsenek a névsorodban
 A JID-ek kivétellistájának 2 beállítása van:
 * az automatikus válaszoló ki van kapcsolva a kivétellistához, a többieknek be (Kikapcsolt mód)
 * az automatikus válaszoló be van kapcsolva a kivétellistához, a többieknek ki (Bekapcsolt mód)</translation>
@@ -1548,7 +1550,7 @@ A JID-ek kivétellistájának 2 beállítása van:
         <source>This plugin allows you to play battleship with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
         <translation>Ezzel a kiegészítővel torpedót játszhattok a barátaiddal.
-Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni fog, akárhol jelentkezel is be.Hogy meghívj egy barátot játékra, használhatod a kapcsolatok menüt vagy a gombot az eszköztáron a beszélgetés ablakban.</translation>
+Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni fog, akárhol jelentkezel is be.Hogy meghívj egy barátot játékra, használhatod az ismerősök menüelemet vagy a gombot az eszköztáron a beszélgetés ablakban.</translation>
     </message>
     <message>
         <source>Battleship game</source>
@@ -1852,7 +1854,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>Domain name:</source>
-        <translation>Domain név:</translation>
+        <translation>Tartománynév:</translation>
     </message>
     <message>
         <source>XMPP name:</source>
@@ -2386,7 +2388,7 @@ Az elemeket megtekintheted, mielőtt törlöd őket a merevlemezről.</translati
     </message>
     <message>
         <source>Domain</source>
-        <translation>Domain</translation>
+        <translation>Tartomány</translation>
     </message>
     <message>
         <source>Size</source>
@@ -2787,19 +2789,19 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Auth grant</source>
-        <translation type="unfinished"/>
+        <translation>Hitelesítés engedélyezése</translation>
     </message>
     <message>
         <source>Change domain</source>
-        <translation type="unfinished"/>
+        <translation>Tartomány változtatása</translation>
     </message>
     <message>
         <source>Resolve nicks</source>
-        <translation type="unfinished"/>
+        <translation>Becenevek feloldása</translation>
     </message>
     <message>
         <source>Move to group</source>
-        <translation type="unfinished"/>
+        <translation>Mozgatás csoportba</translation>
     </message>
     <message>
         <source>Export</source>
@@ -2811,7 +2813,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Simple</source>
-        <translation type="unfinished"/>
+        <translation>Egyszerű</translation>
     </message>
     <message>
         <source>RegExp</source>
@@ -2819,11 +2821,11 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Removal confirmation</source>
-        <translation type="unfinished"/>
+        <translation>Eltávolítás megerősítése</translation>
     </message>
     <message>
         <source>Are you sure want to delete selected contacts?</source>
-        <translation type="unfinished"/>
+        <translation>Biztosan törlöd a kiválasztott ismerősöket?</translation>
     </message>
     <message>
         <source>Invalid</source>
@@ -2831,11 +2833,11 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>This action is not supported atm</source>
-        <translation type="unfinished"/>
+        <translation>Jelenleg ez nem támogatott.</translation>
     </message>
     <message>
         <source>Please fill parameter field with new domain name</source>
-        <translation type="unfinished"/>
+        <translation>Kérlek töltsd ki a mezőt az új tartománynévvel</translation>
     </message>
     <message>
         <source>Roster file</source>
@@ -2894,7 +2896,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Domain</source>
-        <translation type="unfinished"/>
+        <translation>Tartomány</translation>
     </message>
     <message>
         <source>Subscription</source>
