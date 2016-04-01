@@ -2363,7 +2363,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
-        <translation>Ez a kiegészítő az Avatar cach-ek, vCard-ok és előzménynaplók helyi másolatának törlésére lett tervezve.
+        <translation>Ez a kiegészítő az Profilkép cache-ek, vCard-ok és előzménynaplók helyi másolatának törlésére lett tervezve.
 Az elemeket megtekintheted, mielőtt törlöd őket a merevlemezről.</translation>
     </message>
 </context>
@@ -2444,7 +2444,9 @@ Az elemeket megtekintheted, mielőtt törlöd őket a merevlemezről.</translati
         <source>The plugin is intended for substitution of the client version, his name and operating system type.
 You can specify the version of the client and OS or to select them from the preset list.
 </source>
-        <translation type="unfinished"/>
+        <translation>Ez a kiegészítő a kliens verziójának, nevének és az operációs rendszer típusának behelyettesítésére lett tervezve.
+Megadhatod a kliens verzióját és az operációs rendszert vagy kiválaszthatod őket az előre konfigurált listából.
+</translation>
     </message>
     <message>
         <source>%1 has requested your version</source>
@@ -2478,14 +2480,17 @@ You can specify the version of the client and OS or to select them from the pres
     </message>
     <message>
         <source>Groupchat History</source>
-        <translation>Konferencia Története</translation>
+        <translation>Csoportos beszélgetés története</translation>
     </message>
     <message>
         <source>This plugin is designed to save groupchat logs in which the Psi+ user sits.
 Groupchats logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with groupchat.
 
 Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
-        <translation type="unfinished"/>
+        <translation>Ez a kiegészítő a csoportos beszélgetés előzményeinek mentésére lett tervezve, amelyben a Psi+ felhasználó részt vesz.
+A csoportos beszélgetések naplója megtekinthető a kiegészítő beállításaiban vagy ennek gombjára kattintásával az eszköztáron, az aktív ablakban/fülön a csoportos beszélgetésben.
+
+Megjegyzés: A helyes működéshez a Csoportos Beszélgetés Eszköztárat be kell kapcsolni.</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -2659,7 +2664,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Authorization</source>
-        <translation>Hitelesítés</translation>
+        <translation>Jóváhagyás</translation>
     </message>
 </context>
 <context>
@@ -2708,7 +2713,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message numerus="yes">
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Ez véglegesen eltávolítja:&lt;br&gt;%1&lt;br&gt;%2 és %n csoportokat a címlistádról.</numerusform><numerusform>Ez véglegesen eltávolítja:&lt;br&gt;%1&lt;br&gt;%2 és %n csoportokat a címlistádról.</numerusform></translation>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
@@ -2787,11 +2792,11 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Auth request</source>
-        <translation>Hitelesítéskérelem</translation>
+        <translation>Jóváhagyás kérése</translation>
     </message>
     <message>
         <source>Auth grant</source>
-        <translation>Hitelesítés engedélyezése</translation>
+        <translation>Jóváhagy</translation>
     </message>
     <message>
         <source>Change domain</source>
@@ -3474,11 +3479,11 @@ Folytatod?</translation>
     </message>
     <message>
         <source>Query version</source>
-        <translation type="unfinished"/>
+        <translation>Verzió lekérdezése</translation>
     </message>
     <message>
         <source>&amp;Query version</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Verzió lekérdezése</translation>
     </message>
     <message>
         <source>Service Discovery toolbar</source>
@@ -4117,61 +4122,63 @@ Ha engedélyezni szeretnéd ezt a kérést, nyomd meg az Elfogad gombot. Máskü
     </message>
     <message>
         <source>Show initial joins</source>
-        <translation type="unfinished"/>
+        <translation>Mutassa a kezdeti csatlakozásokat</translation>
     </message>
     <message>
         <source>Show status with priority</source>
-        <translation type="unfinished"/>
+        <translation>Mutass az állapotot prioritással együtt</translation>
     </message>
     <message>
         <source>Show roles and affiliations changes</source>
-        <translation type="unfinished"/>
+        <translation>Mutassa a szerepek és a felvételek változásait</translation>
     </message>
     <message>
         <source>Automatically accept the default room configuration</source>
-        <translation type="unfinished"/>
+        <translation>Automatikusan fogadja el a szoba alapértelmezett beállításait</translation>
     </message>
     <message>
         <source>Automatically accept the default room configuration when a new room is created</source>
-        <translation type="unfinished"/>
+        <translation>Automatikusan fogadja el a szoba alapértelmezett beállításait, ha egy új szoba lett létrehozva</translation>
     </message>
     <message>
         <source>Automatically open the configuration dialog when a new room is created</source>
-        <translation type="unfinished"/>
+        <translation>Automatikusan nyissa meg a beállítások panelt, amikor egy új szoba lett létrehozva</translation>
     </message>
     <message>
         <source>Automatically open the configuration dialog when a new room is created.
 This option only has effect if accept-defaults is false.</source>
-        <translation type="unfinished"/>
+        <translation>Automatikusan nyissa meg a beállítások panelt, amikor egy új szoba lett létrehozva.
+Ez az opció csak akkor működik, ha az alapértelmezések elfogadása ki van kapcsolva.</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"/>
+        <translation>Csoportos beszélgetés</translation>
     </message>
     <message>
         <source>Enable autojoin for bookmarked groupchats</source>
-        <translation type="unfinished"/>
+        <translation>Automatikus csatlakozás könyvjelzőben lévő csoportos beszélgetésekhez</translation>
     </message>
     <message>
         <source>Hide groupchat on auto-join</source>
-        <translation type="unfinished"/>
+        <translation>Automatikus csatlakozáskor a csoportos beszélgetés elrejtése</translation>
     </message>
     <message>
         <source>Enable HTML rendering in groupchat chat window</source>
-        <translation type="unfinished"/>
+        <translation>HTML fordítás bekapcsolása a csoportos beszélgetés ablakában</translation>
     </message>
     <message>
         <source>Disable autojoin to folowing groupchats:
 (specify JIDs)</source>
-        <translation type="unfinished"/>
+        <translation>Automatikus csatlakozás kikapcsolása a következő csoportos beszélgetéseknél:
+(megadott JID-ek)</translation>
     </message>
     <message>
         <source>Groupchat leave status message:</source>
-        <translation type="unfinished"/>
+        <translation>Csoportos beszélgetés állapot üzenete elhagyáskor:</translation>
     </message>
     <message>
         <source>Place groupchat roster at left</source>
-        <translation type="unfinished"/>
+        <translation>Tegye a csoportos beszélgetés listát balra</translation>
     </message>
     <message>
         <source>Show groups</source>
@@ -4179,7 +4186,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Use slim group heading</source>
-        <translation type="unfinished"/>
+        <translation>Vékony csoportcím használata</translation>
     </message>
     <message>
         <source>Show status icons</source>
@@ -4187,19 +4194,19 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show affiliation icons</source>
-        <translation type="unfinished"/>
+        <translation>Felvételi ikonok megjelenítése</translation>
     </message>
     <message>
         <source>Show client icons</source>
-        <translation>Kliensikonok megjelenítése</translation>
+        <translation>Kliens ikonok megjelenítése</translation>
     </message>
     <message>
         <source>Show avatars</source>
-        <translation>Avatarok megjelenítése</translation>
+        <translation>Profilképek megjelenítése</translation>
     </message>
     <message>
         <source>Place avatars at left</source>
-        <translation type="unfinished"/>
+        <translation>Profilképek balra helyezése</translation>
     </message>
     <message>
         <source>Sort style for contacts:</source>
@@ -4207,11 +4214,11 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Avatars size:</source>
-        <translation>Avatarok mérete</translation>
+        <translation>Profilképek mérete:</translation>
     </message>
     <message>
         <source>Avatars radius:</source>
-        <translation type="unfinished"/>
+        <translation>Profilképek sugara:</translation>
     </message>
     <message>
         <source>Resolve nicks on contact add</source>
@@ -4219,11 +4226,11 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Lockdown roster</source>
-        <translation type="unfinished"/>
+        <translation>Lista lezárása</translation>
     </message>
     <message>
         <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
-        <translation type="unfinished"/>
+        <translation>Lista megjelenítése bal oldalon &quot;minden egy ablakban&quot; módban</translation>
     </message>
     <message>
         <source>Contact name and status message in a row</source>
@@ -4235,7 +4242,7 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation type="unfinished"/>
+        <translation>Állapot ikon megjelenítése a profilkép felett</translation>
     </message>
     <message>
         <source>Automatically remove temporary contacts</source>
@@ -4243,19 +4250,19 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Tooltips:</source>
-        <translation type="unfinished"/>
+        <translation>Tippek:</translation>
     </message>
     <message>
         <source>Show avatar</source>
-        <translation>Avatar megjelenítése</translation>
+        <translation>Profilkép megjelenítése</translation>
     </message>
     <message>
         <source>Show last status</source>
-        <translation type="unfinished"/>
+        <translation>Utolsó állapot mutatása</translation>
     </message>
     <message>
         <source>Show PGP</source>
-        <translation type="unfinished"/>
+        <translation>PGP mutatása</translation>
     </message>
     <message>
         <source>Show client version</source>
@@ -4263,11 +4270,11 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show geolocation</source>
-        <translation type="unfinished"/>
+        <translation>Földrajzi helyzet mutatása</translation>
     </message>
     <message>
         <source>Show &quot;Admin&quot; option in account menu</source>
-        <translation type="unfinished"/>
+        <translation>&quot;Admin&quot; beállítások mutatása a fiók menüben</translation>
     </message>
     <message>
         <source>Show &quot;Active Chats&quot; option in contact menu</source>
@@ -4279,31 +4286,31 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show &quot;Picture&quot; option in contact menu</source>
-        <translation>Mutass a &quot;Kép&quot; beállítást az ismerős menüben</translation>
+        <translation>Mutassa a &quot;Kép&quot; beállítást az ismerős menüben</translation>
     </message>
     <message>
         <source>Show &quot;Change Profile&quot; option in main menu</source>
-        <translation type="unfinished"/>
+        <translation>Mutassa a &quot;Profil váltása&quot; beállítást a fő menüben</translation>
     </message>
     <message>
         <source>Show &quot;Chat&quot; option in status menu</source>
-        <translation type="unfinished"/>
+        <translation>Mutassa a &quot;Csevegés&quot; beállítást az állapot menüben</translation>
     </message>
     <message>
         <source>Show &quot;Invisible&quot; option in status menu</source>
-        <translation type="unfinished"/>
+        <translation>Mutassa a &quot;Láthatatlan&quot; beállítást az állapot menüben</translation>
     </message>
     <message>
         <source>Show &quot;XA&quot; option in status menu</source>
-        <translation type="unfinished"/>
+        <translation>Mutassa a &quot;Tétlen&quot; beállítást az állapot menüben</translation>
     </message>
     <message>
         <source>Enable single messages</source>
-        <translation type="unfinished"/>
+        <translation>Egyedüli üzenetek engedélyezése</translation>
     </message>
     <message>
         <source>Popup border color:</source>
-        <translation type="unfinished"/>
+        <translation>Felugró ablak szegélyszíne:</translation>
     </message>
     <message>
         <source>Link color:</source>
@@ -4311,51 +4318,51 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Mailto color:</source>
-        <translation type="unfinished"/>
+        <translation>Küldés színe:</translation>
     </message>
     <message>
         <source>Moderators color:</source>
-        <translation type="unfinished"/>
+        <translation>Moderátorok színe:</translation>
     </message>
     <message>
         <source>Participants color:</source>
-        <translation type="unfinished"/>
+        <translation>Résztvevők színe:</translation>
     </message>
     <message>
         <source>Visitors color:</source>
-        <translation type="unfinished"/>
+        <translation>Látogatók színe:</translation>
     </message>
     <message>
         <source>No Role color:</source>
-        <translation type="unfinished"/>
+        <translation>Szereptelenek színe:</translation>
     </message>
     <message>
         <source>Groupchat roster coloring:</source>
-        <translation type="unfinished"/>
+        <translation>Csoportos beszélgetések névsorának színe:</translation>
     </message>
     <message>
         <source>Enable sound notifications for every groupchat message</source>
-        <translation type="unfinished"/>
+        <translation>Hang értesítések bekapcsolása minden csoportosbeszélgetés-üzenethez</translation>
     </message>
     <message>
         <source>ToolTip text color:</source>
-        <translation type="unfinished"/>
+        <translation>Tippek szövegszíne:</translation>
     </message>
     <message>
         <source>ToolTip background color:</source>
-        <translation type="unfinished"/>
+        <translation>Tippek háttérszíne:</translation>
     </message>
     <message>
         <source>ToolTip coloring:</source>
-        <translation type="unfinished"/>
+        <translation>Tipp színezése:</translation>
     </message>
     <message>
         <source>Text color for &quot;composing&quot; events on tabs:</source>
-        <translation type="unfinished"/>
+        <translation>Események &quot;létrehozásának&quot; szövegszíne füleken:</translation>
     </message>
     <message>
         <source>Text color for &quot;unread&quot; events on tabs:</source>
-        <translation type="unfinished"/>
+        <translation>&quot;Olvasatlan&quot; események szövegszíne füleken:</translation>
     </message>
     <message>
         <source>Colors:</source>
@@ -4363,23 +4370,23 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Popup</source>
-        <translation type="unfinished"/>
+        <translation>Felugró ablak</translation>
     </message>
     <message>
         <source>Tooltip</source>
-        <translation type="unfinished"/>
+        <translation>Tipp</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS &quot;Psi+&quot;-hoz&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable wheel scroll</source>
-        <translation type="unfinished"/>
+        <translation>Görgetés kikapcsolása</translation>
     </message>
     <message>
         <source>Put tabs at bottom of chat window</source>
-        <translation type="unfinished"/>
+        <translation>Fülek elhelyezése a beszélgetés ablak alján</translation>
     </message>
     <message>
         <source>Show Close Button on tabs</source>
@@ -4391,47 +4398,47 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation type="unfinished"/>
+        <translation>Fül elrejtése beszélgetés ablak bezárásakor</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
-        <translation type="unfinished"/>
+        <translation>Inaktív fülek bezárásának engedélyezése</translation>
     </message>
     <message>
         <source>Action for mouse middle click on tabs:</source>
-        <translation type="unfinished"/>
+        <translation>Középső egérgomb szerepe füleken:</translation>
     </message>
     <message>
         <source>Action for mouse double click on tabs:</source>
-        <translation type="unfinished"/>
+        <translation>Dupla kattintás szerepe füleken:</translation>
     </message>
     <message>
         <source>Enable windows flashing</source>
-        <translation type="unfinished"/>
+        <translation>Ablakvillogás engedélyezése</translation>
     </message>
     <message>
         <source>Enable &quot;Single Account&quot; mode</source>
-        <translation type="unfinished"/>
+        <translation>&quot;Egyedüli Fiók&quot; mód engedélyezése</translation>
     </message>
     <message>
         <source>Enable XML-console on login</source>
-        <translation type="unfinished"/>
+        <translation>XML-konzol engedélyezése bejelentkezéskor</translation>
     </message>
     <message>
         <source>Enable last activity server</source>
-        <translation type="unfinished"/>
+        <translation>Utolsó tevékenység szerver engedélyezése</translation>
     </message>
     <message>
         <source>Disable popup notifications if status is DND</source>
-        <translation type="unfinished"/>
+        <translation>Felugró ablak értesítések kikapcsolása, ha az állapot &quot;Ne Zavarj&quot;</translation>
     </message>
     <message>
         <source>Disable popup notifications if status is Away</source>
-        <translation type="unfinished"/>
+        <translation>Felugró ablak értesítések kikapcsolása, ha az állapot &quot;Nincs a gépnél&quot;</translation>
     </message>
     <message>
         <source>Notifications</source>
-        <translation type="unfinished"/>
+        <translation>Értesítések</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -4450,15 +4457,18 @@ This option only has effect if accept-defaults is false.</source>
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
 Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
-        <translation type="unfinished"/>
+        <translation>Ez a kiegészítő néhány haladó beállítás egyszerűsítésére lett tervezve a &quot;Psi+&quot;-ban.
+Hozzáférést ad néhány olyan haladó beállításhoz, amiknek nincs grafikus felülete.
+
+Legfőképpen: nagy része a beállításoknak fontos rendszer beállítások. Ezek nagy odafigyelést és a végeredmény előrelátását igénylik, ha változtatsz rajtuk.</translation>
     </message>
     <message>
         <source>Allow groupchat highlight events</source>
-        <translation type="unfinished"/>
+        <translation>Események kiemelésének engedélyezése csoportos beszélgetésben</translation>
     </message>
     <message>
         <source>Enable multirow tabs</source>
-        <translation type="unfinished"/>
+        <translation>Többsoros fülek engedélyezése</translation>
     </message>
 </context>
 <context>
@@ -4479,14 +4489,14 @@ Importantly: a large part of the options are important system settings. These re
     <name>FileEvent</name>
     <message>
         <source>This user wants to send you a file.</source>
-        <translation>Ez a felhasználó fájlt szeretne küleni neked.</translation>
+        <translation>Ez a felhasználó egy fájlt szeretne küldeni neked.</translation>
     </message>
 </context>
 <context>
     <name>FileRequestDlg</name>
     <message>
         <source>Identity: </source>
-        <translation>Fiók:</translation>
+        <translation>Személyazonosság:</translation>
     </message>
     <message>
         <source>Send File</source>
@@ -4494,11 +4504,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Send</source>
-        <translation>&amp;Küld</translation>
+        <translation>&amp;Küldés</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Bezár</translation>
+        <translation>&amp;Bezárás</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -4530,7 +4540,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>&amp;Accept</source>
-        <translation>&amp;Fogad</translation>
+        <translation>&amp;Elfogad</translation>
     </message>
     <message>
         <source>&amp;Reject</source>
@@ -4542,7 +4552,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Are you sure you want to cancel the transfer?</source>
-        <translation>Biztosan megszakítod a fájlátvitelt?</translation>
+        <translation>Biztosan megszakítod az átvitelt?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -4562,15 +4572,15 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>The XMPP address specified is not valid.  Correct this and try again.</source>
-        <translation type="unfinished"/>
+        <translation>A megadott XMPP cím érvénytelen. Javítsd ki és próbáld újra.</translation>
     </message>
     <message>
         <source>The file specified does not exist.  Choose a correct file name before sending.</source>
-        <translation>A megadott fájl nem létezik. Javítsd a nevet mielőtt küldenéd.</translation>
+        <translation>A megadott fájl nem létezik. Javítsd a fájlnevet mielőtt küldöd.</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Mégse</translation>
+        <translation>&amp;Mégsem</translation>
     </message>
     <message>
         <source>Requesting...</source>
@@ -4590,7 +4600,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Accepted!</source>
-        <translation>Fogvadva!</translation>
+        <translation>Elfogadva!</translation>
     </message>
     <message>
         <source>File was rejected by remote user.</source>
@@ -4601,10 +4611,10 @@ Importantly: a large part of the options are important system settings. These re
 
 This can happen if the contact did not understand our request, or if the
 contact is offline.</source>
-        <translation>Nem sikerült a küldés.
+        <translation>Nem sikerült az átvitel.
 
 Ez akkor történhet, ha a partner nem értette a kérést vagy
-nem elérhető már.</translation>
+már nem elérhető.</translation>
     </message>
     <message>
         <source>Unable to connect to peer for data transfer.
@@ -4612,9 +4622,9 @@ nem elérhető már.</translation>
 Ensure that your Data Transfer settings are proper.  If you are behind
 a NAT router or firewall then you'll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
-        <translation>Nem sikerült csatlakozni a másik félhez.
+        <translation>Nem sikerült csatlakozni a másik félhez adatátvitelre.
 
-Ellenőrizd az fájl küldési beállításaidat. Ha NAT vagy tűzfal mögött vagy, 
+Ellenőrizd a fájlküldési beállításokat. Ha NAT vagy tűzfal mögött vagy 
 akkor meg kell nyitnod a megfelelő TCP portot vagy állítsd be a proxyt
 a fiók beállításainál.</translation>
     </message>
@@ -4624,9 +4634,9 @@ a fiók beállításainál.</translation>
 This means that the Proxy service is either not functioning or it is
 unreachable.  If you are behind a firewall, then you'll need to ensure
 that outgoing TCP connections are allowed.</source>
-        <translation>Nem sikerült vagy csatlakozni, vagy aktiválni az adatátvitelhez a proxyt.
+        <translation>Vagy a csatlakozás vagy az aktiválás nem sikerült az adatátviteli proxynál.
 
-Ez azt jelenti hogy vagy nem működik a proxy szolgáltatás, vagy nem elérhető. 
+Ez azt jelenti, hogy vagy a proxy szolgáltatás nem működik vagy ez nem elérhető. 
 Ha tűzfal mögött vagy, akkor ellenőrizd hogy a kimenő TCP kapcsolatok 
 engedélyezve vannak-e.</translation>
     </message>
@@ -4636,7 +4646,7 @@ engedélyezve vannak-e.</translation>
     </message>
     <message>
         <source>Unable to accept the file.  Perhaps the sender has cancelled the request.</source>
-        <translation>Nem sikerült a fájl fogadni. Lehet, hogy a küldő megszakította.</translation>
+        <translation>Nem sikerült a fájlt fogadni. Lehet, hogy a küldő megszakította.</translation>
     </message>
 </context>
 <context>
