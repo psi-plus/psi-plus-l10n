@@ -4685,7 +4685,7 @@ engedélyezve vannak-e.</translation>
     </message>
     <message>
         <source>start</source>
-        <translation>elindítás</translation>
+        <translation>indítás</translation>
     </message>
 </context>
 <context>
@@ -4748,7 +4748,7 @@ engedélyezve vannak-e.</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation>Fogadás</translation>
+        <translation>Letöltés</translation>
     </message>
     <message>
         <source>Peer</source>
@@ -4797,11 +4797,11 @@ Oka: %3</translation>
     <name>FileTransView</name>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Mégse</translation>
+        <translation>&amp;Mégsem</translation>
     </message>
     <message>
         <source>&amp;Open Containing Folder</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tartalmazó mappa megnyitása</translation>
     </message>
     <message>
         <source>Cl&amp;ear</source>
