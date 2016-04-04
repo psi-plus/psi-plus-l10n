@@ -4812,7 +4812,7 @@ Oka: %3</translation>
     <name>FileTransferHandler</name>
     <message>
         <source>Querying proxy...</source>
-        <translation type="unfinished"/>
+        <translation>Proxy lekérdezése...</translation>
     </message>
     <message>
         <source>Proxy query successful.</source>
