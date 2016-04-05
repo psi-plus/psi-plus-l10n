@@ -1,3 +1,8 @@
+2016-04-06:
+* Update script:
+  - update URL for psi-plus-snapshots git repo
+  - rewrite from bash to sh
+
 2016-03-31:
 * Sandor Matyi is now in Hungarian translation team.
 
