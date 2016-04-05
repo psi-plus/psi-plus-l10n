@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2015-09-01
+# Updated: 2016-04-06
 # Version: N/A
 
 export CUR_DIR="$(dirname $(realpath -s ${0}))"
