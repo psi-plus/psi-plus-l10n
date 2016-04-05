@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
@@ -6,12 +6,7 @@
 # Updated: 2015-09-01
 # Version: N/A
 
-if [[ ${0} =~ ^/.+$ ]]; then
-    export CUR_DIR="$(dirname ${0})"
-else
-    export CUR_DIR="${PWD}/$(dirname ${0})"
-fi
-
+export CUR_DIR="$(dirname $(realpath -s ${0}))"
 export MAIN_DIR="${CUR_DIR}/.."
 export PSIPLUS_DIR="${MAIN_DIR}/psi-plus-snapshots"
 
@@ -126,7 +121,7 @@ case "${1}" in
     else
         echo "Creating ${PSIPLUS_DIR}"
         cd "${MAIN_DIR}"
-        git clone git://github.com/tehnick/psi-plus.git || exit 1
+        git clone https://github.com/psi-plus/psi-plus-snapshots.git || exit 1
         echo;
     fi
 
@@ -258,7 +253,7 @@ case "${1}" in
     echo "Usage:"
     echo "  up cm tag push make install tarball"
     echo "  tr tr_up tr_fu tr_cl tr_co tr_sync"
-    echo "  tr_push <arg> (arg: src, all or language)"
+    echo "  tr_push <arg> (arg: src, all or language code)"
     echo ;
     echo "Examples:"
     echo "  ./update-repo.sh tr_push src"
