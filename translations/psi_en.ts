@@ -596,7 +596,15 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Disable</source>
-        <translation type="obsolete">Disable</translation>
+        <translation type="unfinished">Disable</translation>
+    </message>
+    <message>
+        <source>Enable Stream Management if possible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nested groups delimiter: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -784,6 +792,10 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>Your server does not support blocking.</source>
         <translation>Your server does not support blocking.</translation>
+    </message>
+    <message>
+        <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1771,6 +1783,13 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
 </context>
 <context>
+    <name>CaptchaDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">Dialog</translation>
+    </message>
+</context>
+<context>
     <name>CaptchaFormsPlugin</name>
     <message>
         <source>Captcha Plugin: CAPTCHA from %1</source>
@@ -2446,6 +2465,13 @@ You can preview items before deleting them from your hard drive.</translation>
     <message>
         <source>Invert</source>
         <translation>Invert</translation>
+    </message>
+</context>
+<context>
+    <name>ClientStream</name>
+    <message>
+        <source>Offered mechanisms: </source>
+        <translation type="unfinished">Offered mechanisms: </translation>
     </message>
 </context>
 <context>
@@ -17600,6 +17626,10 @@ Do you still want to close the window?</translation>
     <message>
         <source>Close</source>
         <translation>Close</translation>
+    </message>
+    <message>
+        <source>SM</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

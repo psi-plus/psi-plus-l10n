@@ -591,6 +591,18 @@ Wenn Sie diese Option aktivieren, können Sie Ihr Passwort nicht in den Konfigur
         <source>Store hash instead of plaintext password if server supports this feature.</source>
         <translation>Speichere das Passwort als Hash anstatt als Klartext, falls der Server dies unterstützt.</translation>
     </message>
+    <message>
+        <source>Enable Stream Management if possible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nested groups delimiter: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished">Deaktivieren</translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
@@ -778,6 +790,10 @@ der Inaktivität getrennt wird (z. B. von Ihrem Provider oder durch Ihren Router
     <message>
         <source>Your server does not support blocking.</source>
         <translation>Ihr Server unterstützt nicht das Blockieren von Kontakten.</translation>
+    </message>
+    <message>
+        <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1764,6 +1780,13 @@ Für das Versenden von Befehlen werden normale Nachrichten verwendet, so dass di
     </message>
 </context>
 <context>
+    <name>CaptchaDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">Dialog</translation>
+    </message>
+</context>
+<context>
     <name>CaptchaFormsPlugin</name>
     <message>
         <source>Captcha Plugin: CAPTCHA from %1</source>
@@ -2439,6 +2462,13 @@ Sie können Elemente ansehen, bevor sie von der Festplatte gelöscht werden. </t
     <message>
         <source>Invert</source>
         <translation>Umkehren</translation>
+    </message>
+</context>
+<context>
+    <name>ClientStream</name>
+    <message>
+        <source>Offered mechanisms: </source>
+        <translation type="unfinished">Zur Verfügung stehende Mechanismen: </translation>
     </message>
 </context>
 <context>
@@ -17538,6 +17568,10 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     <message>
         <source>Close</source>
         <translation>Schließen</translation>
+    </message>
+    <message>
+        <source>SM</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

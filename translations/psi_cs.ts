@@ -571,6 +571,18 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
         <source>Store hash instead of plaintext password if server supports this feature.</source>
         <translation>Uložit hash hesla namísto hesla, pokud to server dovoluje.</translation>
     </message>
+    <message>
+        <source>Enable Stream Management if possible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nested groups delimiter: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished">Vypnout</translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
@@ -757,6 +769,10 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     <message>
         <source>Your server does not support blocking.</source>
         <translation>Váš server nepodporuje blokování.</translation>
+    </message>
+    <message>
+        <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1735,6 +1751,13 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
 </context>
 <context>
+    <name>CaptchaDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">Dialog</translation>
+    </message>
+</context>
+<context>
     <name>CaptchaFormsPlugin</name>
     <message>
         <source>Captcha Plugin: CAPTCHA from %1</source>
@@ -2410,6 +2433,13 @@ Můžete si položky prohlédnout před tím, než je smažete.</translation>
     <message>
         <source>Invert</source>
         <translation>Invertovat</translation>
+    </message>
+</context>
+<context>
+    <name>ClientStream</name>
+    <message>
+        <source>Offered mechanisms: </source>
+        <translation type="unfinished">Navržený mechanismus: </translation>
     </message>
 </context>
 <context>
@@ -17435,6 +17465,10 @@ Opravdu zavřít okno?</translation>
     <message>
         <source>Close</source>
         <translation>Zavřít</translation>
+    </message>
+    <message>
+        <source>SM</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

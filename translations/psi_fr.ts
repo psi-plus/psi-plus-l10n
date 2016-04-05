@@ -579,6 +579,18 @@ En activant cette option, vous ne pourrez pas retrouver votre mot de passe dans 
         <source>Store hash instead of plaintext password if server supports this feature.</source>
         <translation>Enregistrer le mot de passe haché (et non en clair) si le serveur le permet.</translation>
     </message>
+    <message>
+        <source>Enable Stream Management if possible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nested groups delimiter: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation type="unfinished">Désactiver</translation>
+    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
@@ -765,6 +777,10 @@ En activant cette option, vous ne pourrez pas retrouver votre mot de passe dans 
     <message>
         <source>Your server does not support blocking.</source>
         <translation>Ce serveur ne supporte pas le blocage des contacts.</translation>
+    </message>
+    <message>
+        <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1749,6 +1765,13 @@ Les commandes sont envoyées sous forme de messages, ce greffon fonctionnera don
     </message>
 </context>
 <context>
+    <name>CaptchaDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">Dialogue</translation>
+    </message>
+</context>
+<context>
     <name>CaptchaFormsPlugin</name>
     <message>
         <source>Captcha Plugin: CAPTCHA from %1</source>
@@ -2424,6 +2447,13 @@ Il est possible de prévisualiser les éléments avant de les supprimer.</transl
     <message>
         <source>Invert</source>
         <translation>Inverser</translation>
+    </message>
+</context>
+<context>
+    <name>ClientStream</name>
+    <message>
+        <source>Offered mechanisms: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17280,6 +17310,10 @@ Do you still want to close the window?</source>
     <message>
         <source>Close</source>
         <translation>Fermer</translation>
+    </message>
+    <message>
+        <source>SM</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
