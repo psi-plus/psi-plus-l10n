@@ -5520,19 +5520,19 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>Word highlighting</source>
-        <translation>Szó kiemelés</translation>
+        <translation>Szó kiemelése</translation>
     </message>
     <message>
         <source>Words which will cause a notification in group chat.</source>
-        <translation>Szavak megadása amelyeket jelez majd a Psi a konferenciák alatt.</translation>
+        <translation>Szavak megadása, amelyeket jelez majd a Psi+ a konferenciák alatt.</translation>
     </message>
     <message>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
-        <translation>Ez azon szavak listája amelyeket a program majd jelezni fog, ha előfordulnak.</translation>
+        <translation>Ez azon szavak listája, amelyeket a program majd jelezni fog a felhasználónak, ha előfordulnak.</translation>
     </message>
     <message>
         <source>Type a new word here and press &quot;Add Word&quot; for it to be added to the highlight list</source>
-        <translation>Írj be egy új szót, és nyomd meg a &quot;Szó hozzáadása&quot; gombot, hogy a kiemeltek listájához add</translation>
+        <translation>Írj be egy új szót és nyomd meg a &quot;Szó hozzáadása&quot; gombot, hogy a kiemeltek listájához add</translation>
     </message>
     <message>
         <source>Adds the new word to the list</source>
@@ -5552,7 +5552,7 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>Enable nick coloring</source>
-        <translation>Becenév színezés bekapcsolása</translation>
+        <translation>Becenévszínezés bekapcsolása</translation>
     </message>
     <message>
         <source>Enable hash nick coloring</source>
@@ -5560,7 +5560,7 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>Nick coloring</source>
-        <translation>Becenév színezés</translation>
+        <translation>Becenévszínezés</translation>
     </message>
     <message>
         <source>Colors used for nicks in groupchat</source>
@@ -5568,11 +5568,11 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
-        <translation>Azon színek listája amikkel majd a beceneveket jelzi a Psi.</translation>
+        <translation>Azon színek listája, amikkel majd a beceneveket jelzi a Psi.</translation>
     </message>
     <message>
         <source>Type a colourcode here, or press the palette to the right</source>
-        <translation type="unfinished"/>
+        <translation>Adj meg egy színkódot vagy válassz a palettáról jobbról.</translation>
     </message>
     <message>
         <source>Adds the color to the list</source>
@@ -5591,39 +5591,39 @@ Vesztettél.</translation>
     <name>GeoLocation</name>
     <message>
         <source>Set GeoLocation</source>
-        <translation type="unfinished"/>
+        <translation>Földrajzi helyzet beállítása</translation>
     </message>
     <message>
         <source>Altitude:</source>
-        <translation type="unfinished"/>
+        <translation>Magasság:</translation>
     </message>
     <message>
         <source>Altitude in meters above or below sea level</source>
-        <translation type="unfinished"/>
+        <translation>Magasság méterben, tengerszint felett vagy alatt</translation>
     </message>
     <message>
         <source>Area:</source>
-        <translation type="unfinished"/>
+        <translation>Körzet:</translation>
     </message>
     <message>
         <source>A named area such as a campus or neighborhood</source>
-        <translation type="unfinished"/>
+        <translation>Egy híres körzet, úgy mint egy egyetem vagy szomszédság.</translation>
     </message>
     <message>
         <source>Bearing:</source>
-        <translation type="unfinished"/>
+        <translation>Irány:</translation>
     </message>
     <message>
         <source>GPS bearing (direction in which the entity is heading to reach its next waypoint), measured in decimal degrees relative to true north</source>
-        <translation type="unfinished"/>
+        <translation>GPS irány, tizedfokban megadva a tényleges északhoz.</translation>
     </message>
     <message>
         <source>Building:</source>
-        <translation type="unfinished"/>
+        <translation>Épület:</translation>
     </message>
     <message>
         <source>A specific building on a street or in an area</source>
-        <translation type="unfinished"/>
+        <translation>Egy megadott épület az utcán vagy körzetben.</translation>
     </message>
     <message>
         <source>Country:</source>
@@ -5631,15 +5631,15 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>The nation where the user is located</source>
-        <translation type="unfinished"/>
+        <translation>A nemzet, ahol a felhasználó tartózkodik</translation>
     </message>
     <message>
         <source>Datum:</source>
-        <translation type="unfinished"/>
+        <translation>Dátum:</translation>
     </message>
     <message>
         <source>GPS datum</source>
-        <translation type="unfinished"/>
+        <translation>GPS dátum</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -5647,7 +5647,7 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>A natural-language name for or description of the location</source>
-        <translation type="unfinished"/>
+        <translation>A helyszín eredeti neve vagy leírása (saját nyelvén)</translation>
     </message>
     <message>
         <source>Error:</source>
@@ -5655,39 +5655,39 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>Horizontal GPS error in arc minutes; this element is deprecated in favor of &lt;accuracy/&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Horizontális GPS szögperc hiba; ez nagyban csökkenti ezt : &lt;pontosság/&gt;</translation>
     </message>
     <message>
         <source>Floor:</source>
-        <translation type="unfinished"/>
+        <translation>Emelet:</translation>
     </message>
     <message>
         <source>A particular floor in a building</source>
-        <translation type="unfinished"/>
+        <translation>Egy bizonyos emelet egy épületben</translation>
     </message>
     <message>
         <source>Latitude:</source>
-        <translation type="unfinished"/>
+        <translation>Szélesség:</translation>
     </message>
     <message>
         <source>Latitude in decimal degrees North</source>
-        <translation type="unfinished"/>
+        <translation>Északi szélesség tizedfokban</translation>
     </message>
     <message>
         <source>Locality:</source>
-        <translation type="unfinished"/>
+        <translation>Helység:</translation>
     </message>
     <message>
         <source>A locality within the administrative region, such as a town or city</source>
-        <translation type="unfinished"/>
+        <translation>Egy helység a megyén belül</translation>
     </message>
     <message>
         <source>Longitude:</source>
-        <translation type="unfinished"/>
+        <translation>Hosszúság:</translation>
     </message>
     <message>
         <source>Longitude in decimal degrees East</source>
-        <translation type="unfinished"/>
+        <translation>Keleti hosszúság tizedfokban</translation>
     </message>
     <message>
         <source>Postalcode:</source>
@@ -5695,7 +5695,7 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>A code used for postal delivery</source>
-        <translation type="unfinished"/>
+        <translation>Postafiók</translation>
     </message>
     <message>
         <source>Region:</source>
@@ -5703,15 +5703,15 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>An administrative region of the nation, such as a state or province</source>
-        <translation type="unfinished"/>
+        <translation>Megye</translation>
     </message>
     <message>
         <source>Room:</source>
-        <translation type="unfinished"/>
+        <translation>Szoba:</translation>
     </message>
     <message>
         <source>A particular room in a building</source>
-        <translation type="unfinished"/>
+        <translation>Egy megadott szoba egy épületben</translation>
     </message>
     <message>
         <source>Street:</source>
@@ -5719,11 +5719,11 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>A thoroughfare within the locality, or a crossing of two thoroughfares</source>
-        <translation type="unfinished"/>
+        <translation>Főútvonal vagy főútvonal kereszteződés a helységben</translation>
     </message>
     <message>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>Szöveg:</translation>
     </message>
     <message>
         <source>A catch-all element that captures any other information about the location</source>
@@ -5731,7 +5731,7 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Reset</translation>
     </message>
     <message>
         <source>OK</source>
@@ -5739,7 +5739,7 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Mégse</translation>
+        <translation>Mégsem</translation>
     </message>
 </context>
 <context>
