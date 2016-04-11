@@ -5727,7 +5727,7 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>A catch-all element that captures any other information about the location</source>
-        <translation type="unfinished"/>
+        <translation>Egy &apos;catch-all&apos; elem, ami elkap minden más információt a helyszínről</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -5754,7 +5754,7 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>Confirm password:</source>
-        <translation type="unfinished"/>
+        <translation>Jelszó megerősítése:</translation>
     </message>
     <message>
         <source>Password does not match</source>
@@ -5765,7 +5765,7 @@ Vesztettél.</translation>
     <name>GetSkinName</name>
     <message>
         <source>Get Skin Name</source>
-        <translation type="unfinished"/>
+        <translation>Téma nevének lekérése</translation>
     </message>
     <message>
         <source>Name: </source>
@@ -5785,18 +5785,18 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Mégse</translation>
+        <translation>Mégsem</translation>
     </message>
 </context>
 <context>
     <name>GetTextDlg</name>
     <message>
         <source>Enter text</source>
-        <translation type="unfinished"/>
+        <translation>Írd be a szöveget</translation>
     </message>
     <message>
         <source>Select Font</source>
-        <translation type="unfinished"/>
+        <translation>Betűtípus választása</translation>
     </message>
 </context>
 <context>
@@ -5807,11 +5807,11 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>Settings for an account %1 are changed</source>
-        <translation type="unfinished"/>
+        <translation>%1 fiók beállításai megváltoztak</translation>
     </message>
     <message>
         <source>Shared Status for an account %1 is updated</source>
-        <translation type="unfinished"/>
+        <translation>%1 fiók megosztott állapota megváltozott</translation>
     </message>
     <message>
         <source>Attributes for contact %1 are changed</source>
@@ -5819,19 +5819,19 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>&lt;b&gt;mail.google.com - incoming mail!&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;mail.google.com - bejövő e-mail!&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Hangfájl kiválasztása</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Hang (*.wav)</translation>
     </message>
     <message>
         <source>Choose a program</source>
-        <translation type="unfinished"/>
+        <translation>Program kiválasztása</translation>
     </message>
     <message>
         <source>Block gmail contact</source>
@@ -5844,7 +5844,8 @@ Vesztettél.</translation>
     <message>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
-        <translation type="unfinished"/>
+        <translation>Gmailbox-od beérkező leveleiről értesít.
+Megjegyzés: A kiegészítő csak az &apos;Inbox&apos; mappát ellenőrzi, ha szerver oldali szűrést használsz nem biztos, hogy minden új üzenetről értesít.</translation>
     </message>
 </context>
 <context>
@@ -5855,41 +5856,41 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
     <message>
         <source>This plugin is designed to add support of GNOME 3 presence status changes</source>
-        <translation type="unfinished"/>
+        <translation>Ez a kiegészítő a GNOME 3 jelenlétállapot változtatásának támogatására lett tervezve</translation>
     </message>
 </context>
 <context>
     <name>GnuPG</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Szerző:</translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation type="unfinished"/>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
-        <translation type="unfinished"/>
+        <translation>A GnuPG Kulcskezelő létrehozhat, eltávolíthat, exportálhat és importálhat GnuPG kulcsokat. Csak az alap funkciókra képes, de remélem ez is elég.</translation>
     </message>
     <message>
         <source>Send GnuPG Public Key</source>
-        <translation type="unfinished"/>
+        <translation>GnuPG Publikus Kulcs küldése</translation>
     </message>
     <message>
         <source>Public key %1 sent</source>
-        <translation type="unfinished"/>
+        <translation>%1 Publikus Kulcs elküldve</translation>
     </message>
 </context>
 <context>
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Hangfájl kiválasztása</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Hang (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -5902,16 +5903,16 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <message>
         <source>This plugin allows you to play gomoku with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation>Ezzel a kiegészítővel gomokut játszhattok a barátaiddal.
+        <translation>Ezzel a kiegészítővel gomokut (5-ödölő) játszhattok a barátaiddal.
 Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni fog, akárhol jelentkezel is be.Hogy meghívj egy barátot játékra, használhatod az ismerősök menüelemet vagy a gombot az eszköztáron a beszélgetés ablakban.</translation>
     </message>
     <message>
         <source>Gomoku game</source>
-        <translation type="unfinished"/>
+        <translation>Gomoku játék</translation>
     </message>
     <message>
         <source>Gomoku game!</source>
-        <translation type="unfinished"/>
+        <translation>Gomoku játék!</translation>
     </message>
 </context>
 <context>
@@ -5925,29 +5926,29 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     <name>GpgProcess</name>
     <message>
         <source>Can&apos;t start </source>
-        <translation type="unfinished"/>
+        <translation>Nem indítható</translation>
     </message>
     <message>
         <source>GnuPG program not found</source>
-        <translation type="unfinished"/>
+        <translation>GnuPG program nem található</translation>
     </message>
 </context>
 <context>
     <name>GrabAreaWidget</name>
     <message>
         <source>Select area</source>
-        <translation type="unfinished"/>
+        <translation>Körzet kiválasztása</translation>
     </message>
 </context>
 <context>
     <name>GrepShortcutKeyDialog</name>
     <message>
         <source>Cancel</source>
-        <translation>Mégse</translation>
+        <translation>Mégsem</translation>
     </message>
     <message>
         <source>Press shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Parancsikon létrehozása</translation>
     </message>
     <message>
         <source>Set Keys</source>
@@ -5955,7 +5956,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>New Shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Parancsikon létrehozása</translation>
     </message>
 </context>
 <context>
@@ -6008,11 +6009,11 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation type="unfinished"/>
+        <translation>Konferenciaüzenet Stílusa</translation>
     </message>
     <message>
         <source>Configure your groupchat theme here</source>
-        <translation type="unfinished"/>
+        <translation>Állítsd be a konferencia kinézetét itt</translation>
     </message>
 </context>
 <context>
@@ -6031,22 +6032,22 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>Create New Group</source>
-        <translation type="unfinished"/>
+        <translation>Új csoport létrehozása</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation type="unfinished"/>
+        <translation>Add meg az új csoportnevet:</translation>
     </message>
 </context>
 <context>
     <name>GroupchatTopicDlg</name>
     <message>
         <source>Set Groupchat Topic</source>
-        <translation type="unfinished"/>
+        <translation>Konferencia témájának beállítása</translation>
     </message>
     <message>
         <source>Text of topic</source>
-        <translation type="unfinished"/>
+        <translation>Téma szövege</translation>
     </message>
 </context>
 <context>
@@ -6069,26 +6070,26 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>Text Color</source>
-        <translation>Szöveg szín</translation>
+        <translation>Szövegszín</translation>
     </message>
     <message>
         <source>Background Color</source>
-        <translation>Háttér szín</translation>
+        <translation>Háttérszín</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>Betű</translation>
+        <translation>Betűtípus</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Reset</translation>
     </message>
 </context>
 <context>
     <name>HistoryDlg</name>
     <message>
         <source>HistoryDlg</source>
-        <translation type="unfinished"/>
+        <translation>HistoryDlg</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -6096,7 +6097,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>Refresh history</source>
-        <translation type="unfinished"/>
+        <translation>Előzmények frissítése</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
@@ -6104,7 +6105,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>&amp;Earliest</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Korábbi</translation>
     </message>
     <message>
         <source>&amp;Previous</source>
@@ -6116,7 +6117,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>&amp;Lastest</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Utóbbi</translation>
     </message>
     <message>
         <source>Remove history</source>
@@ -6128,7 +6129,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>Export message history</source>
-        <translation>Előzmények exportálása</translation>
+        <translation>Üzenetelőzmények exportálása</translation>
     </message>
     <message>
         <source>Text files (*.txt);;All files (*.*)</source>
@@ -6187,40 +6188,41 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     <name>HistoryImport</name>
     <message>
         <source>Status:</source>
-        <translation type="unfinished"/>
+        <translation>Állapot:</translation>
     </message>
     <message>
         <source>Progress:</source>
-        <translation type="unfinished"/>
+        <translation>Folyamat: </translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Rendben</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"/>
+        <translation>Kilépés</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"/>
+        <translation>Importálás</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Hiba</translation>
     </message>
     <message>
         <source>Psi+ Import history</source>
-        <translation type="unfinished"/>
+        <translation>Psi+ Importálás előzményei</translation>
     </message>
     <message>
         <source>Found %1 files for import.
 Continue?</source>
-        <translation type="unfinished"/>
+        <translation>%1 fájl importálható.
+Folytatás?</translation>
     </message>
     <message>
         <source>Counting records</source>
-        <translation type="unfinished"/>
+        <translation>Feljegyzések számolása</translation>
     </message>
 </context>
 <context>
@@ -6235,7 +6237,7 @@ Continue?</source>
     </message>
     <message>
         <source>Clear history on exit</source>
-        <translation type="unfinished"/>
+        <translation>Előzmények törlése kilépéskor</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -6243,7 +6245,7 @@ Continue?</source>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi+ is closed.
@@ -6256,14 +6258,14 @@ Az ismerős menüjéből vagy a kiegészítő beállításainál is kiválasztha
     <name>HistoryView</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Bezárás</translation>
     </message>
 </context>
 <context>
     <name>HomeDirMigration</name>
     <message>
         <source>Import Wizard</source>
-        <translation type="unfinished"/>
+        <translation>Importálás Varázsló</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -6271,7 +6273,11 @@ Az ismerős menüjéből vagy a kiegészítő beállításainál is kiválasztha
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Adatok és Beállítások Importálása&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -6279,11 +6285,15 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;A Psi+ működéséhez szükséges létező profil másolása az új helyre.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Ajánlott)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Import Psi profile</source>
-        <translation type="unfinished"/>
+        <translation>Psi-profil importálása</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -6291,11 +6301,15 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Létező profil áthelyezése az új helyre. Amikor kész, a régi profil automatikusan törölve lesz.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Import Psi profile and remove it</source>
-        <translation type="unfinished"/>
+        <translation>Psi-profil importálása és törlése</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -6303,7 +6317,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Új Psi-profil létrehozása. A régi profil nem kerül törlésre, de többé nem választható.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Nem ajánlott)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Create new profile</source>
@@ -6314,7 +6332,7 @@ p, li { white-space: pre-wrap; }
     <name>HttpAuthEvent</name>
     <message>
         <source>HTTP Authentication Request</source>
-        <translation>HTTP Azonosítási Kérelem</translation>
+        <translation>HTTP Hitelesítési Kérelem</translation>
     </message>
 </context>
 <context>
@@ -6325,7 +6343,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Host not found</source>
-        <translation>Cím nem található</translation>
+        <translation>Kiszolgáló nem található</translation>
     </message>
     <message>
         <source>Access denied</source>
@@ -6348,7 +6366,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Host not found</source>
-        <translation>Cím nem található</translation>
+        <translation>Kiszolgáló nem található</translation>
     </message>
     <message>
         <source>Access denied</source>
@@ -6371,7 +6389,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Host not found</source>
-        <translation>Cím nem található</translation>
+        <translation>Kiszolgáló nem található</translation>
     </message>
     <message>
         <source>Access denied</source>
@@ -6397,11 +6415,11 @@ p, li { white-space: pre-wrap; }
     <name>IconsetActivity</name>
     <message>
         <source>IconsetActivityUI</source>
-        <translation type="unfinished"/>
+        <translation>IconsetActivityUI</translation>
     </message>
     <message>
         <source>Activity iconsets</source>
-        <translation type="unfinished"/>
+        <translation>Cselekvés ikonkészlete</translation>
     </message>
     <message>
         <source>&amp;Show Details</source>
@@ -6412,11 +6430,11 @@ p, li { white-space: pre-wrap; }
     <name>IconsetAffiliation</name>
     <message>
         <source>IconsetClientUI</source>
-        <translation type="unfinished"/>
+        <translation>IconsetClientUI</translation>
     </message>
     <message>
         <source>Affiliation iconsets</source>
-        <translation type="unfinished"/>
+        <translation>Kapcsolat ikonkészlete</translation>
     </message>
     <message>
         <source>&amp;Show Details</source>
@@ -6427,15 +6445,15 @@ p, li { white-space: pre-wrap; }
     <name>IconsetClient</name>
     <message>
         <source>IconsetClientUI</source>
-        <translation type="unfinished"/>
+        <translation>IconsetClientUI</translation>
     </message>
     <message>
         <source>Client iconsets</source>
-        <translation type="unfinished"/>
+        <translation>Kliens ikonkészlete</translation>
     </message>
     <message>
         <source>&amp;Show Details</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Részletek mutatása</translation>
     </message>
 </context>
 <context>
@@ -6496,7 +6514,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Emoticon iconsets</source>
-        <translation>Hangulatjel készletek</translation>
+        <translation>Hangulatjelek ikonkészlete</translation>
     </message>
     <message>
         <source>psi/arrowDown</source>
@@ -6515,11 +6533,11 @@ p, li { white-space: pre-wrap; }
     <name>IconsetMood</name>
     <message>
         <source>IconsetMoodUI</source>
-        <translation type="unfinished"/>
+        <translation>IconsetMoodUI</translation>
     </message>
     <message>
         <source>Mood iconsets</source>
-        <translation type="unfinished"/>
+        <translation>Kedvjelek ikonkészlete</translation>
     </message>
     <message>
         <source>&amp;Show Details</source>
@@ -6542,7 +6560,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Show details</source>
-        <translation>Ré&amp;szletek mutatása</translation>
+        <translation>&amp;Részletek mutatása</translation>
     </message>
     <message>
         <source>Services</source>
@@ -6574,7 +6592,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Regular expression:</source>
-        <translation>Regexp:</translation>
+        <translation>Gyakori kifejezés:</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -6618,14 +6636,19 @@ p, li { white-space: pre-wrap; }
         <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it's much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
-        <translation type="unfinished"/>
+        <translation>Linuxként elmondhatom neked, de ne légy mérges rám. Bizonyára egy ember fogja megkapni ezt az üzenetet, de sokkal jobb beszélgetni vele Jabberen. Kockáztatsz, nem tudni az ICQ mikor hal meg, nagyi amúgy is túlélte már. JID-e : %1.
+
+Tisztelettel, Debian Sid.</translation>
     </message>
     <message>
         <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
 
 If you don't know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
-        <translation type="unfinished"/>
+        <translation>Linuxként elmondhatom neked, de ne légy mérges rám. Ez az ember már nem használ ICQ-t többé, így ha te továbbra is ezt használod nem fogja megkapni az üzeneteid, Jabber-t kell használnod vele. JID-e : %1.
+
+Ha nem tudod mi az a Jabber, a Google a Barátod. Mindent tud és boldogan segít annak, aki kérdez tőle.
+Tisztelettel, Debian Sid.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -6670,7 +6693,7 @@ A kiegészítőnek számos egyszerű beállítása segít ebben:
     </message>
     <message>
         <source>From clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Vágólapról</translation>
     </message>
     <message>
         <source>Open Image</source>
@@ -6686,15 +6709,15 @@ A kiegészítőnek számos egyszerű beállítása segít ebben:
     </message>
     <message>
         <source>Image size must be less than 60 kb</source>
-        <translation>A kép méretének kisebbnek kell lennie 60 kb-nél</translation>
+        <translation>A kép méretének kisebbnek kell lennie 60 KB-nál</translation>
     </message>
     <message>
         <source>Image %1 bytes received.</source>
-        <translation type="unfinished"/>
+        <translation>%1 byte-os kép megérkezett</translation>
     </message>
     <message>
         <source>Image %1 sent &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </source>
-        <translation type="unfinished"/>
+        <translation>%1 kép elküldve &lt;br/&gt;&lt;img src=&quot;data:image/%2;base64,%3&quot; alt=&quot;img&quot;/&gt; </translation>
     </message>
     <message>
         <source>Authors: </source>
@@ -6704,7 +6727,9 @@ A kiegészítőnek számos egyszerű beállítása segít ebben:
         <source>This plugin is designed to send images to roster contacts.
 Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="unfinished"/>
+        <translation>Ez a kiegészítő képküldésre lett tervezve a címlistán szereplőknek.
+A partnered kliensének támogatnia kell &apos;XEP-0071: XHTML-IM&apos;-et és a &apos;data:URI&apos; sémát.
+Megjegyzés: A helyes működéshez az &apos;options.ui.chat.central-toolbar&apos;-nak igaznak (true) kell lennie.</translation>
     </message>
 </context>
 <context>
@@ -6719,7 +6744,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>E-Mail:</source>
-        <translation>Email:</translation>
+        <translation>E-mail:</translation>
     </message>
     <message>
         <source>Birthday:</source>
@@ -6866,11 +6891,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>View names</source>
-        <translation type="unfinished"/>
+        <translation>Nevek megtekintése</translation>
     </message>
     <message>
         <source>Open web browser</source>
-        <translation type="unfinished"/>
+        <translation>Böngésző megnyitása</translation>
     </message>
     <message>
         <source>No date</source>
@@ -6878,7 +6903,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Edit birthday</source>
-        <translation>Születésnapok szerkesztése</translation>
+        <translation>Születésnap szerkesztése</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -6900,11 +6925,11 @@ Biztos el akarod vetni őket?</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation>Siker</translation>
+        <translation>Sikeres</translation>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation>A információk rólad elmentve.</translation>
+        <translation>Az információk rólad elmentve.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -6912,19 +6937,19 @@ Biztos el akarod vetni őket?</translation>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>Nem sikerült lekérdezni az információkat a felhasználódról. Talán még nem adtál meg semmit.</translation>
+        <translation>Nem sikerült lekérdezni az információkat a fiókodról. Talán még nem adtál meg semmit.</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
         <translation>Nem sikerült a partner információinak a lekérdezése.
-Oka: %1</translation>
+Indok: %1</translation>
     </message>
     <message>
         <source>Unable to publish your account information.
 Reason: %1</source>
         <translation>Nem sikerült az információid a mentése.
-Oka: %1</translation>
+Indok: %1</translation>
     </message>
     <message>
         <source>Picture not
@@ -6941,7 +6966,7 @@ elérhető</translation>
     <name>InvateDialog</name>
     <message>
         <source>Gomoku Game Plugin - Invite</source>
-        <translation type="unfinished"/>
+        <translation>Gomoku Játékkiegészítő - Meghívás</translation>
     </message>
     <message>
         <source>Opponent:</source>
@@ -6949,26 +6974,26 @@ elérhető</translation>
     </message>
     <message>
         <source>Select resource:</source>
-        <translation type="unfinished"/>
+        <translation>Erőforrás kiválasztása:</translation>
     </message>
     <message>
         <source>Play Black</source>
-        <translation type="unfinished"/>
+        <translation>Feketével leszek</translation>
     </message>
     <message>
         <source>Play White</source>
-        <translation type="unfinished"/>
+        <translation>Fehérrel leszek</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Mégse</translation>
+        <translation>Mégsem</translation>
     </message>
 </context>
 <context>
     <name>InvitationDialog</name>
     <message>
         <source>Chess Plugin - Invitation</source>
-        <translation type="unfinished"/>
+        <translation>Sakk Kiegészítő - Meghívás</translation>
     </message>
     <message>
         <source>Accept</source>
@@ -6980,7 +7005,7 @@ elérhető</translation>
     </message>
     <message>
         <source>Gomoku Game Plugin - Invitation</source>
-        <translation type="unfinished"/>
+        <translation>Gomoku Játékkiegészítő - Meghívás</translation>
     </message>
     <message>
         <source>white</source>
@@ -6993,27 +7018,30 @@ elérhető</translation>
     <message>
         <source>Player %1 invites you 
 to play chess. He wants to play %2.</source>
-        <translation type="unfinished"/>
+        <translation>%1 meghív téged
+sakkra. Ezt szeretné: %2.</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play gomoku. He wants to play %2.</source>
-        <translation type="unfinished"/>
+        <translation>%1 meghív téged
+gomokura. Ezt szeretné: %2.</translation>
     </message>
     <message>
         <source>second</source>
         <comment>He wants to play second</comment>
-        <translation type="unfinished"/>
+        <translation>második</translation>
     </message>
     <message>
         <source>first</source>
         <comment>He wants to play first</comment>
-        <translation type="unfinished"/>
+        <translation>első</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play battleship. He wants to play %2.</source>
-        <translation type="unfinished"/>
+        <translation>%1 meghív téged
+torpedóra. Ezt szeretné: %2.</translation>
     </message>
 </context>
 <context>
@@ -7024,126 +7052,126 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Opponent:</source>
-        <translation type="unfinished"/>
+        <translation>Ellenfél:</translation>
     </message>
     <message>
         <source>Select resource:</source>
-        <translation type="unfinished"/>
+        <translation>Erőforrás kiválasztása:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Mégsem</translation>
     </message>
     <message>
         <source>Play White</source>
-        <translation type="unfinished"/>
+        <translation>Fehérrel leszek</translation>
     </message>
     <message>
         <source>Play Black</source>
-        <translation type="unfinished"/>
+        <translation>Feketével leszek</translation>
     </message>
     <message>
         <source>Battliship Game Plugin - Invite</source>
-        <translation type="unfinished"/>
+        <translation>Torpedó Játékkiegészítő - Meghívás</translation>
     </message>
     <message>
         <source>I want to play first</source>
-        <translation type="unfinished"/>
+        <translation>Én szeretnék kezdeni</translation>
     </message>
     <message>
         <source>I want to play second</source>
-        <translation type="unfinished"/>
+        <translation>Másodikként szeretnék játszani</translation>
     </message>
 </context>
 <context>
     <name>JDMainWin</name>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Frissítés</translation>
     </message>
     <message>
         <source>Clear log</source>
-        <translation type="unfinished"/>
+        <translation>Napló törlése</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"/>
+        <translation>Küldés</translation>
     </message>
     <message>
         <source>Jabber Disk - %1</source>
-        <translation type="unfinished"/>
+        <translation>Jabber Lemez - %1</translation>
     </message>
     <message>
         <source>&lt;b&gt;You:&lt;/b&gt; </source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Te:&lt;/b&gt; </translation>
     </message>
     <message>
         <source>&lt;b&gt;Disk:&lt;/b&gt; </source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Lemez:&lt;/b&gt; </translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Eltávolítás</translation>
     </message>
     <message>
         <source>Make dir</source>
-        <translation type="unfinished"/>
+        <translation>Mappa létrehozása</translation>
     </message>
     <message>
         <source>Get File</source>
-        <translation type="unfinished"/>
+        <translation>Fájl lekérése</translation>
     </message>
     <message>
         <source>Send File</source>
-        <translation type="unfinished"/>
+        <translation>Fájl küldése</translation>
     </message>
     <message>
         <source>Hash</source>
-        <translation type="unfinished"/>
+        <translation>Hash</translation>
     </message>
     <message>
         <source>Link</source>
-        <translation type="unfinished"/>
+        <translation>Link</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Súgó</translation>
     </message>
     <message>
         <source>Intro</source>
-        <translation type="unfinished"/>
+        <translation>Bevezető</translation>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="unfinished"/>
+        <translation>Statisztikák</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Átnevezés</translation>
     </message>
     <message>
         <source>Move to...</source>
-        <translation type="unfinished"/>
+        <translation>Áthelyezés ide...</translation>
     </message>
     <message>
         <source>Remove Item</source>
-        <translation type="unfinished"/>
+        <translation>Elem eltávolítása</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Biztos benne?</translation>
     </message>
     <message>
         <source>Input Dir Name</source>
-        <translation type="unfinished"/>
+        <translation>Mappa nevének megadása</translation>
     </message>
     <message>
         <source>Input Full JID</source>
-        <translation type="unfinished"/>
+        <translation>Teljes JID megadása</translation>
     </message>
     <message>
         <source>Input New Name</source>
-        <translation type="unfinished"/>
+        <translation>Új név megadása</translation>
     </message>
 </context>
 <context>
@@ -7157,11 +7185,11 @@ to play battleship. He wants to play %2.</source>
     <name>JabberDiskPlugin</name>
     <message>
         <source>Jabber Disk</source>
-        <translation type="unfinished"/>
+        <translation>Jabber lemez</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation>Szező: </translation>
+        <translation>Szerző: </translation>
     </message>
     <message>
         <source>Email: </source>
@@ -7172,7 +7200,7 @@ to play battleship. He wants to play %2.</source>
     <name>JuickJidDialog</name>
     <message>
         <source>Set JIDs of Juick Bot</source>
-        <translation type="unfinished"/>
+        <translation>Juick Bot JID-ének megadása</translation>
     </message>
     <message>
         <source>Add</source>
@@ -7191,7 +7219,7 @@ to play battleship. He wants to play %2.</source>
     <name>JuickJidList</name>
     <message>
         <source>Input JID</source>
-        <translation type="unfinished"/>
+        <translation>JID megadása</translation>
     </message>
 </context>
 <context>
@@ -7203,23 +7231,24 @@ to play battleship. He wants to play %2.</source>
     <message>
         <source>can't create folder %1 
 caching avatars will be not available</source>
-        <translation type="unfinished"/>
+        <translation>Nem hozható létre %1
+profilképek cache-selése nem lesz elérhető</translation>
     </message>
     <message>
         <source>Time stamp: %1</source>
-        <translation type="unfinished"/>
+        <translation>Időbélyegző: %1</translation>
     </message>
     <message>
         <source> replied:</source>
-        <translation type="unfinished"/>
+        <translation>válaszolt:</translation>
     </message>
     <message>
         <source>Send personal message to %1</source>
-        <translation type="unfinished"/>
+        <translation>Személyes üzenet küldése ide: %1</translation>
     </message>
     <message>
         <source>Subscribe to %1&apos;s blog</source>
-        <translation type="unfinished"/>
+        <translation>Feliratkozás %1 blogára</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -7231,7 +7260,7 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Szerzők: </translation>
     </message>
     <message>
         <source>This plugin is designed to work efficiently and comfortably with the Juick microblogging service.
@@ -7241,7 +7270,13 @@ Currently, the plugin is able to:
 * Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
 
 Note: To work correctly, the option options.html.chat.render	must be set to true. </source>
-        <translation type="unfinished"/>
+        <translation>Ez a kiegészítő a Juick Mikroblogger Szolgáltatás hatékony használatára lett tervezve.
+Jelenleg ezekre képes:
+* @nick, *tag és #message_id színezése üzenetekben a juick@juick.com bottól
+* &gt;idézetek felismerése üzenetekben
+* kattintható @nick, *tag, #message_id és egyéb irányítóelemek behelyezése a szövegdobozba
+
+Megjegyzés: A helyes működéshez az &apos;options.html.chat.render&apos;-nek igaznak (true) kell lennie.</translation>
     </message>
 </context>
 <context>
@@ -7304,7 +7339,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>A&amp;vailable actions:</source>
-        <translation>Vá&amp;lasztható cselekvések:</translation>
+        <translation>&amp;Választható cselekvések:</translation>
     </message>
     <message>
         <source>psi/arrowLeft</source>
@@ -7312,18 +7347,18 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Curr&amp;ent actions:</source>
-        <translation>&amp;Aktuális lehetőségek:</translation>
+        <translation>&amp;Aktuális cselekvések:</translation>
     </message>
 </context>
 <context>
     <name>MUCAffiliationsModel</name>
     <message>
         <source>JID</source>
-        <translation type="unfinished"/>
+        <translation>JID</translation>
     </message>
     <message>
         <source>Reason</source>
-        <translation>Ok</translation>
+        <translation>Indok</translation>
     </message>
     <message>
         <source>Members</source>
@@ -7413,11 +7448,11 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Destroy room</source>
-        <translation>Szoba lerombolása</translation>
+        <translation>Szoba megszüntetése</translation>
     </message>
     <message>
         <source>Are you absolutely certain you want to destroy this room?</source>
-        <translation>Biztos vagy benne hogy le akarod rombolni ezt a szobát?</translation>
+        <translation>Biztosan megszünteted ezt a szobát?</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -7429,7 +7464,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
-        <translation>Hiba lépett fel a szoba beállításainak megszerzése közben</translation>
+        <translation>Hiba lépett fel a szoba beállításainak lekérdezése közben</translation>
     </message>
     <message>
         <source>There was an error changing the room configuration</source>
@@ -7441,7 +7476,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>There was an error destroying the room.</source>
-        <translation>Hiba lépett fel a szoba lerombolása közben.</translation>
+        <translation>Hiba lépett fel a szoba megszüntetése közben.</translation>
     </message>
 </context>
 <context>
@@ -7460,11 +7495,11 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Room information</source>
-        <translation>Szoba információk</translation>
+        <translation>Szobainformációk</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation>Cím:</translation>
+        <translation>Kiszolgáló:</translation>
     </message>
     <message>
         <source>Room:</source>
@@ -7480,7 +7515,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Request chat history</source>
-        <translation>Beszélgetési előzmény kérése</translation>
+        <translation>Beszélgetési előzmény lekérése</translation>
     </message>
     <message>
         <source>Bookmarks:</source>
@@ -7491,7 +7526,7 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <name>MUCJoinDlg</name>
     <message>
         <source>&amp;Join</source>
-        <translation>&amp;Belép</translation>
+        <translation>&amp;Csatlakozás</translation>
     </message>
     <message>
         <source>%1 on %2</source>
@@ -7511,72 +7546,72 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>You are in or joining this room already!</source>
-        <translation>Már benntvagy a szobában, vagy éppen folyamatban van!</translation>
+        <translation>Már benn vagy a szobában, vagy éppen csatlakozol!</translation>
     </message>
     <message>
         <source>Unable to join groupchat.
 Reason: %1</source>
-        <translation>Nem sikerült belépni a csoportbeszélgetésbe.
-Oka: %1</translation>
+        <translation>Nem sikerült belépni a konferenciába.
+Indok: %1</translation>
     </message>
 </context>
 <context>
     <name>MUCManager</name>
     <message>
         <source>You are not allowed to kick this user.</source>
-        <translation>Nem vagy felhatalmazva hogy kirúgd ezt a felhasználót.</translation>
+        <translation>Nem vagy felhatalmazva, hogy kirúgd ezt a felhasználót.</translation>
     </message>
     <message>
         <source>You are not allowed to ban this user.</source>
-        <translation>Nem vagy felhatalmazva hogy kitiltsd ezt a felhasználót.</translation>
+        <translation>Nem vagy felhatalmazva, hogy kitiltsd ezt a felhasználót.</translation>
     </message>
     <message>
         <source>You are not allowed to grant voice to this user.</source>
-        <translation>Nem vagy felhatalmazva hogy szólásjogot adj ennek a felhasználónak.</translation>
+        <translation>Nem vagy felhatalmazva, hogy szólásjogot adj ennek a felhasználónak.</translation>
     </message>
     <message>
         <source>You are not allowed to revoke voice from this user.</source>
-        <translation>Nem vagy felhatalmazva hogy elvedd a szólásjogát  a felhasználótól.</translation>
+        <translation>Nem vagy felhatalmazva, hogy elvedd a szólásjogot a felhasználótól.</translation>
     </message>
     <message>
         <source>You are not allowed to grant membership to this user.</source>
-        <translation>Nem vagy felhatalmazva hogy tagságot adj ennek a felhasználónak.</translation>
+        <translation>Nem vagy felhatalmazva, hogy tagságot adj ennek a felhasználónak.</translation>
     </message>
     <message>
         <source>You are not allowed to revoke membership from this user.</source>
-        <translation>Nem vagy felhatalmazva hogy elvedd a tagságát ettől a felhasználótól.</translation>
+        <translation>Nem vagy felhatalmazva, hogy elvedd a tagságot ettől a felhasználótól.</translation>
     </message>
     <message>
         <source>You are not allowed to grant moderator privileges to this user.</source>
-        <translation>Nem vagy felhatalmazva hogy moderátori jogot adj ennek a felhasználónak.</translation>
+        <translation>Nem vagy felhatalmazva, hogy moderátori jogot adj ennek a felhasználónak.</translation>
     </message>
     <message>
         <source>You are not allowed to revoke moderator privileges from this user.</source>
-        <translation>Nem vagy felhatalmazva hogy megvond a moderátori jogát ettől a felhasználótól.</translation>
+        <translation>Nem vagy felhatalmazva, hogy megvond a moderátori jogot ettől a felhasználótól.</translation>
     </message>
     <message>
         <source>You are not allowed to grant administrative privileges to this user.</source>
-        <translation>Nem vagy felhatalmazva hogy adminisztratív jogot adj ennek a felhasználónak.</translation>
+        <translation>Nem vagy felhatalmazva, hogy adminisztratív jogot adj ennek a felhasználónak.</translation>
     </message>
     <message>
         <source>You are not allowed to revoke administrative privileges from this user.</source>
-        <translation>Nem vagy felhatalmazva hogy megvond az adminisztratív jogát ettől a felhasználótól.</translation>
+        <translation>Nem vagy felhatalmazva, hogy megvond az adminisztratív jogot ettől a felhasználótól.</translation>
     </message>
     <message>
         <source>You are not allowed to grant ownership privileges to this user.</source>
-        <translation>Nem vagy felhatalmazva hogy tulajdonosi jogot adj ennek a felhasználónak.</translation>
+        <translation>Nem vagy felhatalmazva, hogy tulajdonosi jogot adj ennek a felhasználónak.</translation>
     </message>
     <message>
         <source>You are not allowed to revoke ownership privileges from this user.</source>
-        <translation>Nem vagy felhatalmazva hogy megvond a tulajdonosi togát ettől a felhasználótól.</translation>
+        <translation>Nem vagy felhatalmazva, hogy megvond a tulajdonosi jogot ettől a felhasználótól.</translation>
     </message>
     <message>
         <source>You are not allowed to perform this operation.</source>
-        <translation>Nem vagy felhatalmazva hogy ezt a műveletet végrehatsd.</translation>
+        <translation>Nem vagy felhatalmazva, hogy ezt a műveletet végrehajtsd.</translation>
     </message>
     <message>
         <source>Failed to perform operation: </source>
-        <translation>Hiba történt:</translation>
+        <translation>Hiba a művelet végrehajtásakor:</translation>
     </message>
 </context>
 <context>
@@ -7595,7 +7630,7 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Eltávolít</translation>
+        <translation>Eltávolítás</translation>
     </message>
     <message>
         <source>Save</source>
@@ -7607,7 +7642,7 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Mégse</translation>
+        <translation>Mégsem</translation>
     </message>
 </context>
 <context>
@@ -7622,7 +7657,7 @@ Oka: %1</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Menü</translation>
+        <translation>Általános</translation>
     </message>
     <message>
         <source>Menu</source>
@@ -7650,7 +7685,7 @@ Oka: %1</translation>
     </message>
     <message>
         <source>This application uses GStreamer %1, a comprehensive open-source and cross-platform multimedia framework.  For more information, see &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</source>
-        <translation>Ez a program GStreamer %1-t használ, egy széleskörű nyílt forráskódú és platformfüggetlen multimédia keretrendszer. Több információért látogatsd meg a következő címet: &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
+        <translation>Ez a program GStreamer %1-t használ, egy széleskörű nyílt forráskódú és platformfüggetlen multimédia-keretrendszer. További információért látogasd meg a következő címet: &lt;a href=&quot;http://www.gstreamer.net/&quot;&gt;http://www.gstreamer.net/&lt;/a&gt;</translation>
     </message>
     <message>
         <source>About GStreamer</source>
@@ -7658,7 +7693,7 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Security Plugins Diagnostic Text</source>
-        <translation>Biztonsági beépülő diagnosztikai szövege</translation>
+        <translation>Biztonsági kiegészítő adatai</translation>
     </message>
     <message>
         <source>Key Storage Diagnostic Text</source>
@@ -7678,29 +7713,31 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Status Message</source>
-        <translation type="unfinished"/>
+        <translation>Állapot üzenet</translation>
     </message>
     <message>
         <source>Active accounts:</source>
-        <translation type="unfinished"/>
+        <translation>Aktív fiókok:</translation>
     </message>
     <message>
         <source>
 Active accounts:</source>
-        <translation type="unfinished"/>
+        <translation>
+Aktív fiókok:</translation>
     </message>
     <message>
         <source>Incoming event(s) from:</source>
-        <translation type="unfinished"/>
+        <translation>Bejövő esemény(ek) innen:</translation>
     </message>
     <message>
         <source>
 Incoming event(s) from:</source>
-        <translation type="unfinished"/>
+        <translation>
+Bejövő esemény(ek) innen:</translation>
     </message>
     <message>
         <source>Connecting</source>
-        <translation>Csatlakozás</translation>
+        <translation>Kapcsolódás</translation>
     </message>
     <message>
         <source>1 event received</source>
@@ -7762,7 +7799,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
         <translation>hálózati sakkjáték két játékosnak
 Kliens és szerver rész egyben van a programban.
 Módosíthatod a forráskódot, mert a használt
-GPL licensz megengedi.
+GPL licenc megengedi.
 
 Oroszország, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
@@ -7771,11 +7808,11 @@ Oroszország, Tambov, 2005 (denis@silversoft.net)</translation>
     <name>MessageFilter</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Szerző: </translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation type="unfinished"/>
+        <translation>E-mail:</translation>
     </message>
 </context>
 <context>
@@ -7790,71 +7827,72 @@ Oroszország, Tambov, 2005 (denis@silversoft.net)</translation>
     </message>
     <message>
         <source>The server does not support TLS encryption.</source>
-        <translation>A szerver nem támogatja a TLS kódolást.</translation>
+        <translation>A szerver nem támogat TLS titkosítást.</translation>
     </message>
     <message>
         <source>There was an error communicating with the XMPP server.
 Details: %1</source>
-        <translation type="unfinished"/>
+        <translation>Hiba az XMPP szerverrel való kapcsolatban.
+Részletek: %1</translation>
     </message>
 </context>
 <context>
     <name>Model</name>
     <message>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Típus</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Név</translation>
     </message>
     <message>
         <source>E-Mail</source>
-        <translation type="unfinished"/>
+        <translation>E-mail:</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="unfinished"/>
+        <translation>Létrehozva</translation>
     </message>
     <message>
         <source>Length</source>
-        <translation type="unfinished"/>
+        <translation>Hossz</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"/>
+        <translation>Megjegyzés</translation>
     </message>
     <message>
         <source>Algorithm</source>
-        <translation type="unfinished"/>
+        <translation>Algoritmus</translation>
     </message>
     <message>
         <source>Short ID</source>
-        <translation type="unfinished"/>
+        <translation>Rövid ID</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation type="unfinished"/>
+        <translation>Ujjlenyomat</translation>
     </message>
     <message>
         <source>Enable/Disable</source>
-        <translation type="unfinished"/>
+        <translation>Engedélyez/Letilt</translation>
     </message>
     <message>
         <source>JID (or part of JID)</source>
-        <translation type="unfinished"/>
+        <translation>JID (vagy a JID egy része)</translation>
     </message>
     <message>
         <source>Watch for JIDs</source>
-        <translation type="unfinished"/>
+        <translation>JID-ek figyelése</translation>
     </message>
     <message>
         <source>Sounds (if empty default sound will be used)</source>
-        <translation type="unfinished"/>
+        <translation>Hangok (ha üres, az alapértelmezett hang lesz használva)</translation>
     </message>
     <message>
         <source>Expiration</source>
-        <translation type="unfinished"/>
+        <translation>Lejárat ideje</translation>
     </message>
 </context>
 <context>
@@ -7877,14 +7915,14 @@ Details: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Mégse</translation>
+        <translation>Mégsem</translation>
     </message>
 </context>
 <context>
     <name>MoodDlg</name>
     <message>
         <source>&lt;unset&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;unset&gt;</translation>
     </message>
 </context>
 <context>
@@ -7898,43 +7936,44 @@ Details: %1</source>
     <name>NoteModel</name>
     <message>
         <source>Title: %1</source>
-        <translation type="unfinished"/>
+        <translation>Cím: %1</translation>
     </message>
     <message>
         <source>
 Tags: %1</source>
-        <translation type="unfinished"/>
+        <translation>
+Címkék: %1</translation>
     </message>
 </context>
 <context>
     <name>Notes</name>
     <message>
         <source>Notebook</source>
-        <translation type="unfinished"/>
+        <translation>Jegyzetfüzet</translation>
     </message>
     <message>
         <source>Add note</source>
-        <translation type="unfinished"/>
+        <translation>Jegyzet hozzáadása</translation>
     </message>
     <message>
         <source>Edit note</source>
-        <translation type="unfinished"/>
+        <translation>Jegyzet szerkesztése</translation>
     </message>
     <message>
         <source>Delete note</source>
-        <translation type="unfinished"/>
+        <translation>Jegyzet törlése</translation>
     </message>
     <message>
         <source>Load notes</source>
-        <translation type="unfinished"/>
+        <translation>Jegyzet betöltése</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"/>
+        <translation>Újratöltés</translation>
     </message>
     <message>
         <source>Save notes</source>
-        <translation type="unfinished"/>
+        <translation>Jegyzetek mentése</translation>
     </message>
     <message>
         <source>Save</source>
@@ -7950,34 +7989,34 @@ Tags: %1</source>
     </message>
     <message>
         <source>Some changes are not saved. Are you sure you want to quit?</source>
-        <translation type="unfinished"/>
+        <translation>Néhány változás nincs mentve. Biztosan kilép?</translation>
     </message>
     <message>
         <source>Some changes are not saved. Are you sure you want to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Néhány változás nincs mentve. Biztosan folytatod?</translation>
     </message>
     <message>
         <source>Error! Perhaps the function is not implemented on the server.</source>
-        <translation type="unfinished"/>
+        <translation>Hiba! Talán a funkciót nem támogatja a szerver.</translation>
     </message>
     <message>
         <source>Storage Notes Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Tárolójegyzet kiegészítő </translation>
     </message>
     <message>
         <source>Notes has been saved.</source>
-        <translation type="unfinished"/>
+        <translation>Jegyzetek mentve.</translation>
     </message>
 </context>
 <context>
     <name>OAuth2SASLContext</name>
     <message>
         <source>Copy authorization code from opened web page.</source>
-        <translation type="unfinished"/>
+        <translation>Hitelesítési kód másolása megnyitott weboldalról.</translation>
     </message>
     <message>
         <source>Enter authorization code</source>
-        <translation type="unfinished"/>
+        <translation>Hitelesítési kód megadása</translation>
     </message>
 </context>
 <context>
@@ -7996,19 +8035,19 @@ Tags: %1</source>
     </message>
     <message>
         <source>Disables the sending of message events such as &quot;Contact is Typing...&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Az üzenetesemények kikapcsolása, mint pl. &apos;Az ismerős éppen gépel&apos;...</translation>
     </message>
     <message>
         <source>Do not send composing events</source>
-        <translation type="unfinished"/>
+        <translation>Ne küldjön létrehozó-eseményeket</translation>
     </message>
     <message>
         <source>Request receipts</source>
-        <translation type="unfinished"/>
+        <translation>Nyugtázás kérése</translation>
     </message>
     <message>
         <source>Send receipts</source>
-        <translation type="unfinished"/>
+        <translation>Nyugtázás küldése</translation>
     </message>
     <message>
         <source>Enable remote controlling from other locations</source>
@@ -8036,7 +8075,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>XMPP address completion</source>
-        <translation type="unfinished"/>
+        <translation>XMPP címkitöltés</translation>
     </message>
     <message>
         <source>Show subject line in events</source>
@@ -8056,7 +8095,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Scroll roster to contact on event</source>
-        <translation>Címlista adott ismerőshöz görgetése eseménykor</translation>
+        <translation>Eseménykor a címlista egy adott ismerőshöz görgetése</translation>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
@@ -8068,7 +8107,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Determined by sender</source>
-        <translation>A feladó által küldött szerint</translation>
+        <translation>A feladó döntése szerint</translation>
     </message>
     <message>
         <source>Messages</source>
@@ -8099,15 +8138,15 @@ Tags: %1</source>
     </message>
     <message>
         <source>Specifies the background color for an account name in the main window.</source>
-        <translation type="unfinished"/>
+        <translation>Beállítja a háttérszínt a fő ablakon egy adott fióknál.</translation>
     </message>
     <message>
         <source>Account heading background:</source>
-        <translation>Fiók fejléc háttere:</translation>
+        <translation>Fiókfejléc háttere:</translation>
     </message>
     <message>
         <source>Group heading foreground:</source>
-        <translation>Csoport címsor betűszíne:</translation>
+        <translation>Csoportcímsor betűszíne:</translation>
     </message>
     <message>
         <source>Specifies the background color for a group name in the main window.</source>
@@ -8115,7 +8154,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Group heading background:</source>
-        <translation>Csoport címsor háttere:</translation>
+        <translation>Csoportcímsor háttere:</translation>
     </message>
     <message>
         <source>Specifies the foreground animation color for nicks.</source>
