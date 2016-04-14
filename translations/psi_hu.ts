@@ -8150,7 +8150,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Specifies the background color for a group name in the main window.</source>
-        <translation type="unfinished"/>
+        <translation>Beállítja a csoportnevek háttérszínét a főablakban.</translation>
     </message>
     <message>
         <source>Group heading background:</source>
@@ -8158,43 +8158,43 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Specifies the foreground animation color for nicks.</source>
-        <translation type="unfinished"/>
+        <translation>Becenevek előtér-animáció színe.</translation>
     </message>
     <message>
         <source>Nick animation foreground:</source>
-        <translation>Becenév animáció betűszíne:</translation>
+        <translation>Becenév-animáció betűszíne:</translation>
     </message>
     <message>
         <source>Specifies the background animation color for nicks.</source>
-        <translation type="unfinished"/>
+        <translation>Becenevek háttér-animáció színe.</translation>
     </message>
     <message>
         <source>Nick animation background:</source>
-        <translation>Becenév animáció háttere:</translation>
+        <translation>Becenév-animáció háttere:</translation>
     </message>
     <message>
         <source>Specifies the color for sent messages in chat and history windows.</source>
-        <translation type="unfinished"/>
+        <translation>Elküldött üzenetek színe a csevegés- és előzményablakban.</translation>
     </message>
     <message>
         <source>Sent message foreground:</source>
-        <translation>Küldött üzenet betűszíne:</translation>
+        <translation>Elküldött üzenet betűszíne:</translation>
     </message>
     <message>
         <source>Specifies the color for received messages in chat and history windows.</source>
-        <translation type="unfinished"/>
+        <translation>Bejövő üzenetek színe a csevegés- és előzményablakban.</translation>
     </message>
     <message>
         <source>Received message foreground:</source>
-        <translation>Kapott üzenet betűszíne:</translation>
+        <translation>Bejövő üzenet betűszíne:</translation>
     </message>
     <message>
         <source>Specifies the color for informational messages in chat windows, like status changes and offline messages.</source>
-        <translation type="unfinished"/>
+        <translation>Információs üzenetek színe a csevegésablakban, mint az állapotváltozások és offline üzenetek.</translation>
     </message>
     <message>
         <source>Informational messages in chats:</source>
-        <translation>Információk beszélgetés közben:</translation>
+        <translation>Információs üzenetek csevegés közben:</translation>
     </message>
     <message>
         <source>Online contacts:</source>
@@ -8202,11 +8202,11 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Away contacts:</source>
-        <translation>Nem gépnél lévő ismerősök:</translation>
+        <translation>Tétlen ismerősök:</translation>
     </message>
     <message>
         <source>DND contacts:</source>
-        <translation>DND ismerősök:</translation>
+        <translation>Nem Zavarható ismerősök:</translation>
     </message>
     <message>
         <source>Offline contacts:</source>
@@ -8214,7 +8214,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Specifies the background color for the main window.</source>
-        <translation type="unfinished"/>
+        <translation>Beállítja a főablak háttérszínét.</translation>
     </message>
     <message>
         <source>Contact list background:</source>
@@ -8226,11 +8226,11 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Specifies the color for additional text of system messages. MUC topic for example.</source>
-        <translation type="unfinished"/>
+        <translation>Rendszer üzenetek bővített szövegének színe, mint a MUC téma.</translation>
     </message>
     <message>
         <source>Additional message text:</source>
-        <translation type="unfinished"/>
+        <translation>Bővített üzenetszöveg:</translation>
     </message>
     <message>
         <source>Fonts</source>
