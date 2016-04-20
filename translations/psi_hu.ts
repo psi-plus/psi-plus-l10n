@@ -62,7 +62,10 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2014 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="unfinished"/>
+        <translation>Egy többplatformos XMPP kliens, főleg haladó felhasználóknak tervezve.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2013 The Psi Team.&lt;br&gt;
+ {2001-2014 ?}</translation>
     </message>
     <message>
         <source>http://psi-im.org</source>
@@ -238,7 +241,15 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation type="unfinished"/>
+        <translation>I. M. Anonymous &lt;note text=&quot;helyettesítsd a saját neveddel&quot;&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
+&lt;br&gt;
+Csatlakozz a fordítócsapathoz még ma! Látogasd meg, 
+&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
+http://forum.psi-im.org/forum/14&lt;/a&gt; további információkért!</translation>
     </message>
 </context>
 <context>
@@ -372,7 +383,7 @@ Jelöld be az &lt;b&gt;Új Fiók Regisztrálása&lt;/b&gt; lehetőséget ha szer
     <name>AccountModify</name>
     <message>
         <source>Account Properties</source>
-        <translation>Fiók Beállítások</translation>
+        <translation>Fiók tulajdonságok</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -580,15 +591,15 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished"/>
+        <translation>Letiltás</translation>
     </message>
     <message>
         <source>Enable Stream Management if possible</source>
-        <translation type="unfinished"/>
+        <translation>Stream-kezelő engedélyezése, ha lehetséges</translation>
     </message>
     <message>
         <source>Nested groups delimiter: </source>
-        <translation type="unfinished"/>
+        <translation>Beágyazott csoportok határolója:</translation>
     </message>
 </context>
 <context>
@@ -659,7 +670,7 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Normally, Psi logs in using the &lt;i&gt;digest&lt;/i&gt; authentication method.  Check this box to force a plain text login to the XMPP server. Use this option only if you have problems connecting with the normal login procedure, as it makes your connection potentially vulnerable to attacks.</source>
-        <translation type="unfinished"/>
+        <translation>Általában a Psi naplóz, &lt;i&gt;digest&lt;/i&gt; hitelesítési mód használatával. Jelöld be ezt, hogy nyers szövegként történjen a bejelentkezés az XMPP szerverre. Csak akkor használd ezt a lehetőséget, ha problémáid vannak a rendes bejelentkezési folyamattal, mivel ez a beállítás sérülékennyé teszi a kapcsolatot (név és jelszó olvasható a folyamat közben).</translation>
     </message>
     <message>
         <source>Automatically login to this account on Psi startup.  Useful if you have Psi automatically launched when an Internet connection is detected.</source>
@@ -711,7 +722,7 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>No Key Selected</source>
-        <translation>Nincs Kulcs Kiválasztva</translation>
+        <translation>Nincs kulcs kiválasztva</translation>
     </message>
     <message>
         <source>Error</source>
@@ -731,7 +742,7 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Secret Key</source>
-        <translation>Titkos Kulcs</translation>
+        <translation>Titkos kulcs</translation>
     </message>
     <message>
         <source>&lt;i&gt;Username&lt;/i&gt; is invalid.</source>
@@ -751,11 +762,11 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Reconnect &amp;Later</source>
-        <translation>Újrakapcsolódás &amp;Később</translation>
+        <translation>Újrakapcsolódás &amp;később</translation>
     </message>
     <message>
         <source>Reconnect &amp;Now</source>
-        <translation>Újrakapcsolódás &amp;Most</translation>
+        <translation>Újrakapcsolódás &amp;most</translation>
     </message>
     <message>
         <source>Block contact</source>
@@ -779,14 +790,14 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
-        <translation type="unfinished"/>
+        <translation>Sream-kezelő protokoll engedélyezése, ha lehetséges. Instabil kapcsolatnál hasznos. A szerverednek támogatnia kell ezt a funkciót. További információért nézd meg, XEP-0184.</translation>
     </message>
 </context>
 <context>
     <name>AccountReg</name>
     <message>
         <source>Register Account</source>
-        <translation>Új Fiók Regisztrálása</translation>
+        <translation>Új fiók regisztrálása</translation>
     </message>
     <message>
         <source>Server</source>
@@ -922,7 +933,7 @@ Indok: %1</translation>
     <name>AccountRemove</name>
     <message>
         <source>Remove Account</source>
-        <translation>Fiók Eltávolítása</translation>
+        <translation>Fiók eltávolítása</translation>
     </message>
     <message>
         <source>Remove account from Psi only.</source>
@@ -1031,7 +1042,7 @@ naplóz ennél az ismerősnél.</translation>
     <name>Activity</name>
     <message>
         <source>User Activity</source>
-        <translation>Felhasználói Tevékenység</translation>
+        <translation>Felhasználói tevékenység</translation>
     </message>
     <message>
         <source>General:</source>
@@ -1260,7 +1271,7 @@ Győződj meg róla, hogy biztosan érvényes XMPP címet adtál-e meg.</transla
     </message>
     <message>
         <source>Added %1 to your roster.</source>
-        <translation>%1 hozzáadva a listádhoz.</translation>
+        <translation>%1 hozzáadva a címlistádhoz.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1286,7 +1297,7 @@ Hiba a Szolgáltatás ID Átalakításakor &quot;%1&quot;.&lt;br&gt;Indok: %2&lt
     </message>
     <message>
         <source>Join &amp;Groupchat...</source>
-        <translation>Belépés &amp;Konferenciába...</translation>
+        <translation>Belépés &amp;Csoportbeszélgetésbe...</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -1301,7 +1312,7 @@ Hiba a Szolgáltatás ID Átalakításakor &quot;%1&quot;.&lt;br&gt;Indok: %2&lt
     </message>
     <message>
         <source>Send Attention</source>
-        <translation>Figyelemfelhívás Küldése</translation>
+        <translation>Figyelemfelhívás küldése</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -1313,7 +1324,7 @@ Hiba a Szolgáltatás ID Átalakításakor &quot;%1&quot;.&lt;br&gt;Indok: %2&lt
     </message>
     <message>
         <source>Attention Plugin</source>
-        <translation>Figyelemfelhívó Kiegészítő</translation>
+        <translation>Figyelemfelhívó kiegészítő</translation>
     </message>
     <message>
         <source>You sent Attention message to %1</source>
@@ -1361,11 +1372,11 @@ A helyes működéshez szükséges a másik oldali kliensnek a XEP-0224 beépül
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation>Letiltva, ha a csevegésablak aktív</translation>
+        <translation>Letiltva, ha a beszélgetésablak aktív</translation>
     </message>
     <message>
         <source>Disable if contact isn&apos;t from your roster</source>
-        <translation>Letiltva, ha az ismerős nem a listádból való</translation>
+        <translation>Letiltva, ha az ismerős nem a címlistádról való</translation>
     </message>
     <message>
         <source>Online</source>
@@ -1377,7 +1388,7 @@ A helyes működéshez szükséges a másik oldali kliensnek a XEP-0224 beépül
     </message>
     <message>
         <source>Dnd</source>
-        <translation>Ne zavarj</translation>
+        <translation>Elfoglalt</translation>
     </message>
     <message>
         <source>XA</source>
@@ -1460,7 +1471,7 @@ The list of exceptions for jids has two operating modes:
 * beállítja a küldött automatikus üzenetek számát
 * megadja az intervallumot,ami után visszaállítja az automatikus üzenetszámlálót
 * kikapcsolja az automatikus választ aktív ablakoknál
-* kikapcsolja az automatikus választ azoknál az ismerősöknél,akik nincsenek a névsorodban
+* kikapcsolja az automatikus választ azoknál az ismerősöknél,akik nincsenek a listádon
 A JID-ek kivétellistájának 2 beállítása van:
 * az automatikus válaszoló ki van kapcsolva a kivétellistához, a többieknek be (Kikapcsolt mód)
 * az automatikus válaszoló be van kapcsolva a kivétellistához, a többieknek ki (Bekapcsolt mód)</translation>
@@ -1529,11 +1540,11 @@ A JID-ek kivétellistájának 2 beállítása van:
     </message>
     <message>
         <source>Save Image</source>
-        <translation>Kép Mentése</translation>
+        <translation>Kép mentése</translation>
     </message>
     <message>
         <source>Save Avatar</source>
-        <translation>Avatar Mentése</translation>
+        <translation>Profilkép mentése</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg)</source>
@@ -1562,7 +1573,7 @@ A JID-ek kivétellistájának 2 beállítása van:
         <source>This plugin allows you to play battleship with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
         <translation>Ezzel a kiegészítővel torpedót játszhattok a barátaiddal.
-Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni fog, akárhol jelentkezel is be.Hogy meghívj egy barátot játékra, használhatod az ismerősök menüelemet vagy a gombot az eszköztáron a beszélgetés ablakban.</translation>
+Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni fog, akárhol jelentkezel is be. Hogy meghívj egy barátot játékra, használhatod az ismerősök menüelemet vagy a gombot az eszköztáron a beszélgetésablakban.</translation>
     </message>
     <message>
         <source>Battleship game</source>
@@ -1577,7 +1588,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     <name>BookmarkManage</name>
     <message>
         <source>Manage Bookmarks</source>
-        <translation>Könyvjelzők Szerkesztése</translation>
+        <translation>Könyvjelzők szerkesztése</translation>
     </message>
     <message>
         <source>Host:</source>
@@ -1702,7 +1713,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Bezár</translation>
+        <translation>&amp;Bezárás</translation>
     </message>
     <message>
         <source>C&amp;all</source>
@@ -1772,7 +1783,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     <name>CaptchaDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Párbeszéd</translation>
     </message>
 </context>
 <context>
@@ -1986,7 +1997,7 @@ Indok: %1</translation>
         <source>A new chat message was just received.
 Do you still want to close the window?</source>
         <translation>Új beszélgetési üzenet érkezett.
-Biztos be akarod zárni az ablakot?</translation>
+Biztosan be akarod zárni az ablakot?</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2067,11 +2078,11 @@ Biztos be akarod zárni az ablakot?</translation>
     <name>ChatViewThemeProvider</name>
     <message>
         <source>Chat Message Style</source>
-        <translation>Csevegő Üzenet Stílusa</translation>
+        <translation>Beszélgetés stílusa</translation>
     </message>
     <message>
         <source>Configure your chat theme here</source>
-        <translation>Állítsd be a csevegőablak kinézetét itt</translation>
+        <translation>Állítsd be a beszélgetésablak kinézetét itt</translation>
     </message>
 </context>
 <context>
@@ -2082,7 +2093,7 @@ Biztos be akarod zárni az ablakot?</translation>
     </message>
     <message>
         <source>Chess Plugin</source>
-        <translation>Sakk Kiegészítő</translation>
+        <translation>Sakk kiegészítő</translation>
     </message>
     <message>
         <source>Chess!</source>
@@ -2120,7 +2131,7 @@ A játékot még elmentheted.</translation>
     </message>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
-        <translation>Sakk Kiegészítő: Meghívás tőle %1</translation>
+        <translation>Sakk kiegészítő: Meghívás tőle %1</translation>
     </message>
     <message>
         <source>You are allready playing!</source>
@@ -2148,7 +2159,7 @@ The plugin is compatible with a similar plugin for Tkabber.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
         <translation>Ezzel a kiegészítővel sakkozhatsz a barátaiddal.
 Ez a kiegészítő kompatibilis a Tkabberben lévő hasonló kiegészítővel.
-Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni fog, akárhol jelentkezel is be.Hogy meghívj egy barátot játékra, használhatod az ismerősök menüelemet vagy a gombot az eszköztáron a beszélgetés ablakban.</translation>
+Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni fog, akárhol jelentkezel is be. Hogy meghívj egy barátot játékra, használhatod az ismerősök menüelemet vagy a gombot az eszköztáron a beszélgetésablakban.</translation>
     </message>
 </context>
 <context>
@@ -2238,7 +2249,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>Unselect All Files</source>
-        <translation>Összes Kijelölés Megszüntetése</translation>
+        <translation>Összes kijelölés megszüntetése</translation>
     </message>
     <message>
         <source>0</source>
@@ -2266,7 +2277,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>Choose &amp;Profile</source>
-        <translation>&amp;Profil Választása</translation>
+        <translation>&amp;Profil kiválasztása</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
@@ -2274,11 +2285,11 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>Clear &amp;Juick Cache</source>
-        <translation>&amp;Juick Cache Törlése</translation>
+        <translation>&amp;Juick Cache törlése</translation>
     </message>
     <message>
         <source>Clear &amp;Birthdays Cache</source>
-        <translation>&amp;Születésnapok Cache Törlése</translation>
+        <translation>&amp;Születésnapok Cache törlése</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -2334,11 +2345,11 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>Clear Juick Cache</source>
-        <translation>Juick Cache Törlése</translation>
+        <translation>Juick Cache törlése</translation>
     </message>
     <message>
         <source>Juick Cache Successfully Cleared</source>
-        <translation>Juick Cache Sikeresen Törölve </translation>
+        <translation>Juick Cache sikeresen törölve </translation>
     </message>
     <message>
         <source>Something wrong!</source>
@@ -2346,26 +2357,26 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>Cache Not Found!</source>
-        <translation>Cache Nem Található!</translation>
+        <translation>Cache nem található!</translation>
     </message>
     <message>
         <source>Clear Birthdays Cach</source>
-        <translation>Születésnapok Cache Törlése</translation>
+        <translation>Születésnapok Cache törlése</translation>
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
-        <translation>Születésnapok Cache Törlése</translation>
+        <translation>Születésnapok Cache törlése</translation>
     </message>
     <message>
         <source>Birthdays Cache Successfully Cleared</source>
-        <translation>Születésnapok Cache Sikeresen Törölve </translation>
+        <translation>Születésnapok Cache sikeresen törölve</translation>
     </message>
 </context>
 <context>
     <name>CleanerPlugin</name>
     <message>
         <source>Launch Cleaner</source>
-        <translation>Takarító Indítása</translation>
+        <translation>Takarító indítása</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#cleaner_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2498,7 +2509,7 @@ Megadhatod a kliens verzióját és az operációs rendszert vagy kiválaszthato
     </message>
     <message>
         <source>View Log</source>
-        <translation>Napló Megtekintése</translation>
+        <translation>Napló megtekintése</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#conference_logger_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -2506,17 +2517,17 @@ Megadhatod a kliens verzióját és az operációs rendszert vagy kiválaszthato
     </message>
     <message>
         <source>Groupchat History</source>
-        <translation>Csoportbeszélgetés története</translation>
+        <translation>Csoportbeszélgetés előzménye</translation>
     </message>
     <message>
         <source>This plugin is designed to save groupchat logs in which the Psi+ user sits.
 Groupchats logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with groupchat.
 
 Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
-        <translation>Ez a kiegészítő a csoportos beszélgetés előzményeinek mentésére lett tervezve, amelyben a Psi+ felhasználó részt vesz.
-A csoportos beszélgetések naplója megtekinthető a kiegészítő beállításaiban vagy ennek gombjára kattintásával az eszköztáron, az aktív ablakban/fülön a csoportos beszélgetésben.
+        <translation>Ez a kiegészítő a csoportbeszélgetés előzményeinek mentésére lett tervezve, amelyben a Psi+ felhasználó részt vesz.
+A csoportbeszélgetések naplója megtekinthető a kiegészítő beállításaiban, vagy ennek gombjára kattintásával a csoportbeszélgetés eszköztárán az aktív ablakban/fülön.
 
-Megjegyzés: A helyes működéshez a Csoportos Beszélgetés Eszköztárat be kell kapcsolni.</translation>
+Megjegyzés: A helyes működéshez a Csoportbeszélgetés Eszköztárat be kell kapcsolni.</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -2543,19 +2554,19 @@ Megjegyzés: A helyes működéshez a Csoportos Beszélgetés Eszköztárat be k
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation>Földrajzi Helyzet</translation>
+        <translation>Földrajzi helyzet</translation>
     </message>
     <message>
         <source>Set Avatar</source>
-        <translation>Profilkép Beállítása</translation>
+        <translation>Profilkép beállítása</translation>
     </message>
     <message>
         <source>Unset Avatar</source>
-        <translation>Profilkép Levétele</translation>
+        <translation>Profilkép levétele</translation>
     </message>
     <message>
         <source>&amp;Contacts Manager</source>
-        <translation>&amp;Ismerősök Kezelője</translation>
+        <translation>&amp;Ismerősök kezelője</translation>
     </message>
     <message>
         <source>Manage Bookmarks</source>
@@ -2579,7 +2590,7 @@ Megjegyzés: A helyes működéshez a Csoportos Beszélgetés Eszköztárat be k
     </message>
     <message>
         <source>Privacy Lists</source>
-        <translation>Adatvédelmi Listák</translation>
+        <translation>Adatvédelmi listák</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
@@ -2634,23 +2645,23 @@ Megjegyzés: A helyes működéshez a Csoportos Beszélgetés Eszköztárat be k
     <name>ContactListGroupMenu::Private</name>
     <message>
         <source>Re&amp;name</source>
-        <translation>Át&amp;nevez</translation>
+        <translation>&amp;Átnevez</translation>
     </message>
     <message>
         <source>Resend Authorization to Group</source>
-        <translation>Hitelesítés Újraküldése a Csoporthoz</translation>
+        <translation>Hitelesítés újraküldése a csoporthoz</translation>
     </message>
     <message>
         <source>Request Authorization from Group</source>
-        <translation>Hitelesítés kérése a Csoporttól</translation>
+        <translation>Hitelesítés kérése a csoporttól</translation>
     </message>
     <message>
         <source>Remove Authorization from Group</source>
-        <translation>Hitelesítés Eltávolítása a Csoporttól</translation>
+        <translation>Hitelesítés eltávolítása a csoporttól</translation>
     </message>
     <message>
         <source>Send Status to Group</source>
-        <translation>Állapot Küldése a Csoportnak</translation>
+        <translation>Állapot küldése a csoportnak</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
@@ -2690,7 +2701,7 @@ Megjegyzés: A helyes működéshez a Csoportos Beszélgetés Eszköztárat be k
     </message>
     <message>
         <source>Authorization</source>
-        <translation>Jóváhagyás</translation>
+        <translation>Hitelesítés</translation>
     </message>
 </context>
 <context>
@@ -2818,11 +2829,11 @@ Megjegyzés: A helyes működéshez a Csoportos Beszélgetés Eszköztárat be k
     </message>
     <message>
         <source>Auth request</source>
-        <translation>Jóváhagyás kérése</translation>
+        <translation>Hitelesítés kérése</translation>
     </message>
     <message>
         <source>Auth grant</source>
-        <translation>Jóváhagy</translation>
+        <translation>Hitelesít</translation>
     </message>
     <message>
         <source>Change domain</source>
@@ -2874,7 +2885,7 @@ Megjegyzés: A helyes működéshez a Csoportos Beszélgetés Eszköztárat be k
     </message>
     <message>
         <source>Roster file</source>
-        <translation>Listafájl</translation>
+        <translation>Címlistafájl</translation>
     </message>
     <message>
         <source>Save error!</source>
@@ -3007,7 +3018,7 @@ Megjegyzés: A helyes működéshez a Csoportos Beszélgetés Eszköztárat be k
     </message>
     <message>
         <source>Unset Avatar</source>
-        <translation>Avatár kiszedése</translation>
+        <translation>Profilkép levétele</translation>
     </message>
     <message>
         <source>Avatar</source>
@@ -3091,7 +3102,7 @@ Folytatod?</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
-        <translation>Címlistához való hozzáadás/felhatalmazás</translation>
+        <translation>Címlistához való Hozzáadás/Jóváhagyás</translation>
     </message>
     <message>
         <source>Send Message To</source>
@@ -3167,7 +3178,7 @@ Folytatod?</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation>OpenP&amp;GP kulcs hozzárendelésének visszavonása</translation>
+        <translation>Open&amp;PGP kulcs hozzárendelés visszavonása</translation>
     </message>
     <message>
         <source>Authorize</source>
@@ -3211,7 +3222,7 @@ Folytatod?</translation>
     </message>
     <message>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Csoportosbeszélgetés-meghívó elküldve ide &lt;b&gt;%1&lt;/b&gt; .</translation>
+        <translation>Csoportbeszélgetés-meghívó elküldve ide &lt;b&gt;%1&lt;/b&gt; .</translation>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
@@ -3258,7 +3269,7 @@ Folytatod?</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation>&amp;Csevegőablak megnyitása</translation>
+        <translation>&amp;Beszélgetésablak megnyitása</translation>
     </message>
     <message>
         <source>Open a &amp;Whiteboard</source>
@@ -3497,11 +3508,11 @@ Folytatod?</translation>
     </message>
     <message>
         <source>Add to roster</source>
-        <translation>Listához hozzáad</translation>
+        <translation>Hozzáadás a címlistához</translation>
     </message>
     <message>
         <source>&amp;Add to roster</source>
-        <translation>Listához &amp;hozzáad</translation>
+        <translation>&amp;Hozzáadás a címlistához</translation>
     </message>
     <message>
         <source>Query version</source>
@@ -3650,7 +3661,7 @@ Minden szó használhat gyakori kifejezést</translation>
     </message>
     <message>
         <source>Groupchats</source>
-        <translation>Csoportos beszélgetések</translation>
+        <translation>Csoportbeszélgetések</translation>
     </message>
     <message>
         <source>Always play sound</source>
@@ -3748,8 +3759,8 @@ Minden szó használhat gyakori kifejezést</translation>
     <message>
         <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
 Supports per contact on / off message enumeration via the buttons on the chats toolbar.</source>
-        <translation>Ez a kiegészítő az üzenetek számlálására készült, így a csevegőnaplóban megjelenik az üzenetek száma és az elmulasztott üzenetek értesítése.
-Ismerősönkénti támogatás, ki-be kapcsolása gombbal a csevegő eszköztárán.</translation>
+        <translation>Ez a kiegészítő az üzenetek számlálására készült, így a beszélgetésnaplóban megjelenik az üzenetek száma és az elmulasztott üzenetek értesítése.
+Ismerősönkénti támogatás, ki-be kapcsolása gombbal, a beszélgetésablak eszköztárán.</translation>
     </message>
 </context>
 <context>
@@ -3824,11 +3835,11 @@ Ismerősönkénti támogatás, ki-be kapcsolása gombbal a csevegő eszköztár�
     </message>
     <message>
         <source>&amp;Quote</source>
-        <translation>&amp;Idéz</translation>
+        <translation>&amp;Idézet</translation>
     </message>
     <message>
         <source>&amp;Deny</source>
-        <translation>&amp;Elutasít</translation>
+        <translation>&amp;Elutasítás</translation>
     </message>
     <message>
         <source>&amp;Add/Auth</source>
@@ -3848,7 +3859,7 @@ Ismerősönkénti támogatás, ki-be kapcsolása gombbal a csevegő eszköztár�
     </message>
     <message>
         <source>C&amp;onfirm</source>
-        <translation>&amp;Megerősít</translation>
+        <translation>&amp;Megerősítés</translation>
     </message>
     <message>
         <source>&amp;Submit</source>
@@ -3895,7 +3906,7 @@ Módszer: %2</translation>
         <source>
 If you wish to confirm this request, please provide transaction identifier and press Confirm button. Otherwise press Deny button.</source>
         <translation>
-Ha engedélyezni szeretnéd ezt a kérést, add meg a tranzakciós azonosítót és nyomd meg az Elfogad gombot. Máskülönben az Elutasít gombot.</translation>
+Ha engedélyezni szeretnéd ezt a kérést, add meg a tranzakciós azonosítót és nyomd meg az Megerősítés gombot. Máskülönben az Elutasítás gombot.</translation>
     </message>
     <message>
         <source>Transaction identifier: %1
@@ -3903,11 +3914,11 @@ Ha engedélyezni szeretnéd ezt a kérést, add meg a tranzakciós azonosítót 
 If you wish to confirm this request, please press Confirm button. Otherwise press Deny button.</source>
         <translation>Tranzakciós azonosító: %1
 
-Ha engedélyezni szeretnéd ezt a kérést, nyomd meg az Elfogad gombot. Máskülönben az Elutasít gombot.</translation>
+Ha engedélyezni szeretnéd ezt a kérést, nyomd meg az Megerősítés gombot. Máskülönben az Elutasítás gombot.</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to subscribe to your presence.  Click the button labelled &quot;Add/Auth&quot; to authorize the subscription.  This will also add the person to your contact list if it is not already there.</source>
-        <translation>&lt;big&gt;[Rendszer üzenet]&lt;/big&gt;&lt;br&gt;Ez a felhasználó fel akar iratkozni hozzád. Kattints a &quot;Hozzáad/jóváhagy&quot; gombra hogy elfogadd. Ezzel hozzáadod a címlistádhoz is, ha még nincs rajta.</translation>
+        <translation>&lt;big&gt;[Rendszer üzenet]&lt;/big&gt;&lt;br&gt;Ez a felhasználó fel akar iratkozni hozzád. Kattints a &quot;Hozzáadás/Jóváhagyás&quot; gombra hogy elfogadd. Ezzel hozzáadod a címlistádhoz is, ha még nincs rajta.</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
@@ -3943,7 +3954,7 @@ Ha engedélyezni szeretnéd ezt a kérést, nyomd meg az Elfogad gombot. Máskü
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to modify your roster (%1). Click the button labelled &quot;Add/Auth&quot; to authorize the modification.</source>
-        <translation>&lt;big&gt;[Rendszer üzenet]&lt;/big&gt;&lt;br&gt;Ez a felhasználó módosítani akarja a névsorodat (%1). Engedélyezéshez kattints a megfelelő gombra.</translation>
+        <translation>&lt;big&gt;[Rendszer üzenet]&lt;/big&gt;&lt;br&gt;Ez a felhasználó módosítani akarja a címlistádat (%1). Engedélyezéshez kattints a &quot;Hozzáadás/Jóváhagyás&quot; gombra.</translation>
     </message>
     <message>
         <source>For all</source>
@@ -4025,7 +4036,7 @@ Ha engedélyezni szeretnéd ezt a kérést, nyomd meg az Elfogad gombot. Máskü
     </message>
     <message>
         <source>Copy Status Message</source>
-        <translation>Állapot üzenet másolása</translation>
+        <translation>Állapotüzenet másolása</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -4056,7 +4067,7 @@ Ha engedélyezni szeretnéd ezt a kérést, nyomd meg az Elfogad gombot. Máskü
     <name>ExtendedOptions</name>
     <message>
         <source>Chat</source>
-        <translation>Csevegés</translation>
+        <translation>Beszélgetés</translation>
     </message>
     <message>
         <source>Tabs</source>
@@ -4064,7 +4075,7 @@ Ha engedélyezni szeretnéd ezt a kérést, nyomd meg az Elfogad gombot. Máskü
     </message>
     <message>
         <source>Roster</source>
-        <translation>Névsor</translation>
+        <translation>Címlista</translation>
     </message>
     <message>
         <source>Menu</source>
@@ -4084,15 +4095,15 @@ Ha engedélyezni szeretnéd ezt a kérést, nyomd meg az Elfogad gombot. Máskü
     </message>
     <message>
         <source>Ask for confirmation before clearing chat window</source>
-        <translation>Kérjen megerősítést mielőtt törli a csevegőablak tartalmát</translation>
+        <translation>Kérjen megerősítést mielőtt törli a beszélgetésablak tartalmát</translation>
     </message>
     <message>
         <source>Enable icons in chat</source>
-        <translation>Ikonok engedélyezése csevegésben</translation>
+        <translation>Ikonok engedélyezése beszélgetésben</translation>
     </message>
     <message>
         <source>Scaled message icons</source>
-        <translation>Méretezett üzenet ikonok</translation>
+        <translation>Méretezett üzenetikonok</translation>
     </message>
     <message>
         <source>Show Avatar</source>
@@ -4124,15 +4135,15 @@ Ha engedélyezni szeretnéd ezt a kérést, nyomd meg az Elfogad gombot. Máskü
     </message>
     <message>
         <source>Show status changes</source>
-        <translation>Mutassa az állapot változásokat</translation>
+        <translation>Mutassa az állapotváltozásokat</translation>
     </message>
     <message>
         <source>Show status priority</source>
-        <translation>Mutassa az állapot prioritást</translation>
+        <translation>Mutassa az állapotprioritást</translation>
     </message>
     <message>
         <source>Chat window caption:</source>
-        <translation>Csevegőablak felirata:</translation>
+        <translation>Beszélgetésablak felirata:</translation>
     </message>
     <message>
         <source>Default JID mode ignore list:</source>
@@ -4178,33 +4189,33 @@ Ez az opció csak akkor működik, ha az alapértelmezések elfogadása ki van k
     </message>
     <message>
         <source>Groupchat</source>
-        <translation>Csoportos beszélgetés</translation>
+        <translation>Csoportbeszélgetés</translation>
     </message>
     <message>
         <source>Enable autojoin for bookmarked groupchats</source>
-        <translation>Automatikus csatlakozás könyvjelzőben lévő csoportos beszélgetésekhez</translation>
+        <translation>Automatikus csatlakozás könyvjelzőben lévő csoportbeszélgetésekhez</translation>
     </message>
     <message>
         <source>Hide groupchat on auto-join</source>
-        <translation>Automatikus csatlakozáskor a csoportos beszélgetés elrejtése</translation>
+        <translation>Automatikus csatlakozáskor a csoportbeszélgetés elrejtése</translation>
     </message>
     <message>
         <source>Enable HTML rendering in groupchat chat window</source>
-        <translation>HTML fordítás bekapcsolása a csoportos beszélgetés ablakában</translation>
+        <translation>HTML fordítás bekapcsolása a csoportbeszélgetés ablakában</translation>
     </message>
     <message>
         <source>Disable autojoin to folowing groupchats:
 (specify JIDs)</source>
-        <translation>Automatikus csatlakozás kikapcsolása a következő csoportos beszélgetéseknél:
+        <translation>Automatikus csatlakozás kikapcsolása a következő csoportbeszélgetéseknél:
 (megadott JID-ek)</translation>
     </message>
     <message>
         <source>Groupchat leave status message:</source>
-        <translation>Csoportos beszélgetés állapot üzenete elhagyáskor:</translation>
+        <translation>Csoportbeszélgetést elhagyó állapotüzenet:</translation>
     </message>
     <message>
         <source>Place groupchat roster at left</source>
-        <translation>Tegye a csoportos beszélgetés listát balra</translation>
+        <translation>Tegye a csoportbeszélgetés címlistáját balra</translation>
     </message>
     <message>
         <source>Show groups</source>
@@ -4220,11 +4231,11 @@ Ez az opció csak akkor működik, ha az alapértelmezések elfogadása ki van k
     </message>
     <message>
         <source>Show affiliation icons</source>
-        <translation>Felvételi ikonok megjelenítése</translation>
+        <translation>Kapcsolatikonok megjelenítése</translation>
     </message>
     <message>
         <source>Show client icons</source>
-        <translation>Kliens ikonok megjelenítése</translation>
+        <translation>Kliensikonok megjelenítése</translation>
     </message>
     <message>
         <source>Show avatars</source>
@@ -4252,11 +4263,11 @@ Ez az opció csak akkor működik, ha az alapértelmezések elfogadása ki van k
     </message>
     <message>
         <source>Lockdown roster</source>
-        <translation>Lista lezárása</translation>
+        <translation>Címlista lezárása</translation>
     </message>
     <message>
         <source>Place roster at left in &quot;all-in-one-window&quot; mode</source>
-        <translation>Lista megjelenítése bal oldalon &quot;minden egy ablakban&quot; módban</translation>
+        <translation>Címlista megjelenítése a bal oldalon &quot;minden egy ablakban&quot; módban</translation>
     </message>
     <message>
         <source>Contact name and status message in a row</source>
@@ -4268,7 +4279,7 @@ Ez az opció csak akkor működik, ha az alapértelmezések elfogadása ki van k
     </message>
     <message>
         <source>Place status icon over avatar</source>
-        <translation>Állapot ikon megjelenítése a profilkép felett</translation>
+        <translation>Állapotikon megjelenítése a profilkép felett</translation>
     </message>
     <message>
         <source>Automatically remove temporary contacts</source>
@@ -4284,11 +4295,11 @@ Ez az opció csak akkor működik, ha az alapértelmezések elfogadása ki van k
     </message>
     <message>
         <source>Show last status</source>
-        <translation>Utolsó állapot mutatása</translation>
+        <translation>Utolsó állapot megjelenítése</translation>
     </message>
     <message>
         <source>Show PGP</source>
-        <translation>PGP mutatása</translation>
+        <translation>PGP megjelenítése</translation>
     </message>
     <message>
         <source>Show client version</source>
@@ -4296,39 +4307,39 @@ Ez az opció csak akkor működik, ha az alapértelmezések elfogadása ki van k
     </message>
     <message>
         <source>Show geolocation</source>
-        <translation>Földrajzi helyzet mutatása</translation>
+        <translation>Földrajzi helyzet megjelenítése</translation>
     </message>
     <message>
         <source>Show &quot;Admin&quot; option in account menu</source>
-        <translation>&quot;Admin&quot; beállítások mutatása a fiók menüben</translation>
+        <translation>&quot;Admin&quot;-beállítás megjelenítése a fiókmenüben</translation>
     </message>
     <message>
         <source>Show &quot;Active Chats&quot; option in contact menu</source>
-        <translation>Mutassa az &quot;Aktív csevegések&quot; beállítást az ismerős menüben</translation>
+        <translation>&quot;Aktív beszélgetések&quot;-beállítás megjelenítése az ismerősmenüben</translation>
     </message>
     <message>
         <source>Show &quot;Assign OpenPGP Key&quot; option in contact menu</source>
-        <translation>Mutassa az &quot;OpenPGP kulcs hozzárendelése&quot; beállítást az ismerős menüben</translation>
+        <translation>&quot;OpenPGP kulcs hozzárendelése&quot;-beállítás megjelenítése az ismerősmenüben</translation>
     </message>
     <message>
         <source>Show &quot;Picture&quot; option in contact menu</source>
-        <translation>Mutassa a &quot;Kép&quot; beállítást az ismerős menüben</translation>
+        <translation>&quot;Kép&quot;-beállítás megjelenítése az ismerősmenüben</translation>
     </message>
     <message>
         <source>Show &quot;Change Profile&quot; option in main menu</source>
-        <translation>Mutassa a &quot;Profil váltása&quot; beállítást a fő menüben</translation>
+        <translation>&quot;Profil váltása&quot;-beállítás megjelenítése a főmenüben</translation>
     </message>
     <message>
         <source>Show &quot;Chat&quot; option in status menu</source>
-        <translation>Mutassa a &quot;Csevegés&quot; beállítást az állapot menüben</translation>
+        <translation>&quot;Csevegés&quot;-beállítás megjelenítése az állapotmenüben</translation>
     </message>
     <message>
         <source>Show &quot;Invisible&quot; option in status menu</source>
-        <translation>Mutassa a &quot;Láthatatlan&quot; beállítást az állapot menüben</translation>
+        <translation>&quot;Láthatatlan&quot;-beállítás megjelenítése az állapotmenüben</translation>
     </message>
     <message>
         <source>Show &quot;XA&quot; option in status menu</source>
-        <translation>Mutassa a &quot;Tétlen&quot; beállítást az állapot menüben</translation>
+        <translation>&quot;Tétlen&quot;-beállítás megjelenítése az állapotmenüben</translation>
     </message>
     <message>
         <source>Enable single messages</source>
@@ -4364,11 +4375,11 @@ Ez az opció csak akkor működik, ha az alapértelmezések elfogadása ki van k
     </message>
     <message>
         <source>Groupchat roster coloring:</source>
-        <translation>Csoportos beszélgetések névsorának színe:</translation>
+        <translation>Csoportbeszélgetés címlistájának színe:</translation>
     </message>
     <message>
         <source>Enable sound notifications for every groupchat message</source>
-        <translation>Hang értesítések bekapcsolása minden csoportosbeszélgetés-üzenethez</translation>
+        <translation>Hangértesítések bekapcsolása minden csoportbeszélgetés-üzenethez</translation>
     </message>
     <message>
         <source>ToolTip text color:</source>
@@ -4412,7 +4423,7 @@ Ez az opció csak akkor működik, ha az alapértelmezések elfogadása ki van k
     </message>
     <message>
         <source>Put tabs at bottom of chat window</source>
-        <translation>Fülek elhelyezése a beszélgetés ablak alján</translation>
+        <translation>Fülek elhelyezése a beszélgetésablak alján</translation>
     </message>
     <message>
         <source>Show Close Button on tabs</source>
@@ -4424,7 +4435,7 @@ Ez az opció csak akkor működik, ha az alapértelmezések elfogadása ki van k
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation>Fül elrejtése beszélgetés ablak bezárásakor</translation>
+        <translation>Fül elrejtése beszélgetésablak bezárásakor</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
@@ -4452,15 +4463,15 @@ Ez az opció csak akkor működik, ha az alapértelmezések elfogadása ki van k
     </message>
     <message>
         <source>Enable last activity server</source>
-        <translation>Utolsó tevékenység szerver engedélyezése</translation>
+        <translation>Utolsó szervertevékenység engedélyezése</translation>
     </message>
     <message>
         <source>Disable popup notifications if status is DND</source>
-        <translation>Felugró ablak értesítések kikapcsolása, ha az állapot &quot;Ne Zavarj&quot;</translation>
+        <translation>Felugró ablak értesítések kikapcsolása, ha az állapot &quot;Elfoglalt&quot;</translation>
     </message>
     <message>
         <source>Disable popup notifications if status is Away</source>
-        <translation>Felugró ablak értesítések kikapcsolása, ha az állapot &quot;Nincs a gépnél&quot;</translation>
+        <translation>Felugró ablak értesítések kikapcsolása, ha az állapot &quot;Távol&quot;</translation>
     </message>
     <message>
         <source>Notifications</source>
@@ -4483,14 +4494,14 @@ Ez az opció csak akkor működik, ha az alapértelmezések elfogadása ki van k
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
 Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
-        <translation>Ez a kiegészítő néhány haladó beállítás egyszerűsítésére lett tervezve a &quot;Psi+&quot;-ban.
-Hozzáférést ad néhány olyan haladó beállításhoz, amiknek nincs grafikus felülete.
+        <translation>Ez a kiegészítő néhány haladóbeállítás egyszerűsítésére lett tervezve a &quot;Psi+&quot;-ban.
+Hozzáférést ad néhány olyan haladóbeállításhoz, amiknek nincs grafikus felülete.
 
-Legfőképpen: nagy része a beállításoknak fontos rendszer beállítások. Ezek nagy odafigyelést és a végeredmény előrelátását igénylik, ha változtatsz rajtuk.</translation>
+Legfőképpen: nagy része a beállításoknak fontos rendszerbeállítás. Ezek nagy odafigyelést és a végeredmény előrelátását igénylik, ha változtatsz rajtuk.</translation>
     </message>
     <message>
         <source>Allow groupchat highlight events</source>
-        <translation>Események kiemelésének engedélyezése csoportos beszélgetésben</translation>
+        <translation>Események kiemelésének engedélyezése csoportbeszélgetésben</translation>
     </message>
     <message>
         <source>Enable multirow tabs</source>
@@ -4501,7 +4512,7 @@ Legfőképpen: nagy része a beállításoknak fontos rendszer beállítások. E
     <name>FancyPopup::Private</name>
     <message>
         <source>Close</source>
-        <translation>Bezár</translation>
+        <translation>Bezárás</translation>
     </message>
 </context>
 <context>
@@ -4566,11 +4577,11 @@ Legfőképpen: nagy része a beállításoknak fontos rendszer beállítások. E
     </message>
     <message>
         <source>&amp;Accept</source>
-        <translation>&amp;Elfogad</translation>
+        <translation>&amp;Elfogadás</translation>
     </message>
     <message>
         <source>&amp;Reject</source>
-        <translation>&amp;Visszautasít</translation>
+        <translation>&amp;Visszautasítás</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -4622,7 +4633,7 @@ Legfőképpen: nagy része a beállításoknak fontos rendszer beállítások. E
     </message>
     <message>
         <source>Accepting...</source>
-        <translation>Fogadás...</translation>
+        <translation>Elfogadás...</translation>
     </message>
     <message>
         <source>Accepted!</source>
@@ -4639,8 +4650,8 @@ This can happen if the contact did not understand our request, or if the
 contact is offline.</source>
         <translation>Nem sikerült az átvitel.
 
-Ez akkor történhet, ha a partner nem értette a kérést vagy
-már nem elérhető.</translation>
+Ez akkor történhet, ha a partner nem értette a kérést, vagy
+már kijelentkezett.</translation>
     </message>
     <message>
         <source>Unable to connect to peer for data transfer.
@@ -4650,8 +4661,8 @@ a NAT router or firewall then you'll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>Nem sikerült csatlakozni a másik félhez adatátvitelre.
 
-Ellenőrizd a fájlküldési beállításokat. Ha NAT vagy tűzfal mögött vagy 
-akkor meg kell nyitnod a megfelelő TCP portot vagy állítsd be a proxyt
+Ellenőrizd a fájlküldési beállításokat. Ha NAT vagy tűzfal mögött vagy, 
+akkor meg kell nyitnod a megfelelő TCP portot, vagy állítsd be a proxyt
 a fiók beállításainál.</translation>
     </message>
     <message>
@@ -4802,11 +4813,11 @@ engedélyezve vannak-e.</translation>
     </message>
     <message>
         <source>&amp;Hide</source>
-        <translation>&amp;Elrejt</translation>
+        <translation>&amp;Elrejtés</translation>
     </message>
     <message>
         <source>Transfer Error</source>
-        <translation>Átviteli hiba</translation>
+        <translation>Átvitelhiba</translation>
     </message>
     <message>
         <source>Transfer of %1 with %2 failed.
@@ -4831,7 +4842,7 @@ Oka: %3</translation>
     </message>
     <message>
         <source>Cl&amp;ear</source>
-        <translation>&amp;Töröl</translation>
+        <translation>&amp;Törlés</translation>
     </message>
 </context>
 <context>
@@ -4866,19 +4877,19 @@ Oka: %3</translation>
     </message>
     <message>
         <source>Waiting for peer activation...</source>
-        <translation>Várakozás a peer-re hogy aktiválja...</translation>
+        <translation>Várakozás peer-aktiválásra...</translation>
     </message>
     <message>
         <source>Unable to negotiate transfer.</source>
-        <translation>Nem sikerült az átvitelt létrehozni.</translation>
+        <translation>Átvitelegyeztetés sikertelen.</translation>
     </message>
     <message>
         <source>Unable to connect to peer for data transfer.</source>
-        <translation>Nem sikerült a peerhez adatátvitelre csatlakozni.</translation>
+        <translation>Nem sikerült csatlakozni a peerhez adatátvitelre.</translation>
     </message>
     <message>
         <source>Unable to connect to proxy for data transfer.</source>
-        <translation>Nem sikerült a proxyhoz adatátvitelre csatlakozni.</translation>
+        <translation>Nem sikerült csatlakozni a proxyhoz adatátvitelre.</translation>
     </message>
     <message>
         <source>Lost connection / Cancelled.</source>
@@ -4915,7 +4926,7 @@ Oka: %3</translation>
     <name>Form</name>
     <message>
         <source>Proxy Authentication Required</source>
-        <translation>Proxy hitelesítés szükséges</translation>
+        <translation>Proxyhitelesítés szükséges</translation>
     </message>
     <message>
         <source>Load Content List</source>
@@ -4976,7 +4987,7 @@ Oka: %3</translation>
     </message>
     <message>
         <source>Copy Groupchat JID</source>
-        <translation>Csoportbeszélgetés JID másolása</translation>
+        <translation>Csoportbeszélgetés-JID másolása</translation>
     </message>
     <message>
         <source> by %1</source>
@@ -5028,7 +5039,7 @@ Indok: %1</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
-        <translation>Váratlan csoportbeszélgetés hiba: %1</translation>
+        <translation>Váratlan csoportbeszélgetés-hiba: %1</translation>
     </message>
     <message>
         <source>Please choose a different nickname</source>
@@ -5036,7 +5047,7 @@ Indok: %1</translation>
     </message>
     <message>
         <source>An error occurred (errorcode: %1)</source>
-        <translation>Hibába ütköztem (hibakód: %1)</translation>
+        <translation>Hiba merült fel (hibakód: %1)</translation>
     </message>
     <message>
         <source>New room created</source>
@@ -5088,7 +5099,7 @@ Indok: %1</translation>
     </message>
     <message>
         <source>Banned</source>
-        <translation>Kitiltott</translation>
+        <translation>Kitiltva</translation>
     </message>
     <message>
         <source>You have been banned from the room</source>
@@ -5172,7 +5183,7 @@ Indok: %1</translation>
     </message>
     <message>
         <source>The topic has been set to</source>
-        <translation>A téma beállítva: </translation>
+        <translation>A téma beállítva erre:</translation>
     </message>
     <message>
         <source> has unset the topic</source>
@@ -5180,7 +5191,7 @@ Indok: %1</translation>
     </message>
     <message>
         <source> has set the topic to</source>
-        <translation>beállította a témát</translation>
+        <translation>beállította a témát erre</translation>
     </message>
     <message>
         <source>Connected.</source>
@@ -5246,7 +5257,7 @@ Indok: %1</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation>&amp;Beszélgetési ablak nyitása</translation>
+        <translation>&amp;Beszélgetésablak megnyitása</translation>
     </message>
     <message>
         <source>Voice Call</source>
@@ -5329,7 +5340,7 @@ Indok: %1</translation>
     </message>
     <message>
         <source>Game chat</source>
-        <translation>Beszélgetés</translation>
+        <translation>Játékbeszélgetés</translation>
     </message>
     <message>
         <source>History</source>
@@ -5337,7 +5348,7 @@ Indok: %1</translation>
     </message>
     <message>
         <source>Looking up the host</source>
-        <translation>Cím keresése</translation>
+        <translation>Kiszolgáló felkeresése</translation>
     </message>
     <message>
         <source>Accepted a new connection</source>
@@ -5345,19 +5356,19 @@ Indok: %1</translation>
     </message>
     <message>
         <source>The host found</source>
-        <translation>A cím megtalálva</translation>
+        <translation>A kiszolgáló megtalálva</translation>
     </message>
     <message>
         <source>Connected to the host</source>
-        <translation>Csatlakozva a címhez</translation>
+        <translation>Csatlakozva a kiszolgálóhoz</translation>
     </message>
     <message>
         <source>Socket Error...</source>
-        <translation>Socket hiba...</translation>
+        <translation>Sockethiba...</translation>
     </message>
     <message>
         <source>You have a socket error number</source>
-        <translation>Socket hiba</translation>
+        <translation>Sockethiba</translation>
     </message>
     <message>
         <source>game from</source>
@@ -5365,7 +5376,7 @@ Indok: %1</translation>
     </message>
     <message>
         <source>Accepted the</source>
-        <translation>Elfogadta a </translation>
+        <translation>Elfogadta a</translation>
     </message>
     <message>
         <source>Your move...</source>
@@ -5382,8 +5393,8 @@ Indok: %1</translation>
     <message>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation>Biztos be akarod fejezni a játékot?
-Elveszíted</translation>
+        <translation>Biztosan be akarod fejezni a játékot?
+Elveszíted.</translation>
     </message>
     <message>
         <source>Yes, end</source>
@@ -5391,7 +5402,7 @@ Elveszíted</translation>
     </message>
     <message>
         <source>No, continue</source>
-        <translation>Nem, folytatom</translation>
+        <translation>Nem, folytatás</translation>
     </message>
     <message>
         <source>B</source>
@@ -5415,11 +5426,11 @@ Elveszíted</translation>
     </message>
     <message>
         <source>Lookup Error</source>
-        <translation>Nem található</translation>
+        <translation>Keresési hiba</translation>
     </message>
     <message>
         <source>The host</source>
-        <translation>A cím </translation>
+        <translation>A kiszolgáló</translation>
     </message>
     <message>
         <source>not found.</source>
@@ -5435,11 +5446,11 @@ Elveszíted</translation>
     </message>
     <message>
         <source>Yes, save</source>
-        <translation>Igen, mentsen</translation>
+        <translation>Igen, mentés</translation>
     </message>
     <message>
         <source>No, don&apos;t save</source>
-        <translation>Nem, ne mentsen</translation>
+        <translation>Nem, nincs mentés</translation>
     </message>
     <message>
         <source>Game over</source>
@@ -5524,11 +5535,11 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>Words which will cause a notification in group chat.</source>
-        <translation>Szavak megadása, amelyeket jelez majd a Psi+ a konferenciák alatt.</translation>
+        <translation>Szavak megadása, amelyeket jelez majd a Psi+ a csoportbeszélgetések alatt.</translation>
     </message>
     <message>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
-        <translation>Ez azon szavak listája, amelyeket a program majd jelezni fog a felhasználónak, ha előfordulnak.</translation>
+        <translation>Ez azon szavak listája, amelyeket a program jelezni fog a felhasználónak, ha előfordulnak a csoportbeszélgetésben.</translation>
     </message>
     <message>
         <source>Type a new word here and press &quot;Add Word&quot; for it to be added to the highlight list</source>
@@ -5540,7 +5551,7 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Szó hozzáadása</translation>
+        <translation>Hozzáadás</translation>
     </message>
     <message>
         <source>Removes the selected word from the highlight list</source>
@@ -5556,7 +5567,7 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>Enable hash nick coloring</source>
-        <translation type="unfinished"/>
+        <translation>Becenévhash-színezés bekapcsolása</translation>
     </message>
     <message>
         <source>Nick coloring</source>
@@ -5564,15 +5575,15 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>Colors used for nicks in groupchat</source>
-        <translation>Konferencia alatt a becenevekhez használt színek</translation>
+        <translation>Használt színek beceneveknél a csoportbeszélgetésben</translation>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
-        <translation>Azon színek listája, amikkel majd a beceneveket jelzi a Psi.</translation>
+        <translation>Azon színek listája, amiket a becenevek kapnak a csoportbeszélgetésben.</translation>
     </message>
     <message>
         <source>Type a colourcode here, or press the palette to the right</source>
-        <translation>Adj meg egy színkódot vagy válassz a palettáról jobbról.</translation>
+        <translation>Adj meg egy színkódot vagy válassz a palettáról, jobbról.</translation>
     </message>
     <message>
         <source>Adds the color to the list</source>
@@ -5655,7 +5666,7 @@ Vesztettél.</translation>
     </message>
     <message>
         <source>Horizontal GPS error in arc minutes; this element is deprecated in favor of &lt;accuracy/&gt;</source>
-        <translation>Horizontális GPS szögperc hiba; ez nagyban csökkenti ezt : &lt;pontosság/&gt;</translation>
+        <translation>Horizontális GPS-szögperchiba; ez nagyban csökkenti ezt : &lt;pontosság/&gt;</translation>
     </message>
     <message>
         <source>Floor:</source>
@@ -5904,7 +5915,7 @@ Megjegyzés: A kiegészítő csak az &apos;Inbox&apos; mappát ellenőrzi, ha sz
         <source>This plugin allows you to play gomoku with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
         <translation>Ezzel a kiegészítővel gomokut (5-ödölő) játszhattok a barátaiddal.
-Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni fog, akárhol jelentkezel is be.Hogy meghívj egy barátot játékra, használhatod az ismerősök menüelemet vagy a gombot az eszköztáron a beszélgetés ablakban.</translation>
+Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni fog, akárhol jelentkezel is be. Hogy meghívj egy barátot játékra, használhatod az ismerősök menüelemet vagy a gombot az eszköztáron a beszélgetésablakban.</translation>
     </message>
     <message>
         <source>Gomoku game</source>
@@ -5963,11 +5974,11 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     <name>GroupChatBrowseWindowUI</name>
     <message>
         <source>Groupchat</source>
-        <translation>Konferencia</translation>
+        <translation>Csoportbeszélgetés</translation>
     </message>
     <message>
         <source>Groupchat server:</source>
-        <translation>Konferencia szerver:</translation>
+        <translation>Csoportbeszélgetés szervere:</translation>
     </message>
     <message>
         <source>&amp;Browse</source>
@@ -5975,11 +5986,11 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>Specify groupchat name manually:</source>
-        <translation>Konferenciabeszélgetés nevének megadása:</translation>
+        <translation>Csoportbeszélgetés-név megadása:</translation>
     </message>
     <message>
         <source>Show your name in the groupchat as:</source>
-        <translation>Neved a konferenciában:</translation>
+        <translation>Neved a csoportbeszélgetésben:</translation>
     </message>
 </context>
 <context>
@@ -6009,11 +6020,11 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     <name>GroupChatViewThemeProvider</name>
     <message>
         <source>Groupchat Message Style</source>
-        <translation>Konferenciaüzenet Stílusa</translation>
+        <translation>Csoportbeszélgetés-üzenet stílusa</translation>
     </message>
     <message>
         <source>Configure your groupchat theme here</source>
-        <translation>Állítsd be a konferencia kinézetét itt</translation>
+        <translation>Állítsd be a csoportbeszélgetés kinézetét itt</translation>
     </message>
 </context>
 <context>
@@ -6043,7 +6054,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     <name>GroupchatTopicDlg</name>
     <message>
         <source>Set Groupchat Topic</source>
-        <translation>Konferencia témájának beállítása</translation>
+        <translation>Csoportbeszélgetés témájának beállítása</translation>
     </message>
     <message>
         <source>Text of topic</source>
@@ -6145,7 +6156,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>&amp;Open chat</source>
-        <translation>&amp;Csevegés megnyitása</translation>
+        <translation>&amp;Beszélgetés megnyitása</translation>
     </message>
     <message>
         <source>&amp;Export history</source>
@@ -6556,11 +6567,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Default roster iconset:</source>
-        <translation>Alap címlista ikonkészlet:</translation>
+        <translation>Címlista alapértelmezett ikonkészlete:</translation>
     </message>
     <message>
         <source>&amp;Show details</source>
-        <translation>&amp;Részletek mutatása</translation>
+        <translation>&amp;Részletek megjelenítése</translation>
     </message>
     <message>
         <source>Services</source>
@@ -6623,7 +6634,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Show details</source>
-        <translation>&amp;Részletek mutatása</translation>
+        <translation>&amp;Részletek megjelenítése</translation>
     </message>
     <message>
         <source>Alt+S</source>
@@ -6674,7 +6685,7 @@ A kiegészítőnek számos egyszerű beállítása segít ebben:
 * idő beállítása, ami után a megadott üzenet ismétlődik
 * üzenetek számának maximalizálása ismerősnél
 * üzenet kikapcsolása az aktív ablakoknál/füleknél
-* üzenetek kikapcsolása azoknak ismerősöknek, akik nincsenek a listán</translation>
+* üzenetek kikapcsolása azoknak ismerősöknek, akik nincsenek a címlistádon</translation>
     </message>
 </context>
 <context>
@@ -6729,7 +6740,7 @@ Your contact's client must be support XEP-0071: XHTML-IM and support the data:UR
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
         <translation>Ez a kiegészítő képküldésre lett tervezve a címlistán szereplőknek.
 A partnered kliensének támogatnia kell &apos;XEP-0071: XHTML-IM&apos;-et és a &apos;data:URI&apos; sémát.
-Megjegyzés: A helyes működéshez az &apos;options.ui.chat.central-toolbar&apos;-nak igaznak (true) kell lennie.</translation>
+Megjegyzés: A helyes működéshez az &apos;options.ui.chat.central-toolbar&apos;-nak IGAZ-nak kell lennie.</translation>
     </message>
 </context>
 <context>
@@ -6966,7 +6977,7 @@ elérhető</translation>
     <name>InvateDialog</name>
     <message>
         <source>Gomoku Game Plugin - Invite</source>
-        <translation>Gomoku Játékkiegészítő - Meghívás</translation>
+        <translation>Gomoku játékkiegészítő - Meghívás</translation>
     </message>
     <message>
         <source>Opponent:</source>
@@ -6993,7 +7004,7 @@ elérhető</translation>
     <name>InvitationDialog</name>
     <message>
         <source>Chess Plugin - Invitation</source>
-        <translation>Sakk Kiegészítő - Meghívás</translation>
+        <translation>Sakk kiegészítő - Meghívás</translation>
     </message>
     <message>
         <source>Accept</source>
@@ -7005,7 +7016,7 @@ elérhető</translation>
     </message>
     <message>
         <source>Gomoku Game Plugin - Invitation</source>
-        <translation>Gomoku Játékkiegészítő - Meghívás</translation>
+        <translation>Gomoku játékkiegészítő - Meghívás</translation>
     </message>
     <message>
         <source>white</source>
@@ -7072,7 +7083,7 @@ torpedóra. Ezt szeretné: %2.</translation>
     </message>
     <message>
         <source>Battliship Game Plugin - Invite</source>
-        <translation>Torpedó Játékkiegészítő - Meghívás</translation>
+        <translation>Torpedó játékkiegészítő - Meghívás</translation>
     </message>
     <message>
         <source>I want to play first</source>
@@ -7185,7 +7196,7 @@ torpedóra. Ezt szeretné: %2.</translation>
     <name>JabberDiskPlugin</name>
     <message>
         <source>Jabber Disk</source>
-        <translation>Jabber lemez</translation>
+        <translation>Jabberlemez</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -7381,7 +7392,7 @@ Megjegyzés: A helyes működéshez az &apos;options.html.chat.render&apos;-nek 
     <name>MUCConfig</name>
     <message>
         <source>Room Configuration</source>
-        <translation>Szoba konfiguráció</translation>
+        <translation>Szobakonfiguráció</translation>
     </message>
     <message>
         <source>Affiliations</source>
@@ -7424,7 +7435,7 @@ Megjegyzés: A helyes működéshez az &apos;options.html.chat.render&apos;-nek 
     <name>MUCConfigDlg</name>
     <message>
         <source>Requesting room configuration ...</source>
-        <translation>Szoba beállításainak lekérése...</translation>
+        <translation>Szobakonfiguráció lekérdezése...</translation>
     </message>
     <message>
         <source>You are not an owner of this room</source>
@@ -7464,11 +7475,11 @@ Megjegyzés: A helyes működéshez az &apos;options.html.chat.render&apos;-nek 
     </message>
     <message>
         <source>There was an error retrieving the room configuration</source>
-        <translation>Hiba lépett fel a szoba beállításainak lekérdezése közben</translation>
+        <translation>Hiba lépett fel a szobakonfiguráció lekérdezése közben</translation>
     </message>
     <message>
         <source>There was an error changing the room configuration</source>
-        <translation>Hiba lépett fel a szoba beállításainak megváltoztatása közben</translation>
+        <translation>Hiba lépett fel a szobakonfiguráció megváltoztatása közben</translation>
     </message>
     <message>
         <source>There was an error setting modifying the affiliations.</source>
@@ -7483,7 +7494,7 @@ Megjegyzés: A helyes működéshez az &apos;options.html.chat.render&apos;-nek 
     <name>MUCJoin</name>
     <message>
         <source>Join Groupchat</source>
-        <translation>Csatlakozás konferenciához</translation>
+        <translation>Csatlakozás csoportbeszélgetéshez</translation>
     </message>
     <message>
         <source>Identity:</source>
@@ -7551,7 +7562,7 @@ Megjegyzés: A helyes működéshez az &apos;options.html.chat.render&apos;-nek 
     <message>
         <source>Unable to join groupchat.
 Reason: %1</source>
-        <translation>Nem sikerült belépni a konferenciába.
+        <translation>Nem sikerült belépni a csoportbeszélgetésbe.
 Indok: %1</translation>
     </message>
 </context>
@@ -7626,7 +7637,7 @@ Indok: %1</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Hozzáad</translation>
+        <translation>Hozzáadás</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -7705,11 +7716,11 @@ Indok: %1</translation>
     </message>
     <message>
         <source>Un&amp;hide</source>
-        <translation>&amp;Mutat</translation>
+        <translation>&amp;Megjelenítés</translation>
     </message>
     <message>
         <source>&amp;Hide</source>
-        <translation>&amp;Elrejt</translation>
+        <translation>&amp;Elrejtés</translation>
     </message>
     <message>
         <source>Status Message</source>
@@ -7819,11 +7830,11 @@ Oroszország, Tambov, 2005 (denis@silversoft.net)</translation>
     <name>MiniClient</name>
     <message>
         <source>Server Authentication</source>
-        <translation>Szerver hitelesítés</translation>
+        <translation>Szerverhitelesítés</translation>
     </message>
     <message>
         <source>Server Error</source>
-        <translation>Szerver hiba</translation>
+        <translation>Szerverhiba</translation>
     </message>
     <message>
         <source>The server does not support TLS encryption.</source>
@@ -8027,7 +8038,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Enable &quot;Contact is typing ...&quot; events</source>
-        <translation>&quot;Épp gépel ...&quot; jellegű események bekapcsolása</translation>
+        <translation>&quot;A partner éppen gépel ...&quot; jellegű események bekapcsolása</translation>
     </message>
     <message>
         <source>Enable &quot;Inactivity&quot; events (end/suspend conversation)</source>
@@ -8035,7 +8046,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Disables the sending of message events such as &quot;Contact is Typing...&quot;</source>
-        <translation>Az üzenetesemények kikapcsolása, mint pl. &apos;Az ismerős éppen gépel&apos;...</translation>
+        <translation>Az üzenetesemények kikapcsolása, mint pl. &quot;A partner éppen gépel ...&quot;</translation>
     </message>
     <message>
         <source>Do not send composing events</source>
@@ -8043,19 +8054,19 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Request receipts</source>
-        <translation>Nyugtázás kérése</translation>
+        <translation>Visszaigazolás kérése</translation>
     </message>
     <message>
         <source>Send receipts</source>
-        <translation>Nyugtázás küldése</translation>
+        <translation>Visszaigazolás küldése</translation>
     </message>
     <message>
         <source>Enable remote controlling from other locations</source>
-        <translation>Más helyekről való irányítás engedélyezése</translation>
+        <translation>Engedélyezi távoli irányítást más helyekről</translation>
     </message>
     <message>
         <source>Check spelling</source>
-        <translation>Helyesírás figyelése</translation>
+        <translation>Helyesírás ellenőrzése</translation>
     </message>
     <message>
         <source>Use contacts&apos; message formatting</source>
@@ -8079,11 +8090,11 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Show subject line in events</source>
-        <translation>Tárgy mező mutatása az eseményekben</translation>
+        <translation>Tárgymező megjelenítése az eseményekben</translation>
     </message>
     <message>
         <source>Show character counter</source>
-        <translation>Karakterszám mutatása</translation>
+        <translation>Karakterszámláló megjelenítése</translation>
     </message>
     <message>
         <source>Automatically get vCard when becoming online</source>
@@ -8095,11 +8106,11 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Scroll roster to contact on event</source>
-        <translation>Eseménykor a címlista egy adott ismerőshöz görgetése</translation>
+        <translation>Eseménykor, a címlista görgetése egy adott ismerőshöz</translation>
     </message>
     <message>
         <source>Ignore &quot;Headline&quot; events (e.g. MSN alerts)</source>
-        <translation>&quot;Headline&quot; események kiszűrése (pl. MSN jelzések)</translation>
+        <translation>&quot;Főcím&quot; események mellőzése (pl. MSN-jelzések)</translation>
     </message>
     <message>
         <source>Treat incoming messages and chats as:</source>
@@ -8138,7 +8149,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Specifies the background color for an account name in the main window.</source>
-        <translation>Beállítja a háttérszínt a fő ablakon egy adott fióknál.</translation>
+        <translation>Háttérszín megadása egy adott fiók nevénél a főablakban.</translation>
     </message>
     <message>
         <source>Account heading background:</source>
@@ -8166,7 +8177,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Specifies the background animation color for nicks.</source>
-        <translation>Becenevek háttér-animáció színe.</translation>
+        <translation>Becenévháttér-animáció színe.</translation>
     </message>
     <message>
         <source>Nick animation background:</source>
@@ -8174,7 +8185,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Specifies the color for sent messages in chat and history windows.</source>
-        <translation>Elküldött üzenetek színe a csevegés- és előzményablakban.</translation>
+        <translation>Elküldött üzenetek színe a beszélgetés- és előzményablakban.</translation>
     </message>
     <message>
         <source>Sent message foreground:</source>
@@ -8182,7 +8193,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Specifies the color for received messages in chat and history windows.</source>
-        <translation>Bejövő üzenetek színe a csevegés- és előzményablakban.</translation>
+        <translation>Bejövő üzenetek színe a beszélgetés- és előzményablakban.</translation>
     </message>
     <message>
         <source>Received message foreground:</source>
@@ -8190,11 +8201,11 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Specifies the color for informational messages in chat windows, like status changes and offline messages.</source>
-        <translation>Információs üzenetek színe a csevegésablakban, mint az állapotváltozások és offline üzenetek.</translation>
+        <translation>Információs üzenetek színe a beszélgetésablakban, mint az állapotváltozások és a kijelentkezett üzenetek.</translation>
     </message>
     <message>
         <source>Informational messages in chats:</source>
-        <translation>Információs üzenetek csevegés közben:</translation>
+        <translation>Információs üzenetek beszélgetés közben:</translation>
     </message>
     <message>
         <source>Online contacts:</source>
@@ -8206,11 +8217,11 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>DND contacts:</source>
-        <translation>Nem Zavarható ismerősök:</translation>
+        <translation>Elfoglalt ismerősök:</translation>
     </message>
     <message>
         <source>Offline contacts:</source>
-        <translation>Nem elérhető ismerősök:</translation>
+        <translation>Kijelentkezett ismerősök:</translation>
     </message>
     <message>
         <source>Specifies the background color for the main window.</source>
@@ -8222,7 +8233,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Status messages:</source>
-        <translation>Állapot üzenetek:</translation>
+        <translation>Állapotüzenetek:</translation>
     </message>
     <message>
         <source>Specifies the color for additional text of system messages. MUC topic for example.</source>
@@ -8258,7 +8269,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Highlight:</source>
-        <translation type="unfinished"/>
+        <translation>Kiemelt:</translation>
     </message>
 </context>
 <context>
@@ -8273,7 +8284,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Slim group headings</source>
-        <translation>Tömör csoport fejlécek</translation>
+        <translation>Tömör csoportfejlécek</translation>
     </message>
     <message>
         <source>Outline headings</source>
@@ -8289,22 +8300,22 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Roster opacity:</source>
-        <translation>Címlista átlátszóság:</translation>
+        <translation>Címlista átlátszósága:</translation>
     </message>
     <message>
         <source>Chat dialog opacity:</source>
-        <translation>Beszélgetési ablak átlátszóság:</translation>
+        <translation>Beszélgetésablak átlátszósága:</translation>
     </message>
 </context>
 <context>
     <name>OptAppearanceTheme</name>
     <message>
         <source>OptAppearanceThemeUI</source>
-        <translation type="unfinished"/>
+        <translation>OptAppearanceThemeUI</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;thememanager://showmore/&quot;&gt;More themes&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;thememanager://showmore/&quot;&gt;Még több téma&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -8315,7 +8326,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Automatically launch application when OS starts</source>
-        <translation type="unfinished"/>
+        <translation>Alkalmazás automatikus indítása rendszerindításkor</translation>
     </message>
     <message>
         <source>Enable docklet</source>
@@ -8323,7 +8334,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Decorate windows</source>
-        <translation type="unfinished"/>
+        <translation>Ablakok dekorálása</translation>
     </message>
     <message>
         <source>Docklet</source>
@@ -8331,15 +8342,15 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Use &quot;double-click&quot; style (like ICQ)</source>
-        <translation>&quot;Dupla katitntásos&quot; mód (ICQ féle)</translation>
+        <translation>&quot;Dupla kattintásos&quot; mód (ICQ-féle)</translation>
     </message>
     <message>
         <source>Start minimized</source>
-        <translation>Lerakva maradás</translation>
+        <translation>Indítás kis méretben</translation>
     </message>
     <message>
         <source>Make roster window a &quot;tool window&quot;</source>
-        <translation>A címlista ablak &quot;eszköz-ablakká&quot; tétele</translation>
+        <translation>A címlistaablak &quot;eszközablakká&quot; tétele</translation>
     </message>
     <message>
         <source>Check for updates on startup</source>
@@ -8347,11 +8358,11 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Quit when closing the roster window</source>
-        <translation type="unfinished"/>
+        <translation>Kilépés a címlistaablak bezárásakor</translation>
     </message>
     <message>
         <source>Data transfer base port:</source>
-        <translation>Fájl átvitel portja:</translation>
+        <translation>Fájlátviteli port:</translation>
     </message>
     <message>
         <source>99999; </source>
@@ -8394,7 +8405,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Video support:</source>
-        <translation type="unfinished"/>
+        <translation>Videó támogatás:</translation>
     </message>
 </context>
 <context>
@@ -8405,7 +8416,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Enter key sends chat messages</source>
-        <translation>Az enter billentyű elküldi az üzeneteket</translation>
+        <translation>Üzenetküldés Enterrel</translation>
     </message>
     <message>
         <source>Alert chat messages even if chat window is open</source>
@@ -8413,11 +8424,11 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Raise chat window on receiving new messages</source>
-        <translation>Beszélgetési ablak feldobása új üzenetkor</translation>
+        <translation>Beszélgetésablak felugrása új üzenet érkezésekor</translation>
     </message>
     <message>
         <source>Switch tab on receiving new messages</source>
-        <translation type="unfinished"/>
+        <translation>Lap váltása új üzenet érkezésekor</translation>
     </message>
     <message>
         <source>Open chats in compact mode</source>
@@ -8437,15 +8448,15 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>for chats and mucs separately</source>
-        <translation>beszélgetéshez és konferenciához külön</translation>
+        <translation>beszélgetésekhez és konferenciákhoz külön</translation>
     </message>
     <message>
         <source>for mucs and chats in one window</source>
-        <translation>konferenciához és beszélgetéshez egy ablakban</translation>
+        <translation>konferenciákhoz és beszélgetésekhez egy ablakban</translation>
     </message>
     <message>
         <source>for mucs, chats and roster in one window</source>
-        <translation type="unfinished"/>
+        <translation>konferenciáknál, beszélgetéseknél és címlistánál egy ablakban</translation>
     </message>
     <message>
         <source>[customized]</source>
@@ -8453,15 +8464,15 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Show tab buttons</source>
-        <translation type="unfinished"/>
+        <translation>Lapok gombjainak megjelenítése</translation>
     </message>
     <message>
         <source>Auto-resize text input field</source>
-        <translation>Beviteli mező automatikus méretezése</translation>
+        <translation>Beviteli mező automatikus átméretezése</translation>
     </message>
     <message>
         <source>Enable Alt-[0-9] tab shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>Lap gyors-gombok engedélyezése, Alt+[0-9] </translation>
     </message>
     <message>
         <source>Default action</source>
@@ -8477,19 +8488,19 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
-        <translation>A beszélgetési ablak tartalmának törlése</translation>
+        <translation>A beszélgetésablak tartalmának törlése</translation>
     </message>
     <message>
         <source>When chat window is closed</source>
-        <translation>Az ablak bezárásakor</translation>
+        <translation>A beszélgetésablak bezárásakor</translation>
     </message>
     <message>
         <source>One hour after chat window was closed</source>
-        <translation>Egy órával az ablak bezárása után</translation>
+        <translation>Egy órával a beszélgetésablak bezárása után</translation>
     </message>
     <message>
         <source>One day after chat window was closed</source>
-        <translation>Egy nappal az ablak bezárása után</translation>
+        <translation>Egy nappal a beszélgetésablak bezárása után</translation>
     </message>
     <message>
         <source>Never</source>
@@ -8516,11 +8527,11 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Allow auto-open even when Away/XA</source>
-        <translation>Automatikus megnyitása engedélyezése Nincs gépnél állapotban</translation>
+        <translation>Automatikus megnyitás engedélyezése -Nincs gépnél- állapotban</translation>
     </message>
     <message>
         <source>Allow auto-open even from unlisted users</source>
-        <translation>Automatikus megnyitás engedélyezése nem ismerősöktől is</translation>
+        <translation>Automatikus megnyitás engedélyezése -a listán nem szereplőktől- is</translation>
     </message>
     <message>
         <source>Raise roster window on new event</source>
@@ -8528,19 +8539,19 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Ignore events from contacts not already in your roster</source>
-        <translation>Nem címlistában szereplők eseményeinek figyelmen kívül hagyása</translation>
+        <translation>Eseményeinek figyelmen kívül hagyása a címlistában nem szereplőktől </translation>
     </message>
     <message>
         <source>Auto-authorize contacts</source>
-        <translation>Felkérések automatikus elfogadása</translation>
+        <translation>Ismerősök automatikus jóváhagyása</translation>
     </message>
     <message>
         <source>Notify when authorization was received</source>
-        <translation>Értesítés felkéréseknél</translation>
+        <translation>Értesítés jóváhagyásoknál</translation>
     </message>
     <message>
         <source>Bounce dock:</source>
-        <translation>Dock dobálása:</translation>
+        <translation>Tálcaikon villogása:</translation>
     </message>
     <message>
         <source>Never</source>
@@ -8599,141 +8610,141 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Plugin Name</source>
-        <translation type="unfinished"/>
+        <translation>Kiegészítő neve</translation>
     </message>
     <message>
         <source>Available plugins</source>
-        <translation type="unfinished"/>
+        <translation>Elérhető kiegészítők</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"/>
+        <translation>Verzió</translation>
     </message>
     <message>
         <source>A</source>
-        <translation type="unfinished"/>
+        <translation>A</translation>
     </message>
     <message>
         <source>S</source>
-        <translation type="unfinished"/>
+        <translation>S</translation>
     </message>
 </context>
 <context>
     <name>OptPopups</name>
     <message>
         <source>OptPopupsUI</source>
-        <translation type="unfinished"/>
+        <translation>OptPopupsUI</translation>
     </message>
     <message>
         <source>Enable popup notifications</source>
-        <translation type="unfinished"/>
+        <translation>Felugró értesítések engedélyezése</translation>
     </message>
     <message>
         <source>Notifications type</source>
-        <translation type="unfinished"/>
+        <translation>Értesítések típusa</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Általános</translation>
     </message>
     <message>
         <source>Popup notifications</source>
-        <translation type="unfinished"/>
+        <translation>Felugró értesítések</translation>
     </message>
     <message>
         <source>On incoming message event</source>
-        <translation type="unfinished"/>
+        <translation>Beérkező üzenetnél</translation>
     </message>
     <message>
         <source>Show incoming message on popup</source>
-        <translation type="unfinished"/>
+        <translation>Beérkező üzenet megjelenítése a felugró ablakban</translation>
     </message>
     <message>
         <source>On incoming headline event</source>
-        <translation type="unfinished"/>
+        <translation>Beérkező főcímnél</translation>
     </message>
     <message>
         <source>On incoming file event</source>
-        <translation type="unfinished"/>
+        <translation>Beérkező fájloknál</translation>
     </message>
     <message>
         <source>When a contact begins typing</source>
-        <translation type="unfinished"/>
+        <translation>Amikor az ismerős gépelni kezd</translation>
     </message>
     <message>
         <source>When a contact becomes available</source>
-        <translation type="unfinished"/>
+        <translation>Amikor az ismerős elérhetővé válik</translation>
     </message>
     <message>
         <source>When a contact becomes unavailable</source>
-        <translation type="unfinished"/>
+        <translation>Amikor az ismerős -nem elérhetővé- válik</translation>
     </message>
     <message>
         <source>When a contact changes status</source>
-        <translation type="unfinished"/>
+        <translation>Amikor az ismerős állapotot vált</translation>
     </message>
     <message>
         <source>Enable popup notifications for every muc message</source>
-        <translation type="unfinished"/>
+        <translation>Felugró értesítések engedélyezése minden konferencia üzenethez</translation>
     </message>
     <message>
         <source>Limitations</source>
-        <translation type="unfinished"/>
+        <translation>Korlátozások</translation>
     </message>
     <message>
         <source>Maximum JID length:</source>
-        <translation type="unfinished"/>
+        <translation>JID maximális hossza:</translation>
     </message>
     <message>
         <source>Maximum text length:</source>
-        <translation type="unfinished"/>
+        <translation>Szöveg maximális hossza:</translation>
     </message>
     <message>
         <source>Maximum status length:</source>
-        <translation type="unfinished"/>
+        <translation>Állapot maximális hossza:</translation>
     </message>
     <message>
         <source>Popup location</source>
-        <translation type="unfinished"/>
+        <translation>Felugró ablak helyzete</translation>
     </message>
     <message>
         <source>Show popups from top to bottom</source>
-        <translation type="unfinished"/>
+        <translation>Felugró ablakok mutatása fentről lefelé</translation>
     </message>
     <message>
         <source>Place popups at left</source>
-        <translation type="unfinished"/>
+        <translation>Felugró ablakok elhelyezése balra</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished"/>
+        <translation>Vegyes</translation>
     </message>
     <message>
         <source>Avatar size:</source>
-        <translation type="unfinished"/>
+        <translation>Profilkép mérete:</translation>
     </message>
     <message>
         <source>Durations, sec.</source>
-        <translation type="unfinished"/>
+        <translation>Időtartam, mp</translation>
     </message>
 </context>
 <context>
     <name>OptRoster</name>
     <message>
         <source>OptApplicationUI</source>
-        <translation type="unfinished"/>
+        <translation>OptApplicationUI</translation>
     </message>
     <message>
         <source>Roster window always on top</source>
-        <translation type="unfinished"/>
+        <translation>Címlista mindig felül</translation>
     </message>
     <message>
         <source>Auto-resize contact list</source>
-        <translation type="unfinished"/>
+        <translation>Címlista automatikus átméretezése</translation>
     </message>
     <message>
         <source>Use left-click for menu</source>
-        <translation type="unfinished"/>
+        <translation>Bal gomb használata menühöz</translation>
     </message>
     <message>
         <source>Show menubar</source>
@@ -8741,23 +8752,23 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Disables scrollbar in the application window.</source>
-        <translation type="unfinished"/>
+        <translation>Görgetősáv kikapcsolása a programablakban</translation>
     </message>
     <message>
         <source>Disable scrollbar</source>
-        <translation type="unfinished"/>
+        <translation>Görgetősáv kikapcsolása</translation>
     </message>
     <message>
         <source>Enables avatar frame at the top of roster</source>
-        <translation type="unfinished"/>
+        <translation>Engedélyezze a profilkép előnézetét a címlista tetején</translation>
     </message>
     <message>
         <source>Enable roster avatar frame</source>
-        <translation type="unfinished"/>
+        <translation>Engedélyezze a profilkép előnézetét a címlistában</translation>
     </message>
     <message>
         <source>Autohide roster after</source>
-        <translation type="unfinished"/>
+        <translation>Ezután a címlista automatikus elrejtése</translation>
     </message>
     <message>
         <source>seconds</source>
@@ -8769,47 +8780,47 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
-        <translation type="unfinished"/>
+        <translation>Profilképek megjelenítése a címlistában</translation>
     </message>
     <message>
         <source>Avatars</source>
-        <translation>Avatarok</translation>
+        <translation>Profilképek</translation>
     </message>
     <message>
         <source>Show moods in roster</source>
-        <translation type="unfinished"/>
+        <translation>Hangulatok megjelenítése a címlistában</translation>
     </message>
     <message>
         <source>Moods</source>
-        <translation type="unfinished"/>
+        <translation>Hangulatok</translation>
     </message>
     <message>
         <source>Show activities in roster</source>
-        <translation type="unfinished"/>
+        <translation>Tevékenységek megjelenítése a címlistában</translation>
     </message>
     <message>
         <source>Activities</source>
-        <translation type="unfinished"/>
+        <translation>Tevékenységek</translation>
     </message>
     <message>
         <source>Show geolocation in roster</source>
-        <translation type="unfinished"/>
+        <translation>Földrajzi helyzet megjelenítése a címlistában</translation>
     </message>
     <message>
         <source>GeoLocation</source>
-        <translation type="unfinished"/>
+        <translation>Földrajzi Helyzet</translation>
     </message>
     <message>
         <source>Show icon when contact is listening to music</source>
-        <translation type="unfinished"/>
+        <translation>Ikon mutatása ha az ismerős zenét hallgat</translation>
     </message>
     <message>
         <source>Now playing</source>
-        <translation type="unfinished"/>
+        <translation>Jelenleg játszik</translation>
     </message>
     <message>
         <source>Show icon of user client</source>
-        <translation type="unfinished"/>
+        <translation>Az ismerős kliensikonjának megjelenítése</translation>
     </message>
     <message>
         <source>Clients</source>
@@ -8817,15 +8828,15 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>all client icons</source>
-        <translation type="unfinished"/>
+        <translation>minden kliensikon</translation>
     </message>
     <message>
         <source>only highest priority client icon</source>
-        <translation type="unfinished"/>
+        <translation>Csak a legmagasabb prioritású kliensikon</translation>
     </message>
     <message>
         <source>Avatar settings</source>
-        <translation type="unfinished"/>
+        <translation>Profilkép beállítások</translation>
     </message>
     <message>
         <source>Size</source>
@@ -8837,11 +8848,11 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="unfinished"/>
+        <translation>Sarkok rádiusza</translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
-        <translation type="unfinished"/>
+        <translation>másodpercek (0 - soha)</translation>
     </message>
 </context>
 <context>
@@ -8872,7 +8883,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Restore defaults</source>
-        <translation>Alapbeállítások</translation>
+        <translation>Alapbeállítások visszaállítása</translation>
     </message>
 </context>
 <context>
@@ -8887,15 +8898,15 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Play sounds when away/XA</source>
-        <translation>Hangok lejátszása nincs gépnél esetén is</translation>
+        <translation>Hangok lejátszása -Távol/Tétlen- esetén is</translation>
     </message>
     <message>
         <source>Play sounds for all messages in groupchat</source>
-        <translation>Hang lejátszása minden üzenetnél konferencia közben</translation>
+        <translation>Hang lejátszása minden üzenetnél a csoportbeszélgetésben</translation>
     </message>
     <message>
         <source>Enter a filename or !beep for a system beep</source>
-        <translation>Írj be egy fájlnevet vagy !beep szöveget az alap sípolásért</translation>
+        <translation>Írj be egy fájlnevet, vagy a &quot;!beep&quot; szöveget az alap sípolásért</translation>
     </message>
     <message>
         <source>Headline:</source>
@@ -8919,11 +8930,11 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Incoming file transfer:</source>
-        <translation>Bejövő fájlküldés:</translation>
+        <translation>Bejövő fájl:</translation>
     </message>
     <message>
         <source>File transfer complete:</source>
-        <translation>Fájlküldés befejezése:</translation>
+        <translation>Fájlküldés befejezés:</translation>
     </message>
     <message>
         <source>Receive next chat:</source>
@@ -8935,11 +8946,11 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Receive offline status:</source>
-        <translation>Nem elérhető állapot érkezése:</translation>
+        <translation>Kijelentkezett állapot érkezése:</translation>
     </message>
     <message>
         <source>Receive MUC message</source>
-        <translation type="unfinished"/>
+        <translation>Konferencia üzenet érkezése:</translation>
     </message>
     <message>
         <source>Reset to defaults</source>
@@ -8950,39 +8961,39 @@ Címkék: %1</translation>
     <name>OptStatusAuto</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Űrlap</translation>
     </message>
     <message>
         <source>Auto status</source>
-        <translation type="unfinished"/>
+        <translation>Automatikus állapot</translation>
     </message>
     <message>
         <source> minutes</source>
-        <translation type="unfinished"/>
+        <translation>perc</translation>
     </message>
     <message>
         <source>Auto offline after:</source>
-        <translation type="unfinished"/>
+        <translation>Automatikus kijelentkezés:</translation>
     </message>
     <message>
         <source>Auto XA after:</source>
-        <translation type="unfinished"/>
+        <translation>Automatikus tétlenség:</translation>
     </message>
     <message>
         <source>Auto away after:</source>
-        <translation type="unfinished"/>
+        <translation>Automatikus távollét:</translation>
     </message>
     <message>
         <source>Priority:</source>
-        <translation type="unfinished"/>
+        <translation>Prioritás:</translation>
     </message>
     <message>
         <source>Status message:</source>
-        <translation type="unfinished"/>
+        <translation>Állapot üzenet:</translation>
     </message>
     <message>
         <source>Default priority</source>
-        <translation type="unfinished"/>
+        <translation>Alapértelmezett prioritás:</translation>
     </message>
     <message>
         <source>Online:</source>
@@ -8994,30 +9005,30 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Free For Chat:</source>
-        <translation type="unfinished"/>
+        <translation>Beszélgetős:</translation>
     </message>
     <message>
         <source>XA:</source>
-        <translation type="unfinished"/>
+        <translation>Tétlen</translation>
     </message>
     <message>
         <source>Do Not Disturb:</source>
-        <translation>Ne zavarj:</translation>
+        <translation>Elfoglalt:</translation>
     </message>
     <message>
         <source>Invisible:</source>
-        <translation>Láthatatlan</translation>
+        <translation>Láthatatlan:</translation>
     </message>
 </context>
 <context>
     <name>OptStatusGeneral</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Űrlap</translation>
     </message>
     <message>
         <source>Prompt for status message when choosing</source>
-        <translation type="unfinished"/>
+        <translation>Állapot üzenet felajánlása, ha állapotot vált</translation>
     </message>
     <message>
         <source>Online</source>
@@ -9025,67 +9036,67 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation type="unfinished"/>
+        <translation>Beszélgetős</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished"/>
+        <translation>Távol</translation>
     </message>
     <message>
         <source>Not Available</source>
-        <translation type="unfinished"/>
+        <translation>Tétlen</translation>
     </message>
     <message>
         <source>Do not Disturb</source>
-        <translation type="unfinished"/>
+        <translation>Elfoglalt</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Kijelentkezve</translation>
     </message>
     <message>
         <source>Status menus</source>
-        <translation type="unfinished"/>
+        <translation>Állapot menük</translation>
     </message>
     <message>
         <source>Show presets in menus:</source>
-        <translation type="unfinished"/>
+        <translation>Előbeállítottak mutatása a menüben:</translation>
     </message>
     <message>
         <source>As submenu</source>
-        <translation type="unfinished"/>
+        <translation>Almenüként</translation>
     </message>
     <message>
         <source>With standard statuses</source>
-        <translation type="unfinished"/>
+        <translation>Alaphelyzetekkel</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Nem</translation>
     </message>
     <message>
         <source>Hide Free for Chat, Away, Not Available and Do not Disturb</source>
-        <translation type="unfinished"/>
+        <translation>Rejtve: Beszélgetős, Távol, Nem elérhető és Elfoglalt</translation>
     </message>
     <message>
         <source>Hide standard statuses (Chat, Away, XA, DND)</source>
-        <translation type="unfinished"/>
+        <translation>Alapállapotok elrejtése (Beszélgetős, Távol, Tétlen, Elfoglalt) </translation>
     </message>
     <message>
         <source>Show &quot;Edit presets...&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Mutassa az -Előbeállítottak szerkesztése- lehetőséget</translation>
     </message>
     <message>
         <source>Show &quot;Choose...&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Mutassa a &quot;Kiválasztás&quot;-t</translation>
     </message>
     <message>
         <source>Show &quot;Reconnect&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Mutassa az &quot;Újracsatlakozás&quot;-t</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"/>
+        <translation>Előbeállítottak:</translation>
     </message>
     <message>
         <source>Add</source>
@@ -9101,7 +9112,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Selected preset</source>
-        <translation type="unfinished"/>
+        <translation>Kiválasztott előbeállított</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -9109,11 +9120,11 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished"/>
+        <translation>Állapot:</translation>
     </message>
     <message>
         <source>Priority:</source>
-        <translation type="unfinished"/>
+        <translation>Prioritás:</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -9121,22 +9132,26 @@ Címkék: %1</translation>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
     <name>OptStatusPep</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Űrlap</translation>
     </message>
     <message>
         <source>Tunes</source>
-        <translation type="unfinished"/>
+        <translation>Hangok</translation>
     </message>
     <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
-        <translation type="unfinished"/>
+        <translation>Add meg a fájlkiterjesztést, hogy figyelmen kívül hagyhasd azt hangküldéskor</translation>
     </message>
     <message>
         <source>Add extensions</source>
@@ -9144,18 +9159,18 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Ignored media file extensions on psi tunes sending</source>
-        <translation type="unfinished"/>
+        <translation>Figyelmen kívül hagyott fájlkiterjesztések hangküldéskor</translation>
     </message>
     <message>
         <source>Tune Controllers</source>
-        <translation type="unfinished"/>
+        <translation>Hangvezérlők</translation>
     </message>
 </context>
 <context>
     <name>OptionEditor</name>
     <message>
         <source>Option:</source>
-        <translation>Beállítások:</translation>
+        <translation>Beállítás:</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -9167,11 +9182,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Option Editor</source>
-        <translation type="unfinished"/>
+        <translation>Beállítás szerkesztő</translation>
     </message>
     <message>
         <source>Edit Option %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 beállítás szerkesztése</translation>
     </message>
     <message>
         <source>Psi: Option Editor</source>
@@ -9179,7 +9194,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Can&apos;t edit this type of setting, sorry.</source>
-        <translation>Ezt a típust nem szerkesztheted, sajnálom. De tényleg.</translation>
+        <translation>Ezt a beállítástípust nem szerkesztheted, sajnálom.</translation>
     </message>
     <message>
         <source>Please enter option name.
@@ -9187,38 +9202,38 @@ p, li { white-space: pre-wrap; }
 Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</source>
         <translation>Írd be a beállítás nevét.
 
-A nevek nem lehetnek üresek, vagy végződhetnek pontra, nem tartalmazhatnak &apos;..&apos; sorozatot.</translation>
+A beállításnevek nem lehetnek üresek, vagy végződhetnek pontra, nem tartalmazhatnak &apos;..&apos; sorozatot.</translation>
     </message>
 </context>
 <context>
     <name>Options</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Űrlap</translation>
     </message>
     <message>
         <source>Redirect to JID:</source>
-        <translation type="unfinished"/>
+        <translation>Átirányítva ehhez a JID-hez:</translation>
     </message>
     <message>
         <source>Allow receiving one Attention from the same contact every</source>
-        <translation type="unfinished"/>
+        <translation>Figyelmeztetések fogadhatóak ugyanattól az ismerőstől minden</translation>
     </message>
     <message>
         <source>sec</source>
-        <translation type="unfinished"/>
+        <translation>mp</translation>
     </message>
     <message>
         <source>Don&apos;t hide popup if status is Away or XA</source>
-        <translation type="unfinished"/>
+        <translation>Felugró ablak engedélyezése Távol/Tétlen állapotnál is</translation>
     </message>
     <message>
         <source>Disable notifications if status is DND</source>
-        <translation type="unfinished"/>
+        <translation>Értesítések kikapcsolása Elfoglalt állapotban</translation>
     </message>
     <message>
         <source>Play sound:</source>
-        <translation type="unfinished"/>
+        <translation>Hang lejátszása:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#attention_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9227,7 +9242,8 @@ A nevek nem lehetnek üresek, vagy végződhetnek pontra, nem tartalmazhatnak &a
     <message>
         <source>If you use this plugin at first time, make sure that all your accounts
 is online and then press &quot;Update Birthdays&quot; button. It takes some time.</source>
-        <translation type="unfinished"/>
+        <translation>Ha ezt a kiegészítőt először használod, bizonyosodj meg róla, hogy minden fiókod
+Elérhető, és csak azután kattints a &quot;Születésnapok frissítése&quot; gombra. Eltart egy darabig.</translation>
     </message>
     <message>
         <source>Update Birthdays</source>
@@ -9235,7 +9251,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Clear Birthdays Cache</source>
-        <translation type="unfinished"/>
+        <translation>Születésnapok Cache Törlése</translation>
     </message>
     <message>
         <source>Check Birthdays</source>
@@ -9243,35 +9259,35 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Start notifying</source>
-        <translation type="unfinished"/>
+        <translation>Értesítés kezdete</translation>
     </message>
     <message>
         <source>days in advance</source>
-        <translation type="unfinished"/>
+        <translation>megelőző napok</translation>
     </message>
     <message>
         <source>Check birthdays every</source>
-        <translation type="unfinished"/>
+        <translation>Születésnapok ellenőrzése minden</translation>
     </message>
     <message>
         <source>hours</source>
-        <translation type="unfinished"/>
+        <translation>óra</translation>
     </message>
     <message>
         <source>Update birthdays every</source>
-        <translation type="unfinished"/>
+        <translation>Születésnapok frissítése minden</translation>
     </message>
     <message>
         <source>days (0 - automatic update disabled)</source>
-        <translation type="unfinished"/>
+        <translation>nap (0 - automatikus frissítés kikapcsolva)</translation>
     </message>
     <message>
         <source>Remind for contacts from active accounts only</source>
-        <translation type="unfinished"/>
+        <translation>Csak aktív fiókokból emlékeztessen az ismerősökre </translation>
     </message>
     <message>
         <source>Check birthdays on startup</source>
-        <translation type="unfinished"/>
+        <translation>Születésnapok ellenőrzése indításkor</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#birthday_reminder_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9283,11 +9299,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Auto-popup Captcha dialog</source>
-        <translation type="unfinished"/>
+        <translation>Automatikusan felugró Captcha-ablak</translation>
     </message>
     <message>
         <source>Use proxy settings from account</source>
-        <translation type="unfinished"/>
+        <translation>A fiók proxy-beállításainak használata</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9295,11 +9311,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Contact menu</source>
-        <translation type="unfinished"/>
+        <translation>Ismerősök menü</translation>
     </message>
     <message>
         <source>Toolbar action</source>
-        <translation type="unfinished"/>
+        <translation>Eszköztár művelet</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_menu_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9307,86 +9323,97 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Supported accounts:</source>
-        <translation type="unfinished"/>
+        <translation>Támogatott fiókok:</translation>
     </message>
     <message>
         <source>There is no supported accounts!</source>
-        <translation type="unfinished"/>
+        <translation>Nincsenek támogatott fiókok!</translation>
     </message>
     <message>
         <source>Account Settings</source>
-        <translation type="unfinished"/>
+        <translation>Fiók beállítások</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will send
  notifications of unread email.</source>
-        <translation type="unfinished"/>
+        <translation>Ha az érték &quot;Igaz/True&quot;, a szerver 
+értesítést küld az olvasatlan e-mailekről.</translation>
     </message>
     <message>
         <source>Mail notifications</source>
-        <translation type="unfinished"/>
+        <translation>E-mail értesítések</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will save
  Google Talk chats on the server;
  if set to &quot;false&quot;, no conversations
  will be logged.</source>
-        <translation type="unfinished"/>
+        <translation>Ha az érték &quot;Igaz/True&quot;, a szerver menti
+a Google Talk beszélgetéseket a szerveren;
+ha az érték &quot;Hamis/False&quot;, egyetlen beszélgetés
+sem lesz naplózva.</translation>
     </message>
     <message>
         <source>Message archiving</source>
-        <translation type="unfinished"/>
+        <translation>Üzenet archiváló</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will
  automatically add people emailed
  often to the user&apos;s roster.</source>
-        <translation type="unfinished"/>
+        <translation>Ha az érték &quot;Igaz/True&quot;, a szerver
+automatikusan hozzáadja az e-mail címzettjét
+általában a felhasználó címlistájához.</translation>
     </message>
     <message>
         <source>Auto-accept suggestions</source>
-        <translation type="unfinished"/>
+        <translation>Javaslatok automatikus elfogadása</translation>
     </message>
     <message>
         <source> Enable multiple applications signed in
  as the same user to report the same
  status message. </source>
-        <translation type="unfinished"/>
+        <translation>Ha engedélyezett, minden kliensről, amiről
+ugyanaz a felhasználó van bejelentkezve, ugyanazt
+az állapotüzenetet fogja jelenteni.</translation>
     </message>
     <message>
         <source>Enable Shared Statuses</source>
-        <translation type="unfinished"/>
+        <translation>Megosztott állapotok engedélyezése</translation>
     </message>
     <message>
         <source> Google Talk server disables server-side
  logging of individual conversations and
  sends notifications.
  Enable &quot;Message archiving&quot; option for use!</source>
-        <translation type="unfinished"/>
+        <translation>A Google Talk szerver kikapcsolja a szerver-oldali
+naplózást az egyéni beszélgetéseknél és
+értesítést küld.
+Használatához kapcsold be az &quot;Üzenet archiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Enable Off the Record Chats</source>
-        <translation type="unfinished"/>
+        <translation>Off The Record (OTR)-beszélgetések bekapcsolása</translation>
     </message>
     <message>
         <source> Enable &quot;Mail notifications&quot; option!</source>
-        <translation type="unfinished"/>
+        <translation>Be kell kapcsolni az &quot;E-mail értesítés&quot; opciót!</translation>
     </message>
     <message>
         <source>Mail Notifications Settings</source>
-        <translation type="unfinished"/>
+        <translation>E-mail értesítések beállításai</translation>
     </message>
     <message>
         <source>Show all unread messages</source>
-        <translation type="unfinished"/>
+        <translation>Összes olvasatlan üzenetet mutatása</translation>
     </message>
     <message>
         <source>Show new messages only</source>
-        <translation type="unfinished"/>
+        <translation>Csak az új üzenetek mutatása</translation>
     </message>
     <message>
         <source>Start program:</source>
-        <translation type="unfinished"/>
+        <translation>Program indítása:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gmail_service_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9394,43 +9421,43 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Manager</source>
-        <translation type="unfinished"/>
+        <translation>Kezelő</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Hozzáadás</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Eltávolítás</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"/>
+        <translation>Importálás</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"/>
+        <translation>Exportálás</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation type="unfinished"/>
+        <translation>Információ</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Beállítások</translation>
     </message>
     <message>
         <source>Auto import a key from the message body</source>
-        <translation type="unfinished"/>
+        <translation>Kulcs automatikus importálása az üzenetből</translation>
     </message>
     <message>
         <source>Filter the message with a key</source>
-        <translation type="unfinished"/>
+        <translation>Üzenetek szűrése kulccsal</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Törlés</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9438,43 +9465,43 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Per contact delay between the popup notifications of the same events</source>
-        <translation type="unfinished"/>
+        <translation>Ugyanarról az eseményről szóló felugró ablakok közti késleltetés ideje, ismerősönként.</translation>
     </message>
     <message>
         <source>Delay between popups</source>
-        <translation type="unfinished"/>
+        <translation>Felugró ablakok közti késleltetés</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation>másodperc</translation>
     </message>
     <message>
         <source>Disable popups if status is DND</source>
-        <translation type="unfinished"/>
+        <translation>Felugró ablakok kikapcsolása, ha az állapot &quot;Elfoglalt&quot;</translation>
     </message>
     <message>
         <source>Enable notifications for:</source>
-        <translation type="unfinished"/>
+        <translation>Értesítések bekapcsolása ehhez:</translation>
     </message>
     <message>
         <source>Tune</source>
-        <translation type="unfinished"/>
+        <translation>Hang</translation>
     </message>
     <message>
         <source>Mood</source>
-        <translation type="unfinished"/>
+        <translation>Hangulat</translation>
     </message>
     <message>
         <source>Activity</source>
-        <translation type="unfinished"/>
+        <translation>Tevékenység</translation>
     </message>
     <message>
         <source>Geolocation</source>
-        <translation type="unfinished"/>
+        <translation>Földrajzi Helyzet</translation>
     </message>
     <message>
         <source>Sound:</source>
-        <translation type="unfinished"/>
+        <translation>Hang:</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#pep_change_notify_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9482,116 +9509,117 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Main</source>
-        <translation type="unfinished"/>
+        <translation>Elsődleges</translation>
     </message>
     <message>
         <source>Question:</source>
-        <translation type="unfinished"/>
+        <translation>Kérdés:</translation>
     </message>
     <message>
         <source>Answer:</source>
-        <translation type="unfinished"/>
+        <translation>Válasz:</translation>
     </message>
     <message>
         <source>Congratulation:</source>
-        <translation type="unfinished"/>
+        <translation>Gratuláció:</translation>
     </message>
     <message>
         <source>Groupchat</source>
-        <translation type="unfinished"/>
+        <translation>Csoportbeszélgetés</translation>
     </message>
     <message>
         <source>Enable Stop Spam for private messages in groupchat</source>
-        <translation type="unfinished"/>
+        <translation>&quot;Spam tiltás/Stop Spam&quot; bekapcsolása privát üzeneteknél a csoportbeszélgetésben</translation>
     </message>
     <message>
         <source>Enable Stop Spam for affiliations:</source>
-        <translation type="unfinished"/>
+        <translation>&quot;Spam tiltás&quot; bekapcsolása ezekhez a kapcsolatokhoz:</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished"/>
+        <translation>Tulajdonos</translation>
     </message>
     <message>
         <source>Admin</source>
-        <translation type="unfinished"/>
+        <translation>Adminisztrátor</translation>
     </message>
     <message>
         <source>Member</source>
-        <translation type="unfinished"/>
+        <translation>Tag</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"/>
+        <translation>Nincs</translation>
     </message>
     <message>
         <source>Enable Stop Spam for roles:</source>
-        <translation type="unfinished"/>
+        <translation>&quot;Spam tiltás&quot; bekapcsolása ezekhez a szerepekhez:</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="unfinished"/>
+        <translation>Moderátor</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="unfinished"/>
+        <translation>Résztvevő</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="unfinished"/>
+        <translation>Látogató</translation>
     </message>
     <message>
         <source>Block all private messages</source>
-        <translation type="unfinished"/>
+        <translation>Összes privát üzenet blokkolása</translation>
     </message>
     <message>
         <source>Send message:</source>
-        <translation type="unfinished"/>
+        <translation>Üzenet küldése:</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished"/>
+        <translation>Vegyes</translation>
     </message>
     <message>
         <source>Number of blocked stanzas:</source>
-        <translation type="unfinished"/>
+        <translation>Blokkolt &quot;stanza&quot;-k száma:</translation>
     </message>
     <message>
         <source>View Log</source>
-        <translation type="unfinished"/>
+        <translation>Napló megtekintése</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Reset</translation>
     </message>
     <message>
         <source>Send maximum</source>
-        <translation type="unfinished"/>
+        <translation>Maximum küldése</translation>
     </message>
     <message>
         <source>times</source>
-        <translation type="unfinished"/>
+        <translation>próbálkozás</translation>
     </message>
     <message>
         <source>Timeout to reset counter:</source>
-        <translation type="unfinished"/>
+        <translation>Időkorlát a számláló visszaállítására:</translation>
     </message>
     <message>
         <source>min.</source>
-        <translation type="unfinished"/>
+        <translation>perc</translation>
     </message>
     <message>
         <source>Log blocked messages to contact&apos;s history</source>
-        <translation type="unfinished"/>
+        <translation>Blokkolt üzenetek naplózása az ismerős előzményeinél</translation>
     </message>
     <message>
         <source>Del</source>
-        <translation type="unfinished"/>
+        <translation>Del</translation>
     </message>
     <message>
         <source>Disable stopspam, if don't match any rule above
 (does not work for muc private messages)</source>
-        <translation type="unfinished"/>
+        <translation>&quot;Spam tiltás&quot; kikapcsolása, ha nem felel meg egyetlen fenti szabálynak sem
+(nem működik a konferencia magánbeszélgetéseinél)</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9599,35 +9627,35 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Állapot</translation>
     </message>
     <message>
         <source>Delete selected</source>
-        <translation type="unfinished"/>
+        <translation>Kiválasztott törlése</translation>
     </message>
     <message>
         <source>Add row</source>
-        <translation type="unfinished"/>
+        <translation>Sor hozzáadása</translation>
     </message>
     <message>
         <source>Default sound: </source>
-        <translation type="unfinished"/>
+        <translation>Alapértelmezett hang:</translation>
     </message>
     <message>
         <source>Messages</source>
-        <translation type="unfinished"/>
+        <translation>Üzenetek</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Szerkesztés</translation>
     </message>
     <message>
         <source>Disable sound if chat window is active</source>
-        <translation type="unfinished"/>
+        <translation>Hang kikapcsolása, ha a beszélgetésablak aktív</translation>
     </message>
     <message>
         <source>Show Watch for JID button in contact context menu</source>
-        <translation type="unfinished"/>
+        <translation>JID Figyelő gomb megjelenítése az ismerős menüjében</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -9635,133 +9663,133 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>from file</source>
-        <translation type="unfinished"/>
+        <translation>fájlból</translation>
     </message>
     <message>
         <source>from clipboard</source>
-        <translation type="unfinished"/>
+        <translation>vágólapról</translation>
     </message>
     <message>
         <source>to file</source>
-        <translation type="unfinished"/>
+        <translation>fájlba</translation>
     </message>
     <message>
         <source>to clipboard</source>
-        <translation type="unfinished"/>
+        <translation>vágólapra</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Mégsem</translation>
     </message>
     <message>
         <source>&lt;b&gt;Please wait!&lt;/b&gt;&lt;br/&gt;We need to generate a lot of random bytes. It is a good idea to perform some other action (type on the keyboard, move the mouse, utilize the disks) during the prime generation; this gives the random number generator a better chance to gain enough entropy.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Kérlek várj!&lt;/b&gt;&lt;br/&gt;Rengeteg véletlen-byte-ot kell generálni. Jó ötlet, ha végrehajtsz néhány más műveletet (pár billentyűnyomás, egérmozgatás, bármi, ami lemezhasználatot jelent) a prím-generálás alatt; ez nagyobb esélyt ad a véletlen-számgenerátornak, hogy elég véletlent gyűjtsön.</translation>
     </message>
     <message>
         <source>Key pair generating</source>
-        <translation type="unfinished"/>
+        <translation>Kulcspár létrehozása</translation>
     </message>
     <message>
         <source>Do you want to delete the selected keys?</source>
-        <translation type="unfinished"/>
+        <translation>Törlöd a kiválasztott kulcsokat?</translation>
     </message>
     <message>
         <source>ASCII (*.asc)</source>
-        <translation type="unfinished"/>
+        <translation>ASCII (*.asc)</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Minden fájl (*)</translation>
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished"/>
+        <translation>GnuPG info</translation>
     </message>
     <message>
         <source>Authorizing...</source>
-        <translation type="unfinished"/>
+        <translation>Hitelesítés...</translation>
     </message>
     <message>
         <source>Authorizing OK</source>
-        <translation type="unfinished"/>
+        <translation>Hitelesítés rendben</translation>
     </message>
     <message>
         <source>Authorization failed</source>
-        <translation type="unfinished"/>
+        <translation>Hitelesítés sikertelen</translation>
     </message>
     <message>
         <source>Canceled</source>
-        <translation type="unfinished"/>
+        <translation>Megszakítva</translation>
     </message>
     <message>
         <source>Choose file</source>
-        <translation type="unfinished"/>
+        <translation>Fájl kiválasztása</translation>
     </message>
     <message>
         <source>Uploading</source>
-        <translation type="unfinished"/>
+        <translation>Feltöltés</translation>
     </message>
     <message>
         <source>Error! %1</source>
-        <translation type="unfinished"/>
+        <translation>Hiba! %1</translation>
     </message>
     <message>
         <source>Cookies are removed</source>
-        <translation type="unfinished"/>
+        <translation>Sütik eltávolítva</translation>
     </message>
     <message>
         <source>Rules</source>
-        <translation type="unfinished"/>
+        <translation>Szabályok</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Név</translation>
     </message>
     <message>
         <source>Conditions</source>
-        <translation type="unfinished"/>
+        <translation>Feltételek</translation>
     </message>
     <message>
         <source>Show message if it satisfies the rule</source>
-        <translation type="unfinished"/>
+        <translation>Üzenet megjelenítése, ha a szabálynak eleget tesz</translation>
     </message>
     <message>
         <source>Color for incomming messages numbers</source>
-        <translation type="unfinished"/>
+        <translation>Bejövő üzenetek számának színe</translation>
     </message>
     <message>
         <source>Color for outgoing messages numbers</source>
-        <translation type="unfinished"/>
+        <translation>Kimenő üzenetek számának színe</translation>
     </message>
     <message>
         <source>Default plugin action</source>
-        <translation type="unfinished"/>
+        <translation>Alapértelmezett kiegészítőviselkedés</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"/>
+        <translation>Letiltva</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="unfinished"/>
+        <translation>Engedélyezve</translation>
     </message>
 </context>
 <context>
     <name>OptionsDlg</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Beállítások</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabAdvanced</name>
     <message>
         <source>Misc.</source>
-        <translation>Egyéb</translation>
+        <translation>Vegyes</translation>
     </message>
     <message>
         <source>Extra uncategorized options</source>
@@ -9769,7 +9797,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Enables the sending and requesting of message events such as &apos;Contact is Typing&apos;, ...</source>
-        <translation>Az események küldések és fogadását engedélyezni, mint pl. &apos;Az ismerős éppen gépel&apos;...</translation>
+        <translation>Engedélyezi az üzenetesemények küldését és fogadását, mint pl. &apos;Az ismerős éppen gépel&apos;, ...</translation>
     </message>
     <message>
         <source>Enables the sending of events when you end or suspend a conversation</source>
@@ -9777,43 +9805,43 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Request receipts from contacts on each message.</source>
-        <translation type="unfinished"/>
+        <translation>Visszaigazolás kérése az ismerősöktől minden üzenetnél.</translation>
     </message>
     <message>
         <source>Send receipts to contacts by request.</source>
-        <translation type="unfinished"/>
+        <translation>Visszaigazolás küldése az ismerősöknek kérés esetén.</translation>
     </message>
     <message>
         <source>Enables remote controlling your client from other locations</source>
-        <translation>Engedélyezi más helyekről való irányítását a kliensnek</translation>
+        <translation>Engedélyezi a kliens távoli irányítását más helyekről</translation>
     </message>
     <message>
         <source>Check this option if you want your spelling to be checked</source>
-        <translation>Engedélyezi a helyesírást</translation>
+        <translation>Helyesírás-ellenőrzés engedélyezése</translation>
     </message>
     <message>
         <source>If enabled, Psi will display incoming messages formatted in the style specified by the contact</source>
-        <translation>Ezzel az opcióval a Psi úgy mutatja az üzenetek formázást, ahogy azt a küldő állította be</translation>
+        <translation>Bejövő üzenetek megjelenítése az ismerős stílus-beállítása szerint</translation>
     </message>
     <message>
         <source>Check this option if you want the selected text in incoming messages and chat log to be automatically copied to clipboard</source>
-        <translation>Ezzel az opcióval a kijelölt szövegek a beszélgetésből rögtön a vágólapra kerülnek</translation>
+        <translation>Bejövő üzenetek és beszélgetésnaplók kijelölt szövege automatikusan vágólapra</translation>
     </message>
     <message>
         <source>Normally, a double-click on a contact will invoke the default action.  Check this option if you&apos;d rather invoke with a single-click.</source>
-        <translation>Alapértelmezés szerint dupla-kattintással váltod ki az alapértelmezett eseményt. Használd ezt az opciót, ha egy kattintással szeretnéd.</translation>
+        <translation>Alapértelmezett esemény végrehajtása egy-kattintással, a dupla-kattintás helyett.</translation>
     </message>
     <message>
         <source>Enables as-you-type JID autocompletion in message dialog.</source>
-        <translation>A gépelés közbeni Jabber ID kiegészítést engedélyezi.</translation>
+        <translation>Automatikus Jabber ID-kiegészítés engedélyezése üzenetváltás közben.</translation>
     </message>
     <message>
         <source>Automatically attaches URLs from clipboard to the messages when enabled</source>
-        <translation>Automatikusan csatolja a vágólapról a linkeket ha engedélyezve van</translation>
+        <translation>Linkek automatikus beillesztése a vágólapról</translation>
     </message>
     <message>
         <source>&lt;P&gt;Specifies how to treat incoming events:&lt;/P&gt;&lt;P&gt;&lt;B&gt;Normal&lt;/B&gt; - messages come as messages, chats come as chats.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Messages&lt;/B&gt; - All messages/chats come as messages, no matter what their original form was.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Chats&lt;/B&gt; - All messages/chats come as chats, no matter what their original form was.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Meghatározza, hogy miként legyenek a bejövő üzenetek kezelve:&lt;/P&gt;&lt;P&gt;&lt;B&gt;Alapért.&lt;/B&gt; - üzenet üzenetként, chat chatként.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Üzenetek&lt;/B&gt; - Minden üzenetet/chatet üzenetként kezelni, függetlenül attól, hogy mikért érkezett.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Chatek&lt;/B&gt; - Minden üzenetet/chatet chatként kezelni, függetlenül attól, hogy miként érkezett.&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;Meghatározza, hogy miként legyenek a bejövő események kezelve:&lt;/P&gt;&lt;P&gt;&lt;B&gt;Alapértelmezett&lt;/B&gt; - üzenet üzenetként, beszélgetés beszélgetésként.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Üzenetek&lt;/B&gt; - Minden üzenetet/beszélgetést üzenetként kezelni, függetlenül attól, hogy miként érkezett.&lt;/P&gt;&lt;P&gt;&lt;B&gt;Beszélgetések&lt;/B&gt; - Minden üzenetet/beszélgetést beszélgetésként kezelni, függetlenül attól, hogy miként érkezett.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Makes Psi show separate subject line in messages. Uncheck this if you want to save some screen space.</source>
@@ -9821,15 +9849,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi show message length counter. Check this if you want to know how long is your message. Can be useful when you&apos;re using SMS transport.</source>
-        <translation>Kiiratja az üzenet hosszát. Kapcsold be, ha tudni akarod, milyen hosszú az üzeneted. SMSnél hasznos lehet.</translation>
+        <translation>Üzenethossz-számláló. Kapcsold be, ha tudni akarod, hogy milyen hosszú az üzeneted. SMS-nél hasznos lehet.</translation>
     </message>
     <message>
         <source>By default, Psi always checks your vCard on login. If you want to save some traffic, you can uncheck this option.</source>
-        <translation>Alapértelmezés szerint a Psi automatikusan ellenrőzi a vCard-odat bejelentkezésnél. Ha csökkenteni akarod a hálozati forgalmad, kikapcsolhatod.</translation>
+        <translation>Alapértelmezés szerint, a Psi automatikusan ellenőrzi a vCard-odat bejelentkezésnél. Ha csökkenteni akarod a hálózati forgalmad, kikapcsolhatod.</translation>
     </message>
     <message>
         <source>Makes Psi animate contact names in the main window when they come online.</source>
-        <translation>Ha bekapcsolod, a Psi animálni fogja a partner nevét, ha feljön.</translation>
+        <translation>Ha bekapcsolod, a Psi animálni fogja a partner nevét, ha elérhető.</translation>
     </message>
     <message>
         <source>Makes Psi scroll the main window automatically so you can see new incoming events.</source>
@@ -9837,7 +9865,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi ignore all incoming &quot;headline&quot; events, like system-wide news on MSN, announcements, etc.</source>
-        <translation>Ha bekapcsolod, a Psi elrejti a &quot;főcím&quot; eseményeket, mint például a rendszert érintő híreket MSN-en, hírdetéseket, stb.</translation>
+        <translation>Ha bekapcsolod, a Psi elrejti a &quot;főcím&quot;-eseményeket, mint például a rendszert érintő híreket MSN-en, hirdetéseket, stb.</translation>
     </message>
 </context>
 <context>
@@ -9867,31 +9895,31 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Specifies the font style for message windows.</source>
-        <translation>Beállítja az üzenet ablakok betűtípusát.</translation>
+        <translation>Beállítja az üzenetablakok betűtípusát.</translation>
     </message>
     <message>
         <source>Specifies the font style for chat windows.</source>
-        <translation>Beállítja a chat ablakok betűtípusát.</translation>
+        <translation>Beállítja a beszélgetésablakok betűtípusát.</translation>
     </message>
     <message>
         <source>Specifies the font style for popup windows.</source>
-        <translation>Beállítja az előurgó ablakok betűtípusát.</translation>
+        <translation>Beállítja a felugró ablakok betűtípusát.</translation>
     </message>
     <message>
         <source>Selects a font for the roster window using the font selection dialog.</source>
-        <translation>Betűtípus megadása a címlistához a betűtípus választó ablakkal.</translation>
+        <translation>Címlista betűtípusának megadása a betűtípus-választó segítségével.</translation>
     </message>
     <message>
         <source>Selects a font for message windows using the font selection dialog.</source>
-        <translation>Kiválaszthatsz egy betűtípust az üzenet ablakok számára.</translation>
+        <translation>Üzenetablakok betűtípusának megadása a betűtípus-választó segítségével.</translation>
     </message>
     <message>
         <source>Selects a font for chat windows using the font selection dialog.</source>
-        <translation>Betűtípus megadása a beszélgetési ablakhoz a betűtípus választó ablakkal.</translation>
+        <translation>Beszélgetésablakok betűtípusának megadása a betűtípus-választó segítségével.</translation>
     </message>
     <message>
         <source>Specifies the text color for a contact name in the main window when that user is &quot;%1&quot;.</source>
-        <translation>Beállítja olyan partnerek nevének betű színét a főablakban akik &quot;%1&quot; módban vannak.</translation>
+        <translation>Beállítja azon ismerősök nevének betűszínét a főablakban, akik &quot;%1&quot; módban vannak.</translation>
     </message>
     <message>
         <source>online</source>
@@ -9899,48 +9927,48 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>offline</source>
-        <translation>nem elérhető</translation>
+        <translation>kijelentkezve</translation>
     </message>
     <message>
         <source>away</source>
-        <translation>nincs a gépnél</translation>
+        <translation>távol</translation>
     </message>
     <message>
         <source>do not disturb</source>
-        <translation>ne zavarj</translation>
+        <translation>elfoglalt</translation>
     </message>
     <message>
         <source>Status message</source>
-        <translation>Állapot üzenet</translation>
+        <translation>Állapotüzenet</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabAppearanceMisc</name>
     <message>
         <source>Misc.</source>
-        <translation>Egyéb</translation>
+        <translation>Vegyes</translation>
     </message>
     <message>
         <source>Miscellaneous Settings</source>
-        <translation>Egyéb beállítások</translation>
+        <translation>Vegyes beállítások</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabAppearanceThemes</name>
     <message>
         <source>Themes</source>
-        <translation type="unfinished"/>
+        <translation>Témák</translation>
     </message>
     <message>
         <source>Configure themes</source>
-        <translation type="unfinished"/>
+        <translation>Témák beállításai</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabApplication</name>
     <message>
         <source>Application</source>
-        <translation>Általános</translation>
+        <translation>Alkalmazás</translation>
     </message>
     <message>
         <source>General application options</source>
@@ -9948,35 +9976,35 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Set or remove window decorations for roster and chats. For chats there are special header with close, hide and maximize buttons</source>
-        <translation type="unfinished"/>
+        <translation>Ablakdekoráció be- vagy kikapcsolása címlistánál és beszélgetéseknél. Beszélgetéseknél különleges címsorok vannak a bezárás, elrejtés és maximalizálás gombokkal.</translation>
     </message>
     <message>
         <source>Makes Psi use a docklet icon, also known as system tray icon.</source>
-        <translation>Kiteszi a Psi ikonját a tálcára.</translation>
+        <translation>Tálcaikon használata.</translation>
     </message>
     <message>
         <source>Normally, single-clicking on the Psi docklet icon brings the main window to the foreground.  Check this option if you would rather use a double-click.</source>
-        <translation>Alapértelmezés szerint egy kattintás Psi tálcaikonon hozza elő a főablakot. Kapcsold be, ha te inkább kettővel szeretnéd.</translation>
+        <translation>Főablak előhozása dupla-kattintással a tálcaikonon, az alapértelmezett egy-kattintás helyett.</translation>
     </message>
     <message>
         <source>Starts Psi with only the docklet icon visible.</source>
-        <translation>Psi indításánál csak tálcaikon legyen látható.</translation>
+        <translation>A Psi indítása csak az értesítési területen.</translation>
     </message>
     <message>
         <source>Prevents Psi from taking up a slot on the taskbar and makes the main window use a small titlebar.</source>
-        <translation>Meggátolja hogy a Psi elfoglaljon egy helyet a tálcán és kisebb fejlécet használ a főablak.</translation>
+        <translation>Meggátolja, hogy a Psi elfoglaljon egy helyet a tálcán és kisebb fejlécet használ a főablak.</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Információ</translation>
     </message>
     <message>
         <source>Some of the options you changed will only have full effect upon restart.</source>
-        <translation type="unfinished"/>
+        <translation>A beállítások a program újraindításakor lépnek életbe.</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Alapértelmezett</translation>
     </message>
     <message>
         <source>(TCP: Disabled, UDP: Auto)</source>
@@ -9991,78 +10019,78 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabAvCall</name>
     <message>
         <source>Voice Calling</source>
-        <translation>Hívás</translation>
+        <translation>Hang hívás</translation>
     </message>
     <message>
         <source>Audio and video device configuration</source>
-        <translation>Hang és videóeszköz beállítása</translation>
+        <translation>Hang és videoeszköz beállítása</translation>
     </message>
     <message>
         <source>Audio device configuration</source>
-        <translation>Automatikus beállítás</translation>
+        <translation>Hangeszköz beállítása</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabChat</name>
     <message>
         <source>Chat</source>
-        <translation>Chat</translation>
+        <translation>Beszélgetés</translation>
     </message>
     <message>
         <source>Configure the chat dialog</source>
-        <translation>Chat ablak beállítása</translation>
+        <translation>Beszélgetésablak beállítása</translation>
     </message>
     <message>
         <source>Make the default action open a normal message window.</source>
-        <translation>Beállítja alapértelmezett akciónak egy sima üzenet ablak nyitását.</translation>
+        <translation>Az alapértelmezett akció beállítása egy sima üzenetablak nyitásra.</translation>
     </message>
     <message>
         <source>Make the default action open a chat window.</source>
-        <translation>Beállítja alapértelmezett akciónak egy chat ablak nyitását.</translation>
+        <translation>Az alapértelmezett akció beállítása egy beszélgetésablak nyitásra.</translation>
     </message>
     <message>
         <source>&lt;P&gt;When checked, pressing Enter in a chat window will send your message.  You must use Shift+Enter in order to create a newline in the chat message.  If unchecked, messages are sent by pressing Alt-S or Control-Enter, just as they are with regular messages.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Ha be van kapcsolva, az Enter lenyomásával elküldöd az üzenetet. Shift+Enter-rel tudsz újsor karaktert írni. Ha kikapcsolod, az üzenetet Alt+S vagy Control+Enter küldi el, mintha rendes üzenetek lennének.&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;Ha be van kapcsolva, az Enter küldi el az üzenetet. Shift+Enter-rel tudsz új sort kezdeni. Ha kikapcsolod, az üzenetet az Alt+S vagy a Control+Enter küldi el, mintha rendes üzenetek lennének.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>Normally, Psi will not alert you when a new chat message is received in a chat window that is already open.  Check this option if you want to receive these alerts anyway.</source>
-        <translation>Alapértelmezés szerint a Psi nem figyelmeztet, ha új chat üzenet érkezik már nyitott ablakban. Ha mégis szeretnéd hogy figyelmeztessen, kapcsold ezt be.</translation>
+        <translation>Alapértelmezés szerint a Psi nem figyelmeztet, ha új üzenet érkezik a már nyitott ablakban. Ha mégis szeretnéd, hogy figyelmeztessen, kapcsold ezt be.</translation>
     </message>
     <message>
         <source>Makes Psi bring an open chat window to the front of your screen when you receive a new message. It does not take the keyboard focus, so it will not interfere with your work.</source>
-        <translation>Kapcsold ezt be, hogy a Psi előre hozza a chat ablakot, ha új üzenet érkezik. Viszont az ablak nem lesz aktív, szóval nem zavar a gépelésnél.</translation>
+        <translation>Új üzenet érkezésekor a beszélgetésablak előtérbe hozása. Az ablak nem lesz aktív, így nem zavarja az aktuális másik ablakot, pl.: gépelést.</translation>
     </message>
     <message>
         <source>Makes Psi switch tab on active tabbed window when you receive a new message. It does not take the keyboard focus, so it will not interfere with your work.</source>
-        <translation type="unfinished"/>
+        <translation>Új üzenet érkezésekor ugrás az új üzenetlapra. Az ablak nem lesz aktív, így nem zavarja az aktuális másik ablakot, pl.: gépelést.</translation>
     </message>
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
-        <translation>A Psi kis méretű chat ablakokat nyisson.</translation>
+        <translation>Beszélgetésablakok megnyitása tömörített módban.</translation>
     </message>
     <message>
         <source>Makes Psi open chats in a tabbed window.</source>
-        <translation>Ha bekapcsolod, akkor a Psi nem nyit meg több chat ablakot, hanem egy ablakon belül elérheted az összeset.</translation>
+        <translation>Beszélgetések megnyitása füleken, egy ablakban.</translation>
     </message>
     <message>
         <source>&lt;P&gt;Controls how long the chat log will be kept in memory after the chat window is closed.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Beállítja, meddig legyen a chat naplója megtartva az ablak bezárása után.&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;Beszélgetésnapló megőrzésének ideje, a beszélgetésablak bezárása után.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option does not keep the chat log in memory.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Ne tartsa meg a naplózást.&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;Ne őrizze meg a naplót.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 hour before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Tartsa meg egy órára a naplózást az ablak bezárása után&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;Napló megőrzése 1 órán át, az ablak bezárása után.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This option keeps the chat log for 1 day before deleting it.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Tartsa meg egy napra a naplózást az ablak bezárása után&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;Napló megőrzése 1 napon át, az ablak bezárása után.&lt;/P&gt;</translation>
     </message>
     <message>
         <source>&lt;P&gt;This options keeps the chat log forever.&lt;/P&gt;</source>
-        <translation>&lt;P&gt;Ne törölje sose.&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;Ne törölje a naplót.&lt;/P&gt;</translation>
     </message>
 </context>
 <context>
@@ -10073,27 +10101,27 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>The events behaviour</source>
-        <translation>Események kezelése</translation>
+        <translation>Események viselkedése</translation>
     </message>
     <message>
         <source>Makes new incoming message windows pop up automatically when received.</source>
-        <translation>Nyisson meg automatikussan új üzenetnél egy chatablakot.</translation>
+        <translation>Automatikusan felugró ablak új üzenet érkezésekor.</translation>
     </message>
     <message>
         <source>Makes new incoming headlines pop up automatically when received.</source>
-        <translation>Nyisson meg automatikussan új főcímnél egy ablakot.</translation>
+        <translation>Automatikusan felugró ablak új főcím érkezésekor.</translation>
     </message>
     <message>
         <source>Makes new incoming file requests pop up automatically when received.</source>
-        <translation>Automatikusan ugorjon elő ablak bejövő fájloknál.</translation>
+        <translation>Automatikusan felugró ablak új fájl érkezésekor.</translation>
     </message>
     <message>
         <source>Normally, Psi will not autopopup events when you are away.  Set this option if you want them to popup anyway.</source>
-        <translation>Alapértelmezés szerint nem ugrik elő ablak ha &quot;nincs a gépnél&quot; módban vagy. Ezzel beállíthatod, hogy mindenképp előugorjanak.</translation>
+        <translation>Alapértelmezés szerint &quot;Távol&quot; módban nincs felugró ablak. Ezzel beállíthatod, hogy legyen.</translation>
     </message>
     <message>
         <source>Normally, Psi will not autopopup events from users not in your roster.  Set this option if you want them to popup anyway.</source>
-        <translation>Alapértelmezés szerint nem ugrik elő ablak ha a felhasználó nincs a listádon. Ezzel beállíthatod, hogy mindenképp előugorjanak.</translation>
+        <translation>Alapértelmezés szerint nincs felugró ablak, attól a felhasználótól, aki nincs a címlistádon. Ezzel beállíthatod, hogy legyen.</translation>
     </message>
     <message>
         <source>Makes new incoming events bring the main window to the foreground.</source>
@@ -10101,15 +10129,15 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Makes Psi ignore all incoming events from contacts not already in your list of contacts.</source>
-        <translation>Minden esemény figyelmen kívül hagyása, olyanoktól akik nincsenek a listádon.</translation>
+        <translation>Minden esemény figyelmen kívül hagyása azoktól, akik nincsenek a címlistádon.</translation>
     </message>
     <message>
         <source>What kind of animation should psi use for incoming event icons on the main window?</source>
-        <translation>Milyen animációt használjon a program a beérkező esemény ikonjaihoz?</translation>
+        <translation>Milyen animációt használjon a program a beérkező események ikonjaihoz?</translation>
     </message>
     <message>
         <source>Makes Psi automatically accept all authorization requests from &lt;b&gt;anyone&lt;/b&gt;.</source>
-        <translation>A Psi hagyjon jóvá minden hitelesítési kérést &lt;b&gt;mindenkitől&lt;/b&gt;.</translation>
+        <translation>Jóváhagyások automatikus elfogadása &lt;b&gt;bárkitől&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Makes Psi notify you when your authorization request was approved.</source>
@@ -10131,40 +10159,40 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabIconset</name>
     <message>
         <source>Icons</source>
-        <translation type="unfinished"/>
+        <translation>Ikonok</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabIconsetActivity</name>
     <message>
         <source>Activity</source>
-        <translation type="unfinished"/>
+        <translation>Tevékenység</translation>
     </message>
     <message>
         <source>Select your activity iconset</source>
-        <translation type="unfinished"/>
+        <translation>Válaszd ki a cselekvéseid ikonkészletét</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabIconsetAffiliations</name>
     <message>
         <source>Affiliations</source>
-        <translation type="unfinished"/>
+        <translation>Kapcsolatok</translation>
     </message>
     <message>
         <source>Select your affiliations iconset</source>
-        <translation type="unfinished"/>
+        <translation>Válaszd ki a kapcsolataid ikonkészletét</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabIconsetClients</name>
     <message>
         <source>Clients</source>
-        <translation type="unfinished"/>
+        <translation>Kliensek</translation>
     </message>
     <message>
         <source>Select your clients iconset</source>
-        <translation type="unfinished"/>
+        <translation>Válaszd ki a klienseid ikonkészletét</translation>
     </message>
 </context>
 <context>
@@ -10175,33 +10203,33 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Select your emoticon iconsets</source>
-        <translation>Válaszd ki a hangulatjeleket</translation>
+        <translation>Válaszd ki a hangulatjeleid ikonkészletét</translation>
     </message>
     <message>
         <source>&lt;P&gt;Emoticons are short sequences of characters that are used to convey an emotion or idea.&lt;/P&gt;&lt;P&gt;Enable this option if you want Psi to replace common emoticons with a graphical image.&lt;/P&gt;&lt;P&gt;For example, &lt;B&gt;:-)&lt;/B&gt; would be replaced by &lt;icon name=&quot;psi/smile&quot;&gt;&lt;/P&gt;</source>
-        <translation>&lt;P&gt;A hangulatjelek pár karakter, amikkel érzéseket lehet kifejezni.&lt;/P&gt;&lt;P&gt;Egnedélyezd ezt az opciót, ha az akarod hogy a hagyományos hangulatjelek grafikusra legyenek lecserélve.&lt;/P&gt;&lt;P&gt;Például, &lt;B&gt;:-)&lt;/B&gt; ki lesz cserélve erre: &lt;icon name=&quot;psi/smile&quot;&gt;&lt;/P&gt;</translation>
+        <translation>&lt;P&gt;A hangulatjelek olyan karaktersorozatok, amikkel érzéseket lehet kifejezni.&lt;/P&gt;&lt;P&gt;Engedélyezd ezt az opciót, ha azt akarod, hogy a hagyományos karakterjelek grafikusra legyenek cserélve.&lt;/P&gt;&lt;P&gt;Például, &lt;B&gt;:-)&lt;/B&gt; helyett: &lt;icon name=&quot;psi/smile&quot;&gt;&lt;/P&gt;</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabIconsetMoods</name>
     <message>
         <source>Moods</source>
-        <translation type="unfinished"/>
+        <translation>Hangulatok</translation>
     </message>
     <message>
         <source>Select your mood iconset</source>
-        <translation type="unfinished"/>
+        <translation>Válaszd ki a hangulataid ikonkészletét</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabIconsetRoster</name>
     <message>
         <source>Roster Icons</source>
-        <translation>Lista ikonjai</translation>
+        <translation>Címlista ikonjai</translation>
     </message>
     <message>
         <source>Select iconsets for your roster</source>
-        <translation>Válaszd ki az ikoncsomagot a listádhoz</translation>
+        <translation>Válaszd ki a címlistád ikonkészletét</translation>
     </message>
     <message>
         <source>Transport</source>
@@ -10209,11 +10237,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>vk.com</source>
-        <translation type="unfinished"/>
+        <translation>vk.com</translation>
     </message>
     <message>
         <source>Weather</source>
-        <translation type="unfinished"/>
+        <translation>Időjárás</translation>
     </message>
     <message>
         <source>Toggles use of transport icons to the contacts, that use that transports.</source>
@@ -10224,11 +10252,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabIconsetSystem</name>
     <message>
         <source>System Icons</source>
-        <translation>Rendszer ikonjai</translation>
+        <translation>Rendszerikonok</translation>
     </message>
     <message>
         <source>Select the system iconset</source>
-        <translation>Válaszd ki a rendszer ikoncsomagját</translation>
+        <translation>Válaszd ki a rendszered ikonkészletét</translation>
     </message>
 </context>
 <context>
@@ -10247,73 +10275,74 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Version: </source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Verzió:</translation>
     </message>
     <message>
         <source>Plugin Path:
 %1</source>
-        <translation type="unfinished"/>
+        <translation>Kiegészítő helye:
+%1</translation>
     </message>
     <message>
         <source>Show information about plugin</source>
-        <translation type="unfinished"/>
+        <translation>Információ megjelenítése a kiegészítőről</translation>
     </message>
     <message>
         <source>Open plugin settings dialog</source>
-        <translation type="unfinished"/>
+        <translation>Kiegészítő beállításai</translation>
     </message>
     <message>
         <source>Settings of %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 beállításai</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabPopups</name>
     <message>
         <source>Popups</source>
-        <translation type="unfinished"/>
+        <translation>Felugró ablakok</translation>
     </message>
     <message>
         <source>The popups behaviour</source>
-        <translation type="unfinished"/>
+        <translation>Felugró ablakok viselkedése</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabRoster</name>
     <message>
         <source>Roster</source>
-        <translation type="unfinished"/>
+        <translation>Címlista</translation>
     </message>
     <message>
         <source>Roster window options</source>
-        <translation type="unfinished"/>
+        <translation>Címlistaablak beállításai</translation>
     </message>
     <message>
         <source>Makes the main Psi window always be in front of other windows.</source>
-        <translation type="unfinished"/>
+        <translation>Psi főablaka mindig felül.</translation>
     </message>
     <message>
         <source>Makes the main Psi window resize automatically to fit all contacts.</source>
-        <translation type="unfinished"/>
+        <translation>Psi főablak automatikus átméretezése, hogy minden ismerős neve beleférjen.</translation>
     </message>
     <message>
         <source>Normally, right-clicking with the mouse on a contact will activate the context-menu.  Check this option if you&apos;d rather use a left-click.</source>
-        <translation type="unfinished"/>
+        <translation>Alapértelmezés szerint, a jobb kattintás előhoz az ismerősön egy almenüt. Kapcsold ezt be, ha te inkább ballal kattintanál.</translation>
     </message>
     <message>
         <source>Shows the menubar in the application window.</source>
-        <translation type="unfinished"/>
+        <translation>Menüsáv mutatása az alkalmazás ablakában.</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabShortcuts</name>
     <message>
         <source>Shortcuts</source>
-        <translation>Billentyűzetkombinációk</translation>
+        <translation>Gyorsbillentyűk</translation>
     </message>
     <message>
         <source>Options for Psi Shortcuts</source>
-        <translation>A Psi billentyűzetkombinációi</translation>
+        <translation>Gyorsbillentyűk beállításai</translation>
     </message>
     <message>
         <source>Unnamed group</source>
@@ -10325,11 +10354,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Restore default shortcuts</source>
-        <translation>Alap kombinációk visszaállítása</translation>
+        <translation>Alapértelmezett gyorsbillentyűbeállítás</translation>
     </message>
     <message>
         <source>Are you sure you would like to restore the default shortcuts?</source>
-        <translation>Biztos vissza akarod állítani a gyári kombinációkat?</translation>
+        <translation>Biztosan vissza akarod állítani a gyorsbillentyűket alapértelmezettre?</translation>
     </message>
 </context>
 <context>
@@ -10340,19 +10369,19 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Configure how Psi sounds</source>
-        <translation>Állítsd be a hangokat a Psi-hez</translation>
+        <translation>Psi-hangok beállítása</translation>
     </message>
     <message>
         <source>If your system supports multiple sound players, you may choose your preferred sound player application here.</source>
-        <translation>Ha a rendszered támogatja több lejátszót, válaszd ki azt amelyiket használni akarod.</translation>
+        <translation>Több hanglejátszó program esetén, az alapértelmezett lejátszóprogram kiválasztása.</translation>
     </message>
     <message>
         <source>Enable this option if you wish to hear sound alerts when your status is &quot;away&quot; or &quot;extended away&quot;.</source>
-        <translation>Kapcsold be ha akkor is akarod a hangok lejátszását, ha &quot;nem elérhető&quot; vagy &quot;tétlen&quot; vagy.</translation>
+        <translation>Kapcsold ezt be, ha akkor is akarod a hangok lejátszását, ha &quot;nem elérhető&quot; vagy &quot;tétlen&quot; vagy.</translation>
     </message>
     <message>
         <source>Play sounds for all events in groupchat, not only for mentioning of your nick.</source>
-        <translation>Minden eseménynél hang játszása, nem csak a neved említésénél.</translation>
+        <translation>Hang lejátszása minden eseménynél a csoportbeszélgetésben, nem csak a neved említésekor.</translation>
     </message>
     <message>
         <source>Windows Sound</source>
@@ -10364,7 +10393,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation>Válassz egy hangfájlt</translation>
+        <translation>Hangfájl kiválasztása</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
@@ -10386,70 +10415,70 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabStatusAuto</name>
     <message>
         <source>Auto status and priority</source>
-        <translation type="unfinished"/>
+        <translation>Automatikus állapot és prioritás</translation>
     </message>
     <message>
         <source>Auto status and priority preferences</source>
-        <translation type="unfinished"/>
+        <translation>Automatikus állapot- és prioritásbeállítások</translation>
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;away&quot; if your computer is idle for the specified amount of time.</source>
-        <translation type="unfinished"/>
+        <translation>Automatikus &quot;Távol&quot;-állapot, ha egy megadott ideig nincs tevékenység a gépnél.</translation>
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;extended away&quot; if your computer is idle for the specified amount of time.</source>
-        <translation type="unfinished"/>
+        <translation>Automatikus &quot;Tétlen&quot;-állapot, ha egy megadott ideig nincs tevékenység a gépnél.</translation>
     </message>
     <message>
         <source>Makes Psi automatically set your status to &quot;offline&quot; if your computer is idle for the specified amount of time.  This will disconnect you from the Jabber server.</source>
-        <translation type="unfinished"/>
+        <translation>Automatikus &quot;Kijelentkezve&quot;-állapot, ha egy megadott ideig nincs tevékenység a gépnél. Ezzel bontod a kapcsolatot a Jabber-szerverrel.</translation>
     </message>
     <message>
         <source>Specifies an extended message to use if you allow Psi to set your status automatically.  See options above.</source>
-        <translation type="unfinished"/>
+        <translation>Egy kibővített üzenet megadása, ha hagyod, hogy a Psi automatikusan kezelje az állapotod. Lásd a fenti opciókat.</translation>
     </message>
     <message>
         <source>Specifies priority of auto-away status. If empty, Psi will use account&apos;s default priority.</source>
-        <translation type="unfinished"/>
+        <translation>Automatikus &quot;Távol&quot;-állapot prioritásának beállítása. Ha üres, a Psi a fiók alapértelmezettét fogja használni.</translation>
     </message>
 </context>
 <context>
     <name>OptionsTabStatusGeneral</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Általános</translation>
     </message>
     <message>
         <source>General status preferences</source>
-        <translation type="unfinished"/>
+        <translation>Általános állapotbeállítások</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Szerkesztés</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Törlés</translation>
     </message>
     <message>
         <source>Press this button to create a new status message preset.</source>
-        <translation type="unfinished"/>
+        <translation>Nyomd meg ezt a gombot, hogy készíts egy új állapotüzenet-előbeállítást.</translation>
     </message>
     <message>
         <source>Press this button to delete a status message preset.</source>
-        <translation type="unfinished"/>
+        <translation>Nyomd meg ezt a gombot, hogy törölj egy állapotüzenet-előbeállítást.</translation>
     </message>
     <message>
         <source>You may edit the message here for the currently selected status message preset in the list to the above.</source>
-        <translation type="unfinished"/>
+        <translation>Itt szerkesztheted az üzenetet, a fenti listában lévő, jelenleg kiválasztott állapotüzenet-előbeállításhoz.</translation>
     </message>
     <message>
         <source>Use this to choose the status that will be assigned to this preset</source>
-        <translation type="unfinished"/>
+        <translation>Állapot kiválasztása az előbeállításhoz.</translation>
     </message>
     <message>
         <source>Fill in the priority that will be assigned to this preset. If no priority is given, the default account priority will be used.</source>
-        <translation type="unfinished"/>
+        <translation>Prioritás megadása az előbeállításhoz. Ha nincs megadva prioritás, a fiók-alapértelmezett lesz használva.</translation>
     </message>
     <message>
         <source>Jabber allows you to put extended status messages on all status types.  Normally, Psi does not prompt you for an extended message when you set your status to &quot;online&quot;.  Check this option if you want to have this prompt.</source>
@@ -11247,7 +11276,7 @@ Kérlek írd be a jelszavadat:</translation>
     </message>
     <message>
         <source>Rules</source>
-        <translation>Házirend</translation>
+        <translation>Szabályok</translation>
     </message>
     <message>
         <source>Add</source>
@@ -12073,11 +12102,11 @@ A hiba oka: %1.</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation>&quot;Nem elérhető&quot;-k mutatása</translation>
+        <translation>Kijelentkezett ismerősök megjelenítése</translation>
     </message>
     <message>
         <source>Toggles visibility of offline contacts in roster</source>
-        <translation>&quot;Nem elérhető&quot;-k mutatása/rejtése</translation>
+        <translation>Kijelentkezett ismerősök láthatósága a címlistán</translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
@@ -12357,7 +12386,7 @@ A hiba oka: %1.</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Nem elérhető</translation>
+        <translation>Kijelentkezve</translation>
     </message>
     <message>
         <source>Status</source>
@@ -12640,7 +12669,7 @@ A hiba oka: %1.</translation>
     <message>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
         <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
-        <translation>Állapot beállításam ezek a következők lehetnek: `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</translation>
+        <translation>Állapot beállítása. Választható: `Elérhető&apos;, `Beszélgetős&apos;, `Távol&apos;, `Tétlen&apos;, `Elfoglalt&apos;, `Kijelentkezve&apos;.</translation>
     </message>
     <message>
         <source>MSG</source>
@@ -13838,7 +13867,7 @@ Folytatod?</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation>Nem elérhető</translation>
+        <translation>Kijelentkezve</translation>
     </message>
     <message>
         <source>Away</source>
@@ -14708,7 +14737,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Contact offline</source>
-        <translation type="unfinished"/>
+        <translation>Ismerős kijelentkezve</translation>
     </message>
     <message>
         <source>Status change</source>
@@ -14780,7 +14809,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Automatically go offline when idle</source>
-        <translation>Automatikus lekapcsolódás tétlenség esetén</translation>
+        <translation>Automatikus kijelentkezés tétlenség esetén</translation>
     </message>
     <message>
         <source>Auto-authorize contacts</source>
@@ -15632,7 +15661,7 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Kijelentkezett ismerősök megjelenítése</translation>
     </message>
     <message>
         <source>Show Away Contacts</source>
@@ -15696,7 +15725,7 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Status Offline</source>
-        <translation type="unfinished"/>
+        <translation>Kijelentkezett állapot</translation>
     </message>
     <message>
         <source>Choose status</source>
@@ -18044,7 +18073,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>End session when contact goes offline</source>
-        <translation type="unfinished"/>
+        <translation>Beszélgetésfolyamat vége, ha az ismerős kijelentkezik</translation>
     </message>
 </context>
 <context>
