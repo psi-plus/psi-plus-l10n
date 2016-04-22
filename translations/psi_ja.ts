@@ -11326,7 +11326,7 @@ Only use letters or numbers.  No punctuation or spaces.</source>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
-        <translation>&lt;qt&gt;念の為、最後にもう一度確認します。このプロファイルを削除すると以下のファイルは削除されます。&lt;br&gt;&lt;br&gt;
+        <translation type="vanished">&lt;qt&gt;念の為、最後にもう一度確認します。このプロファイルを削除すると以下のファイルは削除されます。&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 続けますか?</translation>
     </message>
@@ -11340,7 +11340,17 @@ Proceed?</source>
     </message>
     <message>
         <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation>フォルダ全体の削除に失敗しました。許可の再確認をして下さい。</translation>
+        <translation type="vanished">フォルダ全体の削除に失敗しました。許可の再確認をして下さい。</translation>
+    </message>
+    <message>
+        <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
+&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+Proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to delete the folders completely.  Ensure you have the proper permission.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

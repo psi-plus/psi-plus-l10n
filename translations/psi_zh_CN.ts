@@ -11489,7 +11489,7 @@ Only use letters or numbers.  No punctuation or spaces.</source>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
-        <translation>作为一项预防措施&lt;qt&gt;，你正在提出最后一次，如果这是你真正想要什么。下面的文件夹将被删除！参考参考
+        <translation type="vanished">作为一项预防措施&lt;qt&gt;，你正在提出最后一次，如果这是你真正想要什么。下面的文件夹将被删除！参考参考
 &lt;B&gt;%1&lt;/B&gt;参考参考
 继续吗？</translation>
     </message>
@@ -11503,7 +11503,17 @@ Proceed?</source>
     </message>
     <message>
         <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation>无法完全删除文件夹。  确定你有适当的权限。</translation>
+        <translation type="vanished">无法完全删除文件夹。  确定你有适当的权限。</translation>
+    </message>
+    <message>
+        <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
+&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+Proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to delete the folders completely.  Ensure you have the proper permission.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

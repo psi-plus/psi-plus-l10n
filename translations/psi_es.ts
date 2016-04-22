@@ -11473,7 +11473,7 @@ sólo letras o números. Sin símbolos de puntuación ni espacios.</translation>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
-        <translation>&lt;qt&gt;Como precaución, se te pide por última vez si esto es lo que realmente deseas. ¡La siguiente carpeta será borrada!&lt;br&gt;&lt;br&gt;
+        <translation type="vanished">&lt;qt&gt;Como precaución, se te pide por última vez si esto es lo que realmente deseas. ¡La siguiente carpeta será borrada!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 ¿Proceder?</translation>
     </message>
@@ -11487,7 +11487,17 @@ Proceed?</source>
     </message>
     <message>
         <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation>No ha sido posible borrar el directorio completamente. Asegúrate de tener los permisos adecuados.</translation>
+        <translation type="vanished">No ha sido posible borrar el directorio completamente. Asegúrate de tener los permisos adecuados.</translation>
+    </message>
+    <message>
+        <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
+&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+Proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to delete the folders completely.  Ensure you have the proper permission.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

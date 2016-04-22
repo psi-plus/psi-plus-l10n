@@ -11423,12 +11423,16 @@ Używaj tylko liter i cyfr, bez kropek lub spacji.</translation>
     </message>
     <message>
         <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation>Nie można usunąć profilu. Prawdopodobnie nie posiadasz do tego uprawnień.</translation>
+        <translation type="vanished">Nie można usunąć profilu. Prawdopodobnie nie posiadasz do tego uprawnień.</translation>
     </message>
     <message>
-        <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
+        <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to delete the folders completely.  Ensure you have the proper permission.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -11436,12 +11436,16 @@ Koristite samo slova ili brojeve.  Bez interpunkcije ili razmaka.</translation>
     </message>
     <message>
         <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation>Ne mogu da izbrišem fasciklu u potpunosti.  Proverite da li imate odgovarajuća odobrenja.</translation>
+        <translation type="vanished">Ne mogu da izbrišem fasciklu u potpunosti.  Proverite da li imate odgovarajuća odobrenja.</translation>
     </message>
     <message>
-        <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
+        <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to delete the folders completely.  Ensure you have the proper permission.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -11458,7 +11458,7 @@ Verwenden Sie nur Buchstaben und Zahlen, keine Satzzeichen oder Leerzeichen.</tr
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
-        <translation>&lt;qt&gt;Als Vorsichtsmaßnahme werden Sie ein letztes mal gefragt, ob Sie das wirklich wollen. Der folgende Ordner wird gelöscht!&lt;br&gt;&lt;br&gt;
+        <translation type="vanished">&lt;qt&gt;Als Vorsichtsmaßnahme werden Sie ein letztes mal gefragt, ob Sie das wirklich wollen. Der folgende Ordner wird gelöscht!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Fortfahren?</translation>
     </message>
@@ -11472,7 +11472,17 @@ Fortfahren?</translation>
     </message>
     <message>
         <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation>Der Ordner konnte nicht vollständig gelöscht werden. Stellen Sie sicher, dass Sie dazu berechtigt sind.</translation>
+        <translation type="vanished">Der Ordner konnte nicht vollständig gelöscht werden. Stellen Sie sicher, dass Sie dazu berechtigt sind.</translation>
+    </message>
+    <message>
+        <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
+&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+Proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to delete the folders completely.  Ensure you have the proper permission.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

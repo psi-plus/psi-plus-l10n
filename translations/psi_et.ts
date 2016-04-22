@@ -11280,12 +11280,16 @@ Kasuta ainult tähti ja numbreid. Ära kasuta kirjavahemärke ja tühikuid.</tra
     </message>
     <message>
         <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation>Ei õnnestunud kausta täielikult kustutada. Veendu, et Sul on vastavad õigused.</translation>
+        <translation type="vanished">Ei õnnestunud kausta täielikult kustutada. Veendu, et Sul on vastavad õigused.</translation>
     </message>
     <message>
-        <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
+        <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to delete the folders completely.  Ensure you have the proper permission.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
