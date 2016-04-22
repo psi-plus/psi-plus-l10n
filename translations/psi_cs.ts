@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="cs">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="cs" version="2.1">
 <context>
     <name>@default</name>
     <message>
@@ -51,6 +49,13 @@
     <message>
         <source>psi/psiplus_logo</source>
         <translation>psi/psiplus_logo</translation>
+    </message>
+    <message>
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2013 The Psi Team.&lt;br&gt;
+</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
@@ -162,6 +167,10 @@ Copyright © 2001-2014 Tým Psi.&lt;br&gt;</translation>
         <translation>Patcher Psimedia a lokalizace anglické wiki</translation>
     </message>
     <message>
+        <source>OpenSUSE Packager</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Language coordinator; Debian Packager</source>
         <translation>Koordinátor překladu, balíkář pro Debian</translation>
     </message>
@@ -231,7 +240,15 @@ Copyright © 2001-2014 Tým Psi.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation type="unfinished"></translation>
+        <translation>Pan Anonymní&lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://ja.cz&quot;&gt;http://ja.cz&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:ja@ja.cz&quot;&gt;ja@ja.cz&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ja@ja.cz&quot;&gt;ja@ja.cz&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Překladatel&lt;br&gt;
+&lt;br&gt;
+Připoj se k týmu překladatelů jěště dnes!! Navštiv 
+&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
+http://forum.psi-im.org/forum/14&lt;/a&gt; pro další informace!</translation>
     </message>
 </context>
 <context>
@@ -537,7 +554,7 @@ Klikni na &lt;b&gt;Registrovat nový účet&lt;/b&gt;, pokud chceš, aby se Psi 
     </message>
     <message>
         <source>In-Band only (slow)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Proxy:</source>
@@ -572,16 +589,16 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
         <translation>Uložit hash hesla namísto hesla, pokud to server dovoluje.</translation>
     </message>
     <message>
+        <source>Disable</source>
+        <translation>Vypnout</translation>
+    </message>
+    <message>
         <source>Enable Stream Management if possible</source>
-        <translation type="unfinished"></translation>
+        <translation>Povolit správu proudu, pokud možno</translation>
     </message>
     <message>
         <source>Nested groups delimiter: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable</source>
-        <translation type="unfinished">Vypnout</translation>
+        <translation>Oddělovač vnořených skupin: </translation>
     </message>
 </context>
 <context>
@@ -676,27 +693,27 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     </message>
     <message>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Username:</source>
@@ -772,7 +789,7 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     </message>
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1150,9 +1167,13 @@ ukládat historii pro tento kontakt.</translation>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Abys přidal &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; uživatele, jednoduše napiš jeho XMPP adresu (volitelně i přezdívku a skupinu) dolů a stiskni &lt;span style=&quot; font-style:italic;&quot;&gt;Přidat&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;Abys přidal kontakt z &lt;span style=&quot; font-weight:600;&quot;&gt;ne-XMPP&lt;/span&gt; služby, nejdříve se ujisti, že jsi k dané službě registrován (viz Prohledávání služeb v hlavním menu) a poté vyber službu z okénka nahoře. Následuj instrukce z okénka &lt;span style=&quot; font-style:italic;&quot;&gt;Převod ID služby&lt;/span&gt; a stiskni tlačítko &lt;span style=&quot; font-style:italic;&quot;&gt;Získat XMPP adresu&lt;/span&gt;, aby se pro kontakt generovala XMPP adresa.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Service:</source>
@@ -1258,7 +1279,8 @@ Ujisti se, že zadáváš úplnou XMPP adresu.</translation>
     <message>
         <source>&lt;qt&gt;
 There was an error getting the Service ID translation information from &quot;%1&quot;.&lt;br&gt;Reason: %2&lt;br&gt;&lt;br&gt;The service may not support this feature.  In this case you will need to enter the XMPP address manually for the contact you wish to add.  Examples:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP address of AIM Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP address of ICQ Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP address of MSN Transport]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP address of Yahoo Transport]&lt;br&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt;
+Vyskytla se chyba při převodu ID služby z &quot;%1&quot;.&lt;br&gt;Důvod: %2&lt;br&gt;&lt;br&gt;Služba nemusl podporovat tuto vlastnost. V tomto případě musíš XMPP adresu pro přidávaný kontakt napsat ručně.  Příklady:&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;xmppUser@somehost.com&lt;br&gt;&amp;nbsp;&amp;nbsp;aolUser@[XMPP adresa AIM transportu]&lt;br&gt;&amp;nbsp;&amp;nbsp;1234567@[XMPP adresa ICQ transportu]&lt;br&gt;&amp;nbsp;&amp;nbsp;joe%hotmail.com@[XMPP adresa MSN transportu]&lt;br&gt;&amp;nbsp;&amp;nbsp;yahooUser@[XMPP adresa Yahoo transportu]&lt;br&gt;&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
@@ -1380,7 +1402,7 @@ Aby pracoval správně, je nutné, aby protistrana podporovala XEP-0224 (např. 
     </message>
     <message>
         <source>Enable if status is:</source>
-        <translation>Zapnout poku je stav:</translation>
+        <translation>Zapnout pokud je stav:</translation>
     </message>
     <message>
         <source>Auto Reply Message:</source>
@@ -1531,32 +1553,33 @@ Seznam vyjímek pro jidy má dva módy:
     <name>BattleshipGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyber soubor se zvukem</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished">Zvuk (*.wav)</translation>
+        <translation>Zvuk (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished">E-mail: </translation>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>This plugin allows you to play battleship with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tento zásuvný modul ti dovolí hrát lodě s tvými přeteli.
+Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný modul bude fungovat kdekoliv přihlásíte. Abyste pozvali kamaráda hrát, můžete použít seznam kontaktů nebo tlačítko na liště v okně chatu.</translation>
     </message>
     <message>
         <source>Battleship game</source>
-        <translation type="unfinished"></translation>
+        <translation>Hra lodě</translation>
     </message>
     <message>
         <source>Battleship game!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hra lodě!</translation>
     </message>
 </context>
 <context>
@@ -1603,7 +1626,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Auto-join:</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaticky připojit:</translation>
     </message>
 </context>
 <context>
@@ -1727,6 +1750,10 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Hovor aktivní</translation>
     </message>
     <message>
+        <source>Call ended</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Call is ended</source>
         <translation>Hovor je ukončen</translation>
     </message>
@@ -1754,7 +1781,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Dialog</translation>
+        <translation>Dialog</translation>
     </message>
 </context>
 <context>
@@ -2130,7 +2157,7 @@ The plugin is compatible with a similar plugin for Tkabber.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
         <translation>Tento plugin Vám umožňuje hrát šachy s Vašimi přáteli.
 Plugin je kompatibilné s podobným pluginem pro Tkabber.
-Pro příkazy se používají obyčejné zprávy, takže plugin bude fungovat kdekoliv se dokážete přihlásit. Do hry můžete přátele pozvat buď z menu u kontaků nebo pomocí tlačítka z panelu nástrojů okna chatu.</translation>
+Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný modul bude fungovat kdekoliv přihlásíte. Abyste pozvali kamaráda hrát, můžete použít seznam kontaktů nebo tlačítko na liště v okně chatu.</translation>
     </message>
 </context>
 <context>
@@ -2439,7 +2466,7 @@ Můžete si položky prohlédnout před tím, než je smažete.</translation>
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished">Navržený mechanismus: </translation>
+        <translation>Navržené mechanismy: </translation>
     </message>
 </context>
 <context>
@@ -2465,7 +2492,7 @@ Můžete nastavit vše ručně, nebo si vybrat některou z předdefinovaných mo
     <name>CloseButton</name>
     <message>
         <source>Close Tab</source>
-        <translation type="unfinished">Zavřít panel</translation>
+        <translation>Zavřít panel</translation>
     </message>
 </context>
 <context>
@@ -2495,7 +2522,10 @@ Můžete nastavit vše ručně, nebo si vybrat některou z předdefinovaných mo
 Groupchats logs can be viewed from the plugin settings or by clicking on the appropriate button on the toolbar in the active window/tab with groupchat.
 
 Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tento zásuvný modul dokáže ukládat záznamy skupinových chatů, do kterých se uživatel Psí+ přihlásí.
+Záznamy skupinových chatů jsou k náhlednutí v nastavení zásuvného modulu nebo když klikneš na odpovídající tlačítko v nástrojové liště aktivního okna/záložky se skupinovým chatem.
+
+Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu musí být povolena.</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -2714,19 +2744,11 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message numerus="yes">
         <source>and %n contacts </source>
-        <translation>
-            <numerusform>a %n kontakt </numerusform>
-            <numerusform>a %n kontakty </numerusform>
-            <numerusform>a %n kontaktů </numerusform>
-        </translation>
+        <translation><numerusform>a %n kontakt </numerusform><numerusform>a %n kontakty </numerusform><numerusform>a %n kontaktů </numerusform></translation>
     </message>
     <message numerus="yes">
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation>
-            <numerusform>Navždy odebere:&lt;br&gt;%1&lt;br&gt;%2a %n skupinu ze seznamu kontaktů.</numerusform>
-            <numerusform>Navždy odebere:&lt;br&gt;%1&lt;br&gt;%2a %n skupiny ze seznamu kontaktů.</numerusform>
-            <numerusform>Navždy odebere:&lt;br&gt;%1&lt;br&gt;%2a %n skupin ze seznamu kontaktů.</numerusform>
-        </translation>
+        <translation><numerusform>Navždy odebere:&lt;br&gt;%1&lt;br&gt;%2a %n skupinu ze seznamu kontaktů.</numerusform><numerusform>Navždy odebere:&lt;br&gt;%1&lt;br&gt;%2a %n skupiny ze seznamu kontaktů.</numerusform><numerusform>Navždy odebere:&lt;br&gt;%1&lt;br&gt;%2a %n skupin ze seznamu kontaktů.</numerusform></translation>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
@@ -3340,7 +3362,7 @@ Provést?</translation>
     </message>
     <message>
         <source>ToolBar will be placed here</source>
-        <comment>Don&apos;t translate this string</comment>
+        <comment>Don't translate this string</comment>
         <translation>Nástrojová lišta sem bude umístěna</translation>
     </message>
     <message>
@@ -3722,20 +3744,20 @@ Provést?</translation>
     <name>EnumMessagesPlugin</name>
     <message>
         <source>Missed messages: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmeškané zprávy: %1</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished">Autoři: </translation>
+        <translation>Autoři: </translation>
     </message>
     <message>
         <source>Enum Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Výčet zpráv</translation>
     </message>
     <message>
         <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
 Supports per contact on / off message enumeration via the buttons on the chats toolbar.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3934,7 +3956,7 @@ Pokud si přeješ potvrdit požadavek, prosím stiskni tlačítko Potvrdit. V op
     </message>
     <message>
         <source>For all</source>
-        <translation type="unfinished"></translation>
+        <translation>Pro všechny</translation>
     </message>
 </context>
 <context>
@@ -4470,7 +4492,7 @@ Toto nastavení má účinek pouze je-li akceptovat-výchozí vypnuto.</translat
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
 Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Allow groupchat highlight events</source>
@@ -4478,7 +4500,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Enable multirow tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapnout víceřádkové záložky</translation>
     </message>
 </context>
 <context>
@@ -4630,7 +4652,7 @@ je kontakt offline.</translation>
         <source>Unable to connect to peer for data transfer.
 
 Ensure that your Data Transfer settings are proper.  If you are behind
-a NAT router or firewall then you&apos;ll need to open the proper TCP port
+a NAT router or firewall then you'll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>Nemohu se spojit s protějškem pro přenos souboru.
 
@@ -4641,7 +4663,7 @@ nebo specifikovat proxy pro přenos souborů.</translation>
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
 
 This means that the Proxy service is either not functioning or it is
-unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
+unreachable.  If you are behind a firewall, then you'll need to ensure
 that outgoing TCP connections are allowed.</source>
         <translation>Chyba při spojení nebo aktivaci proxy pro přenos dat.
 Tato chyba znamená, že proxy buď nepracuje a nebo je
@@ -5453,14 +5475,14 @@ Hra je prohraná.</translation>
     <name>GameSession</name>
     <message>
         <source>%1: Invitation from %2</source>
-        <translation type="unfinished">%1: Pozvánka od %2</translation>
+        <translation>%1: Pozvánka od %2</translation>
     </message>
 </context>
 <context>
     <name>GameSessionList</name>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
-        <translation type="unfinished">Od: %1&lt;br /&gt;Hra byla odmítnuta</translation>
+        <translation>Od: %1&lt;br /&gt;Hra byla odmítnuta</translation>
     </message>
 </context>
 <context>
@@ -5701,7 +5723,7 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>A thoroughfare within the locality, or a crossing of two thoroughfares</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text:</source>
@@ -5853,7 +5875,7 @@ Pozn.: zásuvný modul kontroluje pro nové zprávy pouze kořenovou složku př
     </message>
     <message>
         <source>GnuPG Key Manager can create, remove, export and import GnuPG keys. It can do only the base operations but I hope it will be enough for your needs.</source>
-        <translation type="unfinished"></translation>
+        <translation>GnuPG Key Manager umí vytvářet, mazat, exportovat a importovat GnuPG klíče. Umí jen základní operace, ale věřím, že je to vše, co člověk k životu potřebuje.</translation>
     </message>
     <message>
         <source>Send GnuPG Public Key</source>
@@ -5868,7 +5890,7 @@ Pozn.: zásuvný modul kontroluje pro nové zprávy pouze kořenovou složku př
     <name>GomokuGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation>Vybrat zvukový soubor</translation>
+        <translation>Vyber soubor se zvukem</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
@@ -5885,7 +5907,8 @@ Pozn.: zásuvný modul kontroluje pro nové zprávy pouze kořenovou složku př
     <message>
         <source>This plugin allows you to play gomoku with your friends.
 For sending commands, normal messages are used, so this plugin will always work wherever you are able to log in.To invite a friend for a game, you can use contact menu item or the button on the toolbar in a chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tento zásuvný modul dovoluje hrát hru gomoku s přáteli.
+Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný modul bude fungovat kdekoliv přihlásíte. Abyste pozvali kamaráda hrát, můžete použít seznam kontaktů nebo tlačítko na liště v okně chatu.</translation>
     </message>
     <message>
         <source>Gomoku game</source>
@@ -6073,6 +6096,10 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>HistoryDlg</translation>
     </message>
     <message>
+        <source>Advanced</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Refresh history</source>
         <translation>Obnovit historii</translation>
     </message>
@@ -6227,7 +6254,7 @@ Pokračovat?</translation>
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi+ is closed.
 You can select or deselect a contact for history removal from the context menu of a contact or via the plugin options.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6247,7 +6274,7 @@ You can select or deselect a contact for history removal from the context menu o
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -6259,9 +6286,13 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Zkopírovat existující profil do nového adresáře, aby bylo možné spustit Psí+. Starý pofil nebude smazán. Můžete ho později smazat ručně.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Doporučeno)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Import Psi profile</source>
@@ -6271,9 +6302,13 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Přesunout existující profil do nového adresáře. Starý profil bude přejmenován automaticky po dokončení.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Import Psi profile and remove it</source>
@@ -6283,9 +6318,13 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Vytvořit nový Psí+ profil. Starý profil nebude smazán, ale nebudete ho moci vybrat.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Nedoporučeno)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Create new profile</source>
@@ -6597,17 +6636,17 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>IcqDie</name>
     <message>
-        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
+        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it's much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
 
-If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
+If you don't know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -6626,7 +6665,7 @@ The plugin has a number of simple settings that can help you:
 * set the max count of messages by contact
 * disable the message for the active window/tab
 * disable messages for contacts that are not in your roster</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6677,9 +6716,9 @@ The plugin has a number of simple settings that can help you:
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
-Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6980,17 +7019,18 @@ hře gomoku. Chce hrát za %2.</translation>
     <message>
         <source>second</source>
         <comment>He wants to play second</comment>
-        <translation type="unfinished"></translation>
+        <translation>druhý</translation>
     </message>
     <message>
         <source>first</source>
         <comment>He wants to play first</comment>
-        <translation type="unfinished"></translation>
+        <translation>první</translation>
     </message>
     <message>
         <source>Player %1 invites you 
 to play battleship. He wants to play %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hráč %1 tě zve 
+abyste si zahráli. Chce hrát %2.</translation>
     </message>
 </context>
 <context>
@@ -7001,7 +7041,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Opponent:</source>
-        <translation type="unfinished">Soupeř:</translation>
+        <translation>Soupeř:</translation>
     </message>
     <message>
         <source>Select resource:</source>
@@ -7009,7 +7049,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušit</translation>
+        <translation>Zrušit</translation>
     </message>
     <message>
         <source>Play White</source>
@@ -7021,15 +7061,15 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Battliship Game Plugin - Invite</source>
-        <translation type="unfinished"></translation>
+        <translation>Zásuvný modul Battliship Game - Pozvánka</translation>
     </message>
     <message>
         <source>I want to play first</source>
-        <translation type="unfinished"></translation>
+        <translation>Chci hrát první</translation>
     </message>
     <message>
         <source>I want to play second</source>
-        <translation type="unfinished"></translation>
+        <translation>Chci hrát druhý</translation>
     </message>
 </context>
 <context>
@@ -7124,6 +7164,13 @@ to play battleship. He wants to play %2.</source>
     </message>
 </context>
 <context>
+    <name>JT_VCard</name>
+    <message>
+        <source>No VCard available</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>JabberDiskPlugin</name>
     <message>
         <source>Jabber Disk</source>
@@ -7171,7 +7218,7 @@ to play battleship. He wants to play %2.</source>
         <translation>Varování</translation>
     </message>
     <message>
-        <source>can&apos;t create folder %1 
+        <source>can't create folder %1 
 caching avatars will be not available</source>
         <translation>nelze vytvořit adresář %1
 vyrovnávací paměť avatarů nebude dostupná</translation>
@@ -7212,7 +7259,7 @@ Currently, the plugin is able to:
 * Enable clickable @nick, *tag, #message_id and other control elements to insert them into the typing area
 
 Note: To work correctly, the option options.html.chat.render	must be set to true. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7685,6 +7732,13 @@ Příchozí událost(i) od:</translation>
     </message>
 </context>
 <context>
+    <name>MainWin::Private</name>
+    <message>
+        <source>Diagnostics</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>MainWindow</name>
     <message>
         <source>New</source>
@@ -7737,11 +7791,11 @@ Rusko, Tambov, 2005 (denis@silversoft.net)</translation>
     <name>MessageFilter</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Autor: </translation>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>e-mail: </source>
-        <translation type="unfinished">e-mail: </translation>
+        <translation>e-mail: </translation>
     </message>
 </context>
 <context>
@@ -7801,7 +7855,7 @@ Detaily: %1</translation>
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation>Otisk</translation>
+        <translation>Otisk klíče</translation>
     </message>
     <message>
         <source>Enable/Disable</source>
@@ -7821,7 +7875,7 @@ Detaily: %1</translation>
     </message>
     <message>
         <source>Expiration</source>
-        <translation type="unfinished"></translation>
+        <translation>Expirace</translation>
     </message>
 </context>
 <context>
@@ -7941,11 +7995,11 @@ Tagy: %1</translation>
     <name>OAuth2SASLContext</name>
     <message>
         <source>Copy authorization code from opened web page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zkopírujte autorizační kód z otevřené webové stránky.</translation>
     </message>
     <message>
         <source>Enter authorization code</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložte autorizační kód</translation>
     </message>
 </context>
 <context>
@@ -8187,7 +8241,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Highlight:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvýraznění:</translation>
     </message>
 </context>
 <context>
@@ -8528,23 +8582,23 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>Plugin Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Název zásuvného modulu</translation>
     </message>
     <message>
         <source>Available plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostupné zásuvné moduly</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Verze</translation>
     </message>
     <message>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>S</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8770,7 +8824,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
-        <translation type="unfinished"></translation>
+        <translation>vteřin (0 = nikdy)</translation>
     </message>
 </context>
 <context>
@@ -9048,9 +9102,13 @@ Tagy: %1</translation>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -9497,7 +9555,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Number of blocked stanzas:</source>
-        <translation>Počet blokovaných stanza:</translation>
+        <translation>Počet blokovaných událostí:</translation>
     </message>
     <message>
         <source>View Log</source>
@@ -9532,7 +9590,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Del</translation>
     </message>
     <message>
-        <source>Disable stopspam, if don&apos;t match any rule above
+        <source>Disable stopspam, if don't match any rule above
 (does not work for muc private messages)</source>
         <translation>Zakázat Stop spam, pokud žádné shora uvedené
 pravidlo neodpovídá (nefunguje pro soukromé
@@ -9600,7 +9658,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>&lt;b&gt;Please wait!&lt;/b&gt;&lt;br/&gt;We need to generate a lot of random bytes. It is a good idea to perform some other action (type on the keyboard, move the mouse, utilize the disks) during the prime generation; this gives the random number generator a better chance to gain enough entropy.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Prosím čekejte!&lt;/b&gt;&lt;br/&gt;Potřebujeme generovat spoustu náhodných dat. Pomůže, když si během generovaní budete dělat jinou práci (psát na klávesnici, hýbat s myší, používat disk); pomáhá to generátoru náhodných čísel, aby měl dostatečnou entropii.</translation>
     </message>
     <message>
         <source>Key pair generating</source>
@@ -9656,43 +9714,43 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Rules</source>
-        <translation type="unfinished">Pravidla</translation>
+        <translation>Pravidla</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Jméno</translation>
+        <translation>Jméno</translation>
     </message>
     <message>
         <source>Conditions</source>
-        <translation type="unfinished"></translation>
+        <translation>Podmínky</translation>
     </message>
     <message>
         <source>Show message if it satisfies the rule</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit zprávu, pokud splňuje pravidlo</translation>
     </message>
     <message>
         <source>Color for incomming messages numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva pro čísla příchozích zpráv</translation>
     </message>
     <message>
         <source>Color for outgoing messages numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Barva pro čísla odchozích zpráv</translation>
     </message>
     <message>
         <source>Default plugin action</source>
-        <translation type="unfinished"></translation>
+        <translation>Výchozí akce pro zásuvný modul</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Vypnutý</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="unfinished">Zapnout</translation>
+        <translation>Zapnutý</translation>
     </message>
 </context>
 <context>
@@ -9979,7 +10037,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Makes Psi switch tab on active tabbed window when you receive a new message. It does not take the keyboard focus, so it will not interfere with your work.</source>
-        <translation type="unfinished"></translation>
+        <translation>Psí přepnou aktuální záložku při příchodů nové zprávy. Nezmění okno, kde zrovna píšeš, takže to nevyruší tvojí práci.</translation>
     </message>
     <message>
         <source>Makes Psi open chat windows in compact mode.</source>
@@ -10197,19 +10255,20 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <source>Plugin Path:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cesta zásuvného modulu:
+%1</translation>
     </message>
     <message>
         <source>Show information about plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazí informace o zásuvném modulu</translation>
     </message>
     <message>
         <source>Open plugin settings dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Otevře dialog nastavení zásuvného modulu</translation>
     </message>
     <message>
         <source>Settings of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavení pro %1</translation>
     </message>
 </context>
 <context>
@@ -10421,7 +10480,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Tunes no-video filter and controllers switcher</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10704,7 +10763,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Save queries to log</source>
-        <translation type="unfinished"></translation>
+        <translation>Uložit požadavky do logu</translation>
     </message>
 </context>
 <context>
@@ -10883,7 +10942,7 @@ Prosím vlož svou heslovací frázi:</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>O modulu</translation>
     </message>
     <message>
         <source>Close</source>
@@ -10901,7 +10960,7 @@ Prosím vlož svou heslovací frázi:</translation>
     <name>PluginSettingsDialog</name>
     <message>
         <source>SettingsDialog</source>
-        <translation type="unfinished"></translation>
+        <translation>SettingsDialog</translation>
     </message>
 </context>
 <context>
@@ -11048,47 +11107,47 @@ Prosím vlož svou heslovací frázi:</translation>
     </message>
     <message>
         <source>Battleship game</source>
-        <translation type="unfinished"></translation>
+        <translation>Hra lodě</translation>
     </message>
     <message>
         <source>Freeze ships position</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknout pozice lodí</translation>
     </message>
     <message>
         <source>Press button and make move if you want to propose draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiskni a proveď tah pokud chceš navhrnout nerozhodnou hru</translation>
     </message>
     <message>
         <source>Propose a draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Navhrnout nerozhodný výsledek</translation>
     </message>
     <message>
         <source>Press button if you want to accept the draw proposal</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiskni, pokud souhlasíš s nerozhodným výsledkem</translation>
     </message>
     <message>
         <source>Accept the draw proposal</source>
-        <translation type="unfinished"></translation>
+        <translation>Souhlas s nerozhodným výsledkem</translation>
     </message>
     <message>
         <source>Press button if you want to resign</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiskni, pokud chceš vzdát hru</translation>
     </message>
     <message>
         <source>Resign the game</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzdát hru</translation>
     </message>
     <message>
         <source>--</source>
-        <translation type="unfinished"></translation>
+        <translation>--</translation>
     </message>
     <message>
         <source>Setting ships position</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavování pozice lodí</translation>
     </message>
     <message>
         <source>Draw</source>
-        <translation type="unfinished"></translation>
+        <translation>Nerozhodně</translation>
     </message>
 </context>
 <context>
@@ -11722,7 +11781,7 @@ Odhlásit se?</translation>
     </message>
     <message>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tento účet byl nastaven tak, aby používal &quot;Zastaralý SSL port&quot;, ale to už není podporováno. Pokud tvůj XMPP server není úplně starý, tato změna se tě nedotkne. Pokud máš problémy s připojením, prosím, zkonstroluj si nastavení svého účtu nebo kontaktuj svého administrátora XMPP serveru.</translation>
     </message>
     <message>
         <source>Server Authentication</source>
@@ -11952,7 +12011,7 @@ Detaily: %1</translation>
     </message>
     <message>
         <source>Version Query Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Dotaz na informaci o verzi</translation>
     </message>
     <message>
         <source>Headline</source>
@@ -12587,7 +12646,7 @@ Důvod: %1.</translation>
     </message>
     <message>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
-        <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
+        <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
         <translation>Nastavit stav. STAV musí být jedno z `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</translation>
     </message>
     <message>
@@ -13252,7 +13311,7 @@ Chceš aktivovat tuto relaci?</translation>
     </message>
     <message>
         <source>(internal node)</source>
-        <translation>(interní uzel)</translation>
+        <translation>(vnitřní uzel)</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -13454,7 +13513,7 @@ Pokračovat?</translation>
     </message>
     <message>
         <source>Doing Chores</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Buying Groceries</source>
@@ -13486,7 +13545,7 @@ Pokračovat?</translation>
     </message>
     <message>
         <source>Running An Errand</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Walking The Dog</source>
@@ -13570,7 +13629,7 @@ Pokračovat?</translation>
     </message>
     <message>
         <source>Grooming</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>At The Spa</source>
@@ -13650,7 +13709,7 @@ Pokračovat?</translation>
     </message>
     <message>
         <source>Going Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Na rande</translation>
     </message>
     <message>
         <source>Partying</source>
@@ -13710,7 +13769,7 @@ Pokračovat?</translation>
     </message>
     <message>
         <source>Commuting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Driving</source>
@@ -13782,7 +13841,7 @@ Pokračovat?</translation>
     </message>
     <message>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Byla nalezena konfigurační data pro předchozí verzi Psí, ale nebylo je možné převést tak, aby pracovala se současnou verzi. Ujisti se, že máš dostatečná oprávnění a že neběží jiná instance Psí. Potom to zkus znovu.</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -13926,7 +13985,7 @@ Popis: </translation>
     </message>
     <message>
         <source>Amorous</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Annoyed</source>
@@ -13974,7 +14033,7 @@ Popis: </translation>
     </message>
     <message>
         <source>Contemplative</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Contented</source>
@@ -13998,7 +14057,7 @@ Popis: </translation>
     </message>
     <message>
         <source>Dejected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Depressed</source>
@@ -14014,7 +14073,7 @@ Popis: </translation>
     </message>
     <message>
         <source>Dismayed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distracted</source>
@@ -14138,7 +14197,7 @@ Popis: </translation>
     </message>
     <message>
         <source>Outraged</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Playful</source>
@@ -14342,35 +14401,19 @@ Popis: </translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
-        <translation>
-            <numerusform>%n den</numerusform>
-            <numerusform>%n dnů</numerusform>
-            <numerusform>%n dnů</numerusform>
-        </translation>
+        <translation><numerusform>%n den</numerusform><numerusform>%n dnů</numerusform><numerusform>%n dnů</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) </source>
-        <translation>
-            <numerusform>%n hodina </numerusform>
-            <numerusform>%n hodin </numerusform>
-            <numerusform>%n hodin </numerusform>
-        </translation>
+        <translation><numerusform>%n hodina </numerusform><numerusform>%n hodin </numerusform><numerusform>%n hodin </numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) </source>
-        <translation>
-            <numerusform>%n minuta </numerusform>
-            <numerusform>%n minut </numerusform>
-            <numerusform>%n minut </numerusform>
-        </translation>
+        <translation><numerusform>%n minuta </numerusform><numerusform>%n minut </numerusform><numerusform>%n minut </numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) </source>
-        <translation>
-            <numerusform>%n sekunda </numerusform>
-            <numerusform>%n sekund </numerusform>
-            <numerusform>%n sekund </numerusform>
-        </translation>
+        <translation><numerusform>%n sekunda </numerusform><numerusform>%n sekund </numerusform><numerusform>%n sekund </numerusform></translation>
     </message>
     <message>
         <source>Warning</source>
@@ -14449,6 +14492,24 @@ Zpráva nebyla odeslána.</translation>
         <translation>Psí mimo záznam</translation>
     </message>
     <message>
+        <source>Generating keys for account &quot;%1&quot;.
+This may take a while.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Please wait...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;:
+%2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
 The OTR Plugin will not work.</source>
         <translation>Selhalo generování klíču pro účet &quot;%1&quot;.
@@ -14456,11 +14517,11 @@ Zásuvný modul OTR nebude pracovat správně.</translation>
     </message>
     <message>
         <source>&lt;b&gt;The following message received from %1 was &lt;i&gt;not&lt;/i&gt; encrypted:&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Následující zpráva přijatá od %1 &lt;i&gt;nebyla&lt;/i&gt; zašifrována:&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Your message was not sent. Either end your private conversation, or restart it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tvoje zpráva nebyla odeslána. Buď ukonči soukromou konverzaci nebo ji restartuj.</translation>
     </message>
     <message>
         <source>Unreadable encrypted message was received.</source>
@@ -14468,7 +14529,7 @@ Zásuvný modul OTR nebude pracovat správně.</translation>
     </message>
     <message>
         <source>Received an encrypted message but it cannot be read because no private connection is established yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Byla přijata zašifrovaná zpráva, ale nemohla být přečtena, protože zatím není vytvořeno žádné soukromé spojení.</translation>
     </message>
     <message>
         <source>Received message is unreadable.</source>
@@ -14481,7 +14542,7 @@ Zásuvný modul OTR nebude pracovat správně.</translation>
     <message>
         <source>You have received a new fingerprint from %1:
 %2</source>
-        <translation>Přijal jsi nový otisk prstu od %1:
+        <translation>Přijal jsi nový otisk klíče od %1:
 %2</translation>
     </message>
     <message>
@@ -14554,11 +14615,11 @@ Heslo: %5</translation>
     </message>
     <message>
         <source>Presence-In,</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Presence-Out,</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Queries,</source>
@@ -14836,30 +14897,35 @@ Heslo: %5</translation>
         <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
 
 Do you want to generate keys now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Musí být generovány soukromé klíče pro účet &quot;%1&quot;. Zabere to nějaký čas (od pár vteřin po pár minut). I po tuto dobu můžeš používat Psí+, ale všechny zprávy budou dočasně odesílány nešifrovaně. Budeš informován o tom, kdy generování skončí.
+
+Chceš teď generovat klíče?</translation>
     </message>
     <message>
         <source>Keys have been generated. Fingerprint for account &quot;%1&quot;:
 %2
 
 Thanks for your patience.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klíče byly generovány. Otisk klíče &quot;%1&quot;:
+%2
+
+Děkujeme za trpělivost.</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished">Nikdy</translation>
+        <translation>Nikdy</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished">Vždy</translation>
+        <translation>Vždy</translation>
     </message>
     <message>
         <source>This computer only</source>
-        <translation type="unfinished"></translation>
+        <translation>Jen na tomto počítači</translation>
     </message>
     <message>
         <source>Except this computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Kromě tohoto počítače</translation>
     </message>
 </context>
 <context>
@@ -14893,7 +14959,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
-        <translation type="unfinished"></translation>
+        <translation>Přesměrovává všechny příchozí zprávy na nějake JID a dovoluje přesměrovávat zpět.</translation>
     </message>
 </context>
 <context>
@@ -14970,14 +15036,10 @@ Zdůvodnění: %1</translation>
     <message numerus="yes">
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation>
-            <numerusform>slaví narozeniny za %n den
-</numerusform>
-            <numerusform>slaví narozeniny za %n dny
-</numerusform>
-            <numerusform>slaví narozeniny za %n dny
-</numerusform>
-        </translation>
+        <translation><numerusform>slaví narozeniny za %n den
+</numerusform><numerusform>slaví narozeniny za %n dny
+</numerusform><numerusform>slaví narozeniny za %n dny
+</numerusform></translation>
     </message>
     <message>
         <source>celebrates birthday yesterday.
@@ -15007,7 +15069,7 @@ Zdůvodnění: %1</translation>
     <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
 The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -15256,7 +15318,7 @@ The plugin has the following settings:
 * Format -- the file format in which the screenshot will be stored (default: .jpg)
 * File Name -- format of the filename (default: pic-yyyyMMdd-hhmmss, where yyyyMMdd=YYYYMMDD, and hhmmss are current date in the format yearmonthday-hourminutesecond)
 The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>
@@ -15374,11 +15436,7 @@ Zdůvodnění: %1</translation>
     </message>
     <message numerus="yes">
         <source>Added %n users to your roster.</source>
-        <translation>
-            <numerusform>%n uživatel byl přidán do seznamu kontaktů.</numerusform>
-            <numerusform>%n uživatelé byli přidán do seznamu kontaktů.</numerusform>
-            <numerusform>%n uživatelů bylo přidáno do seznamu kontaktů.</numerusform>
-        </translation>
+        <translation><numerusform>%n uživatel byl přidán do seznamu kontaktů.</numerusform><numerusform>%n uživatelé byli přidán do seznamu kontaktů.</numerusform><numerusform>%n uživatelů bylo přidáno do seznamu kontaktů.</numerusform></translation>
     </message>
     <message>
         <source>Added %1 to your roster.</source>
@@ -16100,7 +16158,7 @@ In most cases, to be sure that the skin is applied correctly, you must perform a
 2. Restart the application
 3. Apply the same skin again
 This allows all settings (icons, toolbar layout) to be picked up correctly. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16207,11 +16265,11 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     <name>StopSpam</name>
     <message>
         <source>Block stanza from </source>
-        <translation>Blokovat stanzy od</translation>
+        <translation>Blokovat události od</translation>
     </message>
     <message>
         <source>Stop Spam Plugin</source>
-        <translation>Zastavit zasuvný modul Spam</translation>
+        <translation>Zasuvný modul Stop Spam</translation>
     </message>
     <message>
         <source> pass the test</source>
@@ -16245,7 +16303,7 @@ When a user has passed, the test will send a re-authorization request. It should
 The plugin keeps a log of blocked messages, which you can view through the plugin settings. The &quot;Reset&quot; button deletes the log and resets the counter of blocked messages.
 
 WARNING!!! Before registering a new transport, it is recommended to add its jid to transport exceptions. This is due to the fact that after the transport registration, authorization requests for all contacts will be sent and if the transport was not added to as an exception, the plugin will block all the requests.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16270,7 +16328,7 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
 The plugin is fully compatible with notes saved using Miranda IM.
 The plugin is designed to keep notes on the jabber server with the ability to access them from anywhere using Psi+ or Miranda IM.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16352,7 +16410,7 @@ Currently supports:
   JEP-0025
 
 Copyright (C) 2003 Justin Karneges</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Error</source>
@@ -16398,11 +16456,11 @@ Opravte ho a zkuste to znovu.</translation>
     </message>
     <message>
         <source>Bad Stanza &apos;%1&apos;.  Must be &apos;message&apos;, &apos;presence&apos;, or &apos;iq&apos;</source>
-        <translation>Špatná stanza &apos;%1&apos;.  Musí být &apos;message&apos;, &apos;presence&apos;, nebo &apos;iq&apos;</translation>
+        <translation>Špatná událost &apos;%1&apos;.  Musí být &apos;message&apos;, &apos;presence&apos;, nebo &apos;iq&apos;</translation>
     </message>
     <message>
         <source>You must enter at least one stanza!</source>
-        <translation>Musíte vložit alespoň jednu stanzu!</translation>
+        <translation>Musíte vložit alespoň jednu událost!</translation>
     </message>
     <message>
         <source>Password</source>
@@ -16637,7 +16695,7 @@ Doufáme, že si jeho používání budete užívat stejně, jako si my užívá
         <source>You can type these special commands in chat and groupchat dialogs:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
+&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; '/me' is replaced by your nick&lt;/li&gt;
 &lt;/ul&gt;
 And these work only in groupchat dialog:
 &lt;ul&gt;
@@ -16655,11 +16713,11 @@ Následující funguje pouze v okně groupchatu:
     </message>
     <message>
         <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
@@ -16671,7 +16729,7 @@ Následující funguje pouze v okně groupchatu:
     </message>
     <message>
         <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
@@ -16683,7 +16741,7 @@ Následující funguje pouze v okně groupchatu:
     </message>
     <message>
         <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
@@ -16693,7 +16751,7 @@ Následující funguje pouze v okně groupchatu:
         <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
 &lt;br&gt;&lt;br&gt;
 Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
@@ -16938,7 +16996,7 @@ To work with VLC player you need to enable the option &quot;Control Interface D-
 To work with Kaffeine player you must have player version (&gt;= 1.0), additional configuration is not needed; 
 
 To work with GNOME MPlayer additional configuration is not needed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17197,7 +17255,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     <message>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
 On the first tab set up a list of contacts for the status of which is monitored. When the status of such contacts changes a popup window will be shown and when the status changes to online a custom sound can be played.On the second tab is configured list of items, the messages are being monitored. Each element can contain a regular expression to check for matches with JID, from which the message arrives, a list of regular expressions to check for matches with the text of an incoming message, the path to sound file which will be played in case of coincidence, as well as the setting, whether the sound is played always, even if the global sounds off. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17468,7 +17526,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>SM</source>
-        <translation type="unfinished"></translation>
+        <translation>SM</translation>
     </message>
 </context>
 <context>
@@ -17529,7 +17587,7 @@ Opravdu zavřít okno?</translation>
     <name>XMPP::JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation>Žádná VCard dostupná</translation>
+        <translation>Žádná vizitka k dispozici</translation>
     </message>
 </context>
 <context>
@@ -17540,7 +17598,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>The sender has sent XML that is malformed or that cannot be processed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odesílatel poslal XML, které je poškozené nebo nemůže být zpracováno.</translation>
     </message>
     <message>
         <source>Conflict</source>
@@ -17548,7 +17606,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Access cannot be granted because an existing resource or session exists with the same name or address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Přistup nemůže být povolen, protože už zdroj nebo sezení se stejným jménem/adresou existuje.</translation>
     </message>
     <message>
         <source>Feature not implemented</source>
@@ -17564,7 +17622,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>The requesting entity does not possess the required permissions to perform the action.</source>
-        <translation type="unfinished"></translation>
+        <translation>Požadující entita nemá dostatečné oprávnění, aby provedla tuto akci.</translation>
     </message>
     <message>
         <source>Gone</source>
@@ -17572,7 +17630,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>The recipient or server can no longer be contacted at this address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Příjemce nebo server již nemůže být kontktován na této adrese.</translation>
     </message>
     <message>
         <source>Internal server error</source>
@@ -17580,7 +17638,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>The server could not process the stanza because of a misconfiguration or an otherwise-undefined internal server error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Server nemohl zpracovat událost kvůli špatné konfiguraci nebo jiné blíže nespecikované interní chybě serveru.</translation>
     </message>
     <message>
         <source>Item not found</source>
@@ -17588,7 +17646,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>The addressed JID or item requested cannot be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresované JID nebo položka nebyli nalezeni.</translation>
     </message>
     <message>
         <source>JID malformed</source>
@@ -17596,7 +17654,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Not acceptable</source>
@@ -17604,7 +17662,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server (e.g., a local policy regarding acceptable words in messages).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Not allowed</source>
@@ -17612,7 +17670,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>The recipient or server does not allow any entity to perform the action.</source>
-        <translation type="unfinished"></translation>
+        <translation>Příjemce nebo server nedovoluje žádné entitě, aby provedla tuto akci.</translation>
     </message>
     <message>
         <source>Not authorized</source>
@@ -17620,7 +17678,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Recipient unavailable</source>
@@ -17644,7 +17702,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remote server not found</source>
@@ -17652,7 +17710,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remote server timeout</source>
@@ -17660,7 +17718,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>A remote server or service specified as part or all of the JID of the intended recipient (or required to fulfill a request) could not be contacted within a reasonable amount of time.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Resource constraint</source>
@@ -17668,7 +17726,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>The server or recipient lacks the system resources necessary to service the request.</source>
-        <translation type="unfinished"></translation>
+        <translation>Server nebo příjemce nemá dostatek systémových prostředků, aby obsloužili tento požadavek.</translation>
     </message>
     <message>
         <source>Service unavailable</source>
@@ -17684,7 +17742,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>The requesting entity is not authorized to access the requested service because a subscription is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Požadující entita není oprávněná k přístupu na požadovanou službu, protože je třeba příhlášení.</translation>
     </message>
     <message>
         <source>Undefined condition</source>
@@ -17692,7 +17750,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>The error condition is not one of those defined by the other conditions in this list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba není z těch, které jsou definované jinými chybami v tomto seznamu.</translation>
     </message>
     <message>
         <source>Unexpected request</source>
@@ -17700,7 +17758,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
-        <translation type="unfinished"></translation>
+        <translation>Příjemce nebo server rozumněli požadavku, ale teď jej neočekávali (např. požadavek byl ve špatném pořadí).</translation>
     </message>
 </context>
 <context>
@@ -17856,11 +17914,11 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Disable invitations from conference</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakázat pozvánky z konference</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -17879,7 +17937,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>To authenticate manually, exchange your fingerprints over an authenticated channel and compare each other&apos;s fingerprint with the one listed beneath.</source>
-        <translation>Pro manuální ověření si vyměn svoje otisky prstu přes ověřený kanál a porovnej klíč toho druhého s tím uvedeným dole.</translation>
+        <translation>Pro manuální ověření si vyměň svoje otisky klíče přes ověřený kanál a porovnej klíč toho druhého s tím uvedeným dole.</translation>
     </message>
     <message>
         <source>Authenticate to %1</source>
@@ -17903,7 +17961,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Fingerprint verification</source>
-        <translation>Ověření otisku prstu</translation>
+        <translation>Ověření otisku klíče</translation>
     </message>
     <message>
         <source>&amp;Question:</source>
@@ -17935,11 +17993,11 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Your fingerprint:</source>
-        <translation>Tvůj otisk prstu:</translation>
+        <translation>Tvůj otisk klíče:</translation>
     </message>
     <message>
         <source>%1&apos;s fingerprint:</source>
-        <translation>Otisk prstu %1:</translation>
+        <translation>Otisk klíče %1:</translation>
     </message>
     <message>
         <source>Account: </source>
@@ -17951,11 +18009,11 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation>Otisk prstu: </translation>
+        <translation>Otisk klíče: </translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
-        <translation>Ověřil jsi, že je to ve skutečnosti správný otisk prstu?</translation>
+        <translation>Ověřil jsi, že je to ve skutečnosti správný otisk klíče?</translation>
     </message>
     <message>
         <source>Psi OTR</source>
@@ -17990,7 +18048,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     <name>psiotr::ConfigDialog</name>
     <message>
         <source>Known fingerprints</source>
-        <translation>Známé otisky prstů</translation>
+        <translation>Známé otisky klíčů</translation>
     </message>
     <message>
         <source>My private keys</source>
@@ -18032,11 +18090,11 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     <name>psiotr::FingerprintWidget</name>
     <message>
         <source>Delete fingerprint</source>
-        <translation>Odstranit otisk prstu</translation>
+        <translation>Odstranit otisk klíče</translation>
     </message>
     <message>
         <source>Verify fingerprint</source>
-        <translation>Ověřit otisk prstu</translation>
+        <translation>Ověřit otisk klíče</translation>
     </message>
     <message>
         <source>Account</source>
@@ -18048,7 +18106,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation>Otisk prstu</translation>
+        <translation>Otisk klíče</translation>
     </message>
     <message>
         <source>Verified</source>
@@ -18060,7 +18118,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>Are you sure you want to delete the following fingerprint?</source>
-        <translation>Opravdu odstranit následující otisk prstu?</translation>
+        <translation>Opravdu odstranit následující otisk klíče?</translation>
     </message>
     <message>
         <source>Account: </source>
@@ -18072,7 +18130,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation>Otisk prstu: </translation>
+        <translation>Otisk klíče: </translation>
     </message>
     <message>
         <source>Psi OTR</source>
@@ -18080,7 +18138,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
-        <translation>Ověřil jsi, že je to ve skutečnosti správný otisk prstu?</translation>
+        <translation>Ověřil jsi, že je to ve skutečnosti správný otisk klíče?</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -18088,7 +18146,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation>Kopírovat otisk prstu</translation>
+        <translation>Kopírovat otisk klíče</translation>
     </message>
 </context>
 <context>
@@ -18107,7 +18165,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>Fingerprint</source>
-        <translation>Otisk prstu</translation>
+        <translation>Otisk klíče</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
@@ -18119,7 +18177,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>Fingerprint: </source>
-        <translation>Otisk prstu: </translation>
+        <translation>Otisk klíče: </translation>
     </message>
     <message>
         <source>Psi OTR</source>
@@ -18135,7 +18193,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>Copy fingerprint</source>
-        <translation>Kopírovat otisk prstu</translation>
+        <translation>Kopírovat otisk klíče</translation>
     </message>
 </context>
 <context>
@@ -18145,8 +18203,21 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
         <translation>Žádné aktivní šifrované sezení</translation>
     </message>
     <message>
+        <source>Session ID between account &quot;%1&quot; and %2:&lt;br/&gt;%3</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Psi OTR</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>No private key for account &quot;%1&quot;</source>
         <translation>Žádný soukromý klíč pro účet &quot;%1&quot;</translation>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;:
+%2</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>unverified</source>
@@ -18178,15 +18249,15 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>Show own &amp;fingerprint</source>
-        <translation>Zobrazit &amp;vlastní otisk prstu</translation>
+        <translation>Zobrazit &amp;vlastní otisk klíče</translation>
     </message>
     <message>
         <source>Session ID between account &quot;%1&quot; and %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>ID sezení mezi účty &quot;%1&quot; a %2: %3</translation>
     </message>
     <message>
         <source>Fingerprint for account &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Otisk klíče pro účet &quot;%1&quot;: %2</translation>
     </message>
 </context>
 <context>
@@ -18289,7 +18360,7 @@ Měl bys také ověřit %1 tak, že se zeptáš svoji vlastní otázku.</transla
     </message>
     <message>
         <source>OTR Plugin: event from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Zásuvný modul OTR: událost od %1</translation>
     </message>
 </context>
 <context>
@@ -18594,7 +18665,7 @@ Reathorization...</source>
 Opětovné ověření...</translation>
     </message>
     <message>
-        <source>Can&apos;t get files!
+        <source>Can't get files!
 Try remove cookies.</source>
         <translation>Nelze získat soubory!
 Zkus odstranit cookies.</translation>
@@ -18684,9 +18755,13 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>%N - file name; %U - file URL; %S - file size</source>
