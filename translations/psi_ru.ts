@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ru">
+<TS version="2.0" language="ru">
 <context>
     <name>@default</name>
     <message>
@@ -131,7 +131,7 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;</translation>
     </message>
     <message>
         <source>Designer and Patcher</source>
-        <translation type="vanished">Дизайнер и автор патчей</translation>
+        <translation>Дизайнер и автор патчей</translation>
     </message>
     <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
@@ -231,7 +231,7 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@mail.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;https://www.transifex.com/projects/p/psi-plus/&quot;&gt;Transifex&lt;/a&gt; и здесь: &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 20.04.2016</translation>
+        <translation>Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@mail.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода здесь: &lt;a href=&quot;https://www.transifex.com/projects/p/psi-plus/&quot;&gt;Transifex&lt;/a&gt; и здесь: &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;&lt;br&gt;Дата текущего перевода: 23.04.2016</translation>
     </message>
 </context>
 <context>
@@ -1597,7 +1597,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Auto-join</source>
-        <translation type="vanished">Авто-вход</translation>
+        <translation>Авто-вход</translation>
     </message>
     <message>
         <source>Import bookmarks from file</source>
@@ -7179,7 +7179,7 @@ to play battleship. He wants to play %2.</source>
     <name>JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation type="vanished">vCard недоступен</translation>
+        <translation>vCard недоступен</translation>
     </message>
 </context>
 <context>
@@ -8573,23 +8573,23 @@ Tags: %1</source>
     </message>
     <message>
         <source>Plugin Name:</source>
-        <translation type="vanished">Название:</translation>
+        <translation>Название:</translation>
     </message>
     <message>
         <source>Version: 0</source>
-        <translation type="vanished">Версия: 0</translation>
+        <translation>Версия: 0</translation>
     </message>
     <message>
         <source>Load this plugin</source>
-        <translation type="vanished">Активировать</translation>
+        <translation>Активировать</translation>
     </message>
     <message>
         <source>Plugin Location:</source>
-        <translation type="vanished">Расположение:</translation>
+        <translation>Расположение:</translation>
     </message>
     <message>
         <source>No plugin selected</source>
-        <translation type="vanished">Плагин не выбран</translation>
+        <translation>Плагин не выбран</translation>
     </message>
     <message>
         <source>Plugin Name</source>
@@ -8755,7 +8755,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="vanished">секунд</translation>
+        <translation>секунд</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -10252,11 +10252,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>No plugin selected.</source>
-        <translation type="vanished">Плагин не выбран.</translation>
+        <translation>Плагин не выбран.</translation>
     </message>
     <message>
         <source>Version: </source>
-        <translation type="vanished">Версия: </translation>
+        <translation>Версия: </translation>
     </message>
     <message>
         <source>Plugin Path:
@@ -10649,7 +10649,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Save queryes to log</source>
-        <translation type="vanished">Сохранять запросы в журнал</translation>
+        <translation>Сохранять запросы в журнал</translation>
     </message>
     <message>
         <source>Logs</source>
@@ -10944,7 +10944,7 @@ Please enter your passphrase below:</source>
     <name>PluginInfoDialog</name>
     <message>
         <source>Information</source>
-        <translation type="vanished">Информация</translation>
+        <translation>Информация</translation>
     </message>
     <message>
         <source>About</source>
@@ -11470,7 +11470,7 @@ Only use letters or numbers.  No punctuation or spaces.</source>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
-        <translation type="vanished">&lt;qt&gt;Подтвердите своё решение. Данная папка будет удалена!&lt;br&gt;&lt;br&gt;
+        <translation>&lt;qt&gt;Подтвердите своё решение. Данная папка будет удалена!&lt;br&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Подтверждаете?</translation>
     </message>
@@ -11484,17 +11484,19 @@ Proceed?</source>
     </message>
     <message>
         <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">Невозможно полностью удалить профиль. Убедитесь, что для этого у вас достаточно прав.</translation>
+        <translation>Невозможно полностью удалить профиль. Убедитесь, что для этого у вас достаточно прав.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;qt&gt;Внимание! Данные папки будут удалены!&lt;br&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+Удалить?</translation>
     </message>
     <message>
         <source>Unable to delete the folders completely.  Ensure you have the proper permission.</source>
-        <translation type="unfinished"></translation>
+        <translation>Невозможно удалить папки полностью. Убедитесь, что для этого у вас достаточно прав.</translation>
     </message>
 </context>
 <context>
@@ -12555,11 +12557,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="vanished">Вставить и отправить</translation>
+        <translation>Вставить и отправить</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="vanished">Шаблоны</translation>
+        <translation>Шаблоны</translation>
     </message>
     <message>
         <source>Chat basic buttons</source>
@@ -12911,23 +12913,23 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>&amp;Log on</source>
-        <translation type="vanished">&amp;Подключить</translation>
+        <translation>&amp;Подключить</translation>
     </message>
     <message>
         <source>Log Off</source>
-        <translation type="vanished">Отключить</translation>
+        <translation>Отключить</translation>
     </message>
     <message>
         <source>Resend Authorization To</source>
-        <translation type="vanished">Разрешить подписку</translation>
+        <translation>Разрешить подписку</translation>
     </message>
     <message>
         <source>Rerequest Authorization From</source>
-        <translation type="vanished">Запросить подписку</translation>
+        <translation>Запросить подписку</translation>
     </message>
     <message>
         <source>Remove Authorization From</source>
-        <translation type="vanished">Удалить подписку</translation>
+        <translation>Удалить подписку</translation>
     </message>
     <message>
         <source>Sen&amp;d Status</source>
@@ -12955,7 +12957,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Invite To</source>
-        <translation type="vanished">Пригласить в</translation>
+        <translation>Пригласить в</translation>
     </message>
     <message>
         <source>&amp;Group</source>
@@ -12963,15 +12965,15 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Send Message To</source>
-        <translation type="vanished">Отправить сообщение</translation>
+        <translation>Отправить сообщение</translation>
     </message>
     <message>
         <source>Open Chat To</source>
-        <translation type="vanished">Открыть чат</translation>
+        <translation>Открыть чат</translation>
     </message>
     <message>
         <source>Open a Whiteboard To</source>
-        <translation type="vanished">Открыть доску для рисования</translation>
+        <translation>Открыть доску для рисования</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -12979,7 +12981,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Active Chats</source>
-        <translation type="vanished">Активные чаты</translation>
+        <translation>Активные чаты</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -13003,7 +13005,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Authorization</source>
-        <translation type="vanished">Подписка</translation>
+        <translation>Подписка</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
@@ -15511,94 +15513,94 @@ Reason: %1</source>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
-        <translation type="vanished">Редактор шаблонов</translation>
+        <translation>Редактор шаблонов</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="vanished">Шаблоны</translation>
+        <translation>Шаблоны</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Добавить</translation>
+        <translation>Добавить</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="vanished">Изменить</translation>
+        <translation>Изменить</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Удалить</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="vanished">Ок</translation>
+        <translation>Ок</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation type="vanished">Добавить строку шаблона</translation>
+        <translation>Добавить строку шаблона</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation type="vanished">Добавить строку шаблона как подменю</translation>
+        <translation>Добавить строку шаблона как подменю</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation type="vanished">Добавить разделитель</translation>
+        <translation>Добавить разделитель</translation>
     </message>
     <message>
         <source>Add separator as submenu</source>
-        <translation type="vanished">Добавить разделитель как подменю</translation>
+        <translation>Добавить разделитель как подменю</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="vanished">Выше</translation>
+        <translation>Выше</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="vanished">Ниже</translation>
+        <translation>Ниже</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
-        <translation type="vanished">&lt;разделитель&gt;</translation>
+        <translation>&lt;разделитель&gt;</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation type="vanished">Редактировать шаблон</translation>
+        <translation>Редактировать шаблон</translation>
     </message>
     <message>
         <source>Input new template text</source>
-        <translation type="vanished">Введите текст шаблона</translation>
+        <translation>Введите текст шаблона</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation type="vanished">Сохранить шаблоны</translation>
+        <translation>Сохранить шаблоны</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="vanished">Шаблон &quot;%1&quot; не был сохранён!</translation>
+        <translation>Шаблон &quot;%1&quot; не был сохранён!</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation type="vanished">Продолжить?</translation>
+        <translation>Продолжить?</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
         <source>Paste and &amp;Send</source>
-        <translation type="vanished">Вставить и &amp;отправить</translation>
+        <translation>Вставить и &amp;отправить</translation>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
-        <translation type="vanished">&amp;Редактировать шаблоны</translation>
+        <translation>&amp;Редактировать шаблоны</translation>
     </message>
     <message>
         <source>Only &amp;Paste</source>
-        <translation type="vanished">Только &amp;вставить</translation>
+        <translation>Только &amp;вставить</translation>
     </message>
 </context>
 <context>
