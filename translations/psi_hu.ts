@@ -2393,7 +2393,7 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
 You can preview items before deleting them from your hard drive.</source>
-        <translation>Ez a kiegészítő az Profilkép cache-ek, vCard-ok és előzménynaplók helyi másolatának törlésére lett tervezve.
+        <translation>Ez a kiegészítő a Profilkép cache-ek, vCard-ok és előzménynaplók helyi másolatának törlésére lett tervezve.
 Az elemeket megtekintheted, mielőtt törlöd őket a merevlemezről.</translation>
     </message>
 </context>
@@ -2606,7 +2606,7 @@ Megjegyzés: A helyes működéshez a Csoportbeszélgetés Eszköztárat be kell
     </message>
     <message>
         <source>Send Server Message</source>
-        <translation>Szerver üzenet küldése</translation>
+        <translation>Szerverüzenet küldése</translation>
     </message>
     <message>
         <source>Set MOTD</source>
@@ -2986,7 +2986,7 @@ Megjegyzés: A helyes működéshez a Csoportbeszélgetés Eszköztárat be kell
     </message>
     <message>
         <source>Send Server Message</source>
-        <translation>Szerver üzenet küldése</translation>
+        <translation>Szerverüzenet küldése</translation>
     </message>
     <message>
         <source>Set MOTD</source>
@@ -3620,11 +3620,11 @@ Folytatod?</translation>
     <name>EDBFlatFile::File</name>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation>&lt;big&gt;[Rendszer üzenet]&lt;/big&gt;&lt;br&gt;Jóváhagyásod elfogadva.</translation>
+        <translation>&lt;big&gt;[Rendszerüzenet]&lt;/big&gt;&lt;br&gt;Jóváhagyásod elfogadva.</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
-        <translation>&lt;big&gt;[Rendszer üzenet]&lt;/big&gt;&lt;br&gt;Jóváhagyásod törölve!</translation>
+        <translation>&lt;big&gt;[Rendszerüzenet]&lt;/big&gt;&lt;br&gt;Jóváhagyásod törölve!</translation>
     </message>
 </context>
 <context>
@@ -3918,15 +3918,15 @@ Ha engedélyezni szeretnéd ezt a kérést, nyomd meg az Megerősítés gombot. 
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to subscribe to your presence.  Click the button labelled &quot;Add/Auth&quot; to authorize the subscription.  This will also add the person to your contact list if it is not already there.</source>
-        <translation>&lt;big&gt;[Rendszer üzenet]&lt;/big&gt;&lt;br&gt;Ez a felhasználó fel akar iratkozni hozzád. Kattints a &quot;Hozzáadás/Jóváhagyás&quot; gombra hogy elfogadd. Ezzel hozzáadod a címlistádhoz is, ha még nincs rajta.</translation>
+        <translation>&lt;big&gt;[Rendszerüzenet]&lt;/big&gt;&lt;br&gt;Ez a felhasználó fel akar iratkozni hozzád. Kattints a &quot;Hozzáadás/Jóváhagyás&quot; gombra hogy elfogadd. Ezzel hozzáadod a címlistádhoz is, ha még nincs rajta.</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;You are now authorized.</source>
-        <translation>&lt;big&gt;[Rendszer üzenet]&lt;/big&gt;&lt;br&gt;Jóváhagyásod elfogadva.</translation>
+        <translation>&lt;big&gt;[Rendszerüzenet]&lt;/big&gt;&lt;br&gt;Jóváhagyásod elfogadva.</translation>
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;Your authorization has been removed!</source>
-        <translation>&lt;big&gt;[Rendszer üzenet]&lt;/big&gt;&lt;br&gt;Jóváhagyásod törölve!</translation>
+        <translation>&lt;big&gt;[Rendszerüzenet]&lt;/big&gt;&lt;br&gt;Jóváhagyásod törölve!</translation>
     </message>
     <message>
         <source>%1 additions</source>
@@ -3954,7 +3954,7 @@ Ha engedélyezni szeretnéd ezt a kérést, nyomd meg az Megerősítés gombot. 
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to modify your roster (%1). Click the button labelled &quot;Add/Auth&quot; to authorize the modification.</source>
-        <translation>&lt;big&gt;[Rendszer üzenet]&lt;/big&gt;&lt;br&gt;Ez a felhasználó módosítani akarja a címlistádat (%1). Engedélyezéshez kattints a &quot;Hozzáadás/Jóváhagyás&quot; gombra.</translation>
+        <translation>&lt;big&gt;[Rendszerüzenet]&lt;/big&gt;&lt;br&gt;Ez a felhasználó módosítani akarja a címlistádat (%1). Engedélyezéshez kattints a &quot;Hozzáadás/Jóváhagyás&quot; gombra.</translation>
     </message>
     <message>
         <source>For all</source>
@@ -5856,7 +5856,7 @@ Vesztettél.</translation>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
         <translation>Gmailbox-od beérkező leveleiről értesít.
-Megjegyzés: A kiegészítő csak az &apos;Inbox&apos; mappát ellenőrzi, ha szerver oldali szűrést használsz nem biztos, hogy minden új üzenetről értesít.</translation>
+Megjegyzés: A kiegészítő csak az &apos;Inbox&apos; mappát ellenőrzi, ha szerveroldali szűrést használsz nem biztos, hogy minden új üzenetről értesít.</translation>
     </message>
 </context>
 <context>
@@ -7724,7 +7724,7 @@ Indok: %1</translation>
     </message>
     <message>
         <source>Status Message</source>
-        <translation>Állapot üzenet</translation>
+        <translation>Állapotüzenet</translation>
     </message>
     <message>
         <source>Active accounts:</source>
@@ -8237,7 +8237,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Specifies the color for additional text of system messages. MUC topic for example.</source>
-        <translation>Rendszer üzenetek bővített szövegének színe, mint a MUC téma.</translation>
+        <translation>Rendszerüzenetek bővített szövegének színe, mint a MUC téma.</translation>
     </message>
     <message>
         <source>Additional message text:</source>
@@ -8989,7 +8989,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Status message:</source>
-        <translation>Állapot üzenet:</translation>
+        <translation>Állapotüzenet:</translation>
     </message>
     <message>
         <source>Default priority</source>
@@ -9028,7 +9028,7 @@ Címkék: %1</translation>
     </message>
     <message>
         <source>Prompt for status message when choosing</source>
-        <translation>Állapot üzenet felajánlása, ha állapotot vált</translation>
+        <translation>Állapotüzenet írásának felajánlása, ha állapotot vált</translation>
     </message>
     <message>
         <source>Online</source>
@@ -9147,11 +9147,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Tunes</source>
-        <translation>Hangok</translation>
+        <translation>Zeneszámok</translation>
     </message>
     <message>
         <source>Enter media file extensions to ignore them on tune sending</source>
-        <translation>Add meg a fájlkiterjesztést, hogy figyelmen kívül hagyhasd azt hangküldéskor</translation>
+        <translation>Fájlkiterjesztés megadása, hogy zeneszám küldésekor figyelmen kívül lehessen hagyni</translation>
     </message>
     <message>
         <source>Add extensions</source>
@@ -9159,11 +9159,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Ignored media file extensions on psi tunes sending</source>
-        <translation>Figyelmen kívül hagyott fájlkiterjesztések hangküldéskor</translation>
+        <translation>Zeneszámok küldésekor a fájlkiterjesztések figyelmen kívül hagyása</translation>
     </message>
     <message>
         <source>Tune Controllers</source>
-        <translation>Hangvezérlők</translation>
+        <translation>Zeneszám vezérlők</translation>
     </message>
 </context>
 <context>
@@ -9355,7 +9355,7 @@ sem lesz naplózva.</translation>
     </message>
     <message>
         <source>Message archiving</source>
-        <translation>Üzenet archiváló</translation>
+        <translation>Üzenetarchiváló</translation>
     </message>
     <message>
         <source> If set to &quot;true&quot;, the server will
@@ -9386,10 +9386,10 @@ az állapotüzenetet fogja jelenteni.</translation>
  logging of individual conversations and
  sends notifications.
  Enable &quot;Message archiving&quot; option for use!</source>
-        <translation>A Google Talk szerver kikapcsolja a szerver-oldali
+        <translation>A Google Talk szerver kikapcsolja a szerveroldali
 naplózást az egyéni beszélgetéseknél és
-értesítést küld.
-Használatához kapcsold be az &quot;Üzenet archiváló&quot;-t!</translation>
+értesítéseket küld.
+Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Enable Off the Record Chats</source>
@@ -9485,7 +9485,7 @@ Használatához kapcsold be az &quot;Üzenet archiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Tune</source>
-        <translation>Hang</translation>
+        <translation>Zeneszám</translation>
     </message>
     <message>
         <source>Mood</source>
@@ -10505,7 +10505,7 @@ Használatához kapcsold be az &quot;Üzenet archiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Tunes no-video filter and controllers switcher</source>
-        <translation>Hangok no-video-szűrője és vezérlőváltója</translation>
+        <translation>Zeneszámok no-video-szűrője és vezérlőváltója</translation>
     </message>
 </context>
 <context>
@@ -10640,7 +10640,7 @@ Használatához kapcsold be az &quot;Üzenet archiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Enable for:</source>
-        <translation>Engedélyezés csak:</translation>
+        <translation>Engedélyezés ehhez:</translation>
     </message>
     <message>
         <source>Contacts</source>
@@ -10724,31 +10724,31 @@ Használatához kapcsold be az &quot;Üzenet archiváló&quot;-t!</translation>
     </message>
     <message>
         <source>*to specify the order of servers, use the drag-n-drop </source>
-        <translation type="unfinished"/>
+        <translation>*a szerverek sorrendjének megadásához, a &apos;fogd és vidd&apos; használható</translation>
     </message>
     <message>
         <source>Add new server</source>
-        <translation type="unfinished"/>
+        <translation>Új szerver hozzáadása</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Hozzáadás</translation>
     </message>
     <message>
         <source>Delete current server</source>
-        <translation type="unfinished"/>
+        <translation>Jelenlegi szerver törlése</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Törlés</translation>
     </message>
     <message>
         <source>Edit current server</source>
-        <translation type="unfinished"/>
+        <translation>Jelenlegi szerver szerkesztése</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Szerkesztés</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#screenshot_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -10756,31 +10756,31 @@ Használatához kapcsold be az &quot;Üzenet archiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Enable for players:</source>
-        <translation type="unfinished"/>
+        <translation>Játékosoknak bekapcsolva:</translation>
     </message>
     <message>
         <source>Detect full screen applications</source>
-        <translation type="unfinished"/>
+        <translation>Teljesképernyős-alkalmazások felderítése</translation>
     </message>
     <message>
         <source>Set status:</source>
-        <translation type="unfinished"/>
+        <translation>Állapot beállítása:</translation>
     </message>
     <message>
         <source>Status message:</source>
-        <translation type="unfinished"/>
+        <translation>Állapotüzenet:</translation>
     </message>
     <message>
         <source>Restore old status if player stops</source>
-        <translation type="unfinished"/>
+        <translation>Régi állapot visszaállítása, ha a játékos megáll</translation>
     </message>
     <message>
         <source>Delay before setting status, sec</source>
-        <translation type="unfinished"/>
+        <translation>Késleltetés az állapot beállítása előtt, másodpercben</translation>
     </message>
     <message>
         <source>Delay before restoring status, sec</source>
-        <translation type="unfinished"/>
+        <translation>Késleltetés az állapot visszaállítása előtt, másodpercben</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#video_status_changer_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -10788,7 +10788,7 @@ Használatához kapcsold be az &quot;Üzenet archiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Save queries to log</source>
-        <translation type="unfinished"/>
+        <translation>Kérdések mentése naplófájlba</translation>
     </message>
 </context>
 <context>
@@ -10818,7 +10818,7 @@ Használatához kapcsold be az &quot;Üzenet archiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Please select a key.</source>
-        <translation>Válassz ki egy kulcsot.</translation>
+        <translation>Kérlek válassz ki egy kulcsot.</translation>
     </message>
     <message>
         <source>Key Storage Diagnostic Text</source>
@@ -10842,31 +10842,31 @@ Használatához kapcsold be az &quot;Üzenet archiváló&quot;-t!</translation>
     <message>
         <source>There was an error trying to send the message encrypted.
 Reason: %1.</source>
-        <translation>Hiba történt az üzenet titkosítva küldése közben.
-A hiba oka: %1.</translation>
+        <translation>Hiba a titkosított üzenet küldése közben.
+Indok: %1.</translation>
     </message>
 </context>
 <context>
     <name>PassDialog</name>
     <message>
         <source>Wrong Account Password</source>
-        <translation type="unfinished"/>
+        <translation>A fiókhoz megadott jelszó rossz</translation>
     </message>
     <message>
         <source>Save Password</source>
-        <translation type="unfinished"/>
+        <translation>Jelszó mentése</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Rendben</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Mégsem</translation>
     </message>
     <message>
         <source>Please enter your password for %1:</source>
-        <translation type="unfinished"/>
+        <translation>Add meg a jelszavad %1 számára:</translation>
     </message>
 </context>
 <context>
@@ -10878,16 +10878,16 @@ A hiba oka: %1.</translation>
     <message>
         <source>Your passphrase is needed to use OpenPGP security.
 Please enter your passphrase below:</source>
-        <translation>Szükség van a jelszóra az OpenPGP titkosításának használatához.
-Kérlek írd be a jelszavadat:</translation>
+        <translation>Az OpenPGP-titkosítás használatához jelszó szükséges.
+Kérlek add meg a jelszavad:</translation>
     </message>
     <message>
         <source>Remember passphrase</source>
-        <translation type="unfinished"/>
+        <translation>Jelszó megjegyzése</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Mégse</translation>
+        <translation>Mégsem</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -10905,23 +10905,23 @@ Kérlek írd be a jelszavadat:</translation>
     <name>PepPlugin</name>
     <message>
         <source>Now listening: </source>
-        <translation type="unfinished"/>
+        <translation>Jelenleg hallgatott:</translation>
     </message>
     <message>
         <source>Mood changed to &quot;%1</source>
-        <translation type="unfinished"/>
+        <translation>Kedv megváltozott erre &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Activity changed to &quot;%1</source>
-        <translation type="unfinished"/>
+        <translation>Tevékenység megváltozott erre &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Hangfájl kiválasztása</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Hang (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -10929,49 +10929,49 @@ Kérlek írd be a jelszavadat:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
-        <translation type="unfinished"/>
+        <translation>Ez a kiegészítő felugró ablakokat jelenít meg, amikor a címlistáról valaki hangulatot, cselekvést vagy zeneszámot vált.</translation>
     </message>
 </context>
 <context>
     <name>PixmapWidget</name>
     <message>
         <source>Input radius</source>
-        <translation type="unfinished"/>
+        <translation>Hatókör megadása</translation>
     </message>
     <message>
         <source>Radius</source>
-        <translation type="unfinished"/>
+        <translation>Hatókör</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"/>
+        <translation>Kivágás</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>Másolás</translation>
     </message>
     <message>
         <source>Blur</source>
-        <translation type="unfinished"/>
+        <translation>Homályosítás</translation>
     </message>
 </context>
 <context>
     <name>PluginInfoDialog</name>
     <message>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Információ</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"/>
+        <translation>Névjegy</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Bezárás</translation>
     </message>
 </context>
 <context>
