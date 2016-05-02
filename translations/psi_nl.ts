@@ -6641,11 +6641,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Sluiten</translation>
-    </message>
-    <message>
-        <source>User Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">&amp;Sluiten</translation>
     </message>
     <message>
         <source>E-Mail:</source>
@@ -6739,6 +6735,73 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>Street:</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>InfoDlg</name>
+    <message>
+        <source>Open web browser</source>
+        <translation type="obsolete">Webbrowser openen</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="vanished">Waarschuwing</translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="vanished">De wijzigingen van uw accountinformatie zijn nog niet gepubliceerd.
+Wilt u doorgaan zonder op te slaan?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="vanished">Niet opslaan en sluiten</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="vanished">Niet sluiten</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="vanished">Gelukt</translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="vanished">Uw accountinformatie is gepubliceerd.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="vanished">Fout</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="vanished">Kan accountinformatie niet ophalen.  Misschien heeft u nog geen gegevens ingevoerd.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="vanished">Kan geen informatie van deze contactpersoon verkrijgen.
+Reden: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="vanished">Kan uw accountgegevens niet publiceren.
+Reden: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="vanished">Afbeelding niet
+beschikbaar</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="vanished">Status</translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Alt+D</source>
         <translation type="unfinished"></translation>
@@ -6760,72 +6823,16 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished">&amp;Sluiten</translation>
+    </message>
+    <message>
         <source>psi/close</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>InfoDlg</name>
-    <message>
-        <source>Open web browser</source>
-        <translation type="unfinished">Webbrowser openen</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation>Waarschuwing</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation>De wijzigingen van uw accountinformatie zijn nog niet gepubliceerd.
-Wilt u doorgaan zonder op te slaan?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation>Niet opslaan en sluiten</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation>Niet sluiten</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation>Gelukt</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation>Uw accountinformatie is gepubliceerd.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Fout</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>Kan accountinformatie niet ophalen.  Misschien heeft u nog geen gegevens ingevoerd.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation>Kan geen informatie van deze contactpersoon verkrijgen.
-Reden: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation>Kan uw accountgegevens niet publiceren.
-Reden: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation>Afbeelding niet
-beschikbaar</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation>Status</translation>
-    </message>
+    <name>InfoWidget</name>
     <message>
         <source>First Name:</source>
         <translation type="unfinished"></translation>
@@ -6847,12 +6854,86 @@ beschikbaar</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Open web browser</source>
+        <translation type="unfinished">Webbrowser openen</translation>
+    </message>
+    <message>
         <source>No date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit birthday</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">Waarschuwing</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished">De wijzigingen van uw accountinformatie zijn nog niet gepubliceerd.
+Wilt u doorgaan zonder op te slaan?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="unfinished">Niet opslaan en sluiten</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="unfinished">Niet sluiten</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished">Gelukt</translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="unfinished">Uw accountinformatie is gepubliceerd.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Fout</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="unfinished">Kan accountinformatie niet ophalen.  Misschien heeft u nog geen gegevens ingevoerd.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="unfinished">Kan geen informatie van deze contactpersoon verkrijgen.
+Reden: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="unfinished">Kan uw accountgegevens niet publiceren.
+Reden: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="unfinished">Afbeelding niet
+beschikbaar</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">Status</translation>
     </message>
 </context>
 <context>
@@ -7293,6 +7374,10 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;VCard</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

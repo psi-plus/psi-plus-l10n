@@ -6652,7 +6652,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>Info</name>
     <message>
         <source>User Info</source>
-        <translation>O stiku</translation>
+        <translation type="vanished">O stiku</translation>
     </message>
     <message>
         <source>General</source>
@@ -6760,106 +6760,153 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Alt+D</source>
-        <translation>Alt+D</translation>
+        <translation type="vanished">Alt+D</translation>
     </message>
     <message>
         <source>psi/disco</source>
-        <translation>psi/disco</translation>
+        <translation type="vanished">psi/disco</translation>
     </message>
     <message>
         <source>&amp;Publish</source>
-        <translation>&amp;Objavi</translation>
+        <translation type="vanished">&amp;Objavi</translation>
     </message>
     <message>
         <source>&amp;Retrieve</source>
-        <translation>&amp;Pridobi</translation>
+        <translation type="vanished">&amp;Pridobi</translation>
     </message>
     <message>
         <source>psi/reload</source>
-        <translation>psi/reload</translation>
+        <translation type="vanished">psi/reload</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Zapri</translation>
+        <translation type="vanished">&amp;Zapri</translation>
     </message>
     <message>
         <source>psi/close</source>
-        <translation>psi/close</translation>
+        <translation type="vanished">psi/close</translation>
     </message>
 </context>
 <context>
     <name>InfoDlg</name>
     <message>
         <source>First Name:</source>
-        <translation>Ime:</translation>
+        <translation type="vanished">Ime:</translation>
     </message>
     <message>
         <source>Middle Name:</source>
-        <translation>Srednje ime:</translation>
+        <translation type="vanished">Srednje ime:</translation>
     </message>
     <message>
         <source>Last Name:</source>
-        <translation>Priimek:</translation>
+        <translation type="vanished">Priimek:</translation>
     </message>
     <message>
         <source>Open web browser</source>
-        <translation type="unfinished">Odpri spletni brskalnik</translation>
+        <translation type="obsolete">Odpri spletni brskalnik</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Opozorilo</translation>
+        <translation type="vanished">Opozorilo</translation>
     </message>
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation>Sprememb podatkov za svoj račun še niste objavili.
+        <translation type="vanished">Sprememb podatkov za svoj račun še niste objavili.
 Ste prepičani, da jih želite zavreči?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Zapri in zavrzi</translation>
+        <translation type="vanished">Zapri in zavrzi</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Ne zapiraj</translation>
+        <translation type="vanished">Ne zapiraj</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation>Uspeh</translation>
+        <translation type="vanished">Uspeh</translation>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation>Podatki za vaš račun so bili objavljeni.</translation>
+        <translation type="vanished">Podatki za vaš račun so bili objavljeni.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Napaka</translation>
+        <translation type="vanished">Napaka</translation>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>Ni moč pridobiti podatkov za vaš račun. Mogoče jih še niste vnesli.</translation>
+        <translation type="vanished">Ni moč pridobiti podatkov za vaš račun. Mogoče jih še niste vnesli.</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation>Ni moč pridobiti podatkov za ta stik.
+        <translation type="vanished">Ni moč pridobiti podatkov za ta stik.
 Razlog: %1</translation>
     </message>
     <message>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation>Ni možno objaviti podatkov za vaš račun.
+        <translation type="vanished">Ni možno objaviti podatkov za vaš račun.
 Razlog: %1</translation>
     </message>
     <message>
         <source>Picture not
 available</source>
-        <translation>Slika ni
+        <translation type="vanished">Slika ni
 na voljo</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Stanje</translation>
+        <translation type="vanished">Stanje</translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished">O stiku</translation>
+    </message>
+    <message>
+        <source>Alt+D</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi/disco</source>
+        <translation type="unfinished">psi/disco</translation>
+    </message>
+    <message>
+        <source>&amp;Publish</source>
+        <translation type="unfinished">&amp;Objavi</translation>
+    </message>
+    <message>
+        <source>&amp;Retrieve</source>
+        <translation type="unfinished">&amp;Pridobi</translation>
+    </message>
+    <message>
+        <source>psi/reload</source>
+        <translation type="unfinished">psi/reload</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished">&amp;Zapri</translation>
+    </message>
+    <message>
+        <source>psi/close</source>
+        <translation type="unfinished">psi/close</translation>
+    </message>
+</context>
+<context>
+    <name>InfoWidget</name>
+    <message>
+        <source>First Name:</source>
+        <translation type="unfinished">Ime:</translation>
+    </message>
+    <message>
+        <source>Middle Name:</source>
+        <translation type="unfinished">Srednje ime:</translation>
+    </message>
+    <message>
+        <source>Last Name:</source>
+        <translation type="unfinished">Priimek:</translation>
     </message>
     <message>
         <source>Edit names</source>
@@ -6870,12 +6917,86 @@ na voljo</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Open web browser</source>
+        <translation type="unfinished">Odpri spletni brskalnik</translation>
+    </message>
+    <message>
         <source>No date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit birthday</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">Opozorilo</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished">Sprememb podatkov za svoj račun še niste objavili.
+Ste prepičani, da jih želite zavreči?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="unfinished">Zapri in zavrzi</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="unfinished">Ne zapiraj</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished">Uspeh</translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="unfinished">Podatki za vaš račun so bili objavljeni.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Napaka</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="unfinished">Ni moč pridobiti podatkov za vaš račun. Mogoče jih še niste vnesli.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="unfinished">Ni moč pridobiti podatkov za ta stik.
+Razlog: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="unfinished">Ni možno objaviti podatkov za vaš račun.
+Razlog: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="unfinished">Slika ni
+na voljo</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">Stanje</translation>
     </message>
 </context>
 <context>
@@ -7317,6 +7438,10 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <source>Close</source>
         <translation>Zapri</translation>
+    </message>
+    <message>
+        <source>&amp;VCard</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

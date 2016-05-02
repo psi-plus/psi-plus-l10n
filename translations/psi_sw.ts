@@ -6638,10 +6638,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished">Kwa ujumla</translation>
     </message>
     <message>
-        <source>User Info</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>E-Mail:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6741,6 +6737,63 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>Status</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>InfoDlg</name>
+    <message>
+        <source>Open web browser</source>
+        <translation type="obsolete">Fungua brauza ya web</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="vanished">Onyo</translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="vanished">Hujachapisha mabadiriko ya taarifa za akaunti yako.
+Una uhakika unataka kuzitupa?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="vanished">Tupa na ufunge</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="vanished">Usifunge</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="vanished">mafanikio</translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="vanished">Taarifa za akaunti yako zimechapishwa.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="vanished">Imekosewa</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="vanished">Haiwezekani kutafuta taarifa za akaunti yako.   Labda hujaziingiza bado.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="vanished">Haiwezekani kutafuta taarifa kuhusu rafiki yako huyu.
+Sababu: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="vanished">Haiwezekani kuchapisha taarifa za akaunti yako.
+Sababu: %1</translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Alt+D</source>
         <translation type="unfinished"></translation>
@@ -6771,57 +6824,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
 </context>
 <context>
-    <name>InfoDlg</name>
-    <message>
-        <source>Open web browser</source>
-        <translation type="unfinished">Fungua brauza ya web</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation>Onyo</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation>Hujachapisha mabadiriko ya taarifa za akaunti yako.
-Una uhakika unataka kuzitupa?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation>Tupa na ufunge</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation>Usifunge</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation>mafanikio</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation>Taarifa za akaunti yako zimechapishwa.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Imekosewa</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>Haiwezekani kutafuta taarifa za akaunti yako.   Labda hujaziingiza bado.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation>Haiwezekani kutafuta taarifa kuhusu rafiki yako huyu.
-Sababu: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation>Haiwezekani kuchapisha taarifa za akaunti yako.
-Sababu: %1</translation>
-    </message>
+    <name>InfoWidget</name>
     <message>
         <source>First Name:</source>
         <translation type="unfinished"></translation>
@@ -6843,12 +6846,76 @@ Sababu: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Open web browser</source>
+        <translation type="unfinished">Fungua brauza ya web</translation>
+    </message>
+    <message>
         <source>No date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit birthday</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">Onyo</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished">Hujachapisha mabadiriko ya taarifa za akaunti yako.
+Una uhakika unataka kuzitupa?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="unfinished">Tupa na ufunge</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="unfinished">Usifunge</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="unfinished">Taarifa za akaunti yako zimechapishwa.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="unfinished">Haiwezekani kutafuta taarifa za akaunti yako.   Labda hujaziingiza bado.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="unfinished">Haiwezekani kutafuta taarifa kuhusu rafiki yako huyu.
+Sababu: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="unfinished">Haiwezekani kuchapisha taarifa za akaunti yako.
+Sababu: %1</translation>
     </message>
     <message>
         <source>Picture not
@@ -7298,6 +7365,10 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;VCard</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

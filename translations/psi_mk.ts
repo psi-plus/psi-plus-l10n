@@ -6670,11 +6670,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Затвори</translation>
-    </message>
-    <message>
-        <source>User Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">&amp;Затвори</translation>
     </message>
     <message>
         <source>E-Mail:</source>
@@ -6756,6 +6752,72 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>Street:</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>InfoDlg</name>
+    <message>
+        <source>Open web browser</source>
+        <translation type="obsolete">Отвори прелистувач</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="vanished">Предупредување</translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="vanished">Не ги објавивте променетите информации за Вашата сметка.
+Сакате да ги заборавите?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="vanished">Затвори и отфрли</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="vanished">Не затворај</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="vanished">Успех</translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="vanished">Информациите за Вашата сметка се објавени.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="vanished">Грешка</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="vanished">Информациите за Вашата сметка не можат да се приберат.  Можеби немате внесено ништо.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="vanished">Информациите за контактот не може да се приберат.
+Причина: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="vanished">Информаците за Вашата сметка не може да се објават.
+Причини: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="vanished">Сликата не е достапна</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="vanished">Статус</translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Alt+D</source>
         <translation type="unfinished"></translation>
@@ -6777,71 +6839,16 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished">&amp;Затвори</translation>
+    </message>
+    <message>
         <source>psi/close</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>InfoDlg</name>
-    <message>
-        <source>Open web browser</source>
-        <translation type="unfinished">Отвори прелистувач</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation>Предупредување</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation>Не ги објавивте променетите информации за Вашата сметка.
-Сакате да ги заборавите?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation>Затвори и отфрли</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation>Не затворај</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation>Успех</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation>Информациите за Вашата сметка се објавени.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Грешка</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>Информациите за Вашата сметка не можат да се приберат.  Можеби немате внесено ништо.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation>Информациите за контактот не може да се приберат.
-Причина: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation>Информаците за Вашата сметка не може да се објават.
-Причини: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation>Сликата не е достапна</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation>Статус</translation>
-    </message>
+    <name>InfoWidget</name>
     <message>
         <source>First Name:</source>
         <translation type="unfinished"></translation>
@@ -6863,12 +6870,85 @@ available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Open web browser</source>
+        <translation type="unfinished">Отвори прелистувач</translation>
+    </message>
+    <message>
         <source>No date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit birthday</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">Предупредување</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished">Не ги објавивте променетите информации за Вашата сметка.
+Сакате да ги заборавите?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="unfinished">Затвори и отфрли</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="unfinished">Не затворај</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished">Успех</translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="unfinished">Информациите за Вашата сметка се објавени.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Грешка</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="unfinished">Информациите за Вашата сметка не можат да се приберат.  Можеби немате внесено ништо.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="unfinished">Информациите за контактот не може да се приберат.
+Причина: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="unfinished">Информаците за Вашата сметка не може да се објават.
+Причини: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="unfinished">Сликата не е достапна</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">Статус</translation>
     </message>
 </context>
 <context>
@@ -7309,6 +7389,10 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Apply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;VCard</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -6649,7 +6649,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>Info</name>
     <message>
         <source>User Info</source>
-        <translation>Thông tin người dùng</translation>
+        <translation type="vanished">Thông tin người dùng</translation>
     </message>
     <message>
         <source>General</source>
@@ -6757,109 +6757,156 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Alt+D</source>
-        <translation>Alt+X</translation>
+        <translation type="vanished">Alt+X</translation>
     </message>
     <message>
         <source>psi/disco</source>
-        <translation>psi/disco</translation>
+        <translation type="vanished">psi/disco</translation>
     </message>
     <message>
         <source>&amp;Publish</source>
-        <translation>&amp;Xuất bản</translation>
+        <translation type="vanished">&amp;Xuất bản</translation>
     </message>
     <message>
         <source>&amp;Retrieve</source>
-        <translation>&amp;Lấy</translation>
+        <translation type="vanished">&amp;Lấy</translation>
     </message>
     <message>
         <source>psi/reload</source>
-        <translation>psi/reload</translation>
+        <translation type="vanished">psi/reload</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>Đón&amp;g</translation>
+        <translation type="vanished">Đón&amp;g</translation>
     </message>
     <message>
         <source>psi/close</source>
-        <translation>psi/close</translation>
+        <translation type="vanished">psi/close</translation>
     </message>
 </context>
 <context>
     <name>InfoDlg</name>
     <message>
         <source>First Name:</source>
-        <translation>Tên:</translation>
+        <translation type="vanished">Tên:</translation>
     </message>
     <message>
         <source>Middle Name:</source>
-        <translation>Tên đệm:</translation>
+        <translation type="vanished">Tên đệm:</translation>
     </message>
     <message>
         <source>Last Name:</source>
-        <translation>Họ :</translation>
+        <translation type="vanished">Họ :</translation>
     </message>
     <message>
         <source>Open web browser</source>
-        <translation type="unfinished">Mở trình duyệt</translation>
+        <translation type="obsolete">Mở trình duyệt</translation>
     </message>
     <message>
         <source>No date</source>
-        <translation>Không có ngày tháng</translation>
+        <translation type="vanished">Không có ngày tháng</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Cảnh báo</translation>
+        <translation type="vanished">Cảnh báo</translation>
     </message>
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation>Bạn chưa xuất bản thông tin tài khoản đã thay đổi.
+        <translation type="vanished">Bạn chưa xuất bản thông tin tài khoản đã thay đổi.
 Có chắc muốn bỏ thay đổi này không?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Đóng và bỏ</translation>
+        <translation type="vanished">Đóng và bỏ</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Đừng đóng</translation>
+        <translation type="vanished">Đừng đóng</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation>Thành công</translation>
+        <translation type="vanished">Thành công</translation>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation>Thông tin tài khoản của bạn đã được xuất bản.</translation>
+        <translation type="vanished">Thông tin tài khoản của bạn đã được xuất bản.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Lỗi</translation>
+        <translation type="vanished">Lỗi</translation>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>Không thể lấy thông tin tài khoản của bạn.  Có thể là bạn chưa nhập gì.</translation>
+        <translation type="vanished">Không thể lấy thông tin tài khoản của bạn.  Có thể là bạn chưa nhập gì.</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation>Không thể lấy thông tin về liên lạc này.
+        <translation type="vanished">Không thể lấy thông tin về liên lạc này.
 Lý do : %1</translation>
     </message>
     <message>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation>Không thể xuất bản thông tin tài khoản của bạn.
+        <translation type="vanished">Không thể xuất bản thông tin tài khoản của bạn.
 Lý do : %1</translation>
     </message>
     <message>
         <source>Picture not
 available</source>
-        <translation>Không ảnh</translation>
+        <translation type="vanished">Không ảnh</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Trạng thái</translation>
+        <translation type="vanished">Trạng thái</translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished">Thông tin người dùng</translation>
+    </message>
+    <message>
+        <source>Alt+D</source>
+        <translation type="unfinished">Alt+X</translation>
+    </message>
+    <message>
+        <source>psi/disco</source>
+        <translation type="unfinished">psi/disco</translation>
+    </message>
+    <message>
+        <source>&amp;Publish</source>
+        <translation type="unfinished">&amp;Xuất bản</translation>
+    </message>
+    <message>
+        <source>&amp;Retrieve</source>
+        <translation type="unfinished">&amp;Lấy</translation>
+    </message>
+    <message>
+        <source>psi/reload</source>
+        <translation type="unfinished">psi/reload</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi/close</source>
+        <translation type="unfinished">psi/close</translation>
+    </message>
+</context>
+<context>
+    <name>InfoWidget</name>
+    <message>
+        <source>First Name:</source>
+        <translation type="unfinished">Tên:</translation>
+    </message>
+    <message>
+        <source>Middle Name:</source>
+        <translation type="unfinished">Tên đệm:</translation>
+    </message>
+    <message>
+        <source>Last Name:</source>
+        <translation type="unfinished">Họ :</translation>
     </message>
     <message>
         <source>Edit names</source>
@@ -6870,8 +6917,85 @@ available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Open web browser</source>
+        <translation type="unfinished">Mở trình duyệt</translation>
+    </message>
+    <message>
+        <source>No date</source>
+        <translation type="unfinished">Không có ngày tháng</translation>
+    </message>
+    <message>
         <source>Edit birthday</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">Cảnh báo</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished">Bạn chưa xuất bản thông tin tài khoản đã thay đổi.
+Có chắc muốn bỏ thay đổi này không?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="unfinished">Đóng và bỏ</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="unfinished">Đừng đóng</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished">Thành công</translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="unfinished">Thông tin tài khoản của bạn đã được xuất bản.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Lỗi</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="unfinished">Không thể lấy thông tin tài khoản của bạn.  Có thể là bạn chưa nhập gì.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="unfinished">Không thể lấy thông tin về liên lạc này.
+Lý do : %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="unfinished">Không thể xuất bản thông tin tài khoản của bạn.
+Lý do : %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="unfinished">Không ảnh</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">Trạng thái</translation>
     </message>
 </context>
 <context>
@@ -7320,6 +7444,10 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <source>Close</source>
         <translation>Đóng</translation>
+    </message>
+    <message>
+        <source>&amp;VCard</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -6737,7 +6737,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>Info</name>
     <message>
         <source>User Info</source>
-        <translation>Пра карыстальніка</translation>
+        <translation type="vanished">Пра карыстальніка</translation>
     </message>
     <message>
         <source>General</source>
@@ -6845,122 +6845,259 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Alt+D</source>
-        <translation>Alt+I</translation>
+        <translation type="vanished">Alt+I</translation>
     </message>
     <message>
         <source>psi/disco</source>
-        <translation>psi/disco</translation>
+        <translation type="vanished">psi/disco</translation>
     </message>
     <message>
         <source>&amp;Publish</source>
-        <translation>&amp;Да агульнага ведама</translation>
+        <translation type="vanished">&amp;Да агульнага ведама</translation>
     </message>
     <message>
         <source>&amp;Retrieve</source>
-        <translation>&amp;Атрымаць</translation>
+        <translation type="vanished">&amp;Атрымаць</translation>
     </message>
     <message>
         <source>psi/reload</source>
-        <translation>psi/reload</translation>
+        <translation type="vanished">psi/reload</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Зачыніць</translation>
+        <translation type="vanished">&amp;Зачыніць</translation>
     </message>
     <message>
         <source>psi/close</source>
-        <translation>psi/close</translation>
+        <translation type="vanished">psi/close</translation>
     </message>
 </context>
 <context>
     <name>InfoDlg</name>
     <message>
         <source>First Name:</source>
-        <translation>Імя:</translation>
+        <translation type="vanished">Імя:</translation>
     </message>
     <message>
         <source>Middle Name:</source>
-        <translation>Імя па бацьку:</translation>
+        <translation type="vanished">Імя па бацьку:</translation>
     </message>
     <message>
         <source>Last Name:</source>
-        <translation>Прозьвішча:</translation>
+        <translation type="vanished">Прозьвішча:</translation>
     </message>
     <message>
         <source>Edit names</source>
-        <translation>Правіць імёны</translation>
+        <translation type="vanished">Правіць імёны</translation>
     </message>
     <message>
         <source>View names</source>
-        <translation>Зірнуць імёны</translation>
+        <translation type="vanished">Зірнуць імёны</translation>
     </message>
     <message>
         <source>Open web browser</source>
-        <translation>Запусьціць аглядальнік сеціва</translation>
+        <translation type="vanished">Запусьціць аглядальнік сеціва</translation>
     </message>
     <message>
         <source>No date</source>
-        <translation>Няма даты</translation>
+        <translation type="vanished">Няма даты</translation>
     </message>
     <message>
         <source>Edit birthday</source>
-        <translation>Правіць народзіны</translation>
+        <translation type="vanished">Правіць народзіны</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Перасьцярога</translation>
+        <translation type="vanished">Перасьцярога</translation>
     </message>
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation>Зьмененыя зьвесткі не абвясьцілі да агульнага ведама.
+        <translation type="vanished">Зьмененыя зьвесткі не абвясьцілі да агульнага ведама.
 Ці ўпэўненыя вы, што жадаеце адкінуць зьмены?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Зачыніць і адкінуць</translation>
+        <translation type="vanished">Зачыніць і адкінуць</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Не зачыняць</translation>
+        <translation type="vanished">Не зачыняць</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation>Атрымалася</translation>
+        <translation type="vanished">Атрымалася</translation>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation>Пасьпяхова абвясьцілі да агульнага ведама зьвесткі пра рахунак.</translation>
+        <translation type="vanished">Пасьпяхова абвясьцілі да агульнага ведама зьвесткі пра рахунак.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Далі хібу</translation>
+        <translation type="vanished">Далі хібу</translation>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>Немагчыма атрымаць зьвесткі пра рахунак.  Мажліва, вы іх і не вызначалі ніколі раней.</translation>
+        <translation type="vanished">Немагчыма атрымаць зьвесткі пра рахунак.  Мажліва, вы іх і не вызначалі ніколі раней.</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation>Немагчыма атрымаць зьвесткі пра суразмоўцу.
+        <translation type="vanished">Немагчыма атрымаць зьвесткі пра суразмоўцу.
 Падстава: %1</translation>
     </message>
     <message>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation>Немагчыма абвясьціць да агульнага ведама зьвесткі пра рахунак.
+        <translation type="vanished">Немагчыма абвясьціць да агульнага ведама зьвесткі пра рахунак.
 Падстава: %1</translation>
     </message>
     <message>
         <source>Picture not
 available</source>
-        <translation>Малюнак
+        <translation type="vanished">Малюнак
 недаступны</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Стан</translation>
+        <translation type="vanished">Стан</translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished">Пра карыстальніка</translation>
+    </message>
+    <message>
+        <source>Alt+D</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi/disco</source>
+        <translation type="unfinished">psi/disco</translation>
+    </message>
+    <message>
+        <source>&amp;Publish</source>
+        <translation type="unfinished">&amp;Да агульнага ведама</translation>
+    </message>
+    <message>
+        <source>&amp;Retrieve</source>
+        <translation type="unfinished">&amp;Атрымаць</translation>
+    </message>
+    <message>
+        <source>psi/reload</source>
+        <translation type="unfinished">psi/reload</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished">&amp;Зачыніць</translation>
+    </message>
+    <message>
+        <source>psi/close</source>
+        <translation type="unfinished">psi/close</translation>
+    </message>
+</context>
+<context>
+    <name>InfoWidget</name>
+    <message>
+        <source>First Name:</source>
+        <translation type="unfinished">Імя:</translation>
+    </message>
+    <message>
+        <source>Middle Name:</source>
+        <translation type="unfinished">Імя па бацьку:</translation>
+    </message>
+    <message>
+        <source>Last Name:</source>
+        <translation type="unfinished">Прозьвішча:</translation>
+    </message>
+    <message>
+        <source>Edit names</source>
+        <translation type="unfinished">Правіць імёны</translation>
+    </message>
+    <message>
+        <source>View names</source>
+        <translation type="unfinished">Зірнуць імёны</translation>
+    </message>
+    <message>
+        <source>Open web browser</source>
+        <translation type="unfinished">Запусьціць аглядальнік сеціва</translation>
+    </message>
+    <message>
+        <source>No date</source>
+        <translation type="unfinished">Няма даты</translation>
+    </message>
+    <message>
+        <source>Edit birthday</source>
+        <translation type="unfinished">Правіць народзіны</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">Перасьцярога</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished">Зьмененыя зьвесткі не абвясьцілі да агульнага ведама.
+Ці ўпэўненыя вы, што жадаеце адкінуць зьмены?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="unfinished">Зачыніць і адкінуць</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="unfinished">Не зачыняць</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished">Атрымалася</translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="unfinished">Пасьпяхова абвясьцілі да агульнага ведама зьвесткі пра рахунак.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Далі хібу</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="unfinished">Немагчыма атрымаць зьвесткі пра рахунак.  Мажліва, вы іх і не вызначалі ніколі раней.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="unfinished">Немагчыма атрымаць зьвесткі пра суразмоўцу.
+Падстава: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="unfinished">Немагчыма абвясьціць да агульнага ведама зьвесткі пра рахунак.
+Падстава: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="unfinished">Малюнак
+недаступны</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">Стан</translation>
     </message>
 </context>
 <context>
@@ -7418,6 +7555,10 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <source>Close</source>
         <translation>Зачыніць</translation>
+    </message>
+    <message>
+        <source>&amp;VCard</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

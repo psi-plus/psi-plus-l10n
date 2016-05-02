@@ -6706,7 +6706,7 @@ Napomena: Da bi radili ispravno, opcija options.ui.chat.central-toolbar mora bit
     <name>Info</name>
     <message>
         <source>User Info</source>
-        <translation>Podaci o korisniku</translation>
+        <translation type="vanished">Podaci o korisniku</translation>
     </message>
     <message>
         <source>General</source>
@@ -6814,122 +6814,259 @@ Napomena: Da bi radili ispravno, opcija options.ui.chat.central-toolbar mora bit
     </message>
     <message>
         <source>Alt+D</source>
-        <translation>Alt+D</translation>
+        <translation type="vanished">Alt+D</translation>
     </message>
     <message>
         <source>psi/disco</source>
-        <translation>psi/disco</translation>
+        <translation type="vanished">psi/disco</translation>
     </message>
     <message>
         <source>&amp;Publish</source>
-        <translation>&amp;Objavi</translation>
+        <translation type="vanished">&amp;Objavi</translation>
     </message>
     <message>
         <source>&amp;Retrieve</source>
-        <translation>&amp;Osveži</translation>
+        <translation type="vanished">&amp;Osveži</translation>
     </message>
     <message>
         <source>psi/reload</source>
-        <translation>psi/reload</translation>
+        <translation type="vanished">psi/reload</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Zatvori</translation>
+        <translation type="vanished">&amp;Zatvori</translation>
     </message>
     <message>
         <source>psi/close</source>
-        <translation>psi/close</translation>
+        <translation type="vanished">psi/close</translation>
     </message>
 </context>
 <context>
     <name>InfoDlg</name>
     <message>
         <source>First Name:</source>
-        <translation>Prvo ime:</translation>
+        <translation type="vanished">Prvo ime:</translation>
     </message>
     <message>
         <source>Middle Name:</source>
-        <translation>Srednje ime:</translation>
+        <translation type="vanished">Srednje ime:</translation>
     </message>
     <message>
         <source>Last Name:</source>
-        <translation>Poslednje ime:</translation>
+        <translation type="vanished">Poslednje ime:</translation>
     </message>
     <message>
         <source>Edit names</source>
-        <translation>Izmeni ime</translation>
+        <translation type="vanished">Izmeni ime</translation>
     </message>
     <message>
         <source>View names</source>
-        <translation>Pregledaj imena</translation>
+        <translation type="vanished">Pregledaj imena</translation>
     </message>
     <message>
         <source>Open web browser</source>
-        <translation>Otvori veb čitač</translation>
+        <translation type="vanished">Otvori veb čitač</translation>
     </message>
     <message>
         <source>No date</source>
-        <translation>Bez datuma</translation>
+        <translation type="vanished">Bez datuma</translation>
     </message>
     <message>
         <source>Edit birthday</source>
-        <translation>Izmeni rodjendan</translation>
+        <translation type="vanished">Izmeni rodjendan</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Upozorenje</translation>
+        <translation type="vanished">Upozorenje</translation>
     </message>
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation>Niste objavili promene podataka za vaš nalog.
+        <translation type="vanished">Niste objavili promene podataka za vaš nalog.
 Da li ste sigurni da želite da ih odbacite?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Zatvori i odbaci</translation>
+        <translation type="vanished">Zatvori i odbaci</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Ne zatvaraj</translation>
+        <translation type="vanished">Ne zatvaraj</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation>Uspeh</translation>
+        <translation type="vanished">Uspeh</translation>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation>Podaci o vašem nalogu su objavljeni.</translation>
+        <translation type="vanished">Podaci o vašem nalogu su objavljeni.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Greška</translation>
+        <translation type="vanished">Greška</translation>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>Ne mogu da dobijem podatke o vašem nalogu. Možda ih još niste uneli.</translation>
+        <translation type="vanished">Ne mogu da dobijem podatke o vašem nalogu. Možda ih još niste uneli.</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation>Ne mogu da dobijem podatke o ovom kontaktu.
+        <translation type="vanished">Ne mogu da dobijem podatke o ovom kontaktu.
 Razlog: %1</translation>
     </message>
     <message>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation>Ne mogu da objavim podatke o vašem nalogu.
+        <translation type="vanished">Ne mogu da objavim podatke o vašem nalogu.
 Razlog: %1</translation>
     </message>
     <message>
         <source>Picture not
 available</source>
-        <translation>Slika nije
+        <translation type="vanished">Slika nije
 na raspolaganju</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Stanje</translation>
+        <translation type="vanished">Stanje</translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alt+D</source>
+        <translation type="unfinished">Alt+D</translation>
+    </message>
+    <message>
+        <source>psi/disco</source>
+        <translation type="unfinished">psi/disco</translation>
+    </message>
+    <message>
+        <source>&amp;Publish</source>
+        <translation type="unfinished">&amp;Objavi</translation>
+    </message>
+    <message>
+        <source>&amp;Retrieve</source>
+        <translation type="unfinished">&amp;Osveži</translation>
+    </message>
+    <message>
+        <source>psi/reload</source>
+        <translation type="unfinished">psi/reload</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished">&amp;Zatvori</translation>
+    </message>
+    <message>
+        <source>psi/close</source>
+        <translation type="unfinished">psi/close</translation>
+    </message>
+</context>
+<context>
+    <name>InfoWidget</name>
+    <message>
+        <source>First Name:</source>
+        <translation type="unfinished">Prvo ime:</translation>
+    </message>
+    <message>
+        <source>Middle Name:</source>
+        <translation type="unfinished">Srednje ime:</translation>
+    </message>
+    <message>
+        <source>Last Name:</source>
+        <translation type="unfinished">Poslednje ime:</translation>
+    </message>
+    <message>
+        <source>Edit names</source>
+        <translation type="unfinished">Izmeni ime</translation>
+    </message>
+    <message>
+        <source>View names</source>
+        <translation type="unfinished">Pregledaj imena</translation>
+    </message>
+    <message>
+        <source>Open web browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No date</source>
+        <translation type="unfinished">Bez datuma</translation>
+    </message>
+    <message>
+        <source>Edit birthday</source>
+        <translation type="unfinished">Izmeni rodjendan</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished">Niste objavili promene podataka za vaš nalog.
+Da li ste sigurni da želite da ih odbacite?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="unfinished">Zatvori i odbaci</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="unfinished">Ne zatvaraj</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished">Uspeh</translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="unfinished">Podaci o vašem nalogu su objavljeni.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Greška</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="unfinished">Ne mogu da dobijem podatke o vašem nalogu. Možda ih još niste uneli.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="unfinished">Ne mogu da dobijem podatke o ovom kontaktu.
+Razlog: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="unfinished">Ne mogu da objavim podatke o vašem nalogu.
+Razlog: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="unfinished">Slika nije
+na raspolaganju</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7387,6 +7524,10 @@ Napomena: Da bi radilo ispravno, opcija options.html.chat.render⇥mora biti pod
     <message>
         <source>Close</source>
         <translation>Zatvori</translation>
+    </message>
+    <message>
+        <source>&amp;VCard</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

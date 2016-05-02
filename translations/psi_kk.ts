@@ -6633,7 +6633,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>Info</name>
     <message>
         <source>User Info</source>
-        <translation>Пайд. ақпараты</translation>
+        <translation type="vanished">Пайд. ақпараты</translation>
     </message>
     <message>
         <source>General</source>
@@ -6741,66 +6741,109 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Alt+D</source>
-        <translation>Alt+D</translation>
+        <translation type="vanished">Alt+D</translation>
     </message>
     <message>
         <source>psi/disco</source>
-        <translation>psi/disco</translation>
+        <translation type="vanished">psi/disco</translation>
     </message>
     <message>
         <source>&amp;Publish</source>
-        <translation>Жари&amp;ялау</translation>
+        <translation type="vanished">Жари&amp;ялау</translation>
     </message>
     <message>
         <source>&amp;Retrieve</source>
-        <translation>А&amp;лу</translation>
+        <translation type="vanished">А&amp;лу</translation>
     </message>
     <message>
         <source>psi/reload</source>
-        <translation>psi/reload</translation>
+        <translation type="vanished">psi/reload</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>Жа&amp;бу</translation>
+        <translation type="vanished">Жа&amp;бу</translation>
     </message>
     <message>
         <source>psi/close</source>
-        <translation>psi/close</translation>
+        <translation type="vanished">psi/close</translation>
     </message>
 </context>
 <context>
     <name>InfoDlg</name>
     <message>
         <source>First Name:</source>
-        <translation>Аты:</translation>
+        <translation type="vanished">Аты:</translation>
     </message>
     <message>
         <source>Last Name:</source>
-        <translation>Жөні:</translation>
+        <translation type="vanished">Жөні:</translation>
     </message>
     <message>
         <source>Open web browser</source>
-        <translation>Веб браузерін ашу</translation>
+        <translation type="vanished">Веб браузерін ашу</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Ескерту</translation>
+        <translation type="vanished">Ескерту</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation>Сәтті</translation>
+        <translation type="vanished">Сәтті</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Қате</translation>
+        <translation type="vanished">Қате</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Қалып-күй</translation>
+        <translation type="vanished">Қалып-күй</translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished">Пайд. ақпараты</translation>
+    </message>
+    <message>
+        <source>Alt+D</source>
+        <translation type="unfinished">Alt+D</translation>
+    </message>
+    <message>
+        <source>psi/disco</source>
+        <translation type="unfinished">psi/disco</translation>
+    </message>
+    <message>
+        <source>&amp;Publish</source>
+        <translation type="unfinished">Жари&amp;ялау</translation>
+    </message>
+    <message>
+        <source>&amp;Retrieve</source>
+        <translation type="unfinished">А&amp;лу</translation>
+    </message>
+    <message>
+        <source>psi/reload</source>
+        <translation type="unfinished">psi/reload</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished">Жа&amp;бу</translation>
+    </message>
+    <message>
+        <source>psi/close</source>
+        <translation type="unfinished">psi/close</translation>
+    </message>
+</context>
+<context>
+    <name>InfoWidget</name>
+    <message>
+        <source>First Name:</source>
+        <translation type="unfinished">Аты:</translation>
     </message>
     <message>
         <source>Middle Name:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last Name:</source>
+        <translation type="unfinished">Жөні:</translation>
     </message>
     <message>
         <source>Edit names</source>
@@ -6811,11 +6854,24 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Open web browser</source>
+        <translation type="unfinished">Веб браузерін ашу</translation>
+    </message>
+    <message>
         <source>No date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit birthday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">Ескерту</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6832,11 +6888,28 @@ Are you sure you want to discard them?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Success</source>
+        <translation type="unfinished">Сәтті</translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Your account information has been published.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Error</source>
+        <translation type="unfinished">Қате</translation>
+    </message>
+    <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6852,6 +6925,10 @@ Reason: %1</source>
     <message>
         <source>Picture not
 available</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7293,6 +7370,10 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Affiliations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;VCard</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

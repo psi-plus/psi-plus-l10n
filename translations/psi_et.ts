@@ -6638,11 +6638,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Sule</translation>
-    </message>
-    <message>
-        <source>User Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">&amp;Sule</translation>
     </message>
     <message>
         <source>E-Mail:</source>
@@ -6736,6 +6732,73 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>Street:</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>InfoDlg</name>
+    <message>
+        <source>Open web browser</source>
+        <translation type="obsolete">Ava veebilehitseja</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="vanished">Hoiatus</translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="vanished">Sa ei ole oma konto informatsiooni avalikustanud.
+Oled kindel, et soovid need kustutada?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="vanished">Sule ja kustuta</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="vanished">Ära sule</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="vanished">Õnnestus</translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="vanished">Sinu konto informatsioon on avalikustatud.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="vanished">Viga</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="vanished">Konto infot ei saanud tõmmata. Võib-olla pole Sa seda veel sisestanud.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="vanished">Selle kontakti informatsiooni ei saanud tõmmata.
+Põhjus: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="vanished">Konto infot ei saanud avalikustada.
+Põhjus: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="vanished">Pilt ei ole
+kättesaadav</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="vanished">Staatus</translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Alt+D</source>
         <translation type="unfinished"></translation>
@@ -6757,72 +6820,16 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished">&amp;Sule</translation>
+    </message>
+    <message>
         <source>psi/close</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>InfoDlg</name>
-    <message>
-        <source>Open web browser</source>
-        <translation type="unfinished">Ava veebilehitseja</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation>Hoiatus</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation>Sa ei ole oma konto informatsiooni avalikustanud.
-Oled kindel, et soovid need kustutada?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation>Sule ja kustuta</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation>Ära sule</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation>Õnnestus</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation>Sinu konto informatsioon on avalikustatud.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Viga</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>Konto infot ei saanud tõmmata. Võib-olla pole Sa seda veel sisestanud.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation>Selle kontakti informatsiooni ei saanud tõmmata.
-Põhjus: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation>Konto infot ei saanud avalikustada.
-Põhjus: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation>Pilt ei ole
-kättesaadav</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation>Staatus</translation>
-    </message>
+    <name>InfoWidget</name>
     <message>
         <source>First Name:</source>
         <translation type="unfinished"></translation>
@@ -6844,12 +6851,86 @@ kättesaadav</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Open web browser</source>
+        <translation type="unfinished">Ava veebilehitseja</translation>
+    </message>
+    <message>
         <source>No date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit birthday</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">Hoiatus</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished">Sa ei ole oma konto informatsiooni avalikustanud.
+Oled kindel, et soovid need kustutada?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="unfinished">Sule ja kustuta</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="unfinished">Ära sule</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished">Õnnestus</translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="unfinished">Sinu konto informatsioon on avalikustatud.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Viga</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="unfinished">Konto infot ei saanud tõmmata. Võib-olla pole Sa seda veel sisestanud.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="unfinished">Selle kontakti informatsiooni ei saanud tõmmata.
+Põhjus: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="unfinished">Konto infot ei saanud avalikustada.
+Põhjus: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="unfinished">Pilt ei ole
+kättesaadav</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">Staatus</translation>
     </message>
 </context>
 <context>
@@ -7290,6 +7371,10 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;VCard</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

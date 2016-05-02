@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ru">
+<TS version="2.1" language="ru">
 <context>
     <name>@default</name>
     <message>
@@ -131,7 +131,7 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;</translation>
     </message>
     <message>
         <source>Designer and Patcher</source>
-        <translation>Дизайнер и автор патчей</translation>
+        <translation type="vanished">Дизайнер и автор патчей</translation>
     </message>
     <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
@@ -1597,7 +1597,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Auto-join</source>
-        <translation>Авто-вход</translation>
+        <translation type="vanished">Авто-вход</translation>
     </message>
     <message>
         <source>Import bookmarks from file</source>
@@ -6737,7 +6737,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>Info</name>
     <message>
         <source>User Info</source>
-        <translation>vCard</translation>
+        <translation type="vanished">vCard</translation>
     </message>
     <message>
         <source>General</source>
@@ -6845,122 +6845,259 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Alt+D</source>
-        <translation>Alt+D</translation>
+        <translation type="vanished">Alt+D</translation>
     </message>
     <message>
         <source>psi/disco</source>
-        <translation>psi/disco</translation>
+        <translation type="vanished">psi/disco</translation>
     </message>
     <message>
         <source>&amp;Publish</source>
-        <translation>О&amp;публиковать</translation>
+        <translation type="vanished">О&amp;публиковать</translation>
     </message>
     <message>
         <source>&amp;Retrieve</source>
-        <translation>&amp;Обновить</translation>
+        <translation type="vanished">&amp;Обновить</translation>
     </message>
     <message>
         <source>psi/reload</source>
-        <translation>psi/reload</translation>
+        <translation type="vanished">psi/reload</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Закрыть</translation>
+        <translation type="vanished">&amp;Закрыть</translation>
     </message>
     <message>
         <source>psi/close</source>
-        <translation>psi/close</translation>
+        <translation type="vanished">psi/close</translation>
     </message>
 </context>
 <context>
     <name>InfoDlg</name>
     <message>
         <source>First Name:</source>
-        <translation>Имя:</translation>
+        <translation type="vanished">Имя:</translation>
     </message>
     <message>
         <source>Middle Name:</source>
-        <translation>Отчество:</translation>
+        <translation type="vanished">Отчество:</translation>
     </message>
     <message>
         <source>Last Name:</source>
-        <translation>Фамилия:</translation>
+        <translation type="vanished">Фамилия:</translation>
     </message>
     <message>
         <source>Edit names</source>
-        <translation>Изменить имена</translation>
+        <translation type="vanished">Изменить имена</translation>
     </message>
     <message>
         <source>View names</source>
-        <translation>Просмотр имён</translation>
+        <translation type="vanished">Просмотр имён</translation>
     </message>
     <message>
         <source>Open web browser</source>
-        <translation>Открыть в браузере</translation>
+        <translation type="vanished">Открыть в браузере</translation>
     </message>
     <message>
         <source>No date</source>
-        <translation>Нет даты</translation>
+        <translation type="vanished">Нет даты</translation>
     </message>
     <message>
         <source>Edit birthday</source>
-        <translation>Изменить дату рождения</translation>
+        <translation type="vanished">Изменить дату рождения</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Предупреждение</translation>
+        <translation type="vanished">Предупреждение</translation>
     </message>
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation>Вы не сохранили изменения, произведённые в вашем аккаунте.
+        <translation type="vanished">Вы не сохранили изменения, произведённые в вашем аккаунте.
 Вы уверены, что хотите отказаться от них?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Закрыть и отказаться</translation>
+        <translation type="vanished">Закрыть и отказаться</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Не закрывать</translation>
+        <translation type="vanished">Не закрывать</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation>Публикация завершена</translation>
+        <translation type="vanished">Публикация завершена</translation>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation>Данные о вашем аккаунте опубликованы.</translation>
+        <translation type="vanished">Данные о вашем аккаунте опубликованы.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Ошибка</translation>
+        <translation type="vanished">Ошибка</translation>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>Невозможно получить данные о вашем аккаунте. Возможно, вы никогда не вводили их раньше.</translation>
+        <translation type="vanished">Невозможно получить данные о вашем аккаунте. Возможно, вы никогда не вводили их раньше.</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation>Невозможно получить информацию об этом контакте.
+        <translation type="vanished">Невозможно получить информацию об этом контакте.
 Причина: %1</translation>
     </message>
     <message>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation>Невозможно опубликовать информацию о вашем аккаунте.
+        <translation type="vanished">Невозможно опубликовать информацию о вашем аккаунте.
 Причина: %1</translation>
     </message>
     <message>
         <source>Picture not
 available</source>
-        <translation>Фото
+        <translation type="vanished">Фото
 недоступно</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Статус</translation>
+        <translation type="vanished">Статус</translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished">vCard</translation>
+    </message>
+    <message>
+        <source>Alt+D</source>
+        <translation type="unfinished">Alt+D</translation>
+    </message>
+    <message>
+        <source>psi/disco</source>
+        <translation type="unfinished">psi/disco</translation>
+    </message>
+    <message>
+        <source>&amp;Publish</source>
+        <translation type="unfinished">О&amp;публиковать</translation>
+    </message>
+    <message>
+        <source>&amp;Retrieve</source>
+        <translation type="unfinished">&amp;Обновить</translation>
+    </message>
+    <message>
+        <source>psi/reload</source>
+        <translation type="unfinished">psi/reload</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi/close</source>
+        <translation type="unfinished">psi/close</translation>
+    </message>
+</context>
+<context>
+    <name>InfoWidget</name>
+    <message>
+        <source>First Name:</source>
+        <translation type="unfinished">Имя:</translation>
+    </message>
+    <message>
+        <source>Middle Name:</source>
+        <translation type="unfinished">Отчество:</translation>
+    </message>
+    <message>
+        <source>Last Name:</source>
+        <translation type="unfinished">Фамилия:</translation>
+    </message>
+    <message>
+        <source>Edit names</source>
+        <translation type="unfinished">Изменить имена</translation>
+    </message>
+    <message>
+        <source>View names</source>
+        <translation type="unfinished">Просмотр имён</translation>
+    </message>
+    <message>
+        <source>Open web browser</source>
+        <translation type="unfinished">Открыть в браузере</translation>
+    </message>
+    <message>
+        <source>No date</source>
+        <translation type="unfinished">Нет даты</translation>
+    </message>
+    <message>
+        <source>Edit birthday</source>
+        <translation type="unfinished">Изменить дату рождения</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">Предупреждение</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished">Вы не сохранили изменения, произведённые в вашем аккаунте.
+Вы уверены, что хотите отказаться от них?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="unfinished">Закрыть и отказаться</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="unfinished">Не закрывать</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="unfinished">Данные о вашем аккаунте опубликованы.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Ошибка</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="unfinished">Невозможно получить данные о вашем аккаунте. Возможно, вы никогда не вводили их раньше.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="unfinished">Невозможно получить информацию об этом контакте.
+Причина: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="unfinished">Невозможно опубликовать информацию о вашем аккаунте.
+Причина: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="unfinished">Фото
+недоступно</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7179,7 +7316,7 @@ to play battleship. He wants to play %2.</source>
     <name>JT_VCard</name>
     <message>
         <source>No VCard available</source>
-        <translation>vCard недоступен</translation>
+        <translation type="vanished">vCard недоступен</translation>
     </message>
 </context>
 <context>
@@ -7419,6 +7556,10 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <source>Close</source>
         <translation>Закрыть</translation>
+    </message>
+    <message>
+        <source>&amp;VCard</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8573,23 +8714,23 @@ Tags: %1</source>
     </message>
     <message>
         <source>Plugin Name:</source>
-        <translation>Название:</translation>
+        <translation type="vanished">Название:</translation>
     </message>
     <message>
         <source>Version: 0</source>
-        <translation>Версия: 0</translation>
+        <translation type="vanished">Версия: 0</translation>
     </message>
     <message>
         <source>Load this plugin</source>
-        <translation>Активировать</translation>
+        <translation type="vanished">Активировать</translation>
     </message>
     <message>
         <source>Plugin Location:</source>
-        <translation>Расположение:</translation>
+        <translation type="vanished">Расположение:</translation>
     </message>
     <message>
         <source>No plugin selected</source>
-        <translation>Плагин не выбран</translation>
+        <translation type="vanished">Плагин не выбран</translation>
     </message>
     <message>
         <source>Plugin Name</source>
@@ -8755,7 +8896,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>seconds</source>
-        <translation>секунд</translation>
+        <translation type="vanished">секунд</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -10252,11 +10393,11 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>No plugin selected.</source>
-        <translation>Плагин не выбран.</translation>
+        <translation type="vanished">Плагин не выбран.</translation>
     </message>
     <message>
         <source>Version: </source>
-        <translation>Версия: </translation>
+        <translation type="vanished">Версия: </translation>
     </message>
     <message>
         <source>Plugin Path:
@@ -10649,7 +10790,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Save queryes to log</source>
-        <translation>Сохранять запросы в журнал</translation>
+        <translation type="vanished">Сохранять запросы в журнал</translation>
     </message>
     <message>
         <source>Logs</source>
@@ -10944,7 +11085,7 @@ Please enter your passphrase below:</source>
     <name>PluginInfoDialog</name>
     <message>
         <source>Information</source>
-        <translation>Информация</translation>
+        <translation type="vanished">Информация</translation>
     </message>
     <message>
         <source>About</source>
@@ -11470,7 +11611,7 @@ Only use letters or numbers.  No punctuation or spaces.</source>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
-        <translation>&lt;qt&gt;Подтвердите своё решение. Данная папка будет удалена!&lt;br&gt;&lt;br&gt;
+        <translation type="vanished">&lt;qt&gt;Подтвердите своё решение. Данная папка будет удалена!&lt;br&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Подтверждаете?</translation>
     </message>
@@ -11484,7 +11625,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation>Невозможно полностью удалить профиль. Убедитесь, что для этого у вас достаточно прав.</translation>
+        <translation type="vanished">Невозможно полностью удалить профиль. Убедитесь, что для этого у вас достаточно прав.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12557,11 +12698,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation>Вставить и отправить</translation>
+        <translation type="vanished">Вставить и отправить</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation>Шаблоны</translation>
+        <translation type="vanished">Шаблоны</translation>
     </message>
     <message>
         <source>Chat basic buttons</source>
@@ -12913,23 +13054,23 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>&amp;Log on</source>
-        <translation>&amp;Подключить</translation>
+        <translation type="vanished">&amp;Подключить</translation>
     </message>
     <message>
         <source>Log Off</source>
-        <translation>Отключить</translation>
+        <translation type="vanished">Отключить</translation>
     </message>
     <message>
         <source>Resend Authorization To</source>
-        <translation>Разрешить подписку</translation>
+        <translation type="vanished">Разрешить подписку</translation>
     </message>
     <message>
         <source>Rerequest Authorization From</source>
-        <translation>Запросить подписку</translation>
+        <translation type="vanished">Запросить подписку</translation>
     </message>
     <message>
         <source>Remove Authorization From</source>
-        <translation>Удалить подписку</translation>
+        <translation type="vanished">Удалить подписку</translation>
     </message>
     <message>
         <source>Sen&amp;d Status</source>
@@ -12957,7 +13098,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Invite To</source>
-        <translation>Пригласить в</translation>
+        <translation type="vanished">Пригласить в</translation>
     </message>
     <message>
         <source>&amp;Group</source>
@@ -12965,15 +13106,15 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Send Message To</source>
-        <translation>Отправить сообщение</translation>
+        <translation type="vanished">Отправить сообщение</translation>
     </message>
     <message>
         <source>Open Chat To</source>
-        <translation>Открыть чат</translation>
+        <translation type="vanished">Открыть чат</translation>
     </message>
     <message>
         <source>Open a Whiteboard To</source>
-        <translation>Открыть доску для рисования</translation>
+        <translation type="vanished">Открыть доску для рисования</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
@@ -12981,7 +13122,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Active Chats</source>
-        <translation>Активные чаты</translation>
+        <translation type="vanished">Активные чаты</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -13005,7 +13146,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Authorization</source>
-        <translation>Подписка</translation>
+        <translation type="vanished">Подписка</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
@@ -15513,94 +15654,94 @@ Reason: %1</source>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
-        <translation>Редактор шаблонов</translation>
+        <translation type="vanished">Редактор шаблонов</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation>Шаблоны</translation>
+        <translation type="vanished">Шаблоны</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Добавить</translation>
+        <translation type="vanished">Добавить</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Изменить</translation>
+        <translation type="vanished">Изменить</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Удалить</translation>
+        <translation type="vanished">Удалить</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ок</translation>
+        <translation type="vanished">Ок</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Отмена</translation>
+        <translation type="vanished">Отмена</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation>Добавить строку шаблона</translation>
+        <translation type="vanished">Добавить строку шаблона</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation>Добавить строку шаблона как подменю</translation>
+        <translation type="vanished">Добавить строку шаблона как подменю</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation>Добавить разделитель</translation>
+        <translation type="vanished">Добавить разделитель</translation>
     </message>
     <message>
         <source>Add separator as submenu</source>
-        <translation>Добавить разделитель как подменю</translation>
+        <translation type="vanished">Добавить разделитель как подменю</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation>Выше</translation>
+        <translation type="vanished">Выше</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation>Ниже</translation>
+        <translation type="vanished">Ниже</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
-        <translation>&lt;разделитель&gt;</translation>
+        <translation type="vanished">&lt;разделитель&gt;</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation>Редактировать шаблон</translation>
+        <translation type="vanished">Редактировать шаблон</translation>
     </message>
     <message>
         <source>Input new template text</source>
-        <translation>Введите текст шаблона</translation>
+        <translation type="vanished">Введите текст шаблона</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation>Сохранить шаблоны</translation>
+        <translation type="vanished">Сохранить шаблоны</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation>Шаблон &quot;%1&quot; не был сохранён!</translation>
+        <translation type="vanished">Шаблон &quot;%1&quot; не был сохранён!</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation>Продолжить?</translation>
+        <translation type="vanished">Продолжить?</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
         <source>Paste and &amp;Send</source>
-        <translation>Вставить и &amp;отправить</translation>
+        <translation type="vanished">Вставить и &amp;отправить</translation>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
-        <translation>&amp;Редактировать шаблоны</translation>
+        <translation type="vanished">&amp;Редактировать шаблоны</translation>
     </message>
     <message>
         <source>Only &amp;Paste</source>
-        <translation>Только &amp;вставить</translation>
+        <translation type="vanished">Только &amp;вставить</translation>
     </message>
 </context>
 <context>

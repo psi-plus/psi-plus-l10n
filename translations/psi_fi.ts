@@ -6637,11 +6637,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Sulje</translation>
-    </message>
-    <message>
-        <source>User Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">&amp;Sulje</translation>
     </message>
     <message>
         <source>E-Mail:</source>
@@ -6739,6 +6735,67 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>About</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>InfoDlg</name>
+    <message>
+        <source>Open web browser</source>
+        <translation type="obsolete">Avaa web-selain</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="vanished">Varoitus</translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="vanished">Et ole julkaissut muutoksia tunnustietoihisi.
+Oletko varma, että tahdot hylätä ne?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="vanished">Sulje ja hylkää</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="vanished">Älä sulje</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="vanished">Onnistui</translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="vanished">Tunnuksesi tiedot on julkaistu.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="vanished">Virhe</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="vanished">Tunnuksesi tietojen haku epäonnistui. Ehkä et ole vielä määrittänyt mitään tietoja.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="vanished">Tietojen hakeminen tästä yhteystiedosta epäonnistui.
+Syy: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="vanished">Tunnuksesi tietojen julkaiseminen epäonnistui.
+Syy: %1</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="obsolete">Tila</translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Alt+D</source>
         <translation type="unfinished"></translation>
@@ -6760,66 +6817,16 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished">&amp;Sulje</translation>
+    </message>
+    <message>
         <source>psi/close</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>InfoDlg</name>
-    <message>
-        <source>Open web browser</source>
-        <translation type="unfinished">Avaa web-selain</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation>Varoitus</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation>Et ole julkaissut muutoksia tunnustietoihisi.
-Oletko varma, että tahdot hylätä ne?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation>Sulje ja hylkää</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation>Älä sulje</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation>Onnistui</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation>Tunnuksesi tiedot on julkaistu.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Virhe</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>Tunnuksesi tietojen haku epäonnistui. Ehkä et ole vielä määrittänyt mitään tietoja.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation>Tietojen hakeminen tästä yhteystiedosta epäonnistui.
-Syy: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation>Tunnuksesi tietojen julkaiseminen epäonnistui.
-Syy: %1</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="unfinished">Tila</translation>
-    </message>
+    <name>InfoWidget</name>
     <message>
         <source>First Name:</source>
         <translation type="unfinished"></translation>
@@ -6841,6 +6848,10 @@ Syy: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Open web browser</source>
+        <translation type="unfinished">Avaa web-selain</translation>
+    </message>
+    <message>
         <source>No date</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6849,9 +6860,73 @@ Syy: %1</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Warning</source>
+        <translation type="unfinished">Varoitus</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished">Et ole julkaissut muutoksia tunnustietoihisi.
+Oletko varma, että tahdot hylätä ne?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="unfinished">Sulje ja hylkää</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="unfinished">Älä sulje</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="unfinished">Tunnuksesi tiedot on julkaistu.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Virhe</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="unfinished">Tunnuksesi tietojen haku epäonnistui. Ehkä et ole vielä määrittänyt mitään tietoja.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="unfinished">Tietojen hakeminen tästä yhteystiedosta epäonnistui.
+Syy: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="unfinished">Tunnuksesi tietojen julkaiseminen epäonnistui.
+Syy: %1</translation>
+    </message>
+    <message>
         <source>Picture not
 available</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">Tila</translation>
     </message>
 </context>
 <context>
@@ -7292,6 +7367,10 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;VCard</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

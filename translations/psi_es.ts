@@ -6747,7 +6747,7 @@ Nota: Para su correcto funcionamiento, la opción options.ui.chat.central-toolba
     <name>Info</name>
     <message>
         <source>User Info</source>
-        <translation>Información del usuario</translation>
+        <translation type="vanished">Información del usuario</translation>
     </message>
     <message>
         <source>General</source>
@@ -6855,123 +6855,261 @@ Nota: Para su correcto funcionamiento, la opción options.ui.chat.central-toolba
     </message>
     <message>
         <source>Alt+D</source>
-        <translation>Alt+D</translation>
+        <translation type="vanished">Alt+D</translation>
     </message>
     <message>
         <source>psi/disco</source>
-        <translation>psi/disco</translation>
+        <translation type="vanished">psi/disco</translation>
     </message>
     <message>
         <source>&amp;Publish</source>
-        <translation>&amp;Publicar</translation>
+        <translation type="vanished">&amp;Publicar</translation>
     </message>
     <message>
         <source>&amp;Retrieve</source>
-        <translation>&amp;Obtener</translation>
+        <translation type="vanished">&amp;Obtener</translation>
     </message>
     <message>
         <source>psi/reload</source>
-        <translation>psi/reload</translation>
+        <translation type="vanished">psi/reload</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Cerrar</translation>
+        <translation type="vanished">&amp;Cerrar</translation>
     </message>
     <message>
         <source>psi/close</source>
-        <translation>psi/close</translation>
+        <translation type="vanished">psi/close</translation>
     </message>
 </context>
 <context>
     <name>InfoDlg</name>
     <message>
         <source>First Name:</source>
-        <translation>Primer nombre:</translation>
+        <translation type="vanished">Primer nombre:</translation>
     </message>
     <message>
         <source>Middle Name:</source>
-        <translation>Segundo nombre:</translation>
+        <translation type="vanished">Segundo nombre:</translation>
     </message>
     <message>
         <source>Last Name:</source>
-        <translation>Apellido:</translation>
+        <translation type="vanished">Apellido:</translation>
     </message>
     <message>
         <source>Edit names</source>
-        <translation>Editar nombres</translation>
+        <translation type="vanished">Editar nombres</translation>
     </message>
     <message>
         <source>View names</source>
-        <translation>Ver nombres</translation>
+        <translation type="vanished">Ver nombres</translation>
     </message>
     <message>
         <source>Open web browser</source>
-        <translation>Abrir navegador web</translation>
+        <translation type="vanished">Abrir navegador web</translation>
     </message>
     <message>
         <source>No date</source>
-        <translation>Sin fecha</translation>
+        <translation type="vanished">Sin fecha</translation>
     </message>
     <message>
         <source>Edit birthday</source>
-        <translation>Editar cumpleaños</translation>
+        <translation type="vanished">Editar cumpleaños</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Advertencia</translation>
+        <translation type="vanished">Advertencia</translation>
     </message>
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation>No has publicado los cambios efectuados en la información de tu cuenta.
+        <translation type="vanished">No has publicado los cambios efectuados en la información de tu cuenta.
 ¿Estás seguro de que deseas descartarlos?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Cerrar y descartar</translation>
+        <translation type="vanished">Cerrar y descartar</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>No cerrar</translation>
+        <translation type="vanished">No cerrar</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation>Con éxito</translation>
+        <translation type="vanished">Con éxito</translation>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation>La información de tu cuenta (vCard) ha sido publicada.</translation>
+        <translation type="vanished">La información de tu cuenta (vCard) ha sido publicada.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Error</translation>
+        <translation type="vanished">Error</translation>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>No se ha podido cargar la información de tu cuenta (vCard). Tal vez no hayas introducido ninguna aún.
+        <translation type="vanished">No se ha podido cargar la información de tu cuenta (vCard). Tal vez no hayas introducido ninguna aún.
 Si es así, puedes hacerlo ahora.</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation>No se pudo recuperar información acerca de este contacto.
+        <translation type="vanished">No se pudo recuperar información acerca de este contacto.
 Razón: %1</translation>
     </message>
     <message>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation>No se pudo publicar la información de tu cuenta.
+        <translation type="vanished">No se pudo publicar la información de tu cuenta.
 Razón: %1</translation>
     </message>
     <message>
         <source>Picture not
 available</source>
-        <translation>Imagen no
+        <translation type="vanished">Imagen no
 disponible</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Estado</translation>
+        <translation type="vanished">Estado</translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alt+D</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi/disco</source>
+        <translation type="unfinished">psi/disco</translation>
+    </message>
+    <message>
+        <source>&amp;Publish</source>
+        <translation type="unfinished">&amp;Publicar</translation>
+    </message>
+    <message>
+        <source>&amp;Retrieve</source>
+        <translation type="unfinished">&amp;Obtener</translation>
+    </message>
+    <message>
+        <source>psi/reload</source>
+        <translation type="unfinished">psi/reload</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished">&amp;Cerrar</translation>
+    </message>
+    <message>
+        <source>psi/close</source>
+        <translation type="unfinished">psi/close</translation>
+    </message>
+</context>
+<context>
+    <name>InfoWidget</name>
+    <message>
+        <source>First Name:</source>
+        <translation type="unfinished">Primer nombre:</translation>
+    </message>
+    <message>
+        <source>Middle Name:</source>
+        <translation type="unfinished">Segundo nombre:</translation>
+    </message>
+    <message>
+        <source>Last Name:</source>
+        <translation type="unfinished">Apellido:</translation>
+    </message>
+    <message>
+        <source>Edit names</source>
+        <translation type="unfinished">Editar nombres</translation>
+    </message>
+    <message>
+        <source>View names</source>
+        <translation type="unfinished">Ver nombres</translation>
+    </message>
+    <message>
+        <source>Open web browser</source>
+        <translation type="unfinished">Abrir navegador web</translation>
+    </message>
+    <message>
+        <source>No date</source>
+        <translation type="unfinished">Sin fecha</translation>
+    </message>
+    <message>
+        <source>Edit birthday</source>
+        <translation type="unfinished">Editar cumpleaños</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished">No has publicado los cambios efectuados en la información de tu cuenta.
+¿Estás seguro de que deseas descartarlos?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="unfinished">Cerrar y descartar</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="unfinished">No cerrar</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="unfinished">La información de tu cuenta (vCard) ha sido publicada.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Error</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="unfinished">No se ha podido cargar la información de tu cuenta (vCard). Tal vez no hayas introducido ninguna aún.
+Si es así, puedes hacerlo ahora.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="unfinished">No se pudo recuperar información acerca de este contacto.
+Razón: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="unfinished">No se pudo publicar la información de tu cuenta.
+Razón: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="unfinished">Imagen no
+disponible</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">Estado</translation>
     </message>
 </context>
 <context>
@@ -7423,6 +7561,10 @@ Nota: Para su correcto funcionamiento, la opción: options.html.chat.render debe
     <message>
         <source>Close</source>
         <translation>Cerrar</translation>
+    </message>
+    <message>
+        <source>&amp;VCard</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

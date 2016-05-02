@@ -6644,11 +6644,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Zatvoriť</translation>
-    </message>
-    <message>
-        <source>User Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">&amp;Zatvoriť</translation>
     </message>
     <message>
         <source>E-Mail:</source>
@@ -6742,6 +6738,73 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>Street:</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>InfoDlg</name>
+    <message>
+        <source>Open web browser</source>
+        <translation type="obsolete">Otvoriť webový prehliadač</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="vanished">Varovanie</translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="vanished">Tvoje nové informácie o konte neboli publikované.
+Naozaj ich nehceš publikovať?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="vanished">Zatvoriť a zabudnúť</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="vanished">Nezatvoriť</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="vanished">Hotovo</translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="vanished">Informácie o tvojom konte boli publikované.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="vanished">Chyba</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="vanished">Nemôžem získať informácie o konte.  Možno si doteraz žiadne nemal.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="vanished">Nemôžem získať informácie o tomto kontakte.
+Dôvod: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="vanished">Nemôžem publikovať informácie o tvojom konte.
+Dôvod: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="vanished">Obrázok je
+nedostupný</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="vanished">Stav</translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Alt+D</source>
         <translation type="unfinished"></translation>
@@ -6763,72 +6826,16 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished">&amp;Zatvoriť</translation>
+    </message>
+    <message>
         <source>psi/close</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>InfoDlg</name>
-    <message>
-        <source>Open web browser</source>
-        <translation type="unfinished">Otvoriť webový prehliadač</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation>Varovanie</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation>Tvoje nové informácie o konte neboli publikované.
-Naozaj ich nehceš publikovať?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation>Zatvoriť a zabudnúť</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation>Nezatvoriť</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation>Hotovo</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation>Informácie o tvojom konte boli publikované.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Chyba</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>Nemôžem získať informácie o konte.  Možno si doteraz žiadne nemal.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation>Nemôžem získať informácie o tomto kontakte.
-Dôvod: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation>Nemôžem publikovať informácie o tvojom konte.
-Dôvod: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation>Obrázok je
-nedostupný</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation>Stav</translation>
-    </message>
+    <name>InfoWidget</name>
     <message>
         <source>First Name:</source>
         <translation type="unfinished"></translation>
@@ -6850,12 +6857,86 @@ nedostupný</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Open web browser</source>
+        <translation type="unfinished">Otvoriť webový prehliadač</translation>
+    </message>
+    <message>
         <source>No date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit birthday</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished">Tvoje nové informácie o konte neboli publikované.
+Naozaj ich nehceš publikovať?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="unfinished">Zatvoriť a zabudnúť</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="unfinished">Nezatvoriť</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished">Hotovo</translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="unfinished">Informácie o tvojom konte boli publikované.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Chyba</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="unfinished">Nemôžem získať informácie o konte.  Možno si doteraz žiadne nemal.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="unfinished">Nemôžem získať informácie o tomto kontakte.
+Dôvod: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="unfinished">Nemôžem publikovať informácie o tvojom konte.
+Dôvod: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="unfinished">Obrázok je
+nedostupný</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">Stav</translation>
     </message>
 </context>
 <context>
@@ -7296,6 +7377,10 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;VCard</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

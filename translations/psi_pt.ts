@@ -6643,11 +6643,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Fechar</translation>
-    </message>
-    <message>
-        <source>User Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">&amp;Fechar</translation>
     </message>
     <message>
         <source>E-Mail:</source>
@@ -6741,6 +6737,73 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>Street:</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>InfoDlg</name>
+    <message>
+        <source>Open web browser</source>
+        <translation type="obsolete">Abrir navegador web</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="vanished">Alerta</translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="vanished">Não publicou as mudanças relativas à informação da sua conta.
+Pretende ignorá-las?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="vanished">Fechar e ignorar</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="vanished">Não fechar</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="vanished">Sucesso</translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="vanished">A informação relativa à sua conta foi publicada.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="vanished">Erro</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="vanished">Impossível obter a informação da sua conta. Talvez ainda não a tenha preenchido.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="vanished">Impossível obter informação deste contacto.
+Motivo: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="vanished">Impossível publicar a informação da sua conta.
+Motivo: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="vanished">Imagem não
+disponível</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="vanished">Estado</translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Alt+D</source>
         <translation type="unfinished"></translation>
@@ -6762,72 +6825,16 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished">&amp;Fechar</translation>
+    </message>
+    <message>
         <source>psi/close</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>InfoDlg</name>
-    <message>
-        <source>Open web browser</source>
-        <translation type="unfinished">Abrir navegador web</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation>Alerta</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation>Não publicou as mudanças relativas à informação da sua conta.
-Pretende ignorá-las?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation>Fechar e ignorar</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation>Não fechar</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation>Sucesso</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation>A informação relativa à sua conta foi publicada.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Erro</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>Impossível obter a informação da sua conta. Talvez ainda não a tenha preenchido.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation>Impossível obter informação deste contacto.
-Motivo: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation>Impossível publicar a informação da sua conta.
-Motivo: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation>Imagem não
-disponível</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation>Estado</translation>
-    </message>
+    <name>InfoWidget</name>
     <message>
         <source>First Name:</source>
         <translation type="unfinished"></translation>
@@ -6849,12 +6856,86 @@ disponível</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Open web browser</source>
+        <translation type="unfinished">Abrir navegador web</translation>
+    </message>
+    <message>
         <source>No date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit birthday</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">Alerta</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished">Não publicou as mudanças relativas à informação da sua conta.
+Pretende ignorá-las?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="unfinished">Fechar e ignorar</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="unfinished">Não fechar</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished">Sucesso</translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="unfinished">A informação relativa à sua conta foi publicada.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Erro</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="unfinished">Impossível obter a informação da sua conta. Talvez ainda não a tenha preenchido.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="unfinished">Impossível obter informação deste contacto.
+Motivo: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="unfinished">Impossível publicar a informação da sua conta.
+Motivo: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="unfinished">Imagem não
+disponível</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">Estado</translation>
     </message>
 </context>
 <context>
@@ -7295,6 +7376,10 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;VCard</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -6649,7 +6649,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>Info</name>
     <message>
         <source>User Info</source>
-        <translation>Användarinformation</translation>
+        <translation type="vanished">Användarinformation</translation>
     </message>
     <message>
         <source>General</source>
@@ -6757,99 +6757,134 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Alt+D</source>
-        <translation>Alt+D</translation>
+        <translation type="vanished">Alt+D</translation>
     </message>
     <message>
         <source>psi/disco</source>
-        <translation>psi/disco</translation>
+        <translation type="vanished">psi/disco</translation>
     </message>
     <message>
         <source>&amp;Publish</source>
-        <translation>&amp;Publicera</translation>
+        <translation type="vanished">&amp;Publicera</translation>
     </message>
     <message>
         <source>&amp;Retrieve</source>
-        <translation>&amp;Hämta</translation>
+        <translation type="vanished">&amp;Hämta</translation>
     </message>
     <message>
         <source>psi/reload</source>
-        <translation>psi/reload</translation>
+        <translation type="vanished">psi/reload</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Stäng</translation>
+        <translation type="vanished">&amp;Stäng</translation>
     </message>
     <message>
         <source>psi/close</source>
-        <translation>psi/close</translation>
+        <translation type="vanished">psi/close</translation>
     </message>
 </context>
 <context>
     <name>InfoDlg</name>
     <message>
         <source>Open web browser</source>
-        <translation type="unfinished">Öppna webbläsare</translation>
+        <translation type="obsolete">Öppna webbläsare</translation>
     </message>
     <message>
         <source>No date</source>
-        <translation>Inget datum</translation>
+        <translation type="vanished">Inget datum</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>Varning</translation>
+        <translation type="vanished">Varning</translation>
     </message>
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation>Du har inte publicerat dina ändringar till kontoinformationen.
+        <translation type="vanished">Du har inte publicerat dina ändringar till kontoinformationen.
 Är du säker på att du vill slänga dem?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>Stäng och kasta</translation>
+        <translation type="vanished">Stäng och kasta</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>Stäng int</translation>
+        <translation type="vanished">Stäng int</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation>Lyckades</translation>
+        <translation type="vanished">Lyckades</translation>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation>Din kontoinformation har publicerats.</translation>
+        <translation type="vanished">Din kontoinformation har publicerats.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Fel</translation>
+        <translation type="vanished">Fel</translation>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>Kunde inte hämta din kontoinformation. Kanske har du inte skrivit in någon än.</translation>
+        <translation type="vanished">Kunde inte hämta din kontoinformation. Kanske har du inte skrivit in någon än.</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation>Kunde inte hämta information om denna kontakt.
+        <translation type="vanished">Kunde inte hämta information om denna kontakt.
 Orsak: %1</translation>
     </message>
     <message>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation>Kunde inte publicera din kontoinformation.
+        <translation type="vanished">Kunde inte publicera din kontoinformation.
 Orsak: %1</translation>
     </message>
     <message>
         <source>Picture not
 available</source>
-        <translation>Bild ej 
+        <translation type="vanished">Bild ej 
 tillgänglig</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>Status</translation>
+        <translation type="vanished">Status</translation>
     </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished">Användarinformation</translation>
+    </message>
+    <message>
+        <source>Alt+D</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi/disco</source>
+        <translation type="unfinished">psi/disco</translation>
+    </message>
+    <message>
+        <source>&amp;Publish</source>
+        <translation type="unfinished">&amp;Publicera</translation>
+    </message>
+    <message>
+        <source>&amp;Retrieve</source>
+        <translation type="unfinished">&amp;Hämta</translation>
+    </message>
+    <message>
+        <source>psi/reload</source>
+        <translation type="unfinished">psi/reload</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished">&amp;Stäng</translation>
+    </message>
+    <message>
+        <source>psi/close</source>
+        <translation type="unfinished">psi/close</translation>
+    </message>
+</context>
+<context>
+    <name>InfoWidget</name>
     <message>
         <source>First Name:</source>
         <translation type="unfinished"></translation>
@@ -6871,8 +6906,86 @@ tillgänglig</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Open web browser</source>
+        <translation type="unfinished">Öppna webbläsare</translation>
+    </message>
+    <message>
+        <source>No date</source>
+        <translation type="unfinished">Inget datum</translation>
+    </message>
+    <message>
         <source>Edit birthday</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">Varning</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished">Du har inte publicerat dina ändringar till kontoinformationen.
+Är du säker på att du vill slänga dem?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="unfinished">Stäng och kasta</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="unfinished">Stäng int</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="unfinished">Din kontoinformation har publicerats.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Fel</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="unfinished">Kunde inte hämta din kontoinformation. Kanske har du inte skrivit in någon än.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="unfinished">Kunde inte hämta information om denna kontakt.
+Orsak: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="unfinished">Kunde inte publicera din kontoinformation.
+Orsak: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="unfinished">Bild ej 
+tillgänglig</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">Status</translation>
     </message>
 </context>
 <context>
@@ -7314,6 +7427,10 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <source>Close</source>
         <translation>Stäng</translation>
+    </message>
+    <message>
+        <source>&amp;VCard</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

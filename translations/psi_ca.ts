@@ -6639,10 +6639,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished">Estat</translation>
     </message>
     <message>
-        <source>User Info</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>E-Mail:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6734,6 +6730,72 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>Street:</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>InfoDlg</name>
+    <message>
+        <source>Open web browser</source>
+        <translation type="obsolete">Obre navegador Web</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="vanished">Avís</translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="vanished">No ha publicat els canvis efectuats en la informació del seu compte.
+Està segur de que desitja descartar-los?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="vanished">Tanca i descarta</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="vanished">No tanquis</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="vanished">Amb éxit</translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="vanished">La informació del seu compte ha estat publicada.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="vanished">Error</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="vanished">No s&apos;ha pogut recuperar la informació del seu compte. Potser no n&apos;hi ha introduit cap encara.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="vanished">No s&apos;ha pogut recuperar la informació referent a aquest contacte.
+Raó: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="vanished">No s&apos;ha pogut publicar la informació del seu compte.
+Raó: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="vanished">Imatge no disponible</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="vanished">Estat</translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Alt+D</source>
         <translation type="unfinished"></translation>
@@ -6764,66 +6826,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
 </context>
 <context>
-    <name>InfoDlg</name>
-    <message>
-        <source>Open web browser</source>
-        <translation type="unfinished">Obre navegador Web</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation>Avís</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation>No ha publicat els canvis efectuats en la informació del seu compte.
-Està segur de que desitja descartar-los?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation>Tanca i descarta</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation>No tanquis</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation>Amb éxit</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation>La informació del seu compte ha estat publicada.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Error</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>No s&apos;ha pogut recuperar la informació del seu compte. Potser no n&apos;hi ha introduit cap encara.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation>No s&apos;ha pogut recuperar la informació referent a aquest contacte.
-Raó: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation>No s&apos;ha pogut publicar la informació del seu compte.
-Raó: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation>Imatge no disponible</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation>Estat</translation>
-    </message>
+    <name>InfoWidget</name>
     <message>
         <source>First Name:</source>
         <translation type="unfinished"></translation>
@@ -6845,12 +6848,85 @@ available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Open web browser</source>
+        <translation type="unfinished">Obre navegador Web</translation>
+    </message>
+    <message>
         <source>No date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit birthday</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">Avís</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished">No ha publicat els canvis efectuats en la informació del seu compte.
+Està segur de que desitja descartar-los?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="unfinished">Tanca i descarta</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="unfinished">No tanquis</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="unfinished">La informació del seu compte ha estat publicada.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Error</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="unfinished">No s&apos;ha pogut recuperar la informació del seu compte. Potser no n&apos;hi ha introduit cap encara.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="unfinished">No s&apos;ha pogut recuperar la informació referent a aquest contacte.
+Raó: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="unfinished">No s&apos;ha pogut publicar la informació del seu compte.
+Raó: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="unfinished">Imatge no disponible</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">Estat</translation>
     </message>
 </context>
 <context>
@@ -7291,6 +7367,10 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;VCard</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

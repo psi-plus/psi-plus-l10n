@@ -6695,7 +6695,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>Info</name>
     <message>
         <source>User Info</source>
-        <translation>מידע משתמש</translation>
+        <translation type="vanished">מידע משתמש</translation>
     </message>
     <message>
         <source>General</source>
@@ -6802,6 +6802,113 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation>מצב</translation>
     </message>
     <message>
+        <source>&amp;Publish</source>
+        <translation type="vanished">&amp;פרסם</translation>
+    </message>
+    <message>
+        <source>&amp;Retrieve</source>
+        <translation type="vanished">&amp;אחזר</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation type="vanished">&amp;סגור</translation>
+    </message>
+</context>
+<context>
+    <name>InfoDlg</name>
+    <message>
+        <source>First Name:</source>
+        <translation type="vanished">שם פרטי:</translation>
+    </message>
+    <message>
+        <source>Middle Name:</source>
+        <translation type="vanished">שם אמצעי:</translation>
+    </message>
+    <message>
+        <source>Last Name:</source>
+        <translation type="vanished">שם משפחה:</translation>
+    </message>
+    <message>
+        <source>Edit names</source>
+        <translation type="vanished">עריכת שמות</translation>
+    </message>
+    <message>
+        <source>View names</source>
+        <translation type="vanished">הצגת שמות</translation>
+    </message>
+    <message>
+        <source>Open web browser</source>
+        <translation type="vanished">פתח דפדפן רשת</translation>
+    </message>
+    <message>
+        <source>No date</source>
+        <translation type="vanished">אין תאריך</translation>
+    </message>
+    <message>
+        <source>Edit birthday</source>
+        <translation type="vanished">ערוך יום הולדת</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="vanished">אזהרה</translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="vanished">לא פרסמת את שינויי מידע חשבונך.
+האם אתה בטוח כי ברצונך לסלק אותם?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="vanished">סגור וסלק</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="vanished">אל תסגור</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="vanished">הצלחה</translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="vanished">מידע חשבונך פורסם.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="vanished">שגיאה</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="vanished">אין אפשרות לאחזר את מידע חשבונך.  ייתכן כי לא הזנת פרטים עדיין.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="vanished">אין אפשרות לאחזר מידע אודות איש קשר זה.
+סיבה: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="vanished">אין אפשרות לפרסם את מידע חשבונך.
+סיבה: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="vanished">אין תמונה
+זמינה</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="vanished">מצב</translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished">מידע משתמש</translation>
+    </message>
+    <message>
         <source>Alt+D</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6811,11 +6918,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>&amp;Publish</source>
-        <translation>&amp;פרסם</translation>
+        <translation type="unfinished">&amp;פרסם</translation>
     </message>
     <message>
         <source>&amp;Retrieve</source>
-        <translation>&amp;אחזר</translation>
+        <translation type="unfinished">&amp;אחזר</translation>
     </message>
     <message>
         <source>psi/reload</source>
@@ -6823,7 +6930,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגור</translation>
+        <translation type="unfinished">&amp;סגור</translation>
     </message>
     <message>
         <source>psi/close</source>
@@ -6831,94 +6938,108 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
 </context>
 <context>
-    <name>InfoDlg</name>
+    <name>InfoWidget</name>
     <message>
         <source>First Name:</source>
-        <translation>שם פרטי:</translation>
+        <translation type="unfinished">שם פרטי:</translation>
     </message>
     <message>
         <source>Middle Name:</source>
-        <translation>שם אמצעי:</translation>
+        <translation type="unfinished">שם אמצעי:</translation>
     </message>
     <message>
         <source>Last Name:</source>
-        <translation>שם משפחה:</translation>
+        <translation type="unfinished">שם משפחה:</translation>
     </message>
     <message>
         <source>Edit names</source>
-        <translation>עריכת שמות</translation>
+        <translation type="unfinished">עריכת שמות</translation>
     </message>
     <message>
         <source>View names</source>
-        <translation>הצגת שמות</translation>
+        <translation type="unfinished">הצגת שמות</translation>
     </message>
     <message>
         <source>Open web browser</source>
-        <translation>פתח דפדפן רשת</translation>
+        <translation type="unfinished">פתח דפדפן רשת</translation>
     </message>
     <message>
         <source>No date</source>
-        <translation>אין תאריך</translation>
+        <translation type="unfinished">אין תאריך</translation>
     </message>
     <message>
         <source>Edit birthday</source>
-        <translation>ערוך יום הולדת</translation>
+        <translation type="unfinished">ערוך יום הולדת</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>אזהרה</translation>
+        <translation type="unfinished">אזהרה</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation>לא פרסמת את שינויי מידע חשבונך.
+        <translation type="unfinished">לא פרסמת את שינויי מידע חשבונך.
 האם אתה בטוח כי ברצונך לסלק אותם?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>סגור וסלק</translation>
+        <translation type="unfinished">סגור וסלק</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>אל תסגור</translation>
+        <translation type="unfinished">אל תסגור</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation>הצלחה</translation>
+        <translation type="unfinished">הצלחה</translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation>מידע חשבונך פורסם.</translation>
+        <translation type="unfinished">מידע חשבונך פורסם.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>שגיאה</translation>
+        <translation type="unfinished">שגיאה</translation>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>אין אפשרות לאחזר את מידע חשבונך.  ייתכן כי לא הזנת פרטים עדיין.</translation>
+        <translation type="unfinished">אין אפשרות לאחזר את מידע חשבונך.  ייתכן כי לא הזנת פרטים עדיין.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation>אין אפשרות לאחזר מידע אודות איש קשר זה.
+        <translation type="unfinished">אין אפשרות לאחזר מידע אודות איש קשר זה.
 סיבה: %1</translation>
     </message>
     <message>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation>אין אפשרות לפרסם את מידע חשבונך.
+        <translation type="unfinished">אין אפשרות לפרסם את מידע חשבונך.
 סיבה: %1</translation>
     </message>
     <message>
         <source>Picture not
 available</source>
-        <translation>אין תמונה
+        <translation type="unfinished">אין תמונה
 זמינה</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>מצב</translation>
+        <translation type="unfinished">מצב</translation>
     </message>
 </context>
 <context>
@@ -7360,6 +7481,10 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <source>Close</source>
         <translation>סגור</translation>
+    </message>
+    <message>
+        <source>&amp;VCard</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

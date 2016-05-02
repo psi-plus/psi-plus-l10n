@@ -6654,7 +6654,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>Info</name>
     <message>
         <source>User Info</source>
-        <translation>ユーザー情報</translation>
+        <translation type="vanished">ユーザー情報</translation>
     </message>
     <message>
         <source>General</source>
@@ -6762,46 +6762,160 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Alt+D</source>
-        <translation>Alt+D</translation>
+        <translation type="vanished">Alt+D</translation>
     </message>
     <message>
         <source>psi/disco</source>
-        <translation>psi/disco</translation>
+        <translation type="vanished">psi/disco</translation>
     </message>
     <message>
         <source>&amp;Publish</source>
-        <translation>公開(&amp;P)</translation>
+        <translation type="vanished">公開(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Retrieve</source>
-        <translation>取得(&amp;R)</translation>
+        <translation type="vanished">取得(&amp;R)</translation>
     </message>
     <message>
         <source>psi/reload</source>
-        <translation>psi/reload</translation>
+        <translation type="vanished">psi/reload</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>閉じる(&amp;C)</translation>
+        <translation type="vanished">閉じる(&amp;C)</translation>
     </message>
     <message>
         <source>psi/close</source>
-        <translation>psi/close</translation>
+        <translation type="vanished">psi/close</translation>
     </message>
 </context>
 <context>
     <name>InfoDlg</name>
     <message>
         <source>First Name:</source>
-        <translation>名:</translation>
+        <translation type="vanished">名:</translation>
     </message>
     <message>
         <source>Middle Name:</source>
-        <translation>ミドルネーム:</translation>
+        <translation type="vanished">ミドルネーム:</translation>
     </message>
     <message>
         <source>Last Name:</source>
-        <translation>性:</translation>
+        <translation type="vanished">性:</translation>
+    </message>
+    <message>
+        <source>Open web browser</source>
+        <translation type="vanished">WEBブラウザで開く</translation>
+    </message>
+    <message>
+        <source>No date</source>
+        <translation type="vanished">日付なし</translation>
+    </message>
+    <message>
+        <source>Edit birthday</source>
+        <translation type="vanished">誕生日を編集</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="vanished">警告</translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="vanished">アカウント情報の内容が変更されてます。
+変更を削除しますか?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="vanished">削除する</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="vanished">削除しない</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="vanished">成功</translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="vanished">アカウント情報を更新しました。</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="vanished">エラー</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="vanished">アカウント情報を検出できませんでした。未入力の可能性があります。</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="vanished">コンタクトの情報を取得できません。
+理由: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="vanished">アカウント情報を公開出来ません。
+理由: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="vanished">写真はありません</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="vanished">ステータス</translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished">ユーザー情報</translation>
+    </message>
+    <message>
+        <source>Alt+D</source>
+        <translation type="unfinished">Alt+D</translation>
+    </message>
+    <message>
+        <source>psi/disco</source>
+        <translation type="unfinished">psi/disco</translation>
+    </message>
+    <message>
+        <source>&amp;Publish</source>
+        <translation type="unfinished">公開(&amp;P)</translation>
+    </message>
+    <message>
+        <source>&amp;Retrieve</source>
+        <translation type="unfinished">取得(&amp;R)</translation>
+    </message>
+    <message>
+        <source>psi/reload</source>
+        <translation type="unfinished">psi/reload</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished">閉じる(&amp;C)</translation>
+    </message>
+    <message>
+        <source>psi/close</source>
+        <translation type="unfinished">psi/close</translation>
+    </message>
+</context>
+<context>
+    <name>InfoWidget</name>
+    <message>
+        <source>First Name:</source>
+        <translation type="unfinished">名:</translation>
+    </message>
+    <message>
+        <source>Middle Name:</source>
+        <translation type="unfinished">ミドルネーム:</translation>
+    </message>
+    <message>
+        <source>Last Name:</source>
+        <translation type="unfinished">性:</translation>
     </message>
     <message>
         <source>Edit names</source>
@@ -6813,70 +6927,84 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Open web browser</source>
-        <translation>WEBブラウザで開く</translation>
+        <translation type="unfinished">WEBブラウザで開く</translation>
     </message>
     <message>
         <source>No date</source>
-        <translation>日付なし</translation>
+        <translation type="unfinished">日付なし</translation>
     </message>
     <message>
         <source>Edit birthday</source>
-        <translation>誕生日を編集</translation>
+        <translation type="unfinished">誕生日を編集</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>警告</translation>
+        <translation type="unfinished">警告</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation>アカウント情報の内容が変更されてます。
+        <translation type="unfinished">アカウント情報の内容が変更されてます。
 変更を削除しますか?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>削除する</translation>
+        <translation type="unfinished">削除する</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>削除しない</translation>
+        <translation type="unfinished">削除しない</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation>成功</translation>
+        <translation type="unfinished">成功</translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation>アカウント情報を更新しました。</translation>
+        <translation type="unfinished">アカウント情報を更新しました。</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>エラー</translation>
+        <translation type="unfinished">エラー</translation>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>アカウント情報を検出できませんでした。未入力の可能性があります。</translation>
+        <translation type="unfinished">アカウント情報を検出できませんでした。未入力の可能性があります。</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation>コンタクトの情報を取得できません。
+        <translation type="unfinished">コンタクトの情報を取得できません。
 理由: %1</translation>
     </message>
     <message>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation>アカウント情報を公開出来ません。
+        <translation type="unfinished">アカウント情報を公開出来ません。
 理由: %1</translation>
     </message>
     <message>
         <source>Picture not
 available</source>
-        <translation>写真はありません</translation>
+        <translation type="unfinished">写真はありません</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>ステータス</translation>
+        <translation type="unfinished">ステータス</translation>
     </message>
 </context>
 <context>
@@ -7318,6 +7446,10 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <source>Close</source>
         <translation>閉じる</translation>
+    </message>
+    <message>
+        <source>&amp;VCard</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

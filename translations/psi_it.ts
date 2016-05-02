@@ -6649,7 +6649,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>Info</name>
     <message>
         <source>User Info</source>
-        <translation>Info Utente</translation>
+        <translation type="vanished">Info Utente</translation>
     </message>
     <message>
         <source>General</source>
@@ -6757,27 +6757,126 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Alt+D</source>
-        <translation>Alt+D</translation>
+        <translation type="vanished">Alt+D</translation>
     </message>
     <message>
         <source>psi/disco</source>
-        <translation>psi/disco</translation>
+        <translation type="vanished">psi/disco</translation>
     </message>
     <message>
         <source>&amp;Publish</source>
-        <translation>&amp;Pubblica</translation>
+        <translation type="vanished">&amp;Pubblica</translation>
     </message>
     <message>
         <source>&amp;Retrieve</source>
-        <translation>&amp;Recupera</translation>
+        <translation type="vanished">&amp;Recupera</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Chiudi</translation>
+        <translation type="vanished">&amp;Chiudi</translation>
+    </message>
+</context>
+<context>
+    <name>InfoDlg</name>
+    <message>
+        <source>First Name:</source>
+        <translation type="vanished">Nome:</translation>
+    </message>
+    <message>
+        <source>Middle Name:</source>
+        <translation type="vanished">Secondo Nome:</translation>
+    </message>
+    <message>
+        <source>Last Name:</source>
+        <translation type="vanished">Cognome:</translation>
+    </message>
+    <message>
+        <source>Open web browser</source>
+        <translation type="obsolete">Apri un web browser</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="vanished">Avviso</translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="vanished">Non hai pubblicato i cambiamenti alle informazioni del tuo account.
+Sei sicuro di volerli annullare?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="vanished">Chiudi e Annulla</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="vanished">Non chiudere</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="vanished">Successo</translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="vanished">Le informazioni del tuo account sono state pubblicate.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="vanished">Errore</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="vanished">Impossibile recuperare le informazioni del tuo account. Forse non le hai ancora inserite.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="vanished">Impossibile recuperare le informazioni su questo contatto.
+Motivo: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="vanished">Impossibile pubblicare le informazioni del tuo account.
+Motivo: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="vanished">Immagine non
+disponibile</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="vanished">Stato</translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished">Info Utente</translation>
+    </message>
+    <message>
+        <source>Alt+D</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi/disco</source>
+        <translation type="unfinished">psi/disco</translation>
+    </message>
+    <message>
+        <source>&amp;Publish</source>
+        <translation type="unfinished">&amp;Pubblica</translation>
+    </message>
+    <message>
+        <source>&amp;Retrieve</source>
+        <translation type="unfinished">&amp;Recupera</translation>
     </message>
     <message>
         <source>psi/reload</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished">&amp;Chiudi</translation>
     </message>
     <message>
         <source>psi/close</source>
@@ -6785,78 +6884,18 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
 </context>
 <context>
-    <name>InfoDlg</name>
+    <name>InfoWidget</name>
     <message>
         <source>First Name:</source>
-        <translation>Nome:</translation>
+        <translation type="unfinished">Nome:</translation>
     </message>
     <message>
         <source>Middle Name:</source>
-        <translation>Secondo Nome:</translation>
+        <translation type="unfinished">Secondo Nome:</translation>
     </message>
     <message>
         <source>Last Name:</source>
-        <translation>Cognome:</translation>
-    </message>
-    <message>
-        <source>Open web browser</source>
-        <translation type="unfinished">Apri un web browser</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation>Avviso</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation>Non hai pubblicato i cambiamenti alle informazioni del tuo account.
-Sei sicuro di volerli annullare?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation>Chiudi e Annulla</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation>Non chiudere</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation>Successo</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation>Le informazioni del tuo account sono state pubblicate.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Errore</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>Impossibile recuperare le informazioni del tuo account. Forse non le hai ancora inserite.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation>Impossibile recuperare le informazioni su questo contatto.
-Motivo: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation>Impossibile pubblicare le informazioni del tuo account.
-Motivo: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation>Immagine non
-disponibile</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation>Stato</translation>
+        <translation type="unfinished">Cognome:</translation>
     </message>
     <message>
         <source>Edit names</source>
@@ -6867,12 +6906,86 @@ disponibile</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Open web browser</source>
+        <translation type="unfinished">Apri un web browser</translation>
+    </message>
+    <message>
         <source>No date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit birthday</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">Avviso</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished">Non hai pubblicato i cambiamenti alle informazioni del tuo account.
+Sei sicuro di volerli annullare?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="unfinished">Chiudi e Annulla</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="unfinished">Non chiudere</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished">Successo</translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="unfinished">Le informazioni del tuo account sono state pubblicate.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Errore</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="unfinished">Impossibile recuperare le informazioni del tuo account. Forse non le hai ancora inserite.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="unfinished">Impossibile recuperare le informazioni su questo contatto.
+Motivo: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="unfinished">Impossibile pubblicare le informazioni del tuo account.
+Motivo: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="unfinished">Immagine non
+disponibile</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">Stato</translation>
     </message>
 </context>
 <context>
@@ -7314,6 +7427,10 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <source>Close</source>
         <translation>Chiudi</translation>
+    </message>
+    <message>
+        <source>&amp;VCard</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

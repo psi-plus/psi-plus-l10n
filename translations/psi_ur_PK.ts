@@ -6641,7 +6641,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>Info</name>
     <message>
         <source>User Info</source>
-        <translation>صارف معلومات</translation>
+        <translation type="vanished">صارف معلومات</translation>
     </message>
     <message>
         <source>General</source>
@@ -6749,110 +6749,153 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Alt+D</source>
-        <translation>Alt+D </translation>
+        <translation type="vanished">Alt+D </translation>
     </message>
     <message>
         <source>&amp;Publish</source>
-        <translation>شائع کریں</translation>
+        <translation type="vanished">شائع کریں</translation>
     </message>
     <message>
         <source>&amp;Retrieve</source>
-        <translation>بازگیر کریں</translation>
+        <translation type="vanished">بازگیر کریں</translation>
     </message>
     <message>
         <source>psi/reload</source>
-        <translation>psi/ پھر لوڈ کریں</translation>
+        <translation type="vanished">psi/ پھر لوڈ کریں</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;بند کریں</translation>
+        <translation type="vanished">&amp;بند کریں</translation>
     </message>
     <message>
         <source>psi/close</source>
-        <translation>psi/ بند کریں</translation>
-    </message>
-    <message>
-        <source>psi/disco</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">psi/ بند کریں</translation>
     </message>
 </context>
 <context>
     <name>InfoDlg</name>
     <message>
         <source>First Name:</source>
-        <translation>پہلا نام</translation>
+        <translation type="vanished">پہلا نام</translation>
     </message>
     <message>
         <source>Middle Name:</source>
-        <translation>درمیان کا نام</translation>
+        <translation type="vanished">درمیان کا نام</translation>
     </message>
     <message>
         <source>Last Name:</source>
-        <translation>آخری نام</translation>
+        <translation type="vanished">آخری نام</translation>
     </message>
     <message>
         <source>Open web browser</source>
-        <translation type="unfinished">ویب براؤزر کھولیں</translation>
+        <translation type="obsolete">ویب براؤزر کھولیں</translation>
     </message>
     <message>
         <source>No date</source>
-        <translation>کوئی تاریخ نہیں</translation>
+        <translation type="vanished">کوئی تاریخ نہیں</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>تنبیہ</translation>
+        <translation type="vanished">تنبیہ</translation>
     </message>
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation>آپ نے اپنی اکاؤنٹ معلوماتی تبدیلیاں شائع نہیں کیں۔ 
+        <translation type="vanished">آپ نے اپنی اکاؤنٹ معلوماتی تبدیلیاں شائع نہیں کیں۔ 
 کیا آپ لازماً انہیں مسترد کرنا چاہتے ہیں؟&apos;&apos;</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>بند اور مسترد کریں</translation>
+        <translation type="vanished">بند اور مسترد کریں</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>بند مت کریں</translation>
+        <translation type="vanished">بند مت کریں</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation>کامیابی</translation>
+        <translation type="vanished">کامیابی</translation>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation>آپ کا اکاؤنٹ معلومات شائع ہو چکا ہے۔</translation>
+        <translation type="vanished">آپ کا اکاؤنٹ معلومات شائع ہو چکا ہے۔</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>نقص</translation>
+        <translation type="vanished">نقص</translation>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>آپ کی اکاؤنٹ معلومات بازگیر کرنے میں نااہل۔   شاید آپ نے ابھی کچھ داخل نہیں کیا۔</translation>
+        <translation type="vanished">آپ کی اکاؤنٹ معلومات بازگیر کرنے میں نااہل۔   شاید آپ نے ابھی کچھ داخل نہیں کیا۔</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation>
+        <translation type="vanished">
 اس رابطے کے متعلق معلومات بازگیر کرنے میں نااہل۔دلیل‫: %1‏</translation>
     </message>
     <message>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation>
+        <translation type="vanished">
 آپ کی اکاؤنٹ معلومات شائع کرنے میں ناکام۔دلیل‫: %1 ‏</translation>
     </message>
     <message>
         <source>Picture not
 available</source>
-        <translation>تصویر دستیاب نہیں 
+        <translation type="vanished">تصویر دستیاب نہیں 
 </translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>حالت</translation>
+        <translation type="vanished">حالت</translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished">صارف معلومات</translation>
+    </message>
+    <message>
+        <source>Alt+D</source>
+        <translation type="unfinished">Alt+D </translation>
+    </message>
+    <message>
+        <source>psi/disco</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Publish</source>
+        <translation type="unfinished">شائع کریں</translation>
+    </message>
+    <message>
+        <source>&amp;Retrieve</source>
+        <translation type="unfinished">بازگیر کریں</translation>
+    </message>
+    <message>
+        <source>psi/reload</source>
+        <translation type="unfinished">psi/ پھر لوڈ کریں</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished">&amp;بند کریں</translation>
+    </message>
+    <message>
+        <source>psi/close</source>
+        <translation type="unfinished">psi/ بند کریں</translation>
+    </message>
+</context>
+<context>
+    <name>InfoWidget</name>
+    <message>
+        <source>First Name:</source>
+        <translation type="unfinished">پہلا نام</translation>
+    </message>
+    <message>
+        <source>Middle Name:</source>
+        <translation type="unfinished">درمیان کا نام</translation>
+    </message>
+    <message>
+        <source>Last Name:</source>
+        <translation type="unfinished">آخری نام</translation>
     </message>
     <message>
         <source>Edit names</source>
@@ -6863,8 +6906,86 @@ available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Open web browser</source>
+        <translation type="unfinished">ویب براؤزر کھولیں</translation>
+    </message>
+    <message>
+        <source>No date</source>
+        <translation type="unfinished">کوئی تاریخ نہیں</translation>
+    </message>
+    <message>
         <source>Edit birthday</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">تنبیہ</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished">آپ نے اپنی اکاؤنٹ معلوماتی تبدیلیاں شائع نہیں کیں۔ 
+کیا آپ لازماً انہیں مسترد کرنا چاہتے ہیں؟&apos;&apos;</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="unfinished">بند اور مسترد کریں</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="unfinished">بند مت کریں</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished">کامیابی</translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="unfinished">آپ کا اکاؤنٹ معلومات شائع ہو چکا ہے۔</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">نقص</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="unfinished">آپ کی اکاؤنٹ معلومات بازگیر کرنے میں نااہل۔   شاید آپ نے ابھی کچھ داخل نہیں کیا۔</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="unfinished">
+اس رابطے کے متعلق معلومات بازگیر کرنے میں نااہل۔دلیل‫: %1‏</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="unfinished">
+آپ کی اکاؤنٹ معلومات شائع کرنے میں ناکام۔دلیل‫: %1 ‏</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="unfinished">تصویر دستیاب نہیں 
+</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">حالت</translation>
     </message>
 </context>
 <context>
@@ -7306,6 +7427,10 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <source>Close</source>
         <translation>بند کریں</translation>
+    </message>
+    <message>
+        <source>&amp;VCard</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

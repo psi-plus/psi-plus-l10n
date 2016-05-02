@@ -6653,11 +6653,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Fermi</translation>
-    </message>
-    <message>
-        <source>User Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">&amp;Fermi</translation>
     </message>
     <message>
         <source>General</source>
@@ -6751,6 +6747,73 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>Street:</source>
         <translation type="unfinished"></translation>
     </message>
+</context>
+<context>
+    <name>InfoDlg</name>
+    <message>
+        <source>Open web browser</source>
+        <translation type="obsolete">Malfermi foliumilon</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="vanished">Atentu</translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="vanished">Vi ne publikis la ŝanĝojn de informo de via konto.
+Ĉu vi certas ke vi volas forĵeti ilin?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="vanished">Fermi kaj forĵeti</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="vanished">Ne fermi</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="vanished">Sukceso</translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="vanished">La informo de via konto publikiĝis.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="vanished">Eraro</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="vanished">Ne eblas ekstrakti la informon de via konto.  Eble vi ankoraŭ neniun enskribis.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="vanished">Ne eblas ekstrakti la informon de konto de tiu ĉi kontaktulo.
+Kialo: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="vanished">Ne eblas publikigi la informon de via konto.
+Kialo: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="vanished">Bildo ne
+disponebla</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="vanished">Stato</translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Alt+D</source>
         <translation type="unfinished"></translation>
@@ -6772,72 +6835,16 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished">&amp;Fermi</translation>
+    </message>
+    <message>
         <source>psi/close</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>InfoDlg</name>
-    <message>
-        <source>Open web browser</source>
-        <translation type="unfinished">Malfermi foliumilon</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation>Atentu</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation>Vi ne publikis la ŝanĝojn de informo de via konto.
-Ĉu vi certas ke vi volas forĵeti ilin?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation>Fermi kaj forĵeti</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation>Ne fermi</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation>Sukceso</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation>La informo de via konto publikiĝis.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Eraro</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>Ne eblas ekstrakti la informon de via konto.  Eble vi ankoraŭ neniun enskribis.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation>Ne eblas ekstrakti la informon de konto de tiu ĉi kontaktulo.
-Kialo: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation>Ne eblas publikigi la informon de via konto.
-Kialo: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation>Bildo ne
-disponebla</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation>Stato</translation>
-    </message>
+    <name>InfoWidget</name>
     <message>
         <source>First Name:</source>
         <translation type="unfinished"></translation>
@@ -6859,12 +6866,86 @@ disponebla</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Open web browser</source>
+        <translation type="unfinished">Malfermi foliumilon</translation>
+    </message>
+    <message>
         <source>No date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit birthday</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished">Vi ne publikis la ŝanĝojn de informo de via konto.
+Ĉu vi certas ke vi volas forĵeti ilin?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="unfinished">Fermi kaj forĵeti</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="unfinished">Ne fermi</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished">Sukceso</translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="unfinished">La informo de via konto publikiĝis.</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Eraro</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="unfinished">Ne eblas ekstrakti la informon de via konto.  Eble vi ankoraŭ neniun enskribis.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="unfinished">Ne eblas ekstrakti la informon de konto de tiu ĉi kontaktulo.
+Kialo: %1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="unfinished">Ne eblas publikigi la informon de via konto.
+Kialo: %1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="unfinished">Bildo ne
+disponebla</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">Stato</translation>
     </message>
 </context>
 <context>
@@ -7305,6 +7386,10 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     </message>
     <message>
         <source>Apply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;VCard</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

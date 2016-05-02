@@ -6770,7 +6770,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>Info</name>
     <message>
         <source>User Info</source>
-        <translation>使用者資訊</translation>
+        <translation type="vanished">使用者資訊</translation>
     </message>
     <message>
         <source>General</source>
@@ -6878,121 +6878,257 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Alt+D</source>
-        <translation>Alt+D</translation>
+        <translation type="vanished">Alt+D</translation>
     </message>
     <message>
         <source>psi/disco</source>
-        <translation>psi/迪斯可</translation>
+        <translation type="vanished">psi/迪斯可</translation>
     </message>
     <message>
         <source>&amp;Publish</source>
-        <translation>發佈(&amp;P)</translation>
+        <translation type="vanished">發佈(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Retrieve</source>
-        <translation>取回(&amp;R)</translation>
+        <translation type="vanished">取回(&amp;R)</translation>
     </message>
     <message>
         <source>psi/reload</source>
-        <translation>psi/再裝</translation>
+        <translation type="vanished">psi/再裝</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>關閉(&amp;C)</translation>
+        <translation type="vanished">關閉(&amp;C)</translation>
     </message>
     <message>
         <source>psi/close</source>
-        <translation>psi/關閉</translation>
+        <translation type="vanished">psi/關閉</translation>
     </message>
 </context>
 <context>
     <name>InfoDlg</name>
     <message>
         <source>First Name:</source>
-        <translation>名:</translation>
+        <translation type="vanished">名:</translation>
     </message>
     <message>
         <source>Middle Name:</source>
-        <translation>中間名:</translation>
+        <translation type="vanished">中間名:</translation>
     </message>
     <message>
         <source>Last Name:</source>
-        <translation>姓:</translation>
+        <translation type="vanished">姓:</translation>
     </message>
     <message>
         <source>Edit names</source>
-        <translation>編輯名字</translation>
+        <translation type="vanished">編輯名字</translation>
     </message>
     <message>
         <source>View names</source>
-        <translation>視圖的名稱</translation>
+        <translation type="vanished">視圖的名稱</translation>
     </message>
     <message>
         <source>Open web browser</source>
-        <translation>打開網路流覽器</translation>
+        <translation type="vanished">打開網路流覽器</translation>
     </message>
     <message>
         <source>No date</source>
-        <translation>沒有日期</translation>
+        <translation type="vanished">沒有日期</translation>
     </message>
     <message>
         <source>Edit birthday</source>
-        <translation>編輯生日</translation>
+        <translation type="vanished">編輯生日</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation>警告</translation>
+        <translation type="vanished">警告</translation>
     </message>
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation>你還沒有發佈你的帳號資料變更。
+        <translation type="vanished">你還沒有發佈你的帳號資料變更。
 你確定要忽視它們嗎?</translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation>關閉並忽視</translation>
+        <translation type="vanished">關閉並忽視</translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation>不要關閉</translation>
+        <translation type="vanished">不要關閉</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation>成功</translation>
+        <translation type="vanished">成功</translation>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation>你的帳號資料已經發佈了。</translation>
+        <translation type="vanished">你的帳號資料已經發佈了。</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>錯誤</translation>
+        <translation type="vanished">錯誤</translation>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation>無法取回你的帳號資料。  可能你還沒有輸入東西吧。</translation>
+        <translation type="vanished">無法取回你的帳號資料。  可能你還沒有輸入東西吧。</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation>無法檢索有關此連絡人的資訊。
+        <translation type="vanished">無法檢索有關此連絡人的資訊。
 原因:%1</translation>
     </message>
     <message>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation>無法發佈您的帳號資訊。
+        <translation type="vanished">無法發佈您的帳號資訊。
 原因:%1</translation>
     </message>
     <message>
         <source>Picture not
 available</source>
-        <translation>圖片不可用</translation>
+        <translation type="vanished">圖片不可用</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation>狀態</translation>
+        <translation type="vanished">狀態</translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished">使用者資訊</translation>
+    </message>
+    <message>
+        <source>Alt+D</source>
+        <translation type="unfinished">Alt+D</translation>
+    </message>
+    <message>
+        <source>psi/disco</source>
+        <translation type="unfinished">psi/迪斯可</translation>
+    </message>
+    <message>
+        <source>&amp;Publish</source>
+        <translation type="unfinished">發佈(&amp;P)</translation>
+    </message>
+    <message>
+        <source>&amp;Retrieve</source>
+        <translation type="unfinished">取回(&amp;R)</translation>
+    </message>
+    <message>
+        <source>psi/reload</source>
+        <translation type="unfinished">psi/再裝</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi/close</source>
+        <translation type="unfinished">psi/關閉</translation>
+    </message>
+</context>
+<context>
+    <name>InfoWidget</name>
+    <message>
+        <source>First Name:</source>
+        <translation type="unfinished">名:</translation>
+    </message>
+    <message>
+        <source>Middle Name:</source>
+        <translation type="unfinished">中間名:</translation>
+    </message>
+    <message>
+        <source>Last Name:</source>
+        <translation type="unfinished">姓:</translation>
+    </message>
+    <message>
+        <source>Edit names</source>
+        <translation type="unfinished">編輯名字</translation>
+    </message>
+    <message>
+        <source>View names</source>
+        <translation type="unfinished">視圖的名稱</translation>
+    </message>
+    <message>
+        <source>Open web browser</source>
+        <translation type="unfinished">打開網路流覽器</translation>
+    </message>
+    <message>
+        <source>No date</source>
+        <translation type="unfinished">沒有日期</translation>
+    </message>
+    <message>
+        <source>Edit birthday</source>
+        <translation type="unfinished">編輯生日</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished">警告</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published your account information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished">你還沒有發佈你的帳號資料變更。
+你確定要忽視它們嗎?</translation>
+    </message>
+    <message>
+        <source>Close and discard</source>
+        <translation type="unfinished">關閉並忽視</translation>
+    </message>
+    <message>
+        <source>Don&apos;t close</source>
+        <translation type="unfinished">不要關閉</translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished">成功</translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your account information has been published.</source>
+        <translation type="unfinished">你的帳號資料已經發佈了。</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">錯誤</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
+        <translation type="unfinished">無法取回你的帳號資料。  可能你還沒有輸入東西吧。</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this contact.
+Reason: %1</source>
+        <translation type="unfinished">無法檢索有關此連絡人的資訊。
+原因:%1</translation>
+    </message>
+    <message>
+        <source>Unable to publish your account information.
+Reason: %1</source>
+        <translation type="unfinished">無法發佈您的帳號資訊。
+原因:%1</translation>
+    </message>
+    <message>
+        <source>Picture not
+available</source>
+        <translation type="unfinished">圖片不可用</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <translation type="unfinished">狀態</translation>
     </message>
 </context>
 <context>
@@ -7446,6 +7582,10 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
     <message>
         <source>Close</source>
         <translation>關閉</translation>
+    </message>
+    <message>
+        <source>&amp;VCard</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
