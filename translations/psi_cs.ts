@@ -16275,7 +16275,7 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     <name>StopSpam</name>
     <message>
         <source>Block stanza from </source>
-        <translation>Blokovaná událost od</translation>
+        <translation>Blokovaná událost od </translation>
     </message>
     <message>
         <source>Stop Spam Plugin</source>
