@@ -10372,6 +10372,17 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
 </context>
 <context>
+    <name>OptionsTabPlugin</name>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">Geral</translation>
+    </message>
+    <message>
+        <source>General plugin options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabPlugins</name>
     <message>
         <source>Plugins</source>
@@ -10400,10 +10411,6 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Open plugin settings dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Settings of %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11090,13 +11097,6 @@ Por favor informe sua frase de segurança abaixo:</translation>
     <message>
         <source>This plugin has no user configurable options</source>
         <translation>Este plugin não tem opções de configuração</translation>
-    </message>
-</context>
-<context>
-    <name>PluginSettingsDialog</name>
-    <message>
-        <source>SettingsDialog</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

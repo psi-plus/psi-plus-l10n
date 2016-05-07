@@ -10374,6 +10374,17 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
 </context>
 <context>
+    <name>OptionsTabPlugin</name>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">Általános</translation>
+    </message>
+    <message>
+        <source>General plugin options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabPlugins</name>
     <message>
         <source>Plugins</source>
@@ -10407,7 +10418,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
     <message>
         <source>Settings of %1</source>
-        <translation>%1 beállításai</translation>
+        <translation type="vanished">%1 beállításai</translation>
     </message>
 </context>
 <context>
@@ -11092,13 +11103,6 @@ Kérlek add meg a jelszavad:</translation>
     <name>PluginManager</name>
     <message>
         <source>This plugin has no user configurable options</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PluginSettingsDialog</name>
-    <message>
-        <source>SettingsDialog</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

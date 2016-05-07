@@ -10371,6 +10371,17 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
 </context>
 <context>
+    <name>OptionsTabPlugin</name>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">Allgemein</translation>
+    </message>
+    <message>
+        <source>General plugin options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabPlugins</name>
     <message>
         <source>Plugins</source>
@@ -10404,7 +10415,7 @@ um Gefühle oder Ideen auszudrücken.&lt;/p&gt;
     </message>
     <message>
         <source>Settings of %1</source>
-        <translation>Einstellungen von %1</translation>
+        <translation type="vanished">Einstellungen von %1</translation>
     </message>
 </context>
 <context>
@@ -11096,7 +11107,7 @@ Bitte geben Sie Ihre Passphrase ein:</translation>
     <name>PluginSettingsDialog</name>
     <message>
         <source>SettingsDialog</source>
-        <translation>Einstellungsdialog</translation>
+        <translation type="vanished">Einstellungsdialog</translation>
     </message>
 </context>
 <context>

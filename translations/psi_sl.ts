@@ -10244,6 +10244,17 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
 </context>
 <context>
+    <name>OptionsTabPlugin</name>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">Splošno</translation>
+    </message>
+    <message>
+        <source>General plugin options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabPlugins</name>
     <message>
         <source>Plugins</source>
@@ -10268,10 +10279,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Open plugin settings dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Settings of %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10953,13 +10960,6 @@ Vnesite svojo šifrirno frazo:</translation>
     <name>PluginManager</name>
     <message>
         <source>This plugin has no user configurable options</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PluginSettingsDialog</name>
-    <message>
-        <source>SettingsDialog</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

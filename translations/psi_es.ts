@@ -10387,6 +10387,17 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
 </context>
 <context>
+    <name>OptionsTabPlugin</name>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">General</translation>
+    </message>
+    <message>
+        <source>General plugin options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabPlugins</name>
     <message>
         <source>Plugins</source>
@@ -10420,7 +10431,7 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>Settings of %1</source>
-        <translation>Ajuste de %1</translation>
+        <translation type="vanished">Ajuste de %1</translation>
     </message>
 </context>
 <context>
@@ -11112,7 +11123,7 @@ Por favor inserta tu contraseña abajo:</translation>
     <name>PluginSettingsDialog</name>
     <message>
         <source>SettingsDialog</source>
-        <translation>SettingsDialog</translation>
+        <translation type="vanished">SettingsDialog</translation>
     </message>
 </context>
 <context>

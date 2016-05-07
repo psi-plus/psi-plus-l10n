@@ -10331,6 +10331,17 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
 </context>
 <context>
+    <name>OptionsTabPlugin</name>
+    <message>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General plugin options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabPlugins</name>
     <message>
         <source>Plugins</source>
@@ -10359,10 +10370,6 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>Open plugin settings dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Settings of %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11049,13 +11056,6 @@ Wprowadź hasło twojego klucza OpenPGP poniżej:</translation>
     <message>
         <source>This plugin has no user configurable options</source>
         <translation>Ta wtyczka nie posiada opcji konfigurowalnych przez użytkownika</translation>
-    </message>
-</context>
-<context>
-    <name>PluginSettingsDialog</name>
-    <message>
-        <source>SettingsDialog</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -10353,6 +10353,17 @@ zprávy v chatu víde lidí)</translation>
     </message>
 </context>
 <context>
+    <name>OptionsTabPlugin</name>
+    <message>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General plugin options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabPlugins</name>
     <message>
         <source>Plugins</source>
@@ -10386,7 +10397,7 @@ zprávy v chatu víde lidí)</translation>
     </message>
     <message>
         <source>Settings of %1</source>
-        <translation>Nastavení pro %1</translation>
+        <translation type="vanished">Nastavení pro %1</translation>
     </message>
 </context>
 <context>
@@ -11078,7 +11089,7 @@ Prosím vlož svou heslovací frázi:</translation>
     <name>PluginSettingsDialog</name>
     <message>
         <source>SettingsDialog</source>
-        <translation>SettingsDialog</translation>
+        <translation type="vanished">SettingsDialog</translation>
     </message>
 </context>
 <context>

@@ -10145,6 +10145,17 @@ Activi aquesta opció per a emergir-los de totes formes.</translation>
     </message>
 </context>
 <context>
+    <name>OptionsTabPlugin</name>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">General</translation>
+    </message>
+    <message>
+        <source>General plugin options</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabPlugins</name>
     <message>
         <source>Plugins</source>
@@ -10165,10 +10176,6 @@ Activi aquesta opció per a emergir-los de totes formes.</translation>
     </message>
     <message>
         <source>Open plugin settings dialog</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Settings of %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10848,13 +10855,6 @@ Please enter your passphrase below:</source>
     <name>PluginManager</name>
     <message>
         <source>This plugin has no user configurable options</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PluginSettingsDialog</name>
-    <message>
-        <source>SettingsDialog</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
