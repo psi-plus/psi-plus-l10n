@@ -2093,7 +2093,7 @@ Biztosan be akarod zárni az ablakot?</translation>
     </message>
     <message>
         <source>Chess Plugin</source>
-        <translation>Sakk kiegészítő</translation>
+        <translation>Sakk-kiegészítő</translation>
     </message>
     <message>
         <source>Chess!</source>
@@ -2131,7 +2131,7 @@ A játékot még elmentheted.</translation>
     </message>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
-        <translation>Sakk kiegészítő: Meghívás tőle %1</translation>
+        <translation>Sakk-kiegészítő: Meghívás tőle %1</translation>
     </message>
     <message>
         <source>You are allready playing!</source>
@@ -5856,7 +5856,7 @@ Vesztettél.</translation>
         <source>Shows notifications of new messages in your Gmailbox.
 Note: The plugin only checks the root of your Inbox folder in your Gmailbox for new messages. When using server side mail filtering, you may not be notified about all new messages.</source>
         <translation>Gmailbox-od beérkező leveleiről értesít.
-Megjegyzés: A kiegészítő csak az &apos;Inbox&apos; mappát ellenőrzi, ha szerveroldali szűrést használsz nem biztos, hogy minden új üzenetről értesít.</translation>
+Megjegyzés: A kiegészítő csak az &apos;Inbox&apos; mappát ellenőrzi, ha szerveroldali szűrést használsz, nem biztos, hogy minden új üzenetről értesít.</translation>
     </message>
 </context>
 <context>
@@ -5919,11 +5919,11 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     </message>
     <message>
         <source>Gomoku game</source>
-        <translation>Gomoku játék</translation>
+        <translation>Gomoku</translation>
     </message>
     <message>
         <source>Gomoku game!</source>
-        <translation>Gomoku játék!</translation>
+        <translation>Gomoku!</translation>
     </message>
 </context>
 <context>
@@ -7143,7 +7143,7 @@ elérhető</translation>
     <name>InvitationDialog</name>
     <message>
         <source>Chess Plugin - Invitation</source>
-        <translation>Sakk kiegészítő - Meghívás</translation>
+        <translation>Sakk-kiegészítő - Meghívás</translation>
     </message>
     <message>
         <source>Accept</source>
@@ -11128,235 +11128,236 @@ Kérlek add meg a jelszavad:</translation>
     <name>PluginManager</name>
     <message>
         <source>This plugin has no user configurable options</source>
-        <translation type="unfinished"/>
+        <translation>Ennek a kiegészítőnek nincsenek beállítható opciói</translation>
     </message>
 </context>
 <context>
     <name>PluginWindow</name>
     <message>
         <source>Gomoku Game</source>
-        <translation type="unfinished"/>
+        <translation>Gomoku</translation>
     </message>
     <message>
         <source>Opponent:</source>
-        <translation type="unfinished"/>
+        <translation>Ellenfél:</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished"/>
+        <translation>Állapot:</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation type="unfinished"/>
+        <translation>Játék</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"/>
+        <translation>Kilépés</translation>
     </message>
     <message>
         <source>Skin</source>
-        <translation type="unfinished"/>
+        <translation>Megjelenés</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>Fájl</translation>
     </message>
     <message>
         <source>New game</source>
-        <translation type="unfinished"/>
+        <translation>Új játék</translation>
     </message>
     <message>
         <source>Load game</source>
-        <translation type="unfinished"/>
+        <translation>Játék betöltése</translation>
     </message>
     <message>
         <source>Save game</source>
-        <translation type="unfinished"/>
+        <translation>Játék mentése</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Kilépés</translation>
     </message>
     <message>
         <source>Resign</source>
-        <translation type="unfinished"/>
+        <translation>Feladás</translation>
     </message>
     <message>
         <source>Switch color</source>
-        <translation type="unfinished"/>
+        <translation>Színváltás</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="unfinished"/>
+        <translation>Alap</translation>
     </message>
     <message>
         <source>Yellow wood</source>
-        <translation type="unfinished"/>
+        <translation>Sárga fa</translation>
     </message>
     <message>
         <source>Waiting for opponent</source>
-        <translation type="unfinished"/>
+        <translation>Várakozás az ellenfélre</translation>
     </message>
     <message>
         <source>Waiting for accept</source>
-        <translation type="unfinished"/>
+        <translation>Várakozás az elfogadásra</translation>
     </message>
     <message>
         <source>Your turn</source>
-        <translation type="unfinished"/>
+        <translation>Te jössz</translation>
     </message>
     <message>
         <source>End of game</source>
-        <translation type="unfinished"/>
+        <translation>Játék vége</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Hiba</translation>
     </message>
     <message>
         <source>Win!</source>
-        <translation type="unfinished"/>
+        <translation>Győzelem!</translation>
     </message>
     <message>
         <source>Lose.</source>
-        <translation type="unfinished"/>
+        <translation>Vereség.</translation>
     </message>
     <message>
         <source>Draw.</source>
-        <translation type="unfinished"/>
+        <translation>Döntetlen.</translation>
     </message>
     <message>
         <source>You</source>
-        <translation type="unfinished"/>
+        <translation>Te</translation>
     </message>
     <message>
         <source>Opp</source>
         <comment>Opponent</comment>
-        <translation type="unfinished"/>
+        <translation>Ellenfél</translation>
     </message>
     <message>
         <source>%1: %2 - swch</source>
         <comment>Switch color</comment>
-        <translation type="unfinished"/>
+        <translation>%1: %2 - swch</translation>
     </message>
     <message>
         <source>Gomoku Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Gomoku kiegészítő</translation>
     </message>
     <message>
         <source>Game Error!</source>
-        <translation type="unfinished"/>
+        <translation>Játék hiba!</translation>
     </message>
     <message>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="unfinished"/>
+        <translation>Az ellenfeled kilépett!
+A játékot még elmentheted.</translation>
     </message>
     <message>
         <source>You want to switch color?</source>
-        <translation type="unfinished"/>
+        <translation>Szeretnél színt váltani?</translation>
     </message>
     <message>
         <source>You Lose.</source>
-        <translation type="unfinished"/>
+        <translation>Vesztettél.</translation>
     </message>
     <message>
         <source>You Win!</source>
-        <translation type="unfinished"/>
+        <translation>Győztél!</translation>
     </message>
     <message>
         <source>You really want to begin new game?</source>
-        <translation type="unfinished"/>
+        <translation>Tényleg új játékot szeretnél kezdeni?</translation>
     </message>
     <message>
         <source>You really want to begin loaded game?</source>
-        <translation type="unfinished"/>
+        <translation>Tényleg betöltött játékot szeretnél kezdeni?</translation>
     </message>
     <message>
         <source>Battleship game</source>
-        <translation type="unfinished"/>
+        <translation>Torpedó</translation>
     </message>
     <message>
         <source>Freeze ships position</source>
-        <translation type="unfinished"/>
+        <translation>Hajók pozíciójának befagyasztása</translation>
     </message>
     <message>
         <source>Press button and make move if you want to propose draw</source>
-        <translation type="unfinished"/>
+        <translation>Ha döntetlent szeretnél felajánlani, nyomj gombot és lépj.</translation>
     </message>
     <message>
         <source>Propose a draw</source>
-        <translation type="unfinished"/>
+        <translation>Döntetlen felajánlása</translation>
     </message>
     <message>
         <source>Press button if you want to accept the draw proposal</source>
-        <translation type="unfinished"/>
+        <translation>Ha elfogadod a döntetlent, nyomj gombot.</translation>
     </message>
     <message>
         <source>Accept the draw proposal</source>
-        <translation type="unfinished"/>
+        <translation>Döntetlen elfogadása</translation>
     </message>
     <message>
         <source>Press button if you want to resign</source>
-        <translation type="unfinished"/>
+        <translation>Feladáshoz nyomj gombot</translation>
     </message>
     <message>
         <source>Resign the game</source>
-        <translation type="unfinished"/>
+        <translation>Játék feladása</translation>
     </message>
     <message>
         <source>--</source>
-        <translation type="unfinished"/>
+        <translation>--</translation>
     </message>
     <message>
         <source>Setting ships position</source>
-        <translation type="unfinished"/>
+        <translation>Hajók pozíciójának megadása</translation>
     </message>
     <message>
         <source>Draw</source>
-        <translation type="unfinished"/>
+        <translation>Döntetlen</translation>
     </message>
 </context>
 <context>
     <name>PreferencesWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Űrlap</translation>
     </message>
     <message>
         <source>@username</source>
-        <translation type="unfinished"/>
+        <translation>@username</translation>
     </message>
     <message>
         <source>#post_id</source>
-        <translation type="unfinished"/>
+        <translation>#post_id</translation>
     </message>
     <message>
         <source>* tag</source>
-        <translation type="unfinished"/>
+        <translation>* tag</translation>
     </message>
     <message>
         <source>&gt; quote</source>
-        <translation type="unfinished"/>
+        <translation>&gt; quote</translation>
     </message>
     <message>
         <source>message</source>
-        <translation type="unfinished"/>
+        <translation>üzenet</translation>
     </message>
 </context>
 <context>
     <name>Previewer</name>
     <message>
         <source>Preview Skin</source>
-        <translation type="unfinished"/>
+        <translation>Megjelenés előnézete</translation>
     </message>
     <message>
         <source>Preview unavailable</source>
-        <translation type="unfinished"/>
+        <translation>Előnézet nem elérhető</translation>
     </message>
     <message>
         <source>Name: </source>
-        <translation type="unfinished"/>
+        <translation>Név:</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -11364,19 +11365,19 @@ Kérlek add meg a jelszavad:</translation>
     </message>
     <message>
         <source>Version: </source>
-        <translation type="unfinished"/>
+        <translation>Verzió:</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Alkalmaz</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Bezárás</translation>
     </message>
     <message>
         <source>Skin is not valid!</source>
-        <translation type="unfinished"/>
+        <translation>Érvénytelen megjelenés!</translation>
     </message>
 </context>
 <context>
@@ -11407,7 +11408,7 @@ Kérlek add meg a jelszavad:</translation>
     </message>
     <message>
         <source>Rename List</source>
-        <translation type="unfinished"/>
+        <translation>Lista átnevezése</translation>
     </message>
     <message>
         <source>Delete List</source>
@@ -11450,7 +11451,7 @@ Kérlek add meg a jelszavad:</translation>
     <name>PrivacyDlg</name>
     <message>
         <source>%1: Privacy Lists</source>
-        <translation>%1: Privacy lista</translation>
+        <translation>%1: Adatvédelmi listák</translation>
     </message>
     <message>
         <source>&lt;None&gt;</source>
@@ -11474,18 +11475,18 @@ Kérlek add meg a jelszavad:</translation>
     </message>
     <message>
         <source>Rename List</source>
-        <translation type="unfinished"/>
+        <translation>Lista átnevezése</translation>
     </message>
     <message>
         <source>Input new name</source>
-        <translation type="unfinished"/>
+        <translation>Új név megadása</translation>
     </message>
 </context>
 <context>
     <name>PrivacyRule</name>
     <message>
         <source>Edit Privacy Rule</source>
-        <translation>Biztonsági házirend szerkesztése</translation>
+        <translation>Adatvédelmi szabályok szerkesztése</translation>
     </message>
     <message>
         <source>Then:</source>
@@ -11517,14 +11518,14 @@ Kérlek add meg a jelszavad:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Mégse</translation>
+        <translation>Mégsem</translation>
     </message>
 </context>
 <context>
     <name>PrivacyRuleDlg</name>
     <message>
         <source>Deny</source>
-        <translation>Tiltás</translation>
+        <translation>Megtagadás</translation>
     </message>
     <message>
         <source>Allow</source>
@@ -11608,7 +11609,7 @@ számok, pontok vagy szóközök nélkül.</translation>
     </message>
     <message>
         <source>Unable to rename the profile.  Please do not use any special characters.</source>
-        <translation>Nem lehet a profilt létrehozni. Ne haszálj speciális karaktereket.</translation>
+        <translation>Nem lehet a profilt létrehozni. Ne használj speciális karaktereket.</translation>
     </message>
     <message>
         <source>Delete Profile</source>
@@ -11616,7 +11617,7 @@ számok, pontok vagy szóközök nélkül.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Are you sure you want to delete the &quot;&lt;b&gt;%1&lt;/b&gt;&quot; profile?  This will delete all of the profile&apos;s message history as well as associated settings!&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;Biztosan törlöd a(z) &quot;%1&quot; profilt? A profilhoz tartozó előzmények és beállítások is törlődnek!&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;Biztosan törlöd ezt a profilt: &quot;&lt;b&gt;%1&lt;/b&gt;&quot; ? A profilhoz tartozó előzmények és beállítások is törlődnek!&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>No, I changed my mind</source>
@@ -11630,7 +11631,9 @@ számok, pontok vagy szóközök nélkül.</translation>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&lt;qt&gt;Elővigyázatosságból még egyszer meg vagy kérdezve, ha tényleg ezt akarod. A következő mappa törölve lesz!&lt;br&gt;&lt;br&gt;
+&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+Folytatás?</translation>
     </message>
     <message>
         <source>&amp;No</source>
@@ -11642,17 +11645,19 @@ Proceed?</source>
     </message>
     <message>
         <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">Nem sikerült törölni az egész mappát.Ellenőrizd, hogy biztos megfelelő jogosultságokkal rendelkezel.</translation>
+        <translation type="vanished">Nem sikerült teljesen törölni a mappát. Ellenőrizd, hogy van-e jogosultságod.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Elővigyázatosságból még egyszer meg vagy kérdezve, ha tényleg ezt akarod. A következő mappák törölve lesznek!&lt;br&gt;&lt;br&gt;
+&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+Folytatás?</translation>
     </message>
     <message>
         <source>Unable to delete the folders completely.  Ensure you have the proper permission.</source>
-        <translation type="unfinished"/>
+        <translation>Nem sikerült teljesen törölni a mappákat. Ellenőrizd, hogy van-e jogosultságod.</translation>
     </message>
 </context>
 <context>
@@ -11669,7 +11674,7 @@ The&lt;i&gt; Default Action&lt;/i&gt; is what happens when you double click a co
 Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text such as &lt;b&gt;:-)&lt;/b&gt; to be turned into graphics like &lt;icon name=&quot;psi/smile&quot;&gt;.</source>
         <translation>Legyen a &lt;i&gt;Profilnév&lt;/i&gt; egyszerű. Egy sima szó általában, legfeljebb egy-két számmal.&lt;br&gt;
 &lt;br&gt;
-Az &lt;i&gt;Alap cselekvés&lt;/i&gt; akkor történik, ha duplán kattintasz valakire a címlistában. A választások &lt;b&gt;Üzenet&lt;/b&gt; (ICQ stílus) vagy &lt;b&gt;Beszélgetés&lt;/b&gt; (AIM stílus). Ezt később megváltoztathatod a Beállításoknál.&lt;br&gt;
+Az &lt;i&gt;Alap művelet&lt;/i&gt; történik, ha duplán kattintasz valakire a címlistában. A választások &lt;b&gt;Üzenet&lt;/b&gt; (ICQ stílus) vagy &lt;b&gt;Beszélgetés&lt;/b&gt; (AIM stílus). Ezt később megváltoztathatod a Beállításoknál.&lt;br&gt;
 &lt;br&gt;
 Jelöld be a &lt;i&gt;Hangulatjelek engedélyezése&lt;/i&gt; opciót, ha szeretnéd hogy az olyan szövegek mint &lt;b&gt;:-)&lt;/b&gt; képre váltsanak, &lt;icon name=&quot;psi/smile&quot;&gt;.</translation>
     </message>
@@ -11679,7 +11684,7 @@ Jelöld be a &lt;i&gt;Hangulatjelek engedélyezése&lt;/i&gt; opciót, ha szeret
     </message>
     <message>
         <source>Default Action</source>
-        <translation>Alap cselekvés</translation>
+        <translation>Alap művelet</translation>
     </message>
     <message>
         <source>Message</source>
@@ -11722,7 +11727,7 @@ Jelöld be a &lt;i&gt;Hangulatjelek engedélyezése&lt;/i&gt; opciót, ha szeret
     </message>
     <message>
         <source>Unable to create the profile.  Please do not use any special characters.</source>
-        <translation>Nem lehet a profilt létrehozni. Ne haszálj speciális karaktereket.</translation>
+        <translation>Nem lehet a profilt létrehozni. Ne használj speciális karaktereket.</translation>
     </message>
 </context>
 <context>
@@ -11749,7 +11754,7 @@ Jelöld be a &lt;i&gt;Hangulatjelek engedélyezése&lt;/i&gt; opciót, ha szeret
     </message>
     <message>
         <source>&amp;Automatically open on startup</source>
-        <translation>&amp;Automatikus használat induláskor</translation>
+        <translation>&amp;Automatikus megnyitás induláskor</translation>
     </message>
     <message>
         <source>Language:</source>
@@ -11784,7 +11789,7 @@ Jelöld be a &lt;i&gt;Hangulatjelek engedélyezése&lt;/i&gt; opciót, ha szeret
     <name>ProfileOpenDlg</name>
     <message>
         <source>Select a profile to open from this list.</source>
-        <translation>Válassz ki egy profilt a listából.</translation>
+        <translation>Válassz ki egy megnyitandó profilt a listából.</translation>
     </message>
     <message>
         <source>Select a language you would like Psi to use from this list.  You can download extra language packs from the Psi homepage.</source>
@@ -11792,7 +11797,7 @@ Jelöld be a &lt;i&gt;Hangulatjelek engedélyezése&lt;/i&gt; opciót, ha szeret
     </message>
     <message>
         <source>Automatically open this profile when Psi is started.  Useful if you only have one profile.</source>
-        <translation>Automatikusan ezt a profilt töltse be, ha a Psi elindul. Hasznos ha csak egy profilod van.</translation>
+        <translation>Ennek a profilnak az automatikus megnyitása, amikor a Psi elindul. Hasznos, ha csak egy profilod van.</translation>
     </message>
 </context>
 <context>
@@ -11850,7 +11855,7 @@ Jelöld be a &lt;i&gt;Hangulatjelek engedélyezése&lt;/i&gt; opciót, ha szeret
     <name>ProxyChooser</name>
     <message>
         <source>Edit...</source>
-        <translation>Szerkeszt...</translation>
+        <translation>Szerkesztés...</translation>
     </message>
     <message>
         <source>None</source>
@@ -11861,7 +11866,7 @@ Jelöld be a &lt;i&gt;Hangulatjelek engedélyezése&lt;/i&gt; opciót, ha szeret
     <name>ProxyDlg</name>
     <message>
         <source>Enter the hostname and port of your proxy server.</source>
-        <translation>Írd be a proxy címét és portját.</translation>
+        <translation>Írd be a proxy szerver címét és portját.</translation>
     </message>
     <message>
         <source>Consult your network administrator if necessary.</source>
@@ -11877,7 +11882,7 @@ Jelöld be a &lt;i&gt;Hangulatjelek engedélyezése&lt;/i&gt; opciót, ha szeret
     </message>
     <message>
         <source>If you require a proxy server to connect, select the type of proxy here.</source>
-        <translation>Ha a netkapcsolathoz szükség van proxy használatára, válaszd ki a proxy típusát.</translation>
+        <translation>Ha a kapcsolódáshoz proxy szerverre van szükséged, válaszd ki a proxy típusát.</translation>
     </message>
 </context>
 <context>
@@ -11891,38 +11896,38 @@ Jelöld be a &lt;i&gt;Hangulatjelek engedélyezése&lt;/i&gt; opciót, ha szeret
     <name>ProxySettingsDlg</name>
     <message>
         <source>Proxy Server Settings</source>
-        <translation type="unfinished"/>
+        <translation>Proxy szerver beállításai</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"/>
+        <translation>Típus:</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="unfinished"/>
+        <translation>Kiszolgáló:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="unfinished"/>
+        <translation>Port:</translation>
     </message>
     <message>
         <source>99999; </source>
-        <translation type="unfinished"/>
+        <translation>99999; </translation>
     </message>
     <message>
         <source>User:</source>
-        <translation type="unfinished"/>
+        <translation>Felhasználó:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"/>
+        <translation>Jelszó:</translation>
     </message>
 </context>
 <context>
     <name>PsiAccount</name>
     <message>
         <source>Unable to disable the account, as it has pending events.</source>
-        <translation>Nem lehet letiltani a fiókot, mert van várakozó eseménye.</translation>
+        <translation>Nem lehet kikapcsolni a fiókot, mert van függőben lévő eseménye.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -11930,7 +11935,7 @@ Jelöld be a &lt;i&gt;Hangulatjelek engedélyezése&lt;/i&gt; opciót, ha szeret
     </message>
     <message>
         <source>Disable Account</source>
-        <translation>Fiók letiltása</translation>
+        <translation>Fiók kikapcsolása</translation>
     </message>
     <message>
         <source>The account is currently active.
@@ -11940,7 +11945,7 @@ Ki akarsz jelentkezni?</translation>
     </message>
     <message>
         <source>Reconnecting</source>
-        <translation type="unfinished"/>
+        <translation>Újrakapcsolódás</translation>
     </message>
     <message>
         <source>Encryption Error</source>
@@ -11952,7 +11957,7 @@ Ki akarsz jelentkezni?</translation>
     </message>
     <message>
         <source>Feature Removed</source>
-        <translation type="unfinished"/>
+        <translation>Funkció eltávolítva</translation>
     </message>
     <message>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
