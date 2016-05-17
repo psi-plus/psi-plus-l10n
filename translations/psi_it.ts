@@ -9159,7 +9159,7 @@ Argomento CMU per esempio.</translation>
     </message>
     <message>
         <source>Do Not Disturb:</source>
-        <translation>Non Disturbare</translation>
+        <translation>Occupato:</translation>
     </message>
     <message>
         <source>Invisible:</source>
@@ -9194,7 +9194,7 @@ Argomento CMU per esempio.</translation>
     </message>
     <message>
         <source>Do not Disturb</source>
-        <translation>Non disturbare</translation>
+        <translation>Occupato</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -10079,7 +10079,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>do not disturb</source>
-        <translation>non disturbare</translation>
+        <translation>Occupato</translation>
     </message>
     <message>
         <source>Status message</source>
@@ -14038,7 +14038,7 @@ Procedere?</translation>
     </message>
     <message>
         <source>Do not Disturb</source>
-        <translation>Non disturbare</translation>
+        <translation>Occupato</translation>
     </message>
     <message>
         <source>Free for Chat</source>
@@ -14956,7 +14956,7 @@ Password: %5</translation>
     </message>
     <message>
         <source>Do Not Disturb</source>
-        <translation>Non Disturbare</translation>
+        <translation>Occupato</translation>
     </message>
     <message>
         <source>Priority</source>
