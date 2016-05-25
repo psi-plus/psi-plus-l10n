@@ -1,0 +1,23 @@
+[Desktop Entry]
+# This is the spec version, *not* the application version
+Version=1.0
+Type=Application
+Name=Psi+
+GenericName=XMPP Client
+Comment=Communicate over the XMPP network
+Icon=psi-plus
+Exec=psi-plus %U
+MimeType=x-scheme-handler/xmpp;
+Terminal=false
+StartupWMClass=Psi-plus
+Categories=Network;InstantMessaging;Qt;
+Keywords=XMPP;Jabber;Chat;InstantMessaging;
+
+# Translations
+
+
+# Translations
+Comment[ur_PK]=جیبر نیٹ ورک پر مواصلت کریں
+GenericName[ur_PK]=جیبر وصول کار
+Name[ur_PK]=+Psi
+Icon[ur_PK]=psi-plus
