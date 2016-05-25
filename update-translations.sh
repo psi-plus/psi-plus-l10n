@@ -264,9 +264,9 @@ case "${1}" in
     echo "  tr_push <arg> (arg: src, all or language code)"
     echo ;
     echo "Examples:"
-    echo "  ./update-repo.sh tr_push src"
-    echo "  ./update-repo.sh tr_push all"
-    echo "  ./update-repo.sh tr_push ru"
+    echo "  ./update-translations.sh tr_push src"
+    echo "  ./update-translations.sh tr_push all"
+    echo "  ./update-translations.sh tr_push ru"
 
 ;;
 esac
