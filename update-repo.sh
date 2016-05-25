@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2016-04-06
+# Updated: 2016-05-25
 # Version: N/A
 
 export CUR_DIR="$(dirname $(realpath -s ${0}))"
@@ -96,13 +96,15 @@ case "${1}" in
 
     git status || exit 1
 
-    LANG_DIR="${CUR_DIR}/translations"
-
-    cd "${MAIN_DIR}/psi-plus-l10n_transifex" || exit 1
+    LANG_DIR="${MAIN_DIR}/psi-plus-l10n_transifex"
+    cd "${LANG_DIR}" || exit 1
     tx pull -a -s || exit 1
 
-    cd "translations/psi-plus.full/" || exit 1
-    cp *.ts "${LANG_DIR}/"
+    cd "${LANG_DIR}/translations/psi-plus.full/" || exit 1
+    cp *.ts "${CUR_DIR}/translations/"
+
+    cd "${LANG_DIR}/translations/psi-plus.desktop-file/" || exit 1
+    cp *.desktop "${CUR_DIR}/desktop-file/"
 
     cd "${CUR_DIR}" || exit 1
     git status || exit 1
@@ -175,6 +177,8 @@ case "${1}" in
 
     lupdate -verbose ./translations.pro
 
+    cp "${PSIPLUS_DIR}"/*.desktop "${CUR_DIR}/desktop-file/"
+
     git status || exit 1
 
 ;;
@@ -184,6 +188,8 @@ case "${1}" in
     git status || exit 1
 
     lupdate -verbose ./translations.pro
+
+    cp "${PSIPLUS_DIR}"/*.desktop "${CUR_DIR}/desktop-file/"
 
     git status || exit 1
 
@@ -195,19 +201,21 @@ case "${1}" in
 
     lupdate -verbose -no-obsolete ./translations.pro
 
+    cp "${PSIPLUS_DIR}"/*.desktop "${CUR_DIR}/desktop-file/"
+
     git status || exit 1
 
 ;;
 "tr_push")
     # Pushing changes to Transifex.
 
-    LANG_DIR="${MAIN_DIR}/psi-plus-l10n_transifex/translations/psi-plus.full"
-    cd "${LANG_DIR}" || exit 1
+    LANG_DIR="${MAIN_DIR}/psi-plus-l10n_transifex/"
+    cd "${LANG_DIR}/translations" || exit 1
 
-    cd "${CUR_DIR}/translations/" || exit 1
-    cp *.ts "${LANG_DIR}/"
+    cp "${CUR_DIR}"/translations/*.ts psi-plus.full/
+    cp "${CUR_DIR}"/desktop-file/*.ts psi-plus.desktop-file/
 
-    cd "${MAIN_DIR}/psi-plus-l10n_transifex/"
+    cd "${LANG_DIR}"
     if [ -z "${2}" ]; then
         echo "<arg> is not specified!"
         exit 1
