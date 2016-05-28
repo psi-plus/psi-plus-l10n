@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@mail.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2016-05-25
+# Updated: 2016-05-28
 # Version: N/A
 
 export CUR_DIR="$(dirname $(realpath -s ${0}))"
@@ -213,7 +213,7 @@ case "${1}" in
     cd "${LANG_DIR}/translations" || exit 1
 
     cp "${CUR_DIR}"/translations/*.ts psi-plus.full/
-    cp "${CUR_DIR}"/desktop-file/*.ts psi-plus.desktop-file/
+    cp "${CUR_DIR}"/desktop-file/*.desktop psi-plus.desktop-file/
 
     cd "${LANG_DIR}"
     if [ -z "${2}" ]; then
