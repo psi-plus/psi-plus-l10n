@@ -11961,7 +11961,7 @@ Ki akarsz jelentkezni?</translation>
     </message>
     <message>
         <source>This account was configured to use the &quot;Probe legacy SSL port&quot; feature, but this feature is no longer supported. Unless your XMPP server is very outdated, this change should not affect you. If you have trouble connecting, please review your account settings for correctness or contact your XMPP server administrator.</source>
-        <translation type="unfinished"/>
+        <translation>Ez a fiók az &quot;Örökölt SSL-port figyelő&quot;-módra van beállítva, de ez a mód többé már nem támogatott. Ha az XMPP szerver amit használsz, egy elavult,régebbi szerver, akkor ez a változtatás nem lesz rád hatással. Ha problémákba ütközöl csatlakozáskor, ellenőrizd a &quot;Fiók beállításokat&quot;, vagy lépj kapcsolatba az XMPP szerver adminisztrátorával.</translation>
     </message>
     <message>
         <source>Server Authentication</source>
@@ -11973,7 +11973,7 @@ Ki akarsz jelentkezni?</translation>
     </message>
     <message>
         <source>Server Error</source>
-        <translation>Szerver hiba</translation>
+        <translation>Szerverhiba</translation>
     </message>
     <message>
         <source>Disconnected</source>
@@ -11985,11 +11985,11 @@ Ki akarsz jelentkezni?</translation>
     </message>
     <message>
         <source>XMPP Protocol Error</source>
-        <translation>XMPP Protokol hiba</translation>
+        <translation>XMPP Protokollhiba</translation>
     </message>
     <message>
         <source>Generic stream error</source>
-        <translation>Általános stream hiba</translation>
+        <translation>Általános streamhiba</translation>
     </message>
     <message>
         <source>Conflict (remote login replacing this one)</source>
@@ -12001,7 +12001,7 @@ Ki akarsz jelentkezni?</translation>
     </message>
     <message>
         <source>Internal server error</source>
-        <translation>Belső szerver hiba</translation>
+        <translation>Belső szerverhiba</translation>
     </message>
     <message>
         <source>Invalid XML</source>
@@ -12013,7 +12013,7 @@ Ki akarsz jelentkezni?</translation>
     </message>
     <message>
         <source>Server out of resources</source>
-        <translation>A szerver kifogyott resource-okból (azonosítók)</translation>
+        <translation>A szerver kifogyott az erőforrásokból (azonosítókból)</translation>
     </message>
     <message>
         <source>Server is shutting down</source>
@@ -12021,7 +12021,7 @@ Ki akarsz jelentkezni?</translation>
     </message>
     <message>
         <source>XMPP Stream Error: %1</source>
-        <translation>XMPP Stream hiba: %1</translation>
+        <translation>XMPP Streamhiba: %1</translation>
     </message>
     <message>
         <source>Unable to connect to server</source>
@@ -12029,7 +12029,7 @@ Ki akarsz jelentkezni?</translation>
     </message>
     <message>
         <source>Host not found</source>
-        <translation>Cím nem található</translation>
+        <translation>Kiszolgáló nem található</translation>
     </message>
     <message>
         <source>Error connecting to proxy</source>
@@ -12041,7 +12041,7 @@ Ki akarsz jelentkezni?</translation>
     </message>
     <message>
         <source>Proxy authentication failed</source>
-        <translation>Proxy hitelesítés nem sikerült</translation>
+        <translation>Proxyhitelesítés nem sikerült</translation>
     </message>
     <message>
         <source>Socket/stream error</source>
@@ -12049,15 +12049,15 @@ Ki akarsz jelentkezni?</translation>
     </message>
     <message>
         <source>Connection Error: %1</source>
-        <translation>Kapcsolat hiba: %1</translation>
+        <translation>Kapcsolathiba: %1</translation>
     </message>
     <message>
         <source>Host no longer hosted</source>
-        <translation>A cím nem elérhető</translation>
+        <translation>A kiszolgáló többé nem elérhető</translation>
     </message>
     <message>
         <source>Host unknown</source>
-        <translation>Ismeretlen host</translation>
+        <translation>Ismeretlen kiszolgáló</translation>
     </message>
     <message>
         <source>A required remote connection failed</source>
@@ -12065,7 +12065,7 @@ Ki akarsz jelentkezni?</translation>
     </message>
     <message>
         <source>See other host: %1</source>
-        <translation>Próbáld ezt a hostot: %1</translation>
+        <translation>Próbálj más kiszolgálót: %1</translation>
     </message>
     <message>
         <source>Server does not support proper XMPP version</source>
@@ -12073,15 +12073,15 @@ Ki akarsz jelentkezni?</translation>
     </message>
     <message>
         <source>Stream Negotiation Error: %1</source>
-        <translation>Stream közvetitési hiba: %1</translation>
+        <translation>Stream-közvetítéshiba: %1</translation>
     </message>
     <message>
         <source>Server rejected STARTTLS</source>
-        <translation>Szerver visszatuasította a STARTTLS-t</translation>
+        <translation>A szerver visszautasította a STARTTLS-t</translation>
     </message>
     <message>
         <source>TLS handshake error</source>
-        <translation>TLS handshake-hiba</translation>
+        <translation>TLS-kézfogáshiba</translation>
     </message>
     <message>
         <source>Broken security layer (TLS)</source>
@@ -12097,7 +12097,7 @@ Ki akarsz jelentkezni?</translation>
     </message>
     <message>
         <source>Bad server response</source>
-        <translation>Rossz szerver válasz</translation>
+        <translation>Rossz szerverválasz</translation>
     </message>
     <message>
         <source>Server failed mutual authentication</source>
@@ -12109,27 +12109,27 @@ Ki akarsz jelentkezni?</translation>
     </message>
     <message>
         <source>Invalid account information</source>
-        <translation>Hibás felhasználó információ</translation>
+        <translation>Érvénytelen fiókinformáció</translation>
     </message>
     <message>
         <source>Invalid SASL mechanism</source>
-        <translation>Érvénytelen SASL eljárás</translation>
+        <translation>Érvénytelen SASL-eljárás</translation>
     </message>
     <message>
         <source>Invalid realm</source>
-        <translation>Érvénytelen realm (tartomány)</translation>
+        <translation>Érvénytelen tartomány (realm)</translation>
     </message>
     <message>
         <source>SASL mechanism too weak for this account</source>
-        <translation>SASL eljárás túl gyenge ehhez a fiókhoz</translation>
+        <translation>A SASL-eljárás túl gyenge ehhez a fiókhoz</translation>
     </message>
     <message>
         <source>Wrong Password</source>
-        <translation type="unfinished"/>
+        <translation>Hibás jelszó</translation>
     </message>
     <message>
         <source>Temporary auth failure</source>
-        <translation>Átmeneti hitelesítési hiba</translation>
+        <translation>Átmeneti hitelesítéshiba</translation>
     </message>
     <message>
         <source>Authentication error: %1</source>
@@ -12151,7 +12151,7 @@ Részletek: %1</translation>
     </message>
     <message>
         <source>Whiteboard invitation</source>
-        <translation type="unfinished"/>
+        <translation>Rajztáblameghívás</translation>
     </message>
     <message>
         <source>Incoming file</source>
@@ -12163,7 +12163,7 @@ Részletek: %1</translation>
     </message>
     <message>
         <source>Logged out</source>
-        <translation type="unfinished"/>
+        <translation>Kijelentkezve</translation>
     </message>
     <message>
         <source>You must be connected to the server in order to do this.</source>
@@ -12171,31 +12171,31 @@ Részletek: %1</translation>
     </message>
     <message>
         <source>Unregister from %1</source>
-        <translation type="unfinished"/>
+        <translation>Fiók végleges megszüntetése innen: %1</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Biztos benne?</translation>
     </message>
     <message>
         <source>Name:	</source>
-        <translation type="unfinished"/>
+        <translation>Név:	</translation>
     </message>
     <message>
         <source>Version:	</source>
-        <translation type="unfinished"/>
+        <translation>Verzió:	</translation>
     </message>
     <message>
         <source>Os:	</source>
-        <translation type="unfinished"/>
+        <translation>Operációs rendszer:	</translation>
     </message>
     <message>
         <source>Version Query Information</source>
-        <translation type="unfinished"/>
+        <translation>Verzióinformáció lekérdezése</translation>
     </message>
     <message>
         <source>Headline</source>
-        <translation type="unfinished"/>
+        <translation>Főcím</translation>
     </message>
     <message>
         <source>There was an error trying to sign your status.
@@ -12217,11 +12217,11 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>&amp;Choose key manually</source>
-        <translation>Kulcs &amp;kiválaszása</translation>
+        <translation>Kulcs &amp;kiválasztása kézileg</translation>
     </message>
     <message>
         <source>Do &amp;nothing</source>
-        <translation>Ne csinájl &amp;semmit</translation>
+        <translation>Ne csináljon &amp;semmit</translation>
     </message>
     <message>
         <source>Public Key: %1</source>
@@ -12229,18 +12229,18 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Nested Groups Delimiter</source>
-        <translation type="unfinished"/>
+        <translation>Beágyazott csoportok határolója</translation>
     </message>
     <message>
         <source>Set a new delimiter of nested groups</source>
-        <translation type="unfinished"/>
+        <translation>Új határoló megadása a beágyazott csoportokhoz</translation>
     </message>
 </context>
 <context>
     <name>PsiActionList::Private</name>
     <message>
         <source>Common Actions</source>
-        <translation>Általános</translation>
+        <translation>Általános műveletek</translation>
     </message>
     <message>
         <source>View Groups</source>
@@ -12248,15 +12248,15 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Toggle visibility of special roster groups</source>
-        <translation>Speciális lista csoportok mutatása/rejtése</translation>
+        <translation>Speciális címlistacsoportok mutatása/rejtése</translation>
     </message>
     <message>
         <source>Show Roster Groups</source>
-        <translation type="unfinished"/>
+        <translation>Címlistacsoportok</translation>
     </message>
     <message>
         <source>Enable/disable groups in roster</source>
-        <translation type="unfinished"/>
+        <translation>Csoportok engedélyezése/tiltása a címlistában</translation>
     </message>
     <message>
         <source>Show Offline Contacts</source>
@@ -12264,43 +12264,43 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Toggles visibility of offline contacts in roster</source>
-        <translation>Kijelentkezett ismerősök láthatósága a címlistán</translation>
+        <translation>Kijelentkezett ismerősök láthatósága a címlistában</translation>
     </message>
     <message>
         <source>Show Hidden Contacts</source>
-        <translation>Rejtett ismerősök mutatása</translation>
+        <translation>Rejtett ismerősök megjelenítése</translation>
     </message>
     <message>
         <source>Toggles visibility of hidden contacts in roster</source>
-        <translation>Rejtett partnerek rejtése/mutatása</translation>
+        <translation>Rejtett partnerek megjelenítése/elrejtése</translation>
     </message>
     <message>
         <source>Show Agents/Transports</source>
-        <translation>Átjárók/Szolgáltatások mutatása</translation>
+        <translation>Átjárók/Szolgáltatások megjelenítése</translation>
     </message>
     <message>
         <source>Toggles visibility of agents/transports in roster</source>
-        <translation>Szolgáltatások/Átjárók mutatása/rejtése</translation>
+        <translation>Szolgáltatások/Átjárók megjelenítése/rejtése a címlistában</translation>
     </message>
     <message>
         <source>Show Self Contact</source>
-        <translation>Saját cím mutatása</translation>
+        <translation>Saját cím megjelenítése</translation>
     </message>
     <message>
         <source>Toggles visibility of self contact in roster</source>
-        <translation>Önmagad mutatása/rejtése</translation>
+        <translation>Saját cím megjelenítése/elrejtése</translation>
     </message>
     <message>
         <source>Show Status Messages</source>
-        <translation>Állapot üzenetek mutatása</translation>
+        <translation>Állapotüzenetek megjelenítése</translation>
     </message>
     <message>
         <source>Toggles visibility of status messages of contacts</source>
-        <translation>Az ismerősök állapot üzeneteinek mutatása a címlistában</translation>
+        <translation>Az ismerősök állapotüzeneteinek megjelenítése/rejtése a címlistában</translation>
     </message>
     <message>
         <source>Show Contacts</source>
-        <translation>Partnerek mutatása</translation>
+        <translation>Partnerek megjelenítése</translation>
     </message>
     <message>
         <source>&amp;Psi</source>
@@ -12308,7 +12308,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>The main Psi button, that provides access to many actions</source>
-        <translation>Főmenü, ahonnan számos dolgot elérhetsz</translation>
+        <translation>Psi-gomb, ahonnan számos műveletet elérhetsz</translation>
     </message>
     <message>
         <source>&amp;Status</source>
@@ -12316,7 +12316,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Provides a convenient way to change and to get information about current status</source>
-        <translation>Kényelmes gomb az állapotok változtatásához</translation>
+        <translation>Kényelmes módot biztosít az aktuális állapot változtatásához vagy a hozzá tartozó információ lekérdezéséhez</translation>
     </message>
     <message>
         <source>Special item that displays number of pending events</source>
@@ -12324,11 +12324,11 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Active contacts</source>
-        <translation type="unfinished"/>
+        <translation>Aktív ismerősök</translation>
     </message>
     <message>
         <source>Simple way to find contacts with opened chats</source>
-        <translation type="unfinished"/>
+        <translation>Egyszerű mód a nyitott beszélgetésekkel lévő ismerősök megtalálására</translation>
     </message>
     <message>
         <source>Buttons</source>
@@ -12356,11 +12356,11 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Join Groupchat</source>
-        <translation>Csatlakozás konferenciához</translation>
+        <translation>Csatlakozás csoportbeszélgetéshez</translation>
     </message>
     <message>
         <source>Join &amp;Groupchat</source>
-        <translation>Csatlakozás &amp;konferenciához</translation>
+        <translation>Csatlakozás &amp;csoportbeszélgetéshez</translation>
     </message>
     <message>
         <source>Account Setup</source>
@@ -12392,7 +12392,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>&amp;Change Profile</source>
-        <translation>&amp;Profil váltás</translation>
+        <translation>&amp;Profil váltása</translation>
     </message>
     <message>
         <source>Play Sounds</source>
@@ -12404,7 +12404,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Toggles whether sound should be played or not</source>
-        <translation>Be/kikapcsolja a hangokat</translation>
+        <translation>Hangok be/kikapcsolása</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -12440,47 +12440,47 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Opens the transfer manager dialog</source>
-        <translation>A fájlátvitelek ablakának mutatása</translation>
+        <translation>A fájlátvitelek ablakának megjelenítése</translation>
     </message>
     <message>
         <source>Menu Items</source>
-        <translation>Menü elemei</translation>
+        <translation>Menüelemek</translation>
     </message>
     <message>
         <source>Publish Tune</source>
-        <translation>Játszott szám jelzése</translation>
+        <translation>Játszott szám publikálása</translation>
     </message>
     <message>
         <source>Publish &amp;Tune</source>
-        <translation>Játszott szám &amp;jelzése</translation>
+        <translation>Játszott &amp;szám publikálása</translation>
     </message>
     <message>
         <source>Toggles whether the currently playing tune should be published or not</source>
-        <translation>Az éppen játszott zeneszám mutatását változtathatod</translation>
+        <translation>Az éppen játszott zeneszám megjelenítése/elrejtése</translation>
     </message>
     <message>
         <source>Set Mood</source>
-        <translation type="unfinished"/>
+        <translation>Hangulat beállítása</translation>
     </message>
     <message>
         <source>Set Mood for all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Hangulat beállítása minden aktív fiókhoz</translation>
     </message>
     <message>
         <source>Set Activity</source>
-        <translation type="unfinished"/>
+        <translation>Tevékenység beállítása</translation>
     </message>
     <message>
         <source>Set Activity for all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Tevékenység beállítása minden aktív fiókhoz</translation>
     </message>
     <message>
         <source>Set Geolocation</source>
-        <translation type="unfinished"/>
+        <translation>Földrajzi helyzet beállítása</translation>
     </message>
     <message>
         <source>Set Geolocation for all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Földrajzi helyzet beállítása minden aktív fiókhoz</translation>
     </message>
     <message>
         <source>Publish</source>
@@ -12492,11 +12492,11 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Smaller alternative to the Status button</source>
-        <translation>Az állapot gomb kisebb alternatívája</translation>
+        <translation>Az állapotgomb kisebb alternatívája</translation>
     </message>
     <message>
         <source>Changes your global status to &apos;%1&apos;</source>
-        <translation>Megváltoztatja az állapotod &apos;%1&apos;-re</translation>
+        <translation>Megváltoztatja az állapotod erre: &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Online</source>
@@ -12504,11 +12504,11 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation>Írj rám</translation>
+        <translation>Beszélgetős</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation>Nincs a gépnél</translation>
+        <translation>Távol</translation>
     </message>
     <message>
         <source>XA</source>
@@ -12516,27 +12516,27 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>DND</source>
-        <translation>Ne zavarj</translation>
+        <translation>Elfoglalt</translation>
     </message>
     <message>
         <source>Choose status...</source>
-        <translation type="unfinished"/>
+        <translation>Válassz állapotot...</translation>
     </message>
     <message>
         <source>Choose...</source>
-        <translation type="unfinished"/>
+        <translation>Válassz...</translation>
     </message>
     <message>
         <source>Show dialog to set your status</source>
-        <translation type="unfinished"/>
+        <translation>Dialógus megjelenítése az állapot változtatásához</translation>
     </message>
     <message>
         <source>Reconnect</source>
-        <translation type="unfinished"/>
+        <translation>Újrakapcsolódás</translation>
     </message>
     <message>
         <source>Reconnect all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Minden aktív fiók újrakapcsolódása</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -12560,11 +12560,11 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Show ReadMe file</source>
-        <translation>OlvassEl fájl mutatása</translation>
+        <translation>OlvassEl fájl megjelenítése</translation>
     </message>
     <message>
         <source>User Guide (Online)</source>
-        <translation>Súgó (Online)</translation>
+        <translation>Felhasználói kézikönyv (Online)</translation>
     </message>
     <message>
         <source>&amp;User Guide (Online)</source>
@@ -12588,27 +12588,27 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Psi+ Forum (Online)</source>
-        <translation type="unfinished"/>
+        <translation>Psi+ fórum (Online)</translation>
     </message>
     <message>
         <source>Psi+ &amp;Forum (Online)</source>
-        <translation type="unfinished"/>
+        <translation>Psi+ &amp;fórum (Online)</translation>
     </message>
     <message>
         <source>Join Psi+ Discussion Room (Online)</source>
-        <translation type="unfinished"/>
+        <translation>Csatlakozás a Psi+ megbeszéléshez (Online)</translation>
     </message>
     <message>
         <source>&amp;Join Psi+ Discussion Room (Online)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Csatlakozás a Psi+ megbeszéléshez (Online)</translation>
     </message>
     <message>
         <source>Check for Updates...</source>
-        <translation type="unfinished"/>
+        <translation>Frissítések keresése...</translation>
     </message>
     <message>
         <source>&amp;Check for Updates...</source>
-        <translation type="unfinished"/>
+        <translation>Frissítések &amp;keresése...</translation>
     </message>
     <message>
         <source>Report a Bug (Online)</source>
@@ -12616,7 +12616,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Report a &amp;Bug (Online)</source>
-        <translation>&amp;Bug jelentése (Online)</translation>
+        <translation>&amp;Hiba jelentése (Online)</translation>
     </message>
     <message>
         <source>About</source>
@@ -12636,11 +12636,11 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>About GStreamer</source>
-        <translation>A GStreamerről</translation>
+        <translation>A GStreamer névjegye</translation>
     </message>
     <message>
         <source>About &amp;GStreamer</source>
-        <translation>&amp;A GStreamerről</translation>
+        <translation>A &amp;GStreamer névjegye</translation>
     </message>
     <message>
         <source>Security Plugins</source>
@@ -12664,86 +12664,86 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Clear Chat Window</source>
-        <translation type="unfinished"/>
+        <translation>Beszélgetésablak törlése</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Keresés</translation>
     </message>
     <message>
         <source>&amp;Find</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Keresés</translation>
     </message>
     <message>
         <source>Set Text Format</source>
-        <translation type="unfinished"/>
+        <translation>Szövegformátum beállítása</translation>
     </message>
     <message>
         <source>Add Contact To Roster</source>
-        <translation type="unfinished"/>
+        <translation>Ismerős hozzáadása a címlistához</translation>
     </message>
     <message>
         <source>Add Contact</source>
-        <translation type="unfinished"/>
+        <translation>Ismerős hozzáadása</translation>
     </message>
     <message>
         <source>Select Icon</source>
-        <translation type="unfinished"/>
+        <translation>Ikon kiválasztása</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"/>
+        <translation>Hanghívás</translation>
     </message>
     <message>
         <source>Send File</source>
-        <translation type="unfinished"/>
+        <translation>Fájl küldése</translation>
     </message>
     <message>
         <source>Toggle Encryption</source>
-        <translation type="unfinished"/>
+        <translation>Titkosítás be/kikapcsolása</translation>
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished"/>
+        <translation>Felhasználó adatai</translation>
     </message>
     <message>
         <source>Message History</source>
-        <translation type="unfinished"/>
+        <translation>Üzenetelőzmények</translation>
     </message>
     <message>
         <source>Toggle Compact/Full Size</source>
-        <translation type="unfinished"/>
+        <translation>Tömörített/Teljes méret</translation>
     </message>
     <message>
         <source>Paste and Send</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Beillesztés és küldés</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Minták</translation>
     </message>
     <message>
         <source>Chat basic buttons</source>
-        <translation type="unfinished"/>
+        <translation>Beszélgetés alapgombjai</translation>
     </message>
     <message>
         <source>Groupchat basic buttons</source>
-        <translation type="unfinished"/>
+        <translation>Csoportbeszélgetés alapgombjai</translation>
     </message>
     <message>
         <source>Configure Room</source>
-        <translation type="unfinished"/>
+        <translation>Szoba beállítása</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation type="unfinished"/>
+        <translation>Kiegészítők</translation>
     </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
     <message>
         <source>Copy user JID</source>
-        <translation type="unfinished"/>
+        <translation>Felhasználó-JID másolása</translation>
     </message>
     <message>
         <source>Input command...</source>
@@ -12751,15 +12751,15 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Find toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Eszköztár keresése</translation>
     </message>
     <message>
         <source>Chat Toolbar</source>
-        <translation>Beszélgetési eszköztár</translation>
+        <translation>Beszélgetés eszköztára</translation>
     </message>
     <message>
         <source>Contact has been switched: %1</source>
-        <translation type="unfinished"/>
+        <translation>Felhasználó váltva: %1</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -12768,7 +12768,7 @@ Oka: %1.</translation>
     <message>
         <source>Are you sure you want to clear the chat window?
 (note: does not affect saved history)</source>
-        <translation>Biztosan törölni akarod a beszélgetés tartalmát?
+        <translation>Biztosan törölni akarod a beszélgetésablak tartalmát?
 (ez nem befolyásolja az elmentett előzményeket)</translation>
     </message>
     <message>
@@ -12781,11 +12781,11 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>turn off autojid</source>
-        <translation type="unfinished"/>
+        <translation>AutoJID kikapcsolása</translation>
     </message>
     <message>
         <source>turn on autojid</source>
-        <translation type="unfinished"/>
+        <translation>AutoJID bekapcsolása</translation>
     </message>
 </context>
 <context>
@@ -12798,7 +12798,7 @@ Oka: %1.</translation>
     <message>
         <source>Activate program instance running specified profile. Otherwise, open new instance using this profile (unless used together with --remote).</source>
         <comment>do not translate --remote</comment>
-        <translation>A program példányának adott profil szerinti futtatása. Más esetben új példány indítása ezzel a profillal történjen (kivéve a --remote használatával).</translation>
+        <translation>A program futtatása egy megadott profillal. Máskülönben, ezen profil használatakor, induljon egy új programpéldány (hacsak nem a &quot;--remote&quot;-tal együtt van használva).</translation>
     </message>
     <message>
         <source>Force remote-control mode. If there is no running instance, or --profile was specified but there is no instance using it, exit without doing anything. Cannot be used with --choose-profile.</source>
@@ -12808,7 +12808,7 @@ Oka: %1.</translation>
     <message>
         <source>Display Choose Profile dialog on startup. Cannot be used together with --remote.</source>
         <comment>do not translate --remote</comment>
-        <translation>Profilválasztás mutatása induláskor. Nem használható --remote kapcsolóval.</translation>
+        <translation>Profilválasztás dialógusának megjelenítése induláskor. Nem használható --remote kapcsolóval.</translation>
     </message>
     <message>
         <source>URI</source>
@@ -12837,15 +12837,15 @@ Oka: %1.</translation>
     <message>
         <source>Set status message. Must be used together with --status.</source>
         <comment>do not translate --status</comment>
-        <translation>Állapot üzenet beállítása, --status kapcsolóval kell használni.</translation>
+        <translation>Állapotüzenet beállítása, a --status kapcsolóval együtt kell használni.</translation>
     </message>
     <message>
         <source>Show this help message and exit.</source>
-        <translation>Súgó üzenet mutatása és kilépés.</translation>
+        <translation>Súgó megjelenítése és kilépés.</translation>
     </message>
     <message>
         <source>Show version information and exit.</source>
-        <translation>Verziószám mutatása és kilépés.</translation>
+        <translation>Verziószám megjelenítése és kilépés.</translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -12869,7 +12869,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Psi - The Cross-Platform XMPP Client For Power Users</source>
-        <translation type="unfinished"/>
+        <translation>Psi - Egy több platformon működő Jabber/XMPP kliens</translation>
     </message>
     <message>
         <source>Options:</source>
@@ -12877,12 +12877,12 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Go to &lt;http://psi-im.org/&gt; for more information about Psi.</source>
-        <translation>Nyisd meg a &lt;http://psi-im.org&gt; címet további információkért.</translation>
+        <translation>Látogasd meg a &lt;http://psi-im.org/&gt; címet további információkért a Psi-ről.</translation>
     </message>
     <message>
         <source>Compiled with Qt %1</source>
         <comment>%1 will contain Qt version number</comment>
-        <translation>A Qt %1 verziójával forgatva</translation>
+        <translation>A Qt %1 verziójával összeállítva</translation>
     </message>
 </context>
 <context>
@@ -12893,15 +12893,15 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Unable to load iconset!  Please make sure Psi is properly installed.</source>
-        <translation>Nem sikerült megnyitni az ikoncsomagot. Ellenőrizd hogy a Psi helyesen lett telepítve.</translation>
+        <translation>Nem sikerült betölteni az ikonkészletet. Ellenőrizd, hogy a Psi helyesen lett-e telepítve.</translation>
     </message>
     <message>
         <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
-        <translation type="unfinished"/>
+        <translation>Nem sikerült betölteni a témát. Ellenőrizd, hogy a Psi helyesen lett-e telepítve.</translation>
     </message>
     <message>
         <source>Please disconnect before changing the profile.</source>
-        <translation>Bontsd a kapcsolatot mielőtt profilt váltanál.</translation>
+        <translation>Kapcsolódj le mielőtt profilt váltasz.</translation>
     </message>
     <message>
         <source>&amp;Disconnect</source>
@@ -12917,7 +12917,7 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>Some of the options you changed will only have full effect upon restart.</source>
-        <translation>Néhány beállítás csak újraindítás után lép érvénybe.</translation>
+        <translation>Néhány beállítás csak a program újraindítása után lép érvénybe.</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -12925,15 +12925,15 @@ Oka: %1.</translation>
     </message>
     <message>
         <source>You can not disable &lt;i&gt;all&lt;/i&gt; toolbars &lt;i&gt;and&lt;/i&gt; the menubar. If you do so, you will be unable to enable them back, when you&apos;ll change your mind.</source>
-        <translation>Nem kapcsolhatod ki az &lt;i&gt;összes&lt;/i&gt; eszköztárat &lt;i&gt;és&lt;/i&gt; a menüt is. Ha így tennél, nem lehetne újra engedélyezni őket ha meggondolod magad.</translation>
+        <translation>Nem kapcsolhatod ki az &lt;i&gt;összes&lt;/i&gt; eszköztárat &lt;i&gt;és&lt;/i&gt; a menüt is. Ha így tennél, nem lehetne őket újból engedélyezni, abban az esetben ha mégis meggondolnád magad.</translation>
     </message>
     <message>
         <source>I understand</source>
-        <translation>Jóvanakkor</translation>
+        <translation>Megértettem</translation>
     </message>
     <message>
         <source>Call ended</source>
-        <translation>Hívás befejeződött</translation>
+        <translation>Hívás befejezve</translation>
     </message>
     <message>
         <source>Other party canceled call.</source>
@@ -12942,16 +12942,16 @@ Oka: %1.</translation>
     <message>
         <source>Unable to bind to port %1 for Data Transfer.
 This may mean you are already running another instance of Psi. You may experience problems sending and/or receiving files.</source>
-        <translation>Nem sikerült csatlakozni az átvitelhez használt %1 számú porthoz.
-Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valószínüleg nem fogsz tudni fájlt küldeni/fogadni.</translation>
+        <translation>Sikertelen ezen port: %1 csatlakoztatása adatátvitelre.
+Lehetséges, hogy már fut egy másik példány a Psi-ből, vagy ez a port már használatban van. Valószínűleg nem fogsz tudni fájlt küldeni/fogadni ezen a porton, próbálj másikat.</translation>
     </message>
     <message>
         <source>Computer went to sleep</source>
-        <translation>A számítógép kikapcsolt</translation>
+        <translation>A számítógép alvó állapotba ment</translation>
     </message>
     <message>
         <source>Account setup</source>
-        <translation>Fiók beállítás</translation>
+        <translation>Fiók beállítása</translation>
     </message>
     <message>
         <source>You need to set up an account to start. Would you like to register a new account, or use an existing account?</source>
@@ -12974,11 +12974,11 @@ Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valós
     </message>
     <message>
         <source>Not in list</source>
-        <translation>Nincs a listán</translation>
+        <translation>Nincs a listában</translation>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished"/>
+        <translation>Rejtett</translation>
     </message>
     <message>
         <source>Choose an image</source>
@@ -13000,7 +13000,7 @@ Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valós
     <name>PsiContactMenu::Private</name>
     <message>
         <source>Re&amp;name</source>
-        <translation>Át&amp;nevez</translation>
+        <translation>&amp;Átnevezés</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -13024,15 +13024,15 @@ Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valós
     </message>
     <message>
         <source>Send &amp;E-mail</source>
-        <translation>E-mail &amp;küldése</translation>
+        <translation>&amp;E-mail küldése</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Hozzáad</translation>
+        <translation>&amp;Hozzáadás</translation>
     </message>
     <message>
         <source>A&amp;uth</source>
-        <translation>&amp;Felkérés</translation>
+        <translation>&amp;Jóváhagyás</translation>
     </message>
     <message>
         <source>&amp;Block</source>
@@ -13040,11 +13040,11 @@ Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valós
     </message>
     <message>
         <source>Disable mood notifications</source>
-        <translation>Hangulat jelzésének kikapcsolása</translation>
+        <translation>Hangulatjelzések kikapcsolása</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
-        <translation>Kapcsolati listához való hozzáadás/felkérés</translation>
+        <translation>Hozzáadás/Jóváhagyás a kapcsolati listához</translation>
     </message>
     <message>
         <source>&amp;Receive Incoming Event</source>
@@ -13052,11 +13052,11 @@ Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valós
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation>Ü&amp;zenet küldése</translation>
+        <translation>&amp;Üzenet küldése</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation>&amp;Beszélgetés nyitása</translation>
+        <translation>&amp;Beszélgetésablak megnyitása</translation>
     </message>
     <message>
         <source>Open a &amp;Whiteboard</source>
@@ -13064,11 +13064,11 @@ Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valós
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>Hívás</translation>
+        <translation>Hanghívás</translation>
     </message>
     <message>
         <source>Send &amp;File</source>
-        <translation>Fájl &amp;küldése</translation>
+        <translation>&amp;Fájl küldése</translation>
     </message>
     <message>
         <source>&amp;Log on</source>
@@ -13080,19 +13080,19 @@ Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valós
     </message>
     <message>
         <source>Resend Authorization To</source>
-        <translation type="vanished">Felkérés újraküldése </translation>
+        <translation type="vanished">Jóváhagyás újraküldése</translation>
     </message>
     <message>
         <source>Rerequest Authorization From</source>
-        <translation type="vanished">Felkérés újrakérése tőle</translation>
+        <translation type="vanished">Jóváhagyás újrakérése</translation>
     </message>
     <message>
         <source>Remove Authorization From</source>
-        <translation type="vanished">Felkérés visszavonása </translation>
+        <translation type="vanished">Jóváhagyás visszavonása</translation>
     </message>
     <message>
         <source>Sen&amp;d Status</source>
-        <translation type="unfinished"/>
+        <translation>Állapot &amp;küldése</translation>
     </message>
     <message>
         <source>&amp;Assign Custom Picture</source>
@@ -13100,19 +13100,19 @@ Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valós
     </message>
     <message>
         <source>&amp;Clear Custom Picture</source>
-        <translation>Egyéni &amp;kép levétele</translation>
+        <translation>Egyéni kép &amp;törlése</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation>Open&amp;PGP kulcs hozzárendelése</translation>
+        <translation>&amp;OpenPGP-kulcs hozzárendelése</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation>&amp;OpenPGP kulcs hozzárendelés törlése</translation>
+        <translation>&amp;OpenPGP-kulcs törlése</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation>Partner &amp;információi</translation>
+        <translation>Felhasználó &amp;adatai</translation>
     </message>
     <message>
         <source>Invite To</source>
@@ -13144,31 +13144,31 @@ Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valós
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"/>
+        <translation>Elrejtés</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"/>
+        <translation>Megjelenítés</translation>
     </message>
     <message>
         <source>Leave</source>
-        <translation type="unfinished"/>
+        <translation>Elhagyás</translation>
     </message>
     <message>
         <source>Block</source>
-        <translation type="unfinished"/>
+        <translation>Tiltás</translation>
     </message>
     <message>
         <source>Always Visible</source>
-        <translation type="unfinished"/>
+        <translation>Mindig látható</translation>
     </message>
     <message>
         <source>Authorization</source>
-        <translation type="vanished">Jóváagyás</translation>
+        <translation type="vanished">Jóváhagyás</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
-        <translation>&amp;Kép</translation>
+        <translation>&amp;Fénykép</translation>
     </message>
     <message>
         <source>&amp;Unblock</source>
@@ -13180,27 +13180,27 @@ Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valós
     </message>
     <message>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>&lt;b&gt;%1&lt;/b&gt; meghívva a konferenciába.</translation>
+        <translation>A konferenciameghívó elküldve neki: &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Hozzáad</translation>
+        <translation>Hozzáadás</translation>
     </message>
     <message>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation>&lt;b&gt;%1&lt;/b&gt; hozzáadva a címlistához.</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt; Hozzáadva/Jóváhagyva a címlistához.</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation>Jóváhagy</translation>
+        <translation>Jóváhagyás</translation>
     </message>
     <message>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Felkérés küldése &lt;b&gt;%1&lt;/b&gt; számára.</translation>
+        <translation>Jóváhagyás elküldve neki: &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Felkérés újrakérése &lt;b&gt;%1&lt;/b&gt; felhasználótól.</translation>
+        <translation>Jóváhagyás újrakérve tőle: &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -13208,7 +13208,7 @@ Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valós
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation>Biztosan törlöd &lt;b&gt;%1&lt;/b&gt; felkérését?</translation>
+        <translation>Biztosan törlöd &lt;b&gt;%1&lt;/b&gt; jóváhagyását?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -13228,55 +13228,55 @@ Ez azt jelentheti például, hogy fut egy másik példánya is a Psi-nek. Valós
     </message>
     <message>
         <source>Unblock</source>
-        <translation type="unfinished"/>
+        <translation>Feloldás</translation>
     </message>
     <message>
         <source>&amp;Log On</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bejelentkezés</translation>
     </message>
     <message>
         <source>Log &amp;Off</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kijelentkezés</translation>
     </message>
     <message>
         <source>Re&amp;send Authorization To</source>
-        <translation type="unfinished"/>
+        <translation>Jóváhagyás &amp;újraküldése</translation>
     </message>
     <message>
         <source>Re&amp;request Authorization From</source>
-        <translation type="unfinished"/>
+        <translation>Jóváhagyás &amp;újrakérése</translation>
     </message>
     <message>
         <source>Re&amp;move Authorization From</source>
-        <translation type="unfinished"/>
+        <translation>Jóváhagyás &amp;törlése</translation>
     </message>
     <message>
         <source>In&amp;vite To</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Meghívás</translation>
     </message>
     <message>
         <source>Send Message T&amp;o</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Üzenet küldése</translation>
     </message>
     <message>
         <source>Open Chat &amp;To</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Beszélgetés megnyitása</translation>
     </message>
     <message>
         <source>Open a White&amp;board To</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Rajztábla megnyitása</translation>
     </message>
     <message>
         <source>&amp;Active Chats</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Aktív beszélgetések</translation>
     </message>
     <message>
         <source>Manage &amp;Contact</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ismerősök kezelése</translation>
     </message>
     <message>
         <source>&amp;Authorization</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Jóváhagyás</translation>
     </message>
 </context>
 <context>
@@ -13352,11 +13352,11 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     <name>PsiOptions</name>
     <message>
         <source>Away from desk</source>
-        <translation>Nincs gépnél</translation>
+        <translation>Asztaltól távol</translation>
     </message>
     <message>
         <source>I am away from my desk.  Leave a message.</source>
-        <translation>Nem vagyok a gépnél most éppen, szóval hagyj valami üzenetfélét.</translation>
+        <translation>Nem vagyok gépközelben. Hagyj egy üzenetet.</translation>
     </message>
     <message>
         <source>Showering</source>
@@ -13372,7 +13372,7 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     </message>
     <message>
         <source>Out eating.  Mmmm.. food.</source>
-        <translation>Éppen kajálok. Omnomnom.</translation>
+        <translation>Éppen kajálok. Nyam-nyam-nyam-nyam.</translation>
     </message>
     <message>
         <source>Sleep</source>
@@ -13388,7 +13388,7 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     </message>
     <message>
         <source>Can&apos;t chat.  Gotta work.</source>
-        <translation>Nem dumálhatok, dolgozom.</translation>
+        <translation>Nem dumálhatok, dolgoznom kellene.</translation>
     </message>
     <message>
         <source>Air</source>
@@ -13396,15 +13396,15 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     </message>
     <message>
         <source>Stepping out to get some fresh air.</source>
-        <translation>Kitettem a lábam a lakásból, gratulálhatsz, de úgy sem látom.</translation>
+        <translation>Levegőzni vagyok.</translation>
     </message>
     <message>
         <source>Movie</source>
-        <translation>Filmnézés</translation>
+        <translation>Filmezés</translation>
     </message>
     <message>
         <source>Out to a movie.  Is that OK with you?</source>
-        <translation>Filmet nézek. Mindegy hogy itt vagy moziban, úgy sem figyelek, ok?</translation>
+        <translation>Moziba mentem. Köszönöm, hogy megengedted!</translation>
     </message>
     <message>
         <source>Secret</source>
@@ -13416,11 +13416,11 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     </message>
     <message>
         <source>Out for the night</source>
-        <translation>Nem itthon</translation>
+        <translation>Egész estés programra mentem</translation>
     </message>
     <message>
         <source>Out for the night.</source>
-        <translation>Elmentem itthonról.</translation>
+        <translation>Egész estés programra mentem</translation>
     </message>
     <message>
         <source>Greece</source>
@@ -13428,7 +13428,7 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     </message>
     <message>
         <source>I have gone to a far away place.  I will be back someday!</source>
-        <translation>Elég messze mentem, talán majd egyszer még leszek!</translation>
+        <translation>Világgá mentem, majd egyszer jövök, talán!</translation>
     </message>
     <message>
         <source>Buttons</source>
@@ -13436,11 +13436,11 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     </message>
     <message>
         <source>Show contacts</source>
-        <translation>Ismerősök mutatása</translation>
+        <translation>Ismerősök megjelenítése</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>Események jelzése</translation>
+        <translation>Eseményértesítő</translation>
     </message>
     <message>
         <source>Auto Status (idle)</source>
@@ -13463,19 +13463,19 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     </message>
     <message>
         <source>Display all options as a flat list.</source>
-        <translation>Minden opció kibontottként mutatása.</translation>
+        <translation>Minden opció kibontása.</translation>
     </message>
     <message>
         <source>Delete...</source>
-        <translation type="unfinished"/>
+        <translation>Törlés...</translation>
     </message>
     <message>
         <source>Reset...</source>
-        <translation type="unfinished"/>
+        <translation>Visszaállítás...</translation>
     </message>
     <message>
         <source>Edit...</source>
-        <translation>Szerkeszt...</translation>
+        <translation>Szerkesztés...</translation>
     </message>
     <message>
         <source>Add...</source>
@@ -13483,11 +13483,11 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     </message>
     <message>
         <source>Open a detached option editor window.</source>
-        <translation>Leválasztott szerkesztőablak nyitása.</translation>
+        <translation>Különálló szerkesztőablak megnyitása.</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"/>
+        <translation>Haladó</translation>
     </message>
     <message>
         <source>(internal node)</source>
@@ -13499,23 +13499,23 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     </message>
     <message>
         <source>Really delete options %1?</source>
-        <translation>Biztosan törlöd a(z) %1 opciót?</translation>
+        <translation>Biztosan törlöd ezt a beállítást: %1?</translation>
     </message>
     <message>
         <source>Really delete all options starting with %1.?</source>
-        <translation>Biztosan törölsz minden opciót ami %1 szóval kezdődik?</translation>
+        <translation>Biztosan törölsz minden opciót, ami ezzel kezdődik: %1?</translation>
     </message>
     <message>
         <source>Psi+: Option Editor</source>
-        <translation type="unfinished"/>
+        <translation>Psi: Beállításszerkesztő</translation>
     </message>
     <message>
         <source>Really reset options %1 to default value?</source>
-        <translation type="unfinished"/>
+        <translation>Biztosan visszaállítod alapértékre ezt a beállítást: %1?</translation>
     </message>
     <message>
         <source>Really reset all options starting with %1. to default value?</source>
-        <translation type="unfinished"/>
+        <translation>Biztosan visszaállítod alapértékre ezeket a beállításokat, amik ezzel kezdődnek: %1?</translation>
     </message>
 </context>
 <context>
@@ -13526,7 +13526,7 @@ Szeretnéd aktívvá tenni azt a munkamenetet?</translation>
     </message>
     <message>
         <source> is typing...</source>
-        <translation type="unfinished"/>
+        <translation>éppen ír...</translation>
     </message>
 </context>
 <context>
@@ -13556,25 +13556,25 @@ Folytatod?</translation>
     <name>PsiThemeViewDelegate</name>
     <message>
         <source>No Image</source>
-        <translation type="unfinished"/>
+        <translation>Nincs kép</translation>
     </message>
 </context>
 <context>
     <name>PsiToolBar</name>
     <message>
         <source>&amp;Configure Toolbar...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Eszköztár testreszabása...</translation>
     </message>
 </context>
 <context>
     <name>PsiWindowHeader</name>
     <message>
         <source>PsiWindowHeader</source>
-        <translation type="unfinished"/>
+        <translation>PsiWindowHeader</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
 </context>
 <context>
@@ -13625,7 +13625,7 @@ Folytatod?</translation>
     </message>
     <message>
         <source>Phone</source>
-        <translation>Telefon szám</translation>
+        <translation>Telefonszám</translation>
     </message>
     <message>
         <source>URL</source>
@@ -13645,11 +13645,11 @@ Folytatod?</translation>
     </message>
     <message>
         <source>Hostname mismatch.</source>
-        <translation>Cím egyezési hiba.</translation>
+        <translation>Kiszolgáló egyezési hiba.</translation>
     </message>
     <message>
         <source>Invalid Certificate.</source>
-        <translation>Nem megfelelő tanúsítvány.</translation>
+        <translation>Érvénytelen tanúsítvány.</translation>
     </message>
     <message>
         <source>General validation error.</source>
@@ -13665,7 +13665,7 @@ Folytatod?</translation>
     </message>
     <message>
         <source>&amp;Connect anyway</source>
-        <translation>&amp;Így is csatlakozom</translation>
+        <translation>&amp;Csatlakozás így is</translation>
     </message>
     <message>
         <source>&amp;Trust this certificate</source>
@@ -13681,335 +13681,335 @@ Folytatod?</translation>
     </message>
     <message>
         <source>Certificate is valid.</source>
-        <translation>A tanusítvány érvényes.</translation>
+        <translation>A tanúsítvány érvényes.</translation>
     </message>
     <message>
         <source>The hostname does not match the one the certificate was issued to.</source>
-        <translation>A szerver neve nem egyezik a tanúsítványban lévőével.</translation>
+        <translation>A szerver címe nem egyezik azzal, amit a tanúsítványban megadott.</translation>
     </message>
     <message>
         <source>General certificate validation error.</source>
-        <translation>Általános tanúsítvány ellenőrzési hiba.</translation>
+        <translation>Általános tanúsítványellenőrzés-hiba.</translation>
     </message>
     <message>
         <source>Doing Chores</source>
-        <translation type="unfinished"/>
+        <translation>Házimunkát végezni</translation>
     </message>
     <message>
         <source>Buying Groceries</source>
-        <translation type="unfinished"/>
+        <translation>Zöldséget vásárolni</translation>
     </message>
     <message>
         <source>Cleaning</source>
-        <translation type="unfinished"/>
+        <translation>Takarítani</translation>
     </message>
     <message>
         <source>Cooking</source>
-        <translation type="unfinished"/>
+        <translation>Főzni</translation>
     </message>
     <message>
         <source>Doing Maintenance</source>
-        <translation type="unfinished"/>
+        <translation>Karbantartást végezni</translation>
     </message>
     <message>
         <source>Doing The Dishes</source>
-        <translation type="unfinished"/>
+        <translation>Mosogatni</translation>
     </message>
     <message>
         <source>Doing The Laundry</source>
-        <translation type="unfinished"/>
+        <translation>Mosni</translation>
     </message>
     <message>
         <source>Gardening</source>
-        <translation type="unfinished"/>
+        <translation>Kertészkedni</translation>
     </message>
     <message>
         <source>Running An Errand</source>
-        <translation type="unfinished"/>
+        <translation>Megbízatáson</translation>
     </message>
     <message>
         <source>Walking The Dog</source>
-        <translation type="unfinished"/>
+        <translation>Kutyát sétáltatni</translation>
     </message>
     <message>
         <source>Drinking</source>
-        <translation type="unfinished"/>
+        <translation>Inni</translation>
     </message>
     <message>
         <source>Having A Beer</source>
-        <translation type="unfinished"/>
+        <translation>Sörözni</translation>
     </message>
     <message>
         <source>Having Coffee</source>
-        <translation type="unfinished"/>
+        <translation>Kávézni</translation>
     </message>
     <message>
         <source>Having Tea</source>
-        <translation type="unfinished"/>
+        <translation>Teázni</translation>
     </message>
     <message>
         <source>Eating</source>
-        <translation type="unfinished"/>
+        <translation>Enni</translation>
     </message>
     <message>
         <source>Having A Snack</source>
-        <translation type="unfinished"/>
+        <translation>Nassolni</translation>
     </message>
     <message>
         <source>Having Breakfast</source>
-        <translation type="unfinished"/>
+        <translation>Reggelizni</translation>
     </message>
     <message>
         <source>Having Lunch</source>
-        <translation type="unfinished"/>
+        <translation>Ebédelni</translation>
     </message>
     <message>
         <source>Having Dinner</source>
-        <translation type="unfinished"/>
+        <translation>Vacsorázni</translation>
     </message>
     <message>
         <source>Exercising</source>
-        <translation type="unfinished"/>
+        <translation>Edzeni</translation>
     </message>
     <message>
         <source>Cycling</source>
-        <translation type="unfinished"/>
+        <translation>Bringázni</translation>
     </message>
     <message>
         <source>Dancing</source>
-        <translation type="unfinished"/>
+        <translation>Táncolni</translation>
     </message>
     <message>
         <source>Hiking</source>
-        <translation type="unfinished"/>
+        <translation>Túrázni</translation>
     </message>
     <message>
         <source>Jogging</source>
-        <translation type="unfinished"/>
+        <translation>Kocogni</translation>
     </message>
     <message>
         <source>Playing Sports</source>
-        <translation type="unfinished"/>
+        <translation>Sportolni</translation>
     </message>
     <message>
         <source>Running</source>
-        <translation type="unfinished"/>
+        <translation>Futni</translation>
     </message>
     <message>
         <source>Skiing</source>
-        <translation type="unfinished"/>
+        <translation>Síelni</translation>
     </message>
     <message>
         <source>Swimming</source>
-        <translation type="unfinished"/>
+        <translation>Úszni</translation>
     </message>
     <message>
         <source>Working Out</source>
-        <translation type="unfinished"/>
+        <translation>Edzeni</translation>
     </message>
     <message>
         <source>Grooming</source>
-        <translation type="unfinished"/>
+        <translation>Fésülködni</translation>
     </message>
     <message>
         <source>At The Spa</source>
-        <translation type="unfinished"/>
+        <translation>Gyógyfürdőben</translation>
     </message>
     <message>
         <source>Brushing Teeth</source>
-        <translation type="unfinished"/>
+        <translation>Fogat mosni</translation>
     </message>
     <message>
         <source>Getting A Haircut</source>
-        <translation type="unfinished"/>
+        <translation>Hajat vágni</translation>
     </message>
     <message>
         <source>Shaving</source>
-        <translation type="unfinished"/>
+        <translation>Borotválkozni</translation>
     </message>
     <message>
         <source>Taking A Bath</source>
-        <translation type="unfinished"/>
+        <translation>Fürödni</translation>
     </message>
     <message>
         <source>Taking A Shower</source>
-        <translation type="unfinished"/>
+        <translation>Zuhanyozni</translation>
     </message>
     <message>
         <source>Having Appointment</source>
-        <translation type="unfinished"/>
+        <translation>Találkozón</translation>
     </message>
     <message>
         <source>Inactive</source>
-        <translation type="unfinished"/>
+        <translation>Inaktív</translation>
     </message>
     <message>
         <source>Day Off</source>
-        <translation type="unfinished"/>
+        <translation>Szabadnapos</translation>
     </message>
     <message>
         <source>Hanging Out</source>
-        <translation type="unfinished"/>
+        <translation>Lógni</translation>
     </message>
     <message>
         <source>Hiding</source>
-        <translation type="unfinished"/>
+        <translation>Bujkálni</translation>
     </message>
     <message>
         <source>On Vacation</source>
-        <translation type="unfinished"/>
+        <translation>Vakáción</translation>
     </message>
     <message>
         <source>Praying</source>
-        <translation type="unfinished"/>
+        <translation>Imádkozni</translation>
     </message>
     <message>
         <source>Scheduled Holiday</source>
-        <translation type="unfinished"/>
+        <translation>Betervezett szabadság</translation>
     </message>
     <message>
         <source>Sleeping</source>
-        <translation type="unfinished"/>
+        <translation>Aludni</translation>
     </message>
     <message>
         <source>Thinking</source>
-        <translation type="unfinished"/>
+        <translation>Gondolkodni</translation>
     </message>
     <message>
         <source>Relaxing</source>
-        <translation type="unfinished"/>
+        <translation>Pihenni</translation>
     </message>
     <message>
         <source>Fishing</source>
-        <translation type="unfinished"/>
+        <translation>Horgászni</translation>
     </message>
     <message>
         <source>Gaming</source>
-        <translation type="unfinished"/>
+        <translation>Játszani</translation>
     </message>
     <message>
         <source>Going Out</source>
-        <translation type="unfinished"/>
+        <translation>Kimenni</translation>
     </message>
     <message>
         <source>Partying</source>
-        <translation type="unfinished"/>
+        <translation>Bulizni</translation>
     </message>
     <message>
         <source>Reading</source>
-        <translation type="unfinished"/>
+        <translation>Olvasni</translation>
     </message>
     <message>
         <source>Rehearsing</source>
-        <translation type="unfinished"/>
+        <translation>Próbálni</translation>
     </message>
     <message>
         <source>Shopping</source>
-        <translation type="unfinished"/>
+        <translation>Vásárolni</translation>
     </message>
     <message>
         <source>Smoking</source>
-        <translation type="unfinished"/>
+        <translation>Cigizni</translation>
     </message>
     <message>
         <source>Socializing</source>
-        <translation type="unfinished"/>
+        <translation>Szocializálódni</translation>
     </message>
     <message>
         <source>Sunbathing</source>
-        <translation type="unfinished"/>
+        <translation>Napozni</translation>
     </message>
     <message>
         <source>Watching TV</source>
-        <translation type="unfinished"/>
+        <translation>Tévézni</translation>
     </message>
     <message>
         <source>Watching A Movie</source>
-        <translation type="unfinished"/>
+        <translation>Filmezni</translation>
     </message>
     <message>
         <source>Talking</source>
-        <translation type="unfinished"/>
+        <translation>Beszélni</translation>
     </message>
     <message>
         <source>In Real Life</source>
-        <translation type="unfinished"/>
+        <translation>A való életben</translation>
     </message>
     <message>
         <source>On The Phone</source>
-        <translation type="unfinished"/>
+        <translation>Telefonon</translation>
     </message>
     <message>
         <source>On Video Phone</source>
-        <translation type="unfinished"/>
+        <translation>Videohíváson</translation>
     </message>
     <message>
         <source>Traveling</source>
-        <translation type="unfinished"/>
+        <translation>Utazni</translation>
     </message>
     <message>
         <source>Commuting</source>
-        <translation type="unfinished"/>
+        <translation>Ingázni</translation>
     </message>
     <message>
         <source>Driving</source>
-        <translation type="unfinished"/>
+        <translation>Vezetni</translation>
     </message>
     <message>
         <source>In A Car</source>
-        <translation type="unfinished"/>
+        <translation>Kocsiban</translation>
     </message>
     <message>
         <source>On A Bus</source>
-        <translation type="unfinished"/>
+        <translation>Buszon</translation>
     </message>
     <message>
         <source>On A Plane</source>
-        <translation type="unfinished"/>
+        <translation>Repülőn</translation>
     </message>
     <message>
         <source>On A Train</source>
-        <translation type="unfinished"/>
+        <translation>Vonaton</translation>
     </message>
     <message>
         <source>On A Trip</source>
-        <translation type="unfinished"/>
+        <translation>Úton</translation>
     </message>
     <message>
         <source>Walking</source>
-        <translation type="unfinished"/>
+        <translation>Sétálni</translation>
     </message>
     <message>
         <source>Working</source>
-        <translation type="unfinished"/>
+        <translation>Dolgozni</translation>
     </message>
     <message>
         <source>Coding</source>
-        <translation type="unfinished"/>
+        <translation>Programozni</translation>
     </message>
     <message>
         <source>In A Meeting</source>
-        <translation type="unfinished"/>
+        <translation>Megbeszélésen</translation>
     </message>
     <message>
         <source>Studying</source>
-        <translation type="unfinished"/>
+        <translation>Tanulni</translation>
     </message>
     <message>
         <source>Writing</source>
-        <translation type="unfinished"/>
+        <translation>Írni</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>Egyéb</translation>
     </message>
     <message>
         <source>Choose file</source>
-        <translation>Válassz fájlt</translation>
+        <translation>Fájl kiválasztása</translation>
     </message>
     <message>
         <source>Choose a file</source>
-        <translation>Válassz egy fájlt</translation>
+        <translation>Fájl kiválasztása</translation>
     </message>
     <message>
         <source>File</source>
@@ -14017,7 +14017,7 @@ Folytatod?</translation>
     </message>
     <message>
         <source>Conversion Error</source>
-        <translation type="unfinished"/>
+        <translation>Konvertáláshiba</translation>
     </message>
     <message>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
@@ -14029,7 +14029,7 @@ Folytatod?</translation>
     </message>
     <message>
         <source>Away</source>
-        <translation>Nincs a gépnél</translation>
+        <translation>Távol</translation>
     </message>
     <message>
         <source>Not Available</source>
@@ -14037,11 +14037,11 @@ Folytatod?</translation>
     </message>
     <message>
         <source>Do not Disturb</source>
-        <translation>Ne zavarj</translation>
+        <translation>Elfoglalt</translation>
     </message>
     <message>
         <source>Free for Chat</source>
-        <translation>Írj rám</translation>
+        <translation>Beszélgetős</translation>
     </message>
     <message>
         <source>Invisible</source>
