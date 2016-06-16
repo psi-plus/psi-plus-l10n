@@ -14061,67 +14061,79 @@ Folytatod?</translation>
     </message>
     <message>
         <source>Latitude/Longitude/Altitude: </source>
-        <translation type="unfinished"/>
+        <translation>Szélesség/Hosszúság/Magasság:</translation>
     </message>
     <message>
         <source>
 Bearing: </source>
-        <translation type="unfinished"/>
+        <translation>
+Irány:</translation>
     </message>
     <message>
         <source>
 Error: </source>
-        <translation type="unfinished"/>
+        <translation>
+Hiba:</translation>
     </message>
     <message>
         <source>
 Datum: </source>
-        <translation type="unfinished"/>
+        <translation>
+Dátum:</translation>
     </message>
     <message>
         <source>
 Country: </source>
-        <translation type="unfinished"/>
+        <translation>
+Ország:</translation>
     </message>
     <message>
         <source>
 Postalcode: </source>
-        <translation type="unfinished"/>
+        <translation>
+Irányítószám:</translation>
     </message>
     <message>
         <source>
 Region: </source>
-        <translation type="unfinished"/>
+        <translation>
+Régió:</translation>
     </message>
     <message>
         <source>
 Locality: </source>
-        <translation type="unfinished"/>
+        <translation>
+Elhelyezkedés:</translation>
     </message>
     <message>
         <source>
 Area: </source>
-        <translation type="unfinished"/>
+        <translation>
+Körzet:</translation>
     </message>
     <message>
         <source>
 Street: </source>
-        <translation type="unfinished"/>
+        <translation>
+Utca:</translation>
     </message>
     <message>
         <source>
 Floor: </source>
-        <translation type="unfinished"/>
+        <translation>
+Emelet:</translation>
     </message>
     <message>
         <source>
 Room: </source>
-        <translation type="unfinished"/>
+        <translation>
+Szoba:</translation>
     </message>
     <message>
         <source>
 Description: </source>
-        <translation type="unfinished"/>
+        <translation>
+Leírás:</translation>
     </message>
     <message>
         <source>Warning: %1 is deprecated and will be removed in the future</source>
@@ -14129,15 +14141,15 @@ Description: </source>
     </message>
     <message>
         <source>Please set a shortcut for &apos;Change to quick command mode&apos;, use that shortcut and enter &apos;%1&apos;.</source>
-        <translation>Kérlek állíts be egy billentyűzetkombinációt a gyorsparancs módba váltáshoz, használd, majd írd be hogy &apos;%1&apos;.</translation>
+        <translation>Kérlek állíts be egy billentyűzetkombinációt a gyorsparancsmódba váltáshoz, használd, majd írd be, hogy &apos;%1&apos;.</translation>
     </message>
     <message>
         <source>Please instead press %1 and enter &apos;%2&apos;.</source>
-        <translation>Kérlek e helyett nyomd le a &apos;%1&apos; gombot, majd írd be hogy &apos;%2&apos;.</translation>
+        <translation>Kérlek ehelyett nyomd le a &apos;%1&apos; gombot, majd írd be hogy &apos;%2&apos;.</translation>
     </message>
     <message>
         <source>%1 is now %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 jelenleg %2</translation>
     </message>
     <message>
         <source>Afraid</source>
@@ -14149,11 +14161,11 @@ Description: </source>
     </message>
     <message>
         <source>Angry</source>
-        <translation>Dühös</translation>
+        <translation>Mérges</translation>
     </message>
     <message>
         <source>Amorous</source>
-        <translation type="unfinished"/>
+        <translation>Szerelmes</translation>
     </message>
     <message>
         <source>Annoyed</source>
@@ -14185,7 +14197,7 @@ Description: </source>
     </message>
     <message>
         <source>Cautious</source>
-        <translation type="unfinished"/>
+        <translation>Óvatos</translation>
     </message>
     <message>
         <source>Cold</source>
@@ -14193,7 +14205,7 @@ Description: </source>
     </message>
     <message>
         <source>Confident</source>
-        <translation type="unfinished"/>
+        <translation>Magabiztos</translation>
     </message>
     <message>
         <source>Confused</source>
@@ -14201,7 +14213,7 @@ Description: </source>
     </message>
     <message>
         <source>Contemplative</source>
-        <translation type="unfinished"/>
+        <translation>Elmélkedő</translation>
     </message>
     <message>
         <source>Contented</source>
@@ -14213,11 +14225,11 @@ Description: </source>
     </message>
     <message>
         <source>Crazy</source>
-        <translation type="unfinished"/>
+        <translation>Őrült</translation>
     </message>
     <message>
         <source>Creative</source>
-        <translation type="unfinished"/>
+        <translation>Kreatív</translation>
     </message>
     <message>
         <source>Curious</source>
@@ -14225,7 +14237,7 @@ Description: </source>
     </message>
     <message>
         <source>Dejected</source>
-        <translation type="unfinished"/>
+        <translation>Kedvetlen</translation>
     </message>
     <message>
         <source>Depressed</source>
@@ -14237,11 +14249,11 @@ Description: </source>
     </message>
     <message>
         <source>Disgusted</source>
-        <translation>Felháborodott</translation>
+        <translation>Utálatos</translation>
     </message>
     <message>
         <source>Dismayed</source>
-        <translation type="unfinished"/>
+        <translation>Rémült</translation>
     </message>
     <message>
         <source>Distracted</source>
@@ -14253,7 +14265,7 @@ Description: </source>
     </message>
     <message>
         <source>Envious</source>
-        <translation type="unfinished"/>
+        <translation>Irigy</translation>
     </message>
     <message>
         <source>Excited</source>
@@ -14281,7 +14293,7 @@ Description: </source>
     </message>
     <message>
         <source>Hopeful</source>
-        <translation type="unfinished"/>
+        <translation>Bizakodó</translation>
     </message>
     <message>
         <source>Hot</source>
@@ -14289,7 +14301,7 @@ Description: </source>
     </message>
     <message>
         <source>Humbled</source>
-        <translation>Őszinte</translation>
+        <translation>Szerény</translation>
     </message>
     <message>
         <source>Humiliated</source>
@@ -14317,7 +14329,7 @@ Description: </source>
     </message>
     <message>
         <source>Indignant</source>
-        <translation>Méltatlankodó</translation>
+        <translation>Dühös</translation>
     </message>
     <message>
         <source>Interested</source>
@@ -14325,7 +14337,7 @@ Description: </source>
     </message>
     <message>
         <source>Intoxicated</source>
-        <translation>Totáljólvangecy</translation>
+        <translation>Részeg</translation>
     </message>
     <message>
         <source>Invincible</source>
@@ -14333,7 +14345,7 @@ Description: </source>
     </message>
     <message>
         <source>Jealous</source>
-        <translation>Irigy</translation>
+        <translation>Féltékeny</translation>
     </message>
     <message>
         <source>Lonely</source>
@@ -14341,7 +14353,7 @@ Description: </source>
     </message>
     <message>
         <source>Lucky</source>
-        <translation type="unfinished"/>
+        <translation>Szerencsés</translation>
     </message>
     <message>
         <source>Mean</source>
@@ -14349,7 +14361,7 @@ Description: </source>
     </message>
     <message>
         <source>Moody</source>
-        <translation>Kedvetlen</translation>
+        <translation>Rosszkedvű</translation>
     </message>
     <message>
         <source>Nervous</source>
@@ -14361,11 +14373,11 @@ Description: </source>
     </message>
     <message>
         <source>Offended</source>
-        <translation>Megbántott</translation>
+        <translation>Megsértett</translation>
     </message>
     <message>
         <source>Outraged</source>
-        <translation type="unfinished"/>
+        <translation>Felháborodott</translation>
     </message>
     <message>
         <source>Playful</source>
@@ -14377,15 +14389,15 @@ Description: </source>
     </message>
     <message>
         <source>Relaxed</source>
-        <translation type="unfinished"/>
+        <translation>Kipihent</translation>
     </message>
     <message>
         <source>Relieved</source>
-        <translation>Elégedett</translation>
+        <translation>Megkönnyebbült</translation>
     </message>
     <message>
         <source>Remorseful</source>
-        <translation>Kegyelmes</translation>
+        <translation>Bűntudatos</translation>
     </message>
     <message>
         <source>Restless</source>
@@ -14421,7 +14433,7 @@ Description: </source>
     </message>
     <message>
         <source>Spontaneous</source>
-        <translation type="unfinished"/>
+        <translation>Rögtönző</translation>
     </message>
     <message>
         <source>Stressed</source>
@@ -14429,7 +14441,7 @@ Description: </source>
     </message>
     <message>
         <source>Strong</source>
-        <translation type="unfinished"/>
+        <translation>Erős</translation>
     </message>
     <message>
         <source>Surprised</source>
@@ -14437,7 +14449,7 @@ Description: </source>
     </message>
     <message>
         <source>Thankful</source>
-        <translation type="unfinished"/>
+        <translation>Hálás</translation>
     </message>
     <message>
         <source>Thirsty</source>
@@ -14445,15 +14457,15 @@ Description: </source>
     </message>
     <message>
         <source>Tired</source>
-        <translation type="unfinished"/>
+        <translation>Fáradt</translation>
     </message>
     <message>
         <source>Else</source>
-        <translation type="unfinished"/>
+        <translation>Valami más</translation>
     </message>
     <message>
         <source>Weak</source>
-        <translation type="unfinished"/>
+        <translation>Gyenge</translation>
     </message>
     <message>
         <source>Worried</source>
@@ -14517,7 +14529,7 @@ Description: </source>
     </message>
     <message>
         <source>unaffiliated</source>
-        <translation>elzárkózott</translation>
+        <translation>független</translation>
     </message>
     <message>
         <source>&lt;unnamed%1&gt;</source>
@@ -14525,11 +14537,11 @@ Description: </source>
     </message>
     <message>
         <source>Invalid passphrase</source>
-        <translation>Nem megfelelő jelszó</translation>
+        <translation>Érvénytelen jelszó</translation>
     </message>
     <message>
         <source>Invalid input format</source>
-        <translation>Nem megfelelő formázás</translation>
+        <translation>Érvénytelen beviteli formátum</translation>
     </message>
     <message>
         <source>Signing key expired</source>
@@ -14537,7 +14549,7 @@ Description: </source>
     </message>
     <message>
         <source>Invalid key</source>
-        <translation>Nem megfelelő kulcs</translation>
+        <translation>Érvénytelen kulcs</translation>
     </message>
     <message>
         <source>Encrypting key expired</source>
@@ -14549,11 +14561,11 @@ Description: </source>
     </message>
     <message>
         <source>Encrypting key is invalid</source>
-        <translation>A titkosító kulcs nem megfelelő</translation>
+        <translation>Érvénytelen titkosító kulcs</translation>
     </message>
     <message>
         <source>PGP card is missing</source>
-        <translation>PGP kártya hiánya</translation>
+        <translation>PGP-kártya hiányzik</translation>
     </message>
     <message>
         <source>Unknown error</source>
@@ -14561,11 +14573,11 @@ Description: </source>
     </message>
     <message>
         <source>Socket Error</source>
-        <translation>Socket hiba</translation>
+        <translation>Sockethiba</translation>
     </message>
     <message>
         <source>Cannot create a server socket!</source>
-        <translation>Nem sikerült a szerver socket létrehozása!</translation>
+        <translation>Nem sikerült a szerversocket létrehozása!</translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
@@ -14585,77 +14597,79 @@ Description: </source>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Figyelmeztetés</translation>
     </message>
     <message>
         <source>Cannot write to file %1:
 %2.</source>
-        <translation type="unfinished"/>
+        <translation>Ez a fájl nem írható %1:
+%2.</translation>
     </message>
     <message>
         <source>Recommended by @%1</source>
-        <translation type="unfinished"/>
+        <translation>Ajánlva: @%1</translation>
     </message>
     <message>
         <source>Reply posted.</source>
-        <translation type="unfinished"/>
+        <translation>Válasz közzétéve.</translation>
     </message>
     <message>
         <source>New message posted.</source>
-        <translation type="unfinished"/>
+        <translation>Új üzenet közzétéve.</translation>
     </message>
     <message>
         <source> recommended your post </source>
-        <translation type="unfinished"/>
+        <translation>ajánlotta a közzétételed</translation>
     </message>
     <message>
         <source>Show all messages</source>
-        <translation type="unfinished"/>
+        <translation>Összes üzenet megjelenítése</translation>
     </message>
     <message>
         <source>Reply</source>
-        <translation type="unfinished"/>
+        <translation>Válasz</translation>
     </message>
     <message>
         <source>Show %1&apos;s info and last 10 messages</source>
-        <translation type="unfinished"/>
+        <translation>%1 adatai és az utolsó 10 üzenetének megjelenítése</translation>
     </message>
     <message>
         <source>Subscribe</source>
-        <translation type="unfinished"/>
+        <translation>Feliratkozás</translation>
     </message>
     <message>
         <source>Show last 10 messages with tag %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 címkével lévő utolsó 10 üzenet megjelenítése</translation>
     </message>
     <message>
         <source>Unsubscribe</source>
-        <translation type="unfinished"/>
+        <translation>Leiratkozás</translation>
     </message>
     <message>
         <source>Encrypting message to %1 failed.
 The message was not sent.</source>
-        <translation type="unfinished"/>
+        <translation>Titkosított üzenet küldése ide: %1 sikertelen.
+Az üzenet nem lett elküldve.</translation>
     </message>
     <message>
         <source>plaintext</source>
-        <translation type="unfinished"/>
+        <translation>nyers szöveg</translation>
     </message>
     <message>
         <source>encrypted</source>
-        <translation type="unfinished"/>
+        <translation>titkosított</translation>
     </message>
     <message>
         <source>finished</source>
-        <translation type="unfinished"/>
+        <translation>befejezve</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"/>
+        <translation>ismeretlen</translation>
     </message>
     <message>
         <source>Psi OTR</source>
-        <translation type="unfinished"/>
+        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>Generating keys for account &quot;%1&quot;.
@@ -14678,40 +14692,42 @@ This may take a while.</source>
     <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
 The OTR Plugin will not work.</source>
-        <translation type="unfinished"/>
+        <translation>Sikertelen kulcsgenerálás ehhez a fiókhoz: &quot;%1&quot;.
+Az OTR-kiegészítő nem fog működni.</translation>
     </message>
     <message>
         <source>&lt;b&gt;The following message received from %1 was &lt;i&gt;not&lt;/i&gt; encrypted:&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;A következő üzenet innen: %1 &lt;i&gt;nem volt&lt;/i&gt; titkosítva:&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Your message was not sent. Either end your private conversation, or restart it.</source>
-        <translation type="unfinished"/>
+        <translation>Az üzeneted nem lett elküldve. Fejezd be a privát beszélgetést, vagy indítsd újra.</translation>
     </message>
     <message>
         <source>Unreadable encrypted message was received.</source>
-        <translation type="unfinished"/>
+        <translation>Olvashatatlan titkosított üzenet érkezett.</translation>
     </message>
     <message>
         <source>Received an encrypted message but it cannot be read because no private connection is established yet.</source>
-        <translation type="unfinished"/>
+        <translation>Titkosított üzenet érkezett, de olvashatatlan, mert még nem lett privát kapcsolat létrehozva.</translation>
     </message>
     <message>
         <source>Received message is unreadable.</source>
-        <translation type="unfinished"/>
+        <translation>A bejövő üzenet olvashatatlan.</translation>
     </message>
     <message>
         <source>Received message contains malformed data.</source>
-        <translation type="unfinished"/>
+        <translation>A bejövő üzenet deformált adatot tartalmaz.</translation>
     </message>
     <message>
         <source>You have received a new fingerprint from %1:
 %2</source>
-        <translation type="unfinished"/>
+        <translation>Új ujjlenyomat érkezett innen: %1:
+%2</translation>
     </message>
     <message>
         <source>All Tags</source>
-        <translation type="unfinished"/>
+        <translation>Minden címke</translation>
     </message>
     <message>
         <source>Name: %1
@@ -14719,15 +14735,19 @@ Size: %2
 Date prolongate: %3
 URL: %4
 Password: %5</source>
-        <translation type="unfinished"/>
+        <translation>Név: %1
+Méret: %2
+Bevezetés dátuma: %3
+URL: %4
+Jelszó: %5</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Igen</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Nem</translation>
     </message>
     <message>
         <source>Status</source>
@@ -14735,15 +14755,15 @@ Password: %5</source>
     </message>
     <message>
         <source>Headline</source>
-        <translation type="unfinished"/>
+        <translation>Főcím</translation>
     </message>
     <message>
         <source>Chat Message</source>
-        <translation type="unfinished"/>
+        <translation>Chatüzenet</translation>
     </message>
     <message>
         <source>Groupchat Message</source>
-        <translation type="unfinished"/>
+        <translation>Csoportüzenet</translation>
     </message>
     <message>
         <source>Error</source>
@@ -14751,11 +14771,11 @@ Password: %5</source>
     </message>
     <message>
         <source>There was an error changing the list.</source>
-        <translation>Hiba történt a lista változtatása közben.</translation>
+        <translation>Hiba a lista változtatása közben.</translation>
     </message>
     <message>
         <source>There was an error processing your request.</source>
-        <translation>Valami hiba akadt a kérés végrehajtása közben.</translation>
+        <translation>Hiba a kérés végrehajtása közben.</translation>
     </message>
     <message>
         <source>Deny</source>
@@ -14811,7 +14831,7 @@ Password: %5</source>
     </message>
     <message>
         <source> is typing...</source>
-        <translation type="unfinished"/>
+        <translation>éppen ír...</translation>
     </message>
     <message>
         <source>%1 says:</source>
@@ -14819,19 +14839,19 @@ Password: %5</source>
     </message>
     <message>
         <source>Headline from %1</source>
-        <translation type="unfinished"/>
+        <translation>Főcím innen: %1</translation>
     </message>
     <message>
         <source>Incoming file from %1</source>
-        <translation type="unfinished"/>
+        <translation>Bejövő fájl innen: %1</translation>
     </message>
     <message>
         <source>Incoming call from %1</source>
-        <translation type="unfinished"/>
+        <translation>Bejövő hívás innen: %1</translation>
     </message>
     <message>
         <source>Contact becomes Available</source>
-        <translation>Az ismerős elérhetővé vált</translation>
+        <translation>Partner elérhető lett</translation>
     </message>
     <message>
         <source>Contact becomes Unavailable</source>
@@ -14839,7 +14859,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Contact changes Status</source>
-        <translation>Partner a listáról megváltoztatja az állapotát</translation>
+        <translation>Partner állapotot változtat</translation>
     </message>
     <message>
         <source>Incoming Message</source>
@@ -14855,27 +14875,27 @@ Password: %5</source>
     </message>
     <message>
         <source>Typing notify</source>
-        <translation type="unfinished"/>
+        <translation>Gépelési értesítés</translation>
     </message>
     <message>
         <source>Groupchat highlight</source>
-        <translation type="unfinished"/>
+        <translation>Csoportbeszélgetés-esemény</translation>
     </message>
     <message>
         <source>Incoming Call</source>
-        <translation type="unfinished"/>
+        <translation>Bejövő hívás</translation>
     </message>
     <message>
         <source>[Typing notify]</source>
-        <translation type="unfinished"/>
+        <translation>[Gépelési értesítés]</translation>
     </message>
     <message>
         <source>[Incoming Message]</source>
-        <translation type="unfinished"/>
+        <translation>[Bejövő üzenet]</translation>
     </message>
     <message>
         <source>[Incoming Headline]</source>
-        <translation type="unfinished"/>
+        <translation>[Bejövő főcím]</translation>
     </message>
     <message>
         <source>[Incoming File]</source>
@@ -14883,15 +14903,15 @@ Password: %5</source>
     </message>
     <message>
         <source>[Groupchat highlight]</source>
-        <translation type="unfinished"/>
+        <translation>[Csoportbeszélgetés-esemény]</translation>
     </message>
     <message>
         <source>[Incoming Call]</source>
-        <translation type="unfinished"/>
+        <translation>[Bejövő hívás]</translation>
     </message>
     <message>
         <source>Contact online</source>
-        <translation type="unfinished"/>
+        <translation>Partner elérhető</translation>
     </message>
     <message>
         <source>Contact offline</source>
@@ -14899,23 +14919,23 @@ Password: %5</source>
     </message>
     <message>
         <source>Status change</source>
-        <translation type="unfinished"/>
+        <translation>Állapot váltása</translation>
     </message>
     <message>
         <source>Incoming message</source>
-        <translation type="unfinished"/>
+        <translation>Bejövő üzenet</translation>
     </message>
     <message>
         <source>Incoming chat message</source>
-        <translation type="unfinished"/>
+        <translation>Bejövő chatüzenet</translation>
     </message>
     <message>
         <source>Incoming file</source>
-        <translation type="unfinished"/>
+        <translation>Bejövő fájl</translation>
     </message>
     <message>
         <source>Incoming call</source>
-        <translation type="unfinished"/>
+        <translation>Bejövő hívás</translation>
     </message>
     <message>
         <source>Set Status</source>
@@ -14947,7 +14967,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Forward Messages</source>
-        <translation>Üzenet továbbítás</translation>
+        <translation>Üzenetek továbbítása</translation>
     </message>
     <message>
         <source>Forwarded %1 messages</source>
@@ -14971,7 +14991,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Auto-authorize contacts</source>
-        <translation>Felkérések automatikus elfogadása</translation>
+        <translation>Jóváhagyások automatikus elfogadása</translation>
     </message>
     <message>
         <source>Auto-open new messages</source>
@@ -14979,11 +14999,11 @@ Password: %5</source>
     </message>
     <message>
         <source>Leave All Conferences</source>
-        <translation type="unfinished"/>
+        <translation>Minden konferencia elhagyása</translation>
     </message>
     <message>
         <source>Unnamed</source>
-        <translation type="unfinished"/>
+        <translation>Névtelen</translation>
     </message>
     <message>
         <source>Subscription</source>
@@ -14999,7 +15019,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Activity</source>
-        <translation type="unfinished"/>
+        <translation>Tevékenység</translation>
     </message>
     <message>
         <source>Listening to</source>
@@ -15023,7 +15043,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"/>
+        <translation>Idő</translation>
     </message>
     <message>
         <source>Role: %1</source>
@@ -15039,7 +15059,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Status Message</source>
-        <translation>Állapot üzenet</translation>
+        <translation>Állapotüzenet</translation>
     </message>
     <message>
         <source>Last Available</source>
@@ -15051,36 +15071,41 @@ Password: %5</source>
     </message>
     <message>
         <source>Last Status Message</source>
-        <translation>Utolsó állapot leírás</translation>
+        <translation>Utolsó állapotüzenet</translation>
     </message>
     <message>
         <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
 
 Do you want to generate keys now?</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; fiókhoz privát kulcsot kell létrehozni. Ez eltart egy darabig (néhány másodperctől akár percekig is) és használható közben a Psi is, DE minden elküldött üzenet titkosítatlan lesz, amíg a kulcs el nem készül. Értesítés jelenik meg a kulcs elkészültekor.
+
+Kulcs létrehozása most?</translation>
     </message>
     <message>
         <source>Keys have been generated. Fingerprint for account &quot;%1&quot;:
 %2
 
 Thanks for your patience.</source>
-        <translation type="unfinished"/>
+        <translation>Kulcs létrehozva. A fiók ujjlenyomata: &quot;%1&quot;
+%2
+
+Türelmét köszönjük.</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished"/>
+        <translation>Soha</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation type="unfinished"/>
+        <translation>Mindig</translation>
     </message>
     <message>
         <source>This computer only</source>
-        <translation type="unfinished"/>
+        <translation>Csak ez a számítógép</translation>
     </message>
     <message>
         <source>Except this computer</source>
-        <translation type="unfinished"/>
+        <translation>Kivéve ez a számítógép</translation>
     </message>
 </context>
 <context>
@@ -15095,26 +15120,26 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
-        <translation type="unfinished"/>
+        <translation>Ez a kiegészítő az &apos;x-állapotok&apos; megjelenítésére lett tervezve, a QIP jabberklienst használó partnerek miatt.</translation>
     </message>
 </context>
 <context>
     <name>Redirector</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Szerző: </translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
-        <translation type="unfinished"/>
+        <translation>Minden üzenet továbbítása egy megadott JID-re, oda-vissza.</translation>
     </message>
 </context>
 <context>
@@ -15125,11 +15150,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>&amp;Register</source>
-        <translation>&amp;Regisztrál</translation>
+        <translation>&amp;Regisztrálás</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Bezár</translation>
+        <translation>&amp;Bezárás</translation>
     </message>
     <message>
         <source>Busy</source>
@@ -15137,7 +15162,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>&lt;qt&gt;Registration has already been submitted, so closing this window will not prevent the registration from happening.  Do you still wish to close?&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;A regisztráció már el lett küldve, szóval ennek az ablaknak a bezárása nem akadályozza meg a regisztrálást. Biztosan bezárod?&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;A regisztráció már el lett küldve, szóval ennek az ablaknak a bezárása nem akadályozza meg a regisztrálást. Mégis bezárja?&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -15149,19 +15174,19 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Fetching registration form for %1 ...</source>
-        <translation>Regisztrációs lap lekérdezése %1 -hez...</translation>
+        <translation>Regisztrációs lap lekérdezése ehhez: %1</translation>
     </message>
     <message>
         <source>&lt;b&gt;Registration for &quot;%1&quot;:&lt;/b&gt;&lt;br&gt;&lt;br&gt;</source>
-        <translation>&lt;b&gt;Regisztráció &quot;%1&quot;-hez:&lt;/b&gt;&lt;br&gt;&lt;br&gt;</translation>
+        <translation>&lt;b&gt;Regisztráció ide: &quot;%1&quot;:&lt;/b&gt;&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation>Siker</translation>
+        <translation>Sikeres</translation>
     </message>
     <message>
         <source>Registration successful.</source>
-        <translation>Regisztráció sikeres.</translation>
+        <translation>Sikeres regisztráció.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -15185,7 +15210,8 @@ Oka: %1</translation>
     <message>
         <source>celebrates birthday today!
 </source>
-        <translation type="unfinished"/>
+        <translation>Ma ünnepli a születésnapját!
+</translation>
     </message>
     <message numerus="yes">
         <source>celebrates birthday in %n day(s)
@@ -15195,19 +15221,20 @@ Oka: %1</translation>
     <message>
         <source>celebrates birthday yesterday.
 </source>
-        <translation type="unfinished"/>
+        <translation>Tegnap ünnepelte a születésnapját.
+</translation>
     </message>
     <message>
         <source>Birthday Reminder</source>
-        <translation type="unfinished"/>
+        <translation>Születésnapi emlékeztető</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"/>
+        <translation>Hangfájl kiválasztása</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"/>
+        <translation>Hangfájl (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
@@ -15215,12 +15242,13 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>E-mail: </translation>
     </message>
     <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
 The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
-        <translation type="unfinished"/>
+        <translation>Ez a kiegészítő a születésnapok emlékeztetésére lett létrehozva.
+Az első alkalomkor, amikor telepítve lesz ez a kiegészítő, be kell jelentkezni az összes fiókba, majd a kiegészítő beállításainál rákattintani a &quot;Születésnapok frissítése&quot; gombra. A kiegészítő ezután összegyűjti a születésnapokról szóló információkat a címlistában lévő partnerekről, de ha a &apos;vCard-ok használata&apos;-opció már használatban van, akkor a partnerekről tárolt vCard-ok lesznek használva, amik a merevlemezen találhatóak.</translation>
     </message>
 </context>
 <context>
@@ -15235,7 +15263,7 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Mégse</translation>
+        <translation>Mégsem</translation>
     </message>
 </context>
 <context>
@@ -15253,210 +15281,210 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
     <message>
         <source>Auto-join</source>
-        <translation>Automatikus bekapcsolódás</translation>
+        <translation>Automatikus csatlakozás</translation>
     </message>
 </context>
 <context>
     <name>RosterAvatarFrame</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Űrlap</translation>
     </message>
     <message>
         <source>Nick</source>
-        <translation type="unfinished"/>
+        <translation>Becenév</translation>
     </message>
     <message>
         <source>Set Mood for all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Hangulat beállítása minden aktív fiókhoz</translation>
     </message>
     <message>
         <source>Set Activity for all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Tevékenység beállítása minden aktív fiókhoz</translation>
     </message>
     <message>
         <source>Set Status for all active accounts</source>
-        <translation type="unfinished"/>
+        <translation>Állapot beállítása minden aktív fiókhoz</translation>
     </message>
     <message>
         <source>Status Message</source>
-        <translation type="unfinished"/>
+        <translation>Állapotüzenet</translation>
     </message>
 </context>
 <context>
     <name>RosterExchangeEvent</name>
     <message>
         <source>This user wants to modify your roster.</source>
-        <translation>A felhasználó módosítani kívánja a névjegyzékedet.</translation>
+        <translation>Ez a felhasználó módosítani kívánja a címlistádat.</translation>
     </message>
 </context>
 <context>
     <name>Screenshot</name>
     <message>
         <source>Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Pillanatkép</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Másolás a vágólapra</translation>
     </message>
     <message>
         <source>Cancel uploading</source>
-        <translation type="unfinished"/>
+        <translation>Feltöltés megszakítása</translation>
     </message>
     <message>
         <source>Upload to server:</source>
-        <translation type="unfinished"/>
+        <translation>Feltöltés a szerverre:</translation>
     </message>
     <message>
         <source>Upload Screenshot to selected server</source>
-        <translation type="unfinished"/>
+        <translation>Pillanatkép feltöltése a kiválasztott szerverre</translation>
     </message>
     <message>
         <source>Save Screenshot to Local Drive</source>
-        <translation type="unfinished"/>
+        <translation>Pillanatkép mentése a helyi meghajtóra</translation>
     </message>
     <message>
         <source>Print Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Pillanatkép nyomtatása</translation>
     </message>
     <message>
         <source>Open image from Local Drive</source>
-        <translation type="unfinished"/>
+        <translation>Kép megnyitása helyi meghajtóról</translation>
     </message>
     <message>
         <source>New Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Új pillanatkép</translation>
     </message>
     <message>
         <source>toolBar</source>
-        <translation type="unfinished"/>
+        <translation>Eszköztár</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>Fájl</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Beállítások</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Súgó</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Megnyitás</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Mentés</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Nyomtatás</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"/>
+        <translation>Kilépés</translation>
     </message>
     <message>
         <source>Proxy Settings</source>
-        <translation type="unfinished"/>
+        <translation>Proxy beállítások</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Beállítások</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished"/>
+        <translation>Előzmények</translation>
     </message>
     <message>
         <source>About Qt</source>
-        <translation type="unfinished"/>
+        <translation>Qt névjegye</translation>
     </message>
     <message>
         <source>Home page</source>
-        <translation type="unfinished"/>
+        <translation>Kezdőlap</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished"/>
+        <translation>Feltöltés</translation>
     </message>
     <message>
         <source>Size: %1x%2px; %3 bytes</source>
-        <translation type="unfinished"/>
+        <translation>Méret: %1x%2px; %3 byte</translation>
     </message>
     <message>
         <source>Open Image</source>
-        <translation type="unfinished"/>
+        <translation>Kép megnyitása</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg *.ico)</source>
-        <translation type="unfinished"/>
+        <translation>Képek (*.png *.gif *.jpg *.jpeg *.ico)</translation>
     </message>
     <message>
         <source>/%1.</source>
-        <translation type="unfinished"/>
+        <translation>/%1.</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"/>
+        <translation>Mentés másként</translation>
     </message>
     <message>
         <source>%1 Files (*.%2);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>%1 Fájlok (*.%2);;Minden fájl (*)</translation>
     </message>
     <message>
         <source>%1.</source>
-        <translation type="unfinished"/>
+        <translation>%1.</translation>
     </message>
     <message>
         <source>Can&apos;t parse URL (Reply URL: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</source>
-        <translation type="unfinished"/>
+        <translation>Értelmezhetetlen URL (Válasz URL: &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;)</translation>
     </message>
     <message>
         <source>Close Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Pillanatkép bezárása</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"/>
+        <translation>Biztos benne?</translation>
     </message>
 </context>
 <context>
     <name>ScreenshotOptions</name>
     <message>
         <source>New Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Új pillanatkép</translation>
     </message>
     <message>
         <source>Capture the desktop</source>
-        <translation type="unfinished"/>
+        <translation>Kép az asztalról</translation>
     </message>
     <message>
         <source>Capture current window</source>
-        <translation type="unfinished"/>
+        <translation>Kép a jelenlegi ablakról</translation>
     </message>
     <message>
         <source>Select capture area</source>
-        <translation type="unfinished"/>
+        <translation>Kép a kiválasztott területről</translation>
     </message>
     <message>
         <source>Capture after</source>
-        <translation type="unfinished"/>
+        <translation>Rögzítés ezután</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"/>
+        <translation>másodperc</translation>
     </message>
 </context>
 <context>
     <name>ScreenshotPlugin</name>
     <message>
         <source>Upload Image</source>
-        <translation type="unfinished"/>
+        <translation>Kép feltöltése</translation>
     </message>
     <message>
         <source>Authors: </source>
@@ -15469,13 +15497,20 @@ The plugin has the following settings:
 * Format -- the file format in which the screenshot will be stored (default: .jpg)
 * File Name -- format of the filename (default: pic-yyyyMMdd-hhmmss, where yyyyMMdd=YYYYMMDD, and hhmmss are current date in the format yearmonthday-hourminutesecond)
 The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</source>
-        <translation type="unfinished"/>
+        <translation>Ezzel a kiegészítővel pillanatképek készíthetőek, amik menthetőek a merevlemezre, de akár feltölthetőek egy FTP vagy egy HTTP szerverre.
+A kiegészítő a következő beállításokat tartalmazza:
+* Gyorsgomb -- pillanatkép készítése gyorsgombbal (alapértelmezett, Ctrl+Alt+P)
+* Formátum -- a fájl formátumának megadása (alapértelmezett: .jpg)
+* Fájlnév -- fájlnév formátuma (alapértelmezett: pic-yyyyMMdd-hhmmss, ahol yyyyMMdd=YYYYMMDD, és hhmmss, amik a jelenlegi évhónapnap-órapercmásodperc)
+Az FTP szerver címe: ftp://ftp.domain.tld/útvonal1/útvonal2</translation>
     </message>
     <message>
         <source>
 
 Settings for authorization on some hostings can be found here: http://code.google.com/p/qscreenshot/wiki/Authorization</source>
-        <translation type="unfinished"/>
+        <translation>
+
+Néhány kiszolgáló jóváhagyásának beállítása ezen a címen található: http://code.google.com/p/qscreenshot/wiki/Authorization</translation>
     </message>
 </context>
 <context>
@@ -15502,7 +15537,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation>&amp;Leállít</translation>
+        <translation>&amp;Leállítás</translation>
     </message>
     <message>
         <source>psi/stop</source>
@@ -15522,11 +15557,11 @@ Settings for authorization on some hostings can be found here: http://code.googl
     </message>
     <message>
         <source>E-Mail Address</source>
-        <translation>E-Mail cím</translation>
+        <translation>E-mail cím</translation>
     </message>
     <message>
         <source>XMPP Address</source>
-        <translation type="unfinished"/>
+        <translation>XMPP cím</translation>
     </message>
     <message>
         <source>&amp;Add Contact</source>
@@ -15538,7 +15573,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation>Felhasználói &amp;adatok</translation>
+        <translation>Felhasználó &amp;adatai</translation>
     </message>
     <message>
         <source>psi/vCard</source>
@@ -15553,7 +15588,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
     <name>SearchDlg</name>
     <message>
         <source>&lt;qt&gt;Fetching search form for %1 ...&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;Keresés lekérdezése %1ről...&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;Keresőlap lekérdezése ehhez: %1&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Search Results</source>
@@ -15620,101 +15655,101 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Mégse</translation>
+        <translation>Mégsem</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesEditor</name>
     <message>
         <source>Template editor</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Mintaszerkesztő</translation>
     </message>
     <message>
         <source>Templates</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Minták</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Hozzáadás</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Szerkesztés</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Eltávolítás</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Rendben</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Mégsem</translation>
     </message>
     <message>
         <source>Add template string</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Mintaelemek hozzáadása</translation>
     </message>
     <message>
         <source>Add template string as submenu</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Mintaelemek hozzáadása almenüként</translation>
     </message>
     <message>
         <source>Add separator</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Elválasztó hozzáadása</translation>
     </message>
     <message>
         <source>Add separator as submenu</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Elválasztó hozzáadása almenüként</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Fel</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Le</translation>
     </message>
     <message>
         <source>&lt;separator&gt;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&lt;elválasztó&gt;</translation>
     </message>
     <message>
         <source>Edit template</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Minta szerkesztése</translation>
     </message>
     <message>
         <source>Input new template text</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Új mintaszöveg megadása</translation>
     </message>
     <message>
         <source>Save templates</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Minták mentése</translation>
     </message>
     <message>
         <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&quot;%1&quot; minta nem lett mentve!</translation>
     </message>
     <message>
         <source>Continue?</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Folytatás?</translation>
     </message>
 </context>
 <context>
     <name>SendButtonTemplatesMenu</name>
     <message>
         <source>Paste and &amp;Send</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Beillesztés és &amp;küldés</translation>
     </message>
     <message>
         <source>&amp;Edit Templates</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Minták &amp;szerkesztése</translation>
     </message>
     <message>
         <source>Only &amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Csak &amp;beillesztés</translation>
     </message>
 </context>
 <context>
@@ -15740,11 +15775,11 @@ Oka: %1</translation>
     </message>
     <message>
         <source>Invalid redirect URL %1</source>
-        <translation type="unfinished"/>
+        <translation>Érvénytelen átirányítási URL %1</translation>
     </message>
     <message>
         <source>Unexpected HTTP status code: %1</source>
-        <translation>Nem várt HTTP állapot: %1</translation>
+        <translation>Váratlan HTTP állapotkód: %1</translation>
     </message>
 </context>
 <context>
