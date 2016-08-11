@@ -17789,6 +17789,10 @@ Möchten Sie dennoch das Fenster schließen?</translation>
         <source>Add to roster</source>
         <translation>Zu Kontaktliste hinzufügen</translation>
     </message>
+    <message>
+        <source>Message Carbons</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>

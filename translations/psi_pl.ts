@@ -17604,6 +17604,10 @@ Czy nadal chcesz zamknąć tablicę?</translation>
         <source>Add to roster</source>
         <translation>Dodaj do listy kontaktów</translation>
     </message>
+    <message>
+        <source>Message Carbons</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>

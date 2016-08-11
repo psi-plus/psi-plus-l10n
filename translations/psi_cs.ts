@@ -17727,6 +17727,10 @@ Opravdu zavřít okno?</translation>
         <source>Add to roster</source>
         <translation>Přidat do seznamu</translation>
     </message>
+    <message>
+        <source>Message Carbons</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>

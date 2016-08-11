@@ -17663,6 +17663,10 @@ Do you still want to close the window?</source>
         <source>ERROR: Incorrect usage of Features class</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Message Carbons</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>

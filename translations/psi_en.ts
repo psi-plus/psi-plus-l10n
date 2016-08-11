@@ -17836,6 +17836,10 @@ Do you still want to close the window?</translation>
         <source>Add to roster</source>
         <translation>Add to roster</translation>
     </message>
+    <message>
+        <source>Message Carbons</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XMPP::JT_VCard</name>
