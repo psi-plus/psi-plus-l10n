@@ -17,7 +17,10 @@ Keywords=XMPP;Jabber;Chat;InstantMessaging;
 
 
 # Translations
-Comment[bg]=Комуникирайте през XMPP мрежата
-GenericName[bg]=XMPP Клиент
+
+
+# Translations
+Comment[bg]=Комуникирайте през мрежата на XMPP
+GenericName[bg]=Клиент за XMPP
 Name[bg]=Psi+
 Icon[bg]=psi-plus
