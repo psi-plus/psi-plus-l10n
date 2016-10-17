@@ -102,7 +102,7 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Past Lead Developer</source>
-        <translation type="unfinished"/>
+        <translation>Предишен Водещ Разработчик</translation>
     </message>
     <message>
         <source>Lead Widget Developer</source>
@@ -114,7 +114,7 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Active project members are presents below:</source>
-        <translation type="unfinished"/>
+        <translation>Текущите членове на екипа са представени по-долу:</translation>
     </message>
     <message>
         <source>Founder, Patcher and MS Windows Packager</source>
@@ -271,7 +271,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished"/>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>psi/addContact</source>
@@ -282,7 +282,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <name>AccountAddDlg</name>
     <message>
         <source>Check this option if you don&apos;t yet have an XMPP account and you want to register one.  Note that this will only work on servers that allow anonymous registration.</source>
-        <translation type="unfinished"/>
+        <translation>Изберете тази опция ако нямате все още XMPP акаунт и искате да регистрирате такъв. Имайте предвид, че това е възможно само само на сървъри, които позволяват анонимна регистрация.</translation>
     </message>
     <message>
         <source>Default</source>
@@ -308,7 +308,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <name>AccountManage</name>
     <message>
         <source>XMPP Accounts</source>
-        <translation type="unfinished"/>
+        <translation>XMPP Акаунти</translation>
     </message>
     <message>
         <source>Name</source>
@@ -370,7 +370,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     <name>AccountModify</name>
     <message>
         <source>Account Properties</source>
-        <translation type="unfinished"/>
+        <translation>Настройки на Акаунт</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -386,7 +386,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>XMPP Address:</source>
-        <translation type="unfinished"/>
+        <translation>XMPP Адрес:</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -402,23 +402,23 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Automatically connect on startup</source>
-        <translation type="unfinished"/>
+        <translation>Автоматично свързване при стартиране</translation>
     </message>
     <message>
         <source>Automatically connect after sleep</source>
-        <translation type="unfinished"/>
+        <translation>Автоматично свързване след спящ режим</translation>
     </message>
     <message>
         <source>Restore last status</source>
-        <translation type="unfinished"/>
+        <translation>Възстановяване на предишен статус</translation>
     </message>
     <message>
         <source>Automatically reconnect if disconnected</source>
-        <translation type="unfinished"/>
+        <translation>Автоматично свързване след разпадане на връзката</translation>
     </message>
     <message>
         <source>Log message history</source>
-        <translation type="unfinished"/>
+        <translation>Запис на история на съобщенията</translation>
     </message>
     <message>
         <source>Details</source>
@@ -426,11 +426,11 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Personal Information</source>
-        <translation type="unfinished"/>
+        <translation>Лични данни</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Information about you is stored as a VCard on the server, which other people can retrieve at any time.&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Данните за вас се съхраняват на сървъра като VCard, която другите хора по всяко време могат да получат.&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Edit Personal &amp;Details...</source>
@@ -458,7 +458,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Blocked Contacts</source>
-        <translation type="unfinished"/>
+        <translation>Блокирани Контатки</translation>
     </message>
     <message>
         <source>Add</source>
@@ -470,19 +470,19 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>You are using advanced settings. This list may not be accurate.</source>
-        <translation type="unfinished"/>
+        <translation>Вие използвате разширени настройки. Този лист може да не е верен.</translation>
     </message>
     <message>
         <source>Advanced ...</source>
-        <translation type="unfinished"/>
+        <translation>Разширени ...</translation>
     </message>
     <message>
         <source>Connection</source>
-        <translation type="unfinished"/>
+        <translation>Връзка</translation>
     </message>
     <message>
         <source>Connection proxy:</source>
-        <translation type="unfinished"/>
+        <translation>Посредник за свързване:</translation>
     </message>
     <message>
         <source>proxychooser</source>
@@ -490,15 +490,15 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Compress traffic (if possible)</source>
-        <translation type="unfinished"/>
+        <translation>Компресиране на трафика (ако е възможно)</translation>
     </message>
     <message>
         <source>Send &quot;keep-alive&quot; packets (to prevent timeouts)</source>
-        <translation type="unfinished"/>
+        <translation>Изпращане на &quot;keep-alive&quot; пакети (за избягване на закъснения)</translation>
     </message>
     <message>
         <source>Manually Specify Server Host/Port:</source>
-        <translation type="unfinished"/>
+        <translation>Ръчно Указване на Адрес/Порт на Сървъра:</translation>
     </message>
     <message>
         <source>Host:</source>
@@ -510,19 +510,19 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Encrypt connection:</source>
-        <translation type="unfinished"/>
+        <translation>Кодиране на връзката:</translation>
     </message>
     <message>
         <source>Allow plaintext authentication:</source>
-        <translation type="unfinished"/>
+        <translation>Позволяване на текстова идентификация:</translation>
     </message>
     <message>
         <source>Require mutual authentication</source>
-        <translation type="unfinished"/>
+        <translation>Изискване на взаимна идентификация</translation>
     </message>
     <message>
         <source>SASL Security Level:</source>
-        <translation type="unfinished"/>
+        <translation>SASL Ниво на Сигурност:</translation>
     </message>
     <message>
         <source>Misc.</source>
@@ -534,7 +534,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Default priority:</source>
-        <translation type="unfinished"/>
+        <translation>Приоритет по подразбиране:</translation>
     </message>
     <message>
         <source>Data Transfer</source>
@@ -558,33 +558,35 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Authenticate as:</source>
-        <translation type="unfinished"/>
+        <translation>Идентифициране като:</translation>
     </message>
     <message>
         <source>Realm:</source>
-        <translation type="unfinished"/>
+        <translation>Област:</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt;
 &lt;br/&gt;
 When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Внимание!&lt;/b&gt;
+&lt;br/&gt;
+Ако активирате тази опция, не ще можете да намерите вашата парола в конфигурационния файл. Само кодиран текст ще бъде там. По този начин ако забравите вашата парола, ще се в неприятна ситуация ако не сте направили резервно копие другаде.</translation>
     </message>
     <message>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
-        <translation type="unfinished"/>
+        <translation>Съхраняване на кодирана вместо текстова парола ако сървъра поддържа тава свойство.</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished"/>
+        <translation>Деактивиране</translation>
     </message>
     <message>
         <source>Enable Stream Management if possible</source>
-        <translation type="unfinished"/>
+        <translation>Активиране на Потоково Управление ако е възможно</translation>
     </message>
     <message>
         <source>Nested groups delimiter: </source>
-        <translation type="unfinished"/>
+        <translation>Разделител на вложени групи:</translation>
     </message>
 </context>
 <context>
@@ -607,7 +609,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Over encrypted connection</source>
-        <translation type="unfinished"/>
+        <translation>През кодирана връзка</translation>
     </message>
     <message>
         <source>Manual</source>
@@ -615,7 +617,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Use host name</source>
-        <translation type="unfinished"/>
+        <translation>Използване на хост име</translation>
     </message>
     <message>
         <source>Fixed</source>
@@ -627,11 +629,11 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Delete current host from the list</source>
-        <translation type="unfinished"/>
+        <translation>Изтриване на сегашния хост от списъка</translation>
     </message>
     <message>
         <source>&lt;don&apos;t use&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;не използвайте&gt;</translation>
     </message>
     <message>
         <source>None</source>
@@ -639,7 +641,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Integrity</source>
-        <translation type="unfinished"/>
+        <translation>Цялостност</translation>
     </message>
     <message>
         <source>Baseline</source>
@@ -755,34 +757,34 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Block contact</source>
-        <translation type="unfinished"/>
+        <translation>Блокиране на контакт</translation>
     </message>
     <message>
         <source>Enter the XMPP Address of the contact to block:</source>
-        <translation type="unfinished"/>
+        <translation>Въведете XMPP Адреса на контакта за блокиране:</translation>
     </message>
     <message>
         <source>Retrieving blocked contact list ...</source>
-        <translation type="unfinished"/>
+        <translation>Набавяне на списъка с блокираните контакти</translation>
     </message>
     <message>
         <source>You are not connected.</source>
-        <translation type="unfinished"/>
+        <translation>Вие не сте свързани.</translation>
     </message>
     <message>
         <source>Your server does not support blocking.</source>
-        <translation type="unfinished"/>
+        <translation>Вашия сървър не поддържа блокиране.</translation>
     </message>
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
-        <translation type="unfinished"/>
+        <translation>Активира Протокол за Потоково Управление ако е възможно. Това е полезно, ако имате нестабилна връзка. Вашия сървър трябва да поддържа тази опция. За да научите повече, разгледайте XEP-0184.</translation>
     </message>
 </context>
 <context>
     <name>AccountReg</name>
     <message>
         <source>Register Account</source>
-        <translation type="unfinished"/>
+        <translation>Регистриране на Акаунт</translation>
     </message>
     <message>
         <source>Server</source>
@@ -790,19 +792,19 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Please enter the name of the server you wish to register with:</source>
-        <translation type="unfinished"/>
+        <translation>Моля въведете името на сървъра, с който искате да се регистрирате:</translation>
     </message>
     <message>
         <source>Example: capulet.com</source>
-        <translation type="unfinished"/>
+        <translation>Пример: capulet.com</translation>
     </message>
     <message>
         <source>Connection settings</source>
-        <translation type="unfinished"/>
+        <translation>Настройки на свързването:</translation>
     </message>
     <message>
         <source>Manually Specify Server Host/Port:</source>
-        <translation type="unfinished"/>
+        <translation>Ръчно Указване на Адрес/Порт на Сървъра:</translation>
     </message>
     <message>
         <source>Host:</source>
@@ -814,7 +816,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Encrypt connection:</source>
-        <translation type="unfinished"/>
+        <translation>Кодиране на връзката:</translation>
     </message>
     <message>
         <source>Proxy:</source>
@@ -881,7 +883,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>There was an error retrieving the server list</source>
-        <translation type="unfinished"/>
+        <translation>Възникна грешка при придобиването на сървърния списък</translation>
     </message>
     <message>
         <source>Reason: </source>
@@ -889,15 +891,15 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>You have entered an invalid server name</source>
-        <translation type="unfinished"/>
+        <translation>Въвели сте невалидно име на сървър</translation>
     </message>
     <message>
         <source>Please provide the following information:</source>
-        <translation type="unfinished"/>
+        <translation>Моля въведете следната информация:</translation>
     </message>
     <message>
         <source>This server does not support registration</source>
-        <translation type="unfinished"/>
+        <translation>Този сървър не поддържа регистрация</translation>
     </message>
     <message>
         <source>Success</source>
@@ -905,7 +907,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>You have successfully registered your account with XMPP address &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Вие успешно регистрирахте вашия акаунт с XMPP адрес &apos;%1&apos;</translation>
     </message>
     <message>
         <source>There was an error registering the account.
@@ -922,11 +924,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Remove account from Psi only.</source>
-        <translation type="unfinished"/>
+        <translation>Изтриване на акаунт само от Psi.</translation>
     </message>
     <message>
         <source>Remove account and try to unregister it from the server.</source>
-        <translation type="unfinished"/>
+        <translation>Изтриване на акаунт и опит за изтриване от сървъра.</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -986,23 +988,23 @@ Reason: %1</source>
     <name>AccountStatusMenu</name>
     <message>
         <source>Choose status...</source>
-        <translation type="unfinished"/>
+        <translation>Избор на статус...</translation>
     </message>
     <message>
         <source>Choose...</source>
-        <translation type="unfinished"/>
+        <translation>Избор...</translation>
     </message>
     <message>
         <source>Reconnect</source>
-        <translation type="unfinished"/>
+        <translation>Повторно свързване</translation>
     </message>
     <message>
         <source>Ignore global actions</source>
-        <translation type="unfinished"/>
+        <translation>Игнориране на глобалните действия</translation>
     </message>
     <message>
         <source>Ignore all global actions for this account. For example, autostatus, mood, activity etc.</source>
-        <translation type="unfinished"/>
+        <translation>Игнориране на всички глобални действия за този акаунт. Например, автоматичен статус, настроение, деятелност и пр.</translation>
     </message>
 </context>
 <context>
@@ -1011,14 +1013,16 @@ Reason: %1</source>
         <source> Enable Off the Record Chat.
 When checked, the server will not
 save the history for this contact.</source>
-        <translation type="unfinished"/>
+        <translation>Активиране на Извън Протокола Чат
+Когато е избрано, сървърът не ще
+пази история за този контакт. </translation>
     </message>
 </context>
 <context>
     <name>ActiveProfiles</name>
     <message>
         <source>This psi profile is already running...&lt;br&gt;please wait...</source>
-        <translation type="unfinished"/>
+        <translation>Този psi профил вече се изпълнява... &lt;br&gt;моля изчакайте...</translation>
     </message>
 </context>
 <context>
@@ -1029,19 +1033,19 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>General:</source>
-        <translation type="unfinished"/>
+        <translation>Общи:</translation>
     </message>
     <message>
         <source>Specific:</source>
-        <translation type="unfinished"/>
+        <translation>Специфични:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Описание:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>ОК</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1052,81 +1056,81 @@ save the history for this contact.</source>
     <name>ActivityDlg</name>
     <message>
         <source>&lt;unset&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;незададено&gt;</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>Други</translation>
     </message>
 </context>
 <context>
     <name>AddKeyDlg</name>
     <message>
         <source>Generate a new key pair</source>
-        <translation type="unfinished"/>
+        <translation>Генериране на нова ключова двойка</translation>
     </message>
     <message>
         <source>Length: </source>
-        <translation type="unfinished"/>
+        <translation>Дължина:</translation>
     </message>
     <message>
         <source>Comment: </source>
-        <translation type="unfinished"/>
+        <translation>Коментар:</translation>
     </message>
     <message>
         <source>Expiration date: </source>
-        <translation type="unfinished"/>
+        <translation>Дата на изтичане:</translation>
     </message>
     <message>
         <source>RSA and RSA (default)</source>
-        <translation type="unfinished"/>
+        <translation>RSA и RSA (по подразбиране)</translation>
     </message>
     <message>
         <source>DSA and Elgamal</source>
-        <translation type="unfinished"/>
+        <translation>DSA и Elgamal</translation>
     </message>
     <message>
         <source>DSA (sign only)</source>
-        <translation type="unfinished"/>
+        <translation>DSA (подписване само)</translation>
     </message>
     <message>
         <source>RSA (sign only)</source>
-        <translation type="unfinished"/>
+        <translation>RSA (подписване само)</translation>
     </message>
     <message>
         <source>Full name: </source>
-        <translation type="unfinished"/>
+        <translation>Цяло име:</translation>
     </message>
     <message>
         <source>Passphrase: </source>
-        <translation type="unfinished"/>
+        <translation>Парола:</translation>
     </message>
     <message>
         <source>E-mail address: </source>
-        <translation type="unfinished"/>
+        <translation>E-mail адрес:</translation>
     </message>
     <message>
         <source>Key type: </source>
-        <translation type="unfinished"/>
+        <translation>Тип за ключа:</translation>
     </message>
     <message>
         <source>Repeat: </source>
-        <translation type="unfinished"/>
+        <translation>Повторение:</translation>
     </message>
 </context>
 <context>
     <name>AddUrl</name>
     <message>
         <source>Add URL</source>
-        <translation type="unfinished"/>
+        <translation>Добавяне на URL</translation>
     </message>
     <message>
         <source>URL:</source>
-        <translation type="unfinished"/>
+        <translation>URL:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Описание:</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -1138,14 +1142,14 @@ save the history for this contact.</source>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished"/>
+        <translation>Alt+O</translation>
     </message>
 </context>
 <context>
     <name>AddUser</name>
     <message>
         <source>Add Contact</source>
-        <translation type="unfinished"/>
+        <translation>Добавяне на Контакт</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -1157,11 +1161,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Service:</source>
-        <translation type="unfinished"/>
+        <translation>Услуга:</translation>
     </message>
     <message>
         <source>XMPP</source>
-        <translation type="unfinished"/>
+        <translation>XMPP</translation>
     </message>
     <message>
         <source>Service ID Translation</source>
