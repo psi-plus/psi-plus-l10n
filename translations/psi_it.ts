@@ -6407,6 +6407,109 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>HttpUploadPlugin</name>
+    <message>
+        <source>Image preview width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resize images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If width or height is bigger than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JPEG quality</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload Image</source>
+        <translation type="unfinished">Carica Immagine</translation>
+    </message>
+    <message>
+        <source>Upload File</source>
+        <translation type="unfinished">Carica File</translation>
+    </message>
+    <message>
+        <source>Please wait</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Another upload operation is already in progress. Please wait up to %1 sec for it to complete or fail.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not supported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Server for account %1 does not support HTTP Upload (XEP-363)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
+        <translation type="unfinished">Immagini (*.png *.gif *.jpg *.jpeg)</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Errore</translation>
+    </message>
+    <message>
+        <source>Error opening file %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file size is too large.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File size must be less than %1 bytes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished">Autori:</translation>
+    </message>
+    <message>
+        <source>This plugin allows uploading images and other files via XEP-0363.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error requesting slot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Either put or get URL is missing in the server&apos;s reply.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error uploading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No data to upload, this maybe a result of timeout or other error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload error code %1, message: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Timeout waiting for an upload slot</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>IconSelect</name>
     <message>
         <source>No icons available</source>
@@ -6732,6 +6835,50 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation>Questo plugin è progettato per inviare immagini ai contatti della lista.
 Il client del tuo contatto deve supportare XEP-0071: XHTML-IM e supportare i dati: URI scheme.
 Nota: Per funzionare correttamente, l&apos;opzione options.ui.chat.central-toolbar deve essere su true.</translation>
+    </message>
+</context>
+<context>
+    <name>ImagePreviewPlugin</name>
+    <message>
+        <source>512 Kb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 Mb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2 Mb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>5 Mb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>10 Mb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum image size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image preview size in pixels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow upscale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished">Autore:</translation>
+    </message>
+    <message>
+        <source>This plugin shows the preview image for an image URL.
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11319,6 +11466,17 @@ Puoi ancora salvare la partita.</translation>
     <message>
         <source>message</source>
         <translation>messaggio</translation>
+    </message>
+</context>
+<context>
+    <name>PreviewFileDialog</name>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished">Anteprima</translation>
+    </message>
+    <message>
+        <source>Not an image</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -6318,6 +6318,109 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>HttpUploadPlugin</name>
+    <message>
+        <source>Image preview width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resize images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If width or height is bigger than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JPEG quality</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please wait</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Another upload operation is already in progress. Please wait up to %1 sec for it to complete or fail.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not supported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Server for account %1 does not support HTTP Upload (XEP-363)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error opening file %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file size is too large.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File size must be less than %1 bytes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This plugin allows uploading images and other files via XEP-0363.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error requesting slot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Either put or get URL is missing in the server&apos;s reply.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error uploading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No data to upload, this maybe a result of timeout or other error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload error code %1, message: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Timeout waiting for an upload slot</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>IconSelect</name>
     <message>
         <source>No icons available</source>
@@ -6628,6 +6731,50 @@ The plugin has a number of simple settings that can help you:
         <source>This plugin is designed to send images to roster contacts.
 Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ImagePreviewPlugin</name>
+    <message>
+        <source>512 Kb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 Mb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2 Mb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>5 Mb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>10 Mb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum image size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image preview size in pixels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow upscale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This plugin shows the preview image for an image URL.
+</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11065,6 +11212,17 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>message</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PreviewFileDialog</name>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not an image</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
