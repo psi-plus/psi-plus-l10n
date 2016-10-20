@@ -15397,6 +15397,21 @@ Wenn Sie das Plugin zum ersten Mal starten, müssen Sie sich mit allen Konten an
     </message>
 </context>
 <context>
+    <name>RipperCCOptions</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Formular</translation>
+    </message>
+    <message>
+        <source> min.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attention interval: </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>RoomModel</name>
     <message>
         <source>Groupchat name</source>

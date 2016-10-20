@@ -15448,6 +15448,21 @@ The first time you install this plugin, you need to log on to all of your accoun
     </message>
 </context>
 <context>
+    <name>RipperCCOptions</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Form</translation>
+    </message>
+    <message>
+        <source> min.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attention interval: </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>RoomModel</name>
     <message>
         <source>Groupchat name</source>
