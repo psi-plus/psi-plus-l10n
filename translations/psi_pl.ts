@@ -117,10 +117,6 @@
         <translation>Założyciel, Projektant i Twórca łatek</translation>
     </message>
     <message>
-        <source>Designer and Patcher</source>
-        <translation type="vanished">Projektant i Twórca łatek</translation>
-    </message>
-    <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
         <translation>Twórca łatek, wtyczek oraz pakietów Fedory</translation>
     </message>
@@ -143,10 +139,6 @@
     <message>
         <source>Patcher and Russian localization</source>
         <translation>Twórca łatek i tłumaczenia jęz. rosyjskiego</translation>
-    </message>
-    <message>
-        <source>OpenSUSE Packager</source>
-        <translation type="obsolete">Twórca pakietów OpenSUSE</translation>
     </message>
     <message>
         <source>Language coordinator, miscellaneous assistance</source>
@@ -1579,10 +1571,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Hasło:</translation>
     </message>
     <message>
-        <source>Auto-join</source>
-        <translation type="vanished">Wejdź automatycznie</translation>
-    </message>
-    <message>
         <source>Import bookmarks from file</source>
         <translation>importuj zakładki z pliku</translation>
     </message>
@@ -1722,10 +1710,6 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Call active</source>
         <translation>Rozmowa aktywna</translation>
-    </message>
-    <message>
-        <source>Call ended</source>
-        <translation type="obsolete">Rozmowa zakończona</translation>
     </message>
     <message>
         <source>Call is ended</source>
@@ -6073,10 +6057,6 @@ Do wysyłania poleceń, wykorzystywane są zwykłe wiadomości, więc wtyczka  t
 <context>
     <name>HistoryDlg</name>
     <message>
-        <source>Advanced</source>
-        <translation type="obsolete">Zaawansowane</translation>
-    </message>
-    <message>
         <source>Refresh history</source>
         <translation>Odśwież historię</translation>
     </message>
@@ -6845,10 +6825,6 @@ Nota: Do poprawnej pracy opcja: options.ui.chat.central-toolbar musi mieć warto
 <context>
     <name>Info</name>
     <message>
-        <source>User Info</source>
-        <translation type="vanished">Informacje o użytkowniku</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation>Ogólne</translation>
     </message>
@@ -6952,125 +6928,9 @@ Nota: Do poprawnej pracy opcja: options.ui.chat.central-toolbar musi mieć warto
         <source>Status</source>
         <translation>Status</translation>
     </message>
-    <message>
-        <source>Alt+D</source>
-        <translation type="vanished">Alt+U</translation>
-    </message>
-    <message>
-        <source>psi/disco</source>
-        <translation type="vanished">psi/disco</translation>
-    </message>
-    <message>
-        <source>&amp;Publish</source>
-        <translation type="vanished">&amp;Wyślij</translation>
-    </message>
-    <message>
-        <source>&amp;Retrieve</source>
-        <translation type="vanished">&amp;Pobierz</translation>
-    </message>
-    <message>
-        <source>psi/reload</source>
-        <translation type="vanished">psi/reload</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Zamknij</translation>
-    </message>
-    <message>
-        <source>psi/close</source>
-        <translation type="vanished">psi/close</translation>
-    </message>
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>First Name:</source>
-        <translation type="vanished">Imię:</translation>
-    </message>
-    <message>
-        <source>Middle Name:</source>
-        <translation type="vanished">Drugie imię:</translation>
-    </message>
-    <message>
-        <source>Last Name:</source>
-        <translation type="vanished">Nazwisko:</translation>
-    </message>
-    <message>
-        <source>Edit names</source>
-        <translation type="vanished">Edytuj nazwy</translation>
-    </message>
-    <message>
-        <source>View names</source>
-        <translation type="vanished">Wyświetl nazwy</translation>
-    </message>
-    <message>
-        <source>Open web browser</source>
-        <translation type="vanished">Otwórz przeglądarkę</translation>
-    </message>
-    <message>
-        <source>No date</source>
-        <translation type="vanished">Brak daty</translation>
-    </message>
-    <message>
-        <source>Edit birthday</source>
-        <translation type="vanished">Edytuj datę urodzin</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Uwaga</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">Nie opublikowałeś zmian dotyczących Twojego konta.
-Czy na pewno chcesz je porzucić?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Zamknij i porzuć</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Nie zamykaj</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">OK</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">Twoje informacje o koncie zostały opublikowane.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Błąd</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">Nie można pobrać informacji o Twoim koncie. Prawdopodobnie jeszcze ich nie wprowadzono.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">Nie można pobrać informacji o tym kontakcie.
-Przyczyna: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">Nie można opublikować informacji o twoim koncie.
-Przyczyna: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation type="vanished">Obraz nie jest
-dostępny</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">Status</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation type="unfinished">Informacje o użytkowniku</translation>
@@ -7128,7 +6988,7 @@ dostępny</translation>
     </message>
     <message>
         <source>Open web browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otwórz w przeglądarce</translation>
     </message>
     <message>
         <source>No date</source>
@@ -7418,13 +7278,6 @@ to play battleship. He wants to play %2.</source>
     <message>
         <source>Input New Name</source>
         <translation>Podaj nową nazwę</translation>
-    </message>
-</context>
-<context>
-    <name>JT_VCard</name>
-    <message>
-        <source>No VCard available</source>
-        <translation type="obsolete">Nie znaleziono wizytówki</translation>
     </message>
 </context>
 <context>
@@ -7996,13 +7849,6 @@ Przychodzące zdarzenie(a) od:</translation>
     <message>
         <source>%1 events received</source>
         <translation>%1 zdarzeń otrzymanych</translation>
-    </message>
-</context>
-<context>
-    <name>MainWin::Private</name>
-    <message>
-        <source>Diagnostics</source>
-        <translation type="obsolete">Diagnostyka</translation>
     </message>
 </context>
 <context>
@@ -8819,26 +8665,6 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
 <context>
     <name>OptPlugins</name>
     <message>
-        <source>Plugin Name:</source>
-        <translation type="vanished">Nazwa wtyczki:</translation>
-    </message>
-    <message>
-        <source>Version: 0</source>
-        <translation type="vanished">Wersja: 0</translation>
-    </message>
-    <message>
-        <source>Load this plugin</source>
-        <translation type="vanished">Załaduj tę wtyczkę</translation>
-    </message>
-    <message>
-        <source>Plugin Location:</source>
-        <translation type="vanished">Ścieżka do pliku wtyczki:</translation>
-    </message>
-    <message>
-        <source>No plugin selected</source>
-        <translation type="vanished">Nie wybrano wtyczki</translation>
-    </message>
-    <message>
         <source>OptPluginsUI</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8999,10 +8825,6 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     <message>
         <source>Autohide roster after</source>
         <translation>Chowaj listę kontaktów po</translation>
-    </message>
-    <message>
-        <source>seconds</source>
-        <translation type="vanished">sek.</translation>
     </message>
     <message>
         <source>Show avatars in roster</source>
@@ -10499,14 +10321,6 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
         <translation>Opcje wtyczek Psi</translation>
     </message>
     <message>
-        <source>No plugin selected.</source>
-        <translation type="vanished">Nie wybrano wtyczki.</translation>
-    </message>
-    <message>
-        <source>Version: </source>
-        <translation type="obsolete">Wersja:</translation>
-    </message>
-    <message>
         <source>Plugin Path:
 %1</source>
         <translation type="unfinished"></translation>
@@ -10801,10 +10615,6 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     <message>
         <source>Groupchats</source>
         <translation type="unfinished">Konferencje</translation>
-    </message>
-    <message>
-        <source>Save queryes to log</source>
-        <translation type="vanished">Zapisz zapytanie do dziennika</translation>
     </message>
     <message>
         <source>Default action</source>
@@ -11185,10 +10995,6 @@ Wprowadź hasło twojego klucza OpenPGP poniżej:</translation>
 </context>
 <context>
     <name>PluginInfoDialog</name>
-    <message>
-        <source>Information</source>
-        <translation type="obsolete">Informacja</translation>
-    </message>
     <message>
         <source>Close</source>
         <translation type="unfinished">Zamknij</translation>
@@ -11719,10 +11525,6 @@ Używaj tylko liter i cyfr, bez kropek lub spacji.</translation>
     <message>
         <source>&amp;Yes</source>
         <translation>&amp;Tak</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">Nie można usunąć profilu. Prawdopodobnie nie posiadasz do tego uprawnień.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -13138,26 +12940,6 @@ Może to oznaczać, że masz już uruchomioną inną kopię Psi. Może to powodo
         <translation>&amp;Wyślij plik</translation>
     </message>
     <message>
-        <source>&amp;Log on</source>
-        <translation type="vanished">Za&amp;loguj</translation>
-    </message>
-    <message>
-        <source>Log Off</source>
-        <translation type="vanished">Wyloguj</translation>
-    </message>
-    <message>
-        <source>Resend Authorization To</source>
-        <translation type="vanished">Wyślij ponownie pozwolenie na subskrypcję obecności do</translation>
-    </message>
-    <message>
-        <source>Rerequest Authorization From</source>
-        <translation type="vanished">Ponownie poproś o subskrypcję od</translation>
-    </message>
-    <message>
-        <source>Remove Authorization From</source>
-        <translation type="vanished">Cofnij subskrypcję obecności dla</translation>
-    </message>
-    <message>
         <source>&amp;Assign Custom Picture</source>
         <translation>&amp;Przypisz własny obrazek</translation>
     </message>
@@ -13178,32 +12960,12 @@ Może to oznaczać, że masz już uruchomioną inną kopię Psi. Może to powodo
         <translation>&amp;Informacje o użytkowniku</translation>
     </message>
     <message>
-        <source>Invite To</source>
-        <translation type="vanished">Zaproś do konferencji</translation>
-    </message>
-    <message>
         <source>&amp;Group</source>
         <translation>&amp;Grupa</translation>
     </message>
     <message>
-        <source>Send Message To</source>
-        <translation type="vanished">Wyślij wiadomość do</translation>
-    </message>
-    <message>
-        <source>Open Chat To</source>
-        <translation type="vanished">Zacznij rozmowę z</translation>
-    </message>
-    <message>
-        <source>Open a Whiteboard To</source>
-        <translation type="vanished">Otwórz tablicę do</translation>
-    </message>
-    <message>
         <source>E&amp;xecute Command</source>
         <translation>Wykonaj &amp;polecenie</translation>
-    </message>
-    <message>
-        <source>Active Chats</source>
-        <translation type="vanished">Aktualne rozmowy</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -13216,10 +12978,6 @@ Może to oznaczać, że masz już uruchomioną inną kopię Psi. Może to powodo
     <message>
         <source>Block</source>
         <translation type="unfinished">Zablokuj</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="vanished">Subskrypcja obecności</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
@@ -14201,10 +13959,6 @@ Kontynuować?</translation>
     <message>
         <source>Unsubscribe</source>
         <translation>Cofnij subskrypcję</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">OK</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -15718,45 +15472,6 @@ Przyczyna: %1</translation>
     <message>
         <source>Play!</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Add</source>
-        <translation type="obsolete">Dodaj</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation type="obsolete">Edytuj</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="obsolete">Usuń</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">OK</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Anuluj</translation>
-    </message>
-    <message>
-        <source>Up</source>
-        <translation type="obsolete">W górę</translation>
-    </message>
-    <message>
-        <source>Down</source>
-        <translation type="obsolete">W dół</translation>
-    </message>
-    <message>
-        <source>Save templates</source>
-        <translation type="vanished">Zapisz szablony</translation>
-    </message>
-    <message>
-        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="vanished">Szablon &quot;%1&quot; nie został zapisany!</translation>
     </message>
 </context>
 <context>

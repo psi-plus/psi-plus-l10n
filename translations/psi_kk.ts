@@ -1565,10 +1565,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Пароль:</translation>
     </message>
     <message>
-        <source>Auto-join</source>
-        <translation type="vanished">Автокіру</translation>
-    </message>
-    <message>
         <source>Import bookmarks from file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1708,10 +1704,6 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Call active</source>
         <translation>Қоңырау белсенді</translation>
-    </message>
-    <message>
-        <source>Call ended</source>
-        <translation type="obsolete">Қоңырау аяқталған</translation>
     </message>
     <message>
         <source>Call is ended</source>
@@ -6021,10 +6013,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>HistoryDlg</translation>
     </message>
     <message>
-        <source>Advanced</source>
-        <translation type="obsolete">Кеңейтілген</translation>
-    </message>
-    <message>
         <source>&amp;Refresh</source>
         <translation>Ж&amp;аңарту</translation>
     </message>
@@ -6779,10 +6767,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>Info</name>
     <message>
-        <source>User Info</source>
-        <translation type="vanished">Пайд. ақпараты</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation>Жалпы</translation>
     </message>
@@ -6886,65 +6870,9 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>Status</source>
         <translation>Қалып-күйі</translation>
     </message>
-    <message>
-        <source>Alt+D</source>
-        <translation type="vanished">Alt+D</translation>
-    </message>
-    <message>
-        <source>psi/disco</source>
-        <translation type="vanished">psi/disco</translation>
-    </message>
-    <message>
-        <source>&amp;Publish</source>
-        <translation type="vanished">Жари&amp;ялау</translation>
-    </message>
-    <message>
-        <source>&amp;Retrieve</source>
-        <translation type="vanished">А&amp;лу</translation>
-    </message>
-    <message>
-        <source>psi/reload</source>
-        <translation type="vanished">psi/reload</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">Жа&amp;бу</translation>
-    </message>
-    <message>
-        <source>psi/close</source>
-        <translation type="vanished">psi/close</translation>
-    </message>
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>First Name:</source>
-        <translation type="vanished">Аты:</translation>
-    </message>
-    <message>
-        <source>Last Name:</source>
-        <translation type="vanished">Жөні:</translation>
-    </message>
-    <message>
-        <source>Open web browser</source>
-        <translation type="vanished">Веб браузерін ашу</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Ескерту</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">Сәтті</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Қате</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">Қалып-күй</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation type="unfinished">Пайд. ақпараты</translation>
@@ -7850,13 +7778,6 @@ Incoming event(s) from:</source>
     </message>
 </context>
 <context>
-    <name>MainWin::Private</name>
-    <message>
-        <source>Diagnostics</source>
-        <translation type="obsolete">Диагностика</translation>
-    </message>
-</context>
-<context>
     <name>MainWindow</name>
     <message>
         <source>Quit</source>
@@ -8670,22 +8591,6 @@ Tags: %1</source>
     <message>
         <source>OptPluginsUI</source>
         <translation>OptPluginsUI</translation>
-    </message>
-    <message>
-        <source>Plugin Name:</source>
-        <translation type="vanished">Плагин аты:</translation>
-    </message>
-    <message>
-        <source>Load this plugin</source>
-        <translation type="vanished">Бұл плагинді жүктеу</translation>
-    </message>
-    <message>
-        <source>Plugin Location:</source>
-        <translation type="vanished">Плагин орналасуы:</translation>
-    </message>
-    <message>
-        <source>No plugin selected</source>
-        <translation type="vanished">Плагин таңдалмады</translation>
     </message>
     <message>
         <source>Plugin Name</source>
@@ -10333,10 +10238,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Плагиндер</translation>
     </message>
     <message>
-        <source>No plugin selected.</source>
-        <translation type="vanished">Плагин таңдалмады.</translation>
-    </message>
-    <message>
         <source>Options for Psi plugins</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11013,10 +10914,6 @@ Please enter your passphrase below:</source>
 </context>
 <context>
     <name>PluginInfoDialog</name>
-    <message>
-        <source>Information</source>
-        <translation type="obsolete">Ақпараты</translation>
-    </message>
     <message>
         <source>About</source>
         <translation type="unfinished">Осы туралы</translation>
@@ -12944,20 +12841,8 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation>&amp;Топ</translation>
     </message>
     <message>
-        <source>Send Message To</source>
-        <translation type="vanished">Хабарламаны кімге жіберу</translation>
-    </message>
-    <message>
-        <source>Open Chat To</source>
-        <translation type="vanished">Сөйлесуді ашу:</translation>
-    </message>
-    <message>
         <source>E&amp;xecute Command</source>
         <translation>Команданы ор&amp;ындау</translation>
-    </message>
-    <message>
-        <source>Active Chats</source>
-        <translation type="vanished">Белсенді чаттар</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -13837,10 +13722,6 @@ Proceed?</source>
     <message>
         <source>Warning</source>
         <translation type="unfinished">Ескерту</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">ОК</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -15479,33 +15360,6 @@ Reason: %1</source>
     <message>
         <source>Play!</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Add</source>
-        <translation type="obsolete">Қосу</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="obsolete">Өшіру</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">ОК</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="obsolete">Бас тарту</translation>
-    </message>
-    <message>
-        <source>Up</source>
-        <translation type="obsolete">Жоғары</translation>
-    </message>
-    <message>
-        <source>Down</source>
-        <translation type="obsolete">Төмен</translation>
     </message>
 </context>
 <context>

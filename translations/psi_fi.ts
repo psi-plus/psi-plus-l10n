@@ -6783,10 +6783,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished">Tila</translation>
     </message>
     <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Sulje</translation>
-    </message>
-    <message>
         <source>E-Mail:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6885,60 +6881,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>Open web browser</source>
-        <translation type="obsolete">Avaa web-selain</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Varoitus</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">Et ole julkaissut muutoksia tunnustietoihisi.
-Oletko varma, että tahdot hylätä ne?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Sulje ja hylkää</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Älä sulje</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">Onnistui</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">Tunnuksesi tiedot on julkaistu.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Virhe</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">Tunnuksesi tietojen haku epäonnistui. Ehkä et ole vielä määrittänyt mitään tietoja.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">Tietojen hakeminen tästä yhteystiedosta epäonnistui.
-Syy: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">Tunnuksesi tietojen julkaiseminen epäonnistui.
-Syy: %1</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="obsolete">Tila</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation type="unfinished"></translation>
@@ -10984,10 +10926,6 @@ Please enter your passphrase below:</source>
 <context>
     <name>PluginInfoDialog</name>
     <message>
-        <source>Information</source>
-        <translation type="obsolete">Tietoja</translation>
-    </message>
-    <message>
         <source>About</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11516,10 +11454,6 @@ Käytä vain kirjaimia tai numeroita, ei välimerkkejä tai välilyöntejä.</tr
     <message>
         <source>&amp;Yes</source>
         <translation>&amp;Kyllä</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">Kansiota ei voitu poistaa kokonaan. Varmista, että sinulla on tarvittavat oikeudet.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12863,10 +12797,6 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation type="unfinished">&amp;Historia</translation>
     </message>
     <message>
-        <source>&amp;Log on</source>
-        <translation type="obsolete">&amp;Kirjaudu sisään</translation>
-    </message>
-    <message>
         <source>User &amp;Info</source>
         <translation type="unfinished">&amp;Käyttäjätiedot</translation>
     </message>
@@ -12877,10 +12807,6 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <source>Hide</source>
         <translation type="unfinished">Piilota</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="obsolete">Lupa</translation>
     </message>
     <message>
         <source>Invitation</source>
@@ -15452,17 +15378,6 @@ Syy: %1</translation>
     <message>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Add</source>
-        <translation type="obsolete">Lisää</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="obsolete">Poista</translation>
     </message>
 </context>
 <context>

@@ -131,10 +131,6 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;
         <translation>Vezető Javító és Kiegészítőíró; Mac OS X Csomagkészítő</translation>
     </message>
     <message>
-        <source>Designer and Patcher</source>
-        <translation type="vanished">Tervező és Javító</translation>
-    </message>
-    <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
         <translation>Javító, Kiegészítőíró és Fedora Csomagkészítő</translation>
     </message>
@@ -1596,10 +1592,6 @@ Parancsok küldése rendes üzenettel, így ez a kiegészítő mindig működni 
     <message>
         <source>Password:</source>
         <translation>Jelszó:</translation>
-    </message>
-    <message>
-        <source>Auto-join</source>
-        <translation type="vanished">Automatikus csatlakozás</translation>
     </message>
     <message>
         <source>Import bookmarks from file</source>
@@ -6880,10 +6872,6 @@ Megjegyzés: A helyes működéshez az &apos;options.ui.chat.central-toolbar&apo
 <context>
     <name>Info</name>
     <message>
-        <source>User Info</source>
-        <translation type="vanished">Felhasználó adatai</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation>Általános</translation>
     </message>
@@ -6987,125 +6975,9 @@ Megjegyzés: A helyes működéshez az &apos;options.ui.chat.central-toolbar&apo
         <source>Status</source>
         <translation>Állapot</translation>
     </message>
-    <message>
-        <source>Alt+D</source>
-        <translation type="vanished">Alt+D</translation>
-    </message>
-    <message>
-        <source>psi/disco</source>
-        <translation type="vanished">psi/disco</translation>
-    </message>
-    <message>
-        <source>&amp;Publish</source>
-        <translation type="vanished">&amp;Publikálás</translation>
-    </message>
-    <message>
-        <source>&amp;Retrieve</source>
-        <translation type="vanished">&amp;Lekérés</translation>
-    </message>
-    <message>
-        <source>psi/reload</source>
-        <translation type="vanished">psi/reload</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Bezárás</translation>
-    </message>
-    <message>
-        <source>psi/close</source>
-        <translation type="vanished">psi/close</translation>
-    </message>
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>First Name:</source>
-        <translation type="vanished">Keresztnév:</translation>
-    </message>
-    <message>
-        <source>Middle Name:</source>
-        <translation type="vanished">Középső név:</translation>
-    </message>
-    <message>
-        <source>Last Name:</source>
-        <translation type="vanished">Családnév:</translation>
-    </message>
-    <message>
-        <source>Edit names</source>
-        <translation type="vanished">Nevek szerkesztése</translation>
-    </message>
-    <message>
-        <source>View names</source>
-        <translation type="vanished">Nevek megtekintése</translation>
-    </message>
-    <message>
-        <source>Open web browser</source>
-        <translation type="vanished">Böngésző megnyitása</translation>
-    </message>
-    <message>
-        <source>No date</source>
-        <translation type="vanished">Nincs dátum</translation>
-    </message>
-    <message>
-        <source>Edit birthday</source>
-        <translation type="vanished">Születésnap szerkesztése</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Figyelmeztetés</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">Még nem mentetted a felhasználód információinak változását.
-Biztos el akarod vetni őket?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Bezár és elvet</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Ne zárja be</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">Sikeres</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">Az információk rólad elmentve.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Hiba</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">Nem sikerült lekérdezni az információkat a fiókodról. Talán még nem adtál meg semmit.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">Nem sikerült lekérni a partnerinformációt.
-Oka: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">Nem sikerült menteni a fiókinformációdat.
-Oka: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation type="vanished">Kép nem
-elérhető</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">Állapot</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation>Felhasználóinformáció</translation>
@@ -8852,26 +8724,6 @@ Címkék: %1</translation>
         <translation>OptPuginsUI</translation>
     </message>
     <message>
-        <source>Plugin Name:</source>
-        <translation type="vanished">Kiegészítő neve:</translation>
-    </message>
-    <message>
-        <source>Version: 0</source>
-        <translation type="vanished">Verzió: 0</translation>
-    </message>
-    <message>
-        <source>Load this plugin</source>
-        <translation type="vanished">Kiegészítő betöltése</translation>
-    </message>
-    <message>
-        <source>Plugin Location:</source>
-        <translation type="vanished">Kiegészítő helye:</translation>
-    </message>
-    <message>
-        <source>No plugin selected</source>
-        <translation type="vanished">Nincs kiegészítő kiválasztva</translation>
-    </message>
-    <message>
         <source>Plugin Name</source>
         <translation>Kiegészítő neve</translation>
     </message>
@@ -9032,10 +8884,6 @@ Címkék: %1</translation>
     <message>
         <source>Autohide roster after</source>
         <translation>Ezután a címlista automatikus elrejtése</translation>
-    </message>
-    <message>
-        <source>seconds</source>
-        <translation type="vanished">másodperc</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -10544,14 +10392,6 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
         <translation>Psi kiegészítők beállítása</translation>
     </message>
     <message>
-        <source>No plugin selected.</source>
-        <translation type="vanished">Nincs kiválasztva kiegészítő.</translation>
-    </message>
-    <message>
-        <source>Version: </source>
-        <translation type="vanished">Verzió:</translation>
-    </message>
-    <message>
         <source>Plugin Path:
 %1</source>
         <translation>Kiegészítő helye:
@@ -10937,10 +10777,6 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
         <translation>mindig</translation>
     </message>
     <message>
-        <source>Save queryes to log</source>
-        <translation type="vanished">Kérdések mentése naplófájlba</translation>
-    </message>
-    <message>
         <source>Logs</source>
         <translation>Naplók</translation>
     </message>
@@ -11231,10 +11067,6 @@ Kérlek add meg a jelszavad:</translation>
 </context>
 <context>
     <name>PluginInfoDialog</name>
-    <message>
-        <source>Information</source>
-        <translation type="vanished">Információ</translation>
-    </message>
     <message>
         <source>About</source>
         <translation>Névjegy</translation>
@@ -11759,24 +11591,12 @@ számok, pontok vagy szóközök nélkül.</translation>
         <translation>Töröld!</translation>
     </message>
     <message>
-        <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
-&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Proceed?</source>
-        <translation type="vanished">&lt;qt&gt;Elővigyázatosságból még egyszer meg vagy kérdezve, ha tényleg ezt akarod. A következő mappa törölve lesz!&lt;br&gt;&lt;br&gt;
-&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Folytatás?</translation>
-    </message>
-    <message>
         <source>&amp;No</source>
         <translation>&amp;Nem</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
         <translation>&amp;Igen</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">Nem sikerült teljesen törölni a mappát. Ellenőrizd, hogy van-e jogosultságod.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12846,14 +12666,6 @@ Oka: %1.</translation>
         <translation>Tömörített/Teljes méret</translation>
     </message>
     <message>
-        <source>Paste and Send</source>
-        <translation type="vanished">Beillesztés és küldés</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="vanished">Minták</translation>
-    </message>
-    <message>
         <source>Chat basic buttons</source>
         <translation>Beszélgetés alapgombjai</translation>
     </message>
@@ -13202,26 +13014,6 @@ Lehetséges, hogy már fut egy másik példány a Psi-ből, vagy ez a port már 
         <translation>&amp;Fájl küldése</translation>
     </message>
     <message>
-        <source>&amp;Log on</source>
-        <translation type="vanished">&amp;Bejelentkezés</translation>
-    </message>
-    <message>
-        <source>Log Off</source>
-        <translation type="vanished">Kijelentkezés</translation>
-    </message>
-    <message>
-        <source>Resend Authorization To</source>
-        <translation type="vanished">Jóváhagyás újraküldése</translation>
-    </message>
-    <message>
-        <source>Rerequest Authorization From</source>
-        <translation type="vanished">Jóváhagyás újrakérése</translation>
-    </message>
-    <message>
-        <source>Remove Authorization From</source>
-        <translation type="vanished">Jóváhagyás visszavonása</translation>
-    </message>
-    <message>
         <source>Sen&amp;d Status</source>
         <translation>Állapot &amp;küldése</translation>
     </message>
@@ -13246,32 +13038,12 @@ Lehetséges, hogy már fut egy másik példány a Psi-ből, vagy ez a port már 
         <translation>Felhasználó &amp;adatai</translation>
     </message>
     <message>
-        <source>Invite To</source>
-        <translation type="vanished">Meghívás</translation>
-    </message>
-    <message>
         <source>&amp;Group</source>
         <translation>&amp;Csoport</translation>
     </message>
     <message>
-        <source>Send Message To</source>
-        <translation type="vanished">Üzenet küldése</translation>
-    </message>
-    <message>
-        <source>Open Chat To</source>
-        <translation type="vanished">Beszélgetés megnyitása</translation>
-    </message>
-    <message>
-        <source>Open a Whiteboard To</source>
-        <translation type="vanished">Rajztábla megnyitása</translation>
-    </message>
-    <message>
         <source>E&amp;xecute Command</source>
         <translation>&amp;Parancs végrehajtása</translation>
-    </message>
-    <message>
-        <source>Active Chats</source>
-        <translation type="vanished">Aktív csevegések</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -13292,10 +13064,6 @@ Lehetséges, hogy már fut egy másik példány a Psi-ből, vagy ez a port már 
     <message>
         <source>Always Visible</source>
         <translation>Mindig látható</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="vanished">Jóváhagyás</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
@@ -15796,100 +15564,6 @@ Oka: %1</translation>
     <message>
         <source>Cancel</source>
         <translation>Mégsem</translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Template editor</source>
-        <translation type="vanished">Mintaszerkesztő</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="vanished">Minták</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">Hozzáadás</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation type="vanished">Szerkesztés</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="vanished">Eltávolítás</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="vanished">Rendben</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Mégsem</translation>
-    </message>
-    <message>
-        <source>Add template string</source>
-        <translation type="vanished">Mintaelemek hozzáadása</translation>
-    </message>
-    <message>
-        <source>Add template string as submenu</source>
-        <translation type="vanished">Mintaelemek hozzáadása almenüként</translation>
-    </message>
-    <message>
-        <source>Add separator</source>
-        <translation type="vanished">Elválasztó hozzáadása</translation>
-    </message>
-    <message>
-        <source>Add separator as submenu</source>
-        <translation type="vanished">Elválasztó hozzáadása almenüként</translation>
-    </message>
-    <message>
-        <source>Up</source>
-        <translation type="vanished">Fel</translation>
-    </message>
-    <message>
-        <source>Down</source>
-        <translation type="vanished">Le</translation>
-    </message>
-    <message>
-        <source>&lt;separator&gt;</source>
-        <translation type="vanished">&lt;elválasztó&gt;</translation>
-    </message>
-    <message>
-        <source>Edit template</source>
-        <translation type="vanished">Minta szerkesztése</translation>
-    </message>
-    <message>
-        <source>Input new template text</source>
-        <translation type="vanished">Új mintaszöveg megadása</translation>
-    </message>
-    <message>
-        <source>Save templates</source>
-        <translation type="vanished">Minták mentése</translation>
-    </message>
-    <message>
-        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="vanished">&quot;%1&quot; minta nem lett mentve!</translation>
-    </message>
-    <message>
-        <source>Continue?</source>
-        <translation type="vanished">Folytatás?</translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesMenu</name>
-    <message>
-        <source>Paste and &amp;Send</source>
-        <translation type="vanished">Beillesztés és &amp;küldés</translation>
-    </message>
-    <message>
-        <source>&amp;Edit Templates</source>
-        <translation type="vanished">Minták &amp;szerkesztése</translation>
-    </message>
-    <message>
-        <source>Only &amp;Paste</source>
-        <translation type="vanished">Csak &amp;beillesztés</translation>
     </message>
 </context>
 <context>

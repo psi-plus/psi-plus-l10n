@@ -6888,56 +6888,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>InfoDlg</name>
     <message>
-        <source>Open web browser</source>
-        <translation type="obsolete">Fungua brauza ya web</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Onyo</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">Hujachapisha mabadiriko ya taarifa za akaunti yako.
-Una uhakika unataka kuzitupa?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Tupa na ufunge</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Usifunge</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">mafanikio</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">Taarifa za akaunti yako zimechapishwa.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Imekosewa</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">Haiwezekani kutafuta taarifa za akaunti yako.   Labda hujaziingiza bado.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">Haiwezekani kutafuta taarifa kuhusu rafiki yako huyu.
-Sababu: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">Haiwezekani kuchapisha taarifa za akaunti yako.
-Sababu: %1</translation>
-    </message>
-    <message>
         <source>User Info</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10983,10 +10933,6 @@ Please enter your passphrase below:</source>
 <context>
     <name>PluginInfoDialog</name>
     <message>
-        <source>Information</source>
-        <translation type="obsolete">Maelezo</translation>
-    </message>
-    <message>
         <source>About</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11516,11 +11462,6 @@ Ni herufi au namba peke yake.Usiweke alama za mikato,vituo wala nafasi kati ya h
     <message>
         <source>&amp;Yes</source>
         <translation>&amp;Ndiyo</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">Haiwezekani kabisa kufuta folda hii. Hakikisha una ruhusa kamili.
-</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12866,10 +12807,6 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation type="unfinished">&amp;Historia</translation>
     </message>
     <message>
-        <source>&amp;Log on</source>
-        <translation type="obsolete">&amp;Ingia</translation>
-    </message>
-    <message>
         <source>User &amp;Info</source>
         <translation type="unfinished">Taarifa za &amp;mtumiaji</translation>
     </message>
@@ -12880,10 +12817,6 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <source>Hide</source>
         <translation type="unfinished">Ficha</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="obsolete">Idhinisha </translation>
     </message>
     <message>
         <source>Invitation</source>
@@ -15457,13 +15390,6 @@ Sababu: %1</translation>
     <message>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Add</source>
-        <translation type="obsolete">ongeza</translation>
     </message>
 </context>
 <context>

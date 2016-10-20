@@ -1557,10 +1557,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Mật khẩu :</translation>
     </message>
     <message>
-        <source>Auto-join</source>
-        <translation type="vanished">Tự động tham gia</translation>
-    </message>
-    <message>
         <source>Import bookmarks from file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1700,10 +1696,6 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Call active</source>
         <translation>Cuộc gọi đang chạy</translation>
-    </message>
-    <message>
-        <source>Call ended</source>
-        <translation type="obsolete">Cuộc gọi đã kết thúc</translation>
     </message>
     <message>
         <source>Call is ended</source>
@@ -6033,10 +6025,6 @@ For sending commands, normal messages are used, so this plugin will always work 
 <context>
     <name>HistoryDlg</name>
     <message>
-        <source>Advanced</source>
-        <translation type="obsolete">Cấp cao</translation>
-    </message>
-    <message>
         <source>&amp;Previous</source>
         <translation>&amp;Lùi</translation>
     </message>
@@ -6795,10 +6783,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>Info</name>
     <message>
-        <source>User Info</source>
-        <translation type="vanished">Thông tin người dùng</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation>Chung</translation>
     </message>
@@ -6902,112 +6886,9 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>Status</source>
         <translation>Trạng thái</translation>
     </message>
-    <message>
-        <source>Alt+D</source>
-        <translation type="vanished">Alt+X</translation>
-    </message>
-    <message>
-        <source>psi/disco</source>
-        <translation type="vanished">psi/disco</translation>
-    </message>
-    <message>
-        <source>&amp;Publish</source>
-        <translation type="vanished">&amp;Xuất bản</translation>
-    </message>
-    <message>
-        <source>&amp;Retrieve</source>
-        <translation type="vanished">&amp;Lấy</translation>
-    </message>
-    <message>
-        <source>psi/reload</source>
-        <translation type="vanished">psi/reload</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">Đón&amp;g</translation>
-    </message>
-    <message>
-        <source>psi/close</source>
-        <translation type="vanished">psi/close</translation>
-    </message>
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>First Name:</source>
-        <translation type="vanished">Tên:</translation>
-    </message>
-    <message>
-        <source>Middle Name:</source>
-        <translation type="vanished">Tên đệm:</translation>
-    </message>
-    <message>
-        <source>Last Name:</source>
-        <translation type="vanished">Họ :</translation>
-    </message>
-    <message>
-        <source>Open web browser</source>
-        <translation type="obsolete">Mở trình duyệt</translation>
-    </message>
-    <message>
-        <source>No date</source>
-        <translation type="vanished">Không có ngày tháng</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Cảnh báo</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">Bạn chưa xuất bản thông tin tài khoản đã thay đổi.
-Có chắc muốn bỏ thay đổi này không?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Đóng và bỏ</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Đừng đóng</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">Thành công</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">Thông tin tài khoản của bạn đã được xuất bản.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Lỗi</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">Không thể lấy thông tin tài khoản của bạn.  Có thể là bạn chưa nhập gì.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">Không thể lấy thông tin về liên lạc này.
-Lý do : %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">Không thể xuất bản thông tin tài khoản của bạn.
-Lý do : %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation type="vanished">Không ảnh</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">Trạng thái</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation type="unfinished">Thông tin người dùng</translation>
@@ -7352,13 +7233,6 @@ to play gomoku. He wants to play %2.</source>
     <message>
         <source>Input New Name</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>JT_VCard</name>
-    <message>
-        <source>No VCard available</source>
-        <translation type="obsolete">Không có vCard sẵn sàng</translation>
     </message>
 </context>
 <context>
@@ -7920,13 +7794,6 @@ Active accounts:</source>
         <source>
 Incoming event(s) from:</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>MainWin::Private</name>
-    <message>
-        <source>Diagnostics</source>
-        <translation type="obsolete">Chẩn đoán</translation>
     </message>
 </context>
 <context>
@@ -8748,22 +8615,6 @@ Tags: %1</source>
     <message>
         <source>OptPluginsUI</source>
         <translation>OptPluginsUI</translation>
-    </message>
-    <message>
-        <source>Plugin Name:</source>
-        <translation type="vanished">Tên phần bổ sung:</translation>
-    </message>
-    <message>
-        <source>Load this plugin</source>
-        <translation type="vanished">Nạp phần bổ sung này</translation>
-    </message>
-    <message>
-        <source>Plugin Location:</source>
-        <translation type="vanished">Vị trí phần bổ sung:</translation>
-    </message>
-    <message>
-        <source>No plugin selected</source>
-        <translation type="vanished">Chưa chọn phần bổ sung</translation>
     </message>
     <message>
         <source>Plugin Name</source>
@@ -10417,10 +10268,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Tùy chọn cho phần bổ sung Psi</translation>
     </message>
     <message>
-        <source>No plugin selected.</source>
-        <translation type="vanished">Chưa chọn phần bổ sung.</translation>
-    </message>
-    <message>
         <source>Plugin Path:
 %1</source>
         <translation type="unfinished"></translation>
@@ -11096,10 +10943,6 @@ Hãy gõ vào dưới đây cụm từ mật khẩu:</translation>
 <context>
     <name>PluginInfoDialog</name>
     <message>
-        <source>Information</source>
-        <translation type="obsolete">Thông tin</translation>
-    </message>
-    <message>
         <source>About</source>
         <translation type="unfinished">Giới thiệu</translation>
     </message>
@@ -11628,10 +11471,6 @@ Gõ chỉ chữ và số, không phải dấu chấm câu hoăc khoảng cách.<
     <message>
         <source>&amp;Yes</source>
         <translation>&amp;Có</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">Không thể xoá hoàn thành thư mục này.  Kiểm tra xem bạn có đủ quyền truy cập.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -13048,26 +12887,6 @@ Có lẽ do tiến trinh Psi khác cũng đang chạy. Trong trường hợp đ�
         <translation>Gửi &amp;tập tin</translation>
     </message>
     <message>
-        <source>&amp;Log on</source>
-        <translation type="vanished">Đăng &amp;nhập</translation>
-    </message>
-    <message>
-        <source>Log Off</source>
-        <translation type="vanished">Đăng xuất</translation>
-    </message>
-    <message>
-        <source>Resend Authorization To</source>
-        <translation type="vanished">Gửi lại sự cho phép cho</translation>
-    </message>
-    <message>
-        <source>Rerequest Authorization From</source>
-        <translation type="vanished">Yêu cầu lại sự cho phép từ</translation>
-    </message>
-    <message>
-        <source>Remove Authorization From</source>
-        <translation type="vanished">Bỏ sự cho phép khỏi</translation>
-    </message>
-    <message>
         <source>&amp;Assign Custom Picture</source>
         <translation>&amp;Gán ảnh tự chọn</translation>
     </message>
@@ -13088,32 +12907,12 @@ Có lẽ do tiến trinh Psi khác cũng đang chạy. Trong trường hợp đ�
         <translation>Thông t&amp;in người dùng</translation>
     </message>
     <message>
-        <source>Invite To</source>
-        <translation type="vanished">Mời tham gia</translation>
-    </message>
-    <message>
         <source>&amp;Group</source>
         <translation>&amp;Nhóm</translation>
     </message>
     <message>
-        <source>Send Message To</source>
-        <translation type="vanished">Gửi tin nhẳn cho</translation>
-    </message>
-    <message>
-        <source>Open Chat To</source>
-        <translation type="vanished">Mở chát cho</translation>
-    </message>
-    <message>
-        <source>Open a Whiteboard To</source>
-        <translation type="vanished">Mở bảng trắng cho</translation>
-    </message>
-    <message>
         <source>E&amp;xecute Command</source>
         <translation>&amp;Chạy lệnh</translation>
-    </message>
-    <message>
-        <source>Active Chats</source>
-        <translation type="vanished">Chát đang chạy</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -13122,10 +12921,6 @@ Có lẽ do tiến trinh Psi khác cũng đang chạy. Trong trường hợp đ�
     <message>
         <source>Block</source>
         <translation type="unfinished">Chặn</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="vanished">Sự cho phép</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
@@ -14092,10 +13887,6 @@ Tiếp tục ?</translation>
     <message>
         <source>Warning</source>
         <translation type="unfinished">Cảnh báo</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">OK</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -15612,29 +15403,6 @@ Lý do : %1</translation>
     <message>
         <source>Cancel</source>
         <translation>Thôi</translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Add</source>
-        <translation type="obsolete">Thêm</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">OK</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="obsolete">Thôi</translation>
-    </message>
-    <message>
-        <source>Up</source>
-        <translation type="obsolete">Lên</translation>
-    </message>
-    <message>
-        <source>Down</source>
-        <translation type="obsolete">Xuống</translation>
     </message>
 </context>
 <context>

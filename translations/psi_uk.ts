@@ -130,10 +130,6 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;</translation>
         <translation>Провідний автор патчів та плагинів; супроводжуючий пакетів для Mac OS X</translation>
     </message>
     <message>
-        <source>Designer and Patcher</source>
-        <translation type="vanished">Дизайнер та автор патчів</translation>
-    </message>
-    <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
         <translation>Автор патчів, розробник плагинів та супроводжуючий пакетів для Fedora</translation>
     </message>
@@ -1602,10 +1598,6 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Password:</source>
         <translation>Пароль:</translation>
-    </message>
-    <message>
-        <source>Auto-join</source>
-        <translation type="vanished">Авто-вхід</translation>
     </message>
     <message>
         <source>Import bookmarks from file</source>
@@ -6888,10 +6880,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>Info</name>
     <message>
-        <source>User Info</source>
-        <translation type="vanished">vCard</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation>Загальне</translation>
     </message>
@@ -6995,124 +6983,9 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>Status</source>
         <translation>Статус</translation>
     </message>
-    <message>
-        <source>Alt+D</source>
-        <translation type="vanished">Alt+D</translation>
-    </message>
-    <message>
-        <source>psi/disco</source>
-        <translation type="vanished">psi/disco</translation>
-    </message>
-    <message>
-        <source>&amp;Publish</source>
-        <translation type="vanished">О&amp;публікувати</translation>
-    </message>
-    <message>
-        <source>&amp;Retrieve</source>
-        <translation type="vanished">&amp;Оновити</translation>
-    </message>
-    <message>
-        <source>psi/reload</source>
-        <translation type="vanished">psi/reload</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Закрити</translation>
-    </message>
-    <message>
-        <source>psi/close</source>
-        <translation type="vanished">psi/close</translation>
-    </message>
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>First Name:</source>
-        <translation type="vanished">Ім&apos;я:</translation>
-    </message>
-    <message>
-        <source>Middle Name:</source>
-        <translation type="vanished">По-батькові:</translation>
-    </message>
-    <message>
-        <source>Last Name:</source>
-        <translation type="vanished">Прізвище:</translation>
-    </message>
-    <message>
-        <source>Edit names</source>
-        <translation type="vanished">Змінити імена</translation>
-    </message>
-    <message>
-        <source>View names</source>
-        <translation type="vanished">Перегляд імен</translation>
-    </message>
-    <message>
-        <source>Open web browser</source>
-        <translation type="vanished">Відкрити у браузері</translation>
-    </message>
-    <message>
-        <source>No date</source>
-        <translation type="vanished">Немає дати</translation>
-    </message>
-    <message>
-        <source>Edit birthday</source>
-        <translation type="vanished">Змінити дату нарождення</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Попередження</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">Ви не опублікували зміни вашого аккаунту.
-Ви впевнені, що ви хочете позбутися їх?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Закрити та зтерти</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Не закривати</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">Успішно</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">Ваша інформація була опублікована.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Помилка</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">Неможливо отримати інформацію по вашому аккаунту. Можливо, ви ще нічого не вказали.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">Неможливо отримати інформацію по цьому аккаунту.
-Причина: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">Неможливо опублікувати вашу інформацію.
-Причина: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation type="vanished">Зображення немає</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">Статус</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation>Інформація про користувача</translation>
@@ -8859,26 +8732,6 @@ Tags: %1</source>
         <translation>OptPluginsUI</translation>
     </message>
     <message>
-        <source>Plugin Name:</source>
-        <translation type="vanished">Назва:</translation>
-    </message>
-    <message>
-        <source>Version: 0</source>
-        <translation type="vanished">Версія: 0</translation>
-    </message>
-    <message>
-        <source>Load this plugin</source>
-        <translation type="vanished">Активувати</translation>
-    </message>
-    <message>
-        <source>Plugin Location:</source>
-        <translation type="vanished">Розміщення:</translation>
-    </message>
-    <message>
-        <source>No plugin selected</source>
-        <translation type="vanished">Плагін не вибрано</translation>
-    </message>
-    <message>
         <source>Plugin Name</source>
         <translation>Назва плагіну:</translation>
     </message>
@@ -9039,10 +8892,6 @@ Tags: %1</source>
     <message>
         <source>Autohide roster after</source>
         <translation>Автоматично ховати ростер після</translation>
-    </message>
-    <message>
-        <source>seconds</source>
-        <translation type="vanished">секунд</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -10549,14 +10398,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Опції плагінів</translation>
     </message>
     <message>
-        <source>No plugin selected.</source>
-        <translation type="vanished">Плагін не обрано.</translation>
-    </message>
-    <message>
-        <source>Version: </source>
-        <translation type="vanished">Версія: </translation>
-    </message>
-    <message>
         <source>Plugin Path:
 %1</source>
         <translation>Розміщення плагіну:
@@ -10942,10 +10783,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>завжди</translation>
     </message>
     <message>
-        <source>Save queryes to log</source>
-        <translation type="vanished">Зберігати запити до журналу</translation>
-    </message>
-    <message>
         <source>Logs</source>
         <translation>Журнал</translation>
     </message>
@@ -11236,10 +11073,6 @@ Please enter your passphrase below:</source>
 </context>
 <context>
     <name>PluginInfoDialog</name>
-    <message>
-        <source>Information</source>
-        <translation type="vanished">Інформація</translation>
-    </message>
     <message>
         <source>About</source>
         <translation>Про</translation>
@@ -11765,24 +11598,12 @@ Only use letters or numbers.  No punctuation or spaces.</source>
         <translation>Так, гори воно вогнем!</translation>
     </message>
     <message>
-        <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
-&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Proceed?</source>
-        <translation type="vanished">&lt;qt&gt;Підтвердіть своє рішення. Даний каталог буде видалений!&lt;br&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Підтверджуєте?</translation>
-    </message>
-    <message>
         <source>&amp;No</source>
         <translation>&amp;Ні</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
         <translation>&amp;Так</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">Неможливо видалити каталог повністю. Перевірте права.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12852,14 +12673,6 @@ Reason: %1.</source>
         <translation>Компактний/Повний режим</translation>
     </message>
     <message>
-        <source>Paste and Send</source>
-        <translation type="vanished">Вставити та відправити</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="vanished">Шаблони</translation>
-    </message>
-    <message>
         <source>Chat basic buttons</source>
         <translation>Основні кнопки чату</translation>
     </message>
@@ -13208,26 +13021,6 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation>Надіслати &amp;файл</translation>
     </message>
     <message>
-        <source>&amp;Log on</source>
-        <translation type="vanished">&amp;Підключитися</translation>
-    </message>
-    <message>
-        <source>Log Off</source>
-        <translation type="vanished">Відключити</translation>
-    </message>
-    <message>
-        <source>Resend Authorization To</source>
-        <translation type="vanished">Дозволити підписку</translation>
-    </message>
-    <message>
-        <source>Rerequest Authorization From</source>
-        <translation type="vanished">Запросити підписку</translation>
-    </message>
-    <message>
-        <source>Remove Authorization From</source>
-        <translation type="vanished">Видалити підписку</translation>
-    </message>
-    <message>
         <source>Sen&amp;d Status</source>
         <translation>Відправити &amp;статус</translation>
     </message>
@@ -13252,32 +13045,12 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation>&amp;vCard</translation>
     </message>
     <message>
-        <source>Invite To</source>
-        <translation type="vanished">Запросити до</translation>
-    </message>
-    <message>
         <source>&amp;Group</source>
         <translation>&amp;Група</translation>
     </message>
     <message>
-        <source>Send Message To</source>
-        <translation type="vanished">Надіслати повідомлення</translation>
-    </message>
-    <message>
-        <source>Open Chat To</source>
-        <translation type="vanished">Відкрити чат</translation>
-    </message>
-    <message>
-        <source>Open a Whiteboard To</source>
-        <translation type="vanished">Відкрити дошку для малювання</translation>
-    </message>
-    <message>
         <source>E&amp;xecute Command</source>
         <translation>В&amp;иконати команду</translation>
-    </message>
-    <message>
-        <source>Active Chats</source>
-        <translation type="vanished">Активні чати</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -13298,10 +13071,6 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <source>Always Visible</source>
         <translation>Показувати завжди</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="vanished">Підписка</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
@@ -15812,100 +15581,6 @@ Reason: %1</source>
     <message>
         <source>Cancel</source>
         <translation>Скасувати</translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Template editor</source>
-        <translation type="vanished">Редактор шаблонів</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="vanished">Шаблони</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">Додати</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation type="vanished">Редагувати</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="vanished">Видалити</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="vanished">Oк</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Скасувати</translation>
-    </message>
-    <message>
-        <source>Add template string</source>
-        <translation type="vanished">Додати рядок шаблону</translation>
-    </message>
-    <message>
-        <source>Add template string as submenu</source>
-        <translation type="vanished">Додати рядок шаблону як підменю</translation>
-    </message>
-    <message>
-        <source>Add separator</source>
-        <translation type="vanished">Додати роздилювач</translation>
-    </message>
-    <message>
-        <source>Add separator as submenu</source>
-        <translation type="vanished">Додати роздилювач як підменю</translation>
-    </message>
-    <message>
-        <source>Up</source>
-        <translation type="vanished">Вгору</translation>
-    </message>
-    <message>
-        <source>Down</source>
-        <translation type="vanished">Донизу</translation>
-    </message>
-    <message>
-        <source>&lt;separator&gt;</source>
-        <translation type="vanished">&lt;розділювач&gt;</translation>
-    </message>
-    <message>
-        <source>Edit template</source>
-        <translation type="vanished">Редагувати шаблон</translation>
-    </message>
-    <message>
-        <source>Input new template text</source>
-        <translation type="vanished">Введіть текст шаблону</translation>
-    </message>
-    <message>
-        <source>Save templates</source>
-        <translation type="vanished">Зберегти шаблони</translation>
-    </message>
-    <message>
-        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="vanished">Шаблон &quot;%1&quot; не було збережено!</translation>
-    </message>
-    <message>
-        <source>Continue?</source>
-        <translation type="vanished">Продовжити?</translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesMenu</name>
-    <message>
-        <source>Paste and &amp;Send</source>
-        <translation type="vanished">Вставити та &amp;надіслати</translation>
-    </message>
-    <message>
-        <source>&amp;Edit Templates</source>
-        <translation type="vanished">&amp;Редагувати шаблони</translation>
-    </message>
-    <message>
-        <source>Only &amp;Paste</source>
-        <translation type="vanished">Тільки &amp;вставити</translation>
     </message>
 </context>
 <context>

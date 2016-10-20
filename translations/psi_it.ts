@@ -131,10 +131,6 @@ Copyright © 2001-2013 Il Team Psi.&lt;br&gt;
         <translation>Capo Patcher e Sviluppatore Plugin; Mac OS X Packager</translation>
     </message>
     <message>
-        <source>Designer and Patcher</source>
-        <translation type="vanished">Designer e Patcher</translation>
-    </message>
-    <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
         <translation>Patcher, Sviluppatore Plugins e Packager Fedora</translation>
     </message>
@@ -1596,10 +1592,6 @@ Per inviare comandi, basta usare normali messaggi, quindi questo plugin funzione
     <message>
         <source>Password:</source>
         <translation>Password:</translation>
-    </message>
-    <message>
-        <source>Auto-join</source>
-        <translation type="vanished">Partecipa Automaticamente</translation>
     </message>
     <message>
         <source>Import bookmarks from file</source>
@@ -6884,10 +6876,6 @@ Nota: Per funzionare correttamente, l&apos;opzione options.ui.chat.central-toolb
 <context>
     <name>Info</name>
     <message>
-        <source>User Info</source>
-        <translation type="vanished">Info Utente</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation>Generale</translation>
     </message>
@@ -6991,125 +6979,9 @@ Nota: Per funzionare correttamente, l&apos;opzione options.ui.chat.central-toolb
         <source>Status</source>
         <translation>Stato</translation>
     </message>
-    <message>
-        <source>Alt+D</source>
-        <translation type="vanished">Alt+D</translation>
-    </message>
-    <message>
-        <source>psi/disco</source>
-        <translation type="vanished">psi/disco</translation>
-    </message>
-    <message>
-        <source>&amp;Publish</source>
-        <translation type="vanished">&amp;Pubblica</translation>
-    </message>
-    <message>
-        <source>&amp;Retrieve</source>
-        <translation type="vanished">&amp;Recupera</translation>
-    </message>
-    <message>
-        <source>psi/reload</source>
-        <translation type="vanished">psi/ricarica</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Chiudi</translation>
-    </message>
-    <message>
-        <source>psi/close</source>
-        <translation type="vanished">psi/chiudi</translation>
-    </message>
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>First Name:</source>
-        <translation type="vanished">Nome:</translation>
-    </message>
-    <message>
-        <source>Middle Name:</source>
-        <translation type="vanished">Secondo Nome:</translation>
-    </message>
-    <message>
-        <source>Last Name:</source>
-        <translation type="vanished">Cognome:</translation>
-    </message>
-    <message>
-        <source>Edit names</source>
-        <translation type="vanished">Modifica nome</translation>
-    </message>
-    <message>
-        <source>View names</source>
-        <translation type="vanished">Vedi nomi</translation>
-    </message>
-    <message>
-        <source>Open web browser</source>
-        <translation type="vanished">Apri il browser web</translation>
-    </message>
-    <message>
-        <source>No date</source>
-        <translation type="vanished">Nessun dato</translation>
-    </message>
-    <message>
-        <source>Edit birthday</source>
-        <translation type="vanished">Modifica compleanno</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Avviso</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">Non hai pubblicato i cambiamenti alle informazioni del tuo account.
-Sei sicuro di volerli annullare?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Chiudi e Annulla</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Non chiudere</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">Successo</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">Le informazioni del tuo account sono state pubblicate.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Errore</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">Impossibile recuperare le informazioni del tuo account. Forse non le hai ancora inserite.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">Impossibile recuperare le informazioni su questo contatto.
-Motivo: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">Impossibile pubblicare le informazioni del tuo account.
-Motivo: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation type="vanished">Immagine non
-disponibile</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">Stato</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation>Informazioni Utente</translation>
@@ -8857,26 +8729,6 @@ Argomento CMU per esempio.</translation>
         <translation>OptPluginsUI</translation>
     </message>
     <message>
-        <source>Plugin Name:</source>
-        <translation type="vanished">Nome Plugin:</translation>
-    </message>
-    <message>
-        <source>Version: 0</source>
-        <translation type="vanished">Versione: 0</translation>
-    </message>
-    <message>
-        <source>Load this plugin</source>
-        <translation type="vanished">Carica questo plugin</translation>
-    </message>
-    <message>
-        <source>Plugin Location:</source>
-        <translation type="vanished">Posizione Plugin:</translation>
-    </message>
-    <message>
-        <source>No plugin selected</source>
-        <translation type="vanished">Nessun plugin selezionato</translation>
-    </message>
-    <message>
         <source>Plugin Name</source>
         <translation>Nome plugin</translation>
     </message>
@@ -9037,10 +8889,6 @@ Argomento CMU per esempio.</translation>
     <message>
         <source>Autohide roster after</source>
         <translation>Nascondi lista contatti dopo</translation>
-    </message>
-    <message>
-        <source>seconds</source>
-        <translation type="vanished">secondi</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -10547,14 +10395,6 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
         <translation>Opzioni per i plugin di Psi</translation>
     </message>
     <message>
-        <source>No plugin selected.</source>
-        <translation type="vanished">Nessun plugin selezionato.</translation>
-    </message>
-    <message>
-        <source>Version: </source>
-        <translation type="vanished">Versione:</translation>
-    </message>
-    <message>
         <source>Plugin Path:
 %1</source>
         <translation>Percorso Plugin:
@@ -10940,10 +10780,6 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
         <translation>sempre</translation>
     </message>
     <message>
-        <source>Save queryes to log</source>
-        <translation type="vanished">Salva query nel registro</translation>
-    </message>
-    <message>
         <source>Logs</source>
         <translation>Registri</translation>
     </message>
@@ -11234,10 +11070,6 @@ Inserisci la tua password qui sotto:</translation>
 </context>
 <context>
     <name>PluginInfoDialog</name>
-    <message>
-        <source>Information</source>
-        <translation type="vanished">Informazioni</translation>
-    </message>
     <message>
         <source>About</source>
         <translation>Informazioni</translation>
@@ -11762,24 +11594,12 @@ Usa solo lettere o numeri. Nessun carattere di punteggiatura o spazio.</translat
         <translation>Cancellalo!</translation>
     </message>
     <message>
-        <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
-&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Proceed?</source>
-        <translation type="vanished">&lt;qt&gt;Come precauzione, ti viene chiesto un&apos;ultima volta se questo è quello che veramente desideri.  La seguente cartella sarà cancellata!&lt;br&gt;&lt;br&gt;
-&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Proseguire?</translation>
-    </message>
-    <message>
         <source>&amp;No</source>
         <translation>&amp;No</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
         <translation>&amp;Sì</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">Impossibile cancellare completamente la cartella. Assicurati di avere i giusti permessi.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12849,14 +12669,6 @@ Motivo: %1.</translation>
         <translation>Cambia Vista Compatta/Completa</translation>
     </message>
     <message>
-        <source>Paste and Send</source>
-        <translation type="vanished">Incolla e Invia</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="vanished">Modelli</translation>
-    </message>
-    <message>
         <source>Chat basic buttons</source>
         <translation>Pulsanti base di chat</translation>
     </message>
@@ -13205,26 +13017,6 @@ Ciò può voler dire che stai già eseguendo un altra istanza di Psi. Potresti s
         <translation>Invia &amp;File</translation>
     </message>
     <message>
-        <source>&amp;Log on</source>
-        <translation type="vanished">&amp;Entra</translation>
-    </message>
-    <message>
-        <source>Log Off</source>
-        <translation type="vanished">Disconnetti</translation>
-    </message>
-    <message>
-        <source>Resend Authorization To</source>
-        <translation type="vanished">Rispedisci Autorizzazione A</translation>
-    </message>
-    <message>
-        <source>Rerequest Authorization From</source>
-        <translation type="vanished">Richiedi Autorizzazione Da</translation>
-    </message>
-    <message>
-        <source>Remove Authorization From</source>
-        <translation type="vanished">Rimuovi Autorizzazione Da</translation>
-    </message>
-    <message>
         <source>Sen&amp;d Status</source>
         <translation>Invi&amp;a Stato</translation>
     </message>
@@ -13249,32 +13041,12 @@ Ciò può voler dire che stai già eseguendo un altra istanza di Psi. Potresti s
         <translation>&amp;Informazioni Utente</translation>
     </message>
     <message>
-        <source>Invite To</source>
-        <translation type="vanished">Invita A</translation>
-    </message>
-    <message>
         <source>&amp;Group</source>
         <translation>&amp;Gruppo</translation>
     </message>
     <message>
-        <source>Send Message To</source>
-        <translation type="vanished">Manda Messaggio A</translation>
-    </message>
-    <message>
-        <source>Open Chat To</source>
-        <translation type="vanished">Apri Chat Con</translation>
-    </message>
-    <message>
-        <source>Open a Whiteboard To</source>
-        <translation type="vanished">Apri una Lavagna a</translation>
-    </message>
-    <message>
         <source>E&amp;xecute Command</source>
         <translation>E&amp;segui Comando</translation>
-    </message>
-    <message>
-        <source>Active Chats</source>
-        <translation type="vanished">Chat Attive</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -13295,10 +13067,6 @@ Ciò può voler dire che stai già eseguendo un altra istanza di Psi. Potresti s
     <message>
         <source>Always Visible</source>
         <translation>Sempre Visibile</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="vanished">Autorizzazione</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
@@ -15804,100 +15572,6 @@ Motivo: %1</translation>
     <message>
         <source>Cancel</source>
         <translation>Annulla</translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Template editor</source>
-        <translation type="vanished">Editor del modello</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="vanished">Modelli</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">Aggiungi</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation type="vanished">Modifica</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="vanished">Rimuovi</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="vanished">Ok</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Annulla</translation>
-    </message>
-    <message>
-        <source>Add template string</source>
-        <translation type="vanished">Aggiungi stringa modello</translation>
-    </message>
-    <message>
-        <source>Add template string as submenu</source>
-        <translation type="vanished">Aggiungi stringa modello come sottomenu</translation>
-    </message>
-    <message>
-        <source>Add separator</source>
-        <translation type="vanished">Aggiungi separatore</translation>
-    </message>
-    <message>
-        <source>Add separator as submenu</source>
-        <translation type="vanished">Aggiungi separatore come sottomenu</translation>
-    </message>
-    <message>
-        <source>Up</source>
-        <translation type="vanished">Sopra</translation>
-    </message>
-    <message>
-        <source>Down</source>
-        <translation type="vanished">Sotto</translation>
-    </message>
-    <message>
-        <source>&lt;separator&gt;</source>
-        <translation type="vanished">&lt;separator&gt;</translation>
-    </message>
-    <message>
-        <source>Edit template</source>
-        <translation type="vanished">Modifica modello</translation>
-    </message>
-    <message>
-        <source>Input new template text</source>
-        <translation type="vanished">Immetti testo del nuovo template</translation>
-    </message>
-    <message>
-        <source>Save templates</source>
-        <translation type="vanished">Salva modello</translation>
-    </message>
-    <message>
-        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="vanished">Il modello &quot;%1&quot; non è stato salvato!</translation>
-    </message>
-    <message>
-        <source>Continue?</source>
-        <translation type="vanished">Continua?</translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesMenu</name>
-    <message>
-        <source>Paste and &amp;Send</source>
-        <translation type="vanished">Copia e &amp;Incolla</translation>
-    </message>
-    <message>
-        <source>&amp;Edit Templates</source>
-        <translation type="vanished">&amp;Modifica modelli</translation>
-    </message>
-    <message>
-        <source>Only &amp;Paste</source>
-        <translation type="vanished">&amp;Incolla solo</translation>
     </message>
 </context>
 <context>

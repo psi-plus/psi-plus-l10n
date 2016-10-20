@@ -1698,10 +1698,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Активен повик</translation>
     </message>
     <message>
-        <source>Call ended</source>
-        <translation type="obsolete">Повикот заврши</translation>
-    </message>
-    <message>
         <source>Call is ended</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6030,10 +6026,6 @@ For sending commands, normal messages are used, so this plugin will always work 
 <context>
     <name>HistoryDlg</name>
     <message>
-        <source>Advanced</source>
-        <translation type="obsolete">Напредно</translation>
-    </message>
-    <message>
         <source>&amp;Previous</source>
         <translation>&amp;Претходни</translation>
     </message>
@@ -6816,10 +6808,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished">Статус</translation>
     </message>
     <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Затвори</translation>
-    </message>
-    <message>
         <source>E-Mail:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6902,65 +6890,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>Open web browser</source>
-        <translation type="obsolete">Отвори прелистувач</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Предупредување</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">Не ги објавивте променетите информации за Вашата сметка.
-Сакате да ги заборавите?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Затвори и отфрли</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Не затворај</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">Успех</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">Информациите за Вашата сметка се објавени.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Грешка</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">Информациите за Вашата сметка не можат да се приберат.  Можеби немате внесено ништо.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">Информациите за контактот не може да се приберат.
-Причина: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">Информаците за Вашата сметка не може да се објават.
-Причини: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation type="vanished">Сликата не е достапна</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">Статус</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation type="unfinished"></translation>
@@ -7867,13 +7796,6 @@ Active accounts:</source>
         <source>
 Incoming event(s) from:</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>MainWin::Private</name>
-    <message>
-        <source>Diagnostics</source>
-        <translation type="obsolete">Дијагноза</translation>
     </message>
 </context>
 <context>
@@ -10343,10 +10265,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Опции за приклучоците за Psi</translation>
     </message>
     <message>
-        <source>No plugin selected.</source>
-        <translation type="vanished">Нема одбран приклучок.</translation>
-    </message>
-    <message>
         <source>Plugin Path:
 %1</source>
         <translation type="unfinished"></translation>
@@ -11021,10 +10939,6 @@ Please enter your passphrase below:</source>
 <context>
     <name>PluginInfoDialog</name>
     <message>
-        <source>Information</source>
-        <translation type="obsolete">Информации</translation>
-    </message>
-    <message>
         <source>About</source>
         <translation type="unfinished">За</translation>
     </message>
@@ -11553,10 +11467,6 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     <message>
         <source>&amp;Yes</source>
         <translation>&amp;Да</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">Папката не може целосно да се избрише.  Проверете дали ја имате потребната дозвола.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12944,26 +12854,6 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation type="unfinished">Испрати &amp;датотека</translation>
     </message>
     <message>
-        <source>&amp;Log on</source>
-        <translation type="obsolete">&amp;Вклучи се</translation>
-    </message>
-    <message>
-        <source>Log Off</source>
-        <translation type="obsolete">Исклучи се</translation>
-    </message>
-    <message>
-        <source>Resend Authorization To</source>
-        <translation type="obsolete">Испрати овластување до</translation>
-    </message>
-    <message>
-        <source>Rerequest Authorization From</source>
-        <translation type="obsolete">Побарај овластување од</translation>
-    </message>
-    <message>
-        <source>Remove Authorization From</source>
-        <translation type="obsolete">Отстрани овластување од</translation>
-    </message>
-    <message>
         <source>&amp;Assign Custom Picture</source>
         <translation type="unfinished">&amp;Додели сопствена слика</translation>
     </message>
@@ -12984,40 +12874,16 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation type="unfinished">&amp;Информации за корисникот</translation>
     </message>
     <message>
-        <source>Invite To</source>
-        <translation type="obsolete">Покани на</translation>
-    </message>
-    <message>
         <source>&amp;Group</source>
         <translation type="unfinished">&amp;Група</translation>
-    </message>
-    <message>
-        <source>Send Message To</source>
-        <translation type="obsolete">Испрати порака до</translation>
-    </message>
-    <message>
-        <source>Open Chat To</source>
-        <translation type="obsolete">Започни разговор со</translation>
-    </message>
-    <message>
-        <source>Open a Whiteboard To</source>
-        <translation type="obsolete">Отвори ја таблата кон</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
         <translation type="unfinished">И&amp;зврши наредба</translation>
     </message>
     <message>
-        <source>Active Chats</source>
-        <translation type="obsolete">Активни разговори</translation>
-    </message>
-    <message>
         <source>Hide</source>
         <translation type="unfinished">Скриј</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="obsolete">Овластување</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
@@ -15537,17 +15403,6 @@ Reason: %1</source>
     <message>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Add</source>
-        <translation type="obsolete">Додај</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="obsolete">Отстрани</translation>
     </message>
 </context>
 <context>

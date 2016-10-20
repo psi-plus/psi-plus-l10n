@@ -1557,10 +1557,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Geslo:</translation>
     </message>
     <message>
-        <source>Auto-join</source>
-        <translation type="vanished">Samodejno se pridruži</translation>
-    </message>
-    <message>
         <source>Import bookmarks from file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1700,10 +1696,6 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Call active</source>
         <translation>Klic je aktiven</translation>
-    </message>
-    <message>
-        <source>Call ended</source>
-        <translation type="obsolete">Klic se je zaključil</translation>
     </message>
     <message>
         <source>Call is ended</source>
@@ -6036,10 +6028,6 @@ For sending commands, normal messages are used, so this plugin will always work 
 <context>
     <name>HistoryDlg</name>
     <message>
-        <source>Advanced</source>
-        <translation type="obsolete">Napredno</translation>
-    </message>
-    <message>
         <source>&amp;Previous</source>
         <translation>&amp;Starejše</translation>
     </message>
@@ -6798,10 +6786,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>Info</name>
     <message>
-        <source>User Info</source>
-        <translation type="vanished">O stiku</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation>Splošno</translation>
     </message>
@@ -6905,116 +6889,16 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>Status</source>
         <translation>Stanje</translation>
     </message>
-    <message>
-        <source>Alt+D</source>
-        <translation type="vanished">Alt+D</translation>
-    </message>
-    <message>
-        <source>psi/disco</source>
-        <translation type="vanished">psi/disco</translation>
-    </message>
-    <message>
-        <source>&amp;Publish</source>
-        <translation type="vanished">&amp;Objavi</translation>
-    </message>
-    <message>
-        <source>&amp;Retrieve</source>
-        <translation type="vanished">&amp;Pridobi</translation>
-    </message>
-    <message>
-        <source>psi/reload</source>
-        <translation type="vanished">psi/reload</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Zapri</translation>
-    </message>
-    <message>
-        <source>psi/close</source>
-        <translation type="vanished">psi/close</translation>
-    </message>
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>First Name:</source>
-        <translation type="vanished">Ime:</translation>
-    </message>
-    <message>
-        <source>Middle Name:</source>
-        <translation type="vanished">Srednje ime:</translation>
-    </message>
-    <message>
-        <source>Last Name:</source>
-        <translation type="vanished">Priimek:</translation>
-    </message>
-    <message>
-        <source>Open web browser</source>
-        <translation type="obsolete">Odpri spletni brskalnik</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Opozorilo</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">Sprememb podatkov za svoj račun še niste objavili.
-Ste prepičani, da jih želite zavreči?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Zapri in zavrzi</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Ne zapiraj</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">Uspeh</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">Podatki za vaš račun so bili objavljeni.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Napaka</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">Ni moč pridobiti podatkov za vaš račun. Mogoče jih še niste vnesli.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">Ni moč pridobiti podatkov za ta stik.
-Razlog: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">Ni možno objaviti podatkov za vaš račun.
-Razlog: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation type="vanished">Slika ni
-na voljo</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">Stanje</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation type="unfinished">O stiku</translation>
     </message>
     <message>
         <source>Alt+D</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alt+I</translation>
     </message>
     <message>
         <source>psi/disco</source>
@@ -7918,13 +7802,6 @@ Incoming event(s) from:</source>
     </message>
 </context>
 <context>
-    <name>MainWin::Private</name>
-    <message>
-        <source>Diagnostics</source>
-        <translation type="obsolete">Diagnostika</translation>
-    </message>
-</context>
-<context>
     <name>MainWindow</name>
     <message>
         <source>New</source>
@@ -8743,22 +8620,6 @@ Tags: %1</source>
     <message>
         <source>OptPluginsUI</source>
         <translation>OptPluginsUI</translation>
-    </message>
-    <message>
-        <source>Plugin Name:</source>
-        <translation type="vanished">Ime vstavka:</translation>
-    </message>
-    <message>
-        <source>Load this plugin</source>
-        <translation type="vanished">Naloži ta vstavek</translation>
-    </message>
-    <message>
-        <source>Plugin Location:</source>
-        <translation type="vanished">Lokacija vstavka:</translation>
-    </message>
-    <message>
-        <source>No plugin selected</source>
-        <translation type="vanished">Izbran ni noben vstavek</translation>
     </message>
     <message>
         <source>Plugin Name</source>
@@ -10412,10 +10273,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Možnosti za vstavke za Psi</translation>
     </message>
     <message>
-        <source>No plugin selected.</source>
-        <translation type="vanished">Izbran ni noben vstavek.</translation>
-    </message>
-    <message>
         <source>Plugin Path:
 %1</source>
         <translation type="unfinished"></translation>
@@ -11091,10 +10948,6 @@ Vnesite svojo šifrirno frazo:</translation>
 <context>
     <name>PluginInfoDialog</name>
     <message>
-        <source>Information</source>
-        <translation type="obsolete">Podatki</translation>
-    </message>
-    <message>
         <source>Close</source>
         <translation type="unfinished">Zapri</translation>
     </message>
@@ -11623,10 +11476,6 @@ Uporabljajte samo črke in številke, brez presledkov ali ločil.</translation>
     <message>
         <source>&amp;Yes</source>
         <translation>&amp;Da</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">Ni moč povsem izbrisati mape. Prepričajte se, da imate dovolj pravic za to.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -13019,26 +12868,6 @@ To pomeni, da morda poganjate drug izvod Psi-ja. Morda bo prišlo do težav pri 
         <translation type="unfinished">Pošlji &amp;datoteko</translation>
     </message>
     <message>
-        <source>&amp;Log on</source>
-        <translation type="obsolete">&amp;Prijavi se</translation>
-    </message>
-    <message>
-        <source>Log Off</source>
-        <translation type="obsolete">Odjavi</translation>
-    </message>
-    <message>
-        <source>Resend Authorization To</source>
-        <translation type="obsolete">Znova odobri stiku</translation>
-    </message>
-    <message>
-        <source>Rerequest Authorization From</source>
-        <translation type="obsolete">Znova zahtevaj odobritev od stika</translation>
-    </message>
-    <message>
-        <source>Remove Authorization From</source>
-        <translation type="obsolete">Odstrani odobritev od stika</translation>
-    </message>
-    <message>
         <source>&amp;Assign Custom Picture</source>
         <translation type="unfinished">&amp;Dodeli sliko po meri</translation>
     </message>
@@ -13055,40 +12884,16 @@ To pomeni, da morda poganjate drug izvod Psi-ja. Morda bo prišlo do težav pri 
         <translation type="unfinished">Odvzemi ključ Open&amp;PGP</translation>
     </message>
     <message>
-        <source>Invite To</source>
-        <translation type="obsolete">Povabi v</translation>
-    </message>
-    <message>
         <source>&amp;Group</source>
         <translation type="unfinished">&amp;Skupina</translation>
-    </message>
-    <message>
-        <source>Send Message To</source>
-        <translation type="obsolete">Pošlji sporočilo stiku</translation>
-    </message>
-    <message>
-        <source>Open Chat To</source>
-        <translation type="obsolete">Odpri klepet s stikom</translation>
-    </message>
-    <message>
-        <source>Open a Whiteboard To</source>
-        <translation type="obsolete">Odpri tablo za stik</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
         <translation type="unfinished">&amp;Izvedi ukaz</translation>
     </message>
     <message>
-        <source>Active Chats</source>
-        <translation type="obsolete">Dejavni klepeti</translation>
-    </message>
-    <message>
         <source>Hide</source>
         <translation type="unfinished">Skrij</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="obsolete">Odobritev</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
@@ -14086,10 +13891,6 @@ Nadaljujem?</translation>
     <message>
         <source>Warning</source>
         <translation type="unfinished">Opozorilo</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">V redu</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -15624,33 +15425,6 @@ Razlog: %1</translation>
     <message>
         <source>Cancel</source>
         <translation>Prekliči</translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Add</source>
-        <translation type="obsolete">Dodaj</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="obsolete">Odstrani</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">V redu</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="obsolete">Prekliči</translation>
-    </message>
-    <message>
-        <source>Up</source>
-        <translation type="obsolete">Gor</translation>
-    </message>
-    <message>
-        <source>Down</source>
-        <translation type="obsolete">Dol</translation>
     </message>
 </context>
 <context>

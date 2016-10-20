@@ -130,10 +130,6 @@ Copyright © 2001-2014 Tým Psi.&lt;br&gt;</translation>
         <translation>Hlavní správce záplat a autor zásuvných modulů; Balíkář pro Mac OS X</translation>
     </message>
     <message>
-        <source>Designer and Patcher</source>
-        <translation type="vanished">Designer a patcher</translation>
-    </message>
-    <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
         <translation>Patcher, autor pluginů a Fedora balíkář</translation>
     </message>
@@ -1594,10 +1590,6 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     <message>
         <source>Password:</source>
         <translation>Heslo:</translation>
-    </message>
-    <message>
-        <source>Auto-join</source>
-        <translation type="vanished">Automatické připojení</translation>
     </message>
     <message>
         <source>Import bookmarks from file</source>
@@ -6862,10 +6854,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>Info</name>
     <message>
-        <source>User Info</source>
-        <translation type="vanished">Informace o uživateli</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation>Všeobecné</translation>
     </message>
@@ -6969,125 +6957,9 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>Status</source>
         <translation>Stav</translation>
     </message>
-    <message>
-        <source>Alt+D</source>
-        <translation type="vanished">Alt+D</translation>
-    </message>
-    <message>
-        <source>psi/disco</source>
-        <translation type="vanished">psi/disco</translation>
-    </message>
-    <message>
-        <source>&amp;Publish</source>
-        <translation type="vanished">Z&amp;veřejnit</translation>
-    </message>
-    <message>
-        <source>&amp;Retrieve</source>
-        <translation type="vanished">Zí&amp;skat</translation>
-    </message>
-    <message>
-        <source>psi/reload</source>
-        <translation type="vanished">psi/reload</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Zavřít</translation>
-    </message>
-    <message>
-        <source>psi/close</source>
-        <translation type="vanished">psi/close</translation>
-    </message>
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>First Name:</source>
-        <translation type="vanished">Jméno:</translation>
-    </message>
-    <message>
-        <source>Middle Name:</source>
-        <translation type="vanished">Druhé Jméno:</translation>
-    </message>
-    <message>
-        <source>Last Name:</source>
-        <translation type="vanished">Příjmení:</translation>
-    </message>
-    <message>
-        <source>Edit names</source>
-        <translation type="vanished">Upravit jména</translation>
-    </message>
-    <message>
-        <source>View names</source>
-        <translation type="vanished">Zobrazit jména</translation>
-    </message>
-    <message>
-        <source>Open web browser</source>
-        <translation type="vanished">Otevřít webový prohlížeč</translation>
-    </message>
-    <message>
-        <source>No date</source>
-        <translation type="vanished">Bez data</translation>
-    </message>
-    <message>
-        <source>Edit birthday</source>
-        <translation type="vanished">Upravit narozeniny</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Varování</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">Nebyly zveřejněny změny informací o tvém účtu.
-Opravdu stornovat změny?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Zavřít a stornovat</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Nezavírat</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">Úspěch</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">Informace o vlastním účtu byly zveřejněny.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Chyba</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">Nelze získat informace o tvém účtu.  Zřejmě nebyly ještě žádné vloženy.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">Nelze získat informace o tomto kontaktu.
-Zdůvodnění: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">Nelze zveřejnit informace o tvém účtu.
-Zdůvodnění: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation type="vanished">Obrázek není
-k dispozici</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">Stav</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation type="unfinished"></translation>
@@ -7145,7 +7017,7 @@ k dispozici</translation>
     </message>
     <message>
         <source>Open web browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otevřít web prohlížeč</translation>
     </message>
     <message>
         <source>No date</source>
@@ -8826,26 +8698,6 @@ Tagy: %1</translation>
         <translation>OptPluginsUI</translation>
     </message>
     <message>
-        <source>Plugin Name:</source>
-        <translation type="vanished">Název pluginu:</translation>
-    </message>
-    <message>
-        <source>Version: 0</source>
-        <translation type="vanished">Verze: 0</translation>
-    </message>
-    <message>
-        <source>Load this plugin</source>
-        <translation type="vanished">Načíst tento plugin</translation>
-    </message>
-    <message>
-        <source>Plugin Location:</source>
-        <translation type="vanished">Umístění pluginu:</translation>
-    </message>
-    <message>
-        <source>No plugin selected</source>
-        <translation type="vanished">Nebyl vybrán žádný plugin</translation>
-    </message>
-    <message>
         <source>Plugin Name</source>
         <translation>Název zásuvného modulu</translation>
     </message>
@@ -9006,10 +8858,6 @@ Tagy: %1</translation>
     <message>
         <source>Autohide roster after</source>
         <translation>Automaticky skrýt roster po</translation>
-    </message>
-    <message>
-        <source>seconds</source>
-        <translation type="vanished">vteřinách</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -10521,14 +10369,6 @@ zprávy v chatu víde lidí)</translation>
         <translation>Volby pro zásuvní moduly Psi</translation>
     </message>
     <message>
-        <source>No plugin selected.</source>
-        <translation type="vanished">Nebyl vybrán žádný zásuvný modul.</translation>
-    </message>
-    <message>
-        <source>Version: </source>
-        <translation type="vanished">Verze: </translation>
-    </message>
-    <message>
         <source>Plugin Path:
 %1</source>
         <translation>Cesta zásuvného modulu:
@@ -10541,10 +10381,6 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <source>Open plugin settings dialog</source>
         <translation>Otevře dialog nastavení zásuvného modulu</translation>
-    </message>
-    <message>
-        <source>Settings of %1</source>
-        <translation type="vanished">Nastavení pro %1</translation>
     </message>
 </context>
 <context>
@@ -10918,10 +10754,6 @@ zprávy v chatu víde lidí)</translation>
         <translation>vždy</translation>
     </message>
     <message>
-        <source>Save queryes to log</source>
-        <translation type="vanished">Ukládat požadavky do logu</translation>
-    </message>
-    <message>
         <source>Logs</source>
         <translation>Logy</translation>
     </message>
@@ -11213,10 +11045,6 @@ Prosím vlož svou heslovací frázi:</translation>
 <context>
     <name>PluginInfoDialog</name>
     <message>
-        <source>Information</source>
-        <translation type="vanished">Informace</translation>
-    </message>
-    <message>
         <source>About</source>
         <translation>O modulu</translation>
     </message>
@@ -11230,13 +11058,6 @@ Prosím vlož svou heslovací frázi:</translation>
     <message>
         <source>This plugin has no user configurable options</source>
         <translation>Tento zásuvný modul nemá žadné uživatelem nastavitelné volby</translation>
-    </message>
-</context>
-<context>
-    <name>PluginSettingsDialog</name>
-    <message>
-        <source>SettingsDialog</source>
-        <translation type="vanished">SettingsDialog</translation>
     </message>
 </context>
 <context>
@@ -11747,24 +11568,12 @@ Používej pouze písmena a číslice.  Nepoužívej interpunkci nebo mezery.</t
         <translation>Smaž to!</translation>
     </message>
     <message>
-        <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
-&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Proceed?</source>
-        <translation type="vanished">&lt;qt&gt;Pozor, ptám se tě naposledy, jestli je to opravdu to, co chceš. Následující adresář bude smazán!&lt;br&gt;&lt;br&gt;
-&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Pokračovat?</translation>
-    </message>
-    <message>
         <source>&amp;No</source>
         <translation>&amp;Ne</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
         <translation>&amp;Ano</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">Nelze vymazat celý adresář.  Ujisti se, zda máš dostatečná práva.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12832,14 +12641,6 @@ Důvod: %1.</translation>
         <translation>Přepnout kompaktní/plnou velikost</translation>
     </message>
     <message>
-        <source>Paste and Send</source>
-        <translation type="vanished">Vložit a poslat</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="vanished">Šablony</translation>
-    </message>
-    <message>
         <source>Chat basic buttons</source>
         <translation>Základní tlačítka chatu</translation>
     </message>
@@ -13188,26 +12989,6 @@ To možná znamená, že je již puštěna jiná instance Psi. To může způsob
         <translation>Poslat &amp;soubor</translation>
     </message>
     <message>
-        <source>&amp;Log on</source>
-        <translation type="vanished">&amp;Přihlásit se</translation>
-    </message>
-    <message>
-        <source>Log Off</source>
-        <translation type="vanished">Odhlásit</translation>
-    </message>
-    <message>
-        <source>Resend Authorization To</source>
-        <translation type="vanished">Znovu poslat oprávnění</translation>
-    </message>
-    <message>
-        <source>Rerequest Authorization From</source>
-        <translation type="vanished">Znovu vyžádat oprávnění</translation>
-    </message>
-    <message>
-        <source>Remove Authorization From</source>
-        <translation type="vanished">Odebrat oprávnění</translation>
-    </message>
-    <message>
         <source>Sen&amp;d Status</source>
         <translation>&amp;Poslat stav</translation>
     </message>
@@ -13232,32 +13013,12 @@ To možná znamená, že je již puštěna jiná instance Psi. To může způsob
         <translation>&amp;Informace o uživateli</translation>
     </message>
     <message>
-        <source>Invite To</source>
-        <translation type="vanished">Pozvat do</translation>
-    </message>
-    <message>
         <source>&amp;Group</source>
         <translation>&amp;Skupina</translation>
     </message>
     <message>
-        <source>Send Message To</source>
-        <translation type="vanished">Poslat zprávu</translation>
-    </message>
-    <message>
-        <source>Open Chat To</source>
-        <translation type="vanished">Otevřít chat</translation>
-    </message>
-    <message>
-        <source>Open a Whiteboard To</source>
-        <translation type="vanished">Otevřít tabuli</translation>
-    </message>
-    <message>
         <source>E&amp;xecute Command</source>
         <translation>Vy&amp;konat příkaz</translation>
-    </message>
-    <message>
-        <source>Active Chats</source>
-        <translation type="vanished">Aktivní chaty</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -13278,10 +13039,6 @@ To možná znamená, že je již puštěna jiná instance Psi. To může způsob
     <message>
         <source>Always Visible</source>
         <translation>Vždy viditelný</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="vanished">Oprávnění</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
@@ -15790,100 +15547,6 @@ Zdůvodnění: %1</translation>
     <message>
         <source>Cancel</source>
         <translation>Zrušit</translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Template editor</source>
-        <translation type="vanished">Editor šablon</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="vanished">Šablony</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">Přidat</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation type="vanished">Upravit</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="vanished">Odstranit</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="vanished">Ok</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Zrušit</translation>
-    </message>
-    <message>
-        <source>Add template string</source>
-        <translation type="vanished">Přidat řětězec šablony</translation>
-    </message>
-    <message>
-        <source>Add template string as submenu</source>
-        <translation type="vanished">Přidat řětězec šablony jako podnabídku</translation>
-    </message>
-    <message>
-        <source>Add separator</source>
-        <translation type="vanished">Přidat oddělovač</translation>
-    </message>
-    <message>
-        <source>Add separator as submenu</source>
-        <translation type="vanished">Přidat oddělovač jako podnabídku</translation>
-    </message>
-    <message>
-        <source>Up</source>
-        <translation type="vanished">Nahoru</translation>
-    </message>
-    <message>
-        <source>Down</source>
-        <translation type="vanished">Dolů</translation>
-    </message>
-    <message>
-        <source>&lt;separator&gt;</source>
-        <translation type="vanished">&lt;oddělovač&gt;</translation>
-    </message>
-    <message>
-        <source>Edit template</source>
-        <translation type="vanished">Upravit šablonu</translation>
-    </message>
-    <message>
-        <source>Input new template text</source>
-        <translation type="vanished">Vlož text nové šablony</translation>
-    </message>
-    <message>
-        <source>Save templates</source>
-        <translation type="vanished">Uložit šablony</translation>
-    </message>
-    <message>
-        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="vanished">Šablona &quot;%1&quot; nebyla uložena!</translation>
-    </message>
-    <message>
-        <source>Continue?</source>
-        <translation type="vanished">Pokračovat?</translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesMenu</name>
-    <message>
-        <source>Paste and &amp;Send</source>
-        <translation type="vanished">Vložit a &amp;poslat</translation>
-    </message>
-    <message>
-        <source>&amp;Edit Templates</source>
-        <translation type="vanished">&amp;Upravit šablony</translation>
-    </message>
-    <message>
-        <source>Only &amp;Paste</source>
-        <translation type="vanished">Jenom &amp;Vložit</translation>
     </message>
 </context>
 <context>

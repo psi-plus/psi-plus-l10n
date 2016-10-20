@@ -55,16 +55,6 @@
     <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
-Copyright © 2001-2013 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="obsolete">A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2013 The Psi Team.&lt;br&gt;
-</translation>
-    </message>
-    <message>
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
 Copyright © 2001-2014 The Psi Team.&lt;br&gt;
 </source>
         <translation type="unfinished">A cross-platform XMPP client designed for the power user.&lt;br&gt;
@@ -141,10 +131,6 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;
         <translation>Lead Patcher and Plugins Writer; Mac OS X Packager</translation>
     </message>
     <message>
-        <source>Designer and Patcher</source>
-        <translation type="vanished">Designer and Patcher</translation>
-    </message>
-    <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
         <translation>Patcher, Plugins Writer and Fedora Packager</translation>
     </message>
@@ -171,10 +157,6 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
         <translation>Psimedia Patcher and Wiki English localization</translation>
-    </message>
-    <message>
-        <source>OpenSUSE Packager</source>
-        <translation type="obsolete">OpenSUSE Packager</translation>
     </message>
     <message>
         <source>Language coordinator; Debian Packager</source>
@@ -1610,10 +1592,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Password:</translation>
     </message>
     <message>
-        <source>Auto-join</source>
-        <translation type="vanished">Auto-join</translation>
-    </message>
-    <message>
         <source>Import bookmarks from file</source>
         <translation>Import bookmarks from file</translation>
     </message>
@@ -1753,10 +1731,6 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Call active</source>
         <translation>Call active</translation>
-    </message>
-    <message>
-        <source>Call ended</source>
-        <translation type="obsolete">Call ended</translation>
     </message>
     <message>
         <source>Call is ended</source>
@@ -6112,10 +6086,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>HistoryDlg</translation>
     </message>
     <message>
-        <source>Advanced</source>
-        <translation type="obsolete">Advanced</translation>
-    </message>
-    <message>
         <source>Refresh history</source>
         <translation>Refresh history</translation>
     </message>
@@ -6901,10 +6871,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>Info</name>
     <message>
-        <source>User Info</source>
-        <translation type="vanished">User Info</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation>General</translation>
     </message>
@@ -7008,125 +6974,9 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>Status</source>
         <translation>Status</translation>
     </message>
-    <message>
-        <source>Alt+D</source>
-        <translation type="vanished">Alt+D</translation>
-    </message>
-    <message>
-        <source>psi/disco</source>
-        <translation type="vanished">psi/disco</translation>
-    </message>
-    <message>
-        <source>&amp;Publish</source>
-        <translation type="vanished">&amp;Publish</translation>
-    </message>
-    <message>
-        <source>&amp;Retrieve</source>
-        <translation type="vanished">&amp;Retrieve</translation>
-    </message>
-    <message>
-        <source>psi/reload</source>
-        <translation type="vanished">psi/reload</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Close</translation>
-    </message>
-    <message>
-        <source>psi/close</source>
-        <translation type="vanished">psi/close</translation>
-    </message>
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>First Name:</source>
-        <translation type="vanished">First Name:</translation>
-    </message>
-    <message>
-        <source>Middle Name:</source>
-        <translation type="vanished">Middle Name:</translation>
-    </message>
-    <message>
-        <source>Last Name:</source>
-        <translation type="vanished">Last Name:</translation>
-    </message>
-    <message>
-        <source>Edit names</source>
-        <translation type="vanished">Edit names</translation>
-    </message>
-    <message>
-        <source>View names</source>
-        <translation type="vanished">View names</translation>
-    </message>
-    <message>
-        <source>Open web browser</source>
-        <translation type="vanished">Open web browser</translation>
-    </message>
-    <message>
-        <source>No date</source>
-        <translation type="vanished">No date</translation>
-    </message>
-    <message>
-        <source>Edit birthday</source>
-        <translation type="vanished">Edit birthday</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Warning</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">You have not published your account information changes.
-Are you sure you want to discard them?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Close and discard</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Don&apos;t close</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">Success</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">Your account information has been published.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Error</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">Unable to retrieve information about this contact.
-Reason: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">Unable to publish your account information.
-Reason: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation type="vanished">Picture not
-available</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">Status</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation type="unfinished">User Info</translation>
@@ -7474,13 +7324,6 @@ to play battleship. He wants to play %2.</source>
     <message>
         <source>Input New Name</source>
         <translation>Input New Name</translation>
-    </message>
-</context>
-<context>
-    <name>JT_VCard</name>
-    <message>
-        <source>No VCard available</source>
-        <translation type="obsolete">No VCard available</translation>
     </message>
 </context>
 <context>
@@ -8052,13 +7895,6 @@ Incoming event(s) from:</translation>
     <message>
         <source>%1 events received</source>
         <translation>%1 events received</translation>
-    </message>
-</context>
-<context>
-    <name>MainWin::Private</name>
-    <message>
-        <source>Diagnostics</source>
-        <translation type="obsolete">Diagnostics</translation>
     </message>
 </context>
 <context>
@@ -8884,26 +8720,6 @@ Tags: %1</translation>
         <translation>OptPluginsUI</translation>
     </message>
     <message>
-        <source>Plugin Name:</source>
-        <translation type="vanished">Plugin Name:</translation>
-    </message>
-    <message>
-        <source>Version: 0</source>
-        <translation type="vanished">Version: 0</translation>
-    </message>
-    <message>
-        <source>Load this plugin</source>
-        <translation type="vanished">Load this plugin</translation>
-    </message>
-    <message>
-        <source>Plugin Location:</source>
-        <translation type="vanished">Plugin Location:</translation>
-    </message>
-    <message>
-        <source>No plugin selected</source>
-        <translation type="vanished">No plugin selected</translation>
-    </message>
-    <message>
         <source>Plugin Name</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9064,10 +8880,6 @@ Tags: %1</translation>
     <message>
         <source>Autohide roster after</source>
         <translation>Autohide roster after</translation>
-    </message>
-    <message>
-        <source>seconds</source>
-        <translation type="vanished">seconds</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -10576,14 +10388,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Options for Psi plugins</translation>
     </message>
     <message>
-        <source>No plugin selected.</source>
-        <translation type="vanished">No plugin selected.</translation>
-    </message>
-    <message>
-        <source>Version: </source>
-        <translation type="vanished">Version: </translation>
-    </message>
-    <message>
         <source>Plugin Path:
 %1</source>
         <translation type="unfinished"></translation>
@@ -10968,10 +10772,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>always</translation>
     </message>
     <message>
-        <source>Save queryes to log</source>
-        <translation type="vanished">Save queryes to log</translation>
-    </message>
-    <message>
         <source>Logs</source>
         <translation>Logs</translation>
     </message>
@@ -11262,10 +11062,6 @@ Please enter your passphrase below:</translation>
 </context>
 <context>
     <name>PluginInfoDialog</name>
-    <message>
-        <source>Information</source>
-        <translation type="vanished">Information</translation>
-    </message>
     <message>
         <source>About</source>
         <translation type="unfinished">About</translation>
@@ -11790,24 +11586,12 @@ Only use letters or numbers.  No punctuation or spaces.</translation>
         <translation>Delete it!</translation>
     </message>
     <message>
-        <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
-&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Proceed?</source>
-        <translation type="vanished">&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
-&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Proceed?</translation>
-    </message>
-    <message>
         <source>&amp;No</source>
         <translation>&amp;No</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
         <translation>&amp;Yes</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">Unable to delete the folder completely.  Ensure you have the proper permission.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12875,14 +12659,6 @@ Reason: %1.</translation>
         <translation>Toggle Compact/Full Size</translation>
     </message>
     <message>
-        <source>Paste and Send</source>
-        <translation type="vanished">Paste and Send</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="vanished">Templates</translation>
-    </message>
-    <message>
         <source>Chat basic buttons</source>
         <translation>Chat basic buttons</translation>
     </message>
@@ -13231,26 +13007,6 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation>Send &amp;File</translation>
     </message>
     <message>
-        <source>&amp;Log on</source>
-        <translation type="vanished">&amp;Log on</translation>
-    </message>
-    <message>
-        <source>Log Off</source>
-        <translation type="vanished">Log Off</translation>
-    </message>
-    <message>
-        <source>Resend Authorization To</source>
-        <translation type="vanished">Resend Authorization To</translation>
-    </message>
-    <message>
-        <source>Rerequest Authorization From</source>
-        <translation type="vanished">Rerequest Authorization From</translation>
-    </message>
-    <message>
-        <source>Remove Authorization From</source>
-        <translation type="vanished">Remove Authorization From</translation>
-    </message>
-    <message>
         <source>Sen&amp;d Status</source>
         <translation>Sen&amp;d Status</translation>
     </message>
@@ -13275,32 +13031,12 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation>User &amp;Info</translation>
     </message>
     <message>
-        <source>Invite To</source>
-        <translation type="vanished">Invite To</translation>
-    </message>
-    <message>
         <source>&amp;Group</source>
         <translation>&amp;Group</translation>
     </message>
     <message>
-        <source>Send Message To</source>
-        <translation type="vanished">Send Message To</translation>
-    </message>
-    <message>
-        <source>Open Chat To</source>
-        <translation type="vanished">Open Chat To</translation>
-    </message>
-    <message>
-        <source>Open a Whiteboard To</source>
-        <translation type="vanished">Open a Whiteboard To</translation>
-    </message>
-    <message>
         <source>E&amp;xecute Command</source>
         <translation>E&amp;xecute Command</translation>
-    </message>
-    <message>
-        <source>Active Chats</source>
-        <translation type="vanished">Active Chats</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -13321,10 +13057,6 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <source>Always Visible</source>
         <translation>Always Visible</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="vanished">Authorization</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
@@ -14844,26 +14576,6 @@ The message was not sent.</translation>
         <translation>Psi OTR</translation>
     </message>
     <message>
-        <source>Generating keys for account &quot;%1&quot;.
-This may take a while.</source>
-        <translation type="obsolete">Generating keys for account &quot;%1&quot;.
-This may take a while.</translation>
-    </message>
-    <message>
-        <source>Please wait...</source>
-        <translation type="obsolete">Please wait...</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">Ok</translation>
-    </message>
-    <message>
-        <source>Fingerprint for account &quot;%1&quot;:
-%2</source>
-        <translation type="obsolete">Fingerprint for account &quot;%1&quot;:
-%2</translation>
-    </message>
-    <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
 The OTR Plugin will not work.</source>
         <translation>Failed to generate keys for account &quot;%1&quot;.
@@ -15848,100 +15560,6 @@ Reason: %1</translation>
     <message>
         <source>Cancel</source>
         <translation>Cancel</translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Template editor</source>
-        <translation type="vanished">Template editor</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="vanished">Templates</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">Add</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation type="vanished">Edit</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="vanished">Remove</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="vanished">Ok</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Cancel</translation>
-    </message>
-    <message>
-        <source>Add template string</source>
-        <translation type="vanished">Add template string</translation>
-    </message>
-    <message>
-        <source>Add template string as submenu</source>
-        <translation type="vanished">Add template string as submenu</translation>
-    </message>
-    <message>
-        <source>Add separator</source>
-        <translation type="vanished">Add separator</translation>
-    </message>
-    <message>
-        <source>Add separator as submenu</source>
-        <translation type="vanished">Add separator as submenu</translation>
-    </message>
-    <message>
-        <source>Up</source>
-        <translation type="vanished">Up</translation>
-    </message>
-    <message>
-        <source>Down</source>
-        <translation type="vanished">Down</translation>
-    </message>
-    <message>
-        <source>&lt;separator&gt;</source>
-        <translation type="vanished">&lt;separator&gt;</translation>
-    </message>
-    <message>
-        <source>Edit template</source>
-        <translation type="vanished">Edit template</translation>
-    </message>
-    <message>
-        <source>Input new template text</source>
-        <translation type="vanished">Input new template text</translation>
-    </message>
-    <message>
-        <source>Save templates</source>
-        <translation type="vanished">Save templates</translation>
-    </message>
-    <message>
-        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="vanished">The template &quot;%1&quot; hasn&apos;t been saved!</translation>
-    </message>
-    <message>
-        <source>Continue?</source>
-        <translation type="vanished">Continue?</translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesMenu</name>
-    <message>
-        <source>Paste and &amp;Send</source>
-        <translation type="vanished">Paste and &amp;Send</translation>
-    </message>
-    <message>
-        <source>&amp;Edit Templates</source>
-        <translation type="vanished">&amp;Edit Templates</translation>
-    </message>
-    <message>
-        <source>Only &amp;Paste</source>
-        <translation type="vanished">Only &amp;Paste</translation>
     </message>
 </context>
 <context>
@@ -18634,22 +18252,8 @@ You should authenticate %1 as well by asking your own question.</translation>
         <translation>No active encrypted session</translation>
     </message>
     <message>
-        <source>Session ID between account &quot;%1&quot; and %2:&lt;br/&gt;%3</source>
-        <translation type="obsolete">Session ID between account &quot;%1&quot; and %2:&lt;br/&gt;%3</translation>
-    </message>
-    <message>
-        <source>Psi OTR</source>
-        <translation type="obsolete">Psi OTR</translation>
-    </message>
-    <message>
         <source>No private key for account &quot;%1&quot;</source>
         <translation>No private key for account &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <source>Fingerprint for account &quot;%1&quot;:
-%2</source>
-        <translation type="obsolete">Fingerprint for account &quot;%1&quot;:
-%2</translation>
     </message>
     <message>
         <source>unverified</source>

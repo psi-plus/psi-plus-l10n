@@ -131,10 +131,6 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
         <translation>מטליא מוביל ומחבר תוספים; אורז Mac OS X</translation>
     </message>
     <message>
-        <source>Designer and Patcher</source>
-        <translation type="vanished">רשם ומטליא</translation>
-    </message>
-    <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
         <translation>מטליא, מחבר תוספים ואורז Fedora</translation>
     </message>
@@ -1587,10 +1583,6 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Password:</source>
         <translation>סיסמה:</translation>
-    </message>
-    <message>
-        <source>Auto-join</source>
-        <translation type="vanished">הצטרף אוטומטית</translation>
     </message>
     <message>
         <source>Import bookmarks from file</source>
@@ -6841,10 +6833,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>Info</name>
     <message>
-        <source>User Info</source>
-        <translation type="vanished">מידע משתמש</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation>כללי</translation>
     </message>
@@ -6948,109 +6936,9 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>Status</source>
         <translation>מצב</translation>
     </message>
-    <message>
-        <source>&amp;Publish</source>
-        <translation type="vanished">&amp;פרסם</translation>
-    </message>
-    <message>
-        <source>&amp;Retrieve</source>
-        <translation type="vanished">&amp;אחזר</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;סגור</translation>
-    </message>
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>First Name:</source>
-        <translation type="vanished">שם פרטי:</translation>
-    </message>
-    <message>
-        <source>Middle Name:</source>
-        <translation type="vanished">שם אמצעי:</translation>
-    </message>
-    <message>
-        <source>Last Name:</source>
-        <translation type="vanished">שם משפחה:</translation>
-    </message>
-    <message>
-        <source>Edit names</source>
-        <translation type="vanished">עריכת שמות</translation>
-    </message>
-    <message>
-        <source>View names</source>
-        <translation type="vanished">הצגת שמות</translation>
-    </message>
-    <message>
-        <source>Open web browser</source>
-        <translation type="vanished">פתח דפדפן רשת</translation>
-    </message>
-    <message>
-        <source>No date</source>
-        <translation type="vanished">אין תאריך</translation>
-    </message>
-    <message>
-        <source>Edit birthday</source>
-        <translation type="vanished">ערוך יום הולדת</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">אזהרה</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">לא פרסמת את שינויי מידע חשבונך.
-האם אתה בטוח כי ברצונך לסלק אותם?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">סגור וסלק</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">אל תסגור</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">הצלחה</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">מידע חשבונך פורסם.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">שגיאה</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">אין אפשרות לאחזר את מידע חשבונך.  ייתכן כי לא הזנת פרטים עדיין.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">אין אפשרות לאחזר מידע אודות איש קשר זה.
-סיבה: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">אין אפשרות לפרסם את מידע חשבונך.
-סיבה: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation type="vanished">אין תמונה
-זמינה</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">מצב</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation type="unfinished">מידע משתמש</translation>
@@ -8779,26 +8667,6 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Plugin Name:</source>
-        <translation type="vanished">שם תוסף:</translation>
-    </message>
-    <message>
-        <source>Version: 0</source>
-        <translation type="vanished">גרסא: 0</translation>
-    </message>
-    <message>
-        <source>Load this plugin</source>
-        <translation type="vanished">טען את תוסף זה</translation>
-    </message>
-    <message>
-        <source>Plugin Location:</source>
-        <translation type="vanished">מיקום תוסף:</translation>
-    </message>
-    <message>
-        <source>No plugin selected</source>
-        <translation type="vanished">לא נבחר תוסף</translation>
-    </message>
-    <message>
         <source>Plugin Name</source>
         <translation>שם תוסף</translation>
     </message>
@@ -8959,10 +8827,6 @@ Tags: %1</source>
     <message>
         <source>Autohide roster after</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>seconds</source>
-        <translation type="vanished">שניות</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -10454,14 +10318,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>אפשרויות עבור תוספי Psi</translation>
     </message>
     <message>
-        <source>No plugin selected.</source>
-        <translation type="vanished">לא נבחר תוסף.</translation>
-    </message>
-    <message>
-        <source>Version: </source>
-        <translation type="vanished">גרסא: </translation>
-    </message>
-    <message>
         <source>Plugin Path:
 %1</source>
         <translation type="unfinished"></translation>
@@ -11137,10 +10993,6 @@ Please enter your passphrase below:</source>
 <context>
     <name>PluginInfoDialog</name>
     <message>
-        <source>Information</source>
-        <translation type="vanished">מידע</translation>
-    </message>
-    <message>
         <source>About</source>
         <translation>אודות</translation>
     </message>
@@ -11663,24 +11515,12 @@ Only use letters or numbers.  No punctuation or spaces.</source>
         <translation>מחוק אותו!</translation>
     </message>
     <message>
-        <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
-&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Proceed?</source>
-        <translation type="vanished">&lt;qt&gt;כאמצעי זהירות, הינך נשאל פעם אחת אחרונה אם זו אכן דבר אשר ברצונך לעשות.  התיקייה הבאה תימחק!&lt;br&gt;&lt;br&gt;
-&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-להמשיך?</translation>
-    </message>
-    <message>
         <source>&amp;No</source>
         <translation>&amp;לא</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
         <translation>&amp;כן</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">אין אפשרות למחוק את התיקייה לחלוטין.  ודא כי עומדות לרשותך ההרשאות המתאימות.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -13096,26 +12936,6 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation>שלח &amp;קובץ</translation>
     </message>
     <message>
-        <source>&amp;Log on</source>
-        <translation type="vanished">הת&amp;חבר</translation>
-    </message>
-    <message>
-        <source>Log Off</source>
-        <translation type="vanished">התנתק</translation>
-    </message>
-    <message>
-        <source>Resend Authorization To</source>
-        <translation type="vanished">פתח מחדש הרשאה אל</translation>
-    </message>
-    <message>
-        <source>Rerequest Authorization From</source>
-        <translation type="vanished">בקש הרשאה מן</translation>
-    </message>
-    <message>
-        <source>Remove Authorization From</source>
-        <translation type="vanished">הסר הרשאה מן</translation>
-    </message>
-    <message>
         <source>Sen&amp;d Status</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13140,32 +12960,12 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation>מידע &amp;משתמש</translation>
     </message>
     <message>
-        <source>Invite To</source>
-        <translation type="vanished">הזמן אל</translation>
-    </message>
-    <message>
         <source>&amp;Group</source>
         <translation>&amp;קבוצה</translation>
     </message>
     <message>
-        <source>Send Message To</source>
-        <translation type="vanished">שלח הודעה אל</translation>
-    </message>
-    <message>
-        <source>Open Chat To</source>
-        <translation type="vanished">פתח שיחה עם</translation>
-    </message>
-    <message>
-        <source>Open a Whiteboard To</source>
-        <translation type="vanished">פתח לוח לבן עם</translation>
-    </message>
-    <message>
         <source>E&amp;xecute Command</source>
         <translation>הרץ &amp;פקודה</translation>
-    </message>
-    <message>
-        <source>Active Chats</source>
-        <translation type="vanished">שיחות פעילות</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -13186,10 +12986,6 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <source>Always Visible</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="vanished">הרשאה</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
@@ -15672,100 +15468,6 @@ Reason: %1</source>
     <message>
         <source>Cancel</source>
         <translation>ביטול</translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Template editor</source>
-        <translation type="vanished">עורך תבנית</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="vanished">תבניות</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">הוספה</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation type="vanished">עריכה</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="vanished">הסרה</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="vanished">אישור</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">ביטול</translation>
-    </message>
-    <message>
-        <source>Add template string</source>
-        <translation type="vanished">הוספת מחרוזת תבנית</translation>
-    </message>
-    <message>
-        <source>Add template string as submenu</source>
-        <translation type="vanished">הוספת מחרוזת תבנית כתפריט משנה</translation>
-    </message>
-    <message>
-        <source>Add separator</source>
-        <translation type="vanished">הוספת חוצץ</translation>
-    </message>
-    <message>
-        <source>Add separator as submenu</source>
-        <translation type="vanished">הוספת חוצץ כתפריט משנה</translation>
-    </message>
-    <message>
-        <source>Up</source>
-        <translation type="vanished">מעלה</translation>
-    </message>
-    <message>
-        <source>Down</source>
-        <translation type="vanished">מטה</translation>
-    </message>
-    <message>
-        <source>&lt;separator&gt;</source>
-        <translation type="vanished">&lt;חוצץ&gt;</translation>
-    </message>
-    <message>
-        <source>Edit template</source>
-        <translation type="vanished">עריכת תבנית</translation>
-    </message>
-    <message>
-        <source>Input new template text</source>
-        <translation type="vanished">הזנת תמליל תבנית חדשה</translation>
-    </message>
-    <message>
-        <source>Save templates</source>
-        <translation type="vanished">שמירת תבניות</translation>
-    </message>
-    <message>
-        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="vanished">התבנית &quot;%1&quot; לא נשמרה!</translation>
-    </message>
-    <message>
-        <source>Continue?</source>
-        <translation type="vanished">המשך?</translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesMenu</name>
-    <message>
-        <source>Paste and &amp;Send</source>
-        <translation type="vanished">הדבק ו&amp;שלח</translation>
-    </message>
-    <message>
-        <source>&amp;Edit Templates</source>
-        <translation type="vanished">&amp;ערוך תבניות</translation>
-    </message>
-    <message>
-        <source>Only &amp;Paste</source>
-        <translation type="vanished">ה&amp;דבק בלבד</translation>
     </message>
 </context>
 <context>

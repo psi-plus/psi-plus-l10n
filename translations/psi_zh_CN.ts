@@ -55,15 +55,6 @@
     <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
-Copyright © 2001-2013 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="obsolete">为高端用户设计的跨平台 XMPP 客户端.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2013 The Psi Team.&lt;br&gt;</translation>
-    </message>
-    <message>
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
 Copyright © 2001-2014 The Psi Team.&lt;br&gt;
 </source>
         <translation type="unfinished">为高端用户设计的跨平台 XMPP 客户端.&lt;br&gt;
@@ -139,10 +130,6 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt; {2001-2014 ?}</translation>
         <translation>引导补丁和插件撰写者的Mac OS X包</translation>
     </message>
     <message>
-        <source>Designer and Patcher</source>
-        <translation type="vanished">设计师和补丁</translation>
-    </message>
-    <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
         <translation>补丁，插件作者和Fedora打包</translation>
     </message>
@@ -169,10 +156,6 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt; {2001-2014 ?}</translation>
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
         <translation>Psi媒体补丁和Wiki英语本地化</translation>
-    </message>
-    <message>
-        <source>OpenSUSE Packager</source>
-        <translation type="obsolete">打开SUSE 安装包</translation>
     </message>
     <message>
         <source>Language coordinator; Debian Packager</source>
@@ -1603,10 +1586,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>密码:</translation>
     </message>
     <message>
-        <source>Auto-join</source>
-        <translation type="vanished">自动加入</translation>
-    </message>
-    <message>
         <source>Import bookmarks from file</source>
         <translation>从档中导入书签</translation>
     </message>
@@ -1746,10 +1725,6 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Call active</source>
         <translation>对话启动</translation>
-    </message>
-    <message>
-        <source>Call ended</source>
-        <translation type="obsolete">已结束呼叫</translation>
     </message>
     <message>
         <source>Call is ended</source>
@@ -6092,10 +6067,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>历史 Dlg</translation>
     </message>
     <message>
-        <source>Advanced</source>
-        <translation type="obsolete">高级</translation>
-    </message>
-    <message>
         <source>Refresh history</source>
         <translation>刷新历史记录</translation>
     </message>
@@ -6916,10 +6887,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>Info</name>
     <message>
-        <source>User Info</source>
-        <translation type="vanished">用户信息</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation>通用</translation>
     </message>
@@ -7023,124 +6990,9 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>Status</source>
         <translation>状态</translation>
     </message>
-    <message>
-        <source>Alt+D</source>
-        <translation type="vanished">Alt+D</translation>
-    </message>
-    <message>
-        <source>psi/disco</source>
-        <translation type="vanished">psi/迪斯科</translation>
-    </message>
-    <message>
-        <source>&amp;Publish</source>
-        <translation type="vanished">发布(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Retrieve</source>
-        <translation type="vanished">取回(&amp;R)</translation>
-    </message>
-    <message>
-        <source>psi/reload</source>
-        <translation type="vanished">psi/再装</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">关闭(&amp;C)</translation>
-    </message>
-    <message>
-        <source>psi/close</source>
-        <translation type="vanished">psi/关闭</translation>
-    </message>
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>First Name:</source>
-        <translation type="vanished">名:</translation>
-    </message>
-    <message>
-        <source>Middle Name:</source>
-        <translation type="vanished">中间名:</translation>
-    </message>
-    <message>
-        <source>Last Name:</source>
-        <translation type="vanished">姓:</translation>
-    </message>
-    <message>
-        <source>Edit names</source>
-        <translation type="vanished">编辑名字</translation>
-    </message>
-    <message>
-        <source>View names</source>
-        <translation type="vanished">视图的名称</translation>
-    </message>
-    <message>
-        <source>Open web browser</source>
-        <translation type="vanished">打开网络浏览器</translation>
-    </message>
-    <message>
-        <source>No date</source>
-        <translation type="vanished">没有日期</translation>
-    </message>
-    <message>
-        <source>Edit birthday</source>
-        <translation type="vanished">编辑生日</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">警告</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">你还没有发布你的账号数据变更。
-你确定要忽视它们吗?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">关闭并忽视</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">不要关闭</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">成功</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">你的账号数据已经发布了。</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">错误</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">无法取回你的账号数据。  可能你还没有输入东西吧。</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">无法检索有关此联系人的信息。
-原因:%1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">无法发布您的帐户信息。
-原因:%1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation type="vanished">图片不可用</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">状态</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation type="unfinished">用户信息</translation>
@@ -7485,13 +7337,6 @@ to play battleship. He wants to play %2.</source>
     <message>
         <source>Input New Name</source>
         <translation>输入新名称</translation>
-    </message>
-</context>
-<context>
-    <name>JT_VCard</name>
-    <message>
-        <source>No VCard available</source>
-        <translation type="obsolete">没有可用的虚拟名片</translation>
     </message>
 </context>
 <context>
@@ -8060,13 +7905,6 @@ Incoming event(s) from:</source>
     <message>
         <source>%1 events received</source>
         <translation>接收到 %1 个事件</translation>
-    </message>
-</context>
-<context>
-    <name>MainWin::Private</name>
-    <message>
-        <source>Diagnostics</source>
-        <translation type="obsolete">诊断</translation>
     </message>
 </context>
 <context>
@@ -8891,26 +8729,6 @@ Tags: %1</source>
         <translation>选择性插件接口</translation>
     </message>
     <message>
-        <source>Plugin Name:</source>
-        <translation type="vanished">插件名称:</translation>
-    </message>
-    <message>
-        <source>Version: 0</source>
-        <translation type="vanished">版本:0</translation>
-    </message>
-    <message>
-        <source>Load this plugin</source>
-        <translation type="vanished">载入这个插件</translation>
-    </message>
-    <message>
-        <source>Plugin Location:</source>
-        <translation type="vanished">插件位置:</translation>
-    </message>
-    <message>
-        <source>No plugin selected</source>
-        <translation type="vanished">没有插件被选择</translation>
-    </message>
-    <message>
         <source>Plugin Name</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9071,10 +8889,6 @@ Tags: %1</source>
     <message>
         <source>Autohide roster after</source>
         <translation>自动隐藏名单后</translation>
-    </message>
-    <message>
-        <source>seconds</source>
-        <translation type="vanished">秒</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -10571,14 +10385,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Psi 插件选项</translation>
     </message>
     <message>
-        <source>No plugin selected.</source>
-        <translation type="vanished">没有插件被选择。</translation>
-    </message>
-    <message>
-        <source>Version: </source>
-        <translation type="vanished">版本:</translation>
-    </message>
-    <message>
         <source>Plugin Path:
 %1</source>
         <translation type="unfinished"></translation>
@@ -10963,10 +10769,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>总是</translation>
     </message>
     <message>
-        <source>Save queryes to log</source>
-        <translation type="vanished">保存日志</translation>
-    </message>
-    <message>
         <source>Logs</source>
         <translation>日志</translation>
     </message>
@@ -11257,10 +11059,6 @@ Please enter your passphrase below:</source>
 </context>
 <context>
     <name>PluginInfoDialog</name>
-    <message>
-        <source>Information</source>
-        <translation type="vanished">资料</translation>
-    </message>
     <message>
         <source>About</source>
         <translation type="unfinished">关于</translation>
@@ -11784,24 +11582,12 @@ Only use letters or numbers.  No punctuation or spaces.</source>
         <translation>删除它!</translation>
     </message>
     <message>
-        <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
-&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Proceed?</source>
-        <translation type="vanished">作为一项预防措施&lt;qt&gt;，你正在提出最后一次，如果这是你真正想要什么。下面的文件夹将被删除！参考参考
-&lt;B&gt;%1&lt;/B&gt;参考参考
-继续吗？</translation>
-    </message>
-    <message>
         <source>&amp;No</source>
         <translation>否(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
         <translation>是(&amp;Y)</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">无法完全删除文件夹。  确定你有适当的权限。</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12869,14 +12655,6 @@ Reason: %1.</source>
         <translation>切换紧凑型/全尺寸</translation>
     </message>
     <message>
-        <source>Paste and Send</source>
-        <translation type="vanished">粘贴并发送</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="vanished">范本</translation>
-    </message>
-    <message>
         <source>Chat basic buttons</source>
         <translation>聊天基本按钮</translation>
     </message>
@@ -13225,26 +13003,6 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation>发送档案(&amp;F)</translation>
     </message>
     <message>
-        <source>&amp;Log on</source>
-        <translation type="vanished">登入(&amp;L)</translation>
-    </message>
-    <message>
-        <source>Log Off</source>
-        <translation type="vanished">注销</translation>
-    </message>
-    <message>
-        <source>Resend Authorization To</source>
-        <translation type="vanished">重发送授权到</translation>
-    </message>
-    <message>
-        <source>Rerequest Authorization From</source>
-        <translation type="vanished">要求授权从</translation>
-    </message>
-    <message>
-        <source>Remove Authorization From</source>
-        <translation type="vanished">删除授权从</translation>
-    </message>
-    <message>
         <source>Sen&amp;d Status</source>
         <translation>发送状态(&amp;D)</translation>
     </message>
@@ -13269,32 +13027,12 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation>用户信息(&amp;I)</translation>
     </message>
     <message>
-        <source>Invite To</source>
-        <translation type="vanished">邀请</translation>
-    </message>
-    <message>
         <source>&amp;Group</source>
         <translation>群组(&amp;G)</translation>
     </message>
     <message>
-        <source>Send Message To</source>
-        <translation type="vanished">发送信息到</translation>
-    </message>
-    <message>
-        <source>Open Chat To</source>
-        <translation type="vanished">打开对话到</translation>
-    </message>
-    <message>
-        <source>Open a Whiteboard To</source>
-        <translation type="vanished">打开白板到</translation>
-    </message>
-    <message>
         <source>E&amp;xecute Command</source>
         <translation>执行指令(&amp;X)</translation>
-    </message>
-    <message>
-        <source>Active Chats</source>
-        <translation type="vanished">活跃的对话</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -13315,10 +13053,6 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <source>Always Visible</source>
         <translation>始终可见</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="vanished">授权</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
@@ -14820,26 +14554,6 @@ The message was not sent.</source>
         <translation>Psi OTR</translation>
     </message>
     <message>
-        <source>Generating keys for account &quot;%1&quot;.
-This may take a while.</source>
-        <translation type="obsolete">生成密钥帐户&quot;%1&quot;
-这可能需要一段时间。</translation>
-    </message>
-    <message>
-        <source>Please wait...</source>
-        <translation type="obsolete">请等待...</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">确定</translation>
-    </message>
-    <message>
-        <source>Fingerprint for account &quot;%1&quot;:
-%2</source>
-        <translation type="obsolete">指纹账户 &quot;%1&quot;:
-%2</translation>
-    </message>
-    <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
 The OTR Plugin will not work.</source>
         <translation>无法生成键帐户&quot;%1&quot;
@@ -15814,100 +15528,6 @@ Reason: %1</source>
     <message>
         <source>Cancel</source>
         <translation>取消</translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Template editor</source>
-        <translation type="vanished">范本编辑器</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="vanished">范本</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">添加</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation type="vanished">编辑</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="vanished">删除</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="vanished">确定</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">取消</translation>
-    </message>
-    <message>
-        <source>Add template string</source>
-        <translation type="vanished">添加模板字符串</translation>
-    </message>
-    <message>
-        <source>Add template string as submenu</source>
-        <translation type="vanished">加入子菜单模板字符串</translation>
-    </message>
-    <message>
-        <source>Add separator</source>
-        <translation type="vanished">添加分隔</translation>
-    </message>
-    <message>
-        <source>Add separator as submenu</source>
-        <translation type="vanished">作为子菜单中添加分隔</translation>
-    </message>
-    <message>
-        <source>Up</source>
-        <translation type="vanished">上</translation>
-    </message>
-    <message>
-        <source>Down</source>
-        <translation type="vanished">下</translation>
-    </message>
-    <message>
-        <source>&lt;separator&gt;</source>
-        <translation type="vanished">&lt;separator&gt;</translation>
-    </message>
-    <message>
-        <source>Edit template</source>
-        <translation type="vanished">编辑范本</translation>
-    </message>
-    <message>
-        <source>Input new template text</source>
-        <translation type="vanished">输入新的范本文本</translation>
-    </message>
-    <message>
-        <source>Save templates</source>
-        <translation type="vanished">保存范本</translation>
-    </message>
-    <message>
-        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="vanished">&quot;%1&quot;并没有被保存！</translation>
-    </message>
-    <message>
-        <source>Continue?</source>
-        <translation type="vanished">继续吗？</translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesMenu</name>
-    <message>
-        <source>Paste and &amp;Send</source>
-        <translation type="vanished">粘贴并发送(&amp;S)</translation>
-    </message>
-    <message>
-        <source>&amp;Edit Templates</source>
-        <translation type="vanished">编辑范本(&amp;E)</translation>
-    </message>
-    <message>
-        <source>Only &amp;Paste</source>
-        <translation type="vanished">只和粘贴(&amp;P)</translation>
     </message>
 </context>
 <context>
@@ -18597,22 +18217,8 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>没有开通加密会话</translation>
     </message>
     <message>
-        <source>Session ID between account &quot;%1&quot; and %2:&lt;br/&gt;%3</source>
-        <translation type="obsolete">会话身份在帐号&quot;%1&quot; 和 %2:&lt;br/&gt;%3</translation>
-    </message>
-    <message>
-        <source>Psi OTR</source>
-        <translation type="obsolete">Psi OTR</translation>
-    </message>
-    <message>
         <source>No private key for account &quot;%1&quot;</source>
         <translation>没有私钥账户 &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <source>Fingerprint for account &quot;%1&quot;:
-%2</source>
-        <translation type="obsolete">指纹账户 &quot;%1&quot;:
-%2</translation>
     </message>
     <message>
         <source>unverified</source>

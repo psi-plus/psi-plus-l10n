@@ -6881,65 +6881,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>InfoDlg</name>
     <message>
-        <source>Open web browser</source>
-        <translation type="obsolete">Obre navegador Web</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Avís</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">No ha publicat els canvis efectuats en la informació del seu compte.
-Està segur de que desitja descartar-los?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Tanca i descarta</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">No tanquis</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">Amb éxit</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">La informació del seu compte ha estat publicada.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Error</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">No s&apos;ha pogut recuperar la informació del seu compte. Potser no n&apos;hi ha introduit cap encara.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">No s&apos;ha pogut recuperar la informació referent a aquest contacte.
-Raó: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">No s&apos;ha pogut publicar la informació del seu compte.
-Raó: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation type="vanished">Imatge no disponible</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">Estat</translation>
-    </message>
-    <message>
         <source>User Info</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7031,7 +6972,7 @@ Està segur de que desitja descartar-los?</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Amb Éxit</translation>
     </message>
     <message>
         <source>Your conference information has been published.</source>
@@ -10986,10 +10927,6 @@ Please enter your passphrase below:</source>
 <context>
     <name>PluginInfoDialog</name>
     <message>
-        <source>Information</source>
-        <translation type="obsolete">Informació</translation>
-    </message>
-    <message>
         <source>About</source>
         <translation type="unfinished">En quant a</translation>
     </message>
@@ -11518,10 +11455,6 @@ Utilitzi sols lletres o números. No utilitzi símbols de puntuació ni espais.<
     <message>
         <source>&amp;Yes</source>
         <translation>&amp;Sí</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">No s&apos;ha pogut esborrar el directori completament. Asseguris de tenir els permissos adeqüats.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12870,10 +12803,6 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation type="unfinished">&amp;Quadern de bitàcora</translation>
     </message>
     <message>
-        <source>&amp;Log on</source>
-        <translation type="obsolete">&amp;Connecta</translation>
-    </message>
-    <message>
         <source>User &amp;Info</source>
         <translation type="unfinished">&amp;Informació de l&apos;usuari</translation>
     </message>
@@ -12884,10 +12813,6 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <source>Hide</source>
         <translation type="unfinished">Ocultar</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="obsolete">Autorització</translation>
     </message>
     <message>
         <source>Invitation</source>
@@ -15455,17 +15380,6 @@ Raó: %1</translation>
     <message>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Add</source>
-        <translation type="obsolete">Afegeix</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="obsolete">Eliminar</translation>
     </message>
 </context>
 <context>

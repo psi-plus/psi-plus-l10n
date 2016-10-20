@@ -1557,10 +1557,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>پاس ورڈ:‏</translation>
     </message>
     <message>
-        <source>Auto-join</source>
-        <translation type="vanished">خود کار شامل</translation>
-    </message>
-    <message>
         <source>Import bookmarks from file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1700,10 +1696,6 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Call active</source>
         <translation>کال زیر عمل ہے</translation>
-    </message>
-    <message>
-        <source>Call ended</source>
-        <translation type="obsolete">کال ختم  ہو گئی ہے</translation>
     </message>
     <message>
         <source>Call is ended</source>
@@ -6025,10 +6017,6 @@ For sending commands, normal messages are used, so this plugin will always work 
 <context>
     <name>HistoryDlg</name>
     <message>
-        <source>Advanced</source>
-        <translation type="obsolete">اعلٰی</translation>
-    </message>
-    <message>
         <source>&amp;Previous</source>
         <translation>پچھلا</translation>
     </message>
@@ -6787,10 +6775,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>Info</name>
     <message>
-        <source>User Info</source>
-        <translation type="vanished">صارف معلومات</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation>عمومی</translation>
     </message>
@@ -6894,109 +6878,9 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>Status</source>
         <translation>حالت</translation>
     </message>
-    <message>
-        <source>Alt+D</source>
-        <translation type="vanished">Alt+D </translation>
-    </message>
-    <message>
-        <source>&amp;Publish</source>
-        <translation type="vanished">شائع کریں</translation>
-    </message>
-    <message>
-        <source>&amp;Retrieve</source>
-        <translation type="vanished">بازگیر کریں</translation>
-    </message>
-    <message>
-        <source>psi/reload</source>
-        <translation type="vanished">psi/ پھر لوڈ کریں</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;بند کریں</translation>
-    </message>
-    <message>
-        <source>psi/close</source>
-        <translation type="vanished">psi/ بند کریں</translation>
-    </message>
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>First Name:</source>
-        <translation type="vanished">پہلا نام</translation>
-    </message>
-    <message>
-        <source>Middle Name:</source>
-        <translation type="vanished">درمیان کا نام</translation>
-    </message>
-    <message>
-        <source>Last Name:</source>
-        <translation type="vanished">آخری نام</translation>
-    </message>
-    <message>
-        <source>Open web browser</source>
-        <translation type="obsolete">ویب براؤزر کھولیں</translation>
-    </message>
-    <message>
-        <source>No date</source>
-        <translation type="vanished">کوئی تاریخ نہیں</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">تنبیہ</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">آپ نے اپنی اکاؤنٹ معلوماتی تبدیلیاں شائع نہیں کیں۔ 
-کیا آپ لازماً انہیں مسترد کرنا چاہتے ہیں؟&apos;&apos;</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">بند اور مسترد کریں</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">بند مت کریں</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">کامیابی</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">آپ کا اکاؤنٹ معلومات شائع ہو چکا ہے۔</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">نقص</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">آپ کی اکاؤنٹ معلومات بازگیر کرنے میں نااہل۔   شاید آپ نے ابھی کچھ داخل نہیں کیا۔</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">
-اس رابطے کے متعلق معلومات بازگیر کرنے میں نااہل۔دلیل‫: %1‏</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">
-آپ کی اکاؤنٹ معلومات شائع کرنے میں ناکام۔دلیل‫: %1 ‏</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation type="vanished">تصویر دستیاب نہیں 
-</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">حالت</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation type="unfinished">صارف معلومات</translation>
@@ -7906,13 +7790,6 @@ Incoming event(s) from:</source>
     </message>
 </context>
 <context>
-    <name>MainWin::Private</name>
-    <message>
-        <source>Diagnostics</source>
-        <translation type="obsolete">فن تشخیص</translation>
-    </message>
-</context>
-<context>
     <name>MainWindow</name>
     <message>
         <source>New</source>
@@ -8726,22 +8603,6 @@ Tags: %1</source>
     <message>
         <source>OptPluginsUI</source>
         <translation>OptPluginsU</translation>
-    </message>
-    <message>
-        <source>Plugin Name:</source>
-        <translation type="vanished">OptPluginsUIPlugin Name:</translation>
-    </message>
-    <message>
-        <source>Load this plugin</source>
-        <translation type="vanished">یہ پلگ ان لوڈ کریں</translation>
-    </message>
-    <message>
-        <source>Plugin Location:</source>
-        <translation type="vanished">پلگ ان محل وقوع:‏</translation>
-    </message>
-    <message>
-        <source>No plugin selected</source>
-        <translation type="vanished">کوئی پلگ ان منتخب شدہ نہیں</translation>
     </message>
     <message>
         <source>Plugin Name</source>
@@ -10395,10 +10256,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>اختیارات برائے‫ Psi پلگ ان</translation>
     </message>
     <message>
-        <source>No plugin selected.</source>
-        <translation type="vanished">کوئی پلگ ان منتخب شدہ نہیں۔</translation>
-    </message>
-    <message>
         <source>Plugin Path:
 %1</source>
         <translation type="unfinished"></translation>
@@ -11073,10 +10930,6 @@ Please enter your passphrase below:</source>
 <context>
     <name>PluginInfoDialog</name>
     <message>
-        <source>Information</source>
-        <translation type="obsolete">معلومات</translation>
-    </message>
-    <message>
         <source>About</source>
         <translation type="unfinished">متعلق</translation>
     </message>
@@ -11605,10 +11458,6 @@ Only use letters or numbers.  No punctuation or spaces.</source>
     <message>
         <source>&amp;Yes</source>
         <translation>ہاں</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">پوشہ مکمل طور پر حذف کرنے میں ناکام۔   یقینی بنائیں کہ آپ کو باقاعدہ اجازت ہے۔</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -13022,26 +12871,6 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation>مسل بھیجیں</translation>
     </message>
     <message>
-        <source>&amp;Log on</source>
-        <translation type="vanished">لاگ آن کریں</translation>
-    </message>
-    <message>
-        <source>Log Off</source>
-        <translation type="vanished">لاگ آف کریں</translation>
-    </message>
-    <message>
-        <source>Resend Authorization To</source>
-        <translation type="vanished">اختیار دہی پھر بھیجیں بنام</translation>
-    </message>
-    <message>
-        <source>Rerequest Authorization From</source>
-        <translation type="vanished">اختیار دہی فرمائش از</translation>
-    </message>
-    <message>
-        <source>Remove Authorization From</source>
-        <translation type="vanished">اختیار دہی ہٹائیں از</translation>
-    </message>
-    <message>
         <source>&amp;Assign Custom Picture</source>
         <translation>مخصوص تصویر تفویض کریں</translation>
     </message>
@@ -13062,32 +12891,12 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation>صارف معلومات</translation>
     </message>
     <message>
-        <source>Invite To</source>
-        <translation type="vanished">دعوت دیں بنام</translation>
-    </message>
-    <message>
         <source>&amp;Group</source>
         <translation>گروپ</translation>
     </message>
     <message>
-        <source>Send Message To</source>
-        <translation type="vanished">پیغام بھیجیں بنام</translation>
-    </message>
-    <message>
-        <source>Open Chat To</source>
-        <translation type="vanished">بات چیت دریچہ کھولیں بنام</translation>
-    </message>
-    <message>
-        <source>Open a Whiteboard To</source>
-        <translation type="vanished">سفید تختہ کھولیں بنام</translation>
-    </message>
-    <message>
         <source>E&amp;xecute Command</source>
         <translation>حکم کا نفاذ کریں</translation>
-    </message>
-    <message>
-        <source>Active Chats</source>
-        <translation type="vanished">زیر عمل بات چیت دریچے</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -13096,10 +12905,6 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <source>Block</source>
         <translation type="unfinished">بلاک کرِیں</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="vanished">اختیار دہی</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
@@ -14029,10 +13834,6 @@ Proceed?</source>
     <message>
         <source>Warning</source>
         <translation type="unfinished">تنبیہ</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">ٹھیک ہے</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -15587,33 +15388,6 @@ Reason: %1</source>
     <message>
         <source>Play!</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Add</source>
-        <translation type="obsolete">اضافہ کریں</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="obsolete">ہٹائیں</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">ٹھیک ہے</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="obsolete">منسوخ کریں</translation>
-    </message>
-    <message>
-        <source>Up</source>
-        <translation type="obsolete">اوپر</translation>
-    </message>
-    <message>
-        <source>Down</source>
-        <translation type="obsolete">نیچے</translation>
     </message>
 </context>
 <context>

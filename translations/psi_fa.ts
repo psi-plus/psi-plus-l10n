@@ -113,10 +113,6 @@
         <translation>بنیان گذار,طراح و Patcher</translation>
     </message>
     <message>
-        <source>Designer and Patcher</source>
-        <translation type="vanished">طراح و Patcher</translation>
-    </message>
-    <message>
         <source>Patcher and Plugins Writer</source>
         <translation>Patcher و نویسنده افزونه ها</translation>
     </message>
@@ -6765,10 +6761,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished">وضعیت</translation>
     </message>
     <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">بستن</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6867,18 +6859,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>Warning</source>
-        <translation type="obsolete">هشدار</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="obsolete">خطا</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="obsolete">وضعیت</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation type="unfinished"></translation>
@@ -15359,17 +15339,6 @@ Reason: %1</source>
     <message>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Add</source>
-        <translation type="obsolete">افزودن</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="obsolete">خذف کردن</translation>
     </message>
 </context>
 <context>

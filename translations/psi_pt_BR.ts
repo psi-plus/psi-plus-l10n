@@ -131,10 +131,6 @@ Copyright © 2001-2014 A equipe Psi.&lt;br&gt;
         <translation>Desenvolvedor Lider e Escritor de Plugins, Empacotador Mac OS X</translation>
     </message>
     <message>
-        <source>Designer and Patcher</source>
-        <translation type="vanished">Designer e Desenvolvedor</translation>
-    </message>
-    <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
         <translation>Desenvolvedor, Escritor de Plugins e Pacote Fedora</translation>
     </message>
@@ -1594,10 +1590,6 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Password:</source>
         <translation>Senha:</translation>
-    </message>
-    <message>
-        <source>Auto-join</source>
-        <translation type="vanished">Entrar automaticamente</translation>
     </message>
     <message>
         <source>Import bookmarks from file</source>
@@ -6879,10 +6871,6 @@ Nota: Para funcionar corretamente, as opção options.ui.chat.central-toolbar de
 <context>
     <name>Info</name>
     <message>
-        <source>User Info</source>
-        <translation type="vanished">Informações do Usuário</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation>Geral</translation>
     </message>
@@ -6986,125 +6974,9 @@ Nota: Para funcionar corretamente, as opção options.ui.chat.central-toolbar de
         <source>Status</source>
         <translation>Status</translation>
     </message>
-    <message>
-        <source>Alt+D</source>
-        <translation type="vanished">Alt+D</translation>
-    </message>
-    <message>
-        <source>psi/disco</source>
-        <translation type="vanished">psi/disco</translation>
-    </message>
-    <message>
-        <source>&amp;Publish</source>
-        <translation type="vanished">&amp;Publicar</translation>
-    </message>
-    <message>
-        <source>&amp;Retrieve</source>
-        <translation type="vanished">&amp;Buscar</translation>
-    </message>
-    <message>
-        <source>psi/reload</source>
-        <translation type="vanished">psi/reload</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Fechar</translation>
-    </message>
-    <message>
-        <source>psi/close</source>
-        <translation type="vanished">psi/close</translation>
-    </message>
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>First Name:</source>
-        <translation type="vanished">Primeiro Nome:</translation>
-    </message>
-    <message>
-        <source>Middle Name:</source>
-        <translation type="vanished">Nome do meio:</translation>
-    </message>
-    <message>
-        <source>Last Name:</source>
-        <translation type="vanished">Último nome:</translation>
-    </message>
-    <message>
-        <source>Edit names</source>
-        <translation type="vanished">Editar nomes</translation>
-    </message>
-    <message>
-        <source>View names</source>
-        <translation type="vanished">Ver nomes</translation>
-    </message>
-    <message>
-        <source>Open web browser</source>
-        <translation type="vanished">Abrir navegador web</translation>
-    </message>
-    <message>
-        <source>No date</source>
-        <translation type="vanished">Sem data</translation>
-    </message>
-    <message>
-        <source>Edit birthday</source>
-        <translation type="vanished">Editar aniversário</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Aviso</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">Você não publicou as alterações das informações de sua conta.
-Realmente deseja descartá-las?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Fechar e descartar</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Não fechar</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">Sucesso</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">As informações da sua conta foram publicadas.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Erro</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">Não foi possível buscar as informações da sua conta. Talvez você ainda não as tenha informado.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">Não foi possível buscar as informações deste contado.
-Motivo: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">Não foi possível publicar as informações da sua conta.
-Motivo: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation type="vanished">Figura não
-disponível</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">Status</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation type="unfinished"></translation>
@@ -8849,26 +8721,6 @@ Tags: %1</translation>
         <translation>OptPluginsUI</translation>
     </message>
     <message>
-        <source>Plugin Name:</source>
-        <translation type="vanished">Nome do Plugin:</translation>
-    </message>
-    <message>
-        <source>Version: 0</source>
-        <translation type="vanished">Versão: 0</translation>
-    </message>
-    <message>
-        <source>Load this plugin</source>
-        <translation type="vanished">Carregar este plugin</translation>
-    </message>
-    <message>
-        <source>Plugin Location:</source>
-        <translation type="vanished">Local do Plugin:</translation>
-    </message>
-    <message>
-        <source>No plugin selected</source>
-        <translation type="vanished">Nenhum plugin selecionado</translation>
-    </message>
-    <message>
         <source>Plugin Name</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9029,10 +8881,6 @@ Tags: %1</translation>
     <message>
         <source>Autohide roster after</source>
         <translation>Auto-ocultar lista depois</translation>
-    </message>
-    <message>
-        <source>seconds</source>
-        <translation type="vanished">segundos</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -10540,14 +10388,6 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
         <translation>Opções para plugins do Psi</translation>
     </message>
     <message>
-        <source>No plugin selected.</source>
-        <translation type="vanished">Nenhum plugin selecionado.</translation>
-    </message>
-    <message>
-        <source>Version: </source>
-        <translation type="vanished">Versão: </translation>
-    </message>
-    <message>
         <source>Plugin Path:
 %1</source>
         <translation type="unfinished"></translation>
@@ -10932,10 +10772,6 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
         <translation>sempre</translation>
     </message>
     <message>
-        <source>Save queryes to log</source>
-        <translation type="vanished">Salvar consultas no registro</translation>
-    </message>
-    <message>
         <source>Logs</source>
         <translation>Registros</translation>
     </message>
@@ -11226,10 +11062,6 @@ Por favor informe sua frase de segurança abaixo:</translation>
 </context>
 <context>
     <name>PluginInfoDialog</name>
-    <message>
-        <source>Information</source>
-        <translation type="vanished">Informações</translation>
-    </message>
     <message>
         <source>About</source>
         <translation type="unfinished">Sobre</translation>
@@ -11754,24 +11586,12 @@ Use apenas letras ou números. Sem pontuações ou espaços.</translation>
         <translation>Remova-o!</translation>
     </message>
     <message>
-        <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
-&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Proceed?</source>
-        <translation type="vanished">&lt;qt&gt;Como precaução, você está sendo solicitado pela última vez se é isso que você realmente quer.  A seguinte pasta será deletada!&lt;br&gt;&lt;br&gt;
-&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Proceder?</translation>
-    </message>
-    <message>
         <source>&amp;No</source>
         <translation>&amp;Não</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
         <translation>&amp;Sim</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">Não foi possível excluir completamente a pasta. Certifique-se se você tem as permissões necessárias.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12839,14 +12659,6 @@ Motivo: %1.</translation>
         <translation>Habilitar/Desabilitar Compacto/Tamanho Completo</translation>
     </message>
     <message>
-        <source>Paste and Send</source>
-        <translation type="vanished">Colar e Enviar</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="vanished">Modelos</translation>
-    </message>
-    <message>
         <source>Chat basic buttons</source>
         <translation>Botões básicos de bate-papo</translation>
     </message>
@@ -13195,26 +13007,6 @@ Isso pode significar que você já está rodando outra instância do Psi. Você 
         <translation>En&amp;viar Arquivo</translation>
     </message>
     <message>
-        <source>&amp;Log on</source>
-        <translation type="vanished">&amp;Logar</translation>
-    </message>
-    <message>
-        <source>Log Off</source>
-        <translation type="vanished">Desconectar</translation>
-    </message>
-    <message>
-        <source>Resend Authorization To</source>
-        <translation type="vanished">Reenviar Autorização para</translation>
-    </message>
-    <message>
-        <source>Rerequest Authorization From</source>
-        <translation type="vanished">Solicitar Novamente Autorização a</translation>
-    </message>
-    <message>
-        <source>Remove Authorization From</source>
-        <translation type="vanished">Remover Autorização De</translation>
-    </message>
-    <message>
         <source>Sen&amp;d Status</source>
         <translation>Env&amp;iar Status</translation>
     </message>
@@ -13239,32 +13031,12 @@ Isso pode significar que você já está rodando outra instância do Psi. Você 
         <translation>&amp;Informações do Usuário</translation>
     </message>
     <message>
-        <source>Invite To</source>
-        <translation type="vanished">Convite Para</translation>
-    </message>
-    <message>
         <source>&amp;Group</source>
         <translation>&amp;Grupo</translation>
     </message>
     <message>
-        <source>Send Message To</source>
-        <translation type="vanished">Enviar Mensagem Para</translation>
-    </message>
-    <message>
-        <source>Open Chat To</source>
-        <translation type="vanished">Abrir Bate-papo Para</translation>
-    </message>
-    <message>
-        <source>Open a Whiteboard To</source>
-        <translation type="vanished">Abrir um Quadro Branco Para</translation>
-    </message>
-    <message>
         <source>E&amp;xecute Command</source>
         <translation>E&amp;xecutar comando</translation>
-    </message>
-    <message>
-        <source>Active Chats</source>
-        <translation type="vanished">Bate-papo Ativos</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -13285,10 +13057,6 @@ Isso pode significar que você já está rodando outra instância do Psi. Você 
     <message>
         <source>Always Visible</source>
         <translation>Sempre Visível</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="vanished">Autorização</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
@@ -15798,100 +15566,6 @@ Motivo: %1</translation>
     <message>
         <source>Cancel</source>
         <translation>Cancelar</translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Template editor</source>
-        <translation type="vanished">Editor de modelo</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="vanished">Modelos</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">Adcionar</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation type="vanished">Editar</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="vanished">Remover</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="vanished">Ok</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Cancelar</translation>
-    </message>
-    <message>
-        <source>Add template string</source>
-        <translation type="vanished">Adicionar um modelo de texto</translation>
-    </message>
-    <message>
-        <source>Add template string as submenu</source>
-        <translation type="vanished">Adicionar um modelo de texto como submenu</translation>
-    </message>
-    <message>
-        <source>Add separator</source>
-        <translation type="vanished">Adicionar separdor</translation>
-    </message>
-    <message>
-        <source>Add separator as submenu</source>
-        <translation type="vanished">Adicionar separador como submenu</translation>
-    </message>
-    <message>
-        <source>Up</source>
-        <translation type="vanished">Cima</translation>
-    </message>
-    <message>
-        <source>Down</source>
-        <translation type="vanished">Baixo</translation>
-    </message>
-    <message>
-        <source>&lt;separator&gt;</source>
-        <translation type="vanished">&lt;separador&gt;</translation>
-    </message>
-    <message>
-        <source>Edit template</source>
-        <translation type="vanished">Editar modelo</translation>
-    </message>
-    <message>
-        <source>Input new template text</source>
-        <translation type="vanished">Entrar novo modelo de texto</translation>
-    </message>
-    <message>
-        <source>Save templates</source>
-        <translation type="vanished">Salvar modelo</translation>
-    </message>
-    <message>
-        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="vanished">O modelo &quot;%1&quot; não foi salvo!</translation>
-    </message>
-    <message>
-        <source>Continue?</source>
-        <translation type="vanished">Continuar?</translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesMenu</name>
-    <message>
-        <source>Paste and &amp;Send</source>
-        <translation type="vanished">Colar e &amp;Enviar</translation>
-    </message>
-    <message>
-        <source>&amp;Edit Templates</source>
-        <translation type="vanished">&amp;Editar Modelos</translation>
-    </message>
-    <message>
-        <source>Only &amp;Paste</source>
-        <translation type="vanished">Apenas &amp;Colar</translation>
     </message>
 </context>
 <context>

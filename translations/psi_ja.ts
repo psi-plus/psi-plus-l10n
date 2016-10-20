@@ -128,10 +128,6 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
         <translation>開発リーダー、プラグイン開発者、Mac OS X向けパッケージング</translation>
     </message>
     <message>
-        <source>Designer and Patcher</source>
-        <translation type="vanished">デザイナー、開発者</translation>
-    </message>
-    <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
         <translation>開発者、プラグイン開発者、Fedora向けパッケージング</translation>
     </message>
@@ -1574,10 +1570,6 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Password:</source>
         <translation>パスワード:</translation>
-    </message>
-    <message>
-        <source>Auto-join</source>
-        <translation type="vanished">自動参加</translation>
     </message>
     <message>
         <source>Import bookmarks from file</source>
@@ -6800,10 +6792,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>Info</name>
     <message>
-        <source>User Info</source>
-        <translation type="vanished">ユーザー情報</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation>一般</translation>
     </message>
@@ -6907,116 +6895,9 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>Status</source>
         <translation>ステータス</translation>
     </message>
-    <message>
-        <source>Alt+D</source>
-        <translation type="vanished">Alt+D</translation>
-    </message>
-    <message>
-        <source>psi/disco</source>
-        <translation type="vanished">psi/disco</translation>
-    </message>
-    <message>
-        <source>&amp;Publish</source>
-        <translation type="vanished">公開(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Retrieve</source>
-        <translation type="vanished">取得(&amp;R)</translation>
-    </message>
-    <message>
-        <source>psi/reload</source>
-        <translation type="vanished">psi/reload</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">閉じる(&amp;C)</translation>
-    </message>
-    <message>
-        <source>psi/close</source>
-        <translation type="vanished">psi/close</translation>
-    </message>
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>First Name:</source>
-        <translation type="vanished">名:</translation>
-    </message>
-    <message>
-        <source>Middle Name:</source>
-        <translation type="vanished">ミドルネーム:</translation>
-    </message>
-    <message>
-        <source>Last Name:</source>
-        <translation type="vanished">性:</translation>
-    </message>
-    <message>
-        <source>Open web browser</source>
-        <translation type="vanished">WEBブラウザで開く</translation>
-    </message>
-    <message>
-        <source>No date</source>
-        <translation type="vanished">日付なし</translation>
-    </message>
-    <message>
-        <source>Edit birthday</source>
-        <translation type="vanished">誕生日を編集</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">警告</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">アカウント情報の内容が変更されてます。
-変更を削除しますか?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">削除する</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">削除しない</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">成功</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">アカウント情報を更新しました。</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">エラー</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">アカウント情報を検出できませんでした。未入力の可能性があります。</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">コンタクトの情報を取得できません。
-理由: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">アカウント情報を公開出来ません。
-理由: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation type="vanished">写真はありません</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">ステータス</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation type="unfinished">ユーザー情報</translation>
@@ -8745,22 +8626,6 @@ Tags: %1</source>
         <translation>OptPluginsUI</translation>
     </message>
     <message>
-        <source>Plugin Name:</source>
-        <translation type="vanished">プラグイン名:</translation>
-    </message>
-    <message>
-        <source>Load this plugin</source>
-        <translation type="vanished">プラグインをロード</translation>
-    </message>
-    <message>
-        <source>Plugin Location:</source>
-        <translation type="vanished">プラグインの場所:</translation>
-    </message>
-    <message>
-        <source>No plugin selected</source>
-        <translation type="vanished">プラグインは選択されていません</translation>
-    </message>
-    <message>
         <source>Plugin Name</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10412,10 +10277,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Psiプラグインのオプション</translation>
     </message>
     <message>
-        <source>No plugin selected.</source>
-        <translation type="vanished">プラグインは選択されていません。</translation>
-    </message>
-    <message>
         <source>Plugin Path:
 %1</source>
         <translation type="unfinished"></translation>
@@ -11613,24 +11474,12 @@ Only use letters or numbers.  No punctuation or spaces.</source>
         <translation>削除します!</translation>
     </message>
     <message>
-        <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
-&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Proceed?</source>
-        <translation type="vanished">&lt;qt&gt;念の為、最後にもう一度確認します。このプロファイルを削除すると以下のファイルは削除されます。&lt;br&gt;&lt;br&gt;
-&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-続けますか?</translation>
-    </message>
-    <message>
         <source>&amp;No</source>
         <translation>いいえ(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
         <translation>はい(&amp;Y)</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">フォルダ全体の削除に失敗しました。許可の再確認をして下さい。</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -13046,26 +12895,6 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation>ファイル送信(&amp;F)</translation>
     </message>
     <message>
-        <source>&amp;Log on</source>
-        <translation type="vanished">ログオン(&amp;L)</translation>
-    </message>
-    <message>
-        <source>Log Off</source>
-        <translation type="vanished">ログオフ</translation>
-    </message>
-    <message>
-        <source>Resend Authorization To</source>
-        <translation type="vanished">承認を再送</translation>
-    </message>
-    <message>
-        <source>Rerequest Authorization From</source>
-        <translation type="vanished">承認の再要求</translation>
-    </message>
-    <message>
-        <source>Remove Authorization From</source>
-        <translation type="vanished">承認を削除</translation>
-    </message>
-    <message>
         <source>Sen&amp;d Status</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13090,32 +12919,12 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation>ユーザー情報(&amp;I)</translation>
     </message>
     <message>
-        <source>Invite To</source>
-        <translation type="vanished">招待</translation>
-    </message>
-    <message>
         <source>&amp;Group</source>
         <translation>グループ(&amp;G)</translation>
     </message>
     <message>
-        <source>Send Message To</source>
-        <translation type="vanished">メッセージを送信</translation>
-    </message>
-    <message>
-        <source>Open Chat To</source>
-        <translation type="vanished">チャットを開く</translation>
-    </message>
-    <message>
-        <source>Open a Whiteboard To</source>
-        <translation type="vanished">ホワイトボードを開く</translation>
-    </message>
-    <message>
         <source>E&amp;xecute Command</source>
         <translation>コマンド実行(&amp;x)</translation>
-    </message>
-    <message>
-        <source>Active Chats</source>
-        <translation type="vanished">開いているチャット</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -13136,10 +12945,6 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <source>Always Visible</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="vanished">承認</translation>
     </message>
     <message>
         <source>&amp;Picture</source>

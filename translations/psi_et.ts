@@ -6784,10 +6784,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished">Staatus</translation>
     </message>
     <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Sule</translation>
-    </message>
-    <message>
         <source>E-Mail:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6882,66 +6878,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>Open web browser</source>
-        <translation type="obsolete">Ava veebilehitseja</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Hoiatus</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">Sa ei ole oma konto informatsiooni avalikustanud.
-Oled kindel, et soovid need kustutada?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Sule ja kustuta</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Ära sule</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">Õnnestus</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">Sinu konto informatsioon on avalikustatud.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Viga</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">Konto infot ei saanud tõmmata. Võib-olla pole Sa seda veel sisestanud.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">Selle kontakti informatsiooni ei saanud tõmmata.
-Põhjus: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">Konto infot ei saanud avalikustada.
-Põhjus: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation type="vanished">Pilt ei ole
-kättesaadav</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">Staatus</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation type="unfinished"></translation>
@@ -10988,10 +10924,6 @@ Please enter your passphrase below:</source>
 <context>
     <name>PluginInfoDialog</name>
     <message>
-        <source>Information</source>
-        <translation type="obsolete">Informatsioon</translation>
-    </message>
-    <message>
         <source>About</source>
         <translation type="unfinished">Info</translation>
     </message>
@@ -11520,10 +11452,6 @@ Kasuta ainult tähti ja numbreid. Ära kasuta kirjavahemärke ja tühikuid.</tra
     <message>
         <source>&amp;Yes</source>
         <translation>&amp;Jah</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">Ei õnnestunud kausta täielikult kustutada. Veendu, et Sul on vastavad õigused.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12872,10 +12800,6 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation type="unfinished">&amp;Ajalugu</translation>
     </message>
     <message>
-        <source>&amp;Log on</source>
-        <translation type="obsolete">&amp;Logi sisse</translation>
-    </message>
-    <message>
         <source>User &amp;Info</source>
         <translation type="unfinished">Kasutaja &amp;Info</translation>
     </message>
@@ -12886,10 +12810,6 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <source>Hide</source>
         <translation type="unfinished">Peida</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="obsolete">Autoriseering</translation>
     </message>
     <message>
         <source>Invitation</source>
@@ -15457,17 +15377,6 @@ Põhjus: %1</translation>
     <message>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Add</source>
-        <translation type="obsolete">Lisa</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="obsolete">Eemalda</translation>
     </message>
 </context>
 <context>

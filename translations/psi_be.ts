@@ -117,10 +117,6 @@
         <translation>Заснавальнік; мастак і стваральнік латак</translation>
     </message>
     <message>
-        <source>Designer and Patcher</source>
-        <translation type="vanished">Мастак і стваральнік латак</translation>
-    </message>
-    <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
         <translation>Стварае латкі, убудовы	, пакункі для Fedora</translation>
     </message>
@@ -147,10 +143,6 @@
     <message>
         <source>Psimedia Patcher and Wiki English localization</source>
         <translation>Стварае латкі для «psimedia», перакладае вікі ў анґельскую</translation>
-    </message>
-    <message>
-        <source>OpenSUSE Packager</source>
-        <translation type="obsolete">Стварае пакункі для «OpenSUSE»</translation>
     </message>
     <message>
         <source>Language coordinator, miscellaneous assistance</source>
@@ -1601,10 +1593,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Пароль:</translation>
     </message>
     <message>
-        <source>Auto-join</source>
-        <translation type="vanished">Далучацца самарушна</translation>
-    </message>
-    <message>
         <source>Import bookmarks from file</source>
         <translation>Узяць закладкі з файла</translation>
     </message>
@@ -1744,10 +1732,6 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Call active</source>
         <translation>Дзейны выклік</translation>
-    </message>
-    <message>
-        <source>Call ended</source>
-        <translation type="obsolete">Скончылі размаўляць</translation>
     </message>
     <message>
         <source>Call is ended</source>
@@ -6099,10 +6083,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>HistoryDlg</translation>
     </message>
     <message>
-        <source>Advanced</source>
-        <translation type="obsolete">Адмысловыя</translation>
-    </message>
-    <message>
         <source>Refresh history</source>
         <translation>Абнавіць гісторыю</translation>
     </message>
@@ -6883,10 +6863,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>Info</name>
     <message>
-        <source>User Info</source>
-        <translation type="vanished">Пра карыстальніка</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation>Агульнае</translation>
     </message>
@@ -6990,132 +6966,16 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>Status</source>
         <translation>Стан</translation>
     </message>
-    <message>
-        <source>Alt+D</source>
-        <translation type="vanished">Alt+I</translation>
-    </message>
-    <message>
-        <source>psi/disco</source>
-        <translation type="vanished">psi/disco</translation>
-    </message>
-    <message>
-        <source>&amp;Publish</source>
-        <translation type="vanished">&amp;Да агульнага ведама</translation>
-    </message>
-    <message>
-        <source>&amp;Retrieve</source>
-        <translation type="vanished">&amp;Атрымаць</translation>
-    </message>
-    <message>
-        <source>psi/reload</source>
-        <translation type="vanished">psi/reload</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Зачыніць</translation>
-    </message>
-    <message>
-        <source>psi/close</source>
-        <translation type="vanished">psi/close</translation>
-    </message>
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>First Name:</source>
-        <translation type="vanished">Імя:</translation>
-    </message>
-    <message>
-        <source>Middle Name:</source>
-        <translation type="vanished">Імя па бацьку:</translation>
-    </message>
-    <message>
-        <source>Last Name:</source>
-        <translation type="vanished">Прозьвішча:</translation>
-    </message>
-    <message>
-        <source>Edit names</source>
-        <translation type="vanished">Правіць імёны</translation>
-    </message>
-    <message>
-        <source>View names</source>
-        <translation type="vanished">Зірнуць імёны</translation>
-    </message>
-    <message>
-        <source>Open web browser</source>
-        <translation type="vanished">Запусьціць аглядальнік сеціва</translation>
-    </message>
-    <message>
-        <source>No date</source>
-        <translation type="vanished">Няма даты</translation>
-    </message>
-    <message>
-        <source>Edit birthday</source>
-        <translation type="vanished">Правіць народзіны</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Перасьцярога</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">Зьмененыя зьвесткі не абвясьцілі да агульнага ведама.
-Ці ўпэўненыя вы, што жадаеце адкінуць зьмены?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Зачыніць і адкінуць</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Не зачыняць</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">Атрымалася</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">Пасьпяхова абвясьцілі да агульнага ведама зьвесткі пра рахунак.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Далі хібу</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">Немагчыма атрымаць зьвесткі пра рахунак.  Мажліва, вы іх і не вызначалі ніколі раней.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">Немагчыма атрымаць зьвесткі пра суразмоўцу.
-Падстава: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">Немагчыма абвясьціць да агульнага ведама зьвесткі пра рахунак.
-Падстава: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation type="vanished">Малюнак
-недаступны</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">Стан</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation type="unfinished">Пра карыстальніка</translation>
     </message>
     <message>
         <source>Alt+D</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alt+G</translation>
     </message>
     <message>
         <source>psi/disco</source>
@@ -7456,13 +7316,6 @@ to play battleship. He wants to play %2.</source>
     <message>
         <source>Input New Name</source>
         <translation>Пазначце назву</translation>
-    </message>
-</context>
-<context>
-    <name>JT_VCard</name>
-    <message>
-        <source>No VCard available</source>
-        <translation type="obsolete">Няма даступнае візытоўкі</translation>
     </message>
 </context>
 <context>
@@ -8034,13 +7887,6 @@ Incoming event(s) from:</source>
     <message>
         <source>%1 events received</source>
         <translation>Апавяшчэньняў: %1</translation>
-    </message>
-</context>
-<context>
-    <name>MainWin::Private</name>
-    <message>
-        <source>Diagnostics</source>
-        <translation type="obsolete">Дыяґностыка</translation>
     </message>
 </context>
 <context>
@@ -8866,26 +8712,6 @@ Tags: %1</source>
         <translation>OptPluginsUI</translation>
     </message>
     <message>
-        <source>Plugin Name:</source>
-        <translation type="vanished">Назва ўбудовы:</translation>
-    </message>
-    <message>
-        <source>Version: 0</source>
-        <translation type="vanished">Вэрсія: 0</translation>
-    </message>
-    <message>
-        <source>Load this plugin</source>
-        <translation type="vanished">Запусьціць убудову</translation>
-    </message>
-    <message>
-        <source>Plugin Location:</source>
-        <translation type="vanished">Убудова месьціцца тут:</translation>
-    </message>
-    <message>
-        <source>No plugin selected</source>
-        <translation type="vanished">Не абралі ўбудову</translation>
-    </message>
-    <message>
         <source>Plugin Name</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9046,10 +8872,6 @@ Tags: %1</source>
     <message>
         <source>Autohide roster after</source>
         <translation>Хаваць сьпіс, як міне</translation>
-    </message>
-    <message>
-        <source>seconds</source>
-        <translation type="vanished">сэк.</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -10558,14 +10380,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Можнасьці ўбудоваў «Псі»</translation>
     </message>
     <message>
-        <source>No plugin selected.</source>
-        <translation type="vanished">Не абралі ўбудову.</translation>
-    </message>
-    <message>
-        <source>Version: </source>
-        <translation type="vanished">Вэрсія: </translation>
-    </message>
-    <message>
         <source>Plugin Path:
 %1</source>
         <translation type="unfinished"></translation>
@@ -10934,10 +10748,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>заўжды</translation>
     </message>
     <message>
-        <source>Save queryes to log</source>
-        <translation type="vanished">Занатоўваць запыты</translation>
-    </message>
-    <message>
         <source>Logs</source>
         <translation>Справаздачы</translation>
     </message>
@@ -11244,10 +11054,6 @@ Please enter your passphrase below:</source>
 </context>
 <context>
     <name>PluginInfoDialog</name>
-    <message>
-        <source>Information</source>
-        <translation type="vanished">Зьвесткі</translation>
-    </message>
     <message>
         <source>Close</source>
         <translation>Зачыніць</translation>
@@ -11772,24 +11578,12 @@ Only use letters or numbers.  No punctuation or spaces.</source>
         <translation>Зьнішчыць яго!</translation>
     </message>
     <message>
-        <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folder will be deleted!&lt;br&gt;&lt;br&gt;
-&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Proceed?</source>
-        <translation type="vanished">&lt;qt&gt;Дзеля засьцярогі вас пытаюцца апошні раз: ці сапраўды вы жадаеце гэта зрабіць?  Наступны каталёґ зьнішчыцца!&lt;br&gt;&lt;br&gt;
-&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
-Ці працягваць?</translation>
-    </message>
-    <message>
         <source>&amp;No</source>
         <translation>&amp;Не</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
         <translation>&amp;Так</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">Немагчыма цалкам выдаліць каталёґ.  Упэўніцеся, што маеце адпаведны дазвол.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12829,10 +12623,6 @@ Reason: %1.</source>
         <translation type="unfinished">Пра карыстальніка</translation>
     </message>
     <message>
-        <source>Templates</source>
-        <translation type="obsolete">Шаблёны</translation>
-    </message>
-    <message>
         <source>Plugins</source>
         <translation type="unfinished">Убудовы</translation>
     </message>
@@ -13209,26 +12999,6 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation>Даслаць &amp;файл</translation>
     </message>
     <message>
-        <source>&amp;Log on</source>
-        <translation type="vanished">&amp;Увайсьці</translation>
-    </message>
-    <message>
-        <source>Log Off</source>
-        <translation type="vanished">Выйсьці з рахунку</translation>
-    </message>
-    <message>
-        <source>Resend Authorization To</source>
-        <translation type="vanished">Зноўку зацьвердзіць</translation>
-    </message>
-    <message>
-        <source>Rerequest Authorization From</source>
-        <translation type="vanished">Зноўку запытацца на зацьверджаньне</translation>
-    </message>
-    <message>
-        <source>Remove Authorization From</source>
-        <translation type="vanished">Забраць зацьверджаньне</translation>
-    </message>
-    <message>
         <source>Sen&amp;d Status</source>
         <translation>Даслаць &amp;стан</translation>
     </message>
@@ -13253,32 +13023,12 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation>Пра &amp;карыстальніка</translation>
     </message>
     <message>
-        <source>Invite To</source>
-        <translation type="vanished">Запрасіць да</translation>
-    </message>
-    <message>
         <source>&amp;Group</source>
         <translation>&amp;Суполка</translation>
     </message>
     <message>
-        <source>Send Message To</source>
-        <translation type="vanished">Даслаць паведамленьне</translation>
-    </message>
-    <message>
-        <source>Open Chat To</source>
-        <translation type="vanished">Пачаць гутарыць з…</translation>
-    </message>
-    <message>
-        <source>Open a Whiteboard To</source>
-        <translation type="vanished">Маляваць разам з…</translation>
-    </message>
-    <message>
         <source>E&amp;xecute Command</source>
         <translation>Выканаць &amp;загад</translation>
-    </message>
-    <message>
-        <source>Active Chats</source>
-        <translation type="vanished">Дзейныя гутаркі</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -13299,10 +13049,6 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <source>Always Visible</source>
         <translation>Заўжды бачна</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="vanished">Зацьверджаньне</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
@@ -14826,26 +14572,6 @@ The message was not sent.</source>
         <translation>Таемка «Псі»</translation>
     </message>
     <message>
-        <source>Generating keys for account &quot;%1&quot;.
-This may take a while.</source>
-        <translation type="obsolete">Ствараюцца ключы на рахунак «%1».
-Гэта зойме пэўны час.</translation>
-    </message>
-    <message>
-        <source>Please wait...</source>
-        <translation type="obsolete">Пачакайце…</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">Добра</translation>
-    </message>
-    <message>
-        <source>Fingerprint for account &quot;%1&quot;:
-%2</source>
-        <translation type="obsolete">Адбітак на рахунак «%1»:
-%2</translation>
-    </message>
-    <message>
         <source>Failed to generate keys for account &quot;%1&quot;.
 The OTR Plugin will not work.</source>
         <translation>Не ўдалося стварыць ключы на рахунак «%1».
@@ -15833,100 +15559,6 @@ Reason: %1</source>
     <message>
         <source>Cancel</source>
         <translation>Скасаваць</translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Template editor</source>
-        <translation type="vanished">Правіць шаблёны</translation>
-    </message>
-    <message>
-        <source>Templates</source>
-        <translation type="vanished">Шаблёны</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">Дадаць</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation type="vanished">Правіць</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="vanished">Прыбраць</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="vanished">Добра</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Скасаваць</translation>
-    </message>
-    <message>
-        <source>Add template string</source>
-        <translation type="vanished">Дадаць радок шаблёну</translation>
-    </message>
-    <message>
-        <source>Add template string as submenu</source>
-        <translation type="vanished">Дадаць радок шаблёну як падмэню</translation>
-    </message>
-    <message>
-        <source>Add separator</source>
-        <translation type="vanished">Дадаць аддзяляльнік</translation>
-    </message>
-    <message>
-        <source>Add separator as submenu</source>
-        <translation type="vanished">Дадаць аддзяляльнік як падмэню</translation>
-    </message>
-    <message>
-        <source>Up</source>
-        <translation type="vanished">Дагары</translation>
-    </message>
-    <message>
-        <source>Down</source>
-        <translation type="vanished">Долу</translation>
-    </message>
-    <message>
-        <source>&lt;separator&gt;</source>
-        <translation type="vanished">&lt;аддзяляльнік&gt;</translation>
-    </message>
-    <message>
-        <source>Edit template</source>
-        <translation type="vanished">Правіць шаблён</translation>
-    </message>
-    <message>
-        <source>Input new template text</source>
-        <translation type="vanished">Набярыце тэкст шаблёну</translation>
-    </message>
-    <message>
-        <source>Save templates</source>
-        <translation type="vanished">Захаваць шаблёны</translation>
-    </message>
-    <message>
-        <source>The template &quot;%1&quot; hasn&apos;t been saved!</source>
-        <translation type="vanished">Шаблён «%1» не захавалі!</translation>
-    </message>
-    <message>
-        <source>Continue?</source>
-        <translation type="vanished">Ці працягваць?</translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesMenu</name>
-    <message>
-        <source>Paste and &amp;Send</source>
-        <translation type="vanished">Уставіць і &amp;даслаць</translation>
-    </message>
-    <message>
-        <source>&amp;Edit Templates</source>
-        <translation type="vanished">&amp;Правіць шаблёны</translation>
-    </message>
-    <message>
-        <source>Only &amp;Paste</source>
-        <translation type="vanished">&amp;Толькі ўставіць</translation>
     </message>
 </context>
 <context>
@@ -18601,22 +18233,8 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation>Няма таемных сэансаў</translation>
     </message>
     <message>
-        <source>Session ID between account &quot;%1&quot; and %2:&lt;br/&gt;%3</source>
-        <translation type="obsolete">Азначальнік сэансу між рахункам «%1» і %2:&lt;br/&gt;%3</translation>
-    </message>
-    <message>
-        <source>Psi OTR</source>
-        <translation type="obsolete">Таемка «Псі»</translation>
-    </message>
-    <message>
         <source>No private key for account &quot;%1&quot;</source>
         <translation>Рахунак «%1» ня мае таемнага ключа</translation>
-    </message>
-    <message>
-        <source>Fingerprint for account &quot;%1&quot;:
-%2</source>
-        <translation type="obsolete">Адбітак на рахунак «%1»:
-%2</translation>
     </message>
     <message>
         <source>unverified</source>

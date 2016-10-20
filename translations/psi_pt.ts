@@ -6789,10 +6789,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished">Estado</translation>
     </message>
     <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fechar</translation>
-    </message>
-    <message>
         <source>E-Mail:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6887,66 +6883,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>Open web browser</source>
-        <translation type="obsolete">Abrir navegador web</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Alerta</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">Não publicou as mudanças relativas à informação da sua conta.
-Pretende ignorá-las?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Fechar e ignorar</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Não fechar</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">Sucesso</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">A informação relativa à sua conta foi publicada.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Erro</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">Impossível obter a informação da sua conta. Talvez ainda não a tenha preenchido.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">Impossível obter informação deste contacto.
-Motivo: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">Impossível publicar a informação da sua conta.
-Motivo: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation type="vanished">Imagem não
-disponível</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">Estado</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation type="unfinished"></translation>
@@ -10994,10 +10930,6 @@ Please enter your passphrase below:</source>
 <context>
     <name>PluginInfoDialog</name>
     <message>
-        <source>Information</source>
-        <translation type="obsolete">Informação</translation>
-    </message>
-    <message>
         <source>About</source>
         <translation type="unfinished">Acerca</translation>
     </message>
@@ -11526,10 +11458,6 @@ Use apenas letras ou números. Não use pontuação ou espaços.</translation>
     <message>
         <source>&amp;Yes</source>
         <translation>&amp;Sim</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">Impossível apagar completamente a pasta. Verifique que tem as permissões adequadas.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12878,10 +12806,6 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation type="unfinished">&amp;Histórico</translation>
     </message>
     <message>
-        <source>&amp;Log on</source>
-        <translation type="obsolete">Activar &amp;logs</translation>
-    </message>
-    <message>
         <source>User &amp;Info</source>
         <translation type="unfinished">&amp;Info do Utilizador</translation>
     </message>
@@ -12892,10 +12816,6 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <source>Hide</source>
         <translation type="unfinished">Esconder</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="obsolete">Autorização</translation>
     </message>
     <message>
         <source>Invitation</source>
@@ -15463,17 +15383,6 @@ Motivo: %1</translation>
     <message>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Add</source>
-        <translation type="obsolete">Adicionar</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="obsolete">Remover</translation>
     </message>
 </context>
 <context>

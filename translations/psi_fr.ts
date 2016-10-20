@@ -130,10 +130,6 @@ Copyright © 2001 - 2014 L&apos;équipe Psi.&lt;br&gt;</translation>
         <translation>Contributeur principal, développeur de greffons et empaqueteur Mac OS X</translation>
     </message>
     <message>
-        <source>Designer and Patcher</source>
-        <translation type="vanished">Concepteur et contributeur</translation>
-    </message>
-    <message>
         <source>Patcher, Plugins Writer and Fedora Packager</source>
         <translation>Contributeur, développeur de greffons et empaqueteur Fedora</translation>
     </message>
@@ -1594,10 +1590,6 @@ Les commandes sont envoyées sous forme de messages, ce greffon fonctionnera don
     <message>
         <source>Password:</source>
         <translation>Mot de passe :</translation>
-    </message>
-    <message>
-        <source>Auto-join</source>
-        <translation type="vanished">Rejoindre automatiquement</translation>
     </message>
     <message>
         <source>Import bookmarks from file</source>
@@ -6835,10 +6827,6 @@ Note : Afin de fonctionner correctement, l&apos;option options.ui.chat.central-t
 <context>
     <name>Info</name>
     <message>
-        <source>User Info</source>
-        <translation type="vanished">Infos du contact</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation>Général</translation>
     </message>
@@ -6942,125 +6930,9 @@ Note : Afin de fonctionner correctement, l&apos;option options.ui.chat.central-t
         <source>Status</source>
         <translation>État</translation>
     </message>
-    <message>
-        <source>Alt+D</source>
-        <translation type="vanished">Alt+S</translation>
-    </message>
-    <message>
-        <source>psi/disco</source>
-        <translation type="vanished">psi/disco</translation>
-    </message>
-    <message>
-        <source>&amp;Publish</source>
-        <translation type="vanished">&amp;Publier</translation>
-    </message>
-    <message>
-        <source>&amp;Retrieve</source>
-        <translation type="vanished">&amp;Récupérer</translation>
-    </message>
-    <message>
-        <source>psi/reload</source>
-        <translation type="vanished">psi/reload</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Fermer</translation>
-    </message>
-    <message>
-        <source>psi/close</source>
-        <translation type="vanished">psi/close</translation>
-    </message>
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>First Name:</source>
-        <translation type="vanished">Prénom :</translation>
-    </message>
-    <message>
-        <source>Middle Name:</source>
-        <translation type="vanished">Second prénom :</translation>
-    </message>
-    <message>
-        <source>Last Name:</source>
-        <translation type="vanished">Nom de famille :</translation>
-    </message>
-    <message>
-        <source>Edit names</source>
-        <translation type="vanished">Éditer les noms</translation>
-    </message>
-    <message>
-        <source>View names</source>
-        <translation type="vanished">Voir les noms</translation>
-    </message>
-    <message>
-        <source>Open web browser</source>
-        <translation type="vanished">Ouvrir le navigateur</translation>
-    </message>
-    <message>
-        <source>No date</source>
-        <translation type="vanished">Pas de date</translation>
-    </message>
-    <message>
-        <source>Edit birthday</source>
-        <translation type="vanished">Éditer la date d&apos;anniversaire</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Attention</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">Vous n&apos;avez pas publié les changements d&apos;informations de votre compte.
-Voulez-vous vraiment les perdre ?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Fermer et ne pas publier</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Ne pas fermer</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">Succès</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">Les informations de votre compte ont été publiées.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Erreur</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">Impossible de récupérer les informations de votre compte. Peut-être n&apos;avez vous encore rien rempli.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">Impossible de récupérer les informations de ce contact.
-Cause: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">Impossible de publier les informations de votre compte.
-Cause: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation type="vanished">Image non
-disponible</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">État</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation type="unfinished">Infos du contact</translation>
@@ -7118,7 +6990,7 @@ disponible</translation>
     </message>
     <message>
         <source>Open web browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ouvrir le navigateur web</translation>
     </message>
     <message>
         <source>No date</source>
@@ -8795,26 +8667,6 @@ Labels : %1</translation>
         <translation>Interface utilisateur pour les greffons</translation>
     </message>
     <message>
-        <source>Plugin Name:</source>
-        <translation type="vanished">Nom du greffon :</translation>
-    </message>
-    <message>
-        <source>Version: 0</source>
-        <translation type="vanished">Version : 0</translation>
-    </message>
-    <message>
-        <source>Load this plugin</source>
-        <translation type="vanished">Charger ce greffon</translation>
-    </message>
-    <message>
-        <source>Plugin Location:</source>
-        <translation type="vanished">Emplacement du greffon :</translation>
-    </message>
-    <message>
-        <source>No plugin selected</source>
-        <translation type="vanished">Aucun greffon sélectionné</translation>
-    </message>
-    <message>
         <source>Plugin Name</source>
         <translation>Nom du greffon</translation>
     </message>
@@ -8975,10 +8827,6 @@ Labels : %1</translation>
     <message>
         <source>Autohide roster after</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>seconds</source>
-        <translation type="vanished">secondes</translation>
     </message>
     <message>
         <source>Icons</source>
@@ -10470,14 +10318,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Options pour les greffons de Psi</translation>
     </message>
     <message>
-        <source>No plugin selected.</source>
-        <translation type="vanished">Aucun greffon sélectionné.</translation>
-    </message>
-    <message>
-        <source>Version: </source>
-        <translation type="vanished">Version : </translation>
-    </message>
-    <message>
         <source>Plugin Path:
 %1</source>
         <translation type="unfinished"></translation>
@@ -11682,10 +11522,6 @@ Utilisez seulement des lettres et des chiffres. Pas de ponctuation ni d&apos;esp
     <message>
         <source>&amp;Yes</source>
         <translation>&amp;Oui</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">Impossible de supprimer le répertoire complètement. Assurez-vous d&apos;avoir les droits appropriés.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -13101,26 +12937,6 @@ Cela signifie que vous avez une autre instance de Psi déja lancée. Vous risque
         <translation>Envoyer un &amp;fichier</translation>
     </message>
     <message>
-        <source>&amp;Log on</source>
-        <translation type="vanished">&amp;Connexion</translation>
-    </message>
-    <message>
-        <source>Log Off</source>
-        <translation type="vanished">Déconnexion</translation>
-    </message>
-    <message>
-        <source>Resend Authorization To</source>
-        <translation type="vanished">Renvoyer l&apos;autorisation à</translation>
-    </message>
-    <message>
-        <source>Rerequest Authorization From</source>
-        <translation type="vanished">Redemander l&apos;autorisation à</translation>
-    </message>
-    <message>
-        <source>Remove Authorization From</source>
-        <translation type="vanished">Supprimer l&apos;autorisation à</translation>
-    </message>
-    <message>
         <source>Sen&amp;d Status</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13145,32 +12961,12 @@ Cela signifie que vous avez une autre instance de Psi déja lancée. Vous risque
         <translation>&amp;Informations de l&apos;utilisateur</translation>
     </message>
     <message>
-        <source>Invite To</source>
-        <translation type="vanished">Inviter à</translation>
-    </message>
-    <message>
         <source>&amp;Group</source>
         <translation>&amp;Groupe</translation>
     </message>
     <message>
-        <source>Send Message To</source>
-        <translation type="vanished">Envoyer un message à</translation>
-    </message>
-    <message>
-        <source>Open Chat To</source>
-        <translation type="vanished">Ouvrir une discussion avec</translation>
-    </message>
-    <message>
-        <source>Open a Whiteboard To</source>
-        <translation type="vanished">Ouvrir un tableau blanc avec</translation>
-    </message>
-    <message>
         <source>E&amp;xecute Command</source>
         <translation>E&amp;xecuter la commande</translation>
-    </message>
-    <message>
-        <source>Active Chats</source>
-        <translation type="vanished">Discussions actives</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -13191,10 +12987,6 @@ Cela signifie que vous avez une autre instance de Psi déja lancée. Vous risque
     <message>
         <source>Always Visible</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="vanished">Autorisation</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
@@ -15671,13 +15463,6 @@ Cause: %1</translation>
     <message>
         <source>Cancel</source>
         <translation>Annuler</translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">Ajouter</translation>
     </message>
 </context>
 <context>

@@ -1557,10 +1557,6 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation>Lösenord:</translation>
     </message>
     <message>
-        <source>Auto-join</source>
-        <translation type="vanished">Gå med automatiskt</translation>
-    </message>
-    <message>
         <source>Import bookmarks from file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1700,10 +1696,6 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Call active</source>
         <translation>Samtal aktivt</translation>
-    </message>
-    <message>
-        <source>Call ended</source>
-        <translation type="obsolete">Samtal avslutat</translation>
     </message>
     <message>
         <source>Call is ended</source>
@@ -6033,10 +6025,6 @@ For sending commands, normal messages are used, so this plugin will always work 
 <context>
     <name>HistoryDlg</name>
     <message>
-        <source>Advanced</source>
-        <translation type="obsolete">Avancerat</translation>
-    </message>
-    <message>
         <source>&amp;Previous</source>
         <translation>&amp;Föregående</translation>
     </message>
@@ -6795,10 +6783,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>Info</name>
     <message>
-        <source>User Info</source>
-        <translation type="vanished">Användarinformation</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation>Allmän</translation>
     </message>
@@ -6902,108 +6886,16 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <source>Status</source>
         <translation>Status</translation>
     </message>
-    <message>
-        <source>Alt+D</source>
-        <translation type="vanished">Alt+D</translation>
-    </message>
-    <message>
-        <source>psi/disco</source>
-        <translation type="vanished">psi/disco</translation>
-    </message>
-    <message>
-        <source>&amp;Publish</source>
-        <translation type="vanished">&amp;Publicera</translation>
-    </message>
-    <message>
-        <source>&amp;Retrieve</source>
-        <translation type="vanished">&amp;Hämta</translation>
-    </message>
-    <message>
-        <source>psi/reload</source>
-        <translation type="vanished">psi/reload</translation>
-    </message>
-    <message>
-        <source>&amp;Close</source>
-        <translation type="vanished">&amp;Stäng</translation>
-    </message>
-    <message>
-        <source>psi/close</source>
-        <translation type="vanished">psi/close</translation>
-    </message>
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>Open web browser</source>
-        <translation type="obsolete">Öppna webbläsare</translation>
-    </message>
-    <message>
-        <source>No date</source>
-        <translation type="vanished">Inget datum</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Varning</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">Du har inte publicerat dina ändringar till kontoinformationen.
-Är du säker på att du vill slänga dem?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Stäng och kasta</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Stäng int</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">Lyckades</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">Din kontoinformation har publicerats.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Fel</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">Kunde inte hämta din kontoinformation. Kanske har du inte skrivit in någon än.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">Kunde inte hämta information om denna kontakt.
-Orsak: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">Kunde inte publicera din kontoinformation.
-Orsak: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation type="vanished">Bild ej 
-tillgänglig</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">Status</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation type="unfinished">Användarinformation</translation>
     </message>
     <message>
         <source>Alt+D</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alt+T</translation>
     </message>
     <message>
         <source>psi/disco</source>
@@ -7907,13 +7799,6 @@ Incoming event(s) from:</source>
     </message>
 </context>
 <context>
-    <name>MainWin::Private</name>
-    <message>
-        <source>Diagnostics</source>
-        <translation type="obsolete">Diagnostik</translation>
-    </message>
-</context>
-<context>
     <name>MainWindow</name>
     <message>
         <source>New</source>
@@ -8732,22 +8617,6 @@ Tags: %1</source>
     <message>
         <source>OptPluginsUI</source>
         <translation>OptPluginsUI</translation>
-    </message>
-    <message>
-        <source>Plugin Name:</source>
-        <translation type="vanished">Namn på insticksprogram:</translation>
-    </message>
-    <message>
-        <source>Load this plugin</source>
-        <translation type="vanished">Ladda detta insticksprogram</translation>
-    </message>
-    <message>
-        <source>Plugin Location:</source>
-        <translation type="vanished">Plats för insticksprogram:</translation>
-    </message>
-    <message>
-        <source>No plugin selected</source>
-        <translation type="vanished">Inget insticksprogram valt</translation>
     </message>
     <message>
         <source>Plugin Name</source>
@@ -10401,10 +10270,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Inställningar för Psi-insticksprogram</translation>
     </message>
     <message>
-        <source>No plugin selected.</source>
-        <translation type="vanished">Inget insticksprogram valt.</translation>
-    </message>
-    <message>
         <source>Plugin Path:
 %1</source>
         <translation type="unfinished"></translation>
@@ -11080,10 +10945,6 @@ Skriv din lösenfras nedanför:</translation>
 <context>
     <name>PluginInfoDialog</name>
     <message>
-        <source>Information</source>
-        <translation type="obsolete">Information</translation>
-    </message>
-    <message>
         <source>About</source>
         <translation type="unfinished">Om</translation>
     </message>
@@ -11612,10 +11473,6 @@ Använd bara bokstäver och siffror, ingen interpunktering eller mellanslag.</tr
     <message>
         <source>&amp;Yes</source>
         <translation>&amp;Ja</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">Kunde inte ta bort katalogen helt. Kontrollera rättigheterna.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -13031,26 +12888,6 @@ Detta kan betyda att du redan kör en annan instans av Psi. Du kan ha problem at
         <translation>Skicka &amp;fil</translation>
     </message>
     <message>
-        <source>&amp;Log on</source>
-        <translation type="vanished">&amp;Anslut</translation>
-    </message>
-    <message>
-        <source>Log Off</source>
-        <translation type="vanished">Koppla ner</translation>
-    </message>
-    <message>
-        <source>Resend Authorization To</source>
-        <translation type="vanished">Skicka om godkännande till</translation>
-    </message>
-    <message>
-        <source>Rerequest Authorization From</source>
-        <translation type="vanished">Begär nytt godkännande från </translation>
-    </message>
-    <message>
-        <source>Remove Authorization From</source>
-        <translation type="vanished">Ta bort godkännande från</translation>
-    </message>
-    <message>
         <source>&amp;Assign Custom Picture</source>
         <translation>Tilldela en &amp;anpassad bild</translation>
     </message>
@@ -13071,32 +12908,12 @@ Detta kan betyda att du redan kör en annan instans av Psi. Du kan ha problem at
         <translation>Användar&amp;information</translation>
     </message>
     <message>
-        <source>Invite To</source>
-        <translation type="vanished">Bjud in till</translation>
-    </message>
-    <message>
         <source>&amp;Group</source>
         <translation>&amp;Grupp</translation>
     </message>
     <message>
-        <source>Send Message To</source>
-        <translation type="vanished">Skicka meddelande till</translation>
-    </message>
-    <message>
-        <source>Open Chat To</source>
-        <translation type="vanished">Öppna chat till</translation>
-    </message>
-    <message>
-        <source>Open a Whiteboard To</source>
-        <translation type="vanished">Öppna skrivtavla till</translation>
-    </message>
-    <message>
         <source>E&amp;xecute Command</source>
         <translation>&amp;Utför kommando</translation>
-    </message>
-    <message>
-        <source>Active Chats</source>
-        <translation type="vanished">Aktiva konversationer</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -13105,10 +12922,6 @@ Detta kan betyda att du redan kör en annan instans av Psi. Du kan ha problem at
     <message>
         <source>Block</source>
         <translation type="unfinished">Spärra</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="vanished">Godkännande</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
@@ -14074,10 +13887,6 @@ Fortsätt?</translation>
     <message>
         <source>Warning</source>
         <translation type="unfinished">Varning</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">Ok</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -15600,33 +15409,6 @@ Orsak: %1</translation>
     <message>
         <source>Cancel</source>
         <translation>Avbryt</translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Add</source>
-        <translation type="obsolete">Lägg till</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="obsolete">Ta bort</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation type="obsolete">Ok</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="obsolete">Avbryt</translation>
-    </message>
-    <message>
-        <source>Up</source>
-        <translation type="obsolete">Upp</translation>
-    </message>
-    <message>
-        <source>Down</source>
-        <translation type="obsolete">Ner</translation>
     </message>
 </context>
 <context>

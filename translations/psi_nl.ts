@@ -6787,10 +6787,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished">Status</translation>
     </message>
     <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Sluiten</translation>
-    </message>
-    <message>
         <source>E-Mail:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6885,66 +6881,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>Open web browser</source>
-        <translation type="obsolete">Webbrowser openen</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Waarschuwing</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">De wijzigingen van uw accountinformatie zijn nog niet gepubliceerd.
-Wilt u doorgaan zonder op te slaan?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Niet opslaan en sluiten</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Niet sluiten</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">Gelukt</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">Uw accountinformatie is gepubliceerd.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Fout</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">Kan accountinformatie niet ophalen.  Misschien heeft u nog geen gegevens ingevoerd.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">Kan geen informatie van deze contactpersoon verkrijgen.
-Reden: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">Kan uw accountgegevens niet publiceren.
-Reden: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation type="vanished">Afbeelding niet
-beschikbaar</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">Status</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation type="unfinished"></translation>
@@ -10991,10 +10927,6 @@ Please enter your passphrase below:</source>
 <context>
     <name>PluginInfoDialog</name>
     <message>
-        <source>Information</source>
-        <translation type="obsolete">Informatie</translation>
-    </message>
-    <message>
         <source>About</source>
         <translation type="unfinished">Over</translation>
     </message>
@@ -11523,10 +11455,6 @@ Gebruik alleen cijfers en letters.  Geen interpunctie of spaties.</translation>
     <message>
         <source>&amp;Yes</source>
         <translation>&amp;Ja</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">Kan de map niet helemaal verwijderen. Controleer of u hiervoor bevoegd bent.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12875,20 +12803,12 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation type="unfinished">Gesc&amp;hiedenis</translation>
     </message>
     <message>
-        <source>&amp;Log on</source>
-        <translation type="obsolete">&amp;Aanmelden</translation>
-    </message>
-    <message>
         <source>&amp;Group</source>
         <translation type="unfinished">&amp;Groep</translation>
     </message>
     <message>
         <source>Hide</source>
         <translation type="unfinished">Verberg</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="obsolete">Autorisatie</translation>
     </message>
     <message>
         <source>Invitation</source>
@@ -15460,13 +15380,6 @@ Reden: %1</translation>
     <message>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Add</source>
-        <translation type="obsolete">Toevoegen</translation>
     </message>
 </context>
 <context>

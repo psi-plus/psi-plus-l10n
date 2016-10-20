@@ -2635,7 +2635,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Authorization</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Разрешение</translation>
     </message>
 </context>
 <context>
@@ -6777,10 +6777,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>Info</name>
     <message>
-        <source>User Info</source>
-        <translation type="vanished">Данни за потребител</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation type="unfinished">Общи</translation>
     </message>
@@ -6888,62 +6884,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>InfoDlg</name>
     <message>
-        <source>Warning</source>
-        <translation type="vanished">Предупреждение</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">Не сте публикували промените в сметката си.
-Сигурни ли сте, че искате да ги отмените?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Затваряне и отказ</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Да не се затваря</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">Успешно</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">Данните за сметката ви са публикувани.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Грешка</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">Не могат да се получат данни за сметката ви. Възможно е все още да не сте ги публикували.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">Не могат да се получат данни за потребителя.
-Причина: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">Не могат да се публикуват данните за сметката ви.
-Причина: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation type="vanished">Няма
-снимка</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">Състояние</translation>
-    </message>
-    <message>
         <source>User Info</source>
         <translation type="unfinished">Данни за потребител</translation>
     </message>
@@ -7035,7 +6975,7 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Успех</translation>
     </message>
     <message>
         <source>Your conference information has been published.</source>
@@ -11519,10 +11459,6 @@ Only use letters or numbers.  No punctuation or spaces.</source>
         <translation>&amp;Да</translation>
     </message>
     <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">Не може да се изтрие цялата папка. Проверете дали имате нужните права.</translation>
-    </message>
-    <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
@@ -12979,10 +12915,6 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <source>Always Visible</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="vanished">Оторизация</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
@@ -15451,13 +15383,6 @@ Reason: %1</source>
     <message>
         <source>Cancel</source>
         <translation>Отказ</translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Отказ</translation>
     </message>
 </context>
 <context>
@@ -18217,7 +18142,7 @@ You should authenticate %1 as well by asking your own question.</source>
     <name>requestAuthDialogClass</name>
     <message>
         <source>Authorization</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Разрешение</translation>
     </message>
     <message>
         <source>Login:</source>

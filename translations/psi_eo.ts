@@ -6025,10 +6025,6 @@ For sending commands, normal messages are used, so this plugin will always work 
 <context>
     <name>HistoryDlg</name>
     <message>
-        <source>Advanced</source>
-        <translation type="obsolete">Sperta</translation>
-    </message>
-    <message>
         <source>&amp;Previous</source>
         <translation>&amp;Antaŭa</translation>
     </message>
@@ -6799,10 +6795,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished">Stato</translation>
     </message>
     <message>
-        <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermi</translation>
-    </message>
-    <message>
         <source>General</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6897,66 +6889,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 </context>
 <context>
     <name>InfoDlg</name>
-    <message>
-        <source>Open web browser</source>
-        <translation type="obsolete">Malfermi foliumilon</translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="vanished">Atentu</translation>
-    </message>
-    <message>
-        <source>You have not published your account information changes.
-Are you sure you want to discard them?</source>
-        <translation type="vanished">Vi ne publikis la ŝanĝojn de informo de via konto.
-Ĉu vi certas ke vi volas forĵeti ilin?</translation>
-    </message>
-    <message>
-        <source>Close and discard</source>
-        <translation type="vanished">Fermi kaj forĵeti</translation>
-    </message>
-    <message>
-        <source>Don&apos;t close</source>
-        <translation type="vanished">Ne fermi</translation>
-    </message>
-    <message>
-        <source>Success</source>
-        <translation type="vanished">Sukceso</translation>
-    </message>
-    <message>
-        <source>Your account information has been published.</source>
-        <translation type="vanished">La informo de via konto publikiĝis.</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Eraro</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="vanished">Ne eblas ekstrakti la informon de via konto.  Eble vi ankoraŭ neniun enskribis.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this contact.
-Reason: %1</source>
-        <translation type="vanished">Ne eblas ekstrakti la informon de konto de tiu ĉi kontaktulo.
-Kialo: %1</translation>
-    </message>
-    <message>
-        <source>Unable to publish your account information.
-Reason: %1</source>
-        <translation type="vanished">Ne eblas publikigi la informon de via konto.
-Kialo: %1</translation>
-    </message>
-    <message>
-        <source>Picture not
-available</source>
-        <translation type="vanished">Bildo ne
-disponebla</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">Stato</translation>
-    </message>
     <message>
         <source>User Info</source>
         <translation type="unfinished"></translation>
@@ -7864,13 +7796,6 @@ Active accounts:</source>
         <source>
 Incoming event(s) from:</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>MainWin::Private</name>
-    <message>
-        <source>Diagnostics</source>
-        <translation type="obsolete">Diagnozoj</translation>
     </message>
 </context>
 <context>
@@ -10340,10 +10265,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Psi kromaĵa agordo</translation>
     </message>
     <message>
-        <source>No plugin selected.</source>
-        <translation type="vanished">Neniu kromaĵo elektita.</translation>
-    </message>
-    <message>
         <source>Plugin Path:
 %1</source>
         <translation type="unfinished"></translation>
@@ -11018,10 +10939,6 @@ Please enter your passphrase below:</source>
 <context>
     <name>PluginInfoDialog</name>
     <message>
-        <source>Information</source>
-        <translation type="obsolete">Informo</translation>
-    </message>
-    <message>
         <source>About</source>
         <translation type="unfinished">Pri</translation>
     </message>
@@ -11550,10 +11467,6 @@ Uzu nur literojn aŭ numerojn.  Neniun interpunkcion aŭ spacetojn.</translation
     <message>
         <source>&amp;Yes</source>
         <translation>&amp;Jes</translation>
-    </message>
-    <message>
-        <source>Unable to delete the folder completely.  Ensure you have the proper permission.</source>
-        <translation type="vanished">Ne eblas plene forviŝi la dosierujon.  Certiĝu ke vi havas la adekvatan permeson.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
@@ -12915,10 +12828,6 @@ Tio signifas, ke vi jam estas rulanta alian seancon de Psi. Al vi eble okazus pr
         <translation type="unfinished">Alvoko</translation>
     </message>
     <message>
-        <source>&amp;Log on</source>
-        <translation type="obsolete">&amp;Ensaluti</translation>
-    </message>
-    <message>
         <source>&amp;Assign Custom Picture</source>
         <translation type="unfinished">&amp;Asigni Propran Bildon</translation>
     </message>
@@ -12933,10 +12842,6 @@ Tio signifas, ke vi jam estas rulanta alian seancon de Psi. Al vi eble okazus pr
     <message>
         <source>Hide</source>
         <translation type="unfinished">Kaŝi</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="obsolete">Rajtigo</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
@@ -15490,17 +15395,6 @@ Kialo: %1</translation>
     <message>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>SendButtonTemplatesEditor</name>
-    <message>
-        <source>Add</source>
-        <translation type="obsolete">Aldoni</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="obsolete">Forigi</translation>
     </message>
 </context>
 <context>
