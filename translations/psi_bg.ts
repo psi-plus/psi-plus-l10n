@@ -161,7 +161,7 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Language coordinator, miscellaneous assistance</source>
-        <translation type="unfinished"></translation>
+        <translation>Езиков координатор, разнообразно подпомагане</translation>
     </message>
     <message>
         <source>Former language coordinator, miscellaneous assistance</source>
@@ -213,7 +213,7 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Security plugin: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавка за сигурност: %1</translation>
     </message>
     <message>
         <source>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
@@ -262,7 +262,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished">psi/addContact</translation>
+        <translation>psi/добавянеКонтакт</translation>
     </message>
 </context>
 <context>
@@ -652,7 +652,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Makes Psi try to connect when the computer resumes after a sleep.</source>
-        <translation type="unfinished"></translation>
+        <translation>Задава Psi да опита да се свърже, когато компютърът продължи след спящ режим.</translation>
     </message>
     <message>
         <source>Makes Psi try to reconnect if the connection was broken.  Useful, if you have an unstable connection and have to reconnect often.</source>
@@ -668,11 +668,11 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отметнете тази опция, за да използвате кодирана SSL връзка към XMPP сървъра. Можете да използвате тази опция ако сървърът я поддържа и имате инсталирана нужната qca-ossl добавка. За повече информация посетете главната страница на Psi.</translation>
     </message>
     <message>
         <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Отметнете тази опция, за да използвате компресирана връзка към XMPP сървъра, ако сървърът я поддържа.</translation>
     </message>
     <message>
         <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
@@ -680,7 +680,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
-        <translation type="unfinished"></translation>
+        <translation>Можете да имате различни клиенти свързани към XMPP сървъра с единствен акаунт. Всяка връзка се отличава по име на &quot;ресурса&quot;, което можете да зададете в това поле.</translation>
     </message>
     <message>
         <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
@@ -724,7 +724,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>&lt;i&gt;XMPP Address&lt;/i&gt; must be specified in the format &lt;i&gt;user@host&lt;/i&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;i&gt;XMPP Адрес&lt;/i&gt; трябва да бъде зададен във формата &lt;i&gt;потребител@сървър&lt;/i&gt;.</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -866,7 +866,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Cannot enable SSL/TLS. QCA2 Plugin not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не може да се активира SSL/TSL. QCA2 Добавка не е намерена.</translation>
     </message>
     <message>
         <source>There was an error retrieving the server list</source>
@@ -1160,7 +1160,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>No description</source>
-        <translation type="unfinished"></translation>
+        <translation>Без описание</translation>
     </message>
     <message>
         <source>Get XMPP Address</source>
@@ -1168,11 +1168,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>psi/vCard</source>
-        <translation type="unfinished"></translation>
+        <translation>psi/Визитка</translation>
     </message>
     <message>
         <source>Group:</source>
-        <translation type="unfinished"></translation>
+        <translation>Група:</translation>
     </message>
     <message>
         <source>Resolve</source>
@@ -1180,19 +1180,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Nickname (optional):</source>
-        <translation type="unfinished"></translation>
+        <translation>Псевдоним (опционално):</translation>
     </message>
     <message>
         <source>XMPP Address:</source>
-        <translation type="unfinished">XMPP Адрес:</translation>
+        <translation>XMPP Адрес:</translation>
     </message>
     <message>
         <source>Request authorization when adding</source>
-        <translation type="unfinished"></translation>
+        <translation>Изискване на разрешение при добавяне</translation>
     </message>
     <message>
         <source>Close window after adding</source>
-        <translation type="unfinished"></translation>
+        <translation>Затваряне на прозореца след добавяне</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -1204,11 +1204,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished">Alt+A</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished">psi/addContact</translation>
+        <translation>psi/добавянеКонтакт</translation>
     </message>
 </context>
 <context>
@@ -1219,7 +1219,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished">Hidden</translation>
+        <translation>Скрит</translation>
     </message>
     <message>
         <source>Add User: Error</source>
@@ -1227,7 +1227,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Please fill in the XMPP address of the person you wish to add.</source>
-        <translation type="unfinished"></translation>
+        <translation>Моля въведете XMPP адреса на потребителя, който искате да добавите.</translation>
     </message>
     <message>
         <source>The XMPP address you entered is not valid!
@@ -1275,74 +1275,75 @@ There was an error getting the Service ID translation information from &quot;%1&
     <name>AttentionPlugin</name>
     <message>
         <source> sends Attention message to you!</source>
-        <translation type="unfinished"></translation>
+        <translation>изпраща съобщение Внимание към вас!</translation>
     </message>
     <message>
         <source>Send Attention</source>
-        <translation type="unfinished"></translation>
+        <translation>Изпращане на Внимание</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished">Избор на звуков файл</translation>
+        <translation>Избор на звуков файл</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished">Звуци (*.wav)</translation>
+        <translation>Звук (*.wav)</translation>
     </message>
     <message>
         <source>Attention Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавка Внимание</translation>
     </message>
     <message>
         <source>You sent Attention message to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Изпратихте съобщение Внимание до %1</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin is designed to send and receive special messages such as Attentions.
 To work correctly, the plugin requires that the client of the other part supports XEP-0224 (for example: Pidgin, Miranda IM with Nudge plugin).</source>
-        <translation type="unfinished"></translation>
+        <translation>Тази добавка е предвидена на изпраща и получава специални съобщения от типа на Вниманията.
+За да работи правилно, добавката изисква клиента от другата страна да поддържа XEP-0224 (например: Pidgin, Miranda IM с Nudge добавка) </translation>
     </message>
 </context>
 <context>
     <name>AuthEvent</name>
     <message>
         <source>%1 wants to subscribe to your presence.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 иска да се абонира за вашето присъствие.</translation>
     </message>
     <message>
         <source>%1 authorized you to view his status.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ви разреши да виждате неговия статус.</translation>
     </message>
     <message>
         <source>%1 removed your authorization to view his status!</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 изтри предоставеното ви разрешение да виждате статуса му!</translation>
     </message>
 </context>
 <context>
     <name>AutoReply</name>
     <message>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Активиране</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished">Деактивиране</translation>
+        <translation>Деактивиране</translation>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation type="unfinished"></translation>
+        <translation>Деактивиране ако прозореца на чата е активен.</translation>
     </message>
     <message>
         <source>Disable if contact isn&apos;t from your roster</source>
-        <translation type="unfinished"></translation>
+        <translation>Деактивиране ако контакта не е от вашия списък.</translation>
     </message>
     <message>
         <source>Online</source>
@@ -1350,7 +1351,7 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Away</source>
-        <translation type="unfinished">Отсъстващ</translation>
+        <translation>Отсъстващ</translation>
     </message>
     <message>
         <source>Dnd</source>
@@ -1362,32 +1363,33 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished">Разговор</translation>
+        <translation>Чат</translation>
     </message>
     <message>
         <source>Invisible</source>
-        <translation type="unfinished">Невидим</translation>
+        <translation>Невидим</translation>
     </message>
     <message>
         <source>Enable if status is:</source>
-        <translation type="unfinished"></translation>
+        <translation>Активиране ако статуса е:</translation>
     </message>
     <message>
         <source>Auto Reply Message:</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматичен отговор:</translation>
     </message>
     <message>
         <source>for JIDs and conferences:</source>
-        <translation type="unfinished"></translation>
+        <translation>за JID-и и конференции:</translation>
     </message>
     <message>
         <source>You can also specify a part of JID
 (without any additional symbols)</source>
-        <translation type="unfinished"></translation>
+        <translation>Можете също така да зададете част от JID
+(без каквито и да е допълнителни символи)</translation>
     </message>
     <message>
         <source>Disable for your accounts (specify your JIDs):</source>
-        <translation type="unfinished"></translation>
+        <translation>Деактивиране за вашите акаунти (посочете вашите JID-ове):</translation>
     </message>
     <message>
         <source>Timeout to reset counter:</source>
@@ -1395,11 +1397,11 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>min.</source>
-        <translation type="unfinished"></translation>
+        <translation>мин.</translation>
     </message>
     <message>
         <source>Send maximum</source>
-        <translation type="unfinished"></translation>
+        <translation>Изпращане максимално</translation>
     </message>
     <message>
         <source>times (-1=infinite)</source>
@@ -1411,11 +1413,11 @@ To work correctly, the plugin requires that the client of the other part support
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin acts as an auto-answering machine. It has a number of simple configuration options, which you can use to:
@@ -1436,7 +1438,7 @@ The list of exceptions for jids has two operating modes:
     <name>AvCallEvent</name>
     <message>
         <source>The user is calling you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Потребителя ви търси.</translation>
     </message>
 </context>
 <context>
@@ -1447,11 +1449,11 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Codec error</source>
-        <translation type="unfinished"></translation>
+        <translation>Грешка на кодека</translation>
     </message>
     <message>
         <source>Generic error</source>
-        <translation type="unfinished"></translation>
+        <translation>Обща грешка</translation>
     </message>
     <message>
         <source>Cannot call without selecting a device.  Do you have a microphone?  Check the Psi options.</source>
@@ -1513,15 +1515,15 @@ The list of exceptions for jids has two operating modes:
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished">Звуци (*.wav)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin allows you to play battleship with your friends.
@@ -1743,11 +1745,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin is designed to pass of captcha directly from the Psi+.</source>
@@ -2087,15 +2089,15 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished">Звуци (*.wav)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin allows you to play chess with your friends.
@@ -2324,11 +2326,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin is designed to clear the avatar cache, saved local copies of vCards and history logs.
@@ -2465,11 +2467,11 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ел. поща:</translation>
     </message>
 </context>
 <context>
@@ -2631,7 +2633,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished">Hidden</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Authorization</source>
@@ -3248,7 +3250,7 @@ Proceed?</source>
     <name>ContentDownloader</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>e-mail: </source>
@@ -3616,7 +3618,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished">Звуци (*.wav)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3985,11 +3987,11 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin adds several additional commands into contacts context menu.</source>
@@ -4000,7 +4002,7 @@ If you wish to confirm this request, please press Confirm button. Otherwise pres
     <name>ExtendedOptions</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished">Разговор</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tabs</source>
@@ -4414,11 +4416,11 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin is designed to allow easy configuration of some advanced options in Psi+.
@@ -5706,7 +5708,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>Version: </source>
@@ -5760,7 +5762,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished">Звуци (*.wav)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Choose a program</source>
@@ -5795,7 +5797,7 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     <name>GnuPG</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>e-mail: </source>
@@ -5822,15 +5824,15 @@ Note: The plugin only checks the root of your Inbox folder in your Gmailbox for 
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished">Звуци (*.wav)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin allows you to play gomoku with your friends.
@@ -6167,11 +6169,11 @@ Continue?</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin is designed to remove the history of selected contacts when the Psi+ is closed.
@@ -6663,7 +6665,7 @@ Sincerely yours, Debian Sid.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
@@ -6766,7 +6768,7 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>This plugin shows the preview image for an image URL.
@@ -6962,16 +6964,15 @@ Are you sure you want to discard them?</source>
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation type="unfinished">Не сте публикували промените в сметката си.
-Сигурни ли сте, че искате да ги отмените?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation type="unfinished">Затваряне и отказ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation type="unfinished">Да не се затваря</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Success</source>
@@ -6983,7 +6984,7 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation type="unfinished">Данните за сметката ви са публикувани.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error</source>
@@ -6991,7 +6992,7 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="unfinished">Не могат да се получат данни за сметката ви. Възможно е все още да не сте ги публикували.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to retrieve information about this conference.
@@ -7001,20 +7002,17 @@ Reason: %1</source>
     <message>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation type="unfinished">Не могат да се получат данни за потребителя.
-Причина: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation type="unfinished">Не могат да се публикуват данните за сметката ви.
-Причина: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Picture not
 available</source>
-        <translation type="unfinished">Няма
-снимка</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Status</source>
@@ -7238,11 +7236,11 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ел. поща:</translation>
     </message>
 </context>
 <context>
@@ -7839,7 +7837,7 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
     <name>MessageFilter</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>e-mail: </source>
@@ -8502,7 +8500,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished">Разговор</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete chat window contents</source>
@@ -9569,7 +9567,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Send maximum</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Изпращане максимално</translation>
     </message>
     <message>
         <source>times</source>
@@ -9581,7 +9579,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>min.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">мин.</translation>
     </message>
     <message>
         <source>Log blocked messages to contact&apos;s history</source>
@@ -10493,7 +10491,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished">Разговор</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Groupchat</source>
@@ -10888,15 +10886,15 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished">Звуци (*.wav)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin shows popup notifications when users from your roster changes their mood, tune or activity.</source>
@@ -11184,7 +11182,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>Version: </source>
@@ -11399,7 +11397,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished">psi/addContact</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Rename</source>
@@ -11497,7 +11495,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished">Разговор</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable Emoticons</source>
@@ -11517,7 +11515,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished">psi/addContact</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11617,7 +11615,7 @@ Check the &lt;i&gt;Enable Emoticons&lt;/i&gt; checkbox if you&apos;d like text s
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished">psi/addContact</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
@@ -12772,7 +12770,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Hidden</source>
-        <translation type="unfinished">Hidden</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Choose an image</source>
@@ -14668,7 +14666,7 @@ Password: %5</source>
     </message>
     <message>
         <source>Chat</source>
-        <translation type="unfinished">Разговор</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Extended Away</source>
@@ -14832,11 +14830,11 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin is designed to display x-statuses of contacts using the QIP Infium jabber client.</source>
@@ -14847,11 +14845,11 @@ Thanks for your patience.</source>
     <name>Redirector</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ел. поща:</translation>
     </message>
     <message>
         <source>Redirects all incoming messages to some jid and allows to redirect messages back.</source>
@@ -14951,15 +14949,15 @@ Reason: %1</source>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished">Звуци (*.wav)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
@@ -15293,7 +15291,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
     </message>
     <message>
         <source>psi/addContact</source>
-        <translation type="unfinished">psi/addContact</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -15301,7 +15299,7 @@ Settings for authorization on some hostings can be found here: http://code.googl
     </message>
     <message>
         <source>psi/vCard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">psi/Визитка</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -15959,11 +15957,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin is designed to create, store and apply skins to Psi+.
@@ -16094,11 +16092,11 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin is designed to block spam messages and other unwanted information from Psi+ users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
@@ -16135,11 +16133,11 @@ WARNING!!! Before registering a new transport, it is recommended to add its jid 
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin is an implementation of XEP-0049: Private XML Storage.
@@ -16646,7 +16644,7 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>This plugin allows you to convert selected text into another language.
@@ -17024,7 +17022,7 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished">Звуци (*.wav)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&lt;br&gt;Status Message: %1</source>
@@ -17040,11 +17038,11 @@ To work with GNOME MPlayer additional configuration is not needed.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin is designed to monitor the status of specific roster contacts, as well as for substitution of standard sounds of incoming messages.
@@ -17298,7 +17296,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Активиране</translation>
     </message>
     <message>
         <source>Dump Ringbuf</source>
@@ -17684,7 +17682,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>min.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">мин.</translation>
     </message>
     <message>
         <source>Max messages to contact:</source>
@@ -17692,7 +17690,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>Disable if chat window is active</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Деактивиране ако прозореца на чата е активен.</translation>
     </message>
     <message>
         <source>Transports:</source>
