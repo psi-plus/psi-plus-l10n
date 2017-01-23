@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="it">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="it" version="2.1">
 <context>
     <name>@default</name>
     <message>
@@ -72,7 +70,7 @@ Copyright © 2001-2013 Il Team Psi.&lt;br&gt;
     </message>
     <message>
         <source>Thanks To</source>
-        <translation>Ringraziamenti</translation>
+        <translation>Grazie A</translation>
     </message>
     <message>
         <source>Translation</source>
@@ -104,7 +102,7 @@ Copyright © 2001-2013 Il Team Psi.&lt;br&gt;
     </message>
     <message>
         <source>Lead Widget Developer</source>
-        <translation>Capo Sviluppatore degli Elementi Grafici</translation>
+        <translation>Capo Sviluppatore Widget</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -1156,7 +1154,7 @@ salverà la cronologia per questo contatto.</translation>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Bitstream Vera Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Bitstream Vera Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;To add a &lt;span style=&quot; font-weight:600;&quot;&gt;XMPP&lt;/span&gt; user, simply fill out the XMPP address (and optional nickname and group) at the bottom and press &lt;span style=&quot; font-style:italic;&quot;&gt;Add&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;To add a contact from a &lt;span style=&quot; font-weight:600;&quot;&gt;non-XMPP&lt;/span&gt; service, make sure you are registered with the service first (see Service Discovery from the main menu), and then select the service from the box at the top. Follow the instructions in the &lt;span style=&quot; font-style:italic;&quot;&gt;Service ID Translation&lt;/span&gt; box and press the &lt;span style=&quot; font-style:italic;&quot;&gt;Get XMPP Address&lt;/span&gt; button to generate an XMPP address for the contact.&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -2726,17 +2724,11 @@ Nota: per funzionare correttamente, la barra degli strumenti della chat di grupp
     </message>
     <message numerus="yes">
         <source>and %n contacts </source>
-        <translation>
-            <numerusform>one</numerusform>
-            <numerusform>e %n contatti</numerusform>
-        </translation>
+        <translation><numerusform>one</numerusform><numerusform>e %n contatti</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation>
-            <numerusform>Questo rimuoverà permanentemente:&lt;br&gt;%1&lt;br&gt;%2e %n gruppi dalla tua lista contatti.</numerusform>
-            <numerusform>Questo rimuoverà permanentemente i gruppi:&lt;br&gt;%1&lt;br&gt;%2e %n dalla tua lista contatti.</numerusform>
-        </translation>
+        <translation><numerusform>Questo rimuoverà permanentemente:&lt;br&gt;%1&lt;br&gt;%2e %n gruppi dalla tua lista contatti.</numerusform><numerusform>Questo rimuoverà permanentemente i gruppi:&lt;br&gt;%1&lt;br&gt;%2e %n dalla tua lista contatti.</numerusform></translation>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
@@ -3350,7 +3342,7 @@ Procedere?</translation>
     </message>
     <message>
         <source>ToolBar will be placed here</source>
-        <comment>Don&apos;t translate this string</comment>
+        <comment>Don't translate this string</comment>
         <translation>La barra degli strumenti sarà posizionata qui</translation>
     </message>
     <message>
@@ -4641,7 +4633,7 @@ contact is offline.</source>
         <source>Unable to connect to peer for data transfer.
 
 Ensure that your Data Transfer settings are proper.  If you are behind
-a NAT router or firewall then you&apos;ll need to open the proper TCP port
+a NAT router or firewall then you'll need to open the proper TCP port
 or specify a Data Transfer Proxy in your account settings.</source>
         <translation>Impossibile connettersi al peer per il trasferimento di dati.
 
@@ -4653,7 +4645,7 @@ o specificare un Proxy per Trasferimento Dati nelle tue impostazioni d&apos;acco
         <source>Failure to either connect to, or activate, the Data Transfer Proxy.
 
 This means that the Proxy service is either not functioning or it is
-unreachable.  If you are behind a firewall, then you&apos;ll need to ensure
+unreachable.  If you are behind a firewall, then you'll need to ensure
 that outgoing TCP connections are allowed.</source>
         <translation>Connessione, o attivazione, del Proxy di Trasferimento Dati non riuscita.
 
@@ -6265,7 +6257,7 @@ Puoi selezionare o deselezionare un contatto dalla rimozione cronologia dal menu
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Import Settings and Data&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -6277,7 +6269,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Copy the existing profile to the new directory required to run Psi+. The old profile will not be removed. You can remove it manually later.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -6293,7 +6285,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Move the existing profile to the new directory. The old profile will be removed automatically when done.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -6309,7 +6301,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Liberation Serif&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Liberation Serif'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;Create a new Psi+ profile. The old profile will not be removed, but you will be unable to choose it.&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:medium; font-weight:600; color:#1a1a1a;&quot;&gt;(Not recommended)&lt;/span&gt;&lt;span style=&quot; font-size:medium; color:#1a1a1a;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -6402,103 +6394,103 @@ p, li { white-space: pre-wrap; }
     <name>HttpUploadPlugin</name>
     <message>
         <source>Image preview width</source>
-        <translation type="unfinished"></translation>
+        <translation>Larghezza anteprima immagine</translation>
     </message>
     <message>
         <source>Resize images</source>
-        <translation type="unfinished"></translation>
+        <translation>Ridimensiona immagini</translation>
     </message>
     <message>
         <source>If width or height is bigger than</source>
-        <translation type="unfinished"></translation>
+        <translation>Se la larghezza o l&apos;altezza è maggiore di</translation>
     </message>
     <message>
         <source>JPEG quality</source>
-        <translation type="unfinished"></translation>
+        <translation>Qualità JPEG</translation>
     </message>
     <message>
         <source>Upload Image</source>
-        <translation type="unfinished">Carica Immagine</translation>
+        <translation>Carica Immagini</translation>
     </message>
     <message>
         <source>Upload File</source>
-        <translation type="unfinished">Carica File</translation>
+        <translation>Carica File</translation>
     </message>
     <message>
         <source>Please wait</source>
-        <translation type="unfinished"></translation>
+        <translation>Attendere prego</translation>
     </message>
     <message>
         <source>Another upload operation is already in progress. Please wait up to %1 sec for it to complete or fail.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un&apos;altra operazione di caricamento è già in corso. Si prega di attendere fino a %1 sec per il completamento o fallimento.</translation>
     </message>
     <message>
         <source>Not supported</source>
-        <translation type="unfinished"></translation>
+        <translation>Non supportato</translation>
     </message>
     <message>
         <source>Server for account %1 does not support HTTP Upload (XEP-363)</source>
-        <translation type="unfinished"></translation>
+        <translation>Il server per l&apos;account %1 non supporta HTTP Upload (XEP-363)</translation>
     </message>
     <message>
         <source>Upload file</source>
-        <translation type="unfinished"></translation>
+        <translation>Carica file</translation>
     </message>
     <message>
         <source>Upload image</source>
-        <translation type="unfinished"></translation>
+        <translation>Carica immagine</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="unfinished">Immagini (*.png *.gif *.jpg *.jpeg)</translation>
+        <translation>Immagini (*.png *.gif *.jpg *.jpeg)</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errore</translation>
+        <translation>Errore</translation>
     </message>
     <message>
         <source>Error opening file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore apertura file %1</translation>
     </message>
     <message>
         <source>The file size is too large.</source>
-        <translation type="unfinished"></translation>
+        <translation>La dimensione di questo file è troppo grande.</translation>
     </message>
     <message>
         <source>File size must be less than %1 bytes</source>
-        <translation type="unfinished"></translation>
+        <translation>La dimensione del file deve essere minore di %1 byte</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished">Autori:</translation>
+        <translation>Autori:</translation>
     </message>
     <message>
         <source>This plugin allows uploading images and other files via XEP-0363.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo plugin permette il caricamento di immagini e altri gile via XEP-0363.</translation>
     </message>
     <message>
         <source>Error requesting slot</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore richiesta slot</translation>
     </message>
     <message>
         <source>Either put or get URL is missing in the server&apos;s reply.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrambi put o get URL mancano nella risposta del server.</translation>
     </message>
     <message>
         <source>Error uploading</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore caricamento</translation>
     </message>
     <message>
         <source>No data to upload, this maybe a result of timeout or other error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun dato da caricare, questo forse a causa di timeout o altri errori.</translation>
     </message>
     <message>
         <source>Upload error code %1, message: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore caricamento codice %1, messaggio %2</translation>
     </message>
     <message>
         <source>Timeout waiting for an upload slot</source>
-        <translation type="unfinished"></translation>
+        <translation>Timeout in attesa di uno slot di upload</translation>
     </message>
 </context>
 <context>
@@ -6730,7 +6722,7 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>IcqDie</name>
     <message>
-        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
+        <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it's much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
         <translation>Posso dirti come un Linux, ma non essere arrabbiato con me. Certamente questo umano riceverà questo messaggio. Ma è molto meglio chiacchierare con lui da Jabber. Stai rischiando, uno non può mai sapere quando ICQ può morire, nonnina ha fatto il suo tempo. Il suo JID: %1.
@@ -6740,7 +6732,7 @@ Sinceramente tuo, Debian Sid.</translation>
     <message>
         <source>I can tell you as a Linux, but do not be mad at me. This human do not use ICQ anymore, so if you are still use that network he will not receive your message and you have to chat to him by Jabber. His JID: %1.
 
-If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
+If you don't know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
         <translation>Posso dirti come un Linux, ma non essere arrabbiato con me. Questo umano non userà più ICQ, quindi se tu stai ancora usando quella rete egli non riceverà il tuo messaggio e tu dovrai contattarlo da Jabber. Il suo JID:%1.
 
@@ -6822,7 +6814,7 @@ Questo plugin ha una serie di semplici impostazioni che possono aiutarti:
     </message>
     <message>
         <source>This plugin is designed to send images to roster contacts.
-Your contact&apos;s client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
+Your contact's client must be support XEP-0071: XHTML-IM and support the data:URI scheme.
 Note: To work correctly, the option options.ui.chat.central-toolbar  must be set to true.</source>
         <translation>Questo plugin è progettato per inviare immagini ai contatti della lista.
 Il client del tuo contatto deve supportare XEP-0071: XHTML-IM e supportare i dati: URI scheme.
@@ -6833,44 +6825,45 @@ Nota: Per funzionare correttamente, l&apos;opzione options.ui.chat.central-toolb
     <name>ImagePreviewPlugin</name>
     <message>
         <source>512 Kb</source>
-        <translation type="unfinished"></translation>
+        <translation>512 Kb</translation>
     </message>
     <message>
         <source>1 Mb</source>
-        <translation type="unfinished"></translation>
+        <translation>1 Mb</translation>
     </message>
     <message>
         <source>2 Mb</source>
-        <translation type="unfinished"></translation>
+        <translation>2 Mb</translation>
     </message>
     <message>
         <source>5 Mb</source>
-        <translation type="unfinished"></translation>
+        <translation>5 Mb</translation>
     </message>
     <message>
         <source>10 Mb</source>
-        <translation type="unfinished"></translation>
+        <translation>10 Mb</translation>
     </message>
     <message>
         <source>Maximum image size</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensione massima immagine</translation>
     </message>
     <message>
         <source>Image preview size in pixels</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensione anteprima immagine in pixel</translation>
     </message>
     <message>
         <source>Allow upscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Permetti upscale</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished">Autore:</translation>
+        <translation>Autore:</translation>
     </message>
     <message>
         <source>This plugin shows the preview image for an image URL.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Questo plugin mostra l&apos;immagine di anteprima per un URL immagine.
+</translation>
     </message>
 </context>
 <context>
@@ -7382,7 +7375,7 @@ a giocare a Battaglia Navale. Lui vuole giocare %2.</translation>
         <translation>Avviso</translation>
     </message>
     <message>
-        <source>can&apos;t create folder %1 
+        <source>can't create folder %1 
 caching avatars will be not available</source>
         <translation>impossibile creare cartella %1
 le cache avatar non saranno disponibili</translation>
@@ -8377,7 +8370,7 @@ Etichette: %1</translation>
     <message>
         <source>Specifies the color for additional text of system messages. MUC topic for example.</source>
         <translation>Specifica il colore del testo dei messaggi di sistema aggiuntivi.
-Argomento CMU per esempio.</translation>
+Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>Additional message text:</source>
@@ -8596,7 +8589,7 @@ Argomento CMU per esempio.</translation>
     </message>
     <message>
         <source>for mucs, chats and roster in one window</source>
-        <translation>Per cmu, chat e lista contatto in una finestra</translation>
+        <translation>Per MUC, chat e lista contatto in una finestra</translation>
     </message>
     <message>
         <source>[customized]</source>
@@ -8805,7 +8798,7 @@ Argomento CMU per esempio.</translation>
     </message>
     <message>
         <source>Enable popup notifications for every muc message</source>
-        <translation>Abilita notifiche popup per ogni messaggio nelle CMU</translation>
+        <translation>Abilita notifiche popup per ogni messaggio nelle MUC</translation>
     </message>
     <message>
         <source>Limitations</source>
@@ -9066,7 +9059,7 @@ Argomento CMU per esempio.</translation>
     </message>
     <message>
         <source>Receive MUC message</source>
-        <translation>Ricevi messaggi CMU</translation>
+        <translation>Ricevi messaggi MUC</translation>
     </message>
     <message>
         <source>Reset to defaults</source>
@@ -9246,7 +9239,7 @@ Argomento CMU per esempio.</translation>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -9730,10 +9723,10 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
         <translation>Elimina</translation>
     </message>
     <message>
-        <source>Disable stopspam, if don&apos;t match any rule above
+        <source>Disable stopspam, if don't match any rule above
 (does not work for muc private messages)</source>
         <translation>Disattiva StopSpam, se non corrisponde a nessuna regola precedente
-(non funziona per i messaggi privati nelle CMU)</translation>
+(non funziona per i messaggi privati nelle MUC)</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#stop_spam_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -10865,7 +10858,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
     <message>
         <source>Enable for players:</source>
-        <translation>Abilita per i giocatori:</translation>
+        <translation>Abilita per i riproduttori:</translation>
     </message>
     <message>
         <source>Detect full screen applications</source>
@@ -11304,11 +11297,11 @@ Puoi ancora salvare la partita.</translation>
     <name>PreviewFileDialog</name>
     <message>
         <source>Preview</source>
-        <translation type="unfinished">Anteprima</translation>
+        <translation>Anteprima</translation>
     </message>
     <message>
         <source>Not an image</source>
-        <translation type="unfinished"></translation>
+        <translation>Non un immagine</translation>
     </message>
 </context>
 <context>
@@ -12286,7 +12279,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Buttons</source>
-        <translation>Bottoni</translation>
+        <translation>Pulsanti</translation>
     </message>
     <message>
         <source>&amp;Add a Contact</source>
@@ -12772,7 +12765,7 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Set status. STATUS must be one of `online&apos;, `chat&apos;, `away&apos;, `xa&apos;, `dnd&apos;, `offline&apos;.</source>
-        <comment>do not translate `online&apos;, `chat&apos;, etc; STATUS is the same as in previous string</comment>
+        <comment>do not translate `online', `chat', etc; STATUS is the same as in previous string</comment>
         <translation>Imposta lo stato. Lo stato deve essere uno tra &quot;In Linea&quot;, &quot;Chat&quot;, &quot;Assente&quot;, &quot;Non Disponibile&quot;, &quot;Occupato&quot;.</translation>
     </message>
     <message>
@@ -13334,7 +13327,7 @@ Vuoi attivare quella sessione ora?</translation>
     </message>
     <message>
         <source>Buttons</source>
-        <translation>Bottoni</translation>
+        <translation>Pulsanti</translation>
     </message>
     <message>
         <source>Show contacts</source>
@@ -14483,31 +14476,19 @@ Descrizione: </translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) </source>
-        <translation>
-            <numerusform>%n giorno/i</numerusform>
-            <numerusform>%n giorno/i</numerusform>
-        </translation>
+        <translation><numerusform>%n giorno/i</numerusform><numerusform>%n giorno/i</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) </source>
-        <translation>
-            <numerusform>%n ora/e</numerusform>
-            <numerusform>%n hour(s) </numerusform>
-        </translation>
+        <translation><numerusform>%n ora/e</numerusform><numerusform>%n hour(s) </numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) </source>
-        <translation>
-            <numerusform>%n minuto/i</numerusform>
-            <numerusform>%n minute(s) </numerusform>
-        </translation>
+        <translation><numerusform>%n minuto/i</numerusform><numerusform>%n minute(s) </numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) </source>
-        <translation>
-            <numerusform>%n secondo/i</numerusform>
-            <numerusform>%n second(s) </numerusform>
-        </translation>
+        <translation><numerusform>%n secondo/i</numerusform><numerusform>%n second(s) </numerusform></translation>
     </message>
     <message>
         <source>Warning</source>
@@ -15110,11 +15091,8 @@ Reason: %1</source>
     <message numerus="yes">
         <source>celebrates birthday in %n day(s)
 </source>
-        <translation>
-            <numerusform>Festeggia il compleanno in %n giorno/i
-</numerusform>
-            <numerusform>Festeggia il compleanno in %n giorno/i</numerusform>
-        </translation>
+        <translation><numerusform>Festeggia il compleanno in %n giorno/i
+</numerusform><numerusform>Festeggia il compleanno in %n giorno/i</numerusform></translation>
     </message>
     <message>
         <source>celebrates birthday yesterday.
@@ -15175,15 +15153,15 @@ La prima volta che installi questo plugin, è necessario accedere a tutti i tuoi
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Modulo</translation>
+        <translation>Modulo</translation>
     </message>
     <message>
         <source> min.</source>
-        <translation type="unfinished"></translation>
+        <translation>min.</translation>
     </message>
     <message>
         <source>Attention interval: </source>
-        <translation type="unfinished"></translation>
+        <translation>Intervallo attenzione:</translation>
     </message>
 </context>
 <context>
@@ -15533,10 +15511,7 @@ Motivo: %1</translation>
     </message>
     <message numerus="yes">
         <source>Added %n users to your roster.</source>
-        <translation>
-            <numerusform>Aggiunto %n utente alla tua lista.</numerusform>
-            <numerusform>Aggiunto %n utenti alla tua lista.</numerusform>
-        </translation>
+        <translation><numerusform>Aggiunto %n utente alla tua lista.</numerusform><numerusform>Aggiunto %n utenti alla tua lista.</numerusform></translation>
     </message>
     <message>
         <source>Added %1 to your roster.</source>
@@ -15788,7 +15763,7 @@ Motivo: %1</translation>
     </message>
     <message>
         <source>Help Psi MUC</source>
-        <translation>Aiuto Psi CMU</translation>
+        <translation>Aiuto Psi MUC</translation>
     </message>
     <message>
         <source>Report Bug</source>
@@ -16169,7 +16144,7 @@ Skin - un set di impostazioni personalizzate.
 Per scaricare una nuova skin, crea una cartella chiamata skins nella cartella dati di Psi e inserisci le skin dentro la cartella creata. Puoi anche solo aprire un file skin.
 Ogni  skin deve essere in una cartella separata. Puoi anche aggiungere uno screenshot al file skin.
 Nella maggior parte dei casi, per essere sicuro che la skin è applicata correttamente, devi eseguire una seguenza di azioni:
-1. applica la skin
+1. Applica la skin
 2. Riavvia l&apos;applicazione
 3. Applica la stessa skin di nuovo
 Questo permesse a tutte le impostazioni (icone, disposizione barre dei strumenti) di essere prelevate correttamente</translation>
@@ -16732,7 +16707,7 @@ We hope that you will enjoy using it as we have enjoyed making it!
         <source>You can type these special commands in chat and groupchat dialogs:
 &lt;ul&gt;
 &lt;li&gt;&quot;/clear&quot; to clear chat view&lt;/li&gt;
-&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; &apos;/me&apos; is replaced by your nick&lt;/li&gt;
+&lt;li&gt;&quot;/me &amp;lt;message&amp;gt;&quot; '/me' is replaced by your nick&lt;/li&gt;
 &lt;/ul&gt;
 And these work only in groupchat dialog:
 &lt;ul&gt;
@@ -16761,7 +16736,7 @@ And these work only in groupchat dialog:
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
-        <translation>Non ti piace dove sono messi i bottoni? Vuoi un bottone veloce per cambiare il tuo stato a Assente? Controlla la finestra di Configurazione Barre Strumenti, è disponibile atrtaverso il menu di contesto della barra strumenti. Puoi persino costruire una barra strumenti galleggiante!</translation>
+        <translation>Non ti piace dove sono i pulsanti? Vuoi un pulsante per cambiare velocemente il tuo stato in Assente? Controlla la finestra di Configurazione Barre degli Strumenti, è disponibile attraverso il menu di contesto della barra strumenti. Puoi persino costruire una barra strumenti fluttuante!</translation>
     </message>
     <message>
         <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
@@ -17634,7 +17609,7 @@ Vuoi ancora chiudere la finestra?</translation>
     </message>
     <message>
         <source>Message Carbons</source>
-        <translation type="unfinished"></translation>
+        <translation>Carboni Messaggi</translation>
     </message>
 </context>
 <context>
@@ -18706,7 +18681,7 @@ Reathorization...</source>
 Riautorizzazione...</translation>
     </message>
     <message>
-        <source>Can&apos;t get files!
+        <source>Can't get files!
 Try remove cookies.</source>
         <translation>Impossibile ottenere i file!
 Prova a cancellare i cookie.</translation>
@@ -18797,7 +18772,7 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
