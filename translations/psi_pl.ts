@@ -549,7 +549,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished">Wyłącz</translation>
+        <translation type="obsolete">Wyłącz</translation>
     </message>
     <message>
         <source>XMPP Address:</source>
@@ -567,10 +567,6 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Enable Stream Management if possible</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Nested groups delimiter: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2423,7 +2419,7 @@ Można obejrzeć elementy przed ich usunięciem z dysku twardego.</translation>
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished">Oferowane mechanizmy:</translation>
+        <translation type="obsolete">Oferowane mechanizmy:</translation>
     </message>
 </context>
 <context>

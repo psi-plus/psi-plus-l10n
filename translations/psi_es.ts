@@ -597,12 +597,8 @@ Cuando habilites esta opción, no podrás encontrar tu contraseña en los archiv
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Nested groups delimiter: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Disable</source>
-        <translation type="unfinished">Inhabilitar</translation>
+        <translation type="obsolete">Inhabilitar</translation>
     </message>
 </context>
 <context>
@@ -2462,7 +2458,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished">Mecanismos ofrecidos: </translation>
+        <translation type="obsolete">Mecanismos ofrecidos: </translation>
     </message>
 </context>
 <context>

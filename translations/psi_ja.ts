@@ -580,12 +580,8 @@ When you enable this option you will not be able to find your password in config
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Nested groups delimiter: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Disable</source>
-        <translation type="unfinished">無効</translation>
+        <translation type="obsolete">無効</translation>
     </message>
 </context>
 <context>
@@ -2420,7 +2416,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished">提示されたメカニズム:</translation>
+        <translation type="obsolete">提示されたメカニズム:</translation>
     </message>
 </context>
 <context>

@@ -589,15 +589,11 @@ Wenn Sie diese Option aktivieren, können Sie Ihr Passwort nicht in den Konfigur
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished">Deaktivieren</translation>
+        <translation type="obsolete">Deaktivieren</translation>
     </message>
     <message>
         <source>Enable Stream Management if possible</source>
         <translation>Stream Management aktivieren (falls möglich)</translation>
-    </message>
-    <message>
-        <source>Nested groups delimiter: </source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2460,7 +2456,7 @@ Sie können Elemente ansehen, bevor sie von der Festplatte gelöscht werden. </t
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation>Zur Verfügung stehende Mechanismen: </translation>
+        <translation type="vanished">Zur Verfügung stehende Mechanismen: </translation>
     </message>
 </context>
 <context>

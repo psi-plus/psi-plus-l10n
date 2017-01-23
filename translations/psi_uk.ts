@@ -578,7 +578,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Disable</source>
-        <translation>Відключити</translation>
+        <translation type="vanished">Відключити</translation>
     </message>
     <message>
         <source>Enable Stream Management if possible</source>
@@ -586,7 +586,7 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Nested groups delimiter: </source>
-        <translation>Розділювач вкладених груп: </translation>
+        <translation type="vanished">Розділювач вкладених груп: </translation>
     </message>
 </context>
 <context>
@@ -2453,7 +2453,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation>Пропоновані механізми: </translation>
+        <translation type="vanished">Пропоновані механізми: </translation>
     </message>
 </context>
 <context>

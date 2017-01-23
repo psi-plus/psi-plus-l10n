@@ -569,7 +569,7 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished">Забараніць</translation>
+        <translation type="obsolete">Забараніць</translation>
     </message>
     <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt;
@@ -583,10 +583,6 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Enable Stream Management if possible</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Nested groups delimiter: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2446,7 +2442,7 @@ You can preview items before deleting them from your hard drive.</source>
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished">Прапанаваныя мэханізмы: </translation>
+        <translation type="obsolete">Прапанаваныя мэханізмы: </translation>
     </message>
 </context>
 <context>

@@ -579,12 +579,8 @@ Quando você habilitar esta opção, você não será capaz de encontrar a sua s
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Nested groups delimiter: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Disable</source>
-        <translation type="unfinished">Desabilitar</translation>
+        <translation type="obsolete">Desabilitar</translation>
     </message>
 </context>
 <context>
@@ -2445,7 +2441,7 @@ Você poderá pré-visualizar os itens antes de remove-los de seu hd.</translati
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation type="unfinished">Mecanismo Oferecidos: </translation>
+        <translation type="obsolete">Mecanismo Oferecidos: </translation>
     </message>
 </context>
 <context>

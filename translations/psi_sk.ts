@@ -565,14 +565,6 @@ When you enable this option you will not be able to find your password in config
         <source>Enable Stream Management if possible</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Nested groups delimiter: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>AccountModifyDlg</name>
@@ -2396,13 +2388,6 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
     <message>
         <source>Invert</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ClientStream</name>
-    <message>
-        <source>Offered mechanisms: </source>
         <translation type="unfinished"></translation>
     </message>
 </context>

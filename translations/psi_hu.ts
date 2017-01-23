@@ -578,7 +578,7 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Disable</source>
-        <translation>Letiltás</translation>
+        <translation type="vanished">Letiltás</translation>
     </message>
     <message>
         <source>Enable Stream Management if possible</source>
@@ -586,7 +586,7 @@ Ha bekapcsolod ezt a funkciót nem leszel képes megtalálni a jelszavad a konfi
     </message>
     <message>
         <source>Nested groups delimiter: </source>
-        <translation>Beágyazott csoportok határolója:</translation>
+        <translation type="vanished">Beágyazott csoportok határolója:</translation>
     </message>
 </context>
 <context>
@@ -2447,7 +2447,7 @@ Az elemeket megtekintheted, mielőtt törlöd őket a merevlemezről.</translati
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation>Felajánlott mechanizmusok:</translation>
+        <translation type="vanished">Felajánlott mechanizmusok:</translation>
     </message>
 </context>
 <context>

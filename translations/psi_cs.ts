@@ -577,7 +577,7 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     </message>
     <message>
         <source>Disable</source>
-        <translation>Vypnout</translation>
+        <translation type="vanished">Vypnout</translation>
     </message>
     <message>
         <source>Enable Stream Management if possible</source>
@@ -585,7 +585,7 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     </message>
     <message>
         <source>Nested groups delimiter: </source>
-        <translation>Oddělovač vnořených skupin: </translation>
+        <translation type="vanished">Oddělovač vnořených skupin: </translation>
     </message>
 </context>
 <context>
@@ -2445,7 +2445,7 @@ Můžete si položky prohlédnout před tím, než je smažete.</translation>
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation>Navržené mechanismy: </translation>
+        <translation type="vanished">Navržené mechanismy: </translation>
     </message>
 </context>
 <context>

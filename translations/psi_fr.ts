@@ -577,7 +577,7 @@ En activant cette option, vous ne pourrez pas retrouver votre mot de passe dans 
     </message>
     <message>
         <source>Disable</source>
-        <translation>Désactiver</translation>
+        <translation type="vanished">Désactiver</translation>
     </message>
     <message>
         <source>Enable Stream Management if possible</source>
@@ -585,7 +585,7 @@ En activant cette option, vous ne pourrez pas retrouver votre mot de passe dans 
     </message>
     <message>
         <source>Nested groups delimiter: </source>
-        <translation>Délimiteur des groupes imbriqués</translation>
+        <translation type="vanished">Délimiteur des groupes imbriqués</translation>
     </message>
 </context>
 <context>
@@ -2445,7 +2445,7 @@ Il est possible de prévisualiser les éléments avant de les supprimer.</transl
     <name>ClientStream</name>
     <message>
         <source>Offered mechanisms: </source>
-        <translation>Mécanismes proposés :</translation>
+        <translation type="vanished">Mécanismes proposés :</translation>
     </message>
 </context>
 <context>
