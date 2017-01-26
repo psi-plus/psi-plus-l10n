@@ -575,12 +575,12 @@ Quando você habilitar esta opção, você não será capaz de encontrar a sua s
         <translation>Armazenar hash em vez de senha de texto puro, se o servidor suportar essa funcionalidade.</translation>
     </message>
     <message>
-        <source>Enable Stream Management if possible</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Disable</source>
         <translation type="obsolete">Desabilitar</translation>
+    </message>
+    <message>
+        <source>Enable Stream Management if possible</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1536,16 +1536,16 @@ A lista de exceções para as jids tem dois modos de funcionamento:
 <context>
     <name>BattleshipGamePlugin</name>
     <message>
-        <source>Choose a sound file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Sound (*.wav)</source>
         <translation type="unfinished">Som (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
         <translation type="unfinished">Autor: </translation>
+    </message>
+    <message>
+        <source>Choose a sound file</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Email: </source>
@@ -3721,12 +3721,12 @@ Prosseguir?</translation>
 <context>
     <name>EnumMessagesPlugin</name>
     <message>
-        <source>Missed messages: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Authors: </source>
         <translation type="unfinished">Autores: </translation>
+    </message>
+    <message>
+        <source>Missed messages: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enum Messages</source>
@@ -6392,6 +6392,26 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>HttpUploadPlugin</name>
     <message>
+        <source>Upload Image</source>
+        <translation type="unfinished">Enviar Imagem</translation>
+    </message>
+    <message>
+        <source>Upload File</source>
+        <translation type="unfinished">Enviar Arquivo</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
+        <translation type="unfinished">Imagens (*.png *.gif *.jpg *.jpeg)</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Erro</translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished">Autores: </translation>
+    </message>
+    <message>
         <source>Image preview width</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6406,14 +6426,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>JPEG quality</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upload Image</source>
-        <translation type="unfinished">Enviar Imagem</translation>
-    </message>
-    <message>
-        <source>Upload File</source>
-        <translation type="unfinished">Enviar Arquivo</translation>
     </message>
     <message>
         <source>Please wait</source>
@@ -6440,14 +6452,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="unfinished">Imagens (*.png *.gif *.jpg *.jpeg)</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="unfinished">Erro</translation>
-    </message>
-    <message>
         <source>Error opening file %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6458,10 +6462,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>File size must be less than %1 bytes</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="unfinished">Autores: </translation>
     </message>
     <message>
         <source>This plugin allows uploading images and other files via XEP-0363.</source>
@@ -6823,6 +6823,10 @@ Nota: Para funcionar corretamente, as opção options.ui.chat.central-toolbar de
 <context>
     <name>ImagePreviewPlugin</name>
     <message>
+        <source>Author: </source>
+        <translation type="unfinished">Autor: </translation>
+    </message>
+    <message>
         <source>512 Kb</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6853,10 +6857,6 @@ Nota: Para funcionar corretamente, as opção options.ui.chat.central-toolbar de
     <message>
         <source>Allow upscale</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="unfinished">Autor: </translation>
     </message>
     <message>
         <source>This plugin shows the preview image for an image URL.
@@ -6974,10 +6974,6 @@ Nota: Para funcionar corretamente, as opção options.ui.chat.central-toolbar de
 <context>
     <name>InfoDlg</name>
     <message>
-        <source>User Info</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Alt+D</source>
         <translation type="unfinished">Alt+D</translation>
     </message>
@@ -7004,6 +7000,10 @@ Nota: Para funcionar corretamente, as opção options.ui.chat.central-toolbar de
     <message>
         <source>psi/close</source>
         <translation type="unfinished">psi/close</translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7045,11 +7045,6 @@ Nota: Para funcionar corretamente, as opção options.ui.chat.central-toolbar de
         <translation type="unfinished">Aviso</translation>
     </message>
     <message>
-        <source>You have not published conference information changes.
-Are you sure you want to discard them?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
         <translation type="unfinished">Você não publicou as alterações das informações de sua conta.
@@ -7068,10 +7063,6 @@ Realmente deseja descartá-las?</translation>
         <translation type="unfinished">Sucesso</translation>
     </message>
     <message>
-        <source>Your conference information has been published.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your account information has been published.</source>
         <translation type="unfinished">As informações da sua conta foram publicadas.</translation>
     </message>
@@ -7082,11 +7073,6 @@ Realmente deseja descartá-las?</translation>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
         <translation type="unfinished">Não foi possível buscar as informações da sua conta. Talvez você ainda não as tenha informado.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this conference.
-Reason: %1</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
@@ -7109,6 +7095,20 @@ disponível</translation>
     <message>
         <source>Status</source>
         <translation type="unfinished">Status</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9853,12 +9853,8 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
         <translation type="unfinished">Nome</translation>
     </message>
     <message>
-        <source>Conditions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show message if it satisfies the rule</source>
-        <translation type="unfinished"></translation>
+        <source>Enabled</source>
+        <translation type="unfinished">Habilitada</translation>
     </message>
     <message>
         <source>Color for incomming messages numbers</source>
@@ -9877,8 +9873,12 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enabled</source>
-        <translation type="unfinished">Habilitada</translation>
+        <source>Conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

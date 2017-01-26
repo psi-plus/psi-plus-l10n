@@ -6397,6 +6397,26 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>HttpUploadPlugin</name>
     <message>
+        <source>Upload Image</source>
+        <translation type="unfinished">Kép feltöltése</translation>
+    </message>
+    <message>
+        <source>Upload File</source>
+        <translation type="unfinished">Fájl feltöltése</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
+        <translation type="unfinished">Képek (*.png *.gif *.jpg *.jpeg)</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Hiba</translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished">Szerzők: </translation>
+    </message>
+    <message>
         <source>Image preview width</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6411,14 +6431,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>JPEG quality</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upload Image</source>
-        <translation type="unfinished">Kép feltöltése</translation>
-    </message>
-    <message>
-        <source>Upload File</source>
-        <translation type="unfinished">Fájl feltöltése</translation>
     </message>
     <message>
         <source>Please wait</source>
@@ -6445,14 +6457,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="unfinished">Képek (*.png *.gif *.jpg *.jpeg)</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="unfinished">Hiba</translation>
-    </message>
-    <message>
         <source>Error opening file %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6463,10 +6467,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>File size must be less than %1 bytes</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="unfinished">Szerzők: </translation>
     </message>
     <message>
         <source>This plugin allows uploading images and other files via XEP-0363.</source>
@@ -13919,10 +13919,6 @@ Folytatod?</translation>
         <translation>Konvertáláshiba</translation>
     </message>
     <message>
-        <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Offline</source>
         <translation>Kijelentkezve</translation>
     </message>
@@ -14478,30 +14474,6 @@ Leírás:</translation>
         <source>Cannot create a server socket!</source>
         <translation>Nem sikerült a szerversocket létrehozása!</translation>
     </message>
-    <message numerus="yes">
-        <source>%n day(s) </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-        </translation>
-    </message>
-    <message numerus="yes">
-        <source>%n hour(s) </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-        </translation>
-    </message>
-    <message numerus="yes">
-        <source>%n minute(s) </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-        </translation>
-    </message>
-    <message numerus="yes">
-        <source>%n second(s) </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-        </translation>
-    </message>
     <message>
         <source>Warning</source>
         <translation>Figyelmeztetés</translation>
@@ -14996,6 +14968,34 @@ Türelmét köszönjük.</translation>
         <source>Except this computer</source>
         <translation>Kivéve ez a számítógép</translation>
     </message>
+    <message>
+        <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n day(s) </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n hour(s) </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n minute(s) </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>%n second(s) </source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
 </context>
 <context>
     <name>QipXStatuses</name>
@@ -15102,13 +15102,6 @@ Oka: %1</translation>
         <translation>Ma ünnepli a születésnapját!
 </translation>
     </message>
-    <message numerus="yes">
-        <source>celebrates birthday in %n day(s)
-</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-        </translation>
-    </message>
     <message>
         <source>celebrates birthday yesterday.
 </source>
@@ -15140,6 +15133,13 @@ Oka: %1</translation>
 The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
         <translation>Ez a kiegészítő a születésnapok emlékeztetésére lett létrehozva.
 Az első alkalomkor, amikor telepítve lesz ez a kiegészítő, be kell jelentkezni az összes fiókba, majd a kiegészítő beállításainál rákattintani a &quot;Születésnapok frissítése&quot; gombra. A kiegészítő ezután összegyűjti a születésnapokról szóló információkat a címlistában lévő partnerekről, de ha a &apos;vCard-ok használata&apos;-opció már használatban van, akkor a partnerekről tárolt vCard-ok lesznek használva, amik a merevlemezen találhatóak.</translation>
+    </message>
+    <message numerus="yes">
+        <source>celebrates birthday in %n day(s)
+</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -15524,15 +15524,15 @@ Oka: %1</translation>
         <source>Add User: Success</source>
         <translation>Partner hozzáadása: Sikeres</translation>
     </message>
+    <message>
+        <source>Added %1 to your roster.</source>
+        <translation>%1 hozzáadva a listádhoz.</translation>
+    </message>
     <message numerus="yes">
         <source>Added %n users to your roster.</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
-    </message>
-    <message>
-        <source>Added %1 to your roster.</source>
-        <translation>%1 hozzáadva a listádhoz.</translation>
     </message>
 </context>
 <context>
@@ -16262,10 +16262,6 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
 <context>
     <name>StopSpam</name>
     <message>
-        <source>Block stanza from </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Stop Spam Plugin</source>
         <translation>Spam kiegészítő leállítása</translation>
     </message>
@@ -16280,6 +16276,10 @@ This allows all settings (icons, toolbar layout) to be picked up correctly. </so
     <message>
         <source>Email: </source>
         <translation>E-mail: </translation>
+    </message>
+    <message>
+        <source>Block stanza from </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This plugin is designed to block spam messages and other unwanted information from Psi+ users.The functionality of the plugin is based on the principle of &quot;question - answer&quot;.
@@ -16718,24 +16718,12 @@ And these work only in groupchat dialog:
 &lt;/ul&gt;</translation>
     </message>
     <message>
-        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
         <translation>Tudtad, hogy engedélyezheted vagy letilthatod a fiókjaidat? Ez hasznos lehet abban az esetben, ha ritkán használod valamelyiket, így nem szemeteli tele a partnerlistádat.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
         <translation>Nem tetszenek a gombok helyei? Szeretnél egy parancsikont az egyik állapothoz? Nézd meg az Eszköztárak testreszabása menüpontot, az eszköztárak alatt. Még úszó eszköztárat is készíthetsz!</translation>
-    </message>
-    <message>
-        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
@@ -16746,18 +16734,8 @@ And these work only in groupchat dialog:
         <translation>Tudtad, hogy egy középgombos kattintás (az egered közepén lévő görgővel, vágod) az alapértelmezett cselekvést hajtja végre szinte mindenen a Psi-ben? Próbáld ki.</translation>
     </message>
     <message>
-        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
         <translation>Jobb gombra egy szerver nevén a címlistádban sok dolgot hajthatsz végre. Az állapotodat, fiókodat adminisztrálhatod, vagy ha van hozzá jogod, egyéb moderátori dolgokat is elvégezhetsz.</translation>
-    </message>
-    <message>
-        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
-&lt;br&gt;&lt;br&gt;
-Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
@@ -16772,6 +16750,28 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <source>Contributed by</source>
         <translation>Köszönhető</translation>
+    </message>
+    <message>
+        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
+&lt;br&gt;&lt;br&gt;
+Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17663,20 +17663,36 @@ Ablak bezárása mégis?</translation>
         <translation>Nem megfelelő JID</translation>
     </message>
     <message>
-        <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Not acceptable</source>
         <translation>Nem elfogadható</translation>
     </message>
     <message>
-        <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server (e.g., a local policy regarding acceptable words in messages).</source>
+        <source>Not allowed</source>
+        <translation>Nem engedélyezett</translation>
+    </message>
+    <message>
+        <source>Redirect</source>
+        <translation>Átirányítás</translation>
+    </message>
+    <message>
+        <source>Registration required</source>
+        <translation>Regisztráció szükséges</translation>
+    </message>
+    <message>
+        <source>Remote server not found</source>
+        <translation>Távoli kiszolgáló nem található</translation>
+    </message>
+    <message>
+        <source>Service unavailable</source>
+        <translation type="unfinished">Szolgáltatás nem elérhető</translation>
+    </message>
+    <message>
+        <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Not allowed</source>
-        <translation>Nem engedélyezett</translation>
+        <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server (e.g., a local policy regarding acceptable words in messages).</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The recipient or server does not allow any entity to perform the action.</source>
@@ -17699,24 +17715,12 @@ Ablak bezárása mégis?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Redirect</source>
-        <translation>Átirányítás</translation>
-    </message>
-    <message>
         <source>The recipient or server is redirecting requests for this information to another entity, usually temporarily.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Registration required</source>
-        <translation>Regisztráció szükséges</translation>
-    </message>
-    <message>
         <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remote server not found</source>
-        <translation>Távoli kiszolgáló nem található</translation>
     </message>
     <message>
         <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
@@ -17737,10 +17741,6 @@ Ablak bezárása mégis?</translation>
     <message>
         <source>The server or recipient lacks the system resources necessary to service the request.</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Service unavailable</source>
-        <translation type="unfinished">Szolgáltatás nem elérhető</translation>
     </message>
     <message>
         <source>The server or recipient does not currently provide the requested service.</source>
@@ -17827,6 +17827,34 @@ Ablak bezárása mégis?</translation>
         <translation type="unfinished">Űrlap</translation>
     </message>
     <message>
+        <source>Error message:</source>
+        <translation>Hiba üzenet:</translation>
+    </message>
+    <message>
+        <source>Save window height and width</source>
+        <translation>Ablak magasság és szélesség elmentése</translation>
+    </message>
+    <message>
+        <source>Save window position</source>
+        <translation>Ablak helyzet elmentése</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>min.</source>
+        <translation>min.</translation>
+    </message>
+    <message>
+        <source>Disable if chat window is active</source>
+        <translation type="unfinished">Letiltva, ha a beszélgetésablak aktív</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+    </message>
+    <message>
         <source>Select Sounds:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17843,10 +17871,6 @@ Ablak bezárása mégis?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Error message:</source>
-        <translation>Hiba üzenet:</translation>
-    </message>
-    <message>
         <source>If checked, the sound will always enabled (or disabled)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17859,20 +17883,16 @@ Ablak bezárása mégis?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Disable invitations from groupchat</source>
+        <source>Disable invitations from conference</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save window height and width</source>
-        <translation>Ablak magasság és szélesség elmentése</translation>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Save window position</source>
-        <translation>Ablak helyzet elmentése</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#gomoku_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</translation>
+        <source>Disable invitations from groupchat</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Auto Reply Message If Recv:</source>
@@ -17897,36 +17917,28 @@ Ablak bezárása mégis?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>min.</source>
-        <translation>min.</translation>
-    </message>
-    <message>
         <source>Max messages to contact:</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable if chat window is active</source>
-        <translation type="unfinished">Letiltva, ha a beszélgetésablak aktív</translation>
     </message>
     <message>
         <source>Transports:</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://code.google.com/p/psi-dev/wiki/plugins#ICQ_Must_Die_Plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Disable invitations from conference</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#battleship_game_plugin&quot;&gt;Wiki (online)&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>psiotr::AuthenticationDialog</name>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Mégse</translation>
+    </message>
+    <message>
+        <source>User: </source>
+        <translation>Felhasználó: </translation>
+    </message>
+    <message>
+        <source>Psi OTR</source>
+        <translation>Psi OTR</translation>
+    </message>
     <message>
         <source>Authenticate %1</source>
         <translation type="unfinished"></translation>
@@ -17980,10 +17992,6 @@ Ablak bezárása mégis?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Cancel</source>
-        <translation>&amp;Mégse</translation>
-    </message>
-    <message>
         <source>&amp;Authenticate</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18008,20 +18016,12 @@ Ablak bezárása mégis?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>User: </source>
-        <translation>Felhasználó: </translation>
-    </message>
-    <message>
         <source>Fingerprint: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
     </message>
     <message>
         <source>%1 has canceled the authentication process.</source>
@@ -18049,6 +18049,10 @@ You should authenticate %1 as well by asking your own question.</source>
 <context>
     <name>psiotr::ConfigDialog</name>
     <message>
+        <source>Configuration</source>
+        <translation>Beállítások</translation>
+    </message>
+    <message>
         <source>Known fingerprints</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18056,13 +18060,13 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>My private keys</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Configuration</source>
-        <translation>Beállítások</translation>
-    </message>
 </context>
 <context>
     <name>psiotr::ConfigOtrWidget</name>
+    <message>
+        <source>End session when contact goes offline</source>
+        <translation>Beszélgetésfolyamat vége, ha az ismerős kijelentkezik</translation>
+    </message>
     <message>
         <source>OTR Policy</source>
         <translation type="unfinished"></translation>
@@ -18083,21 +18087,9 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Require private messaging</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>End session when contact goes offline</source>
-        <translation>Beszélgetésfolyamat vége, ha az ismerős kijelentkezik</translation>
-    </message>
 </context>
 <context>
     <name>psiotr::FingerprintWidget</name>
-    <message>
-        <source>Delete fingerprint</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify fingerprint</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Account</source>
         <translation type="unfinished">Fiók</translation>
@@ -18111,12 +18103,32 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation type="unfinished">Ujjlenyomat</translation>
     </message>
     <message>
-        <source>Verified</source>
+        <source>Status</source>
+        <translation>Állapot</translation>
+    </message>
+    <message>
+        <source>User: </source>
+        <translation>Felhasználó: </translation>
+    </message>
+    <message>
+        <source>Psi OTR</source>
+        <translation>Psi OTR</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Törlés</translation>
+    </message>
+    <message>
+        <source>Delete fingerprint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Status</source>
-        <translation>Állapot</translation>
+        <source>Verify fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verified</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following fingerprint?</source>
@@ -18127,24 +18139,12 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>User: </source>
-        <translation>Felhasználó: </translation>
-    </message>
-    <message>
         <source>Fingerprint: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
-    </message>
-    <message>
         <source>Have you verified that this is in fact the correct fingerprint?</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation>Törlés</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -18153,10 +18153,6 @@ You should authenticate %1 as well by asking your own question.</source>
 </context>
 <context>
     <name>psiotr::PrivKeyWidget</name>
-    <message>
-        <source>Generate new key</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Delete key</source>
         <translation>Kulcs törlése</translation>
@@ -18168,6 +18164,18 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>Fingerprint</source>
         <translation type="unfinished">Ujjlenyomat</translation>
+    </message>
+    <message>
+        <source>Psi OTR</source>
+        <translation>Psi OTR</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Törlés</translation>
+    </message>
+    <message>
+        <source>Generate new key</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following key?</source>
@@ -18182,16 +18190,8 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi OTR</source>
-        <translation>Psi OTR</translation>
-    </message>
-    <message>
         <source>Are you sure you want to overwrite the following key?</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation>Törlés</translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -18205,7 +18205,15 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Session ID between account &quot;%1&quot; and %2: %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No private key for account &quot;%1&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fingerprint for account &quot;%1&quot;: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18240,17 +18248,13 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Show own &amp;fingerprint</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Session ID between account &quot;%1&quot; and %2: %3</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fingerprint for account &quot;%1&quot;: %2</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>psiotr::PsiOtrPlugin</name>
+    <message>
+        <source>Psi OTR</source>
+        <translation type="unfinished">Psi OTR</translation>
+    </message>
     <message>
         <source>Off-the-Record Messaging plugin for Psi+</source>
         <translation type="unfinished"></translation>
@@ -18300,8 +18304,8 @@ You should authenticate %1 as well by asking your own question.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Psi OTR</source>
-        <translation type="unfinished">Psi OTR</translation>
+        <source>OTR Plugin: event from %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Attempting to refresh the private conversation</source>
@@ -18347,17 +18351,9 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Contact not authenticated</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>OTR Plugin: event from %1</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>requestAuthDialogClass</name>
-    <message>
-        <source>Authorization</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Login:</source>
         <translation>Bejelentkezés:</translation>
@@ -18374,9 +18370,17 @@ You should authenticate %1 as well by asking your own question.</source>
         <source>Captcha:</source>
         <translation>Captcha:</translation>
     </message>
+    <message>
+        <source>Authorization</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>settings</name>
+    <message>
+        <source>@username</source>
+        <translation type="unfinished">@username</translation>
+    </message>
     <message>
         <source>settings</source>
         <translation type="unfinished"></translation>
@@ -18400,10 +18404,6 @@ You should authenticate %1 as well by asking your own question.</source>
     <message>
         <source>color</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>@username</source>
-        <translation type="unfinished">@username</translation>
     </message>
     <message>
         <source>*tag</source>
@@ -18470,10 +18470,6 @@ to this message in juick@conference.jabber.ru</source>
         <translation> kb/sec</translation>
     </message>
     <message>
-        <source>Upload completed. Waiting for verification.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Done</source>
         <translation>Kész</translation>
     </message>
@@ -18484,6 +18480,10 @@ to this message in juick@conference.jabber.ru</source>
     <message>
         <source>Link: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</source>
         <translation>Hivatkozás: &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Upload completed. Waiting for verification.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18547,10 +18547,6 @@ to this message in juick@conference.jabber.ru</source>
 <context>
     <name>yandexnarodManage</name>
     <message>
-        <source>Yandex.Narod file manager</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delete file(s)</source>
         <translation>Fájl(ok) törlése</translation>
     </message>
@@ -18569,6 +18565,10 @@ to this message in juick@conference.jabber.ru</source>
     <message>
         <source>Copy URL</source>
         <translation>URL másolása</translation>
+    </message>
+    <message>
+        <source>Yandex.Narod file manager</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Prolongate</source>
@@ -18598,17 +18598,8 @@ to this message in juick@conference.jabber.ru</source>
         <translation>Hivatkozás másolása</translation>
     </message>
     <message>
-        <source>Prolongate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delete File(s)</source>
         <translation>Fájl(ok) törlése</translation>
-    </message>
-    <message>
-        <source>line1
-line2</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Files list:</source>
@@ -18630,6 +18621,15 @@ line2</source>
         <source>Close</source>
         <translation>Bezárás</translation>
     </message>
+    <message>
+        <source>Prolongate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>line1
+line2</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>yandexnarodNetMan</name>
@@ -18640,6 +18640,24 @@ line2</source>
     <message>
         <source>Deleting files...</source>
         <translation>Fájlok törlése...</translation>
+    </message>
+    <message>
+        <source>Filelist downloaded
+(%1 files)</source>
+        <translation>Fájllista letöltve\n
+(%1 fájl)</translation>
+    </message>
+    <message>
+        <source>File(s) deleted</source>
+        <translation>Fájl(ok) törölve</translation>
+    </message>
+    <message>
+        <source>Password is set</source>
+        <translation>Jelszó beállítva</translation>
+    </message>
+    <message>
+        <source>Password is deleted</source>
+        <translation>Jelszó törölve</translation>
     </message>
     <message>
         <source>Prolongate files...</source>
@@ -18656,30 +18674,16 @@ Try remove cookies.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Filelist downloaded
-(%1 files)</source>
-        <translation>Fájllista letöltve\n
-(%1 fájl)</translation>
-    </message>
-    <message>
-        <source>File(s) deleted</source>
-        <translation>Fájl(ok) törölve</translation>
-    </message>
-    <message>
         <source>File(s) prolongated</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Password is set</source>
-        <translation>Jelszó beállítva</translation>
-    </message>
-    <message>
-        <source>Password is deleted</source>
-        <translation>Jelszó törölve</translation>
     </message>
 </context>
 <context>
     <name>yandexnarodPlugin</name>
+    <message>
+        <source>File sent to %1</source>
+        <translation>Fájl elküldve neki: %1</translation>
+    </message>
     <message>
         <source>Open Yandex Narod Manager</source>
         <translation type="unfinished"></translation>
@@ -18687,10 +18691,6 @@ Try remove cookies.</source>
     <message>
         <source>Send file via Yandex Narod</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File sent to %1</source>
-        <translation>Fájl elküldve neki: %1</translation>
     </message>
     <message>
         <source>Yandex Narod Plugin</source>
@@ -18723,6 +18723,18 @@ http://qutim.org/forum/viewtopic.php?f=62&amp;t=711
         <translation>állapot</translation>
     </message>
     <message>
+        <source>%N - file name; %U - file URL; %S - file size</source>
+        <translation>%N - fájlnév; %U - fájl URL; %S - fájlméret</translation>
+    </message>
+    <message>
+        <source>Clear Cookies</source>
+        <translation>Sütik törlése</translation>
+    </message>
+    <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</translation>
+    </message>
+    <message>
         <source>Test Authorization</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18741,18 +18753,6 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Verdana&apos;; font-size:8pt;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%N - file name; %U - file URL; %S - file size</source>
-        <translation>%N - fájlnév; %U - fájl URL; %S - fájlméret</translation>
-    </message>
-    <message>
-        <source>Clear Cookies</source>
-        <translation>Sütik törlése</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#yandex_narod_plugin&quot;&gt;wiki (online)&lt;/a&gt;</translation>
     </message>
 </context>
 </TS>

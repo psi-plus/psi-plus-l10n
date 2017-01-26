@@ -3711,12 +3711,12 @@ Proceed?</source>
 <context>
     <name>EnumMessagesPlugin</name>
     <message>
-        <source>Missed messages: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Authors: </source>
         <translation type="unfinished">作者:</translation>
+    </message>
+    <message>
+        <source>Missed messages: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enum Messages</source>
@@ -6411,6 +6411,26 @@ p, li {
 <context>
     <name>HttpUploadPlugin</name>
     <message>
+        <source>Upload Image</source>
+        <translation type="unfinished">上传图像</translation>
+    </message>
+    <message>
+        <source>Upload File</source>
+        <translation type="unfinished">上传文件</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
+        <translation type="unfinished">图像(*.png *.gif *.jpg *.jpeg)</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">错误</translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished">作者:</translation>
+    </message>
+    <message>
         <source>Image preview width</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6425,14 +6445,6 @@ p, li {
     <message>
         <source>JPEG quality</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upload Image</source>
-        <translation type="unfinished">上传图像</translation>
-    </message>
-    <message>
-        <source>Upload File</source>
-        <translation type="unfinished">上传文件</translation>
     </message>
     <message>
         <source>Please wait</source>
@@ -6459,14 +6471,6 @@ p, li {
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="unfinished">图像(*.png *.gif *.jpg *.jpeg)</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="unfinished">错误</translation>
-    </message>
-    <message>
         <source>Error opening file %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6477,10 +6481,6 @@ p, li {
     <message>
         <source>File size must be less than %1 bytes</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="unfinished">作者:</translation>
     </message>
     <message>
         <source>This plugin allows uploading images and other files via XEP-0363.</source>
@@ -7014,12 +7014,12 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished">psi/再装</translation>
     </message>
     <message>
-        <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>psi/close</source>
         <translation type="unfinished">psi/关闭</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7061,11 +7061,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished">警告</translation>
     </message>
     <message>
-        <source>You have not published conference information changes.
-Are you sure you want to discard them?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
         <translation type="unfinished">你还没有发布你的账号数据变更。
@@ -7084,10 +7079,6 @@ Are you sure you want to discard them?</source>
         <translation type="unfinished">成功</translation>
     </message>
     <message>
-        <source>Your conference information has been published.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your account information has been published.</source>
         <translation type="unfinished">你的账号数据已经发布了。</translation>
     </message>
@@ -7098,11 +7089,6 @@ Are you sure you want to discard them?</source>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
         <translation type="unfinished">无法取回你的账号数据。  可能你还没有输入东西吧。</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this conference.
-Reason: %1</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
@@ -7124,6 +7110,20 @@ available</source>
     <message>
         <source>Status</source>
         <translation type="unfinished">状态</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7955,12 +7955,12 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
 <context>
     <name>MessageFilter</name>
     <message>
-        <source>Author: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>e-mail: </source>
         <translation type="unfinished">电子邮箱:</translation>
+    </message>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9850,12 +9850,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished">名称</translation>
     </message>
     <message>
-        <source>Conditions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show message if it satisfies the rule</source>
-        <translation type="unfinished"></translation>
+        <source>Enabled</source>
+        <translation type="unfinished">已启用</translation>
     </message>
     <message>
         <source>Color for incomming messages numbers</source>
@@ -9874,8 +9870,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enabled</source>
-        <translation type="unfinished">已启用</translation>
+        <source>Conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14933,19 +14933,6 @@ Password: %5</source>
         <translation>最后状态信息</translation>
     </message>
     <message>
-        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
-
-Do you want to generate keys now?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Keys have been generated. Fingerprint for account &quot;%1&quot;:
-%2
-
-Thanks for your patience.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Never</source>
         <translation type="unfinished">从不</translation>
     </message>
@@ -14959,6 +14946,19 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Except this computer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
+
+Do you want to generate keys now?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keys have been generated. Fingerprint for account &quot;%1&quot;:
+%2
+
+Thanks for your patience.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

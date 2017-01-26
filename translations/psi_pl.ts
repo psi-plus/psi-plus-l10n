@@ -556,6 +556,10 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Enable Stream Management if possible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt;
 &lt;br/&gt;
 When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
@@ -563,10 +567,6 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable Stream Management if possible</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -725,6 +725,10 @@ When you enable this option you will not be able to find your password in config
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -754,10 +758,6 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Enter the XMPP Address of the contact to block:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3700,12 +3700,12 @@ Każde słowo używa wyrażenia regularnego</translation>
 <context>
     <name>EnumMessagesPlugin</name>
     <message>
-        <source>Missed messages: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Authors: </source>
         <translation type="unfinished">Autorzy:</translation>
+    </message>
+    <message>
+        <source>Missed messages: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enum Messages</source>
@@ -6351,6 +6351,18 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>HttpUploadPlugin</name>
     <message>
+        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
+        <translation type="unfinished">Obrazy (*.png *.gif *.jpg *.jpeg)</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Błąd</translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished">Autorzy:</translation>
+    </message>
+    <message>
         <source>Image preview width</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6399,14 +6411,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="unfinished">Obrazy (*.png *.gif *.jpg *.jpeg)</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="unfinished">Błąd</translation>
-    </message>
-    <message>
         <source>Error opening file %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6417,10 +6421,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>File size must be less than %1 bytes</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="unfinished">Autorzy:</translation>
     </message>
     <message>
         <source>This plugin allows uploading images and other files via XEP-0363.</source>
@@ -6995,15 +6995,6 @@ Nota: Do poprawnej pracy opcja: options.ui.chat.central-toolbar musi mieć warto
         <translation type="unfinished">Edytuj datę urodzin</translation>
     </message>
     <message>
-        <source>Warning</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have not published conference information changes.
-Are you sure you want to discard them?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
         <translation type="unfinished">Nie opublikowałeś zmian dotyczących Twojego konta.
@@ -7022,10 +7013,6 @@ Czy na pewno chcesz je porzucić?</translation>
         <translation type="unfinished">OK</translation>
     </message>
     <message>
-        <source>Your conference information has been published.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your account information has been published.</source>
         <translation type="unfinished">Twoje informacje o koncie zostały opublikowane.</translation>
     </message>
@@ -7036,11 +7023,6 @@ Czy na pewno chcesz je porzucić?</translation>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
         <translation type="unfinished">Nie można pobrać informacji o Twoim koncie. Prawdopodobnie jeszcze ich nie wprowadzono.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this conference.
-Reason: %1</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
@@ -7063,6 +7045,24 @@ dostępny</translation>
     <message>
         <source>Status</source>
         <translation type="unfinished">Status</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7894,12 +7894,12 @@ Russia, Tambov, 2005 (denis@silversoft.net)</source>
 <context>
     <name>MessageFilter</name>
     <message>
-        <source>Author: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>e-mail: </source>
         <translation type="unfinished">email:</translation>
+    </message>
+    <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8867,6 +8867,10 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>seconds (0 - never)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Icons</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8900,10 +8904,6 @@ nawet jeśli okno rozmowy jest już otwarte</translation>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>seconds (0 - never)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9401,6 +9401,22 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
         <translation type="unfinished">Wybierz plik</translation>
     </message>
     <message>
+        <source>Rules</source>
+        <translation type="unfinished">Reguły</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Nazwa</translation>
+    </message>
+    <message>
+        <source>Enabled</source>
+        <translation type="unfinished">Włączony</translation>
+    </message>
+    <message>
         <source>Redirect to JID:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9478,6 +9494,22 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for incomming messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for outgoing messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default plugin action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9586,6 +9618,14 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9772,46 +9812,6 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     <message>
         <source>GnuPG info</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rules</source>
-        <translation type="unfinished">Reguły</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="unfinished">...</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="unfinished">Nazwa</translation>
-    </message>
-    <message>
-        <source>Conditions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show message if it satisfies the rule</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color for incomming messages numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color for outgoing messages numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Default plugin action</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disabled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enabled</source>
-        <translation type="unfinished">Włączony</translation>
     </message>
 </context>
 <context>
@@ -14197,6 +14197,14 @@ Kontynuować?</translation>
         <translation>Ostatni opis statusu</translation>
     </message>
     <message>
+        <source>Never</source>
+        <translation type="unfinished">Nigdy</translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation type="unfinished">Zawsze</translation>
+    </message>
+    <message>
         <source>Conversion Error</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14502,6 +14510,14 @@ Kontynuować?</translation>
     </message>
     <message>
         <source>Writing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This computer only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Except this computer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14883,22 +14899,6 @@ The OTR Plugin will not work.</source>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation type="unfinished">Nigdy</translation>
-    </message>
-    <message>
-        <source>Always</source>
-        <translation type="unfinished">Zawsze</translation>
-    </message>
-    <message>
-        <source>This computer only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Except this computer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

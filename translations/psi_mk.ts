@@ -492,6 +492,10 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Enable Stream Management if possible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Manually Specify Server Host/Port:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -559,10 +563,6 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable Stream Management if possible</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -713,6 +713,10 @@ When you enable this option you will not be able to find your password in config
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -750,10 +754,6 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Enter the XMPP Address of the contact to block:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1549,6 +1549,10 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Auto-join:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Import bookmarks from file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1562,10 +1566,6 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Auto-join:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1992,19 +1992,19 @@ Do you still want to close the window?</source>
         <translation type="unfinished">Тема:</translation>
     </message>
     <message>
-        <source>URL:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Desc:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Quote</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ctrl+S</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>URL:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desc:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3672,11 +3672,11 @@ Proceed?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Authors: </source>
+        <source>Enum Messages</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enum Messages</source>
+        <source>Authors: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6308,6 +6308,10 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>HttpUploadPlugin</name>
     <message>
+        <source>Error</source>
+        <translation type="unfinished">Грешка</translation>
+    </message>
+    <message>
         <source>Image preview width</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6358,10 +6362,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg)</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
     </message>
     <message>
         <source>Error opening file %1</source>
@@ -6801,11 +6801,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Alt+V</source>
+        <source>View in real size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>View in real size</source>
+        <source>Alt+V</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6876,6 +6876,10 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>InfoDlg</name>
     <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished">&amp;Затвори</translation>
+    </message>
+    <message>
         <source>User Info</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6900,10 +6904,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Затвори</translation>
-    </message>
-    <message>
         <source>psi/close</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6911,45 +6911,12 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>InfoWidget</name>
     <message>
-        <source>First Name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Middle Name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Last Name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit names</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View names</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Open web browser</source>
         <translation type="unfinished">Отвори прелистувач</translation>
     </message>
     <message>
-        <source>No date</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit birthday</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Warning</source>
         <translation type="unfinished">Предупредување</translation>
-    </message>
-    <message>
-        <source>You have not published conference information changes.
-Are you sure you want to discard them?</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You have not published your account information changes.
@@ -6970,10 +6937,6 @@ Are you sure you want to discard them?</source>
         <translation type="unfinished">Успех</translation>
     </message>
     <message>
-        <source>Your conference information has been published.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your account information has been published.</source>
         <translation type="unfinished">Информациите за Вашата сметка се објавени.</translation>
     </message>
@@ -6984,11 +6947,6 @@ Are you sure you want to discard them?</source>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
         <translation type="unfinished">Информациите за Вашата сметка не можат да се приберат.  Можеби немате внесено ништо.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this conference.
-Reason: %1</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
@@ -7010,6 +6968,48 @@ available</source>
     <message>
         <source>Status</source>
         <translation type="unfinished">Статус</translation>
+    </message>
+    <message>
+        <source>First Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit names</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View names</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit birthday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7449,11 +7449,11 @@ Note: To work correctly, the option options.html.chat.render	must be set to true
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Apply</source>
+        <source>&amp;VCard</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;VCard</source>
+        <source>Apply</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7869,22 +7869,6 @@ Details: %1</source>
         <translation type="unfinished">Коментар</translation>
     </message>
     <message>
-        <source>Enable/Disable</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>JID (or part of JID)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Watch for JIDs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sounds (if empty default sound will be used)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Type</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7914,6 +7898,22 @@ Details: %1</source>
     </message>
     <message>
         <source>Fingerprint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable/Disable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JID (or part of JID)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Watch for JIDs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sounds (if empty default sound will be used)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8339,11 +8339,11 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enable docklet</source>
+        <source>Decorate windows</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Decorate windows</source>
+        <source>Enable docklet</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8765,6 +8765,10 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>seconds (0 - never)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Icons</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8834,10 +8838,6 @@ Tags: %1</source>
     </message>
     <message>
         <source>Radius of corners</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>seconds (0 - never)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9238,6 +9238,10 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation type="unfinished">Сите датотеки (*)</translation>
     </message>
     <message>
+        <source>Name</source>
+        <translation type="unfinished">Име</translation>
+    </message>
+    <message>
         <source>Form</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9332,6 +9336,26 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#captcha_forms_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for incomming messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for outgoing messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default plugin action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9467,6 +9491,22 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rules</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9704,46 +9744,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>GnuPG info</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rules</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="unfinished">Име</translation>
-    </message>
-    <message>
-        <source>Conditions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show message if it satisfies the rule</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color for incomming messages numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color for outgoing messages numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Default plugin action</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disabled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enabled</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14066,6 +14066,14 @@ Proceed?</source>
         <translation>Порака за последниот статус</translation>
     </message>
     <message>
+        <source>Never</source>
+        <translation type="unfinished">Никогаш</translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation type="unfinished">Секогаш</translation>
+    </message>
+    <message>
         <source>Conversion Error</source>
         <translation type="unfinished"></translation>
     </message>
@@ -14399,6 +14407,14 @@ Proceed?</source>
     </message>
     <message>
         <source>Choose file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This computer only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Except this computer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14808,22 +14824,6 @@ The OTR Plugin will not work.</source>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation type="unfinished">Никогаш</translation>
-    </message>
-    <message>
-        <source>Always</source>
-        <translation type="unfinished">Секогаш</translation>
-    </message>
-    <message>
-        <source>This computer only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Except this computer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17324,6 +17324,10 @@ Do you still want to close the window?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>SM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>JID:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17341,10 +17345,6 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>XML Input...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>SM</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

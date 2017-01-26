@@ -540,10 +540,6 @@ Klikni na &lt;b&gt;Registrovat nový účet&lt;/b&gt;, pokud chceš, aby se Psi 
         <translation>Datové přenosy</translation>
     </message>
     <message>
-        <source>In-Band only (slow)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Proxy:</source>
         <translation>Proxy:</translation>
     </message>
@@ -586,6 +582,10 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     <message>
         <source>Nested groups delimiter: </source>
         <translation type="vanished">Oddělovač vnořených skupin: </translation>
+    </message>
+    <message>
+        <source>In-Band only (slow)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -679,30 +679,6 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
         <translation>Posílá periodicky tzv. &quot;Keep-alive&quot; (zůstaň-aktivní) pakety.  Použitelné pokud sestavené spojení je automaticky uzavřeno během určité doby neaktivity (např. tvým ISP) a chceš spojení udržet po celou dobu.</translation>
     </message>
     <message>
-        <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Username:</source>
         <translation>Uživatelské jméno:</translation>
     </message>
@@ -776,6 +752,30 @@ Pokud tohle nastavíš, nebudeš moci najít svoje heslo v konfiguračních soub
     </message>
     <message>
         <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check this option to use a compressed connection to the XMPP server, if the server supports it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this option for manual configuration of your XMPP host if it is not the same as the host you are connecting to.  This option is mostly useful if you have some sort of proxy route on your local machine (i.e. you connect to localhost), but your account is registered on an external server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can have multiple clients connected to the XMPP server with your single account.  Each login is distinguished by a &quot;resource&quot; name, which you can specify in this field.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This option sets the user (and realm) you want to authenticate as. This overrides the XMPP address you are logging in as.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4475,19 +4475,19 @@ Toto nastavení má účinek pouze je-li akceptovat-výchozí vypnuto.</translat
         <translation>E-mail: </translation>
     </message>
     <message>
-        <source>This plugin is designed to allow easy configuration of some advanced options in Psi+.
-This plugin gives you access to advanced application options, which do not have a graphical user interface.
-
-Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Allow groupchat highlight events</source>
         <translation>Povolit skupinovému chatu zvýrazňování událostí</translation>
     </message>
     <message>
         <source>Enable multirow tabs</source>
         <translation>Zapnout víceřádkové záložky</translation>
+    </message>
+    <message>
+        <source>This plugin is designed to allow easy configuration of some advanced options in Psi+.
+This plugin gives you access to advanced application options, which do not have a graphical user interface.
+
+Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5709,10 +5709,6 @@ Hra je prohraná.</translation>
         <translation>Ulice:</translation>
     </message>
     <message>
-        <source>A thoroughfare within the locality, or a crossing of two thoroughfares</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Text:</source>
         <translation>Text:</translation>
     </message>
@@ -5731,6 +5727,10 @@ Hra je prohraná.</translation>
     <message>
         <source>Cancel</source>
         <translation>Zrušit</translation>
+    </message>
+    <message>
+        <source>A thoroughfare within the locality, or a crossing of two thoroughfares</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6393,6 +6393,26 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>HttpUploadPlugin</name>
     <message>
+        <source>Upload Image</source>
+        <translation type="unfinished">Nahrát obrázek</translation>
+    </message>
+    <message>
+        <source>Upload File</source>
+        <translation type="unfinished">Nahrát soubor</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
+        <translation type="unfinished">Obrázky (*.png *.gif *.jpg *.jpeg)</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Chyba</translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished">Autoři: </translation>
+    </message>
+    <message>
         <source>Image preview width</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6407,14 +6427,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>JPEG quality</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upload Image</source>
-        <translation type="unfinished">Nahrát obrázek</translation>
-    </message>
-    <message>
-        <source>Upload File</source>
-        <translation type="unfinished">Nahrát soubor</translation>
     </message>
     <message>
         <source>Please wait</source>
@@ -6441,14 +6453,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="unfinished">Obrázky (*.png *.gif *.jpg *.jpeg)</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="unfinished">Chyba</translation>
-    </message>
-    <message>
         <source>Error opening file %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6459,10 +6463,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>File size must be less than %1 bytes</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="unfinished">Autoři: </translation>
     </message>
     <message>
         <source>This plugin allows uploading images and other files via XEP-0363.</source>
@@ -6722,6 +6722,14 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>IcqDie</name>
     <message>
+        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <source>Author: </source>
+        <translation>Autor: </translation>
+    </message>
+    <message>
         <source>I can tell you as a Linux, but do not be mad at me. Certainly this human will receive this message. But it&apos;s much better to chat to him by Jabber. You are risking, one never knows when ICQ can die, granny already outlived its. His JID: %1.
 
 Sincerely yours, Debian Sid.</source>
@@ -6733,14 +6741,6 @@ Sincerely yours, Debian Sid.</source>
 If you don&apos;t know what Jabber is - use Google. It knows everything and ready to help everyone who ask it.
 Sincerely yours, Debian Sid.</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#icq_must_die_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation>Autor: </translation>
     </message>
     <message>
         <source>This plugin is designed to help you transfer as many contacts as possible from ICQ to Jabber.
@@ -6810,6 +6810,10 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>ImagePreviewPlugin</name>
     <message>
+        <source>Author: </source>
+        <translation type="unfinished">Autor: </translation>
+    </message>
+    <message>
         <source>512 Kb</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6840,10 +6844,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <source>Allow upscale</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="unfinished">Autor: </translation>
     </message>
     <message>
         <source>This plugin shows the preview image for an image URL.
@@ -6961,10 +6961,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>InfoDlg</name>
     <message>
-        <source>User Info</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Alt+D</source>
         <translation type="unfinished">Alt+D</translation>
     </message>
@@ -6991,6 +6987,10 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <source>psi/close</source>
         <translation type="unfinished">psi/close</translation>
+    </message>
+    <message>
+        <source>User Info</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7032,11 +7032,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished">Varování</translation>
     </message>
     <message>
-        <source>You have not published conference information changes.
-Are you sure you want to discard them?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
         <translation type="unfinished">Nebyly zveřejněny změny informací o tvém účtu.
@@ -7055,10 +7050,6 @@ Opravdu stornovat změny?</translation>
         <translation type="unfinished">Úspěch</translation>
     </message>
     <message>
-        <source>Your conference information has been published.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your account information has been published.</source>
         <translation type="unfinished">Informace o vlastním účtu byly zveřejněny.</translation>
     </message>
@@ -7069,11 +7060,6 @@ Opravdu stornovat změny?</translation>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
         <translation type="unfinished">Nelze získat informace o tvém účtu.  Zřejmě nebyly ještě žádné vloženy.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this conference.
-Reason: %1</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
@@ -7096,6 +7082,20 @@ k dispozici</translation>
     <message>
         <source>Status</source>
         <translation type="unfinished">Stav</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13566,10 +13566,6 @@ Pokračovat?</translation>
         <translation>Hlavní chyba ověřování certifikátu.</translation>
     </message>
     <message>
-        <source>Doing Chores</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Buying Groceries</source>
         <translation>Nákup</translation>
     </message>
@@ -13596,10 +13592,6 @@ Pokračovat?</translation>
     <message>
         <source>Gardening</source>
         <translation>Zahradničení</translation>
-    </message>
-    <message>
-        <source>Running An Errand</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Walking The Dog</source>
@@ -13680,10 +13672,6 @@ Pokračovat?</translation>
     <message>
         <source>Working Out</source>
         <translation>Cvičící</translation>
-    </message>
-    <message>
-        <source>Grooming</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>At The Spa</source>
@@ -13820,10 +13808,6 @@ Pokračovat?</translation>
     <message>
         <source>Traveling</source>
         <translation>Cestující</translation>
-    </message>
-    <message>
-        <source>Commuting</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Driving</source>
@@ -14038,10 +14022,6 @@ Popis: </translation>
         <translation>Rozzlobený</translation>
     </message>
     <message>
-        <source>Amorous</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Annoyed</source>
         <translation>Mrzutý</translation>
     </message>
@@ -14086,10 +14066,6 @@ Popis: </translation>
         <translation>Zmatený</translation>
     </message>
     <message>
-        <source>Contemplative</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Contented</source>
         <translation>Spokojený</translation>
     </message>
@@ -14110,10 +14086,6 @@ Popis: </translation>
         <translation>Zvědavý</translation>
     </message>
     <message>
-        <source>Dejected</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Depressed</source>
         <translation>Deprimovaný</translation>
     </message>
@@ -14124,10 +14096,6 @@ Popis: </translation>
     <message>
         <source>Disgusted</source>
         <translation>Znechucený</translation>
-    </message>
-    <message>
-        <source>Dismayed</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Distracted</source>
@@ -14248,10 +14216,6 @@ Popis: </translation>
     <message>
         <source>Offended</source>
         <translation>Uražený</translation>
-    </message>
-    <message>
-        <source>Outraged</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Playful</source>
@@ -14666,14 +14630,6 @@ Heslo: %5</translation>
         <translation>Zprávy,</translation>
     </message>
     <message>
-        <source>Presence-In,</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Presence-Out,</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Queries,</source>
         <translation>Dotazy,</translation>
     </message>
@@ -14978,6 +14934,50 @@ Děkujeme za trpělivost.</translation>
     <message>
         <source>Except this computer</source>
         <translation>Kromě tohoto počítače</translation>
+    </message>
+    <message>
+        <source>Doing Chores</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Running An Errand</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grooming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Commuting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Amorous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contemplative</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dejected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dismayed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outraged</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presence-In,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presence-Out,</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15383,6 +15383,14 @@ The first time you install this plugin, you need to log on to all of your accoun
         <translation>Autoři: </translation>
     </message>
     <message>
+        <source>
+
+Settings for authorization on some hostings can be found here: http://code.google.com/p/qscreenshot/wiki/Authorization</source>
+        <translation>
+
+Nastavení pro ověření některých hostingů lze nalézt zde: http://code.google.com/p/qscreenshot/wiki/Authorization</translation>
+    </message>
+    <message>
         <source>This plugin allows you to make screenshots and save them to your hard drive or upload them to an FTP or HTTP server.
 The plugin has the following settings:
 * Shortcut -- hotkey to make the screenshot (by default, Ctrl+Alt+P)
@@ -15390,14 +15398,6 @@ The plugin has the following settings:
 * File Name -- format of the filename (default: pic-yyyyMMdd-hhmmss, where yyyyMMdd=YYYYMMDD, and hhmmss are current date in the format yearmonthday-hourminutesecond)
 The address of FTP server is specified as ftp://ftp.domain.tld/path1/path2</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-
-Settings for authorization on some hostings can be found here: http://code.google.com/p/qscreenshot/wiki/Authorization</source>
-        <translation>
-
-Nastavení pro ověření některých hostingů lze nalézt zde: http://code.google.com/p/qscreenshot/wiki/Authorization</translation>
     </message>
 </context>
 <context>
@@ -16382,18 +16382,6 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
         <translation>O %1</translation>
     </message>
     <message>
-        <source>%1 v1.0
-
-Utility to demonstrate the Iris XMPP library.
-
-Currently supports:
-  draft-ietf-xmpp-core-21
-  JEP-0025
-
-Copyright (C) 2003 Justin Karneges</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -16450,6 +16438,18 @@ Opravte ho a zkuste to znovu.</translation>
     <message>
         <source>Enter the password for %1</source>
         <translation>Vlož heslo pro %1</translation>
+    </message>
+    <message>
+        <source>%1 v1.0
+
+Utility to demonstrate the Iris XMPP library.
+
+Currently supports:
+  draft-ietf-xmpp-core-21
+  JEP-0025
+
+Copyright (C) 2003 Justin Karneges</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16693,24 +16693,12 @@ Následující funguje pouze v okně groupchatu:
 &lt;/ul&gt;</translation>
     </message>
     <message>
-        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Did you know that you can use checkboxes in Account Setup dialog to enable/disable accounts? This may be useful in the case of an account that you use rarely, so it will not clutter your roster.</source>
         <translation>Víš že můžeš pomocí zaškrtávacích políček v dialogu pro konfiguraci účtů vypínat a zapínat jednotlivé účty? To může být užitečné, pokud některé účty používáš zřídka a zbytečně zabírají místo na obrazovce.</translation>
     </message>
     <message>
         <source>Don&apos;t like the buttons where they are?  Want a shortcut button to change your status to Away?  Check out the Configure Toolbars window, it&apos;s available through toolbars&apos; context menu.  You can even make a toolbar that floats!</source>
         <translation>Nelíbí se ti tlačítka tam, kde jsou?  Chceš tlačítko pro rychlou změnu stavu na &quot;Pryč&quot;?  Podívej se do okna &quot;Konfigurovat panely nástrojů&quot;, které je dostupné přes kontextové menu panelů nástrojů.  Můžeš dokonce vytvořit plovoucí nástrojový panel!</translation>
-    </message>
-    <message>
-        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Have you converted over from Gadu-Gadu or Trillian and you miss the cool emoticons?  Fear not, we have you covered!  Check out &lt;a href=&quot;http://jisp.netflint.net&quot;&gt;http://jisp.netflint.net&lt;/a&gt; for tons of &quot;Iconsets&quot; that can be added to Psi to make it look the way you like!</source>
@@ -16721,18 +16709,8 @@ Následující funguje pouze v okně groupchatu:
         <translation>Věděl(a) jsi, že prostřední klik (prostřední tlačítko na třítlačítkové myši) &quot;vykonává výchozí akci&quot; na mnoha objektech v Psi?  Zkus prostřední klik na kontakt nebo na vyskakovací okno.</translation>
     </message>
     <message>
-        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You can right-click on the server name in your roster to perform several different actions.  You can change status, modify account settings, perform administrative options (if you have permission), and more.</source>
         <translation>Můžeš provést pravý klik na jméno serveru v seznamu pro provádění různých akcí.  Můžeš změnit stav, upravit nastavení účtu, provést administrátorské volby (pokud máš práva) a další.</translation>
-    </message>
-    <message>
-        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
-&lt;br&gt;&lt;br&gt;
-Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If you&apos;re chatting in groupchats quite frequently, nick completion is an invaluable feature. The most useful shortcut is &lt;tt&gt;Tab-Tab&lt;/tt&gt;; when used on beginning of new line or after a step it inserts the nickname of the person who last addressed you directly. You can then continue to press &lt;tt&gt;Tab&lt;/tt&gt; and it will loop on the nicks of all the people in the room.&lt;br/&gt;&lt;br/&gt;For a more complicated scenario: &lt;tt&gt;mblsha&lt;/tt&gt;, &lt;tt&gt;Monster&lt;/tt&gt; and &lt;tt&gt;mbl-revolution&lt;/tt&gt; are all sitting in same room. If you write &lt;tt&gt;m&lt;/tt&gt; and press &lt;tt&gt;Tab&lt;/tt&gt; it will not result in any noticeable action. This is because there are multiple nicks that start with &lt;tt&gt;m&lt;/tt&gt;, and you can either continue to &lt;tt&gt;Tab&lt;/tt&gt; to loop through all nicks that start with &lt;tt&gt;m&lt;/tt&gt; or write more letters until there is a unique completion. When you press the &lt;tt&gt;b&lt;/tt&gt; button, and then press &lt;tt&gt;Tab&lt;/tt&gt; it would complete to &lt;tt&gt;mbl&lt;/tt&gt;. The more you use this feature, the more you are likely to come to like it and rely upon it. Try nick completion on someone and you&apos;ll realise how powerful it is.</source>
@@ -16747,6 +16725,28 @@ Note: Some server may disable transport registration to users from different ser
     <message>
         <source>Contributed by</source>
         <translation>Zaslal</translation>
+    </message>
+    <message>
+        <source>Did you know that you can register multiple XMPP accounts with Psi? If you like to separate your work from your personal account, you can.  If you are a power user who wants to test the latest XMPP features on an unstable server, you can do that -- without running a second client to connect to your stable server.  Just click Add in the Account Setup screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you chat on third-party IM networks such as AIM and ICQ?  Try enabling the &quot;transport-specific icons&quot; option.  This will allow you to quickly see at a glance which network your buddy is using.  Then you can convince him to switch to XMPP. &lt;icon name=&quot;psi/smile&quot;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Did you know that Psi is one of the only XMPP clients that allows you to connect to multiple servers at the same time?  You can be known as &quot;mrcool@jabber.org&quot; to your friends, and &quot;John.J.Smith_the_fourth@mycompany.com&quot; to business associates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to add contacts from different IM networks, you need to add a corresponding agent from your XMPP server. Take a look at Psi Menu -&gt; Service Discovery.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Looking for a transport or chatroom, but your server provides nothing appropriate? Use Psi Menu -&gt; Service Discovery to look on &lt;i&gt;any&lt;/i&gt; XMPP server for nice services by typing its domain in the address field.
+&lt;br&gt;&lt;br&gt;
+Note: Some server may disable transport registration to users from different servers, but that&apos;s not common yet.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17638,16 +17638,8 @@ Opravdu zavřít okno?</translation>
         <translation>Neplatné JID</translation>
     </message>
     <message>
-        <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Not acceptable</source>
         <translation>Nepřípustné</translation>
-    </message>
-    <message>
-        <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server (e.g., a local policy regarding acceptable words in messages).</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Not allowed</source>
@@ -17660,10 +17652,6 @@ Opravdu zavřít okno?</translation>
     <message>
         <source>Not authorized</source>
         <translation>Neautorizovaný</translation>
-    </message>
-    <message>
-        <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recipient unavailable</source>
@@ -17686,24 +17674,12 @@ Opravdu zavřít okno?</translation>
         <translation>Vyžadována registrace</translation>
     </message>
     <message>
-        <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Remote server not found</source>
         <translation>Vzdálený server nenalezen</translation>
     </message>
     <message>
-        <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Remote server timeout</source>
         <translation>Vypršel časový limit vzdáleného serveru</translation>
-    </message>
-    <message>
-        <source>A remote server or service specified as part or all of the JID of the intended recipient (or required to fulfill a request) could not be contacted within a reasonable amount of time.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Resource constraint</source>
@@ -17744,6 +17720,30 @@ Opravdu zavřít okno?</translation>
     <message>
         <source>The recipient or server understood the request but was not expecting it at this time (e.g., the request was out of order).</source>
         <translation>Příjemce nebo server rozumněli požadavku, ale teď jej neočekávali (např. požadavek byl ve špatném pořadí).</translation>
+    </message>
+    <message>
+        <source>The sending entity has provided or communicated an XMPP address (e.g., a value of the &apos;to&apos; attribute) or aspect thereof (e.g., a resource identifier) that does not adhere to the syntax defined in Addressing Scheme.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The recipient or server understands the request but is refusing to process it because it does not meet criteria defined by the recipient or server (e.g., a local policy regarding acceptable words in messages).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The sender must provide proper credentials before being allowed to perform the action, or has provided improper credentials.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The requesting entity is not authorized to access the requested service because registration is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A remote server or service specified as part or all of the JID of the intended recipient does not exist.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A remote server or service specified as part or all of the JID of the intended recipient (or required to fulfill a request) could not be contacted within a reasonable amount of time.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

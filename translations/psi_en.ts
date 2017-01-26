@@ -3724,12 +3724,12 @@ Proceed?</translation>
 <context>
     <name>EnumMessagesPlugin</name>
     <message>
-        <source>Missed messages: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Authors: </source>
         <translation type="unfinished">Authors: </translation>
+    </message>
+    <message>
+        <source>Missed messages: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enum Messages</source>
@@ -6392,6 +6392,26 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>HttpUploadPlugin</name>
     <message>
+        <source>Upload Image</source>
+        <translation type="unfinished">Upload Image</translation>
+    </message>
+    <message>
+        <source>Upload File</source>
+        <translation type="unfinished">Upload File</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
+        <translation type="unfinished">Images (*.png *.gif *.jpg *.jpeg)</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Error</translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished">Authors: </translation>
+    </message>
+    <message>
         <source>Image preview width</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6406,14 +6426,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>JPEG quality</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upload Image</source>
-        <translation type="unfinished">Upload Image</translation>
-    </message>
-    <message>
-        <source>Upload File</source>
-        <translation type="unfinished">Upload File</translation>
     </message>
     <message>
         <source>Please wait</source>
@@ -6440,14 +6452,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="unfinished">Images (*.png *.gif *.jpg *.jpeg)</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="unfinished">Error</translation>
-    </message>
-    <message>
         <source>Error opening file %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6458,10 +6462,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>File size must be less than %1 bytes</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="unfinished">Authors: </translation>
     </message>
     <message>
         <source>This plugin allows uploading images and other files via XEP-0363.</source>
@@ -6823,6 +6823,10 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>ImagePreviewPlugin</name>
     <message>
+        <source>Author: </source>
+        <translation type="unfinished">Author: </translation>
+    </message>
+    <message>
         <source>512 Kb</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6853,10 +6857,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <source>Allow upscale</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="unfinished">Author: </translation>
     </message>
     <message>
         <source>This plugin shows the preview image for an image URL.
@@ -7045,11 +7045,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished">Warning</translation>
     </message>
     <message>
-        <source>You have not published conference information changes.
-Are you sure you want to discard them?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
         <translation type="unfinished">You have not published your account information changes.
@@ -7068,10 +7063,6 @@ Are you sure you want to discard them?</translation>
         <translation type="unfinished">Success</translation>
     </message>
     <message>
-        <source>Your conference information has been published.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your account information has been published.</source>
         <translation type="unfinished">Your account information has been published.</translation>
     </message>
@@ -7082,11 +7073,6 @@ Are you sure you want to discard them?</translation>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
         <translation type="unfinished">Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this conference.
-Reason: %1</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
@@ -7109,6 +7095,20 @@ available</translation>
     <message>
         <source>Status</source>
         <translation type="unfinished">Status</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9853,12 +9853,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished">Name</translation>
     </message>
     <message>
-        <source>Conditions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show message if it satisfies the rule</source>
-        <translation type="unfinished"></translation>
+        <source>Enabled</source>
+        <translation type="unfinished">Enabled</translation>
     </message>
     <message>
         <source>Color for incomming messages numbers</source>
@@ -9877,8 +9873,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enabled</source>
-        <translation type="unfinished">Enabled</translation>
+        <source>Conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14956,19 +14956,6 @@ Password: %5</translation>
         <translation>Last Status Message</translation>
     </message>
     <message>
-        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
-
-Do you want to generate keys now?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Keys have been generated. Fingerprint for account &quot;%1&quot;:
-%2
-
-Thanks for your patience.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Never</source>
         <translation type="unfinished">Never</translation>
     </message>
@@ -14982,6 +14969,19 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Except this computer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
+
+Do you want to generate keys now?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keys have been generated. Fingerprint for account &quot;%1&quot;:
+%2
+
+Thanks for your patience.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

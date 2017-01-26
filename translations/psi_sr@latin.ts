@@ -556,6 +556,10 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation type="obsolete">Onemogući</translation>
     </message>
     <message>
+        <source>Enable Stream Management if possible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt;
 &lt;br/&gt;
 When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
@@ -563,10 +567,6 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable Stream Management if possible</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -733,6 +733,10 @@ When you enable this option you will not be able to find your password in config
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Check this option to use an encrypted SSL connection to the XMPP server.  You may use this option if your server supports it and if you have the necessary qca-ossl plugin installed.  For more information, check the Psi homepage.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -754,10 +758,6 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>&lt;p&gt;You can have multiple clients connected to the XMPP server with your single account.  In such a situation, the client with the highest priority (that is specified in this field) will be the one that will receive all incoming events.&lt;/p&gt;&lt;p&gt;For example, if you have a permanent connection to the Internet at your work location, and have a dial-up at home, you can have your XMPP client permanently running at work with a low priority, and you can still use the same account from home, using a client with higher priority to temporary &quot;disable&quot; the lower priority client at work.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enables Stream Management protocol if possible. It is useful, if you have an unstable connection. Your server must support this option. To learn more, see XEP-0184.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3697,11 +3697,11 @@ Da nastavim?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Authors: </source>
+        <source>Enum Messages</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enum Messages</source>
+        <source>Authors: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3883,6 +3883,10 @@ Ako želite da prihvtite ovaj zahtev, molimo pritisnite Confirm dugme. U suprotn
         <translation>1 modification</translation>
     </message>
     <message>
+        <source>For all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Please type in a transaction identifier first.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3899,10 +3903,6 @@ Method: %2
     </message>
     <message>
         <source>&lt;big&gt;[System Message]&lt;/big&gt;&lt;br&gt;This user wants to modify your roster (%1). Click the button labelled &quot;Add/Auth&quot; to authorize the modification.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>For all</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6351,6 +6351,22 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>HttpUploadPlugin</name>
     <message>
+        <source>Upload Image</source>
+        <translation type="unfinished">Otpremi sliku</translation>
+    </message>
+    <message>
+        <source>Upload File</source>
+        <translation type="unfinished">Otpremi fajl</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
+        <translation type="unfinished">Slike (*.png *.gif *.jpg *.jpeg)</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Greška</translation>
+    </message>
+    <message>
         <source>Image preview width</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6365,14 +6381,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>JPEG quality</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upload Image</source>
-        <translation type="unfinished">Otpremi sliku</translation>
-    </message>
-    <message>
-        <source>Upload File</source>
-        <translation type="unfinished">Otpremi fajl</translation>
     </message>
     <message>
         <source>Please wait</source>
@@ -6397,14 +6405,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Upload image</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="unfinished">Slike (*.png *.gif *.jpg *.jpeg)</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="unfinished">Greška</translation>
     </message>
     <message>
         <source>Error opening file %1</source>
@@ -6995,15 +6995,6 @@ Napomena: Da bi radili ispravno, opcija options.ui.chat.central-toolbar mora bit
         <translation type="unfinished">Izmeni rodjendan</translation>
     </message>
     <message>
-        <source>Warning</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have not published conference information changes.
-Are you sure you want to discard them?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
         <translation type="unfinished">Niste objavili promene podataka za vaš nalog.
@@ -7022,10 +7013,6 @@ Da li ste sigurni da želite da ih odbacite?</translation>
         <translation type="unfinished">Uspeh</translation>
     </message>
     <message>
-        <source>Your conference information has been published.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your account information has been published.</source>
         <translation type="unfinished">Podaci o vašem nalogu su objavljeni.</translation>
     </message>
@@ -7036,11 +7023,6 @@ Da li ste sigurni da želite da ih odbacite?</translation>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
         <translation type="unfinished">Ne mogu da dobijem podatke o vašem nalogu. Možda ih još niste uneli.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this conference.
-Reason: %1</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
@@ -7059,6 +7041,24 @@ Razlog: %1</translation>
 available</source>
         <translation type="unfinished">Slika nije
 na raspolaganju</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Status</source>
@@ -7979,11 +7979,11 @@ Detalji: %1</translation>
         <translation>Zvuci (ako je prazno koristiće se podrazumevani zvuci)</translation>
     </message>
     <message>
-        <source>Watch for JIDs</source>
+        <source>Expiration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Expiration</source>
+        <source>Watch for JIDs</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9688,6 +9688,22 @@ Option names may not be empty, end in &apos;.&apos; or contain &apos;..&apos;.</
         <translation>Kolačići su uklonjeni</translation>
     </message>
     <message>
+        <source>Rules</source>
+        <translation type="unfinished">Pravila</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">...</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Ime</translation>
+    </message>
+    <message>
+        <source>Enabled</source>
+        <translation type="unfinished">Omogućeno</translation>
+    </message>
+    <message>
         <source>Redirect to JID:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9706,6 +9722,22 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Remind for contacts from active accounts only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for incomming messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for outgoing messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default plugin action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9748,6 +9780,14 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Per contact delay between the popup notifications of the same events</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9779,46 +9819,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Key pair generating</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rules</source>
-        <translation type="unfinished">Pravila</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="unfinished">...</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="unfinished">Ime</translation>
-    </message>
-    <message>
-        <source>Conditions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show message if it satisfies the rule</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color for incomming messages numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color for outgoing messages numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Default plugin action</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disabled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enabled</source>
-        <translation type="unfinished">Omogućeno</translation>
     </message>
 </context>
 <context>
@@ -12546,6 +12546,10 @@ Reason: %1.</source>
         <translation type="unfinished">Priključci</translation>
     </message>
     <message>
+        <source>User Info</source>
+        <translation type="unfinished">Korisnički ingo</translation>
+    </message>
+    <message>
         <source>Toggles whether the currently playing tune should be published or not</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12580,10 +12584,6 @@ Reason: %1.</source>
     <message>
         <source>Toggle Encryption</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>User Info</source>
-        <translation type="unfinished">Korisnički ingo</translation>
     </message>
     <message>
         <source>Message History</source>
@@ -14687,19 +14687,15 @@ Opis: </translation>
         <translation>Poslednja poruka o stanju</translation>
     </message>
     <message>
+        <source>Never</source>
+        <translation type="unfinished">Nikad</translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation type="unfinished">Uvek</translation>
+    </message>
+    <message>
         <source>Configuration data for a previous version of Psi was found, but it was not possible to convert it to work with the current version. Ensure you have appropriate permission and that another copy of Psi is not running, and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Warning: %1 is deprecated and will be removed in the future</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please set a shortcut for &apos;Change to quick command mode&apos;, use that shortcut and enter &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please instead press %1 and enter &apos;%2&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14719,12 +14715,32 @@ Opis: </translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>This computer only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Except this computer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Latitude/Longitude/Altitude: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>
 Bearing: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warning: %1 is deprecated and will be removed in the future</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please set a shortcut for &apos;Change to quick command mode&apos;, use that shortcut and enter &apos;%1&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please instead press %1 and enter &apos;%2&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14893,22 +14909,6 @@ The OTR Plugin will not work.</source>
     </message>
     <message>
         <source>Automatically go offline when idle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation type="unfinished">Nikad</translation>
-    </message>
-    <message>
-        <source>Always</source>
-        <translation type="unfinished">Uvek</translation>
-    </message>
-    <message>
-        <source>This computer only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Except this computer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17410,11 +17410,11 @@ Do you still want to close the window?</source>
         <translation>Zatvori</translation>
     </message>
     <message>
-        <source>Dump Ringbuf</source>
+        <source>SM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>SM</source>
+        <source>Dump Ringbuf</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

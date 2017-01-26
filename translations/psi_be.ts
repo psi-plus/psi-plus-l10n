@@ -572,6 +572,10 @@ Click the &lt;b&gt;Register New Account&lt;/b&gt; checkbox if you want Psi to tr
         <translation type="obsolete">Забараніць</translation>
     </message>
     <message>
+        <source>Enable Stream Management if possible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;b&gt;Attention!&lt;/b&gt;
 &lt;br/&gt;
 When you enable this option you will not be able to find your password in config files. Only hash text will be there. So if you forget your password, it will be lost if you have not make a backup somewhere else.</source>
@@ -579,10 +583,6 @@ When you enable this option you will not be able to find your password in config
     </message>
     <message>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enable Stream Management if possible</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3724,12 +3724,12 @@ Proceed?</source>
 <context>
     <name>EnumMessagesPlugin</name>
     <message>
-        <source>Missed messages: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Authors: </source>
         <translation type="unfinished">Аўтары: </translation>
+    </message>
+    <message>
+        <source>Missed messages: %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enum Messages</source>
@@ -6389,6 +6389,26 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>HttpUploadPlugin</name>
     <message>
+        <source>Upload Image</source>
+        <translation type="unfinished">Запампаваць выяву</translation>
+    </message>
+    <message>
+        <source>Upload File</source>
+        <translation type="unfinished">Запампаваць файл</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
+        <translation type="unfinished">Выявы (*.png, *.gif, *.jpg, *.jpeg)</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Далі хібу</translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation type="unfinished">Аўтары: </translation>
+    </message>
+    <message>
         <source>Image preview width</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6403,14 +6423,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>JPEG quality</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upload Image</source>
-        <translation type="unfinished">Запампаваць выяву</translation>
-    </message>
-    <message>
-        <source>Upload File</source>
-        <translation type="unfinished">Запампаваць файл</translation>
     </message>
     <message>
         <source>Please wait</source>
@@ -6437,14 +6449,6 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="unfinished">Выявы (*.png, *.gif, *.jpg, *.jpeg)</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="unfinished">Далі хібу</translation>
-    </message>
-    <message>
         <source>Error opening file %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6455,10 +6459,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>File size must be less than %1 bytes</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation type="unfinished">Аўтары: </translation>
     </message>
     <message>
         <source>This plugin allows uploading images and other files via XEP-0363.</source>
@@ -6815,6 +6815,10 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>ImagePreviewPlugin</name>
     <message>
+        <source>Author: </source>
+        <translation type="unfinished">Аўтар: </translation>
+    </message>
+    <message>
         <source>512 Kb</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6845,10 +6849,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <source>Allow upscale</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation type="unfinished">Аўтар: </translation>
     </message>
     <message>
         <source>This plugin shows the preview image for an image URL.
@@ -7037,11 +7037,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation type="unfinished">Перасьцярога</translation>
     </message>
     <message>
-        <source>You have not published conference information changes.
-Are you sure you want to discard them?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
         <translation type="unfinished">Зьмененыя зьвесткі не абвясьцілі да агульнага ведама.
@@ -7060,10 +7055,6 @@ Are you sure you want to discard them?</source>
         <translation type="unfinished">Атрымалася</translation>
     </message>
     <message>
-        <source>Your conference information has been published.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your account information has been published.</source>
         <translation type="unfinished">Пасьпяхова абвясьцілі да агульнага ведама зьвесткі пра рахунак.</translation>
     </message>
@@ -7074,11 +7065,6 @@ Are you sure you want to discard them?</source>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
         <translation type="unfinished">Немагчыма атрымаць зьвесткі пра рахунак.  Мажліва, вы іх і не вызначалі ніколі раней.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this conference.
-Reason: %1</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
@@ -7101,6 +7087,20 @@ available</source>
     <message>
         <source>Status</source>
         <translation type="unfinished">Стан</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9765,7 +9765,35 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Сьляды выдалілі</translation>
     </message>
     <message>
+        <source>Rules</source>
+        <translation type="unfinished">Правілы</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation type="unfinished">…</translation>
+    </message>
+    <message>
+        <source>Enabled</source>
+        <translation type="unfinished">Дзейнічае</translation>
+    </message>
+    <message>
         <source>Redirect to JID:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for incomming messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for outgoing messages numbers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default plugin action</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9786,6 +9814,18 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Filter the message with a key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9831,46 +9871,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>GnuPG info</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rules</source>
-        <translation type="unfinished">Правілы</translation>
-    </message>
-    <message>
-        <source>...</source>
-        <translation type="unfinished">…</translation>
-    </message>
-    <message>
-        <source>Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Conditions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show message if it satisfies the rule</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color for incomming messages numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Color for outgoing messages numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Default plugin action</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disabled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enabled</source>
-        <translation type="unfinished">Дзейнічае</translation>
     </message>
 </context>
 <context>
@@ -14904,6 +14904,22 @@ Password: %5</source>
         <translation>Апошняе апісаньне стану</translation>
     </message>
     <message>
+        <source>Always</source>
+        <translation type="unfinished">Заўжды</translation>
+    </message>
+    <message>
+        <source>Never</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This computer only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Except this computer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
 
 Do you want to generate keys now?</source>
@@ -14962,22 +14978,6 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>Incoming call</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Always</source>
-        <translation type="unfinished">Заўжды</translation>
-    </message>
-    <message>
-        <source>This computer only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Except this computer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

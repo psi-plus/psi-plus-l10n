@@ -227,7 +227,7 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@mail.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода: &lt;a href=&quot;https://www.transifex.com/tehnick/psi-plus/&quot;&gt;Transifex&lt;/a&gt;, &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;, &lt;a href=&quot;https://sourceforge.net/projects/psiplus/files/Translations/&quot;&gt;Sourceforge&lt;/a&gt;.&lt;br&gt;Дата текущего перевода: 20.10.2016</translation>
+        <translation>Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@mail.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода: &lt;a href=&quot;https://www.transifex.com/tehnick/psi-plus/&quot;&gt;Transifex&lt;/a&gt;, &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;, &lt;a href=&quot;https://sourceforge.net/projects/psiplus/files/Translations/&quot;&gt;Sourceforge&lt;/a&gt;.&lt;br&gt;Дата текущего перевода: 27.01.2017</translation>
     </message>
 </context>
 <context>
@@ -568,16 +568,8 @@ When you enable this option you will not be able to find your password in config
         <translation>Хранить хэш вместо текста пароля, если сервер поддерживает авторизацию по хэшу.</translation>
     </message>
     <message>
-        <source>Disable</source>
-        <translation type="vanished">Отключить</translation>
-    </message>
-    <message>
         <source>Enable Stream Management if possible</source>
         <translation>Включить при возможности менеджер потока</translation>
-    </message>
-    <message>
-        <source>Nested groups delimiter: </source>
-        <translation type="vanished">Разделитель вложенных групп: </translation>
     </message>
 </context>
 <context>
@@ -2443,13 +2435,6 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
 </context>
 <context>
-    <name>ClientStream</name>
-    <message>
-        <source>Offered mechanisms: </source>
-        <translation type="vanished">Предлагаемые механизмы: </translation>
-    </message>
-</context>
-<context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
@@ -3729,12 +3714,12 @@ Proceed?</source>
 <context>
     <name>EnumMessagesPlugin</name>
     <message>
-        <source>Missed messages: %1</source>
-        <translation>Пропущенных сообщений: %1</translation>
-    </message>
-    <message>
         <source>Authors: </source>
         <translation>Авторы: </translation>
+    </message>
+    <message>
+        <source>Missed messages: %1</source>
+        <translation>Пропущенных сообщений: %1</translation>
     </message>
     <message>
         <source>Enum Messages</source>
@@ -6400,6 +6385,26 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>HttpUploadPlugin</name>
     <message>
+        <source>Upload Image</source>
+        <translation>Отправить изображение</translation>
+    </message>
+    <message>
+        <source>Upload File</source>
+        <translation>Отправить файл</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
+        <translation>Изображения (*.png *.gif *.jpg *.jpeg)</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Ошибка</translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation>Авторы: </translation>
+    </message>
+    <message>
         <source>Image preview width</source>
         <translation>Ширина превью изображения</translation>
     </message>
@@ -6414,14 +6419,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>JPEG quality</source>
         <translation>Качество jpeg</translation>
-    </message>
-    <message>
-        <source>Upload Image</source>
-        <translation>Отправить изображение</translation>
-    </message>
-    <message>
-        <source>Upload File</source>
-        <translation>Отправить файл</translation>
     </message>
     <message>
         <source>Please wait</source>
@@ -6448,14 +6445,6 @@ p, li { white-space: pre-wrap; }
         <translation>Отправить изображение</translation>
     </message>
     <message>
-        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation>Изображения (*.png *.gif *.jpg *.jpeg)</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Ошибка</translation>
-    </message>
-    <message>
         <source>Error opening file %1</source>
         <translation>Ошибка открытия файла %1</translation>
     </message>
@@ -6466,10 +6455,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>File size must be less than %1 bytes</source>
         <translation>Размер файла должен быть менее %1 байт</translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation>Авторы: </translation>
     </message>
     <message>
         <source>This plugin allows uploading images and other files via XEP-0363.</source>
@@ -6831,6 +6816,10 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>ImagePreviewPlugin</name>
     <message>
+        <source>Author: </source>
+        <translation>Автор: </translation>
+    </message>
+    <message>
         <source>512 Kb</source>
         <translation>512 КБ</translation>
     </message>
@@ -6861,10 +6850,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <source>Allow upscale</source>
         <translation>Разрешить превышение размера</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation>Автор: </translation>
     </message>
     <message>
         <source>This plugin shows the preview image for an image URL.
@@ -7053,12 +7038,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation>Предупреждение</translation>
     </message>
     <message>
-        <source>You have not published conference information changes.
-Are you sure you want to discard them?</source>
-        <translation>Вы не сохранили изменения, произведённые в теме конференции.
-Вы уверены, что хотите отказаться от них?</translation>
-    </message>
-    <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
         <translation>Вы не сохранили изменения, произведённые в вашем аккаунте.
@@ -7077,10 +7056,6 @@ Are you sure you want to discard them?</source>
         <translation>Успешно</translation>
     </message>
     <message>
-        <source>Your conference information has been published.</source>
-        <translation>Ваша тема конференции опубликована.</translation>
-    </message>
-    <message>
         <source>Your account information has been published.</source>
         <translation>Данные о вашем аккаунте опубликованы.</translation>
     </message>
@@ -7091,12 +7066,6 @@ Are you sure you want to discard them?</source>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
         <translation>Невозможно получить данные о вашем аккаунте. Возможно, вы никогда не вводили их раньше.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this conference.
-Reason: %1</source>
-        <translation>Невозможно получить информацию об этой конференции.
-Причина: %1</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
@@ -7119,6 +7088,22 @@ available</source>
     <message>
         <source>Status</source>
         <translation>Статус</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation>Вы не сохранили изменения, произведённые в теме конференции.
+Вы уверены, что хотите отказаться от них?</translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation>Ваша тема конференции опубликована.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation>Невозможно получить информацию об этой конференции.
+Причина: %1</translation>
     </message>
 </context>
 <context>
@@ -9862,12 +9847,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Имя</translation>
     </message>
     <message>
-        <source>Conditions</source>
-        <translation>Условия</translation>
-    </message>
-    <message>
-        <source>Show message if it satisfies the rule</source>
-        <translation>Показать сообщение, если оно соответствует правилу</translation>
+        <source>Enabled</source>
+        <translation>Включен</translation>
     </message>
     <message>
         <source>Color for incomming messages numbers</source>
@@ -9886,8 +9867,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Отключен</translation>
     </message>
     <message>
-        <source>Enabled</source>
-        <translation>Включен</translation>
+        <source>Conditions</source>
+        <translation>Условия</translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
+        <translation>Показать сообщение, если оно соответствует правилу</translation>
     </message>
 </context>
 <context>
@@ -14974,6 +14959,22 @@ URL: %4
         <translation>Последний статус</translation>
     </message>
     <message>
+        <source>Never</source>
+        <translation>Никогда</translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation>Всегда</translation>
+    </message>
+    <message>
+        <source>This computer only</source>
+        <translation>Только на данном компьютере</translation>
+    </message>
+    <message>
+        <source>Except this computer</source>
+        <translation>За исключением этого компьютера</translation>
+    </message>
+    <message>
         <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
 
 Do you want to generate keys now?</source>
@@ -14990,22 +14991,6 @@ Thanks for your patience.</source>
 %2
 
 Спасибо за терпение.</translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation>Никогда</translation>
-    </message>
-    <message>
-        <source>Always</source>
-        <translation>Всегда</translation>
-    </message>
-    <message>
-        <source>This computer only</source>
-        <translation>Только на данном компьютере</translation>
-    </message>
-    <message>
-        <source>Except this computer</source>
-        <translation>За исключением этого компьютера</translation>
     </message>
 </context>
 <context>

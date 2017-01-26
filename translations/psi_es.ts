@@ -593,12 +593,12 @@ Cuando habilites esta opción, no podrás encontrar tu contraseña en los archiv
         <translation>Almacenar la contraeña cifrada en vez de texto plano si el servidor soporta esta funcionalidad.</translation>
     </message>
     <message>
-        <source>Enable Stream Management if possible</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Disable</source>
         <translation type="obsolete">Inhabilitar</translation>
+    </message>
+    <message>
+        <source>Enable Stream Management if possible</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3743,11 +3743,11 @@ Proceed?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Authors: </source>
+        <source>Enum Messages</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enum Messages</source>
+        <source>Authors: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6406,6 +6406,22 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>HttpUploadPlugin</name>
     <message>
+        <source>Upload Image</source>
+        <translation type="unfinished">Subir imagen</translation>
+    </message>
+    <message>
+        <source>Upload File</source>
+        <translation type="unfinished">Subir archivo</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
+        <translation type="unfinished">Imagenes(*.png *.gif *.jpg *.jpeg)</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Error</translation>
+    </message>
+    <message>
         <source>Image preview width</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6420,14 +6436,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>JPEG quality</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upload Image</source>
-        <translation type="unfinished">Subir imagen</translation>
-    </message>
-    <message>
-        <source>Upload File</source>
-        <translation type="unfinished">Subir archivo</translation>
     </message>
     <message>
         <source>Please wait</source>
@@ -6452,14 +6460,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Upload image</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="unfinished">Imagenes(*.png *.gif *.jpg *.jpeg)</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="unfinished">Error</translation>
     </message>
     <message>
         <source>Error opening file %1</source>
@@ -7055,15 +7055,6 @@ Nota: Para su correcto funcionamiento, la opción options.ui.chat.central-toolba
         <translation type="unfinished">Editar cumpleaños</translation>
     </message>
     <message>
-        <source>Warning</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have not published conference information changes.
-Are you sure you want to discard them?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
         <translation type="unfinished">No has publicado los cambios efectuados en la información de tu cuenta.
@@ -7078,14 +7069,6 @@ Are you sure you want to discard them?</source>
         <translation type="unfinished">No cerrar</translation>
     </message>
     <message>
-        <source>Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your conference information has been published.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your account information has been published.</source>
         <translation type="unfinished">La información de tu cuenta (vCard) ha sido publicada.</translation>
     </message>
@@ -7097,11 +7080,6 @@ Are you sure you want to discard them?</source>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
         <translation type="unfinished">No se ha podido cargar la información de tu cuenta (vCard). Tal vez no hayas introducido ninguna aún.
 Si es así, puedes hacerlo ahora.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this conference.
-Reason: %1</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
@@ -7124,6 +7102,28 @@ disponible</translation>
     <message>
         <source>Status</source>
         <translation type="unfinished">Estado</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Success</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9867,12 +9867,8 @@ a las personas frecuentemente contactadas por email.</translation>
         <translation type="unfinished">Nombre</translation>
     </message>
     <message>
-        <source>Conditions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show message if it satisfies the rule</source>
-        <translation type="unfinished"></translation>
+        <source>Enabled</source>
+        <translation type="unfinished">Habilitado</translation>
     </message>
     <message>
         <source>Color for incomming messages numbers</source>
@@ -9891,8 +9887,12 @@ a las personas frecuentemente contactadas por email.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enabled</source>
-        <translation type="unfinished">Habilitado</translation>
+        <source>Conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -6400,6 +6400,22 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>HttpUploadPlugin</name>
     <message>
+        <source>Upload Image</source>
+        <translation type="unfinished">Bild hochladen</translation>
+    </message>
+    <message>
+        <source>Upload File</source>
+        <translation type="unfinished">Datei hochladen</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
+        <translation type="unfinished">Bilder (*.png *.gif *.jpg *.jpeg)</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished">Fehler</translation>
+    </message>
+    <message>
         <source>Image preview width</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6414,14 +6430,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>JPEG quality</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Upload Image</source>
-        <translation type="unfinished">Bild hochladen</translation>
-    </message>
-    <message>
-        <source>Upload File</source>
-        <translation type="unfinished">Datei hochladen</translation>
     </message>
     <message>
         <source>Please wait</source>
@@ -6446,14 +6454,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Upload image</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="unfinished">Bilder (*.png *.gif *.jpg *.jpeg)</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
     </message>
     <message>
         <source>Error opening file %1</source>
@@ -7048,11 +7048,6 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.ui.chat.central-
         <translation>Warnung</translation>
     </message>
     <message>
-        <source>You have not published conference information changes.
-Are you sure you want to discard them?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
         <translation type="unfinished">Die Änderungen an Ihren Benutzerinformationen wurden nicht veröffentlicht.
@@ -7071,10 +7066,6 @@ Sollen sie verworfen werden?</translation>
         <translation>Erfolg</translation>
     </message>
     <message>
-        <source>Your conference information has been published.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Your account information has been published.</source>
         <translation type="unfinished">Ihre Benutzerinformationen wurden veröffentlicht.</translation>
     </message>
@@ -7085,11 +7076,6 @@ Sollen sie verworfen werden?</translation>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
         <translation type="unfinished">Ihre Benutzerinformationen können nicht abgerufen werden. Vielleicht haben Sie noch keine veröffentlicht.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this conference.
-Reason: %1</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
@@ -7112,6 +7098,20 @@ verfügbar</translation>
     <message>
         <source>Status</source>
         <translation>Status</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
