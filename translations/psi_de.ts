@@ -4501,6 +4501,10 @@ Wichtig: Ein großer Teil der Einstellungen sind wichtige Systemeinstellungen. D
         <source>Enable multirow tabs</source>
         <translation>Mehrzeilige Tabs aktivieren</translation>
     </message>
+    <message>
+        <source>Store MUC private messages in history</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>

@@ -4451,6 +4451,10 @@ Važno: veliki deo opcija su važna sistemska podešavanja. One zahtevaju veliku
         <source>Enable sound notifications for every groupchat message</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Store MUC private messages in history</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>

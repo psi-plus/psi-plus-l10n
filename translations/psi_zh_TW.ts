@@ -4471,6 +4471,10 @@ Importantly: a large part of the options are important system settings. These re
         <source>Enable multirow tabs</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Store MUC private messages in history</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>

@@ -4494,6 +4494,10 @@ Importante; gran parte delle opzioni sono importanti impostazioni di sistema, qu
         <source>Enable multirow tabs</source>
         <translation>Abilita schede su più righe</translation>
     </message>
+    <message>
+        <source>Store MUC private messages in history</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>

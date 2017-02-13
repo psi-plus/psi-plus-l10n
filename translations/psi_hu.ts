@@ -4490,6 +4490,10 @@ Legfőképpen: nagy része a beállításoknak fontos rendszerbeállítás. Ezek
         <source>Enable multirow tabs</source>
         <translation>Többsoros fülek engedélyezése</translation>
     </message>
+    <message>
+        <source>Store MUC private messages in history</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>

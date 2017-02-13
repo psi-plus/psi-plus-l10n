@@ -4461,6 +4461,10 @@ Ważne: Większość z tych to ważne opcje systemowe. Wymaga to szczególnej uw
         <source>Notifications</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Store MUC private messages in history</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>

@@ -4501,6 +4501,10 @@ Importante: una gran parte de las opciones son configuraciones importantes del s
         <source>Enable multirow tabs</source>
         <translation>Habilitar pestañas de múltiples filas</translation>
     </message>
+    <message>
+        <source>Store MUC private messages in history</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>FancyPopup::Private</name>
