@@ -5,7 +5,7 @@
     <name>@default</name>
     <message>
         <source>language_name</source>
-        <translation>中文简体(中华人民共和国)</translation>
+        <translation>英语</translation>
     </message>
 </context>
 <context>
@@ -57,9 +57,7 @@
 &lt;br&gt;
 Copyright © 2001-2014 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="unfinished">为高端用户设计的跨平台 XMPP 客户端.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2013 The Psi Team.&lt;br&gt; {2001-2014 ?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>http://psi-im.org</source>
@@ -574,10 +572,6 @@ When you enable this option you will not be able to find your password in config
     <message>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
         <translation>若服务器支持，则保存密码特征值(hash)，而不保存明文.</translation>
-    </message>
-    <message>
-        <source>Disable</source>
-        <translation type="obsolete">禁用</translation>
     </message>
     <message>
         <source>Enable Stream Management if possible</source>
@@ -1531,19 +1525,19 @@ The list of exceptions for jids has two operating modes:
     <name>BattleshipGamePlugin</name>
     <message>
         <source>Choose a sound file</source>
-        <translation type="unfinished"></translation>
+        <translation>选择一个音频文件</translation>
     </message>
     <message>
         <source>Sound (*.wav)</source>
-        <translation type="unfinished"></translation>
+        <translation>音频文件 (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"></translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"></translation>
+        <translation>电子邮箱:</translation>
     </message>
     <message>
         <source>This plugin allows you to play battleship with your friends.
@@ -1552,11 +1546,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Battleship game</source>
-        <translation type="unfinished"></translation>
+        <translation>战舰游戏</translation>
     </message>
     <message>
         <source>Battleship game!</source>
-        <translation type="unfinished"></translation>
+        <translation>战舰游戏!</translation>
     </message>
 </context>
 <context>
@@ -1599,7 +1593,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Auto-join:</source>
-        <translation type="unfinished"></translation>
+        <translation>自动加入:</translation>
     </message>
 </context>
 <context>
@@ -1724,11 +1718,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Call is ended</source>
-        <translation type="unfinished"></translation>
+        <translation>已结束呼叫</translation>
     </message>
     <message>
         <source>Call duration: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>通话时长: %1</translation>
     </message>
 </context>
 <context>
@@ -1750,7 +1744,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>CaptchaDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">对话</translation>
+        <translation>对话</translation>
     </message>
 </context>
 <context>
@@ -2429,13 +2423,6 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
 </context>
 <context>
-    <name>ClientStream</name>
-    <message>
-        <source>Offered mechanisms: </source>
-        <translation type="obsolete">提供的机制:</translation>
-    </message>
-</context>
-<context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
@@ -2457,7 +2444,7 @@ You can specify the version of the client and OS or to select them from the pres
     <name>CloseButton</name>
     <message>
         <source>Close Tab</source>
-        <translation type="unfinished">关闭标签</translation>
+        <translation>关闭标签</translation>
     </message>
 </context>
 <context>
@@ -3290,30 +3277,30 @@ Proceed?</source>
     <name>Crash::CrashDialog</name>
     <message>
         <source>Crash handler log</source>
-        <translation type="unfinished"></translation>
+        <translation>清除句柄日志</translation>
     </message>
 </context>
 <context>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
-        <translation type="unfinished">建立新群组</translation>
+        <translation>建立新群组</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation type="unfinished">输入新群组的名称:</translation>
-    </message>
-    <message>
-        <source>&lt;None&gt;</source>
-        <translation type="unfinished">&lt;无&gt;</translation>
-    </message>
-    <message>
-        <source>Choose parent group: </source>
-        <translation type="unfinished"></translation>
+        <translation>输入新群组的名称:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>增加</translation>
+    </message>
+    <message>
+        <source>&lt;None&gt;</source>
+        <translation>&lt;无&gt;</translation>
+    </message>
+    <message>
+        <source>Choose parent group: </source>
+        <translation>选择父群组:</translation>
     </message>
 </context>
 <context>
@@ -3712,7 +3699,7 @@ Proceed?</source>
     <name>EnumMessagesPlugin</name>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished">作者:</translation>
+        <translation>作者:</translation>
     </message>
     <message>
         <source>Missed messages: %1</source>
@@ -6174,6 +6161,10 @@ For sending commands, normal messages are used, so this plugin will always work 
         <translation type="unfinished">退出、出口</translation>
     </message>
     <message>
+        <source>Import</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Error</source>
         <translation type="unfinished">错误</translation>
     </message>
@@ -6188,10 +6179,6 @@ Continue?</source>
     </message>
     <message>
         <source>Counting records</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Import</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6843,6 +6830,10 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>ImagePreviewPlugin</name>
     <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>512 Kb</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6872,10 +6863,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>Allow upscale</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Author: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7003,26 +6990,26 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>psi/disco</source>
-        <translation type="unfinished">psi/迪斯科</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Publish</source>
-        <translation type="unfinished">发布(&amp;P)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Retrieve</source>
-        <translation type="unfinished">取回(&amp;R)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>psi/reload</source>
-        <translation type="unfinished">psi/再装</translation>
-    </message>
-    <message>
-        <source>psi/close</source>
-        <translation type="unfinished">psi/关闭</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>psi/close</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7030,23 +7017,23 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <name>InfoWidget</name>
     <message>
         <source>First Name:</source>
-        <translation type="unfinished">名:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Middle Name:</source>
-        <translation type="unfinished">中间名:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Last Name:</source>
-        <translation type="unfinished">姓:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit names</source>
-        <translation type="unfinished">编辑名字</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View names</source>
-        <translation type="unfinished">视图的名称</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open web browser</source>
@@ -7054,11 +7041,11 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     </message>
     <message>
         <source>No date</source>
-        <translation type="unfinished">没有日期</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit birthday</source>
-        <translation type="unfinished">编辑生日</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Warning</source>
@@ -7067,16 +7054,15 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation type="unfinished">你还没有发布你的账号数据变更。
-你确定要忽视它们吗?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation type="unfinished">关闭并忽视</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation type="unfinished">不要关闭</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Success</source>
@@ -7084,7 +7070,7 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation type="unfinished">你的账号数据已经发布了。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error</source>
@@ -7092,24 +7078,22 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="unfinished">无法取回你的账号数据。  可能你还没有输入东西吧。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation type="unfinished">无法检索有关此联系人的信息。
-原因:%1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation type="unfinished">无法发布您的帐户信息。
-原因:%1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Picture not
 available</source>
-        <translation type="unfinished">图片不可用</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Status</source>
@@ -7959,12 +7943,12 @@ Russia, Tambov, 2005 (denis@silversoft.net)</translation>
 <context>
     <name>MessageFilter</name>
     <message>
-        <source>e-mail: </source>
-        <translation type="unfinished">电子邮箱:</translation>
-    </message>
-    <message>
         <source>Author: </source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>e-mail: </source>
+        <translation type="unfinished">电子邮箱:</translation>
     </message>
 </context>
 <context>
@@ -11218,7 +11202,7 @@ Please enter your passphrase below:</source>
     </message>
     <message>
         <source>Battleship game</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">战舰游戏</translation>
     </message>
     <message>
         <source>Freeze ships position</source>

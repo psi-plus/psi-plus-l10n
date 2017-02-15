@@ -577,16 +577,8 @@ When you enable this option you will not be able to find your password in config
         <translation>Зберігати хеш замість текстового пароля, якщо сервер підтримує цю функцію.</translation>
     </message>
     <message>
-        <source>Disable</source>
-        <translation type="vanished">Відключити</translation>
-    </message>
-    <message>
         <source>Enable Stream Management if possible</source>
         <translation>Увімкнути Менеджмент Потоку якщо це можливо</translation>
-    </message>
-    <message>
-        <source>Nested groups delimiter: </source>
-        <translation type="vanished">Розділювач вкладених груп: </translation>
     </message>
 </context>
 <context>
@@ -2450,13 +2442,6 @@ You can preview items before deleting them from your hard drive.</source>
     </message>
 </context>
 <context>
-    <name>ClientStream</name>
-    <message>
-        <source>Offered mechanisms: </source>
-        <translation type="vanished">Пропоновані механізми: </translation>
-    </message>
-</context>
-<context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
@@ -3736,12 +3721,12 @@ Proceed?</source>
 <context>
     <name>EnumMessagesPlugin</name>
     <message>
-        <source>Missed messages: %1</source>
-        <translation>Пропущені повідомлення: %1</translation>
-    </message>
-    <message>
         <source>Authors: </source>
         <translation>Автори:</translation>
+    </message>
+    <message>
+        <source>Missed messages: %1</source>
+        <translation>Пропущені повідомлення: %1</translation>
     </message>
     <message>
         <source>Enum Messages</source>
@@ -4499,7 +4484,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Store MUC private messages in history</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберігати історію приватних повідомлень у конференціях</translation>
     </message>
 </context>
 <context>
@@ -6409,6 +6394,26 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>HttpUploadPlugin</name>
     <message>
+        <source>Upload Image</source>
+        <translation>Завантажити зображення</translation>
+    </message>
+    <message>
+        <source>Upload File</source>
+        <translation>Завантажити файл</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
+        <translation>Зображення (*.png *.gif *.jpg *.jpeg)</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Помилка</translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation>Автори:</translation>
+    </message>
+    <message>
         <source>Image preview width</source>
         <translation>Ширина зображення попереднього перегляду</translation>
     </message>
@@ -6423,14 +6428,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>JPEG quality</source>
         <translation>JPEG якість</translation>
-    </message>
-    <message>
-        <source>Upload Image</source>
-        <translation>Завантажити зображення</translation>
-    </message>
-    <message>
-        <source>Upload File</source>
-        <translation>Завантажити файл</translation>
     </message>
     <message>
         <source>Please wait</source>
@@ -6457,14 +6454,6 @@ p, li { white-space: pre-wrap; }
         <translation>Завантажити зображення</translation>
     </message>
     <message>
-        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation>Зображення (*.png *.gif *.jpg *.jpeg)</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Помилка</translation>
-    </message>
-    <message>
         <source>Error opening file %1</source>
         <translation>Помилка відкриття файлу %1</translation>
     </message>
@@ -6475,10 +6464,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>File size must be less than %1 bytes</source>
         <translation>Файл мусить бути меншим за %1 байт</translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation>Автори:</translation>
     </message>
     <message>
         <source>This plugin allows uploading images and other files via XEP-0363.</source>
@@ -6840,6 +6825,10 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
 <context>
     <name>ImagePreviewPlugin</name>
     <message>
+        <source>Author: </source>
+        <translation>Автор:</translation>
+    </message>
+    <message>
         <source>512 Kb</source>
         <translation>512 Кб</translation>
     </message>
@@ -6870,10 +6859,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
     <message>
         <source>Allow upscale</source>
         <translation>Дозволити збільшення</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation>Автор:</translation>
     </message>
     <message>
         <source>This plugin shows the preview image for an image URL.
@@ -7063,12 +7048,6 @@ Note: To work correctly, the option options.ui.chat.central-toolbar  must be set
         <translation>Попередження</translation>
     </message>
     <message>
-        <source>You have not published conference information changes.
-Are you sure you want to discard them?</source>
-        <translation>Ви не опублікували зміни інформації про конференцію.
-Ви впевнені, що хочете позбутися їх?</translation>
-    </message>
-    <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
         <translation>Ви не опублікували зміни вашого аккаунту.
@@ -7087,10 +7066,6 @@ Are you sure you want to discard them?</source>
         <translation>Успішно</translation>
     </message>
     <message>
-        <source>Your conference information has been published.</source>
-        <translation>Ваша інформація конференції була опублікована.</translation>
-    </message>
-    <message>
         <source>Your account information has been published.</source>
         <translation>Ваша інформація про аккаунт була опублікована.</translation>
     </message>
@@ -7101,12 +7076,6 @@ Are you sure you want to discard them?</source>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
         <translation>Неможливо отримати інформацію по вашому аккаунту. Можливо, ви ще нічого не вказали.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this conference.
-Reason: %1</source>
-        <translation>Неможливо отримати інформацію по цій конференції.
-Причина: %1</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
@@ -7129,6 +7098,22 @@ available</source>
     <message>
         <source>Status</source>
         <translation>Статус</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation>Ви не опублікували зміни інформації про конференцію.
+Ви впевнені, що хочете позбутися їх?</translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation>Ваша інформація конференції була опублікована.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation>Неможливо отримати інформацію по цій конференції.
+Причина: %1</translation>
     </message>
 </context>
 <context>
@@ -9872,12 +9857,8 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Ім&apos;я</translation>
     </message>
     <message>
-        <source>Conditions</source>
-        <translation>Умови</translation>
-    </message>
-    <message>
-        <source>Show message if it satisfies the rule</source>
-        <translation>Показати повідомлення, якщо воно задовольняє правилу</translation>
+        <source>Enabled</source>
+        <translation>Увімкнено</translation>
     </message>
     <message>
         <source>Color for incomming messages numbers</source>
@@ -9896,8 +9877,12 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Вимкнено</translation>
     </message>
     <message>
-        <source>Enabled</source>
-        <translation>Увімкнено</translation>
+        <source>Conditions</source>
+        <translation>Умови</translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
+        <translation>Показати повідомлення, якщо воно задовольняє правилу</translation>
     </message>
 </context>
 <context>
@@ -14982,6 +14967,22 @@ URL: %4
         <translation>Останнє статусне повідомлення</translation>
     </message>
     <message>
+        <source>Never</source>
+        <translation>Ніколи</translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation>Завжди</translation>
+    </message>
+    <message>
+        <source>This computer only</source>
+        <translation>Тільки цей комп&apos;ютер</translation>
+    </message>
+    <message>
+        <source>Except this computer</source>
+        <translation>Крім цього комп&apos;ютера</translation>
+    </message>
+    <message>
         <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
 
 Do you want to generate keys now?</source>
@@ -14998,22 +14999,6 @@ Thanks for your patience.</source>
 %2
 
 Дякуємо за терпіння.</translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation>Ніколи</translation>
-    </message>
-    <message>
-        <source>Always</source>
-        <translation>Завжди</translation>
-    </message>
-    <message>
-        <source>This computer only</source>
-        <translation>Тільки цей комп&apos;ютер</translation>
-    </message>
-    <message>
-        <source>Except this computer</source>
-        <translation>Крім цього комп&apos;ютера</translation>
     </message>
 </context>
 <context>
