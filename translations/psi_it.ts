@@ -577,16 +577,8 @@ Quando abiliti questa opzione non sarai in grado di trovare la tua password nei 
         <translation>Conserva hash invece di password in chiaro se il server supporta questa funzione.</translation>
     </message>
     <message>
-        <source>Disable</source>
-        <translation type="vanished">Disabilita</translation>
-    </message>
-    <message>
         <source>Enable Stream Management if possible</source>
         <translation>Abilita Gestore Flusso se possibile</translation>
-    </message>
-    <message>
-        <source>Nested groups delimiter: </source>
-        <translation type="vanished">Delimitatore gruppi nidificati:</translation>
     </message>
 </context>
 <context>
@@ -2445,13 +2437,6 @@ Puoi visualizzare gli elementi prima di cancellarli dal disco rigido.</translati
     </message>
 </context>
 <context>
-    <name>ClientStream</name>
-    <message>
-        <source>Offered mechanisms: </source>
-        <translation type="vanished">Meccanismi offerti:</translation>
-    </message>
-</context>
-<context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
@@ -3731,12 +3716,12 @@ Procedere?</translation>
 <context>
     <name>EnumMessagesPlugin</name>
     <message>
-        <source>Missed messages: %1</source>
-        <translation>Messaggi persi: %1</translation>
-    </message>
-    <message>
         <source>Authors: </source>
         <translation>Autori:</translation>
+    </message>
+    <message>
+        <source>Missed messages: %1</source>
+        <translation>Messaggi persi: %1</translation>
     </message>
     <message>
         <source>Enum Messages</source>
@@ -4496,7 +4481,7 @@ Importante; gran parte delle opzioni sono importanti impostazioni di sistema, qu
     </message>
     <message>
         <source>Store MUC private messages in history</source>
-        <translation type="unfinished"></translation>
+        <translation>Memorizza messaggi privati MUC nella cronologia</translation>
     </message>
 </context>
 <context>
@@ -6405,6 +6390,26 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>HttpUploadPlugin</name>
     <message>
+        <source>Upload Image</source>
+        <translation>Carica Immagini</translation>
+    </message>
+    <message>
+        <source>Upload File</source>
+        <translation>Carica File</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
+        <translation>Immagini (*.png *.gif *.jpg *.jpeg)</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>Errore</translation>
+    </message>
+    <message>
+        <source>Authors: </source>
+        <translation>Autori:</translation>
+    </message>
+    <message>
         <source>Image preview width</source>
         <translation>Larghezza anteprima immagine</translation>
     </message>
@@ -6419,14 +6424,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>JPEG quality</source>
         <translation>Qualità JPEG</translation>
-    </message>
-    <message>
-        <source>Upload Image</source>
-        <translation>Carica Immagini</translation>
-    </message>
-    <message>
-        <source>Upload File</source>
-        <translation>Carica File</translation>
     </message>
     <message>
         <source>Please wait</source>
@@ -6453,14 +6450,6 @@ p, li { white-space: pre-wrap; }
         <translation>Carica immagine</translation>
     </message>
     <message>
-        <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation>Immagini (*.png *.gif *.jpg *.jpeg)</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Errore</translation>
-    </message>
-    <message>
         <source>Error opening file %1</source>
         <translation>Errore apertura file %1</translation>
     </message>
@@ -6471,10 +6460,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>File size must be less than %1 bytes</source>
         <translation>La dimensione del file deve essere minore di %1 byte</translation>
-    </message>
-    <message>
-        <source>Authors: </source>
-        <translation>Autori:</translation>
     </message>
     <message>
         <source>This plugin allows uploading images and other files via XEP-0363.</source>
@@ -6836,6 +6821,10 @@ Nota: Per funzionare correttamente, l&apos;opzione options.ui.chat.central-toolb
 <context>
     <name>ImagePreviewPlugin</name>
     <message>
+        <source>Author: </source>
+        <translation>Autore:</translation>
+    </message>
+    <message>
         <source>512 Kb</source>
         <translation>512 Kb</translation>
     </message>
@@ -6866,10 +6855,6 @@ Nota: Per funzionare correttamente, l&apos;opzione options.ui.chat.central-toolb
     <message>
         <source>Allow upscale</source>
         <translation>Permetti upscale</translation>
-    </message>
-    <message>
-        <source>Author: </source>
-        <translation>Autore:</translation>
     </message>
     <message>
         <source>This plugin shows the preview image for an image URL.
@@ -7059,12 +7044,6 @@ Nota: Per funzionare correttamente, l&apos;opzione options.ui.chat.central-toolb
         <translation>Avviso</translation>
     </message>
     <message>
-        <source>You have not published conference information changes.
-Are you sure you want to discard them?</source>
-        <translation>Non hai pubblicato i cambiamenti alle informazioni della conferenza.
-Sei sicuro di volerle scartare?</translation>
-    </message>
-    <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
         <translation>Non hai pubblicato le modifiche delle informazioni del tuo account,
@@ -7083,10 +7062,6 @@ Sei sicuro di volerle scartare?</translation>
         <translation>Successo</translation>
     </message>
     <message>
-        <source>Your conference information has been published.</source>
-        <translation>Le informazioni della tua conferenza sono stati pubblicati.</translation>
-    </message>
-    <message>
         <source>Your account information has been published.</source>
         <translation>Le informazioni del tuo account sono state pubblicate.</translation>
     </message>
@@ -7097,12 +7072,6 @@ Sei sicuro di volerle scartare?</translation>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
         <translation>Impossibile recuperare le informazioni del tuo account. Forse non le hai ancora inserite.</translation>
-    </message>
-    <message>
-        <source>Unable to retrieve information about this conference.
-Reason: %1</source>
-        <translation>Impossibile recuperare le informazioni su questa conferenza.
-Motivo: %1</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
@@ -7125,6 +7094,22 @@ disponibile</translation>
     <message>
         <source>Status</source>
         <translation>Stato</translation>
+    </message>
+    <message>
+        <source>You have not published conference information changes.
+Are you sure you want to discard them?</source>
+        <translation>Non hai pubblicato i cambiamenti alle informazioni della conferenza.
+Sei sicuro di volerle scartare?</translation>
+    </message>
+    <message>
+        <source>Your conference information has been published.</source>
+        <translation>Le informazioni della tua conferenza sono stati pubblicati.</translation>
+    </message>
+    <message>
+        <source>Unable to retrieve information about this conference.
+Reason: %1</source>
+        <translation>Impossibile recuperare le informazioni su questa conferenza.
+Motivo: %1</translation>
     </message>
 </context>
 <context>
@@ -9869,12 +9854,8 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
         <translation>Nome</translation>
     </message>
     <message>
-        <source>Conditions</source>
-        <translation>Condizioni</translation>
-    </message>
-    <message>
-        <source>Show message if it satisfies the rule</source>
-        <translation>Mostra messaggio se soddisfa le regole</translation>
+        <source>Enabled</source>
+        <translation>Abilita</translation>
     </message>
     <message>
         <source>Color for incomming messages numbers</source>
@@ -9893,8 +9874,12 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
         <translation>Disabilitato</translation>
     </message>
     <message>
-        <source>Enabled</source>
-        <translation>Abilita</translation>
+        <source>Conditions</source>
+        <translation>Condizioni</translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
+        <translation>Mostra messaggio se soddisfa le regole</translation>
     </message>
 </context>
 <context>
@@ -14975,6 +14960,22 @@ Password: %5</translation>
         <translation>Ultimo Messaggio di Stato</translation>
     </message>
     <message>
+        <source>Never</source>
+        <translation>Mai</translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation>Sempre</translation>
+    </message>
+    <message>
+        <source>This computer only</source>
+        <translation>Solo questo computer</translation>
+    </message>
+    <message>
+        <source>Except this computer</source>
+        <translation>Eccetto questo computer</translation>
+    </message>
+    <message>
         <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
 
 Do you want to generate keys now?</source>
@@ -14990,22 +14991,6 @@ Thanks for your patience.</source>
         <translation>Le chiavi sono state generate. Impronte digitali per account %1
 %2
 Grazie per la tua pazienza.</translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation>Mai</translation>
-    </message>
-    <message>
-        <source>Always</source>
-        <translation>Sempre</translation>
-    </message>
-    <message>
-        <source>This computer only</source>
-        <translation>Solo questo computer</translation>
-    </message>
-    <message>
-        <source>Except this computer</source>
-        <translation>Eccetto questo computer</translation>
     </message>
 </context>
 <context>
