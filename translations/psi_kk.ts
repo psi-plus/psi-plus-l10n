@@ -4823,7 +4823,11 @@ Reason: %3</source>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
-        <translation>Суреттер (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
+        <translation type="vanished">Суреттер (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9911,6 +9915,29 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
 </context>
 <context>
+    <name>OptionsTabAppearanceTheme</name>
+    <message>
+        <source>Psi Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adium Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show theme screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabAppearanceThemes</name>
     <message>
         <source>Themes</source>
@@ -12756,11 +12783,11 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Choose an image</source>
-        <translation>Суретті таңдаңыз</translation>
+        <translation type="vanished">Суретті таңдаңыз</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation>Барлық файлдар (*.png *.jpg *.gif)</translation>
+        <translation type="vanished">Барлық файлдар (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -13273,13 +13300,6 @@ Would you like to activate that session now?</source>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PsiThemeViewDelegate</name>
-    <message>
-        <source>No Image</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14799,6 +14819,10 @@ The OTR Plugin will not work.</source>
     <message>
         <source>Last Status Message</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 is now known as %2</source>
+        <translation type="unfinished">%1 енді %2 ретінде белгілі</translation>
     </message>
 </context>
 <context>

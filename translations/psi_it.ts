@@ -4885,7 +4885,11 @@ Motivo: %3</translation>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
-        <translation>Immagini (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
+        <translation type="vanished">Immagini (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10058,6 +10062,29 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     </message>
 </context>
 <context>
+    <name>OptionsTabAppearanceTheme</name>
+    <message>
+        <source>Psi Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adium Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show theme screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Image</source>
+        <translation type="unfinished">Nessuna Immagine</translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabAppearanceThemes</name>
     <message>
         <source>Themes</source>
@@ -12918,11 +12945,11 @@ Ciò può voler dire che stai già eseguendo un altra istanza di Psi. Potresti s
     </message>
     <message>
         <source>Choose an image</source>
-        <translation>Scegli un immagine</translation>
+        <translation type="vanished">Scegli un immagine</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation>Tutti i file (*.png *.jpg *.gif)</translation>
+        <translation type="vanished">Tutti i file (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -13448,7 +13475,7 @@ Procedere?</translation>
     <name>PsiThemeViewDelegate</name>
     <message>
         <source>No Image</source>
-        <translation>Nessuna Immagine</translation>
+        <translation type="vanished">Nessuna Immagine</translation>
     </message>
 </context>
 <context>
@@ -14991,6 +15018,10 @@ Thanks for your patience.</source>
         <translation>Le chiavi sono state generate. Impronte digitali per account %1
 %2
 Grazie per la tua pazienza.</translation>
+    </message>
+    <message>
+        <source>%1 is now known as %2</source>
+        <translation type="unfinished">%1 è adesso noto come %2</translation>
     </message>
 </context>
 <context>

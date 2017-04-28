@@ -4892,7 +4892,11 @@ Reason: %3</source>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
-        <translation>Выявы (*.png, *.xpm, *.jpg, *.jpeg, *.PNG, *.XPM, *.JPG, *.JPEG)</translation>
+        <translation type="vanished">Выявы (*.png, *.xpm, *.jpg, *.jpeg, *.PNG, *.XPM, *.JPG, *.JPEG)</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10053,6 +10057,29 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
 </context>
 <context>
+    <name>OptionsTabAppearanceTheme</name>
+    <message>
+        <source>Psi Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adium Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show theme screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Image</source>
+        <translation type="unfinished">Няма выявы</translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabAppearanceThemes</name>
     <message>
         <source>Themes</source>
@@ -12910,11 +12937,11 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Choose an image</source>
-        <translation>Абярыце выяву</translation>
+        <translation type="vanished">Абярыце выяву</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation>Усе файлы (*.png *.jpg *.gif)</translation>
+        <translation type="vanished">Усе файлы (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -13440,7 +13467,7 @@ Proceed?</source>
     <name>PsiThemeViewDelegate</name>
     <message>
         <source>No Image</source>
-        <translation>Няма выявы</translation>
+        <translation type="vanished">Няма выявы</translation>
     </message>
 </context>
 <context>
@@ -14983,6 +15010,10 @@ Thanks for your patience.</source>
     <message>
         <source>Incoming call</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 is now known as %2</source>
+        <translation type="unfinished">%1 цяпер %2</translation>
     </message>
 </context>
 <context>

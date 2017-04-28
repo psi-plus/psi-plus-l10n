@@ -4828,7 +4828,7 @@ Orsak: %3</translation>
         <translation>Välj en fil</translation>
     </message>
     <message>
-        <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
+        <source>Images (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9932,6 +9932,29 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
 </context>
 <context>
+    <name>OptionsTabAppearanceTheme</name>
+    <message>
+        <source>Psi Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adium Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show theme screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabAppearanceThemes</name>
     <message>
         <source>Themes</source>
@@ -12788,11 +12811,11 @@ Detta kan betyda att du redan kör en annan instans av Psi. Du kan ha problem at
     </message>
     <message>
         <source>Choose an image</source>
-        <translation>Välj en bild</translation>
+        <translation type="vanished">Välj en bild</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation>Alla filer (*.png *.jpg *.gif)</translation>
+        <translation type="vanished">Alla filer (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -13312,13 +13335,6 @@ Fortsätt?</translation>
     <message>
         <source>&amp;No</source>
         <translation type="unfinished">&amp;Nej</translation>
-    </message>
-</context>
-<context>
-    <name>PsiThemeViewDelegate</name>
-    <message>
-        <source>No Image</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14837,6 +14853,10 @@ The OTR Plugin will not work.</source>
     <message>
         <source>Time</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 is now known as %2</source>
+        <translation type="unfinished">%1 är nu känd som %2</translation>
     </message>
 </context>
 <context>

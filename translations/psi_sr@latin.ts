@@ -4856,7 +4856,11 @@ Razlog: %3</translation>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
-        <translation>Slike (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
+        <translation type="vanished">Slike (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10001,6 +10005,29 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
 </context>
 <context>
+    <name>OptionsTabAppearanceTheme</name>
+    <message>
+        <source>Psi Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adium Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show theme screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Image</source>
+        <translation type="unfinished">Bez slike</translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabAppearanceThemes</name>
     <message>
         <source>Themes</source>
@@ -12852,11 +12879,11 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Choose an image</source>
-        <translation>Izaberi sliku</translation>
+        <translation type="vanished">Izaberi sliku</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation>Svi fajlovi(*.png *.jpg *.gif)</translation>
+        <translation type="vanished">Svi fajlovi(*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -13379,7 +13406,7 @@ Da nastavim?</translation>
     <name>PsiThemeViewDelegate</name>
     <message>
         <source>No Image</source>
-        <translation>Bez slike</translation>
+        <translation type="vanished">Bez slike</translation>
     </message>
 </context>
 <context>
@@ -14913,6 +14940,10 @@ The OTR Plugin will not work.</source>
     </message>
     <message>
         <source>Automatically go offline when idle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 is now known as %2</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

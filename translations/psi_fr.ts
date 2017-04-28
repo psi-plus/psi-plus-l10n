@@ -4872,7 +4872,11 @@ Raison: %3</translation>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
-        <translation>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
+        <translation type="vanished">Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9977,6 +9981,29 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
 </context>
 <context>
+    <name>OptionsTabAppearanceTheme</name>
+    <message>
+        <source>Psi Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adium Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show theme screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabAppearanceThemes</name>
     <message>
         <source>Themes</source>
@@ -12830,11 +12857,11 @@ Cela signifie que vous avez une autre instance de Psi déja lancée. Vous risque
     </message>
     <message>
         <source>Choose an image</source>
-        <translation>Choisir une image</translation>
+        <translation type="vanished">Choisir une image</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation>Tous les fichiers (*.png *.jpg *.gif)</translation>
+        <translation type="vanished">Tous les fichiers (*.png *.jpg *.gif)</translation>
     </message>
     <message>
         <source>Hidden</source>
@@ -13356,13 +13383,6 @@ Continuer ?</translation>
     <message>
         <source>&amp;No</source>
         <translation>&amp;Non</translation>
-    </message>
-</context>
-<context>
-    <name>PsiThemeViewDelegate</name>
-    <message>
-        <source>No Image</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14881,6 +14901,10 @@ The OTR Plugin will not work.</source>
     <message>
         <source>Time</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 is now known as %2</source>
+        <translation type="unfinished">%1 est désormais connu(e) en tant que %2</translation>
     </message>
 </context>
 <context>

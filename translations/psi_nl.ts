@@ -4823,7 +4823,7 @@ Reden: %3</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
+        <source>Images (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9916,6 +9916,29 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
 </context>
 <context>
+    <name>OptionsTabAppearanceTheme</name>
+    <message>
+        <source>Psi Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adium Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show theme screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabAppearanceThemes</name>
     <message>
         <source>Themes</source>
@@ -12763,11 +12786,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="unfinished">Alle bestanden (*.png *.jpg *.gif)</translation>
-    </message>
-    <message>
-        <source>Choose an image</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Alle bestanden (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -13282,13 +13301,6 @@ Doorgaan?</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PsiThemeViewDelegate</name>
-    <message>
-        <source>No Image</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14807,6 +14819,10 @@ The OTR Plugin will not work.</source>
     </message>
     <message>
         <source>Affiliation: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 is now known as %2</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

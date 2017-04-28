@@ -4896,7 +4896,11 @@ Zdůvodnění: %3</translation>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
-        <translation>Obrázky (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
+        <translation type="vanished">Obrázky (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10046,6 +10050,29 @@ zprávy v chatu víde lidí)</translation>
     </message>
 </context>
 <context>
+    <name>OptionsTabAppearanceTheme</name>
+    <message>
+        <source>Psi Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adium Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show theme screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Image</source>
+        <translation type="unfinished">Žádný obrázek</translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabAppearanceThemes</name>
     <message>
         <source>Themes</source>
@@ -12904,11 +12931,11 @@ To možná znamená, že je již puštěna jiná instance Psi. To může způsob
     </message>
     <message>
         <source>Choose an image</source>
-        <translation>Vyber obrázek</translation>
+        <translation type="vanished">Vyber obrázek</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation>Všechny soubory (*.png *.jpg *.gif)</translation>
+        <translation type="vanished">Všechny soubory (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -13434,7 +13461,7 @@ Pokračovat?</translation>
     <name>PsiThemeViewDelegate</name>
     <message>
         <source>No Image</source>
-        <translation>Žádný obrázek</translation>
+        <translation type="vanished">Žádný obrázek</translation>
     </message>
 </context>
 <context>
@@ -14982,6 +15009,10 @@ Děkujeme za trpělivost.</translation>
     <message>
         <source>Presence-Out,</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 is now known as %2</source>
+        <translation type="unfinished">%1 je nyní znám jako %2</translation>
     </message>
 </context>
 <context>

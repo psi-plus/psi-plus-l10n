@@ -4836,7 +4836,7 @@ Lý do : %3</translation>
         <translation>Chọn tập tin</translation>
     </message>
     <message>
-        <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
+        <source>Images (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9937,6 +9937,29 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
 </context>
 <context>
+    <name>OptionsTabAppearanceTheme</name>
+    <message>
+        <source>Psi Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adium Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show theme screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabAppearanceThemes</name>
     <message>
         <source>Themes</source>
@@ -12794,11 +12817,11 @@ Có lẽ do tiến trinh Psi khác cũng đang chạy. Trong trường hợp đ�
     </message>
     <message>
         <source>Choose an image</source>
-        <translation>Chọn một ảnh</translation>
+        <translation type="vanished">Chọn một ảnh</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation>Mọi tập tin (*.png *.jpg *.gif)</translation>
+        <translation type="vanished">Mọi tập tin (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -13319,13 +13342,6 @@ Tiếp tục ?</translation>
     <message>
         <source>&amp;No</source>
         <translation>&amp;Không</translation>
-    </message>
-</context>
-<context>
-    <name>PsiThemeViewDelegate</name>
-    <message>
-        <source>No Image</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14840,6 +14856,10 @@ The OTR Plugin will not work.</source>
     <message>
         <source>Time</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 is now known as %2</source>
+        <translation type="unfinished">%1 giờ được gọi là %2</translation>
     </message>
 </context>
 <context>

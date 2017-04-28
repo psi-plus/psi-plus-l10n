@@ -4911,7 +4911,11 @@ Grund: %3</translation>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
-        <translation>Bilder (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
+        <translation type="vanished">Bilder (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10057,6 +10061,29 @@ Aktiviere die &quot;Nachrichtenarchivierung&quot;-Option zur Verwendung!</transl
     </message>
 </context>
 <context>
+    <name>OptionsTabAppearanceTheme</name>
+    <message>
+        <source>Psi Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adium Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show theme screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Image</source>
+        <translation type="unfinished">Kein Bild</translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabAppearanceThemes</name>
     <message>
         <source>Themes</source>
@@ -12918,11 +12945,11 @@ Das bedeutet wahrscheinlich, dass bereits eine andere Instanz von Psi läuft. Es
     </message>
     <message>
         <source>Choose an image</source>
-        <translation>Wählen Sie ein Bild</translation>
+        <translation type="vanished">Wählen Sie ein Bild</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation>Alle Dateien (*.png *.jpg *.gif)</translation>
+        <translation type="vanished">Alle Dateien (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -13448,7 +13475,7 @@ Fortfahren?</translation>
     <name>PsiThemeViewDelegate</name>
     <message>
         <source>No Image</source>
-        <translation>Kein Bild</translation>
+        <translation type="vanished">Kein Bild</translation>
     </message>
 </context>
 <context>
@@ -14992,6 +15019,10 @@ Vielen Dank für Ihre Geduld.</translation>
     <message>
         <source>Except this computer</source>
         <translation>Außer an diesem Computer</translation>
+    </message>
+    <message>
+        <source>%1 is now known as %2</source>
+        <translation type="unfinished">%1 heißt jetzt %2</translation>
     </message>
 </context>
 <context>

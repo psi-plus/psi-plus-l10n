@@ -4899,7 +4899,11 @@ Oka: %3</translation>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
-        <translation>Képek (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
+        <translation type="vanished">Képek (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10069,6 +10073,29 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
     </message>
 </context>
 <context>
+    <name>OptionsTabAppearanceTheme</name>
+    <message>
+        <source>Psi Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adium Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show theme screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Image</source>
+        <translation type="unfinished">Nincs kép</translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabAppearanceThemes</name>
     <message>
         <source>Themes</source>
@@ -12929,11 +12956,11 @@ Lehetséges, hogy már fut egy másik példány a Psi-ből, vagy ez a port már 
     </message>
     <message>
         <source>Choose an image</source>
-        <translation>Válassz egy képet</translation>
+        <translation type="vanished">Válassz egy képet</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation>Minden fájl (*.png *.jpg *.gif)</translation>
+        <translation type="vanished">Minden fájl (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -13459,7 +13486,7 @@ Folytatod?</translation>
     <name>PsiThemeViewDelegate</name>
     <message>
         <source>No Image</source>
-        <translation>Nincs kép</translation>
+        <translation type="vanished">Nincs kép</translation>
     </message>
 </context>
 <context>
@@ -14999,6 +15026,10 @@ Türelmét köszönjük.</translation>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
+    </message>
+    <message>
+        <source>%1 is now known as %2</source>
+        <translation type="unfinished">%1 jelenleg %2</translation>
     </message>
 </context>
 <context>

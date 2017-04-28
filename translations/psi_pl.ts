@@ -4870,7 +4870,11 @@ Przyczyna: %3</translation>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
-        <translation>Obrazy (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
+        <translation type="vanished">Obrazy (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9994,6 +9998,29 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
 </context>
 <context>
+    <name>OptionsTabAppearanceTheme</name>
+    <message>
+        <source>Psi Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adium Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show theme screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabAppearanceThemes</name>
     <message>
         <source>Themes</source>
@@ -12847,11 +12874,11 @@ Może to oznaczać, że masz już uruchomioną inną kopię Psi. Może to powodo
     </message>
     <message>
         <source>Choose an image</source>
-        <translation>Wybierz obraz awatara</translation>
+        <translation type="vanished">Wybierz obraz awatara</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation>Pliki graficzne (*.png *.jpg *.gif)</translation>
+        <translation type="vanished">Pliki graficzne (*.png *.jpg *.gif)</translation>
     </message>
     <message>
         <source>Hidden</source>
@@ -13375,13 +13402,6 @@ Kontynuować?</translation>
     <message>
         <source>&amp;No</source>
         <translation>&amp;Nie</translation>
-    </message>
-</context>
-<context>
-    <name>PsiThemeViewDelegate</name>
-    <message>
-        <source>No Image</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14904,6 +14924,10 @@ The OTR Plugin will not work.</source>
     <message>
         <source>Time</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 is now known as %2</source>
+        <translation type="unfinished">%1 jest teraz znany jako %2</translation>
     </message>
 </context>
 <context>

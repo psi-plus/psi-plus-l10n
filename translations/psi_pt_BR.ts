@@ -4893,7 +4893,11 @@ Motivo: %3</translation>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
-        <translation>Imagens (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
+        <translation type="vanished">Imagens (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
+    </message>
+    <message>
+        <source>Images (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10061,6 +10065,29 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
 </context>
 <context>
+    <name>OptionsTabAppearanceTheme</name>
+    <message>
+        <source>Psi Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adium Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show theme screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 Screenshot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Image</source>
+        <translation type="unfinished">Nenhuma Imagemk</translation>
+    </message>
+</context>
+<context>
     <name>OptionsTabAppearanceThemes</name>
     <message>
         <source>Themes</source>
@@ -12918,11 +12945,11 @@ Isso pode significar que você já está rodando outra instância do Psi. Você 
     </message>
     <message>
         <source>Choose an image</source>
-        <translation>Escolha uma imagem</translation>
+        <translation type="vanished">Escolha uma imagem</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation>Todos os arquivos (*.png *.jpg *.gif)</translation>
+        <translation type="vanished">Todos os arquivos (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -13448,7 +13475,7 @@ Proceder?</translation>
     <name>PsiThemeViewDelegate</name>
     <message>
         <source>No Image</source>
-        <translation>Nenhuma Imagemk</translation>
+        <translation type="vanished">Nenhuma Imagemk</translation>
     </message>
 </context>
 <context>
@@ -14992,6 +15019,10 @@ Obrigado pela sua paciência.</translation>
     <message>
         <source>Except this computer</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 is now known as %2</source>
+        <translation type="unfinished">%1 agora é conhecido por %2</translation>
     </message>
 </context>
 <context>
