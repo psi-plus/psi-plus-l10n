@@ -4895,7 +4895,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</source>
-        <translation type="unfinished"></translation>
+        <translation>Зображення (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</translation>
     </message>
 </context>
 <context>
@@ -10068,23 +10068,23 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <name>OptionsTabAppearanceTheme</name>
     <message>
         <source>Psi Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Тема Psi</translation>
     </message>
     <message>
         <source>Adium Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Тема Adium</translation>
     </message>
     <message>
         <source>Show theme screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати скріншот теми</translation>
     </message>
     <message>
         <source>%1 Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Скріншот %1</translation>
     </message>
     <message>
         <source>No Image</source>
-        <translation type="unfinished">Немає зображення</translation>
+        <translation>Немає зображення</translation>
     </message>
 </context>
 <context>
@@ -15029,7 +15029,7 @@ Thanks for your patience.</source>
     </message>
     <message>
         <source>%1 is now known as %2</source>
-        <translation type="unfinished">%1 тепер відомий як %2</translation>
+        <translation>%1 відтепер відомий як %2</translation>
     </message>
 </context>
 <context>
