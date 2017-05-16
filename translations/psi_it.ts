@@ -4889,7 +4889,7 @@ Motivo: %3</translation>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</source>
-        <translation type="unfinished"></translation>
+        <translation>Immagini (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</translation>
     </message>
 </context>
 <context>
@@ -10065,23 +10065,23 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     <name>OptionsTabAppearanceTheme</name>
     <message>
         <source>Psi Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema Psi</translation>
     </message>
     <message>
         <source>Adium Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema Adium</translation>
     </message>
     <message>
         <source>Show theme screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra screenshot tema</translation>
     </message>
     <message>
         <source>%1 Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Screenshot</translation>
     </message>
     <message>
         <source>No Image</source>
-        <translation type="unfinished">Nessuna Immagine</translation>
+        <translation>No immagine</translation>
     </message>
 </context>
 <context>
@@ -15021,7 +15021,7 @@ Grazie per la tua pazienza.</translation>
     </message>
     <message>
         <source>%1 is now known as %2</source>
-        <translation type="unfinished">%1 è adesso noto come %2</translation>
+        <translation>%1 è ora conosciuto come %2</translation>
     </message>
 </context>
 <context>
