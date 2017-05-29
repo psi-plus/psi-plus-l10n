@@ -53,15 +53,6 @@
         <translation>psi/psiplus_logo</translation>
     </message>
     <message>
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2014 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="vanished">Кросс-платформенный XMPP клиент для продвинутых пользователей.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2014 The Psi Team.&lt;br&gt;</translation>
-    </message>
-    <message>
         <source>http://psi-im.org</source>
         <translation>http://psi-im.org</translation>
     </message>
@@ -227,24 +218,24 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
-        <translation>Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@mail.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода: &lt;a href=&quot;https://www.transifex.com/tehnick/psi-plus/&quot;&gt;Transifex&lt;/a&gt;, &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;, &lt;a href=&quot;https://sourceforge.net/projects/psiplus/files/Translations/&quot;&gt;Sourceforge&lt;/a&gt;.&lt;br&gt;Дата текущего перевода: 17.05.2017</translation>
+        <translation>Борис Пек&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;tehnick-8@mail.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Тюменцев&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ivan101@users.sourceforge.net&quot;&gt;ivan101@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Переводчик&lt;br&gt;&lt;br&gt;Иван Романов&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:drizt@land.ru&quot;&gt;drizt@land.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Вадим Мисбах-Соловьёв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:i.am@mva.name&quot;&gt;i.am@mva.name&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Михаил Пищагин&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:mblsha@users.sourceforge.net&quot;&gt;mblsha@users.sourceforge.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Антон Фарыгин (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:rider@altlinux.com&quot;&gt;rider@altlinux.com&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Андрей Черепанов (ALT Linux) &lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cas@altlinux.ru&quot;&gt;cas@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение и вычистка перевода&lt;br&gt;&lt;br&gt;Валентина Ванеева (ALT Linux Team)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:org@altlinux.ru&quot;&gt;org@altlinux.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Дополнение перевода&lt;br&gt;&lt;br&gt;Константин Исаков при содействии подписчиков списка рассылки &lt;a href=&quot;mailto:jabber-users@jabber.ru&quot;&gt;jabber-users@jabber.ru&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ikm@users.sf.net&quot;&gt;ikm@users.sf.net&lt;/a&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;Оригинальный перевод&lt;br&gt;&lt;br&gt;Присоединяйтесь к команде перевода! Подробности в конференции &lt;a href=&quot;xmpp:psi-dev@conference.jabber.ru?join&quot;&gt;psi-dev@conference.jabber.ru&lt;/a&gt;&lt;br&gt;&lt;br&gt;Актуальная версия перевода: &lt;a href=&quot;https://www.transifex.com/tehnick/psi-plus/&quot;&gt;Transifex&lt;/a&gt;, &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;GitHub&lt;/a&gt;, &lt;a href=&quot;https://sourceforge.net/projects/psiplus/files/Translations/&quot;&gt;Sourceforge&lt;/a&gt;.&lt;br&gt;Дата текущего перевода: 13.02.2017</translation>
     </message>
     <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="unfinished">Кросс-платформенный XMPP клиент для продвинутых пользователей.&lt;br&gt;
+        <translation>Кросс-платформенный XMPP клиент для продвинутых пользователей.&lt;br&gt;
 &lt;br&gt;
-Copyright © 2001-2014 The Psi Team.&lt;br&gt; {2001-2017 ?}</translation>
+Copyright © 2001-2017 The Psi Team.&lt;br&gt; {2001-2017 ?}</translation>
     </message>
     <message>
         <source>Original Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Оригинальный разработчик</translation>
     </message>
     <message>
         <source>Lead Developer and Current Maintainer</source>
-        <translation type="unfinished"></translation>
+        <translation>Ведущий разработчик и сопровождающий</translation>
     </message>
 </context>
 <context>
@@ -2625,19 +2616,19 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <name>ContactListDragView</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation type="unfinished">Это действие безвозвратно удалит&lt;br&gt;%1&lt;br&gt;из Вашего списка контактов.</translation>
+        <translation>Это действие безвозвратно удалит&lt;br&gt;%1&lt;br&gt;из Вашего списка контактов.</translation>
     </message>
     <message>
         <source>Deleting contacts</source>
-        <translation type="unfinished">Удаление контактов</translation>
+        <translation>Удаление контактов</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Удалить</translation>
+        <translation>Удалить</translation>
     </message>
 </context>
 <context>
@@ -2706,7 +2697,8 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="unfinished">Это приведёт к тому, что все контакты этой группы потеряют связь с ней.
+        <translation>Это приведёт к тому, что все контакты этой группы потеряют связь с ней.
+
 Продолжить?</translation>
     </message>
 </context>
@@ -2714,15 +2706,15 @@ Proceed?</source>
     <name>ContactListItem</name>
     <message>
         <source>Agents/Transports</source>
-        <translation type="unfinished">Сервисы</translation>
+        <translation>Сервисы</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished">Личные сообщения</translation>
+        <translation>Личные сообщения</translation>
     </message>
     <message>
         <source>Conferences</source>
-        <translation type="unfinished">Конференции</translation>
+        <translation>Конференции</translation>
     </message>
 </context>
 <context>
@@ -2834,7 +2826,7 @@ Proceed?</source>
     <name>ContactListViewDelegate::Private</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation>%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -6144,23 +6136,23 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>HistoryContactListModel</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Общее</translation>
     </message>
     <message>
         <source>Not in list</source>
-        <translation type="unfinished">Не в списке</translation>
+        <translation>Не в списке</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished">Личные сообщения</translation>
+        <translation>Личные сообщения</translation>
     </message>
     <message>
         <source>All contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Все контакты</translation>
     </message>
     <message>
         <source>deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>удаленные</translation>
     </message>
 </context>
 <context>
@@ -6259,7 +6251,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>All contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Все контакты</translation>
     </message>
 </context>
 <context>
@@ -13282,24 +13274,20 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation>Активные чаты</translation>
     </message>
     <message>
-        <source>Manage &amp;Contact</source>
-        <translation type="vanished">Менеджер контактов</translation>
-    </message>
-    <message>
         <source>&amp;Authorization</source>
         <translation>Авторизация</translation>
     </message>
     <message>
         <source>Copy User JID</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать JID</translation>
     </message>
     <message>
         <source>Copy Groupchat JID</source>
-        <translation type="unfinished">Копировать JID конференции</translation>
+        <translation>Копировать JID конференции</translation>
     </message>
     <message>
         <source>Advanc&amp;ed</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка</translation>
     </message>
 </context>
 <context>
@@ -13575,26 +13563,26 @@ Proceed?</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Очистить</translation>
+        <translation>Очистить</translation>
     </message>
 </context>
 <context>
     <name>PsiThemeModel</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Версия</translation>
+        <translation>Версия</translation>
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished">Авторы</translation>
+        <translation>Авторы</translation>
     </message>
     <message>
         <source>Released on</source>
-        <translation type="unfinished"></translation>
+        <translation>Выпущен</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Домой</translation>
     </message>
 </context>
 <context>
