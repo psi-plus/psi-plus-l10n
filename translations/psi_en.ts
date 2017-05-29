@@ -57,7 +57,7 @@
 &lt;br&gt;
 Copyright © 2001-2014 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="unfinished">A cross-platform XMPP client designed for the power user.&lt;br&gt;
+        <translation type="obsolete">A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2013 The Psi Team.&lt;br&gt;
  {2001-2014 ?}</translation>
@@ -92,7 +92,7 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Current Maintainer and Original Author</source>
-        <translation>Current Maintainer and Original Author</translation>
+        <translation type="vanished">Current Maintainer and Original Author</translation>
     </message>
     <message>
         <source>Past Lead Developer and Maintainer</source>
@@ -237,6 +237,24 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</translation>
+    </message>
+    <message>
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2017 The Psi Team.&lt;br&gt;
+</source>
+        <translation type="unfinished">A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2013 The Psi Team.&lt;br&gt;
+ {2001-2014 ?} {2001-2017 ?}</translation>
+    </message>
+    <message>
+        <source>Original Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lead Developer and Current Maintainer</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2615,6 +2633,25 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</translation
     </message>
 </context>
 <context>
+    <name>ContactListDragView</name>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished">%1 (%2)</translation>
+    </message>
+    <message>
+        <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
+        <translation type="unfinished">This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</translation>
+    </message>
+    <message>
+        <source>Deleting contacts</source>
+        <translation type="unfinished">Deleting contacts</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished">Delete</translation>
+    </message>
+</context>
+<context>
     <name>ContactListGroupMenu::Private</name>
     <message>
         <source>Re&amp;name</source>
@@ -2642,7 +2679,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</translation
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>&amp;Remove</translation>
+        <translation type="vanished">&amp;Remove</translation>
     </message>
     <message>
         <source>Remove Group</source>
@@ -2654,7 +2691,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</translation
     </message>
     <message>
         <source>&amp;Add group...</source>
-        <translation>&amp;Add group...</translation>
+        <translation type="vanished">&amp;Add group...</translation>
     </message>
     <message>
         <source>Hide All</source>
@@ -2676,108 +2713,138 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</translation
         <source>Authorization</source>
         <translation>Authorization</translation>
     </message>
+    <message>
+        <source>This will cause all contacts in this group to be disassociated with it.
+
+Proceed?</source>
+        <translation type="unfinished">This will cause all contacts in this group to be disassociated with it.
+
+Proceed?</translation>
+    </message>
+</context>
+<context>
+    <name>ContactListItem</name>
+    <message>
+        <source>Agents/Transports</source>
+        <translation type="unfinished">Agents/Transports</translation>
+    </message>
+    <message>
+        <source>Private messages</source>
+        <translation type="unfinished">Private messages</translation>
+    </message>
+    <message>
+        <source>Conferences</source>
+        <translation type="unfinished">Conferences</translation>
+    </message>
 </context>
 <context>
     <name>ContactListModel</name>
     <message>
         <source>Error</source>
-        <translation>Error</translation>
+        <translation type="vanished">Error</translation>
     </message>
     <message>
         <source>You can&apos;t set a blank group name.</source>
-        <translation>You can&apos;t set a blank group name.</translation>
+        <translation type="vanished">You can&apos;t set a blank group name.</translation>
     </message>
 </context>
 <context>
     <name>ContactListSpecialGroup</name>
     <message>
         <source>General</source>
-        <translation>General</translation>
+        <translation type="vanished">General</translation>
     </message>
     <message>
         <source>Not in List</source>
-        <translation>Not in List</translation>
+        <translation type="vanished">Not in List</translation>
     </message>
     <message>
         <source>Agents/Transports</source>
-        <translation>Agents/Transports</translation>
+        <translation type="vanished">Agents/Transports</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation>Private messages</translation>
+        <translation type="vanished">Private messages</translation>
     </message>
     <message>
         <source>Conferences</source>
-        <translation>Conferences</translation>
+        <translation type="vanished">Conferences</translation>
     </message>
 </context>
 <context>
     <name>ContactListUtil</name>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</translation>
+        <translation type="vanished">This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</translation>
     </message>
     <message numerus="yes">
         <source>and %n contacts </source>
-        <translation>
+        <translation type="vanished">
             <numerusform>and %n contacts </numerusform>
             <numerusform>and %n contacts </numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</numerusform>
             <numerusform>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</numerusform>
         </translation>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
-        <translation>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</translation>
+        <translation type="vanished">This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</translation>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2from your contact list.</source>
-        <translation>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2from your contact list.</translation>
+        <translation type="vanished">This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2from your contact list.</translation>
     </message>
     <message>
         <source>This is a system group and can&apos;t be removed. Permanently remove all its contacts from your contact list?</source>
-        <translation>This is a system group and can&apos;t be removed. Permanently remove all its contacts from your contact list?</translation>
+        <translation type="vanished">This is a system group and can&apos;t be removed. Permanently remove all its contacts from your contact list?</translation>
     </message>
     <message>
         <source>Clear Group</source>
-        <translation>Clear Group</translation>
+        <translation type="vanished">Clear Group</translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;group and all its contacts from your contact list.</source>
-        <translation>This will permanently remove&lt;br&gt;%1&lt;br&gt;group and all its contacts from your contact list.</translation>
+        <translation type="vanished">This will permanently remove&lt;br&gt;%1&lt;br&gt;group and all its contacts from your contact list.</translation>
     </message>
     <message>
         <source>This will permanently remove %1 from your contact list. You could block it in order to avoid further messages.</source>
-        <translation>This will permanently remove %1 from your contact list. You could block it in order to avoid further messages.</translation>
+        <translation type="vanished">This will permanently remove %1 from your contact list. You could block it in order to avoid further messages.</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Delete</translation>
+        <translation type="vanished">Delete</translation>
     </message>
     <message>
         <source>Block</source>
-        <translation>Block</translation>
+        <translation type="vanished">Block</translation>
     </message>
     <message>
         <source>This will remove %1 from &quot;%2&quot; group. You could also remove it from all groups.</source>
-        <translation>This will remove %1 from &quot;%2&quot; group. You could also remove it from all groups.</translation>
+        <translation type="vanished">This will remove %1 from &quot;%2&quot; group. You could also remove it from all groups.</translation>
     </message>
     <message>
         <source>Delete From All Groups</source>
-        <translation>Delete From All Groups</translation>
+        <translation type="vanished">Delete From All Groups</translation>
     </message>
     <message>
         <source>Deleting contacts</source>
-        <translation>Deleting contacts</translation>
+        <translation type="vanished">Deleting contacts</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
+    </message>
+</context>
+<context>
+    <name>ContactListViewDelegate::Private</name>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -2949,7 +3016,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</translation
     </message>
     <message>
         <source>Not in list</source>
-        <translation>Not in list</translation>
+        <translation type="vanished">Not in list</translation>
     </message>
     <message>
         <source>Agents/Transports</source>
@@ -2957,330 +3024,330 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</translation
     </message>
     <message>
         <source>Private Messages</source>
-        <translation>Private Messages</translation>
+        <translation type="vanished">Private Messages</translation>
     </message>
     <message>
         <source>Online Users</source>
-        <translation>Online Users</translation>
+        <translation type="vanished">Online Users</translation>
     </message>
     <message>
         <source>Send Server Message</source>
-        <translation>Send Server Message</translation>
+        <translation type="vanished">Send Server Message</translation>
     </message>
     <message>
         <source>Set MOTD</source>
-        <translation>Set MOTD</translation>
+        <translation type="vanished">Set MOTD</translation>
     </message>
     <message>
         <source>Update MOTD</source>
-        <translation>Update MOTD</translation>
+        <translation type="vanished">Update MOTD</translation>
     </message>
     <message>
         <source>Delete MOTD</source>
-        <translation>Delete MOTD</translation>
+        <translation type="vanished">Delete MOTD</translation>
     </message>
     <message>
         <source>&amp;Status</source>
-        <translation>&amp;Status</translation>
+        <translation type="vanished">&amp;Status</translation>
     </message>
     <message>
         <source>Mood</source>
-        <translation>Mood</translation>
+        <translation type="vanished">Mood</translation>
     </message>
     <message>
         <source>Activity</source>
-        <translation>Activity</translation>
+        <translation type="vanished">Activity</translation>
     </message>
     <message>
         <source>Set Avatar</source>
-        <translation>Set Avatar</translation>
+        <translation type="vanished">Set Avatar</translation>
     </message>
     <message>
         <source>Unset Avatar</source>
-        <translation>Unset Avatar</translation>
+        <translation type="vanished">Unset Avatar</translation>
     </message>
     <message>
         <source>Avatar</source>
-        <translation>Avatar</translation>
+        <translation type="vanished">Avatar</translation>
     </message>
     <message>
         <source>Manage...</source>
-        <translation>Manage...</translation>
+        <translation type="vanished">Manage...</translation>
     </message>
     <message>
         <source>Join %1</source>
-        <translation>Join %1</translation>
+        <translation type="vanished">Join %1</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation>Bookmarks</translation>
+        <translation type="vanished">Bookmarks</translation>
     </message>
     <message>
         <source>&amp;Add a Contact</source>
-        <translation>&amp;Add a Contact</translation>
+        <translation type="vanished">&amp;Add a Contact</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
-        <translation>Service &amp;Discovery</translation>
+        <translation type="vanished">Service &amp;Discovery</translation>
     </message>
     <message>
         <source>New &amp;Blank Message</source>
-        <translation>New &amp;Blank Message</translation>
+        <translation type="vanished">New &amp;Blank Message</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>&amp;XML Console</translation>
+        <translation type="vanished">&amp;XML Console</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
-        <translation>&amp;Modify Account...</translation>
+        <translation type="vanished">&amp;Modify Account...</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
-        <translation>&amp;Admin</translation>
+        <translation type="vanished">&amp;Admin</translation>
     </message>
     <message>
         <source>Send Message to Group</source>
-        <translation>Send Message to Group</translation>
+        <translation type="vanished">Send Message to Group</translation>
     </message>
     <message>
         <source>Remove Group</source>
-        <translation>Remove Group</translation>
+        <translation type="vanished">Remove Group</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
-        <translation>Remove Group and Contacts</translation>
+        <translation type="vanished">Remove Group and Contacts</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>Hide</translation>
+        <translation type="vanished">Hide</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation>This will cause all contacts in this group to be disassociated with it.
+        <translation type="vanished">This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Yes</translation>
+        <translation type="vanished">&amp;Yes</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;No</translation>
+        <translation type="vanished">&amp;No</translation>
     </message>
     <message>
         <source>WARNING!  This will remove all contacts associated with this group!
 
 Proceed?</source>
-        <translation>WARNING!  This will remove all contacts associated with this group!
+        <translation type="vanished">WARNING!  This will remove all contacts associated with this group!
 
 Proceed?</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
-        <translation>Add/Authorize to Contact List</translation>
+        <translation type="vanished">Add/Authorize to Contact List</translation>
     </message>
     <message>
         <source>Send Message To</source>
-        <translation>Send Message To</translation>
+        <translation type="vanished">Send Message To</translation>
     </message>
     <message>
         <source>Open Chat To</source>
-        <translation>Open Chat To</translation>
+        <translation type="vanished">Open Chat To</translation>
     </message>
     <message>
         <source>Open a Whiteboard To</source>
-        <translation>Open a Whiteboard To</translation>
+        <translation type="vanished">Open a Whiteboard To</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation>E&amp;xecute Command</translation>
+        <translation type="vanished">E&amp;xecute Command</translation>
     </message>
     <message>
         <source>Active Chats</source>
-        <translation>Active Chats</translation>
+        <translation type="vanished">Active Chats</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>Voice Call</translation>
+        <translation type="vanished">Voice Call</translation>
     </message>
     <message>
         <source>Send &amp;File</source>
-        <translation>Send &amp;File</translation>
+        <translation type="vanished">Send &amp;File</translation>
     </message>
     <message>
         <source>Invite To</source>
-        <translation>Invite To</translation>
+        <translation type="vanished">Invite To</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation>&amp;None</translation>
+        <translation type="vanished">&amp;None</translation>
     </message>
     <message>
         <source>&amp;Create New...</source>
-        <translation>&amp;Create New...</translation>
+        <translation type="vanished">&amp;Create New...</translation>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation>&amp;Group</translation>
+        <translation type="vanished">&amp;Group</translation>
     </message>
     <message>
         <source>Log Off</source>
-        <translation>Log Off</translation>
+        <translation type="vanished">Log Off</translation>
     </message>
     <message>
         <source>Resend Authorization To</source>
-        <translation>Resend Authorization To</translation>
+        <translation type="vanished">Resend Authorization To</translation>
     </message>
     <message>
         <source>Rerequest Authorization From</source>
-        <translation>Rerequest Authorization From</translation>
+        <translation type="vanished">Rerequest Authorization From</translation>
     </message>
     <message>
         <source>Remove Authorization From</source>
-        <translation>Remove Authorization From</translation>
+        <translation type="vanished">Remove Authorization From</translation>
     </message>
     <message>
         <source>Authorization</source>
-        <translation>Authorization</translation>
+        <translation type="vanished">Authorization</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
-        <translation>&amp;Picture</translation>
+        <translation type="vanished">&amp;Picture</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation>Assign Open&amp;PGP Key</translation>
+        <translation type="vanished">Assign Open&amp;PGP Key</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation>Unassign Open&amp;PGP Key</translation>
+        <translation type="vanished">Unassign Open&amp;PGP Key</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation>Authorize</translation>
+        <translation type="vanished">Authorize</translation>
     </message>
     <message>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="vanished">Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Create New Group</source>
-        <translation>Create New Group</translation>
+        <translation type="vanished">Create New Group</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation>Enter the new group name:</translation>
+        <translation type="vanished">Enter the new group name:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Add</translation>
+        <translation type="vanished">Add</translation>
     </message>
     <message>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</translation>
+        <translation type="vanished">Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</translation>
     </message>
     <message>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="vanished">Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Remove</translation>
+        <translation type="vanished">Remove</translation>
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</translation>
+        <translation type="vanished">Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
         <source>Invitation</source>
-        <translation>Invitation</translation>
+        <translation type="vanished">Invitation</translation>
     </message>
     <message>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="vanished">Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
-        <translation>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</translation>
+        <translation type="vanished">Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Error</translation>
+        <translation type="vanished">Error</translation>
     </message>
     <message>
         <source>You cannot set a blank name.</source>
-        <translation>You cannot set a blank name.</translation>
+        <translation type="vanished">You cannot set a blank name.</translation>
     </message>
     <message>
         <source>You cannot set a blank group name.</source>
-        <translation>You cannot set a blank group name.</translation>
+        <translation type="vanished">You cannot set a blank group name.</translation>
     </message>
     <message>
         <source>You already have a group with that name.</source>
-        <translation>You already have a group with that name.</translation>
+        <translation type="vanished">You already have a group with that name.</translation>
     </message>
 </context>
 <context>
     <name>ContactView</name>
     <message>
         <source>Hidden</source>
-        <translation>Hidden</translation>
+        <translation type="vanished">Hidden</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation>Send &amp;Message</translation>
+        <translation type="vanished">Send &amp;Message</translation>
     </message>
     <message>
         <source>Re&amp;name</source>
-        <translation>Re&amp;name</translation>
+        <translation type="vanished">Re&amp;name</translation>
     </message>
     <message>
         <source>&amp;Assign Custom Picture</source>
-        <translation>&amp;Assign Custom Picture</translation>
+        <translation type="vanished">&amp;Assign Custom Picture</translation>
     </message>
     <message>
         <source>&amp;Clear Custom Picture</source>
-        <translation>&amp;Clear Custom Picture</translation>
+        <translation type="vanished">&amp;Clear Custom Picture</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation>Open &amp;Chat Window</translation>
+        <translation type="vanished">Open &amp;Chat Window</translation>
     </message>
     <message>
         <source>Open a &amp;Whiteboard</source>
-        <translation>Open a &amp;Whiteboard</translation>
+        <translation type="vanished">Open a &amp;Whiteboard</translation>
     </message>
     <message>
         <source>&amp;History</source>
-        <translation>&amp;History</translation>
+        <translation type="vanished">&amp;History</translation>
     </message>
     <message>
         <source>&amp;Log on</source>
-        <translation>&amp;Log on</translation>
+        <translation type="vanished">&amp;Log on</translation>
     </message>
     <message>
         <source>&amp;Receive Incoming Event</source>
-        <translation>&amp;Receive Incoming Event</translation>
+        <translation type="vanished">&amp;Receive Incoming Event</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation>Rem&amp;ove</translation>
+        <translation type="vanished">Rem&amp;ove</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation>User &amp;Info</translation>
+        <translation type="vanished">User &amp;Info</translation>
     </message>
     <message>
         <source>Choose an Image</source>
-        <translation>Choose an Image</translation>
+        <translation type="vanished">Choose an Image</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation>All files (*.png *.jpg *.gif)</translation>
+        <translation type="vanished">All files (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -6084,6 +6151,29 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
 </context>
 <context>
+    <name>HistoryContactListModel</name>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">General</translation>
+    </message>
+    <message>
+        <source>Not in list</source>
+        <translation type="unfinished">Not in list</translation>
+    </message>
+    <message>
+        <source>Private messages</source>
+        <translation type="unfinished">Private messages</translation>
+    </message>
+    <message>
+        <source>All contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>HistoryDlg</name>
     <message>
         <source>HistoryDlg</source>
@@ -6176,6 +6266,10 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Close history</source>
         <translation>Close history</translation>
+    </message>
+    <message>
+        <source>All contacts</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12956,7 +13050,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <name>PsiContactListViewDelegate</name>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -12971,7 +13065,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation>&amp;Chat</translation>
+        <translation type="vanished">&amp;Chat</translation>
     </message>
     <message>
         <source>&amp;History</source>
@@ -12979,31 +13073,31 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Pro&amp;file</source>
-        <translation>Pro&amp;file</translation>
+        <translation type="vanished">Pro&amp;file</translation>
     </message>
     <message>
         <source>&amp;Photos</source>
-        <translation>&amp;Photos</translation>
+        <translation type="vanished">&amp;Photos</translation>
     </message>
     <message>
         <source>Send &amp;E-mail</source>
-        <translation>Send &amp;E-mail</translation>
+        <translation type="vanished">Send &amp;E-mail</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Add</translation>
+        <translation type="vanished">&amp;Add</translation>
     </message>
     <message>
         <source>A&amp;uth</source>
-        <translation>A&amp;uth</translation>
+        <translation type="vanished">A&amp;uth</translation>
     </message>
     <message>
         <source>&amp;Block</source>
-        <translation>&amp;Block</translation>
+        <translation type="vanished">&amp;Block</translation>
     </message>
     <message>
         <source>Disable mood notifications</source>
-        <translation>Disable mood notifications</translation>
+        <translation type="vanished">Disable mood notifications</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
@@ -13091,7 +13185,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>&amp;Unblock</source>
-        <translation>&amp;Unblock</translation>
+        <translation type="vanished">&amp;Unblock</translation>
     </message>
     <message>
         <source>Invitation</source>
@@ -13190,11 +13284,19 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Manage &amp;Contact</source>
+        <source>&amp;Authorization</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Authorization</source>
+        <source>Copy User JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy Groupchat JID</source>
+        <translation type="unfinished">Copy Groupchat JID</translation>
+    </message>
+    <message>
+        <source>Advanc&amp;ed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13452,23 +13554,46 @@ Would you like to activate that session now?</translation>
     <name>PsiRosterWidget</name>
     <message>
         <source>Remove Group</source>
-        <translation>Remove Group</translation>
+        <translation type="vanished">Remove Group</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation>This will cause all contacts in this group to be disassociated with it.
+        <translation type="vanished">This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Yes</translation>
+        <translation type="vanished">&amp;Yes</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;No</translation>
+        <translation type="vanished">&amp;No</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation type="unfinished">Clear</translation>
+    </message>
+</context>
+<context>
+    <name>PsiThemeModel</name>
+    <message>
+        <source>Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authors</source>
+        <translation type="unfinished">Authors</translation>
+    </message>
+    <message>
+        <source>Released on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15172,15 +15297,15 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RemoveConfirmationMessageBox</name>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="vanished">OK</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Delete</translation>
+        <translation type="vanished">Delete</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancel</translation>
+        <translation type="vanished">Cancel</translation>
     </message>
 </context>
 <context>

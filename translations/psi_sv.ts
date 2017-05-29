@@ -74,7 +74,7 @@
     </message>
     <message>
         <source>Current Maintainer and Original Author</source>
-        <translation>Ursprunglig författare och nuvarande underhållare</translation>
+        <translation type="vanished">Ursprunglig författare och nuvarande underhållare</translation>
     </message>
     <message>
         <source>Lead Widget Developer</source>
@@ -134,13 +134,6 @@
     </message>
     <message>
         <source>psi/psiplus_logo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2014 The Psi Team.&lt;br&gt;
-</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -225,6 +218,21 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2017 The Psi Team.&lt;br&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Original Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lead Developer and Current Maintainer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2558,6 +2566,25 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
 </context>
 <context>
+    <name>ContactListDragView</name>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished">%1 (%2)</translation>
+    </message>
+    <message>
+        <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
+        <translation type="unfinished">Detta kommer permanentl att ta bort &lt;br&gt;%1&lt;br&gt;från din kontaktlista.</translation>
+    </message>
+    <message>
+        <source>Deleting contacts</source>
+        <translation type="unfinished">Tar bort kontakter</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished">Ta bort</translation>
+    </message>
+</context>
+<context>
     <name>ContactListGroupMenu::Private</name>
     <message>
         <source>Re&amp;name</source>
@@ -2569,7 +2596,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>&amp;Ta bort</translation>
+        <translation type="vanished">&amp;Ta bort</translation>
     </message>
     <message>
         <source>Remove Group</source>
@@ -2581,7 +2608,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;Add group...</source>
-        <translation>&amp;Lägg till grupp...</translation>
+        <translation type="vanished">&amp;Lägg till grupp...</translation>
     </message>
     <message>
         <source>Hidden</source>
@@ -2619,35 +2646,24 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <source>Leave All</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>ContactListModel</name>
     <message>
-        <source>Error</source>
-        <translation type="unfinished">Fel</translation>
-    </message>
-    <message>
-        <source>You can&apos;t set a blank group name.</source>
-        <translation type="unfinished"></translation>
+        <source>This will cause all contacts in this group to be disassociated with it.
+
+Proceed?</source>
+        <translation type="unfinished">Detta kommer att löskoppla alla kontakter i gruppen från den.
+
+Fortsätt?</translation>
     </message>
 </context>
 <context>
-    <name>ContactListSpecialGroup</name>
-    <message>
-        <source>Not in List</source>
-        <translation>Ej i listan</translation>
-    </message>
+    <name>ContactListItem</name>
     <message>
         <source>Agents/Transports</source>
-        <translation>Agenter/Transporter</translation>
+        <translation type="unfinished">Agenter/Transporter</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation>Privata meddelanden</translation>
-    </message>
-    <message>
-        <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Privata meddelanden</translation>
     </message>
     <message>
         <source>Conferences</source>
@@ -2655,72 +2671,101 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
 </context>
 <context>
+    <name>ContactListModel</name>
+    <message>
+        <source>Error</source>
+        <translation type="obsolete">Fel</translation>
+    </message>
+</context>
+<context>
+    <name>ContactListSpecialGroup</name>
+    <message>
+        <source>Not in List</source>
+        <translation type="vanished">Ej i listan</translation>
+    </message>
+    <message>
+        <source>Agents/Transports</source>
+        <translation type="vanished">Agenter/Transporter</translation>
+    </message>
+    <message>
+        <source>Private messages</source>
+        <translation type="vanished">Privata meddelanden</translation>
+    </message>
+</context>
+<context>
     <name>ContactListUtil</name>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation>Detta kommer permanentl att ta bort &lt;br&gt;%1&lt;br&gt;från din kontaktlista.</translation>
+        <translation type="vanished">Detta kommer permanentl att ta bort &lt;br&gt;%1&lt;br&gt;från din kontaktlista.</translation>
     </message>
     <message numerus="yes">
         <source>and %n contacts </source>
-        <translation type="unfinished">
+        <translation type="obsolete">
             <numerusform>och %n kontakter</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation type="unfinished">
+        <translation type="obsolete">
             <numerusform>Detta kommer permanent att ta bort:&lt;br&gt;%1&lt;br&gt;%2 och %n grupper från din kontaktlista.</numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
-        <translation>Detta kommer permanent att ta bort:&lt;br&gt;%1&lt;br&gt;%2 och &quot;%3&quot;- gruppen från din kontaktlista.</translation>
+        <translation type="vanished">Detta kommer permanent att ta bort:&lt;br&gt;%1&lt;br&gt;%2 och &quot;%3&quot;- gruppen från din kontaktlista.</translation>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2from your contact list.</source>
-        <translation>Detta tar permanent bort:&lt;br&gt;%1&lt;br&gt;%2från din kontaktlista.</translation>
+        <translation type="vanished">Detta tar permanent bort:&lt;br&gt;%1&lt;br&gt;%2från din kontaktlista.</translation>
     </message>
     <message>
         <source>This is a system group and can&apos;t be removed. Permanently remove all its contacts from your contact list?</source>
-        <translation>Detta är en systemgrupp och kan ej tas bort. Ta bort alla dess kontakter permanent från din kontaktlista?</translation>
+        <translation type="vanished">Detta är en systemgrupp och kan ej tas bort. Ta bort alla dess kontakter permanent från din kontaktlista?</translation>
     </message>
     <message>
         <source>Clear Group</source>
-        <translation>Rensa grupp</translation>
+        <translation type="vanished">Rensa grupp</translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;group and all its contacts from your contact list.</source>
-        <translation>Detta kommer permanent att ta bort:&lt;br&gt;%1&lt;br&gt;gruppen och alla dess kontakter från din kontaktlista.</translation>
+        <translation type="vanished">Detta kommer permanent att ta bort:&lt;br&gt;%1&lt;br&gt;gruppen och alla dess kontakter från din kontaktlista.</translation>
     </message>
     <message>
         <source>This will permanently remove %1 from your contact list. You could block it in order to avoid further messages.</source>
-        <translation>Detta tar permanent bort %1 från din kontaktlista. Du kan spärra den för att slippa framtida meddelanden.</translation>
+        <translation type="vanished">Detta tar permanent bort %1 från din kontaktlista. Du kan spärra den för att slippa framtida meddelanden.</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Ta bort</translation>
+        <translation type="vanished">Ta bort</translation>
     </message>
     <message>
         <source>Block</source>
-        <translation>Spärra</translation>
+        <translation type="vanished">Spärra</translation>
     </message>
     <message>
         <source>This will remove %1 from &quot;%2&quot; group. You could also remove it from all groups.</source>
-        <translation>Detta tar bort &quot;%1&quot; från &quot;%2 grupp. Du kan också ta bort den från alla grupper.</translation>
+        <translation type="vanished">Detta tar bort &quot;%1&quot; från &quot;%2 grupp. Du kan också ta bort den från alla grupper.</translation>
     </message>
     <message>
         <source>Delete From All Groups</source>
-        <translation>Ta bort från alla grupper</translation>
+        <translation type="vanished">Ta bort från alla grupper</translation>
     </message>
     <message>
         <source>Deleting contacts</source>
-        <translation>Tar bort kontakter</translation>
+        <translation type="vanished">Tar bort kontakter</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
+    </message>
+</context>
+<context>
+    <name>ContactListViewDelegate::Private</name>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -2892,7 +2937,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Not in list</source>
-        <translation>Ej i listan</translation>
+        <translation type="vanished">Ej i listan</translation>
     </message>
     <message>
         <source>Agents/Transports</source>
@@ -2900,330 +2945,326 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Private Messages</source>
-        <translation>Privata meddelanden</translation>
+        <translation type="vanished">Privata meddelanden</translation>
     </message>
     <message>
         <source>Online Users</source>
-        <translation>Aktiva användare</translation>
+        <translation type="vanished">Aktiva användare</translation>
     </message>
     <message>
         <source>Send Server Message</source>
-        <translation>Skicka servermeddelande</translation>
+        <translation type="vanished">Skicka servermeddelande</translation>
     </message>
     <message>
         <source>Set MOTD</source>
-        <translation>Sätt MOTD</translation>
+        <translation type="vanished">Sätt MOTD</translation>
     </message>
     <message>
         <source>Update MOTD</source>
-        <translation>Uppdatera MOTD</translation>
+        <translation type="vanished">Uppdatera MOTD</translation>
     </message>
     <message>
         <source>Delete MOTD</source>
-        <translation>Ta bort MOTD</translation>
+        <translation type="vanished">Ta bort MOTD</translation>
     </message>
     <message>
         <source>&amp;Status</source>
-        <translation>&amp;Status</translation>
+        <translation type="vanished">&amp;Status</translation>
     </message>
     <message>
         <source>Mood</source>
-        <translation>Humör</translation>
+        <translation type="vanished">Humör</translation>
     </message>
     <message>
         <source>Set Avatar</source>
-        <translation>Välj avatar</translation>
+        <translation type="vanished">Välj avatar</translation>
     </message>
     <message>
         <source>Unset Avatar</source>
-        <translation>Ta bort avatar</translation>
+        <translation type="vanished">Ta bort avatar</translation>
     </message>
     <message>
         <source>Avatar</source>
-        <translation>Avatar</translation>
+        <translation type="vanished">Avatar</translation>
     </message>
     <message>
         <source>Manage...</source>
-        <translation>Hantera...</translation>
+        <translation type="vanished">Hantera...</translation>
     </message>
     <message>
         <source>Join %1</source>
-        <translation>Gå med i %1</translation>
+        <translation type="vanished">Gå med i %1</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation>Bokmärken</translation>
+        <translation type="vanished">Bokmärken</translation>
     </message>
     <message>
         <source>&amp;Add a Contact</source>
-        <translation>&amp;Lägg till en kontakt</translation>
+        <translation type="vanished">&amp;Lägg till en kontakt</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
-        <translation>Hitta &amp;tjänster</translation>
+        <translation type="vanished">Hitta &amp;tjänster</translation>
     </message>
     <message>
         <source>New &amp;Blank Message</source>
-        <translation>Nytt &amp;tomt meddelande</translation>
+        <translation type="vanished">Nytt &amp;tomt meddelande</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>&amp;XML-konsoll</translation>
+        <translation type="vanished">&amp;XML-konsoll</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
-        <translation>&amp;Ändra konto...</translation>
+        <translation type="vanished">&amp;Ändra konto...</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
-        <translation>&amp;Administrera</translation>
+        <translation type="vanished">&amp;Administrera</translation>
     </message>
     <message>
         <source>Send Message to Group</source>
-        <translation>Skicka meddelande till grupp</translation>
+        <translation type="vanished">Skicka meddelande till grupp</translation>
     </message>
     <message>
         <source>Remove Group</source>
-        <translation>Ta bort grupp</translation>
+        <translation type="vanished">Ta bort grupp</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
-        <translation>Ta bort grupp och kontakter</translation>
+        <translation type="vanished">Ta bort grupp och kontakter</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>Göm</translation>
+        <translation type="vanished">Göm</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation>Detta kommer att löskoppla alla kontakter i gruppen från den.
+        <translation type="vanished">Detta kommer att löskoppla alla kontakter i gruppen från den.
 
 Fortsätt?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ja</translation>
+        <translation type="vanished">&amp;Ja</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Nej</translation>
+        <translation type="vanished">&amp;Nej</translation>
     </message>
     <message>
         <source>WARNING!  This will remove all contacts associated with this group!
 
 Proceed?</source>
-        <translation>VARNING! Detta tar bort alla kontakter i denna grupp!
+        <translation type="vanished">VARNING! Detta tar bort alla kontakter i denna grupp!
 
 Fortsätt?</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
-        <translation>Lägg till/godkänn till kontaktlistan</translation>
+        <translation type="vanished">Lägg till/godkänn till kontaktlistan</translation>
     </message>
     <message>
         <source>Send Message To</source>
-        <translation>Skicka meddelande till</translation>
+        <translation type="vanished">Skicka meddelande till</translation>
     </message>
     <message>
         <source>Open Chat To</source>
-        <translation>Öppna chat till</translation>
+        <translation type="vanished">Öppna chat till</translation>
     </message>
     <message>
         <source>Open a Whiteboard To</source>
-        <translation>Öppna skrivtavla till</translation>
+        <translation type="vanished">Öppna skrivtavla till</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation>&amp;Utför kommando</translation>
+        <translation type="vanished">&amp;Utför kommando</translation>
     </message>
     <message>
         <source>Active Chats</source>
-        <translation>Aktiva konversationer</translation>
+        <translation type="vanished">Aktiva konversationer</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>Röstsamtal</translation>
+        <translation type="vanished">Röstsamtal</translation>
     </message>
     <message>
         <source>Send &amp;File</source>
-        <translation>Skicka &amp;fil</translation>
+        <translation type="vanished">Skicka &amp;fil</translation>
     </message>
     <message>
         <source>Invite To</source>
-        <translation>Bjud in till</translation>
+        <translation type="vanished">Bjud in till</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation>&amp;Ingen</translation>
+        <translation type="vanished">&amp;Ingen</translation>
     </message>
     <message>
         <source>&amp;Create New...</source>
-        <translation>&amp;Skapa ny...</translation>
+        <translation type="vanished">&amp;Skapa ny...</translation>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation>&amp;Grupp</translation>
+        <translation type="vanished">&amp;Grupp</translation>
     </message>
     <message>
         <source>Log Off</source>
-        <translation>Koppla ner</translation>
+        <translation type="vanished">Koppla ner</translation>
     </message>
     <message>
         <source>Resend Authorization To</source>
-        <translation>Skicka om godkännande till</translation>
+        <translation type="vanished">Skicka om godkännande till</translation>
     </message>
     <message>
         <source>Rerequest Authorization From</source>
-        <translation>Begär nytt godkännande från </translation>
+        <translation type="vanished">Begär nytt godkännande från </translation>
     </message>
     <message>
         <source>Remove Authorization From</source>
-        <translation>Ta bort godkännande från</translation>
+        <translation type="vanished">Ta bort godkännande från</translation>
     </message>
     <message>
         <source>Authorization</source>
-        <translation>Godkännande</translation>
+        <translation type="vanished">Godkännande</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
-        <translation>&amp;Bild</translation>
+        <translation type="vanished">&amp;Bild</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation>Ange Open&amp;PGP-nyckel</translation>
+        <translation type="vanished">Ange Open&amp;PGP-nyckel</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation>Ta bort Open&amp;PGP-nyckel</translation>
+        <translation type="vanished">Ta bort Open&amp;PGP-nyckel</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation>Godkänn</translation>
+        <translation type="vanished">Godkänn</translation>
     </message>
     <message>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Skickade godkännande till &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="vanished">Skickade godkännande till &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Create New Group</source>
-        <translation>Skapa ny grupp</translation>
+        <translation type="vanished">Skapa ny grupp</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation>Skriv namnet på den nya gruppen:</translation>
+        <translation type="vanished">Skriv namnet på den nya gruppen:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Lägg till</translation>
+        <translation type="vanished">Lägg till</translation>
     </message>
     <message>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation>La till/godkände &lt;b&gt;%1&lt;/b&gt; till kontaktlistan.</translation>
+        <translation type="vanished">La till/godkände &lt;b&gt;%1&lt;/b&gt; till kontaktlistan.</translation>
     </message>
     <message>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Begärde nytt godkännande från &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="vanished">Begärde nytt godkännande från &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Ta bort</translation>
+        <translation type="vanished">Ta bort</translation>
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation>Är du säker på att du vill ta bort godkännandet för &lt;b&gt;%1&lt;/b&gt;?</translation>
+        <translation type="vanished">Är du säker på att du vill ta bort godkännandet för &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
         <source>Invitation</source>
-        <translation>Inbjudan</translation>
+        <translation type="vanished">Inbjudan</translation>
     </message>
     <message>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Skicka inbjudan till gruppchatt till &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="vanished">Skicka inbjudan till gruppchatt till &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
-        <translation>Är du säker på att du vill ta bort &lt;b&gt;%1&lt;/b&gt; från din kontaktlista?</translation>
+        <translation type="vanished">Är du säker på att du vill ta bort &lt;b&gt;%1&lt;/b&gt; från din kontaktlista?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Fel</translation>
+        <translation type="vanished">Fel</translation>
     </message>
     <message>
         <source>You cannot set a blank name.</source>
-        <translation>Du kan inte ange ett tomt namn.</translation>
+        <translation type="vanished">Du kan inte ange ett tomt namn.</translation>
     </message>
     <message>
         <source>You cannot set a blank group name.</source>
-        <translation>Du kan inte ange ett tomt gruppnamn.</translation>
+        <translation type="vanished">Du kan inte ange ett tomt gruppnamn.</translation>
     </message>
     <message>
         <source>You already have a group with that name.</source>
-        <translation>Du har redan en grupp med det namnet.</translation>
-    </message>
-    <message>
-        <source>Activity</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Du har redan en grupp med det namnet.</translation>
     </message>
 </context>
 <context>
     <name>ContactView</name>
     <message>
         <source>Hidden</source>
-        <translation>Gömda</translation>
+        <translation type="vanished">Gömda</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation>Skicka &amp;meddelande</translation>
+        <translation type="vanished">Skicka &amp;meddelande</translation>
     </message>
     <message>
         <source>Re&amp;name</source>
-        <translation>&amp;Döp om</translation>
+        <translation type="vanished">&amp;Döp om</translation>
     </message>
     <message>
         <source>&amp;Assign Custom Picture</source>
-        <translation>Tilldela en &amp;anpassad bild</translation>
+        <translation type="vanished">Tilldela en &amp;anpassad bild</translation>
     </message>
     <message>
         <source>&amp;Clear Custom Picture</source>
-        <translation>Ta &amp;bort tilldelead bild</translation>
+        <translation type="vanished">Ta &amp;bort tilldelead bild</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation>Öppna &amp;chattfönster</translation>
+        <translation type="vanished">Öppna &amp;chattfönster</translation>
     </message>
     <message>
         <source>Open a &amp;Whiteboard</source>
-        <translation>Öppna en &amp;skrivtavla</translation>
+        <translation type="vanished">Öppna en &amp;skrivtavla</translation>
     </message>
     <message>
         <source>&amp;History</source>
-        <translation>&amp;Historik</translation>
+        <translation type="vanished">&amp;Historik</translation>
     </message>
     <message>
         <source>&amp;Log on</source>
-        <translation>&amp;Logga på</translation>
+        <translation type="vanished">&amp;Logga på</translation>
     </message>
     <message>
         <source>&amp;Receive Incoming Event</source>
-        <translation>&amp;Ta emot inkommande händelse</translation>
+        <translation type="vanished">&amp;Ta emot inkommande händelse</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation>&amp;Ta bort</translation>
+        <translation type="vanished">&amp;Ta bort</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation>Användar&amp;information</translation>
+        <translation type="vanished">Användar&amp;information</translation>
     </message>
     <message>
         <source>Choose an Image</source>
-        <translation>Välj en bild</translation>
+        <translation type="vanished">Välj en bild</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation>Alla filer (*.png *.jpg *.gif)</translation>
+        <translation type="vanished">Alla filer (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -6012,6 +6053,29 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
 </context>
 <context>
+    <name>HistoryContactListModel</name>
+    <message>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not in list</source>
+        <translation type="unfinished">Ej i listan</translation>
+    </message>
+    <message>
+        <source>Private messages</source>
+        <translation type="unfinished">Privata meddelanden</translation>
+    </message>
+    <message>
+        <source>All contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>HistoryDlg</name>
     <message>
         <source>&amp;Previous</source>
@@ -6103,6 +6167,10 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Close history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All contacts</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12822,7 +12890,7 @@ Detta kan betyda att du redan kör en annan instans av Psi. Du kan ha problem at
     <name>PsiContactListViewDelegate</name>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -12837,7 +12905,7 @@ Detta kan betyda att du redan kör en annan instans av Psi. Du kan ha problem at
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation>&amp;Chatt</translation>
+        <translation type="vanished">&amp;Chatt</translation>
     </message>
     <message>
         <source>&amp;History</source>
@@ -12845,31 +12913,31 @@ Detta kan betyda att du redan kör en annan instans av Psi. Du kan ha problem at
     </message>
     <message>
         <source>Pro&amp;file</source>
-        <translation>&amp;Profil</translation>
+        <translation type="vanished">&amp;Profil</translation>
     </message>
     <message>
         <source>&amp;Photos</source>
-        <translation>&amp;Foton</translation>
+        <translation type="vanished">&amp;Foton</translation>
     </message>
     <message>
         <source>Send &amp;E-mail</source>
-        <translation>Skicka &amp;e-post</translation>
+        <translation type="vanished">Skicka &amp;e-post</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Lägg till</translation>
+        <translation type="vanished">&amp;Lägg till</translation>
     </message>
     <message>
         <source>A&amp;uth</source>
-        <translation>&amp;Godkänn</translation>
+        <translation type="vanished">&amp;Godkänn</translation>
     </message>
     <message>
         <source>&amp;Block</source>
-        <translation>S&amp;pärra</translation>
+        <translation type="vanished">S&amp;pärra</translation>
     </message>
     <message>
         <source>Disable mood notifications</source>
-        <translation>Stäng av humörmeddelanden</translation>
+        <translation type="vanished">Stäng av humörmeddelanden</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
@@ -12941,7 +13009,7 @@ Detta kan betyda att du redan kör en annan instans av Psi. Du kan ha problem at
     </message>
     <message>
         <source>&amp;Unblock</source>
-        <translation>&amp;Ta bort spärr</translation>
+        <translation type="vanished">&amp;Ta bort spärr</translation>
     </message>
     <message>
         <source>Invitation</source>
@@ -13052,15 +13120,23 @@ Detta kan betyda att du redan kör en annan instans av Psi. Du kan ha problem at
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Manage &amp;Contact</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Authorization</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unblock</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy User JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy Groupchat JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanc&amp;ed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13318,23 +13394,46 @@ Vill du aktivera den sessionen nu?</translation>
     <name>PsiRosterWidget</name>
     <message>
         <source>Remove Group</source>
-        <translation type="unfinished">Ta bort grupp</translation>
+        <translation type="obsolete">Ta bort grupp</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="unfinished">Detta kommer att löskoppla alla kontakter i gruppen från den.
+        <translation type="obsolete">Detta kommer att löskoppla alla kontakter i gruppen från den.
 
 Fortsätt?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished">&amp;Ja</translation>
+        <translation type="obsolete">&amp;Ja</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished">&amp;Nej</translation>
+        <translation type="obsolete">&amp;Nej</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation type="unfinished">Rensa</translation>
+    </message>
+</context>
+<context>
+    <name>PsiThemeModel</name>
+    <message>
+        <source>Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authors</source>
+        <translation type="unfinished">Författare</translation>
+    </message>
+    <message>
+        <source>Released on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15006,15 +15105,15 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RemoveConfirmationMessageBox</name>
     <message>
         <source>OK</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Ta bort</translation>
+        <translation type="vanished">Ta bort</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Avbryt</translation>
+        <translation type="vanished">Avbryt</translation>
     </message>
 </context>
 <context>

@@ -73,13 +73,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2014 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>http://psi-im.org</source>
         <translation type="unfinished"></translation>
     </message>
@@ -101,10 +94,6 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>About Psi+</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Current Maintainer and Original Author</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -225,6 +214,21 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2017 The Psi Team.&lt;br&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Original Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lead Developer and Current Maintainer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2557,6 +2561,25 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
 </context>
 <context>
+    <name>ContactListDragView</name>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deleting contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ContactListGroupMenu::Private</name>
     <message>
         <source>Re&amp;name</source>
@@ -2595,15 +2618,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Send Message to Group</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Add group...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2618,31 +2633,20 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <source>Leave All</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>ContactListModel</name>
     <message>
-        <source>Error</source>
-        <translation type="unfinished">Virhe</translation>
-    </message>
-    <message>
-        <source>You can&apos;t set a blank group name.</source>
-        <translation type="unfinished"></translation>
+        <source>This will cause all contacts in this group to be disassociated with it.
+
+Proceed?</source>
+        <translation type="unfinished">Tämä aiheuttaa kaikkien tässä ryhmässä olevien yhteystietojen irtautumisen siitä.
+
+Jatka?</translation>
     </message>
 </context>
 <context>
-    <name>ContactListSpecialGroup</name>
-    <message>
-        <source>General</source>
-        <translation type="unfinished">Yleinen</translation>
-    </message>
+    <name>ContactListItem</name>
     <message>
         <source>Agents/Transports</source>
         <translation type="unfinished">Agentit/Välityspalvelut</translation>
-    </message>
-    <message>
-        <source>Not in List</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Private messages</source>
@@ -2654,69 +2658,25 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
 </context>
 <context>
-    <name>ContactListUtil</name>
+    <name>ContactListModel</name>
     <message>
-        <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation type="unfinished"></translation>
+        <source>Error</source>
+        <translation type="obsolete">Virhe</translation>
     </message>
-    <message numerus="yes">
-        <source>and %n contacts </source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
-    </message>
-    <message numerus="yes">
-        <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-        </translation>
+</context>
+<context>
+    <name>ContactListSpecialGroup</name>
+    <message>
+        <source>General</source>
+        <translation type="obsolete">Yleinen</translation>
     </message>
     <message>
-        <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
-        <translation type="unfinished"></translation>
+        <source>Agents/Transports</source>
+        <translation type="obsolete">Agentit/Välityspalvelut</translation>
     </message>
-    <message>
-        <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2from your contact list.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This is a system group and can&apos;t be removed. Permanently remove all its contacts from your contact list?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Group</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;group and all its contacts from your contact list.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This will permanently remove %1 from your contact list. You could block it in order to avoid further messages.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Block</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This will remove %1 from &quot;%2&quot; group. You could also remove it from all groups.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete From All Groups</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Deleting contacts</source>
-        <translation type="unfinished"></translation>
-    </message>
+</context>
+<context>
+    <name>ContactListViewDelegate::Private</name>
     <message>
         <source>%1 (%2)</source>
         <translation type="unfinished"></translation>
@@ -2891,7 +2851,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Not in list</source>
-        <translation>Ei listalla</translation>
+        <translation type="vanished">Ei listalla</translation>
     </message>
     <message>
         <source>Agents/Transports</source>
@@ -2899,330 +2859,170 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Private Messages</source>
-        <translation>Yksityisviestit</translation>
+        <translation type="vanished">Yksityisviestit</translation>
     </message>
     <message>
         <source>Online Users</source>
-        <translation>Linjoilla olevat käyttäjät</translation>
+        <translation type="vanished">Linjoilla olevat käyttäjät</translation>
     </message>
     <message>
         <source>Set MOTD</source>
-        <translation>Aseta MOTD</translation>
+        <translation type="vanished">Aseta MOTD</translation>
     </message>
     <message>
         <source>Update MOTD</source>
-        <translation>Päivitä MOTD</translation>
+        <translation type="vanished">Päivitä MOTD</translation>
     </message>
     <message>
         <source>Delete MOTD</source>
-        <translation>Poista MOTD</translation>
+        <translation type="vanished">Poista MOTD</translation>
     </message>
     <message>
         <source>&amp;Status</source>
-        <translation>Ti&amp;la</translation>
+        <translation type="vanished">Ti&amp;la</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
-        <translation>&amp;Palveluiden löytäminen</translation>
+        <translation type="vanished">&amp;Palveluiden löytäminen</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>&amp;XML-konsoli</translation>
+        <translation type="vanished">&amp;XML-konsoli</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
-        <translation>&amp;Muokkaa tunnusta...</translation>
+        <translation type="vanished">&amp;Muokkaa tunnusta...</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
-        <translation>&amp;Ylläpito</translation>
+        <translation type="vanished">&amp;Ylläpito</translation>
     </message>
     <message>
         <source>Remove Group</source>
-        <translation>Poista ryhmä</translation>
+        <translation type="vanished">Poista ryhmä</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
-        <translation>Poista ryhmä ja siinä olevat yhteystiedot</translation>
+        <translation type="vanished">Poista ryhmä ja siinä olevat yhteystiedot</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>Piilota</translation>
+        <translation type="vanished">Piilota</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation>Tämä aiheuttaa kaikkien tässä ryhmässä olevien yhteystietojen irtautumisen siitä.
+        <translation type="vanished">Tämä aiheuttaa kaikkien tässä ryhmässä olevien yhteystietojen irtautumisen siitä.
 
 Jatka?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Kyllä</translation>
+        <translation type="vanished">&amp;Kyllä</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ei</translation>
+        <translation type="vanished">&amp;Ei</translation>
     </message>
     <message>
         <source>WARNING!  This will remove all contacts associated with this group!
 
 Proceed?</source>
-        <translation>VAROITUS! Tämä poistaa kaikki tähän ryhmään kuuluvat yhteystiedot!
+        <translation type="vanished">VAROITUS! Tämä poistaa kaikki tähän ryhmään kuuluvat yhteystiedot!
 
 Jatka?</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation>&amp;Ei mitään</translation>
+        <translation type="vanished">&amp;Ei mitään</translation>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation>&amp;Ryhmä</translation>
+        <translation type="vanished">&amp;Ryhmä</translation>
     </message>
     <message>
         <source>Authorization</source>
-        <translation>Lupa</translation>
+        <translation type="vanished">Lupa</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation>Anna lupa</translation>
+        <translation type="vanished">Anna lupa</translation>
     </message>
     <message>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Lähetä lupa &lt;b&gt;%1&lt;/b&gt;:lle.</translation>
+        <translation type="vanished">Lähetä lupa &lt;b&gt;%1&lt;/b&gt;:lle.</translation>
     </message>
     <message>
         <source>Create New Group</source>
-        <translation>Luo uusi ryhmä</translation>
+        <translation type="vanished">Luo uusi ryhmä</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Lisää</translation>
+        <translation type="vanished">Lisää</translation>
     </message>
     <message>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation>&lt;b&gt;%1&lt;/b&gt; lisätty listalle/annettu lupa.</translation>
+        <translation type="vanished">&lt;b&gt;%1&lt;/b&gt; lisätty listalle/annettu lupa.</translation>
     </message>
     <message>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Pyydetty lupaa uudelleen &lt;b&gt;%1&lt;/b&gt;:ltä.</translation>
+        <translation type="vanished">Pyydetty lupaa uudelleen &lt;b&gt;%1&lt;/b&gt;:ltä.</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Poista</translation>
+        <translation type="vanished">Poista</translation>
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation>Oletko varma, että tahdot poistaa luvan &lt;b&gt;%1&lt;/b&gt;:ltä?</translation>
+        <translation type="vanished">Oletko varma, että tahdot poistaa luvan &lt;b&gt;%1&lt;/b&gt;:ltä?</translation>
     </message>
     <message>
         <source>Invitation</source>
-        <translation>Kutsu</translation>
+        <translation type="vanished">Kutsu</translation>
     </message>
     <message>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Lähetä ryhmäkeskustelukutsu &lt;b&gt;%1&lt;/b&gt;:lle.</translation>
+        <translation type="vanished">Lähetä ryhmäkeskustelukutsu &lt;b&gt;%1&lt;/b&gt;:lle.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
-        <translation>Oletko varma, että tahdot poistaa &lt;b&gt;%1&lt;/b&gt;:n listaltasi?</translation>
+        <translation type="vanished">Oletko varma, että tahdot poistaa &lt;b&gt;%1&lt;/b&gt;:n listaltasi?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Virhe</translation>
+        <translation type="vanished">Virhe</translation>
     </message>
     <message>
         <source>You already have a group with that name.</source>
-        <translation>Sinulla on jo sen niminen ryhmä.</translation>
-    </message>
-    <message>
-        <source>Send Server Message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mood</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Activity</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Avatar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unset Avatar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Avatar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Manage...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Join %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Add a Contact</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New &amp;Blank Message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Send Message to Group</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add/Authorize to Contact List</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Send Message To</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open Chat To</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open a Whiteboard To</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>E&amp;xecute Command</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Active Chats</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Send &amp;File</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Invite To</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Create New...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Log Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Resend Authorization To</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rerequest Authorization From</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove Authorization From</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Assign Open&amp;PGP Key</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unassign Open&amp;PGP Key</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter the new group name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You cannot set a blank name.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You cannot set a blank group name.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Sinulla on jo sen niminen ryhmä.</translation>
     </message>
 </context>
 <context>
     <name>ContactView</name>
     <message>
         <source>Hidden</source>
-        <translation>Piilotettu</translation>
+        <translation type="vanished">Piilotettu</translation>
     </message>
     <message>
         <source>Re&amp;name</source>
-        <translation>Uudelleen&amp;nimeä</translation>
+        <translation type="vanished">Uudelleen&amp;nimeä</translation>
     </message>
     <message>
         <source>&amp;History</source>
-        <translation>&amp;Historia</translation>
+        <translation type="vanished">&amp;Historia</translation>
     </message>
     <message>
         <source>&amp;Log on</source>
-        <translation>&amp;Kirjaudu sisään</translation>
+        <translation type="vanished">&amp;Kirjaudu sisään</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation>&amp;Poista</translation>
+        <translation type="vanished">&amp;Poista</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="unfinished">&amp;Käyttäjätiedot</translation>
-    </message>
-    <message>
-        <source>Send &amp;Message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Assign Custom Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Clear Custom Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open &amp;Chat Window</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open a &amp;Whiteboard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Receive Incoming Event</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Choose an Image</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">&amp;Käyttäjätiedot</translation>
     </message>
 </context>
 <context>
@@ -6004,6 +5804,29 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
 </context>
 <context>
+    <name>HistoryContactListModel</name>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">Yleinen</translation>
+    </message>
+    <message>
+        <source>Not in list</source>
+        <translation type="unfinished">Ei listalla</translation>
+    </message>
+    <message>
+        <source>Private messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>HistoryDlg</name>
     <message>
         <source>&amp;Previous</source>
@@ -6095,6 +5918,10 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Close history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All contacts</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12784,13 +12611,6 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
 </context>
 <context>
-    <name>PsiContactListViewDelegate</name>
-    <message>
-        <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>PsiContactMenu::Private</name>
     <message>
         <source>Re&amp;name</source>
@@ -12858,38 +12678,6 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Chat</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pro&amp;file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Photos</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Send &amp;E-mail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A&amp;uth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Block</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable mood notifications</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13001,19 +12789,11 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Manage &amp;Contact</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Authorization</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Unblock</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13026,6 +12806,18 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Unblock</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy User JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy Groupchat JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanc&amp;ed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13279,23 +13071,46 @@ Would you like to activate that session now?</source>
     <name>PsiRosterWidget</name>
     <message>
         <source>Remove Group</source>
-        <translation type="unfinished">Poista ryhmä</translation>
+        <translation type="obsolete">Poista ryhmä</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="unfinished">Tämä aiheuttaa kaikkien tässä ryhmässä olevien yhteystietojen irtautumisen siitä.
+        <translation type="obsolete">Tämä aiheuttaa kaikkien tässä ryhmässä olevien yhteystietojen irtautumisen siitä.
 
 Jatka?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="unfinished">&amp;Kyllä</translation>
+        <translation type="obsolete">&amp;Kyllä</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="unfinished">&amp;Ei</translation>
+        <translation type="obsolete">&amp;Ei</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PsiThemeModel</name>
+    <message>
+        <source>Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Released on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14960,21 +14775,6 @@ Syy: %1</translation>
     <message>
         <source>This plugin is designed to show reminders of upcoming birthdays.
 The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>RemoveConfirmationMessageBox</name>
-    <message>
-        <source>OK</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

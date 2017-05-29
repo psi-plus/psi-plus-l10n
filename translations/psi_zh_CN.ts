@@ -53,13 +53,6 @@
         <translation>psi/psi附加标识</translation>
     </message>
     <message>
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2014 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>http://psi-im.org</source>
         <translation>http://psi-im.org</translation>
     </message>
@@ -89,7 +82,7 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Current Maintainer and Original Author</source>
-        <translation>目前的维护者及原作者</translation>
+        <translation type="vanished">目前的维护者及原作者</translation>
     </message>
     <message>
         <source>Past Lead Developer and Maintainer</source>
@@ -234,6 +227,21 @@ XMPP:&lt;a href=&quot;xmpp:me@me.com&quot;&gt; me@me.com&lt;/ A&gt; -
 今天加入翻译团队！到
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;的
 http://forum.psi-im.org/forum/14&lt;/ a&gt;的更多详情！</translation>
+    </message>
+    <message>
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2017 The Psi Team.&lt;br&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Original Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lead Developer and Current Maintainer</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2592,6 +2600,25 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
 </context>
 <context>
+    <name>ContactListDragView</name>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished">%1 (%2)</translation>
+    </message>
+    <message>
+        <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
+        <translation type="unfinished">这会从你的联系人清单中永远删除&lt;br&gt;%1&lt;br&gt;。</translation>
+    </message>
+    <message>
+        <source>Deleting contacts</source>
+        <translation type="unfinished">删除联系人</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished">删除</translation>
+    </message>
+</context>
+<context>
     <name>ContactListGroupMenu::Private</name>
     <message>
         <source>Re&amp;name</source>
@@ -2619,7 +2646,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>删除(&amp;R)</translation>
+        <translation type="vanished">删除(&amp;R)</translation>
     </message>
     <message>
         <source>Remove Group</source>
@@ -2631,7 +2658,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;Add group...</source>
-        <translation>添加群组(&amp;A)...</translation>
+        <translation type="vanished">添加群组(&amp;A)...</translation>
     </message>
     <message>
         <source>Hide All</source>
@@ -2653,106 +2680,134 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <source>Authorization</source>
         <translation>授权</translation>
     </message>
+    <message>
+        <source>This will cause all contacts in this group to be disassociated with it.
+
+Proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ContactListItem</name>
+    <message>
+        <source>Agents/Transports</source>
+        <translation type="unfinished">代理人/转换</translation>
+    </message>
+    <message>
+        <source>Private messages</source>
+        <translation type="unfinished">私人信息</translation>
+    </message>
+    <message>
+        <source>Conferences</source>
+        <translation type="unfinished">会议</translation>
+    </message>
 </context>
 <context>
     <name>ContactListModel</name>
     <message>
         <source>Error</source>
-        <translation>错误</translation>
+        <translation type="vanished">错误</translation>
     </message>
     <message>
         <source>You can&apos;t set a blank group name.</source>
-        <translation>你不可以设置一个空白的组名。</translation>
+        <translation type="vanished">你不可以设置一个空白的组名。</translation>
     </message>
 </context>
 <context>
     <name>ContactListSpecialGroup</name>
     <message>
         <source>General</source>
-        <translation>通用</translation>
+        <translation type="vanished">通用</translation>
     </message>
     <message>
         <source>Not in List</source>
-        <translation>不在清单里</translation>
+        <translation type="vanished">不在清单里</translation>
     </message>
     <message>
         <source>Agents/Transports</source>
-        <translation>代理人/转换</translation>
+        <translation type="vanished">代理人/转换</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation>私人信息</translation>
+        <translation type="vanished">私人信息</translation>
     </message>
     <message>
         <source>Conferences</source>
-        <translation>会议</translation>
+        <translation type="vanished">会议</translation>
     </message>
 </context>
 <context>
     <name>ContactListUtil</name>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation>这会从你的联系人清单中永远删除&lt;br&gt;%1&lt;br&gt;。</translation>
+        <translation type="vanished">这会从你的联系人清单中永远删除&lt;br&gt;%1&lt;br&gt;。</translation>
     </message>
     <message numerus="yes">
         <source>and %n contacts </source>
-        <translation>
+        <translation type="vanished">
             <numerusform>和 %n 联系人 </numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>这会从你的联系人清单中永远删除&lt;br&gt;%1&lt;br&gt;%2以及%n个群组。</numerusform>
         </translation>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
-        <translation>这会从你的联系人清单中永远删除:&lt;br&gt;%1&lt;br&gt;%2和 &quot;%3&quot; 群组。</translation>
+        <translation type="vanished">这会从你的联系人清单中永远删除:&lt;br&gt;%1&lt;br&gt;%2和 &quot;%3&quot; 群组。</translation>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2from your contact list.</source>
-        <translation>这会从你的联系人清单中永远删除&lt;br&gt;%1&lt;br&gt;%2。</translation>
+        <translation type="vanished">这会从你的联系人清单中永远删除&lt;br&gt;%1&lt;br&gt;%2。</translation>
     </message>
     <message>
         <source>This is a system group and can&apos;t be removed. Permanently remove all its contacts from your contact list?</source>
-        <translation>这是系统群组,不能删除。永远从你的联络清单中删除这群组内的所有联系人吗?</translation>
+        <translation type="vanished">这是系统群组,不能删除。永远从你的联络清单中删除这群组内的所有联系人吗?</translation>
     </message>
     <message>
         <source>Clear Group</source>
-        <translation>清除群组</translation>
+        <translation type="vanished">清除群组</translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;group and all its contacts from your contact list.</source>
-        <translation>这会从你的联系人清单中永远删除群组&lt;br&gt;%1&lt;br&gt;以及之内的联系人。</translation>
+        <translation type="vanished">这会从你的联系人清单中永远删除群组&lt;br&gt;%1&lt;br&gt;以及之内的联系人。</translation>
     </message>
     <message>
         <source>This will permanently remove %1 from your contact list. You could block it in order to avoid further messages.</source>
-        <translation>这会把 %1 从你的联系人清单中永远删除。你也可以封锁他来避免之后的信息。</translation>
+        <translation type="vanished">这会把 %1 从你的联系人清单中永远删除。你也可以封锁他来避免之后的信息。</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>删除</translation>
+        <translation type="vanished">删除</translation>
     </message>
     <message>
         <source>Block</source>
-        <translation>封锁</translation>
+        <translation type="vanished">封锁</translation>
     </message>
     <message>
         <source>This will remove %1 from &quot;%2&quot; group. You could also remove it from all groups.</source>
-        <translation>这会把 %1 删除群组 &quot;%2&quot;。你也可以把他从全部的群组中删除。</translation>
+        <translation type="vanished">这会把 %1 删除群组 &quot;%2&quot;。你也可以把他从全部的群组中删除。</translation>
     </message>
     <message>
         <source>Delete From All Groups</source>
-        <translation>从所有群组删除</translation>
+        <translation type="vanished">从所有群组删除</translation>
     </message>
     <message>
         <source>Deleting contacts</source>
-        <translation>删除联系人</translation>
+        <translation type="vanished">删除联系人</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
+    </message>
+</context>
+<context>
+    <name>ContactListViewDelegate::Private</name>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -2924,7 +2979,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Not in list</source>
-        <translation>不在清单里</translation>
+        <translation type="vanished">不在清单里</translation>
     </message>
     <message>
         <source>Agents/Transports</source>
@@ -2932,330 +2987,330 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Private Messages</source>
-        <translation>私人信息</translation>
+        <translation type="vanished">私人信息</translation>
     </message>
     <message>
         <source>Online Users</source>
-        <translation>在线的用户</translation>
+        <translation type="vanished">在线的用户</translation>
     </message>
     <message>
         <source>Send Server Message</source>
-        <translation>发送服务器信息</translation>
+        <translation type="vanished">发送服务器信息</translation>
     </message>
     <message>
         <source>Set MOTD</source>
-        <translation>设置 MOTD</translation>
+        <translation type="vanished">设置 MOTD</translation>
     </message>
     <message>
         <source>Update MOTD</source>
-        <translation>更新 MOTD</translation>
+        <translation type="vanished">更新 MOTD</translation>
     </message>
     <message>
         <source>Delete MOTD</source>
-        <translation>删除 MOTD</translation>
+        <translation type="vanished">删除 MOTD</translation>
     </message>
     <message>
         <source>&amp;Status</source>
-        <translation>状态(&amp;S)</translation>
+        <translation type="vanished">状态(&amp;S)</translation>
     </message>
     <message>
         <source>Mood</source>
-        <translation>心情</translation>
+        <translation type="vanished">心情</translation>
     </message>
     <message>
         <source>Activity</source>
-        <translation>活动</translation>
+        <translation type="vanished">活动</translation>
     </message>
     <message>
         <source>Set Avatar</source>
-        <translation>设置显示图片</translation>
+        <translation type="vanished">设置显示图片</translation>
     </message>
     <message>
         <source>Unset Avatar</source>
-        <translation>取消显示图片</translation>
+        <translation type="vanished">取消显示图片</translation>
     </message>
     <message>
         <source>Avatar</source>
-        <translation>显示图片</translation>
+        <translation type="vanished">显示图片</translation>
     </message>
     <message>
         <source>Manage...</source>
-        <translation>管理...</translation>
+        <translation type="vanished">管理...</translation>
     </message>
     <message>
         <source>Join %1</source>
-        <translation>加入 %1</translation>
+        <translation type="vanished">加入 %1</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation>书签</translation>
+        <translation type="vanished">书签</translation>
     </message>
     <message>
         <source>&amp;Add a Contact</source>
-        <translation>添加一个联系人(&amp;A)</translation>
+        <translation type="vanished">添加一个联系人(&amp;A)</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
-        <translation>查找服务(&amp;D)</translation>
+        <translation type="vanished">查找服务(&amp;D)</translation>
     </message>
     <message>
         <source>New &amp;Blank Message</source>
-        <translation>新建空白信息(&amp;B)</translation>
+        <translation type="vanished">新建空白信息(&amp;B)</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>XML 控制台(&amp;X)</translation>
+        <translation type="vanished">XML 控制台(&amp;X)</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
-        <translation>修改账号(&amp;M)...</translation>
+        <translation type="vanished">修改账号(&amp;M)...</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
-        <translation>管理(&amp;A)</translation>
+        <translation type="vanished">管理(&amp;A)</translation>
     </message>
     <message>
         <source>Send Message to Group</source>
-        <translation>发送信息到群组</translation>
+        <translation type="vanished">发送信息到群组</translation>
     </message>
     <message>
         <source>Remove Group</source>
-        <translation>删除群组</translation>
+        <translation type="vanished">删除群组</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
-        <translation>删除群组和联系人</translation>
+        <translation type="vanished">删除群组和联系人</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>隐藏</translation>
+        <translation type="vanished">隐藏</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation>这将导致本组中的所有联系人与它关联。
+        <translation type="vanished">这将导致本组中的所有联系人与它关联。
 
 要继续吗？</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>是(&amp;Y)</translation>
+        <translation type="vanished">是(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>否(&amp;N)</translation>
+        <translation type="vanished">否(&amp;N)</translation>
     </message>
     <message>
         <source>WARNING!  This will remove all contacts associated with this group!
 
 Proceed?</source>
-        <translation>警告!  这将删除所有与此组关联的联系人!
+        <translation type="vanished">警告!  这将删除所有与此组关联的联系人!
 
 要继续吗?</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
-        <translation>添加/授权到联系人清单</translation>
+        <translation type="vanished">添加/授权到联系人清单</translation>
     </message>
     <message>
         <source>Send Message To</source>
-        <translation>发送信息到</translation>
+        <translation type="vanished">发送信息到</translation>
     </message>
     <message>
         <source>Open Chat To</source>
-        <translation>打开对话到</translation>
+        <translation type="vanished">打开对话到</translation>
     </message>
     <message>
         <source>Open a Whiteboard To</source>
-        <translation>打开白板到</translation>
+        <translation type="vanished">打开白板到</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation>执行指令(&amp;X)</translation>
+        <translation type="vanished">执行指令(&amp;X)</translation>
     </message>
     <message>
         <source>Active Chats</source>
-        <translation>活跃的对话</translation>
+        <translation type="vanished">活跃的对话</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>语音通话</translation>
+        <translation type="vanished">语音通话</translation>
     </message>
     <message>
         <source>Send &amp;File</source>
-        <translation>发送档案(&amp;F)</translation>
+        <translation type="vanished">发送档案(&amp;F)</translation>
     </message>
     <message>
         <source>Invite To</source>
-        <translation>邀请</translation>
+        <translation type="vanished">邀请</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation>无(&amp;N)</translation>
+        <translation type="vanished">无(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Create New...</source>
-        <translation>建立新的(&amp;C)...</translation>
+        <translation type="vanished">建立新的(&amp;C)...</translation>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation>群组(&amp;G)</translation>
+        <translation type="vanished">群组(&amp;G)</translation>
     </message>
     <message>
         <source>Log Off</source>
-        <translation>注销</translation>
+        <translation type="vanished">注销</translation>
     </message>
     <message>
         <source>Resend Authorization To</source>
-        <translation>重发送授权到</translation>
+        <translation type="vanished">重发送授权到</translation>
     </message>
     <message>
         <source>Rerequest Authorization From</source>
-        <translation>要求授权从</translation>
+        <translation type="vanished">要求授权从</translation>
     </message>
     <message>
         <source>Remove Authorization From</source>
-        <translation>删除授权从</translation>
+        <translation type="vanished">删除授权从</translation>
     </message>
     <message>
         <source>Authorization</source>
-        <translation>授权</translation>
+        <translation type="vanished">授权</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
-        <translation>图片(&amp;P)</translation>
+        <translation type="vanished">图片(&amp;P)</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation>指定 Open&amp;PGP 钥匙</translation>
+        <translation type="vanished">指定 Open&amp;PGP 钥匙</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation>取消指定 Open&amp;PGP 钥匙</translation>
+        <translation type="vanished">取消指定 Open&amp;PGP 钥匙</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation>授权</translation>
+        <translation type="vanished">授权</translation>
     </message>
     <message>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>发送授权到 &lt;b&gt;%1&lt;/b&gt;。</translation>
+        <translation type="vanished">发送授权到 &lt;b&gt;%1&lt;/b&gt;。</translation>
     </message>
     <message>
         <source>Create New Group</source>
-        <translation>建立新群组</translation>
+        <translation type="vanished">建立新群组</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation>输入新群组的名称:</translation>
+        <translation type="vanished">输入新群组的名称:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>添加</translation>
+        <translation type="vanished">添加</translation>
     </message>
     <message>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation>已添加/已授权 &lt;b&gt;%1&lt;/b&gt; 到联系人清单。</translation>
+        <translation type="vanished">已添加/已授权 &lt;b&gt;%1&lt;/b&gt; 到联系人清单。</translation>
     </message>
     <message>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>已从 &lt;b&gt;%1&lt;/b&gt; 要求授权。</translation>
+        <translation type="vanished">已从 &lt;b&gt;%1&lt;/b&gt; 要求授权。</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>删除</translation>
+        <translation type="vanished">删除</translation>
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation>你确定要取消 &lt;b&gt;%1&lt;/b&gt; 的授权吗?</translation>
+        <translation type="vanished">你确定要取消 &lt;b&gt;%1&lt;/b&gt; 的授权吗?</translation>
     </message>
     <message>
         <source>Invitation</source>
-        <translation>邀请</translation>
+        <translation type="vanished">邀请</translation>
     </message>
     <message>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>发送群组邀请给 &lt;b&gt;%1&lt;/b&gt;。</translation>
+        <translation type="vanished">发送群组邀请给 &lt;b&gt;%1&lt;/b&gt;。</translation>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
-        <translation>你确定要从你的联系人清单中删除 &lt;b&gt;%1&lt;/b&gt; 吗?</translation>
+        <translation type="vanished">你确定要从你的联系人清单中删除 &lt;b&gt;%1&lt;/b&gt; 吗?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>错误</translation>
+        <translation type="vanished">错误</translation>
     </message>
     <message>
         <source>You cannot set a blank name.</source>
-        <translation>你不可以设置一个空白的名称。</translation>
+        <translation type="vanished">你不可以设置一个空白的名称。</translation>
     </message>
     <message>
         <source>You cannot set a blank group name.</source>
-        <translation>你不可以设置一个空白的组名。</translation>
+        <translation type="vanished">你不可以设置一个空白的组名。</translation>
     </message>
     <message>
         <source>You already have a group with that name.</source>
-        <translation>你已经有一个叫做那个名称的群组了。</translation>
+        <translation type="vanished">你已经有一个叫做那个名称的群组了。</translation>
     </message>
 </context>
 <context>
     <name>ContactView</name>
     <message>
         <source>Hidden</source>
-        <translation>隐藏</translation>
+        <translation type="vanished">隐藏</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation>发送信息(&amp;M)</translation>
+        <translation type="vanished">发送信息(&amp;M)</translation>
     </message>
     <message>
         <source>Re&amp;name</source>
-        <translation>重新命名(&amp;N)</translation>
+        <translation type="vanished">重新命名(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Assign Custom Picture</source>
-        <translation>指定自定图片(&amp;A)</translation>
+        <translation type="vanished">指定自定图片(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Clear Custom Picture</source>
-        <translation>清除自定图片(&amp;C)</translation>
+        <translation type="vanished">清除自定图片(&amp;C)</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation>打开对话窗口(&amp;C)</translation>
+        <translation type="vanished">打开对话窗口(&amp;C)</translation>
     </message>
     <message>
         <source>Open a &amp;Whiteboard</source>
-        <translation>打开白板(&amp;W)</translation>
+        <translation type="vanished">打开白板(&amp;W)</translation>
     </message>
     <message>
         <source>&amp;History</source>
-        <translation>历史(&amp;H)</translation>
+        <translation type="vanished">历史(&amp;H)</translation>
     </message>
     <message>
         <source>&amp;Log on</source>
-        <translation>登入(&amp;L)</translation>
+        <translation type="vanished">登入(&amp;L)</translation>
     </message>
     <message>
         <source>&amp;Receive Incoming Event</source>
-        <translation>接收进来的事件(&amp;R)</translation>
+        <translation type="vanished">接收进来的事件(&amp;R)</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation>删除(&amp;O)</translation>
+        <translation type="vanished">删除(&amp;O)</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation>用户信息(&amp;I)</translation>
+        <translation type="vanished">用户信息(&amp;I)</translation>
     </message>
     <message>
         <source>Choose an Image</source>
-        <translation>选择一个图片</translation>
+        <translation type="vanished">选择一个图片</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation>所有档案 (*.png *.jpg *.gif)</translation>
+        <translation type="vanished">所有档案 (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -6052,6 +6107,29 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
 </context>
 <context>
+    <name>HistoryContactListModel</name>
+    <message>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not in list</source>
+        <translation type="unfinished">不在清单里</translation>
+    </message>
+    <message>
+        <source>Private messages</source>
+        <translation type="unfinished">私人信息</translation>
+    </message>
+    <message>
+        <source>All contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>HistoryDlg</name>
     <message>
         <source>HistoryDlg</source>
@@ -6144,6 +6222,10 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Close history</source>
         <translation>关闭历史文件</translation>
+    </message>
+    <message>
+        <source>All contacts</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12936,7 +13018,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <name>PsiContactListViewDelegate</name>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -12951,7 +13033,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation>对话(&amp;C)</translation>
+        <translation type="vanished">对话(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;History</source>
@@ -12959,31 +13041,31 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Pro&amp;file</source>
-        <translation>个人配置 (&amp;F)</translation>
+        <translation type="vanished">个人配置 (&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Photos</source>
-        <translation>照片(&amp;P)</translation>
+        <translation type="vanished">照片(&amp;P)</translation>
     </message>
     <message>
         <source>Send &amp;E-mail</source>
-        <translation>发送 &amp;E-mail</translation>
+        <translation type="vanished">发送 &amp;E-mail</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>添加(&amp;A)</translation>
+        <translation type="vanished">添加(&amp;A)</translation>
     </message>
     <message>
         <source>A&amp;uth</source>
-        <translation>授权(&amp;U)</translation>
+        <translation type="vanished">授权(&amp;U)</translation>
     </message>
     <message>
         <source>&amp;Block</source>
-        <translation>封锁(&amp;B)</translation>
+        <translation type="vanished">封锁(&amp;B)</translation>
     </message>
     <message>
         <source>Disable mood notifications</source>
-        <translation>停用心情提醒</translation>
+        <translation type="vanished">停用心情提醒</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
@@ -13071,7 +13153,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>&amp;Unblock</source>
-        <translation>解除封锁(&amp;U)</translation>
+        <translation type="vanished">解除封锁(&amp;U)</translation>
     </message>
     <message>
         <source>Invitation</source>
@@ -13170,11 +13252,19 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Manage &amp;Contact</source>
+        <source>&amp;Authorization</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Authorization</source>
+        <source>Copy User JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy Groupchat JID</source>
+        <translation type="unfinished">复制群聊 JID</translation>
+    </message>
+    <message>
+        <source>Advanc&amp;ed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13432,23 +13522,46 @@ Would you like to activate that session now?</source>
     <name>PsiRosterWidget</name>
     <message>
         <source>Remove Group</source>
-        <translation>删除群组</translation>
+        <translation type="vanished">删除群组</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation>这会取消所有在这个群组里的联系人的连结。
+        <translation type="vanished">这会取消所有在这个群组里的联系人的连结。
 
 执行吗?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>是(&amp;Y)</translation>
+        <translation type="vanished">是(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>否(&amp;N)</translation>
+        <translation type="vanished">否(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation type="unfinished">清除</translation>
+    </message>
+</context>
+<context>
+    <name>PsiThemeModel</name>
+    <message>
+        <source>Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authors</source>
+        <translation type="unfinished">作者</translation>
+    </message>
+    <message>
+        <source>Released on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15127,15 +15240,15 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RemoveConfirmationMessageBox</name>
     <message>
         <source>OK</source>
-        <translation>确定</translation>
+        <translation type="vanished">确定</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>删除</translation>
+        <translation type="vanished">删除</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>取消</translation>
+        <translation type="vanished">取消</translation>
     </message>
 </context>
 <context>

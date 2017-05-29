@@ -57,7 +57,7 @@
 &lt;br&gt;
 Copyright © 2001-2014 The Psi Team.&lt;br&gt;
 </source>
-        <translation>Platformně nezávislý XMPP klient zaměřený na pokročilé uživatele.&lt;br&gt;
+        <translation type="vanished">Platformně nezávislý XMPP klient zaměřený na pokročilé uživatele.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2014 Tým Psi.&lt;br&gt;</translation>
     </message>
@@ -91,7 +91,7 @@ Copyright © 2001-2014 Tým Psi.&lt;br&gt;</translation>
     </message>
     <message>
         <source>Current Maintainer and Original Author</source>
-        <translation>Současný správce a původní autor</translation>
+        <translation type="vanished">Současný správce a původní autor</translation>
     </message>
     <message>
         <source>Past Lead Developer and Maintainer</source>
@@ -236,6 +236,23 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
 Připoj se k týmu překladatelů jěště dnes!! Navštiv 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; pro další informace!</translation>
+    </message>
+    <message>
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2017 The Psi Team.&lt;br&gt;
+</source>
+        <translation type="unfinished">Platformně nezávislý XMPP klient zaměřený na pokročilé uživatele.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2014 Tým Psi.&lt;br&gt; {2001-2017 ?}</translation>
+    </message>
+    <message>
+        <source>Original Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lead Developer and Current Maintainer</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2604,6 +2621,25 @@ Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu mus�
     </message>
 </context>
 <context>
+    <name>ContactListDragView</name>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished">%1 (%2)</translation>
+    </message>
+    <message>
+        <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
+        <translation type="unfinished">Navždy odstranit&lt;br&gt;%1&lt;br&gt;ze seznamu kontaktů.</translation>
+    </message>
+    <message>
+        <source>Deleting contacts</source>
+        <translation type="unfinished">Mazání kontaktů</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ContactListGroupMenu::Private</name>
     <message>
         <source>Re&amp;name</source>
@@ -2631,7 +2667,7 @@ Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu mus�
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>Odst&amp;ranit</translation>
+        <translation type="vanished">Odst&amp;ranit</translation>
     </message>
     <message>
         <source>Remove Group</source>
@@ -2643,7 +2679,7 @@ Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu mus�
     </message>
     <message>
         <source>&amp;Add group...</source>
-        <translation>Přid&amp;at skupinu...</translation>
+        <translation type="vanished">Přid&amp;at skupinu...</translation>
     </message>
     <message>
         <source>Hide All</source>
@@ -2665,50 +2701,71 @@ Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu mus�
         <source>Authorization</source>
         <translation>Autorizace</translation>
     </message>
+    <message>
+        <source>This will cause all contacts in this group to be disassociated with it.
+
+Proceed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ContactListItem</name>
+    <message>
+        <source>Agents/Transports</source>
+        <translation type="unfinished">Prostředníci/Transporty</translation>
+    </message>
+    <message>
+        <source>Private messages</source>
+        <translation type="unfinished">Soukromé zprávy</translation>
+    </message>
+    <message>
+        <source>Conferences</source>
+        <translation type="unfinished">Konference</translation>
+    </message>
 </context>
 <context>
     <name>ContactListModel</name>
     <message>
         <source>Error</source>
-        <translation>Chyba</translation>
+        <translation type="vanished">Chyba</translation>
     </message>
     <message>
         <source>You can&apos;t set a blank group name.</source>
-        <translation>Nemůžete nastavit prázdné jméno skupiny.</translation>
+        <translation type="vanished">Nemůžete nastavit prázdné jméno skupiny.</translation>
     </message>
 </context>
 <context>
     <name>ContactListSpecialGroup</name>
     <message>
         <source>General</source>
-        <translation>Obecné</translation>
+        <translation type="vanished">Obecné</translation>
     </message>
     <message>
         <source>Not in List</source>
-        <translation>Není v seznamu</translation>
+        <translation type="vanished">Není v seznamu</translation>
     </message>
     <message>
         <source>Agents/Transports</source>
-        <translation>Prostředníci/Transporty</translation>
+        <translation type="vanished">Prostředníci/Transporty</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation>Soukromé zprávy</translation>
+        <translation type="vanished">Soukromé zprávy</translation>
     </message>
     <message>
         <source>Conferences</source>
-        <translation>Konference</translation>
+        <translation type="vanished">Konference</translation>
     </message>
 </context>
 <context>
     <name>ContactListUtil</name>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation>Navždy odstranit&lt;br&gt;%1&lt;br&gt;ze seznamu kontaktů.</translation>
+        <translation type="vanished">Navždy odstranit&lt;br&gt;%1&lt;br&gt;ze seznamu kontaktů.</translation>
     </message>
     <message numerus="yes">
         <source>and %n contacts </source>
-        <translation>
+        <translation type="vanished">
             <numerusform>a %n kontakt </numerusform>
             <numerusform>a %n kontakty </numerusform>
             <numerusform>a %n kontaktů </numerusform>
@@ -2716,7 +2773,7 @@ Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu mus�
     </message>
     <message numerus="yes">
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>Navždy odebere:&lt;br&gt;%1&lt;br&gt;%2a %n skupinu ze seznamu kontaktů.</numerusform>
             <numerusform>Navždy odebere:&lt;br&gt;%1&lt;br&gt;%2a %n skupiny ze seznamu kontaktů.</numerusform>
             <numerusform>Navždy odebere:&lt;br&gt;%1&lt;br&gt;%2a %n skupin ze seznamu kontaktů.</numerusform>
@@ -2724,51 +2781,58 @@ Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu mus�
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
-        <translation>Navždy odstranit:&lt;br&gt;%1&lt;br&gt;%2a &quot;%3&quot; skupinu ze seznamu kontaktů.</translation>
+        <translation type="vanished">Navždy odstranit:&lt;br&gt;%1&lt;br&gt;%2a &quot;%3&quot; skupinu ze seznamu kontaktů.</translation>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2from your contact list.</source>
-        <translation>Navždy odstranit:&lt;br&gt;%1&lt;br&gt;%2ze seznamu kontaktů.</translation>
+        <translation type="vanished">Navždy odstranit:&lt;br&gt;%1&lt;br&gt;%2ze seznamu kontaktů.</translation>
     </message>
     <message>
         <source>This is a system group and can&apos;t be removed. Permanently remove all its contacts from your contact list?</source>
-        <translation>Toto je systémová skupina kterou nelze odstranit. Navždy odstranit všechny obsažené kontakty ze seznamu?</translation>
+        <translation type="vanished">Toto je systémová skupina kterou nelze odstranit. Navždy odstranit všechny obsažené kontakty ze seznamu?</translation>
     </message>
     <message>
         <source>Clear Group</source>
-        <translation>Vyčistit skupinu</translation>
+        <translation type="vanished">Vyčistit skupinu</translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;group and all its contacts from your contact list.</source>
-        <translation>Navždy odstranit&lt;br&gt;%1&lt;br&gt;skupinu a všechny její kontakty ze seznamu.</translation>
+        <translation type="vanished">Navždy odstranit&lt;br&gt;%1&lt;br&gt;skupinu a všechny její kontakty ze seznamu.</translation>
     </message>
     <message>
         <source>This will permanently remove %1 from your contact list. You could block it in order to avoid further messages.</source>
-        <translation>Navždy odstranit %1 ze seznamu kontaktů. Dá se i zablokovat proti příjmu dalších zpráv.</translation>
+        <translation type="vanished">Navždy odstranit %1 ze seznamu kontaktů. Dá se i zablokovat proti příjmu dalších zpráv.</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Smazat</translation>
+        <translation type="vanished">Smazat</translation>
     </message>
     <message>
         <source>Block</source>
-        <translation>Blokovat</translation>
+        <translation type="vanished">Blokovat</translation>
     </message>
     <message>
         <source>This will remove %1 from &quot;%2&quot; group. You could also remove it from all groups.</source>
-        <translation>Odstranit %1 ze skupiny &quot;%2&quot;. Dá se odstranit ze všech skupin.</translation>
+        <translation type="vanished">Odstranit %1 ze skupiny &quot;%2&quot;. Dá se odstranit ze všech skupin.</translation>
     </message>
     <message>
         <source>Delete From All Groups</source>
-        <translation>Smazat ze všech skupin</translation>
+        <translation type="vanished">Smazat ze všech skupin</translation>
     </message>
     <message>
         <source>Deleting contacts</source>
-        <translation>Mazání kontaktů</translation>
+        <translation type="vanished">Mazání kontaktů</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
+    </message>
+</context>
+<context>
+    <name>ContactListViewDelegate::Private</name>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -2940,7 +3004,7 @@ Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu mus�
     </message>
     <message>
         <source>Not in list</source>
-        <translation>Není v seznamu</translation>
+        <translation type="vanished">Není v seznamu</translation>
     </message>
     <message>
         <source>Agents/Transports</source>
@@ -2948,330 +3012,330 @@ Pozn.: aby modul pracoval správně, Nástrojová lišta skupinového chatu mus�
     </message>
     <message>
         <source>Private Messages</source>
-        <translation>Soukromé zprávy</translation>
+        <translation type="vanished">Soukromé zprávy</translation>
     </message>
     <message>
         <source>Online Users</source>
-        <translation>Uživatelé online</translation>
+        <translation type="vanished">Uživatelé online</translation>
     </message>
     <message>
         <source>Send Server Message</source>
-        <translation>Odeslat Serverovou Zprávu</translation>
+        <translation type="vanished">Odeslat Serverovou Zprávu</translation>
     </message>
     <message>
         <source>Set MOTD</source>
-        <translation>Nastavit MOTD (událost dne)</translation>
+        <translation type="vanished">Nastavit MOTD (událost dne)</translation>
     </message>
     <message>
         <source>Update MOTD</source>
-        <translation>Obnovit MOTD</translation>
+        <translation type="vanished">Obnovit MOTD</translation>
     </message>
     <message>
         <source>Delete MOTD</source>
-        <translation>Smazat MOTD</translation>
+        <translation type="vanished">Smazat MOTD</translation>
     </message>
     <message>
         <source>&amp;Status</source>
-        <translation>&amp;Stav</translation>
+        <translation type="vanished">&amp;Stav</translation>
     </message>
     <message>
         <source>Mood</source>
-        <translation>Nálada</translation>
+        <translation type="vanished">Nálada</translation>
     </message>
     <message>
         <source>Activity</source>
-        <translation>ČInnost</translation>
+        <translation type="vanished">ČInnost</translation>
     </message>
     <message>
         <source>Set Avatar</source>
-        <translation>Přiřadit avatara</translation>
+        <translation type="vanished">Přiřadit avatara</translation>
     </message>
     <message>
         <source>Unset Avatar</source>
-        <translation>Odstranit avatara</translation>
+        <translation type="vanished">Odstranit avatara</translation>
     </message>
     <message>
         <source>Avatar</source>
-        <translation>Avatar</translation>
+        <translation type="vanished">Avatar</translation>
     </message>
     <message>
         <source>Manage...</source>
-        <translation>Spravovat...</translation>
+        <translation type="vanished">Spravovat...</translation>
     </message>
     <message>
         <source>Join %1</source>
-        <translation>Vejít do %1</translation>
+        <translation type="vanished">Vejít do %1</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation>Záložky</translation>
+        <translation type="vanished">Záložky</translation>
     </message>
     <message>
         <source>&amp;Add a Contact</source>
-        <translation>Přid&amp;at Kontakt</translation>
+        <translation type="vanished">Přid&amp;at Kontakt</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
-        <translation>&amp;Prohledávání služeb</translation>
+        <translation type="vanished">&amp;Prohledávání služeb</translation>
     </message>
     <message>
         <source>New &amp;Blank Message</source>
-        <translation>Nová &amp;Prázdná Zpráva</translation>
+        <translation type="vanished">Nová &amp;Prázdná Zpráva</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>&amp;XML konzola</translation>
+        <translation type="vanished">&amp;XML konzola</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
-        <translation>&amp;Upravit účet...</translation>
+        <translation type="vanished">&amp;Upravit účet...</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
-        <translation>&amp;Správce</translation>
+        <translation type="vanished">&amp;Správce</translation>
     </message>
     <message>
         <source>Send Message to Group</source>
-        <translation>Zaslat Zprávu Skupině</translation>
+        <translation type="vanished">Zaslat Zprávu Skupině</translation>
     </message>
     <message>
         <source>Remove Group</source>
-        <translation>Odstranit skupinu</translation>
+        <translation type="vanished">Odstranit skupinu</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
-        <translation>Odstranit skupinu a kontakty</translation>
+        <translation type="vanished">Odstranit skupinu a kontakty</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>Skrýt</translation>
+        <translation type="vanished">Skrýt</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation>To zruší přiřazení kontaktů ke skupině.
+        <translation type="vanished">To zruší přiřazení kontaktů ke skupině.
 
 Provést?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ano</translation>
+        <translation type="vanished">&amp;Ano</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
     </message>
     <message>
         <source>WARNING!  This will remove all contacts associated with this group!
 
 Proceed?</source>
-        <translation>VAROVÁNÍ!  To odebere všechny kontakty přiřazené do této skupiny!
+        <translation type="vanished">VAROVÁNÍ!  To odebere všechny kontakty přiřazené do této skupiny!
 
 Provést?</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
-        <translation>Přidat/Oprávnit do Seznamu Kontaktů</translation>
+        <translation type="vanished">Přidat/Oprávnit do Seznamu Kontaktů</translation>
     </message>
     <message>
         <source>Send Message To</source>
-        <translation>Poslat zprávu</translation>
+        <translation type="vanished">Poslat zprávu</translation>
     </message>
     <message>
         <source>Open Chat To</source>
-        <translation>Otevřít chat</translation>
+        <translation type="vanished">Otevřít chat</translation>
     </message>
     <message>
         <source>Open a Whiteboard To</source>
-        <translation>Otevřít tabuli (whiteboard)</translation>
+        <translation type="vanished">Otevřít tabuli (whiteboard)</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation>Vy&amp;konat příkaz</translation>
+        <translation type="vanished">Vy&amp;konat příkaz</translation>
     </message>
     <message>
         <source>Active Chats</source>
-        <translation>Aktivní Chaty</translation>
+        <translation type="vanished">Aktivní Chaty</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>Hlasový hovor</translation>
+        <translation type="vanished">Hlasový hovor</translation>
     </message>
     <message>
         <source>Send &amp;File</source>
-        <translation>Poslat &amp;Soubor</translation>
+        <translation type="vanished">Poslat &amp;Soubor</translation>
     </message>
     <message>
         <source>Invite To</source>
-        <translation>Pozvat Do</translation>
+        <translation type="vanished">Pozvat Do</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation>Žád&amp;ná</translation>
+        <translation type="vanished">Žád&amp;ná</translation>
     </message>
     <message>
         <source>&amp;Create New...</source>
-        <translation>&amp;Vytvořit Novou...</translation>
+        <translation type="vanished">&amp;Vytvořit Novou...</translation>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation>&amp;Skupina</translation>
+        <translation type="vanished">&amp;Skupina</translation>
     </message>
     <message>
         <source>Log Off</source>
-        <translation>Odhlášení</translation>
+        <translation type="vanished">Odhlášení</translation>
     </message>
     <message>
         <source>Resend Authorization To</source>
-        <translation>Znovu Poslat Oprávnění</translation>
+        <translation type="vanished">Znovu Poslat Oprávnění</translation>
     </message>
     <message>
         <source>Rerequest Authorization From</source>
-        <translation>Znovu vyžádat oprávnění</translation>
+        <translation type="vanished">Znovu vyžádat oprávnění</translation>
     </message>
     <message>
         <source>Remove Authorization From</source>
-        <translation>Odebrat oprávnění</translation>
+        <translation type="vanished">Odebrat oprávnění</translation>
     </message>
     <message>
         <source>Authorization</source>
-        <translation>Oprávnění</translation>
+        <translation type="vanished">Oprávnění</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
-        <translation>O&amp;brázek</translation>
+        <translation type="vanished">O&amp;brázek</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation>Přidělit Open&amp;PGP Klíč</translation>
+        <translation type="vanished">Přidělit Open&amp;PGP Klíč</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation>Odebrat Open&amp;PGP Klíč</translation>
+        <translation type="vanished">Odebrat Open&amp;PGP Klíč</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation>Oprávnit</translation>
+        <translation type="vanished">Oprávnit</translation>
     </message>
     <message>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Autorizace pro &lt;b&gt;%1&lt;/b&gt; byla odeslána.</translation>
+        <translation type="vanished">Autorizace pro &lt;b&gt;%1&lt;/b&gt; byla odeslána.</translation>
     </message>
     <message>
         <source>Create New Group</source>
-        <translation>Vytvořit novou skupinu</translation>
+        <translation type="vanished">Vytvořit novou skupinu</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation>Zadej jméno nové skupiny:</translation>
+        <translation type="vanished">Zadej jméno nové skupiny:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Přidat</translation>
+        <translation type="vanished">Přidat</translation>
     </message>
     <message>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation>&lt;b&gt;%1&lt;/b&gt; byl(a) přidán(a)/oprávněn(a) do seznamu kontaktů.</translation>
+        <translation type="vanished">&lt;b&gt;%1&lt;/b&gt; byl(a) přidán(a)/oprávněn(a) do seznamu kontaktů.</translation>
     </message>
     <message>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Oprávnění bylo znovu vyžádáno od &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="vanished">Oprávnění bylo znovu vyžádáno od &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Odstranit</translation>
+        <translation type="vanished">Odstranit</translation>
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation>Jsi si jist, že chceš odebrat opravnění od &lt;b&gt;%1&lt;/b&gt;?</translation>
+        <translation type="vanished">Jsi si jist, že chceš odebrat opravnění od &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
         <source>Invitation</source>
-        <translation>Pozvánka</translation>
+        <translation type="vanished">Pozvánka</translation>
     </message>
     <message>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Pozvánka do skupinového chatu pro &lt;b&gt;%1&lt;/b&gt; byla odeslána.</translation>
+        <translation type="vanished">Pozvánka do skupinového chatu pro &lt;b&gt;%1&lt;/b&gt; byla odeslána.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
-        <translation>Chceš opravdu odstranit &lt;b&gt;%1&lt;/b&gt; ze svého seznamu kontaktů?</translation>
+        <translation type="vanished">Chceš opravdu odstranit &lt;b&gt;%1&lt;/b&gt; ze svého seznamu kontaktů?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Chyba</translation>
+        <translation type="vanished">Chyba</translation>
     </message>
     <message>
         <source>You cannot set a blank name.</source>
-        <translation>Nemůžeš zadat prázdné jméno.</translation>
+        <translation type="vanished">Nemůžeš zadat prázdné jméno.</translation>
     </message>
     <message>
         <source>You cannot set a blank group name.</source>
-        <translation>Nemůžeš zadat prázdné jméno skupiny.</translation>
+        <translation type="vanished">Nemůžeš zadat prázdné jméno skupiny.</translation>
     </message>
     <message>
         <source>You already have a group with that name.</source>
-        <translation>Takto pojmenovaná skupina již existuje.</translation>
+        <translation type="vanished">Takto pojmenovaná skupina již existuje.</translation>
     </message>
 </context>
 <context>
     <name>ContactView</name>
     <message>
         <source>Hidden</source>
-        <translation>Skrytý</translation>
+        <translation type="vanished">Skrytý</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation>Po&amp;slat Zprávu</translation>
+        <translation type="vanished">Po&amp;slat Zprávu</translation>
     </message>
     <message>
         <source>Re&amp;name</source>
-        <translation>Přejme&amp;novat</translation>
+        <translation type="vanished">Přejme&amp;novat</translation>
     </message>
     <message>
         <source>&amp;Assign Custom Picture</source>
-        <translation>Přiřadit vlastní &amp;obrázek</translation>
+        <translation type="vanished">Přiřadit vlastní &amp;obrázek</translation>
     </message>
     <message>
         <source>&amp;Clear Custom Picture</source>
-        <translation>Z&amp;rušit vlastní obrázek</translation>
+        <translation type="vanished">Z&amp;rušit vlastní obrázek</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation>Otevřít &amp;Okno Chatu</translation>
+        <translation type="vanished">Otevřít &amp;Okno Chatu</translation>
     </message>
     <message>
         <source>Open a &amp;Whiteboard</source>
-        <translation>Otevřít Tabuli (&amp;Whiteboard)</translation>
+        <translation type="vanished">Otevřít Tabuli (&amp;Whiteboard)</translation>
     </message>
     <message>
         <source>&amp;History</source>
-        <translation>&amp;Historie</translation>
+        <translation type="vanished">&amp;Historie</translation>
     </message>
     <message>
         <source>&amp;Log on</source>
-        <translation>&amp;Přihlásit se</translation>
+        <translation type="vanished">&amp;Přihlásit se</translation>
     </message>
     <message>
         <source>&amp;Receive Incoming Event</source>
-        <translation>Při&amp;jmout Příchozí Událost</translation>
+        <translation type="vanished">Při&amp;jmout Příchozí Událost</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation>&amp;Odstranit</translation>
+        <translation type="vanished">&amp;Odstranit</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation>&amp;Informace o uživateli</translation>
+        <translation type="vanished">&amp;Informace o uživateli</translation>
     </message>
     <message>
         <source>Choose an Image</source>
-        <translation>Vyber obrázek</translation>
+        <translation type="vanished">Vyber obrázek</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation>Všechny soubory (*.png *.jpg *.gif)</translation>
+        <translation type="vanished">Všechny soubory (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -6071,6 +6135,29 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     </message>
 </context>
 <context>
+    <name>HistoryContactListModel</name>
+    <message>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not in list</source>
+        <translation type="unfinished">Není v seznamu</translation>
+    </message>
+    <message>
+        <source>Private messages</source>
+        <translation type="unfinished">Soukromé zprávy</translation>
+    </message>
+    <message>
+        <source>All contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>HistoryDlg</name>
     <message>
         <source>HistoryDlg</source>
@@ -6163,6 +6250,10 @@ Pro výměnu zpráv se používají standardní zprávy, takže tento zásuvný 
     <message>
         <source>Close history</source>
         <translation>Zavřít historii</translation>
+    </message>
+    <message>
+        <source>All contacts</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12931,7 +13022,7 @@ To možná znamená, že je již puštěna jiná instance Psi. To může způsob
     <name>PsiContactListViewDelegate</name>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -12946,7 +13037,7 @@ To možná znamená, že je již puštěna jiná instance Psi. To může způsob
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation>&amp;Chat</translation>
+        <translation type="vanished">&amp;Chat</translation>
     </message>
     <message>
         <source>&amp;History</source>
@@ -12954,31 +13045,31 @@ To možná znamená, že je již puštěna jiná instance Psi. To může způsob
     </message>
     <message>
         <source>Pro&amp;file</source>
-        <translation>Pro&amp;fil</translation>
+        <translation type="vanished">Pro&amp;fil</translation>
     </message>
     <message>
         <source>&amp;Photos</source>
-        <translation>Fo&amp;tky</translation>
+        <translation type="vanished">Fo&amp;tky</translation>
     </message>
     <message>
         <source>Send &amp;E-mail</source>
-        <translation>Poslat &amp;e-mail</translation>
+        <translation type="vanished">Poslat &amp;e-mail</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>Přid&amp;at</translation>
+        <translation type="vanished">Přid&amp;at</translation>
     </message>
     <message>
         <source>A&amp;uth</source>
-        <translation>&amp;Ověření</translation>
+        <translation type="vanished">&amp;Ověření</translation>
     </message>
     <message>
         <source>&amp;Block</source>
-        <translation>&amp;Blokovat</translation>
+        <translation type="vanished">&amp;Blokovat</translation>
     </message>
     <message>
         <source>Disable mood notifications</source>
-        <translation>Vypnout oznamování nálad</translation>
+        <translation type="vanished">Vypnout oznamování nálad</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
@@ -13066,7 +13157,7 @@ To možná znamená, že je již puštěna jiná instance Psi. To může způsob
     </message>
     <message>
         <source>&amp;Unblock</source>
-        <translation>O&amp;dblokovat</translation>
+        <translation type="vanished">O&amp;dblokovat</translation>
     </message>
     <message>
         <source>Invitation</source>
@@ -13166,11 +13257,23 @@ To možná znamená, že je již puštěna jiná instance Psi. To může způsob
     </message>
     <message>
         <source>Manage &amp;Contact</source>
-        <translation>Spravovat kontakt</translation>
+        <translation type="vanished">Spravovat kontakt</translation>
     </message>
     <message>
         <source>&amp;Authorization</source>
         <translation>Oprávnění</translation>
+    </message>
+    <message>
+        <source>Copy User JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy Groupchat JID</source>
+        <translation type="unfinished">Zkopírovat JID skupionvého chatu</translation>
+    </message>
+    <message>
+        <source>Advanc&amp;ed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13427,23 +13530,46 @@ Chceš aktivovat tuto relaci?</translation>
     <name>PsiRosterWidget</name>
     <message>
         <source>Remove Group</source>
-        <translation>Odstranit skupinu</translation>
+        <translation type="vanished">Odstranit skupinu</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation>Tato akce zruší přiřazení všech kontaktů ke skupině.
+        <translation type="vanished">Tato akce zruší přiřazení všech kontaktů ke skupině.
 
 Pokračovat?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Ano</translation>
+        <translation type="vanished">&amp;Ano</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Ne</translation>
+        <translation type="vanished">&amp;Ne</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation type="unfinished">Vyčistit</translation>
+    </message>
+</context>
+<context>
+    <name>PsiThemeModel</name>
+    <message>
+        <source>Version</source>
+        <translation type="unfinished">Verze</translation>
+    </message>
+    <message>
+        <source>Authors</source>
+        <translation type="unfinished">Autoři</translation>
+    </message>
+    <message>
+        <source>Released on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15156,15 +15282,15 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RemoveConfirmationMessageBox</name>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="vanished">OK</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Smazat</translation>
+        <translation type="vanished">Smazat</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Zrušit</translation>
+        <translation type="vanished">Zrušit</translation>
     </message>
 </context>
 <context>

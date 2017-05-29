@@ -74,7 +74,7 @@
     </message>
     <message>
         <source>Current Maintainer and Original Author</source>
-        <translation>Nhà duy trì hiện thời và tác giả gốc</translation>
+        <translation type="vanished">Nhà duy trì hiện thời và tác giả gốc</translation>
     </message>
     <message>
         <source>Lead Widget Developer</source>
@@ -134,13 +134,6 @@
     </message>
     <message>
         <source>psi/psiplus_logo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2014 The Psi Team.&lt;br&gt;
-</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -225,6 +218,21 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
 Join the translation team today! Go to 
 &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
 http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2017 The Psi Team.&lt;br&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Original Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lead Developer and Current Maintainer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2565,6 +2573,25 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
 </context>
 <context>
+    <name>ContactListDragView</name>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished">%1 (%2)</translation>
+    </message>
+    <message>
+        <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
+        <translation type="unfinished">Hành vi này sẽ gỡ bỏ hẳn &lt;br&gt;%1&lt;br&gt; ra danh sách liên lạc của bạn.</translation>
+    </message>
+    <message>
+        <source>Deleting contacts</source>
+        <translation type="unfinished">Đang xoá các liên lạc</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished">Xoá</translation>
+    </message>
+</context>
+<context>
     <name>ContactListGroupMenu::Private</name>
     <message>
         <source>Re&amp;name</source>
@@ -2576,7 +2603,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>&amp;Bỏ</translation>
+        <translation type="vanished">&amp;Bỏ</translation>
     </message>
     <message>
         <source>Remove Group</source>
@@ -2588,7 +2615,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;Add group...</source>
-        <translation>Thê&amp;m nhóm...</translation>
+        <translation type="vanished">Thê&amp;m nhóm...</translation>
     </message>
     <message>
         <source>Hidden</source>
@@ -2626,35 +2653,22 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <source>Leave All</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>ContactListModel</name>
     <message>
-        <source>Error</source>
-        <translation>Lỗi</translation>
-    </message>
-    <message>
-        <source>You can&apos;t set a blank group name.</source>
-        <translation>Không thể lập tên nhóm trống.</translation>
+        <source>This will cause all contacts in this group to be disassociated with it.
+
+Proceed?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>ContactListSpecialGroup</name>
-    <message>
-        <source>General</source>
-        <translation>Chung</translation>
-    </message>
-    <message>
-        <source>Not in List</source>
-        <translation>Không phải trong danh sách</translation>
-    </message>
+    <name>ContactListItem</name>
     <message>
         <source>Agents/Transports</source>
-        <translation>Tác nhân/Truyền tải</translation>
+        <translation type="unfinished">Tác nhân/Truyền tải</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation>Tin nhẳn riêng</translation>
+        <translation type="unfinished">Tin nhẳn riêng</translation>
     </message>
     <message>
         <source>Conferences</source>
@@ -2662,70 +2676,107 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
 </context>
 <context>
+    <name>ContactListModel</name>
+    <message>
+        <source>Error</source>
+        <translation type="vanished">Lỗi</translation>
+    </message>
+    <message>
+        <source>You can&apos;t set a blank group name.</source>
+        <translation type="vanished">Không thể lập tên nhóm trống.</translation>
+    </message>
+</context>
+<context>
+    <name>ContactListSpecialGroup</name>
+    <message>
+        <source>General</source>
+        <translation type="vanished">Chung</translation>
+    </message>
+    <message>
+        <source>Not in List</source>
+        <translation type="vanished">Không phải trong danh sách</translation>
+    </message>
+    <message>
+        <source>Agents/Transports</source>
+        <translation type="vanished">Tác nhân/Truyền tải</translation>
+    </message>
+    <message>
+        <source>Private messages</source>
+        <translation type="vanished">Tin nhẳn riêng</translation>
+    </message>
+</context>
+<context>
     <name>ContactListUtil</name>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation>Hành vi này sẽ gỡ bỏ hẳn &lt;br&gt;%1&lt;br&gt; ra danh sách liên lạc của bạn.</translation>
+        <translation type="vanished">Hành vi này sẽ gỡ bỏ hẳn &lt;br&gt;%1&lt;br&gt; ra danh sách liên lạc của bạn.</translation>
     </message>
     <message numerus="yes">
         <source>and %n contacts </source>
-        <translation>
+        <translation type="vanished">
             <numerusform>và %n liên lạc </numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>Hành vi này sẽ gỡ bỏ hẳn:&lt;br&gt;%1&lt;br&gt;%2 và %n nhóm ra danh sách liên lạc của bạn.</numerusform>
         </translation>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
-        <translation>Hành vi này sẽ gỡ bỏ hẳn:&lt;br&gt;%1&lt;br&gt;%2 và « %3 » nhóm ra danh sách liên lạc của bạn.</translation>
+        <translation type="vanished">Hành vi này sẽ gỡ bỏ hẳn:&lt;br&gt;%1&lt;br&gt;%2 và « %3 » nhóm ra danh sách liên lạc của bạn.</translation>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2from your contact list.</source>
-        <translation>Hành vi này sẽ gỡ bỏ hẳn &lt;br&gt;%1&lt;br&gt;%2 ra danh sách liên lạc của bạn.</translation>
+        <translation type="vanished">Hành vi này sẽ gỡ bỏ hẳn &lt;br&gt;%1&lt;br&gt;%2 ra danh sách liên lạc của bạn.</translation>
     </message>
     <message>
         <source>This is a system group and can&apos;t be removed. Permanently remove all its contacts from your contact list?</source>
-        <translation>Đây là một nhóm kiểu hệ thống thì không gỡ bỏ được. Có nên gỡ bỏ hẳn tất cả các liên lạc của nó ra danh sách liên lạc của bạn không?</translation>
+        <translation type="vanished">Đây là một nhóm kiểu hệ thống thì không gỡ bỏ được. Có nên gỡ bỏ hẳn tất cả các liên lạc của nó ra danh sách liên lạc của bạn không?</translation>
     </message>
     <message>
         <source>Clear Group</source>
-        <translation>Xoá nhóm</translation>
+        <translation type="vanished">Xoá nhóm</translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;group and all its contacts from your contact list.</source>
-        <translation>Hành vi này sẽ gỡ bỏ hẳn nhóm &lt;br&gt;%1&lt;br&gt;và tất cả các liên lạc của nó ra danh sách liên lạc của bạn.</translation>
+        <translation type="vanished">Hành vi này sẽ gỡ bỏ hẳn nhóm &lt;br&gt;%1&lt;br&gt;và tất cả các liên lạc của nó ra danh sách liên lạc của bạn.</translation>
     </message>
     <message>
         <source>This will permanently remove %1 from your contact list. You could block it in order to avoid further messages.</source>
-        <translation>Hành vi này sẽ gỡ bỏ hẳn %1 ra danh sách liên lạc của bạn. Bạn cũng có thể chặn nó để tránh nhận tin nhẳn thêm nữa.</translation>
+        <translation type="vanished">Hành vi này sẽ gỡ bỏ hẳn %1 ra danh sách liên lạc của bạn. Bạn cũng có thể chặn nó để tránh nhận tin nhẳn thêm nữa.</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Xoá</translation>
+        <translation type="vanished">Xoá</translation>
     </message>
     <message>
         <source>Block</source>
-        <translation>Chặn</translation>
+        <translation type="vanished">Chặn</translation>
     </message>
     <message>
         <source>This will remove %1 from &quot;%2&quot; group. You could also remove it from all groups.</source>
-        <translation>Hành vi này sẽ gỡ bỏ %1 ra nhóm « %2 ». Bạn cũng có thể gỡ bỏ nó ra tất cả các nhóm.</translation>
+        <translation type="vanished">Hành vi này sẽ gỡ bỏ %1 ra nhóm « %2 ». Bạn cũng có thể gỡ bỏ nó ra tất cả các nhóm.</translation>
     </message>
     <message>
         <source>Delete From All Groups</source>
-        <translation>Xoá ra mọi nhóm</translation>
+        <translation type="vanished">Xoá ra mọi nhóm</translation>
     </message>
     <message>
         <source>Deleting contacts</source>
-        <translation>Đang xoá các liên lạc</translation>
+        <translation type="vanished">Đang xoá các liên lạc</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
+    </message>
+</context>
+<context>
+    <name>ContactListViewDelegate::Private</name>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -2897,7 +2948,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Not in list</source>
-        <translation>Không có trong bảng</translation>
+        <translation type="vanished">Không có trong bảng</translation>
     </message>
     <message>
         <source>Agents/Transports</source>
@@ -2905,330 +2956,326 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Private Messages</source>
-        <translation>Tin nhẳn riêng</translation>
+        <translation type="vanished">Tin nhẳn riêng</translation>
     </message>
     <message>
         <source>Online Users</source>
-        <translation>Người dùng trực tuyến</translation>
+        <translation type="vanished">Người dùng trực tuyến</translation>
     </message>
     <message>
         <source>Send Server Message</source>
-        <translation>Gửi thông điệp máy phục vụ</translation>
+        <translation type="vanished">Gửi thông điệp máy phục vụ</translation>
     </message>
     <message>
         <source>Set MOTD</source>
-        <translation>Lập Thông điệp của Hôm nay</translation>
+        <translation type="vanished">Lập Thông điệp của Hôm nay</translation>
     </message>
     <message>
         <source>Update MOTD</source>
-        <translation>Cập nhật Thông điệp của Hôm nay</translation>
+        <translation type="vanished">Cập nhật Thông điệp của Hôm nay</translation>
     </message>
     <message>
         <source>Delete MOTD</source>
-        <translation>Xóa bỏ Thông điệp của Hôm nay</translation>
+        <translation type="vanished">Xóa bỏ Thông điệp của Hôm nay</translation>
     </message>
     <message>
         <source>&amp;Status</source>
-        <translation>T&amp;rạng thái</translation>
+        <translation type="vanished">T&amp;rạng thái</translation>
     </message>
     <message>
         <source>Mood</source>
-        <translation>Tâm trạng</translation>
+        <translation type="vanished">Tâm trạng</translation>
     </message>
     <message>
         <source>Set Avatar</source>
-        <translation>Đặt ảnh đại diện</translation>
+        <translation type="vanished">Đặt ảnh đại diện</translation>
     </message>
     <message>
         <source>Unset Avatar</source>
-        <translation>Bỏ đặt ảnh đại diện</translation>
+        <translation type="vanished">Bỏ đặt ảnh đại diện</translation>
     </message>
     <message>
         <source>Avatar</source>
-        <translation>Ảnh riêng</translation>
+        <translation type="vanished">Ảnh riêng</translation>
     </message>
     <message>
         <source>Manage...</source>
-        <translation>Quản lý...</translation>
+        <translation type="vanished">Quản lý...</translation>
     </message>
     <message>
         <source>Join %1</source>
-        <translation>Tham gia %1</translation>
+        <translation type="vanished">Tham gia %1</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation>Liên kết lưu</translation>
+        <translation type="vanished">Liên kết lưu</translation>
     </message>
     <message>
         <source>&amp;Add a Contact</source>
-        <translation>Thê&amp;m liên lạc</translation>
+        <translation type="vanished">Thê&amp;m liên lạc</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
-        <translation>Tìm &amp;Dịch Vụ</translation>
+        <translation type="vanished">Tìm &amp;Dịch Vụ</translation>
     </message>
     <message>
         <source>New &amp;Blank Message</source>
-        <translation>Tin nhẳn t&amp;rống mới</translation>
+        <translation type="vanished">Tin nhẳn t&amp;rống mới</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>Bàn giao tiếp &amp;XML</translation>
+        <translation type="vanished">Bàn giao tiếp &amp;XML</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
-        <translation>&amp;Sửa đổi tài khoản...</translation>
+        <translation type="vanished">&amp;Sửa đổi tài khoản...</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
-        <translation>&amp;Quản trị</translation>
+        <translation type="vanished">&amp;Quản trị</translation>
     </message>
     <message>
         <source>Send Message to Group</source>
-        <translation>Gửi tin nhẳn cho nhóm</translation>
+        <translation type="vanished">Gửi tin nhẳn cho nhóm</translation>
     </message>
     <message>
         <source>Remove Group</source>
-        <translation>Gỡ bỏ Nhóm</translation>
+        <translation type="vanished">Gỡ bỏ Nhóm</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
-        <translation>Gỡ bỏ Nhóm và các Liên lạc</translation>
+        <translation type="vanished">Gỡ bỏ Nhóm và các Liên lạc</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>Ẩn</translation>
+        <translation type="vanished">Ẩn</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation>Hành động này sẽ gây ra mọi liên lạc trong nhóm này bị phân ra nó.
+        <translation type="vanished">Hành động này sẽ gây ra mọi liên lạc trong nhóm này bị phân ra nó.
 
 Tiếp tục không?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Có</translation>
+        <translation type="vanished">&amp;Có</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Không</translation>
+        <translation type="vanished">&amp;Không</translation>
     </message>
     <message>
         <source>WARNING!  This will remove all contacts associated with this group!
 
 Proceed?</source>
-        <translation>CẢNH BÁO ! Hành động này sẽ gỡ bỏ tất cả các liên lạc có liên quan đến nhóm này !
+        <translation type="vanished">CẢNH BÁO ! Hành động này sẽ gỡ bỏ tất cả các liên lạc có liên quan đến nhóm này !
 
 Tiếp tục không?</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
-        <translation>Thêm/Cho phép vào Danh sách Liên lạc</translation>
+        <translation type="vanished">Thêm/Cho phép vào Danh sách Liên lạc</translation>
     </message>
     <message>
         <source>Send Message To</source>
-        <translation>Gửi tin nhẳn cho</translation>
+        <translation type="vanished">Gửi tin nhẳn cho</translation>
     </message>
     <message>
         <source>Open Chat To</source>
-        <translation>Mở chát cho</translation>
+        <translation type="vanished">Mở chát cho</translation>
     </message>
     <message>
         <source>Open a Whiteboard To</source>
-        <translation>Mở bảng trắng cho</translation>
+        <translation type="vanished">Mở bảng trắng cho</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation>&amp;Chạy lệnh</translation>
+        <translation type="vanished">&amp;Chạy lệnh</translation>
     </message>
     <message>
         <source>Active Chats</source>
-        <translation>Chát đang chạy</translation>
+        <translation type="vanished">Chát đang chạy</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>Gọi thoại</translation>
+        <translation type="vanished">Gọi thoại</translation>
     </message>
     <message>
         <source>Send &amp;File</source>
-        <translation>Gửi &amp;tập tin</translation>
+        <translation type="vanished">Gửi &amp;tập tin</translation>
     </message>
     <message>
         <source>Invite To</source>
-        <translation>Mời tham gia</translation>
+        <translation type="vanished">Mời tham gia</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation>K&amp;hông có</translation>
+        <translation type="vanished">K&amp;hông có</translation>
     </message>
     <message>
         <source>&amp;Create New...</source>
-        <translation>Tạo &amp;cái mới...</translation>
+        <translation type="vanished">Tạo &amp;cái mới...</translation>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation>&amp;Nhóm</translation>
+        <translation type="vanished">&amp;Nhóm</translation>
     </message>
     <message>
         <source>Log Off</source>
-        <translation>Đăng xuất</translation>
+        <translation type="vanished">Đăng xuất</translation>
     </message>
     <message>
         <source>Resend Authorization To</source>
-        <translation>Gửi lại sự cho phép cho</translation>
+        <translation type="vanished">Gửi lại sự cho phép cho</translation>
     </message>
     <message>
         <source>Rerequest Authorization From</source>
-        <translation>Yêu cầu lại sự cho phép từ</translation>
+        <translation type="vanished">Yêu cầu lại sự cho phép từ</translation>
     </message>
     <message>
         <source>Remove Authorization From</source>
-        <translation>Bỏ sự cho phép khỏi</translation>
+        <translation type="vanished">Bỏ sự cho phép khỏi</translation>
     </message>
     <message>
         <source>Authorization</source>
-        <translation>Sự cho phép</translation>
+        <translation type="vanished">Sự cho phép</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
-        <translation>Ả&amp;nh</translation>
+        <translation type="vanished">Ả&amp;nh</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation>Gán khoá Open&amp;PGP</translation>
+        <translation type="vanished">Gán khoá Open&amp;PGP</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation>Bỏ gán khoá Open&amp;PGP</translation>
+        <translation type="vanished">Bỏ gán khoá Open&amp;PGP</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation>Cho phép</translation>
+        <translation type="vanished">Cho phép</translation>
     </message>
     <message>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Mới gửi sự cho phép cho &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="vanished">Mới gửi sự cho phép cho &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Create New Group</source>
-        <translation>Tạo nhóm mới</translation>
+        <translation type="vanished">Tạo nhóm mới</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation>Gõ tên nhóm mới:</translation>
+        <translation type="vanished">Gõ tên nhóm mới:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Thêm</translation>
+        <translation type="vanished">Thêm</translation>
     </message>
     <message>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation>&lt;b&gt;%1&lt;/b&gt; đã được thêm/cho phép vào danh sách liên lạc.</translation>
+        <translation type="vanished">&lt;b&gt;%1&lt;/b&gt; đã được thêm/cho phép vào danh sách liên lạc.</translation>
     </message>
     <message>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Mới yêu cầu lại sự cho phép từ &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="vanished">Mới yêu cầu lại sự cho phép từ &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Gỡ bỏ</translation>
+        <translation type="vanished">Gỡ bỏ</translation>
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation>Bạn có chắc muốn gỡ bỏ sự cho phép ra &lt;b&gt;%1&lt;/b&gt; không?</translation>
+        <translation type="vanished">Bạn có chắc muốn gỡ bỏ sự cho phép ra &lt;b&gt;%1&lt;/b&gt; không?</translation>
     </message>
     <message>
         <source>Invitation</source>
-        <translation>Lời mời</translation>
+        <translation type="vanished">Lời mời</translation>
     </message>
     <message>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Mới gửi lời mời chát cho &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="vanished">Mới gửi lời mời chát cho &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
-        <translation>Bạn có chắc muốn gỡ bỏ &lt;b&gt;%1&lt;/b&gt; ra danh sách liên lạc không?</translation>
+        <translation type="vanished">Bạn có chắc muốn gỡ bỏ &lt;b&gt;%1&lt;/b&gt; ra danh sách liên lạc không?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Lỗi</translation>
+        <translation type="vanished">Lỗi</translation>
     </message>
     <message>
         <source>You cannot set a blank name.</source>
-        <translation>Không cho phép tên trống.</translation>
+        <translation type="vanished">Không cho phép tên trống.</translation>
     </message>
     <message>
         <source>You cannot set a blank group name.</source>
-        <translation>Không cho phép tên nhóm trống.</translation>
+        <translation type="vanished">Không cho phép tên nhóm trống.</translation>
     </message>
     <message>
         <source>You already have a group with that name.</source>
-        <translation>Nhóm tên đó đã có.</translation>
-    </message>
-    <message>
-        <source>Activity</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Nhóm tên đó đã có.</translation>
     </message>
 </context>
 <context>
     <name>ContactView</name>
     <message>
         <source>Hidden</source>
-        <translation>Ẩn</translation>
+        <translation type="vanished">Ẩn</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation>Gử&amp;i tin nhẳn</translation>
+        <translation type="vanished">Gử&amp;i tin nhẳn</translation>
     </message>
     <message>
         <source>Re&amp;name</source>
-        <translation>Thay tê&amp;n</translation>
+        <translation type="vanished">Thay tê&amp;n</translation>
     </message>
     <message>
         <source>&amp;Assign Custom Picture</source>
-        <translation>&amp;Gán ảnh tự chọn</translation>
+        <translation type="vanished">&amp;Gán ảnh tự chọn</translation>
     </message>
     <message>
         <source>&amp;Clear Custom Picture</source>
-        <translation>&amp;Xoá ảnh tự chọn</translation>
+        <translation type="vanished">&amp;Xoá ảnh tự chọn</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation>Mở &amp;cửa sổ chát</translation>
+        <translation type="vanished">Mở &amp;cửa sổ chát</translation>
     </message>
     <message>
         <source>Open a &amp;Whiteboard</source>
-        <translation>Mở &amp;bảng trắng</translation>
+        <translation type="vanished">Mở &amp;bảng trắng</translation>
     </message>
     <message>
         <source>&amp;History</source>
-        <translation>&amp;Lược sử</translation>
+        <translation type="vanished">&amp;Lược sử</translation>
     </message>
     <message>
         <source>&amp;Log on</source>
-        <translation>Đăng &amp;nhập</translation>
+        <translation type="vanished">Đăng &amp;nhập</translation>
     </message>
     <message>
         <source>&amp;Receive Incoming Event</source>
-        <translation>&amp;Nhận sự kiện gửi đến</translation>
+        <translation type="vanished">&amp;Nhận sự kiện gửi đến</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation>Gỡ &amp;bỏ</translation>
+        <translation type="vanished">Gỡ &amp;bỏ</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation>Thông t&amp;in người dùng</translation>
+        <translation type="vanished">Thông t&amp;in người dùng</translation>
     </message>
     <message>
         <source>Choose an Image</source>
-        <translation>Chọn ảnh</translation>
+        <translation type="vanished">Chọn ảnh</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation>Mọi tập tin (*.png *.jpg *.gif)</translation>
+        <translation type="vanished">Mọi tập tin (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -6019,6 +6066,29 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
 </context>
 <context>
+    <name>HistoryContactListModel</name>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">Chung</translation>
+    </message>
+    <message>
+        <source>Not in list</source>
+        <translation type="unfinished">Không có trong bảng</translation>
+    </message>
+    <message>
+        <source>Private messages</source>
+        <translation type="unfinished">Tin nhẳn riêng</translation>
+    </message>
+    <message>
+        <source>All contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>HistoryDlg</name>
     <message>
         <source>&amp;Previous</source>
@@ -6110,6 +6180,10 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Close history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All contacts</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12828,7 +12902,7 @@ Có lẽ do tiến trinh Psi khác cũng đang chạy. Trong trường hợp đ�
     <name>PsiContactListViewDelegate</name>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -12843,7 +12917,7 @@ Có lẽ do tiến trinh Psi khác cũng đang chạy. Trong trường hợp đ�
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation>&amp;Chát</translation>
+        <translation type="vanished">&amp;Chát</translation>
     </message>
     <message>
         <source>&amp;History</source>
@@ -12851,31 +12925,31 @@ Có lẽ do tiến trinh Psi khác cũng đang chạy. Trong trường hợp đ�
     </message>
     <message>
         <source>Pro&amp;file</source>
-        <translation>&amp;Hồ sơ</translation>
+        <translation type="vanished">&amp;Hồ sơ</translation>
     </message>
     <message>
         <source>&amp;Photos</source>
-        <translation>Ảnh chụ&amp;p</translation>
+        <translation type="vanished">Ảnh chụ&amp;p</translation>
     </message>
     <message>
         <source>Send &amp;E-mail</source>
-        <translation>Gửi &amp;thư</translation>
+        <translation type="vanished">Gửi &amp;thư</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>Thê&amp;m</translation>
+        <translation type="vanished">Thê&amp;m</translation>
     </message>
     <message>
         <source>A&amp;uth</source>
-        <translation>Ch&amp;o phép</translation>
+        <translation type="vanished">Ch&amp;o phép</translation>
     </message>
     <message>
         <source>&amp;Block</source>
-        <translation>&amp;Chặn</translation>
+        <translation type="vanished">&amp;Chặn</translation>
     </message>
     <message>
         <source>Disable mood notifications</source>
-        <translation>Tắt thông báo tâm trạng</translation>
+        <translation type="vanished">Tắt thông báo tâm trạng</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
@@ -12947,7 +13021,7 @@ Có lẽ do tiến trinh Psi khác cũng đang chạy. Trong trường hợp đ�
     </message>
     <message>
         <source>&amp;Unblock</source>
-        <translation>&amp;Bỏ chặn</translation>
+        <translation type="vanished">&amp;Bỏ chặn</translation>
     </message>
     <message>
         <source>Invitation</source>
@@ -13058,15 +13132,23 @@ Có lẽ do tiến trinh Psi khác cũng đang chạy. Trong trường hợp đ�
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Manage &amp;Contact</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Authorization</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unblock</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy User JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy Groupchat JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanc&amp;ed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13325,23 +13407,46 @@ Bạn có muốn kích hoạt buổi hợp đó ngay bây giờ không?</transla
     <name>PsiRosterWidget</name>
     <message>
         <source>Remove Group</source>
-        <translation>Bỏ nhóm</translation>
+        <translation type="vanished">Bỏ nhóm</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation>Hành vi này sẽ gây ra mọi liên lạc trong nhóm này đều bị phân ra nó.
+        <translation type="vanished">Hành vi này sẽ gây ra mọi liên lạc trong nhóm này đều bị phân ra nó.
 
 Tiếp tục ?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Có</translation>
+        <translation type="vanished">&amp;Có</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Không</translation>
+        <translation type="vanished">&amp;Không</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation type="unfinished">Xoá</translation>
+    </message>
+</context>
+<context>
+    <name>PsiThemeModel</name>
+    <message>
+        <source>Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authors</source>
+        <translation type="unfinished">Tác giả</translation>
+    </message>
+    <message>
+        <source>Released on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15008,15 +15113,15 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RemoveConfirmationMessageBox</name>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="vanished">OK</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Xoá</translation>
+        <translation type="vanished">Xoá</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Thôi</translation>
+        <translation type="vanished">Thôi</translation>
     </message>
 </context>
 <context>

@@ -82,7 +82,7 @@
     </message>
     <message>
         <source>Current Maintainer and Original Author</source>
-        <translation>Суправаджальнік і першапачатны аўтар</translation>
+        <translation type="vanished">Суправаджальнік і першапачатны аўтар</translation>
     </message>
     <message>
         <source>Past Lead Developer and Maintainer</source>
@@ -227,18 +227,26 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
 Далучайцеся да каманды перакладу! За падрабязнасьцямі зьвяртайцеся да &lt;a href=&quot;mailto:yehekim@gmail.com&quot;&gt;yehekim@gmail.com&lt;/a&gt;.</translation>
     </message>
     <message>
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2014 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Lead Patcher and Plugins Writer; Mac OS X Packager</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Language coordinator; Debian Packager</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2017 The Psi Team.&lt;br&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Original Author</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lead Developer and Current Maintainer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2613,6 +2621,25 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
 </context>
 <context>
+    <name>ContactListDragView</name>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished">%1 (%2)</translation>
+    </message>
+    <message>
+        <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
+        <translation type="unfinished">Гэткім чынам&lt;br&gt;%1&lt;br&gt;зьнікне са сьпісу.</translation>
+    </message>
+    <message>
+        <source>Deleting contacts</source>
+        <translation type="unfinished">Прыбіраем суразмоўцаў</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ContactListGroupMenu::Private</name>
     <message>
         <source>Re&amp;name</source>
@@ -2640,7 +2667,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>&amp;Прыбраць</translation>
+        <translation type="vanished">&amp;Прыбраць</translation>
     </message>
     <message>
         <source>Remove Group</source>
@@ -2652,7 +2679,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;Add group...</source>
-        <translation>Дадаць &amp;суполку…</translation>
+        <translation type="vanished">Дадаць &amp;суполку…</translation>
     </message>
     <message>
         <source>Hide All</source>
@@ -2674,50 +2701,73 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <source>Authorization</source>
         <translation>Зацьверджаньне</translation>
     </message>
+    <message>
+        <source>This will cause all contacts in this group to be disassociated with it.
+
+Proceed?</source>
+        <translation type="unfinished">Суразмоўцы з гэтае суполкі ня будуць болей зьвязвацца зь ёю.
+
+Ці працягваць?</translation>
+    </message>
+</context>
+<context>
+    <name>ContactListItem</name>
+    <message>
+        <source>Agents/Transports</source>
+        <translation type="unfinished">Сродкі ды транспарты</translation>
+    </message>
+    <message>
+        <source>Private messages</source>
+        <translation type="unfinished">Асабістыя паведамленьні</translation>
+    </message>
+    <message>
+        <source>Conferences</source>
+        <translation type="unfinished">Нарады</translation>
+    </message>
 </context>
 <context>
     <name>ContactListModel</name>
     <message>
         <source>Error</source>
-        <translation>Далі хібу</translation>
+        <translation type="vanished">Далі хібу</translation>
     </message>
     <message>
         <source>You can&apos;t set a blank group name.</source>
-        <translation>Нельга ствараць суполку бяз назвы.</translation>
+        <translation type="vanished">Нельга ствараць суполку бяз назвы.</translation>
     </message>
 </context>
 <context>
     <name>ContactListSpecialGroup</name>
     <message>
         <source>General</source>
-        <translation>Агульнае</translation>
+        <translation type="vanished">Агульнае</translation>
     </message>
     <message>
         <source>Not in List</source>
-        <translation>Па-за сьпісам</translation>
+        <translation type="vanished">Па-за сьпісам</translation>
     </message>
     <message>
         <source>Agents/Transports</source>
-        <translation>Сродкі ды транспарты</translation>
+        <translation type="vanished">Сродкі ды транспарты</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation>Асабістыя паведамленьні</translation>
+        <translation type="vanished">Асабістыя паведамленьні</translation>
     </message>
     <message>
         <source>Conferences</source>
-        <translation>Нарады</translation>
+        <translation type="vanished">Нарады</translation>
     </message>
 </context>
 <context>
     <name>ContactListUtil</name>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation>Гэткім чынам&lt;br&gt;%1&lt;br&gt;зьнікне са сьпісу.</translation>
+        <translation type="vanished">Гэткім чынам&lt;br&gt;%1&lt;br&gt;зьнікне са сьпісу.</translation>
     </message>
     <message numerus="yes">
         <source>and %n contacts </source>
-        <translation>
+        <translation type="vanished">
             <numerusform>і %n суразмоўца </numerusform>
             <numerusform>і %n суразмоўцы </numerusform>
             <numerusform>і %n суразмоўцаў </numerusform>
@@ -2725,7 +2775,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message numerus="yes">
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>Гэткім чынам&lt;br&gt;%1&lt;br&gt;%2і %n суполка зьнікнуць са сьпісу.</numerusform>
             <numerusform>Гэткім чынам&lt;br&gt;%1&lt;br&gt;%2і %n суполкі зьнікнуць са сьпісу.</numerusform>
             <numerusform>Гэткім чынам&lt;br&gt;%1&lt;br&gt;%2і %n суполак зьнікнуць са сьпісу.</numerusform>
@@ -2733,51 +2783,58 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
-        <translation>Гэткім чынам&lt;br&gt;%1&lt;br&gt;%2і суполка «%3» зьнікнуць са сьпісу.</translation>
+        <translation type="vanished">Гэткім чынам&lt;br&gt;%1&lt;br&gt;%2і суполка «%3» зьнікнуць са сьпісу.</translation>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2from your contact list.</source>
-        <translation>Гэткім чынам&lt;br&gt;%1&lt;br&gt;%2зьнікнуць са сьпісу.</translation>
+        <translation type="vanished">Гэткім чынам&lt;br&gt;%1&lt;br&gt;%2зьнікнуць са сьпісу.</translation>
     </message>
     <message>
         <source>This is a system group and can&apos;t be removed. Permanently remove all its contacts from your contact list?</source>
-        <translation>Гэта сыстэмная суполка ― яе нельга прыбраць. Ці прыбраць усіх суразмоўцаў з суполкі са сьпісу?</translation>
+        <translation type="vanished">Гэта сыстэмная суполка ― яе нельга прыбраць. Ці прыбраць усіх суразмоўцаў з суполкі са сьпісу?</translation>
     </message>
     <message>
         <source>Clear Group</source>
-        <translation>Ачысьціць суполку</translation>
+        <translation type="vanished">Ачысьціць суполку</translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;group and all its contacts from your contact list.</source>
-        <translation>Гэткім чынам&lt;br&gt;%1&lt;br&gt;з усімі суразмоўцамі, якія ў яе ўваходзяць, зьнікне са сьпісу.</translation>
+        <translation type="vanished">Гэткім чынам&lt;br&gt;%1&lt;br&gt;з усімі суразмоўцамі, якія ў яе ўваходзяць, зьнікне са сьпісу.</translation>
     </message>
     <message>
         <source>This will permanently remove %1 from your contact list. You could block it in order to avoid further messages.</source>
-        <translation>%1 назаўжды зьнікне са сьпісу суразмоўцаў. Суразмоўцу можна забараніць, каб пазьбегнуць таксама й паведамленьняў ад яго.</translation>
+        <translation type="vanished">%1 назаўжды зьнікне са сьпісу суразмоўцаў. Суразмоўцу можна забараніць, каб пазьбегнуць таксама й паведамленьняў ад яго.</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Прыбраць</translation>
+        <translation type="vanished">Прыбраць</translation>
     </message>
     <message>
         <source>Block</source>
-        <translation>Забараніць</translation>
+        <translation type="vanished">Забараніць</translation>
     </message>
     <message>
         <source>This will remove %1 from &quot;%2&quot; group. You could also remove it from all groups.</source>
-        <translation>%1 прыбярэцца з суполкі «%2». Таксама можна прыбраць суразмоўцу з астатніх суполак.</translation>
+        <translation type="vanished">%1 прыбярэцца з суполкі «%2». Таксама можна прыбраць суразмоўцу з астатніх суполак.</translation>
     </message>
     <message>
         <source>Delete From All Groups</source>
-        <translation>Прыбраць з усіх суполак</translation>
+        <translation type="vanished">Прыбраць з усіх суполак</translation>
     </message>
     <message>
         <source>Deleting contacts</source>
-        <translation>Прыбіраем суразмоўцаў</translation>
+        <translation type="vanished">Прыбіраем суразмоўцаў</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
+    </message>
+</context>
+<context>
+    <name>ContactListViewDelegate::Private</name>
+    <message>
+        <source>%1 (%2)</source>
+        <translation type="unfinished">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -2949,7 +3006,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Not in list</source>
-        <translation>Па-за сьпісам</translation>
+        <translation type="vanished">Па-за сьпісам</translation>
     </message>
     <message>
         <source>Agents/Transports</source>
@@ -2957,330 +3014,330 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Private Messages</source>
-        <translation>Асабістыя паведамленьні</translation>
+        <translation type="vanished">Асабістыя паведамленьні</translation>
     </message>
     <message>
         <source>Online Users</source>
-        <translation>У сетцы</translation>
+        <translation type="vanished">У сетцы</translation>
     </message>
     <message>
         <source>Send Server Message</source>
-        <translation>Даслаць паведамленьне паслужніку</translation>
+        <translation type="vanished">Даслаць паведамленьне паслужніку</translation>
     </message>
     <message>
         <source>Set MOTD</source>
-        <translation>Вызначыць вітаньне</translation>
+        <translation type="vanished">Вызначыць вітаньне</translation>
     </message>
     <message>
         <source>Update MOTD</source>
-        <translation>Абнавіць вітаньне</translation>
+        <translation type="vanished">Абнавіць вітаньне</translation>
     </message>
     <message>
         <source>Delete MOTD</source>
-        <translation>Выдаліць вітаньне</translation>
+        <translation type="vanished">Выдаліць вітаньне</translation>
     </message>
     <message>
         <source>&amp;Status</source>
-        <translation>&amp;Стан</translation>
+        <translation type="vanished">&amp;Стан</translation>
     </message>
     <message>
         <source>Mood</source>
-        <translation>Настрой</translation>
+        <translation type="vanished">Настрой</translation>
     </message>
     <message>
         <source>Activity</source>
-        <translation>Дзейнасьць</translation>
+        <translation type="vanished">Дзейнасьць</translation>
     </message>
     <message>
         <source>Set Avatar</source>
-        <translation>Вызначыць увасабленьне</translation>
+        <translation type="vanished">Вызначыць увасабленьне</translation>
     </message>
     <message>
         <source>Unset Avatar</source>
-        <translation>Сьцерці ўвасабленьне</translation>
+        <translation type="vanished">Сьцерці ўвасабленьне</translation>
     </message>
     <message>
         <source>Avatar</source>
-        <translation>Увасабленьне</translation>
+        <translation type="vanished">Увасабленьне</translation>
     </message>
     <message>
         <source>Manage...</source>
-        <translation>Кіраваць…</translation>
+        <translation type="vanished">Кіраваць…</translation>
     </message>
     <message>
         <source>Join %1</source>
-        <translation>Далучыцца да «%1»</translation>
+        <translation type="vanished">Далучыцца да «%1»</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation>Закладкі</translation>
+        <translation type="vanished">Закладкі</translation>
     </message>
     <message>
         <source>&amp;Add a Contact</source>
-        <translation>&amp;Дадаць суразмоўцу</translation>
+        <translation type="vanished">&amp;Дадаць суразмоўцу</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
-        <translation>&amp;Шукаць службы</translation>
+        <translation type="vanished">&amp;Шукаць службы</translation>
     </message>
     <message>
         <source>New &amp;Blank Message</source>
-        <translation>Новае &amp;паведамленьне</translation>
+        <translation type="vanished">Новае &amp;паведамленьне</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation>&amp;Кансоль XML</translation>
+        <translation type="vanished">&amp;Кансоль XML</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
-        <translation>&amp;Наладзіць рахунак…</translation>
+        <translation type="vanished">&amp;Наладзіць рахунак…</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
-        <translation>Сп&amp;раўнік</translation>
+        <translation type="vanished">Сп&amp;раўнік</translation>
     </message>
     <message>
         <source>Send Message to Group</source>
-        <translation>Даслаць суполцы паведамленьне</translation>
+        <translation type="vanished">Даслаць суполцы паведамленьне</translation>
     </message>
     <message>
         <source>Remove Group</source>
-        <translation>Прыбраць суполку</translation>
+        <translation type="vanished">Прыбраць суполку</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
-        <translation>Прыбраць суполку ды суразмоўцаў</translation>
+        <translation type="vanished">Прыбраць суполку ды суразмоўцаў</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>Схаваць</translation>
+        <translation type="vanished">Схаваць</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation>Суразмоўцы з гэтае суполкі ня будуць болей зьвязвацца зь ёю.
+        <translation type="vanished">Суразмоўцы з гэтае суполкі ня будуць болей зьвязвацца зь ёю.
 
 Ці працягваць?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Так</translation>
+        <translation type="vanished">&amp;Так</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Не</translation>
+        <translation type="vanished">&amp;Не</translation>
     </message>
     <message>
         <source>WARNING!  This will remove all contacts associated with this group!
 
 Proceed?</source>
-        <translation>Перасьцярога!  Прыбяруцца ўсе суразмоўцы, што ўваходзяць у суполку!
+        <translation type="vanished">Перасьцярога!  Прыбяруцца ўсе суразмоўцы, што ўваходзяць у суполку!
 
 Ці працягваць?</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
-        <translation>Дадаць і зацьвердзіць</translation>
+        <translation type="vanished">Дадаць і зацьвердзіць</translation>
     </message>
     <message>
         <source>Send Message To</source>
-        <translation>Даслаць паведамленьне</translation>
+        <translation type="vanished">Даслаць паведамленьне</translation>
     </message>
     <message>
         <source>Open Chat To</source>
-        <translation>Пачаць гутарыць з…</translation>
+        <translation type="vanished">Пачаць гутарыць з…</translation>
     </message>
     <message>
         <source>Open a Whiteboard To</source>
-        <translation>Маляваць разам з…</translation>
+        <translation type="vanished">Маляваць разам з…</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation>Выканаць &amp;загад</translation>
+        <translation type="vanished">Выканаць &amp;загад</translation>
     </message>
     <message>
         <source>Active Chats</source>
-        <translation>Дзейныя гутаркі</translation>
+        <translation type="vanished">Дзейныя гутаркі</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation>Размаўляць голасам</translation>
+        <translation type="vanished">Размаўляць голасам</translation>
     </message>
     <message>
         <source>Send &amp;File</source>
-        <translation>Даслаць &amp;файл</translation>
+        <translation type="vanished">Даслаць &amp;файл</translation>
     </message>
     <message>
         <source>Invite To</source>
-        <translation>Запрасіць да</translation>
+        <translation type="vanished">Запрасіць да</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation>&amp;Няма</translation>
+        <translation type="vanished">&amp;Няма</translation>
     </message>
     <message>
         <source>&amp;Create New...</source>
-        <translation>С&amp;тварыць…</translation>
+        <translation type="vanished">С&amp;тварыць…</translation>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation>&amp;Суполка</translation>
+        <translation type="vanished">&amp;Суполка</translation>
     </message>
     <message>
         <source>Log Off</source>
-        <translation>Выйсьці з рахунку</translation>
+        <translation type="vanished">Выйсьці з рахунку</translation>
     </message>
     <message>
         <source>Resend Authorization To</source>
-        <translation>Зноўку зацьвердзіць</translation>
+        <translation type="vanished">Зноўку зацьвердзіць</translation>
     </message>
     <message>
         <source>Rerequest Authorization From</source>
-        <translation>Зноўку запытацца на зацьверджаньне</translation>
+        <translation type="vanished">Зноўку запытацца на зацьверджаньне</translation>
     </message>
     <message>
         <source>Remove Authorization From</source>
-        <translation>Забраць зацьверджаньне</translation>
+        <translation type="vanished">Забраць зацьверджаньне</translation>
     </message>
     <message>
         <source>Authorization</source>
-        <translation>Зацьверджаньне</translation>
+        <translation type="vanished">Зацьверджаньне</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
-        <translation>&amp;Малюнак</translation>
+        <translation type="vanished">&amp;Малюнак</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation>Прызначыць &amp;ключ OpenPGP</translation>
+        <translation type="vanished">Прызначыць &amp;ключ OpenPGP</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation>Адкінуць прызначаны &amp;ключ OpenPGP</translation>
+        <translation type="vanished">Адкінуць прызначаны &amp;ключ OpenPGP</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation>Зацьвердзіць</translation>
+        <translation type="vanished">Зацьвердзіць</translation>
     </message>
     <message>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Даслалі зацьверджаньне да &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="vanished">Даслалі зацьверджаньне да &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Create New Group</source>
-        <translation>Стварыць суполку</translation>
+        <translation type="vanished">Стварыць суполку</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation>Пазначце назву суполкі:</translation>
+        <translation type="vanished">Пазначце назву суполкі:</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Дадаць</translation>
+        <translation type="vanished">Дадаць</translation>
     </message>
     <message>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation>&lt;b&gt;%1&lt;/b&gt; дадалі ды зацьвердзілі ў сьпісе суразмоўцаў.</translation>
+        <translation type="vanished">&lt;b&gt;%1&lt;/b&gt; дадалі ды зацьвердзілі ў сьпісе суразмоўцаў.</translation>
     </message>
     <message>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>Перапыталіся на зацьверджаньне ў &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="vanished">Перапыталіся на зацьверджаньне ў &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Прыбраць</translation>
+        <translation type="vanished">Прыбраць</translation>
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation>Ці ўпэўненыя вы, што жадаеце забраць зацьверджаньне ў &lt;b&gt;%1&lt;/b&gt;?</translation>
+        <translation type="vanished">Ці ўпэўненыя вы, што жадаеце забраць зацьверджаньне ў &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
         <source>Invitation</source>
-        <translation>Запрашэньне</translation>
+        <translation type="vanished">Запрашэньне</translation>
     </message>
     <message>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation>&lt;b&gt;%1&lt;/b&gt; запрасілі да нарады.</translation>
+        <translation type="vanished">&lt;b&gt;%1&lt;/b&gt; запрасілі да нарады.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
-        <translation>Ці ўпэўненыя вы, што хочаце прыбраць &lt;b&gt;%1&lt;/b&gt; са сьпісу суразмоўцаў?</translation>
+        <translation type="vanished">Ці ўпэўненыя вы, што хочаце прыбраць &lt;b&gt;%1&lt;/b&gt; са сьпісу суразмоўцаў?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation>Далі хібу</translation>
+        <translation type="vanished">Далі хібу</translation>
     </message>
     <message>
         <source>You cannot set a blank name.</source>
-        <translation>Нельга пакідаць бяз назвы.</translation>
+        <translation type="vanished">Нельга пакідаць бяз назвы.</translation>
     </message>
     <message>
         <source>You cannot set a blank group name.</source>
-        <translation>Нельга ствараць суполку бяз назвы.</translation>
+        <translation type="vanished">Нельга ствараць суполку бяз назвы.</translation>
     </message>
     <message>
         <source>You already have a group with that name.</source>
-        <translation>Суполка з такою назваю ўжо існуе.</translation>
+        <translation type="vanished">Суполка з такою назваю ўжо існуе.</translation>
     </message>
 </context>
 <context>
     <name>ContactView</name>
     <message>
         <source>Hidden</source>
-        <translation>Схаваныя</translation>
+        <translation type="vanished">Схаваныя</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation>Даслаць &amp;паведамленьне</translation>
+        <translation type="vanished">Даслаць &amp;паведамленьне</translation>
     </message>
     <message>
         <source>Re&amp;name</source>
-        <translation>&amp;Назваць</translation>
+        <translation type="vanished">&amp;Назваць</translation>
     </message>
     <message>
         <source>&amp;Assign Custom Picture</source>
-        <translation>Прызначыць &amp;увасабленьне</translation>
+        <translation type="vanished">Прызначыць &amp;увасабленьне</translation>
     </message>
     <message>
         <source>&amp;Clear Custom Picture</source>
-        <translation>Адмовіцца ад абранага ў&amp;васабленьня</translation>
+        <translation type="vanished">Адмовіцца ад абранага ў&amp;васабленьня</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation>Адчыніць вакно &amp;гутаркі</translation>
+        <translation type="vanished">Адчыніць вакно &amp;гутаркі</translation>
     </message>
     <message>
         <source>Open a &amp;Whiteboard</source>
-        <translation>Распачаць &amp;маляванку</translation>
+        <translation type="vanished">Распачаць &amp;маляванку</translation>
     </message>
     <message>
         <source>&amp;History</source>
-        <translation>Г&amp;історыя</translation>
+        <translation type="vanished">Г&amp;історыя</translation>
     </message>
     <message>
         <source>&amp;Log on</source>
-        <translation>&amp;Увайсьці</translation>
+        <translation type="vanished">&amp;Увайсьці</translation>
     </message>
     <message>
         <source>&amp;Receive Incoming Event</source>
-        <translation>Паглядзець, &amp;што адбылося</translation>
+        <translation type="vanished">Паглядзець, &amp;што адбылося</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation>&amp;Прыбраць</translation>
+        <translation type="vanished">&amp;Прыбраць</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation>Пра &amp;карыстальніка</translation>
+        <translation type="vanished">Пра &amp;карыстальніка</translation>
     </message>
     <message>
         <source>Choose an Image</source>
-        <translation>Абярыце выяву</translation>
+        <translation type="vanished">Абярыце выяву</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation>Усе файлы (*.png *.jpg *.gif)</translation>
+        <translation type="vanished">Усе файлы (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -6081,6 +6138,29 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
 </context>
 <context>
+    <name>HistoryContactListModel</name>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">Агульнае</translation>
+    </message>
+    <message>
+        <source>Not in list</source>
+        <translation type="unfinished">Па-за сьпісам</translation>
+    </message>
+    <message>
+        <source>Private messages</source>
+        <translation type="unfinished">Асабістыя паведамленьні</translation>
+    </message>
+    <message>
+        <source>All contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>HistoryDlg</name>
     <message>
         <source>HistoryDlg</source>
@@ -6173,6 +6253,10 @@ For sending commands, normal messages are used, so this plugin will always work 
     <message>
         <source>Close history</source>
         <translation>Зачыніць гісторыю</translation>
+    </message>
+    <message>
+        <source>All contacts</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12948,7 +13032,7 @@ This may mean you are already running another instance of Psi. You may experienc
     <name>PsiContactListViewDelegate</name>
     <message>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation type="vanished">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -12963,7 +13047,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation>&amp;Гутарыць</translation>
+        <translation type="vanished">&amp;Гутарыць</translation>
     </message>
     <message>
         <source>&amp;History</source>
@@ -12971,31 +13055,31 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Pro&amp;file</source>
-        <translation>П&amp;рофіль</translation>
+        <translation type="vanished">П&amp;рофіль</translation>
     </message>
     <message>
         <source>&amp;Photos</source>
-        <translation>&amp;Фота</translation>
+        <translation type="vanished">&amp;Фота</translation>
     </message>
     <message>
         <source>Send &amp;E-mail</source>
-        <translation>&amp;Ліставаць на эл. пошту</translation>
+        <translation type="vanished">&amp;Ліставаць на эл. пошту</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Дадаць</translation>
+        <translation type="vanished">&amp;Дадаць</translation>
     </message>
     <message>
         <source>A&amp;uth</source>
-        <translation>За&amp;цьвердзіць</translation>
+        <translation type="vanished">За&amp;цьвердзіць</translation>
     </message>
     <message>
         <source>&amp;Block</source>
-        <translation>За&amp;бараніць</translation>
+        <translation type="vanished">За&amp;бараніць</translation>
     </message>
     <message>
         <source>Disable mood notifications</source>
-        <translation>Забараніць абвяшчаць настрой</translation>
+        <translation type="vanished">Забараніць абвяшчаць настрой</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
@@ -13083,7 +13167,7 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>&amp;Unblock</source>
-        <translation>&amp;Зьняць забарону</translation>
+        <translation type="vanished">&amp;Зьняць забарону</translation>
     </message>
     <message>
         <source>Invitation</source>
@@ -13182,11 +13266,19 @@ This may mean you are already running another instance of Psi. You may experienc
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Manage &amp;Contact</source>
+        <source>&amp;Authorization</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Authorization</source>
+        <source>Copy User JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy Groupchat JID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanc&amp;ed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13444,23 +13536,46 @@ Would you like to activate that session now?</source>
     <name>PsiRosterWidget</name>
     <message>
         <source>Remove Group</source>
-        <translation>Прыбраць суполку</translation>
+        <translation type="vanished">Прыбраць суполку</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation>Суразмоўцы з гэтае суполкі ня будуць болей зьвязвацца зь ёю.
+        <translation type="vanished">Суразмоўцы з гэтае суполкі ня будуць болей зьвязвацца зь ёю.
 
 Ці працягваць?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;Так</translation>
+        <translation type="vanished">&amp;Так</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;Не</translation>
+        <translation type="vanished">&amp;Не</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation type="unfinished">Ачысьціць</translation>
+    </message>
+</context>
+<context>
+    <name>PsiThemeModel</name>
+    <message>
+        <source>Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authors</source>
+        <translation type="unfinished">Аўтары</translation>
+    </message>
+    <message>
+        <source>Released on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Home</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15170,15 +15285,15 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RemoveConfirmationMessageBox</name>
     <message>
         <source>OK</source>
-        <translation>Добра</translation>
+        <translation type="vanished">Добра</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Выдаліць</translation>
+        <translation type="vanished">Выдаліць</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Скасаваць</translation>
+        <translation type="vanished">Скасаваць</translation>
     </message>
 </context>
 <context>
