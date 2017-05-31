@@ -12431,6 +12431,14 @@ Kialo: %1.</translation>
         <source>Groupchat basic buttons</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Pin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -12655,6 +12663,17 @@ Tio signifas, ke vi jam estas rulanta alian seancon de Psi. Al vi eble okazus pr
     </message>
     <message>
         <source>Other party canceled call.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Migration is impossible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Found no more supported configuration file from some very old version:
+%1
+
+Migration is possible with Psi-0.15</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13732,11 +13751,11 @@ Proceed?</source>
     </message>
     <message>
         <source>%1 Proxy</source>
-        <translation>%1 Prokura servilo</translation>
+        <translation type="vanished">%1 Prokura servilo</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>Notifilo de eventoj</translation>
+        <translation type="vanished">Notifilo de eventoj</translation>
     </message>
     <message>
         <source>%1 says:</source>
@@ -16073,6 +16092,14 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>Use for New Mucs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin Tab</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

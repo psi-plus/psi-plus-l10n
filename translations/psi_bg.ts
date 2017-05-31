@@ -12596,6 +12596,14 @@ Reason: %1.</source>
         <source>Plugins</source>
         <translation type="unfinished">Добавки</translation>
     </message>
+    <message>
+        <source>Pin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -12820,6 +12828,17 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Use existing account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Migration is impossible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Found no more supported configuration file from some very old version:
+%1
+
+Migration is possible with Psi-0.15</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14595,11 +14614,11 @@ Password: %5</source>
     </message>
     <message>
         <source>%1 Proxy</source>
-        <translation>%1 прокси</translation>
+        <translation type="vanished">%1 прокси</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>Известяване за събитие</translation>
+        <translation type="vanished">Известяване за събитие</translation>
     </message>
     <message>
         <source> is typing...</source>
@@ -16255,6 +16274,14 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source> is composing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin Tab</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

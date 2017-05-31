@@ -12429,6 +12429,14 @@ Reason: %1.</source>
         <source>Groupchat basic buttons</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Pin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -12652,6 +12660,17 @@ Reason: %1.</source>
     <message>
         <source>Unable to bind to port %1 for Data Transfer.
 This may mean you are already running another instance of Psi. You may experience problems sending and/or receiving files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Migration is impossible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Found no more supported configuration file from some very old version:
+%1
+
+Migration is possible with Psi-0.15</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13678,7 +13697,7 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>%1 Proxy</source>
-        <translation>%1 прокси</translation>
+        <translation type="vanished">%1 прокси</translation>
     </message>
     <message>
         <source>Set Status</source>
@@ -13758,10 +13777,6 @@ Would you like to activate that session now?</source>
     </message>
     <message>
         <source>Invitation to %1 from %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Event notifier</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -16098,6 +16113,14 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>%1 Conversations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin Tab</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

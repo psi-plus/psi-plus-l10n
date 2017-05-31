@@ -12763,6 +12763,14 @@ Reason: %1.</source>
         <source>Plugins</source>
         <translation>插件</translation>
     </message>
+    <message>
+        <source>Pin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -12989,6 +12997,17 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <source>Use existing account</source>
         <translation>使用现有的账号</translation>
+    </message>
+    <message>
+        <source>Migration is impossible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Found no more supported configuration file from some very old version:
+%1
+
+Migration is possible with Psi-0.15</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14810,11 +14829,11 @@ Password: %5</source>
     </message>
     <message>
         <source>%1 Proxy</source>
-        <translation>%1 代理服务器</translation>
+        <translation type="vanished">%1 代理服务器</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>事件通知</translation>
+        <translation type="vanished">事件通知</translation>
     </message>
     <message>
         <source> is typing...</source>
@@ -16500,6 +16519,14 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <message>
         <source> is composing</source>
         <translation> 正在输入</translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin Tab</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

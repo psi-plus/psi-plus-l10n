@@ -12793,6 +12793,14 @@ Grund: %1.</translation>
         <source>Plugins</source>
         <translation>Plugins</translation>
     </message>
+    <message>
+        <source>Pin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13019,6 +13027,17 @@ Das bedeutet wahrscheinlich, dass bereits eine andere Instanz von Psi läuft. Es
     <message>
         <source>Use existing account</source>
         <translation>Vorhandenes Benutzerkonto verwenden</translation>
+    </message>
+    <message>
+        <source>Migration is impossible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Found no more supported configuration file from some very old version:
+%1
+
+Migration is possible with Psi-0.15</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14863,11 +14882,11 @@ Passwort: %5</translation>
     </message>
     <message>
         <source>%1 Proxy</source>
-        <translation>%1-Proxy</translation>
+        <translation type="vanished">%1-Proxy</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>Ereignis-Benachrichtigung</translation>
+        <translation type="vanished">Ereignis-Benachrichtigung</translation>
     </message>
     <message>
         <source> is typing...</source>
@@ -16578,6 +16597,14 @@ Das Plugin ist dafür konzipiert, Notizen auf dem Jabber Server zu speichern mit
     <message>
         <source> is composing</source>
         <translation> tippt gerade ...</translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin Tab</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -12806,6 +12806,14 @@ Oka: %1.</translation>
         <source>Plugins</source>
         <translation>Kiegészítők</translation>
     </message>
+    <message>
+        <source>Pin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13032,6 +13040,17 @@ Lehetséges, hogy már fut egy másik példány a Psi-ből, vagy ez a port már 
     <message>
         <source>Use existing account</source>
         <translation>Meglévő fiók használata</translation>
+    </message>
+    <message>
+        <source>Migration is impossible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Found no more supported configuration file from some very old version:
+%1
+
+Migration is possible with Psi-0.15</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14844,11 +14863,11 @@ Jelszó: %5</translation>
     </message>
     <message>
         <source>%1 Proxy</source>
-        <translation>%1 Proxy</translation>
+        <translation type="vanished">%1 Proxy</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>Esemény értesítő</translation>
+        <translation type="vanished">Esemény értesítő</translation>
     </message>
     <message>
         <source> is typing...</source>
@@ -16546,6 +16565,14 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <message>
         <source> is composing</source>
         <translation>éppen ír</translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin Tab</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

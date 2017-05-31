@@ -12718,6 +12718,14 @@ Przyczyna: %1.</translation>
         <source>Plugins</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Pin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -12943,6 +12951,17 @@ Może to oznaczać, że masz już uruchomioną inną kopię Psi. Może to powodo
     </message>
     <message>
         <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Migration is impossible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Found no more supported configuration file from some very old version:
+%1
+
+Migration is possible with Psi-0.15</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14165,11 +14184,11 @@ Kontynuować?</translation>
     </message>
     <message>
         <source>%1 Proxy</source>
-        <translation>%1 Proxy</translation>
+        <translation type="vanished">%1 Proxy</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>Wskaźnik zdarzeń</translation>
+        <translation type="vanished">Wskaźnik zdarzeń</translation>
     </message>
     <message>
         <source>%1 says:</source>
@@ -16430,6 +16449,14 @@ Wtyczka służy do przechowywania notatek na serwerze jabbera z możliwością d
     </message>
     <message>
         <source>Hide All Tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin Tab</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

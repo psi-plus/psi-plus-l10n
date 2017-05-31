@@ -12718,6 +12718,14 @@ Reason: %1.</source>
         <source>Groupchat basic buttons</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Pin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -12944,6 +12952,17 @@ This may mean you are already running another instance of Psi. You may experienc
     <message>
         <source>Use existing account</source>
         <translation>השתמש בחשבון קיים</translation>
+    </message>
+    <message>
+        <source>Migration is impossible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Found no more supported configuration file from some very old version:
+%1
+
+Migration is possible with Psi-0.15</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14609,11 +14628,11 @@ Description: </source>
     </message>
     <message>
         <source>%1 Proxy</source>
-        <translation>%1 מתווך</translation>
+        <translation type="vanished">%1 מתווך</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>מודיע אירועים</translation>
+        <translation type="vanished">מודיע אירועים</translation>
     </message>
     <message>
         <source>%1 says:</source>
@@ -16429,6 +16448,14 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <message>
         <source> is composing</source>
         <translation> כותב/ת כעת</translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin Tab</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

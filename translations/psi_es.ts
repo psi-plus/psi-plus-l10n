@@ -12808,6 +12808,14 @@ Motivo: %1.</translation>
         <source>Plugins</source>
         <translation>Complementos</translation>
     </message>
+    <message>
+        <source>Pin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13034,6 +13042,17 @@ Puede significar que ya estás ejecutando otra instancia de Psi. Puede que exper
     <message>
         <source>Use existing account</source>
         <translation>Usar una cuenta existente</translation>
+    </message>
+    <message>
+        <source>Migration is impossible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Found no more supported configuration file from some very old version:
+%1
+
+Migration is possible with Psi-0.15</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14878,11 +14897,11 @@ Contraseña: %5</translation>
     </message>
     <message>
         <source>%1 Proxy</source>
-        <translation>Proxy %1</translation>
+        <translation type="vanished">Proxy %1</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>Notificador de eventos</translation>
+        <translation type="vanished">Notificador de eventos</translation>
     </message>
     <message>
         <source> is typing...</source>
@@ -16581,6 +16600,14 @@ El complemento ha sido diseñado para mantener las notas en el servidor jabber c
     <message>
         <source> is composing</source>
         <translation> está escribiendo</translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin Tab</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

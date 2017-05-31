@@ -12635,6 +12635,14 @@ Orsak: %1.</translation>
         <source>Groupchat basic buttons</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Pin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -12860,6 +12868,17 @@ Detta kan betyda att du redan kör en annan instans av Psi. Du kan ha problem at
     </message>
     <message>
         <source>Unable to load theme!  Please make sure Psi is properly installed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Migration is impossible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Found no more supported configuration file from some very old version:
+%1
+
+Migration is possible with Psi-0.15</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14062,11 +14081,11 @@ Fortsätt?</translation>
     </message>
     <message>
         <source>%1 Proxy</source>
-        <translation>%1 relä</translation>
+        <translation type="vanished">%1 relä</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>Händelsenotifierare</translation>
+        <translation type="vanished">Händelsenotifierare</translation>
     </message>
     <message>
         <source>%1 says:</source>
@@ -16334,6 +16353,14 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>Hide All Tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin Tab</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -12767,6 +12767,14 @@ Důvod: %1.</translation>
         <source>Plugins</source>
         <translation>Zásuvné moduly</translation>
     </message>
+    <message>
+        <source>Pin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -12993,6 +13001,17 @@ To možná znamená, že je již puštěna jiná instance Psi. To může způsob
     <message>
         <source>Use existing account</source>
         <translation>Použít existující účet</translation>
+    </message>
+    <message>
+        <source>Migration is impossible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Found no more supported configuration file from some very old version:
+%1
+
+Migration is possible with Psi-0.15</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14841,11 +14860,11 @@ Heslo: %5</translation>
     </message>
     <message>
         <source>%1 Proxy</source>
-        <translation>%1 Proxy</translation>
+        <translation type="vanished">%1 Proxy</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>Hlásič událostí</translation>
+        <translation type="vanished">Hlásič událostí</translation>
     </message>
     <message>
         <source> is typing...</source>
@@ -16515,6 +16534,14 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     <message>
         <source> is composing</source>
         <translation> právě píše</translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin Tab</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

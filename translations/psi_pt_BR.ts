@@ -12793,6 +12793,14 @@ Motivo: %1.</translation>
         <source>Plugins</source>
         <translation>Plugins</translation>
     </message>
+    <message>
+        <source>Pin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PsiChatDlg</name>
@@ -13019,6 +13027,17 @@ Isso pode significar que você já está rodando outra instância do Psi. Você 
     <message>
         <source>Use existing account</source>
         <translation>Usar conta existente</translation>
+    </message>
+    <message>
+        <source>Migration is impossible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Found no more supported configuration file from some very old version:
+%1
+
+Migration is possible with Psi-0.15</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14863,11 +14882,11 @@ Senha: %5</translation>
     </message>
     <message>
         <source>%1 Proxy</source>
-        <translation>Proxy %1</translation>
+        <translation type="vanished">Proxy %1</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation>Notificador de evento</translation>
+        <translation type="vanished">Notificador de evento</translation>
     </message>
     <message>
         <source> is typing...</source>
@@ -16569,6 +16588,14 @@ O plugin foi projetado para manter as notas no servidor jabber com a capacidade 
     <message>
         <source> is composing</source>
         <translation>está digitando</translation>
+    </message>
+    <message>
+        <source>Unpin Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin Tab</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
