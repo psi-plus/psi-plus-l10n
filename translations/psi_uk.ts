@@ -12792,11 +12792,11 @@ Reason: %1.</source>
     </message>
     <message>
         <source>Pin Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Закріпити вкладку</translation>
     </message>
     <message>
         <source>Unpin Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкріпити вкладку</translation>
     </message>
 </context>
 <context>
@@ -13027,14 +13027,17 @@ This may mean you are already running another instance of Psi. You may experienc
     </message>
     <message>
         <source>Migration is impossible</source>
-        <translation type="unfinished"></translation>
+        <translation>Міграція неможлива</translation>
     </message>
     <message>
         <source>Found no more supported configuration file from some very old version:
 %1
 
 Migration is possible with Psi-0.15</source>
-        <translation type="unfinished"></translation>
+        <translation>Знайдено конфігурацію, що більше не підтримується, від Psi дуже старої версії:
+%1
+
+Міграція можлива з Psi-0.15</translation>
     </message>
 </context>
 <context>
@@ -16587,11 +16590,11 @@ The plugin is designed to keep notes on the jabber server with the ability to ac
     </message>
     <message>
         <source>Unpin Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкріпити вкладку</translation>
     </message>
     <message>
         <source>Pin Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Закріпити вкладку</translation>
     </message>
 </context>
 <context>
