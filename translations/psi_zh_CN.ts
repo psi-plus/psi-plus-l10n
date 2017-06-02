@@ -218,15 +218,7 @@
 Join the translation team today! Go to 
 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation>IM匿名&lt;note的您的真实name&quot;&gt; - text=&quot;replace
-&lt;a href=&quot;http://me.com&quot;&gt; http://me.com&lt;/ A&gt; - 
-XMPP:&lt;a href=&quot;xmpp:me@me.com&quot;&gt; me@me.com&lt;/ A&gt; - 
-&lt;a href=&quot;mailto:me@me.com&quot;&gt; me@me.com&lt;/ A&gt; - 
-翻译 - 
-- 
-今天加入翻译团队！到
-&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;的
-https://github.com/psi-plus/psi-plus-l10n&lt;/ a&gt;的更多详情！</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
@@ -4210,7 +4202,7 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <source>Disable autojoin to following groupchats:
 (specify JIDs)</source>
-        <translation>禁用自动联接如下群聊:(指定JID的)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Groupchat leave status message:</source>
@@ -5511,7 +5503,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation>你们已经在玩了!</translation>
+        <translation type="unfinished">你已在游戏中！</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
@@ -18190,7 +18182,7 @@ Do you still want to close the window?</source>
     </message>
     <message>
         <source>An error occurred during the authentication process.</source>
-        <translation>在认证过程中发生错误。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Authentication successful.</source>

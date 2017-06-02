@@ -53,15 +53,6 @@
         <translation>psi/psiplus_logo</translation>
     </message>
     <message>
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2014 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="vanished">Platformně nezávislý XMPP klient zaměřený na pokročilé uživatele.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2014 Tým Psi.&lt;br&gt;</translation>
-    </message>
-    <message>
         <source>http://psi-im.org</source>
         <translation>http://psi-im.org</translation>
     </message>
@@ -227,24 +218,14 @@ Copyright © 2001-2014 Tým Psi.&lt;br&gt;</translation>
 Join the translation team today! Go to 
 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation>Pan Anonymní&lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://ja.cz&quot;&gt;http://ja.cz&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:ja@ja.cz&quot;&gt;ja@ja.cz&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:ja@ja.cz&quot;&gt;ja@ja.cz&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;Překladatel&lt;br&gt;
-&lt;br&gt;
-Připoj se k týmu překladatelů jěště dnes!! Navštiv 
-&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
-https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; pro další informace!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="unfinished">Platformně nezávislý XMPP klient zaměřený na pokročilé uživatele.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2014 Tým Psi.&lt;br&gt; {2001-2017 ?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Original Author</source>
@@ -4237,8 +4218,7 @@ Toto nastavení má účinek pouze je-li akceptovat-výchozí vypnuto.</translat
     <message>
         <source>Disable autojoin to following groupchats:
 (specify JIDs)</source>
-        <translation>Zakázat automatické přihlašování do následujících skupinových chatů:
-(zadejte JIDy)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Groupchat leave status message:</source>
@@ -5538,7 +5518,7 @@ Hra je prohraná.</translation>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation>Už jednu hru hrajete!</translation>
+        <translation type="unfinished">Již máte hru rozehranou!</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
@@ -9926,10 +9906,6 @@ zprávy v chatu víde lidí)</translation>
         <translation>Zapnutý</translation>
     </message>
     <message>
-        <source>Color for incoming messages numbers</source>
-        <translation>Barva pro čísla příchozích zpráv</translation>
-    </message>
-    <message>
         <source>Color for outgoing messages numbers</source>
         <translation>Barva pro čísla odchozích zpráv</translation>
     </message>
@@ -9948,6 +9924,10 @@ zprávy v chatu víde lidí)</translation>
     <message>
         <source>Show message if it satisfies the rule</source>
         <translation>Zobrazit zprávu, pokud splňuje pravidlo</translation>
+    </message>
+    <message>
+        <source>Color for incoming messages numbers</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13269,10 +13249,6 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>&amp;Active Chats</source>
         <translation>Aktivní chaty</translation>
-    </message>
-    <message>
-        <source>Manage &amp;Contact</source>
-        <translation type="vanished">Spravovat kontakt</translation>
     </message>
     <message>
         <source>&amp;Authorization</source>
@@ -18191,7 +18167,7 @@ Opravdu zavřít okno?</translation>
     </message>
     <message>
         <source>An error occurred during the authentication process.</source>
-        <translation>Nastala chyba během ověřovacího procesu.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Authentication successful.</source>

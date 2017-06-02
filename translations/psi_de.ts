@@ -53,16 +53,6 @@
         <translation>psi/psiplus_logo</translation>
     </message>
     <message>
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2014 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="vanished">Ein plattformunabhängiger XMPP-Client für den Power-Nutzer.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2014 The Psi Team.&lt;br&gt;
-</translation>
-    </message>
-    <message>
         <source>http://psi-im.org</source>
         <translation>http://psi-im.org</translation>
     </message>
@@ -228,36 +218,14 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
 Join the translation team today! Go to 
 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation>Deutsche Übersetzung&lt;br&gt;
-&lt;small&gt;Letzte Aktualisierung: 09.01.2014&lt;/small&gt;&lt;br&gt;
-&lt;br&gt;
-M.Kiesel&lt;br&gt;
-Jaan Klatt&lt;br&gt;
-Sebastian Krysmanski&lt;br&gt;
-Frank Osterfeld&lt;br&gt;
-Martin Schwier&lt;br&gt;
-Patrick Hanft&lt;br&gt;
-Angelo Rosenfelder&lt;br&gt;
-Norman Den Rogers&lt;br&gt;
-Dennis Schridde&lt;br&gt;
-Frederik Schwarzer&lt;br&gt;
-Erik-B. Ernst&lt;br&gt;
-Florian Fieber&lt;br&gt;
-&lt;br&gt;
-&lt;a href=&quot;https://www.transifex.com/projects/p/psi-plus/&quot;&gt;Neue Transifex Projektseite&lt;/a&gt;&lt;br&gt;
-Fehler gefunden oder Verbesserungsvorschläge?&lt;br&gt;
-Kontaktaufnahme zur deutschen Übersetzung per Mailingliste (bitte auf Englisch):&lt;br&gt;
-&lt;a href=&quot;mailto:psi-lang@lists.affinix.com&quot;&gt;psi-lang@lists.affinix.com&lt;/a&gt;.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="unfinished">Ein plattformunabhängiger XMPP-Client für den Power-Nutzer.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2014 The Psi Team.&lt;br&gt;
- {2001-2017 ?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Original Author</source>
@@ -604,10 +572,6 @@ Wenn Sie diese Option aktivieren, können Sie Ihr Passwort nicht in den Konfigur
     <message>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
         <translation>Speichere das Passwort als Hash anstatt als Klartext, falls der Server dies unterstützt.</translation>
-    </message>
-    <message>
-        <source>Disable</source>
-        <translation type="obsolete">Deaktivieren</translation>
     </message>
     <message>
         <source>Enable Stream Management if possible</source>
@@ -2467,13 +2431,6 @@ Sie können Elemente ansehen, bevor sie von der Festplatte gelöscht werden. </t
     </message>
 </context>
 <context>
-    <name>ClientStream</name>
-    <message>
-        <source>Offered mechanisms: </source>
-        <translation type="vanished">Zur Verfügung stehende Mechanismen: </translation>
-    </message>
-</context>
-<context>
     <name>ClientSwitcherPlugin</name>
     <message>
         <source>Authors: </source>
@@ -3800,12 +3757,12 @@ Fortfahren?</translation>
 <context>
     <name>EnumMessagesPlugin</name>
     <message>
-        <source>Missed messages: %1</source>
-        <translation>Verpasste Nachrichten: %1</translation>
-    </message>
-    <message>
         <source>Authors: </source>
         <translation>Autoren: </translation>
+    </message>
+    <message>
+        <source>Missed messages: %1</source>
+        <translation>Verpasste Nachrichten: %1</translation>
     </message>
     <message>
         <source>Enum Messages</source>
@@ -4261,8 +4218,7 @@ Diese Option zeigt nur Wirkung, wenn automatisches Akzeptieren der Vorgaben abge
     <message>
         <source>Disable autojoin to following groupchats:
 (specify JIDs)</source>
-        <translation>Deaktiviere automatisches Beitreten bei den 
-folgenden Gruppenchats (JIDs eingeben)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Groupchat leave status message:</source>
@@ -5567,7 +5523,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation>Sie spielen bereits!</translation>
+        <translation type="unfinished">Sie spielen bereits!</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
@@ -6512,6 +6468,10 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished">Fehler</translation>
     </message>
     <message>
+        <source>Authors: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Image preview width</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6561,10 +6521,6 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>File size must be less than %1 bytes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Authors: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6922,6 +6878,10 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.ui.chat.central-
 <context>
     <name>ImagePreviewPlugin</name>
     <message>
+        <source>Author: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>512 Kb</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6951,10 +6911,6 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.ui.chat.central-
     </message>
     <message>
         <source>Allow upscale</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Author: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7082,7 +7038,7 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.ui.chat.central-
     </message>
     <message>
         <source>psi/disco</source>
-        <translation type="unfinished">psi/disco</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Publish</source>
@@ -7090,11 +7046,11 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.ui.chat.central-
     </message>
     <message>
         <source>&amp;Retrieve</source>
-        <translation type="unfinished">&amp;Abrufen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>psi/reload</source>
-        <translation type="unfinished">psi/reload</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -7102,7 +7058,7 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.ui.chat.central-
     </message>
     <message>
         <source>psi/close</source>
-        <translation type="unfinished">psi/close</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7133,7 +7089,7 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.ui.chat.central-
     </message>
     <message>
         <source>No date</source>
-        <translation type="unfinished">Kein Datum</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit birthday</source>
@@ -7146,8 +7102,7 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.ui.chat.central-
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation type="unfinished">Die Änderungen an Ihren Benutzerinformationen wurden nicht veröffentlicht.
-Sollen sie verworfen werden?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close and discard</source>
@@ -7163,7 +7118,7 @@ Sollen sie verworfen werden?</translation>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation type="unfinished">Ihre Benutzerinformationen wurden veröffentlicht.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error</source>
@@ -7171,25 +7126,22 @@ Sollen sie verworfen werden?</translation>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="unfinished">Ihre Benutzerinformationen können nicht abgerufen werden. Vielleicht haben Sie noch keine veröffentlicht.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation type="unfinished">Zu diesem Kontakt können keine Informationen abgerufen werden.
-Grund: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation type="unfinished">Ihre Benutzerinformationen können nicht veröffentlicht werden.
-Grund: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Picture not
 available</source>
-        <translation type="unfinished">Bild nicht
-verfügbar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Status</source>
@@ -9939,16 +9891,8 @@ Aktiviere die &quot;Nachrichtenarchivierung&quot;-Option zur Verwendung!</transl
         <translation>Name</translation>
     </message>
     <message>
-        <source>Conditions</source>
-        <translation>Bedingungen</translation>
-    </message>
-    <message>
-        <source>Show message if it satisfies the rule</source>
-        <translation>Zeige Nachricht wenn sie eine Regel erfüllt</translation>
-    </message>
-    <message>
-        <source>Color for incoming messages numbers</source>
-        <translation>Farbe für Nummern eingehender Nachrichten</translation>
+        <source>Enabled</source>
+        <translation>Aktiviert</translation>
     </message>
     <message>
         <source>Color for outgoing messages numbers</source>
@@ -9963,8 +9907,16 @@ Aktiviere die &quot;Nachrichtenarchivierung&quot;-Option zur Verwendung!</transl
         <translation>Deaktiviert</translation>
     </message>
     <message>
-        <source>Enabled</source>
-        <translation>Aktiviert</translation>
+        <source>Conditions</source>
+        <translation>Bedingungen</translation>
+    </message>
+    <message>
+        <source>Show message if it satisfies the rule</source>
+        <translation>Zeige Nachricht wenn sie eine Regel erfüllt</translation>
+    </message>
+    <message>
+        <source>Color for incoming messages numbers</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13297,10 +13249,6 @@ Migration is possible with Psi-0.15</source>
         <translation>&amp;Aktive Chats</translation>
     </message>
     <message>
-        <source>Manage &amp;Contact</source>
-        <translation type="vanished">&amp;Kontakt verwalten</translation>
-    </message>
-    <message>
         <source>&amp;Authorization</source>
         <translation>&amp;Autorisation</translation>
     </message>
@@ -15129,6 +15077,22 @@ Passwort: %5</translation>
         <translation>Letzte Statusnachricht</translation>
     </message>
     <message>
+        <source>Never</source>
+        <translation>Nie</translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation>Immer</translation>
+    </message>
+    <message>
+        <source>This computer only</source>
+        <translation>Nur an diesem Computer</translation>
+    </message>
+    <message>
+        <source>Except this computer</source>
+        <translation>Außer an diesem Computer</translation>
+    </message>
+    <message>
         <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
 
 Do you want to generate keys now?</source>
@@ -15145,22 +15109,6 @@ Thanks for your patience.</source>
 %2
 
 Vielen Dank für Ihre Geduld.</translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation>Nie</translation>
-    </message>
-    <message>
-        <source>Always</source>
-        <translation>Immer</translation>
-    </message>
-    <message>
-        <source>This computer only</source>
-        <translation>Nur an diesem Computer</translation>
-    </message>
-    <message>
-        <source>Except this computer</source>
-        <translation>Außer an diesem Computer</translation>
     </message>
     <message>
         <source>%1 is now known as %2</source>
@@ -18253,7 +18201,7 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
     <message>
         <source>An error occurred during the authentication process.</source>
-        <translation>Ein Fehler ist während des Authentifizierungsprozesses aufgetreten.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Authentication successful.</source>

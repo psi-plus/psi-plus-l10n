@@ -3237,10 +3237,6 @@ Proceed?</source>
         <translation type="vanished">&amp;Данни на потребител</translation>
     </message>
     <message>
-        <source>Choose an Image</source>
-        <translation type="obsolete">Избор на изображение</translation>
-    </message>
-    <message>
         <source>All files (*.png *.jpg *.gif)</source>
         <translation type="vanished">Всички файлове (*.png *.jpg *.gif)</translation>
     </message>
@@ -4145,8 +4141,7 @@ This option only has effect if accept-defaults is false.</source>
     <message>
         <source>Disable autojoin to following groupchats:
 (specify JIDs)</source>
-        <translation>Изключване на автоматично присъединяване за следните групови чатове:
-(задайте JID-ове)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Groupchat leave status message:</source>
@@ -12852,17 +12847,6 @@ Migration is possible with Psi-0.15</source>
         <source>Hidden</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="obsolete">Всички файлове (*.png *.jpg *.gif)</translation>
-    </message>
-</context>
-<context>
-    <name>PsiContactListViewDelegate</name>
-    <message>
-        <source>%1 (%2)</source>
-        <translation type="obsolete">%1 (%2)</translation>
-    </message>
 </context>
 <context>
     <name>PsiContactMenu::Private</name>
@@ -12875,16 +12859,8 @@ Migration is possible with Psi-0.15</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Chat</source>
-        <translation type="obsolete">&amp;Разговор</translation>
-    </message>
-    <message>
         <source>&amp;History</source>
         <translation type="unfinished">&amp;История</translation>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="obsolete">&amp;Добавяне</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
@@ -13332,20 +13308,8 @@ Would you like to activate that session now?</source>
 <context>
     <name>PsiRosterWidget</name>
     <message>
-        <source>This will cause all contacts in this group to be disassociated with it.
-
-Proceed?</source>
-        <translation type="obsolete">Всички контакти от тази група няма да са свързани вече с нея.
-
-Да се продължи ли?</translation>
-    </message>
-    <message>
         <source>&amp;Yes</source>
         <translation type="vanished">&amp;Да</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="obsolete">&amp;Не</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -15039,14 +15003,6 @@ The first time you install this plugin, you need to log on to all of your accoun
 </context>
 <context>
     <name>RemoveConfirmationMessageBox</name>
-    <message>
-        <source>OK</source>
-        <translation type="obsolete">ОК</translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="obsolete">Изтриване</translation>
-    </message>
     <message>
         <source>Cancel</source>
         <translation type="vanished">Отказ</translation>
@@ -17892,6 +17848,10 @@ Do you still want to close the window?</source>
         <translation>%1 отказа процесът на удостоверяване.</translation>
     </message>
     <message>
+        <source>An error occurred during the authentication process.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Authentication successful.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17903,10 +17863,6 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Authentication failed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>An error occurred during the authentication process.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -53,16 +53,6 @@
         <translation>psi/psiplus_logo</translation>
     </message>
     <message>
-        <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2014 The Psi Team.&lt;br&gt;
-</source>
-        <translation type="vanished">Um cliente XMPP multiplataforma projetado para usuários avançados.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2014 A equipe Psi.&lt;br&gt;
- {2001-2014 ?}</translation>
-    </message>
-    <message>
         <source>http://psi-im.org</source>
         <translation>http://psi-im.org</translation>
     </message>
@@ -228,23 +218,14 @@ Copyright © 2001-2014 A equipe Psi.&lt;br&gt;
 Join the translation team today! Go to 
 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation>Traduzido em Português Brasileiro por Alexandro Casanova &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:shorterfire@gmail.com&quot;&gt;shorterfire@gmail.com&lt;/a&gt;&lt;br&gt;
-&amp;nbsp;&amp;nbsp;E-mail: &lt;a href=&quot;mailto:shorterfire@gmail.com&quot;&gt;shorterfire@gmail.com&lt;/a&gt;&lt;br&gt;
-&lt;br&gt;
-Junte-se à equipe de tradução hoje! Ir para 
-&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
-https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; para mais detalhes!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="unfinished">Um cliente XMPP multiplataforma projetado para usuários avançados.&lt;br&gt;
-&lt;br&gt;
-Copyright © 2001-2014 A equipe Psi.&lt;br&gt;
- {2001-2014 ?} {2001-2017 ?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Original Author</source>
@@ -591,10 +572,6 @@ Quando você habilitar esta opção, você não será capaz de encontrar a sua s
     <message>
         <source>Store hash instead of plaintext password if server supports this feature.</source>
         <translation>Armazenar hash em vez de senha de texto puro, se o servidor suportar essa funcionalidade.</translation>
-    </message>
-    <message>
-        <source>Disable</source>
-        <translation type="obsolete">Desabilitar</translation>
     </message>
     <message>
         <source>Enable Stream Management if possible</source>
@@ -1554,16 +1531,16 @@ A lista de exceções para as jids tem dois modos de funcionamento:
 <context>
     <name>BattleshipGamePlugin</name>
     <message>
+        <source>Choose a sound file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Sound (*.wav)</source>
         <translation type="unfinished">Som (*.wav)</translation>
     </message>
     <message>
         <source>Author: </source>
         <translation type="unfinished">Autor: </translation>
-    </message>
-    <message>
-        <source>Choose a sound file</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Email: </source>
@@ -2449,13 +2426,6 @@ Você poderá pré-visualizar os itens antes de remove-los de seu hd.</translati
     <message>
         <source>Invert</source>
         <translation>Inverter</translation>
-    </message>
-</context>
-<context>
-    <name>ClientStream</name>
-    <message>
-        <source>Offered mechanisms: </source>
-        <translation type="obsolete">Mecanismo Oferecidos: </translation>
     </message>
 </context>
 <context>
@@ -4244,8 +4214,7 @@ Esta opção terá efeito se o aceitar-padrão for falso.</translation>
     <message>
         <source>Disable autojoin to following groupchats:
 (specify JIDs)</source>
-        <translation>Desabilitar entrada automática para os bate-papo em grupo a seguir:
-(especificar JIDs)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Groupchat leave status message:</source>
@@ -5551,7 +5520,7 @@ Você perdeu o jogo.</translation>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation>Você já esta jogando!</translation>
+        <translation type="unfinished">Você já esta jogando!</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
@@ -7070,24 +7039,28 @@ Nota: Para funcionar corretamente, as opção options.ui.chat.central-toolbar de
 <context>
     <name>InfoDlg</name>
     <message>
+        <source>User Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Alt+D</source>
         <translation type="unfinished">Alt+D</translation>
     </message>
     <message>
         <source>psi/disco</source>
-        <translation type="unfinished">psi/disco</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Publish</source>
-        <translation type="unfinished">&amp;Publicar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Retrieve</source>
-        <translation type="unfinished">&amp;Buscar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>psi/reload</source>
-        <translation type="unfinished">psi/reload</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -7095,10 +7068,6 @@ Nota: Para funcionar corretamente, as opção options.ui.chat.central-toolbar de
     </message>
     <message>
         <source>psi/close</source>
-        <translation type="unfinished">psi/close</translation>
-    </message>
-    <message>
-        <source>User Info</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7106,23 +7075,23 @@ Nota: Para funcionar corretamente, as opção options.ui.chat.central-toolbar de
     <name>InfoWidget</name>
     <message>
         <source>First Name:</source>
-        <translation type="unfinished">Primeiro Nome:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Middle Name:</source>
-        <translation type="unfinished">Nome do meio:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Last Name:</source>
-        <translation type="unfinished">Último nome:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit names</source>
-        <translation type="unfinished">Editar nomes</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View names</source>
-        <translation type="unfinished">Ver nomes</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open web browser</source>
@@ -7130,11 +7099,11 @@ Nota: Para funcionar corretamente, as opção options.ui.chat.central-toolbar de
     </message>
     <message>
         <source>No date</source>
-        <translation type="unfinished">Sem data</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit birthday</source>
-        <translation type="unfinished">Editar aniversário</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Warning</source>
@@ -7143,16 +7112,15 @@ Nota: Para funcionar corretamente, as opção options.ui.chat.central-toolbar de
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation type="unfinished">Você não publicou as alterações das informações de sua conta.
-Realmente deseja descartá-las?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close and discard</source>
-        <translation type="unfinished">Fechar e descartar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Don&apos;t close</source>
-        <translation type="unfinished">Não fechar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Success</source>
@@ -7160,7 +7128,7 @@ Realmente deseja descartá-las?</translation>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation type="unfinished">As informações da sua conta foram publicadas.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error</source>
@@ -7168,25 +7136,22 @@ Realmente deseja descartá-las?</translation>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="unfinished">Não foi possível buscar as informações da sua conta. Talvez você ainda não as tenha informado.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation type="unfinished">Não foi possível buscar as informações deste contado.
-Motivo: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation type="unfinished">Não foi possível publicar as informações da sua conta.
-Motivo: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Picture not
 available</source>
-        <translation type="unfinished">Figura não
-disponível</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Status</source>
@@ -13297,10 +13262,6 @@ Migration is possible with Psi-0.15</source>
         <translation>%Bate-papos Ativos</translation>
     </message>
     <message>
-        <source>Manage &amp;Contact</source>
-        <translation type="vanished">Gerenciar &amp; Contato</translation>
-    </message>
-    <message>
         <source>&amp;Authorization</source>
         <translation>&amp;Autorização</translation>
     </message>
@@ -15129,6 +15090,22 @@ Senha: %5</translation>
         <translation>Última Mensagem de Status</translation>
     </message>
     <message>
+        <source>Never</source>
+        <translation type="unfinished">Nunca</translation>
+    </message>
+    <message>
+        <source>Always</source>
+        <translation type="unfinished">Sempre</translation>
+    </message>
+    <message>
+        <source>This computer only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Except this computer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Private keys for account &quot;%1&quot; need to be generated. This takes quite some time (from a few seconds to a couple of minutes), and while you can use Psi+ in the meantime, all the messages will be sent unencrypted until keys are generated. You will be notified when this process finishes.
 
 Do you want to generate keys now?</source>
@@ -15145,22 +15122,6 @@ Thanks for your patience.</source>
 %2
 
 Obrigado pela sua paciência.</translation>
-    </message>
-    <message>
-        <source>Never</source>
-        <translation type="unfinished">Nunca</translation>
-    </message>
-    <message>
-        <source>Always</source>
-        <translation type="unfinished">Sempre</translation>
-    </message>
-    <message>
-        <source>This computer only</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Except this computer</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 is now known as %2</source>
@@ -18260,7 +18221,7 @@ Realmente deseja fechar a janela?</translation>
     </message>
     <message>
         <source>An error occurred during the authentication process.</source>
-        <translation>Ocorreu um erro durante o processo de autenticação.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Authentication successful.</source>
