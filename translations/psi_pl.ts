@@ -216,8 +216,8 @@
 &amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
 &lt;br&gt;
 Join the translation team today! Go to 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2088,10 +2088,6 @@ Czy nadal chcesz zamknąć to okno?</translation>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
         <translation>dodatek Szachy: Zaproszenie z %1</translation>
-    </message>
-    <message>
-        <source>You are allready playing!</source>
-        <translation>Już grasz!</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -4474,11 +4470,6 @@ Ważne: Większość z tych to ważne opcje systemowe. Wymaga to szczególnej uw
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Disable autojoin to folowing groupchats:
-(specify JIDs)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Groupchat leave status message:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4520,6 +4511,11 @@ Ważne: Większość z tych to ważne opcje systemowe. Wymaga to szczególnej uw
     </message>
     <message>
         <source>Store MUC private messages in history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable autojoin to following groupchats:
+(specify JIDs)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5522,7 +5518,7 @@ Przegrałeś.</translation>
         <translation>Nieprawidlowe parametry</translation>
     </message>
     <message>
-        <source>You are allready playing!</source>
+        <source>You are already playing!</source>
         <translation>Już grasz!</translation>
     </message>
     <message>
@@ -9589,10 +9585,6 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Color for incomming messages numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Color for outgoing messages numbers</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9903,6 +9895,10 @@ jeśli ustawiono &quot;nie&quot;, żadne połączenia nie będą rejestrowane.</
     </message>
     <message>
         <source>GnuPG info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for incoming messages numbers</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18104,10 +18100,6 @@ Czy nadal chcesz zamknąć tablicę?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>An error occured during the authentication process.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Authentication successful.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18119,6 +18111,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Authentication failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred during the authentication process.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

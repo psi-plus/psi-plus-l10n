@@ -216,8 +216,8 @@
 &amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
 &lt;br&gt;
 Join the translation team today! Go to 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation>Віталій Тонкачеєв&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:thetvg@gmail.com&quot;&gt;thetvg@gmail.com&lt;/a&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;Перекладач&lt;br&gt;
 &lt;br&gt;
@@ -2118,10 +2118,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
         <translation>Chess Plugin: Запрошення від %1</translation>
-    </message>
-    <message>
-        <source>You are allready playing!</source>
-        <translation>Ви вже граєте!</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -4237,7 +4233,7 @@ This option only has effect if accept-defaults is false.</source>
         <translation>Увімкнути HTML рендерінг у вікні конференції</translation>
     </message>
     <message>
-        <source>Disable autojoin to folowing groupchats:
+        <source>Disable autojoin to following groupchats:
 (specify JIDs)</source>
         <translation>Вимкнути авто-вхід до наступних конференцій:
 (вкажіть JID&apos;и)</translation>
@@ -5544,7 +5540,7 @@ You lost the game.</source>
         <translation>Неправильні параметри</translation>
     </message>
     <message>
-        <source>You are allready playing!</source>
+        <source>You are already playing!</source>
         <translation>Ви вже граєте!</translation>
     </message>
     <message>
@@ -9950,7 +9946,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Увімкнено</translation>
     </message>
     <message>
-        <source>Color for incomming messages numbers</source>
+        <source>Color for incoming messages numbers</source>
         <translation>Колір для номерів вхідних повідомлень</translation>
     </message>
     <message>
@@ -18266,7 +18262,7 @@ Do you still want to close the window?</source>
         <translation>%1 в авторизації було відмовлено.</translation>
     </message>
     <message>
-        <source>An error occured during the authentication process.</source>
+        <source>An error occurred during the authentication process.</source>
         <translation>Сталася помилка в процесі аутентифікації.</translation>
     </message>
     <message>

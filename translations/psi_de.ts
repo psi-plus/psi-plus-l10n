@@ -226,8 +226,8 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
 &amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
 &lt;br&gt;
 Join the translation team today! Go to 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation>Deutsche Übersetzung&lt;br&gt;
 &lt;small&gt;Letzte Aktualisierung: 09.01.2014&lt;/small&gt;&lt;br&gt;
 &lt;br&gt;
@@ -2138,10 +2138,6 @@ Möchten Sie das Fenster trotzdem schließen?</translation>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
         <translation>Chess Plugin (Schach): Einladung von %1</translation>
-    </message>
-    <message>
-        <source>You are allready playing!</source>
-        <translation>Sie spielen bereits!</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -4263,7 +4259,7 @@ Diese Option zeigt nur Wirkung, wenn automatisches Akzeptieren der Vorgaben abge
         <translation>Aktiviere HTML-Rendering im Gruppenchatfenster</translation>
     </message>
     <message>
-        <source>Disable autojoin to folowing groupchats:
+        <source>Disable autojoin to following groupchats:
 (specify JIDs)</source>
         <translation>Deaktiviere automatisches Beitreten bei den 
 folgenden Gruppenchats (JIDs eingeben)</translation>
@@ -5570,7 +5566,7 @@ You lost the game.</source>
         <translation>Fehlerhafte Parameter</translation>
     </message>
     <message>
-        <source>You are allready playing!</source>
+        <source>You are already playing!</source>
         <translation>Sie spielen bereits!</translation>
     </message>
     <message>
@@ -9951,7 +9947,7 @@ Aktiviere die &quot;Nachrichtenarchivierung&quot;-Option zur Verwendung!</transl
         <translation>Zeige Nachricht wenn sie eine Regel erfüllt</translation>
     </message>
     <message>
-        <source>Color for incomming messages numbers</source>
+        <source>Color for incoming messages numbers</source>
         <translation>Farbe für Nummern eingehender Nachrichten</translation>
     </message>
     <message>
@@ -18256,7 +18252,7 @@ Möchten Sie dennoch das Fenster schließen?</translation>
         <translation>%1 hat den Authentifizierungsprozess abgebrochen.</translation>
     </message>
     <message>
-        <source>An error occured during the authentication process.</source>
+        <source>An error occurred during the authentication process.</source>
         <translation>Ein Fehler ist während des Authentifizierungsprozesses aufgetreten.</translation>
     </message>
     <message>

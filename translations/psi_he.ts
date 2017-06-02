@@ -222,8 +222,8 @@ Copyright © 2001-2014 The Psi Team.&lt;br&gt;
 &amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
 &lt;br&gt;
 Join the translation team today! Go to 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation>Eli Zaretskii &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://translationproject.org/team/he.html&quot;&gt;http://translationproject.org/team/he.html&lt;/a&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;E-mail: &lt;a href=&quot;mailto:eliz@gnu.org&quot;&gt;eliz@gnu.org&lt;/a&gt;&lt;br&gt;
@@ -2130,10 +2130,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Your opponent has closed the board!
  You can still save the game.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are allready playing!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4356,11 +4352,6 @@ This option only has effect if accept-defaults is false.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Disable autojoin to folowing groupchats:
-(specify JIDs)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Groupchat leave status message:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4529,6 +4520,11 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Store MUC private messages in history</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable autojoin to following groupchats:
+(specify JIDs)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5530,15 +5526,15 @@ You will lose it</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You are allready playing!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;Game error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are already playing!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9651,10 +9647,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Color for incomming messages numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Color for outgoing messages numbers</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9904,6 +9896,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>GnuPG info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for incoming messages numbers</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18094,10 +18090,6 @@ Do you still want to close the window?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>An error occured during the authentication process.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Authentication successful.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18109,6 +18101,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Authentication failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred during the authentication process.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

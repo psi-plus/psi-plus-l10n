@@ -226,8 +226,8 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;
 &amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
 &lt;br&gt;
 Join the translation team today! Go to 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation>I. M. Anonymous &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
@@ -235,8 +235,8 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
 &amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
 &lt;br&gt;
 Join the translation team today! Go to 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</translation>
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</translation>
     </message>
     <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
@@ -2123,10 +2123,6 @@ Do you still want to close the window?</translation>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
         <translation>Chess Plugin: Invitation from %1</translation>
-    </message>
-    <message>
-        <source>You are allready playing!</source>
-        <translation>You are allready playing!</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -4250,9 +4246,9 @@ This option only has effect if accept-defaults is false.</translation>
         <translation>Enable HTML rendering in groupchat chat window</translation>
     </message>
     <message>
-        <source>Disable autojoin to folowing groupchats:
+        <source>Disable autojoin to following groupchats:
 (specify JIDs)</source>
-        <translation>Disable autojoin to folowing groupchats:
+        <translation>Disable autojoin to following groupchats:
 (specify JIDs)</translation>
     </message>
     <message>
@@ -5557,8 +5553,8 @@ You lost the game.</translation>
         <translation>Incorrect parameters</translation>
     </message>
     <message>
-        <source>You are allready playing!</source>
-        <translation>You are allready playing!</translation>
+        <source>You are already playing!</source>
+        <translation>You are already playing!</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
@@ -9959,10 +9955,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished">Enabled</translation>
     </message>
     <message>
-        <source>Color for incomming messages numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Color for outgoing messages numbers</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9980,6 +9972,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Show message if it satisfies the rule</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for incoming messages numbers</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18256,8 +18252,8 @@ Do you still want to close the window?</translation>
         <translation>%1 has canceled the authentication process.</translation>
     </message>
     <message>
-        <source>An error occured during the authentication process.</source>
-        <translation>An error occured during the authentication process.</translation>
+        <source>An error occurred during the authentication process.</source>
+        <translation>An error occurred during the authentication process.</translation>
     </message>
     <message>
         <source>Authentication successful.</source>

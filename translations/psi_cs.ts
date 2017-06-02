@@ -225,8 +225,8 @@ Copyright © 2001-2014 Tým Psi.&lt;br&gt;</translation>
 &amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
 &lt;br&gt;
 Join the translation team today! Go to 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation>Pan Anonymní&lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://ja.cz&quot;&gt;http://ja.cz&lt;/a&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:ja@ja.cz&quot;&gt;ja@ja.cz&lt;/a&gt;&lt;br&gt;
@@ -234,8 +234,8 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
 &amp;nbsp;&amp;nbsp;Překladatel&lt;br&gt;
 &lt;br&gt;
 Připoj se k týmu překladatelů jěště dnes!! Navštiv 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt; pro další informace!</translation>
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; pro další informace!</translation>
     </message>
     <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
@@ -2118,10 +2118,6 @@ Pořád si ale můžete uložit hru.</translation>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
         <translation>Šachový plugin: Pozvánka od %1</translation>
-    </message>
-    <message>
-        <source>You are allready playing!</source>
-        <translation>Již máte hru rozehranou!</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -4239,7 +4235,7 @@ Toto nastavení má účinek pouze je-li akceptovat-výchozí vypnuto.</translat
         <translation>Povolit HTML v okně skupinového chatu</translation>
     </message>
     <message>
-        <source>Disable autojoin to folowing groupchats:
+        <source>Disable autojoin to following groupchats:
 (specify JIDs)</source>
         <translation>Zakázat automatické přihlašování do následujících skupinových chatů:
 (zadejte JIDy)</translation>
@@ -5541,7 +5537,7 @@ Hra je prohraná.</translation>
         <translation>Neplatné parametry</translation>
     </message>
     <message>
-        <source>You are allready playing!</source>
+        <source>You are already playing!</source>
         <translation>Už jednu hru hrajete!</translation>
     </message>
     <message>
@@ -9930,7 +9926,7 @@ zprávy v chatu víde lidí)</translation>
         <translation>Zapnutý</translation>
     </message>
     <message>
-        <source>Color for incomming messages numbers</source>
+        <source>Color for incoming messages numbers</source>
         <translation>Barva pro čísla příchozích zpráv</translation>
     </message>
     <message>
@@ -18194,7 +18190,7 @@ Opravdu zavřít okno?</translation>
         <translation>%1 zrušil proces ověření.</translation>
     </message>
     <message>
-        <source>An error occured during the authentication process.</source>
+        <source>An error occurred during the authentication process.</source>
         <translation>Nastala chyba během ověřovacího procesu.</translation>
     </message>
     <message>

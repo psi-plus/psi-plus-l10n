@@ -216,8 +216,8 @@
 &amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
 &lt;br&gt;
 Join the translation team today! Go to 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation>I. M. Anonymous &lt;note text=&quot;sostituisci con il tuo vero nome&quot;&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
@@ -225,8 +225,8 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
 &amp;nbsp;&amp;nbsp;Traduttore&lt;br&gt;
 &lt;br&gt;
 Unisciti alla squadra di traduttori oggi! Vai su 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt; per ulteriori dettagli!</translation>
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; per ulteriori dettagli!</translation>
     </message>
     <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
@@ -2111,10 +2111,6 @@ Puoi ancora salvare la partita.</translation>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
         <translation>Plugin Scacchi: Invito da %1</translation>
-    </message>
-    <message>
-        <source>You are allready playing!</source>
-        <translation>Stai già giocando!</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -4233,7 +4229,7 @@ Questa opzione ha effetto solo se accetta automaticamente è disattivata.</trans
         <translation>Abilita rendering HTML nelle finestre di chat di gruppo</translation>
     </message>
     <message>
-        <source>Disable autojoin to folowing groupchats:
+        <source>Disable autojoin to following groupchats:
 (specify JIDs)</source>
         <translation>Disabilita auto-adesione per le seguenti chat di gruppo:
 (specifica i JID)</translation>
@@ -5537,7 +5533,7 @@ Hai perso la partita.</translation>
         <translation>Parametri incorretti</translation>
     </message>
     <message>
-        <source>You are allready playing!</source>
+        <source>You are already playing!</source>
         <translation>Stai già giocando!</translation>
     </message>
     <message>
@@ -9946,7 +9942,7 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
         <translation>Abilita</translation>
     </message>
     <message>
-        <source>Color for incomming messages numbers</source>
+        <source>Color for incoming messages numbers</source>
         <translation>Colore per i numeri di messaggi in arrivo</translation>
     </message>
     <message>
@@ -18241,7 +18237,7 @@ Vuoi ancora chiudere la finestra?</translation>
         <translation>%1 ha annullato il processo di autenticazione.</translation>
     </message>
     <message>
-        <source>An error occured during the authentication process.</source>
+        <source>An error occurred during the authentication process.</source>
         <translation>Si è verificato un errore durante il processo di autenticazione.</translation>
     </message>
     <message>

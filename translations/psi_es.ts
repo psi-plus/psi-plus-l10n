@@ -227,8 +227,8 @@ Copyright © 2001-2013 Equipo Psi.&lt;br&gt;
 &amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
 &lt;br&gt;
 Join the translation team today! Go to 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation>Ernesto Avilés Vázquez&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:whippiii@gmail.com&quot;&gt;whippiii@gmail.com&lt;/a&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;Traductor&lt;br&gt;
@@ -250,8 +250,8 @@ Francisco Pinto Oliver&lt;br&gt;
 &amp;nbsp;&amp;nbsp;Traductor&lt;br&gt;
 &lt;br&gt;
 ¡Únete ya al equipo de traducción! Para más detalles
-visita: &lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt;</translation>
+visita: &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt;</translation>
     </message>
     <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
@@ -2143,10 +2143,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
         <translation>Complemento de Ajedrez: Invitación de %1</translation>
-    </message>
-    <message>
-        <source>You are allready playing!</source>
-        <translation>Ya estas jugando!</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -4263,7 +4259,7 @@ Esta opción solo tiene efecto si accept-defaults está en falso.</translation>
         <translation>Habilitar procesamiento HTML en ventanas de salas de charla</translation>
     </message>
     <message>
-        <source>Disable autojoin to folowing groupchats:
+        <source>Disable autojoin to following groupchats:
 (specify JIDs)</source>
         <translation>Inhabilitar entrada automática a las siguientes salas:
 (especificar los JID)</translation>
@@ -5568,7 +5564,7 @@ Perderás el juego.</translation>
         <translation>Parámetros incorrectos</translation>
     </message>
     <message>
-        <source>You are allready playing!</source>
+        <source>You are already playing!</source>
         <translation>¡Ya estás jugando!</translation>
     </message>
     <message>
@@ -9971,10 +9967,6 @@ a las personas frecuentemente contactadas por email.</translation>
         <translation type="unfinished">Habilitado</translation>
     </message>
     <message>
-        <source>Color for incomming messages numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Color for outgoing messages numbers</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9992,6 +9984,10 @@ a las personas frecuentemente contactadas por email.</translation>
     </message>
     <message>
         <source>Show message if it satisfies the rule</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for incoming messages numbers</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18273,7 +18269,7 @@ Do you still want to close the window?</source>
         <translation>%1 ha cancelado el proceso de autenticación.</translation>
     </message>
     <message>
-        <source>An error occured during the authentication process.</source>
+        <source>An error occurred during the authentication process.</source>
         <translation>Ha ocurrido un error durante el proceso de autenticación.</translation>
     </message>
     <message>

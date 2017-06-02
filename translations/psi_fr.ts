@@ -225,8 +225,8 @@ Copyright © 2001 - 2014 L&apos;équipe Psi.&lt;br&gt;</translation>
 &amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
 &lt;br&gt;
 Join the translation team today! Go to 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation>Anne O&apos;Nyme &lt;note text=&quot;renseignez votre nom&quot;&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://moi.com&quot;&gt;http://moi.com&lt;/a&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:moi@moi.com&quot;&gt;moi@moi.com&lt;/a&gt;&lt;br&gt;
@@ -234,8 +234,8 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
 &amp;nbsp;&amp;nbsp;Traducteur&lt;br&gt;
 &lt;br&gt;
 Renjoignez l&apos;équipe de traduction dès maintenant ! Rendez-vous sur 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14 [EN]&lt;/a&gt; pour plus d&apos;informations !</translation>
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n [EN]&lt;/a&gt; pour plus d&apos;informations !</translation>
     </message>
     <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
@@ -2118,10 +2118,6 @@ Vous pouvez cependant sauvegarder la partie.</translation>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
         <translation>Greffon d&apos;Échecs : invitation de %1</translation>
-    </message>
-    <message>
-        <source>You are allready playing!</source>
-        <translation>Vous êtes déjà en train de jouer !</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -4206,7 +4202,7 @@ Si vous souhaitez confirmer cette demande, cliquez sur le bouton de confirmation
         <translation>Activer le rendu HTML dans les fenêtres de discussion des salons</translation>
     </message>
     <message>
-        <source>Disable autojoin to folowing groupchats:
+        <source>Disable autojoin to following groupchats:
 (specify JIDs)</source>
         <translation>Désactiver la connexion automatique pour les salons suivants :
 (saisir les JIDs)</translation>
@@ -5530,7 +5526,7 @@ Vous avez perdu.</translation>
         <translation>Paramètres incorrects</translation>
     </message>
     <message>
-        <source>You are allready playing!</source>
+        <source>You are already playing!</source>
         <translation>Vous êtes déjà en train de jouer !</translation>
     </message>
     <message>
@@ -9616,10 +9612,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Color for incomming messages numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Color for outgoing messages numbers</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9893,6 +9885,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>GnuPG info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for incoming messages numbers</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18075,10 +18071,6 @@ Do you still want to close the window?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>An error occured during the authentication process.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Authentication successful.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18090,6 +18082,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Authentication failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred during the authentication process.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

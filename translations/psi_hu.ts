@@ -226,8 +226,8 @@ Copyright © 2001-2013 The Psi Team.&lt;br&gt;
 &amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
 &lt;br&gt;
 Join the translation team today! Go to 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation>I. M. Anonymous &lt;note text=&quot;helyettesítsd a saját neveddel&quot;&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://me.com&quot;&gt;http://me.com&lt;/a&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:me@me.com&quot;&gt;me@me.com&lt;/a&gt;&lt;br&gt;
@@ -235,8 +235,8 @@ http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
 &amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
 &lt;br&gt;
 Csatlakozz a fordítócsapathoz még ma! Látogasd meg, 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt; további információkért!</translation>
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; további információkért!</translation>
     </message>
     <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
@@ -2129,10 +2129,6 @@ A játékot még elmentheted.</translation>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
         <translation>Sakk-kiegészítő: Meghívás tőle %1</translation>
-    </message>
-    <message>
-        <source>You are allready playing!</source>
-        <translation>Már játszol!</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -4254,7 +4250,7 @@ Ez az opció csak akkor működik, ha az alapértelmezések elfogadása ki van k
         <translation>HTML fordítás bekapcsolása a csoportbeszélgetés ablakában</translation>
     </message>
     <message>
-        <source>Disable autojoin to folowing groupchats:
+        <source>Disable autojoin to following groupchats:
 (specify JIDs)</source>
         <translation>Automatikus csatlakozás kikapcsolása a következő csoportbeszélgetéseknél:
 (megadott JID-ek)</translation>
@@ -5561,7 +5557,7 @@ Vesztettél.</translation>
         <translation>Helytelen paraméterek</translation>
     </message>
     <message>
-        <source>You are allready playing!</source>
+        <source>You are already playing!</source>
         <translation>Már játszol!</translation>
     </message>
     <message>
@@ -9971,7 +9967,7 @@ Használatához kapcsold be az &quot;Üzenetarchiváló&quot;-t!</translation>
         <translation>Üzenet megjelenítése, ha a szabálynak eleget tesz</translation>
     </message>
     <message>
-        <source>Color for incomming messages numbers</source>
+        <source>Color for incoming messages numbers</source>
         <translation>Bejövő üzenetek számának színe</translation>
     </message>
     <message>
@@ -18219,10 +18215,6 @@ Ablak bezárása mégis?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>An error occured during the authentication process.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Authentication successful.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -18234,6 +18226,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Authentication failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred during the authentication process.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

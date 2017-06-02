@@ -216,8 +216,8 @@
 &amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
 &lt;br&gt;
 Join the translation team today! Go to 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation>IM匿名&lt;note的您的真实name&quot;&gt; - text=&quot;replace
 &lt;a href=&quot;http://me.com&quot;&gt; http://me.com&lt;/ A&gt; - 
 XMPP:&lt;a href=&quot;xmpp:me@me.com&quot;&gt; me@me.com&lt;/ A&gt; - 
@@ -225,8 +225,8 @@ XMPP:&lt;a href=&quot;xmpp:me@me.com&quot;&gt; me@me.com&lt;/ A&gt; -
 翻译 - 
 - 
 今天加入翻译团队！到
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;的
-http://forum.psi-im.org/forum/14&lt;/ a&gt;的更多详情！</translation>
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;的
+https://github.com/psi-plus/psi-plus-l10n&lt;/ a&gt;的更多详情！</translation>
     </message>
     <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
@@ -2100,10 +2100,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
         <translation>国际象棋插件从 %1邀请</translation>
-    </message>
-    <message>
-        <source>You are allready playing!</source>
-        <translation>你已在游戏中！</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -4212,7 +4208,7 @@ This option only has effect if accept-defaults is false.</source>
         <translation>在群聊的聊天窗口启用HTML翻译</translation>
     </message>
     <message>
-        <source>Disable autojoin to folowing groupchats:
+        <source>Disable autojoin to following groupchats:
 (specify JIDs)</source>
         <translation>禁用自动联接如下群聊:(指定JID的)</translation>
     </message>
@@ -5514,7 +5510,7 @@ You lost the game.</source>
         <translation>不正确的参数</translation>
     </message>
     <message>
-        <source>You are allready playing!</source>
+        <source>You are already playing!</source>
         <translation>你们已经在玩了!</translation>
     </message>
     <message>
@@ -9928,10 +9924,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished">已启用</translation>
     </message>
     <message>
-        <source>Color for incomming messages numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Color for outgoing messages numbers</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9949,6 +9941,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Show message if it satisfies the rule</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for incoming messages numbers</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18193,7 +18189,7 @@ Do you still want to close the window?</source>
         <translation>%1已经取消认证过程.</translation>
     </message>
     <message>
-        <source>An error occured during the authentication process.</source>
+        <source>An error occurred during the authentication process.</source>
         <translation>在认证过程中发生错误。</translation>
     </message>
     <message>

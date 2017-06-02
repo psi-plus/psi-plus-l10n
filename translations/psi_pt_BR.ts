@@ -226,15 +226,15 @@ Copyright © 2001-2014 A equipe Psi.&lt;br&gt;
 &amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
 &lt;br&gt;
 Join the translation team today! Go to 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation>Traduzido em Português Brasileiro por Alexandro Casanova &lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:shorterfire@gmail.com&quot;&gt;shorterfire@gmail.com&lt;/a&gt;&lt;br&gt;
 &amp;nbsp;&amp;nbsp;E-mail: &lt;a href=&quot;mailto:shorterfire@gmail.com&quot;&gt;shorterfire@gmail.com&lt;/a&gt;&lt;br&gt;
 &lt;br&gt;
 Junte-se à equipe de tradução hoje! Ir para 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt; para mais detalhes!</translation>
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; para mais detalhes!</translation>
     </message>
     <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
@@ -2123,10 +2123,6 @@ Você ainda pode salvar a jogo.</translation>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
         <translation>Plugin Xadrez: Convite de %1</translation>
-    </message>
-    <message>
-        <source>You are allready playing!</source>
-        <translation>Você já esta jogando!</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -4246,7 +4242,7 @@ Esta opção terá efeito se o aceitar-padrão for falso.</translation>
         <translation>Habilitar renderização HTML nesta janela de conversa do bate-papo em grupo</translation>
     </message>
     <message>
-        <source>Disable autojoin to folowing groupchats:
+        <source>Disable autojoin to following groupchats:
 (specify JIDs)</source>
         <translation>Desabilitar entrada automática para os bate-papo em grupo a seguir:
 (especificar JIDs)</translation>
@@ -5554,7 +5550,7 @@ Você perdeu o jogo.</translation>
         <translation>Parâmetros incorretos</translation>
     </message>
     <message>
-        <source>You are allready playing!</source>
+        <source>You are already playing!</source>
         <translation>Você já esta jogando!</translation>
     </message>
     <message>
@@ -9957,10 +9953,6 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
         <translation type="unfinished">Habilitada</translation>
     </message>
     <message>
-        <source>Color for incomming messages numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Color for outgoing messages numbers</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9978,6 +9970,10 @@ Ativar &quot;Mensagem de arquivamento&quot; opção para uso!</translation>
     </message>
     <message>
         <source>Show message if it satisfies the rule</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for incoming messages numbers</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -18263,7 +18259,7 @@ Realmente deseja fechar a janela?</translation>
         <translation>%1 cancelou o processo de autenticação.</translation>
     </message>
     <message>
-        <source>An error occured during the authentication process.</source>
+        <source>An error occurred during the authentication process.</source>
         <translation>Ocorreu um erro durante o processo de autenticação.</translation>
     </message>
     <message>

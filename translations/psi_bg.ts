@@ -216,8 +216,8 @@
 &amp;nbsp;&amp;nbsp;Translator&lt;br&gt;
 &lt;br&gt;
 Join the translation team today! Go to 
-&lt;a href=&quot;http://forum.psi-im.org/forum/14&quot;&gt;
-http://forum.psi-im.org/forum/14&lt;/a&gt; for further details!</source>
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2092,10 +2092,6 @@ Do you still want to close the window?</source>
     <message>
         <source>Chess Plugin: Invitation from %1</source>
         <translation>Добавка Шах: Покана от %1</translation>
-    </message>
-    <message>
-        <source>You are allready playing!</source>
-        <translation>Вие вече играете!</translation>
     </message>
     <message>
         <source>Choose a sound file</source>
@@ -4147,7 +4143,7 @@ This option only has effect if accept-defaults is false.</source>
         <translation>Включване на HTML обработка в прозореца на груповия чат</translation>
     </message>
     <message>
-        <source>Disable autojoin to folowing groupchats:
+        <source>Disable autojoin to following groupchats:
 (specify JIDs)</source>
         <translation>Изключване на автоматично присъединяване за следните групови чатове:
 (задайте JID-ове)</translation>
@@ -5441,7 +5437,7 @@ You lost the game.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You are allready playing!</source>
+        <source>You are already playing!</source>
         <translation type="unfinished">Вие вече играете!</translation>
     </message>
     <message>
@@ -9768,10 +9764,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Color for incomming messages numbers</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Color for outgoing messages numbers</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9789,6 +9781,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Show message if it satisfies the rule</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color for incoming messages numbers</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17896,10 +17892,6 @@ Do you still want to close the window?</source>
         <translation>%1 отказа процесът на удостоверяване.</translation>
     </message>
     <message>
-        <source>An error occured during the authentication process.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Authentication successful.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -17911,6 +17903,10 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Authentication failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred during the authentication process.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
