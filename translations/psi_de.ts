@@ -3412,23 +3412,23 @@ Fortfahren?</translation>
     <name>DiscoDlg::Private</name>
     <message>
         <source>Auto</source>
-        <translation>Automatisch</translation>
+        <translation type="vanished">Automatisch</translation>
     </message>
     <message>
         <source>Automatically determine protocol</source>
-        <translation>Protokoll automatisch bestimmen</translation>
+        <translation type="vanished">Protokoll automatisch bestimmen</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation>Dienste durchsuchen</translation>
+        <translation type="vanished">Dienste durchsuchen</translation>
     </message>
     <message>
         <source>Browse Services</source>
-        <translation>Dienste durchsuchen</translation>
+        <translation type="vanished">Dienste durchsuchen</translation>
     </message>
     <message>
         <source>Browse Agents</source>
-        <translation>Agenten durchsuchen</translation>
+        <translation type="vanished">Agenten durchsuchen</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -3551,15 +3551,15 @@ Fortfahren?</translation>
     </message>
     <message>
         <source>There was an error browsing items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation>Fehler beim Durchsuchen der Elemente von &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Grund: %2</translation>
+        <translation type="vanished">Fehler beim Durchsuchen der Elemente von &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Grund: %2</translation>
     </message>
     <message>
         <source>XMPP Service</source>
-        <translation>XMPP-Dienst</translation>
+        <translation type="vanished">XMPP-Dienst</translation>
     </message>
     <message>
         <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation>Fehler beim Aufrufen eines Agenten für &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Grund: %2</translation>
+        <translation type="vanished">Fehler beim Aufrufen eines Agenten für &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Grund: %2</translation>
     </message>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
@@ -6544,11 +6544,11 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Upload error code %1, message: %2</source>
+        <source>Timeout waiting for an upload slot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Timeout waiting for an upload slot</source>
+        <source>Upload error %1; HTTP code %2, message: %3</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8999,7 +8999,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>px</source>
-        <translation>px</translation>
+        <translation type="vanished">px</translation>
     </message>
     <message>
         <source>Radius of corners</source>
@@ -9008,6 +9008,10 @@ Tags: %1</translation>
     <message>
         <source>seconds (0 - never)</source>
         <translation>Sekunden (0 - niemals)</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -3422,23 +3422,23 @@ Proceed?</source>
     <name>DiscoDlg::Private</name>
     <message>
         <source>Auto</source>
-        <translation>Авто</translation>
+        <translation type="vanished">Авто</translation>
     </message>
     <message>
         <source>Automatically determine protocol</source>
-        <translation>Определять протокол автоматически</translation>
+        <translation type="vanished">Определять протокол автоматически</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation>Обзор сервисов</translation>
+        <translation type="vanished">Обзор сервисов</translation>
     </message>
     <message>
         <source>Browse Services</source>
-        <translation>Обзор сервисов (jabber:iq:browse)</translation>
+        <translation type="vanished">Обзор сервисов (jabber:iq:browse)</translation>
     </message>
     <message>
         <source>Browse Agents</source>
-        <translation>Обзор агентов (jabber:iq:agents)</translation>
+        <translation type="vanished">Обзор агентов (jabber:iq:agents)</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -3561,15 +3561,15 @@ Proceed?</source>
     </message>
     <message>
         <source>There was an error browsing items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation>Ошибка просмотра элементов для &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Причина: %2</translation>
+        <translation type="vanished">Ошибка просмотра элементов для &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Причина: %2</translation>
     </message>
     <message>
         <source>XMPP Service</source>
-        <translation>Сервис XMPP</translation>
+        <translation type="vanished">Сервис XMPP</translation>
     </message>
     <message>
         <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation>Ошибка получения списка агентов для &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Причина: %2</translation>
+        <translation type="vanished">Ошибка получения списка агентов для &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Причина: %2</translation>
     </message>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
@@ -6566,11 +6566,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error code %1, message: %2</source>
-        <translation>Код ошибки отправки %1, сообщение: %2</translation>
+        <translation type="vanished">Код ошибки отправки %1, сообщение: %2</translation>
     </message>
     <message>
         <source>Timeout waiting for an upload slot</source>
         <translation>Таймаут ожидания слота для отправки</translation>
+    </message>
+    <message>
+        <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9031,7 +9035,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>px</source>
-        <translation> пкс</translation>
+        <translation type="vanished"> пкс</translation>
     </message>
     <message>
         <source>Radius of corners</source>
@@ -9040,6 +9044,10 @@ Tags: %1</source>
     <message>
         <source>seconds (0 - never)</source>
         <translation>секунд (0 - никогда)</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

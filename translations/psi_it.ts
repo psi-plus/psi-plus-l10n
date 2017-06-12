@@ -3424,23 +3424,23 @@ Procedere?</translation>
     <name>DiscoDlg::Private</name>
     <message>
         <source>Auto</source>
-        <translation>Auto</translation>
+        <translation type="vanished">Auto</translation>
     </message>
     <message>
         <source>Automatically determine protocol</source>
-        <translation>Determina automaticamente il protocollo</translation>
+        <translation type="vanished">Determina automaticamente il protocollo</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation>Scoperta Servizi</translation>
+        <translation type="vanished">Scoperta Servizi</translation>
     </message>
     <message>
         <source>Browse Services</source>
-        <translation>Sfoglia i Servizi</translation>
+        <translation type="vanished">Sfoglia i Servizi</translation>
     </message>
     <message>
         <source>Browse Agents</source>
-        <translation>Sfoglia gli Agenti</translation>
+        <translation type="vanished">Sfoglia gli Agenti</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -3563,15 +3563,15 @@ Procedere?</translation>
     </message>
     <message>
         <source>There was an error browsing items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation>C&apos;è stato un errore navigando negli oggetti per &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Motivo: %2</translation>
+        <translation type="vanished">C&apos;è stato un errore navigando negli oggetti per &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Motivo: %2</translation>
     </message>
     <message>
         <source>XMPP Service</source>
-        <translation>Servizio XMPP</translation>
+        <translation type="vanished">Servizio XMPP</translation>
     </message>
     <message>
         <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation>C&apos;è stato un errore prendendo gli agenti per &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Motivo: %2</translation>
+        <translation type="vanished">C&apos;è stato un errore prendendo gli agenti per &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Motivo: %2</translation>
     </message>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
@@ -6567,11 +6567,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error code %1, message: %2</source>
-        <translation>Errore caricamento codice %1, messaggio %2</translation>
+        <translation type="vanished">Errore caricamento codice %1, messaggio %2</translation>
     </message>
     <message>
         <source>Timeout waiting for an upload slot</source>
         <translation>Timeout in attesa di uno slot di upload</translation>
+    </message>
+    <message>
+        <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9034,7 +9038,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>px</source>
-        <translation>px</translation>
+        <translation type="vanished">px</translation>
     </message>
     <message>
         <source>Radius of corners</source>
@@ -9043,6 +9047,10 @@ Argomento MUC per esempio.</translation>
     <message>
         <source>seconds (0 - never)</source>
         <translation>secondi (0 - mai)</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

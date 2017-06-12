@@ -3411,23 +3411,23 @@ Provést?</translation>
     <name>DiscoDlg::Private</name>
     <message>
         <source>Auto</source>
-        <translation>Auto</translation>
+        <translation type="vanished">Auto</translation>
     </message>
     <message>
         <source>Automatically determine protocol</source>
-        <translation>Automaticky určit protokol</translation>
+        <translation type="vanished">Automaticky určit protokol</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation>Prohledávání služeb</translation>
+        <translation type="vanished">Prohledávání služeb</translation>
     </message>
     <message>
         <source>Browse Services</source>
-        <translation>Procházet službami</translation>
+        <translation type="vanished">Procházet službami</translation>
     </message>
     <message>
         <source>Browse Agents</source>
-        <translation>Procházet zprostředkovateli</translation>
+        <translation type="vanished">Procházet zprostředkovateli</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -3550,15 +3550,15 @@ Provést?</translation>
     </message>
     <message>
         <source>There was an error browsing items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation>Došlo k chybě při procházení položkami v &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Zdůvodnění: %2</translation>
+        <translation type="vanished">Došlo k chybě při procházení položkami v &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Zdůvodnění: %2</translation>
     </message>
     <message>
         <source>XMPP Service</source>
-        <translation>XMPP služba</translation>
+        <translation type="vanished">XMPP služba</translation>
     </message>
     <message>
         <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation>Došlo k chybě při získávání zprostředkovatelů v &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Zdůvodnění: %2</translation>
+        <translation type="vanished">Došlo k chybě při získávání zprostředkovatelů v &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Zdůvodnění: %2</translation>
     </message>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
@@ -6547,11 +6547,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error code %1, message: %2</source>
-        <translation>Chyba %1 při nahrávání, zpráva: %2</translation>
+        <translation type="vanished">Chyba %1 při nahrávání, zpráva: %2</translation>
     </message>
     <message>
         <source>Timeout waiting for an upload slot</source>
         <translation>Vypršel čas vyhrazený na čekání na slot</translation>
+    </message>
+    <message>
+        <source>Upload error %1; HTTP code %2, message: %3</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8993,7 +8997,7 @@ Tagy: %1</translation>
     </message>
     <message>
         <source>px</source>
-        <translation>px</translation>
+        <translation type="vanished">px</translation>
     </message>
     <message>
         <source>Radius of corners</source>
@@ -9002,6 +9006,10 @@ Tagy: %1</translation>
     <message>
         <source>seconds (0 - never)</source>
         <translation>vteřin (0 = nikdy)</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

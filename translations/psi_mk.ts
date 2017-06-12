@@ -3282,23 +3282,23 @@ Proceed?</source>
     <name>DiscoDlg::Private</name>
     <message>
         <source>Auto</source>
-        <translation>Автоматски</translation>
+        <translation type="vanished">Автоматски</translation>
     </message>
     <message>
         <source>Automatically determine protocol</source>
-        <translation>Автоматски одреди го протоколот</translation>
+        <translation type="vanished">Автоматски одреди го протоколот</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation>Листа на сервиси</translation>
+        <translation type="vanished">Листа на сервиси</translation>
     </message>
     <message>
         <source>Browse Services</source>
-        <translation>Разгледај ги сервисите</translation>
+        <translation type="vanished">Разгледај ги сервисите</translation>
     </message>
     <message>
         <source>Browse Agents</source>
-        <translation>Разгледај ги агентите</translation>
+        <translation type="vanished">Разгледај ги агентите</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -3421,19 +3421,15 @@ Proceed?</source>
     </message>
     <message>
         <source>There was an error browsing items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation>Имаше грешка при листањето на ставките за &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Причина: %2</translation>
+        <translation type="vanished">Имаше грешка при листањето на ставките за &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Причина: %2</translation>
     </message>
     <message>
         <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation>Имаше грешка при земањето агенти за &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Причина: %2</translation>
+        <translation type="vanished">Имаше грешка при земањето агенти за &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Причина: %2</translation>
     </message>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Имаше грешка при земањето информации за ставките за &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Причина: %2</translation>
-    </message>
-    <message>
-        <source>XMPP Service</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6389,11 +6385,11 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Upload error code %1, message: %2</source>
+        <source>Timeout waiting for an upload slot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Timeout waiting for an upload slot</source>
+        <source>Upload error %1; HTTP code %2, message: %3</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8822,11 +8818,11 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>px</source>
+        <source>Radius of corners</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Radius of corners</source>
+        <source>pt</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

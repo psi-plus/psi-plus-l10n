@@ -3432,23 +3432,23 @@ Proceed?</source>
     <name>DiscoDlg::Private</name>
     <message>
         <source>Auto</source>
-        <translation>Самарушна</translation>
+        <translation type="vanished">Самарушна</translation>
     </message>
     <message>
         <source>Automatically determine protocol</source>
-        <translation>Вызначаць пратакол самарушна</translation>
+        <translation type="vanished">Вызначаць пратакол самарушна</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation>Шукаць службы</translation>
+        <translation type="vanished">Шукаць службы</translation>
     </message>
     <message>
         <source>Browse Services</source>
-        <translation>Зірнуць службы</translation>
+        <translation type="vanished">Зірнуць службы</translation>
     </message>
     <message>
         <source>Browse Agents</source>
-        <translation>Зірнуць сродкі</translation>
+        <translation type="vanished">Зірнуць сродкі</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -3571,15 +3571,15 @@ Proceed?</source>
     </message>
     <message>
         <source>There was an error browsing items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation>Далі хібу, калі праглядалі складнікі &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Падстава: %2</translation>
+        <translation type="vanished">Далі хібу, калі праглядалі складнікі &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Падстава: %2</translation>
     </message>
     <message>
         <source>XMPP Service</source>
-        <translation>Служба XMPP</translation>
+        <translation type="vanished">Служба XMPP</translation>
     </message>
     <message>
         <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation>Далі хібу, калі атрымвалі сьпіс сродкаў для &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Падстава: %2</translation>
+        <translation type="vanished">Далі хібу, калі атрымвалі сьпіс сродкаў для &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Падстава: %2</translation>
     </message>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
@@ -6569,11 +6569,11 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Upload error code %1, message: %2</source>
+        <source>Timeout waiting for an upload slot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Timeout waiting for an upload slot</source>
+        <source>Upload error %1; HTTP code %2, message: %3</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9027,7 +9027,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>px</source>
-        <translation>пікс.</translation>
+        <translation type="vanished">пікс.</translation>
     </message>
     <message>
         <source>Radius of corners</source>
@@ -9035,6 +9035,10 @@ Tags: %1</source>
     </message>
     <message>
         <source>seconds (0 - never)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

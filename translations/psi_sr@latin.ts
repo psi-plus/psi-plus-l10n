@@ -3382,23 +3382,23 @@ Da nastavim?</translation>
     <name>DiscoDlg::Private</name>
     <message>
         <source>Auto</source>
-        <translation>Automatski</translation>
+        <translation type="vanished">Automatski</translation>
     </message>
     <message>
         <source>Automatically determine protocol</source>
-        <translation>Automatski odredi protokol</translation>
+        <translation type="vanished">Automatski odredi protokol</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation>Nalaženje usluga</translation>
+        <translation type="vanished">Nalaženje usluga</translation>
     </message>
     <message>
         <source>Browse Services</source>
-        <translation>Razgledaj usluge</translation>
+        <translation type="vanished">Razgledaj usluge</translation>
     </message>
     <message>
         <source>Browse Agents</source>
-        <translation>Razgledaj zastupnike</translation>
+        <translation type="vanished">Razgledaj zastupnike</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -3521,15 +3521,11 @@ Da nastavim?</translation>
     </message>
     <message>
         <source>There was an error browsing items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation>Došlo je do greške kod pretrage stavki za &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Razlog: %2</translation>
+        <translation type="vanished">Došlo je do greške kod pretrage stavki za &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Razlog: %2</translation>
     </message>
     <message>
         <source>XMPP Service</source>
-        <translation>XMPP servis</translation>
-    </message>
-    <message>
-        <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">XMPP servis</translation>
     </message>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
@@ -6511,11 +6507,11 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Upload error code %1, message: %2</source>
+        <source>Timeout waiting for an upload slot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Timeout waiting for an upload slot</source>
+        <source>Upload error %1; HTTP code %2, message: %3</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8966,7 +8962,7 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>px</source>
-        <translation>px</translation>
+        <translation type="vanished">px</translation>
     </message>
     <message>
         <source>Radius of corners</source>
@@ -8974,6 +8970,10 @@ Kartice: %1</translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

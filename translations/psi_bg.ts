@@ -3337,23 +3337,23 @@ Proceed?</source>
     <name>DiscoDlg::Private</name>
     <message>
         <source>Auto</source>
-        <translation>Автоматично</translation>
+        <translation type="vanished">Автоматично</translation>
     </message>
     <message>
         <source>Automatically determine protocol</source>
-        <translation>Автоматично определяне на протокола</translation>
+        <translation type="vanished">Автоматично определяне на протокола</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation>Откриване на услуги</translation>
+        <translation type="vanished">Откриване на услуги</translation>
     </message>
     <message>
         <source>Browse Services</source>
-        <translation>Преглед на услугите</translation>
+        <translation type="vanished">Преглед на услугите</translation>
     </message>
     <message>
         <source>Browse Agents</source>
-        <translation>Преглед на агентите</translation>
+        <translation type="vanished">Преглед на агентите</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -3476,15 +3476,15 @@ Proceed?</source>
     </message>
     <message>
         <source>There was an error browsing items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation>Възникна грешка при разглеждането на обекти за &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Причина: %2</translation>
+        <translation type="vanished">Възникна грешка при разглеждането на обекти за &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Причина: %2</translation>
     </message>
     <message>
         <source>XMPP Service</source>
-        <translation>XMPP Услуга</translation>
+        <translation type="vanished">XMPP Услуга</translation>
     </message>
     <message>
         <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation>Възникна грешка при получаването на агенти за &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Причина: %2</translation>
+        <translation type="vanished">Възникна грешка при получаването на агенти за &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Причина: %2</translation>
     </message>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
@@ -6442,11 +6442,11 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Upload error code %1, message: %2</source>
+        <source>Timeout waiting for an upload slot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Timeout waiting for an upload slot</source>
+        <source>Upload error %1; HTTP code %2, message: %3</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8867,15 +8867,15 @@ Tags: %1</source>
         <translation type="unfinished">Размер</translation>
     </message>
     <message>
-        <source>px</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Radius of corners</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

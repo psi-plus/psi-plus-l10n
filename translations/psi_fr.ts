@@ -3407,23 +3407,23 @@ Continuer ?</translation>
     <name>DiscoDlg::Private</name>
     <message>
         <source>Auto</source>
-        <translation>Automatique</translation>
+        <translation type="vanished">Automatique</translation>
     </message>
     <message>
         <source>Automatically determine protocol</source>
-        <translation>Détermination automatique du protocole</translation>
+        <translation type="vanished">Détermination automatique du protocole</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation>Gestion des Services</translation>
+        <translation type="vanished">Gestion des Services</translation>
     </message>
     <message>
         <source>Browse Services</source>
-        <translation>Parcourir les Services</translation>
+        <translation type="vanished">Parcourir les Services</translation>
     </message>
     <message>
         <source>Browse Agents</source>
-        <translation>Parcourir les Agents</translation>
+        <translation type="vanished">Parcourir les Agents</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -3546,15 +3546,15 @@ Continuer ?</translation>
     </message>
     <message>
         <source>There was an error browsing items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation>Il y a eu une erreur en parcourant les objets de &lt;b&gt;%1&lt;/b&gt;Cause: %2</translation>
+        <translation type="vanished">Il y a eu une erreur en parcourant les objets de &lt;b&gt;%1&lt;/b&gt;Cause: %2</translation>
     </message>
     <message>
         <source>XMPP Service</source>
-        <translation>Service XMPP</translation>
+        <translation type="vanished">Service XMPP</translation>
     </message>
     <message>
         <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation>Il y a eu une erreur lors de la récupération des agents de &lt;b&gt;%1&lt;/b&gt;Cause: %2</translation>
+        <translation type="vanished">Il y a eu une erreur lors de la récupération des agents de &lt;b&gt;%1&lt;/b&gt;Cause: %2</translation>
     </message>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
@@ -6516,11 +6516,11 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Upload error code %1, message: %2</source>
+        <source>Timeout waiting for an upload slot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Timeout waiting for an upload slot</source>
+        <source>Upload error %1; HTTP code %2, message: %3</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8954,15 +8954,15 @@ Labels : %1</translation>
         <translation type="unfinished">Taille</translation>
     </message>
     <message>
-        <source>px</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Radius of corners</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>seconds (0 - never)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

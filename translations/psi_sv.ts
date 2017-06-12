@@ -3359,23 +3359,23 @@ Fortsätt?</translation>
     <name>DiscoDlg::Private</name>
     <message>
         <source>Auto</source>
-        <translation>Auto</translation>
+        <translation type="vanished">Auto</translation>
     </message>
     <message>
         <source>Automatically determine protocol</source>
-        <translation>Bestäm protokoll automatiskt</translation>
+        <translation type="vanished">Bestäm protokoll automatiskt</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation>TJänsteupptäckaren</translation>
+        <translation type="vanished">TJänsteupptäckaren</translation>
     </message>
     <message>
         <source>Browse Services</source>
-        <translation>Bläddra bland tjänster</translation>
+        <translation type="vanished">Bläddra bland tjänster</translation>
     </message>
     <message>
         <source>Browse Agents</source>
-        <translation>Bläddra bland agenter</translation>
+        <translation type="vanished">Bläddra bland agenter</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -3498,19 +3498,15 @@ Fortsätt?</translation>
     </message>
     <message>
         <source>There was an error browsing items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation>Det uppstod ett fel vid bläddring för &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Orsak: %2</translation>
+        <translation type="vanished">Det uppstod ett fel vid bläddring för &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Orsak: %2</translation>
     </message>
     <message>
         <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation>Det uppstod ett fel när agenter hämtades för &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Orsak: %2</translation>
+        <translation type="vanished">Det uppstod ett fel när agenter hämtades för &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Orsak: %2</translation>
     </message>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>Det uppstod ett fel när postinformation hämtades för &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Orsak: %2</translation>
-    </message>
-    <message>
-        <source>XMPP Service</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6467,11 +6463,11 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Upload error code %1, message: %2</source>
+        <source>Timeout waiting for an upload slot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Timeout waiting for an upload slot</source>
+        <source>Upload error %1; HTTP code %2, message: %3</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8906,11 +8902,11 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>px</source>
+        <source>Radius of corners</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Radius of corners</source>
+        <source>pt</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

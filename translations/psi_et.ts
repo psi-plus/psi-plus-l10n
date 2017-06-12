@@ -3121,23 +3121,23 @@ Soovid jätkata?</translation>
     <name>DiscoDlg::Private</name>
     <message>
         <source>Auto</source>
-        <translation>Automaatne</translation>
+        <translation type="vanished">Automaatne</translation>
     </message>
     <message>
         <source>Automatically determine protocol</source>
-        <translation>Automaatselt määra protokoll</translation>
+        <translation type="vanished">Automaatselt määra protokoll</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation>Teenuse Otsing</translation>
+        <translation type="vanished">Teenuse Otsing</translation>
     </message>
     <message>
         <source>Browse Services</source>
-        <translation>Vaata Teenuseid</translation>
+        <translation type="vanished">Vaata Teenuseid</translation>
     </message>
     <message>
         <source>Browse Agents</source>
-        <translation>Vaata Agente</translation>
+        <translation type="vanished">Vaata Agente</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -3256,18 +3256,6 @@ Soovid jätkata?</translation>
     </message>
     <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>There was an error browsing items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>XMPP Service</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6219,11 +6207,11 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Upload error code %1, message: %2</source>
+        <source>Timeout waiting for an upload slot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Timeout waiting for an upload slot</source>
+        <source>Upload error %1; HTTP code %2, message: %3</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8652,11 +8640,11 @@ Tags: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>px</source>
+        <source>Radius of corners</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Radius of corners</source>
+        <source>pt</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
