@@ -6571,16 +6571,12 @@ p, li { white-space: pre-wrap; }
         <translation>Відсутні дані для завантаження, через закінчення часу очікування або іншу помилку</translation>
     </message>
     <message>
-        <source>Upload error code %1, message: %2</source>
-        <translation type="vanished">Код помилки при завантаженні %1, повідомлення: %2</translation>
-    </message>
-    <message>
         <source>Timeout waiting for an upload slot</source>
         <translation>Час очікування слоту завантаження закінчився</translation>
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка завантаження %1; HTTP код %2, повідомлення: %3</translation>
     </message>
 </context>
 <context>
@@ -9054,7 +9050,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pt</translation>
     </message>
 </context>
 <context>
@@ -9954,10 +9950,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Увімкнено</translation>
     </message>
     <message>
-        <source>Color for incoming messages numbers</source>
-        <translation>Колір для номерів вхідних повідомлень</translation>
-    </message>
-    <message>
         <source>Color for outgoing messages numbers</source>
         <translation>Колір для номерів вихідних повідомлень</translation>
     </message>
@@ -9976,6 +9968,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Show message if it satisfies the rule</source>
         <translation>Показати повідомлення, якщо воно задовольняє правилу</translation>
+    </message>
+    <message>
+        <source>Color for incoming messages numbers</source>
+        <translation>Колір для номерів вхідних повідомлень</translation>
     </message>
 </context>
 <context>
