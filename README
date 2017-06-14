@@ -7,7 +7,8 @@ Homepage: https://github.com/psi-plus/psi-plus-l10n
 Translations are managed via Transifex web service:
   https://www.transifex.com/tehnick/psi-plus/
 
-If you want to begin new translation or update an existing one you should simply register in Transifex and use its standard mechanisms for creating of new
+If you want to begin new translation or update an existing one you should simply
+register in Transifex and use its standard mechanisms for creating of new
 translation or for joining translators team.
 
 You are free to choose the way in which you want to update the translation:
