@@ -1,35 +1,40 @@
-This is the special repository with translations for the Psi and Psi+ projects:
-  http://psi-im.org/
+This is the special repository with translations for the Psi+ and Psi projects:
   http://psi-plus.com/
+  http://psi-im.org/
+
+Homepage: https://github.com/psi-plus/psi-plus-l10n
 
 Translations are managed via Transifex web service:
   https://www.transifex.com/tehnick/psi-plus/
 
-If you want to begin new translation or update an existing one you should simply
-register in Transifex and contact with us using message system of that web site.
-And we will give you permission to edit chosen translation in the project.
+If you want to begin new translation or update an existing one you should simply register in Transifex and use its standard mechanisms for creating of new
+translation or for joining translators team.
 
 You are free to choose the way in which you want to update the translation:
-  http://docs.transifex.com/
-
-For example:
 * you may edit translation file via Transifex web interface from everywhere
 * you may download translation file, edit it in any editor which you like
   (we recommend Qt Linguist for this) and upload updated file back
 
-Transifex has quite good documentation: http://help.transifex.com/
+Transifex has quite good documentation:
+  https://docs.transifex.com/
 
 If you want use only web UI you do not need to read anything because web UI is
-very simple and you could just begin to work.
+very simple and you may just begin to work.
 
-But if you want to use more features you may read about API which allow download
-and upload translation files using console program curl. Or you may use special
-command-line program transifex-client. It has simple syntax similar to git:
-  http://docs.transifex.com/client/
-  http://docs.transifex.com/api/
+But if you want to manage translations manually you may use special command-line
+program transifex-client. It has simple syntax similar to git:
+  https://docs.transifex.com/client/introduction
 
-This repo was created by Boris Pek <tehnick-8@yandex.ru>.
-Please contact me if you have any troubles with this repo.
+This repo was created by Boris Pek <tehnick-8@yandex.ru>. Please contact me if
+you have any troubles with this repo.
 
-If you find typos in the program you may report bug here:
+If you want to fix one or two words in some translation, you may just write
+about them here: https://github.com/psi-plus/psi-plus-l10n/issues
+But for more amount of changes please join to our translators team.
+
+If you find typos in the program sources you may report bug here:
   https://github.com/psi-im/psi/issues
+
+Useful links:
+  https://github.com/psi-im/psi-l10n
+  https://sourceforge.net/projects/psiplus/files/Translations/
