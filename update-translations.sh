@@ -1,9 +1,9 @@
 #!/bin/sh
 
-# Author:  Boris Pek <tehnick-8@mail.ru>
+# Author:  Boris Pek <tehnick-8@yandex.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2016-05-28
+# Updated: 2017-06-16
 # Version: N/A
 
 export CUR_DIR="$(dirname $(realpath -s ${0}))"
@@ -244,7 +244,7 @@ case "${1}" in
 
 ;;
 "tr_sync")
-    # Syncing Transifex and Guthub repos.
+    # Syncing Transifex and GitHub repos.
 
     "${0}" up > /dev/null || exit 1
     "${0}" tr > /dev/null || exit 1
