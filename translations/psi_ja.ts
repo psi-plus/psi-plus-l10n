@@ -81,10 +81,6 @@
         <translation>閉じる(&amp;C)</translation>
     </message>
     <message>
-        <source>Current Maintainer and Original Author</source>
-        <translation type="vanished">現在のメンテナと原作者</translation>
-    </message>
-    <message>
         <source>Past Lead Developer and Maintainer</source>
         <translation>過去の開発リーダー及びメンテナ</translation>
     </message>
@@ -2573,19 +2569,19 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     <name>ContactListDragView</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation type="unfinished">本当にコンタクトリストから %1 を削除しても良いですか?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Deleting contacts</source>
-        <translation type="unfinished">コンタクトを削除しています</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">削除</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2615,20 +2611,12 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation>グループとコンタクトの削除</translation>
     </message>
     <message>
-        <source>&amp;Remove</source>
-        <translation type="vanished">削除(&amp;R)</translation>
-    </message>
-    <message>
         <source>Remove Group</source>
         <translation>グループの削除</translation>
     </message>
     <message>
         <source>Send Message to Group</source>
         <translation>グループにメッセージを送信</translation>
-    </message>
-    <message>
-        <source>&amp;Add group...</source>
-        <translation type="vanished">グループの追加(&amp;A)</translation>
     </message>
     <message>
         <source>Hide All</source>
@@ -2648,7 +2636,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>Authorization</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">承</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
@@ -2661,11 +2649,11 @@ Proceed?</source>
     <name>ContactListItem</name>
     <message>
         <source>Agents/Transports</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">トランスポートエージェント</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished">プライベートメッセージ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Conferences</source>
@@ -2673,107 +2661,10 @@ Proceed?</source>
     </message>
 </context>
 <context>
-    <name>ContactListModel</name>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">エラー</translation>
-    </message>
-    <message>
-        <source>You can&apos;t set a blank group name.</source>
-        <translation type="vanished">空のグループ名を設定することは出来ません。</translation>
-    </message>
-</context>
-<context>
-    <name>ContactListSpecialGroup</name>
-    <message>
-        <source>General</source>
-        <translation type="vanished">一般</translation>
-    </message>
-    <message>
-        <source>Not in List</source>
-        <translation type="vanished">リスト外</translation>
-    </message>
-    <message>
-        <source>Agents/Transports</source>
-        <translation type="vanished">エージェント/トランスポート</translation>
-    </message>
-    <message>
-        <source>Private messages</source>
-        <translation type="vanished">プライベートメッセージ</translation>
-    </message>
-</context>
-<context>
-    <name>ContactListUtil</name>
-    <message>
-        <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation type="vanished">本当にコンタクトリストから %1 を削除しても良いですか?</translation>
-    </message>
-    <message numerus="yes">
-        <source>and %n contacts </source>
-        <translation type="vanished">
-            <numerusform>%n つのコンタクト</numerusform>
-        </translation>
-    </message>
-    <message numerus="yes">
-        <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation type="vanished">
-            <numerusform>これは&lt;br&gt;%1&lt;br&gt;%2と %n 個のグループをあなたのコンタクトリストから永久に削除します。</numerusform>
-        </translation>
-    </message>
-    <message>
-        <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
-        <translation type="vanished">これは&lt;br&gt;%1&lt;br&gt;%2と &quot;%3&quot; グループをあなたのコンタクトリストから永久に削除します。</translation>
-    </message>
-    <message>
-        <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2from your contact list.</source>
-        <translation type="vanished">これは&lt;br&gt;%1&lt;br&gt;%2をあなたのコンタクトリストから永久に削除します。</translation>
-    </message>
-    <message>
-        <source>This is a system group and can&apos;t be removed. Permanently remove all its contacts from your contact list?</source>
-        <translation type="vanished">これはシステムグループなので削除出来ません。コンタクトリストから全てののコンタクトを削除しますか?</translation>
-    </message>
-    <message>
-        <source>Clear Group</source>
-        <translation type="vanished">グループをクリア</translation>
-    </message>
-    <message>
-        <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;group and all its contacts from your contact list.</source>
-        <translation type="vanished">これは&lt;br&gt;%1&lt;br&gt;グループと全てのコンタクトをあなたのコンタクトリストから永久に削除します。</translation>
-    </message>
-    <message>
-        <source>This will permanently remove %1 from your contact list. You could block it in order to avoid further messages.</source>
-        <translation type="vanished">これは %1 をあなたのコンタクトリストから永久に削除します。あなたはメッセージ機能を避けるためにブロックすることが出来ます。</translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="vanished">削除</translation>
-    </message>
-    <message>
-        <source>Block</source>
-        <translation type="vanished">ブロック</translation>
-    </message>
-    <message>
-        <source>This will remove %1 from &quot;%2&quot; group. You could also remove it from all groups.</source>
-        <translation type="vanished">これは %1 を &quot;%2&quot; グループから削除します。全てのグループから削除する事も出来ます。</translation>
-    </message>
-    <message>
-        <source>Delete From All Groups</source>
-        <translation type="vanished">すべてのグループを削除します</translation>
-    </message>
-    <message>
-        <source>Deleting contacts</source>
-        <translation type="vanished">コンタクトを削除しています</translation>
-    </message>
-    <message>
-        <source>%1 (%2)</source>
-        <translation type="vanished">%1 (%2)</translation>
-    </message>
-</context>
-<context>
     <name>ContactListViewDelegate::Private</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished">%1 (%2)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2944,331 +2835,8 @@ Proceed?</source>
         <translation>一般</translation>
     </message>
     <message>
-        <source>Not in list</source>
-        <translation type="vanished">リスト外</translation>
-    </message>
-    <message>
         <source>Agents/Transports</source>
         <translation>トランスポートエージェント</translation>
-    </message>
-    <message>
-        <source>Private Messages</source>
-        <translation type="vanished">プライベートメッセージ</translation>
-    </message>
-    <message>
-        <source>Online Users</source>
-        <translation type="vanished">オンラインユーザー</translation>
-    </message>
-    <message>
-        <source>Set MOTD</source>
-        <translation type="vanished">MOTDの設定</translation>
-    </message>
-    <message>
-        <source>Update MOTD</source>
-        <translation type="vanished">MOTDの更新</translation>
-    </message>
-    <message>
-        <source>Delete MOTD</source>
-        <translation type="vanished">MOTDの削除</translation>
-    </message>
-    <message>
-        <source>&amp;Status</source>
-        <translation type="vanished">ステータス(&amp;S)</translation>
-    </message>
-    <message>
-        <source>Mood</source>
-        <translation type="vanished">気分</translation>
-    </message>
-    <message>
-        <source>Set Avatar</source>
-        <translation type="vanished">アバターの設定</translation>
-    </message>
-    <message>
-        <source>Unset Avatar</source>
-        <translation type="vanished">アバターの解除</translation>
-    </message>
-    <message>
-        <source>Avatar</source>
-        <translation type="vanished">アバター</translation>
-    </message>
-    <message>
-        <source>Manage...</source>
-        <translation type="vanished">管理...</translation>
-    </message>
-    <message>
-        <source>Join %1</source>
-        <translation type="vanished">参加 %1</translation>
-    </message>
-    <message>
-        <source>Bookmarks</source>
-        <translation type="vanished">ブックマーク</translation>
-    </message>
-    <message>
-        <source>&amp;Add a Contact</source>
-        <translation type="vanished">コンタクトの追加(&amp;A)</translation>
-    </message>
-    <message>
-        <source>Service &amp;Discovery</source>
-        <translation type="vanished">サービスディスカバリ(&amp;D)</translation>
-    </message>
-    <message>
-        <source>New &amp;Blank Message</source>
-        <translation type="vanished">新規メッセージ(&amp;B)</translation>
-    </message>
-    <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">XMLコンソール(&amp;X)</translation>
-    </message>
-    <message>
-        <source>&amp;Modify Account...</source>
-        <translation type="vanished">アカウントの変更(&amp;M)...</translation>
-    </message>
-    <message>
-        <source>&amp;Admin</source>
-        <translation type="vanished">管理(&amp;A)</translation>
-    </message>
-    <message>
-        <source>Send Message to Group</source>
-        <translation type="vanished">グループにメッセージを送信</translation>
-    </message>
-    <message>
-        <source>Remove Group</source>
-        <translation type="vanished">グループの削除</translation>
-    </message>
-    <message>
-        <source>Remove Group and Contacts</source>
-        <translation type="vanished">グループとコンタクトの削除</translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation type="vanished">隠す</translation>
-    </message>
-    <message>
-        <source>This will cause all contacts in this group to be disassociated with it.
-
-Proceed?</source>
-        <translation type="vanished">グループ内の全てのコンタクトを切り離します。
-
-続けますか?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">はい(&amp;Y)</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">いいえ(&amp;N)</translation>
-    </message>
-    <message>
-        <source>WARNING!  This will remove all contacts associated with this group!
-
-Proceed?</source>
-        <translation type="vanished">警告：グループのとグループ内のコンタクトを削除します！
-
-続けますか?</translation>
-    </message>
-    <message>
-        <source>Add/Authorize to Contact List</source>
-        <translation type="vanished">コンタクトリストに追加/認証</translation>
-    </message>
-    <message>
-        <source>Send Message To</source>
-        <translation type="vanished">メッセージを送信</translation>
-    </message>
-    <message>
-        <source>Open Chat To</source>
-        <translation type="vanished">チャットを開く</translation>
-    </message>
-    <message>
-        <source>Open a Whiteboard To</source>
-        <translation type="vanished">ホワイトボードを開く</translation>
-    </message>
-    <message>
-        <source>E&amp;xecute Command</source>
-        <translation type="vanished">コマンド実行(&amp;x)</translation>
-    </message>
-    <message>
-        <source>Active Chats</source>
-        <translation type="vanished">有効なチャット</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">音声通話</translation>
-    </message>
-    <message>
-        <source>Send &amp;File</source>
-        <translation type="vanished">ファイル送信(&amp;F)</translation>
-    </message>
-    <message>
-        <source>Invite To</source>
-        <translation type="vanished">招待</translation>
-    </message>
-    <message>
-        <source>&amp;None</source>
-        <translation type="vanished">なし(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;Create New...</source>
-        <translation type="vanished">新規作成(&amp;C)...</translation>
-    </message>
-    <message>
-        <source>&amp;Group</source>
-        <translation type="vanished">グループ(&amp;G)</translation>
-    </message>
-    <message>
-        <source>Log Off</source>
-        <translation type="vanished">ログオフ</translation>
-    </message>
-    <message>
-        <source>Resend Authorization To</source>
-        <translation type="vanished">認証を再送信</translation>
-    </message>
-    <message>
-        <source>Rerequest Authorization From</source>
-        <translation type="vanished">認証の再要求</translation>
-    </message>
-    <message>
-        <source>Remove Authorization From</source>
-        <translation type="vanished">認証を削除</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="vanished">承認</translation>
-    </message>
-    <message>
-        <source>&amp;Picture</source>
-        <translation type="vanished">画像(&amp;P)</translation>
-    </message>
-    <message>
-        <source>Assign Open&amp;PGP Key</source>
-        <translation type="vanished">OpenPGP鍵を指定(&amp;P)</translation>
-    </message>
-    <message>
-        <source>Unassign Open&amp;PGP Key</source>
-        <translation type="vanished">OpenPGP鍵を解除(&amp;P)</translation>
-    </message>
-    <message>
-        <source>Authorize</source>
-        <translation type="vanished">承認する</translation>
-    </message>
-    <message>
-        <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">&lt;b&gt;%1&lt;/b&gt;に承認を送信。</translation>
-    </message>
-    <message>
-        <source>Create New Group</source>
-        <translation type="vanished">新規グループ</translation>
-    </message>
-    <message>
-        <source>Enter the new group name:</source>
-        <translation type="vanished">新規グループ名を入力:</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">追加</translation>
-    </message>
-    <message>
-        <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation type="vanished">&lt;b&gt;%1&lt;/b&gt;をコンタクトリストに追加しました。</translation>
-    </message>
-    <message>
-        <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">&lt;b&gt;%1&lt;/b&gt;に承認の再要求を送りました。</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="vanished">削除</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation type="vanished">&lt;b&gt;%1&lt;/b&gt;からの承認を削除してもよろしいですか?</translation>
-    </message>
-    <message>
-        <source>Invitation</source>
-        <translation type="vanished">招待</translation>
-    </message>
-    <message>
-        <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">&lt;b&gt;%1&lt;/b&gt;にグループチャットの招待を送る。</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
-        <translation type="vanished">&lt;b&gt;%1&lt;/b&gt;を名簿から削除してもよろしいですか?</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">エラー</translation>
-    </message>
-    <message>
-        <source>You cannot set a blank name.</source>
-        <translation type="vanished">空の名前を設定できません。</translation>
-    </message>
-    <message>
-        <source>You cannot set a blank group name.</source>
-        <translation type="vanished">空のグループ名前を設定できません。</translation>
-    </message>
-    <message>
-        <source>You already have a group with that name.</source>
-        <translation type="vanished">既にその名前のグループが存在します。</translation>
-    </message>
-</context>
-<context>
-    <name>ContactView</name>
-    <message>
-        <source>Hidden</source>
-        <translation type="vanished">伏在</translation>
-    </message>
-    <message>
-        <source>Send &amp;Message</source>
-        <translation type="vanished">メッセージを送信(&amp;M)</translation>
-    </message>
-    <message>
-        <source>Re&amp;name</source>
-        <translation type="vanished">名前の変更(&amp;N)</translation>
-    </message>
-    <message>
-        <source>&amp;Assign Custom Picture</source>
-        <translation type="vanished">カスタム画像を割り当て(&amp;A)</translation>
-    </message>
-    <message>
-        <source>&amp;Clear Custom Picture</source>
-        <translation type="vanished">カスタム画像を消去(&amp;C)</translation>
-    </message>
-    <message>
-        <source>Open &amp;Chat Window</source>
-        <translation type="vanished">チャットウィンドウを開く(&amp;C)</translation>
-    </message>
-    <message>
-        <source>Open a &amp;Whiteboard</source>
-        <translation type="vanished">ホワイトボードを開く(&amp;W)</translation>
-    </message>
-    <message>
-        <source>&amp;History</source>
-        <translation type="vanished">メッセージ履歴(&amp;H)</translation>
-    </message>
-    <message>
-        <source>&amp;Log on</source>
-        <translation type="vanished">ログオン(&amp;L)</translation>
-    </message>
-    <message>
-        <source>&amp;Receive Incoming Event</source>
-        <translation type="vanished">イベントを受信(&amp;R)</translation>
-    </message>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="vanished">削除(&amp;O)</translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation type="vanished">ユーザー情報(&amp;I)</translation>
-    </message>
-    <message>
-        <source>Choose an Image</source>
-        <translation type="vanished">画像選択</translation>
-    </message>
-    <message>
-        <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="vanished">全てのファイル(*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -3297,11 +2865,11 @@ Proceed?</source>
     <name>CreateGroupDlg</name>
     <message>
         <source>Create New Group</source>
-        <translation type="unfinished">新規グループ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation type="unfinished">新規グループ名を入力:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add</source>
@@ -3365,26 +2933,6 @@ Proceed?</source>
 </context>
 <context>
     <name>DiscoDlg::Private</name>
-    <message>
-        <source>Auto</source>
-        <translation type="vanished">自動</translation>
-    </message>
-    <message>
-        <source>Automatically determine protocol</source>
-        <translation type="vanished">プロトコルを自動で決定する</translation>
-    </message>
-    <message>
-        <source>Service Discovery</source>
-        <translation type="vanished">サービスディスカバリ</translation>
-    </message>
-    <message>
-        <source>Browse Services</source>
-        <translation type="vanished">サービスをブラウズ</translation>
-    </message>
-    <message>
-        <source>Browse Agents</source>
-        <translation type="vanished">エージェントのブラウズ</translation>
-    </message>
     <message>
         <source>Browse</source>
         <translation>ブラウズ</translation>
@@ -3503,18 +3051,6 @@ Proceed?</source>
     <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>&lt;b&gt;%1&lt;/b&gt;の項目を取得中にエラーが発生しました。&lt;br&gt;理由: %2</translation>
-    </message>
-    <message>
-        <source>There was an error browsing items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation type="vanished">&lt;b&gt;%1&lt;/b&gt;の項目をブラウズ中にエラーが発生しました。&lt;br&gt;理由: %2</translation>
-    </message>
-    <message>
-        <source>XMPP Service</source>
-        <translation type="vanished">XMPPサービス</translation>
-    </message>
-    <message>
-        <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation type="vanished">&lt;b&gt;%1&lt;/b&gt;のエージェントを取得中にエラーが発生しました。&lt;br&gt;理由: %2</translation>
     </message>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
@@ -5162,7 +4698,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">削除</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5998,11 +5534,11 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Create New Group</source>
-        <translation type="unfinished">新規グループ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation type="unfinished">新規グループ名を入力:</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6063,7 +5599,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished">プライベートメッセージ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All contacts</source>
@@ -7315,7 +6851,7 @@ to play battleship. He wants to play %2.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">削除</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OK</source>
@@ -7358,7 +6894,7 @@ caching avatars will be not available</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">削除</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add to favorites</source>
@@ -9165,7 +8701,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">削除</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Selected preset</source>
@@ -9498,7 +9034,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">削除</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#jabber_disk_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -10519,7 +10055,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">削除</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Press this button to create a new status message preset.</source>
@@ -10797,7 +10333,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">削除</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit current server</source>
@@ -12890,21 +12426,6 @@ Migration is possible with Psi-0.15</source>
         <source>Hidden</source>
         <translation>隠れた</translation>
     </message>
-    <message>
-        <source>Choose an image</source>
-        <translation type="vanished">画像の選択</translation>
-    </message>
-    <message>
-        <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="vanished">全てのファイル(*.png *.jpg *.gif)</translation>
-    </message>
-</context>
-<context>
-    <name>PsiContactListViewDelegate</name>
-    <message>
-        <source>%1 (%2)</source>
-        <translation type="vanished">%1 (%2)</translation>
-    </message>
 </context>
 <context>
     <name>PsiContactMenu::Private</name>
@@ -12917,40 +12438,8 @@ Migration is possible with Psi-0.15</source>
         <translation>削除(&amp;R)</translation>
     </message>
     <message>
-        <source>&amp;Chat</source>
-        <translation type="vanished">チャット(&amp;C)</translation>
-    </message>
-    <message>
         <source>&amp;History</source>
         <translation>メッセージ履歴(&amp;H)</translation>
-    </message>
-    <message>
-        <source>Pro&amp;file</source>
-        <translation type="vanished">プロファイル(&amp;f)</translation>
-    </message>
-    <message>
-        <source>&amp;Photos</source>
-        <translation type="vanished">写真(&amp;P)</translation>
-    </message>
-    <message>
-        <source>Send &amp;E-mail</source>
-        <translation type="vanished">Eメール送信(&amp;E)</translation>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="vanished">追加(&amp;A)</translation>
-    </message>
-    <message>
-        <source>A&amp;uth</source>
-        <translation type="vanished">認証(&amp;u)</translation>
-    </message>
-    <message>
-        <source>&amp;Block</source>
-        <translation type="vanished">ブロック(&amp;B)</translation>
-    </message>
-    <message>
-        <source>Disable mood notifications</source>
-        <translation type="vanished">気分の通知を無効化</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
@@ -13014,7 +12503,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished">隠す</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show</source>
@@ -13026,7 +12515,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Block</source>
-        <translation type="unfinished">ブロック</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Always Visible</source>
@@ -13035,10 +12524,6 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>&amp;Picture</source>
         <translation>画像(&amp;P)</translation>
-    </message>
-    <message>
-        <source>&amp;Unblock</source>
-        <translation type="vanished">ブロック解除(&amp;U)</translation>
     </message>
     <message>
         <source>Invitation</source>
@@ -13402,26 +12887,6 @@ Would you like to activate that session now?</source>
 </context>
 <context>
     <name>PsiRosterWidget</name>
-    <message>
-        <source>Remove Group</source>
-        <translation type="vanished">グループの削除</translation>
-    </message>
-    <message>
-        <source>This will cause all contacts in this group to be disassociated with it.
-
-Proceed?</source>
-        <translation type="vanished">グループ内の全てのコンタクトを解除します。
-
-続けますか?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">はい(&amp;Y)</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">いいえ(&amp;N)</translation>
-    </message>
     <message>
         <source>Clear</source>
         <translation type="unfinished">クリア</translation>
@@ -14680,14 +14145,6 @@ Password: %5</source>
         <translation>購読が &apos;%1&apos; の場合 %2 %3</translation>
     </message>
     <message>
-        <source>%1 Proxy</source>
-        <translation type="vanished">%1 プロキシ</translation>
-    </message>
-    <message>
-        <source>Event notifier</source>
-        <translation type="vanished">イベント通知</translation>
-    </message>
-    <message>
         <source> is typing...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15104,21 +14561,6 @@ Reason: %1</source>
         <source>This plugin is designed to show reminders of upcoming birthdays.
 The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>RemoveConfirmationMessageBox</name>
-    <message>
-        <source>OK</source>
-        <translation type="vanished">OK</translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="vanished">削除</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">キャンセル</translation>
     </message>
 </context>
 <context>
@@ -16794,7 +16236,7 @@ Note: Some server may disable transport registration to users from different ser
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">削除</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>ShortCut:</source>
@@ -18100,7 +17542,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">削除</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy fingerprint</source>
@@ -18147,7 +17589,7 @@ You should authenticate %1 as well by asking your own question.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">削除</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy fingerprint</source>

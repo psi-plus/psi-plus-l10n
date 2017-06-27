@@ -81,10 +81,6 @@
         <translation>&amp;סגור</translation>
     </message>
     <message>
-        <source>Current Maintainer and Original Author</source>
-        <translation type="vanished">מתחזק נוכחי ומחבר מקורי</translation>
-    </message>
-    <message>
         <source>Past Lead Developer and Maintainer</source>
         <translation>מפתח מוביל ומתחזק בדימוס</translation>
     </message>
@@ -2575,11 +2571,11 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation type="unfinished">פעולה זו תסיר לצמיתות את&lt;br&gt;%1&lt;br&gt;מתוך הרשימת קשר שלך.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Deleting contacts</source>
-        <translation type="unfinished">מחיקת אנשי קשר</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
@@ -2613,20 +2609,12 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
         <translation>הסר קבוצה וגם אנשי קשר</translation>
     </message>
     <message>
-        <source>&amp;Remove</source>
-        <translation type="vanished">&amp;הסר</translation>
-    </message>
-    <message>
         <source>Remove Group</source>
         <translation>הסר קבוצה</translation>
     </message>
     <message>
         <source>Send Message to Group</source>
         <translation>שלח הודעה לקבוצה</translation>
-    </message>
-    <message>
-        <source>&amp;Add group...</source>
-        <translation type="vanished">&amp;הוספת קבוצה...</translation>
     </message>
     <message>
         <source>Hide All</source>
@@ -2663,110 +2651,11 @@ Proceed?</source>
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished">הודעות פרטיות</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Conferences</source>
-        <translation type="unfinished">ועידות</translation>
-    </message>
-</context>
-<context>
-    <name>ContactListModel</name>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">שגיאה</translation>
-    </message>
-    <message>
-        <source>You can&apos;t set a blank group name.</source>
-        <translation type="vanished">אין באפשרותך לקבוע שם קבוצה ריק.</translation>
-    </message>
-</context>
-<context>
-    <name>ContactListSpecialGroup</name>
-    <message>
-        <source>General</source>
-        <translation type="vanished">כללי</translation>
-    </message>
-    <message>
-        <source>Not in List</source>
-        <translation type="vanished">לא ברשימה</translation>
-    </message>
-    <message>
-        <source>Agents/Transports</source>
-        <translation type="vanished">סוכנים/טרנספורטים</translation>
-    </message>
-    <message>
-        <source>Private messages</source>
-        <translation type="vanished">הודעות פרטיות</translation>
-    </message>
-    <message>
-        <source>Conferences</source>
-        <translation type="vanished">ועידות</translation>
-    </message>
-</context>
-<context>
-    <name>ContactListUtil</name>
-    <message>
-        <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation type="vanished">פעולה זו תסיר לצמיתות את&lt;br&gt;%1&lt;br&gt;מתוך הרשימת קשר שלך.</translation>
-    </message>
-    <message numerus="yes">
-        <source>and %n contacts </source>
-        <translation type="vanished">
-            <numerusform>וגם איש קשר %n </numerusform>
-            <numerusform>וגם %n אישי קשר </numerusform>
-        </translation>
-    </message>
-    <message numerus="yes">
-        <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and %n groups from your contact list.</source>
-        <translation type="vanished">
-            <numerusform>פעולה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2וגם קבוצה %n מתוך הרשימת קשר שלך.</numerusform>
-            <numerusform>פעולה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2וגם %n קבוצות מתוך הרשימת קשר שלך.</numerusform>
-        </translation>
-    </message>
-    <message>
-        <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
-        <translation type="vanished">פעולה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2וגם את קבוצה &quot;%3&quot; מתוך הרשימת קשר שלך.</translation>
-    </message>
-    <message>
-        <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2from your contact list.</source>
-        <translation type="vanished">פעולה זו תסיר לצמיתות את:&lt;br&gt;%1&lt;br&gt;%2מתוך הרשימת קשר שלך.</translation>
-    </message>
-    <message>
-        <source>This is a system group and can&apos;t be removed. Permanently remove all its contacts from your contact list?</source>
-        <translation type="vanished">זוהי קבוצת מערכת ואין אפשרות להסירה. האם להסיר לצמיתות את כל האנשי קשר שלה מתוך הרשימת קשר שלך?</translation>
-    </message>
-    <message>
-        <source>Clear Group</source>
-        <translation type="vanished">טהר קבוצה</translation>
-    </message>
-    <message>
-        <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;group and all its contacts from your contact list.</source>
-        <translation type="vanished">פעולה זו תסיר לצמיתות את קבוצה&lt;br&gt;%1&lt;br&gt;ואת כל האנשי קשר שלה מתוך הרשימת קשר שלך.</translation>
-    </message>
-    <message>
-        <source>This will permanently remove %1 from your contact list. You could block it in order to avoid further messages.</source>
-        <translation type="vanished">פעולה זו תסיר לצמיתות את %1 מתוך הרשימת קשר שלך. באפשרותך לחסומה על מנת להימנע מהודעות נוספות.</translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="vanished">מחק</translation>
-    </message>
-    <message>
-        <source>Block</source>
-        <translation type="vanished">חסום</translation>
-    </message>
-    <message>
-        <source>This will remove %1 from &quot;%2&quot; group. You could also remove it from all groups.</source>
-        <translation type="vanished">פעולה זו תסיר את %1 מתוך קבוצה &quot;%2&quot;. באפשרותך להסירו מכל הקבוצות.</translation>
-    </message>
-    <message>
-        <source>Delete From All Groups</source>
-        <translation type="vanished">מחק מכל הקבוצות</translation>
-    </message>
-    <message>
-        <source>Deleting contacts</source>
-        <translation type="vanished">מחיקת אנשי קשר</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2944,339 +2833,8 @@ Proceed?</source>
         <translation>כללי</translation>
     </message>
     <message>
-        <source>Not in list</source>
-        <translation type="vanished">לא ברשימה</translation>
-    </message>
-    <message>
         <source>Agents/Transports</source>
         <translation>סוכנים/טרנספורטים</translation>
-    </message>
-    <message>
-        <source>Private Messages</source>
-        <translation type="vanished">הודעות פרטיות</translation>
-    </message>
-    <message>
-        <source>Online Users</source>
-        <translation type="vanished">משתמשים מקוונים</translation>
-    </message>
-    <message>
-        <source>Send Server Message</source>
-        <translation type="vanished">שלח הודעת שרת</translation>
-    </message>
-    <message>
-        <source>Set MOTD</source>
-        <translation type="vanished">קבע MOTD</translation>
-    </message>
-    <message>
-        <source>Update MOTD</source>
-        <translation type="vanished">עדכן MOTD</translation>
-    </message>
-    <message>
-        <source>Delete MOTD</source>
-        <translation type="vanished">מחק MOTD</translation>
-    </message>
-    <message>
-        <source>&amp;Status</source>
-        <translation type="vanished">&amp;מצב</translation>
-    </message>
-    <message>
-        <source>Mood</source>
-        <translation type="vanished">מצב רוח</translation>
-    </message>
-    <message>
-        <source>Activity</source>
-        <translation type="vanished">פעילות</translation>
-    </message>
-    <message>
-        <source>Set Avatar</source>
-        <translation type="vanished">קבע אווטאר</translation>
-    </message>
-    <message>
-        <source>Unset Avatar</source>
-        <translation type="vanished">אפס אווטאר</translation>
-    </message>
-    <message>
-        <source>Avatar</source>
-        <translation type="vanished">אווטאר</translation>
-    </message>
-    <message>
-        <source>Manage...</source>
-        <translation type="vanished">ניהול...</translation>
-    </message>
-    <message>
-        <source>Join %1</source>
-        <translation type="vanished">הצטרף אל %1</translation>
-    </message>
-    <message>
-        <source>Bookmarks</source>
-        <translation type="vanished">סימניות</translation>
-    </message>
-    <message>
-        <source>&amp;Add a Contact</source>
-        <translation type="vanished">&amp;הוסף איש קשר</translation>
-    </message>
-    <message>
-        <source>Service &amp;Discovery</source>
-        <translation type="vanished">מציאת &amp;שירות</translation>
-    </message>
-    <message>
-        <source>New &amp;Blank Message</source>
-        <translation type="vanished">הודעה &amp;ריקה חדשה</translation>
-    </message>
-    <message>
-        <source>&amp;XML Console</source>
-        <translation type="vanished">מסוף &amp;XML</translation>
-    </message>
-    <message>
-        <source>&amp;Modify Account...</source>
-        <translation type="vanished">&amp;התאמת חשבון...</translation>
-    </message>
-    <message>
-        <source>&amp;Admin</source>
-        <translation type="vanished">&amp;מנהל</translation>
-    </message>
-    <message>
-        <source>Send Message to Group</source>
-        <translation type="vanished">שלח הודעה לקבוצה</translation>
-    </message>
-    <message>
-        <source>Remove Group</source>
-        <translation type="vanished">הסרת קבוצה</translation>
-    </message>
-    <message>
-        <source>Remove Group and Contacts</source>
-        <translation type="vanished">הסרת קבוצה וגם אנשי קשר</translation>
-    </message>
-    <message>
-        <source>Hide</source>
-        <translation type="vanished">הסתר</translation>
-    </message>
-    <message>
-        <source>This will cause all contacts in this group to be disassociated with it.
-
-Proceed?</source>
-        <translation type="vanished">פעולה זו תגרום לכל האנשי קשר בקבוצה זו להיפרד ממנה.
-
-להמשיך?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;כן</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;לא</translation>
-    </message>
-    <message>
-        <source>WARNING!  This will remove all contacts associated with this group!
-
-Proceed?</source>
-        <translation type="vanished">אזהרה!  פעולה זו תסיר את כל האנשי קשר אשר קשורים עם קבוצה זו!
-
-להמשיך?</translation>
-    </message>
-    <message>
-        <source>Add/Authorize to Contact List</source>
-        <translation type="vanished">הוסף/אשר לרשימת קשר</translation>
-    </message>
-    <message>
-        <source>Send Message To</source>
-        <translation type="vanished">שלח הודעה אל</translation>
-    </message>
-    <message>
-        <source>Open Chat To</source>
-        <translation type="vanished">פתח שיחה עם</translation>
-    </message>
-    <message>
-        <source>Open a Whiteboard To</source>
-        <translation type="vanished">פתח לוח לבן אל</translation>
-    </message>
-    <message>
-        <source>E&amp;xecute Command</source>
-        <translation type="vanished">ה&amp;רץ פקודה</translation>
-    </message>
-    <message>
-        <source>Active Chats</source>
-        <translation type="vanished">שיחות פעילות</translation>
-    </message>
-    <message>
-        <source>Voice Call</source>
-        <translation type="vanished">שיחה קולית</translation>
-    </message>
-    <message>
-        <source>Send &amp;File</source>
-        <translation type="vanished">שלח &amp;קובץ</translation>
-    </message>
-    <message>
-        <source>Invite To</source>
-        <translation type="vanished">הזמן אל</translation>
-    </message>
-    <message>
-        <source>&amp;None</source>
-        <translation type="vanished">&amp;ללא</translation>
-    </message>
-    <message>
-        <source>&amp;Create New...</source>
-        <translation type="vanished">&amp;צור חדש...</translation>
-    </message>
-    <message>
-        <source>&amp;Group</source>
-        <translation type="vanished">&amp;קבוצה</translation>
-    </message>
-    <message>
-        <source>Log Off</source>
-        <translation type="vanished">התנתק</translation>
-    </message>
-    <message>
-        <source>Resend Authorization To</source>
-        <translation type="vanished">שלח מחדש הרשאה אל</translation>
-    </message>
-    <message>
-        <source>Rerequest Authorization From</source>
-        <translation type="vanished">בקש הרשאה מן</translation>
-    </message>
-    <message>
-        <source>Remove Authorization From</source>
-        <translation type="vanished">הסר הרשאה מן</translation>
-    </message>
-    <message>
-        <source>Authorization</source>
-        <translation type="vanished">הרשאה</translation>
-    </message>
-    <message>
-        <source>&amp;Picture</source>
-        <translation type="vanished">&amp;תמונה</translation>
-    </message>
-    <message>
-        <source>Assign Open&amp;PGP Key</source>
-        <translation type="vanished">הקצה מפתח Open&amp;PGP</translation>
-    </message>
-    <message>
-        <source>Unassign Open&amp;PGP Key</source>
-        <translation type="vanished">אל תקצה מפתח Open&amp;PGP</translation>
-    </message>
-    <message>
-        <source>Authorize</source>
-        <translation type="vanished">אשר</translation>
-    </message>
-    <message>
-        <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">נשלחה הרשאה אל &lt;b&gt;%1&lt;/b&gt;.</translation>
-    </message>
-    <message>
-        <source>Create New Group</source>
-        <translation type="vanished">צור קבוצה חדשה</translation>
-    </message>
-    <message>
-        <source>Enter the new group name:</source>
-        <translation type="vanished">הזן את שם הקבוצה החדש:</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation type="vanished">הוסף</translation>
-    </message>
-    <message>
-        <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation type="vanished">&lt;b&gt;%1&lt;/b&gt; התווסף/אושר לרשימת קשר.</translation>
-    </message>
-    <message>
-        <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">התבקשה הרשאה מן &lt;b&gt;%1&lt;/b&gt;.</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="vanished">הסר</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation type="vanished">האם אתה בטוח כי ברצונך להסיר הרשאה מן &lt;b&gt;%1&lt;/b&gt;?</translation>
-    </message>
-    <message>
-        <source>Invitation</source>
-        <translation type="vanished">הזמנה</translation>
-    </message>
-    <message>
-        <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">נשלחה הזמנת שיחת קבוצה אל &lt;b&gt;%1&lt;/b&gt;.</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
-        <translation type="vanished">האם אתה בטוח כי ברצונך להסיר את &lt;b&gt;%1&lt;/b&gt; מתוך הרשימת קשר שלך?</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">שגיאה</translation>
-    </message>
-    <message>
-        <source>You cannot set a blank name.</source>
-        <translation type="vanished">אין באפשרותך לקבוע שם ריק.</translation>
-    </message>
-    <message>
-        <source>You cannot set a blank group name.</source>
-        <translation type="vanished">אין באפשרותך לקבוע שם קבוצה ריק.</translation>
-    </message>
-    <message>
-        <source>You already have a group with that name.</source>
-        <translation type="vanished">כבר קיימת קבוצה עם השם הזה.</translation>
-    </message>
-</context>
-<context>
-    <name>ContactView</name>
-    <message>
-        <source>Hidden</source>
-        <translation type="vanished">חבויה</translation>
-    </message>
-    <message>
-        <source>Send &amp;Message</source>
-        <translation type="vanished">שלח &amp;הודעה</translation>
-    </message>
-    <message>
-        <source>Re&amp;name</source>
-        <translation type="vanished">שנה &amp;שם</translation>
-    </message>
-    <message>
-        <source>&amp;Assign Custom Picture</source>
-        <translation type="vanished">&amp;הקצה תמונה מותאמת</translation>
-    </message>
-    <message>
-        <source>&amp;Clear Custom Picture</source>
-        <translation type="vanished">&amp;טהר תמונה מותאמת</translation>
-    </message>
-    <message>
-        <source>Open &amp;Chat Window</source>
-        <translation type="vanished">פתח &amp;חלון שיחה</translation>
-    </message>
-    <message>
-        <source>Open a &amp;Whiteboard</source>
-        <translation type="vanished">פתח &amp;לוח לבן</translation>
-    </message>
-    <message>
-        <source>&amp;History</source>
-        <translation type="vanished">&amp;היסטוריה</translation>
-    </message>
-    <message>
-        <source>&amp;Log on</source>
-        <translation type="vanished">הת&amp;חבר</translation>
-    </message>
-    <message>
-        <source>&amp;Receive Incoming Event</source>
-        <translation type="vanished">&amp;קבל אירוע נכנס</translation>
-    </message>
-    <message>
-        <source>Rem&amp;ove</source>
-        <translation type="vanished">&amp;הסר</translation>
-    </message>
-    <message>
-        <source>User &amp;Info</source>
-        <translation type="vanished">מידע &amp;משתמש</translation>
-    </message>
-    <message>
-        <source>Choose an Image</source>
-        <translation type="vanished">בחירת תמונה</translation>
-    </message>
-    <message>
-        <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="vanished">כל הקבצים ‪(*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -3373,26 +2931,6 @@ Proceed?</source>
 </context>
 <context>
     <name>DiscoDlg::Private</name>
-    <message>
-        <source>Auto</source>
-        <translation type="vanished">אוטומטית</translation>
-    </message>
-    <message>
-        <source>Automatically determine protocol</source>
-        <translation type="vanished">קביעה אוטומטית של פרוטוקול</translation>
-    </message>
-    <message>
-        <source>Service Discovery</source>
-        <translation type="vanished">מציאת שירות</translation>
-    </message>
-    <message>
-        <source>Browse Services</source>
-        <translation type="vanished">עיון בשירותים</translation>
-    </message>
-    <message>
-        <source>Browse Agents</source>
-        <translation type="vanished">עיון בסוכנים</translation>
-    </message>
     <message>
         <source>Browse</source>
         <translation>עיון</translation>
@@ -3511,18 +3049,6 @@ Proceed?</source>
     <message>
         <source>There was an error getting items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
         <translation>אירעה שגיאה בהשגת פריטים עבור &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;סיבה: %2</translation>
-    </message>
-    <message>
-        <source>There was an error browsing items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation type="vanished">אירעה שגיאה בעיון פריטים עבור &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;סיבה: %2</translation>
-    </message>
-    <message>
-        <source>XMPP Service</source>
-        <translation type="vanished">שירות XMPP</translation>
-    </message>
-    <message>
-        <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation type="vanished">אירעה שגיאה בהשגת סוכנים עבור &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;סיבה: %2</translation>
     </message>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
@@ -4886,10 +4412,6 @@ Reason: %3</source>
         <translation>בחירת קובץ</translation>
     </message>
     <message>
-        <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
-        <translation type="vanished">תמונות ‪(*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
-    </message>
-    <message>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6084,7 +5606,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished">הודעות פרטיות</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All contacts</source>
@@ -8936,10 +8458,6 @@ Tags: %1</source>
         <translation>מידה</translation>
     </message>
     <message>
-        <source>px</source>
-        <translation type="vanished">פק</translation>
-    </message>
-    <message>
         <source>Radius of corners</source>
         <translation>רדיוס של פינות</translation>
     </message>
@@ -10053,7 +9571,7 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     </message>
     <message>
         <source>No Image</source>
-        <translation type="unfinished">אין תמונה</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12930,14 +12448,6 @@ Migration is possible with Psi-0.15</source>
         <source>Hidden</source>
         <translation>חבויה</translation>
     </message>
-    <message>
-        <source>Choose an image</source>
-        <translation type="vanished">בחירת תמונה</translation>
-    </message>
-    <message>
-        <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="vanished">כל הקבצים ‪(*.png *.jpg *.gif)</translation>
-    </message>
 </context>
 <context>
     <name>PsiContactMenu::Private</name>
@@ -12950,40 +12460,8 @@ Migration is possible with Psi-0.15</source>
         <translation>&amp;הסר</translation>
     </message>
     <message>
-        <source>&amp;Chat</source>
-        <translation type="vanished">&amp;שיחה</translation>
-    </message>
-    <message>
         <source>&amp;History</source>
         <translation>&amp;היסטוריה</translation>
-    </message>
-    <message>
-        <source>Pro&amp;file</source>
-        <translation type="vanished">&amp;דיוקן</translation>
-    </message>
-    <message>
-        <source>&amp;Photos</source>
-        <translation type="vanished">&amp;תצלומים</translation>
-    </message>
-    <message>
-        <source>Send &amp;E-mail</source>
-        <translation type="vanished">שלח &amp;דוא״ל</translation>
-    </message>
-    <message>
-        <source>&amp;Add</source>
-        <translation type="vanished">הוס&amp;ף</translation>
-    </message>
-    <message>
-        <source>A&amp;uth</source>
-        <translation type="vanished">&amp;אשר</translation>
-    </message>
-    <message>
-        <source>&amp;Block</source>
-        <translation type="vanished">&amp;חסום</translation>
-    </message>
-    <message>
-        <source>Disable mood notifications</source>
-        <translation type="vanished">נטרל התראות מצב רוח</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
@@ -13059,7 +12537,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Block</source>
-        <translation type="unfinished">חסום</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Always Visible</source>
@@ -13068,10 +12546,6 @@ Migration is possible with Psi-0.15</source>
     <message>
         <source>&amp;Picture</source>
         <translation>&amp;תמונה</translation>
-    </message>
-    <message>
-        <source>&amp;Unblock</source>
-        <translation type="vanished">&amp;הסר חסימה</translation>
     </message>
     <message>
         <source>Invitation</source>
@@ -13437,26 +12911,6 @@ Would you like to activate that session now?</source>
 <context>
     <name>PsiRosterWidget</name>
     <message>
-        <source>Remove Group</source>
-        <translation type="vanished">הסרת קבוצה</translation>
-    </message>
-    <message>
-        <source>This will cause all contacts in this group to be disassociated with it.
-
-Proceed?</source>
-        <translation type="vanished">פעולה זו תגרום לכל איש קשר בקבוצה זו להיפרד ממנה.
-
-להמשיך?</translation>
-    </message>
-    <message>
-        <source>&amp;Yes</source>
-        <translation type="vanished">&amp;כן</translation>
-    </message>
-    <message>
-        <source>&amp;No</source>
-        <translation type="vanished">&amp;לא</translation>
-    </message>
-    <message>
         <source>Clear</source>
         <translation type="unfinished">טהר</translation>
     </message>
@@ -13478,13 +12932,6 @@ Proceed?</source>
     <message>
         <source>Home</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>PsiThemeViewDelegate</name>
-    <message>
-        <source>No Image</source>
-        <translation type="vanished">אין תמונה</translation>
     </message>
 </context>
 <context>
@@ -14737,14 +14184,6 @@ Password: %5</source>
         <translation>אם הרשמה הינה &apos;%1&apos; אזי %2 %3</translation>
     </message>
     <message>
-        <source>%1 Proxy</source>
-        <translation type="vanished">%1 מתווך</translation>
-    </message>
-    <message>
-        <source>Event notifier</source>
-        <translation type="vanished">מודיע אירועים</translation>
-    </message>
-    <message>
         <source> is typing...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15163,21 +14602,6 @@ Reason: %1</source>
         <source>This plugin is designed to show reminders of upcoming birthdays.
 The first time you install this plugin, you need to log on to all of your accounts, go to the plugin settings and click &quot;Update Birthdays&quot;.The plugin will then collect the information about the birthdays of all the users in your roster, but when the &apos;Use vCards cache&apos; option isselected, the users&apos; vCards that are cached on your hard disk will be used. </source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>RemoveConfirmationMessageBox</name>
-    <message>
-        <source>OK</source>
-        <translation type="vanished">אישור</translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="vanished">מחק</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">ביטול</translation>
     </message>
 </context>
 <context>
