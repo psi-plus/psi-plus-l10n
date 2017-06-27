@@ -6089,7 +6089,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore caricamento %1; codice HTTP %2, messaggio: %3</translation>
     </message>
 </context>
 <context>
@@ -8560,7 +8560,7 @@ Argomento MUC per esempio.</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"></translation>
+        <translation>pt</translation>
     </message>
 </context>
 <context>
@@ -9460,10 +9460,6 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
         <translation>Abilita</translation>
     </message>
     <message>
-        <source>Color for incoming messages numbers</source>
-        <translation>Colore per i numeri di messaggi in arrivo</translation>
-    </message>
-    <message>
         <source>Color for outgoing messages numbers</source>
         <translation>Colori per i numeri di messaggi in uscita</translation>
     </message>
@@ -9482,6 +9478,10 @@ Abilita l&apos;opzione &quot;Archiviazione Messaggio&quot; per l&apos;uso!</tran
     <message>
         <source>Show message if it satisfies the rule</source>
         <translation>Mostra messaggio se soddisfa le regole</translation>
+    </message>
+    <message>
+        <source>Color for incoming messages numbers</source>
+        <translation>Colore per i numeri di messaggi in arrivo</translation>
     </message>
 </context>
 <context>
@@ -12301,11 +12301,11 @@ Motivo: %1.</translation>
     </message>
     <message>
         <source>Pin Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Blocca Scheda</translation>
     </message>
     <message>
         <source>Unpin Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Sblocca Scheda</translation>
     </message>
 </context>
 <context>
@@ -12536,14 +12536,17 @@ Ciò può voler dire che stai già eseguendo un altra istanza di Psi. Potresti s
     </message>
     <message>
         <source>Migration is impossible</source>
-        <translation type="unfinished"></translation>
+        <translation>La migrazione non è possibile</translation>
     </message>
     <message>
         <source>Found no more supported configuration file from some very old version:
 %1
 
 Migration is possible with Psi-0.15</source>
-        <translation type="unfinished"></translation>
+        <translation>Non è stato trovato alcun file di configurazione supportato da una versione molto vecchia:
+%1
+
+La migrazione è possibile con Psi-0.15</translation>
     </message>
 </context>
 <context>
@@ -15989,11 +15992,11 @@ Il plugin è progettato per tenere le note sul server Jabber con l&apos;abilità
     </message>
     <message>
         <source>Unpin Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Sblocca Scheda</translation>
     </message>
     <message>
         <source>Pin Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Blocca Scheda</translation>
     </message>
 </context>
 <context>
