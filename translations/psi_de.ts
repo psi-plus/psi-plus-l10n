@@ -212,22 +212,33 @@
 Join the translation team today! Go to 
 &lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
-        <translation type="unfinished"/>
+        <translation>Christian Weiske&lt;note text=&quot;replace with your real name&quot;&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;http://cweiske.de&quot;&gt;http://cweiske.de&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;XMPP: &lt;a href=&quot;xmpp:cweiske@cweiske.de&quot;&gt;cweiske@cweiske.de&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;&lt;a href=&quot;mailto:cweiske@cweiske.de&quot;&gt;cweiske@cweiske.de&lt;/a&gt;&lt;br&gt;
+&amp;nbsp;&amp;nbsp;Übersetzer&lt;br&gt;
+&lt;br&gt;
+Hilf heute bei der Übersetzung! Besuche
+&lt;a href=&quot;https://github.com/psi-plus/psi-plus-l10n&quot;&gt;
+https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; für mehr Informationen!</translation>
     </message>
     <message>
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
 </source>
-        <translation type="unfinished"/>
+        <translation>Ein plattformunabhängiger XMPP-Client für den Power-Nutzer.&lt;br&gt;
+&lt;br&gt;
+Copyright © 2001-2017 The Psi Team.&lt;br&gt;
+</translation>
     </message>
     <message>
         <source>Original Author</source>
-        <translation type="unfinished"/>
+        <translation>Originalauthor</translation>
     </message>
     <message>
         <source>Lead Developer and Current Maintainer</source>
-        <translation type="unfinished"/>
+        <translation>Hauptentwickler und aktueller Betreuer</translation>
     </message>
 </context>
 <context>
@@ -2598,19 +2609,19 @@ Anmerkung: Um korrekt zu funktionieren, muss die Gruppenchatwerkzeugleiste aktiv
     <name>ContactListDragView</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation type="unfinished"/>
+        <translation>Damit wird &lt;br&gt;%1&lt;br&gt;permanent von der Kontaktliste gelöscht.</translation>
     </message>
     <message>
         <source>Deleting contacts</source>
-        <translation type="unfinished"/>
+        <translation>Kontakte löschen</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Löschen</translation>
     </message>
 </context>
 <context>
@@ -2671,29 +2682,31 @@ Anmerkung: Um korrekt zu funktionieren, muss die Gruppenchatwerkzeugleiste aktiv
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="unfinished"/>
+        <translation>Nach diesem Schritt sind die Kontakte dieser Gruppe ihr nicht mehr zugeordnet.
+
+Fortfahren?</translation>
     </message>
 </context>
 <context>
     <name>ContactListItem</name>
     <message>
         <source>Agents/Transports</source>
-        <translation type="unfinished"/>
+        <translation>Agenten/Transporte</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished"/>
+        <translation>Private Nachrichten</translation>
     </message>
     <message>
         <source>Conferences</source>
-        <translation type="unfinished"/>
+        <translation>Konferenzen</translation>
     </message>
 </context>
 <context>
     <name>ContactListViewDelegate::Private</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -3291,7 +3304,8 @@ Proceed?</source>
     <message>
         <source>The plugin is designed to enumerate messages, adding the messages numbers in chat logs and notification of missed messages. 
 Supports per contact on / off message enumeration via the buttons on the chats toolbar.</source>
-        <translation type="unfinished"/>
+        <translation>Dieses Plugin dient dazu, Nachrichten zu numerieren. Es werden Nachrichtennummern in den Chatlogs hinzugefügt und bei versäumten Nachrichten.
+Nachrichtennummern können pro Kontakt über die Knöpfe in der Chatwerkzeugleiste an- und ausgeschaltet werden.</translation>
     </message>
 </context>
 <context>
@@ -3738,7 +3752,8 @@ Diese Option zeigt nur Wirkung, wenn automatisches Akzeptieren der Vorgaben abge
     <message>
         <source>Disable autojoin to following groupchats:
 (specify JIDs)</source>
-        <translation type="unfinished"/>
+        <translation>Deaktiviere automatisches Beitreten bei den 
+folgenden Gruppenchats (JIDs eingeben)</translation>
     </message>
     <message>
         <source>Groupchat leave status message:</source>
@@ -4040,7 +4055,7 @@ Wichtig: Ein großer Teil der Einstellungen sind wichtige Systemeinstellungen. D
     </message>
     <message>
         <source>Store MUC private messages in history</source>
-        <translation type="unfinished"/>
+        <translation>Private MUC-Nachrichten im Log speichern</translation>
     </message>
 </context>
 <context>
@@ -4448,7 +4463,7 @@ Grund: %3</translation>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</source>
-        <translation type="unfinished"/>
+        <translation>Bilder (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</translation>
     </message>
 </context>
 <context>
@@ -5039,7 +5054,7 @@ You lost the game.</source>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation type="unfinished"/>
+        <translation>Sie spielen bereits!</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
@@ -5635,23 +5650,23 @@ Um Befehle zu senden, werden normale Nachrichten verwendet, so dass das Plugin i
     <name>HistoryContactListModel</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Allgemein</translation>
     </message>
     <message>
         <source>Not in list</source>
-        <translation type="unfinished"/>
+        <translation>Nicht in der Liste</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished"/>
+        <translation>Private Nachrichten</translation>
     </message>
     <message>
         <source>All contacts</source>
-        <translation type="unfinished"/>
+        <translation>Alle Kontakte</translation>
     </message>
     <message>
         <source>deleted</source>
-        <translation type="unfinished"/>
+        <translation>gelöscht</translation>
     </message>
 </context>
 <context>
@@ -5750,7 +5765,7 @@ Um Befehle zu senden, werden normale Nachrichten verwendet, so dass das Plugin i
     </message>
     <message>
         <source>All contacts</source>
-        <translation type="unfinished"/>
+        <translation>Alle Kontakte</translation>
     </message>
 </context>
 <context>
@@ -5969,103 +5984,103 @@ p, li { white-space: pre-wrap; }
     <name>HttpUploadPlugin</name>
     <message>
         <source>Upload Image</source>
-        <translation type="unfinished"/>
+        <translation>Bild hochladen</translation>
     </message>
     <message>
         <source>Upload File</source>
-        <translation type="unfinished"/>
+        <translation>Datei hochladen</translation>
     </message>
     <message>
         <source>Images (*.png *.gif *.jpg *.jpeg)</source>
-        <translation type="unfinished"/>
+        <translation>Bilder (*.png *.gif *.jpg *.jpeg)</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>Authors: </source>
-        <translation type="unfinished"/>
+        <translation>Autoren:</translation>
     </message>
     <message>
         <source>Image preview width</source>
-        <translation type="unfinished"/>
+        <translation>Bildvorschaubreite</translation>
     </message>
     <message>
         <source>Resize images</source>
-        <translation type="unfinished"/>
+        <translation>Bilder skalieren</translation>
     </message>
     <message>
         <source>If width or height is bigger than</source>
-        <translation type="unfinished"/>
+        <translation>Wenn Breite oder Höhe größer ist als</translation>
     </message>
     <message>
         <source>JPEG quality</source>
-        <translation type="unfinished"/>
+        <translation>JPEG-Qualität</translation>
     </message>
     <message>
         <source>Please wait</source>
-        <translation type="unfinished"/>
+        <translation>Bitte warten</translation>
     </message>
     <message>
         <source>Another upload operation is already in progress. Please wait up to %1 sec for it to complete or fail.</source>
-        <translation type="unfinished"/>
+        <translation>Eine andere Datei wird gerade hochgeladen. Bitte warten Sie bis zu %1 Sekunden auf den Abschluß oder den Abbruch.</translation>
     </message>
     <message>
         <source>Not supported</source>
-        <translation type="unfinished"/>
+        <translation>Nicht unterstützt</translation>
     </message>
     <message>
         <source>Server for account %1 does not support HTTP Upload (XEP-363)</source>
-        <translation type="unfinished"/>
+        <translation>Der Server für Konto %1 unterstützt kein HTTP Upload (XEP-363)</translation>
     </message>
     <message>
         <source>Upload file</source>
-        <translation type="unfinished"/>
+        <translation>Datei hochladen</translation>
     </message>
     <message>
         <source>Upload image</source>
-        <translation type="unfinished"/>
+        <translation>Bild hochladen</translation>
     </message>
     <message>
         <source>Error opening file %1</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Öffnen von Datei %1</translation>
     </message>
     <message>
         <source>The file size is too large.</source>
-        <translation type="unfinished"/>
+        <translation>Datei ist zu groß.</translation>
     </message>
     <message>
         <source>File size must be less than %1 bytes</source>
-        <translation type="unfinished"/>
+        <translation>Dateigröße muss unter %1 Bytes liegen.</translation>
     </message>
     <message>
         <source>This plugin allows uploading images and other files via XEP-0363.</source>
-        <translation type="unfinished"/>
+        <translation>Dieses Plugin erlaubt das Hochladen von Bildern und anderen Dateien via XEP-0363.</translation>
     </message>
     <message>
         <source>Error requesting slot</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Anfordern eines Hochladefensters</translation>
     </message>
     <message>
         <source>Either put or get URL is missing in the server&apos;s reply.</source>
-        <translation type="unfinished"/>
+        <translation>Entweder die &quot;put&quot; oder die &quot;get&quot;-URL fehlt in der Antwort des Servers.</translation>
     </message>
     <message>
         <source>Error uploading</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Hochladen</translation>
     </message>
     <message>
         <source>No data to upload, this maybe a result of timeout or other error.</source>
-        <translation type="unfinished"/>
+        <translation>Keine Daten hochzuladen, das kann an einer Zeitüberschreitung oder einem anderen Fehler liegen.</translation>
     </message>
     <message>
         <source>Timeout waiting for an upload slot</source>
-        <translation type="unfinished"/>
+        <translation>Zeit für das Warten eines Hochladefensters abgelaufen</translation>
     </message>
     <message>
         <source>Upload error %1; HTTP code %2, message: %3</source>
-        <translation type="unfinished"/>
+        <translation>Hochladefehler %1; HTTP-Code %2, Nachricht: %3</translation>
     </message>
 </context>
 <context>
@@ -6395,44 +6410,45 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.ui.chat.central-
     <name>ImagePreviewPlugin</name>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Autor: </translation>
     </message>
     <message>
         <source>512 Kb</source>
-        <translation type="unfinished"/>
+        <translation>512 Kb</translation>
     </message>
     <message>
         <source>1 Mb</source>
-        <translation type="unfinished"/>
+        <translation>1 Mb</translation>
     </message>
     <message>
         <source>2 Mb</source>
-        <translation type="unfinished"/>
+        <translation>2 Mb</translation>
     </message>
     <message>
         <source>5 Mb</source>
-        <translation type="unfinished"/>
+        <translation>5 Mb</translation>
     </message>
     <message>
         <source>10 Mb</source>
-        <translation type="unfinished"/>
+        <translation>10 Mb</translation>
     </message>
     <message>
         <source>Maximum image size</source>
-        <translation type="unfinished"/>
+        <translation>Maximale Bildgröße</translation>
     </message>
     <message>
         <source>Image preview size in pixels</source>
-        <translation type="unfinished"/>
+        <translation>Bildvorschaugröße in Pixel</translation>
     </message>
     <message>
         <source>Allow upscale</source>
-        <translation type="unfinished"/>
+        <translation>Hochskalieren erlauben</translation>
     </message>
     <message>
         <source>This plugin shows the preview image for an image URL.
 </source>
-        <translation type="unfinished"/>
+        <translation>Dieses Plugin zeigt ein Vorschaubild für eine Bild-URL.
+</translation>
     </message>
 </context>
 <context>
@@ -6546,15 +6562,15 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.ui.chat.central-
     <name>InfoDlg</name>
     <message>
         <source>User Info</source>
-        <translation type="unfinished"/>
+        <translation>Benutzerinformation</translation>
     </message>
     <message>
         <source>Alt+D</source>
-        <translation type="unfinished"/>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <source>psi/disco</source>
-        <translation type="unfinished"/>
+        <translation>psi/disco</translation>
     </message>
     <message>
         <source>&amp;Publish</source>
@@ -6562,19 +6578,19 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.ui.chat.central-
     </message>
     <message>
         <source>&amp;Retrieve</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Empfangen</translation>
     </message>
     <message>
         <source>psi/reload</source>
-        <translation type="unfinished"/>
+        <translation>psi/reload</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;chließen</translation>
     </message>
     <message>
         <source>psi/close</source>
-        <translation type="unfinished"/>
+        <translation>psi/close</translation>
     </message>
 </context>
 <context>
@@ -6605,7 +6621,7 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.ui.chat.central-
     </message>
     <message>
         <source>No date</source>
-        <translation type="unfinished"/>
+        <translation>Kein Datum</translation>
     </message>
     <message>
         <source>Edit birthday</source>
@@ -6618,7 +6634,8 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.ui.chat.central-
     <message>
         <source>You have not published your account information changes.
 Are you sure you want to discard them?</source>
-        <translation type="unfinished"/>
+        <translation>Die Änderungen an Ihren Benutzerinformationen wurden nicht veröffentlicht.
+Sollen sie verworfen werden?</translation>
     </message>
     <message>
         <source>Close and discard</source>
@@ -6634,7 +6651,7 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Your account information has been published.</source>
-        <translation type="unfinished"/>
+        <translation>Ihre Benutzerinformationen wurden veröffentlicht.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -6642,22 +6659,25 @@ Are you sure you want to discard them?</source>
     </message>
     <message>
         <source>Unable to retrieve your account information.  Perhaps you haven&apos;t entered any yet.</source>
-        <translation type="unfinished"/>
+        <translation>Ihre Benutzerinformationen können nicht abgerufen werden. Vielleicht haben Sie noch keine veröffentlicht.</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this contact.
 Reason: %1</source>
-        <translation type="unfinished"/>
+        <translation>Zu diesem Kontakt können keine Informationen abgerufen werden.
+Grund: %1</translation>
     </message>
     <message>
         <source>Unable to publish your account information.
 Reason: %1</source>
-        <translation type="unfinished"/>
+        <translation>Ihre Benutzerinformationen können nicht veröffentlicht werden.
+Grund: %1</translation>
     </message>
     <message>
         <source>Picture not
 available</source>
-        <translation type="unfinished"/>
+        <translation>Bild nicht
+verfügbar</translation>
     </message>
     <message>
         <source>Status</source>
@@ -6666,16 +6686,18 @@ available</source>
     <message>
         <source>You have not published conference information changes.
 Are you sure you want to discard them?</source>
-        <translation type="unfinished"/>
+        <translation>Die Änderungen an den Konferenzinformationen wurden nicht veröffentlicht.
+Sollen sie verworfen werden?</translation>
     </message>
     <message>
         <source>Your conference information has been published.</source>
-        <translation type="unfinished"/>
+        <translation>Ihre Konferenzinformationen wurden veröffentlicht.</translation>
     </message>
     <message>
         <source>Unable to retrieve information about this conference.
 Reason: %1</source>
-        <translation type="unfinished"/>
+        <translation>Zu diesem Konferenzraum können keine Informationen abgerufen werden.
+Grund: %1</translation>
     </message>
 </context>
 <context>
@@ -7130,7 +7152,7 @@ Anmerkung: Um korrekt zu funktionieren, muss die Option options.html.chat.render
     </message>
     <message>
         <source>&amp;VCard</source>
-        <translation type="unfinished"/>
+        <translation>&amp;VCard</translation>
     </message>
 </context>
 <context>
@@ -8523,7 +8545,7 @@ Tags: %1</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished"/>
+        <translation>pt</translation>
     </message>
 </context>
 <context>
@@ -9432,7 +9454,7 @@ Aktiviere die &quot;Nachrichtenarchivierung&quot;-Option zur Verwendung!</transl
     </message>
     <message>
         <source>Color for incoming messages numbers</source>
-        <translation type="unfinished"/>
+        <translation>Farbe für Nummern eingehender Nachrichten</translation>
     </message>
 </context>
 <context>
@@ -9620,23 +9642,23 @@ Aktiviere die &quot;Nachrichtenarchivierung&quot;-Option zur Verwendung!</transl
     <name>OptionsTabAppearanceTheme</name>
     <message>
         <source>Psi Theme</source>
-        <translation type="unfinished"/>
+        <translation>Psi-Thema</translation>
     </message>
     <message>
         <source>Adium Theme</source>
-        <translation type="unfinished"/>
+        <translation>Adium-Thema</translation>
     </message>
     <message>
         <source>Show theme screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Bildschirmfoto des Themas anzeigen</translation>
     </message>
     <message>
         <source>%1 Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Bildschirmfoto von %1</translation>
     </message>
     <message>
         <source>No Image</source>
-        <translation type="unfinished"/>
+        <translation>Kein Bild</translation>
     </message>
 </context>
 <context>
@@ -10879,11 +10901,11 @@ Bitte geben Sie Ihre Passphrase ein:</translation>
     <name>PreviewFileDialog</name>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"/>
+        <translation>Vorschau</translation>
     </message>
     <message>
         <source>Not an image</source>
-        <translation type="unfinished"/>
+        <translation>Kein Bild</translation>
     </message>
 </context>
 <context>
@@ -11180,11 +11202,13 @@ Verwenden Sie nur Buchstaben und Zahlen, keine Satzzeichen oder Leerzeichen.</tr
         <source>&lt;qt&gt;As a precaution, you are being asked one last time if this is what you really want.  The following folders will be deleted!&lt;br&gt;&lt;br&gt;
 &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
 Proceed?</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Zur Vorsicht werden Sie ein letztes mal gefragt ob Sie das wirklich wollen. Die folgenden Ordner werden gelöscht!&lt;br&gt;&lt;br&gt;
+&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+Fortfahren?</translation>
     </message>
     <message>
         <source>Unable to delete the folders completely.  Ensure you have the proper permission.</source>
-        <translation type="unfinished"/>
+        <translation>Die Ordner konnten nicht vollständig gelöscht werden. Stellen Sie sicher, dass Sie dazu berechtigt sind.</translation>
     </message>
 </context>
 <context>
@@ -12259,11 +12283,11 @@ Grund: %1.</translation>
     </message>
     <message>
         <source>Pin Tab</source>
-        <translation type="unfinished"/>
+        <translation>Tab anheften</translation>
     </message>
     <message>
         <source>Unpin Tab</source>
-        <translation type="unfinished"/>
+        <translation>Tab abheften</translation>
     </message>
 </context>
 <context>
@@ -12494,14 +12518,17 @@ Das bedeutet wahrscheinlich, dass bereits eine andere Instanz von Psi läuft. Es
     </message>
     <message>
         <source>Migration is impossible</source>
-        <translation type="unfinished"/>
+        <translation>Migration ist nicht möglich</translation>
     </message>
     <message>
         <source>Found no more supported configuration file from some very old version:
 %1
 
 Migration is possible with Psi-0.15</source>
-        <translation type="unfinished"/>
+        <translation>Keine weiteren unterstützten Konfigurationsdateien von alten Versionen gefunden:
+%1
+
+Migration ist möglich mit Psi-0.15</translation>
     </message>
 </context>
 <context>
@@ -12719,15 +12746,15 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Copy User JID</source>
-        <translation type="unfinished"/>
+        <translation>Benutzer-JID kopieren</translation>
     </message>
     <message>
         <source>Copy Groupchat JID</source>
-        <translation type="unfinished"/>
+        <translation>Gruppenchat-JID kopieren</translation>
     </message>
     <message>
         <source>Advanc&amp;ed</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Erweitert</translation>
     </message>
 </context>
 <context>
@@ -12984,26 +13011,26 @@ Möchten Sie die Sitzung jetzt aktivieren?</translation>
     <name>PsiRosterWidget</name>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Leeren</translation>
     </message>
 </context>
 <context>
     <name>PsiThemeModel</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished"/>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Authors</source>
-        <translation type="unfinished"/>
+        <translation>Autoren</translation>
     </message>
     <message>
         <source>Released on</source>
-        <translation type="unfinished"/>
+        <translation>Veröffentlicht am</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Homepage:</translation>
     </message>
 </context>
 <context>
@@ -14530,7 +14557,7 @@ Vielen Dank für Ihre Geduld.</translation>
     </message>
     <message>
         <source>%1 is now known as %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 heißt jetzt %2</translation>
     </message>
 </context>
 <context>
@@ -14689,15 +14716,15 @@ Wenn Sie das Plugin zum ersten Mal starten, müssen Sie sich mit allen Konten an
     <name>RipperCCOptions</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Formular</translation>
     </message>
     <message>
         <source> min.</source>
-        <translation type="unfinished"/>
+        <translation>min.</translation>
     </message>
     <message>
         <source>Attention interval: </source>
-        <translation type="unfinished"/>
+        <translation>Aufmerksamkeitsintervall:</translation>
     </message>
 </context>
 <context>
@@ -15941,11 +15968,11 @@ Das Plugin ist dafür konzipiert, Notizen auf dem Jabber Server zu speichern mit
     </message>
     <message>
         <source>Unpin Tab</source>
-        <translation type="unfinished"/>
+        <translation>Tab abheften</translation>
     </message>
     <message>
         <source>Pin Tab</source>
-        <translation type="unfinished"/>
+        <translation>Tab anheften</translation>
     </message>
 </context>
 <context>
@@ -17153,7 +17180,7 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
     <message>
         <source>Message Carbons</source>
-        <translation type="unfinished"/>
+        <translation>Nachrichtenkopien</translation>
     </message>
 </context>
 <context>
@@ -17598,7 +17625,7 @@ Möchten Sie dennoch das Fenster schließen?</translation>
     </message>
     <message>
         <source>An error occurred during the authentication process.</source>
-        <translation type="unfinished"/>
+        <translation>Ein Fehler ist während des Authentifizierungsprozesses aufgetreten.</translation>
     </message>
     <message>
         <source>Authentication successful.</source>
