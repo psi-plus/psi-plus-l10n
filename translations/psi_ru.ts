@@ -8558,7 +8558,7 @@ Tags: %1</source>
     </message>
     <message>
         <source>pt</source>
-        <translation></translation>
+        <translation>pt</translation>
     </message>
 </context>
 <context>
@@ -9458,10 +9458,6 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
         <translation>Включен</translation>
     </message>
     <message>
-        <source>Color for incoming messages numbers</source>
-        <translation>Цвет для номеров входящих сообщений</translation>
-    </message>
-    <message>
         <source>Color for outgoing messages numbers</source>
         <translation>Цвет для номеров исходящих сообщений</translation>
     </message>
@@ -9480,6 +9476,10 @@ is online and then press &quot;Update Birthdays&quot; button. It takes some time
     <message>
         <source>Show message if it satisfies the rule</source>
         <translation>Показать сообщение, если оно соответствует правилу</translation>
+    </message>
+    <message>
+        <source>Color for incoming messages numbers</source>
+        <translation>Цвет для номеров входящих сообщений</translation>
     </message>
 </context>
 <context>
