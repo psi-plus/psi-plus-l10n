@@ -227,7 +227,7 @@ Copyright © 2001-2017 The Psi Team.&lt;br&gt;
     </message>
     <message>
         <source>Lead Developer and Current Maintainer</source>
-        <translation type="unfinished"/>
+        <translation>Développeur principal et mainteneur actuel</translation>
     </message>
 </context>
 <context>
@@ -2594,7 +2594,7 @@ Note : afin de fonctionner correctement, la barre d&apos;outils du salon doit ê
     <name>ContactListDragView</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
@@ -2689,7 +2689,7 @@ Proceed?</source>
     <name>ContactListViewDelegate::Private</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (%2) </translation>
     </message>
 </context>
 <context>
@@ -5619,7 +5619,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     <name>HistoryContactListModel</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"/>
+        <translation>Général</translation>
     </message>
     <message>
         <source>Not in list</source>
@@ -5627,7 +5627,7 @@ For sending commands, normal messages are used, so this plugin will always work 
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="unfinished"/>
+        <translation>Messages privés</translation>
     </message>
     <message>
         <source>All contacts</source>
@@ -5967,7 +5967,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Resize images</source>
-        <translation type="unfinished"/>
+        <translation>Redimensionner des images</translation>
     </message>
     <message>
         <source>If width or height is bigger than</source>
@@ -9282,7 +9282,7 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#watcher_plugin&quot;&gt;Wiki (en ligne)&lt;/a&gt;</translation>
     </message>
     <message>
         <source>from file</source>
@@ -9596,7 +9596,7 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>No Image</source>
-        <translation type="unfinished"/>
+        <translation>Pas d&apos;image</translation>
     </message>
 </context>
 <context>
@@ -10106,11 +10106,11 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Press this button to create a new status message preset.</source>
-        <translation type="unfinished"/>
+        <translation>Cliquez sur ce bouton pour créer un nouveau message d&apos;état prédéfini.</translation>
     </message>
     <message>
         <source>Press this button to delete a status message preset.</source>
-        <translation type="unfinished"/>
+        <translation>Cliquez sur ce bouton pour supprimer un message d&apos;état prédéfini.</translation>
     </message>
     <message>
         <source>You may edit the message here for the currently selected status message preset in the list to the above.</source>
@@ -10118,7 +10118,7 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Use this to choose the status that will be assigned to this preset</source>
-        <translation type="unfinished"/>
+        <translation>Utiliser cela  pour choisir l&apos;état qui sera assigné à ce réglage</translation>
     </message>
     <message>
         <source>Fill in the priority that will be assigned to this preset. If no priority is given, the default account priority will be used.</source>
@@ -10404,7 +10404,7 @@ notifications pour les mails non lus.</translation>
     </message>
     <message>
         <source>Set status:</source>
-        <translation type="unfinished"/>
+        <translation>Définir l&apos;état:</translation>
     </message>
     <message>
         <source>Status message:</source>
