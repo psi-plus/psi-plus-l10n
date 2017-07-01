@@ -3846,35 +3846,35 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Show &quot;Picture&quot; option in contact menu</source>
-        <translation type="unfinished"/>
+        <translation>Показване на опцията &quot;Снимка&quot; в меню контакти</translation>
     </message>
     <message>
         <source>Show &quot;Change Profile&quot; option in main menu</source>
-        <translation type="unfinished"/>
+        <translation>Показване на опцията &quot;Промяна на Профил&quot; в меню контакти</translation>
     </message>
     <message>
         <source>Show &quot;Chat&quot; option in status menu</source>
-        <translation type="unfinished"/>
+        <translation>Показване на опцията &quot;Чат&quot; в меню състояние</translation>
     </message>
     <message>
         <source>Show &quot;Invisible&quot; option in status menu</source>
-        <translation type="unfinished"/>
+        <translation>Показване на опцията &quot;Невидим&quot; в меню състояние</translation>
     </message>
     <message>
         <source>Show &quot;XA&quot; option in status menu</source>
-        <translation type="unfinished"/>
+        <translation>Показване на опцията &quot;XA&quot; в меню състояние</translation>
     </message>
     <message>
         <source>Enable single messages</source>
-        <translation type="unfinished"/>
+        <translation>Активиране на единични съобщения</translation>
     </message>
     <message>
         <source>Popup border color:</source>
-        <translation type="unfinished"/>
+        <translation>Цвят на рамката за изскачащ прозорец:</translation>
     </message>
     <message>
         <source>Link color:</source>
-        <translation type="unfinished"/>
+        <translation>Цвят за линк:</translation>
     </message>
     <message>
         <source>Mailto color:</source>
@@ -3882,51 +3882,51 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Moderators color:</source>
-        <translation type="unfinished"/>
+        <translation>Цвят за модератори:</translation>
     </message>
     <message>
         <source>Participants color:</source>
-        <translation type="unfinished"/>
+        <translation>Цвят за участници:</translation>
     </message>
     <message>
         <source>Visitors color:</source>
-        <translation type="unfinished"/>
+        <translation>Цвят за посетители:</translation>
     </message>
     <message>
         <source>No Role color:</source>
-        <translation type="unfinished"/>
+        <translation>Цвят за без роля:</translation>
     </message>
     <message>
         <source>Groupchat roster coloring:</source>
-        <translation type="unfinished"/>
+        <translation>Цвят за списък с групов чат:</translation>
     </message>
     <message>
         <source>Enable sound notifications for every groupchat message</source>
-        <translation type="unfinished"/>
+        <translation>Активиране на звуци за известия при всяко съобщение в групов чат</translation>
     </message>
     <message>
         <source>ToolTip text color:</source>
-        <translation type="unfinished"/>
+        <translation>Цвят на текста на подсказка:</translation>
     </message>
     <message>
         <source>ToolTip background color:</source>
-        <translation type="unfinished"/>
+        <translation>Цвят за фона на подсказка:</translation>
     </message>
     <message>
         <source>ToolTip coloring:</source>
-        <translation type="unfinished"/>
+        <translation>Оцветяване на подсказка:</translation>
     </message>
     <message>
         <source>Text color for &quot;composing&quot; events on tabs:</source>
-        <translation type="unfinished"/>
+        <translation>Цвят на текста на събития за &quot;съставяне&quot; в табовете:</translation>
     </message>
     <message>
         <source>Text color for &quot;unread&quot; events on tabs:</source>
-        <translation type="unfinished"/>
+        <translation>Цвят на текста на събития за &quot;непрочетени&quot; в табовете:</translation>
     </message>
     <message>
         <source>Colors:</source>
-        <translation type="unfinished"/>
+        <translation>Цветове:</translation>
     </message>
     <message>
         <source>Popup</source>
@@ -3934,71 +3934,71 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Tooltip</source>
-        <translation type="unfinished"/>
+        <translation>Подсказа</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS for Psi+&lt;/a&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;a href=&quot;http://psi-plus.com/wiki/skins_css&quot;&gt;CSS за Psi+&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Disable wheel scroll</source>
-        <translation type="unfinished"/>
+        <translation>Деактивиране на скрола на мишката</translation>
     </message>
     <message>
         <source>Put tabs at bottom of chat window</source>
-        <translation type="unfinished"/>
+        <translation>Поставяне на табове в долната част на прозореца за чат</translation>
     </message>
     <message>
         <source>Show Close Button on tabs</source>
-        <translation type="unfinished"/>
+        <translation>Показване на бутона Затваряне в табовете</translation>
     </message>
     <message>
         <source>Show status icons on tabs</source>
-        <translation type="unfinished"/>
+        <translation>Показване на икони за състояние в табовете</translation>
     </message>
     <message>
         <source>Hide tab when close chat window</source>
-        <translation type="unfinished"/>
+        <translation>Скриване на таб, когато се затвори прозореца за чат</translation>
     </message>
     <message>
         <source>Allow closing inactive tabs</source>
-        <translation type="unfinished"/>
+        <translation>Позволяване затварянето на неактивни табове</translation>
     </message>
     <message>
         <source>Action for mouse middle click on tabs:</source>
-        <translation type="unfinished"/>
+        <translation>Действие за кликване със среден бутон на мишката върху табовете:</translation>
     </message>
     <message>
         <source>Action for mouse double click on tabs:</source>
-        <translation type="unfinished"/>
+        <translation>Действие за двойно кликване с мишката върху табовете:</translation>
     </message>
     <message>
         <source>Enable windows flashing</source>
-        <translation type="unfinished"/>
+        <translation>Активиране на мигащи прозорци</translation>
     </message>
     <message>
         <source>Enable &quot;Single Account&quot; mode</source>
-        <translation type="unfinished"/>
+        <translation>Активиране на режим &quot;Единичен Акаунт&quot;</translation>
     </message>
     <message>
         <source>Enable XML-console on login</source>
-        <translation type="unfinished"/>
+        <translation>Активиране на XML-конзола при влизане</translation>
     </message>
     <message>
         <source>Enable last activity server</source>
-        <translation type="unfinished"/>
+        <translation>Активиране на сървър за последна активност</translation>
     </message>
     <message>
         <source>Disable popup notifications if status is DND</source>
-        <translation type="unfinished"/>
+        <translation>Деактивиране на изскачащите известия ако състоянието е НМБ</translation>
     </message>
     <message>
         <source>Disable popup notifications if status is Away</source>
-        <translation type="unfinished"/>
+        <translation>Деактивиране на изскачащите известия ако състоянието е Отсъстващ</translation>
     </message>
     <message>
         <source>Notifications</source>
-        <translation type="unfinished"/>
+        <translation>Известия</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#extended_options_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -4006,18 +4006,21 @@ This option only has effect if accept-defaults is false.</source>
     </message>
     <message>
         <source>Author: </source>
-        <translation type="unfinished"/>
+        <translation>Автор:</translation>
     </message>
     <message>
         <source>Email: </source>
-        <translation type="unfinished"/>
+        <translation>Ел. поща:</translation>
     </message>
     <message>
         <source>This plugin is designed to allow easy configuration of some advanced options in Psi+.
 This plugin gives you access to advanced application options, which do not have a graphical user interface.
 
 Importantly: a large part of the options are important system settings. These require extra attention and properunderstanding of the results when changing the option.</source>
-        <translation type="unfinished"/>
+        <translation>Тази добавка е проектирана да предостави лесна конфигурация на някой разширени настройки в Psi+.
+Тази добавка ви дава възможност да достъпите разширените настройки на програмата, които нямат графичен потребителски интерфейс.
+
+Важно: голяма част от тези настройки за важни системни настройки. Те изискват повишено внимание и правилно разбиране на резултатите при промяната на настройка.</translation>
     </message>
     <message>
         <source>Allow groupchat highlight events</source>
@@ -4025,7 +4028,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>Enable multirow tabs</source>
-        <translation type="unfinished"/>
+        <translation>Активиране на мултиредови табове</translation>
     </message>
     <message>
         <source>Store MUC private messages in history</source>
@@ -4036,21 +4039,21 @@ Importantly: a large part of the options are important system settings. These re
     <name>FancyPopup::Private</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Затваряне</translation>
     </message>
 </context>
 <context>
     <name>FigureDialog</name>
     <message>
         <source>What figure should I set?</source>
-        <translation type="unfinished"/>
+        <translation>Каква фигура би трябвало да задам?</translation>
     </message>
 </context>
 <context>
     <name>FileEvent</name>
     <message>
         <source>This user wants to send you a file.</source>
-        <translation type="unfinished"/>
+        <translation>Този потребител желае да ви изпрати файл.</translation>
     </message>
 </context>
 <context>
@@ -4133,7 +4136,7 @@ Importantly: a large part of the options are important system settings. These re
     </message>
     <message>
         <source>The XMPP address specified is not valid.  Correct this and try again.</source>
-        <translation type="unfinished"/>
+        <translation>XMPP адресът, който е зададен е невалиден. Поправете го и опитайте отново.</translation>
     </message>
     <message>
         <source>The file specified does not exist.  Choose a correct file name before sending.</source>
@@ -4211,39 +4214,39 @@ that outgoing TCP connections are allowed.</source>
     <name>FileTrans</name>
     <message>
         <source>Form1</source>
-        <translation type="unfinished"/>
+        <translation>Форма1</translation>
     </message>
     <message>
         <source>accountlabel</source>
-        <translation type="unfinished"/>
+        <translation>акаунтетикет</translation>
     </message>
     <message>
         <source>To:</source>
-        <translation type="unfinished"/>
+        <translation>До:</translation>
     </message>
     <message>
         <source>File:</source>
-        <translation type="unfinished"/>
+        <translation>Файл:</translation>
     </message>
     <message>
         <source>psi/browse</source>
-        <translation type="unfinished"/>
+        <translation>psi/преглед</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"/>
+        <translation>Размер:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Описание:</translation>
     </message>
     <message>
         <source>stop</source>
-        <translation type="unfinished"/>
+        <translation>стоп</translation>
     </message>
     <message>
         <source>start</source>
-        <translation type="unfinished"/>
+        <translation>старт</translation>
     </message>
 </context>
 <context>
@@ -4348,7 +4351,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>File I/O error (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Входно-изходна файлове грешка (%1)</translation>
     </message>
 </context>
 <context>
@@ -4359,7 +4362,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>&amp;Open Containing Folder</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Отваряне на Съдържащата Директория</translation>
     </message>
     <message>
         <source>Cl&amp;ear</source>
@@ -4370,7 +4373,7 @@ Reason: %3</source>
     <name>FileTransferHandler</name>
     <message>
         <source>Querying proxy...</source>
-        <translation type="unfinished"/>
+        <translation>Разпитване на проксито...</translation>
     </message>
     <message>
         <source>Proxy query successful.</source>
@@ -4425,37 +4428,37 @@ Reason: %3</source>
     </message>
     <message>
         <source>The file specified does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Указният файл не съществува.</translation>
     </message>
     <message>
         <source>Choose a file</source>
-        <translation type="unfinished"/>
+        <translation>Избор на файл</translation>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</source>
-        <translation type="unfinished"/>
+        <translation>Снимки (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</translation>
     </message>
 </context>
 <context>
     <name>FontLabel</name>
     <message>
         <source>%1 %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
     <name>Form</name>
     <message>
         <source>Proxy Authentication Required</source>
-        <translation type="unfinished"/>
+        <translation>Идентификация пред проксито е задължителна </translation>
     </message>
     <message>
         <source>Load Content List</source>
-        <translation type="unfinished"/>
+        <translation>Зареждане на списъка със съдържание</translation>
     </message>
     <message>
         <source>Download and Install</source>
-        <translation type="unfinished"/>
+        <translation>Сваляне и Инсталиране</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;http://psi-plus.com/wiki/plugins#content_downloader_plugin&quot;&gt;Wiki (Online)&lt;/a&gt;</source>
@@ -4466,7 +4469,7 @@ Reason: %3</source>
     <name>Frame</name>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>Рамка</translation>
     </message>
 </context>
 <context>
@@ -4496,40 +4499,41 @@ Reason: %3</source>
     <name>GCMainDlg</name>
     <message>
         <source>Find toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Лента за търсене</translation>
     </message>
     <message>
         <source>Change Nickname...</source>
-        <translation type="unfinished"/>
+        <translation>Смяна на псевдоним...</translation>
     </message>
     <message>
         <source>Enter Command...</source>
-        <translation type="unfinished"/>
+        <translation>Въвеждане на Команда...</translation>
     </message>
     <message>
         <source>Copy Groupchat JID</source>
-        <translation type="unfinished"/>
+        <translation>Копиране на JID на груповия чат</translation>
     </message>
     <message>
         <source> by %1</source>
-        <translation type="unfinished"/>
+        <translation>с %1</translation>
     </message>
     <message>
         <source>
 Reason: %1</source>
-        <translation type="unfinished"/>
+        <translation>
+Причина: %1</translation>
     </message>
     <message>
         <source>Edit Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Редактиране на Отметка</translation>
     </message>
     <message>
         <source>Add to bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Добавяне в отметки</translation>
     </message>
     <message>
         <source>Error: Cannot parse command: </source>
-        <translation type="unfinished"/>
+        <translation>Грешка: Не може да се обработи команда:</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -4555,7 +4559,7 @@ Reason: %1</source>
     </message>
     <message>
         <source>Unable to join groupchat.	Reason: %1</source>
-        <translation type="unfinished"/>
+        <translation>Невъзможност за присъединяване в групов чат.	Причина: %1</translation>
     </message>
     <message>
         <source>Unexpected groupchat error: %1</source>
@@ -4563,51 +4567,51 @@ Reason: %1</source>
     </message>
     <message>
         <source>Please choose a different nickname</source>
-        <translation type="unfinished"/>
+        <translation>Моля изберете различен псевдоним</translation>
     </message>
     <message>
         <source>An error occurred (errorcode: %1)</source>
-        <translation type="unfinished"/>
+        <translation>Грешка възникна (код на грешката: %1)</translation>
     </message>
     <message>
         <source>New room created</source>
-        <translation type="unfinished"/>
+        <translation>Нова стая бе създадена</translation>
     </message>
     <message>
         <source>%1 has joined the room</source>
-        <translation type="unfinished"/>
+        <translation>%1 се присъединил в стаята</translation>
     </message>
     <message>
         <source>%3 has joined the room as %1 and %2</source>
-        <translation type="unfinished"/>
+        <translation>%3 се е присъединил в стаята като %1 и %2</translation>
     </message>
     <message>
         <source>%2 has joined the room as %1</source>
-        <translation type="unfinished"/>
+        <translation>%2 се е присъединил в стаята като %1</translation>
     </message>
     <message>
         <source> and now is %1</source>
-        <translation type="unfinished"/>
+        <translation>и сега е %1</translation>
     </message>
     <message>
         <source>%1 is now %2 and %3</source>
-        <translation type="unfinished"/>
+        <translation>%1 сега е %2 и %3</translation>
     </message>
     <message>
         <source>%1 is now %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 сега е %2</translation>
     </message>
     <message>
         <source> (Reason: %1)</source>
-        <translation type="unfinished"/>
+        <translation>(Причина: %1)</translation>
     </message>
     <message>
         <source>This room has been destroyed.</source>
-        <translation type="unfinished"/>
+        <translation>Тази стаята е била унищожена.</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="unfinished"/>
+        <translation>Причина: %1</translation>
     </message>
     <message>
         <source>Do you want to join the alternate venue &apos;%1&apos;?</source>
@@ -4615,51 +4619,51 @@ Reason: %1</source>
     </message>
     <message>
         <source>Room Destroyed</source>
-        <translation type="unfinished"/>
+        <translation>Стаята е Унищожена</translation>
     </message>
     <message>
         <source>Banned</source>
-        <translation type="unfinished"/>
+        <translation>Баннат</translation>
     </message>
     <message>
         <source>You have been banned from the room</source>
-        <translation type="unfinished"/>
+        <translation>Вие бяхте баннати от стаята</translation>
     </message>
     <message>
         <source>You have been banned from the room by %1</source>
-        <translation type="unfinished"/>
+        <translation>Вия бяхте баннати от стаята от %1</translation>
     </message>
     <message>
         <source>%1 has been banned</source>
-        <translation type="unfinished"/>
+        <translation>%1 беше баннат</translation>
     </message>
     <message>
         <source>%1 has been banned by %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 беше баннат от %2</translation>
     </message>
     <message>
         <source>Kicked</source>
-        <translation type="unfinished"/>
+        <translation>Изритан</translation>
     </message>
     <message>
         <source>You have been kicked from the room</source>
-        <translation type="unfinished"/>
+        <translation>Вие бяхте изритани от стаята</translation>
     </message>
     <message>
         <source>You have been kicked from the room by %1</source>
-        <translation type="unfinished"/>
+        <translation>Вие бяхте изритани от стаята от %1</translation>
     </message>
     <message>
         <source>%1 has been kicked</source>
-        <translation type="unfinished"/>
+        <translation>%1 беше изритан</translation>
     </message>
     <message>
         <source>%1 has been kicked by %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 беше изритан от %2</translation>
     </message>
     <message>
         <source>Removed</source>
-        <translation type="unfinished"/>
+        <translation>Изтрит</translation>
     </message>
     <message>
         <source>You have been removed from the room due to an affiliation change</source>
@@ -4679,39 +4683,39 @@ Reason: %1</source>
     </message>
     <message>
         <source>You have been removed from the room because the room was made members only</source>
-        <translation type="unfinished"/>
+        <translation>Вие бяхте изтрит от стаята, защото стаята бе направена за членове само</translation>
     </message>
     <message>
         <source>You have been removed from the room by %1 because the room was made members only</source>
-        <translation type="unfinished"/>
+        <translation>Вие бяхте изтрит от стаята от %1, защото стаята бе направена за членове само</translation>
     </message>
     <message>
         <source>%1 has been removed from the room because the room was made members-only</source>
-        <translation type="unfinished"/>
+        <translation>%1 беше изтрит от стаята, защото стаята бе направена членове само</translation>
     </message>
     <message>
         <source>%1 has been removed from the room by %2 because the room was made members-only</source>
-        <translation type="unfinished"/>
+        <translation>%1 беше изтрит от стаята от %2, защото стаята бе направена членове само</translation>
     </message>
     <message>
         <source>%1 is now known as %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 сега се знае като %2</translation>
     </message>
     <message>
         <source>%1 has left the room</source>
-        <translation type="unfinished"/>
+        <translation>%1 напусна стаята</translation>
     </message>
     <message>
         <source>The topic has been set to</source>
-        <translation type="unfinished"/>
+        <translation>Темата беше зададена на</translation>
     </message>
     <message>
         <source> has unset the topic</source>
-        <translation type="unfinished"/>
+        <translation>премахна темата</translation>
     </message>
     <message>
         <source> has set the topic to</source>
-        <translation type="unfinished"/>
+        <translation>зададе темата на</translation>
     </message>
     <message>
         <source>Connected.</source>
@@ -4719,11 +4723,11 @@ Reason: %1</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Запис</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4731,93 +4735,93 @@ Reason: %1</source>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Име:</translation>
     </message>
     <message>
         <source>N&amp;ick:</source>
-        <translation type="unfinished"/>
+        <translation>Пс&amp;евдоним</translation>
     </message>
     <message>
         <source>&amp;Auto join:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Автоматично присъединяване:</translation>
     </message>
     <message>
         <source>Bookmark conference</source>
-        <translation type="unfinished"/>
+        <translation>Отметка на конференцията</translation>
     </message>
 </context>
 <context>
     <name>GCMainDlg::Private</name>
     <message>
         <source>new nick</source>
-        <translation type="unfinished"/>
+        <translation>нов псевдоним</translation>
     </message>
     <message>
         <source>Command</source>
-        <translation type="unfinished"/>
+        <translation>Команда</translation>
     </message>
 </context>
 <context>
     <name>GCUserView</name>
     <message>
         <source>Moderators</source>
-        <translation type="unfinished"/>
+        <translation>Модератори</translation>
     </message>
     <message>
         <source>Participants</source>
-        <translation type="unfinished"/>
+        <translation>Участници</translation>
     </message>
     <message>
         <source>Visitors</source>
-        <translation type="unfinished"/>
+        <translation>Посетители</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="unfinished"/>
+        <translation>Изпращане на &amp;Съобщение</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="unfinished"/>
+        <translation>Отваряне на Прозорец &amp;Чат</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="unfinished"/>
+        <translation>Гласово Обаждане</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="unfinished"/>
+        <translation>Из&amp;пълнение на Команда</translation>
     </message>
     <message>
         <source>&amp;Kick</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Изритване</translation>
     </message>
     <message>
         <source>No reason</source>
-        <translation type="unfinished"/>
+        <translation>Без причина</translation>
     </message>
     <message>
         <source>Custom reason</source>
-        <translation type="unfinished"/>
+        <translation>Специфична причина</translation>
     </message>
     <message>
         <source>&amp;Ban</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Баннване</translation>
     </message>
     <message>
         <source>Change Role</source>
-        <translation type="unfinished"/>
+        <translation>Смяна на Роля</translation>
     </message>
     <message>
         <source>Visitor</source>
-        <translation type="unfinished"/>
+        <translation>Посетител</translation>
     </message>
     <message>
         <source>Participant</source>
-        <translation type="unfinished"/>
+        <translation>Участник</translation>
     </message>
     <message>
         <source>Moderator</source>
-        <translation type="unfinished"/>
+        <translation>Модератор</translation>
     </message>
     <message>
         <source>Change Affiliation</source>
@@ -4829,15 +4833,15 @@ Reason: %1</source>
     </message>
     <message>
         <source>Member</source>
-        <translation type="unfinished"/>
+        <translation>Член</translation>
     </message>
     <message>
         <source>Administrator</source>
-        <translation type="unfinished"/>
+        <translation>Администратор</translation>
     </message>
     <message>
         <source>Owner</source>
-        <translation type="unfinished"/>
+        <translation>Собственик</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -4848,72 +4852,73 @@ Reason: %1</source>
     <name>GameBoard</name>
     <message>
         <source>White</source>
-        <translation type="unfinished"/>
+        <translation>Бяло</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"/>
+        <translation>Черно</translation>
     </message>
     <message>
         <source>game with</source>
-        <translation type="unfinished"/>
+        <translation>игра с</translation>
     </message>
     <message>
         <source>Game chat</source>
-        <translation type="unfinished"/>
+        <translation>Игров чат</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished"/>
+        <translation>История</translation>
     </message>
     <message>
         <source>Looking up the host</source>
-        <translation type="unfinished"/>
+        <translation>Търсене на хоста</translation>
     </message>
     <message>
         <source>Accepted a new connection</source>
-        <translation type="unfinished"/>
+        <translation>Приета нова връзка</translation>
     </message>
     <message>
         <source>The host found</source>
-        <translation type="unfinished"/>
+        <translation>Хостът бе намерен</translation>
     </message>
     <message>
         <source>Connected to the host</source>
-        <translation type="unfinished"/>
+        <translation>Свързан към хоста</translation>
     </message>
     <message>
         <source>Socket Error...</source>
-        <translation type="unfinished"/>
+        <translation>Грешка в Сокета...</translation>
     </message>
     <message>
         <source>You have a socket error number</source>
-        <translation type="unfinished"/>
+        <translation>Имате номер на грешка за сокета</translation>
     </message>
     <message>
         <source>game from</source>
-        <translation type="unfinished"/>
+        <translation>игра от</translation>
     </message>
     <message>
         <source>Accepted the</source>
-        <translation type="unfinished"/>
+        <translation>Прието</translation>
     </message>
     <message>
         <source>Your move...</source>
-        <translation type="unfinished"/>
+        <translation>Ваш ход...</translation>
     </message>
     <message>
         <source>Waiting a move...</source>
-        <translation type="unfinished"/>
+        <translation>Очакване на ход...</translation>
     </message>
     <message>
         <source>End the game</source>
-        <translation type="unfinished"/>
+        <translation>Край на играта</translation>
     </message>
     <message>
         <source>Want you to end the game?
 You will lose it</source>
-        <translation type="unfinished"/>
+        <translation>Искате ли да приключите играта?
+Ще загубите</translation>
     </message>
     <message>
         <source>Yes, end</source>
@@ -4921,23 +4926,23 @@ You will lose it</source>
     </message>
     <message>
         <source>No, continue</source>
-        <translation type="unfinished"/>
+        <translation>Не продължавам</translation>
     </message>
     <message>
         <source>B</source>
-        <translation type="unfinished"/>
+        <translation>Б</translation>
     </message>
     <message>
         <source>K</source>
-        <translation type="unfinished"/>
+        <translation>К</translation>
     </message>
     <message>
         <source>C</source>
-        <translation type="unfinished"/>
+        <translation>Ц</translation>
     </message>
     <message>
         <source>Q</source>
-        <translation type="unfinished"/>
+        <translation>Я</translation>
     </message>
     <message>
         <source>Error!</source>
@@ -4945,23 +4950,23 @@ You will lose it</source>
     </message>
     <message>
         <source>Lookup Error</source>
-        <translation type="unfinished"/>
+        <translation>Грешка при търсене</translation>
     </message>
     <message>
         <source>The host</source>
-        <translation type="unfinished"/>
+        <translation>Хостът</translation>
     </message>
     <message>
         <source>not found.</source>
-        <translation type="unfinished"/>
+        <translation>не е намерен.</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation type="unfinished"/>
+        <translation>Запазване на Изображение</translation>
     </message>
     <message>
         <source>Do you want to save the image?</source>
-        <translation type="unfinished"/>
+        <translation>Искате ли да запишете изображението?</translation>
     </message>
     <message>
         <source>Yes, save</source>
@@ -4969,11 +4974,11 @@ You will lose it</source>
     </message>
     <message>
         <source>No, don&apos;t save</source>
-        <translation type="unfinished"/>
+        <translation>Не, не записвай</translation>
     </message>
     <message>
         <source>Game over</source>
-        <translation type="unfinished"/>
+        <translation>Играта свърши</translation>
     </message>
     <message>
         <source>You scored the game</source>
@@ -4982,11 +4987,12 @@ You will lose it</source>
     <message>
         <source>You have a mate.
 You lost the game.</source>
-        <translation type="unfinished"/>
+        <translation>Мат сте.
+Загубихте играта.</translation>
     </message>
     <message>
         <source>You have a stalemate</source>
-        <translation type="unfinished"/>
+        <translation>Имате шахпат</translation>
     </message>
 </context>
 <context>
@@ -5000,37 +5006,37 @@ You lost the game.</source>
     <name>GameSession</name>
     <message>
         <source>%1: Invitation from %2</source>
-        <translation type="unfinished"/>
+        <translation>%1: Покана от %2</translation>
     </message>
 </context>
 <context>
     <name>GameSessionList</name>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
-        <translation type="unfinished"/>
+        <translation>От: %1&lt;br /&gt;Играта беше отхвърлена</translation>
     </message>
 </context>
 <context>
     <name>GameSessions</name>
     <message>
         <source>%1: Invitation from %2</source>
-        <translation type="unfinished"/>
+        <translation>%1: Покана от %2</translation>
     </message>
     <message>
         <source>Incorrect parameters</source>
-        <translation type="unfinished"/>
+        <translation>Невалидни параметри</translation>
     </message>
     <message>
         <source>You are already playing!</source>
-        <translation type="unfinished"/>
+        <translation>Вече играете!</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;The game was rejected</source>
-        <translation type="unfinished"/>
+        <translation>От: %1&lt;br /&gt;Играта беше отхвърлена</translation>
     </message>
     <message>
         <source>From: %1&lt;br /&gt;Game error.</source>
-        <translation type="unfinished"/>
+        <translation>От: %1&lt;br /&gt;Грешка в играта.</translation>
     </message>
 </context>
 <context>
@@ -5053,11 +5059,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>Words which will cause a notification in group chat.</source>
-        <translation type="unfinished"/>
+        <translation>Думи, които ще предизвикат известие в групов чат.</translation>
     </message>
     <message>
         <source>This is the list of words which when said in group chat will cause the user to be notified.</source>
-        <translation type="unfinished"/>
+        <translation>Това е списък на думи, които казани в групов чат ще предизвикат потребителя да бъде известен.</translation>
     </message>
     <message>
         <source>Type a new word here and press &quot;Add Word&quot; for it to be added to the highlight list</source>
@@ -5065,11 +5071,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>Adds the new word to the list</source>
-        <translation type="unfinished"/>
+        <translation>Добавя новата дума към списъка</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Добавяне</translation>
     </message>
     <message>
         <source>Removes the selected word from the highlight list</source>
@@ -5077,11 +5083,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Изтриване</translation>
     </message>
     <message>
         <source>Enable nick coloring</source>
-        <translation type="unfinished"/>
+        <translation>Активиране на оцветяване на псевдонимите</translation>
     </message>
     <message>
         <source>Enable hash nick coloring</source>
@@ -5089,11 +5095,11 @@ You lost the game.</source>
     </message>
     <message>
         <source>Nick coloring</source>
-        <translation type="unfinished"/>
+        <translation>Оцветяване на Псевдоним</translation>
     </message>
     <message>
         <source>Colors used for nicks in groupchat</source>
-        <translation type="unfinished"/>
+        <translation>Цветове използвани за псевдоними в групов чат</translation>
     </message>
     <message>
         <source>This is the list of colours with which nicks will be drawn in group chat.</source>
