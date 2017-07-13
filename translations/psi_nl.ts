@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="nl">
+<TS version="2.0" language="nl">
 <context>
     <name>@default</name>
     <message>
@@ -216,7 +216,7 @@ Join the translation team today! Go to
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
@@ -2847,7 +2847,7 @@ Doorgaan?</translation>
     </message>
     <message>
         <source>Not in list</source>
-        <translation type="vanished">Niet in lijst</translation>
+        <translation type="obsolete">Niet in lijst</translation>
     </message>
     <message>
         <source>Agents/Transports</source>
@@ -2855,174 +2855,174 @@ Doorgaan?</translation>
     </message>
     <message>
         <source>Private Messages</source>
-        <translation type="vanished">Priv㩢richten</translation>
+        <translation type="obsolete">Priv㩢richten</translation>
     </message>
     <message>
         <source>Online Users</source>
-        <translation type="vanished">Online contacten</translation>
+        <translation type="obsolete">Online contacten</translation>
     </message>
     <message>
         <source>Set MOTD</source>
-        <translation type="vanished">Stel MOTD in</translation>
+        <translation type="obsolete">Stel MOTD in</translation>
     </message>
     <message>
         <source>Update MOTD</source>
-        <translation type="vanished">Update MOTD</translation>
+        <translation type="obsolete">Update MOTD</translation>
     </message>
     <message>
         <source>Delete MOTD</source>
-        <translation type="vanished">Verwijder MOTD</translation>
+        <translation type="obsolete">Verwijder MOTD</translation>
     </message>
     <message>
         <source>&amp;Status</source>
-        <translation type="vanished">&amp;Status</translation>
+        <translation type="obsolete">&amp;Status</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
-        <translation type="vanished">&amp;Services verkennen</translation>
+        <translation type="obsolete">&amp;Services verkennen</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation type="vanished">&amp;XML console</translation>
+        <translation type="obsolete">&amp;XML console</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
-        <translation type="vanished">&amp;Pas account aan...</translation>
+        <translation type="obsolete">&amp;Pas account aan...</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
-        <translation type="vanished">&amp;Beheerder</translation>
+        <translation type="obsolete">&amp;Beheerder</translation>
     </message>
     <message>
         <source>Remove Group</source>
-        <translation type="vanished">Verwijder groep</translation>
+        <translation type="obsolete">Verwijder groep</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
-        <translation type="vanished">Verwijder groep en contacten</translation>
+        <translation type="obsolete">Verwijder groep en contacten</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="vanished">Verberg</translation>
+        <translation type="obsolete">Verberg</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="vanished">Als u de groep verwijdert, worden alle contacten in deze groep ongegroepeerd opgeslagen.
+        <translation type="obsolete">Als u de groep verwijdert, worden alle contacten in deze groep ongegroepeerd opgeslagen.
 
 Doorgaan?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Ja</translation>
+        <translation type="obsolete">&amp;Ja</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="vanished">&amp;No</translation>
+        <translation type="obsolete">&amp;No</translation>
     </message>
     <message>
         <source>WARNING!  This will remove all contacts associated with this group!
 
 Proceed?</source>
-        <translation type="vanished">Pas op!  Hiermee worden alle contacten in de groep verwijderd.
+        <translation type="obsolete">Pas op!  Hiermee worden alle contacten in de groep verwijderd.
 
 Doorgaan?</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="vanished">&amp;Geen</translation>
+        <translation type="obsolete">&amp;Geen</translation>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation type="vanished">&amp;Groep</translation>
+        <translation type="obsolete">&amp;Groep</translation>
     </message>
     <message>
         <source>Authorization</source>
-        <translation type="vanished">Autorisatie</translation>
+        <translation type="obsolete">Autorisatie</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation type="vanished">Autoriseer</translation>
+        <translation type="obsolete">Autoriseer</translation>
     </message>
     <message>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">Autorisatie verzonden naar &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="obsolete">Autorisatie verzonden naar &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Create New Group</source>
-        <translation type="vanished">Nieuwe groep aanmaken</translation>
+        <translation type="obsolete">Nieuwe groep aanmaken</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Toevoegen</translation>
+        <translation type="obsolete">Toevoegen</translation>
     </message>
     <message>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation type="vanished">Geautoriseerd/toegevoegd &lt;b&gt;%1&lt;/b&gt; aan contactenlijst.</translation>
+        <translation type="obsolete">Geautoriseerd/toegevoegd &lt;b&gt;%1&lt;/b&gt; aan contactenlijst.</translation>
     </message>
     <message>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">Autorisatieverzoek opnieuw verstuurd aan &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="obsolete">Autorisatieverzoek opnieuw verstuurd aan &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Verwijder</translation>
+        <translation type="obsolete">Verwijder</translation>
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation type="vanished">Weet u zeker dat u de autorisatie van &lt;b&gt;%1&lt;/b&gt; wilt verwijderen?</translation>
+        <translation type="obsolete">Weet u zeker dat u de autorisatie van &lt;b&gt;%1&lt;/b&gt; wilt verwijderen?</translation>
     </message>
     <message>
         <source>Invitation</source>
-        <translation type="vanished">Verzoek</translation>
+        <translation type="obsolete">Verzoek</translation>
     </message>
     <message>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">Verzend een verzoek voor groepchat naar &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="obsolete">Verzend een verzoek voor groepchat naar &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
-        <translation type="vanished">Weet u zeker dat u &lt;b&gt;%1&lt;/b&gt; uit de contactenlijst wilt verwijderen?</translation>
+        <translation type="obsolete">Weet u zeker dat u &lt;b&gt;%1&lt;/b&gt; uit de contactenlijst wilt verwijderen?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Fout</translation>
+        <translation type="obsolete">Fout</translation>
     </message>
     <message>
         <source>You already have a group with that name.</source>
-        <translation type="vanished">Er is reeds een groep met deze naam.</translation>
+        <translation type="obsolete">Er is reeds een groep met deze naam.</translation>
     </message>
 </context>
 <context>
     <name>ContactView</name>
     <message>
         <source>Hidden</source>
-        <translation type="vanished">Verborgen</translation>
+        <translation type="obsolete">Verborgen</translation>
     </message>
     <message>
         <source>Re&amp;name</source>
-        <translation type="vanished">Her&amp;noem</translation>
+        <translation type="obsolete">Her&amp;noem</translation>
     </message>
     <message>
         <source>&amp;History</source>
-        <translation type="vanished">Gesc&amp;hiedenis</translation>
+        <translation type="obsolete">Gesc&amp;hiedenis</translation>
     </message>
     <message>
         <source>&amp;Log on</source>
-        <translation type="vanished">&amp;Aanmelden</translation>
+        <translation type="obsolete">&amp;Aanmelden</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation type="vanished">&amp;Verwijder</translation>
+        <translation type="obsolete">&amp;Verwijder</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="vanished">Gebruikers&amp;info</translation>
+        <translation type="obsolete">Gebruikers&amp;info</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="vanished">Alle bestanden (*.png *.jpg *.gif)</translation>
+        <translation type="obsolete">Alle bestanden (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -3121,23 +3121,23 @@ Doorgaan?</translation>
     <name>DiscoDlg::Private</name>
     <message>
         <source>Auto</source>
-        <translation type="vanished">Auto</translation>
+        <translation type="obsolete">Auto</translation>
     </message>
     <message>
         <source>Automatically determine protocol</source>
-        <translation type="vanished">Bepaal protocol automatisch</translation>
+        <translation type="obsolete">Bepaal protocol automatisch</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="vanished">Diensten verkennen</translation>
+        <translation type="obsolete">Diensten verkennen</translation>
     </message>
     <message>
         <source>Browse Services</source>
-        <translation type="vanished">Dienst verkennen</translation>
+        <translation type="obsolete">Dienst verkennen</translation>
     </message>
     <message>
         <source>Browse Agents</source>
-        <translation type="vanished">Agenten verkennen</translation>
+        <translation type="obsolete">Agenten verkennen</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -13256,11 +13256,11 @@ Doorgaan?</translation>
     </message>
     <message>
         <source>%1 Proxy</source>
-        <translation type="vanished">%1 proxy</translation>
+        <translation type="obsolete">%1 proxy</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation type="vanished">Gebeurtenis indicator</translation>
+        <translation type="obsolete">Gebeurtenis indicator</translation>
     </message>
     <message>
         <source>%1 says:</source>

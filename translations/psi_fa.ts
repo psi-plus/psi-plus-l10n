@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="fa">
+<TS version="2.0" language="fa">
 <context>
     <name>@default</name>
     <message>
@@ -82,7 +82,7 @@
     </message>
     <message>
         <source>Current Maintainer and Original Author</source>
-        <translation type="vanished">نگهدارنده و نویسنده اصلی</translation>
+        <translation type="obsolete">نگهدارنده و نویسنده اصلی</translation>
     </message>
     <message>
         <source>Past Lead Developer and Maintainer</source>
@@ -220,7 +220,7 @@ Join the translation team today! Go to
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ca">
+<TS version="2.0" language="ca">
 <context>
     <name>@default</name>
     <message>
@@ -216,7 +216,7 @@ Join the translation team today! Go to
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
@@ -2846,7 +2846,7 @@ Continuar?</translation>
     </message>
     <message>
         <source>Not in list</source>
-        <translation type="vanished">No està a la llista</translation>
+        <translation type="obsolete">No està a la llista</translation>
     </message>
     <message>
         <source>Agents/Transports</source>
@@ -2854,173 +2854,173 @@ Continuar?</translation>
     </message>
     <message>
         <source>Private Messages</source>
-        <translation type="vanished">Missatges privats</translation>
+        <translation type="obsolete">Missatges privats</translation>
     </message>
     <message>
         <source>Online Users</source>
-        <translation type="vanished">Usuaris en línia</translation>
+        <translation type="obsolete">Usuaris en línia</translation>
     </message>
     <message>
         <source>Set MOTD</source>
-        <translation type="vanished">Especificar missatge del dia</translation>
+        <translation type="obsolete">Especificar missatge del dia</translation>
     </message>
     <message>
         <source>Update MOTD</source>
-        <translation type="vanished">Actualitzar el missatge del dia</translation>
+        <translation type="obsolete">Actualitzar el missatge del dia</translation>
     </message>
     <message>
         <source>Delete MOTD</source>
-        <translation type="vanished">Esborra el missatge del dia</translation>
+        <translation type="obsolete">Esborra el missatge del dia</translation>
     </message>
     <message>
         <source>&amp;Status</source>
-        <translation type="vanished">&amp;Estat</translation>
+        <translation type="obsolete">&amp;Estat</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
-        <translation type="vanished">&amp;Descobreix serveis</translation>
+        <translation type="obsolete">&amp;Descobreix serveis</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation type="vanished">Consola &amp;XML</translation>
+        <translation type="obsolete">Consola &amp;XML</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
-        <translation type="vanished">&amp;Modificar Compte...</translation>
+        <translation type="obsolete">&amp;Modificar Compte...</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
-        <translation type="vanished">&amp;Admin</translation>
+        <translation type="obsolete">&amp;Admin</translation>
     </message>
     <message>
         <source>Remove Group</source>
-        <translation type="vanished">Eliminar grup</translation>
+        <translation type="obsolete">Eliminar grup</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
-        <translation type="vanished">Eliminar grup i contactes</translation>
+        <translation type="obsolete">Eliminar grup i contactes</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="vanished">Ocultar</translation>
+        <translation type="obsolete">Ocultar</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="vanished">Això ocasionarà que tots els contactes d&apos;aquest grup es desassociïn.
+        <translation type="obsolete">Això ocasionarà que tots els contactes d&apos;aquest grup es desassociïn.
 Continuar?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Sí</translation>
+        <translation type="obsolete">&amp;Sí</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="vanished">&amp;No</translation>
+        <translation type="obsolete">&amp;No</translation>
     </message>
     <message>
         <source>WARNING!  This will remove all contacts associated with this group!
 
 Proceed?</source>
-        <translation type="vanished">AVÍS! Això eliminarà tots els contactes associats en aquest grup!
+        <translation type="obsolete">AVÍS! Això eliminarà tots els contactes associats en aquest grup!
 
 Continuar?</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="vanished">&amp;Cap</translation>
+        <translation type="obsolete">&amp;Cap</translation>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation type="vanished">Moure al &amp;Grup</translation>
+        <translation type="obsolete">Moure al &amp;Grup</translation>
     </message>
     <message>
         <source>Authorization</source>
-        <translation type="vanished">Autorització</translation>
+        <translation type="obsolete">Autorització</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation type="vanished">Autoritzar</translation>
+        <translation type="obsolete">Autoritzar</translation>
     </message>
     <message>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">Autorització enviada a &lt;b&gt;%1&lt;/b1&gt;.</translation>
+        <translation type="obsolete">Autorització enviada a &lt;b&gt;%1&lt;/b1&gt;.</translation>
     </message>
     <message>
         <source>Create New Group</source>
-        <translation type="vanished">Crear nou grup</translation>
+        <translation type="obsolete">Crear nou grup</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Afegeix</translation>
+        <translation type="obsolete">Afegeix</translation>
     </message>
     <message>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation type="vanished">Afegeix/Autoritza &lt;b&gt;%1&lt;/b&gt; a la llista de contactes.</translation>
+        <translation type="obsolete">Afegeix/Autoritza &lt;b&gt;%1&lt;/b&gt; a la llista de contactes.</translation>
     </message>
     <message>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">Resol.licitar autorització de &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="obsolete">Resol.licitar autorització de &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Eliminar</translation>
+        <translation type="obsolete">Eliminar</translation>
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation type="vanished">Està segur de que desitja eliminar la autorització de &lt;b&gt;%1&lt;/b&gt;?</translation>
+        <translation type="obsolete">Està segur de que desitja eliminar la autorització de &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
         <source>Invitation</source>
-        <translation type="vanished">Invitació</translation>
+        <translation type="obsolete">Invitació</translation>
     </message>
     <message>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">Enviar invitació de grup de xerrada a &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="obsolete">Enviar invitació de grup de xerrada a &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
-        <translation type="vanished">Està segur de que desitja eliminar a &lt;b&gt;%1&lt;/b&gt; de la seva llista de contactes?</translation>
+        <translation type="obsolete">Està segur de que desitja eliminar a &lt;b&gt;%1&lt;/b&gt; de la seva llista de contactes?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Error</translation>
+        <translation type="obsolete">Error</translation>
     </message>
     <message>
         <source>You already have a group with that name.</source>
-        <translation type="vanished">Ja té un grup amb aquest nom.</translation>
+        <translation type="obsolete">Ja té un grup amb aquest nom.</translation>
     </message>
 </context>
 <context>
     <name>ContactView</name>
     <message>
         <source>Hidden</source>
-        <translation type="vanished">Automàtic</translation>
+        <translation type="obsolete">Automàtic</translation>
     </message>
     <message>
         <source>Re&amp;name</source>
-        <translation type="vanished">Re&amp;nombra</translation>
+        <translation type="obsolete">Re&amp;nombra</translation>
     </message>
     <message>
         <source>&amp;History</source>
-        <translation type="vanished">&amp;Quadern de bitàcora</translation>
+        <translation type="obsolete">&amp;Quadern de bitàcora</translation>
     </message>
     <message>
         <source>&amp;Log on</source>
-        <translation type="vanished">&amp;Connecta</translation>
+        <translation type="obsolete">&amp;Connecta</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation type="vanished">Elimi&amp;na</translation>
+        <translation type="obsolete">Elimi&amp;na</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="vanished">&amp;Informació de l&apos;usuari</translation>
+        <translation type="obsolete">&amp;Informació de l&apos;usuari</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="vanished">Tots els fitxers (*.png *.jpg *.gif)</translation>
+        <translation type="obsolete">Tots els fitxers (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -3119,23 +3119,23 @@ Continuar?</translation>
     <name>DiscoDlg::Private</name>
     <message>
         <source>Auto</source>
-        <translation type="vanished">Automàtic</translation>
+        <translation type="obsolete">Automàtic</translation>
     </message>
     <message>
         <source>Automatically determine protocol</source>
-        <translation type="vanished">Determina protocol automàticament</translation>
+        <translation type="obsolete">Determina protocol automàticament</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="vanished">Descobreix serveis</translation>
+        <translation type="obsolete">Descobreix serveis</translation>
     </message>
     <message>
         <source>Browse Services</source>
-        <translation type="vanished">Navega serveis</translation>
+        <translation type="obsolete">Navega serveis</translation>
     </message>
     <message>
         <source>Browse Agents</source>
-        <translation type="vanished">Agents de navegació</translation>
+        <translation type="obsolete">Agents de navegació</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -13254,11 +13254,11 @@ Continuar?</translation>
     </message>
     <message>
         <source>%1 Proxy</source>
-        <translation type="vanished">Proxy %1</translation>
+        <translation type="obsolete">Proxy %1</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation type="vanished">Notificador d&apos;events</translation>
+        <translation type="obsolete">Notificador d&apos;events</translation>
     </message>
     <message>
         <source>%1 says:</source>
@@ -14269,11 +14269,13 @@ Password: %5</source>
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) </source>
         <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
@@ -14283,11 +14285,13 @@ Password: %5</source>
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) </source>
         <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
@@ -14764,6 +14768,7 @@ Raó: %1</translation>
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -15157,6 +15162,7 @@ Raó: %1</translation>
     <message numerus="yes">
         <source>Added %n users to your roster.</source>
         <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>

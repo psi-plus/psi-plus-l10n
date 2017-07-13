@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pt">
+<TS version="2.0" language="pt">
 <context>
     <name>@default</name>
     <message>
@@ -216,7 +216,7 @@ Join the translation team today! Go to
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
@@ -2847,7 +2847,7 @@ Continuar?</translation>
     </message>
     <message>
         <source>Not in list</source>
-        <translation type="vanished">Não está na lista</translation>
+        <translation type="obsolete">Não está na lista</translation>
     </message>
     <message>
         <source>Agents/Transports</source>
@@ -2855,174 +2855,174 @@ Continuar?</translation>
     </message>
     <message>
         <source>Private Messages</source>
-        <translation type="vanished">Mensagens Privadas</translation>
+        <translation type="obsolete">Mensagens Privadas</translation>
     </message>
     <message>
         <source>Online Users</source>
-        <translation type="vanished">Utilizadores Ligados</translation>
+        <translation type="obsolete">Utilizadores Ligados</translation>
     </message>
     <message>
         <source>Set MOTD</source>
-        <translation type="vanished">Definir mensagem do dia</translation>
+        <translation type="obsolete">Definir mensagem do dia</translation>
     </message>
     <message>
         <source>Update MOTD</source>
-        <translation type="vanished">Actualizar mensagem do dia</translation>
+        <translation type="obsolete">Actualizar mensagem do dia</translation>
     </message>
     <message>
         <source>Delete MOTD</source>
-        <translation type="vanished">Apagar mensagem do dia</translation>
+        <translation type="obsolete">Apagar mensagem do dia</translation>
     </message>
     <message>
         <source>&amp;Status</source>
-        <translation type="vanished">&amp;Estado</translation>
+        <translation type="obsolete">&amp;Estado</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
-        <translation type="vanished">&amp;Descoberta de Serviços</translation>
+        <translation type="obsolete">&amp;Descoberta de Serviços</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation type="vanished">Consola &amp;XML</translation>
+        <translation type="obsolete">Consola &amp;XML</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
-        <translation type="vanished">&amp;Modificar Conta...</translation>
+        <translation type="obsolete">&amp;Modificar Conta...</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
-        <translation type="vanished">&amp;Administração</translation>
+        <translation type="obsolete">&amp;Administração</translation>
     </message>
     <message>
         <source>Remove Group</source>
-        <translation type="vanished">Remover Grupo</translation>
+        <translation type="obsolete">Remover Grupo</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
-        <translation type="vanished">Remover Grupo e Contactos</translation>
+        <translation type="obsolete">Remover Grupo e Contactos</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="vanished">Esconder</translation>
+        <translation type="obsolete">Esconder</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="vanished">Isto vai desassociar todos os contactos deste grupo do próprio grupo.
+        <translation type="obsolete">Isto vai desassociar todos os contactos deste grupo do próprio grupo.
 
 Continuar?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Sim</translation>
+        <translation type="obsolete">&amp;Sim</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="vanished">&amp;Não</translation>
+        <translation type="obsolete">&amp;Não</translation>
     </message>
     <message>
         <source>WARNING!  This will remove all contacts associated with this group!
 
 Proceed?</source>
-        <translation type="vanished">ALERTA! Isto vai remover todos os contactos associados a este grupo!
+        <translation type="obsolete">ALERTA! Isto vai remover todos os contactos associados a este grupo!
 
 Continuar?</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="vanished">&amp;Nenhum</translation>
+        <translation type="obsolete">&amp;Nenhum</translation>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation type="vanished">&amp;Grupo</translation>
+        <translation type="obsolete">&amp;Grupo</translation>
     </message>
     <message>
         <source>Authorization</source>
-        <translation type="vanished">Autorização</translation>
+        <translation type="obsolete">Autorização</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation type="vanished">Autorizar</translation>
+        <translation type="obsolete">Autorizar</translation>
     </message>
     <message>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">Autorização enviada para &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="obsolete">Autorização enviada para &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Create New Group</source>
-        <translation type="vanished">Criar Novo Grupo</translation>
+        <translation type="obsolete">Criar Novo Grupo</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Adicionar</translation>
+        <translation type="obsolete">Adicionar</translation>
     </message>
     <message>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation type="vanished">Adicionou/Autorizou &lt;b&gt;%1&lt;/b&gt; à lista de contactos.</translation>
+        <translation type="obsolete">Adicionou/Autorizou &lt;b&gt;%1&lt;/b&gt; à lista de contactos.</translation>
     </message>
     <message>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">Autorização pedida de novo a &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="obsolete">Autorização pedida de novo a &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Remover</translation>
+        <translation type="obsolete">Remover</translation>
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation type="vanished">Tem a certeza que deseja remover a autorização a &lt;b&gt;%1&lt;/b&gt;?</translation>
+        <translation type="obsolete">Tem a certeza que deseja remover a autorização a &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
         <source>Invitation</source>
-        <translation type="vanished">Convite</translation>
+        <translation type="obsolete">Convite</translation>
     </message>
     <message>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">Convite de conversa em grupo enviado a &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="obsolete">Convite de conversa em grupo enviado a &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
-        <translation type="vanished">Tem a certeza que deseja remover &lt;b&gt;%1&lt;/b&gt; da sua lista de contactos?</translation>
+        <translation type="obsolete">Tem a certeza que deseja remover &lt;b&gt;%1&lt;/b&gt; da sua lista de contactos?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Erro</translation>
+        <translation type="obsolete">Erro</translation>
     </message>
     <message>
         <source>You already have a group with that name.</source>
-        <translation type="vanished">Já tem um grupo com esse nome.</translation>
+        <translation type="obsolete">Já tem um grupo com esse nome.</translation>
     </message>
 </context>
 <context>
     <name>ContactView</name>
     <message>
         <source>Hidden</source>
-        <translation type="vanished">Escondidos</translation>
+        <translation type="obsolete">Escondidos</translation>
     </message>
     <message>
         <source>Re&amp;name</source>
-        <translation type="vanished">Mudar o &amp;nome</translation>
+        <translation type="obsolete">Mudar o &amp;nome</translation>
     </message>
     <message>
         <source>&amp;History</source>
-        <translation type="vanished">&amp;Histórico</translation>
+        <translation type="obsolete">&amp;Histórico</translation>
     </message>
     <message>
         <source>&amp;Log on</source>
-        <translation type="vanished">Activar &amp;logs</translation>
+        <translation type="obsolete">Activar &amp;logs</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation type="vanished">Rem&amp;over</translation>
+        <translation type="obsolete">Rem&amp;over</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="vanished">&amp;Info do Utilizador</translation>
+        <translation type="obsolete">&amp;Info do Utilizador</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="vanished">Todos os ficheiros (*.png *.jpg *.gif)</translation>
+        <translation type="obsolete">Todos os ficheiros (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -3121,19 +3121,19 @@ Continuar?</translation>
     <name>DiscoDlg::Private</name>
     <message>
         <source>Automatically determine protocol</source>
-        <translation type="vanished">Determinar o protocolo automaticamente</translation>
+        <translation type="obsolete">Determinar o protocolo automaticamente</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="vanished">Descoberta de Serviços</translation>
+        <translation type="obsolete">Descoberta de Serviços</translation>
     </message>
     <message>
         <source>Browse Services</source>
-        <translation type="vanished">Explorar Serviços</translation>
+        <translation type="obsolete">Explorar Serviços</translation>
     </message>
     <message>
         <source>Browse Agents</source>
-        <translation type="vanished">Explorar Agentes</translation>
+        <translation type="obsolete">Explorar Agentes</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -13251,11 +13251,11 @@ Continuar?</translation>
     </message>
     <message>
         <source>%1 Proxy</source>
-        <translation type="vanished">Proxy %1</translation>
+        <translation type="obsolete">Proxy %1</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation type="vanished">Notificar eventos</translation>
+        <translation type="obsolete">Notificar eventos</translation>
     </message>
     <message>
         <source>%1 says:</source>

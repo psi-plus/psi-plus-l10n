@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sk">
+<TS version="2.0" language="sk">
 <context>
     <name>@default</name>
     <message>
@@ -216,7 +216,7 @@ Join the translation team today! Go to
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
@@ -2847,7 +2847,7 @@ Pokračovať?</translation>
     </message>
     <message>
         <source>Not in list</source>
-        <translation type="vanished">Nie je v zozname</translation>
+        <translation type="obsolete">Nie je v zozname</translation>
     </message>
     <message>
         <source>Agents/Transports</source>
@@ -2855,174 +2855,174 @@ Pokračovať?</translation>
     </message>
     <message>
         <source>Private Messages</source>
-        <translation type="vanished">Privátne Správy</translation>
+        <translation type="obsolete">Privátne Správy</translation>
     </message>
     <message>
         <source>Online Users</source>
-        <translation type="vanished">Online Užívatelia</translation>
+        <translation type="obsolete">Online Užívatelia</translation>
     </message>
     <message>
         <source>Set MOTD</source>
-        <translation type="vanished">Nastaviť MOTD</translation>
+        <translation type="obsolete">Nastaviť MOTD</translation>
     </message>
     <message>
         <source>Update MOTD</source>
-        <translation type="vanished">Upraviť MOTD</translation>
+        <translation type="obsolete">Upraviť MOTD</translation>
     </message>
     <message>
         <source>Delete MOTD</source>
-        <translation type="vanished">Zmazať MOTD</translation>
+        <translation type="obsolete">Zmazať MOTD</translation>
     </message>
     <message>
         <source>&amp;Status</source>
-        <translation type="vanished">&amp;Stav</translation>
+        <translation type="obsolete">&amp;Stav</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
-        <translation type="vanished">Prehliadnutie S&amp;lužieb</translation>
+        <translation type="obsolete">Prehliadnutie S&amp;lužieb</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation type="vanished">&amp;XML Konzola</translation>
+        <translation type="obsolete">&amp;XML Konzola</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
-        <translation type="vanished">&amp;Upraviť Konto...</translation>
+        <translation type="obsolete">&amp;Upraviť Konto...</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
-        <translation type="vanished">Ad&amp;min</translation>
+        <translation type="obsolete">Ad&amp;min</translation>
     </message>
     <message>
         <source>Remove Group</source>
-        <translation type="vanished">Zmazať Skupinu</translation>
+        <translation type="obsolete">Zmazať Skupinu</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
-        <translation type="vanished">Zmazať Skupinu a Kontakty</translation>
+        <translation type="obsolete">Zmazať Skupinu a Kontakty</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="vanished">Skryť</translation>
+        <translation type="obsolete">Skryť</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="vanished">Kontakty priradené k tejto skupine budú odasociované.
+        <translation type="obsolete">Kontakty priradené k tejto skupine budú odasociované.
 
 Pokračovať?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Áno</translation>
+        <translation type="obsolete">&amp;Áno</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="vanished">&amp;Nie</translation>
+        <translation type="obsolete">&amp;Nie</translation>
     </message>
     <message>
         <source>WARNING!  This will remove all contacts associated with this group!
 
 Proceed?</source>
-        <translation type="vanished">VAROVANIE!  Zmažú sa všetky kontakty priradené k tejto skupine!
+        <translation type="obsolete">VAROVANIE!  Zmažú sa všetky kontakty priradené k tejto skupine!
 
 Pokračovať?</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="vanished">Žia&amp;dna</translation>
+        <translation type="obsolete">Žia&amp;dna</translation>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation type="vanished">S&amp;kupina</translation>
+        <translation type="obsolete">S&amp;kupina</translation>
     </message>
     <message>
         <source>Authorization</source>
-        <translation type="vanished">Autorizácia</translation>
+        <translation type="obsolete">Autorizácia</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation type="vanished">Autorizovať</translation>
+        <translation type="obsolete">Autorizovať</translation>
     </message>
     <message>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">Poslať autorizáciu do &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="obsolete">Poslať autorizáciu do &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Create New Group</source>
-        <translation type="vanished">Vytvoriť Novú Skupinu</translation>
+        <translation type="obsolete">Vytvoriť Novú Skupinu</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Pridať</translation>
+        <translation type="obsolete">Pridať</translation>
     </message>
     <message>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation type="vanished">&lt;b&gt;%1&lt;/b&gt; Pridaný(á)/Povolený(á) do zoznamu kontaktov.</translation>
+        <translation type="obsolete">&lt;b&gt;%1&lt;/b&gt; Pridaný(á)/Povolený(á) do zoznamu kontaktov.</translation>
     </message>
     <message>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">Vyžadovaná autorizácia od &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="obsolete">Vyžadovaná autorizácia od &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Zrušiť</translation>
+        <translation type="obsolete">Zrušiť</translation>
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation type="vanished">Naozaj chceš zrušiť autorizáciu pre &lt;b&gt;%1&lt;/b&gt;?</translation>
+        <translation type="obsolete">Naozaj chceš zrušiť autorizáciu pre &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
         <source>Invitation</source>
-        <translation type="vanished">Pozvanie</translation>
+        <translation type="obsolete">Pozvanie</translation>
     </message>
     <message>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">Poslať pozvanie na skupinový chat &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="obsolete">Poslať pozvanie na skupinový chat &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
-        <translation type="vanished">Naozaj chceš vymazať &lt;b&gt;%1&lt;/b&gt; zo zoznamu kontaktov?</translation>
+        <translation type="obsolete">Naozaj chceš vymazať &lt;b&gt;%1&lt;/b&gt; zo zoznamu kontaktov?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Chyba</translation>
+        <translation type="obsolete">Chyba</translation>
     </message>
     <message>
         <source>You already have a group with that name.</source>
-        <translation type="vanished">Skupina s takým názvom už existuje.</translation>
+        <translation type="obsolete">Skupina s takým názvom už existuje.</translation>
     </message>
 </context>
 <context>
     <name>ContactView</name>
     <message>
         <source>Hidden</source>
-        <translation type="vanished">Skryté</translation>
+        <translation type="obsolete">Skryté</translation>
     </message>
     <message>
         <source>Re&amp;name</source>
-        <translation type="vanished">Pre&amp;menovať</translation>
+        <translation type="obsolete">Pre&amp;menovať</translation>
     </message>
     <message>
         <source>&amp;History</source>
-        <translation type="vanished">&amp;História</translation>
+        <translation type="obsolete">&amp;História</translation>
     </message>
     <message>
         <source>&amp;Log on</source>
-        <translation type="vanished">&amp;Prihlásiť sa</translation>
+        <translation type="obsolete">&amp;Prihlásiť sa</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation type="vanished">O&amp;dobrať</translation>
+        <translation type="obsolete">O&amp;dobrať</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="vanished">&amp;Info o požívateľovi</translation>
+        <translation type="obsolete">&amp;Info o požívateľovi</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="vanished">Všetky súbory (*.png *.jpg *.gif)</translation>
+        <translation type="obsolete">Všetky súbory (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -3121,23 +3121,23 @@ Pokračovať?</translation>
     <name>DiscoDlg::Private</name>
     <message>
         <source>Auto</source>
-        <translation type="vanished">Auto</translation>
+        <translation type="obsolete">Auto</translation>
     </message>
     <message>
         <source>Automatically determine protocol</source>
-        <translation type="vanished">Automaticky zvoliť protokol</translation>
+        <translation type="obsolete">Automaticky zvoliť protokol</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="vanished">Prehliadnutie Služieb</translation>
+        <translation type="obsolete">Prehliadnutie Služieb</translation>
     </message>
     <message>
         <source>Browse Services</source>
-        <translation type="vanished">Prehliadať Služby</translation>
+        <translation type="obsolete">Prehliadať Služby</translation>
     </message>
     <message>
         <source>Browse Agents</source>
-        <translation type="vanished">Prehliadnuť Agenty</translation>
+        <translation type="obsolete">Prehliadnuť Agenty</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -13253,11 +13253,11 @@ Pokračovať?</translation>
     </message>
     <message>
         <source>%1 Proxy</source>
-        <translation type="vanished">%1 Proxy</translation>
+        <translation type="obsolete">%1 Proxy</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation type="vanished">Upozorňovať na udalosť</translation>
+        <translation type="obsolete">Upozorňovať na udalosť</translation>
     </message>
     <message>
         <source>%1 says:</source>

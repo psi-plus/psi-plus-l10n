@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="eo">
+<TS version="2.0" language="eo">
 <context>
     <name>@default</name>
     <message>
@@ -216,7 +216,7 @@ Join the translation team today! Go to
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
@@ -2847,7 +2847,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Not in list</source>
-        <translation type="vanished">Ne estas en listo</translation>
+        <translation type="obsolete">Ne estas en listo</translation>
     </message>
     <message>
         <source>Agents/Transports</source>
@@ -2855,218 +2855,218 @@ Proceed?</source>
     </message>
     <message>
         <source>Private Messages</source>
-        <translation type="vanished">Privataj Mesaĝoj</translation>
+        <translation type="obsolete">Privataj Mesaĝoj</translation>
     </message>
     <message>
         <source>Online Users</source>
-        <translation type="vanished">Enretaj Uzantoj</translation>
+        <translation type="obsolete">Enretaj Uzantoj</translation>
     </message>
     <message>
         <source>Set MOTD</source>
-        <translation type="vanished">Agordi MDLT-on</translation>
+        <translation type="obsolete">Agordi MDLT-on</translation>
     </message>
     <message>
         <source>Update MOTD</source>
-        <translation type="vanished">Ĝisdatigi MDLT-on</translation>
+        <translation type="obsolete">Ĝisdatigi MDLT-on</translation>
     </message>
     <message>
         <source>Delete MOTD</source>
-        <translation type="vanished">Forviŝi MDLT-on</translation>
+        <translation type="obsolete">Forviŝi MDLT-on</translation>
     </message>
     <message>
         <source>&amp;Status</source>
-        <translation type="vanished">&amp;Stato</translation>
+        <translation type="obsolete">&amp;Stato</translation>
     </message>
     <message>
         <source>Mood</source>
-        <translation type="vanished">Humoro</translation>
+        <translation type="obsolete">Humoro</translation>
     </message>
     <message>
         <source>Set Avatar</source>
-        <translation type="vanished">Difini Avataron</translation>
+        <translation type="obsolete">Difini Avataron</translation>
     </message>
     <message>
         <source>Unset Avatar</source>
-        <translation type="vanished">Forigi Avataron</translation>
+        <translation type="obsolete">Forigi Avataron</translation>
     </message>
     <message>
         <source>Avatar</source>
-        <translation type="vanished">Avataro</translation>
+        <translation type="obsolete">Avataro</translation>
     </message>
     <message>
         <source>Manage...</source>
-        <translation type="vanished">Administri...</translation>
+        <translation type="obsolete">Administri...</translation>
     </message>
     <message>
         <source>Join %1</source>
-        <translation type="vanished">Aliĝi al %1</translation>
+        <translation type="obsolete">Aliĝi al %1</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="vanished">Legosignoj</translation>
+        <translation type="obsolete">Legosignoj</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
-        <translation type="vanished">Malkovri &amp;Servojn</translation>
+        <translation type="obsolete">Malkovri &amp;Servojn</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation type="vanished">&amp;XML Konzolo</translation>
+        <translation type="obsolete">&amp;XML Konzolo</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
-        <translation type="vanished">&amp;Modifi Konton...</translation>
+        <translation type="obsolete">&amp;Modifi Konton...</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
-        <translation type="vanished">&amp;Administri</translation>
+        <translation type="obsolete">&amp;Administri</translation>
     </message>
     <message>
         <source>Remove Group</source>
-        <translation type="vanished">Forigi Grupon</translation>
+        <translation type="obsolete">Forigi Grupon</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
-        <translation type="vanished">Forigi Grupon kaj Kontaktulojn</translation>
+        <translation type="obsolete">Forigi Grupon kaj Kontaktulojn</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="vanished">Kaŝi</translation>
+        <translation type="obsolete">Kaŝi</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="vanished">Tio kaŭzos ke ĉiuj kontaktuloj en tiu ĉi grupo estu malligitaj kun ĝi.
+        <translation type="obsolete">Tio kaŭzos ke ĉiuj kontaktuloj en tiu ĉi grupo estu malligitaj kun ĝi.
 
 Ĉu efektivigi?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Jes</translation>
+        <translation type="obsolete">&amp;Jes</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="vanished">&amp;Ne</translation>
+        <translation type="obsolete">&amp;Ne</translation>
     </message>
     <message>
         <source>WARNING!  This will remove all contacts associated with this group!
 
 Proceed?</source>
-        <translation type="vanished">ATENTU!  Tio ĉi forigos ĉiujn kontaktulojn kiuj rilatas kun tiu ĉi grupo!
+        <translation type="obsolete">ATENTU!  Tio ĉi forigos ĉiujn kontaktulojn kiuj rilatas kun tiu ĉi grupo!
 
 Ĉu efektivigi?</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="vanished">Alvoko</translation>
+        <translation type="obsolete">Alvoko</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="vanished">&amp;Neniu</translation>
+        <translation type="obsolete">&amp;Neniu</translation>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation type="vanished">&amp;Grupo</translation>
+        <translation type="obsolete">&amp;Grupo</translation>
     </message>
     <message>
         <source>Authorization</source>
-        <translation type="vanished">Rajtigo</translation>
+        <translation type="obsolete">Rajtigo</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
-        <translation type="vanished">&amp;Bildo</translation>
+        <translation type="obsolete">&amp;Bildo</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation type="vanished">Rajtigi</translation>
+        <translation type="obsolete">Rajtigi</translation>
     </message>
     <message>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">Sendi rajtigilon al &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="obsolete">Sendi rajtigilon al &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Create New Group</source>
-        <translation type="vanished">Krei Novan Grupon</translation>
+        <translation type="obsolete">Krei Novan Grupon</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Aldoni</translation>
+        <translation type="obsolete">Aldoni</translation>
     </message>
     <message>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation type="vanished">Aldonintas/Rajtigintas &lt;b&gt;%1&lt;/b&gt; al la kontaktolisto.</translation>
+        <translation type="obsolete">Aldonintas/Rajtigintas &lt;b&gt;%1&lt;/b&gt; al la kontaktolisto.</translation>
     </message>
     <message>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">Repetintas rajtigilon de &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="obsolete">Repetintas rajtigilon de &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Forigi</translation>
+        <translation type="obsolete">Forigi</translation>
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation type="vanished">Ĉu vi certas ke vi volas forigi rajtigilon de &lt;b&gt;%1&lt;/b&gt;?</translation>
+        <translation type="obsolete">Ĉu vi certas ke vi volas forigi rajtigilon de &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
         <source>Invitation</source>
-        <translation type="vanished">Invito</translation>
+        <translation type="obsolete">Invito</translation>
     </message>
     <message>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">Sendintas babilejan invitilon al &lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="obsolete">Sendintas babilejan invitilon al &lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
-        <translation type="vanished">Ĉu vi certas ke vi volas elpreni &lt;b&gt;%1&lt;/b&gt; el via kontaktolisto?</translation>
+        <translation type="obsolete">Ĉu vi certas ke vi volas elpreni &lt;b&gt;%1&lt;/b&gt; el via kontaktolisto?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Eraro</translation>
+        <translation type="obsolete">Eraro</translation>
     </message>
     <message>
         <source>You already have a group with that name.</source>
-        <translation type="vanished">Vi jam havas grupon kun tiu nomo.</translation>
+        <translation type="obsolete">Vi jam havas grupon kun tiu nomo.</translation>
     </message>
 </context>
 <context>
     <name>ContactView</name>
     <message>
         <source>Hidden</source>
-        <translation type="vanished">Kaŝita</translation>
+        <translation type="obsolete">Kaŝita</translation>
     </message>
     <message>
         <source>Re&amp;name</source>
-        <translation type="vanished">Re&amp;nomi</translation>
+        <translation type="obsolete">Re&amp;nomi</translation>
     </message>
     <message>
         <source>&amp;Assign Custom Picture</source>
-        <translation type="vanished">&amp;Asigni Propran Bildon</translation>
+        <translation type="obsolete">&amp;Asigni Propran Bildon</translation>
     </message>
     <message>
         <source>&amp;Clear Custom Picture</source>
-        <translation type="vanished">&amp;Forigi Propran Bildon</translation>
+        <translation type="obsolete">&amp;Forigi Propran Bildon</translation>
     </message>
     <message>
         <source>&amp;History</source>
-        <translation type="vanished">&amp;Historio</translation>
+        <translation type="obsolete">&amp;Historio</translation>
     </message>
     <message>
         <source>&amp;Log on</source>
-        <translation type="vanished">&amp;Ensaluti</translation>
+        <translation type="obsolete">&amp;Ensaluti</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation type="vanished">&amp;Forigi</translation>
+        <translation type="obsolete">&amp;Forigi</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="vanished">Uzanta &amp;Informo</translation>
+        <translation type="obsolete">Uzanta &amp;Informo</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="vanished">Ĉiuj dosieroj (*.png *.jpg *.gif)</translation>
+        <translation type="obsolete">Ĉiuj dosieroj (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -3165,23 +3165,23 @@ Proceed?</source>
     <name>DiscoDlg::Private</name>
     <message>
         <source>Auto</source>
-        <translation type="vanished">Aŭtomatike</translation>
+        <translation type="obsolete">Aŭtomatike</translation>
     </message>
     <message>
         <source>Automatically determine protocol</source>
-        <translation type="vanished">Aŭtomatike determini protokolon</translation>
+        <translation type="obsolete">Aŭtomatike determini protokolon</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="vanished">Malkovri servojn</translation>
+        <translation type="obsolete">Malkovri servojn</translation>
     </message>
     <message>
         <source>Browse Services</source>
-        <translation type="vanished">Trarigardi Servojn</translation>
+        <translation type="obsolete">Trarigardi Servojn</translation>
     </message>
     <message>
         <source>Browse Agents</source>
-        <translation type="vanished">Trarigari Agentojn</translation>
+        <translation type="obsolete">Trarigari Agentojn</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -3304,11 +3304,11 @@ Proceed?</source>
     </message>
     <message>
         <source>There was an error browsing items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation type="vanished">Okazis eraro foliumante la elementojn por &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Kialo: %2</translation>
+        <translation type="obsolete">Okazis eraro foliumante la elementojn por &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Kialo: %2</translation>
     </message>
     <message>
         <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation type="vanished">Okazis eraro akirante la agenton por &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Kialo: %2</translation>
+        <translation type="obsolete">Okazis eraro akirante la agenton por &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Kialo: %2</translation>
     </message>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
@@ -13743,11 +13743,11 @@ Proceed?</source>
     </message>
     <message>
         <source>%1 Proxy</source>
-        <translation type="vanished">%1 Prokura servilo</translation>
+        <translation type="obsolete">%1 Prokura servilo</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation type="vanished">Notifilo de eventoj</translation>
+        <translation type="obsolete">Notifilo de eventoj</translation>
     </message>
     <message>
         <source>%1 says:</source>
@@ -14453,13 +14453,11 @@ Password: %5</source>
         <source>%n day(s) </source>
         <translation type="unfinished">
             <numerusform></numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) </source>
         <translation type="unfinished">
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -14467,13 +14465,11 @@ Password: %5</source>
         <source>%n minute(s) </source>
         <translation type="unfinished">
             <numerusform></numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n second(s) </source>
         <translation type="unfinished">
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -14839,7 +14835,6 @@ Kialo: %1</translation>
         <source>celebrates birthday in %n day(s)
 </source>
         <translation type="unfinished">
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -15233,7 +15228,6 @@ Kialo: %1</translation>
     <message numerus="yes">
         <source>Added %n users to your roster.</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>

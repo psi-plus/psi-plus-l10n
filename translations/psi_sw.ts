@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sw">
+<TS version="2.0" language="sw">
 <context>
     <name>@default</name>
     <message>
@@ -216,7 +216,7 @@ Join the translation team today! Go to
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
@@ -2845,7 +2845,7 @@ Endelea?</translation>
     </message>
     <message>
         <source>Not in list</source>
-        <translation type="vanished">Hayupo kwenye orodha</translation>
+        <translation type="obsolete">Hayupo kwenye orodha</translation>
     </message>
     <message>
         <source>Agents/Transports</source>
@@ -2853,166 +2853,166 @@ Endelea?</translation>
     </message>
     <message>
         <source>Private Messages</source>
-        <translation type="vanished">Ujumbe wa binafsi</translation>
+        <translation type="obsolete">Ujumbe wa binafsi</translation>
     </message>
     <message>
         <source>Online Users</source>
-        <translation type="vanished">Rafiki walio hewani sasa</translation>
+        <translation type="obsolete">Rafiki walio hewani sasa</translation>
     </message>
     <message>
         <source>Set MOTD</source>
-        <translation type="vanished">Weka MOTD</translation>
+        <translation type="obsolete">Weka MOTD</translation>
     </message>
     <message>
         <source>Update MOTD</source>
-        <translation type="vanished">Huisha MOTD</translation>
+        <translation type="obsolete">Huisha MOTD</translation>
     </message>
     <message>
         <source>Delete MOTD</source>
-        <translation type="vanished">Futa au ondosha MOTD</translation>
+        <translation type="obsolete">Futa au ondosha MOTD</translation>
     </message>
     <message>
         <source>&amp;Status</source>
-        <translation type="vanished">&amp;Hali</translation>
+        <translation type="obsolete">&amp;Hali</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
-        <translation type="vanished">huduma &amp;Uvumbuzi</translation>
+        <translation type="obsolete">huduma &amp;Uvumbuzi</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation type="vanished">&amp;XML Console</translation>
+        <translation type="obsolete">&amp;XML Console</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
-        <translation type="vanished">&amp;Rekebisha akaunti...</translation>
+        <translation type="obsolete">&amp;Rekebisha akaunti...</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
-        <translation type="vanished">&amp;Utawala</translation>
+        <translation type="obsolete">&amp;Utawala</translation>
     </message>
     <message>
         <source>Remove Group</source>
-        <translation type="vanished">Futa au Ondoa kundi</translation>
+        <translation type="obsolete">Futa au Ondoa kundi</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
-        <translation type="vanished">Futa kundi na marafiki waliomo</translation>
+        <translation type="obsolete">Futa kundi na marafiki waliomo</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="vanished">Ficha</translation>
+        <translation type="obsolete">Ficha</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="vanished">Hii itasababisha marafiki zako wote katika kundi hili kutokuhusiana nalo.
+        <translation type="obsolete">Hii itasababisha marafiki zako wote katika kundi hili kutokuhusiana nalo.
 
 Endelea?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Ndiyo</translation>
+        <translation type="obsolete">&amp;Ndiyo</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="vanished">&amp;Hapana</translation>
+        <translation type="obsolete">&amp;Hapana</translation>
     </message>
     <message>
         <source>WARNING!  This will remove all contacts associated with this group!
 
 Proceed?</source>
-        <translation type="vanished">ONYO!   Tendo hili litawafuta marafiki zako wote  wanaohusiana na kundi hili!
+        <translation type="obsolete">ONYO!   Tendo hili litawafuta marafiki zako wote  wanaohusiana na kundi hili!
 
 Endelea?</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="vanished">&amp;Tupu</translation>
+        <translation type="obsolete">&amp;Tupu</translation>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation type="vanished">&amp;Kundi</translation>
+        <translation type="obsolete">&amp;Kundi</translation>
     </message>
     <message>
         <source>Authorization</source>
-        <translation type="vanished">Idhinisha </translation>
+        <translation type="obsolete">Idhinisha </translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation type="vanished">Idhinisha</translation>
+        <translation type="obsolete">Idhinisha</translation>
     </message>
     <message>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">Idhini imetumwa kwa&lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="obsolete">Idhini imetumwa kwa&lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Create New Group</source>
-        <translation type="vanished">Unda kundi jipya</translation>
+        <translation type="obsolete">Unda kundi jipya</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">ongeza</translation>
+        <translation type="obsolete">ongeza</translation>
     </message>
     <message>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation type="vanished">Imeongezwa/Imeidhinishwa&lt;b&gt;%1&lt;/b&gt;kwenye orodha ya marafiki. </translation>
+        <translation type="obsolete">Imeongezwa/Imeidhinishwa&lt;b&gt;%1&lt;/b&gt;kwenye orodha ya marafiki. </translation>
     </message>
     <message>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">Idhini imeombwa tena kutoka&lt;b&gt;%1&lt;/b&gt;.</translation>
+        <translation type="obsolete">Idhini imeombwa tena kutoka&lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Futa au Ondoa</translation>
+        <translation type="obsolete">Futa au Ondoa</translation>
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation type="vanished">Una uhakika unataka kuondoa idhini kutoka &lt;b&gt;%1&lt;/b&gt;?</translation>
+        <translation type="obsolete">Una uhakika unataka kuondoa idhini kutoka &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
         <source>Invitation</source>
-        <translation type="vanished">Ukaribisho</translation>
+        <translation type="obsolete">Ukaribisho</translation>
     </message>
     <message>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">Mazungumzo ya kikundi yametumwa kwa&lt;b&gt;%1&lt;/b&gt;. </translation>
+        <translation type="obsolete">Mazungumzo ya kikundi yametumwa kwa&lt;b&gt;%1&lt;/b&gt;. </translation>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
-        <translation type="vanished">Una uhakika unataka kuondoa &lt;b&gt;%1&lt;/b&gt;kutoka kwenye kundi lako la marafiki? </translation>
+        <translation type="obsolete">Una uhakika unataka kuondoa &lt;b&gt;%1&lt;/b&gt;kutoka kwenye kundi lako la marafiki? </translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Imekosewa</translation>
+        <translation type="obsolete">Imekosewa</translation>
     </message>
     <message>
         <source>You already have a group with that name.</source>
-        <translation type="vanished">Jina hilo la kikundi unalo tayari.</translation>
+        <translation type="obsolete">Jina hilo la kikundi unalo tayari.</translation>
     </message>
 </context>
 <context>
     <name>ContactView</name>
     <message>
         <source>Hidden</source>
-        <translation type="vanished">Imefichwa</translation>
+        <translation type="obsolete">Imefichwa</translation>
     </message>
     <message>
         <source>Re&amp;name</source>
-        <translation type="vanished">Ipe&amp; jina tena </translation>
+        <translation type="obsolete">Ipe&amp; jina tena </translation>
     </message>
     <message>
         <source>&amp;History</source>
-        <translation type="vanished">&amp;Historia</translation>
+        <translation type="obsolete">&amp;Historia</translation>
     </message>
     <message>
         <source>&amp;Log on</source>
-        <translation type="vanished">&amp;Ingia</translation>
+        <translation type="obsolete">&amp;Ingia</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation type="vanished">Ond&amp;oa</translation>
+        <translation type="obsolete">Ond&amp;oa</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -3115,23 +3115,23 @@ Endelea?</translation>
     <name>DiscoDlg::Private</name>
     <message>
         <source>Auto</source>
-        <translation type="vanished">Jiendesha</translation>
+        <translation type="obsolete">Jiendesha</translation>
     </message>
     <message>
         <source>Automatically determine protocol</source>
-        <translation type="vanished">Moja kwa moja amua protokali</translation>
+        <translation type="obsolete">Moja kwa moja amua protokali</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="vanished">huduma Uvumbuzi</translation>
+        <translation type="obsolete">huduma Uvumbuzi</translation>
     </message>
     <message>
         <source>Browse Services</source>
-        <translation type="vanished">Tafuta huduma </translation>
+        <translation type="obsolete">Tafuta huduma </translation>
     </message>
     <message>
         <source>Browse Agents</source>
-        <translation type="vanished">Tafuta mawakala </translation>
+        <translation type="obsolete">Tafuta mawakala </translation>
     </message>
     <message>
         <source>Browse</source>
@@ -13237,11 +13237,11 @@ Endelea?</translation>
     </message>
     <message>
         <source>%1 Proxy</source>
-        <translation type="vanished">%1 Proxi</translation>
+        <translation type="obsolete">%1 Proxi</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation type="vanished">Kikumbusha- matukio</translation>
+        <translation type="obsolete">Kikumbusha- matukio</translation>
     </message>
     <message>
         <source>Chat</source>

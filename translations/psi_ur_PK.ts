@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ur_PK">
+<TS version="2.0" language="ur_PK">
 <context>
     <name>@default</name>
     <message>
@@ -74,7 +74,7 @@
     </message>
     <message>
         <source>Current Maintainer and Original Author</source>
-        <translation type="vanished">موجودہ قائم کار اورابتدائی مصنف</translation>
+        <translation type="obsolete">موجودہ قائم کار اورابتدائی مصنف</translation>
     </message>
     <message>
         <source>Lead Widget Developer</source>
@@ -220,7 +220,7 @@ Join the translation team today! Go to
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
@@ -2592,7 +2592,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="vanished">ہٹائیں</translation>
+        <translation type="obsolete">ہٹائیں</translation>
     </message>
     <message>
         <source>Remove Group</source>
@@ -2604,7 +2604,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;Add group...</source>
-        <translation type="vanished">گروپ فرد اضافہ کریں ...</translation>
+        <translation type="obsolete">گروپ فرد اضافہ کریں ...</translation>
     </message>
     <message>
         <source>Hidden</source>
@@ -2679,22 +2679,22 @@ Proceed?</source>
     </message>
     <message>
         <source>Not in List</source>
-        <translation type="vanished">فہرست میں نہیں ہے</translation>
+        <translation type="obsolete">فہرست میں نہیں ہے</translation>
     </message>
     <message>
         <source>Agents/Transports</source>
-        <translation type="vanished">ایجنٹس/ٹرانسپورٹس</translation>
+        <translation type="obsolete">ایجنٹس/ٹرانسپورٹس</translation>
     </message>
     <message>
         <source>Private messages</source>
-        <translation type="vanished">نجی پیغامات</translation>
+        <translation type="obsolete">نجی پیغامات</translation>
     </message>
 </context>
 <context>
     <name>ContactListUtil</name>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;from your contact list.</source>
-        <translation type="vanished">یہ &lt;br&gt;%1&lt;br&gt; کو ہمیشہ کے لیے آپ کے رابطہ افراد میں سے نکال دے گا۔</translation>
+        <translation type="obsolete">یہ &lt;br&gt;%1&lt;br&gt; کو ہمیشہ کے لیے آپ کے رابطہ افراد میں سے نکال دے گا۔</translation>
     </message>
     <message numerus="yes">
         <source>and %n contacts </source>
@@ -2712,51 +2712,51 @@ Proceed?</source>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2and &quot;%3&quot; group from your contact list.</source>
-        <translation type="vanished">یہ &lt;br&gt;%1&lt;br&gt;%2 اور &quot;%3&quot; گروپ کو ہمیشہ کے لیے آپ کے رابطہ افراد میں سے ہٹا دے گا۔</translation>
+        <translation type="obsolete">یہ &lt;br&gt;%1&lt;br&gt;%2 اور &quot;%3&quot; گروپ کو ہمیشہ کے لیے آپ کے رابطہ افراد میں سے ہٹا دے گا۔</translation>
     </message>
     <message>
         <source>This will permanently remove:&lt;br&gt;%1&lt;br&gt;%2from your contact list.</source>
-        <translation type="vanished">یہ &lt;br&gt;%1&lt;br&gt;%2 کو ہمیشہ کے لیے آپ کے رابطہ افراد میں سے ہٹا دے گا۔</translation>
+        <translation type="obsolete">یہ &lt;br&gt;%1&lt;br&gt;%2 کو ہمیشہ کے لیے آپ کے رابطہ افراد میں سے ہٹا دے گا۔</translation>
     </message>
     <message>
         <source>This is a system group and can&apos;t be removed. Permanently remove all its contacts from your contact list?</source>
-        <translation type="vanished">یہ نظام گروپ ہے اور ہٹایا نہیں جا سکتا۔ اس کے تمام رابطہ افراد آپ کی رابطہ افراد فہرست میں سے ہٹا دیں؟</translation>
+        <translation type="obsolete">یہ نظام گروپ ہے اور ہٹایا نہیں جا سکتا۔ اس کے تمام رابطہ افراد آپ کی رابطہ افراد فہرست میں سے ہٹا دیں؟</translation>
     </message>
     <message>
         <source>Clear Group</source>
-        <translation type="vanished">گروپ صاف کریں</translation>
+        <translation type="obsolete">گروپ صاف کریں</translation>
     </message>
     <message>
         <source>This will permanently remove&lt;br&gt;%1&lt;br&gt;group and all its contacts from your contact list.</source>
-        <translation type="vanished">یہ &lt;br&gt;%1&lt;br&gt; گروپ اور اس کے تمام رابطہ افراد کو ہمیشہ کے لیے آپ کے رابطہ افراد فہرست میں سے ہٹا دے گا۔</translation>
+        <translation type="obsolete">یہ &lt;br&gt;%1&lt;br&gt; گروپ اور اس کے تمام رابطہ افراد کو ہمیشہ کے لیے آپ کے رابطہ افراد فہرست میں سے ہٹا دے گا۔</translation>
     </message>
     <message>
         <source>This will permanently remove %1 from your contact list. You could block it in order to avoid further messages.</source>
-        <translation type="vanished">یہ %1 کو ہمیشہ کے لیے آپ کے رابطہ افراد فہرست میں سے ہٹا دے گا۔ آپ مزید پیغامات سے بچنے کے لیے اس کو بلاک کر سکتے ہیں۔</translation>
+        <translation type="obsolete">یہ %1 کو ہمیشہ کے لیے آپ کے رابطہ افراد فہرست میں سے ہٹا دے گا۔ آپ مزید پیغامات سے بچنے کے لیے اس کو بلاک کر سکتے ہیں۔</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">حذف کریں</translation>
+        <translation type="obsolete">حذف کریں</translation>
     </message>
     <message>
         <source>Block</source>
-        <translation type="vanished">بلاک کرِیں</translation>
+        <translation type="obsolete">بلاک کرِیں</translation>
     </message>
     <message>
         <source>This will remove %1 from &quot;%2&quot; group. You could also remove it from all groups.</source>
-        <translation type="vanished">یہ %1 اور %2 کو گروپ میں سے ہٹا دے گا۔ آپ اس کو تمام گروپ سے بھی ہٹا سکتے ہیں۔</translation>
+        <translation type="obsolete">یہ %1 اور %2 کو گروپ میں سے ہٹا دے گا۔ آپ اس کو تمام گروپ سے بھی ہٹا سکتے ہیں۔</translation>
     </message>
     <message>
         <source>Delete From All Groups</source>
-        <translation type="vanished">تمام گروپ میں سے حذف کریں</translation>
+        <translation type="obsolete">تمام گروپ میں سے حذف کریں</translation>
     </message>
     <message>
         <source>Deleting contacts</source>
-        <translation type="vanished">رابطہ افراد حذف کر رہا ہے</translation>
+        <translation type="obsolete">رابطہ افراد حذف کر رہا ہے</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="vanished">%1 (%2)</translation>
+        <translation type="obsolete">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -2935,7 +2935,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Not in list</source>
-        <translation type="vanished">فہرست میں نہیں</translation>
+        <translation type="obsolete">فہرست میں نہیں</translation>
     </message>
     <message>
         <source>Agents/Transports</source>
@@ -2943,324 +2943,324 @@ Proceed?</source>
     </message>
     <message>
         <source>Private Messages</source>
-        <translation type="vanished">نجی پیغامات</translation>
+        <translation type="obsolete">نجی پیغامات</translation>
     </message>
     <message>
         <source>Online Users</source>
-        <translation type="vanished">آن لائن صارفین</translation>
+        <translation type="obsolete">آن لائن صارفین</translation>
     </message>
     <message>
         <source>Send Server Message</source>
-        <translation type="vanished">پیش کار پیغام بھیجیں</translation>
+        <translation type="obsolete">پیش کار پیغام بھیجیں</translation>
     </message>
     <message>
         <source>Set MOTD</source>
-        <translation type="vanished">ایم او ٹی ڈی سیٹ کریں</translation>
+        <translation type="obsolete">ایم او ٹی ڈی سیٹ کریں</translation>
     </message>
     <message>
         <source>Update MOTD</source>
-        <translation type="vanished">ایم او ٹی ڈی تازہ کاری کریں</translation>
+        <translation type="obsolete">ایم او ٹی ڈی تازہ کاری کریں</translation>
     </message>
     <message>
         <source>Delete MOTD</source>
-        <translation type="vanished">ایم او ٹی ڈی حذف کریں</translation>
+        <translation type="obsolete">ایم او ٹی ڈی حذف کریں</translation>
     </message>
     <message>
         <source>&amp;Status</source>
-        <translation type="vanished">حالت</translation>
+        <translation type="obsolete">حالت</translation>
     </message>
     <message>
         <source>Mood</source>
-        <translation type="vanished">مزاج</translation>
+        <translation type="obsolete">مزاج</translation>
     </message>
     <message>
         <source>Set Avatar</source>
-        <translation type="vanished">مظہر سیٹ کریں</translation>
+        <translation type="obsolete">مظہر سیٹ کریں</translation>
     </message>
     <message>
         <source>Unset Avatar</source>
-        <translation type="vanished">مظہر نا سیٹ کریں</translation>
+        <translation type="obsolete">مظہر نا سیٹ کریں</translation>
     </message>
     <message>
         <source>Avatar</source>
-        <translation type="vanished">مظہر</translation>
+        <translation type="obsolete">مظہر</translation>
     </message>
     <message>
         <source>Manage...</source>
-        <translation type="vanished">بندوبست کریں...</translation>
+        <translation type="obsolete">بندوبست کریں...</translation>
     </message>
     <message>
         <source>Join %1</source>
-        <translation type="vanished">%1 میں شامل ہوں</translation>
+        <translation type="obsolete">%1 میں شامل ہوں</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="vanished">نشانیاں</translation>
+        <translation type="obsolete">نشانیاں</translation>
     </message>
     <message>
         <source>&amp;Add a Contact</source>
-        <translation type="vanished">رابطہ فرد اضاقہ کریں</translation>
+        <translation type="obsolete">رابطہ فرد اضاقہ کریں</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
-        <translation type="vanished">خدمت دریافت</translation>
+        <translation type="obsolete">خدمت دریافت</translation>
     </message>
     <message>
         <source>New &amp;Blank Message</source>
-        <translation type="vanished">نیا خالی پیغام</translation>
+        <translation type="obsolete">نیا خالی پیغام</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation type="vanished">ایکس ایم ایل کنسول</translation>
+        <translation type="obsolete">ایکس ایم ایل کنسول</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
-        <translation type="vanished">اکاؤنٹ ترمیم کریں...‏</translation>
+        <translation type="obsolete">اکاؤنٹ ترمیم کریں...‏</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
-        <translation type="vanished">انتظام کاری</translation>
+        <translation type="obsolete">انتظام کاری</translation>
     </message>
     <message>
         <source>Send Message to Group</source>
-        <translation type="vanished">گروپ کو پیغام بھیجیں</translation>
+        <translation type="obsolete">گروپ کو پیغام بھیجیں</translation>
     </message>
     <message>
         <source>Remove Group</source>
-        <translation type="vanished">گروپ ہٹائیں</translation>
+        <translation type="obsolete">گروپ ہٹائیں</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
-        <translation type="vanished">گروپ و رابطہ افراد ہٹائیں</translation>
+        <translation type="obsolete">گروپ و رابطہ افراد ہٹائیں</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="vanished">چھپائیں</translation>
+        <translation type="obsolete">چھپائیں</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="vanished">یہ اس گروپ کے تمام رابطہ افراد کو اس سے غیرمتصل کرنے کا سبب بنے گا۔ عمل پذیر کریں؟</translation>
+        <translation type="obsolete">یہ اس گروپ کے تمام رابطہ افراد کو اس سے غیرمتصل کرنے کا سبب بنے گا۔ عمل پذیر کریں؟</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="vanished">ہاں</translation>
+        <translation type="obsolete">ہاں</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="vanished">نہیں</translation>
+        <translation type="obsolete">نہیں</translation>
     </message>
     <message>
         <source>WARNING!  This will remove all contacts associated with this group!
 
 Proceed?</source>
-        <translation type="vanished">تنبیہ: یہ اس گروپ کے تمام رابطہ افراد کو اس سے غیرمتصل کرنے کا سبب بنے گا۔عمل پذیر کریں؟
+        <translation type="obsolete">تنبیہ: یہ اس گروپ کے تمام رابطہ افراد کو اس سے غیرمتصل کرنے کا سبب بنے گا۔عمل پذیر کریں؟
 
 عمل پذیر کریں؟</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
-        <translation type="vanished">رابطہ افراد فہرست میں ڈالے/اختیار دیں</translation>
+        <translation type="obsolete">رابطہ افراد فہرست میں ڈالے/اختیار دیں</translation>
     </message>
     <message>
         <source>Send Message To</source>
-        <translation type="vanished">پیغام بھیجیں بنام</translation>
+        <translation type="obsolete">پیغام بھیجیں بنام</translation>
     </message>
     <message>
         <source>Open Chat To</source>
-        <translation type="vanished">بات چیت دریچہ کھولیں بنام</translation>
+        <translation type="obsolete">بات چیت دریچہ کھولیں بنام</translation>
     </message>
     <message>
         <source>Open a Whiteboard To</source>
-        <translation type="vanished">سفید تختہ کھولیں بنام</translation>
+        <translation type="obsolete">سفید تختہ کھولیں بنام</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="vanished">حکم کا نفاذ کریں</translation>
+        <translation type="obsolete">حکم کا نفاذ کریں</translation>
     </message>
     <message>
         <source>Active Chats</source>
-        <translation type="vanished">زیر عمل بات چیت دریچے</translation>
+        <translation type="obsolete">زیر عمل بات چیت دریچے</translation>
     </message>
     <message>
         <source>Voice Call</source>
-        <translation type="vanished">آواز کال</translation>
+        <translation type="obsolete">آواز کال</translation>
     </message>
     <message>
         <source>Send &amp;File</source>
-        <translation type="vanished">مسل بھیجیں</translation>
+        <translation type="obsolete">مسل بھیجیں</translation>
     </message>
     <message>
         <source>Invite To</source>
-        <translation type="vanished">دعوت دیں بنام</translation>
+        <translation type="obsolete">دعوت دیں بنام</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="vanished">کوئی نہیں</translation>
+        <translation type="obsolete">کوئی نہیں</translation>
     </message>
     <message>
         <source>&amp;Create New...</source>
-        <translation type="vanished">نیا بنائیں...‏</translation>
+        <translation type="obsolete">نیا بنائیں...‏</translation>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation type="vanished">گروپ</translation>
+        <translation type="obsolete">گروپ</translation>
     </message>
     <message>
         <source>Log Off</source>
-        <translation type="vanished">لاگ آف کریں</translation>
+        <translation type="obsolete">لاگ آف کریں</translation>
     </message>
     <message>
         <source>Resend Authorization To</source>
-        <translation type="vanished">اختیار دہی پھر بھیجیں بنام</translation>
+        <translation type="obsolete">اختیار دہی پھر بھیجیں بنام</translation>
     </message>
     <message>
         <source>Rerequest Authorization From</source>
-        <translation type="vanished">اختیار دہی فرمائش از</translation>
+        <translation type="obsolete">اختیار دہی فرمائش از</translation>
     </message>
     <message>
         <source>Remove Authorization From</source>
-        <translation type="vanished">اختیار دہی ہٹائیں از</translation>
+        <translation type="obsolete">اختیار دہی ہٹائیں از</translation>
     </message>
     <message>
         <source>Authorization</source>
-        <translation type="vanished">اختیار دہی</translation>
+        <translation type="obsolete">اختیار دہی</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
-        <translation type="vanished">تصویر</translation>
+        <translation type="obsolete">تصویر</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation type="vanished">OpenPGP کلید تفویض کریں</translation>
+        <translation type="obsolete">OpenPGP کلید تفویض کریں</translation>
     </message>
     <message>
         <source>Unassign Open&amp;PGP Key</source>
-        <translation type="vanished">OpenPGP کلید غیر تفویض کریں</translation>
+        <translation type="obsolete">OpenPGP کلید غیر تفویض کریں</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation type="vanished">اختیار دیں</translation>
+        <translation type="obsolete">اختیار دیں</translation>
     </message>
     <message>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">مرسلہ اختیار دہی بنام &lt;b&gt;%1&lt;/b&gt;</translation>
+        <translation type="obsolete">مرسلہ اختیار دہی بنام &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Create New Group</source>
-        <translation type="vanished">نیا گروپ بنائیں</translation>
+        <translation type="obsolete">نیا گروپ بنائیں</translation>
     </message>
     <message>
         <source>Enter the new group name:</source>
-        <translation type="vanished">نیا گروپ نام داخل کریں:‏</translation>
+        <translation type="obsolete">نیا گروپ نام داخل کریں:‏</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">اضافہ کریں</translation>
+        <translation type="obsolete">اضافہ کریں</translation>
     </message>
     <message>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation type="vanished">رابطہ فرد فہرست میں اضافہ شدہ/اختیار دادہ</translation>
+        <translation type="obsolete">رابطہ فرد فہرست میں اضافہ شدہ/اختیار دادہ</translation>
     </message>
     <message>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">فرمائش کردہ اختیار دہی از &lt;b&gt;%1&lt;/b&gt;</translation>
+        <translation type="obsolete">فرمائش کردہ اختیار دہی از &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">ہٹائیں</translation>
+        <translation type="obsolete">ہٹائیں</translation>
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation type="vanished">کیا آپ یقیناً اختیار دہی ہٹانا چاہتے ہیں از‫ &lt;b&gt;%1&lt;/b&gt;‬؟</translation>
+        <translation type="obsolete">کیا آپ یقیناً اختیار دہی ہٹانا چاہتے ہیں از‫ &lt;b&gt;%1&lt;/b&gt;‬؟</translation>
     </message>
     <message>
         <source>Invitation</source>
-        <translation type="vanished">دعوت</translation>
+        <translation type="obsolete">دعوت</translation>
     </message>
     <message>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">مرسلہ گروپ بات چیت دعوت بنام &lt;b&gt;%1&lt;/b&gt;</translation>
+        <translation type="obsolete">مرسلہ گروپ بات چیت دعوت بنام &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
-        <translation type="vanished">کیا آپ یقیناً‫ &lt;b&gt;%1&lt;/b&gt; ‬کو اپنی رابطہ فرد فہرست سے ہٹانا چاہتے ہیں؟</translation>
+        <translation type="obsolete">کیا آپ یقیناً‫ &lt;b&gt;%1&lt;/b&gt; ‬کو اپنی رابطہ فرد فہرست سے ہٹانا چاہتے ہیں؟</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">نقص</translation>
+        <translation type="obsolete">نقص</translation>
     </message>
     <message>
         <source>You cannot set a blank name.</source>
-        <translation type="vanished">آپ خالی نام سیٹ نہیں کر سکتے۔</translation>
+        <translation type="obsolete">آپ خالی نام سیٹ نہیں کر سکتے۔</translation>
     </message>
     <message>
         <source>You cannot set a blank group name.</source>
-        <translation type="vanished">آپ خالی گروپ نام سیٹ نہیں کر سکتے۔</translation>
+        <translation type="obsolete">آپ خالی گروپ نام سیٹ نہیں کر سکتے۔</translation>
     </message>
     <message>
         <source>You already have a group with that name.</source>
-        <translation type="vanished">آپ کے پاس پہلے سے اس نام کے ساتھ ایک گروپ ہے۔</translation>
+        <translation type="obsolete">آپ کے پاس پہلے سے اس نام کے ساتھ ایک گروپ ہے۔</translation>
     </message>
 </context>
 <context>
     <name>ContactView</name>
     <message>
         <source>Hidden</source>
-        <translation type="vanished">پوشیدہ</translation>
+        <translation type="obsolete">پوشیدہ</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="vanished">پیغام بھیجیں</translation>
+        <translation type="obsolete">پیغام بھیجیں</translation>
     </message>
     <message>
         <source>Re&amp;name</source>
-        <translation type="vanished">نیا نام دیں</translation>
+        <translation type="obsolete">نیا نام دیں</translation>
     </message>
     <message>
         <source>&amp;Assign Custom Picture</source>
-        <translation type="vanished">مخصوص تصویر تفویض کریں</translation>
+        <translation type="obsolete">مخصوص تصویر تفویض کریں</translation>
     </message>
     <message>
         <source>&amp;Clear Custom Picture</source>
-        <translation type="vanished">مخصوص تصویر صاف کریں</translation>
+        <translation type="obsolete">مخصوص تصویر صاف کریں</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="vanished">بات چیت دریچہ کھولیں</translation>
+        <translation type="obsolete">بات چیت دریچہ کھولیں</translation>
     </message>
     <message>
         <source>Open a &amp;Whiteboard</source>
-        <translation type="vanished">سفید تختہ کھولیں</translation>
+        <translation type="obsolete">سفید تختہ کھولیں</translation>
     </message>
     <message>
         <source>&amp;History</source>
-        <translation type="vanished">سابقات</translation>
+        <translation type="obsolete">سابقات</translation>
     </message>
     <message>
         <source>&amp;Log on</source>
-        <translation type="vanished">لاگ آن کریں</translation>
+        <translation type="obsolete">لاگ آن کریں</translation>
     </message>
     <message>
         <source>&amp;Receive Incoming Event</source>
-        <translation type="vanished">موصولہ وقوعہ وصول کریں</translation>
+        <translation type="obsolete">موصولہ وقوعہ وصول کریں</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation type="vanished">ہٹائیں</translation>
+        <translation type="obsolete">ہٹائیں</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="vanished">صارف معلومات</translation>
+        <translation type="obsolete">صارف معلومات</translation>
     </message>
     <message>
         <source>Choose an Image</source>
-        <translation type="vanished">کوئی نقش انتخاب کریں</translation>
+        <translation type="obsolete">کوئی نقش انتخاب کریں</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="vanished">تمام مسلیں‫(*.png *.jpg *.gif)</translation>
+        <translation type="obsolete">تمام مسلیں‫(*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -3359,23 +3359,23 @@ Proceed?</source>
     <name>DiscoDlg::Private</name>
     <message>
         <source>Auto</source>
-        <translation type="vanished">خودکار</translation>
+        <translation type="obsolete">خودکار</translation>
     </message>
     <message>
         <source>Automatically determine protocol</source>
-        <translation type="vanished">پروٹوکول خودبخود تعین کریں</translation>
+        <translation type="obsolete">پروٹوکول خودبخود تعین کریں</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="vanished">خدمت دریافت</translation>
+        <translation type="obsolete">خدمت دریافت</translation>
     </message>
     <message>
         <source>Browse Services</source>
-        <translation type="vanished">براؤز خدمات</translation>
+        <translation type="obsolete">براؤز خدمات</translation>
     </message>
     <message>
         <source>Browse Agents</source>
-        <translation type="vanished">براؤز ایجنٹ</translation>
+        <translation type="obsolete">براؤز ایجنٹ</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -3498,11 +3498,11 @@ Proceed?</source>
     </message>
     <message>
         <source>There was an error browsing items for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation type="vanished">&lt;b&gt;‫%1‬&lt;/b&gt; کےلیے اشیا براؤز کرتے ہوئے ایک نقص تھا۔ &lt;br&gt;دلیل:%2</translation>
+        <translation type="obsolete">&lt;b&gt;‫%1‬&lt;/b&gt; کےلیے اشیا براؤز کرتے ہوئے ایک نقص تھا۔ &lt;br&gt;دلیل:%2</translation>
     </message>
     <message>
         <source>There was an error getting agents for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
-        <translation type="vanished">&lt;b&gt;‫%1‬&lt;/b&gt; کےلیے ایجنٹ حاصل کرتے ہوئے ایک نقص تھا۔ &lt;br&gt;دلیل:%2</translation>
+        <translation type="obsolete">&lt;b&gt;‫%1‬&lt;/b&gt; کےلیے ایجنٹ حاصل کرتے ہوئے ایک نقص تھا۔ &lt;br&gt;دلیل:%2</translation>
     </message>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
@@ -12875,18 +12875,18 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Choose an image</source>
-        <translation type="vanished">کوئی نقش انتخاب کریں</translation>
+        <translation type="obsolete">کوئی نقش انتخاب کریں</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="vanished">تمام مسلیں‫(*.png *.jpg *.gif)</translation>
+        <translation type="obsolete">تمام مسلیں‫(*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
     <name>PsiContactListViewDelegate</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="vanished">%1 (%2)</translation>
+        <translation type="obsolete">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -12901,7 +12901,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="vanished">بات چیت کریں</translation>
+        <translation type="obsolete">بات چیت کریں</translation>
     </message>
     <message>
         <source>&amp;History</source>
@@ -12909,31 +12909,31 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Pro&amp;file</source>
-        <translation type="vanished">پروفائل</translation>
+        <translation type="obsolete">پروفائل</translation>
     </message>
     <message>
         <source>&amp;Photos</source>
-        <translation type="vanished">تصویریں</translation>
+        <translation type="obsolete">تصویریں</translation>
     </message>
     <message>
         <source>Send &amp;E-mail</source>
-        <translation type="vanished">ای میل بھیجیں</translation>
+        <translation type="obsolete">ای میل بھیجیں</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">اضافہ کریں</translation>
+        <translation type="obsolete">اضافہ کریں</translation>
     </message>
     <message>
         <source>A&amp;uth</source>
-        <translation type="vanished">اختیار دیں</translation>
+        <translation type="obsolete">اختیار دیں</translation>
     </message>
     <message>
         <source>&amp;Block</source>
-        <translation type="vanished">بلاک کریں</translation>
+        <translation type="obsolete">بلاک کریں</translation>
     </message>
     <message>
         <source>Disable mood notifications</source>
-        <translation type="vanished">موڈ اعلانات نااہل بنائیں</translation>
+        <translation type="obsolete">موڈ اعلانات نااہل بنائیں</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
@@ -13005,7 +13005,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Unblock</source>
-        <translation type="vanished">ان بلاک کریں</translation>
+        <translation type="obsolete">ان بلاک کریں</translation>
     </message>
     <message>
         <source>Invitation</source>
@@ -14022,11 +14022,11 @@ Proceed?</source>
     </message>
     <message>
         <source>%1 Proxy</source>
-        <translation type="vanished">‫%1 پراکسی</translation>
+        <translation type="obsolete">‫%1 پراکسی</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation type="vanished">وقوعہ اعلان کنندہ</translation>
+        <translation type="obsolete">وقوعہ اعلان کنندہ</translation>
     </message>
     <message>
         <source>%1 says:</source>
@@ -15097,15 +15097,15 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RemoveConfirmationMessageBox</name>
     <message>
         <source>OK</source>
-        <translation type="vanished">ٹھیک ہے</translation>
+        <translation type="obsolete">ٹھیک ہے</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">حذف کریں</translation>
+        <translation type="obsolete">حذف کریں</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">منسوخ کریں</translation>
+        <translation type="obsolete">منسوخ کریں</translation>
     </message>
 </context>
 <context>

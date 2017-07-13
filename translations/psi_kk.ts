@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="kk">
+<TS version="2.0" language="kk">
 <context>
     <name>@default</name>
     <message>
@@ -82,7 +82,7 @@
     </message>
     <message>
         <source>Current Maintainer and Original Author</source>
-        <translation type="vanished">Ағымдағы мейнтейнер және бастапқы авторы</translation>
+        <translation type="obsolete">Ағымдағы мейнтейнер және бастапқы авторы</translation>
     </message>
     <message>
         <source>Past Lead Developer and Maintainer</source>
@@ -220,7 +220,7 @@ Join the translation team today! Go to
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
@@ -2606,7 +2606,7 @@ Note: To work correctly, the the Groupchat Toolbar must be enabled.</source>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="vanished">Ө&amp;шіру</translation>
+        <translation type="obsolete">Ө&amp;шіру</translation>
     </message>
     <message>
         <source>Remove Group</source>
@@ -2662,33 +2662,33 @@ Proceed?</source>
     <name>ContactListModel</name>
     <message>
         <source>Error</source>
-        <translation type="vanished">Қате</translation>
+        <translation type="obsolete">Қате</translation>
     </message>
 </context>
 <context>
     <name>ContactListSpecialGroup</name>
     <message>
         <source>General</source>
-        <translation type="vanished">Жалпы</translation>
+        <translation type="obsolete">Жалпы</translation>
     </message>
     <message>
         <source>Not in List</source>
-        <translation type="vanished">Тізімде емес</translation>
+        <translation type="obsolete">Тізімде емес</translation>
     </message>
 </context>
 <context>
     <name>ContactListUtil</name>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Өшіру</translation>
+        <translation type="obsolete">Өшіру</translation>
     </message>
     <message>
         <source>Block</source>
-        <translation type="vanished">Блоктау</translation>
+        <translation type="obsolete">Блоктау</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="vanished">%1 (%2)</translation>
+        <translation type="obsolete">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -2867,7 +2867,7 @@ Proceed?</source>
     </message>
     <message>
         <source>Not in list</source>
-        <translation type="vanished">Тізімде емес</translation>
+        <translation type="obsolete">Тізімде емес</translation>
     </message>
     <message>
         <source>Agents/Transports</source>
@@ -2875,202 +2875,202 @@ Proceed?</source>
     </message>
     <message>
         <source>Online Users</source>
-        <translation type="vanished">Желідегі пайдаланушылар</translation>
+        <translation type="obsolete">Желідегі пайдаланушылар</translation>
     </message>
     <message>
         <source>Send Server Message</source>
-        <translation type="vanished">Сервер хабарламасын жіберу</translation>
+        <translation type="obsolete">Сервер хабарламасын жіберу</translation>
     </message>
     <message>
         <source>Set MOTD</source>
-        <translation type="vanished">MOTD орнату</translation>
+        <translation type="obsolete">MOTD орнату</translation>
     </message>
     <message>
         <source>Update MOTD</source>
-        <translation type="vanished">MOTD жаңарту</translation>
+        <translation type="obsolete">MOTD жаңарту</translation>
     </message>
     <message>
         <source>Delete MOTD</source>
-        <translation type="vanished">MOTD өшіру</translation>
+        <translation type="obsolete">MOTD өшіру</translation>
     </message>
     <message>
         <source>&amp;Status</source>
-        <translation type="vanished">Қалы&amp;п-күйі</translation>
+        <translation type="obsolete">Қалы&amp;п-күйі</translation>
     </message>
     <message>
         <source>Mood</source>
-        <translation type="vanished">Көңіл-күй</translation>
+        <translation type="obsolete">Көңіл-күй</translation>
     </message>
     <message>
         <source>Set Avatar</source>
-        <translation type="vanished">Аватарды орнату</translation>
+        <translation type="obsolete">Аватарды орнату</translation>
     </message>
     <message>
         <source>Unset Avatar</source>
-        <translation type="vanished">Аватарды тастау</translation>
+        <translation type="obsolete">Аватарды тастау</translation>
     </message>
     <message>
         <source>Avatar</source>
-        <translation type="vanished">Аватар</translation>
+        <translation type="obsolete">Аватар</translation>
     </message>
     <message>
         <source>Manage...</source>
-        <translation type="vanished">Басқару...</translation>
+        <translation type="obsolete">Басқару...</translation>
     </message>
     <message>
         <source>Join %1</source>
-        <translation type="vanished">Кіру: %1</translation>
+        <translation type="obsolete">Кіру: %1</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="vanished">Бетбелгілер</translation>
+        <translation type="obsolete">Бетбелгілер</translation>
     </message>
     <message>
         <source>&amp;Add a Contact</source>
-        <translation type="vanished">Контактты қо&amp;су</translation>
+        <translation type="obsolete">Контактты қо&amp;су</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
-        <translation type="vanished">Қызметтерді ш&amp;олу</translation>
+        <translation type="obsolete">Қызметтерді ш&amp;олу</translation>
     </message>
     <message>
         <source>New &amp;Blank Message</source>
-        <translation type="vanished">Жаңа &amp;бос хабарлама</translation>
+        <translation type="obsolete">Жаңа &amp;бос хабарлама</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation type="vanished">XML ко&amp;нсолі</translation>
+        <translation type="obsolete">XML ко&amp;нсолі</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
-        <translation type="vanished">Тіркелгіні тү&amp;зету...</translation>
+        <translation type="obsolete">Тіркелгіні тү&amp;зету...</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
-        <translation type="vanished">Ә&amp;кімші</translation>
+        <translation type="obsolete">Ә&amp;кімші</translation>
     </message>
     <message>
         <source>Send Message to Group</source>
-        <translation type="vanished">Топқа хабарламаны жіберу</translation>
+        <translation type="obsolete">Топқа хабарламаны жіберу</translation>
     </message>
     <message>
         <source>Remove Group</source>
-        <translation type="vanished">Топты өшіру</translation>
+        <translation type="obsolete">Топты өшіру</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
-        <translation type="vanished">Топ пен контакттарды өшіру</translation>
+        <translation type="obsolete">Топ пен контакттарды өшіру</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="vanished">Жасыру</translation>
+        <translation type="obsolete">Жасыру</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Иә</translation>
+        <translation type="obsolete">&amp;Иә</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="vanished">Ж&amp;оқ</translation>
+        <translation type="obsolete">Ж&amp;оқ</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
-        <translation type="vanished">Контакттар тізіміне қосу/авторизациялау</translation>
+        <translation type="obsolete">Контакттар тізіміне қосу/авторизациялау</translation>
     </message>
     <message>
         <source>Send Message To</source>
-        <translation type="vanished">Хабарламаны жіберу:</translation>
+        <translation type="obsolete">Хабарламаны жіберу:</translation>
     </message>
     <message>
         <source>Open Chat To</source>
-        <translation type="vanished">Сөйлесуді ашу:</translation>
+        <translation type="obsolete">Сөйлесуді ашу:</translation>
     </message>
     <message>
         <source>E&amp;xecute Command</source>
-        <translation type="vanished">Команданы ор&amp;ындау</translation>
+        <translation type="obsolete">Команданы ор&amp;ындау</translation>
     </message>
     <message>
         <source>Active Chats</source>
-        <translation type="vanished">Белсенді чаттар</translation>
+        <translation type="obsolete">Белсенді чаттар</translation>
     </message>
     <message>
         <source>Send &amp;File</source>
-        <translation type="vanished">Фа&amp;йлды жіберу</translation>
+        <translation type="obsolete">Фа&amp;йлды жіберу</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="vanished">&amp;Ешнәрсе</translation>
+        <translation type="obsolete">&amp;Ешнәрсе</translation>
     </message>
     <message>
         <source>&amp;Create New...</source>
-        <translation type="vanished">Жаңа&amp;сын жасау...</translation>
+        <translation type="obsolete">Жаңа&amp;сын жасау...</translation>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation type="vanished">&amp;Топ</translation>
+        <translation type="obsolete">&amp;Топ</translation>
     </message>
     <message>
         <source>&amp;Picture</source>
-        <translation type="vanished">&amp;Сурет</translation>
+        <translation type="obsolete">&amp;Сурет</translation>
     </message>
     <message>
         <source>Assign Open&amp;PGP Key</source>
-        <translation type="vanished">OpenPGP &amp;кілтін орнату</translation>
+        <translation type="obsolete">OpenPGP &amp;кілтін орнату</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Қосу</translation>
+        <translation type="obsolete">Қосу</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Өшіру</translation>
+        <translation type="obsolete">Өшіру</translation>
     </message>
     <message>
         <source>Invitation</source>
-        <translation type="vanished">Шақыру</translation>
+        <translation type="obsolete">Шақыру</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Қате</translation>
+        <translation type="obsolete">Қате</translation>
     </message>
 </context>
 <context>
     <name>ContactView</name>
     <message>
         <source>Hidden</source>
-        <translation type="vanished">Жасырын</translation>
+        <translation type="obsolete">Жасырын</translation>
     </message>
     <message>
         <source>Send &amp;Message</source>
-        <translation type="vanished">Хабарла&amp;маны жіберу</translation>
+        <translation type="obsolete">Хабарла&amp;маны жіберу</translation>
     </message>
     <message>
         <source>Re&amp;name</source>
-        <translation type="vanished">Аты&amp;н ауыстыру</translation>
+        <translation type="obsolete">Аты&amp;н ауыстыру</translation>
     </message>
     <message>
         <source>Open &amp;Chat Window</source>
-        <translation type="vanished">&amp;Чат терезесін ашу</translation>
+        <translation type="obsolete">&amp;Чат терезесін ашу</translation>
     </message>
     <message>
         <source>&amp;History</source>
-        <translation type="vanished">Та&amp;рихы</translation>
+        <translation type="obsolete">Та&amp;рихы</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation type="vanished">Ө&amp;шіру</translation>
+        <translation type="obsolete">Ө&amp;шіру</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
-        <translation type="vanished">Пайдаланушы ақ&amp;параты</translation>
+        <translation type="obsolete">Пайдаланушы ақ&amp;параты</translation>
     </message>
     <message>
         <source>Choose an Image</source>
-        <translation type="vanished">Суретті таңдаңыз</translation>
+        <translation type="obsolete">Суретті таңдаңыз</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="vanished">Барлық файлдар (*.png *.jpg *.gif)</translation>
+        <translation type="obsolete">Барлық файлдар (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
@@ -3169,11 +3169,11 @@ Proceed?</source>
     <name>DiscoDlg::Private</name>
     <message>
         <source>Auto</source>
-        <translation type="vanished">Авто</translation>
+        <translation type="obsolete">Авто</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="vanished">Қызметтерді шолу</translation>
+        <translation type="obsolete">Қызметтерді шолу</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -3296,7 +3296,7 @@ Proceed?</source>
     </message>
     <message>
         <source>XMPP Service</source>
-        <translation type="vanished">XMPP қызметі</translation>
+        <translation type="obsolete">XMPP қызметі</translation>
     </message>
     <message>
         <source>There was an error getting item&apos;s info for &lt;b&gt;%1&lt;/b&gt;.&lt;br&gt;Reason: %2</source>
@@ -4641,7 +4641,7 @@ Reason: %3</source>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</source>
-        <translation type="vanished">Суреттер (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
+        <translation type="obsolete">Суреттер (*.png *.xpm *.jpg *.jpeg *.PNG *.XPM *.JPG *.JPEG)</translation>
     </message>
     <message>
         <source>Images (*.png *.xpm *.jpg *.jpeg *.webp *.PNG *.XPM *.JPG *.JPEG *.WEBP)</source>
@@ -12647,18 +12647,18 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>Choose an image</source>
-        <translation type="vanished">Суретті таңдаңыз</translation>
+        <translation type="obsolete">Суретті таңдаңыз</translation>
     </message>
     <message>
         <source>All files (*.png *.jpg *.gif)</source>
-        <translation type="vanished">Барлық файлдар (*.png *.jpg *.gif)</translation>
+        <translation type="obsolete">Барлық файлдар (*.png *.jpg *.gif)</translation>
     </message>
 </context>
 <context>
     <name>PsiContactListViewDelegate</name>
     <message>
         <source>%1 (%2)</source>
-        <translation type="vanished">%1 (%2)</translation>
+        <translation type="obsolete">%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -12673,7 +12673,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Chat</source>
-        <translation type="vanished">&amp;Чат</translation>
+        <translation type="obsolete">&amp;Чат</translation>
     </message>
     <message>
         <source>&amp;History</source>
@@ -12681,19 +12681,19 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Photos</source>
-        <translation type="vanished">&amp;Фотолар</translation>
+        <translation type="obsolete">&amp;Фотолар</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="vanished">Қо&amp;су</translation>
+        <translation type="obsolete">Қо&amp;су</translation>
     </message>
     <message>
         <source>&amp;Block</source>
-        <translation type="vanished">&amp;Блоктау</translation>
+        <translation type="obsolete">&amp;Блоктау</translation>
     </message>
     <message>
         <source>Disable mood notifications</source>
-        <translation type="vanished">Көңіл-күй туралы хабарлауды сөндіру</translation>
+        <translation type="obsolete">Көңіл-күй туралы хабарлауды сөндіру</translation>
     </message>
     <message>
         <source>Add/Authorize to Contact List</source>
@@ -12781,7 +12781,7 @@ Migration is possible with Psi-0.15</source>
     </message>
     <message>
         <source>&amp;Unblock</source>
-        <translation type="vanished">Блок&amp;таудан босату</translation>
+        <translation type="obsolete">Блок&amp;таудан босату</translation>
     </message>
     <message>
         <source>Invitation</source>
@@ -13146,15 +13146,15 @@ Would you like to activate that session now?</source>
     <name>PsiRosterWidget</name>
     <message>
         <source>Remove Group</source>
-        <translation type="vanished">Топты өшіру</translation>
+        <translation type="obsolete">Топты өшіру</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Иә</translation>
+        <translation type="obsolete">&amp;Иә</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="vanished">Ж&amp;оқ</translation>
+        <translation type="obsolete">Ж&amp;оқ</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -14418,7 +14418,7 @@ Password: %5</source>
     </message>
     <message>
         <source>%1 Proxy</source>
-        <translation type="vanished">%1 прокси</translation>
+        <translation type="obsolete">%1 прокси</translation>
     </message>
     <message>
         <source> is typing...</source>
@@ -14843,15 +14843,15 @@ The first time you install this plugin, you need to log on to all of your accoun
     <name>RemoveConfirmationMessageBox</name>
     <message>
         <source>OK</source>
-        <translation type="vanished">ОК</translation>
+        <translation type="obsolete">ОК</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="vanished">Өшіру</translation>
+        <translation type="obsolete">Өшіру</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="vanished">Бас тарту</translation>
+        <translation type="obsolete">Бас тарту</translation>
     </message>
 </context>
 <context>

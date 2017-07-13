@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="fi">
+<TS version="2.0" language="fi">
 <context>
     <name>@default</name>
     <message>
@@ -216,7 +216,7 @@ Join the translation team today! Go to
 https://github.com/psi-plus/psi-plus-l10n&lt;/a&gt; for further details!</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
+    <message utf8="true">
         <source>A cross-platform XMPP client designed for the power user.&lt;br&gt;
 &lt;br&gt;
 Copyright © 2001-2017 The Psi Team.&lt;br&gt;
@@ -2847,7 +2847,7 @@ Jatka?</translation>
     </message>
     <message>
         <source>Not in list</source>
-        <translation type="vanished">Ei listalla</translation>
+        <translation type="obsolete">Ei listalla</translation>
     </message>
     <message>
         <source>Agents/Transports</source>
@@ -2855,166 +2855,166 @@ Jatka?</translation>
     </message>
     <message>
         <source>Private Messages</source>
-        <translation type="vanished">Yksityisviestit</translation>
+        <translation type="obsolete">Yksityisviestit</translation>
     </message>
     <message>
         <source>Online Users</source>
-        <translation type="vanished">Linjoilla olevat käyttäjät</translation>
+        <translation type="obsolete">Linjoilla olevat käyttäjät</translation>
     </message>
     <message>
         <source>Set MOTD</source>
-        <translation type="vanished">Aseta MOTD</translation>
+        <translation type="obsolete">Aseta MOTD</translation>
     </message>
     <message>
         <source>Update MOTD</source>
-        <translation type="vanished">Päivitä MOTD</translation>
+        <translation type="obsolete">Päivitä MOTD</translation>
     </message>
     <message>
         <source>Delete MOTD</source>
-        <translation type="vanished">Poista MOTD</translation>
+        <translation type="obsolete">Poista MOTD</translation>
     </message>
     <message>
         <source>&amp;Status</source>
-        <translation type="vanished">Ti&amp;la</translation>
+        <translation type="obsolete">Ti&amp;la</translation>
     </message>
     <message>
         <source>Service &amp;Discovery</source>
-        <translation type="vanished">&amp;Palveluiden löytäminen</translation>
+        <translation type="obsolete">&amp;Palveluiden löytäminen</translation>
     </message>
     <message>
         <source>&amp;XML Console</source>
-        <translation type="vanished">&amp;XML-konsoli</translation>
+        <translation type="obsolete">&amp;XML-konsoli</translation>
     </message>
     <message>
         <source>&amp;Modify Account...</source>
-        <translation type="vanished">&amp;Muokkaa tunnusta...</translation>
+        <translation type="obsolete">&amp;Muokkaa tunnusta...</translation>
     </message>
     <message>
         <source>&amp;Admin</source>
-        <translation type="vanished">&amp;Ylläpito</translation>
+        <translation type="obsolete">&amp;Ylläpito</translation>
     </message>
     <message>
         <source>Remove Group</source>
-        <translation type="vanished">Poista ryhmä</translation>
+        <translation type="obsolete">Poista ryhmä</translation>
     </message>
     <message>
         <source>Remove Group and Contacts</source>
-        <translation type="vanished">Poista ryhmä ja siinä olevat yhteystiedot</translation>
+        <translation type="obsolete">Poista ryhmä ja siinä olevat yhteystiedot</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="vanished">Piilota</translation>
+        <translation type="obsolete">Piilota</translation>
     </message>
     <message>
         <source>This will cause all contacts in this group to be disassociated with it.
 
 Proceed?</source>
-        <translation type="vanished">Tämä aiheuttaa kaikkien tässä ryhmässä olevien yhteystietojen irtautumisen siitä.
+        <translation type="obsolete">Tämä aiheuttaa kaikkien tässä ryhmässä olevien yhteystietojen irtautumisen siitä.
 
 Jatka?</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation type="vanished">&amp;Kyllä</translation>
+        <translation type="obsolete">&amp;Kyllä</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation type="vanished">&amp;Ei</translation>
+        <translation type="obsolete">&amp;Ei</translation>
     </message>
     <message>
         <source>WARNING!  This will remove all contacts associated with this group!
 
 Proceed?</source>
-        <translation type="vanished">VAROITUS! Tämä poistaa kaikki tähän ryhmään kuuluvat yhteystiedot!
+        <translation type="obsolete">VAROITUS! Tämä poistaa kaikki tähän ryhmään kuuluvat yhteystiedot!
 
 Jatka?</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation type="vanished">&amp;Ei mitään</translation>
+        <translation type="obsolete">&amp;Ei mitään</translation>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation type="vanished">&amp;Ryhmä</translation>
+        <translation type="obsolete">&amp;Ryhmä</translation>
     </message>
     <message>
         <source>Authorization</source>
-        <translation type="vanished">Lupa</translation>
+        <translation type="obsolete">Lupa</translation>
     </message>
     <message>
         <source>Authorize</source>
-        <translation type="vanished">Anna lupa</translation>
+        <translation type="obsolete">Anna lupa</translation>
     </message>
     <message>
         <source>Sent authorization to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">Lähetä lupa &lt;b&gt;%1&lt;/b&gt;:lle.</translation>
+        <translation type="obsolete">Lähetä lupa &lt;b&gt;%1&lt;/b&gt;:lle.</translation>
     </message>
     <message>
         <source>Create New Group</source>
-        <translation type="vanished">Luo uusi ryhmä</translation>
+        <translation type="obsolete">Luo uusi ryhmä</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="vanished">Lisää</translation>
+        <translation type="obsolete">Lisää</translation>
     </message>
     <message>
         <source>Added/Authorized &lt;b&gt;%1&lt;/b&gt; to the contact list.</source>
-        <translation type="vanished">&lt;b&gt;%1&lt;/b&gt; lisätty listalle/annettu lupa.</translation>
+        <translation type="obsolete">&lt;b&gt;%1&lt;/b&gt; lisätty listalle/annettu lupa.</translation>
     </message>
     <message>
         <source>Rerequested authorization from &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">Pyydetty lupaa uudelleen &lt;b&gt;%1&lt;/b&gt;:ltä.</translation>
+        <translation type="obsolete">Pyydetty lupaa uudelleen &lt;b&gt;%1&lt;/b&gt;:ltä.</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="vanished">Poista</translation>
+        <translation type="obsolete">Poista</translation>
     </message>
     <message>
         <source>Are you sure you want to remove authorization from &lt;b&gt;%1&lt;/b&gt;?</source>
-        <translation type="vanished">Oletko varma, että tahdot poistaa luvan &lt;b&gt;%1&lt;/b&gt;:ltä?</translation>
+        <translation type="obsolete">Oletko varma, että tahdot poistaa luvan &lt;b&gt;%1&lt;/b&gt;:ltä?</translation>
     </message>
     <message>
         <source>Invitation</source>
-        <translation type="vanished">Kutsu</translation>
+        <translation type="obsolete">Kutsu</translation>
     </message>
     <message>
         <source>Sent groupchat invitation to &lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="vanished">Lähetä ryhmäkeskustelukutsu &lt;b&gt;%1&lt;/b&gt;:lle.</translation>
+        <translation type="obsolete">Lähetä ryhmäkeskustelukutsu &lt;b&gt;%1&lt;/b&gt;:lle.</translation>
     </message>
     <message>
         <source>Are you sure you want to remove &lt;b&gt;%1&lt;/b&gt; from your contact list?</source>
-        <translation type="vanished">Oletko varma, että tahdot poistaa &lt;b&gt;%1&lt;/b&gt;:n listaltasi?</translation>
+        <translation type="obsolete">Oletko varma, että tahdot poistaa &lt;b&gt;%1&lt;/b&gt;:n listaltasi?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="vanished">Virhe</translation>
+        <translation type="obsolete">Virhe</translation>
     </message>
     <message>
         <source>You already have a group with that name.</source>
-        <translation type="vanished">Sinulla on jo sen niminen ryhmä.</translation>
+        <translation type="obsolete">Sinulla on jo sen niminen ryhmä.</translation>
     </message>
 </context>
 <context>
     <name>ContactView</name>
     <message>
         <source>Hidden</source>
-        <translation type="vanished">Piilotettu</translation>
+        <translation type="obsolete">Piilotettu</translation>
     </message>
     <message>
         <source>Re&amp;name</source>
-        <translation type="vanished">Uudelleen&amp;nimeä</translation>
+        <translation type="obsolete">Uudelleen&amp;nimeä</translation>
     </message>
     <message>
         <source>&amp;History</source>
-        <translation type="vanished">&amp;Historia</translation>
+        <translation type="obsolete">&amp;Historia</translation>
     </message>
     <message>
         <source>&amp;Log on</source>
-        <translation type="vanished">&amp;Kirjaudu sisään</translation>
+        <translation type="obsolete">&amp;Kirjaudu sisään</translation>
     </message>
     <message>
         <source>Rem&amp;ove</source>
-        <translation type="vanished">&amp;Poista</translation>
+        <translation type="obsolete">&amp;Poista</translation>
     </message>
     <message>
         <source>User &amp;Info</source>
@@ -3117,23 +3117,23 @@ Jatka?</translation>
     <name>DiscoDlg::Private</name>
     <message>
         <source>Auto</source>
-        <translation type="vanished">Automaattinen</translation>
+        <translation type="obsolete">Automaattinen</translation>
     </message>
     <message>
         <source>Automatically determine protocol</source>
-        <translation type="vanished">Määrittele protokolla automaattisesti</translation>
+        <translation type="obsolete">Määrittele protokolla automaattisesti</translation>
     </message>
     <message>
         <source>Service Discovery</source>
-        <translation type="vanished">Palveluiden löytäminen</translation>
+        <translation type="obsolete">Palveluiden löytäminen</translation>
     </message>
     <message>
         <source>Browse Services</source>
-        <translation type="vanished">Selaa palveluita</translation>
+        <translation type="obsolete">Selaa palveluita</translation>
     </message>
     <message>
         <source>Browse Agents</source>
-        <translation type="vanished">Selaa agentteja</translation>
+        <translation type="obsolete">Selaa agentteja</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -13246,11 +13246,11 @@ Jatka?</translation>
     </message>
     <message>
         <source>%1 Proxy</source>
-        <translation type="vanished">%1 Välityspalvelin</translation>
+        <translation type="obsolete">%1 Välityspalvelin</translation>
     </message>
     <message>
         <source>Event notifier</source>
-        <translation type="vanished">Tapahtumailmoitin</translation>
+        <translation type="obsolete">Tapahtumailmoitin</translation>
     </message>
     <message>
         <source>Subscription</source>
