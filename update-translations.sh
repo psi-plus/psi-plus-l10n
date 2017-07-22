@@ -3,11 +3,11 @@
 # Author:  Boris Pek <tehnick-8@yandex.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2017-06-16
+# Updated: 2017-07-23
 # Version: N/A
 
 export CUR_DIR="$(dirname $(realpath -s ${0}))"
-export MAIN_DIR="${CUR_DIR}/.."
+export MAIN_DIR="$(realpath -s ${CUR_DIR}/..)"
 export PSIPLUS_DIR="${MAIN_DIR}/psi-plus-snapshots"
 
 cd "${CUR_DIR}" || exit 1
