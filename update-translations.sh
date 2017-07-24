@@ -3,7 +3,7 @@
 # Author:  Boris Pek <tehnick-8@yandex.ru>
 # License: GPLv2 or later
 # Created: 2012-03-24
-# Updated: 2017-07-23
+# Updated: 2017-07-24
 # Version: N/A
 
 export CUR_DIR="$(dirname $(realpath -s ${0}))"
@@ -222,7 +222,7 @@ case "${1}" in
     elif [ "${2}" = "src" ] ; then
         tx push -s || exit 1
     elif [ "${2}" = "all" ] ; then
-        tx push -s -t || exit 1
+        tx push -s -t --skip || exit 1
     else
         tx push -t -l ${2} || exit 1
     fi
